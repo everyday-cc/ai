@@ -8,8 +8,8 @@ webUrl: "https://www.nbcbayarea.com/news/local/uc-berkeley-professor-artificial-
 ampWebUrl: "https://www.nbcbayarea.com/news/local/uc-berkeley-professor-artificial-intelligence-domestic-violence/3336053/?amp=1"
 cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/uc-berkeley-professor-artificial-intelligence-domestic-violence/3336053/?amp=1"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.nbcbayarea.com/2023/10/UC-Berkeley-professor-using-artificial-intelligence-to-help-identify-domestic-violence.jpg?quality=85&strip=all&resize=1200%2C675"

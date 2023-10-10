@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-09T23:00:00Z
 originalUrl: "https://abc7chicago.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
 webUrl: "https://abc7chicago.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600"
@@ -100,6 +101,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "LP+Cq1kl6g8nBpBcHmFBOaF9OJ60LREnFsscETFK22eNAIbm7HTZQpvNjeWg0L4Jepr6zFq3CqbI1sRyR9y5TZeYZmWbiItaBbSq4C5E0+KPvOExuiCvIlUQmG2P4bMVJ+V1AxAWVe4DnWYhi1xcW7cXEgI2qO02a6DHiFiVzkWDef9404Epp1JZB5qI2Bmn0W0sgB+yaUEsd29pG5wC/J7Qk2i8tUgnGZ0ueD8oVDsJvbSThQ/PJaXKxNo6iZMvkgEvXEG5LgGK69NOTjjkTF9tcjMYRQiF0nLCjBbU/TlAjTN5fPyiNUTjObBpJlnRzgoSd8yTsq11fJonJuO3/YadlOedhDJKlrNteziRRzg=;w1R+Y+XcjJlROi+XOYE8pw=="
+secured: "JMjJDFvV0dHsFEDIyi7+3b5+6pZoU4gskSgcWOlUJmMtXbFBmEpBstrFirxcLOLquf64IArK0dCA1MK7ycMVhwZ67oBZq2tLmuDkuGs01NiyfI7mojOawUm1vAcXaxPYKCeMiLRfIx222ohU6lhMd6qCsmlF7XD6xr7LPRWBznIWSQtylXl/6wLndv+c950QLhncnS6j1G2F47SPb82ioBg8wmshUNJy+WjcK7bBbIu22McYrdlXGmHYsHl0L7461oF9y6QmSgMPZug1x/9M2gAS4QE9k1ZPDHfw2OaqUKA42lqsifMofc+PxL6oUfCp9sYvxjTeIC7DNc6a/+IxSAAq7xbhqXvXBCG3GODK2PHEQoFpjZdWuqIjsh+YYik6y1VEkNERkiphBcbK88XBtVI61ZAWETSfkPBQCiEWWLQ2BxEaI2xcS/dedWkzAO5ftM91qcvUvVIRzisjsbuft/c+gDxmNK6oi+ODxWKeBxMujSLdy7sasg7KcFB6nIlkCzY6bCfE34qmK1P9dknErA==;XDt55tRvCS3RJwir7C0MUw=="
 ---
 

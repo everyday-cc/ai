@@ -94,7 +94,7 @@ related:
     provider:
       name: ABC 7 Chicago
       domain: abc7chicago.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600"
         width: 1600

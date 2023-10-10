@@ -2,6 +2,238 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2023-09-20-ai-startup-speeds-up-the-creation-of-climate-resilient-crops.md",
+      "title": "AI startup speeds up the creation of climate-resilient crops",
+      "excerpt": "Avalo is betting its machine learning models can speed up the process of creating climate-resilient crops, and make it way cheaper too.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/",
+      "originalUrl": "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/avalo.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/ai-startup-speeds-up-the-creation-of-climate-resilient-crops/amp/",
+      "publishedDateTime": "2023-09-19T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-you-and-ai-techs-role-in-the-world-of-health-care.md",
+      "title": "You and AI: Tech's role in the world of health care",
+      "excerpt": "“Artificial intelligence, it can be a great friend, but it also can be something that can harm us,” said Dr. Marshall Chin, Richard Parrillo Family Professor of Healthcare Ethics in the Department of Medicine at the University of Chicago. Chin is an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/",
+      "originalUrl": "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcchicago.com/2023/09/web-health-ai-9-19.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/examing-you-and-ai/you-and-ai-techs-role-in-the-world-of-health-care/3231810/?amp=1",
+      "publishedDateTime": "2023-09-19T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Chicago",
+        "domain": "nbcchicago.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-tiktok-to-more-clearly-label-videos-that-are-ai-generated.md",
+      "title": "TikTok to More Clearly Label Videos That Are AI-Generated",
+      "excerpt": "TikTok is creating a new set of labels for videos that use AI and says it improved its algorithm when it comes to automatically tagging videos as AI-generated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/tiktok-to-more-clearly-label-videos-that-are-ai-generated",
+      "originalUrl": "https://www.pcmag.com/news/tiktok-to-more-clearly-label-videos-that-are-ai-generated",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04SY1CQxofUAEiWDQdOHbxU-1.fit_lim.size_1200x630.v1695160604.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-facial-recognition-market-size-report-2023-2031-124-pages-report.md",
+      "title": "Facial Recognition Market Size Report 2023-2031 | 124 Pages Report",
+      "excerpt": "Global \"Facial Recognition Market\" offers a detailed Report of |124 Pages| which is expected to witness remarkable growth in the coming years. The implementation of new technologies and innovative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34732462/facial-recognition-market-size-report-2023-2031-124-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34732462/facial-recognition-market-size-report-2023-2031-124-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study.md",
+      "title": "Telling AI model to “take a deep breath” causes math scores to soar in study",
+      "excerpt": "Rather than relying on formal mathematical definitions to perform this task, OPRO uses \"meta-prompts\" described in natural language to set the stage for the optimization process. The LLM then generates candidate solutions based on the problem’s description and previous solutions, and it tests them by assigning each a quality score.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/worried_robot_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/amp/",
+      "publishedDateTime": "2023-09-19T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-5-ways-to-incorporate-ai-into-your-career-plans.md",
       "title": "5 Ways To Incorporate AI Into Your Career Plans",
       "excerpt": "If you want to stay relevant to your company’s strategy and put yourself in line for raises and promotions, you'll need AI skills and experience.",
@@ -996,228 +1228,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential.md",
-      "title": "Google DeepMind AI tool assesses DNA mutations for harm potential",
-      "excerpt": "AlphaMissense’s predictions could help speed up research and diagnosis of rare disorders",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com",
-      "originalUrl": "https://www.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4c6258a0cff6a8e46a7aac80ed8df1f40154d29a/0_348_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=59f837b7f550661af354893c9b7b290f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/sep/19/google-deepmind-ai-tool-assesses-dna-mutations-for-harm-potential",
-      "publishedDateTime": "2023-09-19T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-observing-camunda-environments-with-ibm-instana-business-monitoring.md",
-      "title": "Observing Camunda environments with IBM Instana Business Monitoring",
-      "excerpt": "Combining a process orchestration solution like Camunda with an observability solution like IBM Instana can break down silos and react faster.\nThe post Observing Camunda environments with IBM Instana Business Monitoring appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
-      "originalUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T06:02:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-buying-apm-was-a-good-decision-so-is-getting-rid-of-it.md",
-      "title": "Buying APM was a good decision (so is getting rid of it)",
-      "excerpt": "Today’s app environments demand an observability solution that provides real-time monitoring of containers, microservices and Kubernetes environments.\nThe post Buying APM was a good decision (so is getting rid of it) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
-      "originalUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T05:58:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031.md",
-      "title": "Data and AI Ethics Market Outlook with Industry Expansion Strategies till 2031",
-      "excerpt": "Data and AI Ethics Market Snapshot: In this report analysis, we conduct a comprehensive examination of the Data and AI Ethics Market, breaking it down into various segments such as size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34726647/data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34726647/data-and-ai-ethics-market-outlook-with-industry-expansion-strategies-till-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34726647",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34726647",
-      "publishedDateTime": "2023-09-19T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems.md",
-      "title": "Chan Zuckerberg Science To Build AI GPU Cluster To Model Cell Systems",
-      "excerpt": "\"AI is creating new opportunities in biomedicine ... especially academic research institutions. The CZI-funded GPU cluster will be one of the first to power openly available models of human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34725290",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34725290",
-      "publishedDateTime": "2023-09-19T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

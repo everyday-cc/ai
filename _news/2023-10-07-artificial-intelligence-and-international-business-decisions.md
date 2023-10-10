@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-06T18:01:00Z
 originalUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
 webUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
 type: article
-quality: 47
+quality: 71
 heat: -1
 published: false
 
@@ -20,6 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65204b43fb9653854c333c0d/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Survey: Challenges and Solutions in Generative AI Adoption"
@@ -36,6 +44,20 @@ related:
         width: 270
         height: 203
         isCached: true
+  - title: "Get AI for Content Generation, Image Creation, and More for $80"
+    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
+    publishedDateTime: 2023-10-09T16:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Processor and Software Innovations Empower Edge AI Applications"
     excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
     publishedDateTime: 2023-10-09T14:36:00Z
@@ -51,6 +73,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ESrIjBURnWMvVX1AUkpo0KRiGl6DSPIbNqZQE1Ghm1aXDS7rZgJRZaZreA6zpGkptIGl4KsSP2eG3VGos0OoKla8PkWqZqzRIW2ha4Vs2KY49Vow4jwT+cRlGzlZ18jdmsc3vcn8PdIt6EjZ/2V3SEwAOOE/9LN7+zIbqV6N1r6RYjRRFB144UqrrsC0GZ8CcsnAanpljqthRhBADPmzXtnmAV2/6PuF3zXLEUvRGgkjnut/4w5j8SbDFQLZiUrIziX/1ZDqshTp+5dQixtr6ddKPy8S9UvbO1YbMafCWJ71nE/oGMnwyvtLFAQ5KuKwhdXfYupgxWzwyNnjgBgOgIk0MhZjSFgzEkKitynmxjD2U9t3e6f/9YjMP4bDVEjpYB51VU4YwFYXeaDN03y6czcnsVViEEsA7Z4KctcumX2KEvG1Rqyqlg7D1k77RjY2yB0qSUphI5S2k8ZODE+nW45Ek/EKUdevcquYlwvIm5tN/pe5jeqkQunKoDa+mjkTmNxFltSTe2hq+WYlQvlnKg==;PsRLarLHOrMUx6WYcH7a1A=="
+secured: "+D3bwFv6nDLa6tVmCFe7gFriCRzHh2Y+E6orfLZkocDObrCOjDe/95wuTu2/gBALShTPzOkwVs7ILahD59pBx7T/8xPpI5VLmGsStClmrHAKJrrzyjFnvjVe3dGkGABweeXXwV+Lr2H4/7pdlkKNWktlF4/BHVVFZh8cMQSQn5yURqaKk2ERQAsF6DU+0R+WNI9osQQrXiuKukKC0d5YbVE2Eyw22hOnIajEHDTAwnVJlIpgu8QcfNTGJMfMUCzXVV1Ya56PGbZqdIkujXWRxYuf7FOTgphKva3exvJCZR2lF80sByyOZdrzZvijkL4FAtpP2A2ubeLMuThyrXwINOiWxEw50U7lR952eVQ+R+k=;uE6KEHEbSTs44lVNoODReg=="
 ---
 

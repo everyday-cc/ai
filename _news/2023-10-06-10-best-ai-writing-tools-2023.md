@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-05T22:23:00Z
 originalUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 webUrl: "https://www.eweek.com/artificial-intelligence/ai-writing-tools/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg"

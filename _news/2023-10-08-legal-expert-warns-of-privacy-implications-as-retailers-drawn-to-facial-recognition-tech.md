@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Policing minister wants to use UK passport data in facial recognition"
-    excerpt: "The policing minister’s plans to integrate the UK’s passport database with police facial-recognition systems have been met with criticism from campaigners, academics, and the biometrics commissioner for England and Wales."
-    publishedDateTime: 2023-10-05T07:16:00Z
-    webUrl: "https://www.computerweekly.com/news/366554287/Policing-minister-wants-to-use-UK-passport-data-in-facial-recognition"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-031023-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
 
 secured: "oHf/afjF98K4KYS2G8DgHBLqkgCd/cDW4CMOJ+1rQembUtp+C4dtCgktX08FAPZwOXEUWtsqivb5Oc2RBA1nV0z19LeQe0e30A8htPQlf1iJMMBsj3VT2crm6/GPy5htk5jIBCd3rFLnFzbKBGeanMzwLMh6vFhcmJIbKeVuLDsIs9ONhxRqy+regHf8MhauS2YI4NSmY6IPtSc148ciQbTOLtMNUNlyQayvmToACQoaRPfuXplanQNZ1hoQq+PSaXeFjz405ZlXo0bKEFdMEMQpqqy3dyMbkctYKoKLGSnk3Fb2/SBVKIwgkwrfajsT21i5hndoCj9zfgguV1L7NkpVcghNVS0U36HujkeCwvgoAoZarIR75bs6cEzgRxZOj4ad4Sxy75rCO/LCWbR3lWSGU5UP/j21hZ0aIqd5O8xJnt5MQMtQzaMNBv6NmLkrGK6viFJMniSbB0zuUlyRhqIJOylqPdRQw8Ey0sPuPcBHV0tADnM3p4xTswIswmZhTpvtIaAF6nQ01ogm8Pql2g==;KeCFbVnl1SyqHesqqcAdaA=="
 ---

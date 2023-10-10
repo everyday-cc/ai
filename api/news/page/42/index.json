@@ -2,6 +2,255 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-09-07-building-ai-for-business-ibms-granite-foundation-models.md",
+      "title": "Building AI for business: IBM’s Granite foundation models",
+      "excerpt": "Explore IBM's Granite foundation models, from how we built them to how they can help you further apply generative AI in your business.\nThe post Building AI for business: IBM&#8217;s Granite foundation models appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
+      "originalUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-facebook-trains-its-ai-on-your-data-opting-out-may-be-futile.md",
+      "title": "Facebook Trains Its AI on Your Data. Opting Out May Be Futile",
+      "excerpt": "Here's how to request that your personal information not be used to train Meta's AI model. \"Request\" is the operative word here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
+      "originalUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/64f8e6ac3e1a7b4810e35758/191:100/w_1280,c_limit/Facebook-Trains-Its-AI-on-Your-Data.-Opting-Out-May-Be-Futile-Security-GettyImages-1408270724.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-meet-generative-ais-super-users-70-of-gen-z-use-genai.md",
+      "title": "Meet generative AI's 'super users': 70% of Gen Z use GenAI",
+      "excerpt": "Gen Z and Millenials are generative AI's \"super users,\" or users who use the technology frequently and believe that they are close to mastering it. Almost half (48%) of Gen Z believe they are on their way to mastering the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
+      "originalUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/474efc9bfad8c3d8a9d90f6d09c8677405713299/2023/09/07/71f4bcfe-1d17-4eb6-a88c-3b0c8c028e32/gettyimages-1359131910.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
+      "publishedDateTime": "2023-09-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-what-will-love-and-death-mean-in-the-age-of-machine-intelligence.md",
+      "title": "What will love and death mean in the age of machine intelligence?",
+      "excerpt": "I hesitate to call it artificial intelligence because that makes it both more and less scary than it truly is. More, because “artificial” reminds us of robots, of colonization and physical dominance, images that have been emblazoned in our minds ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
+      "originalUrl": "https://www.vox.com/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/Rb0vBYZWC5UKp_cYmD7PmZzzwiU=/0x0:1920x1080/1400x1050/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/72439644/illust_5_1920px_x_1080px_asya_demidova.0.png",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/the-highlight/23779098/relationships-artificial-intelligence-robots-ai-death-microsoft-openai-chatgpt",
+      "publishedDateTime": "2023-09-07T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge.md",
+      "title": "AI: One Person's Creativity Vs. The Entire Corpus Of Human Knowledge",
+      "excerpt": "Should our tech represent the complete corpus of human knowledge and creativity, or should our self-interest limit how we optimize and utilize this powerful resource?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/07/ai-one-persons-creativity-vs-the-entire-corpus-of-human-knowledge/amp/",
+      "publishedDateTime": "2023-09-07T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-bengal-man-develops-robots-for-teaching-autistic-children-working-as-waiters.md",
       "title": "Bengal man develops robots for teaching autistic children, working as waiters",
       "excerpt": "A 62-year-old retired hospital employee has built robots at his own expense that can perform tasks which can help autistic children learn, spread awareness on diseases such as dengue and even work as a waiter.",
@@ -925,238 +1174,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-microsoft-says-azure-breach-probably-due-to-account-being-cracked.md",
-      "title": "Microsoft says Azure breach 'probably' due to account being cracked",
-      "excerpt": "More than three months after its Azure cloud was breached, Microsoft says the \"probable\" cause was the cracking of a staff engineer's corporate account. The company released a blog post on Wednesday which made the surprising admission that its inability to offer a more definitive",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/business-it-news/security/microsoft-says-azure-breach-probably-due-to-account-being-cracked.html",
-      "originalUrl": "https://itwire.com/business-it-news/security/microsoft-says-azure-breach-probably-due-to-account-being-cracked.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/ee5f0279f75ffcb53cda826bd0cbceea_M.jpg",
-          "width": 375,
-          "height": 251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-growth-in-future.md",
-      "title": "Healthcare Natural Language Processing Market Size and Trend Analysis 2023-2030| Poised for Strong Growth in Future",
-      "excerpt": "The \"Healthcare Natural Language Processing Market\" 2023 report conducts a comprehensive analysis of the diverse array of factors that impact market drivers, industry development, and future ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34298531",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34298531",
-      "publishedDateTime": "2023-09-06T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action.md",
-      "title": "AI-generated child sex imagery has every US attorney general calling for action",
-      "excerpt": "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/us_capitol_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action/amp/",
-      "publishedDateTime": "2023-09-06T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-fine-structure-sensitive-deep-learning-framework-for-prediction-of-catalytic-properties-with-high-precision.md",
-      "title": "Fine-structure sensitive deep learning framework for prediction of catalytic properties with high precision",
-      "excerpt": "More information: Yuzhuo Chen et al, Fine-structure sensitive deep learning framework for predicting catalytic properties with high precision, Chinese Journal of Catalysis (2023). DOI: 10.1016/S1872-2067(23)64467-5",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.html",
-      "originalUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/fine-structure-sensiti.jpg",
-          "width": 1280,
-          "height": 953,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-fine-structure-sensitive-deep-framework-catalytic.amp",
-      "publishedDateTime": "2023-09-06T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-how-ai-is-boosting-agent-intelligenceand-evolving-the-cx-team.md",
-      "title": "How AI Is Boosting Agent Intelligence—And Evolving The CX Team",
-      "excerpt": "When human agents and AI join forces, they form a powerful CX team—one that builds on their strengths, while minimizing their weaknesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/",
-      "originalUrl": "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f8a24960bbd7f7ae384a0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zendesk/2023/09/06/how-ai-is-boosting-agent-intelligence-and-evolving-the-cx-team/amp/",
-      "publishedDateTime": "2023-09-06T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

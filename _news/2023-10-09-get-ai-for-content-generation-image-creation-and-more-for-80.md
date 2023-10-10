@@ -29,47 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation"
-    excerpt: "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks."
-    publishedDateTime: 2023-10-05T07:19:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
+  - title: "Survey: Challenges and Solutions in Generative AI Adoption"
+    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
+    publishedDateTime: 2023-10-06T19:26:00Z
+    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 73
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
+        isCached: true
+  - title: "Artificial Intelligence And International Business Decisions"
+    excerpt: "There has been no shortage of predictions about the different consequences of the recent Article Intelligence Boom (AI Boom)."
+    publishedDateTime: 2023-10-06T18:01:00Z
+    webUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 81
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65204b43fb9653854c333c0d/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Revolutionising banking: The role of AI in shaping the future"
-    excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
-    publishedDateTime: 2023-10-06T05:31:00Z
-    webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
-    ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
+  - title: "Processor and Software Innovations Empower Edge AI Applications"
+    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
+    publishedDateTime: 2023-10-09T14:36:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
-        width: 799
-        height: 533
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
-    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
-    publishedDateTime: 2023-10-09T18:43:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 5
 
 secured: "s4rp7JjrylyYi8z6thMBz+8iZmi42kAxW/jaGtHADkUweYRkQaWUHwxETwOp7yIKEP9jiZ8oRkZ5jfq3RQYVd00yYi7Gv4oID2kn4OPOp4AGL83gVHzVf7dANsF01rhTkGlCtf8Ye4LMH/dqxRHLQfjav6e4kFjfRgo9+OCR+mb3H/Ef/SHQcprhKG+9W/LLDEH5ZxLsBhcC+KHFPWW53+eLMtYe9UAPSmZYpd2MPPuIJL6qciPEOPRUld/feQCBdLtO2qwEOVZimlrzLX4VOA08auEvtN7DBKq4KZctTx0QUgCXFueN0Egq87f01SjE52hqMFCX1F2Ngok8aZFGFOnSjuXUSK6tmcGMgelwkGA=;+XDFd8jUymJOaD3aiYTvWg=="
 ---

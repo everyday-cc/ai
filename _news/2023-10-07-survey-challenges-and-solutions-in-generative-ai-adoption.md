@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/it-survey-challenges-solution
 webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -39,7 +39,26 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65204b43fb9653854c333c0d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Get AI for Content Generation, Image Creation, and More for $80"
+    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
+    publishedDateTime: 2023-10-09T16:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Processor and Software Innovations Empower Edge AI Applications"
     excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
     publishedDateTime: 2023-10-09T14:36:00Z

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI may give boost to media stocks"
+    excerpt: "The Communications Services Sector has performed well in 2023 and John Stoltzfus from Oppenheimer Asset Management expects that to continue. He believes the many of the companies in the sector will benefit from new technologies and particularly Artificial Intelligence."
+    publishedDateTime: 2023-10-10T00:19:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRCV00CEVK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20231004&i=RCV00CEVK&r=RCV00CEVK&t=2"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Zoom chucks generative AI everywhere in product blitz"
     excerpt: "Zoom Docs, a modular workspace for documentation, project and data management that can also be used to create tables, wikis, tasks and other content."
     publishedDateTime: 2023-10-05T10:36:00Z

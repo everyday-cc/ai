@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "AI-driven fintech is key for Korea to become global financial hub"
-    excerpt: "Syuka, a renowned influencer in the Korean economic and financial sector, emphasized the importance of Korean fintech startups developing AI-driven financial services that are easily accessible, Thursday, adding this strategic move could help position ..."
-    publishedDateTime: 2023-10-05T08:13:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/nation/2023/10/281_360531.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360531"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360531"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/d642b69ef7b3461992eb9ad2c2597a31.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Raleigh based AI startup closes on $7.5M in new financing"
     excerpt: "Aampe, an AI-powered user engagement platform, announced a $7.5 million Pre-Series A funding Thursday. With this latest funding, the Raleigh-headquartered company has now raised a total of $9.3 million since its founding in 2020."
     publishedDateTime: 2023-10-05T17:45:00Z

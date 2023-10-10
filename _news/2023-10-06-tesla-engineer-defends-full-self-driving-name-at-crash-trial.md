@@ -39,6 +39,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vietnam, China resume self-driving tours along frontier"
+    excerpt: "Vietnam and China are set to resume their self-driving tours at border areas beginning late this month after more than three years of suspension due to Covid."
+    publishedDateTime: 2023-10-10T00:17:00Z
+    webUrl: "https://e.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
+    ampWebUrl: "https://ampe.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
+    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
+    type: article
+    provider:
+      name: VN Express
+      domain: vnexpress.net
+    quality: 44
+    images:
+      - url: "https://i1-english.vnecdn.net/2023/10/09/387177053747965480204973061986-2655-9680-1696856006.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=sM-fHbMlcPr8ZaCrmBKaSw"
+        width: 1360
+        height: 816
+        isCached: true
 
 secured: "URXchmLesGUhLdB7zV2LuLtyBVh3oQ1p/zx/n3UPDjARehn/e2fVC6R3Doyy8IoBVfZqRW1NZ2z1y43dB17N0Iy69gSDl9Q/2phR1vBMm7gVYWKbTAaA31VKxrhhRkfKKFk/EQkONwLEqOFcr6j8S99+ycOj/HPiyBhAp1l/3swTV/PeLzKDETaD4nTQTlM8bWZYbAI7XkuiH8p94eJrF55MFu5rE+VRfemIfYkMvx3Gmztq8jFeTRfndqqDGEdXzh0jx3KuAqzszgVVRqXF9fJuS960/fcokrU3Kfh5zmsIYKRZ72W3lKeivA2LGrL10g+G4GxZbM/z21p84UkdeGNdhuEioO6qF0ThOEwV0So=;aou7NzcPXLV1M4GD4b8z8w=="
 ---

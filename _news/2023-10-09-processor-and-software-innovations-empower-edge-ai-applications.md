@@ -47,7 +47,26 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65204b43fb9653854c333c0d/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Get AI for Content Generation, Image Creation, and More for $80"
+    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
+    publishedDateTime: 2023-10-09T16:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "GWO12460M4eqDfseVuP4zzRaRxnMyQ19G8RPXGi4W9XotDHstlZcJw/+OstKvCYi2gjBiPFtlQ+R46/CRMzZKbTD7DFrw6Zidr+3/gQmQ8B9W/snFFHZa8CNbve2vXFX53ZcNiruTi4IfT5POMH/+sCslu/mAvX3fbGBwN0G7nxVzqmRILEsyWzc1gjmnmRGb2mVJohW1f3Nd/WOTNWzRZ5BHjbba95K4EsEYlkijJKYT1hCNlWwv886GchE4hji5sem4OiU2nXyWxXY2qjur68okccp0sFlfCD/iDDpn5t3VvjA7svb7rYn2Jd+EVNz2G2S8ABdZdjQdXfGf6Q12XCu/kJMGe2Tity2/QPjfe97RqmS5zR2XdnAnVQGA9AGTbHXEjmN4ZDzIp80oVbXKGsQ1nBr9eKGnetVLG5Vm24w/SYr8eZzTziiscbZfp8U7V6RqS72TUR56UgbppJvG2J7I3Mr2jEH8qIk93Z/4FL6IrZ/XLugHDJJOUrGohHyN2YWK9JukZNqlpnh8dXiTA==;S72V/qwW4PzhD20wAoI9YQ=="
 ---

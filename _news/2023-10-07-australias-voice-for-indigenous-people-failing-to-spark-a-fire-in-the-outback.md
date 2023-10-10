@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-0800
 webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
-    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
-    publishedDateTime: 2023-10-08T23:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+  - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
+    excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
+    publishedDateTime: 2023-10-10T00:36:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 43
+    quality: 31
     images:
-      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
+      - url: "https://i.guim.co.uk/img/media/b61e6dd418c4f0b15304decfe9317deeb3b725d7/0_249_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=26f0c2757671d9dedd3875704ccab1ad"
         width: 620
         height: 372
-        isCached: true
-  - title: "More than 70 university law professors say Voice 'not constitutionally risky' in letter to Australian public"
-    excerpt: "Dozens of constitutional and public law teachers from across the country have signed a letter in a bid to tackle \"misunderstandings and misconceptions\" about the Voice to Parliament."
-    publishedDateTime: 2023-10-05T23:19:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-06/open-letter-constitutional-law-university-voice-to-parliament/102937352"
-    ampWebUrl: "https://amp.abc.net.au/article/102937352"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102937352"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 25
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/62dab7690b8df7fca27b1b66dd42f541?impolicy=wcms_crop_resize&cropH=1365&cropW=2048&xPos=0&yPos=0&width=862&height=575"
-        width: 862
-        height: 575
         isCached: true
   - title: "The bitter politics and hypocrisy of the Voice debate will mark it as yet another ugly chapter in Australia's history"
     excerpt: "After many months of bitter debate about the Voice, an address to the National Press Club this week reminds us that we are back at a point where it seems that, no matter what the truth may be, we will not let it lead to any change,"

@@ -39,7 +39,7 @@ related:
     provider:
       name: eWeek
       domain: eweek.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231004-ai-writing-tools.jpg"
         width: 1400

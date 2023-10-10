@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driv
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Carscoops
@@ -36,6 +36,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Vietnam, China resume self-driving tours along frontier"
+    excerpt: "Vietnam and China are set to resume their self-driving tours at border areas beginning late this month after more than three years of suspension due to Covid."
+    publishedDateTime: 2023-10-10T00:17:00Z
+    webUrl: "https://e.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
+    ampWebUrl: "https://ampe.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
+    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
+    type: article
+    provider:
+      name: VN Express
+      domain: vnexpress.net
+    quality: 44
+    images:
+      - url: "https://i1-english.vnecdn.net/2023/10/09/387177053747965480204973061986-2655-9680-1696856006.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=sM-fHbMlcPr8ZaCrmBKaSw"
+        width: 1360
+        height: 816
+        isCached: true
 
 secured: "3oSwKjj+EBWPHx3WydGJjMDJK4Wlt94AR+/DyxWxBLnzu56DNQEO+oa6cCAjbX16sxLfgmnigbEQZ6qYVGOqkgbK5rFTQQ5rWIsxV40p32Bv0GxQgpx56xtfZfxoR9xszhVaFJeq8UbAvKMgVJH5uAufroDI9hnx9Xid6+sWJoQhnThfW3PsENv4mz6bYSDOGZfJBN820aQD+j4dTeDKk52dP8UBBw9MR1xpHce8AZggnxZhgxxasgEkANOiQAWQ/Z/rKsO2rHFH+BPrBLJoTV4tz6/KfuKdKk9hmw+w8zhOWGlI2VQJaZpwk8RXrAFyC4ch0kZ5rmynu1/qlN/d35//ceCu9emI1NWvoYnIatKfwhjuXJehbPvDbPu7JHGeWIIzBRlAuzGIMP63zRB6z0tfx9POeEY3wsZJepk/Ii0QoyOxIAikc3l/4ih1yTOHmsHJKVDE4vZMwL6u3PKOc1TBRpbz1DDHj0BUcPe/5s+JicD2bfNNntFbYKi/JSgk0CFwAAJ07sadW4HsvXEX1w==;FtkhS3g5013ba1bIc7VzzQ=="
 ---

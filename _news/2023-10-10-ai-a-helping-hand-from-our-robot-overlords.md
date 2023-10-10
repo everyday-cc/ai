@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-fr
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 438
     isCached: true
 
-secured: "g6oj+UEKq8GDyk3rcjlZEDNLWWEmDE4wloupLEsTHfN6DNH1USFS4m1yYDDtTBqAOqUgr2g0vf324lXSh2fjhkpj1XYU1JypycqHYS2OPB/sxRK1JL+Ta6d1/BffkmdTpOPk+SH/HIjnSYmoVJHcZDGd9S3vDdAK66aVIHFzkpzQ3i5NdTUL4u1bFHq2W+7QfeDO8OUWgqQ/VShcGdvsamBrzPaJA7+kcCSnBmxhyl2tjVolWvvD7s22uZF/LxduCtkpcdvFWOoZA3r7XmIaK64Fhj3w7TLav2sYIk9/mHWnO2CMYu9FJ3ve1kLSabSTb1pxsqMOZv6G+wc504H9vYMiyFH4W+6v7idvKMwJ0Sw=;/dVH++6imhk4pkY06ZhoCA=="
+secured: "f2KFAynSx1KYgM36+cx1sC0WQx/pzGK76Kxpq1mMvdxX0yb580DdwG8Vs5KDHTDpKwLJpFCMbMsFEgN/iRPi4fOebQbRYn7bRJrmNNkVbbndWZAgeRpA8o7eC8HKZVOQd/ZQWoHPxtqTCQIyLTpIgLEQBbaBJ35oCUoIytfV6XxxdBB+j1+0jo18sBajFxXMfQTAYk6LJv3if3pBLFWkJUgWB6hQtWzFm8R8n5SNAkhlZ7OXi7RDJ4lv9We/vJGFwlPzsbFN4FQutF1fFsxBjc1aTErJIn4Hx5RAUPT6CL2m1fujWCt6f3yuqpQWyCaXlDS8GP7M/FJN/2BFYu2XGT1ooaBQtasQeoNLPLMwBqmZUO/n1h3mAK9beU07q79gQSXxlV4I1rLNoowtobMCXlBaBOTCEY9vAyTyphfCRBTPbQv73e6Jsu4Q/Y8tHWvcleoxsYUBJuPmC00C3xOEa6qf76JHqrkNaELpWtis+0p2FDRkXOkBv+YRbxAp2ZzQbjniNY410pBTfiJv8cG9PA==;5qTSGvsIK22YZwmMG1cltA=="
 ---
 

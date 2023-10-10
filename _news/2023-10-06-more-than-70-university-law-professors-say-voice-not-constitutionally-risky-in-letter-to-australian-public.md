@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/102937352"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102937352"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,47 +25,6 @@ images:
     width: 862
     height: 575
     isCached: true
-
-related:
-  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
-    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
-    publishedDateTime: 2023-10-08T23:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
-    excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
-    publishedDateTime: 2023-10-07T08:00:00Z
-    webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The bitter politics and hypocrisy of the Voice debate will mark it as yet another ugly chapter in Australia's history"
-    excerpt: "After many months of bitter debate about the Voice, an address to the National Press Club this week reminds us that we are back at a point where it seems that, no matter what the truth may be, we will not let it lead to any change,"
-    publishedDateTime: 2023-10-06T18:01:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-07/bitter-politics-voice-debate-another-ugly-chapter-history/102941070"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 0
 
 secured: "Mzxdjz8mob0xySawpzj+W3WvXnldW6e9B/bc5dWnRfmkfkgB4HLGm1dev2+TIbxirrbQ8hX185lWhzilzgnTZ/irS/3YEKCjFtPUw4uNEbYtfO8JZFwsg39qxnF4F4lcmZ+OxoAeRZPGIydw6eaKTfGiuUqUeVyoWGg5e8vFqICb5/tXUQqQ7vgPSqjXzZ3dJbeKLxKBS9t/DYIxXfmWPVdFzrIao8AyNKi3LMql8zNuIyOb9ekc3B27xr/rJACEq6tNPlqWfRM+/MrZkfY4GEooVRP/u8IbinxWjK4qpPqUstHIBjvMC0yjUOj+vnLd/Vqpw56exb6xG1epzoqKtu9olIKwDpMKgoPta+Eo8aM=;v9Q2g3cdcbxN9cnndYAhIw=="
 ---

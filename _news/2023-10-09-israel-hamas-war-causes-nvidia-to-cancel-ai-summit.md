@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cance
 webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hamas assault on Israel shows surprise still possible in AI era: Peter Apps"
+    excerpt: "On Sept. 27, barely a week before Hamas fighters launched the largest surprise attack on Israel since the 1973 Yom Kippur war, Israeli officials took the chair of NATO's military committee to the Gaza border to demonstrate their use of artificial intelligence and high-tech surveillance."
+    publishedDateTime: 2023-10-09T18:36:00Z
+    webUrl: "https://www.reuters.com/technology/hamas-assault-israel-shows-surprise-still-possible-ai-era-peter-apps-2023-10-09/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 65
+    images:
+      - url: "https://www.reuters.com/resizer/-eBKql9OtdyeXlii5wlBFFbYgpU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H3TMMCKFBRKZHMZDQIXGBQS6NQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Column-Hamas Assault on Israel Shows Surprise Still Possible in AI Era: Peter Apps"
     excerpt: "(Reuters) - On Sept. 27, barely a week before Hamas fighters launched the largest surprise attack on Israel since the 1973 Yom Kippur war, Israeli officials took the chair of NATO's military committee to the Gaza border to demonstrate their use of artificial intelligence and high-tech surveillance."
     publishedDateTime: 2023-10-09T19:36:00Z

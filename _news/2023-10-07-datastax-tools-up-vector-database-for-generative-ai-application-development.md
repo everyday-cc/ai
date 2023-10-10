@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "UiPath accelerates how customers can create generative AI applications with new connector for Amazon Bedrock"
+    excerpt: "UiPath, a leading enterprise automation software company, today announced a new Integration Service Connector that gives customers access to Amazon Bedrock, a fully managed service that provides access to industry-leading foundation models (FMs) via an API to build and scale"
+    publishedDateTime: 2023-10-10T00:45:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/uipath-accelerates-how-customers-can-create-generative-ai-applications-with-new-connector-for-amazon-bedrock.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 20
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/e702b1b31624d9e8bdcb0b36f092fa6e_M.jpg"
+        width: 375
+        height: 256
+        isCached: true
 
 secured: "cQIbA6G7AR0oveDm+em0qzjQdBcnIcuTVm3k61QmQ11zARBaQJ5Wcx3ZuSKe/NOr0m2535OetZTgzZ2CDbX9Ha4NRoNUn3zyXjC9YpCTAtZ7n4lFlMO+XATjF3hye6gve9CfqGeZeXE7NIIrNeACHmgXSDmAFRqcygYBofzr5WnMOYd308JRuHHJeYmDnkrnyUe6iZj0kn0l2Z/GZf/o6y2C0r5X+S03ITYQ+OI2oBoBYe2ioPHtqOl7sexhypIjKxwEzl9MQSNVVzF6DElhRT6fm4ZIVKjIYVx7ydqWKYUsgU4ifgyqbE5IPNAUpWvcQl84fQSwi1h3yCNRqsseBPdCHgfJ+HwbU+l6mnQp4NuZpQBZp8mQhhGIOw2PkTQdJa6vlxETGUigQVIwNdPhz1oL2LqMx8sI0Bt0obQFSax07DyWY+kmLXOHHEZ2p5/ezTdgUBgG8j5RjvO7i3yzfm+q8NsDd2wWQgwyZT9sZ7ZJE1qXXlrzKxdpj0N/fotheM6hd491SnJ3fZt38Bkd4g==;kfsCNjzELUcMOhXpCGgRAQ=="
 ---

@@ -27,45 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Is Revolutionizing Music: Loudly's Vision For Democratizing Creation"
-    excerpt: "Explore how Loudly, an innovative AI-driven music platform, is revolutionizing and democratizing music creation, enabling users to craft unique soundtracks."
-    publishedDateTime: 2023-10-05T07:19:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/05/generative-ai-is-revolutionizing-music-loudlys-vision-for-democratizing-creation/amp/"
+  - title: "Navigating Industry 4.0: How Artificial Intelligence and Robotics Are Revolutionizing Manufacturing and Supply Chain Management"
+    excerpt: "This dynamic synergy between human ingenuity and cutting-edge technology is unlocking new horizons of efficiency, agility, and competitiveness., Technology & Science News, Times Now"
+    publishedDateTime: 2023-10-09T04:39:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651e6351b06cf0d5fb6e2537/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static.tnn.in/thumb/msid-104273267,thumbsize-25658,width-1280,height-720,resizemode-75/104273267.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Get AI for Content Generation, Image Creation, and More for $80"
-    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
-    publishedDateTime: 2023-10-09T16:07:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+  - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
+    excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
+    publishedDateTime: 2023-10-06T19:25:00Z
+    webUrl: "https://www.wglt.org/local-news/2023-10-06/how-robots-and-ai-are-changing-recycling-and-how-to-keep-bad-plastics-out-of-your-bin"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
-    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
-    publishedDateTime: 2023-10-09T18:43:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 5
+      name: wglt
+      domain: wglt.org
+    quality: 26
 
 secured: "Gw0iXAgPhLIegEpt+dSOoCQ/PGk/SttoWgLlhsYyNxcm5e6Ybk7HqiaE0XyJv/KJ1wxbO5cCTri9k6GxztieLeaHYNGaqJRRidREJn/OX9Huw6o5vg1S+7vkz134EfqHDODRWamUvY79ETGLhJjDJAJNUdTOgs7qcYMIVzZDPgF/geEIUQNagGrGdqc/SS76FD0PCCf1UopyN7yRmSFILpistUpB+Klsy17Sn+LonFDKgcOt/soQkwI6XXB1/bGw+qrPm1KkuP9LGqtPgyToov6k6GVQijHovWKBBMmng50EHwqy5OuNgHzPLKkETWxmgJ2K2RKqPt6iAQDmjO1VuR5Ebl33nO5mIfJyluuRI+g=;OB7bA9egSsXY1KQ66yQq0Q=="
 ---
