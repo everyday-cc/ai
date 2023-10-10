@@ -62,15 +62,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
-    excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
-    publishedDateTime: 2023-10-05T13:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/generative-ai-for-enterprises-the-cure-or-just-a-hype-tool/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How BharatPe is Harnessing Generative AI for the Future of Finance"
     excerpt: "BharatPe’s AI and analytics team, comprising 30 professionals, including 10 specialised in AI and ML, is pivotal in the organisation, contributing significantly to innovation and data-driven decision-making, involving close cooperation with data engineers, scientists, and domain experts, ensuring technical excellence aligns with business goals."
     publishedDateTime: 2023-10-09T12:15:00Z

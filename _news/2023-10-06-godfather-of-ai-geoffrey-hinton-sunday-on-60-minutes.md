@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI pioneer Geoffrey Hinton says world is heeding warnings about technology"
-    excerpt: "Months after artificial intelligence luminaries began ringing alarm bells about the technology’s risks, one of the field's pioneers says he feels like people are listening."
-    publishedDateTime: 2023-10-05T13:29:00Z
-    webUrl: "https://www.castanet.net/news/Business/450508/AI-pioneer-Geoffrey-Hinton-says-world-is-heeding-warnings-about-technology"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 17
 
 secured: "jcQZ+ABvajOsQo1L2r+kIfvMTBCN9y86kWoM39VnHW5tDG8YiAmD1iVWS7NHxJcwNYcGSMa7Bb8+AFGg2iqDBofpWFm0xQwWem2X29sgulREeMlFnp7rOw7qluPiIB5XR++SFAstYGPJYRjHa11paBHo33sEoeSVyhJUdHbDCgCCRhqrvv6ENMAnTzGgPlKNJQ6WytvsO1yfk35TnNXALYZZ/tpbp4d7Tma9IfuILrjqXVV3+9pRPyEzkJA1aQcDHRHoGTRIkQhFwz01BVgBXqQWchGoSJLwnWy2/iSnYPr9Y0xKBk/ALYFQcUddr/UlTN1pJ5lUZsChLwTUj5/kuYwoQmX8Q8/mGbqAlt1QlIlmExK0zIj/XnwNsMYkn4T5R2uLpaNcihlk7GCwr8XbB+vyDYWGdduBuFEzsEjcsBh2wtrQp1smAydzColc6IYgMhYrG3G1oxlD64mVy50qBiFYahcnK9TvZQMdPO//ia3K8+GcU7N+62DZ//b+tQ2YpCcnDnCJWHgIw5hOnqojYA==;nTN64RIqOPPkefmOP3ZXng=="
 ---

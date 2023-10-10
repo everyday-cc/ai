@@ -22,61 +22,47 @@ topics:
   - AI
 
 related:
-  - title: "5 Human Advantages Marketers Can Use In The AI Revolution"
-    excerpt: "Marketers can capitalize on their humanity by crafting emotive and humorous content, standing out amidst the sea of AI-generated content."
-    publishedDateTime: 2023-10-05T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
+  - title: "Navigating Industry 4.0: How Artificial Intelligence and Robotics Are Revolutionizing Manufacturing and Supply Chain Management"
+    excerpt: "This dynamic synergy between human ingenuity and cutting-edge technology is unlocking new horizons of efficiency, agility, and competitiveness., Technology & Science News, Times Now"
+    publishedDateTime: 2023-10-09T04:39:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef275d1002e6b0008173689/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://static.tnn.in/thumb/msid-104273267,thumbsize-25658,width-1280,height-720,resizemode-75/104273267.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Cognitive Effervescence and AI's Tug on Human Evolution"
-    excerpt: "The intricate interplay between human evolution and innovation has always captivated our curiosity. Historically, innovation was spurred by necessity, following the age-old adage, \"Necessity is the mother of invention."
-    publishedDateTime: 2023-10-05T16:33:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
+  - title: "Revolutionising banking: The role of AI in shaping the future"
+    excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
+    publishedDateTime: 2023-10-06T05:31:00Z
+    webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
+    ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
+      name: Zawya
+      domain: zawya.com
+    quality: 74
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/Evo.jpg?itok=ve6WkkG_"
-        width: 1528
-        height: 800
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
+        width: 799
+        height: 533
         isCached: true
-  - title: "China Has an Authoritarian Edge in AI Innovation"
-    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
-    publishedDateTime: 2023-10-10T04:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
+  - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
+    excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
+    publishedDateTime: 2023-10-06T19:25:00Z
+    webUrl: "https://www.wglt.org/local-news/2023-10-06/how-robots-and-ai-are-changing-recycling-and-how-to-keep-bad-plastics-out-of-your-bin"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Artificial Intelligence in the Art World"
-    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
-    publishedDateTime: 2023-10-07T12:00:00Z
-    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
-    type: article
-    provider:
-      name: Daily Utah Chronicle
-      domain: dailyutahchronicle.com
-    quality: 39
-    images:
-      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
-        width: 2001
-        height: 814
-        isCached: true
+      name: wglt
+      domain: wglt.org
+    quality: 26
 
 secured: "McPT4NSlbLbTLxYvEAPl1TwYnv6egcHwf9ccmgtAJMei1d9DOrs+GMJuwUWay362tRgJ2tOE8WmMwqkAmqX0bacWpm6KLPtvkO/LK5VBkOseWmtqn5wVMOJJ9yFwkSzN6FF4+Bcm8uE6rVihRcppdJ0tvq0QbSW/tp6n/VIDluwZjsWZdyFU/Nql6NFTx38Owqf1aqLWJ5Pi8HmqDd919WoWKPfgHjJXkQ2AZEK+DVy2jT1AK7w/eN/RCRWIiBbthF4EePlWwlRYrqkoJvyueHo+DIYwpBuYr3vM7WTZtXb2O1YbHo9ZgvaJr+qsQVj4T66ykxY6jYE8PIyVxVpk7VD63H/F6SvBFpYALCj58pWYApPXy6DhLStunNB/Fti9Atvy4BqEeLvjGXAhw33ZI7cLzKvr/pnHdLS69+4cgp6oHz/W7ZcydhxQOiwXAD6gozHlnl9t17gy1gkNEMq/jbssdbfh3JBnLVYDPOCDdC5m/6DWizB47Tvn2mYaMtI0hcjfv/gqX5X2fqX3v+w++w==;SweZk156HVzHWfjo0ycnbA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minut
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
 type: article
 quality: 68
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI pioneer Geoffrey Hinton says world is heeding warnings about technology"
-    excerpt: "Months after artificial intelligence luminaries began ringing alarm bells about the technology’s risks, one of the field's pioneers says he feels like people are listening."
-    publishedDateTime: 2023-10-05T13:29:00Z
-    webUrl: "https://www.castanet.net/news/Business/450508/AI-pioneer-Geoffrey-Hinton-says-world-is-heeding-warnings-about-technology"
-    type: article
-    provider:
-      name: Castanet
-      domain: castanet.net
-    quality: 17
 
 secured: "KLwVkc453wQWkYpWDQfpNBZe+F7a9Yh4x/tPrgxdWawRUmZeuWWQ9AQQvuMVUlMGsCnumuQb2582QJjwcrHhymfcayo7e13zk1NtyY+GgJ5xuh4TGRmpJbCT5RnQl7xoeieNFN0U2BwCjyhFJ2PHcriVt+H9U1E5ZqS6waLYXnAsnnExDKI9KpNKIw8kfsKamq+3RRuV9qrUgTlV/gsKLNTZReWf/3bTzc/0lnRZknlVpyE+bVPXwvnUFAQ8nJNg/iCgSzojXBwSh+XA4t4N4OJId3UCx4gcJCYfL/awEJPaKDMi/CDO7sP/nww1nXCo2nqgOsrgLNqwPTk0rt12GKkMaU7YwN3AfR++wbp5gGYo/h2K2zUYVtDdzVRnWaSEEgraHoav9pTjxsuRY8DNpFuC0ZyoFs76eovLgpTF94bONqUHulmqau2YfBaeoGDjKtEj+vzUnTDvtpPKgKfIBG566ji4qlu5IH2QbEi2gyBwRm078byQm63pkJzoCgKVA6/DWwNeT3DBtr6/mvZPow==;OvMxk117yshvgVminKZPJw=="
 ---

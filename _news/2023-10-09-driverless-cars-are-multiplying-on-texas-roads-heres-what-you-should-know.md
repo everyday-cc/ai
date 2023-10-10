@@ -73,20 +73,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
-    excerpt: "Tribune journalists took a ride in one recently and answer the biggest questions about who’s driving the driverless trend and how the state regulates them."
-    publishedDateTime: 2023-10-05T14:48:00Z
-    webUrl: "https://www.chron.com/news/houston-texas/transportation/article/texas-driverless-cars-autonomous-vehicles-cruise-18408377.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 36
-    images:
-      - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
-        width: 1200
-        height: 804
-        isCached: true
 
 secured: "g2JEJ1p3LVqOZVYSOm3UHG7GVDp27eYapu5Y1Jom7L6RXecNQsivtloz0Yj3VtuB5rWW1pEBtl9jTKQf5ZLIjUFoS0l7iVFtxbojaKQEQdfeFgTdFsAw7Ahj+o6H0IxOdV0LoB77TcN0NI8aV8oOuuYasTr+WrkmIGhQHpwp4qyK/ycb03Yy/MhyvyXi+iKuDXwEsaYKOpN0wD5F3PCQ5vEmid+ya10MM7R0NdEFuxbFBg+iLxvpMCb++NOXkar1YA3IuTmi0MgfkHi+7mpdTgBnF0LYlphQmRGpOiw2uPtArGfKlpB6YCDBog4/Losb4kbGPR7bMwz8x0695Ao35sfvtm9wYlgcA8h2xDDwaLK87guGU72+iCvHk1m+IiK+4k9IWtAnbL9NzIp5nH3cH+a19cGQKzFHr6YhvufnnqpQ2efydLZ5QaM4gRKXVOo6nc5LF3C1wlvSqb678tugqQeEMbUjZTXYhldM1NBhmmYP5Z1IR4r+7jPSu4VX9UEAJCyLmTNXOpbYtQbp6BUMZw==;fPIS65faqQNvRblBu8fXeg=="
 ---

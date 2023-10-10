@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon Prime Day 2023 - the 40+ best early deals from the October sale"
-    excerpt: "Prime Big Deal Days is coming. Amazon is launching the sales event - which is effectively just another Prime Day - on October 10 - 11 with 48 hours of deals exclusively available to Prime members."
-    publishedDateTime: 2023-10-05T13:32:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Amazon Prime Day 2023: 30 best early deals from the October sale"
     excerpt: "The second Amazon Prime Day event for the year – the somewhat awkwardly named Prime Big Deal Days – is scheduled for October 10 - 11. But you don't have to wait until next week to bag a ..."
     publishedDateTime: 2023-10-06T11:13:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Signal Says Avoid This Chip Stock in October"
-    excerpt: "Schaeffer's Senior Quantitative Analyst Rocky White just released his list of the worst S&P 500 Index (SPX) stocks to own in October. AMD is the only semiconductor stock to land on the list, averaging a loss of 3.7% in October and ending the month lower 60% of the time."
-    publishedDateTime: 2023-10-05T14:18:00Z
-    webUrl: "https://www.schaeffersresearch.com/content/analysis/2023/10/05/signal-says-avoid-this-chip-stock-in-october"
-    type: article
-    provider:
-      name: SchaeffersResearch.com
-      domain: schaeffersresearch.com
-    quality: 39
-    images:
-      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/sectors/bigstock-global-semiconductor-shortage--437330732.jpg?sfvrsn=e875d306_4"
-        width: 1400
-        height: 933
         isCached: true
   - title: "14 things to know about the Voice to Parliament ahead of October 14 referendum"
     excerpt: "In just over a week, Australians will know whether they are to have an Aboriginal and Torres Strait Islander Voice enshrined in the country’s constitution."

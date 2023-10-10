@@ -52,6 +52,15 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 56
+  - title: "China Has an Authoritarian Edge in AI Innovation"
+    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
+    publishedDateTime: 2023-10-10T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "XnZAGifDVteAT1iwKYDXYQ7vL8CWie0yXzvMIoioQpWspz1cRKaHAS4vd15JXjq3x+eOpidjinXByhp/NiB/AUp0jE7iMWqRnnpBEIWof3gq8SXoILilB+iGfioSKfWG+XzAlnQgqV6MrV/Zof581yRitNGgyONqO//piZR5cBwOh3KcJ7PfLwCyXJh4SeEXsTn8VXcpSwE2addFyVALtb8+meCFVzA8HoAK/l5Wfd0E0+e54IUYXHrs6qVXgVpOIaE6OFSO/xGinBpnkUDSTwL5OhdDVeFziAgKLc9Kkzi4jNHv1YTDjdD9mz6vBTDimaBIzyYKPGWkTKmpqDERjgHrT0ULU57Cf0CQUw8Nzo8=;cP1CpTUFTcEGDvahD3V5Nw=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Microsoft Translator now supports 20 Indian languages"
-    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
-    publishedDateTime: 2023-10-05T13:58:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 21
 
 secured: "JNj6nCva4tBYkjO+sR8itik+bgPkKV4814v+njEpBmyqP0Ful5e93CfC3isDmt1LIq7u693Jmco3VKBbqOksm38HE9CFBKSTbvjTinUHO7nXbrWMWE0J8XCSKMYbEMNuSOItQ26mbR7aIWnKWTvWODrBaWUyx7um45K0A4msFso05V8C5fIgIflVHuDGCtA7jEBdVOV3cArZK8tW4b1tx12V/ffWnawIROIfGkFuFejM0mQhPXxBw1tlCVxoCXcx5pyBCLKx6y+vi22TV/+tsAISzD8EZlPqmpWT8l3nzbKLbtVPU0pN/067/91cOrmNLDYCcKW3e91UlTLmW7TzxfcOkJ5Gggu6vKv5eDwpILE=;X08/Qp4dSBzFISU6m3QL6g=="
 ---

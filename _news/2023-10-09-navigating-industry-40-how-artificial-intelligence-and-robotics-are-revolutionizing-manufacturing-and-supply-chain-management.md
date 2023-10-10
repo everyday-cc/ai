@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/navigating-industry-
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
     excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
     publishedDateTime: 2023-10-06T19:25:00Z

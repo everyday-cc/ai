@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/guest-articles/company-news/latest-dynatrace-pl
 webUrl: "https://itwire.com/guest-articles/company-news/latest-dynatrace-platform-innovations-available-to-customers-on-microsoft-azure.html"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Microsoft Translator now supports 20 Indian languages"
-    excerpt: "Microsoft India on Thursday announced the addition of four new languages -- Bhojpuri, Bodo, Dogri, and Kashmiri, to Translator -- expanding support to a total of 20 languages now."
-    publishedDateTime: 2023-10-05T13:58:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-translator-now-supports-20-indian-languages-827686"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 21
 
 secured: "xtXMhMp1zmUDCv+EVQDVtc7zOPVPlkVxPBRsrjlZLH6eKu0BAmHmkRA+nahr6MZVlAc9wR5HWEU1fciYHvNFTYREuUHFm/dELAGAQ93jlSz275TXCCL9Ru8M2AAXiHyKnSQM7gF/aGsrRa1O9b6XdU344Mepldc5XweBE7/GNPr4HCJX5mRbz72zb08vj0Cem/xEhuiXwbaFMDp4ha2tyTatuQB2qXppSU64cY3VwBZQPr+15fTDsPwMVQDbF9WFdEbWvXkZ5L7Ffb4wZUeGfDHuxKICEmnFv8//c24LXpqwi6PoMKR0t98j+208h46eq+namtpFZJnAhMu5by+wk3/bgN9ngxBcALVxYw4qohLn9FEIZEkarq9HTolMyfX+75hh7Sir+oKRXklnbBX7/RFuOVVLi2Cg8OtH4a3/C/n0dOV8TCivRzm8pDhN4XUZ+P0iDXyerW2vWZM1TpV0l+fu+99oR6ny52EKu1jg4EYztdW1kXdYUuw66vIc2k6Osv4YYJ6LbWQ8lL2eqS+BXg==;sKw8C9/epcryUKBFu95afw=="
 ---

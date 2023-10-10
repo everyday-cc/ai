@@ -28,15 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "What can the insurance industry learn from fintech?"
-    excerpt: "Our Director of Product Rowan discusses the fintech industry and what the insurance industry can learn from it."
-    publishedDateTime: 2023-10-05T13:45:00Z
-    webUrl: "https://www.confused.com/meet-our-experts/content/what-can-the-industry-learn-from-fintech"
+  - title: "Budget Constraints Are Holding Back Fintech Innovation, Finds Report"
+    excerpt: "In the report, budget constraints were the top reported issue impeding executives’ ability to implement innovative solutions, but a large portion of U.S. respondents surprisingly also pointed to obstacles relating to their own firms’ talent and infrastructure, said Harry Stahl, Senior Director of Enterprise Strategy at FIS."
+    publishedDateTime: 2023-10-10T06:08:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/budget-constraints-are-holding-back-fintech-innovation-finds-report/"
     type: article
     provider:
-      name: Confused.com
-      domain: confused.com
-    quality: 4
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/10/Harry-Stahl.jpeg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "splbdnYi+BXd/2tyx7308elPf9eZKruQ/IXShE60n9pLKuw5NKOWyT62ndB2irKDGGMZHryn2490NtXD+kNyIAz/hSgvDwBDVe9ziMGx2+jrhFfpRWU0ngAo/2VPnL2YeUvDn2p89TvTGI5unzAiZNIaPDqX58iKEoGv9xMSeeULchuc4iqg8EOSS5D+ybiPKRfP+MLQzfAg13pwWuue7JRLvfU/Q4fhzQcLspK4F/NPnPsccuxmCIloPC6bFgXkoa12yM34Qqu52RoD4exTULBk+TIH+1B3mEXVNeURaSvUwKiaq3+pGr9pKmeExO4d6pbnhq0hboZR7/UnxArsGxYLVbJUszEM/WxTHrEjkQouto4TpPCh0JBXLyzUPDYVTBVKcv+huTv2VTMK1vFMwgLMcISLZGRpM6oGp/agSluzx/cff7liGGt7LZlQfubUUgX6Su7Utg4HOugcKq+Or1fVIAx/Pg42wZyf5mlREix57ATWsqzuvS64dvYymGa/iThYITg+5by1VPoEvES9NQ==;HGU3x0smj1XBISZISyASTQ=="
 ---

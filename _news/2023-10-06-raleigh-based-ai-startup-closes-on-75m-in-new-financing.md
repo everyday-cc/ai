@@ -42,15 +42,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Janover AI Drives Lender Growth on its Fintech Marketplace"
-    excerpt: "In terms of marketplace activity during the quarter ended September 30, 2023, the Company saw a 24% sequential increase in originator sign-ups (on behalf of commercial lenders) on the Janover platform, compared to the previous quarter. Importantly, approximately 9% of all banks in the United States have now registered on the Company’s platform."
-    publishedDateTime: 2023-10-05T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/janover-ai-drives-lender-growth-on-its-fintech-marketplace-1032681258"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
     excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
     publishedDateTime: 2023-10-07T09:45:00Z

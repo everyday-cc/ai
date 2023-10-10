@@ -51,6 +51,15 @@ related:
         width: 799
         height: 533
         isCached: true
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "4JZqt8J9WU3IE6ZJE83/LJeR56riFu5ghU9Rso9G3GE0kqhhkQgdonXV/GzfOMNlBzNPsF7FHrnamV5yfK8Rdsu3eVK/RABSHOhgL9/lo9r92M1hG9I7AQAo3j6b7hOrl3/IK2qdAEBg5r0j6W07I1Z18hyEhohDpY6PxwUTZ4o3LH2lw5a7c1iEBR9Spm5q4Thvd5hIrxz4kLA08m6yowRWriA6QJ8lM4IVBVTey2W5xeI0p13Sg1xOpjYL/0R3UJ798gDRb21vrqAmCvvGENl8lMC1WmxS9RjXxjQNly0zO08udxtTfFppRlryaqw/XI1hn0fQBu6K9Boy3o5fahT2POhpBf4Nwo4VBwVSUkT+XcHOtmM7+zIUjv6hgGJTKRJahXHrdM4L1y7FZaVM5n6cSQ9YHiif0tAvF4xSUIpC3Uvhz52Cb+rJt3wSf8knScidGB0dXF+P2bGNng3vAzFk46c3S23lJmgKrS9hFhevbGvEvnRdR/PjmUQXLn1kOCJCKwun5tI2YWegkG620g==;7V2vpEaGRhefPY9X6FkdUw=="
 ---

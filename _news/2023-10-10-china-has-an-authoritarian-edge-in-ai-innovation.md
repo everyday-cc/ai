@@ -22,60 +22,46 @@ topics:
   - AI
 
 related:
-  - title: "5 Human Advantages Marketers Can Use In The AI Revolution"
-    excerpt: "Marketers can capitalize on their humanity by crafting emotive and humorous content, standing out amidst the sea of AI-generated content."
-    publishedDateTime: 2023-10-05T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/5-human-advantages-marketers-can-use-in-the-ai-revolution/amp/"
+  - title: "Google claims their AI innovation far beyond rivals"
+    excerpt: "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged"
+    publishedDateTime: 2023-10-08T09:46:00Z
+    webUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news"
+    ampWebUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5ef275d1002e6b0008173689/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 900
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg"
+        width: 1600
+        height: 1062
         isCached: true
-  - title: "Cognitive Effervescence and AI's Tug on Human Evolution"
-    excerpt: "The intricate interplay between human evolution and innovation has always captivated our curiosity. Historically, innovation was spurred by necessity, following the age-old adage, \"Necessity is the mother of invention."
-    publishedDateTime: 2023-10-05T16:33:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/cognitive-effervescence-and-ais-tug-on-human-evolution?amp"
+  - title: "The Impact of AI and Machine Learning on Startup Innovation"
+    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
+    publishedDateTime: 2023-10-06T14:57:00Z
+    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
+    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
+    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/Evo.jpg?itok=ve6WkkG_"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
-    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
-    publishedDateTime: 2023-10-09T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+      name: TechRound
+      domain: techround.co.uk
+    quality: 56
+  - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
+    excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
+    publishedDateTime: 2023-10-09T07:10:00Z
+    webUrl: "https://menafn.com/1107210557/Google-Cloud-Accelerating-Dealmakers-AI-Innovation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Artificial Intelligence in the Art World"
-    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
-    publishedDateTime: 2023-10-07T12:00:00Z
-    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
-    type: article
-    provider:
-      name: Daily Utah Chronicle
-      domain: dailyutahchronicle.com
+      name: Mena FN
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
-        width: 2001
-        height: 814
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?298297"
+        width: 431
+        height: 250
         isCached: true
 
 secured: "bFT2yIuk5uKlXFgjGTuyzpHnXGBhhxyqshaSdgU4JFZsd2kBHej2JJYhVYX/VvPxMni59rzZGJdcRtRc9re3W6RfAwj6X7iMtkQHqnJtmICuWyzb7NobdCBUbTPD98Jez4j3FnHkphc9PexHVrOFkHpRRkteHEiDutn0e/T9roMdFJoDii1SI3hJQ1vbcnnG6Qbt1UMh7L26l28jmmsoPDdRxzztl51w+iNlK5Rk1y6oU/u4HsPlHmx4nudE3pH/2o5bRFKC4xfvvkMAYatKa1VzAk4fK8uyOvVXd8mDIS+UOIJ4xtihPhZiy/nvpnEWNdchShJUIxhk0dwOXe3lafDXvsJoWgn3TSWTFjT6rM7EG+5O7FkXC/RygLXdHWz9jOrmLFZIq3tme8LCRB1A/7SOg7UwhxhkItzxmSx+jYxD5gdHdCbCBmyJNu0TCcu5OHo9gl4s33SCmNkHHbbAzJXoOzDf+M2/wC+Fq0MsBfIVqMM84gWbqlCATPPTKveclJ3vUFT3W9wCRqfp0qu3fw==;35MglYP6WK86Twz+/94gJg=="

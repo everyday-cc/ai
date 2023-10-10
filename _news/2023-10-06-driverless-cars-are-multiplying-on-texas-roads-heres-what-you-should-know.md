@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfaa.com/amp/article/news/local/driverless-cars-in-austi
 cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/13869252_100523-ktrk-driverless-cars-texas-img.jpg?w=1600"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
-    excerpt: "Tribune journalists took a ride in one recently and answer the biggest questions about who’s driving the driverless trend and how the state regulates them."
-    publishedDateTime: 2023-10-05T14:48:00Z
-    webUrl: "https://www.chron.com/news/houston-texas/transportation/article/texas-driverless-cars-autonomous-vehicles-cruise-18408377.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 36
-    images:
-      - url: "https://thumbnails.texastribune.org/D2msC_JEBdWp6ALBXoSBY_hu9a0=/1200x804/smart/filters:quality(75)/https://static.texastribune.org/media/files/84f9d5b640aad906bcd10804d39773e1/0926%20Driverless%20Cars%20TT%20JS%2014.jpg"
-        width: 1200
-        height: 804
         isCached: true
 
 secured: "aDVOH3YLgIfaFYHJ88nTBLIpufrtKsg/4RMtY+BOJy+NBQ1eKiRqz+P61URUiiMESzO+3QNCtQxvbiqiJSM2miggAp8SSPkLme8cpZRG5OpLMS6mDXK5nHKaP2TOzuFexoaoOHUlb/mgsjwxtrPGwfGYfA69hCsruQYbPkREX2KwDfV+/wXcCGhFztrn7Bc2BHAZsCn2xKMjbCChAdxrb/vF0n03IoH1sKqrj6YYEoLIa8u7YAywU3xH7RLT89etL9NutguIayFQuXE2d7z948VoUV1K4qiMH8KsFbwGiUuQfegNWooiLqdEjJUUEKhD5+PfKxluj2ss1VZf2BIIGFMNP2fuIIMX22muhfa8EV0flZJo1s+lqUFML8lHrJJHpZz3Cv1UybzoZWtPmCZM2HMiXA/hojA1rdKbZi7uvd7EbnBWAeGYVHRyx/crLrDWcF5xMG2/n6iuLiFDOHXl0Xdq4tUx7j3YfXZoFEbEpw1Qhf8SBxUoh+u2kak/RMQp0YJbxC10eewUS1T51U1ToQ==;mDyGhm9WtSu4v1F/5I7uPg=="

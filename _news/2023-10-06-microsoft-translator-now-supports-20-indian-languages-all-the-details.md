@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-transla
 webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-translator-gets-supports-for-20-indian-languages-all-the-details/articleshow/104189572.cms"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Translator adds four new Indian languages including Bhojpuri and Kashmiri"
-    excerpt: "Microsoft Translator gets a step closer to its goal of supporting all 22 official Indian languages with the addition of four new local languages including Bhojpuri, Bodo, Dogri, and Kashmiri."
-    publishedDateTime: 2023-10-05T14:47:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2619452-microsoft-translator-adds-four-new-indian-languages-including-bhojpuri-and-kashmiri?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 55
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_08_2021_14_14_20_6213924.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft Translator gets updated with new Indian languages: Here are all of them"
     excerpt: "Microsoft Translator has four new Indian languages including Bhojpuri, Bodo, Dogri, and Kashmiri. Check out the rest of them."
     publishedDateTime: 2023-10-06T12:18:00Z

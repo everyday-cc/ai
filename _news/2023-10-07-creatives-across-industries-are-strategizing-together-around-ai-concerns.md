@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Understanding Generative AI Risks For Hollywood Is the First Step Toward Beneficial Adoption"
-    excerpt: "Understanding risks of generative AI for Hollywood is the first step toward beneficial adoption and preparedness for the technology."
-    publishedDateTime: 2023-10-05T14:00:00Z
-    webUrl: "https://variety.com/vip/understanding-generative-ai-risks-for-hollywood-is-the-first-step-beneficial-adoption-1235745465/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 6
 
 secured: "cvPKE0me/hyYEyR9Z0iAM720f08Kb8pRJe1dGEfjQ7TVoTXgHm3LEyCRYcBF5CMNnHsmf3GRQNjNo2Nc3D4+xWkSasgVtn2whzhyFLQTSB4vq8e/54UzZ9HmurSLg1+bSbgZgyKHR7exp9I3WFS1wYiiBL22qbdyFD23GCmGN7zIfF7HlkXo0m9oHzYU1dLL3y4TO7lTAU7FzenmasvBHOx1JKtXo8ThMG53R/vCkoaPkqgODBvVGEfbkAPi5SHJzCZSfZ3vRKTxmlv+9c20QVeZH9JY9HS9CbNneoIINm9qct2MbLcGIZDATrhY88pir5oHtJz09tEzFmlWInNqsA4jcjKTfccfjpohwDCkmtjpVTKUuMW/r6RyIFcMu11AGBWLhZGlDo+/9C0IzBtQW5WCdZWnH0ijzQzWbTwsjhaeBh6b92E+fchNRWlr9fzGNOOQd3o+ymNyBd8OwgTjAwxGfgr3NJWNtLEczd7AWR4IUI7fZKvFpCwInaEWYBdGPdoRi9sVADrAFUe9aLc0IA==;AEiRMRSDRZjHNbP4OJAhjQ=="
 ---

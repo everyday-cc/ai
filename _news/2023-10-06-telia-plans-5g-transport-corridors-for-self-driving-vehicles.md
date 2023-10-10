@@ -24,6 +24,22 @@ images:
     height: 464
     isCached: true
 
+related:
+  - title: "Funding to examine how self-driving vehicle technology can improve local transport"
+    excerpt: "Six projects have received Government and industry funding to conduct feasibility studies on how self-driving vehicle technology can improve local transport."
+    publishedDateTime: 2023-10-10T07:46:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/funding-to-examine-how-self-driving-vehicle-technology-can-improve-local-transport"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 18
+    images:
+      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
+
 secured: "wSgM11kjtlM8/l8SJxAu/b3HBmmf79RcHsNdbeVMnBb3qGa5V+jGVaY1Psz2YsxuoNri7JYJx7geBC7WFC9N+1WW7De0apIrr6i6/WU9Mg0KXAhrlOP4po1UaKMUbqDImDvNQmMUnsNdQqGt1reF/g/QkZTXnUhzOt/F5t2IEG32o2EI9GYdqkgUbE5al3i9MOKvnanTDMxk40xjwcomloGIJfeDT5ns60Q9oSKLDyfuIhm6Ctye+DGsra24dfaD6G60jiEZd7VNRnPkmAoK2HJ7fwMVi5dubv4w8gHVL+xGsDE7fpN3A38HwsxLJIFDDI9q4hczCiZxGepzCJqzFBawwewgibgIXG5P63WKQG2xf1kDTDtl605pN8R04WyaX0FBgNcD5M1HgCufZih/wKRC+vO0czyAZnSZowWC8d9z8VzOiOF2fwVP4ypthu9OOuejIchvVHu+btBh40x9aUL59Dj8svXLVn4Cjv3+hNpAXM9IN+iEkt92C7h3v91E63ZxyrCsiJ8oQNZOWDrE5A==;hIsjK0Z9ArLoHvydgaSVFw=="
 ---
 

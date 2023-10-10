@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-08-31-a-new-role-emerges-for-software-leaders-overseeing-generative-ai.md",
-      "title": "A new role emerges for software leaders: Overseeing generative AI",
-      "excerpt": "Most software leaders will manage generative AI efforts by 2025, Gartner predicts. This has implications for their roles well beyond application development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ae8ee1007cd4508dc9e65f6cab3479980a6c23c1/2023/08/30/9c93be2f-7e9b-4997-bcea-4a067819ec5e/double-gettyimages-621856560.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
-      "publishedDateTime": "2023-08-30T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2023-08-30-techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers.md",
       "title": "TechCrunch+ Roundup: SaaS+ basics, Labor Day book picks, building trust with AI customers",
       "excerpt": "Eight decades later, we’re once again rushing into a new technological era without first creating a framework for ethics, safety, trust, or a thousand other considerations. Since there are no industry standards or government agencies guiding AI ...",
@@ -1441,6 +1389,58 @@
         "AI Ethics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-08-11-11-skills-youll-need-to-use-ai-effectively.md",
+      "title": "11 Skills You’ll Need To Use AI Effectively",
+      "excerpt": "This is foundational: basic computer skills, navigating the internet, comfort using new software for AI as it develops. Understanding how data is used by AI systems and how we use (and misuse) data. This includes data collection techniques, data privacy, and the potential for data bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d5448255e2983976b1ea3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 771,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/08/10/11-skills-youll-need-to-use-ai-effectively/amp/",
+      "publishedDateTime": "2023-08-10T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

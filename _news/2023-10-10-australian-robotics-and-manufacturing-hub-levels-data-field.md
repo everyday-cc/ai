@@ -7,8 +7,8 @@ originalUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturin
 webUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturing-hub-levels-data-field/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Manufacturers' Monthly
@@ -41,6 +41,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
+    excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
+    publishedDateTime: 2023-10-10T06:26:00Z
+    webUrl: "https://www.voanews.com/a/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
+    ampWebUrl: "https://www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
 
 secured: "LXlmDcpFBl+rT6rBJ3IQYApeS9UzJ7oHEYUAV0XZ4afhbqs0URV3tsydXeom2Wozr1P/JZ4kXpkGnyPtu3kyTtM6gJCh9/Ru3oGr+8mcqoIe6g3zolH3p1nqjR1UHql6P23ST28gv5DWnGu5+J3BxEs8k5UmgTXjkaYcQbk1q1FtV+/As7DI2+qxUxzoMRkohy1Mxv5qeejGYEYU/WAc88xJnpRCX+bpFpimu3yiW4gKZTALsGpKZeESNGHElLO6GeuFloFj6Mn0stY8YHC+gtigus+SFNq21Qngl5rs3tAYlwI00AUvWHXNEBEPVrHbhxlRQYkbMVEyDU+tBo022a+No/jskAKoY2oe2tSaPTY=;GLIV3+YlEZEDiNZKB7Chtw=="
 ---

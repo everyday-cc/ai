@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
-excerpt: "DeKALB COUNTY, Ga. -- A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers. Randal Quran Reid, 29 ..."
-publishedDateTime: 2023-10-09T18:02:00Z
-originalUrl: "https://abc7ny.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
-webUrl: "https://abc7ny.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
+publishedDateTime: 2023-10-09T18:01:00Z
+originalUrl: "https://abc7.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
+webUrl: "https://abc7.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: abc7NY
-  domain: abc7ny.com
+  name: ABC7
+  domain: abc7.com
 
 topics:
   - Natural Language Processing
@@ -87,6 +87,6 @@ related:
         height: 1152
         isCached: true
 
-secured: "PTfCvamAngMrAIv8mUxfTFfg71Nrx19uOoCy3ssf9Q7E3Scr2N9Dj2VJjxc+Kxb1iQORHPe/8jKLptm5DflAWNR+JMYMgqXohwyrWtIJz6Z89RmqbcYQ3V99zJyLjs7az54izKJfAvk1p55DhwdW5cDzToTsfvpYuzZ2JmdoZxN2grdIRW/3fFrARSMVXjG9Vfdf6S0lIKYlaCj3nk/YeOt/+YpRmAdlBRE/HOpfhUd+N1zVvfGojeheXg2cXZt1pem7wcmhRqJBhRO7UBkNG5Hed8ooqIQHcoMPpCUKQSmgDGSN74+LskCPVLpv1sWZzjz98kueYgfa+UwNsYqV7t/DmeJbmwciy0jFCMDXLo3kTRDXi/4cbcLvXFKcNrzJe9NiEu/dtGbx4/6Kz8p8rTaAr5+TvgtJYHCoA0rYN/CZsfaJxr7J0JCgiJLjeBFHMUqA010rZfRAZK16WkHIBGmprBySgYiY364OiCbrud9fYnK0nm72bDGmFAxh5exJdzfjUHwpD7yzxOw0zfhs0A==;55x4i3mylaq3DSXQUWq/0g=="
+secured: "5zzKWI/ExYa9kWGE1YPTAX2bH5wxgjGFyu/kpoVAu4+H58DGxoil41nnvFmhklZxQxHwk7Esu72CZr4mSVFs9max5emkDfOwKi9cCOC7gSlix7CyxOWPDMcmQr2iarGDgQgiI6KBiZHKGSlsokUM/XVLICYVfJ98W61K4cU5e4x0izNDXJ9frTDTlnjOwOV510YDEld3dlODYqeaIIlCtXM/PWo3Uam3l+kXma3D6BWQzsnmHD+GVlYD3ZphwZPdMZNq6e/5K07vfa0m9IOAoBk+nSOYr1FyGvqC2dKxoLyeAGBzuZR+HL14ydt84vqcY42FZqziq3JGXuhbrhnOy27LZxU5Lta9pUKt2QkzU/g=;kGLTmAGBDxg+C0CiSVscFw=="
 ---
 

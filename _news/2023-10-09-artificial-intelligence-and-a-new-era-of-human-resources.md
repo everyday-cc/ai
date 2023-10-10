@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-
 webUrl: "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Undetectable AI Writes Like A Human"
-    excerpt: "Undetectable.AI is an AI text humanizer that re-writes AI-generated copy in the style of a human writer. What this effectively does is trick AI detectors by disguising AI content as the work of human hands. The software itself was created by a Ph.D. student and can replicate human writing styles well enough to bypass AI detection programs."
-    publishedDateTime: 2023-10-05T14:31:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/05/undetectable-ai-writes-like-a-human/71045778007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 19
   - title: "Creating a new urban era with AI"
     excerpt: "Eighty per cent of cities face significant climate hazards – such as extreme heat, rainfall, drought or flooding, according to environmental data charity CDP. Its 2022 Protecting People and the Planet report also highlights that these issues are expected to threaten at least 70 per cent of the population in 28 per cent of these cities."
     publishedDateTime: 2023-10-09T13:30:00Z

@@ -35,6 +35,17 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Fact check: AI doctors on social media spreading fake claims"
+    excerpt: "AI-generated bots on social media often appear as doctors, giving medical advice. However, many of these videos contain false information. To ensure the accuracy of medical advice, users should research the source and cross-check information with scientific studies."
+    publishedDateTime: 2023-10-10T07:18:00Z
+    webUrl: "https://frontline.thehindu.com/science-and-technology/fact-check-ai-doctors-on-social-media-spreading-fake-claims/article67402790.ece"
+    ampWebUrl: "https://frontline.thehindu.com/science-and-technology/fact-check-ai-doctors-on-social-media-spreading-fake-claims/article67402790.ece/amp/"
+    cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/science-and-technology/fact-check-ai-doctors-on-social-media-spreading-fake-claims/article67402790.ece/amp/"
+    type: article
+    provider:
+      name: frontline.thehindu
+      domain: thehindu.com
+    quality: 39
 
 secured: "SKPwi4yLJLYF/u0O+4GN7KiEeACPSn3TJRDBLUrdqpku/JRxkdlFCay8ZAl0KCqlW5qA/K9f2pWdokW/kB2Sy+n6TBJ8Z7Yv1yLrP8GQeu6gcbm7Z4Z66n+ELJzQCHuNtEmEpXzD2gG+OZgmP/GRuIruQiHW8CgRh9myenYNW4R/iopTsN8/pP1rVHbNtTjMur29VPVjodRzeSOobgSxccNqP/mZlRYYHD9D/tgZyYZIXmd3xNwkusffNoATMXr89MozdnZEqGqFS+w/cNoLLF8/me6OLRd8zuzMPzNIZByWD+pXMTZ8C2N0HKio44Z91PFt21hKs+fbe7ZTERkNAtKynowfcByWnHQtjO+Y8pc=;7Fb3GmVexdSnMSrq0Dfdeg=="
 ---

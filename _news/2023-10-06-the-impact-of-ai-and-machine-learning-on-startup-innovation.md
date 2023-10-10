@@ -38,6 +38,15 @@ related:
         width: 1600
         height: 1062
         isCached: true
+  - title: "China Has an Authoritarian Edge in AI Innovation"
+    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
+    publishedDateTime: 2023-10-10T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
     excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
     publishedDateTime: 2023-10-09T07:10:00Z

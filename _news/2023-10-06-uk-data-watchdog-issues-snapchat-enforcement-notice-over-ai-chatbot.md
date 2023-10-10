@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Likewise debuts Pix, an AI chatbot for entertainment recommendations"
-    excerpt: "Likewise, the company behind an app that can recommend your next TV binge, movie to watch, podcast to stream, or book to read, is out today with its own"
-    publishedDateTime: 2023-10-05T14:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/"
-    ampWebUrl: "https://techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/05/likewise-debuts-pix-an-ai-chatbot-for-entertainment-recommendations/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/pix-app.jpg?resize=1200,642"
-        width: 1200
-        height: 642
-        isCached: true
   - title: "Snap’s AI chatbot draws scrutiny in UK over kids’ privacy concerns"
     excerpt: "Snap’s AI chatbot has landed the company on the radar of the UK’s data protection watchdog which has raised concerns the tool may be a risk to children’s privacy."
     publishedDateTime: 2023-10-06T14:00:00Z
@@ -78,36 +62,6 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Modern Campground Announces Partnership With Insider Perks To Launch Campy, An AI Chatbot"
-    excerpt: "The AI chatbot, named Campy, will have a range of useful abilities that aim to help all kinds of camping enthusiasts, from first-time tent campers to seasoned RV travelers. With access to Modern Campground’s comprehensive Campground News resource,"
-    publishedDateTime: 2023-10-05T13:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/modern-campground-announces-partnership-with-insider-perks-to-launch-campy-an-ai-chatbot-1032664766"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://thenewsfront.com/wp-content/uploads/2023/09/campy-original-high-300x300.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "The Latest AI Chatbots Can Handle Text, Images and Sound. Here’s How"
-    excerpt: "Since that time, these chatbots have demonstrated an impressive capacity for generating text and code, albeit not always accurately. And now multimodal AIs that are capable of parsing not only text but also images,"
-    publishedDateTime: 2023-10-05T16:58:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/"
-    ampWebUrl: "https://www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-latest-ai-chatbots-can-handle-text-images-and-sound-heres-how/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/8F55F0EE-179B-4E3C-BD4FF56C2F58D717.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Snapchat: Snap AI chatbot 'may risk children's privacy'"
     excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
     publishedDateTime: 2023-10-06T15:45:00Z
@@ -123,20 +77,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73FE/production/_131349692_gettyimages-1611746676.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
-    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
-    publishedDateTime: 2023-10-08T21:25:00Z
-    webUrl: "https://thethaiger.com/ph/news/554694/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 48
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
         isCached: true
   - title: "Snap might have to withdraw its AI chatbot, watchdog says"
     excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
@@ -170,29 +110,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Linklaters explores gen AI with Google’s Vertex AI for search, an OpenAI chatbot, and CoCounsel"
-    excerpt: "Linklaters has outlined the early work that it is doing with generative AI-based technologies including Google Vertex AI, OpenAI and CoCounsel"
-    publishedDateTime: 2023-10-06T11:27:00Z
-    webUrl: "https://legaltechnology.com/2023/10/06/linklaters-explores-gen-ai-with-googles-vertex-ai-for-search-an-openai-chatbot-and-cocounsel/"
-    type: article
-    provider:
-      name: Legal Technology
-      domain: legaltechnology.com
-    quality: 27
-    images:
-      - url: "https://legaltechnology.com/wp-content/uploads/2023/09/Oct-Nov_2023_Web_300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Celebrity Just Might Be Meta’s Edge in the AI Chatbot War"
-    excerpt: "In May, a popular Snapchat creator launched CarynAI as an AI-powered girlfriend, powered by OpenAI’s GPT-4 and created by startup Forever Voices, offering fans personalized interactions at $1 a minute. Celebrities have also been exploring their own ..."
-    publishedDateTime: 2023-10-05T13:27:00Z
-    webUrl: "https://variety.com/vip/celebrity-just-might-be-metas-edge-in-ai-chatbot-war-1235745299/?n=@"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 17
 
 secured: "+7g3aX6eSc9KDMdp5/OWTdCR80NY6fy48t5LOgq8cTz3rk1Hjs5j/Ip1B3/yk7au9K/bhw7SgeaABhH/XIu+H1HGqOnRsrxdXyeg9YbcNO9+CUol0DF1dZ5UxPc6e1g4p6a5AQ5SFGlPMQ2b0HvdPJiKuV/tFnBTV3mKq3TyT5+h2BPO8awkRg9JvHJ5bDZKQXYQ9OUeGQ42FB/pSGxvh+crmjzOtzC5z60WRjsR8pAVGTWeL9D8nvGtPWDA+v7pkHft4fl/f52xkso6ITykFardhm2hxOZcBYygOBox9HNgvaJPx1PAYpnSuXpfBD5rzM3q6U6i0s/vkGnyVTo4tq7JrJgvcRJgtNZGy/Za952Fz+u7vQVaBp4+3xsW/UykmhRE4vvnrdjX6E6fUiDfiDjP4QHgsDOYM+Ijl42yVUANmTuIkjQOKOIUJEwbf1kLBNDawFqTj1lv+paejM+pG+fxC338lXN8OPcHMuabIEkdSdNfuFy7uCns1pbJjnbxoEjwktB14iC/YVwz8C2h7Q==;/Ylac8YLIkyTMYoplK/8Tg=="
 ---

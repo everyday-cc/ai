@@ -63,15 +63,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Generative AI For Enterprises: The Cure Or Just A Hype Tool?"
-    excerpt: "Many enterprises have started treating the technology as the ultimate problem-solver, a cure to their common pain points."
-    publishedDateTime: 2023-10-05T13:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/05/generative-ai-for-enterprises-the-cure-or-just-a-hype-tool/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Spend Connect - SAP brings generative AI to enterprise spend"
     excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
     publishedDateTime: 2023-10-09T18:05:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/news/health/news/fact-check-ai-doctors-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/news/health/news/fact-check-ai-doctors-social-media-spreading-fake-claims-3438586?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Daily Star
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Fact check: AI doctors on social media spreading fake claims"
+    excerpt: "AI-generated bots on social media often appear as doctors, giving medical advice. However, many of these videos contain false information. To ensure the accuracy of medical advice, users should research the source and cross-check information with scientific studies."
+    publishedDateTime: 2023-10-10T07:18:00Z
+    webUrl: "https://frontline.thehindu.com/science-and-technology/fact-check-ai-doctors-on-social-media-spreading-fake-claims/article67402790.ece"
+    ampWebUrl: "https://frontline.thehindu.com/science-and-technology/fact-check-ai-doctors-on-social-media-spreading-fake-claims/article67402790.ece/amp/"
+    cdnAmpWebUrl: "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/science-and-technology/fact-check-ai-doctors-on-social-media-spreading-fake-claims/article67402790.ece/amp/"
+    type: article
+    provider:
+      name: frontline.thehindu
+      domain: thehindu.com
+    quality: 39
   - title: "10 Leading Social Media Companies In The Artificial Intelligence Theme"
     excerpt: "Facebook is no stranger to AI either ... which is the next-generation AI efforts that we’ve talked about around advanced research and Gen AI and that’s a place where we’re already standing of training clusters and inference capacity, but we don ..."
     publishedDateTime: 2023-10-05T16:37:00Z
