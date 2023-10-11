@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-09-this-iconic-artificial-intelligence-stock-is-hiding-in-plain-sight.md",
+      "title": "This Iconic Artificial Intelligence Stock Is Hiding in Plain Sight",
+      "excerpt": "While IBM isn't going to ever grow as fast as Nvidia, which leads the market for AI chips, the company's AI efforts should help drive solid, sustainable growth in the long run. The BofA analysts maintained a $160 price target on the stock, which is about 12% higher than the current stock price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/750147/artificial-intelligence-ai-data-deep-processing-3.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-amd-could-fail-in-artificial-intelligence-for-1-reason.md",
+      "title": "AMD Could Fail in Artificial Intelligence for 1 Reason",
+      "excerpt": "Analysts at Baird greatly reduced their price target for AMD stock on Thursday , with the company's AI potential being the main sticking point. While Baird kept an \"outperform\" rating on the stock, its price target was dropped from $170 all the way to $125.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/750146/man-in-business-suit-pushing-boulder-uphill-like-sisyphus-hard-work-ethic-effort-challenge-businessman-1.jpg",
+          "width": 2290,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T03:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-the-best-october-prime-day-robot-vacuum-deals-happening-now.md",
       "title": "The best October Prime Day robot vacuum deals happening now",
       "excerpt": "Amazon's Prime Early Access Sale is almost over, so don't miss the best Prime Day robot vacuum deals to shop today.",
@@ -217,7 +320,7 @@
       "originalUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -260,7 +363,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -311,7 +414,7 @@
       "originalUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -399,7 +502,7 @@
       "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -830,7 +933,7 @@
       "originalUrl": "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1130,112 +1233,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-datastax-tools-up-vector-database-for-generative-ai-application-development.md",
-      "title": "DataStax Tools-Up Vector Database For Generative AI Application Development",
-      "excerpt": "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6520216ce19ce79d5fac2df5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
-      "publishedDateTime": "2023-10-06T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-survey-challenges-and-solutions-in-generative-ai-adoption.md",
-      "title": "Survey: Challenges and Solutions in Generative AI Adoption",
-      "excerpt": "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "originalUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-09-01-are-self-driving-cars-already-safer-than-human-drivers.md",
+      "title": "Are self-driving cars already safer than human drivers?",
+      "excerpt": "Based on this data, Cruise claimed that over its first million miles, its vehicles crashed 56 percent less often per mile than a typical human driver. Moreover, Cruise estimated that its cars were 73 percent less likely to be in a crash with a risk of a serious injury and 93 percent less likely to be the “primary contributor” to a crash.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+      "originalUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/self-driving-hud-analysis-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/09/are-self-driving-cars-already-safer-than-human-drivers/amp/",
+      "publishedDateTime": "2023-09-01T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-intels-gaudi-2-beats-nvidias-h100-in-certain-ai-tasks.md",
+      "title": "Intel's Gaudi 2 Beats Nvidia's H100 in Certain AI Tasks",
+      "excerpt": "While Nvidia's latest data center GPU is the top dog among AI accelerators, Intel offers a viable alternative with its Gaudi 2 chip. Gaudi 2 can't match Nvidia's H100 in most cases, but it comes out way ahead in one type of AI workload.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/01/intels-gaudi-2-beats-nvidias-h100-in-certain-ai-ta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/746219/gettyimages-1452877140.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai.md",
       "title": "The True Cost Of Bad Data And How It Can Hinder The Benefits Of AI",
       "excerpt": "As AI becomes more sophisticated, it is imperative for organizations to develop standards for ethics within AI.",
@@ -1069,109 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-ai-start-up-investments-bucking-venture-capital-decline-trends.md",
-      "title": "AI Start-Up Investments Bucking Venture Capital Decline Trends",
-      "excerpt": "This article briefly discusses the rate of growth of the AI Startup market in the USA, with recent stats from Crunchbase.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f10ab4e75967af225d6d54/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
-      "publishedDateTime": "2023-08-31T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
-      "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
-      "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "originalUrl": "https://www.marketwatch.com/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-845561/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks-bc22d943",
-      "publishedDateTime": "2023-08-31T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

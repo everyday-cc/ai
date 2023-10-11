@@ -19,18 +19,18 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Chip Market Size Is Projected To Reach $37,849.8 Million By 2025 | Registering A CAGR Of 40.8%"
-    excerpt: "The global machine learning chip market growth is driven by emergence of quantum computing, growth in number of machine learning applications, and trend in artificial intelligence (AI)” - David Correa WILMINGTON, DELAWARE , UNITED STATES, October 7 ..."
-    publishedDateTime: 2023-10-07T17:08:00Z
-    webUrl: "https://menafn.com/1107205569/Machine-Learning-Chip-Market-Size-Is-Projected-To-Reach-378498-Million-By-2025-Registering-A-CAGR-Of-408"
+  - title: "Artificial Intelligence In Energy Market News | 17%+ CAGR"
+    excerpt: "The Artificial Intelligence in energy market size was valued at $4 billion in 2021, and is estimated to reach $19.8 billion by 2031, growing at a CAGR of 17.4% from 2022 to 2031."
+    publishedDateTime: 2023-10-10T22:59:00Z
+    webUrl: "https://menafn.com/1107221928/Artificial-Intelligence-In-Energy-Market-News-17-CAGR"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 36
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?323398"
-        width: 437
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?85403"
+        width: 375
         height: 249
         isCached: true
 

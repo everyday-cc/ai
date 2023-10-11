@@ -35,22 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Revolutionising banking: The role of AI in shaping the future"
-    excerpt: "Prag Sharma, Global Chief of AI, Citibank, says Generative AI represents unprecedented progress in our quest to create machines like us. “Its all-encompassing capabilities will eventually support us in many aspects of our lives. We will live surrounded by many more AI-capable machines in the future.”"
-    publishedDateTime: 2023-10-06T05:31:00Z
-    webUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun"
-    ampWebUrl: "https://www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/opinion/business-insights/revolutionising-banking-the-role-of-ai-in-shaping-the-future-x5p6syun?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OGZmNzYzNjMtZTQwMy00/5/usa-artificial-intelligence.jpeg?f=3%3A2"
-        width: 799
-        height: 533
-        isCached: true
   - title: "As Manufacturing Returns Home - Here Is How AI Can Help Ensure Better Collaboration Between Suppliers"
     excerpt: "As Chinese manufacturing slows and the war in Ukraine continues, more U.S. companies are shifting their offshore operations back to reshoring or near-shoring activities."
     publishedDateTime: 2023-10-10T18:44:00Z

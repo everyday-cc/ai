@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
+      "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
+      "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "originalUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "publishedDateTime": "2023-10-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
       "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
       "excerpt": "According to the Texas Department of Transportation, multiple companies are testing and operating driverless vehicles “as passenger, freight and personal delivery devices” all over the state.",
@@ -1309,49 +1352,6 @@
       "provider": {
         "name": "IT-Online",
         "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-the-future-of-artificial-intelligence-in-the-travel-industry.md",
-      "title": "The Future of Artificial Intelligence in the Travel Industry",
-      "excerpt": "Artificial intelligence (AI) is disrupting the travel industry by promoting speed, efficiency, safety and accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "originalUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Future_of_Artificial_Intelligence_in_the_Travel_Industry.jpg",
-          "width": 1280,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

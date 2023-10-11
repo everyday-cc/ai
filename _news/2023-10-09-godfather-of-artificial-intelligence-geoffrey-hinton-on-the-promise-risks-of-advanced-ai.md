@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minut
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
 type: article
 quality: 68
-heat: 99
+heat: 98
 published: true
 
 provider:

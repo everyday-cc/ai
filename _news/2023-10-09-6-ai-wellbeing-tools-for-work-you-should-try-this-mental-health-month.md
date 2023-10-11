@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

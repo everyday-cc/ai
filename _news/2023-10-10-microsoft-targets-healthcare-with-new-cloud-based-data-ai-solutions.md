@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
 type: article
 quality: 121
-heat: 491
+heat: 481
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
       - url: "https://tii.imgix.net/production/articles/11418/b13870cc-3991-4322-8e1f-3cd48e02df56.png?fm=jpg&auto=compress&w=1200&frame=0"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The AI Revolution: How Microsoft Is Positioning Itself for the Future"
-    excerpt: "Microsoft is integrating AI into existing products and operations. AI will propel Azure Cloud to greater heights. The artificial intelligence (AI) revolution represents a transformative force ..."
-    publishedDateTime: 2023-10-06T07:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/06/the-ai-revolution-how-microsoft-is-positioning-its/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/749625/computers-office-getty-6217.jpg"
-        width: 2120
-        height: 1414
         isCached: true
   - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
     excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."

@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
-excerpt: "Generative AI models are exceptionally proficient in predictive analytics and forecasting. Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management, inventory projection, and demand anticipation."
-publishedDateTime: 2023-09-30T09:20:00Z
-originalUrl: "https://www.netindia123.com/netindia/showdetails.asp?id=4124447&cat=Business"
-webUrl: "https://www.netindia123.com/netindia/showdetails.asp?id=4124447&cat=Business"
+excerpt: "Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management,"
+publishedDateTime: 2023-09-30T04:34:00Z
+originalUrl: "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses"
+webUrl: "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses"
+ampWebUrl: "https://www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp"
+cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2613232-microsofts-generative-ai-initiatives---a-vision-to-transform-businesses?amp"
 type: article
 
 provider:
-  name: Net India 123
-  domain: netindia123.com
+  name: devdiscourse
+  domain: devdiscourse.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Un3rAATzKLk1fvU5LaQk1i7V865UEHSxi63m2MNEwXlyR2d/VB/kG0Uh2Ae4DFeSQRv9EWlaSjcq4vBQS7dPmaGW+S4prpH2P/p55VAhzk3GeHHlW5/doghYLtsT2Osk2Ed6tjJGQE5T8RslsOhrox73ju4JrpcrDkEbKtVsy2dKwR/Ozn+ESD9VrqD5Zglqfyi4TWxnNdoSGdpsi++sorKb9L2KR2nwWdLNtA7V/MvalGsh1DY+8jXxK9VVMPZTdPsAB4jxJ3P8TF69w+3XxVekhVoR4uGqUaSAUlqj7eEdbbJrnxuKhMEBLJb36jhQ0ESu0/Ki3YSzRK3nkJnzTt8eCsxMOD8ygZb3ZfZMlXU=;LTSKEBNbK4180yFuDKod0w=="
+images:
+  - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_09_2023_10_10_49_7841185.jpg?width=1280"
+    width: 1280
+    height: 1046
+    isCached: true
+
+secured: "QaoPgWuUFwbFVt0S7o82H28eptDYU6uGCpvEprOgrHoLhsWa0Sk5vwWAtd+OhwPk450F2YdF2ekh/b1o+10P5T62/Zi4X6/Rysojw8ehEddrIcKLgDNnlZ6z3dXVJACn+xT244U4hA3CbNoz1YSMkC1zUXDz6MIlFzSCJ7+2RerOKP2rz3P2zHmeivN3VPI/k0bswvM0hh5sjV6X0xv4rjdeY6xTT/JFpdoNAIUyhkkXLbNYa9eXBQX4jQFJKefyRh1kUHJ+C4MnesnWNS52RkcmJiKgggYzTsrgIyVA4FNmOu05YGkEhAEGsl64ElFzRMQ7rFE7iHa4+EryEs1H8Ni3YNUcN0F7tyU5xP94hiE=;/7QXgJyvX1kE8AiizSa1JA=="
 ---
 

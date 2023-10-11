@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-27-the-future-of-artificial-intelligence-in-the-travel-industry.md",
+      "title": "The Future of Artificial Intelligence in the Travel Industry",
+      "excerpt": "Artificial intelligence (AI) is disrupting the travel industry by promoting speed, efficiency, safety and accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
+      "originalUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Future_of_Artificial_Intelligence_in_the_Travel_Industry.jpg",
+          "width": 1280,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-driverless-ice-cream-trucks-3d-avatar-booths-hangzhou-shows-off-tech-innovations-at-asian-games.md",
       "title": "Driverless ice cream trucks, 3D avatar booths: Hangzhou shows off tech innovations at Asian Games",
       "excerpt": "The city of 12 million is using the Asian Games as a window to showcase China’s cutting-edge technologies, including big data, artificial intelligence, and virtual reality.",
@@ -1291,51 +1334,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-5-blue-chip-growth-stocks-to-buy-according-to-ai.md",
-      "title": "5 Blue-Chip Growth Stocks to Buy According to AI",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-according-to-ai-1032637898",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
         "AI in Autos"
       ]
     }

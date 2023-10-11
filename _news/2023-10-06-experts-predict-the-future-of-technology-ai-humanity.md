@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the
 webUrl: "https://www.wired.com/video/watch/tech-support-experts-predict-the-future-of-technology-ai-and-humanity"
 type: article
 quality: 67
-heat: 100
+heat: 97
 published: true
 
 provider:

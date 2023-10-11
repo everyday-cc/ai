@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
+      "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
+      "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6525d31e5fc01b0602309957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1306,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "publishedDateTime": "2023-10-10T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-adobes-ai-image-generators-get-beefy-updates-including-vector-graphics.md",
       "title": "Adobe’s AI image generators get beefy updates, including vector graphics",
       "excerpt": "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill.",
@@ -92,6 +144,48 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-gitex-global-dubai-ignites-start-up-innovation-in-ai.md",
+      "title": "GITEX Global: Dubai ignites start-up innovation in AI",
+      "excerpt": "Dubai is set to become the epicentre of the global artificial intelligence movement as it hosts the 43rd edition of GITEX Global, the",
+      "sourceUrl": null,
+      "webUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/",
+      "originalUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/10/Untitled-design51.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1",
+      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1",
+      "publishedDateTime": "2023-10-10T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ventureburn",
+        "domain": "ventureburn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -229,50 +323,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.md",
-      "title": "Why are OpenAI, Microsoft and others looking to make their own chips?",
-      "excerpt": "As demand for generative AI technology grows, chip shortages are not the main reason behind developing custom silicon, experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.html",
-      "originalUrl": "https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 321,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/10/ai-chip-100946969-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.amp.html",
-      "publishedDateTime": "2023-10-10T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -433,7 +483,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 491,
+      "heat": 481,
       "tags": null,
       "images": [
         {
@@ -1171,58 +1221,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-aws-releases-cloud-institute-virtual-program-to-train-developers.md",
-      "title": "AWS releases Cloud Institute virtual program to train developers",
-      "excerpt": "In an effort to reduce the scarcity of trained cloud developers, AWS is releasing a new virtual program, dubbed Cloud Institute. AWS Cloud Institute, which is a one-year program with 12 different courses spread across four quarters, has been designed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/04/11/shutterstock_editorial_2329866433-100944305-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
-      "publishedDateTime": "2023-10-10T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

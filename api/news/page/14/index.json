@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2023-09-28-microsoft-technology-chief-says-supply-of-nvidias-ai-chips-is-improving.md",
+      "title": "Microsoft technology chief says supply of Nvidia's AI chips is improving",
+      "excerpt": "Kevin Scott, Microsoft's chief technology officer, said supply of Nvidia's graphics processing units is improving now that generative AI hype has cooled a bit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107307592-1695838100881-gettyimages-1704491000-_jhb3989_pt5jwnsd.jpeg?v=1695847852",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/27/microsoft-technology-chief-says-supply-of-nvidia-ai-chips-is-improving.html",
+      "publishedDateTime": "2023-09-27T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-integration-propels-machine-vision-research-reviews-in-sensor-visual-perception-and-inference.md",
+      "title": "Integration propels machine vision: Research reviews in-sensor visual perception and inference",
+      "excerpt": "A joint research team in China wrote a review on in-sensor visual computing, a three-in-one hardware solution that is more efficient, economical and secure than conventional machine vision systems, which collect,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
+      "originalUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/integration-propels-ma.jpg",
+          "width": 1280,
+          "height": 1088,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-propels-machine-vision-in-sensor-visual.amp",
+      "publishedDateTime": "2023-09-27T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
       "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
       "excerpt": "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ...",
@@ -989,92 +1085,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption.md",
-      "title": "Prototype Chips Deliver AI Task Solutions With Minimal Power Consumption",
-      "excerpt": "A chip with 35M memory devices and 34 tiles attains 12.4 TOPS/W (tera-operations per second per watt ), showcasing software-equivalent accuracy for keyword spotting and near-equivalent accuracy for large neural networks across five chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
-      "originalUrl": "https://www.electronicsforu.com/news/prototype-chips-deliver-ai-task-solutions-with-minimal-power-consumption",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/05/mag-image.png",
-          "width": 370,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electronicsforu",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-forces-to-advance-generative-ai-across-industries.md",
-      "title": "Infosys and Microsoft Join Forces to Advance Generative AI Across Industries",
-      "excerpt": "Infosys & Microsoft forge a partnership advancing AI, unveiling potent solutions that ensure industry-wide innovation & robust business growth",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
-      "originalUrl": "https://yourstory.com/2023/09/infosys-microsoft-ai-collaboration-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Untitleddesign88-1695795120482.png?fm=png&auto=format",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

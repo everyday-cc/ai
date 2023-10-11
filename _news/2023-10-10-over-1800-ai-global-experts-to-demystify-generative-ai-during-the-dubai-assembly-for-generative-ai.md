@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107216279/Over-1800-AI-Global-Experts-To-Demys
 webUrl: "https://menafn.com/1107216279/Over-1800-AI-Global-Experts-To-Demystify-Generative-AI-During-The-Dubai-Assembly-For-Generative-AI"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GITEX Global: Dubai ignites start-up innovation in AI"
+    excerpt: "Dubai is set to become the epicentre of the global artificial intelligence movement as it hosts the 43rd edition of GITEX Global, the"
+    publishedDateTime: 2023-10-10T20:28:00Z
+    webUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/"
+    ampWebUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 57
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/10/Untitled-design51.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "VISTA And Dubai Airshow To Support Start-Ups"
     excerpt: "VISTA will return in 2023 for its second year, aiming to provide support and investment to start-up companies within the aerospace ... businesses operating in fields such as robotics, sustainability, artificial intelligence, drones, eVTOLs, UAVs and ..."
     publishedDateTime: 2023-10-10T11:18:00Z

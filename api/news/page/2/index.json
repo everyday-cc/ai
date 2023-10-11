@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-10-aws-releases-cloud-institute-virtual-program-to-train-developers.md",
+      "title": "AWS releases Cloud Institute virtual program to train developers",
+      "excerpt": "In an effort to reduce the scarcity of trained cloud developers, AWS is releasing a new virtual program, dubbed Cloud Institute. AWS Cloud Institute, which is a one-year program with 12 different courses spread across four quarters, has been designed by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/04/11/shutterstock_editorial_2329866433-100944305-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
+      "publishedDateTime": "2023-10-10T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-demand-more-from-social-with-ai-powered-ads.md",
       "title": "Demand more from social with AI-powered ads",
       "excerpt": "Learn how Demand Gen campaigns can help you drive better results across YouTube and Google. See new case studies, videos, tips, and more.",
@@ -740,7 +792,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -1033,6 +1085,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
+      "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
+      "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "originalUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "publishedDateTime": "2023-10-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-artificial-intelligence-and-a-new-era-of-human-resources.md",
       "title": "Artificial intelligence and a new era of human resources",
       "excerpt": "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n",
@@ -1115,109 +1210,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-this-iconic-artificial-intelligence-stock-is-hiding-in-plain-sight.md",
-      "title": "This Iconic Artificial Intelligence Stock Is Hiding in Plain Sight",
-      "excerpt": "While IBM isn't going to ever grow as fast as Nvidia, which leads the market for AI chips, the company's AI efforts should help drive solid, sustainable growth in the long run. The BofA analysts maintained a $160 price target on the stock, which is about 12% higher than the current stock price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750147/artificial-intelligence-ai-data-deep-processing-3.jpg",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-amd-could-fail-in-artificial-intelligence-for-1-reason.md",
-      "title": "AMD Could Fail in Artificial Intelligence for 1 Reason",
-      "excerpt": "Analysts at Baird greatly reduced their price target for AMD stock on Thursday , with the company's AI potential being the main sticking point. While Baird kept an \"outperform\" rating on the stock, its price target was dropped from $170 all the way to $125.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/09/amd-could-fail-in-artificial-intelligence-ai-for-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750146/man-in-business-suit-pushing-boulder-uphill-like-sisyphus-hard-work-ethic-effort-challenge-businessman-1.jpg",
-          "width": 2290,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

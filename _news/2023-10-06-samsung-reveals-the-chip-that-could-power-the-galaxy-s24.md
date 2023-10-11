@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/samsung-exynos-2400-announced-337
 webUrl: "https://www.androidauthority.com/samsung-exynos-2400-announced-3372890/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,67 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Samsung accelerates efforts to lead AI chip market"
-    excerpt: "Samsung Electronics made a series of announcements demonstrating its competitiveness in semiconductor production, as the chip industry expands alongside artificial intelligence (AI) and the emergence of ChatGPT."
-    publishedDateTime: 2023-10-06T05:40:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/129_360591.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/650e6dcfcaf843ed9e89b114ca28d647.jpg"
-        width: 750
-        height: 468
-        isCached: true
-  - title: "Samsung accelerates efforts to lead market in AI chips"
-    excerpt: "Samsung Electronics made a series of announcements demonstrating its competitiveness in semiconductor production, as the chip industry expands alongside artificial intelligence (AI) and the emergence of ChatGPT."
-    publishedDateTime: 2023-10-06T05:57:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/419_360591.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 74
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/650e6dcfcaf843ed9e89b114ca28d647.jpg"
-        width: 750
-        height: 468
-        isCached: true
-  - title: "TSMC Sales Slump Less Than Expected. It Isn’t Just AI Buoying the Chip Market."
-    excerpt: "Taiwan Semiconductor Manufacturing makes the main processors inside Apple iPhones, Qualcomm mobile chipsets, and processors made by Advanced Micro Devices."
-    publishedDateTime: 2023-10-06T11:43:00Z
-    webUrl: "https://www.barrons.com/articles/tsmc-sales-taiwan-semiconductor-ai-chip-market-stock-e975ce40?refsec=markets"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 47
-  - title: "Samsung unveils AI-focused Exynos 2400 with a 70% faster CPU"
-    excerpt: "Samsung has announced the Exynos 2400, its next-gen flagship chipset for smartphones. It is heavily focused on AI performance."
-    publishedDateTime: 2023-10-06T11:35:00Z
-    webUrl: "https://www.androidheadlines.com/samsung-exynos-2400-official-specs-features"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 19
-  - title: "Pixel 8 Pro: Google’s AI-Powered Smartphone Takes on Samsung and Apple"
-    excerpt: "In the ever-evolving world of smartphones, Google has finally thrown its hat into the premium smartphone ring with the Pixel 8 Pro. This latest addition to Google’s Pixel lineup is not just another flagship device;"
-    publishedDateTime: 2023-10-08T19:52:00Z
-    webUrl: "https://www.cryptopolitan.com/pixel-8-pro-takes-on-samsung-and-apple/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 19
 
 secured: "Mt0mjnsWrxjZUtePr2zebQZ4Y1Jn0pA5nQTl2vKjmntdAaaQROVGmBv1Z1RJCAB8oRpGrTx09rAet+jRe7SqxbSKLdjftBiqU7FUM/yp4cZqy9mKUtmszpXBfeh+0Zts5F8AyLpl3Vn+acwAznuU6hnp7vrWOReYdGT9Gb76cCM/epPX4Pu8Jh0NZRD5GC87CSSWe31Upc8p9CEPWsbwo8ffPKo5KHMs/qWnHdJpyuzozzjSBNFTBW3U8qEESZBftGFm3ST6fVi9lM7/ySMaJ3NX3JvyUyp8KdcdnrCI9Ppe8EI3eNCStvzqNdVOnb3qgHpujQSTgyJFXX0+tAjzzTMP/8JUPVbNT38KNbBSvHk=;vHCWk7bB9QH96ikJA6Lijg=="
 ---

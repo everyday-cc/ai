@@ -134,20 +134,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "The AI Revolution: How Microsoft Is Positioning Itself for the Future"
-    excerpt: "Microsoft is integrating AI into existing products and operations. AI will propel Azure Cloud to greater heights. The artificial intelligence (AI) revolution represents a transformative force ..."
-    publishedDateTime: 2023-10-06T07:00:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/06/the-ai-revolution-how-microsoft-is-positioning-its/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/749625/computers-office-getty-6217.jpg"
-        width: 2120
-        height: 1414
-        isCached: true
   - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
     excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."
     publishedDateTime: 2023-10-10T04:46:00Z

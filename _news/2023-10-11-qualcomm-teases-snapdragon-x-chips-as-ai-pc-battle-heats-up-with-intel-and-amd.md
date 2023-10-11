@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-sn
 webUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 370
     isCached: true
 
-secured: "NM1a1jZgN1ccOa8odQoryV6mJ2667ymb4TKl5MkcFenjkmexUrniNS7fpVd5mngUS8+BiWsPacFPj3je63agaGY7jOhiP6qR1kCyaluqErHVH2LwxLG+czvyskLfkfPDF/McVYWmJVbGqV0HdDbTw9KMKqY6WuwJrAXY4K/vow6poYoit1iIFRJIUwwPbqkrenblvtYk/ksA3ZPGYyTLgCZiOYEW/dLA892bzyBWRnGdFjFL4jPrpkEWwqr6SeinjGEFc7x02wnb1fgJiTbiTcIk6DXfp7qQ75EWPCfY1E2ivuyZv0OZQBHQC8OLsOYizs3sPMaTfaMM+zcsuZdusFs5GzsC4sXwG7RBsWEyda8=;Tpiqd70ECx6yYMARC/RX7Q=="
+related:
+  - title: "Qualcomm to Take on Apple Silicon Chips With Snapdragon X Series for PCs"
+    excerpt: "Qualcomm today outlined its plans for its next-generation chips designed for PCs. The Snapdragon X series is set to come out in 2024, and"
+    publishedDateTime: 2023-10-10T23:49:00Z
+    webUrl: "https://www.macrumors.com/2023/10/10/qualcomm-snapdragon-x/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 38
+    images:
+      - url: "https://images.macrumors.com/t/XfjbDbh58JkSDni03xB4z54vDAg=/1790x/article-new/2023/10/qualcomm-snapdragon-x.jpg"
+        width: 1790
+        height: 1007
+        isCached: true
+
+secured: "9rzmNHbAP4nwXqQnevwamToWrp9ko6t1giwJxxgnFawetuCSLu4R87OFWfSVOH+3wqyfzf+GDOAvGT58XpQX02BnXBfqgDZySLaETCfEuW0AezUkmWSnH1J0xIApomzWdk5cRdgaPJhuB+RN6PTJfQL59XTN4ABo0AS6ioWRHUcRqpRVAoIbMZmpq1bUVOQ8t81SPNrURL2Qu4HrhO/Y3xMxswepdDSFghovt79nFjhNXLGQYkOsG6kcdHpBvR5qbK8BxhKou8F7PX7OGvqYxL+27u6STm/FlEHbwjUXzigmu+O7+UY6Ur6rUQbGS8gGsQlI+c9Pov9KCRXtzKyVG2U22zxGicubnCy7lqPz0eEDBtymaJAhN8PaKOBbVczdG/V111IzQC0SjEkGxMJcg/N9cdQumYpuuqB7aRqEK0XcStJE0V+IYky780KqPc7Lj9EOFwmhwVL098utgRDonVZssBvGO6CEXG2bxs4KrC+LygkC4xzdg6z9B5xJrBbly9PxLL73k+URE2J70aNhBg==;xLi4vY04O58t1ImJw4QQ3A=="
 ---
 

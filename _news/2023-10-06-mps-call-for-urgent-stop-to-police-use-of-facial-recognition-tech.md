@@ -35,36 +35,6 @@ related:
         width: 1280
         height: 849
         isCached: true
-  - title: "MPs and peers call for ‘immediate stop’ to live facial recognition surveillance"
-    excerpt: "UK police forces and private firms urged to drop technology due to impact on human rights"
-    publishedDateTime: 2023-10-06T06:19:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/06/mps-and-peers-call-for-immediate-stop-to-live-facial-recognition-surveillance"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
-    images:
-      - url: "https://i.guim.co.uk/img/media/bae772c8b30911becc38ec36bc0e377f2d3ff713/0_270_6000_3600/master/6000.jpg?width=620&quality=85&auto=format&fit=max&s=823bb1db2294cf7a1ea42664b4b65100"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "MPs join campaign group’s call for facial recognition ban"
-    excerpt: "MPs and peers from all sides have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies."
-    publishedDateTime: 2023-10-06T06:39:00Z
-    webUrl: "https://www.thetelegraphandargus.co.uk/news/national/23837679.mps-join-campaign-groups-call-facial-recognition-ban/"
-    type: article
-    provider:
-      name: Telegraph & Argus
-      domain: thetelegraphandargus.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetelegraphandargus.co.uk/resources/images/16738919/?type=og-image"
-        width: 945
-        height: 630
-        isCached: true
   - title: "MPs and peers call for ‘immediate stop’ to use of live facial recognition"
     excerpt: "MPs and peers from across the political spectrum have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies. The Big Brother Watch campaign group says 65 members of the House of Commons and Lords have backed its call for a halt to the technology’s use."
     publishedDateTime: 2023-10-06T15:54:00Z

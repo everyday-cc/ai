@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "GITEX Global: Dubai ignites start-up innovation in AI"
+    excerpt: "Dubai is set to become the epicentre of the global artificial intelligence movement as it hosts the 43rd edition of GITEX Global, the"
+    publishedDateTime: 2023-10-10T20:28:00Z
+    webUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/"
+    ampWebUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
+    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
+    type: article
+    provider:
+      name: Ventureburn
+      domain: ventureburn.com
+    quality: 57
+    images:
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/10/Untitled-design51.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Over 1,800 AI Global Experts To Demystify Generative AI During The Dubai Assembly For Generative AI"
     excerpt: "Over 1,800 AI Global Experts to Demystify Generative AI During the Dubai Assembly for Generative AI <br /> . Taking place on 11-12 October at the Mus"
     publishedDateTime: 2023-10-10T00:08:00Z
