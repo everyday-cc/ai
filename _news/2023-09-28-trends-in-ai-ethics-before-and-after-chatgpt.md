@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Trends in AI ethics before and after ChatGPT"
-excerpt: "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade."
-publishedDateTime: 2023-09-27T20:44:00Z
-originalUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
-webUrl: "https://www.stltoday.com/news/nation-world/business/personal-finance/collection_86d7bc8b-e86c-5190-b0b6-b4267f541f3f.html"
+excerpt: "This is a carousel. Use Next and Previous buttons to navigate Trends in AI ethics before and after ChatGPT Computational systems demonstrating logic, reasoning, and understanding of verbal, written, and visual inputs have been around for decades."
+publishedDateTime: 2023-09-27T20:00:00Z
+originalUrl: "https://www.timesunion.com/personal-finance/article/trends-in-ai-ethics-before-and-after-chatgpt-18392547.php"
+webUrl: "https://www.timesunion.com/personal-finance/article/trends-in-ai-ethics-before-and-after-chatgpt-18392547.php"
 type: article
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/b6/fb6eed13-3f37-56bf-862b-bac96f214e63/651491fae4ed5.image.jpg?crop=1705%2C895%2C0%2C159&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://s.hdnux.com/photos/01/34/47/61/24280135/6/rawImage.jpg"
+    width: 2048
+    height: 1459
     isCached: true
 
-secured: "GwzG4api1bxtmKwOvcdBq72sPrTadxwsp+RQON+OKRtv0dLESGYXIfQ9FM+RpmD/O6h4tI1fA8DS6SLQw2OWKcaDeJAhQw3oKD7vhy1lLH49sFwj7/Ol70vKtIqQsFRA/qCUlyBdle7Ebx0voTPgR3VjDjD0K+Y3c8XA59b8Tddep7CrDHMhIFAvzVXX1aRp2MW+7BZTef1xpkjpju0D4NjGuwOCJAFYU0eatC5fw+sNgeuXuAUBK9uIjMEHL3So85qK1yr8dI4d51rjfZT77jEGRO/vpIlIsORrbtfviAlRysGiFY7Y6NloXvArHXkmLp8E6874jxLc8tABXIe69WPdnMtrOBo8JAhAJAQQ9Vs=;upjXGb0ZEvawNMqwz3L1zg=="
+secured: "v/aWxMJ1f6uWaxyZdzbfv/JEDCw+xFFNYVaO6KzP2r+KF1n7pqvCOWl0GIcNn2pwu37V2HQdbdfZUzeiaGCArrUUIquONSD5BYmu2E1RJ3sHUVZZ/KTkvoOxlBwkEW+hJ8nRSVdGSLJ/mFfEzkLjbao4hG3jYM44im7icxav1sBqdMWGqFiT2RM63BG4g08ZRt863Pedhcp2Sw/tNlJ5yXgrNpnDBzynXhjmeNld5JzMNMdfWCPJE5azg1dG/agNQGj3Jmg4ylSVjqyyVvagEwjsOO1kJu/9AgCFXRWxeYjrtipetWGxLeufSp6CY23uzc0B9pKz6YmiO67WnPkj0uPncn3kFuAdHOgY8qbkIB0=;fDPf1e5Md/b85WJOcvvuJw=="
 ---
 

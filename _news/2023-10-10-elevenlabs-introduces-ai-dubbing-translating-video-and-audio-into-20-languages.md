@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-transl
 webUrl: "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "ElevenLabs Adding AI Dubbing For Audio For Broadcasters"
+    excerpt: "Voice cloning startup ElevenLabs has introduced AI Dubbing, a product aimed at translating speech into over 20 languages."
+    publishedDateTime: 2023-10-11T17:07:00Z
+    webUrl: "https://radioink.com/2023/10/11/elevenlabs-adding-ai-dubbing-for-audio-for-broadcasters/"
+    type: article
+    provider:
+      name: Radio Ink
+      domain: radioink.com
+    quality: 19
 
 secured: "gIZu5ag5C/grL9jQtPCA+sqws+h6tI29MwXsvkCkbfoEpuFxDDan9y9DLJfn6zHK/YflHO8OJcHLPmWJFuN2iYPKFv1dIuHFE/wDjNNxOENx4RjgoUy1sGdbTK5WYglis98HGt5wBf5ZUPvei434NIZuA/vC9UID4ZnoTvEdEua4QancIMuMEES6mdDTb+m4XVplgkJA/Mcs4BqT1oqcvv46h/4BIV+8LwRv8T628cG9m5LyDdUS7/lq7rP4bl4J2IGR/9Tz0Q3w8hrTTyAxwOw8wbrd2q39hYPYPxupmFevcFjvfOLTM5cpPx+amjVigztjLgwTjInE5szAFiTe0baC0m9kRanRMSKh6XzmfgTH/jaR9Y3wtUj0AQykTUDa5TLuZcpXsyQHTMOusIOneM7OH/XjQJKPXyd24Hd0UyHrAYgojUgt+I6qxhwT1HWj5WZMV1ipaCUGogI5m6z6SF/cmjm+X6Nggti5FO1aJ8daAzHx3xusgDcrZc/x0Ihzdb2qjFwFhWpDeQN97tDcGw==;W6tIyPM3YvJM1oy5947eOQ=="
 ---

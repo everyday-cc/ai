@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-make
 webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
     quality: 36
     images:
       - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "AMD’s Strategic Play: Acquisition of Nod.ai to Challenge Nvidia’s Dominance"
+    excerpt: "As the AI industry continues its exponential growth, the competition for dominance in the hardware sector intensifies. AMD, a pivotal player in the microprocessor and graphics processor market, has taken a significant step towards bolstering its position against the industry titan,"
+    publishedDateTime: 2023-10-11T17:44:00Z
+    webUrl: "https://www.unite.ai/amds-strategic-play-acquisition-of-nod-ai-to-challenge-nvidias-dominance/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 35
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Alex_Mc_2_AI_chips_next_to_each_other._One_is_green_and_white_a_0243e714-aca4-4895-aa15-bb29f3fc9966-1000x600.jpg"
         width: 1000
         height: 600
         isCached: true

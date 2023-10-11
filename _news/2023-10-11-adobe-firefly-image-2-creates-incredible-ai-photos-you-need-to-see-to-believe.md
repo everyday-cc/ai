@@ -38,7 +38,21 @@ related:
         width: 1117
         height: 630
         isCached: true
+  - title: "UN Conference to Focus on Impact of AI on the Film Industry"
+    excerpt: "In 2021, UNESCO established the first-ever global framework on AI ethics, the Recommendation on the Ethics of Artificial Intelligence, which was adopted unanimously by its Member States. Tom has covered the broadcast technology market for the past 25 years ..."
+    publishedDateTime: 2023-10-11T17:46:00Z
+    webUrl: "https://www.tvtechnology.com/news/un-conference-to-focus-on-impact-of-ai-on-the-film-industry"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jE5Gjvvz9nSecp2q9R3tvF-1200-80.png"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "Zw/0dQmyA8Q3aAg6Ot3WMf5MUV3yuDGfmi7fbTSHpWYnU1vIqt4OVgxuRjqMDymOMTN+0mzq1KL3yekAHfFNtzg/HYmcIRDuGIJBFryK1XNS08/S04wujpKysGI8AgfJE3PIqwLOS9Uz6jAkrkiE2V3VcAuAdBSEKvTo3d8/HjCjHmhv02gJ6oawBuqh+wLgf3ijVAK7v4/vW8Tfnr6H8U8lLoywAk56OfI0XcDZd+4+IxSCCVTc/koOorprkAzBMqzZbH09AixhkzNMgCQEduKbjLD1Xvkvj78iz1dTRQ9Fx4zd0EFhdKkHSBLdycJe9o15Eb5GRzgeH9mvZyxBpKnYfFBqIzm/8qHLqW0mxAE=;UHvq+YZggwvjXYevFbuuUg=="
+secured: "nihNQTAjWz2GbafPw2AW/NF3Y2kpLozjSPyqHj51gMy52g8Zr+eSf0qlytrxxBfXXyx1fEG0USfKRklzjFmnta7vc1DzP3PTpmAEFy14DtoLwbqSA4J3WmMmAs/kdlvEQxkRFTsREE0Bt4x6P6XgIsw1V9ccOJUaN7wHb7gfnE8E+YwniYz+LxedKFZIFz68G7jqvGNwLXsDrZ4k6D3/6XKpnLIpJbvhLAy7e6MuPKIdKgp745HRTO4c3bQe03awDBjgre7AsVEad/Bt4/wZUM0vKEXBg0mpHJwknO7dkgDWjRo4yxHQOivAD32AQeyMQ2kPsZjHcoTf2l/Fq76Y58WrlEJtcZQwaeYvT05P8D6wYebMGUF4h0MKeV+//NQab2o/3plGN+HJryUrx75xNEHzOPmUlMgyHYWerSSToUvdLfTyY/pPreZUfzhhuNz4IyFvEzdjNyhnHZ2oTzJE8a/RzINgzm0c21PnRTkEqJqTvJYtbikbwEB8KrqbmLYE+vyOTG7y7U4jN3Vtuaf1tw==;F5TMXxDSMU3/Mq0IyGP/Sw=="
 ---
 

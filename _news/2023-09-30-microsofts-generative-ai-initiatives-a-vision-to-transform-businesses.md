@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses"
-excerpt: "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International"
+excerpt: "Generative AI models are exceptionally proficient in predictive analytics and forecasting. Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management, inventory projection, and demand anticipation."
 publishedDateTime: 2023-09-30T09:20:00Z
-originalUrl: "https://netindia123.com/articles/showdetails.asp?id=4124447&n_date=20230930&cat=Business"
-webUrl: "https://netindia123.com/articles/showdetails.asp?id=4124447&n_date=20230930&cat=Business"
+originalUrl: "https://www.netindia123.com/netindia/showdetails.asp?id=4124447&cat=Business"
+webUrl: "https://www.netindia123.com/netindia/showdetails.asp?id=4124447&cat=Business"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "Br9ggAWXtuQhVXXcwrvkzbUh7MH17vYCKGj3fV9DWJ0TSvYxbkqSmbRCAXmWtgpqBOGFa3B3OFmv+P0wVJq07iokOmtKQLw+8ITkjQoU4rn4JO7Gn/FkrqJiL4jsTvvxq3VUg+5JhDsc4rvcgdvEDr8CxAHyJTbWEJnqUZZBNiZ3D/SjX8nTVOtH26vVrd6zqtpns0AZvSmXU4qT0O5nfJSfXnN3BYGP/llQw+Rs0N9A0S1+ARjlRbbzFhURV1xzEN0p5Da0G5SuahU7rN9xZiNrZ53BsL14gDUXuv0XXjZsDJ/AWgcKwApnndWDDxrMOGT7r8gYv+AiBeolHACV6O1T8MGLsW2WAf0jd5Nv4v0=;/DochEyEE2tlFraJq3/iQw=="
+secured: "KfOkKz7ZpFDgB7Lg76zYMpGki5OT2GmJ94GeVyU8qlSeGoHVGHnqE7jTMAxIMK8lIAkeNKQaA+g8msoSLgAwozay1M6z4bM6H+4Ojg+Xugnel79JrEcB39jbxaST4wbRi7KHURA32fyc5zgUO0nS4GN49cpwql4OqWV8G+g0iKn+FuJee8RhS2TnKfj8j1MiGza9jCmVsV122TXtwyFcAs+Hjyxdbrp7k2acekoTWpukuDMirb45R4qxJGnvwaUFhefgp7QHAiuSLqBNpFv3DnUFW1UgsLP2Qy+YStccyr/XZw89cNQKde1for7uoOa+DLYFUmRRbOJJPack1OgQFOQsj7xEYcHo/5t9UlAmMec=;6U5wfCtu1p11MCYk0lWTIw=="
 ---
 

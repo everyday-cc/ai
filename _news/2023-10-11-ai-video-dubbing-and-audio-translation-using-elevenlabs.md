@@ -57,6 +57,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 55
+  - title: "ElevenLabs Adding AI Dubbing For Audio For Broadcasters"
+    excerpt: "Voice cloning startup ElevenLabs has introduced AI Dubbing, a product aimed at translating speech into over 20 languages."
+    publishedDateTime: 2023-10-11T17:07:00Z
+    webUrl: "https://radioink.com/2023/10/11/elevenlabs-adding-ai-dubbing-for-audio-for-broadcasters/"
+    type: article
+    provider:
+      name: Radio Ink
+      domain: radioink.com
+    quality: 19
 
 secured: "MlXGKm2GvSiSKkdyZK2Sf8FjU7gcOCw9TYqkg8CANxVIxi0BspksHUH/n3PNHMg8dGKvg/LGQ51I0vtBD/CJuMVFojEFh7CPDpjfkIWgpxexOKbwcl37xYJWvKcgJY5EaL2lp3NQal7fArcgzvRIIsgPHU9Oj4gfbyvaBgGQSwLfarQQA1KM/y/WVW3PFI0jwzHdCSETIYO3JqW/5rXrWKJTtCJZKzqMq2WqIaEVG7DAEzrA2kjZuc9z0JBgz8z8i/1olscp0A3fd1+Stha5Q8+Gy0CZEAxFP4Oq807bpisIzWrNTqLJnK84uFMGWWiceIO0H+7dkjRWaxeDOB96XzPm7hrYT+sQrP3cJhWxdoCOwMTBWqpUFY68PrzncUOi4yWYPcRP7BRR2DRmnrDAc+o+sqU9JzCjclN6HUGksln4/7OdLka3yKKWZqutt3/TJ+DsNj0Bf42pjPx1OEkspW5SSOAmjyAh1zDdPpCEigsbCVC9dolzKUmq0YjSz7l7/IzA7HmLxkAkd5jZewVxcA==;lGY56SLWZzgOqLqFgssobg=="
 ---

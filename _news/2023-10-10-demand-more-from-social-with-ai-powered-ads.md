@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/ads-commerce/demand-more-from-social-
 webUrl: "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Google AI
 
 related:
+  - title: "‘Dubai. AI’ launched as Artificial Intelligence-powered digital city concierge"
+    excerpt: "AI platform in partnership with the Dubai Center for Artificial Intelligence (DCAI), which allows users to easily and seamlessly access services and information about the city of Dubai across various sectors. The platform was launched on day one of the ..."
+    publishedDateTime: 2023-10-11T17:49:00Z
+    webUrl: "https://gulfnews.com/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
+    ampWebUrl: "https://gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 68
+    images:
+      - url: "https://imagevars.gulfnews.com/2023/10/11/Digital-Dubai-launches-Dubai-AI-1697036077563_18b1f3b8a30_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Google Bets On AI-Powered Video Ads To Disrupt Social Media Advertising"
     excerpt: "Google launches AI-powered Demand Gen ads to divert social media ad dollars from Facebook and Instagram. Google announced the launch of a new advertising product called Demand Gen Campaigns, which utilizes AI to create highly targeted video and image ads on YouTube and other Google platforms."
     publishedDateTime: 2023-10-10T17:34:00Z

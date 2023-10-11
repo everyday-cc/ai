@@ -153,6 +153,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AMD’s Strategic Play: Acquisition of Nod.ai to Challenge Nvidia’s Dominance"
+    excerpt: "As the AI industry continues its exponential growth, the competition for dominance in the hardware sector intensifies. AMD, a pivotal player in the microprocessor and graphics processor market, has taken a significant step towards bolstering its position against the industry titan,"
+    publishedDateTime: 2023-10-11T17:44:00Z
+    webUrl: "https://www.unite.ai/amds-strategic-play-acquisition-of-nod-ai-to-challenge-nvidias-dominance/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 35
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Alex_Mc_2_AI_chips_next_to_each_other._One_is_green_and_white_a_0243e714-aca4-4895-aa15-bb29f3fc9966-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AMD acquires open-source AI software developer Nod.ai"
     excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
     publishedDateTime: 2023-10-10T18:19:00Z

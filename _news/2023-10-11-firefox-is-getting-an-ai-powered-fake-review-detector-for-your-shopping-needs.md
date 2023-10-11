@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-po
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "kGxBqCfDDWup+tfopH06I7qVLgu1medX37vPCYCQgKFTaqCRi/eF6e7pBTxL35i4e4E5SWA4GECvpwUQdgDfoM1G3BWVJWWmb99UngnoNIQOSC3WrgCWVrEyF7brKwObLOne2jc3TFJoZlhfFcb+kOg473vbU4LiWxmO2OicBYAA6r1hJlr7GGv8/72heqFno6oOQT/ALLKHoLQ8ruVUhbcbd9CHZGPyWJ2sSBRMuiK1BdUBaANlh3AiGFZHN4zjToeTYXwtxQyDXMcdQdcqL1zgGvyjzJ6z6OjSS2H+8o4MUCbMtzEIpfHKb4COJEw5RxjhQweI193QwlM0IsNzLJWKp0yp9IuHg0M2EAQmhCk=;yma8dOk215ikSxMblCgaAQ=="
+secured: "/YaeMdWASFKyOZ9lpHkoFLzwHsHfcRXZYUinVSm1NX5vxVt/wnlbjuUgW65Dx/XJjSmJ7TUEVg4mGBWNPz1g4ORzLJKRwavIphyKOAJuLfFaX0d/e/UGur7vXtC+ocXL9s4S8l4Q07YjCWf6EqmP5MRqtRu3WIbNKlzttntueBTnO6lNec+nsQnToj4FMzf4j+ba3PYMVfFpfY5/9BR2TKCfNbf+Wz6+KfThfbGt4cHD+OLf5Hkg1IqZB5P+hMRYdp92aeAxvbn13qXsDzOIFEGmrDnFVFkqi9T2QaWNng0iPckCBmlEDxMwU2zNeLiWOW3JD9aZvFH8Jkp58jjJ3exUp1LAD0CJUBR0Ewd63M5+bH2np8ADydYrxxbdRUwLEh6myP7GPBxRqE5N4EjUYK6JVv4VUJr4xVz/awbz10r+BQVxtrEilYibAID/J7E0qlUmg8ceP0A+Lm8GvOVPhOh3iFzpLPKrsANd2VcmbRhri4HMVEvYaMZkN4fwZLILzO7iZBdaWfhGhUfplTMt2w==;h4vvpjbZuFEcoJ06Z1venA=="
 ---
 

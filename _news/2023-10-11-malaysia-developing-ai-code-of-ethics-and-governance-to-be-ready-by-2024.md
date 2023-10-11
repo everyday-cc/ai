@@ -67,6 +67,20 @@ related:
         width: 400
         height: 271
         isCached: true
+  - title: "Educators Adapting to Artificial Intelligence"
+    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
+    publishedDateTime: 2023-10-11T15:29:00Z
+    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ToU0oEDoriWp/+Lm4tov7m6aXld6iz1kN4xsN+1SbsfWuqVSYERa9r4CPj7M+JM6B36BVsvPRgoeCmHs/XItuEzavnh+KV/dTRAt7izfLXjdQygMCqNDBYNtHA5iODXTla+BWIwc1vFpDltBxFY+CiJw+zGT8RarwjOURKN/NSW5NWt4puBGV7UbLA44oO15o8S3UG5DZwfyB4/5zAJX0lind5GhLMacQQtfwdeDYSzjHHXTSj9zm0b73K0ESagmw4U1CD6q90FzGPVPpLT5GDK/dP4aj6oRBCZp+rRkPSNUy7RRfNeTHUrlnmGLPZIL88totczSJYQRFFbJt4ot/w6JxQt4YasNir/0qcjS02DlM61jlAETKOhciT2aEy3hvipkPIMWcEUvBCz13ZN6ZSwrUrWKwgBLJO3eyueQOKWOnF7OTe6KS05dW3bjb0rUNXPHraUHFINMiQGFG7XK9f0Aj8Xo+JDMU8Cdtd+A90C9/ySSsJ3BXYJayOgqXcgtnyZcFHTpB3uAAOViD7Smtg==;Tv+j1fyIg81/U4+ZQPwOBQ=="
 ---

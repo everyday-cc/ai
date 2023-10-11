@@ -60,6 +60,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "ElevenLabs Adding AI Dubbing For Audio For Broadcasters"
+    excerpt: "Voice cloning startup ElevenLabs has introduced AI Dubbing, a product aimed at translating speech into over 20 languages."
+    publishedDateTime: 2023-10-11T17:07:00Z
+    webUrl: "https://radioink.com/2023/10/11/elevenlabs-adding-ai-dubbing-for-audio-for-broadcasters/"
+    type: article
+    provider:
+      name: Radio Ink
+      domain: radioink.com
+    quality: 19
 
 secured: "UHEKthjMMvbwIlzshWSUDc/6wo6MeBzzWF+7L3wqWq9898DN1QDLnGKP65XrjG9iq/TYN7WUqXKuEw+3eYzwangqd+0yX2sBAj/7w2jdUs2IQW69qzFUHk2ZNxX6SDCXGBVLX3gxivRsQodQCYW2mGicchH2DvEzcDkvpGtQ3oMikrzKvfddEzC+9/yGza7nfHTLPqPK6DGMkqB1tsN48iTe5IpGX1s+szILtSRFjvT41rswEaDLFkR5VrRsiM1epnNP7oVMvsC08oFWC6ZDMN0o811tcdPjvt2XuaEMyImmTyyXJ9w4g4Ch4ceG/M8UlHFl0lamGIoFptTLVjqAt4qlYqXmnd8kWA8YtaMsFKw=;CxR1mZm0AiFo6OsyfjTfpA=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "How artificial intelligence is being used to research Alzheimer’s disease"
+    excerpt: "Some researchers in Columbia studying Alzheimer's disease are using artificial intelligence to help identify the \"most important factors.\""
+    publishedDateTime: 2023-10-11T15:50:00Z
+    webUrl: "https://abc17news.com/news/alzheimers/2023/10/11/how-artificial-intelligence-is-being-used-to-research-alzheimers-disease/"
+    type: article
+    provider:
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 38
+    images:
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/10/Screenshot-2023-10-04-at-5.32.47-PM.png"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "AI language models could help diagnose schizophrenia: Research"
     excerpt: "Researchers at University College London in the UK developed new tools, based on AI language models, that can characterise subtle signatures in the speech of patients diagnosed with schizophrenia"
     publishedDateTime: 2023-10-10T12:51:00Z

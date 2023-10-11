@@ -7,7 +7,7 @@ originalUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-exper
 webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 770
     height: 400
     isCached: true
+
+related:
+  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
+    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
+    publishedDateTime: 2023-10-11T17:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "eAdJ64Bfouqsk2SBbFsTtDpxwwLM0YWKtl6GBaGimiFtDi8vVob6DePHySdBxy75Z0VBmOwzvvdem5QS814N2xKVRjVYfxOENkc/OzTPy2iLlVGy5TYSsgvn6EPB4LHKG9TGKkqole3FQlre75YPq1AnrSMLOgat+TRbS5u4CZQ2JEusVeWbrUpHLO3KY4SiJehhNer83/53D1FpYFlAmNqkrYxL5j2oyCsm9YSZ2Y1NQdXty05YI3+/+uskSiiKug2g26SYcaiwKQJDxuuL7w8SJO125SzSkm3yn76HGhpqSG4H9rnj2pMfgE16EWqk5dindF6GD23P4OaMh29h+WmBBKvnS/6FtFUEfQrZI5Cls2Bf+GDm3CWMTL2YCQ3mwnRCv9jNkv8AJh57MMfM1oL72KME33V6hy4YO1UL1eFON413DnxctfLFfiytiGi6J5KNdsm7dGl3uCY9awHQdNJNdRMM8bgyBebhLovQ2OdG3N1NWRIghu7aezZFDMZwuRv4K6FjAxLb53Abc9xJLg==;Sc+FRYYb/2beGablnM3WwQ=="
 ---

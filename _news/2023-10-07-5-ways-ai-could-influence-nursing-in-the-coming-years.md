@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
-    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
-    publishedDateTime: 2023-10-09T18:43:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 5
 
 secured: "r4ju2Mj1wn5M9dDhq7k9+CbDobu3kUY/yPPHgKe20W415la26d9n3BbMuKKa4yI6+CK2ZY8hXYDZt4pXCdxd8riY2mnZMTpoc6DDtK582wzhu9EGevosZxDmK5Y8nLlmTwQIlzmoQDsud5E+kznLy25B0RP7jPGflMqeWdU7APabz09d0NjPqCsziwlGX8bJ1t/Cs4Kj6mKtL7IauoVbS2aurpA+H44Dh2u/00VUI+BFs6dmkK8C/uioznmGTQzNE9XMDq3Dwfv7QfCTD8lM7MMO0rSapIOiHX/Gg6lL9KATo5HcFYpHk9/0jBVkRPdOhDKTuy29vFcN2FbIECBPnF3G8HSRoQWrOUx4Wij2spo=;iI78xoZY+irsYa0/TpioEw=="
 ---

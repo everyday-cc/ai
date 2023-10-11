@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artifi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp"
 type: article
 quality: 61
-heat: 82
+heat: 83
 published: true
 
 provider:

@@ -71,6 +71,20 @@ related:
         width: 881
         height: 630
         isCached: true
+  - title: "Improve performance of Falcon models with Amazon SageMaker"
+    excerpt: "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements"
+    publishedDateTime: 2023-10-11T16:28:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg"
+        width: 1257
+        height: 630
+        isCached: true
   - title: "Use no-code machine learning to derive insights from product reviews using Amazon SageMaker Canvas sentiment analysis and text analysis models"
     excerpt: "According to Gartner, 85% of software buyers trust online reviews as much as personal recommendations. Customers provide feedback and reviews about products they have purchased through many channels, including review websites, vendor websites, sales calls, social media, and many others. The problem with"
     publishedDateTime: 2023-10-09T17:49:32Z

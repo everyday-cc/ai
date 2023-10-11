@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "ChatGPT-owner OpenAI planning to manufacture own AI chips"
+    excerpt: "ChatGPT developer OpenAI plans to manufacture its own artificial intelligence AI chips and is even assessing a potential acquisition target"
+    publishedDateTime: 2023-10-11T17:29:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273996207/chatgpt-owner-openai-planning-to-manufacture-own-ai-chips"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1696824895583.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "OpenAI Considering Manufacturing Its Own AI Chips Amidst Shortage"
     excerpt: "Amidst a growing global chip shortage, OpenAI is now looking to develop its own chip and even acquire another entity to boost AI growth."
     publishedDateTime: 2023-10-08T19:24:00Z

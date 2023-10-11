@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max
 webUrl: "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "UN Conference to Focus on Impact of AI on the Film Industry"
+    excerpt: "In 2021, UNESCO established the first-ever global framework on AI ethics, the Recommendation on the Ethics of Artificial Intelligence, which was adopted unanimously by its Member States. Tom has covered the broadcast technology market for the past 25 years ..."
+    publishedDateTime: 2023-10-11T17:46:00Z
+    webUrl: "https://www.tvtechnology.com/news/un-conference-to-focus-on-impact-of-ai-on-the-film-industry"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jE5Gjvvz9nSecp2q9R3tvF-1200-80.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Adobe Firefly Image 2 creates incredible AI photos you need to see to believe"
     excerpt: "But Adobe has to start somewhere, and hopefully, these requirements will prevent Generative Match abuse. The bigger protection against AI-generated fake imagery is the new Content Credentials feature. It’s an open standard driven by the Content ..."
     publishedDateTime: 2023-10-11T15:39:00Z

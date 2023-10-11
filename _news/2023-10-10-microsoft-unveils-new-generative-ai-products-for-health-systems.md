@@ -312,6 +312,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 60
+  - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
+    excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
+    publishedDateTime: 2023-10-11T16:29:00Z
+    webUrl: "https://www.technologyrecord.com/article/microsoft-creates-new-data-and-ai-powered-capabilities-for-microsoft-fabric-and-azure-ai-insights"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 56
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4643/MicrosoftHealth_web.jpg"
+        width: 975
+        height: 548
+        isCached: true
   - title: "Microsoft to compete with industry leaders NVIDIA in developing AI processors"
     excerpt: "According to The Information, Microsoft is currently in the process of developing its own AI processors. These processors are specifically designed to handle"
     publishedDateTime: 2023-10-09T14:18:00Z

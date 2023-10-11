@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/this-science-fiction-writer-thinks-ai-
 webUrl: "https://www.wsj.com/tech/ai/this-science-fiction-writer-thinks-ai-needs-its-own-body-740bcaf6"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Fearing AI, fanfiction writers lock their accounts"
+    excerpt: "Like many AI models, the program was trained using data scraped from ... If our stats and comments plummet, I guarantee writing is going to start going down as well.” Many writers are also restricting their accounts to avoid the influx of bot comments ..."
+    publishedDateTime: 2023-10-11T17:46:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/"
+    ampWebUrl: "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
+    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
+    publishedDateTime: 2023-10-09T18:43:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 5
 
 secured: "SkuUb+BJW/OsuyrhO7FJ82YIWoGiJ7p8y69402w6mM6c7grCtbvEpGpMdh9nrDFNUqpoSs1X292nZdjfgpROcjdib1PyBPg/FwKTxdnI7RSxfA1PjLMekQFO34Vgc2fFfRgrVxH9SySlPZRRf9YTWA8onka8difm4PNwhtVVK1ahPO+ybAbOHkaJKZb9Z/DKvEJMlA5OjhmIGgMmEdo9Xkz3p9a16feRN4FErTf8/UPcjoAbMZjt4rgrM1bcukcfCOE4+OkhoinCGb89f8wEwcJRMVjL0KyZuX3WozSzGK2KmEOeXSpNKZcj+aUoMa1oxF/5oW6qOd6WjQykIlvdx3KjFWqTzJr+x6RlE6OolkHIgwkEWeyISELpZvUW6lBTI+QL0chPoKXk+dlTYSnDziglTEo6Bzmjh10TpyXKkNxvBh9hoY6t64NrroAIhCfUPN2fQG0mzMVLz7bWTlRaBQZKBLt+10azmo1PwFhkrVKJt6fn1DuATNjw4aXUtVX3x9LhJyLrd6S+oKlPj2H0AA==;a5lwIKq/bg4LosT5fkAWrQ=="
 ---
