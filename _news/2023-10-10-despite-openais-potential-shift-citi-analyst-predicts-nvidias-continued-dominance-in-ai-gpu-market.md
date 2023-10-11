@@ -43,15 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "OpenAI said to be considering developing its own AI chips"
-    excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
-    publishedDateTime: 2023-10-06T19:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
     excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
     publishedDateTime: 2023-10-07T08:50:00Z

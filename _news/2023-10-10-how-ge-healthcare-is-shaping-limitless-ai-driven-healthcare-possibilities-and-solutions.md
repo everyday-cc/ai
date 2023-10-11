@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Revolutionizing Healthcare: The Power of Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) has rapidly transformed various industries, and healthcare is no exception. In recent years, AI has taken center stage in revolutionizing the healthcare industry, bringing with it promises of improved patient outcomes,"
+    publishedDateTime: 2023-10-11T15:19:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/HEALTH-TECH-4.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "AI in healthcare: trends and application examples"
     excerpt: "They are available around the clock and are ready to answer questions in real time. This is one of the major applications of artificial intelligence in healthcare, which is increasingly being used to raise awareness and improve self-management skills in ..."
     publishedDateTime: 2023-10-09T13:47:00Z

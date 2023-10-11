@@ -7,8 +7,8 @@ originalUrl: "https://www.tweaktown.com/news/93662/openai-is-reportedly-developi
 webUrl: "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TweakTown
@@ -23,6 +23,17 @@ images:
     width: 1500
     height: 842
     isCached: true
+
+related:
+  - title: "Startup demos upcoming decentralized GPU infrastructure network to OpenAI, Uber"
+    excerpt: "Io.net has developed a decentralized physical infrastructure network that will source GPU computing power from data centers and cryptocurrency mining operations for AI and machine learning."
+    publishedDateTime: 2023-10-11T13:00:00Z
+    webUrl: "https://cointelegraph.com/news/startup-builds-decentralized-gpu-sourcing-network-for-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 30
 
 secured: "cT+7wIwa+s+FG+NKpPQBXv3wbD/lgH8BqIHCBmJOo898nUJcmApApYRYmly/YaF+QqqEDNVIlv1XGsHlp92Kp+pNUVoE6TMd88fXcGEzwnrR8a7PSTRI6gzDxMwJy9ie/A6dmHRQUXqCgkEajvMZBxlbW3wmo963UtVs3JYZkPGdvyX/L0b3oc81f5qMmKlGSlWv7xqSkNm6ygekUnJts95duhiB7LIvkLuvDLszFZMNVVwdNgcHUW5oSkLQDFCU8JNW0CtXlOv7eZEe+dvedtptRMB8jsr8nv+3NRi+QQRXzYCNmqKE2GsWyNF4mMS1H2yKex6h7HwTjbv0nRN8d6XKP6X/9ZzA9adCrNGlYJJElGo0keHPoSgTLsbMyxAuKeG2GMoXXmLxKEPb/ktmJAD+i2+cXTqHhaGyyForPCyT9jHBP5Osl8NSMLzZPPBcs4RfoQBpmDJrambKS6/ok29FIperTvFI36yoFfUKtR+UKAEjnhbvzhfORYyNQlbQWgvj+1GxhBdUoS6jcH2chg==;urtrB/MZQ+ogDoInupi/MQ=="
 ---

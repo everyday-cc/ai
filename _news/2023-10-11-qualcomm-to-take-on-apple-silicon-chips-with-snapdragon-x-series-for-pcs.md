@@ -39,6 +39,15 @@ related:
         width: 600
         height: 370
         isCached: true
+  - title: "Qualcomm unveils new AI-ready chips with “Snapdragon X”"
+    excerpt: "Qualcomm has introduced a future line of PC processors with the Snapdragon X chips. These chips will be geared towards generative AI."
+    publishedDateTime: 2023-10-11T12:33:00Z
+    webUrl: "https://htxt.co.za/2023/10/11/qualcomm-unveils-new-ai-ready-chips-with-snapdragon-x/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 34
 
 secured: "vVk07dFVyRPFrNNXrC4CyDX4pGUMC8VAYjVhcm85rDA8ICLLUFVJtYBkIgz1A2sb+H6pIhaK/iplgjGn6MF39YBa9gJFunfk3ktDOoz6TZYXgV2HLkJyXTc0uiZd0szlrW21sDSajeuMyn19uber0F50MWQ8ZrZHxAVB/0SkAo8qcKN3iakw1yk7BKnf1j2xql9j/urVX+DkIOjge3UeDuotNu1/EXxLlnC6A+SZtP2xViCPWhQXFZmd/sEFNpCUZ3yoXPq4vftAJraER/JeeDPqaIrmdNsiJ3NxUtt2rL1MhVfNNruR0sKUbtpfGLxafLN40NbmuVSTKAsiIq8Hpx5uygJOh4AiE/cj91RrToQ=;TBdIhB2kTJR7AZRKApwYkQ=="
 ---

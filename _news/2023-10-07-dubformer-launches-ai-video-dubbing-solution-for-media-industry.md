@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dubformer-launches
 webUrl: "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1280
         height: 1021
         isCached: true
+  - title: "Video editing startup Captions launches a dubbing app with support for 28 languages"
+    excerpt: "Using translation and AI-dubbing to reach a wider audience is a growing trend. In June, YouTube announced that it is testing an AI-powered tool to let users automatically dub their videos in other languages. The company said it is even working on better ..."
+    publishedDateTime: 2023-10-11T13:27:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/video-editing-startup-captions-launches-a-dubbing-app-with-support-for-28-languages/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 28
 
 secured: "R+9iDXfeQJmeA0Fetm/PUIAzWfBNUsp6j8p1HHD/Mbzuu2Xfni/utOwRWst/fDmdZw08XU3+AVTYwCapCB0hmghhACEVtHHHbdUNk3Ynws0F7VZXLF3NkSXHICA2L3KXT+gm5zhwv3cSnZeKNJLFJqZkKhTXI/7QwZJkafAmoh6hSSRXKBqtFDBd2hpi+dSVPjnuOKs70GsMQehxK9/BFc1dr8UHxNQT6lMRSBfyGufQP9D5NHOEpCMqqqRKCN7SYUX5R99cpDWtOpz5gChDcDrRG5QVKuwzYEBVQkGA6CdvwGnRejT5ycFBh+SrhF+ROjevlrP0utuTPJ4KsjLywl1LFN871Q1pQehK6I/OlBTRMzO9mHe7OX2cG1aAyE/9ZNgu7m+xrUYl4OVYSFepW6LJhRb0U3eNPZiLeI6N6EICLtU42NHEqw2IlnRQoEuhUBRX0bREcKqNXfSbqIwjwqng3d/tMV3jL0P9O+XVPBzkQWO8NO7uHq7aiDa9v8IFVAD7n5PrlJlbsdUadqr21Q==;V9vodNx9MFNZTCOCXcy/bg=="
 ---

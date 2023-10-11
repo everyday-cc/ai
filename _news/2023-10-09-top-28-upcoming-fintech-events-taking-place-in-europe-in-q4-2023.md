@@ -157,6 +157,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 8
+  - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
+    excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
+    publishedDateTime: 2023-10-11T11:26:00Z
+    webUrl: "https://techbullion.com/texas-in-focus-the-intersection-of-real-estate-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "lEDrp/4f3F75bLzal7svEbVNsz6sC6BWNb7Pj/+KDy55FBXX31LDAW+1A6aIWuu1GSkkHiLiq+FndjDyy9pBx3SwRK/KY/GVU0bjqaGZq6ck9Cp1cBqHUlD+PW5OmkHZNTdUwhM8fD3nVm9i/7Gs/gnNg6dIYaFyFxkRvSqI5M+J05s9ns+Th9hik7qJdM6c8Zs4srB3oZCT+dY1vKeKtm3Qb4IARmTB5G3FsCdpvdf9nt31KJdRIrf9DEoEheNUW+84SvHgWVwnCgNUsp4OkZv/YdZFiNiDKE6KWHzM9OeCeuUncXWtjQYuKH+qqQJkiPOFglJlcpTtgksfKF+XJNQtzmGsVFL3GPAUdgEgBsokeefYFLLcvoxlXxRHo1nKG15JUNQr5QQmUCCG8LbiHOXr2o/s/v9TQwkKogAanr8xMsWh6h4XAk/1yPEgS+rggLDRXK3+vgfgJMeIIpe8EypNHxGK6HgpHFJ7B+H4vAywS7inOj7xh9L7/Q7GWvxhlmxRJ0w+yvIm1zdanRMcEw==;NBzLsnmZVy0oTgrvD7aSMQ=="
 ---

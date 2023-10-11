@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds"
+    excerpt: "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found."
+    publishedDateTime: 2023-10-11T13:54:00Z
+    webUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Warning AI industry could use as much energy as the Netherlands"
     excerpt: "The artificial intelligence (AI) industry could consume as much energy as a country the size of the Netherlands by 2027, a new study warns. Big tech firms have scrambled to add AI-powered services since ChatGPT burst onto the scene last year. They use far more power than conventional applications, making going online much more energy-intensive."
     publishedDateTime: 2023-10-10T15:00:00Z

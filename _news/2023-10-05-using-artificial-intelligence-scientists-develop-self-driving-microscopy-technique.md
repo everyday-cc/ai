@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Using artificial intelligence, scientists develop self-driving microscopy technique"
-excerpt: "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy."
-publishedDateTime: 2023-10-05T13:41:00Z
-originalUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
-webUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html"
-ampWebUrl: "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp"
+excerpt: "Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI ... Argonne National Laboratory have developed an autonomous, or self-driving, microscopy technique. It uses AI to selectively target points of interest for ..."
+publishedDateTime: 2023-10-05T15:53:00Z
+originalUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
+webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63783.php"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel-4.jpg"
-    width: 1280
-    height: 719
+  - url: "https://www.nanowerk.com/news2/robotics/id63783_1.jpg"
+    width: 534
+    height: 300
     isCached: true
 
-secured: "aPEVXA46axgKwDvusiwLTHUrflEiSkbxU2kVepRFiKbWtzvcTpYIrsRrDsVrWGiGEKNxRqarnOLT7TdlVliEF6YbjDN/1zXQRaWjXKnTAUg2hOY+WL46HjkvMF4+Cl1GqStk7/2hCEWft9tacTlkS+l4Mx6bmGJ19AeqCJfSbDkjJOaCUihABXRTZDj0ms0E6KzvS5gNbHQr7mHSAObwzHKClHsudcwxrOvSYx8IODfACXu3XO7g/BzJllul8s3VG8lzmMWnGghJNG1TpFBHZ5fWUsK83ictplOX99hlufL85T6ZLu/jmUWXorKfdVGboNpmS+Vvz25qPjZfmVS1UfaqRJhD9+xtCAGKqf5oLFQ=;5sTuzg5YM3A1i5H/uKKaBg=="
+secured: "0q7ChaAio+p8ctz9WyCcdcNMSTFnjN201wOHR/h+ahdZyEwsLKVXEPrc2kvNs3YKQAKu3qgq3lkZXngAJ3ZQszAR/pIuC+W+4541CFY9tSr7DPMK4ioLAjzcKQXMAsRFSYWFQF529Dbyzex/AT+ZqHYtxNwQa5NPU1W1f4D16Yhbp8RcTc6cfnCT2CjAnjqqmMwABgQ0uI3sheEycmWvZjSdhpRo69bf6tRTtBqjxMSD+IkHSj0qwsCnGvmaEsPF6B5M+I8oYEmQZrVr9dYbshz7+cZXslHNUbQPEJ526/fa2noBI65Wq48QG5wh2szVyXMK0UUabL1HI6mV0Jc2SlBMd9V5qCGHzLZI7JIHD6E=;/o5xMEPaBvGHS3ZkBYSaKA=="
 ---
 

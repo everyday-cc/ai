@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Google DeepMind's AI Tool Could Pinpoint Our Genetic Faults"
-excerpt: "It’s becoming increasingly clear that scientists are only scratching the surface of what artificial intelligence can teach us about human biology and disease. Case in point: new work by Alphabet's AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease."
-publishedDateTime: 2023-09-20T14:30:00Z
-originalUrl: "https://www.bloomberg.com/opinion/articles/2023-09-20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults"
-webUrl: "https://www.bloomberg.com/opinion/articles/2023-09-20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults"
+title: "Google DeepMind’s AI Tool Could Pinpoint Our Genetic Faults"
+excerpt: "Case in point: new work by Alphabet’s AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease. Get a curated selection of 10 of our best stories in your ..."
+publishedDateTime: 2023-09-20T16:10:00Z
+originalUrl: "https://www.washingtonpost.com/business/2023/09/20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults/2e7785e8-57c7-11ee-bf64-cd88fe7adc71_story.html"
+webUrl: "https://www.washingtonpost.com/business/2023/09/20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults/2e7785e8-57c7-11ee-bf64-cd88fe7adc71_story.html"
 type: article
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Washington Post
+  domain: washingtonpost.com
 
 topics:
   - Google AI
   - AI
 
-secured: "ol/a/8X82bCN5IAj1U+Gr2R/jJwsvNxkmhudIl6brFEl7jeN+2safNjMyUUMdtT/KITVGw6go/qde5Nj+dC+OvZBQDioqCzjCla6Qxqap7aYRhEm+ZOm8ytmjp9iOMZgkwZZza/vlyrJN4jOOFuiWFTwifS4n9e07P1YtJpeHoN2odIDjbGY1wopxbDeTVFBfnptT3jUd45sQtlQ82PykvJqC/fZqkLaprsD+rayXzMp0IKMfnBP4rYScLhWflr1BUJyuZRCdfAGwC3b8VVuJjRjOylml4IYqEFirX5zSvhgsn2x0SFvMdyF0QUdAQThRojU6/DPxgGjDtKs6CD31iMUZCUlSFtHbqnq2vHf+D9YsWzYwUrRibYbDYUSBNgOPXT2dcFSTmX/Dq+GWQGYDnot+/E7AO0HO94ougPJKzribtqd4ybHlcMV5k8k22PKMMDINi9qA+HrwPBAeQwZMG/FDckWHi7mHSTZmacFLrUr+9BM46xZ3euAFk+Djprb7n7xnbWzMA3/Le71xuq1Wg==;gcYTXvd9VVYWSXudTSGh1g=="
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
+
+secured: "go7vOAmuJmUTquJFLrTo5fRgvZHxj5pVlWr+f7ee+e9VCVpYXOr+ovnN4kqXFhPkZ4ZcTlP4FJdlBzMHqedgVnj3F4bs/RTthex2YGNtgWGnFzSVhlgKIf8AaQ3KmEynh4jPi5Y6NNGX8ux6BmE9OYUhXRP8nPIcrRBTi/YkyPXNjiTnuIBUiwuWuPOPYrHqVakf8rYrbef7fRL8MnzRgEKS/SaUhdRX5h+xBpPtba/UJfOOoClCnVx2+xgDBPhHuDgIkx8jiMS5iDqV5M3S19i/QtYG4qHvZXVglClxbahwYe3ssCFVSZ484WakRR8R36FOzcjl/bmGiTvtpgZhx3L71eTProaEXwxLbAtyMEc=;8Aim2Ak6J5mL/ysW+kEDcg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-fa
 cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?298297"
         width: 431
         height: 250
+        isCached: true
+  - title: "Processor and Software Innovations Empower Edge AI Applications"
+    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
+    publishedDateTime: 2023-10-09T14:36:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Bl/3ozCZ9YtjE+u/rnXJTtMKHnJJwaVa22KaeZUPnot3q3gYSmPkC81CJaTdK5zyzEmDXBUOLSRbPgef0E4yGSJHnvhTDd/lO8OVV5gGKgUywK/KO3LgUewoklDm3fn2PZBS6CKYHV2gUjAX3+XuV5om4fAXN46z0ArwJICO6WiysO9ZbDffjaotW+VRxgKB0fEzZXfykx2NaUvrvibPGq3fDBqx4QQlaa0LGdy0lAF96ANZvAjVvTFBAQF9T9ItHJvG2EUxo8fY3YWCT/g6PnUKkPTNaGhlfoeEGyqHSxZe31ke7ZN/Q9WaZ356MhiVUxjSTBoQsGvQgTCSfXHez+foZYD+sF+IaIvhla/2mKo=;YgGsO/j6HCkZTPqxD2lvuA=="

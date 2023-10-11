@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-ethics-researchers-unreasonab
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp"
 type: article
 quality: 104
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI To Join The Custom AI Chip Club?"
-    excerpt: "It would hard to find something that is growing faster than the Nvidia datacenter business, but there is one contender: OpenAI. Open AI is, of course, the creator of the GPT generative AI model and chatbot interface that took the world by storm this year."
-    publishedDateTime: 2023-10-06T19:28:00Z
-    webUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/"
-    ampWebUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
-        width: 8000
-        height: 4940
-        isCached: true
   - title: "OpenAI is Looking to Start Producing Custom AI Chips"
     excerpt: "OpenAI, the creator of ChatGPT, is exploring options to start manufacturing its own AI chips. This initiative aims to combat the ongoing"
     publishedDateTime: 2023-10-07T04:30:00Z

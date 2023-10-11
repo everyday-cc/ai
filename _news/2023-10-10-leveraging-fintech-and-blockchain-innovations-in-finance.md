@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -161,6 +161,15 @@ related:
     provider:
       name: fintechnews
       domain: fintechnews.ch
+    quality: 4
+  - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
+    excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
+    publishedDateTime: 2023-10-11T11:26:00Z
+    webUrl: "https://techbullion.com/texas-in-focus-the-intersection-of-real-estate-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 4
 
 secured: "k6h22zWv9fieClSfjvVEiHu0GUbVXFE2pEJd8gQSchh9ROp7IDNOUKQGsmiOdeW6M6XVaprAyoroqUJl6rYxcAibGT1C9EvS584rmJrSKnBpU+DK/5LPnUdxGpVHNswASGbOQvLNBpOWS2e5h+akkkqUc7t7Wf52nfzhN+xN0sDnLo8Q4Cl3UrtBgYubrmcrLcmf2A3X95nEfaV5gqykYHUm4dg8gzvOVwFXz0Odld5icDkjBIlXT35WghLnAJ/i4fyPGExM7c6TpJNwfdTo6DUs8ZxcPDhDKqKuNk/GfTFfp5A5s/ZJrZplRy/gAQAi8Fg2TxwhKFnOrW5l2wXiNa5j74AmKOORtIDo1mph493iCzTUAiRf071QjNMmeCKLgg/RyhvTDdNsUS2rMirau1KbRjSr9V3dWcviBgXuHpPghEmiC6Ie0N+igRfk/gmKzMANxx/5qxH80FwhZIjSvQaVmDg+yRRFHDxsvwIK17S64nQgV3p6y5VlrWP9R6tSabR/U1pDURUeIPkC5uFjGA==;ns+iQBc+7f8TNMiTfqYFMg=="

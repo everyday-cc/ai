@@ -25,47 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Survey: Challenges and Solutions in Generative AI Adoption"
-    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
-    publishedDateTime: 2023-10-06T19:26:00Z
-    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
+  - title: "Google claims their AI innovation far beyond rivals"
+    excerpt: "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged"
+    publishedDateTime: 2023-10-08T09:46:00Z
+    webUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news"
+    ampWebUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 73
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
-        width: 270
-        height: 203
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg"
+        width: 1600
+        height: 1062
         isCached: true
-  - title: "Get AI for Content Generation, Image Creation, and More for $80"
-    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
-    publishedDateTime: 2023-10-09T16:07:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+  - title: "China Has an Authoritarian Edge in AI Innovation"
+    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
+    publishedDateTime: 2023-10-10T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Survey: 44% of Organizations Are in Early or Midpoint Stages of Generative AI Adoption"
-    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
-    publishedDateTime: 2023-10-09T20:30:00Z
-    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
+    excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
+    publishedDateTime: 2023-10-09T07:10:00Z
+    webUrl: "https://menafn.com/1107210557/Google-Cloud-Accelerating-Dealmakers-AI-Innovation"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
-        width: 1400
-        height: 939
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?298297"
+        width: 431
+        height: 250
         isCached: true
 
 secured: "GWO12460M4eqDfseVuP4zzRaRxnMyQ19G8RPXGi4W9XotDHstlZcJw/+OstKvCYi2gjBiPFtlQ+R46/CRMzZKbTD7DFrw6Zidr+3/gQmQ8B9W/snFFHZa8CNbve2vXFX53ZcNiruTi4IfT5POMH/+sCslu/mAvX3fbGBwN0G7nxVzqmRILEsyWzc1gjmnmRGb2mVJohW1f3Nd/WOTNWzRZ5BHjbba95K4EsEYlkijJKYT1hCNlWwv886GchE4hji5sem4OiU2nXyWxXY2qjur68okccp0sFlfCD/iDDpn5t3VvjA7svb7rYn2Jd+EVNz2G2S8ABdZdjQdXfGf6Q12XCu/kJMGe2Tity2/QPjfe97RqmS5zR2XdnAnVQGA9AGTbHXEjmN4ZDzIp80oVbXKGsQ1nBr9eKGnetVLG5Vm24w/SYr8eZzTziiscbZfp8U7V6RqS72TUR56UgbppJvG2J7I3Mr2jEH8qIk93Z/4FL6IrZ/XLugHDJJOUrGohHyN2YWK9JukZNqlpnh8dXiTA==;S72V/qwW4PzhD20wAoI9YQ=="

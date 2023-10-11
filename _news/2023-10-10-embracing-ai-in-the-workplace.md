@@ -62,6 +62,22 @@ related:
         width: 1453
         height: 900
         isCached: true
+  - title: "Why Medium is opting out of AI"
+    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
+    publishedDateTime: 2023-10-11T14:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
     excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
     publishedDateTime: 2023-10-08T11:00:00Z
@@ -141,6 +157,20 @@ related:
       - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
         width: 2001
         height: 814
+        isCached: true
+  - title: "The Increasing Impact of Artificial Intelligence on Energy"
+    excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."
+    publishedDateTime: 2023-10-11T15:19:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14367"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 37
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14367_16970374611364076.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "XULgfHUNvcWWpImf/trFEeV5vT7TRwo8LXatifxz48O1Fqs3uutEADx1bJFayMsOKaP9t2n83gLnofeMFrPlB3C+bMCi82utOj1okaBRbStHSK7kyxMNy5fkGvYWpFsmmC+vIjySVw/66mzkaD9bhYLwDmI8aDGZZFvdlIu7m+XTZAxXLO4jROqL3KR8TFlPYGBzb4L7TvZ5/kWDYzTyglRMDHeuLRpaKZIKsmR81RUaDF7T3sQyRHtfXy76IdAoyWZaNmbtfBleB12tVdsCPjABmxgGZVkYHX3vF20u1J9r9Gg67J9EvzG0tY/A6Z/eHtIb6iuv28ggZgNpspv/Wp7IIrPhjgu7ytGNsF/YKAc=;U4qEJaHHGMeymzzBSiKI3w=="

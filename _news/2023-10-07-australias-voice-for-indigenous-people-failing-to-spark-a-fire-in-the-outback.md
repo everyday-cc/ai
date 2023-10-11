@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-0800
 webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
+    excerpt: "Standing there reading the panels, Debby May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice."
+    publishedDateTime: 2023-10-11T15:00:00Z
+    webUrl: "https://www.bbc.com/news/world-australia-67076216"
+    ampWebUrl: "https://www.bbc.com/news/world-australia-67076216.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6EB3/production/_131393382_waitangigirl-gettyimages-1300569525.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
+    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
+    publishedDateTime: 2023-10-08T23:35:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 43
+    images:
+      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
+        width: 620
+        height: 372
+        isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
     publishedDateTime: 2023-10-10T00:36:00Z

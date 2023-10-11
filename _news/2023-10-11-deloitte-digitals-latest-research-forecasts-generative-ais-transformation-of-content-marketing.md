@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s
 webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -24,29 +24,48 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "How Domino’s generative AI experiment could transform the front and back of house"
-    excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
-    publishedDateTime: 2023-10-09T21:04:00Z
-    webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
+  - title: "Get AI for Content Generation, Image Creation, and More for $80"
+    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
+    publishedDateTime: 2023-10-09T16:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
     type: article
     provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 34
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/2dominos_2_3.gif"
-        width: 770
-        height: 400
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Data security, not job security, is No. 1 issue for tech professionals around AI, per Deloitte report"
-    excerpt: "Professionals in the emerging tech space are worried more about generative AI stealing their data than stealing their jobs, according to a new report."
-    publishedDateTime: 2023-10-10T04:01:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2023/10/10/deloitte-ai-data-privacy-jobs.html"
+  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
+    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
+    publishedDateTime: 2023-10-09T13:43:00Z
+    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "UiPath accelerates how customers can create generative AI applications with new connector for Amazon Bedrock"
+    excerpt: "UiPath, a leading enterprise automation software company, today announced a new Integration Service Connector that gives customers access to Amazon Bedrock, a fully managed service that provides access to industry-leading foundation models (FMs) via an API to build and scale"
+    publishedDateTime: 2023-10-10T00:45:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/uipath-accelerates-how-customers-can-create-generative-ai-applications-with-new-connector-for-amazon-bedrock.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 20
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/e702b1b31624d9e8bdcb0b36f092fa6e_M.jpg"
+        width: 375
+        height: 256
+        isCached: true
 
 secured: "2vy3hk6COpOhlmMhoAzNXwuJP61Fg4Cdjat3JsUAv8kvaYMo5nFz+e8+4/OkqX6v0mN1WomgQvTvtc1OGyCxOcEREkEqkltm2VY+Dr/LLKb1uDHHVDxK8eR03GeB8c/pbB4VADzBKr1c/Ks7xpgow7Lk4/V1HCHFIbkRpMhkONlS0D/+dtBz6sVvi3xhLfKDX8zXMAlBhfB499eEayqLUzpKF4lIeiixnB6T/d9u0JyI7fy+GmX7t7JC82xE/hb9PyfY/SDoIJzm51JvvX6IhiE0lHTCjomkD3L2FllXhby9xWNZiptMaB4yfgnVm/0G8fF6B5UN97ScJLu4rKvui78tP2mXyJU8R6kNwHxW4bC6L8NLOBqlFQFIX/I7UnWfucmfK2fUUeKgj04rGXCp649voLKahqoOSsZfaxXDPB+bq8bKH23azvJZjod2rPDcigwgE6v1vjGcgMK6rsSL/vYqAYCKw31RB/Gz9rdIf47Ew6WoVfCA6SC1G2AW0cA5hU4YQrFUbolpWaY+VQN36Q==;8NgJwEe+LWtiaLbTpdGgWw=="
 ---

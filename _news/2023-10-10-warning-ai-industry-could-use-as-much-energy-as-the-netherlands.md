@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds"
+    excerpt: "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found."
+    publishedDateTime: 2023-10-11T13:54:00Z
+    webUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Ethics of AI in Political Creative"
     excerpt: "As the industry awaits guidance for where the compliance boundaries lie with AI, practitioners will have to decide what’s acceptable for now."
     publishedDateTime: 2023-10-09T20:30:00Z

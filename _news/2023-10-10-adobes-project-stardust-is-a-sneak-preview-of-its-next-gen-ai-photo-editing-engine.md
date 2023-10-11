@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 725
     isCached: true
+
+related:
+  - title: "Adobe significantly expands Firefly AI for photo editing"
+    excerpt: "Adobe is giving its photo editing software a boost. Among other things, Project Stardust AI has now been presented in beta. The Firefly Image 2 Model has"
+    publishedDateTime: 2023-10-11T14:25:00Z
+    webUrl: "https://www.techzine.eu/news/applications/112136/adobe-significantly-expands-firefly-ai-for-photo-editing/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 39
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2023/06/Adobe-Firefly.png"
+        width: 1241
+        height: 857
+        isCached: true
 
 secured: "q3nUNfY2US2uykUG65ObAA83YdLxcmcw3NHLrg4Awb4KuiZhDRLowHFcJubtyxtLiPOsQ9E8WsXV2jfoWVrUMIwiInh5SQcogL/O5HhDYsA19BC0zgA1dRX7KuxBwFCvSlk7IDu0HtITFQ18IUIvP+zdivQcdMVMFa9CQxrEn1T7pe2E5C04ZtoxTqKOiemc3aGEFHNf0uZs45oWCCHUh41TgGCnK3ldpr185aQXf9f6c+hT6X/bxeoT1lp6UneD0BY5TnKjbvqSV37H+mdtoE9uXQ8QB1WpNxOpvL73AwALVQG8+flVjVnfmXLCgpv0zQ9Xwr0A/w7NEhuiU0zVDXLND1JF6Uaj48pdT0FY29lNwA07hrsjS837UkbpiRrSmJM85MDWuUjBZWlbE+FdrPwDurpB/kzC+Dh98EM31zE3Ih877TFWXhxZt70T7ZYO5fL2I/nkcTKhOoYa7pWIntiVURAUdiKSMN/moLPrMZWJSDXi8CmXloorKcBZiR0y/Kut4eSSV8LBzlDyJFOFEA==;GZPfWyKZ4P+3PD88szfulQ=="
 ---

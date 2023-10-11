@@ -52,6 +52,20 @@ related:
         width: 431
         height: 250
         isCached: true
+  - title: "Processor and Software Innovations Empower Edge AI Applications"
+    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
+    publishedDateTime: 2023-10-09T14:36:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bFT2yIuk5uKlXFgjGTuyzpHnXGBhhxyqshaSdgU4JFZsd2kBHej2JJYhVYX/VvPxMni59rzZGJdcRtRc9re3W6RfAwj6X7iMtkQHqnJtmICuWyzb7NobdCBUbTPD98Jez4j3FnHkphc9PexHVrOFkHpRRkteHEiDutn0e/T9roMdFJoDii1SI3hJQ1vbcnnG6Qbt1UMh7L26l28jmmsoPDdRxzztl51w+iNlK5Rk1y6oU/u4HsPlHmx4nudE3pH/2o5bRFKC4xfvvkMAYatKa1VzAk4fK8uyOvVXd8mDIS+UOIJ4xtihPhZiy/nvpnEWNdchShJUIxhk0dwOXe3lafDXvsJoWgn3TSWTFjT6rM7EG+5O7FkXC/RygLXdHWz9jOrmLFZIq3tme8LCRB1A/7SOg7UwhxhkItzxmSx+jYxD5gdHdCbCBmyJNu0TCcu5OHo9gl4s33SCmNkHHbbAzJXoOzDf+M2/wC+Fq0MsBfIVqMM84gWbqlCATPPTKveclJ3vUFT3W9wCRqfp0qu3fw==;35MglYP6WK86Twz+/94gJg=="
 ---

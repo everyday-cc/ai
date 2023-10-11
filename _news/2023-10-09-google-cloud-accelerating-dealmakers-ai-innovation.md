@@ -50,6 +50,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Processor and Software Innovations Empower Edge AI Applications"
+    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
+    publishedDateTime: 2023-10-09T14:36:00Z
+    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 39
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XnZAGifDVteAT1iwKYDXYQ7vL8CWie0yXzvMIoioQpWspz1cRKaHAS4vd15JXjq3x+eOpidjinXByhp/NiB/AUp0jE7iMWqRnnpBEIWof3gq8SXoILilB+iGfioSKfWG+XzAlnQgqV6MrV/Zof581yRitNGgyONqO//piZR5cBwOh3KcJ7PfLwCyXJh4SeEXsTn8VXcpSwE2addFyVALtb8+meCFVzA8HoAK/l5Wfd0E0+e54IUYXHrs6qVXgVpOIaE6OFSO/xGinBpnkUDSTwL5OhdDVeFziAgKLc9Kkzi4jNHv1YTDjdD9mz6vBTDimaBIzyYKPGWkTKmpqDERjgHrT0ULU57Cf0CQUw8Nzo8=;cP1CpTUFTcEGDvahD3V5Nw=="
 ---

@@ -152,20 +152,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Microsoft to Debut AI Chip Next Month That Could Cut Nvidia GPU Costs"
-    excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference, according to a person with direct knowledge. The move, a culmination of years of work,"
-    publishedDateTime: 2023-10-06T20:06:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-to-debut-ai-chip-next-month-that-could-cut-nvidia-gpu-costs"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 86
-    images:
-      - url: "https://tii.imgix.net/production/articles/11418/b13870cc-3991-4322-8e1f-3cd48e02df56.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
     excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."
     publishedDateTime: 2023-10-10T04:46:00Z
@@ -229,20 +215,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-104334034,width-1280,height-720,resizemode-4/104334034.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
-    excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
-    publishedDateTime: 2023-10-06T21:13:00Z
-    webUrl: "https://siliconangle.com/2023/10/06/openai-reportedly-develop-custom-ai-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 71
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/openai.png"
-        width: 989
-        height: 520
         isCached: true
   - title: "Microsoft prepares to unveil its AI Chips next month to reduce costs"
     excerpt: "ALBAWABA - Microsoft is gearing up to reveal its artificial intelligence chips next month in a move aimed at cost reduction.The company, co-founded by b"
@@ -439,15 +411,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 49
-  - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
-    excerpt: "and even Azure. Undoubtedly, there's a gigantic opportunity to monetize Microsoft's offerings further as generative AI looks poised to enhance productivity in the workplace. Even with the threat of antitrust, though, Microsoft doesn't want to hinder its ..."
-    publishedDateTime: 2023-10-06T19:36:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SREN/pressreleases/20898461/microsoft-stock-dont-overlook-this-ai-pick-hiding-in-plain-sight/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 34
   - title: "3 health systems adopt new Microsoft AI tools"
     excerpt: "Microsoft unveils new healthcare data and AI tools to help healthcare organizations unlock insights and improve patient and clinician experiences."
     publishedDateTime: 2023-10-10T17:27:00Z

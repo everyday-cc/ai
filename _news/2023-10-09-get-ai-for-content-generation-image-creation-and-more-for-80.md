@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content
 webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,47 +29,42 @@ images:
     isCached: true
 
 related:
-  - title: "Survey: Challenges and Solutions in Generative AI Adoption"
-    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
-    publishedDateTime: 2023-10-06T19:26:00Z
-    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
+  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
+    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
+    publishedDateTime: 2023-10-10T17:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 73
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
-        width: 270
-        height: 203
-        isCached: true
-  - title: "Survey: 44% of Organizations Are in Early or Midpoint Stages of Generative AI Adoption"
-    excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
-    publishedDateTime: 2023-10-09T20:30:00Z
-    webUrl: "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
+    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
+    publishedDateTime: 2023-10-09T13:43:00Z
+    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr08172023-generative-ai-enterprise-adoption-insights.jpg"
-        width: 1400
-        height: 939
-        isCached: true
-  - title: "Processor and Software Innovations Empower Edge AI Applications"
-    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
-    publishedDateTime: 2023-10-09T14:36:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
+      name: The Tech Report
+      domain: techreport.com
     quality: 39
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "UiPath accelerates how customers can create generative AI applications with new connector for Amazon Bedrock"
+    excerpt: "UiPath, a leading enterprise automation software company, today announced a new Integration Service Connector that gives customers access to Amazon Bedrock, a fully managed service that provides access to industry-leading foundation models (FMs) via an API to build and scale"
+    publishedDateTime: 2023-10-10T00:45:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/uipath-accelerates-how-customers-can-create-generative-ai-applications-with-new-connector-for-amazon-bedrock.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 20
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/e702b1b31624d9e8bdcb0b36f092fa6e_M.jpg"
+        width: 375
+        height: 256
         isCached: true
 
 secured: "s4rp7JjrylyYi8z6thMBz+8iZmi42kAxW/jaGtHADkUweYRkQaWUHwxETwOp7yIKEP9jiZ8oRkZ5jfq3RQYVd00yYi7Gv4oID2kn4OPOp4AGL83gVHzVf7dANsF01rhTkGlCtf8Ye4LMH/dqxRHLQfjav6e4kFjfRgo9+OCR+mb3H/Ef/SHQcprhKG+9W/LLDEH5ZxLsBhcC+KHFPWW53+eLMtYe9UAPSmZYpd2MPPuIJL6qciPEOPRUld/feQCBdLtO2qwEOVZimlrzLX4VOA08auEvtN7DBKq4KZctTx0QUgCXFueN0Egq87f01SjE52hqMFCX1F2Ngok8aZFGFOnSjuXUSK6tmcGMgelwkGA=;+XDFd8jUymJOaD3aiYTvWg=="

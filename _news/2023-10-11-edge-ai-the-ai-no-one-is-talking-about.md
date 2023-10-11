@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6524fe4913877b0bbf06f748/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1453
         height: 900
+        isCached: true
+  - title: "Why Medium is opting out of AI"
+    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
+    publishedDateTime: 2023-10-11T14:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
     excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
@@ -143,7 +159,21 @@ related:
         width: 2001
         height: 814
         isCached: true
+  - title: "The Increasing Impact of Artificial Intelligence on Energy"
+    excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."
+    publishedDateTime: 2023-10-11T15:19:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14367"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 37
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14367_16970374611364076.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
-secured: "JzRuL3u7DGOsTT4n78jXRULMRj8a+4G97M3MjSX/mDOBGRzD+XA3L0mspVteClU/Ln9TLn7qy9PUStSlsxO/pb4dcOa6rJI+T4/XeF08e/D+f+S3gWOX4MlMh60eKzzjJBaJrMeFnepY4lbDj+nFwQbJNsjDz7hX53CfcreEPR1vcm7IARYMcyuFFnLRvzUVaO4tz/Zz3ypnhoiI23lAczSANBLVG0NB9hKlbQD31kDKKCxfMkFJT+SVML2mj5Cy8RJ+EEG8/0ajzWB8MIQ5hSTt9/4+UaiMPdS7wqL6qGSrwmdWabk1eSN+YBFWxNpP60tEZK9VTM9Vg2KCfF0w+r/IeHwoExBfGPj8AGwgPh4=;iHRXWQi+/8legEkDClIoDg=="
+secured: "2p90NeV5OQ+YSBa8BKCbJnXS6R9+3lEmI0szfxRtOX0o1iv5lHVi1IlZPfasaA/I8GuEWLnG7E72Z0Vom6hYGw2z8fM3DvYCaqsWkkccVddp2XsKWhJMcfCdIL7wJAIhgSCWTwe5yfTBBPR49GYtLfoZHq4erQBMllL1lVBdTdZQNfTp3+oTfGnuKHzKtMkm+X16JQOGZNO+3fG5/eYYX0dT0fV2j2/cqR6pPgyIWy3lcvh6aqgBCuD2oJVyAjOdWHkV+wG+nednuPJ78lKah0iIGXwh5gDRMp/xl0k7h9B6GhljGw7g61uLmPTVsIE0XkF8IbfaBq4SJWCzO60hMUF1dGVMOH/RFW398DyAHig6RM6RS8ujwhyqr410R2K5vTGSva3XTU94o8ZHMRIvzcbmoe9k4bqeLIJCvwOW61BwEsmFKVr1KPsr7bMsgfidoBW6lN0Sl490MIs5syXBB/O9dgBBZzzLbxqdnU+sTQtQEdhOqk/XW2IyGrfoa3iUWIb2I9wzNfHIoEn9QEr1wA==;MtRGIlArJpMxbTNSrPrTFQ=="
 ---
 

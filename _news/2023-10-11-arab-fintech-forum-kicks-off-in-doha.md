@@ -158,6 +158,15 @@ related:
       name: fintechnews
       domain: fintechnews.ch
     quality: 4
+  - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
+    excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
+    publishedDateTime: 2023-10-11T11:26:00Z
+    webUrl: "https://techbullion.com/texas-in-focus-the-intersection-of-real-estate-and-fintech/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "Gfq0f385ywCjho/ke+Ay49ZZKOCW6X5xy5/tITT8virRUYBhG7F1eI6vs//AISphr0/FbDIgGXSTZ2xJ8zo5wGZooroHg8TkXBiANN/TUsrkTqCJ3VVctENlH8wwJchk8tPCBazMekHuaXdsLK/GqoJvBle4bQczVd2yYn7UTs185RBU5o5XKbfNX1cc/IHjjEox/zOMgdl5oqvj1yeVA44Honxs6WLqZ33nLCxXgQVG1AhdFiUoeLuPtEgGI8f9rTqmY6MM9sLHaq6doUGaY3r8oivDjwTh1LVh8Q2vnIBBrStYuv5S9nUgADZxfSYADRXW5ppDG95DN1nnnDjrWudVRV/hIj5c5ukxyzq5S+Y=;izanIyZ+saio32NlP3sD4w=="
 ---

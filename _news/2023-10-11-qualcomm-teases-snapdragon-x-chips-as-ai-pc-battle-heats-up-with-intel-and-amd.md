@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-sn
 webUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: CRN
@@ -39,6 +39,15 @@ related:
         width: 1790
         height: 1007
         isCached: true
+  - title: "Qualcomm unveils new AI-ready chips with “Snapdragon X”"
+    excerpt: "Qualcomm has introduced a future line of PC processors with the Snapdragon X chips. These chips will be geared towards generative AI."
+    publishedDateTime: 2023-10-11T12:33:00Z
+    webUrl: "https://htxt.co.za/2023/10/11/qualcomm-unveils-new-ai-ready-chips-with-snapdragon-x/"
+    type: article
+    provider:
+      name: Htxt.Africa
+      domain: htxt.co.za
+    quality: 34
 
 secured: "9rzmNHbAP4nwXqQnevwamToWrp9ko6t1giwJxxgnFawetuCSLu4R87OFWfSVOH+3wqyfzf+GDOAvGT58XpQX02BnXBfqgDZySLaETCfEuW0AezUkmWSnH1J0xIApomzWdk5cRdgaPJhuB+RN6PTJfQL59XTN4ABo0AS6ioWRHUcRqpRVAoIbMZmpq1bUVOQ8t81SPNrURL2Qu4HrhO/Y3xMxswepdDSFghovt79nFjhNXLGQYkOsG6kcdHpBvR5qbK8BxhKou8F7PX7OGvqYxL+27u6STm/FlEHbwjUXzigmu+O7+UY6Ur6rUQbGS8gGsQlI+c9Pov9KCRXtzKyVG2U22zxGicubnCy7lqPz0eEDBtymaJAhN8PaKOBbVczdG/V111IzQC0SjEkGxMJcg/N9cdQumYpuuqB7aRqEK0XcStJE0V+IYky780KqPc7Lj9EOFwmhwVL098utgRDonVZssBvGO6CEXG2bxs4KrC+LygkC4xzdg6z9B5xJrBbly9PxLL73k+URE2J70aNhBg==;xLi4vY04O58t1ImJw4QQ3A=="
 ---

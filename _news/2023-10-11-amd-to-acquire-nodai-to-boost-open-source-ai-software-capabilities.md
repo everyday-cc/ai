@@ -159,6 +159,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 17
+  - title: "AMD to finalise acquisition of software startup Nod.ai"
+    excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."
+    publishedDateTime: 2023-10-11T12:36:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/amd-to-finalise-acquisition-of-software-startup-nod-ai/articleshow/104346348.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 17
 
 secured: "fsQm2dc+05lX4Zu6AwyMnZecYBxsEZ4vdR+qXmO2TvYJTv6iinxDkG7euj1povqvyEkFv4CFYyQu78M6WiifHZzQ2pXy6B3JdqjSMBWcsv0F4Fj1FaJxY1gtHxu1WRTt4VzYwYUn4ryAooE/8BOmv+mpbeDxYjVoQ8MweJT054f9sQyC11hkZkeZfFDYoWo5vboSzyap/5e+nR0HgYDqONk+6xWHRBL2KFY5QFojc+Cow60hMhac2jhm3aQ2gHyaErQTj7Oh4DYpn3kEfSW9VdrYv4PkpEty+eP5kfrWlVt093m3cUPGmu8a69rdlLtRVoBWeSq5iDV/KvIQE4gmaIPsoSwHjVI8iUJO2y1/wjA=;QkhmckvOXn49AjcV36oOkw=="
 ---

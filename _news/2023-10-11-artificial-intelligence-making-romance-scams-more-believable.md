@@ -9,7 +9,7 @@ ampWebUrl: "https://turnto10.com/amp/i-team/consumer-advocate/artificial-intelli
 cdnAmpWebUrl: "https://turnto10-com.cdn.ampproject.org/c/s/turnto10.com/amp/i-team/consumer-advocate/artificial-intelligence-making-romance-scams-more-believable-warn-fake-profiles-scammers-images-generated-targeting-messages-october-10-2023"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -29,19 +29,12 @@ related:
   - title: "Artificial intelligence is making online romance scams more believable"
     excerpt: "Online romance scams for years are nothing new. Unfortunately, advances in artificial intelligence are making these fake profiles look even more real. How is AI improving the quality of romance scams?"
     publishedDateTime: 2023-10-10T22:00:00Z
-    webUrl: "https://okcfox.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-    ampWebUrl: "https://okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-    cdnAmpWebUrl: "https://okcfox-com.cdn.ampproject.org/c/s/okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+    webUrl: "https://cbs2iowa.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
     type: article
     provider:
-      name: okcfox
-      domain: okcfox.com
-    quality: 57
-    images:
-      - url: "https://okcfox.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
-        width: 986
-        height: 555
-        isCached: true
+      name: cbs2iowa.com
+      domain: cbs2iowa.com
+    quality: 17
 
 secured: "mBAPWSoLglhgNiq2Ch7FuU1CA5/X1SC7CpiUiJecRgOtm65E8ehOl/rOaFemIqOp+N2dj+Ns1/kb9WxZO+iAmE+wXUYijY1zqkX/TvWIXOXK1/O5d/lSc16CTBnF56bUCpb5E5T66NLTEy68PrPXd5A9DxbS4+HHJpQIPm0Rc9LCf/ljGlHwbGkM7K90Nss6i7nqA0/eTBOpgQXbBgk8bWybr/QVh/4U+GxX499QCOo76IJy0eonqGpYylcv7+bSgP8PhtlOs3GW+JRVAAPjPhW+97YJNg7V4kRhuUcDzSX2yGKjYCQreVJ2gBzluGdCemQ7syIsKPJD1+yrelKA/X3MIygk5zuv/1ND1qpNxQOb1Pf8uZqGKuOCmrS8pH8pjSSnRW6P9dM+WS8Acqz5DuFtxxy0aMw/UGRT/aZm6EZQYqs+I59MguASmgTdrjdfyodxrLKvGse18VYnKoB9cVHPcXZgkKTL1zwcasTi+1hyZ5+nkE0Of3lc8VpxaSQlpCl4+B95fA4S4FrM4SJHpw==;6jXsboPdttwYGxCe+s7Z4A=="
 ---

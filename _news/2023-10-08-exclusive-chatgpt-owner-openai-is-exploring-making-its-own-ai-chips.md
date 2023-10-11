@@ -35,15 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "OpenAI said to be considering developing its own AI chips"
-    excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
-    publishedDateTime: 2023-10-06T19:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/openai-said-to-be-considering-developing-its-own-ai-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "Despite OpenAI's Potential Shift, Citi Analyst Predicts Nvidia's Continued Dominance in AI GPU Market"
     excerpt: "Similarly, he expects NVDA to maintain a ~90% share in the AI GPU market for the next 2-3 years. Pivoting to Marvell Technology, Inc MRVL, another prominent AI player such as OpenAI, looking to build its own AI accelerator, may offer a viable path."
     publishedDateTime: 2023-10-09T17:00:00Z

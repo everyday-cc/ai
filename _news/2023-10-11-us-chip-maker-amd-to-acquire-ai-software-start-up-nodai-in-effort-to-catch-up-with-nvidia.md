@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-make
 webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -162,6 +162,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 17
+  - title: "AMD to finalise acquisition of software startup Nod.ai"
+    excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."
+    publishedDateTime: 2023-10-11T12:36:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/amd-to-finalise-acquisition-of-software-startup-nod-ai/articleshow/104346348.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
     quality: 17
 
 secured: "N6Ev3uk1WxnB4ao5RscdU+OPw9tL6D6KhcM3Ew0c21pyq7FW8EgrbnhzCcfRq/IbtXOhj8KlUhS7VgjmN0NQkEBKyzwIkxF/hWxegr1VU/dfZHvGmcqHCxQHLj/yCaNAXNPpIhE5OAZAs7Y432KopE3s0Y5tXehbU0LHKDIGJeIr70/N34zt13sSytUIS+mmvE6y+3NrOKCFLNw19hzgWpNW6cbqhgTlvs1ABpPSFdlXrTw95OYI4ZElewuS/iq/wcrBSgVZ+T/SRj1r54RQM9kvTt+1z5S2gRlctzfEa05ZBWjzGNVSf50F/5i4nIHdabDbzHGXzZ6tG6+v4R1bBSUpWqc7FCIjzZbDjIOqoUo=;S4+zIW4Pi3Ntz+BzacbXtw=="

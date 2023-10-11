@@ -1,26 +1,26 @@
 ---
 category: news
 title: "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models"
-excerpt: "IBM) announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of generative AI into business ..."
-publishedDateTime: 2023-09-28T05:00:00Z
-originalUrl: "https://www.victoriaadvocate.com/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/article_6506791a-4265-5b63-a4a1-540044387455.html"
-webUrl: "https://www.victoriaadvocate.com/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models/article_6506791a-4265-5b63-a4a1-540044387455.html"
+excerpt: "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ..."
+publishedDateTime: 2023-09-28T11:01:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/9/a2/9a296566-f23b-52a0-97b8-7aa1b1360c59/61a62791f2a26.image.jpg?crop=1981%2C1040%2C5%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "BXZap8yVGP2PAccdqzVdywKPnon+Z1bN71t9bWIy1X71U8OIcBiE/QOB8pGAR2BXmfeMyZF7cp7aEs7/8xrz8inqp0/pgUUXXeTvjVXyWu3BVEZAweD2Cv60lYOwqLPMz8GdfAsx3ql3FvlH+QC4lWEe9C/EESIzPSB5Q9aPi21TeZT6uLkoVigaNOSmh9epZQx1GNHZn/peAs1LanZ7etFpNORVP/gCyk7ZdrNlekuIss8WWsiJbXxxS4WkvqDucfUuOouYZCJYYbDTNSEXmzUVG6c9wY8YAa4kP+qWo92TCbvhHZ200HyG9A2RQNy8fXYP5+mpI+Ch2MoIPcVoPvYOKBqp38U7fS7WKvBNlV4=;0HNEtImSiYcIC33/srKP1A=="
+secured: "nJymXMYb/XLe77faKuBjBs2tlYsWahtJefmf0tyna0XnRa2nm9o2WoX79rFfmD0GIf58reZheBB0XTyLc0zEBbma93NOsF85s48wwISw+gaV0uhrDvLvSCTfG3gh/9jsrH286PkWAxKXGf6LzKWdSuJaaeFLw2mhql08dvBX61HUzLSJJkwLAVKkKpOk3q60u36qDGcBwxg7I8+8S8VGl5/9Z8yPbs/JB4FSdn4tm6CVh920z1ChreLW0wsLBh5ypEK8lXDlbL2FJKRYanMK0klybCOSNI1gzMl8MyDEczbIrTrvd50GmhWTGCKzIEAl/bq8fufq3OE/XHCiBJDg6AY/HIs+UEBDStvTnVqzml8=;DVdR6smM/8BbNxLXM5DCrw=="
 ---
 

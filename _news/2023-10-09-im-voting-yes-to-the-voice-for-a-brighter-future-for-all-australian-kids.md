@@ -31,48 +31,77 @@ images:
     isCached: true
 
 related:
-  - title: "The Aboriginal Australians Campaigning Against Constitutional Recognition"
-    excerpt: "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-11T09:01:00Z
-    webUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html"
+  - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
+    excerpt: "Standing there reading the panels, Debby May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice."
+    publishedDateTime: 2023-10-11T15:00:00Z
+    webUrl: "https://www.bbc.com/news/world-australia-67076216"
+    ampWebUrl: "https://www.bbc.com/news/world-australia-67076216.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 68
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://static01.nyt.com/images/2023/10/10/multimedia/00OZ-INDIGENOUS-vwfp/00OZ-INDIGENOUS-vwfp-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6EB3/production/_131393382_waitangigirl-gettyimages-1300569525.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "F5 Warns Australian IT of Social Engineering Risk Escalation Due to Generative AI"
-    excerpt: "F5 says Australian IT teams could be soon caught between generative AI-toting bad actors and enterprises guarding data with AI."
-    publishedDateTime: 2023-10-11T09:32:00Z
-    webUrl: "https://www.techrepublic.com/article/f5-generative-ai-cybersecurity-interview/"
+  - title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
+    excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
+    publishedDateTime: 2023-10-07T08:00:00Z
+    webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 62
+      name: AOL
+      domain: aol.com
+    quality: 34
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2020/02/securityrisk.jpg"
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
         width: 1200
         height: 800
         isCached: true
-  - title: "Australian robotics and manufacturing hub levels data field"
-    excerpt: "ARM Hub announced yesterday that it will launch Data and Artificial-intelligence-as-a-Service offering in 2024."
-    publishedDateTime: 2023-10-10T01:20:00Z
-    webUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturing-hub-levels-data-field/"
+  - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
+    excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
+    publishedDateTime: 2023-10-10T00:36:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
     type: article
     provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 54
+      name: The Guardian
+      domain: theguardian.com
+    quality: 31
     images:
-      - url: "https://assets.primecreative.com.au/imagegen/280/-/assets/momoads/2023/08/04/115639/IMG_20230728_113222.jpg"
-        width: 280
-        height: 210
+      - url: "https://i.guim.co.uk/img/media/b61e6dd418c4f0b15304decfe9317deeb3b725d7/0_249_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=26f0c2757671d9dedd3875704ccab1ad"
+        width: 620
+        height: 372
         isCached: true
+  - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
+    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
+    publishedDateTime: 2023-10-09T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/2023/10/09/australia-s-voice-referendum-what-is-it-why-does-it-matter-polling-and-voting/80537f70-6686-11ee-9753-2b3742e96987_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
+    excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
+    publishedDateTime: 2023-10-10T06:26:00Z
+    webUrl: "https://www.voanews.com/a/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
+    ampWebUrl: "https://www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 24
 
 secured: "GhPwE6haeBMgSYd5l79edz7Y4zIxVp2SIAhxjPci+2wKd6PrkilgX6AIQEEH2yuqCZ8NX7BZfsALXUpDyjxZUdNfSpOrZQrhuz2sr9eCe51E9RQkgQOl6M+wekWKpv7dW4XlYiVjdQi16fuT9+F15bmhAfvBkU/5n/M4b/x3uw0of1z9humf3l/zAiyLJo6I0S8/uRxVYrTLvBX1PP3EYzVxQkfJactMnBObYkXmfszyM+/iORbRHMnHj1jcYgxpuW/O23oCAW3OHJmYGh614kQVuSe1u+AWwaHd4uVzvVnn0tQBEm3iMFZrMASUxurEtDossCcbS2B9EzpTuPC8nRCBg2YPqhFiiExJWwq2vYs=;ejkA/fCZOlxYt2PnXZ6JXA=="
 ---

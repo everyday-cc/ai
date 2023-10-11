@@ -25,31 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "DataStax Tools-Up Vector Database For Generative AI Application Development"
-    excerpt: "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more"
-    publishedDateTime: 2023-10-06T19:42:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/"
+  - title: "Get AI for Content Generation, Image Creation, and More for $80"
+    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
+    publishedDateTime: 2023-10-09T16:07:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6520216ce19ce79d5fac2df5/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Chat with Colleagues or Chat with Data? Inside Nomad Data’s AI Revolution"
-    excerpt: "Nomad Data is presenting a new AI-native platform that enables employees to interact with corporate data as if they were conversing with a person."
-    publishedDateTime: 2023-10-10T17:12:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/10/chat-with-colleagues-or-chat-with-data-inside-nomad-datas-ai-revolution/71131482007/"
+  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
+    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
+    publishedDateTime: 2023-10-10T17:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 18
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
+    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
+    publishedDateTime: 2023-10-09T13:43:00Z
+    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "6laiqRWpRx0nZwRuRIQdUWz5kPc/rsWfDkYrT+ONa3V1HCTVGtAr7VJpyc/k754GVz0bQQev0x5uYSxvMtLlPuCPyz9m/UvwjAiN5VWJ800JkKf9XowdOpXNbK0BHGjQwrgl7BSW2uSnnqzJaJifqqH5EaS2kaXq4GoqaMh07hV1D6ev2q4Dv6tQZSwiDP/ewNOAjCf5kKpWhQVailSg7kvDLNCNK5RUk6Jrrgon5W9RJXVA4T/lOE6mAnjpIuN06C0KpjRZO/cepYN0JUWfHl01JcrEQw1/3lvdgvvaFCmwDv616IWhdfDMa7bJC7cT+aXF+xpP+TlbQz6UwXjpXQ8D5fnIikjGTD3+GkaLHTc=;zxSlwpD3LlAYtOnlVOzvUA=="
 ---

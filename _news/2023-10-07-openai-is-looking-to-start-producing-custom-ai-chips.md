@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "OpenAI To Join The Custom AI Chip Club?"
-    excerpt: "It would hard to find something that is growing faster than the Nvidia datacenter business, but there is one contender: OpenAI. Open AI is, of course, the creator of the GPT generative AI model and chatbot interface that took the world by storm this year."
-    publishedDateTime: 2023-10-06T19:28:00Z
-    webUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/"
-    ampWebUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
-        width: 8000
-        height: 4940
-        isCached: true
   - title: "OpenAI Considers Making AI Chips In-House"
     excerpt: "You probably know the company OpenAI thanks to its LLM AI chatbot, ChatGPT. But the company still gets chips from"
     publishedDateTime: 2023-10-09T02:54:00Z

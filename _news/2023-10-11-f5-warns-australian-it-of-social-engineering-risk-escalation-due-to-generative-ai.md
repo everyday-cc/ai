@@ -56,22 +56,15 @@ related:
         width: 280
         height: 210
         isCached: true
-  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
-    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
-    publishedDateTime: 2023-10-08T23:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+  - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
+    excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
+    publishedDateTime: 2023-10-11T14:38:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/pat-dodson-addresses-national-press-club-in-final-days-of-voice-to-parliament-campaign/news-story/581586f8bacec7e239354f295b86c76a"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
-        width: 620
-        height: 372
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 11
 
 secured: "4efE7617Q8eup0f2MNF3TShv7DyxKPOuDXmRpyQ0+SfBSw5vRfrYGE3+fYbPj4otR/xVwns+E6vYzeyY14NNBzi3a1tu8eGi5W74GGbgRHYLLihOm3RE7x2uU8WHr6+/kqweHiEjChjJzF2dThER2/l5DKMvNX1zVJ5T45NPJZ3NUAWUNaWbBMeLuhSHblkd0oYc2dxxYb/lqZ4PPJUvbqO4CBQeJ7nNYGrUmxCiXIX4l4RPxp133WWtbaNPuEbJ4MDcGOk44pTFKY1neGKnd48bENARmuIoc4AiYM5EdmT5qK/gJ0s3TVK1u54cDrLpo/Wx3JdsC+L57VhEFv/9T7RReB3oQ4uTrrVCRhQAQob/ZtiMnF6KMCFcePDfibXMKr5FM474K5SKRacSzb50xDJac0HcFcgixoJ8lCyLNXMNEXw9e2SeDmmNVwt3StyCAbOJh/sKacaEEU/tajd2Qv/sTxEGMuDvJ/ubEOfpEY0+pE2T+qLFBomUazIyqcsAZZkY54AuwVEuDHwsY/KAQA==;m5kxpoxJWkoD3BNS6RzaBQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/berkshire-hathaway-charlie-munger-on
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/berkshire-hathaway-charlie-munger-on-ai-being-overhyped-warren-buffett-2023-10?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/750359/ai-robot-business-people.jpg"
         width: 2119
         height: 1414
+        isCached: true
+  - title: "Is AI overhyped or underhyped? Here’s what techies in Seattle think"
+    excerpt: "We spoke to five Seattle techies on Monday to get their take on whether AI is overhyped or underhyped at the current moment. Comments were edited for brevity and clarity. Gaurav Oberoi, CEO and co-founder of Seattle startup Lexion “It’s both."
+    publishedDateTime: 2023-10-11T15:22:00Z
+    webUrl: "https://www.geekwire.com/2023/is-ai-overhyped-or-underhyped-heres-what-techies-in-seattle-think/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 67
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-11-at-8.15.06-AM.png"
+        width: 1204
+        height: 1208
         isCached: true
 
 secured: "SybLxMM9yY3pbXU0N5MGQkp6jCDgvklWKFPVzNjCI50h67dQm/dtMX9zSRa9+4Md6qjIleOrGNB3ZSQrh/Dbhh3GQZvpJb46OhBhVVw2eIFoyXhaWfiruyggYeu+zBnluiTVoDNtnjbU/OeOJFFHKoHU2wclDKMjLuB6HL+LKRoLuPL5hQd77anKms6jne5ae928LSfiQKoU0DiqZeunOgXtjSXJu1/49mtHK+mEi8DjZLr2vCjL42gN6gxZAlOOngf8EZ1LA9uc0OdsmvUG2C4W23hoi5u9WAwD+7BLWE+mpJA6itcohr3sRBSUQ6KK+/gYPkE6Ei4pAbNvAk0km8p6kpJx7I7/Xl32WiFivAI=;48HEfv8mlaVDeGeRUBrXsA=="

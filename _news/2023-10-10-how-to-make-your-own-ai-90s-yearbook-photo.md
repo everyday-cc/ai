@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI app EPIK hits No. 1 on the App Store for its viral yearbook photo feature"
-    excerpt: "Another week, another AI app going viral. This time around, the AI app that has surged to the top of the App Store is EPIK, a photo-editing app that lets Another week, another AI app going viral. This time around,"
-    publishedDateTime: 2023-10-06T22:58:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/"
-    ampWebUrl: "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/amp/"
+  - title: "Make AI Your Biggest Ally"
+    excerpt: "Used intelligently, AI can make your job easier by freeing the human brain to focus on the tasks machine learning cannot tackle."
+    publishedDateTime: 2023-10-11T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/11/make-ai-your-biggest-ally/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-at-12.55.18 PM.jpg?w=1200"
-        width: 1200
-        height: 769
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "Nn3936yYVnNFOvCn1RSDVyu3bb8SoSwh2VOUqfjnzI5/3KFE0+xWI7ZgZTAOhx2WKUaFPHV1uAwfFV9UnPOxkVczOw8AXoPnhoFUWyNTYJObcqejTkkzWSE2wA//1QHN9hAmAHVsytA/K5saG1xWYsYSdyBF0CFZPCsYy1JxxU3QcfsDQ7uh22g7dG0OReGUPg04VLAD/LPm2aJn8Aaz5JCGz8LR0QVgIwwuwaE4fXzrKKQ3VlWOrT6mYFtQP4vESDElgkc4PnAog5nM477wwUYaxTmqnTQ9mg0JNhUKLq+cgN0Zs7yRoF89detm4Zo4fWKg+RpArseC03cWhOMNyUayaysf4xNGH6CChEWYkE0=;z6eXVAdaeLK1mqLMCJFK3w=="
 ---

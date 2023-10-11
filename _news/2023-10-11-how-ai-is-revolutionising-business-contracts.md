@@ -50,15 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 32
-  - title: "How robots and AI are changing recycling – and how to keep bad plastics out of your bin"
-    excerpt: "The owner of a Bloomington-Normal recycling company, Midwest Fiber, says he’s amazed with how technology is changing his business – even if other economic forces can make things challenging."
-    publishedDateTime: 2023-10-06T19:25:00Z
-    webUrl: "https://www.wglt.org/local-news/2023-10-06/how-robots-and-ai-are-changing-recycling-and-how-to-keep-bad-plastics-out-of-your-bin"
-    type: article
-    provider:
-      name: wglt
-      domain: wglt.org
-    quality: 26
 
 secured: "MqH/pc/1bfzOFl0hUveZBsoZyCoMCzy+Q8yl9rLBNjQ1upze+L0PXT2KejblFoXvWImYiPrQLtZuLdgUNBfAqPz0xfyMtbELP3EkAQNOSUou2HWxsoctxGixdafaTsyKdsefBkR6r7GosLFdVXh5KkptHjDBz0tb3mIUDjGmOuGrVmIPG42Tg/NDm/7A1KEWD+FhuSt++iB1Kgb5CKAtqVRj2XKRC7+BQ50OUZ858w0U4Vgn3BgOp+evyqbMORPW2U5zrACFXos+1ElgNwyhtVXEOIv6EetBp5tT0FMzcu4ZJDVCjcSXUvG9goUVuXM2ePzaO9RhsS+kpb8EUxrTGpCNdLdgTXpt14ACi7n9n3k=;wjS0fvpLjAGUa/3uL9SwWw=="
 ---
