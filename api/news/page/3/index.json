@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-10-ai-a-helping-hand-from-our-robot-overlords.md",
+      "title": "AI: 'A Helping Hand from Our Robot Overlords'",
+      "excerpt": "Arizona Chief Information Security Officer Ryan Murray sees two significant opportunities for artificial intelligence in cybersecurity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords",
+      "originalUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/84cb0e6/2147483647/strip/true/crop/4032x2102+0+338/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fc5%2Fe1%2Fef27db13445e87e6716c08c1f9a4%2Farizona-ciso-ryan-murray.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true",
+      "publishedDateTime": "2023-10-09T16:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy.md",
+      "title": "Breakthrough in Genomics: Researchers Develop Neural Network with Explainable Predictive Accuracy",
+      "excerpt": "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
+      "originalUrl": "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/10/1696588358012.png",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
+      "publishedDateTime": "2023-10-09T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-meta-extends-its-ai-messaging-to-the-quest-3-and-more-at-meta-connect-2023.md",
       "title": "Meta Extends Its AI Messaging To The Quest 3 And More At Meta Connect 2023",
       "excerpt": "Principal Analyst, Mobility & VR, Anshel Sag dives deep on the Quest 3 AR headset, Ray-Ban Meta smart glasses and AI-related news from the Meta Connect 2023 event.",
@@ -216,7 +302,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -395,6 +481,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-16-year-old-pranjali-awasthi-owner-of-ai-startup-delvai-raises-37-crore-funding.md",
+      "title": "16-year-old Pranjali Awasthi, owner of AI startup Delv.AI, raises ₹3.7 crore funding",
+      "excerpt": "Sixteen-year-old Indian girl Pranjali Awasthi, the owner of artificial intelligence (AI) startup Delv.AI has successfully secured a funding of around ₹ 3.7 crore, said a report by Indiatoday.in. At a Miami Tech Week event, Pranjali revealed that Delv.AI was founded by her in January 2022, as per the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html",
+      "originalUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/The-words-Artificial-Intelligence-are-seen-in-an-i_1685385941309_1696863759427.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html",
+      "publishedDateTime": "2023-10-09T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -749,7 +877,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -905,7 +1033,7 @@
       "originalUrl": "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1007,7 +1135,7 @@
       "originalUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1050,7 +1178,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1090,154 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-godfather-of-artificial-intelligence-geoffrey-hinton-on-the-promise-risks-of-advanced-ai.md",
-      "title": "\"Godfather of Artificial Intelligence\" Geoffrey Hinton on the promise, risks of advanced AI",
-      "excerpt": "There's no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI's benefits and dangers with.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "originalUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/06/c27215a4-6839-4287-8cac-4ea93e7d2040/thumbnail/1200x630/3de101d772e13ba17931564c21fa81f3/hinton-ws2.jpg?v=f334c339940ae79342a8ce7757900604",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "publishedDateTime": "2023-10-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month.md",
-      "title": "6 AI Wellbeing Tools For Work You Should Try This Mental Health Month",
-      "excerpt": "In honor of Mental Health Awareness Month and World Mental Health Day, here is a round-up of six AI-powered work wellbeing tools you should try this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652309011529a35491ac37a1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
-      "publishedDateTime": "2023-10-08T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-generative-ai-throwdown-open-source-vs-proprietary-models.md",
-      "title": "Generative AI Throwdown: Open Source Vs. Proprietary Models",
-      "excerpt": "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/",
-      "originalUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652304f4abadae415295e85a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sylvainduranton/2023/10/08/generative-ai-throwdown-open-source-vs-proprietary-models/amp/",
-      "publishedDateTime": "2023-10-08T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

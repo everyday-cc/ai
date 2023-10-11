@@ -53,6 +53,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
+    excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
+    publishedDateTime: 2023-10-11T11:14:00Z
+    webUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1004
+        isCached: true
   - title: "AMD to acquire Nod.AI open-source AI software startup"
     excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
     publishedDateTime: 2023-10-10T19:40:00Z
@@ -144,6 +160,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "UApQbdzPuNhdiKetc3FgQnbfm+xWQKJETvgY623szsdMi0/6JEsy6qF81ECWCyVv3uI6C+cyC3xdXOvxNysPRsPmqqS1cA4IxrC2j511n4BRPZttdp4mRLjlncyd75gBz3mjfyVkUFdMSgutIvze94zeCJdZEm4XAz/SYDYpUA7C5kI7msYdvHIiLqcGPmxAu42QHLYpsWuN5MpxTIe4QVo1/0/bQKbzf1Vbo5e5Ydp1/t10WjAqH6SItUiLKw9HkCU6zp3wIZZSeB27aiRrsMuDT/z6vdKX7ohXG7iXo/Z6IINq0ge4bgJy7Q2vAsGDfKKcW9ImhBFaRo/pnoYJbmP6y3kVmHLD1Wh1eRsGc14=;Ai/6RZFzCGhAaFPQXlvisg=="
+secured: "pggN3epp2gdha4Q/yx5/IveC/o9+z6FjQRWGhLRITgzeNCZWetaImHNxCd6NoVnol7v4Lqwb97RkNy0sex9AxH4na6RBjP32m9A73wSUbvThV3pC4cJbNY9kxMljZizjyrQuj2iEwd4v9IgvtxcnIOoO+h4rQuzbzi69SaZIFjigrLUD4nAEiG5D9HzkBIPmscX9XXHJ1py9qytgbwNyH0OMNP4GxkBAlkoRBsKLk7SSvKXLX6rtheHryLT8LS5Mz7WBOLqChrn9sRCjMXcpptMH97S7MMSPvI0wryiocim/bQ0bPF416CoIGgVfJ93ILCoAteMPZvpAWWjipotdShbdsJrmPf6ZyRkFlxIB9KHWav2vFQDSpIzoBupMpP0hzUddxq920Tdwh4hFT3ajL8Beeyp5Dn6U4Z/inhpNRjaf4cY4oCGqmcLxqnqXGUIcdpK9EMMBPmM+S/xcoAYQXhmwdafIekRL5XOKKUVo37BMI9VjDMpirvkt+oCA3GIP09caHVnKGborNFxnjd+LNg==;yFccqtxNMmPGnllPdnjtnA=="
 ---
 

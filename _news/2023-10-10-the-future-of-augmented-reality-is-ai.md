@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmente
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computerworld
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Is Changing The Future Of Digital Experience"
+    excerpt: "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows."
+    publishedDateTime: 2023-10-10T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 320
+        isCached: true
   - title: "The Future of Work: 3 Ways Automation and AI Will Change the Job Market"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although some may feel that AI only came about in the last year, its"
     publishedDateTime: 2023-10-07T12:00:00Z
@@ -36,19 +52,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "The use of artificial intelligence and natural language processing for mental health interventions"
-    excerpt: "In a recent article published in Translational Psychiatry, researchers performed a systemic review and meta-analysis of scientific papers using an artificial intelligence (AI)-based tool that uses Natural Language Processing (NLP) to examine mental health interventions (MHI)."
-    publishedDateTime: 2023-10-10T11:23:00Z
-    webUrl: "https://www.news-medical.net/news/20231010/The-use-of-artificial-intelligence-and-natural-language-processing-for-mental-health-interventions.aspx"
+  - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
+    excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
+    publishedDateTime: 2023-10-10T16:58:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=2233633"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 42
+      name: bernama
+      domain: bernama.com
+    quality: 45
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761207_16969368716476864.jpg"
-        width: 2000
-        height: 1322
+      - url: "https://www.bernama.com/storage/photos/fdf2df98576466acffaa0e6aff4cfb7a6525824a659e5"
+        width: 1110
+        height: 694
         isCached: true
   - title: "Artificial intelligence and the future of humanity"
     excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
@@ -64,29 +80,20 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "Most HR teams are avoiding use of AI in recruitment"
-    excerpt: "HR professionals said they do not use AI in recruitment and most don’t have plans to do so in the next 12 months, according to a new survey from the Recruitment and Employment Confederation (REC)."
-    publishedDateTime: 2023-10-09T09:57:00Z
-    webUrl: "https://www.hrmagazine.co.uk/content/news/most-hr-teams-are-avoiding-use-of-ai-in-recruitment"
+  - title: "How Is Data Literacy Changing in an Artificial Intelligence Landscape"
+    excerpt: "The geospatial community is well-suited to be a space of change and continued growth of a data-driven culture highly data literate people. Data are part of our everyday conversations, and we can model what data literacy can look like beyond our field. As leaders, we should ensure that:"
+    publishedDateTime: 2023-10-11T05:51:00Z
+    webUrl: "https://www.directionsmag.com/article/12622"
     type: article
     provider:
-      name: HR Magazine
-      domain: hrmagazine.co.uk
+      name: Directions Magazine
+      domain: directionsmag.com
     quality: 37
     images:
-      - url: "https://www.hrmagazine.co.uk/media/li5cksfe/ai-recruitment-adobestock_506577011.jpeg"
-        width: 4249
-        height: 2681
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/October/5/6/f80021aa-85ab-4038-beb1-afd9034f19d2-sized"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Realising the potential of AI on the factory floor"
-    excerpt: "The growing clamour for workplace AI, generated by the unveiling of consumer-centric applications like the chatbot ChatGPT"
-    publishedDateTime: 2023-10-09T10:39:00Z
-    webUrl: "https://www.ft.com/partnercontent/omron/realising-the-potential-of-ai-on-the-factory-floor.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
 
 secured: "sI1PFE1C1yl6W7Tq7pMVYjrNylVpb6cIRqSh8kDJp+p5i5XKIA2Qx+ymrYpX7PlYio6lUvTNZK80T4UEFUzdRGc64evqd72Qx4r9EMP7h5jSIQoSSdA7du+cWEA2eqvotjCG8okm0A1n+iW44m9vff/UowIuahP+5sATkoOHLOb/aqaUKOx9/ez+u2Z2GgJWY3uT0fqOlpiPVHGMDZnVJl+Qeu5+hfCOaFrKERaIcd9cQakGQbQrF1JV7gTJrZ4jGMk8LbQXHHghZnZZ1WEGCQ876ocM2iunHAcMk1bYRq2r5y5YYSCurEBqJvfQJFirBc+JwX0vi9h7QndG7Ijls2p0De5GEMWYPntw2wRIRs8lC7Hk1xUalwmqbMh8e9tgWEkjtX5CzslkTsFGKmBGCKE3e+z8gBNTt0TdiKJmydYG8yw2pCHNfwqRTx7dEP+p0jdsWzIFkGvvubfFaMsKlI4G+7ZVSmMhG6TvcxalJC5MF7xE4TP9YHuIsGn+n2kWSgyWFfTag2haeYy39gUbqA==;GlMc69fGMKPopbEAHCK3Xw=="
 ---

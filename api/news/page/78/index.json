@@ -2,6 +2,161 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-08-15-browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work.md",
+      "title": "Browse AI help companies build bots to scrape website data and put it to work",
+      "excerpt": "Enter Browse AI, an early stage startup that has developed an automated solution to scrape information from websites and move it into a spreadsheet or API for further processing. Today, the company announced a $2.8 million seed investment. Browse AI CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/",
+      "originalUrl": "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1410263547.jpg?resize=1200,862",
+          "width": 1200,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/15/browse-ai-help-companies-build-bots-to-scrape-website-data-and-put-it-to-work/amp/",
+      "publishedDateTime": "2023-08-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-data-quality-for-good-ai-outcomes.md",
+      "title": "Data Quality For Good AI Outcomes",
+      "excerpt": "In today’s rapidly transforming world, Data has emerged as a key enabler for dealing with current business challenges and future opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64da3876ff89ccf482635ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/15/data-quality-for-good-ai-outcomes/amp/",
+      "publishedDateTime": "2023-08-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-15-software-engineers-could-get-30-time-back-thanks-to-generative-ai.md",
+      "title": "Software Engineers Could Get 30% Time Back Thanks To Generative AI",
+      "excerpt": "Generative AI has the potential to automate between 60% to 70% of the work that most of us engage in every day. But for many knowledge workers, generative AI tools are likely to help take back time spent on administrative tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/software-engineers-could-get-time-back-thanks-to-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-diligent-launches-ai-ethics-board-oversight-certification-for-corporate-directors-and-executives.md",
       "title": "Diligent Launches AI Ethics & Board Oversight Certification for Corporate Directors and Executives",
       "excerpt": "NEW YORK--(BUSINESS WIRE)--Diligent, a leading GRC SaaS company, today announced its AI Ethics & Board Oversight Certification for corporate directors and executives. The program will help leaders ...",
@@ -1053,152 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-what-does-generative-ai-mean-for-websites-and-seo.md",
-      "title": "What Does Generative AI Mean For Websites And SEO?",
-      "excerpt": "Exploring the intersection of generative AI and the future of web search, this article delves into how chatbots could revolutionize SEO and reshape online business models",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64db19be0420c96050635ebc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/15/what-does-generative-ai-mean-for-websites-and-seo/amp/",
-      "publishedDateTime": "2023-08-14T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update.md",
-      "title": "Kneron takes aim at GPU shortage with its neural processing unit (NPU) update",
-      "excerpt": "With GPUs increasingly hard to come by for AI, Kneron announces its KL730 neural processing unit (NLU) featuring enhanced energy efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
-      "originalUrl": "https://venturebeat.com/ai/kneron-takes-aim-at-gpu-shortage-with-its-neural-processing-unit-npu-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/image1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-microsoft-azure-awards-protiviti-specialisation-in-ai.md",
-      "title": "Microsoft Azure awards Protiviti specialisation in AI",
-      "excerpt": "“Protiviti is proud to collaborate with Microsoft to be a leading provider of AI enabled capabilities,” said Christine Livingston, global leader of Protiviti’s AI services. “Together with Microsoft, we look forward to helping organizations utilize AI solutions responsibly to drive impactful transformation in their businesses.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
-      "originalUrl": "https://www.consultancy.uk/news/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.consultancy.uk/illustrations/news/spotlight/2023-08-10-021905627-Microsoft_Azure_awards_Protiviti_specialisation_in_AI_spot.jpg",
-          "width": 546,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
-      "cdnAmpWebUrl": "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/35089/microsoft-azure-awards-protiviti-specialisation-in-ai",
-      "publishedDateTime": "2023-08-14T21:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consultancy",
-        "domain": "consultancy.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

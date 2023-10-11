@@ -89,15 +89,6 @@ related:
         width: 636
         height: 424
         isCached: true
-  - title: "The Power Of Fine-Tuning In Generative AI"
-    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
-    publishedDateTime: 2023-10-10T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Stability AI Releases Generative Audio Model Stable Audio"
     excerpt: "Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44."
     publishedDateTime: 2023-10-10T14:14:00Z

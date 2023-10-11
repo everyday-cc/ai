@@ -2,6 +2,160 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-09-02-enabot-ebo-x-review-a-smart-but-flawed-robot-companion.md",
+      "title": "Enabot EBO X review: A smart, but flawed robot companion",
+      "excerpt": "The Enabot EBO X robot companion is rough around the edges, but it offers tons of cool smart home features that make it a compelling addition to your family.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
+      "originalUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/01/EBO-X-1.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/enabot-ebo-x-review/?amp",
+      "publishedDateTime": "2023-09-01T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple.md",
+      "title": "Google's new tool can detect AI-generated images, but it's not that simple",
+      "excerpt": "Currently, SynthID cannot detect all AI-generated images, as it is limited to those created with Google's text-to-image tool, Imagen. But this is a sign of a promising future for responsible AI, especially if other companies adopt SynthID into their generative AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "originalUrl": "https://www.zdnet.com/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a37afb3870b4e3e01366db426b750d9ad1222c88/2023/09/01/87a971ed-e9c5-4885-a439-b28db8226d0d/deepmind.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-tool-can-detect-ai-generated-images-but-its-not-that-simple/",
+      "publishedDateTime": "2023-09-01T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-elon-musks-x-will-use-public-data-to-train-ai-models.md",
+      "title": "Elon Musk's X will use public data to train AI models",
+      "excerpt": "The artist formerly known as Twitter has been in some hot water this week after Bloomberg found that the social media site would start collecting biometric details, along with job and education data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "originalUrl": "https://www.engadget.com/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/00U4O1LtqDVNNIWes5FWNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/1cb3ee20-48f7-11ee-95cf-0cef93b6a4d6",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/elon-musks-x-will-use-public-data-to-train-ai-models-184924197.html",
+      "publishedDateTime": "2023-09-01T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure.md",
       "title": "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure",
       "excerpt": "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises.",
@@ -1030,161 +1184,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai.md",
-      "title": "The True Cost Of Bad Data And How It Can Hinder The Benefits Of AI",
-      "excerpt": "As AI becomes more sophisticated, it is imperative for organizations to develop standards for ethics within AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0c1d38a74946c489f530e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/01/the-true-cost-of-bad-data-and-how-it-can-hinder-the-benefits-of-ai/amp/",
-      "publishedDateTime": "2023-09-01T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries.md",
-      "title": "US denies imposing export controls on Nvidia’s AI Chips for select Middle Eastern countries",
-      "excerpt": "Biden administration to restrict the export of Nvidia's cutting-edge (AI) computer chips to select countries in the Middle East",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/",
-      "originalUrl": "https://www.gizmochina.com/2023/09/01/us-denies-imposing-export-controls-on-nvidias-ai-chips-for-select-middle-eastern-countries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Screenshot-2023-09-01-152431.png",
-          "width": 1008,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-how-smbs-can-cut-through-the-generative-ai-hype.md",
-      "title": "How SMBs Can Cut Through the Generative AI Hype",
-      "excerpt": "AWS Head of Innovation for SMBs Ben Schreiner reminds business leaders to focus on data and problem-solving when making decisions around generative AI. We may be compensated by vendors who appear on this page through methods such as affiliate links or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-generative-ai-interview/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-generative-ai-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr83123-smb-ai.jpeg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

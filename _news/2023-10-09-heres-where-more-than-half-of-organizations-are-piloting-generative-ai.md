@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
-    excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
-    publishedDateTime: 2023-10-08T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "EU: Artificial Intelligence Regulation Should Ban Social Scoring"
     excerpt: "Human Rights Watch, La Quadrature Du Net and EDRi shared a proposal with the European Council and the European Parliament to strengthen the regulation’s prohibition on social scoring."
     publishedDateTime: 2023-10-09T13:30:00Z

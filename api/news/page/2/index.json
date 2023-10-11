@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-10-so-far-ai-hasnt-been-profitable-for-big-tech.md",
+      "title": "So far, AI hasn’t been profitable for Big Tech",
+      "excerpt": "Big tech companies like Microsoft and Google are grappling with the challenge of turning AI products like ChatGPT into a profitable enterprise, reports The Wall Street Journal. While companies are heavily investing in AI tech that can generate business memos or code,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_chips_money-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/amp/",
+      "publishedDateTime": "2023-10-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine.md",
+      "title": "Adobe’s Project Stardust is a sneak preview of its next-gen AI photo editing engine",
+      "excerpt": "The latest version of Adobe's Project Stardust AI photo editor already thoroughly leaked earlier this month, but at its MAX conference, the company now",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/",
+      "originalUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/04/adobe_logo.jpg?resize=1200,725",
+          "width": 1200,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/",
+      "publishedDateTime": "2023-10-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-how-ge-healthcare-is-shaping-limitless-ai-driven-healthcare-possibilities-and-solutions.md",
+      "title": "How GE Healthcare Is Shaping Limitless AI-Driven Healthcare Possibilities And Solutions",
+      "excerpt": "AI, the cloud, and intelligent platforms like GE Healthcare's Edison will enable more people to access healthcare services on an ongoing basis. While this transformation is in its early stages, safe and secure AI may serve as the catalyst that accelerates this remarkable journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65245bc68366e2d8a028ea98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1497,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/",
+      "publishedDateTime": "2023-10-10T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search.md",
       "title": "IBM watsonx Assistant: Driving generative AI innovation with Conversational Search",
       "excerpt": "We can now build compelling conversational experiences, transforming the search bar into a compelling and knowledgeable AI assistant.\nThe post IBM watsonx Assistant: Driving generative AI innovation with Conversational Search appeared first on IBM Blog.\n",
@@ -45,57 +201,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-10-embracing-ai-in-the-workplace.md",
-      "title": "Embracing AI In The Workplace",
-      "excerpt": "The potential proliferation of human job creation from AI will continue to generate as the technology advances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1246,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/",
-      "publishedDateTime": "2023-10-10T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-10-generative-ai-deployment-strategies-for-smooth-scaling.md",
       "title": "Generative AI deployment: Strategies for smooth scaling",
       "excerpt": "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas",
@@ -135,6 +240,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-how-ai-is-changing-the-future-of-digital-experience.md",
+      "title": "How AI Is Changing The Future Of Digital Experience",
+      "excerpt": "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/",
+      "publishedDateTime": "2023-10-10T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -241,7 +397,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -749,7 +905,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -883,49 +1039,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-the-future-of-augmented-reality-is-ai.md",
-      "title": "The future of augmented reality is AI",
-      "excerpt": "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html",
-      "publishedDateTime": "2023-10-09T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1132,92 +1245,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ai-a-helping-hand-from-our-robot-overlords.md",
-      "title": "AI: 'A Helping Hand from Our Robot Overlords'",
-      "excerpt": "Arizona Chief Information Security Officer Ryan Murray sees two significant opportunities for artificial intelligence in cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/84cb0e6/2147483647/strip/true/crop/4032x2102+0+338/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fc5%2Fe1%2Fef27db13445e87e6716c08c1f9a4%2Farizona-ciso-ryan-murray.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true",
-      "publishedDateTime": "2023-10-09T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy.md",
-      "title": "Breakthrough in Genomics: Researchers Develop Neural Network with Explainable Predictive Accuracy",
-      "excerpt": "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
-      "originalUrl": "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2023/10/1696588358012.png",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/",
-      "publishedDateTime": "2023-10-09T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

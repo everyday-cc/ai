@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Edge AI: The AI No One Is Talking About"
+    excerpt: "Edge AI isn’t a type of algorithm in and of itself, but it's about where AI happens, regardless of the algorithm in question."
+    publishedDateTime: 2023-10-11T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Embracing AI In The Workplace"
     excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
     publishedDateTime: 2023-10-10T14:15:00Z
@@ -42,22 +58,65 @@ related:
         width: 1246
         height: 830
         isCached: true
-  - title: "How AI Is Changing The Future Of Digital Experience"
-    excerpt: "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+  - title: "Adobe’s All In On AI: Debuts New Firefly AI Models For Creatives"
+    excerpt: "The centerpiece is Adobe’s release of three new AI models under its Firefly generative AI brand - Firefly Image 2, Firefly Vector and Firefly Design."
+    publishedDateTime: 2023-10-10T17:12:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 320
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fe4913877b0bbf06f748/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1453
+        height: 900
         isCached: true
+  - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
+    excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
+    publishedDateTime: 2023-10-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "These 7 Stocks Are Leading the AI Pack"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
+    publishedDateTime: 2023-10-11T10:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/these-7-stocks-are-leading-the-ai-pack-1032695805"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "These books are being used to train AI. No one told the authors"
+    excerpt: "Nearly 200,000 books written by a wide range of authors, including Nora Roberts, are being used to train artificial intelligence systems, according to a recent report. No one asked for the writers’ permission — and many of them are not happy."
+    publishedDateTime: 2023-10-08T12:00:00Z
+    webUrl: "https://www.cnn.com/2023/10/08/style/ai-books3-authors-nora-roberts-cec/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
   - title: "The AI Advantage In Attracting And Retaining The Right Talent"
     excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
     publishedDateTime: 2023-10-09T13:31:00Z
@@ -67,20 +126,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "5 ways AI could influence nursing in the coming years"
-    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-07T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
-        width: 1080
-        height: 770
-        isCached: true
   - title: "Artificial Intelligence in the Art World"
     excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
     publishedDateTime: 2023-10-07T12:00:00Z
@@ -95,43 +140,6 @@ related:
         width: 2001
         height: 814
         isCached: true
-  - title: "Sunrise and sunset industries in the age of AI"
-    excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
-    publishedDateTime: 2023-10-10T16:50:00Z
-    webUrl: "https://www.manilatimes.net/2023/10/11/tmt-anniversary/sunrise-and-sunset-industries-in-the-age-of-ai/1913954"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/10/09/251404.jpg"
-        width: 1200
-        height: 806
-        isCached: true
-  - title: "How AI is revolutionising business contracts"
-    excerpt: "Contracts are the foundation of business. They sustain commercial relationships, provide clarity, offer protection, enhance collaboration and drive revenue. Every medium and large organisation generates substantial numbers of contracts across multiple parts of the business including finance,"
-    publishedDateTime: 2023-10-10T17:04:00Z
-    webUrl: "https://www.ft.com/partnercontent/icertis/how-ai-is-revolutionising-business-contracts.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://ft.com/partnercontent/icertis/img/hero1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Keeping AIs in Their Box"
-    excerpt: "In his latest book, Mustafa Suleyman seeks to advance public debate on AI so that more informed consensus on how to regulate AI can be formed. While the book is interesting and actionable, the topic has been covered in more depth and more succinctly elsewhere,"
-    publishedDateTime: 2023-10-07T12:25:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/keeping-ais-in-their-box"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 19
 
 secured: "9wz3QYn3WJFpbwWbqzRhBJW5XYt5/eohhWVlbd/xsu0MC7KvTcLtK2MRTUyHyh/dTxwX3SniAM4vmWeqr3L+ONfpMP8iNxa52t+sYQaxZQM0nhe37gHf3krKh6SvJHu1M63y9kddQ584IUFEfoIwBhWTB8VIi/dzdfkRrsxV+SMWIpKwfSNaFcimKoCLrGaKBN8PGvayPNeaFu/Eh6PWMKP1BFhM27Me4BHLjcbxVIv9e6RQLFQz7eR9hTH6farwaHCWKCZ7yK2AZwIVTzgK6L74jcBjQj6njnmfFLIRMHA30Zj22Z8a+eWKGVE3ctxKyzZm7ABBTPuoNOhd9aHGqtHgbj+11Lyy/FhzbhR0AWA=;Z6O5tuUalunWDX3hMXPI4g=="
 ---

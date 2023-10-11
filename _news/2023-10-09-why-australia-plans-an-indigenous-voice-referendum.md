@@ -66,15 +66,6 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 24
-  - title: "The bitter politics and hypocrisy of the Voice debate will mark it as yet another ugly chapter in Australia's history"
-    excerpt: "After many months of bitter debate about the Voice, an address to the National Press Club this week reminds us that we are back at a point where it seems that, no matter what the truth may be, we will not let it lead to any change,"
-    publishedDateTime: 2023-10-06T18:01:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-07/bitter-politics-voice-debate-another-ugly-chapter-history/102941070"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 0
 
 secured: "8TasJOhp5nQ7PTMlyC0cjpVbQZ3Grfpgc7acFX5ZDNZpvSkdY0ISNupJgA424+JVmBZIQApXcgFN3xZud+hMuOLX8Hlab08TcL6blqT5xjPERb+qvAKA8rJanhwOj4l9uCDkvdq7YvR/CkZm4Q4IG14Abs0uM4imBn7i1yljxg6WpstJRqE6EFo3bWD0HeMixEBfyvG6UNx7zg3Dpnjd5EtEDIQ0UuK8epyw8GVrzDqqyM/ZNkFTidSopSbw27sq+mZORPcw9O88b9GtmUYrjegjOUIXOX/gKMXMZF1fUmb8hBPem9UOmNvtDWMOKaqcahw2vMctCe7uA/lVzg62/aHJKUT5OpGUtieEhsXk0k4=;9Jj/xlJfhVbuvgCjM6Rg3g=="
 ---

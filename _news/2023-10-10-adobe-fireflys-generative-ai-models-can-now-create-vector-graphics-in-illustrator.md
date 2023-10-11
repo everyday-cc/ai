@@ -78,15 +78,6 @@ related:
         width: 636
         height: 424
         isCached: true
-  - title: "The Power Of Fine-Tuning In Generative AI"
-    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
-    publishedDateTime: 2023-10-10T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Generative AI and the impact on financial services"
     excerpt: "In association with NTT Data In 2020, I investigated the potential impact of AI on financial services, charting the meteoric evolution of AI and machine learning. This investigation culminated in an article I published on Forbes."
     publishedDateTime: 2023-10-09T08:00:00Z

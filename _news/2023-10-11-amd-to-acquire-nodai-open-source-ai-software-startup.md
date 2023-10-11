@@ -54,6 +54,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
+    excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
+    publishedDateTime: 2023-10-11T11:14:00Z
+    webUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1004
+        isCached: true
   - title: "AMD acquires open-source AI software pioneer Nod.ai to fortify AI capabilities"
     excerpt: "The purchase of Nod.ai, founded just three years ago, shows that AMD is serious about staking a claim in the rapidly growing AI chip market, which is expected to reach $383.7 billion by 2032,  according to industry analysts."
     publishedDateTime: 2023-10-10T13:00:00Z

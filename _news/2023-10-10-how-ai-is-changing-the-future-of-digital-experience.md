@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,110 +30,73 @@ images:
     isCached: true
 
 related:
-  - title: "Embracing AI In The Workplace"
-    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
-    publishedDateTime: 2023-10-10T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
+  - title: "The future of augmented reality is AI"
+    excerpt: "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text."
+    publishedDateTime: 2023-10-10T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1246
-        height: 830
+      - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
-    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
-    publishedDateTime: 2023-10-09T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+  - title: "The Future of Work: 3 Ways Automation and AI Will Change the Job Market"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although some may feel that AI only came about in the last year, its"
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-work-3-ways-automation-and-ai-will-change-the-job-market-1032685963"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 47
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
+  - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
+    excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
+    publishedDateTime: 2023-10-10T16:58:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=2233633"
     type: article
     provider:
-      name: The Gazette
-      domain: thegazette.com
+      name: bernama
+      domain: bernama.com
+    quality: 45
+    images:
+      - url: "https://www.bernama.com/storage/photos/fdf2df98576466acffaa0e6aff4cfb7a6525824a659e5"
+        width: 1110
+        height: 694
+        isCached: true
+  - title: "Artificial intelligence and the future of humanity"
+    excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
+    publishedDateTime: 2023-10-10T19:00:00Z
+    webUrl: "https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-humanity/"
+    type: article
+    provider:
+      name: aspistrategist.org.au
+      domain: aspistrategist.org.au
     quality: 41
     images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
+      - url: "https://www.aspistrategist.org.au/wp-content/uploads/2023/09/GettyImages-1404749040.jpg"
+        width: 788
+        height: 443
         isCached: true
-  - title: "5 ways AI could influence nursing in the coming years"
-    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-07T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+  - title: "How Is Data Literacy Changing in an Artificial Intelligence Landscape"
+    excerpt: "The geospatial community is well-suited to be a space of change and continued growth of a data-driven culture highly data literate people. Data are part of our everyday conversations, and we can model what data literacy can look like beyond our field. As leaders, we should ensure that:"
+    publishedDateTime: 2023-10-11T05:51:00Z
+    webUrl: "https://www.directionsmag.com/article/12622"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 37
     images:
-      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
-        width: 1080
-        height: 770
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/October/5/6/f80021aa-85ab-4038-beb1-afd9034f19d2-sized"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence in the Art World"
-    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
-    publishedDateTime: 2023-10-07T12:00:00Z
-    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
-    type: article
-    provider:
-      name: Daily Utah Chronicle
-      domain: dailyutahchronicle.com
-    quality: 39
-    images:
-      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
-        width: 2001
-        height: 814
-        isCached: true
-  - title: "Sunrise and sunset industries in the age of AI"
-    excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
-    publishedDateTime: 2023-10-10T16:50:00Z
-    webUrl: "https://www.manilatimes.net/2023/10/11/tmt-anniversary/sunrise-and-sunset-industries-in-the-age-of-ai/1913954"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/10/09/251404.jpg"
-        width: 1200
-        height: 806
-        isCached: true
-  - title: "How AI is revolutionising business contracts"
-    excerpt: "Contracts are the foundation of business. They sustain commercial relationships, provide clarity, offer protection, enhance collaboration and drive revenue. Every medium and large organisation generates substantial numbers of contracts across multiple parts of the business including finance,"
-    publishedDateTime: 2023-10-10T17:04:00Z
-    webUrl: "https://www.ft.com/partnercontent/icertis/how-ai-is-revolutionising-business-contracts.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://ft.com/partnercontent/icertis/img/hero1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Keeping AIs in Their Box"
-    excerpt: "In his latest book, Mustafa Suleyman seeks to advance public debate on AI so that more informed consensus on how to regulate AI can be formed. While the book is interesting and actionable, the topic has been covered in more depth and more succinctly elsewhere,"
-    publishedDateTime: 2023-10-07T12:25:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/keeping-ais-in-their-box"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 19
 
 secured: "dIT7llVEiNZt1U9S04RgARn0dZ88GofyUEGThlw110J3jmZS7VK00GEbdkdi+smjY7NDckvbk27bjPp4LwVEiKMCowv70cOLAbfJ3/CzObPtA8HmupBzgL4+dirKexQsgmVf7HsKOVCJrqHwHrcPRSeCUF7HrV8a3YVU53eJQ31FQNcusuw7FSWpUPWPCGD2hJvm0K/H/zy7F59wpfoD7pzkjbWfqQuGetSSIs/ZafD7F++9ceBOPmL6ssF2FXiCWljmeox6LAu4EDBq2reXPBGw8r+vVEFq43sB8ndTIrNpVmTGapPsONCWDnP2xVadJlsEpXIavMXRSxTYC0qfPzYYy1DqKkK0Qn9sU4r2Aoo=;dy5z3aqNAPuJm3DQ1rahEw=="
 ---

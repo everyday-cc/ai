@@ -43,20 +43,6 @@ related:
         width: 270
         height: 203
         isCached: true
-  - title: "Artificial Intelligence And International Business Decisions"
-    excerpt: "There has been no shortage of predictions about the different consequences of the recent Article Intelligence Boom (AI Boom)."
-    publishedDateTime: 2023-10-06T18:01:00Z
-    webUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65204b43fb9653854c333c0d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Survey: 44% of Organizations Are in Early or Midpoint Stages of Generative AI Adoption"
     excerpt: "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down."
     publishedDateTime: 2023-10-09T20:30:00Z

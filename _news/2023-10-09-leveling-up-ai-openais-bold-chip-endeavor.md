@@ -80,15 +80,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Report: OpenAI could develop custom AI chips"
-    excerpt: "OpenAI has reportedly considered buying an AI chip startup to accelerate the development effort. According to Reuters, the company went as far as performing due diligence on a potential acquisition target. Due diligence is an audit in which a company verifies key details such as the reliability of an acquisition target’s technology."
-    publishedDateTime: 2023-10-06T18:12:00Z
-    webUrl: "https://siliconangle.com/2023/10/06/report-openai-develop-custom-ai-chips/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
     excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
     publishedDateTime: 2023-10-08T12:31:00Z

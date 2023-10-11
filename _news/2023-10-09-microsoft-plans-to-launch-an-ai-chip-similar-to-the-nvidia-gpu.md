@@ -308,22 +308,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Milleniumchain Broker Talks About Microsoft and its AI-Driven Surge: Gains for Investors"
-    excerpt: "Summary: Analysts foresee even more positive developments, including the potential stabilization of Azure cloud computing, the upcoming Microsoft Ignite event, and the AI-driven Microsoft 365 Copilot."
-    publishedDateTime: 2023-10-06T19:02:00Z
-    webUrl: "https://www.benzinga.com/content/35131479/milleniumchain-broker-talks-about-microsoft-and-its-ai-driven-surge-gains-for-investors"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35131479"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35131479"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
     excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
     publishedDateTime: 2023-10-08T07:39:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-mak
 webUrl: "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Researchers deploy virtual reality, AI to combat shoplifters"
+    excerpt: "As major retailers, like Target, plan to close some of their stores due to retail theft, a group of researchers in Central Florida is trying to help corporations outsmart thieves."
+    publishedDateTime: 2023-10-11T02:00:00Z
+    webUrl: "https://www.clickorlando.com/news/investigators/2023/10/10/researchers-deploy-virtual-reality-ai-to-combat-shoplifters/"
+    type: article
+    provider:
+      name: News 6 WKMG
+      domain: clickorlando.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/10-10-2023/t_fda065905c2b4c45a78c27ca861847b7_name_image.jpg?_a=ATAPphC0"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "19G8qIcb15xLYA8SNguXLrDYxnYc2osLidcpo3SehLlG68bAWUOawy/AbXQ1AJnp4PIvsZTVkNe00gvb0uNolq4qSgjf1H289cu75Km5S0D3a49Y9Jy1Uf4ABcENdvpmMLN7FiUKNKzMsBb0GzluuL3rs52msYUaAz5++iknvglFWjAZfU0ildHGKy0s4dxMDkegCZ1xMCoxFhkEdmCp+P4i+eK7Wx5YVNSrzr5Lh7RipWm/rqZ0BUXNKMWZ28qMZOizl3KzznR1QrdX8BU+jeh9rvoFMqZ5TeQhM9T1W9+DHhc+LUMN9tt04LZPlDz8VcU3Jm6mzTmFObljpkPKVbJFBybgws50uqmhShQ28OPO21lEekA2HcEE9XBDDrh+mduXbqB2v3tpzCXDohCQBddL1YeCG8TEWB5npKSovAyRRe/bU3HJcT4A0DXxvaCN9eZwqZucwSaI4zVIoIxa6Izl+DfwbTrKWj/NFu/3Eno0UOFPDBHBUpHj3U8KyBr0oN/Xg/vYFFtVaTz6C9jRMQ==;8tCyCOdpZD8Lsxn0m8oEYg=="

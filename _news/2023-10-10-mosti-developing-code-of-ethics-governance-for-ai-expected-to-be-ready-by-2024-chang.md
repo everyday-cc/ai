@@ -25,61 +25,74 @@ images:
     isCached: true
 
 related:
-  - title: "Malaysia Working On AI Code Of Ethics, To Be Ready By 2024"
-    excerpt: "Malaysia is working on a code of ethics for AI that will be completed by 2024 as ASEAN members move toward regulating the fast-evolving technology."
-    publishedDateTime: 2023-10-11T09:35:00Z
-    webUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024-3714829"
+  - title: "How AI Is Changing The Future Of Digital Experience"
+    excerpt: "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows."
+    publishedDateTime: 2023-10-10T14:01:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://d.ibtimes.com/en/full/4492001/malaysia-mosti.png"
-        width: 1050
-        height: 613
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Mosti code of ethics, governance for AI expected in 2024, says minister"
-    excerpt: "The Science, Technology and Innovation Ministry's code of ethics and governance for artificial intelligence (AI) is expected to be ready by 2024, says Science, Technology and Innovation Minister Chang Lih Kang."
-    publishedDateTime: 2023-10-11T01:06:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2023/10/11/mosti-code-of-ethics-governance-for-ai-expected-in-2024-says-minister"
+  - title: "The future of augmented reality is AI"
+    excerpt: "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text."
+    publishedDateTime: 2023-10-10T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/11/2329591.jpg"
-        width: 1240
-        height: 829
-        isCached: true
-  - title: "Malaysia developing AI code of ethics and governance, to be ready by 2024"
-    excerpt: "Malaysia's Ministry of Science, Technology and Innovation (MOSTI), in collaboration with Universiti Teknologi Malaysia, representatives of government agencies, higher education institutions and industry players,"
-    publishedDateTime: 2023-10-11T03:47:00Z
-    webUrl: "https://www.channelnewsasia.com/asia/malaysia-artificial-intelligence-ai-code-ethics-governance-technology-3836801"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 53
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--NXb__qh6--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-11t011700z_2_lynxmpej9a01i_rtroptp_3_ai-jobs.jpg?itok=pTvV1SWT"
+      - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 676
+        height: 675
         isCached: true
-  - title: "Mosti developing code of ethics, governance for AI, expected to be ready by 2024, says minister"
-    excerpt: "The Ministry of Science, Technology and Innovation (Mosti), in collaboration with Universiti Teknologi Malaysia, representatives of government"
-    publishedDateTime: 2023-10-11T00:18:00Z
-    webUrl: "https://www.malaymail.com/news/malaysia/2023/10/11/mosti-developing-code-of-ethics-governance-for-ai-expected-to-be-ready-by-2024-says-minister/95573"
+  - title: "The Future of Work: 3 Ways Automation and AI Will Change the Job Market"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although some may feel that AI only came about in the last year, its"
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-work-3-ways-automation-and-ai-will-change-the-job-market-1032685963"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 42
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Artificial intelligence and the future of humanity"
+    excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
+    publishedDateTime: 2023-10-10T19:00:00Z
+    webUrl: "https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-humanity/"
+    type: article
+    provider:
+      name: aspistrategist.org.au
+      domain: aspistrategist.org.au
+    quality: 41
     images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/11/thumbs/400x400/153776.jpg"
-        width: 400
-        height: 271
+      - url: "https://www.aspistrategist.org.au/wp-content/uploads/2023/09/GettyImages-1404749040.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "How Is Data Literacy Changing in an Artificial Intelligence Landscape"
+    excerpt: "The geospatial community is well-suited to be a space of change and continued growth of a data-driven culture highly data literate people. Data are part of our everyday conversations, and we can model what data literacy can look like beyond our field. As leaders, we should ensure that:"
+    publishedDateTime: 2023-10-11T05:51:00Z
+    webUrl: "https://www.directionsmag.com/article/12622"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 37
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/October/5/6/f80021aa-85ab-4038-beb1-afd9034f19d2-sized"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "iMV8hFDlzsz6/qH4r8netTeReCaMqqGhLx3J5LkK/T+AQ6W1TWsZJTRPMFBOODuKKpz5GEqciIp57py0QfGrwbDez6VWpCah5O7s2Hmo22xFs5k0zezjWPVPnmukgK44q1NVQTJCpbObtrLUzarCT3NC8KSgvyLmRjySMi+GMmIa+C9m0yi3RA1JX0TgMsl8hdj6wFqfWd/fpXWHWCi7IChQGWlsqAdzDYyAZRLOP5S56eTZTGtrLbzduz6d+DzPkJgHY1CngK5MNx7DZcnFhNvdP1FOBm51Qf5LuxSI6NtNek/QdQYO8W1zuCRtCrJs+IYsy+3XTfBS3TgIWhk9baBpBIvpl7PdZP/hGu0Ar1/rLffKOj2A5FA+GOG3iewWr7bV0Td9GoOT+GQiGDvDU0sl8Mucy6IYADxnDhm6DmZalMu508VUYCyqfe9tMG94UtvkSnbRpLozPzq/TfyuikT4X/O/2r2Gyjxq2qr5u4j8ew/Iu544GVc6tv940m1bxAjDxRCVCo87QXeSBYCdPA==;Hsdr8TA/ZXy3t8LbVfmQLw=="

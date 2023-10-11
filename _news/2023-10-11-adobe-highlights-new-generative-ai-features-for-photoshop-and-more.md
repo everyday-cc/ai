@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe’s All In On AI: Debuts New Firefly AI Models For Creatives"
-    excerpt: "The centerpiece is Adobe’s release of three new AI models under its Firefly generative AI brand - Firefly Image 2, Firefly Vector and Firefly Design."
-    publishedDateTime: 2023-10-10T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
+  - title: "Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express"
+    excerpt: "Adobe is going all in on AI, announcing three new generative AI models today that add powerful features to Illustrator and Adobe Express and vastly improve Photoshop’s text-to-image capabilities. During the company’s Adobe Max even t on Tuesday,"
+    publishedDateTime: 2023-10-10T16:12:00Z
+    webUrl: "https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Verge
+      domain: theverge.com
+    quality: 53
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fe4913877b0bbf06f748/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1453
-        height: 900
-        isCached: true
-  - title: "Adobe Unveils Firefly Image 2 AI at Max Conference"
-    excerpt: "New generative AI for vector images, AI template design, lens blur in Lightroom, direct social publishing in Premiere Pro, and the GenStudio enterprise workflow solution were also covered."
-    publishedDateTime: 2023-10-10T16:09:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05WgEg7RjQu7K4RunRWAmRA-1.fit_lim.size_1200x630.v1696882852.png"
-        width: 1117
-        height: 630
+      - url: "https://cdn.vox-cdn.com/thumbor/juSDWZIdLoDoZd2JCtjzRmsChtw=/0x0:2660x1500/1200x628/filters:focal(1330x750:1331x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24991431/Adobe_Max.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "aFjdG69hMddQgWcJmSw0DqXO1wTkgMkMtSFAGxgRXx0DH4jPW+cuJwQl/lbbiVtUwjQPBOiymGLLNZ6ZXXgxZDoTH5GvPlLtIqNyewbTsz0pbMVZCC7sCuHWSjq9B2yW1x52KJB0EqOZgsX58IsiGwcB/EhSau/grjrPLqtRG3xYHJ1ZthvOkOAQBHUqW7E6cFQk4og33aOFw1L5T/p9m52lqyBe+4wCVetpEC5mBnJVRkUXiVTBJS4vCExO0kTmteTpgmL3pfHORgd8ezaGJpPztRVMVu8SHIvurxybh59iJyRDZ1C+k8rF8jnFrL2TLyxOxJv0hj3/V4Ah6JsWE4npJw1ZJ3/4sLpqj9WI1H5bL2TvXaYrlOBZOjKBc/m+ib44iWdAHHQ/XNJQwn+er1o2+N4rN3bMlgkAZnqq76kYpB/7eQ/pBUQSx9yhrsxgwSkdWJ/E4534HFnIHI5Q0k8FU+hGspe55rbrk6aHEQMRlilNEEYxib4atLUWj/pL/l6osEvaRUgcNwYj1tzNYA==;yvI5vfBSRmO+UTy4gpcpgw=="

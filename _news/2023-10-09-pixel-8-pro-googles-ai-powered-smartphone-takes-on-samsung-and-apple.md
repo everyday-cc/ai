@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Google/smartphones: price, not AI, will lift Pixel’s market share"
-    excerpt: "Pixel sales remain a tiny fraction of Google’s total revenues. A million more Pixel sales would not make up the difference if sanctions hamper the company’s advertising business. That would be the outcome if the US Department of Justice succeeds in its antitrust case against the search business."
-    publishedDateTime: 2023-10-09T09:03:00Z
-    webUrl: "https://www.ft.com/content/e410528d-730f-4e7e-9487-6905cc15ca74"
+  - title: "Samsung: small AI market cannot lead chip cycle revival"
+    excerpt: "The problem, however, is that Samsung has already lost the lead in this market to local peer SK Hynix. Moreover, the product accounts for just about 1 per cent of the global DRam chip market. Market demand for AI-related solutions will take years to outpace demand for chips from traditional clients such as smartphone and carmakers."
+    publishedDateTime: 2023-10-11T11:45:00Z
+    webUrl: "https://www.ft.com/content/605fa82a-5ef0-4c69-a7c9-dcea9ad8d650"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
         width: 619

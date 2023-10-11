@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/navigating-industry-
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is revolutionising business contracts"
+    excerpt: "Contracts are the foundation of business. They sustain commercial relationships, provide clarity, offer protection, enhance collaboration and drive revenue. Every medium and large organisation generates substantial numbers of contracts across multiple parts of the business including finance,"
+    publishedDateTime: 2023-10-10T17:04:00Z
+    webUrl: "https://www.ft.com/partnercontent/icertis/how-ai-is-revolutionising-business-contracts.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/icertis/img/hero1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "As Manufacturing Returns Home - Here Is How AI Can Help Ensure Better Collaboration Between Suppliers"
     excerpt: "As Chinese manufacturing slows and the war in Ukraine continues, more U.S. companies are shifting their offshore operations back to reshoring or near-shoring activities."
     publishedDateTime: 2023-10-10T18:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-nee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -83,15 +83,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Save $30 and start using AI with this ChatGPT training bundle"
-    excerpt: "The Complete ChatGPT Artificial Intelligence OpenAI Training Bundle offers you four courses to start getting more from AI, available at a special price now through October 15th in our better-than-Prime sale. Using the free version of ChatGPT (Generative ..."
-    publishedDateTime: 2023-10-06T18:16:00Z
-    webUrl: "https://www.bleepingcomputer.com/offer/deals/save-30-and-start-using-ai-with-this-chatgpt-training-bundle/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 17
 
 secured: "rE32Z3XI/FamzVAfu1fQ7RUT5BteHcZiG/DJq25DKHL0NyuhWITBQYyOp/G6SiBIEfSyj/IE/NbrjA8EaUiEm1UFvWNSebOvEBXbHiMdCrnQFbzG5capFjzD1963NgY7jE5iTZQvdgNG4f65YMPwaPqE2A0UTx429awaDWLfgm6eHVjyAnBm9G/RXBe1QYJpWln3DPBklLZvL9NLfWGveLy+YDdwy/hFad6P4lu7VuDUFTWRvOI6rqLC/2I5zWz3073EUa9KORvprfT9P9BDQRhRtJ74tEtcyElZM7SHIBrZGWzBp1gXWPlgzoQpUoYHrbCpd7YZy1xJxssvqPbvt5UPp5m3xpv4Dm1+X0/zurK+mL1bj6VQJ8PgHDi1QcgSsjGJNnEMgWsSC4Y3WbfqHwCdgMy9FN0vQ5T4r3EBt81063sSkgORROSpTvyuYhaTd63KGAvDn0cBAQ54X2hIMsyoQPu7o4GiGKKh+vqF3oGDKb24lSXiFFaOzl5W1KK+gDKlz07S+ubu+pzt1NGcrw==;+cGj9q8z20bMz8D7nv3+7Q=="
 ---

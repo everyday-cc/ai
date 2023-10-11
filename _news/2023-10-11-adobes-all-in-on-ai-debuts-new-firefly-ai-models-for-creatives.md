@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,33 +30,117 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Unveils Firefly Image 2 AI at Max Conference"
-    excerpt: "New generative AI for vector images, AI template design, lens blur in Lightroom, direct social publishing in Premiere Pro, and the GenStudio enterprise workflow solution were also covered."
-    publishedDateTime: 2023-10-10T16:09:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference"
+  - title: "Edge AI: The AI No One Is Talking About"
+    excerpt: "Edge AI isn’t a type of algorithm in and of itself, but it's about where AI happens, regardless of the algorithm in question."
+    publishedDateTime: 2023-10-11T10:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05WgEg7RjQu7K4RunRWAmRA-1.fit_lim.size_1200x630.v1696882852.png"
-        width: 1117
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Adobe Highlights New Generative AI Features for Photoshop and More"
-    excerpt: "MAX conference, Adobe today provided insight into its plans for generative AI technology in Photoshop, Illustrator, and other"
-    publishedDateTime: 2023-10-10T22:31:00Z
-    webUrl: "https://www.macrumors.com/2023/10/10/adobe-generative-ai-features/"
+  - title: "Embracing AI In The Workplace"
+    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
+    publishedDateTime: 2023-10-10T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
     type: article
     provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.macrumors.com/t/mYTqbQN-5cbRxVBdcNykZ3Lawl4=/1600x/article-new/2023/10/adobe-generative-fill-photoshop.jpg"
-        width: 1600
-        height: 878
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1246
+        height: 830
+        isCached: true
+  - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
+    excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
+    publishedDateTime: 2023-10-08T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "These 7 Stocks Are Leading the AI Pack"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
+    publishedDateTime: 2023-10-11T10:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/these-7-stocks-are-leading-the-ai-pack-1032695805"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "These books are being used to train AI. No one told the authors"
+    excerpt: "Nearly 200,000 books written by a wide range of authors, including Nora Roberts, are being used to train artificial intelligence systems, according to a recent report. No one asked for the writers’ permission — and many of them are not happy."
+    publishedDateTime: 2023-10-08T12:00:00Z
+    webUrl: "https://www.cnn.com/2023/10/08/style/ai-books3-authors-nora-roberts-cec/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 47
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "The perils of artificial intelligence"
+    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
+    publishedDateTime: 2023-10-08T10:00:00Z
+    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Gazette
+      domain: thegazette.com
+    quality: 41
+    images:
+      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
+        width: 640
+        height: 800
+        isCached: true
+  - title: "Artificial Intelligence in the Art World"
+    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
+    type: article
+    provider:
+      name: Daily Utah Chronicle
+      domain: dailyutahchronicle.com
+    quality: 39
+    images:
+      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
+        width: 2001
+        height: 814
         isCached: true
 
 secured: "jyOTJAG9MSTseas2lqfy0fdpsDulAM91rH6FpbRY/I79LjlyHctnnoRArjCrsmA7L15DLa08C/1QPDRAII6C6uP6jNbxGuZYpe2G9r/3OEJMKOMjtlUYQHua7i9fjALg16OAtpD1uVp/imrrHcbcS6aJ6GUSNvmd9+jPkPtyUjN/ZavfR+8CcJ510FAjfVVrDuPgyNKuXwMVPI3wrVXtnOvn6VwoOkaiv19PNVwLeAjJtAELri9v3aedjeL4BgAfbcfySg+2F1lABwKtudpY85lDGLMKC63RDQDvnGFuEyUsEHGhxOOD4bAYK86pyqOP2/HK+RO1CnfuThAp7uoZuuG/U0cEFj8F2qcDTQpRYb+P9VBEl3VU/gFC8CuBKygEL5wzP2+hKPxcV6OlDAq7NXYl6wkN+/9nBPauOYC7kE2khYb8n7f1n7kzJAZ7WJqPoceXvvdAORqWvs5cFyrTFVBkKN5qh2a+QVxyZIEXX9pLc4r0HcJ5nq2ZGSFfJVB7k/b5bmzKdL7az1WnmKR4ng==;GwB46uQE5A+P+v7OufbCiw=="

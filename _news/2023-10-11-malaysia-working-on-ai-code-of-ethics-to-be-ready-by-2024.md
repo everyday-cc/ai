@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024
 webUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024-3714829"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
-    excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
-    publishedDateTime: 2023-10-10T16:58:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=2233633"
-    type: article
-    provider:
-      name: bernama
-      domain: bernama.com
-    quality: 45
-    images:
-      - url: "https://www.bernama.com/storage/photos/fdf2df98576466acffaa0e6aff4cfb7a6525824a659e5"
-        width: 1110
-        height: 694
-        isCached: true
   - title: "Mosti developing code of ethics, governance for AI, expected to be ready by 2024, says minister"
     excerpt: "The Ministry of Science, Technology and Innovation (Mosti), in collaboration with Universiti Teknologi Malaysia, representatives of government"
     publishedDateTime: 2023-10-11T00:18:00Z
@@ -82,6 +68,6 @@ related:
         height: 271
         isCached: true
 
-secured: "Wmkya3AckBk5rdCvstFPRSBsBpp5BMtWNXmxu0Kc49F8uhseiPdOprAhuDmBel6uXK2JyXV8SGXpsSvrsTEK8cWsisVmKid8BlArj8GdwA4h4DnpG/jkEuGOXfqX96K6SVyEH9rPFkWRjuImOdu8W7SU6QVV5mP7J2N4Uw0SxmPCNLHw4a5W4pqFlWMKlqU4ZCAEEHTHe+OCv5YNJvifirYSEZI7v69D35WVLqwA3i+lU5EBEsx28UNWChAnruEgtJ6De8dUCrUIQxOqSo0WZVt2MqwWnZatp3rH09zPk948Ar6lWez3u7WLBgB2828U2m1hzkh5I8p+6LGKQKjyijkYA0ZaxEy6Apmg+10Dgs4=;QEah3hjzqfcNMTCUdn7AEw=="
+secured: "jCjs3ZA0T/8D0c5/dFX8kYDrG2u1zEfBcE22BX8rFoTetF6nfBd1ycJHp5R+me9r9FQxNm5CiAkbFFc4H0qvR+RH8wmJV6COasZI+lCYQxEKQ2jDJnnA5Kb3V+To2ylkbekOn3srHa0LtxGaSeit9W1PwVaw/JXsFfLWy7HA1j72NcJOcbhe2mH0b5gZkwbFjzDty/gbJdZxc1+CE6OP6D/RHFG8YNzhCAB5/LSA/lEl5XuCAlE+aCjJmoz8G5eCibnSFXJe5z6upJHj/0j1CYMiUsw+EewbnQXmrQHZUxGGjrXDk5fzzz6x8E/bfbOJrJZpctM8KZI029bg8ff+tV3tDhUMewuuhr9b6ZBW/gsgLcvJiglvCyWHAcY4x1faY5ebiriqU736ioZvvQYhNg1HmiooenzEA2iwUokwMjrlQRbJd3IJU3I/uEDBIZo0aECGr/fVZjxgcAY2mPl2wwQUA0+nOlkBek7EKGADW70tl+ngLtm4Pw/aUnDw6epQdYSRu0M9vZgfo2sNh2X3dw==;Q7AznDbPNRvyGx2A0foNcA=="
 ---
 

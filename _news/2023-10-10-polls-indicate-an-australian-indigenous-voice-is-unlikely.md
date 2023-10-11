@@ -65,15 +65,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The bitter politics and hypocrisy of the Voice debate will mark it as yet another ugly chapter in Australia's history"
-    excerpt: "After many months of bitter debate about the Voice, an address to the National Press Club this week reminds us that we are back at a point where it seems that, no matter what the truth may be, we will not let it lead to any change,"
-    publishedDateTime: 2023-10-06T18:01:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-07/bitter-politics-voice-debate-another-ugly-chapter-history/102941070"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 0
 
 secured: "59rQHt7x24H5oNQHLtEdUpIw2KN7uVoRfphVRB5H6930UsPrBOwDaviw6y7KwqZVdJMxfB6tf656Fdc4XcMl/7IX4/DSaXSrYMW+bOZ2/5EYFiDOSCA1gRlrpEW38hTlmid/6EJeZKeFqTkg9U1iAbDjy+9XnmqZ7GpMfCKsUsp6+YVEK/+gZIctb/F4u5W6E16/D+FgBIOJOrTQ4QGIWzWI4vAtOQvrBu/gk5ye9vqn6geXAUGfTCuXyk5A5mOS8HIRjnMjOkLB06Ub6U6VvSER/orugfvvAws3mh10u/ikSGkS9oWbiuHQfx03dUOjrv2ms76MLiY2n0CUQLP54el6i94vngd1PDlZHLmx2RCkKHNAishvSF7rZep1Nss6ro6cBSUXyQUIRzmSDn1U8CwiiAZ93K8xOYbIrUPA+h/bcROGxsPZr/bpkoAfqVykw56Z/KwOgCyxQTzsw5XLpVE66aUTnPDYxUDjaxNcRi0y1hJB/dcNVt+bxGYOvm8a+YNCByfSzhetEuz/RBt3MQ==;ze9VjlZe+2q2X0b6vL8hhA=="
 ---

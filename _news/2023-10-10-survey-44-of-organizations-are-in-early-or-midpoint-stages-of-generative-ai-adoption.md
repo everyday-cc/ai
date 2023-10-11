@@ -45,20 +45,6 @@ related:
         width: 270
         height: 203
         isCached: true
-  - title: "Artificial Intelligence And International Business Decisions"
-    excerpt: "There has been no shortage of predictions about the different consequences of the recent Article Intelligence Boom (AI Boom)."
-    publishedDateTime: 2023-10-06T18:01:00Z
-    webUrl: "https://www.forbes.com/sites/robertginsburg/2023/10/06/artificial-intelligence-and-international-business-decisions/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65204b43fb9653854c333c0d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Get AI for Content Generation, Image Creation, and More for $80"
     excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
     publishedDateTime: 2023-10-09T16:07:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence is making online romance scams more believable"
-excerpt: "Online romance scams for years are nothing new. Unfortunately, advances in artificial intelligence are making these fake profiles look even more real. How is AI improving the quality of romance scams? Honestly by a lot, because it's very easy to generate ..."
-publishedDateTime: 2023-10-10T22:05:00Z
-originalUrl: "https://wwmt.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-webUrl: "https://wwmt.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-ampWebUrl: "https://wwmt.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+excerpt: "Online romance scams for years are nothing new. Unfortunately, advances in artificial intelligence are making these fake profiles look even more real. How is AI improving the quality of romance scams?"
+publishedDateTime: 2023-10-10T22:00:00Z
+originalUrl: "https://okcfox.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+webUrl: "https://okcfox.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+ampWebUrl: "https://okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+cdnAmpWebUrl: "https://okcfox-com.cdn.ampproject.org/c/s/okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: wwmt
-  domain: wwmt.com
+  name: okcfox
+  domain: okcfox.com
 
 topics:
   - AI
 
 images:
-  - url: "https://wwmt.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
+  - url: "https://okcfox.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
     width: 986
     height: 555
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 555
         isCached: true
 
-secured: "mzC0Bbkh1EqsRS/i9MI1CNObqaIaP5BR0iZOfp7ktVkZwEXOpRNvt7aIMOjlD9tlRVXgKgBpNOSoFGER6ch1oxNN+Fp5qeySQ5rDdcrcPiMhGN4/Eiguw4PhecJRdWBZj4svsu1p33yfTSB9Z+y38FuVUYEKXJd9AeHcx7Kiq0DlcD+WSvvXg1b8Cmll4JDTErnfLJx4mG1n2jv8PPMYZGMgIURmy3kkWSLtzkAMyssVm1HG2g+/XW+5obdr7PkUFuDR9RPIH7PDH63gy5xXNRgq7vVQ7T8Pt5vYCFxnfrTeWl/1sBCTNXi74nwccpzbir2azalGLjHdk31+rWbiDCxFgi86NgRvI4TRx1dwsxo=;UT6m8tJwDzLVR0pg8Xp66w=="
+secured: "1WZpNTfheAoSvw1+v32vJuWvO1HUsfetLqNPHccSfZhA+p6aurpYnjHPw3A8Ib71c9opvEZuTGAwV/dvgx6rWZ3XvZEa++tP8WcBOjWU03DqClvhwV7jGyXsLDk8UE3HDfAKMWCsZcLlZRz34ZH1FqoMQZuyMqbGBPJ2oGVakAd+0vyid+qnGOyf1LS6WT7s9bHhAQEASiiwoZEzf/tbR1/82qLG+5ad2k4bgrPqudUJKoGxnCVABnfyWutLjt1Myqxmi3s6ubyG4xy9TM5FoRNhgP54+QyLWi40/JbQlFugBfC+ZlaP5ic5j5ELulQr/OhUV1puyfR6MIC7geEjY+lQjwPygJZQZhNNi6v7zgo=;2lbRh/7i9UgAi/vT3nYOQQ=="
 ---
 

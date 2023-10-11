@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning And Neural Networks In The Fintech Industry – Sergey Kondratenko"
-    excerpt: "According to fintech expert Sergey Kondratenko, thanks to machine learning, financial organisations can quickly, reliably and accurately solve a wide range of problems related to the processing, analysis and interpretation of data."
-    publishedDateTime: 2023-10-06T17:29:00Z
-    webUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/"
-    ampWebUrl: "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/"
+  - title: "Three advanced cybersecurity technologies for banks, financial services"
+    excerpt: "Three zero-trust security technologies for banks, financial service organisations, and insurance companies were introduced at the Smart Banking 2023 international conference and exhibition."
+    publishedDateTime: 2023-10-09T07:59:00Z
+    webUrl: "https://vir.com.vn/three-advanced-cybersecurity-technologies-for-banks-financial-services-105837.html"
     type: article
     provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 71
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
     images:
-      - url: "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg"
-        width: 500
-        height: 333
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/102023/08/14/in_social/opswat-introduced-advanced-cybersecurity-technologies-at-smart-banking-2023-20231008143947.jpg?randTime=1696845704"
+        width: 600
+        height: 450
         isCached: true
 
 secured: "pPP/XHBhphzVYuz6/uzsL9RCki/CSUpZ2lri00azoIX1BR68+xL9jL+N7ifLPdX0RijvD+1waM9QqJzxf7cvZ2/Wv8PdG1ptdYKr4MXW/2o2Z00eWDppiTokJZK5pj6j9ORJMDjDX10+7uUTkFqmMFipG69OKdxU1O5Omv4VSN0aHKrs7Qhb45/KDLetMS3JHmXRpoPndr6FFXes3kulHVGBtyuNgDMEFou4oSssUPXv6HxIMOIWK6DCXzCPS58GFzDVHO9qRPuxG13HgGkhGy+9SSOpZSa+trITGrzkayYJX3IYiuZouEHAQKux4ssn9vRDOUKTttmabfO3kVuht5I1H+i4B80nkybHakUhYlAnD5Y4/EFDwk6uePx155/QyAREwaTlNmnL1igZyCZKls30ahowoYyNF5q+bxj8iASPz38GCiZvsxzhI2w2WAkBxY3GJDxZu5NzZrNwdXlLSEsSp7rnTUizTH7YfnOnmSCwmw087U/pkXINBnVBJXNHvtm7810+Z5C08CX/tk+oYA==;umUvd9w9qUri8JUpm66RvA=="

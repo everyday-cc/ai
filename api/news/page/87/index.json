@@ -2,6 +2,161 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-08-09-lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai.md",
+      "title": "Lenovo And Brazilian Innovation Hub CESAR Create Sign Language “Translator” For Hearing People With AI",
+      "excerpt": "Described as a world-first, the patented AI technology is capable of visually identifying and contextualizing individual gestures",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d3a9219b7cab76fc0f2e70/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/08/09/lenovo-and-brazilian-innovation-hub-cesar-create-sign-language-translator-for-hearing-people-with-ai/amp/",
+      "publishedDateTime": "2023-08-09T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-zoom-is-entangled-in-an-ai-privacy-mess.md",
+      "title": "Zoom is entangled in an AI privacy mess",
+      "excerpt": "The popular video conferencing platform's recent privacy and AI policy changes have exploded in the company's face. Here's what to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "originalUrl": "https://www.zdnet.com/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/91657eac81e8c36e1c301d6dd38c99bb1328705b/2023/08/09/1407d605-d4f8-4813-9858-f1df66c9c5ca/gettyimages-1234804190.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/zoom-is-entangled-in-an-ai-privacy-mess/",
+      "publishedDateTime": "2023-08-09T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-09-meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets.md",
+      "title": "Meta settles startup's lawsuit over artificial-intelligence trade secrets",
+      "excerpt": "Meta Platforms has settled a lawsuit brought by an artificial-intelligence startup that accused the tech giant of stealing its trade secrets, according to a filing in Boston federal court.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/transactional/meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets-2023-08-09/",
+      "originalUrl": "https://www.reuters.com/legal/transactional/meta-settles-startups-lawsuit-over-artificial-intelligence-trade-secrets-2023-08-09/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/VCZbrjHm7zmsuvMPLMmxHXLzT4Q=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/R35EVV22CVN2HE5D3IRXQ5FFQQ.jpg",
+          "width": 728,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-ai-industrial-robotics-bangladesh.md",
       "title": "AI Industrial Robotics - Bangladesh",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$25m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.96%, resulting in a market volume of US$70m ...",
@@ -1015,134 +1170,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip.md",
-      "title": "Nvidia's stock slips on introduction of new AI data-center CPU+GPU chip",
-      "excerpt": "Read: Will AI do to Nvidia what the dot-com boom did to Sun Microsystems? Analysts compare current hype to past ones. AMD introduced its MI300X CPU + GPU at its AI product launch in June.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20230808877/nvidias-stock-slips-on-introduction-of-new-ai-data-center-cpugpu-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-09-how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data.md",
-      "title": "How to block OpenAI's new AI-training web crawler from ingesting your data",
-      "excerpt": "The ChatGPT creator is training the next generation of AI systems, reportedly including GPT-5. One word can stop the crawling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/500df0b13f222e5914bb567e7986709eaba3fcb2/2023/08/08/d0960e19-3e08-4733-857c-5854016ad315/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
-      "publishedDateTime": "2023-08-08T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality.md",
-      "title": "Better together: IBM and Microsoft make enterprise-wide transformation a reality",
-      "excerpt": "Providing joint solutions to companies to improve costs, productivity and resilience by accelerating their hybrid cloud and AI journeys.\nThe post Better together: IBM and Microsoft make enterprise-wide transformation a reality appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
-      "originalUrl": "https://www.ibm.com/blog/better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-08T14:27:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Microsoft AI"
       ]
     }
   ],

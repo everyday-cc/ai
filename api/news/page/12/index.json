@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-10-02-artificial-intelligence-risk-factors.md",
+      "title": "Artificial Intelligence Risk Factors",
+      "excerpt": "A discussion of public company risk factor disclosure relating to artificial intelligence (AI), machine learning, and generative AI, including ChatGPT, Google Bard, and similar technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
+      "originalUrl": "https://www.reuters.com/practical-law-the-journal/legalindustry/artificial-intelligence-risk-factors-2023-10-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/KB7Be1g0wU5DvkxyUxj8DEGBok0=/1340x701/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVAIZBXPTND3JDYGB2S4ZRCRLE.jpg",
+          "width": 1340,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-10-blockbuster-ai-ma-deals-on-the-horizon.md",
+      "title": "10 Blockbuster AI M&A Deals On The Horizon",
+      "excerpt": "Hugging Face is often described as the “GitHub of AI.” It is an apt comparison. GitHub and Hugging Face are both open-source repositories where developers can share and explore one another’s work—code in the case of GitHub, AI models and datasets in the case of Hugging Face.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65185bfe96699717e8614931/0x0.jpg?format=jpg&crop=1744,981,x0,y49,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2023/10/01/10-blockbuster-ai-ma-deals-on-the-horizon/amp/",
+      "publishedDateTime": "2023-10-01T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-3-robotics-stocks-set-to-explode-higher.md",
+      "title": "3 Robotics Stocks Set to Explode Higher",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The AI boom has been nothing short of remarkable, with companies like OpenAI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-02-can-ai-tear-down-healthcares-data-silos.md",
       "title": "Can AI Tear Down Healthcare’s Data Silos?",
       "excerpt": "AI has a potentially large role to play in making sense of the data pieces. Some of the earliest widespread applications may be where the bar isn’t daunting.",
@@ -484,8 +631,8 @@
       "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
       "excerpt": "Leg-spinner Yuzvendra Chahal's maiden six-wicket for India as the hosts beat England by 75 runs in the third and final Twenty20 International",
       "sourceUrl": null,
-      "webUrl": "https://www.netindia123.com/articles/showdetails.asp?id=4124447&cat=Business",
-      "originalUrl": "https://www.netindia123.com/articles/showdetails.asp?id=4124447&cat=Business",
+      "webUrl": "https://netindia123.com/articles/showdetails.asp?id=4124447&n_date=20230930&cat=Business",
+      "originalUrl": "https://netindia123.com/articles/showdetails.asp?id=4124447&n_date=20230930&cat=Business",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1032,144 +1179,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-generative-ai-startup-nexusflow-raises-106-million.md",
-      "title": "Generative AI Startup Nexusflow Raises $10.6 Million",
-      "excerpt": "Nexusflow scores funding to build an open-source LLM that can deliver high accuracy when retrieving data from multiple security sources.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/",
-      "originalUrl": "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/",
-      "cdnAmpWebUrl": "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/generative-ai-startup-nexusflow-raises-10-6-million/amp/",
-      "publishedDateTime": "2023-09-29T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecurityWeek",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-microsofts-generative-ai-initiatives-a-vision-to-transform-businesses.md",
-      "title": "Microsoft's Generative AI Initiatives - A Vision to Transform Businesses",
-      "excerpt": "Generative AI models are exceptionally proficient in predictive analytics and forecasting. Through analyzing historical data and pattern recognition, generative algorithms empower businesses to make precise predictions, facilitating well-informed decisions that enhance supply chain management, inventory projection, and demand anticipation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/09/29/9890145.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/09/29/9890145.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2235248/CloudThat_Logo.jpg",
-          "width": 400,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-29T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing.md",
-      "title": "Ethics First: The Imperative Of Responsible AI Adoption In Marketing",
-      "excerpt": "However, in pursuing both innovation and efficiency, we must pause and reflect on the critical role of ethics in this AI-powered landscape. As AI becomes increasingly integrated into marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6516d3d62973bac3033c1a14/0x0.jpg?format=jpg&crop=5275,2969,x0,y264,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunshinefarzan/2023/09/29/ethics-first-the-imperative-of-responsible-ai-adoption-in-marketing/amp/",
-      "publishedDateTime": "2023-09-29T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

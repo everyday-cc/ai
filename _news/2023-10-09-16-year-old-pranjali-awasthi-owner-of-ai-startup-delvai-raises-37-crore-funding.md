@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awas
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Mint
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pranjali Awasthi: 16-Year-Old Entrepreneur Raises Millions For Her Rs 100 Cr AI Startup"
+    excerpt: "A 16 year old Indian girl has taken the internet by storm by raising 3 crore funding for her AI startup launched in 2022. Read on to learn about this GenZ girl who has raised the bar for success."
+    publishedDateTime: 2023-10-11T11:42:00Z
+    webUrl: "https://www.herzindagi.com/inspiration/pranjali-awasthi-16-year-old-indian-girl-ai-startup-founder-raised-3-crore-funding-article-249618"
+    ampWebUrl: "https://www.herzindagi.com/amp/inspiration/pranjali-awasthi-16-year-old-indian-girl-ai-startup-founder-raised-3-crore-funding-article-249618"
+    cdnAmpWebUrl: "https://www-herzindagi-com.cdn.ampproject.org/c/s/www.herzindagi.com/amp/inspiration/pranjali-awasthi-16-year-old-indian-girl-ai-startup-founder-raised-3-crore-funding-article-249618"
+    type: article
+    provider:
+      name: Her Zindagi Hindi
+      domain: herzindagi.com
+    quality: 49
+    images:
+      - url: "https://images.herzindagi.info/image/2023/Oct/AI-founder-pranjali-awasthi.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "16-Year-Old Pranjali Awasthi: Mind Behind Rs 99.8Cr AI Data Startup"
     excerpt: "Pranjali Awasthi’s Delv.AI, valued at $12M, is revolutionising data extraction and research with innovative AI solutions."
     publishedDateTime: 2023-10-10T16:22:00Z

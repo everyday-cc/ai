@@ -317,22 +317,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 66
-  - title: "Milleniumchain Broker Talks About Microsoft and its AI-Driven Surge: Gains for Investors"
-    excerpt: "Summary: Analysts foresee even more positive developments, including the potential stabilization of Azure cloud computing, the upcoming Microsoft Ignite event, and the AI-driven Microsoft 365 Copilot."
-    publishedDateTime: 2023-10-06T19:02:00Z
-    webUrl: "https://www.benzinga.com/content/35131479/milleniumchain-broker-talks-about-microsoft-and-its-ai-driven-surge-gains-for-investors"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35131479"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35131479"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Microsoft's AI Alignment Boosts Investor Confidence According to Morgan Stanley"
     excerpt: "Weiss highlights that the MS 3Q23 CIO survey suggests stabilization in IT spending growth in the near term, with expectations for 2023 holding at +2.7% YoY sequentially and early reads offering modest acceleration in 2024 at +3.4% (+64 bps YoY)."
     publishedDateTime: 2023-10-10T18:36:00Z

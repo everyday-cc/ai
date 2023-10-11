@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-11T08:42:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/digitimes-research-highlights-the-market-currents-of-ai-servers-and-bottlenecks-within-the-supply-chain-1032695533"
 webUrl: "https://markets.businessinsider.com/news/stocks/digitimes-research-highlights-the-market-currents-of-ai-servers-and-bottlenecks-within-the-supply-chain-1032695533"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mma.prnewswire.com/media/2244173/image_800964_28233910.jpg"
@@ -28,6 +29,6 @@ images:
     height: 267
     isCached: true
 
-secured: "/PP422fm1QvfSOCdR0WeAm5M9rJ9z8kU0malEzzoD5xfaGw3uEB0tjjvWa1GAjkeUfBLn5WEIPcYwebJWiFtJDlZYN3e1xO8a/WIcXDOuuolFLGUXteIR7bZaJ5p/xXt0mRj5CGINf6DxAVOC3hKxHsdO2/Q5LPo17irIFKy3NLrgGtCNK8E1EQVksNbDUdYGcC58uGiBGqBRKp9m7CjmXMZmfUoBKnMThR0iDlPtHV/LJyhQu5ggbFDHsGZ3kiZJ1sKXyIpw+D+BPogJJjU92qEyBA58al/AQY5p2bOd/FQRanVADj7pXAVDyFplxiH9sk7Yk5oImVqwW+F6byc2H0714ZU5Twy9QmA1/cghdg=;1Vx2KtoLF0DseY2+oVvLAA=="
+secured: "S3wuQVs3dAdaqTt43YNmMcvd6gFX8dJ/6HnKy5nHV6Z3x0td3leBTejKrPS0RlCUJzIxlFfWpP0/bohQS4OI/uXTJDwYFhHjNPCiBbi1mMtjPMd6EWN4A+gr+AT6LrtMlv/UHEE0GkKipNWouz4JBGrxugrL2mJMCf5l7sOIUpNvMJt5fpMddDzvUHv0LHfiSWE/zTppAyiU4dV6LO6Q88GpguOQaTlkonrZbJEk0F63Oy97oWh3WgGDq7ZOoAZEncmXgGJRvgEljHFYkHRvW89hSUIjXIDgGQLnukwQb13CGZXVvtspWjnKOr6BExw+//lzi1X5qaKx69uDOEHql3qeixPU0S2ut2kGhUayp2JYcGBJCjySnBuYnqgrNzk4DN6cZlNUnvRlxlNZoriYhENCnswtYz50nCPVf+XkQCJYZ16XoE4jgpsY5v+JOPtepS/Z3ajDNdRN84cELtTtDPoA3SOCnIjcKVg0R726nCKt7MbAt7QFcj/pN+YkU3FiLuZCqA/WlX19zbZifKe3Zg==;6Yc5+ji86Zt3I/A+h65UyA=="
 ---
 
