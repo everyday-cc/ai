@@ -3,8 +3,8 @@ category: news
 title: "US chip maker AMD to acquire AI software start-up Nod.ai in effort to catch up with Nvidia"
 excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence (AI) start-up called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chip maker Nvidia, Advanced Micro Devices (AMD) plans to invest heavily in the ..."
 publishedDateTime: 2023-10-11T03:07:00Z
-originalUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia"
-webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia"
+originalUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
 type: article
 quality: 74
 heat: 134
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Graphcore, which wants to be an AI chip rival to Nvidia, has shut offices and needs more investor cash"
-    excerpt: "Graphcore's filings for 2022 show the expense and difficulty of going up against gorilla Nvidia, which holds around 70% of the AI chip market."
-    publishedDateTime: 2023-10-06T11:23:00Z
-    webUrl: "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/65043698956dba001ace26d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AMD to acquire Nod.AI open-source AI software startup"
     excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
     publishedDateTime: 2023-10-10T19:40:00Z
@@ -82,6 +68,20 @@ related:
         width: 800
         height: 553
         isCached: true
+  - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
+    excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
+    publishedDateTime: 2023-10-11T05:06:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia/104332059"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104332059,imgsize-44324,width-1200,height=765,overlay-etcio/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
     excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
     publishedDateTime: 2023-10-10T14:01:00Z
@@ -106,6 +106,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "mSGjuLqj6kWj8pLToSD6WiOb95pgWMyoOWVFoT7D8RF7n1TI22urgZ5Wky8XdfI4ztYznpve0pvyAxJiRpexzxAvljJjttKma5TjYqSb7OBUryqP7NEvFtCjaMw45NFtufbo/n0Cw4GWnXoiHSm3B3RhqhCUQG+0Xe8Gxezk4T3sS38k3yL+4AN9Qbu5HCx2++257FdjJEA9FrJ4lcopgiB2tl+2U+8zsErrxqrkocUCq30H9RFYSgud8Ka6KCZSIN8kiqo15h1Jiq2D+eZB2Mx1tyurpJHCKBInztiUN7qMRKXqrCxEZ6VxJxsreRsIXUKewGdNvEwZcqwfv2cbRn9lwY3XF16EF10hbc4eMXI=;9AuFxRTZybc3ktPxJHQpaw=="
+secured: "N6Ev3uk1WxnB4ao5RscdU+OPw9tL6D6KhcM3Ew0c21pyq7FW8EgrbnhzCcfRq/IbtXOhj8KlUhS7VgjmN0NQkEBKyzwIkxF/hWxegr1VU/dfZHvGmcqHCxQHLj/yCaNAXNPpIhE5OAZAs7Y432KopE3s0Y5tXehbU0LHKDIGJeIr70/N34zt13sSytUIS+mmvE6y+3NrOKCFLNw19hzgWpNW6cbqhgTlvs1ABpPSFdlXrTw95OYI4ZElewuS/iq/wcrBSgVZ+T/SRj1r54RQM9kvTt+1z5S2gRlctzfEa05ZBWjzGNVSf50F/5i4nIHdabDbzHGXzZ6tG6+v4R1bBSUpWqc7FCIjzZbDjIOqoUo=;S4+zIW4Pi3Ntz+BzacbXtw=="
 ---
 

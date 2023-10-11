@@ -7,7 +7,7 @@ originalUrl: "https://vator.tv/news/2023-10-09-duos-debuts-ai-based-platform-to-
 webUrl: "https://vator.tv/news/2023-10-09-duos-debuts-ai-based-platform-to-connect-seniors-to-healthcare-benefits"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 320
     height: 240
     isCached: true
-
-related:
-  - title: "AI can transform health care benefits administration"
-    excerpt: "AI tools, such as machine learning (ML) models, can streamline repetitive administrative tasks for benefits administrators. They save staff members precious time and provide a better member experience."
-    publishedDateTime: 2023-10-06T13:01:00Z
-    webUrl: "https://www.benefitspro.com/2023/10/06/ai-can-transform-health-care-benefits-administration/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 39
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2018/12/Upskilling.jpg"
-        width: 616
-        height: 372
-        isCached: true
 
 secured: "GDb7f3Ro3SBQ6kwHPTjCcX2w7OcqmGPv3XaZJ6wK+oxdJPCKlpkfR80eUF7JnXEQw54+meuP38FESOhPiySzXxgjtJYwQ2qZr3cEApH1JfvXoEQl0t4+2E2DyjTlhnu6otXlyd/+1NSTUY8yCFhzULbujZvHyxb4iFvyKxyl3ZCDWkxHEDCHEX1j1eY5Lx3BJ9sgSypF5nLQBfN2QvFYEJ7gkSyv3h/MFXucfJEK5joPdiqVxV0F+wZhRNzO8/Nahq0qtPFz8fhD99mEx1fDBkc94yjzKU3LNTNmMjzDQpfyqJJEqU64UWtkBRY130xyKip0efqXWWfS7p6bBArGU/LTQY90pUrNAZYnDdsQi/jHBnaBUx/3UmPTpemVhUbP9+R+SJ4ykgAm7RqFW4eXBrbcEGeD8KG/pn09vlCOxld1ays7guxTbS/pNtZ1WvYrvg1Fc8Ng1oGXptdVdlMl4x1GY+vyOvIFBh6eKtLIf2b/noPawsGND7Zo0OurKKyzrcVrg6ARuMA9yKMPXd+NwA==;qpAKEAFk6ja768Rpxj7Adw=="
 ---

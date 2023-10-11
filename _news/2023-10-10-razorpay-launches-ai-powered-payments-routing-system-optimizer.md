@@ -41,6 +41,22 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Razorpay launches AI-powered payments routing system 'Optimizer'"
+    excerpt: "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing"
+    publishedDateTime: 2023-10-11T04:13:00Z
+    webUrl: "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer"
+    ampWebUrl: "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 59
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png"
+        width: 1020
+        height: 675
+        isCached: true
   - title: "Razorpay Launches Optimizer — An AI Powered Payments System To Cut Transaction Failure Cost"
     excerpt: "To protect businesses from losses incurred amid transaction failures, fintech unicorn Razorpay has launched ‘Optimizer’ — an AI-Powered payments routing system."
     publishedDateTime: 2023-10-10T09:10:00Z

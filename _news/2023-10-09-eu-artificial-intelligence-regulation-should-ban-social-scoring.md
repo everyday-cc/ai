@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Here’s where more than half of organizations are piloting generative AI"
+    excerpt: "A new Gartner poll reveals that genAI technology is being deployed by organizations for three key business processes, while a Google Cloud poll shows enthusiasm for AI tools among developers."
+    publishedDateTime: 2023-10-09T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708308/where-organizations-are-piloting-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstockdc-studio-100946840-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Scholars propose unified global regulations on facial recognition"
     excerpt: "facial recognition, without global trade regulation, could pose a threat to democracy around the world and help entrench autocratic regimes."
     publishedDateTime: 2023-10-10T20:49:00Z

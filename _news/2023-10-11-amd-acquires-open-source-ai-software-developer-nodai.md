@@ -21,7 +21,7 @@ related:
   - title: "US chip maker AMD to acquire AI software start-up Nod.ai in effort to catch up with Nvidia"
     excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence (AI) start-up called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chip maker Nvidia, Advanced Micro Devices (AMD) plans to invest heavily in the ..."
     publishedDateTime: 2023-10-11T03:07:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia"
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
     type: article
     provider:
       name: scmp.com
@@ -31,20 +31,6 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/11/594b7b01-8e84-414e-baaf-fb3d5386e670_b5a0a465.jpg?itok=yLtbICdQ&v=1696992418"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Graphcore, which wants to be an AI chip rival to Nvidia, has shut offices and needs more investor cash"
-    excerpt: "Graphcore's filings for 2022 show the expense and difficulty of going up against gorilla Nvidia, which holds around 70% of the AI chip market."
-    publishedDateTime: 2023-10-06T11:23:00Z
-    webUrl: "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/65043698956dba001ace26d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AMD to acquire Nod.AI open-source AI software startup"
     excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
@@ -84,6 +70,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_reuters_29/31373b5e3013825b16ce899b59d3f492"
         width: 800
         height: 553
+        isCached: true
+  - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
+    excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
+    publishedDateTime: 2023-10-11T05:06:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia/104332059"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104332059,imgsize-44324,width-1200,height=765,overlay-etcio/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
     excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."

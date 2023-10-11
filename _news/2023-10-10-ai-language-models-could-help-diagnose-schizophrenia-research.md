@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Reasearch finds AI language models can be helpful in diagnosing schizophrenia"
+    excerpt: "Researchers at University College London have developed AI language models that can help diagnose schizophrenia by analyzing subtle signatures in patients' speech. The models, including Facebook AI Research's fastText,"
+    publishedDateTime: 2023-10-11T04:22:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/articleshow/104331053.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 56
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-65656,msid-104331148/the-ai-tools-were-more-successful-in-predicting-the-responses-of-the-control-group-than-those-of-the-schizophrenic-patients.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI language models could help diagnose schizophrenia, study says"
     excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
     publishedDateTime: 2023-10-10T13:39:00Z

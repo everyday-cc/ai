@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacu
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/Totally-Killer-Movie.jpg?resize=1200%2C630&p=1"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Amazon Prime Day 2023: 30 best early deals from the October sale"
-    excerpt: "The second Amazon Prime Day event for the year – the somewhat awkwardly named Prime Big Deal Days – is scheduled for October 10 - 11. But you don't have to wait until next week to bag a ..."
-    publishedDateTime: 2023-10-06T11:13:00Z
-    webUrl: "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Amazon Prime Day 2023 - the 45+ best early deals from the October sale"
     excerpt: "Prime Big Deal Days is coming. Amazon is launching the sales event - which is effectively just another Prime Day - on October 10 - 11 with 48 hours of deals exclusively available to Prime members."

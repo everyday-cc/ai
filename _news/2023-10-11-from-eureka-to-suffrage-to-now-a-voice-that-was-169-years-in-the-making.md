@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-10T19:05:00Z
 originalUrl: "https://theconversation.com/from-eureka-to-suffrage-to-now-a-voice-that-was-169-years-in-the-making-215333"
 webUrl: "https://theconversation.com/from-eureka-to-suffrage-to-now-a-voice-that-was-169-years-in-the-making-215333"
 type: article
-quality: 3
-heat: 3
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
-secured: "B68WsEj0gNDHKFinwDSzGEi17X+LdNXobVEhN5TlSwpa8bPVnuTPG3K1WYh1LQ20mBjSJa/YWbl6sQrtQs4EdJStyHwCsOVYZNT6ImCD+0stTlsblAxmQMpfpXTDL5VstIdZFQ06LOjp3miOC3Fq9xxPRsHxdUJOWho+Ou/+a0HMyRyrjYV3+Vs2Z8mYyKRSOvJyNQsAYk8xu0VV1OpjJTZRPCBlE5Rk8DE922cJXVuMQq+1vO353ywIbfx/wyATCYU+hk+KdUoQZQ4NGgwAewPlGV0qGAFoDenbwueE23XhKX3icigWQm9I9NMc6x/OtHlOsf3ryUTWyYYamzVY4J1nqAeabNwweHR9MR6VFe/2Gc0QxX2NGyMggb+1I5QYPHRbnQvaFC9FxaGU+am479j8Po82lfWXFtG8vHO0QVOordGe9vhUHdSgWc+Oh94wK2bGh7kWN3sXVipXEhuCJkbdRBO3nA+Hiu2mjJB9WwPhfMaP9jC6XwYNV6YNfQCOjrQpApn0qrrFrEKN1EpM8Q==;6O+PzQZEsuJrgxUOMh3XjQ=="
+images:
+  - url: "https://images.theconversation.com/files/552887/original/file-20231010-23-vc6pxe.jpg?ixlib=rb-1.1.0&rect=0%2C898%2C5982%2C2991&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
+    isCached: true
+
+secured: "9ain3RBrrILOS2uzih69pFTap/CFCkgq979WXZYJ+/HPBoUzj1yBjcVDttFg6GTHac/bKyZ/N8A5ceeTpInBCWE0jRSCEJXxKHEmncLI+MVtRa5c7ktjd2QCX2ffRZUwplBujbpCB7Fig2PqqEDSw0KF7ViL81AOmsi/4QcRmEmrWHAlv5ztlxvFXHUTcdQ80bu8aWow+f9I3nL+R05eohHTeJBRonZyOAwtX1RHOC9JhB6JBhLfhOVa6LeiKPVABodnrKDHd4PdHZoyGRAGSHnNf5DV2kNkZT65YrwmGDqI19Gu2wd1e+6teyybPGoZft8FjI9cark7ybyq16IYA74O/bbLl/NZyzo3HKcsjqM=;UfBJkXGbT13aP3tHbg/exQ=="
 ---
 

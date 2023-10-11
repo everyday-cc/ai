@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MPs call for ‘urgent stop’ to police use of facial recognition tech"
-    excerpt: "A cross party group of MPs and privacy campaigners have called for an “urgent stop” to the use of facial recognition surveillance technology by the police and private companies."
-    publishedDateTime: 2023-10-06T12:07:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/10/mps-call-for-urgent-stop-to-use-of-facial-recognition-tech-by-police-forces/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
   - title: "MPs call for 'immediate stop' to live facial recognition"
     excerpt: "MPs and peers from all sides have called for an \"immediate stop\" to the use of live facial recognition surveillance by police and private companies."
     publishedDateTime: 2023-10-06T19:02:00Z

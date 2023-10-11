@@ -51,20 +51,6 @@ related:
         width: 594
         height: 395
         isCached: true
-  - title: "OpenAI plans In-House AI Chip Production amidst industry challenges"
-    excerpt: "To combat a shortage of advanced processors , OpenAI, is actively considering the development of its own AI chips."
-    publishedDateTime: 2023-10-06T12:24:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/06/openai-plans-in-house-ai-chip-production-amidst-industry-challenges/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-174910.png"
-        width: 1022
-        height: 659
-        isCached: true
   - title: "OpenAI Apparently Wants to Make Its Own AI Chips on Top of the 'iPhone for AI'"
     excerpt: "The AI development boom has resulted in chip shortages and skyrocketing prices creating an opportunity for a new player."
     publishedDateTime: 2023-10-06T15:35:00Z
@@ -94,22 +80,6 @@ related:
       - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
         width: 8000
         height: 4940
-        isCached: true
-  - title: "OpenAI May Start Manufacturing AI Chips for Itself"
-    excerpt: "OpenAI, the company popularly known for its AI chatbot ChatGPT, is reportedly interested in manufacturing custom AI chips."
-    publishedDateTime: 2023-10-06T11:10:00Z
-    webUrl: "https://www.coinspeaker.com/openai-ai-chips/"
-    ampWebUrl: "https://www.coinspeaker.com/openai-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/openai-ai-chips/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 74
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/06/openai-class-action-lawsuit.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "OpenAI said to be considering developing its own AI chips"
     excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
@@ -161,20 +131,6 @@ related:
       name: TechRound
       domain: techround.co.uk
     quality: 54
-  - title: "OpenAI may produce the hottest commodity in tech: AI chips"
-    excerpt: "As per a new report, OpenAI may soon become a competitor with NVIDIA – as it seeks to produce high-end AI chips."
-    publishedDateTime: 2023-10-06T11:35:00Z
-    webUrl: "https://interestingengineering.com/innovation/openai-may-produce-ai-chips"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 54
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/06/image/jpeg/HmeSRzjUwicPmMpGRoTl6WHf11NHIHj4x5NdBiaa.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
     excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
     publishedDateTime: 2023-10-07T08:50:00Z
@@ -245,24 +201,6 @@ related:
         width: 1000
         height: 523
         isCached: true
-  - title: "OpenAI considers making its own AI chips, acquiring hardware business"
-    excerpt: "Artificial intelligence company OpenAI is considering developing its own AI chips, and has evaluated a potential acquisition target. Reuters reports that the company has not yet decided whether to make the move, and is also looking at working more closely with other chipmakers including Nvidia."
-    publishedDateTime: 2023-10-06T12:41:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/openai-considers-making-its-own-ai-chips-acquiring-hardware-business/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 36
-  - title: "ChatGPT-owner OpenAI might be exploring making its own AI chips"
-    excerpt: "The effort to get more chips is tied to two major concerns Altman has identified: a shortage of the advanced processors that power OpenAI's software and the “eye-watering” costs associated with running the hardware necessary to power its efforts and products."
-    publishedDateTime: 2023-10-06T11:51:00Z
-    webUrl: "https://www.cnbctv18.com/technology/chatgpt-owner-openai-might-be-exploring-making-its-own-ai-chips-17974651.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 34
   - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
     excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
     publishedDateTime: 2023-10-08T12:31:00Z
@@ -281,15 +219,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 34
-  - title: "Fed up with expensive AI chips, OpenAI is now planning to start making its own AI chips"
-    excerpt: "Fed up of AI chips being so expensive, and in short supply, OpenAI is now considering making its own AI-capable chips that would be at par from the best AI GPUs from NVIDIA and AMD. OpenAI is explorin"
-    publishedDateTime: 2023-10-06T12:00:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/fed-up-with-expensive-ai-chips-openai-is-now-planning-to-start-making-its-own-ai-chips-13213102.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 26
 
 secured: "utLSj1o7+rufSM7jQv+2QH4RY189NdpGxCyFEAEBIMpP0Qaszf3YT9/2rhSLG/WPkojLzNxZI7Gnm7gOdXr0AqshkeCRaC6C5DXPFSZq70VILmPK4HC5HJfzIRuffb4vb7CpLKLvM20YlYH+hamzQbR3EPDFVkE8SdiQxihMgHjIDL41hkXYRWuc7Ncrq2ZBihoXQLqO3uiDcxpQ4WVOdhT9xAFogf+lHz3Tg2gTiezdPznOAKfTh3X8ooWKLPPOkqGRH6xp/0xPs09H11QPiaScbWlAzQ/0Bhnceacd+l65j+yD+afOb5gPo6TFTiPLerHEx9L7dYmIngQMIrAN7+qDVrsXq1ZCTBKbLBoxJwhenOVPzNz6IXMjq06ei23kENYEbAVR4gNqTxLgGCWCjATFxSlal0fWwO8pfaDzonYfcIessC6XvN2R3gngNpUu+mNqXllWQiTVI1Hi8JVGL46fG67qMMvjlh3ryjafQzAQlIfYEfJA1FvS8dgo+vVXdCa3KMEtIl9onwAr4+XZZA==;Slnfx/XqdW/c39aGlAXhtw=="
 ---

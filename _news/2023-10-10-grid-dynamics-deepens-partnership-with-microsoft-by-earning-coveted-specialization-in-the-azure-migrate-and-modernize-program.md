@@ -487,15 +487,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 26
-  - title: "Microsoft Translator gets updated with new Indian languages: Here are all of them"
-    excerpt: "Microsoft Translator has four new Indian languages including Bhojpuri, Bodo, Dogri, and Kashmiri. Check out the rest of them."
-    publishedDateTime: 2023-10-06T12:18:00Z
-    webUrl: "https://www.digit.in/news/apps/microsoft-translator-gets-updated-with-new-indian-languages-here-are-all-of-them.html"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 16
 
 secured: "LnrCYXfWwtos65hCD7eCW+5FWhwMj02EEBdy38pLX0ovGIuk8BI0M8Ug/76EFFU+Md4zG5kOOGC8uaBqxpAM23rsZGqZHmDX75hY36008hnZkCLTuchHQJNl/5rQoqUj+5mjv9p7StEQD0KBOLjz8YFycC5Jitpxs7OUvxKM0c7EYPFV5GEDkI0mOoAxqxy66hOeE+n1/bNft/K1nWEw9rz8HIxUHAH6DFN8QaBwLdvC6Ag3MpgT30zUJJO6CwmeWwF3oUxsn6iuuYwaJGk6jR/P8INka5DvAyBPwdmrUEloB+zaVFiWjOx/5dCqj/cxohieH8jymTpEZHa668BrdoA4f99lJDsdjQTliptTilE=;R4Lpa5ttk+mkeKqzls8p6g=="
 ---

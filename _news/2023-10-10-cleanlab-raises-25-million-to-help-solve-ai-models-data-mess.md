@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-10T15:06:00Z
 originalUrl: "https://www.forbes.com/sites/alexkonrad/2023/10/10/cleanlab-raises-25-million-to-solve-ai-model-data-mess/"
 webUrl: "https://www.forbes.com/sites/alexkonrad/2023/10/10/cleanlab-raises-25-million-to-solve-ai-model-data-mess/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/652555cd3259b77e97a7607a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -27,6 +28,6 @@ images:
     height: 900
     isCached: true
 
-secured: "JxDkVyuJRGnXpS+POxt4dKq3kaoU45v9XMPEIYVVwyWCjn/aP2+cnNbSb/DdXgNlKv7lrsk6KqLPUI1owSn8U2dUS/t1N7juZPYlizMF7ehMfL1lHnKldNtp8B72vhaIlafYhP0qHF26gEdF41iCnqPWsapmxEFF7ZIgbjivDBOUgiag2ZhFXHKWEa0reBJrd614ndXscYs+3t+lgQjo5BsThq1m2pS83L13vflYFSduX4UKg1lm9w+1xFMY/BI2574+FUknWnpElX3SXhBa3pbk7irP1tS8FpCAYfFdB9N8U7UQGejxUMsZAvyJ/0l91XKhYrQwL6Em67mlpS2bSJyaK1morlgngeasZT0P0fU=;CuijL5litXuSumPwBzvS8g=="
+secured: "H0D74Mqzb7qBv+ytV4Q2QAREZe7/MAc3jwy8KyWKqtQh1B+Wv6U0dXhJXL0XFYyB/qFf5FdNJudH9xdpowTXnMZvqH+LgVFOyAXmfX1fs/nzgUDxdqudt0O8TtCcKAoTS2MEvcKqmuA9GpIM1UZIP+v8HJ4KEfPxyfx7GZwFAtPgThU0R6r9cQDLiS/N8Go2SgKK9MXPeTBqWsRMipaxIrwTaD3J4X6jou7niqWFeToHIYY58myeYnGH6GOAwdAxVtqeTtyd+hwppG+4fqFC/bb/4HsC5ySlIc2aVAIM9g0RDiYmB9V0F80rZ+arrq7Vr1t9LxGcUup0ty6PZS0UvtV1ib8uX66t4/X/VeGOf96oJValKPO/3FdsZDxVfGi+IuQOYgVzGHrHf0tnpk7th1zkl+XK6DokEDM3aMdeDnCyhlOx1yQLFtxFFeo5jwxeofToMX2SX8hlgVQycUC0TJdLfrhytk/bIvY8RpUAW2EMSQux1LSZdb7nwmUosukqZwLq11ABu6UBECuC7IE8GQ==;Gtyv+Xvi5ATs9ffXt+dDfg=="
 ---
 

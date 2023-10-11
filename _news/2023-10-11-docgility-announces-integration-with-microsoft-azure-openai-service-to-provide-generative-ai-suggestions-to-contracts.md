@@ -478,15 +478,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "Microsoft Translator gets updated with new Indian languages: Here are all of them"
-    excerpt: "Microsoft Translator has four new Indian languages including Bhojpuri, Bodo, Dogri, and Kashmiri. Check out the rest of them."
-    publishedDateTime: 2023-10-06T12:18:00Z
-    webUrl: "https://www.digit.in/news/apps/microsoft-translator-gets-updated-with-new-indian-languages-here-are-all-of-them.html"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 16
   - title: "Grid Dynamics Deepens Partnership with Microsoft by Earning Coveted Specialization in the Azure Migrate and Modernize Program"
     excerpt: "Grid Dynamics secures the sought-after Infra and Database Migration to Microsoft Azure Specialization, deepening its status as a Microsoft AI Cloud Partner and broadening its participation"
     publishedDateTime: 2023-10-10T12:50:00Z
