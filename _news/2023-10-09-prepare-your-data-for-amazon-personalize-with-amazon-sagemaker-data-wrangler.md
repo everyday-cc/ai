@@ -99,6 +99,15 @@ related:
         width: 894
         height: 449
         isCached: true
+  - title: "Achronix Announces FPGA-Powered Automatic Speech Recognition Solution"
+    excerpt: "Achronix Semiconductor Corporation, maker of FPGAs and embedded FPGA (eFPGA) IP, announcedin partnership with Myrtle.ai an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA."
+    publishedDateTime: 2023-10-11T18:49:00Z
+    webUrl: "https://insidehpc.com/2023/10/achronix-announces-fpga-powered-automatic-speech-recognition-solution/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "j6xTG7Mq0SlT75JdTReE/AbNKAZMX+6KS5z4av/Q/pz3IvRdDZ4AZu25zZT1t+RAyjASity3jyyMn7GRDojgLFlqpDYPfLxGVUS7txwMD9bw+iyac5r4xtvEG/fMHFuGMW22MtUOhQ8qKa0B1AiZwkpkFsTk31ZwBsKIPkbjeRwMIeSw4jlH8PsjZCkZKjz4V4E2+8QejJpQ6QclzSAxrNlzD1CyVGGpcJZMLrr59ok5VMeyHxTriKibuSantuCRn/OrGq5cKOQtM406ez4BkKI2rrT+OojrGT0gfcAUM58cDAJvdGjX75mD6M9FvdkObxX1Qb9SConiXXr1hf1z6rnc9uFg3gd+ZeedQS/PqTU=;LT6y2zCRmzV/NjmVNZCBdQ=="
 ---

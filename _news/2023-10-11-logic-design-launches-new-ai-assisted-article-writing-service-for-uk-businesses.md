@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/logic-design-launc
 webUrl: "https://markets.businessinsider.com/news/stocks/logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses-1032694182"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,19 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "UK startup RoEx launches Automix AI-powered mixing service"
-    excerpt: "AI mastering has been around for a while, but the AI mixing market is heating up now too. The latest example comes from British startup RoEx and is called Automix. It’s aimed at musicians,"
-    publishedDateTime: 2023-10-11T09:18:00Z
-    webUrl: "https://musically.com/2023/10/11/uk-startup-roex-launches-automix-ai-powered-mixing-service/"
+  - title: "Box launches AI-focused Hubs for curated search"
+    excerpt: "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More How do employees find the information they need to do their job? And how can companies present the right information that employees need to find?"
+    publishedDateTime: 2023-10-11T21:16:00Z
+    webUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/"
     type: article
     provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/10/RoEx-Automix.jpg?fit=1200%2C675&#038;ssl=1"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/sharogold_searching_for_information_on_the_web_abstract_box_56059b78-e7c5-469d-91ea-dd46852784ac.png?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 672
+        isCached: true
+  - title: "Google Cloud launches AI search to empower healthcare"
+    excerpt: "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records."
+    publishedDateTime: 2023-10-09T13:33:00Z
+    webUrl: "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 54
+    images:
+      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg"
+        width: 600
+        height: 331
         isCached: true
 
 secured: "1QazTXYO1A/NT+yskEUtXA0JK2pkKYckxH8onuWZzzqNk7Fz6uAozkavZJpd5ukKuDhIhxVPGPa98vUeMYfcagBvJzOFt1eXGWHRfyOF7WnBzqdXKiPaEhgEe4MPt6lAWFOPAsvopYp4bptlZrtpwDILf7fkq6s7hj7vzmDDqMR9/jSEfOkyUBKt3RaileKVesJzvx4LnjmR1KzNm+NrSJLqVUDsAagJErdVQE0CecUF5kkcekOk2jdQ8vzzuGdCGob2MfmPK/iPzaRXuq0WvTYvyP1+UBamAErMRh4LkAhwEdUzfw8L5+QZ1fDdaPLqAjWmg3hV4MW6t8ZFTXihNHXC0X1F1wUxqlZjBdeUsIk=;iQTXIwaw4iwgtn7+1OEjOA=="

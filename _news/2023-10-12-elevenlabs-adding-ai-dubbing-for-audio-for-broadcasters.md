@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "This new AI dubbing tool can translate audio while preserving the speaker's voice"
-    excerpt: "On Tuesday, ElevenLabs unveiled AI Dubbing, a new feature that can convert spoken content to another language while keeping the voice ... the nature of the original content when creating a translation, according to the company. In the release, the CEO ..."
-    publishedDateTime: 2023-10-10T13:06:00Z
-    webUrl: "https://www.zdnet.com/article/this-new-ai-dubbing-tool-can-translate-audio-while-preserving-the-speakers-voice/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
   - title: "ElevenLabs' new AI Dubbing tool can translate audio while preserving the speaker's voice"
     excerpt: "On Tuesday, ElevenLabs unveiled AI Dubbing, a new feature that can convert spoken content to another language while keeping the voice, speech patterns, emotions, and intonations of the original speaker. Also: Gen AI a job threat? On the contrary, human workers have much to gain"
     publishedDateTime: 2023-10-10T13:00:00Z

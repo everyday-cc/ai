@@ -131,6 +131,24 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "3D Generative AI for Every Creator"
+    excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
+    publishedDateTime: 2023-10-11T18:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35200875/3d-generative-ai-for-every-creator"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "How Can Local Governments Safely Use Generative AI?"
+    excerpt: "A new task force formed by MetroLab is seeking to explore this question, doing so by including more than 45 local governments, alongside other public, academic and private-sector members."
+    publishedDateTime: 2023-10-11T19:34:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/how-can-local-governments-safely-use-generative-ai"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "vK1iT/ib6w04UbabXsChSengpYSGFrtQfsoP8jt4CHWSVEwxbCIdJj3wlMS/T9lsCgKbgiU0LgqNSZeNx/I34x7KwgDd4BSwY25FZi7ECcps76+XrZTi7HJOsmhGxbGuxOqzuARAGmo2nechNgdveG3jnPgctQpztsaLjhxDKq8httSCytnPJPNXr2a9UCdHhESadNFjwS49d2vvkF0fSfwrLNz7r7fXsNBl/QuZHc1+iMQAJkXZF2Qf7nXaxu5fUqNRtfRjjhJzd8JzNb+Cf9gXqqdjvgFc3ORT1cWKAmXsLfsKaHxjoTqja6emJ2Xi5bE/EStki/7WOPEihRSYpdF44oYus8WUG+9OUUzI1AxN1JKxNdeg2DOaJ+L/IXt/5dqcTprdlAAXIe/sHKr0qD600C9CbK4dzw7S8eGVy5pkmlCRYILgAIhRrDqU/eCSFs44Vlsa0bDchtQM6nxRGqjNffYwUDiYTt9xm+F/znx3uLQmKMBUFO34d+1MK+LEM7ZP6lWsLqqBtQ9srN8Tew==;DALMDcvaPrg2KPCEXpc29Q=="
 ---

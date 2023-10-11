@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Fintech Surge To Unleash Financial Innovation"
+    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
+    publishedDateTime: 2023-10-11T20:05:00Z
+    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
+        width: 340
+        height: 250
+        isCached: true
   - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
     excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
     publishedDateTime: 2023-10-11T08:59:00Z
@@ -166,6 +180,24 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 4
+  - title: "Arab Fintech Forum Kicks Off In Doha"
+    excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
+    publishedDateTime: 2023-10-11T18:44:00Z
+    webUrl: "https://menafn.com/1107227403/Arab-Fintech-Forum-Kicks-Off-In-Doha"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
+  - title: "Industry Experts Spotlight Future Of Fintech In MENA"
+    excerpt: "Fadi Saab outlined that there is a“dramatic growth” in the industry during the past decade. He said:“ In May last year, it was calculated that the world has 27,050 firms. Financial investments in the fintech amounted to $150bn."
+    publishedDateTime: 2023-10-11T18:44:00Z
+    webUrl: "https://menafn.com/1107227400/Industry-Experts-Spotlight-Future-Of-Fintech-In-MENA"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 4
 
 secured: "Gfq0f385ywCjho/ke+Ay49ZZKOCW6X5xy5/tITT8virRUYBhG7F1eI6vs//AISphr0/FbDIgGXSTZ2xJ8zo5wGZooroHg8TkXBiANN/TUsrkTqCJ3VVctENlH8wwJchk8tPCBazMekHuaXdsLK/GqoJvBle4bQczVd2yYn7UTs185RBU5o5XKbfNX1cc/IHjjEox/zOMgdl5oqvj1yeVA44Honxs6WLqZ33nLCxXgQVG1AhdFiUoeLuPtEgGI8f9rTqmY6MM9sLHaq6doUGaY3r8oivDjwTh1LVh8Q2vnIBBrStYuv5S9nUgADZxfSYADRXW5ppDG95DN1nnnDjrWudVRV/hIj5c5ukxyzq5S+Y=;izanIyZ+saio32NlP3sD4w=="

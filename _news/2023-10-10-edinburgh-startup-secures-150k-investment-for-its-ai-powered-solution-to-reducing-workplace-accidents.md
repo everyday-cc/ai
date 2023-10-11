@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Danish startup secures $2.4M seed to revolutionize sustainable procurement with AI-driven platform"
-    excerpt: "Copenhagen-based startup Responsibly has secured $2.4 million in a seed funding, with leading investments from Hambro Perks and Pi Labs, as well as support"
-    publishedDateTime: 2023-10-09T06:47:00Z
-    webUrl: "https://arcticstartup.com/responsibly-raises-2-4m-seed/"
+  - title: "Point Predictive, the AI-Powered Fraud Solution Provider for Auto Lending Industry, Teams Up with Metro Jobber’s"
+    excerpt: "Point Predictive, the firm focused on AI-powered fraud solutions for the auto lending industry, has joined forces with Metro Jobber's, Inc.."
+    publishedDateTime: 2023-10-10T21:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
     type: article
     provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 23
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
     images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2023/10/responsibly-raises-2-4m-seed.png"
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fast-Car-Automobile-BMV-i8.jpeg"
         width: 1280
-        height: 720
+        height: 1021
         isCached: true
 
 secured: "KzEeODrOGE4EUQAajG/WY2eHa0jqI25fBX3RUFr+5ZXKb4jpohz9wgS/6bNJUJsq/C1txwxW1vYzguRGku5niZ//FmyN6dcTz/HUAvoyT9Gv1HBVaERFunzwS26Vya4pUy8Z3kZRYL9L/QTprSyi/mlYedN7uYxW+bawcEvpws25h+bFC48e9Od5ZYhOE7+TfGS60XLMBMXky43zzTtwjzHLYKbr0wmQ8gE6EXIltfUQ4PjKe2nwPi1XMd06QbzfwGs0MY7hfFlL9sSfmK/9QL0mRED9Ojm0/rNrMTdFaTE2aY290Z9VfprMdAjTZCU9B9vJIGTGh8iFVpDtKez5qJrnSBrxMWgMpnOgbI6SwGM=;BovR4B4A2VvU6DqLawC3Lw=="

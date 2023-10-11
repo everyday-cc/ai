@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news.com.au/finance/work/leaders/this-is-a-disaster-alba
 cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/this-is-a-disaster-albanese-under-fire-in-tv-grilling-over-the-voice-to-parliament/news-story/2521acd8778b7d290d8635a8e121ccdc?amp"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,39 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "‘It’s a disaster’: Natalie Barr grills Anthony Albanese on Voice"
+    excerpt: "Sunrise host Natalie Barr has launched a stinging attack on Anthony Albanese during a fiery interview about the Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-08T23:27:00Z
+    webUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500"
+    ampWebUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 24
+  - title: "Anthony Albanese says Voice won’t be legislated if referendum fails"
+    excerpt: "Anthony Albanese has doubled down in declaring one of the No campaign’s key arguments “the great lie”, as he pleads with undecided Australians to vote Yes in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-08T11:59:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "Anthony Albanese says race division argument the ‘great lie’ ahead of Voice referendum"
+    excerpt: "Anthony Albanese has doubled down in declaring one of the No campaign’s key arguments “the great lie”, as he pleads with undecided Australians to vote Yes in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-08T00:04:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef"
+    ampWebUrl: "https://www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 16
 
 secured: "PMY5LWJffAPh71YXgsNNx+O4Elg90bjxSHGulIQ5p+Ma3Ulfk3ffOQeM1gOHDFwweNk7QHv1Jwh4o/pkhmnhGv5MdYMLnqsygV7tyyOiJwbsXz1c3cJiUl/X/rHE3twWG7UCbyMvNkve4MecO4EQcR5gXhWT4ssorCi8sF+Ts6MI7/dJKE+b1hcXA6mT4PKOU/ujYX2nXorQDs8waVbEfVC3vvkMyGQETcEYBwlGJHZmoPP5LsNBqtQiivW/viDr60/S7GqeYr7rm/jBFaF+kMjOUbIZzzbxGV3fRlT/aQ6w0xLXF3oSaZz+SF2jMKqIMmRjBBUBma+kyzycGhKx6WAhJy7AhvhC86CHFIbdi2WqmR2kmo+2Y+tcXMYaVglbvszMrBnnAoxLISybNIvWAnPhgD47aLNGE7Z91MIvadZO9cdY4MggkU2Rl2rTsLxGw0+7tFwcdeWzlsJ2XHahZHslmR6FsEJfG2E7YOsHZsVof/7ACqU6AhUFNtUVtOqhCLKRJlbNUs0ZhUbeTJ8aYw==;N8hL+bcSYq68QyNHdjeXWA=="
 ---

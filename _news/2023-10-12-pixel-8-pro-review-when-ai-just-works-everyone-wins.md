@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pixel 8 Pro Review: AI Enhances Google’s New Flagship Phone"
+    excerpt: "Google's Pixel 8 Pro is the most powerful phone built by Google thanks to the company's AI integrations. Read the review to see why."
+    publishedDateTime: 2023-10-11T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/article/pixel-8-pro-review/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google Pixel 8 Pro review: Google’s future is AI"
     excerpt: "The Google Pixel 8 Pro adds a better camera and display, plus a range of new AI features. But is it worth the added cost?"
     publishedDateTime: 2023-10-11T17:00:00Z
@@ -76,6 +85,6 @@ related:
         height: 1125
         isCached: true
 
-secured: "s5TcdesfesW70R38YDYSgAhTGAbPIqY5pbyRC2P5CKSU04/KrbZoS+dnswmtcHVtCWu0pVuPYHybpXmSXCXfrttUxcv5TwLZGHGInpUsdmvfrKzQqhdZhvR7W5zvDnvjFqIjGn4hkL4dQNopmPKhy+PAY27J1qtFN5kTK4HOb+pVixYRs3+CevJHdeO6HM0GDOZfwol0GbRh/CvjUA8NcDPf3l1pKKGtPLvpaJ+xVS5xnFXyIV8U4QVJxNdjz0t1Ea9XunZLp3UMsX1Q7JureL17YzAnqpCa5CIBeirTd1Q5Sszt/dKFhUa53zWIYQ+JSqBPjB25vV9RYUABN++AYNcZWh+XMqzu4c7yWcOZcr4=;O8xnmkuwdVskK7STAkq81A=="
+secured: "Su/Gt7sGbO/AXR63ZVviaASQwoAysJmdgOBCjfr7K9Ue2BaojdaJnZKP6HbW/Nv0ujIvoh3g8VXknHC/din07I0qIzsSwmAVToT8RU87jVBToAK38aGEz7cdtaZJ1p/FXAmtC7z7tBffditIeLkYIwBDuZv00TYqXIk++PRLeci+3xU8E0oXrERWbMZauEI5dVnqpS6yfaXiog/jsFJxyKl+sy9vkZ1vhd2HhIN7682voQAyIDf/eV3AR/t01pYoJ1bBwnnzCTIMhsHcJ8R9BqWd2qam84ino1JTpS7Jl8/L+LjoiMbLmAKBV/3/Whsdj13yoV3UQ+NWx5W8+3aumQIZu8M+FYyMbpdheAxvYpmmmr/jCa4Tu0S+khJinTyM5Osp5uy2iPP5w0Gz4w1mKZTb0xf0zB50sp6plP0eDAXMibWS0Pg/1Hi0JnfAj6sKEGvVgu34Sx0+CzSp+FJzcDtw2PdxZN4SLNPDt7FHgp3aZXzG3BgJuTlIQy1RppdEctJdWDM+AQuYFs8bfmdd4Q==;K7eny/ygXBdlVWX+CTAErQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 111
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 894
         height: 449
         isCached: true
+  - title: "Achronix Announces FPGA-Powered Automatic Speech Recognition Solution"
+    excerpt: "Achronix Semiconductor Corporation, maker of FPGAs and embedded FPGA (eFPGA) IP, announcedin partnership with Myrtle.ai an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA."
+    publishedDateTime: 2023-10-11T18:49:00Z
+    webUrl: "https://insidehpc.com/2023/10/achronix-announces-fpga-powered-automatic-speech-recognition-solution/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "k07VuqRP+PkJlNTOFNkVC19l9qH84r9qDigJjPgumvEfVDxGFUzOZkIgcbb+ibtu3sHk74QrTR37BaL9fxdYfjsSxir0ypc17wHLokK9hrONiax9bGtQ+wkDpobXR39yBRyu2ebK4I5CCoNDgpKIIyXa3yq5U587RgxCpm/SECGWrIUiM7KjhHZuKoBk0iurU2dYXuz4E35CZS5ary8M9QakFD7jBN/ViNTsY6potKQsytZku/s+7cf0BxdO/YOS/dXCGfHUfT4UzPbBPLhrGAnOGAVn6G/RIADzLuKxb3YsvutDgWnEXa+EwxDgnR16vfBwAnoBeGXpVYDRWsYd5jE57btLBqh7udB/NJ2+QUE=;VK88bilL5MWHXmZBH1NDNQ=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 820
         isCached: true
+  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
+    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
+    publishedDateTime: 2023-10-11T20:45:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "lZxGEZGQvAj2e67XS21m5twYq68UfuaoziZFmerc/lmhnRlKjN6m8krKWbXXpsJ1p/VAcyIJ0V/elfZksfm6E45Lpab38b7QEVO2MV0KlJD0ekA11S5KW4Cc4D9x4x9qs0k+MzQfY0PZWtoREt094MxpZgpxRGovbgGBWFKjjIcLE2/IaDXOI9uGzNmzPOVZDRc4Sx7zjOJ/SS7oIXesNyzCQRCN5yZZI29LY8sil4ELpAgmeIVEDTQ/m9V3bb8dZJ5CTrmGULf2JnK21LmL3rANkSEBel384rcsWg/jbnD9Ec5P4QHiNqGMV/ydbJh9QvzCj8DlOJOrAlZC6tKfNRnzOcsYSqYGA6LYceFHeUjiw+9TCrIJheBZdvJ5U5VrigwJAtEArgEukPPT4qIudIfqoIQjfeqlmmhgDFLjjpFjAnizlsOfFxblTVUvGwoQzr6tAbdGujt7mhitLmOsprLRFAV3pIU0nf2aFrfDXf8HTLQXPQrnue9KSOhQSOo/I1GaR2avweNbzckFt5vv5A==;Mg8mHi23prNlHrl3+VV0dA=="
 ---

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-20-ai-bubble-or-revolution-goldman-sachs-research-takes-a-look.md",
+      "title": "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look",
+      "excerpt": "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
+      "originalUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/09/19/ai.shutterstock_1065245777.jpg?width=1200&height=800&fit=crop",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34742974",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34742974",
+      "publishedDateTime": "2023-09-19T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-fairly-ai-wants-to-help-companies-better-understand-their-ai-risk.md",
       "title": "Fairly AI wants to help companies better understand their AI risk",
       "excerpt": "David Van Bruwaene was pursuing his Ph.D. in philosophy at Cornell when he developed a passion for linguistics and natural language processing, the subfield of AI concerned with allowing ... “Our technology allows us to translate compliance requirements ...",
@@ -1279,50 +1323,6 @@
         "AI",
         "Facebook AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-ai-and-ml-are-playing-defining-role-in-driving-fintech-automation-says-stx-next.md",
-      "title": "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next",
-      "excerpt": "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx",
-      "originalUrl": "https://financialit.net/news/artificial-intelligence/ai-and-ml-are-playing-defining-role-driving-fintech-automation-says-stx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/stxnext.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

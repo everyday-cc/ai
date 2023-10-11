@@ -66,6 +66,20 @@ related:
         width: 609
         height: 458
         isCached: true
+  - title: "AMD Aims to Bolster Software Capabilities with Nod.ai Acquisition"
+    excerpt: "Advanced Micro Devices (AMD) is strategically moving to rival chipmaker Nvidia. It plans to acquire an artificial intelligence startup"
+    publishedDateTime: 2023-10-11T20:58:00Z
+    webUrl: "https://techreport.com/news/amd-aims-to-bolster-software-capabilities-with-nod-ai-acquisition/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2023/10/what-is-crypto-malware-1.jpg"
+        width: 1940
+        height: 1282
+        isCached: true
   - title: "AMD is buying an AI software startup Nod.AI"
     excerpt: "AMD did not reveal what it's spending on buying Nod.AI or Nod Labs. Nod.AI will help expand the multinational's footprint in AI software."
     publishedDateTime: 2023-10-10T17:02:00Z

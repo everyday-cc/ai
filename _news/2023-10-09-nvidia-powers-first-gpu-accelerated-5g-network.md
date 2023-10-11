@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 40
+  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
+    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
+    publishedDateTime: 2023-10-11T20:45:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "pjImmJPLbvtBppGi7hag8H6oWg3RIgAzkOrCF8taonlSBkrVfhwnN9B2071gKaEoS7pPfp7VMQbEOrahiFj1HjtujMwNbaeLKj147s/U2E6kDBQqjWo6APzZGGsAlXE0wcAm2Sw5GqPU8H2Xg8wdLphlxqEPP0IGGZ0TEtlD5/96+y70TFwHEw4fx9qFQX2wXWI6HOIlk5xuJlvblRUY/HGI+90i3T4gjQmref2pJWbtvEGSws4PSPk13rGLio3a4AxNd39aMGBjtSzJ6dpsV8ArrdLk7Qpe6bn19PZqGIlav6ozFozgCnT0o/oxB88y8gGvRmKh+dUjtnqkU8P4Ra9zplXwIwWWYF0Z4my80jxOZsBb/fKXaip74Q7LbmjyYjV3Z2bVaAB5gqumSPkeFNcbtKLEVlE4oBkJMfj3hHaDtPX0e8F0XDokL35ePZrTPOBGQiwGphRyWhYXNKrl3dXqPoYJHI99g0siuWFDykOpJ7sjQhEmVrtw1cskaN+8wbsBAdb/fCanEgbdlkrrIQ==;ahUYxY+gKKv8daFXAVgzEA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-impro
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
 type: article
 quality: 87
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -134,6 +134,24 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "3D Generative AI for Every Creator"
+    excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
+    publishedDateTime: 2023-10-11T18:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35200875/3d-generative-ai-for-every-creator"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
+  - title: "How Can Local Governments Safely Use Generative AI?"
+    excerpt: "A new task force formed by MetroLab is seeking to explore this question, doing so by including more than 45 local governments, alongside other public, academic and private-sector members."
+    publishedDateTime: 2023-10-11T19:34:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/how-can-local-governments-safely-use-generative-ai"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 19
 
 secured: "C/5zqxbVZeGzBBigW87rWGxURUGrtsNLTCt25wDsw7ubsC/w+SOeE41HVNsgMmy/YMvTSpPgBwzHzkATF+cO4oHyDhsYKXKoaBAfro23JfM2ANFDm2nLuUXbs900bechXX53mddOcpvii6k+lsT8oOKZ+jLrd8e+xxsRh8dQceGNQMx0PxfBYZp0k5s1EkJAtI0X8MULQq1+EacTMlAMMeoh3arat4K1rabcR8B/GqWqhBZPxRqoNAUmbiRZrTHyuQ7Ny2gAV9Mi0uwqlXMTCX4CCajcRmFRlSCDXqTVlvZOSlA+/HJYHxjB/jPaMw6wI328sU+7DvFmUVHCHYd0zPrFh4BOoXGKQHNuuebdG52bUXwf22U8OA0GThLYc5f4n/BhJ43Zl+2huN9Nuc6RFaHNAWg1sUSalOFrBlKwu918BU8ehONaircJd7HMCg6gcASnvuyRFrWsDR3JW0TsHHZuvBR9CLm7CFyeFNS/wJ24Ebc7y3xg8oK/OH16cHaC3iDE+vNn/RInQZ0wP3i6Cg==;1pCY6LyQBnBjdNIsJkf/Qg=="
 ---

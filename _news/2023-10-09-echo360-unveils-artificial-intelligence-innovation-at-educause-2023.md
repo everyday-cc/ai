@@ -42,6 +42,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "EDUCAUSE 2023: How One University Moved Research Computing to the Cloud"
+    excerpt: "Azure HPC Pack and Azure Machine Learning. Shah and Chow monitor faculty usage of the system and determine how to manage costs accordingly. Quarterly faculty check-ins help them determine who is using the resources and whether they can be recycled for ..."
+    publishedDateTime: 2023-10-11T19:56:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2023/10/educause-2023-how-one-university-moved-research-computing-cloud"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 4
 
 secured: "GzJl4dF7BUPnrZ8p8oIM7FJd/mMLrK2L50dS4ipw35HvkzSk0SRjYixd4ng5C7NLSwH/8GVXeykiYfD1ZEi0JsjeCtxETaEJh61MDlvZpNb8Uux76Wvrp1YLduW4uP8kjRms7Tr1vw0Wx0mSoyyreuMsKMyqVvXGt9Act3gpYJoqas+FE08x3t/tnl6ohsvSEzcHrkAhgcbsfWXJI05rvU1Yuqv4BGRiXKh2foCDl97sxprMoIQ6oZ/o//gIegnMbh+cv7H9X7JE6IrCbC9rgqYbBzYoJATke7AcwnGVg+olzzj3n6ZTJ4PzoZo9tbVhOD/zl5XiA1dRjOLYEa7N2KLFeFFNnd2ABtDc0fbOLO8=;QNUesDYvrehAOY/o+hlBuw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.earth.com/news/ai-can-design-and-build-walking-robots-
 webUrl: "https://www.earth.com/news/ai-can-design-and-build-walking-robots-in-seconds/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2560
     height: 2444
     isCached: true
+
+related:
+  - title: "Have You Seen This? AI designs functioning robot in seconds"
+    excerpt: "EVANSTON, Illinois — Researchers at Northwestern University have developed a first-of-its-kind artificial intelligence program that can design functioning robots from scratch in a matter of seconds. To do this, the research team prompted the program to ..."
+    publishedDateTime: 2023-10-11T21:31:00Z
+    webUrl: "https://www.ksl.com/article/50749910/have-you-seen-this-ai-designs-functioning-robot-in-seconds"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 54
+    images:
+      - url: "https://img.ksl.com/slc/2951/295148/29514865.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "I3GF1Zg13Rxxp34QQlcTuf0aZS/XNdLwhh4ep67+bFsx1iwiPYlJXEsVD2+KzQXQwZaTwQmYEH5l5S7rFoJX2uSgXJGVh08LPKMYnXMUMzx6/u233msCqoJr1F06bJO5ytayO4PVYI1wQ69yEe4dYt61G3Gc4Pa1/8B7Be7puN2wCMWUW2iwMxx0oMFKUhO9+GJEQWC1KEIMs4Mwyp43ZlRhJBdopG0TkZSq4VaykVJaXFZ5Hu++/vvVDDpsAhpOKe/pnZ2u8Aep//0mOhLRmiSDkcbBiFuAKC2cb8M6JSHHS2734qf7Xvb0Tb4TqgnSjItF/U9la4G2Jn6BV6zC59Sj9HwH73eB4Aw8vCc16hE=;WpwHznGHg/+d4HV8d9WjxA=="
 ---

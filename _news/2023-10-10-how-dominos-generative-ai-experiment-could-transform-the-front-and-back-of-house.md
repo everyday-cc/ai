@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "AI Pioneer Sai Nitisha Tadiboina Has a Transformative Impact on Healthcare Technology"
+    excerpt: "Sai Nitisha Tadiboina's journey exemplifies the dynamic synergy between AI and healthcare, where her vision and dedication are shaping a brighter future for medical technologies. Through her work, she envisions a healthcare ecosystem where AI-driven technologies optimize diagnostics, treatment, and patient outcomes."
+    publishedDateTime: 2023-10-11T19:42:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273996297/ai-pioneer-sai-nitisha-tadiboina-has-a-transformative-impact-on-healthcare-technology"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 27
 
 secured: "eAdJ64Bfouqsk2SBbFsTtDpxwwLM0YWKtl6GBaGimiFtDi8vVob6DePHySdBxy75Z0VBmOwzvvdem5QS814N2xKVRjVYfxOENkc/OzTPy2iLlVGy5TYSsgvn6EPB4LHKG9TGKkqole3FQlre75YPq1AnrSMLOgat+TRbS5u4CZQ2JEusVeWbrUpHLO3KY4SiJehhNer83/53D1FpYFlAmNqkrYxL5j2oyCsm9YSZ2Y1NQdXty05YI3+/+uskSiiKug2g26SYcaiwKQJDxuuL7w8SJO125SzSkm3yn76HGhpqSG4H9rnj2pMfgE16EWqk5dindF6GD23P4OaMh29h+WmBBKvnS/6FtFUEfQrZI5Cls2Bf+GDm3CWMTL2YCQ3mwnRCv9jNkv8AJh57MMfM1oL72KME33V6hy4YO1UL1eFON413DnxctfLFfiytiGi6J5KNdsm7dGl3uCY9awHQdNJNdRMM8bgyBebhLovQ2OdG3N1NWRIghu7aezZFDMZwuRv4K6FjAxLb53Abc9xJLg==;Sc+FRYYb/2beGablnM3WwQ=="
 ---

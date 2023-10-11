@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pixel 8 Pro Review: AI Enhances Google’s New Flagship Phone"
+    excerpt: "Google's Pixel 8 Pro is the most powerful phone built by Google thanks to the company's AI integrations. Read the review to see why."
+    publishedDateTime: 2023-10-11T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/article/pixel-8-pro-review/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google Pixel 8 Pro review: Google’s future is AI"
     excerpt: "The Google Pixel 8 Pro adds a better camera and display, plus a range of new AI features. But is it worth the added cost?"
     publishedDateTime: 2023-10-11T17:00:00Z

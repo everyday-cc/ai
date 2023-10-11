@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-sn
 webUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
     provider:
       name: Htxt.Africa
       domain: htxt.co.za
+    quality: 34
+  - title: "Qualcomm teases Snapdragon X chips as AI PC battle heats up"
+    excerpt: "Qualcomm has vowed to revolutionise the next generation of PCs with its newly branded Snapdragon X system-on-chips, setting the stage for a new level of competition against Intel, AMD and Apple as hype builds around the emerging but loosely defined category of AI PCs."
+    publishedDateTime: 2023-10-11T18:42:00Z
+    webUrl: "https://www.crn.com.au/news/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-601121"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
     quality: 34
 
 secured: "9rzmNHbAP4nwXqQnevwamToWrp9ko6t1giwJxxgnFawetuCSLu4R87OFWfSVOH+3wqyfzf+GDOAvGT58XpQX02BnXBfqgDZySLaETCfEuW0AezUkmWSnH1J0xIApomzWdk5cRdgaPJhuB+RN6PTJfQL59XTN4ABo0AS6ioWRHUcRqpRVAoIbMZmpq1bUVOQ8t81SPNrURL2Qu4HrhO/Y3xMxswepdDSFghovt79nFjhNXLGQYkOsG6kcdHpBvR5qbK8BxhKou8F7PX7OGvqYxL+27u6STm/FlEHbwjUXzigmu+O7+UY6Ur6rUQbGS8gGsQlI+c9Pov9KCRXtzKyVG2U22zxGicubnCy7lqPz0eEDBtymaJAhN8PaKOBbVczdG/V111IzQC0SjEkGxMJcg/N9cdQumYpuuqB7aRqEK0XcStJE0V+IYky780KqPc7Lj9EOFwmhwVL098utgRDonVZssBvGO6CEXG2bxs4KrC+LygkC4xzdg6z9B5xJrBbly9PxLL73k+URE2J70aNhBg==;xLi4vY04O58t1ImJw4QQ3A=="

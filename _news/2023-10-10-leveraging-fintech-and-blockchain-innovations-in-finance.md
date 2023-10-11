@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 244
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Fintech Surge To Unleash Financial Innovation"
+    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
+    publishedDateTime: 2023-10-11T20:05:00Z
+    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
+        width: 340
+        height: 250
+        isCached: true
   - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
     excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
     publishedDateTime: 2023-10-11T08:59:00Z
@@ -170,6 +184,24 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 4
+  - title: "Arab Fintech Forum Kicks Off In Doha"
+    excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
+    publishedDateTime: 2023-10-11T18:44:00Z
+    webUrl: "https://menafn.com/1107227403/Arab-Fintech-Forum-Kicks-Off-In-Doha"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
+  - title: "Industry Experts Spotlight Future Of Fintech In MENA"
+    excerpt: "Fadi Saab outlined that there is a“dramatic growth” in the industry during the past decade. He said:“ In May last year, it was calculated that the world has 27,050 firms. Financial investments in the fintech amounted to $150bn."
+    publishedDateTime: 2023-10-11T18:44:00Z
+    webUrl: "https://menafn.com/1107227400/Industry-Experts-Spotlight-Future-Of-Fintech-In-MENA"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 4
 
 secured: "k6h22zWv9fieClSfjvVEiHu0GUbVXFE2pEJd8gQSchh9ROp7IDNOUKQGsmiOdeW6M6XVaprAyoroqUJl6rYxcAibGT1C9EvS584rmJrSKnBpU+DK/5LPnUdxGpVHNswASGbOQvLNBpOWS2e5h+akkkqUc7t7Wf52nfzhN+xN0sDnLo8Q4Cl3UrtBgYubrmcrLcmf2A3X95nEfaV5gqykYHUm4dg8gzvOVwFXz0Odld5icDkjBIlXT35WghLnAJ/i4fyPGExM7c6TpJNwfdTo6DUs8ZxcPDhDKqKuNk/GfTFfp5A5s/ZJrZplRy/gAQAi8Fg2TxwhKFnOrW5l2wXiNa5j74AmKOORtIDo1mph493iCzTUAiRf071QjNMmeCKLgg/RyhvTDdNsUS2rMirau1KbRjSr9V3dWcviBgXuHpPghEmiC6Ie0N+igRfk/gmKzMANxx/5qxH80FwhZIjSvQaVmDg+yRRFHDxsvwIK17S64nQgV3p6y5VlrWP9R6tSabR/U1pDURUeIPkC5uFjGA==;ns+iQBc+7f8TNMiTfqYFMg=="

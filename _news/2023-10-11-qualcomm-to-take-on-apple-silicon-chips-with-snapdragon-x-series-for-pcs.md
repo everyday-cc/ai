@@ -48,6 +48,15 @@ related:
       name: Htxt.Africa
       domain: htxt.co.za
     quality: 34
+  - title: "Qualcomm teases Snapdragon X chips as AI PC battle heats up"
+    excerpt: "Qualcomm has vowed to revolutionise the next generation of PCs with its newly branded Snapdragon X system-on-chips, setting the stage for a new level of competition against Intel, AMD and Apple as hype builds around the emerging but loosely defined category of AI PCs."
+    publishedDateTime: 2023-10-11T18:42:00Z
+    webUrl: "https://www.crn.com.au/news/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-601121"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 34
 
 secured: "vVk07dFVyRPFrNNXrC4CyDX4pGUMC8VAYjVhcm85rDA8ICLLUFVJtYBkIgz1A2sb+H6pIhaK/iplgjGn6MF39YBa9gJFunfk3ktDOoz6TZYXgV2HLkJyXTc0uiZd0szlrW21sDSajeuMyn19uber0F50MWQ8ZrZHxAVB/0SkAo8qcKN3iakw1yk7BKnf1j2xql9j/urVX+DkIOjge3UeDuotNu1/EXxLlnC6A+SZtP2xViCPWhQXFZmd/sEFNpCUZ3yoXPq4vftAJraER/JeeDPqaIrmdNsiJ3NxUtt2rL1MhVfNNruR0sKUbtpfGLxafLN40NbmuVSTKAsiIq8Hpx5uygJOh4AiE/cj91RrToQ=;TBdIhB2kTJR7AZRKApwYkQ=="
 ---

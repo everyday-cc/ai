@@ -1,26 +1,26 @@
 ---
 category: news
 title: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets"
-excerpt: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing. (Graphic: Business Wire) EOT is working with AWS to transform how industrial customers unlock,"
+excerpt: "EOT Signs Strategic Collaboration Agreement with AWS to Innovate Industrial Software for AI-Optimized Industrial Assets. Purpose-built for Oil & Gas, Mining, Energy, and Manufacturing."
 publishedDateTime: 2023-09-25T12:01:00Z
-originalUrl: "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html"
-webUrl: "https://www.bakersfield.com/ap/news/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_b9e1c5fe-8058-5f32-bfa7-9881c0f77a7e.html"
+originalUrl: "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html"
+webUrl: "https://www.wvgazettemail.com/ap/business/eot-signs-strategic-collaboration-agreement-with-aws-to-innovate-industrial-software-for-ai-optimized-industrial/article_ff1bc6cd-5c91-5931-a7ca-10ed7a213347.html"
 type: article
 
 provider:
-  name: The Bakersfield Californian
-  domain: bakersfield.com
+  name: Charleston Gazette-Mail
+  domain: wvgazettemail.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/6/9d/69dc2d8d-5f00-5b28-87ff-72f3105cacc7/65117806aae56.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/7/8c/78c462e7-5c0e-5ab9-9ae8-b94fb6979d10/6516a500a99e5.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "UlG50n8EVd5XkpHd3Q3DxgdaQ7BlFGYPkrskYYEVq4uDWV8WXht9dssAhn2b7TykRpnhv0gnBdmLNbN5oiZcvhhBFK+2xfQucBqoilI3jaNKmtaJ9ZIF+tsQIblS0so5gDa27C8JpRd5cqirZJrJKpTsWU5G42kStMmkb8tWHGRHBgeWvcTOB+fv/+QgrPGwwAmv6C64DOy9NJA9OXXnsZgyyNpBZ3QGpMQFE2ZJgQ4Z0ldbo05ziUx6oBSkQAQGbsfjxSDO20XuphQmDAnYP47dPLm/km860pa6XkR4ZhkKqDufn/JypI4C6AXFEwmIxhUXSxXMCfOjEuvNUfT/nDFMvdfI3Xnz/S70LRNcgCo=;I7Po4fQWz3ALN5YX+rc4Mw=="
+secured: "MKkS6uhQCX3Bp+pIYtbrNdbWx1RzTy6NN9ejGdTcjyx55GGuQBIPXRynHssX/vn11+aGrIPIUpemS3QFAYkp0vFuMA+Kh9HldXIkiEw5eaEGxN4eeW+YoLZvPjePFXVYuReZpU3qZFvRcuJC1cARfo12bOPP0LRcmD+YgcXIwI/Yk+UDkxCkHdZNXID9MCmQKJ96YHcROv4/ynpRp6usdwOdpP4GNolpQU9Zv169AMjtF83fRuwzAQqZhn8szckABelj3AA5eMNsDOdKmM/UhlBw+bKr6v8Y0Y4rUAsL6bqnL8pFqatMlkS+kS7giMOxwX80gMFKa0fRkL3gOBlAyyL7Sp4vCf/NOMm+tMf6QXc=;lJx+qx2NcWDPn+Uhye6uKQ=="
 ---
 

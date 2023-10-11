@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-a
 webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "AI Pioneer Sai Nitisha Tadiboina Has a Transformative Impact on Healthcare Technology"
+    excerpt: "Sai Nitisha Tadiboina's journey exemplifies the dynamic synergy between AI and healthcare, where her vision and dedication are shaping a brighter future for medical technologies. Through her work, she envisions a healthcare ecosystem where AI-driven technologies optimize diagnostics, treatment, and patient outcomes."
+    publishedDateTime: 2023-10-11T19:42:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273996297/ai-pioneer-sai-nitisha-tadiboina-has-a-transformative-impact-on-healthcare-technology"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 27
 
 secured: "H31t+oad4z0r/JBSb2eYfcNVMu0p52ItO0yUza+5hC20TsNFTYjrW14O7mEWT/BTkYEKUpcWKHdYAFA4e3xhRBDVT2zp5RdKMRfB1wp8r2K3GyIuLK9Xl/gAXSYHbC+FKqJI5Kq19H6i1lEl+PrmjqlB1QT0arVxoCk+x3Qb5Bp8PaMz2q/VLCJw7KwbzY5QHCXJINJwasC9XRWC5KYwtqLeza1bUMG6H/C+dUCnhV+QKS8tXZwIDRUlfcaU1dvs7gclJ04PDVjUPmfUXsiBPfRuY16Bpb2dP1YxrXqc2qlL0DjpykNGve9XjRnWyNt/8brrMKJmPMydaFxMZBE3bS9F+JwWkfVL0u2X/cP6PyM=;YF9zYY8e5E08CEyNyRAklw=="
 ---

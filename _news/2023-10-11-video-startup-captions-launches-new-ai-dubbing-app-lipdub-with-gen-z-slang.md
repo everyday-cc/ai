@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-
 webUrl: "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: VentureBeat
@@ -29,36 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Dubformer Launches AI Video Dubbing Solution for Media Industry"
-    excerpt: "Dubformer, a leading AI dubbing start-up specializing in delivering broadcast-level quality dubbing and voice-over services to the media industry, announces the launch of its AI video dubbing service. The solution supports 70+ languages and language variants, and 1000+ voices."
-    publishedDateTime: 2023-10-07T02:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734"
+  - title: "This new AI dubbing tool can translate audio while preserving the speaker's voice"
+    excerpt: "On Tuesday, ElevenLabs unveiled AI Dubbing, a new feature that can convert spoken content to another language while keeping the voice ... the nature of the original content when creating a translation, according to the company. In the release, the CEO ..."
+    publishedDateTime: 2023-10-10T13:06:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-dubbing-tool-can-translate-audio-while-preserving-the-speakers-voice/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-dubformer-launches-a-1696626906.jpeg"
-        width: 400
-        height: 600
-        isCached: true
-  - title: "Point Predictive, the AI-Powered Fraud Solution Provider for Auto Lending Industry, Teams Up with Metro Jobber’s"
-    excerpt: "Point Predictive, the firm focused on AI-powered fraud solutions for the auto lending industry, has joined forces with Metro Jobber's, Inc.."
-    publishedDateTime: 2023-10-10T21:44:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 38
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fast-Car-Automobile-BMV-i8.jpeg"
-        width: 1280
-        height: 1021
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 59
   - title: "Video editing startup Captions launches a dubbing app with support for 28 languages"
     excerpt: "Using translation and AI-dubbing to reach a wider audience is a growing trend. In June, YouTube announced that it is testing an AI-powered tool to let users automatically dub their videos in other languages. The company said it is even working on better ..."
     publishedDateTime: 2023-10-11T13:27:00Z

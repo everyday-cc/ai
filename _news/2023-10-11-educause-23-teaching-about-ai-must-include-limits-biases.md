@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-abo
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -43,6 +43,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "EDUCAUSE 2023: How One University Moved Research Computing to the Cloud"
+    excerpt: "Azure HPC Pack and Azure Machine Learning. Shah and Chow monitor faculty usage of the system and determine how to manage costs accordingly. Quarterly faculty check-ins help them determine who is using the resources and whether they can be recycled for ..."
+    publishedDateTime: 2023-10-11T19:56:00Z
+    webUrl: "https://edtechmagazine.com/higher/article/2023/10/educause-2023-how-one-university-moved-research-computing-cloud"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 4
 
 secured: "KAfzD7Hi+dzq7p69aiVttmWx5sqCe+1rn8BaOF7RH/KaNqfqG/JBdZQ2n9oSFkUwzsKKBYKvi+hQrLI0Vil0GDrAjgJ7hqp1mAp2gf/lWA8mQWoEvUl3Ksnub2xBOFxvEXTMetuAileO7wIlenzfskTrw6nDqYMBv05oblJ5eJtP91D9kgQkZ715FvCTJP4gpJi68oZDalfIDpwN9OpeFILJzRxXHMIx/oIK35b37fxVpPBGyr6ddzxMy+iKSWJaF/PzFs1j7CcDuiecDZQ2c+DHCHXi+8nC7VzWskvBRepF4k6QB75m1pMqEduMxJ9+o0DG5Wx12VFZyDKd0u+zWzULeOYUlF+SM1kpwxdb9eMbFv7DSu3EdV29L+CnSgOePZLqr17zYHcWHVxIMKgUGUby/uDTHFoV5Zx8PfZ9CYdrCH8gmToVGoNMVn35AiViPxPct47N0JdQ/T5lKahbCDSt3x60hhNsu7CvvIi3FH3kSEnHhPmqMbkykLddmxloacvfBKDJeob5s47rDf2veg==;ff92u5D6D9GI6sxrcr67RA=="
 ---

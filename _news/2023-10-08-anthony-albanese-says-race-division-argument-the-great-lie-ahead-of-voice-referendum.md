@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthony Albanese casts yes vote in ‘once in a generation’ voice to parliament referendum"
-    excerpt: "PM says he won’t take lectures from Tony Abbott and John Howard after pair claim voice wouldn’t help central Australia"
-    publishedDateTime: 2023-10-07T03:44:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/oct/07/anthony-albanese-casts-yes-vote-in-once-in-a-generation-voice-to-parliament-referendum"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/07/anthony-albanese-casts-yes-vote-in-once-in-a-generation-voice-to-parliament-referendum"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/07/anthony-albanese-casts-yes-vote-in-once-in-a-generation-voice-to-parliament-referendum"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 35
-    images:
-      - url: "https://i.guim.co.uk/img/media/20c67d330b327d4b5b3a96cc469f56b2d9488e3c/0_0_5150_3433/master/5150.jpg?width=620&quality=85&auto=format&fit=max&s=ed8359f34488172bc7ee6a91fd53fb6c"
-        width: 620
-        height: 413
-        isCached: true
   - title: "‘It’s a disaster’: Natalie Barr grills Anthony Albanese on Voice"
     excerpt: "Sunrise host Natalie Barr has launched a stinging attack on Anthony Albanese during a fiery interview about the Indigenous Voice to Parliament."
     publishedDateTime: 2023-10-08T23:27:00Z
@@ -57,17 +41,17 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
-  - title: "Prime Minister Anthony Albanese casts Voice vote in home electorate of Marrickville"
-    excerpt: "Prime Minister Anthony Albanese has cast his vote early in the historic Voice to Parliament referendum from his home electorate of Marrickville."
-    publishedDateTime: 2023-10-07T01:08:00Z
-    webUrl: "https://www.news.com.au/national/politics/prime-minister-anthony-albanese-casts-voice-vote-in-home-electorate-of-marrickville/news-story/44ffddcce4bcecf3ed0053cd7604674e"
-    ampWebUrl: "https://www.news.com.au/national/politics/prime-minister-anthony-albanese-casts-voice-vote-in-home-electorate-of-marrickville/news-story/44ffddcce4bcecf3ed0053cd7604674e?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/prime-minister-anthony-albanese-casts-voice-vote-in-home-electorate-of-marrickville/news-story/44ffddcce4bcecf3ed0053cd7604674e?amp"
+  - title: "‘This is a disaster’: Albanese under fire in TV grilling over the Voice to Parliament"
+    excerpt: "Anthony Albanese has downplayed concerns the Voice to Parliament is dead, clashing with Sunrise host Natalie Barr about whether his leadership is at risk should the referendum fail."
+    publishedDateTime: 2023-10-08T22:52:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/this-is-a-disaster-albanese-under-fire-in-tv-grilling-over-the-voice-to-parliament/news-story/2521acd8778b7d290d8635a8e121ccdc"
+    ampWebUrl: "https://www.news.com.au/finance/work/leaders/this-is-a-disaster-albanese-under-fire-in-tv-grilling-over-the-voice-to-parliament/news-story/2521acd8778b7d290d8635a8e121ccdc?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/this-is-a-disaster-albanese-under-fire-in-tv-grilling-over-the-voice-to-parliament/news-story/2521acd8778b7d290d8635a8e121ccdc?amp"
     type: article
     provider:
       name: Couriermail
       domain: news.com.au
-    quality: 18
+    quality: 17
 
 secured: "VzbUqnD1VMMq2j+IuC9EseM0gXj4yKwjwdWDKbY8BUHDUBbedFWCXxnWUsTbOTEAzA2fsTOzPs032SdFRpXTky3O9o1KjFEG3jWGFUlzHEUtHbks0HKv65jjgW2XhPkZx6iJrTjxoBLNLMjMynsVT73LABaAcUZeYBq1JJEIgjqj4eG73mpEYPZ6+/YxaIkCq7cKdTaGSMqa53qMISdSf9fgGFte5N0CNROPraG+8C48ISwScBWBECt3LCDbmsI9ckAlJ4gmdSPq9rJoVB2+HufohQ4KXgbi5cr85kPur9vZMfgD9tHQ5mLCzDYQ16fJ/KhFe5kkUNwYJsqC53qm8swntrQqUpr/bPV5XaFwfUx9WLD1IgeX2MJGu6xUlCXTuW4Yog021xaw6jT8ypDb/YPWnOlu7aqpAAYdm+SFoHnMrd6lZz/Lf+QnQAOSt+MOPM9EKhaWG/fUqD6d6SwzvMVRYZMpPqUXZuKqpx2lI/mTXZxT7lKj0m2k8P3j2ls0DvLAOnm2XzEGU1riH7kgZg==;jNnVABAPmAflzFnlsKlOUw=="
 ---

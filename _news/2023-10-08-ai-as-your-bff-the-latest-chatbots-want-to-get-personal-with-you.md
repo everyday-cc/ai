@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As Meta, Character AI place bets on ‘fun’ chatbots, problems lurk behind AI-generated smiles"
+    excerpt: "As Character AI and Meta bring entertaining chatbotsI to group chats, real problems have already begun to brew."
+    publishedDateTime: 2023-10-11T20:05:00Z
+    webUrl: "https://venturebeat.com/ai/as-meta-character-ai-place-bets-on-fun-chatbots-problems-lurk-behind-ai-generated-smiles/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AI-AIs.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI as Your BFF? A New Wave of Chatbots Want to Get Personal With You"
     excerpt: "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend."
     publishedDateTime: 2023-10-09T12:33:00Z
