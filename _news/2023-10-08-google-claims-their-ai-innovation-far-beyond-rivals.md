@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-fa
 cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Impact of AI and Machine Learning on Startup Innovation"
-    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
-    publishedDateTime: 2023-10-06T14:57:00Z
-    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
-    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 56
   - title: "China Has an Authoritarian Edge in AI Innovation"
     excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
     publishedDateTime: 2023-10-10T04:00:00Z

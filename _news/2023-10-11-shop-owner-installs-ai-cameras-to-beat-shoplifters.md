@@ -2,17 +2,21 @@
 category: news
 title: "Shop owner installs AI cameras to beat shoplifters"
 excerpt: "A Surrey business owner has installed facial recognition cameras in his shop following an increase in assaults from regular shoplifters. Danyal Shoaib said he lost £7,000 to theft in a year, while staff at his business in Leatherhead, Surrey, faced an increasing amount of abuse, including racial slurs."
-publishedDateTime: 2023-10-11T05:42:00Z
-originalUrl: "https://www.bbc.co.uk/news/av/uk-england-surrey-67070829"
-webUrl: "https://www.bbc.co.uk/news/av/uk-england-surrey-67070829"
+publishedDateTime: 2023-10-11T05:39:00Z
+originalUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
+webUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,6 +45,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ffHgZqAVDvB6MwxGILys2s8I+X6+7sVkZcxdp1L3H7qFtWcCIjGGykKd7m7OyPahBmplTFT8MtNHAnbxff4F+vpLWt1+qyCNbBdNAbyJwEzT7qjo2Y8+q8MQ3+RdGbTZ6+zZVwegA1MyYnTUxJ/CbTTT1N2oxPYzXwbY5HHMmyJ9ybmhqyNQSWPb+tRV4Gf0GxlqOvUB9tcQcHE++QE8bmdrfowgRS5/uG2YoppFNkPg9E8wQA5cZ533Oe5kd0VQmpVQ79CK9S/AJ1ea6sKUxnn5CeoAgGql40nVwhdNw2l261+ozVvztaslllLwBkbvNHlNTxtnNi0sqpl2YOqiGMQ90bYvEIPc2UtZtgc9qAY=;4Nqv23ozR5CtDHXc1ESF9w=="
+secured: "B/HcKx3Yx2tI5CJvOh88hJMgeokO91YL/0MTn6Mtlf7qh60+aQRTXGIxIF5q97IO5sUZvetzOMEY2XYkqtJvnmYBJMFDzrNKxL8sfK9iU15AOKfg8apviBoFa6FsAT2aOPvpqiL581V32Eg+U+BW/vcHEuEWp5Rvg/itHT4h74nSieFBhQVruAhjDefKJpiuqPYR/XHEckS32rSNWD7rS/jPZvly3PR/JTwfc/WX+nVDHC/v/OVE+BwgyBtCDHrEX+8AEs0dMjoKPwFjcFvE6/6g+GbMf0QElvqfUW+6rjQmpwTnNqhXMuo2p7vamHAVGQtMgDgrjIiWvTBLGrWopouOXr3HzOsJ2JpxdSajdwc=;PqOZ4D1xJU+kXr06K4Y0mQ=="
 ---
 

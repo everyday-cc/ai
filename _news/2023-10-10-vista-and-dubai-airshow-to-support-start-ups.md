@@ -49,6 +49,15 @@ related:
         width: 437
         height: 250
         isCached: true
+  - title: "GITEX GLOBAL, Expand North Star 2023 Centre World’S Attention On Booming Artificial Intelligence (AI) Economy"
+    excerpt: "His Excellency Omar Sultan Al Olama, UAE Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications, and Chairman of Dubai Chamber of Digital Economy, spoke at the official GITEX GLOBAL and Expand North Star 2023 press ..."
+    publishedDateTime: 2023-10-10T19:41:00Z
+    webUrl: "https://menafn.com/1107221656/GITEX-GLOBAL-Expand-North-Star-2023-Centre-WorldS-Attention-On-Booming-Artificial-Intelligence-AI-Economy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
 
 secured: "/EJfg+yT1ub9RvLoImlRCjfAC5D+DM6S4dfpurOmJYBUmS2pPsY2Qk51J43UoELg+1IPbGW09d9iSIGY/9FweiIDuldvRI0YLG1oeaZKZF5WtP4+hDwiruGKKeyyYMXpd4yUHl6A9OF2a0bITUjXBSa9HcLDlMaUz+dIq7+S2uaM6fxWWs+izrIiqFFbsseTqrYp1Ph+WHCtvrR1fJWL1rrsZN+EsFEUJkiuoE0GgztrnIl5WxU3z481PiEMXImVEa1SY+FPPlKt6z9Xm6yzHtThrvb/99pSTns9XvuvZ6uS4q6TQi0/jzGrO0PXs7xDJnt8F1/3y4pZZuuGlAA8o3jvduff1ph1LkpqGogXmgZkbygOgyOzYXbjpXSZgwYzUuUwLgc0s+zZUuBlvblfA9yj5rMhvx0dge6UQbAjEbkIXuUMjbSP1p/EFPu/WD0dcnn1YKeBSngZqGBTml+89BEMf+TWqS0+m8VGdDiNmX/MTTkhUh940ibTttxjTFORvmSdwEYxgHVFt2rkHe7GkQ==;rXOBGI7aq2rXWADSOF6W2w=="
 ---

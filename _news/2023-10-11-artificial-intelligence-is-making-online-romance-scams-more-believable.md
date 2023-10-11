@@ -2,25 +2,25 @@
 category: news
 title: "Artificial intelligence is making online romance scams more believable"
 excerpt: "Online romance scams for years are nothing new. Unfortunately, advances in artificial intelligence are making these fake profiles look even more real. How is AI improving the quality of romance scams?"
-publishedDateTime: 2023-10-10T22:00:00Z
-originalUrl: "https://okcfox.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-webUrl: "https://okcfox.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-ampWebUrl: "https://okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-cdnAmpWebUrl: "https://okcfox-com.cdn.ampproject.org/c/s/okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+publishedDateTime: 2023-10-10T18:00:00Z
+originalUrl: "https://wjla.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+webUrl: "https://wjla.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+ampWebUrl: "https://wjla.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+cdnAmpWebUrl: "https://wjla-com.cdn.ampproject.org/c/s/wjla.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: okcfox
-  domain: okcfox.com
+  name: wjla
+  domain: wjla.com
 
 topics:
   - AI
 
 images:
-  - url: "https://okcfox.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
+  - url: "https://wjla.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
     width: 986
     height: 555
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 555
         isCached: true
 
-secured: "oD+uLVlNUJvbzraS2lGX/HC9w2sHnT4cVhJ0cLt2CIkyT6OAOKaYsil0UjAYkIsQM6e43WefAzu1uH9SCSSNg1dZ8rsDPlvwDbJ7zPXWyfF71cIZmh1B0QBu+00W5KlypWrfAZyPzVpPje69qgbHcuFEknnsRfI8PU9azTkSDDG27B6S5u7TyxHlK/kOwzHbp3SlH+7/kJsQ370G3s7JOyZFEhFlC8gi/nceqH//iQfV+ODcVVBca3mx2Zc7gJT4ALm+CeYrpxJQWYSDHmcoglGF2y+rP713xrXZ4eRJUtxH5e1uUiw/T6lzgNoduDtC/XeRRYoseNPDrY26k+GD59s7ij1tVu1q1hMuKY4J90awYouCdAz2U0T7oIJvWCrrRQ6Julx7spGIwl8DcCXnUFmsUxe3Ni+K6l9oxYzNLefglDgexeuoB7LG5GMFTp1VR8QVpWvV2v0kEvBWVouSmPA7DU8oVxjAGYo2mygz4ytuKXanIocBVLY/yHt++7OJVdouQuplC1lCqmAQagvrJw==;WXbEHmPbS7xdew1Cjf0hcg=="
+secured: "4As8j4YHVmm0upSaUNYBb2BlNkO4V3G8UtA7AfnyRvH+lBnp/OGCzd34i1BDpg4Qhw4cr/DQ+w8SzXbDTwXXo5G6w5buO+jM8wCqKs6BO7uNqPsWRD23R1AlOs98SEww4aut9cs3JYzeX2aAgIy15GUfqCWg3kmER/h8JsgACk5W8uxIqvoDCzVTwIbryAdtw+gbatb9CKQ1EiTWQmlemDeGK9OYUGA1f7AgncX0BbkGlpYQg2lozYgpOwcVKdNqHmz3mJn2FMIlhedqfJAZabeGNcutkJ1xcHeL9bMHpV//zBvRwBQRI/PuLyCp0bTLquoEYcz9LIQoPzMbJ+SibyB6jWtsphZn4SXu8i88hoM=;K8t3pLY9cia++NHDAOOZ9w=="
 ---
 

@@ -19,17 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "King’s College London Awarded £650,000 to Advance Novel Imaging, AI-Methods, and Targeted Treatment for Therapy-Resistant Lung Cancer"
-    excerpt: "Researchers from King’s College London, The University of Oxford, Newcastle University, and The University of Cambridge have received funding to develop an automated platform for the identification an"
-    publishedDateTime: 2023-10-08T21:55:00Z
-    webUrl: "https://indiaeducationdiary.in/kings-college-london-awarded-650000-to-advance-novel-imaging-ai-methods-and-targeted-treatment-for-therapy-resistant-lung-cancer/"
-    ampWebUrl: "https://indiaeducationdiary.in/kings-college-london-awarded-650000-to-advance-novel-imaging-ai-methods-and-targeted-treatment-for-therapy-resistant-lung-cancer/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/kings-college-london-awarded-650000-to-advance-novel-imaging-ai-methods-and-targeted-treatment-for-therapy-resistant-lung-cancer/"
+  - title: "Deep learning improves earthquake forecasting"
+    excerpt: "A research team is aiming to shake up the status quo for earthquake models. Researchers from the Universities of California at Berkeley and Santa Cruz, and the Technical University of Munich have released a paper describing a new model that delivers deep learning to earthquake forecasting."
+    publishedDateTime: 2023-10-09T09:51:00Z
+    webUrl: "https://it-online.co.za/2023/10/09/deep-learning-improves-earthquake-forecasting/"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 23
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 39
+    images:
+      - url: "https://it-online.co.za/wp-content/uploads/2023/10/earthquake.jpg"
+        width: 1075
+        height: 600
+        isCached: true
+  - title: "Shaking Up Predictions: Deep Learning Revolutionizes Earthquake Forecasts"
+    excerpt: "Researchers have developed a deep learning model, RECAST, that outperforms traditional methods in predicting earthquake aftershocks, especially with larger datasets. This advancement promises improved earthquake forecasting using comprehensive global data."
+    publishedDateTime: 2023-10-09T16:23:00Z
+    webUrl: "https://scitechdaily.com/shaking-up-predictions-deep-learning-revolutionizes-earthquake-forecasts/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 18
 
 secured: "qmIdzX7OgAflZ8RbocCUXb1RH8p3M1BGe1+/9IzNb+gkA4pJkJ2fvr8dNQ5WVeKxxMaM2IrhUdfgGYtemFs89B0vlYRXsdglYKNJbK0pAD+xvCu6L4bwRj7kR/7WcLhJYuYbaPyk5R7L6cUzGcMurvOrJpxcnNi8ees1W7c8DHCNq4ME1NY8N8Mig0m+yKQiv2YdWUpdeiN+4IdD4UFaeZYu0cA942+SXbkWkwmfSfXxOtvd5y/aeCayTZLvmYZ9+0uHzUt/zUxXu1suPgEDvZOobkIL12FTqfmNyUxnoy4JFpWdAPQ3JKMzVovdn7IsORHRbNj/wttJo0JfPrSmMLwaFxK4rF66xj/YDED432Q=;EvL60kpCrLN8ADg/JXZeDQ=="
 ---

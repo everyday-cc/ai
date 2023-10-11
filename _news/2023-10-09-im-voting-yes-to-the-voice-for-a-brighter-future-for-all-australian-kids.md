@@ -45,31 +45,6 @@ related:
         width: 280
         height: 210
         isCached: true
-  - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
-    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
-    publishedDateTime: 2023-10-09T04:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/10/09/australia-s-voice-referendum-what-is-it-why-does-it-matter-polling-and-voting/80537f70-6686-11ee-9753-2b3742e96987_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
-    excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
-    publishedDateTime: 2023-10-10T06:26:00Z
-    webUrl: "https://www.voanews.com/a/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    ampWebUrl: "https://www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
 
 secured: "GhPwE6haeBMgSYd5l79edz7Y4zIxVp2SIAhxjPci+2wKd6PrkilgX6AIQEEH2yuqCZ8NX7BZfsALXUpDyjxZUdNfSpOrZQrhuz2sr9eCe51E9RQkgQOl6M+wekWKpv7dW4XlYiVjdQi16fuT9+F15bmhAfvBkU/5n/M4b/x3uw0of1z9humf3l/zAiyLJo6I0S8/uRxVYrTLvBX1PP3EYzVxQkfJactMnBObYkXmfszyM+/iORbRHMnHj1jcYgxpuW/O23oCAW3OHJmYGh614kQVuSe1u+AWwaHd4uVzvVnn0tQBEm3iMFZrMASUxurEtDossCcbS2B9EzpTuPC8nRCBg2YPqhFiiExJWwq2vYs=;ejkA/fCZOlxYt2PnXZ6JXA=="
 ---

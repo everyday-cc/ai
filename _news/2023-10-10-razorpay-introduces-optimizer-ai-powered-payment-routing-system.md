@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-po
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Razorpay Launches AI-Powered ‘Optimizer’ to Mitigate Transaction Failures"
+    excerpt: "RazorPay the leading full-stack fintech platform has made a significant move with the launch of 'Optimizer'. This advanced AI-powered payments"
+    publishedDateTime: 2023-10-11T07:43:00Z
+    webUrl: "https://www.dqindia.com/razorpay-launches-ai-powered-optimizer-to-mitigate-transaction-failures/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 18
 
 secured: "BQXJtdIr2LEdG5kLVqteadhwBm12wpVKUhcRKuuufb3X1/j9/4c/QrIaH0Uhk1EmWrmpCSIjUNtJaVdIVjfaLWNe/aPizeQeFrAnDLT7Q4imGeuDGttuDGQWkqPjvE3p24BHH/Fsa3OenBq+t/HBIbYjzR7m+JU4w03+YwNOaUJKLeL64t8/eF3WQ49gbS0wG9o5nUVWcOwC2hyaIWO9d+uO2GdcF+LEUrqfH+fr5UTAkfpiOTdyPRIcD7QM8qfxaog/DdT7Q7Cg6mEIE5wAvLHHcg3Bx5ELTjFP8brIY6YWnR5cMwu6q+tYf4kZ1HgFTORQK/xMS9c9xuA8ReKZUCsxMj4t6MKfKAJ+a01pQWA=;rLjnhVq42DiElg9wtTR2xA=="
 ---

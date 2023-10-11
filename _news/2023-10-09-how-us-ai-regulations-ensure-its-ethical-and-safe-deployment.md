@@ -51,15 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "As Rates Popped, Generative AI Stocks Fell 3% As Demand Stays Strong"
-    excerpt: "Therefore forecasts of rapid growth in Generative AI spending seem more than mere hype to me. For instance, the generative artificial intelligence market is expected to grow at a 35.6% average annual rate from $13 billion in 2023 to $109.37 billion by the end of the decade, according to Yahoo! Finance."
-    publishedDateTime: 2023-10-06T13:37:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/06/as-rates-popped-generative-ai-stocks-fell-3-as-demand-stays-strong/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "E7Z/K1903luSzl2XQOqhgdAbaEGkk4MTqb0mXOmWv7AWLPTlBBBFpG54S8OCP0dIl8D29MKNwU1h/4j3fw1YcjjDBZttdPY5Pa/HNWUeVbG5xlLLndJsSAEfnz8nqK7yzKIWEAroMnjLEngEYPeFpcwv0Jc3tRIvkStA0aqi5YeCvM3Ss/416H2uadopCtMWqzj1M7Jhl9Cg7vDckJ5Og3m3n/gthEYLPheU3gXehnGzbBzWCANlyb7dDqICGrRZqVQRmYrGvSGdCoy0YoIMykPWn6X/RGFvI1/3REH2fLqCUOJMjV+qM5524EllQZB6jhv83dP4ngao9GuSBbKFZ+EzjUFKMbLLpEEncb2Czx4o6eldlSyLfVLlt5zhITZBPShgvWmn0sjOX9yAXozLPzhK+niLwh2US+VlvSvYcscPLhbEG+rm62xJldHrZnpMXbQMsDdM1UVksXJRC0beYk9Mw+mmTXQa/qWVCvsKiBqrOjYyh+UFIfAVQrLiWv5j2D3BzrR2V3IypZdCgNtRJA==;yvv88JupSvNMUFsOB+oR8Q=="
 ---

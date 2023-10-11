@@ -9,7 +9,7 @@ ampWebUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-
 cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: Aviation Week
       domain: aviationweek.com
     quality: 19
+  - title: "GITEX GLOBAL, Expand North Star 2023 Centre World’S Attention On Booming Artificial Intelligence (AI) Economy"
+    excerpt: "His Excellency Omar Sultan Al Olama, UAE Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications, and Chairman of Dubai Chamber of Digital Economy, spoke at the official GITEX GLOBAL and Expand North Star 2023 press ..."
+    publishedDateTime: 2023-10-10T19:41:00Z
+    webUrl: "https://menafn.com/1107221656/GITEX-GLOBAL-Expand-North-Star-2023-Centre-WorldS-Attention-On-Booming-Artificial-Intelligence-AI-Economy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
 
 secured: "bZW6fKygzMDsSzJsEwsd5iPywc11zHaLe7+uMitxLLuhf8ZFvVcpDYLwO9socRug0K3akHojgT+fHNTgwHmKqWqW/wlI8Z4yOG6I+2Zdsi7b92Mo+71bmz8z9gWPM82g3M2LZBlX/jvcUImolO9czr22+o6O5NHw0INaEowsfpv6ueHkqLmSQHrkFC/o2KYX562D95NUurkgP2LmgIyto5aWpe7aXQm8gQTtOEvC/gakLANzv3hINVto0pJxZM1mu1EGuXzXZJuV7pf4q4Ik0lnn/iP8+J8N/xBbRqVcVKOjHlDZcdAJYB8cp1gLKVhFjcUSgZwDeFuz4gygp4F9Eoc4wgmo+wofEL+gYVSie6w=;U2Xc+3pGQkv6ClNbSkSdbA=="
 ---

@@ -40,7 +40,7 @@ related:
     provider:
       name: Investment U
       domain: investmentu.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://investmentu.com/wp-content/uploads/2023/10/Chart.jpg"
         width: 927

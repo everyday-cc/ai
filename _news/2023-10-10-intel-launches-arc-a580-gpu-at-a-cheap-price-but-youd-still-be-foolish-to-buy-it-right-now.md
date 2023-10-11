@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Arc A580 Gaming GPU Finally Launched for Only $179"
+    excerpt: "Intel has officially introduced the Arc A580 discrete graphics card, marking a global launch available as of today. The A580 boasts 24 Xe cores, ray"
+    publishedDateTime: 2023-10-11T06:48:00Z
+    webUrl: "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/"
+    ampWebUrl: "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/10/Intel-Arc-A580-3-e1697006486692.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Intel's budget friendly Arc A580 GPU is available now, but it may be too little too late"
     excerpt: "It's been a year since the release of the Arc A770 and A750, but it seems that Intel's Alchemist line of GPUs still had some tricks up its sleeve. Today, Intel officially released the Arc A580, a 1080p graphics card that falls well into a budget friendly price point."
     publishedDateTime: 2023-10-10T20:28:00Z

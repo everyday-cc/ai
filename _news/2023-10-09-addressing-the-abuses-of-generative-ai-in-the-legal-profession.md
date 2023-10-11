@@ -42,15 +42,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
-    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
-    publishedDateTime: 2023-10-06T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "pJQTxkGHE1ADKJsPSeA/IfHD2zPw6TX7iUryn0y8cWaij9r2QytQg0r+NfCT1MCT0vuAJT6x2S4tvDF/QrOi/qjMc4cNvWl7BQ9VQbjHiUqFMvKTZrjwiajjcEa46za08bXFwVAlNXUKw5x0mTQmEfHYaDkI/BYi+GrcE64UT7+2/bN0OcDJU0ktt70euE7KRu1WXEfRvFfifhbBcFOxaQttFKumhVvRPJFoLCuJZnwfa33081xL8/EvOZ+HReX9oZLUHamjhUmc5kqgTfg23BFPviW/hBudfrmRYKPfu7fg6GmmmNITDYx/1QNxOV6E66D/L4e+5R4Kio9SdQ9YW5Jg+Lb6b/CuH/RXWEHnVcScYMhnPdNyp16cwcYP5MCgrjoQkhnuEUH8R08tFUOKz7WxOx/1TW5rVGsceZzrmcaPSEDZDF4ijWeoK5893P6zGkhHWoRSaGCa7u7FmTBHaX4CIXkO7vWhu8MJ6L5ZqwHFa1Cz9MP6SbknWC68nc5DvJV1VK3TkSGmKgxmnRuozQ==;Db8wumj+GbAIEhMR2surWw=="
 ---

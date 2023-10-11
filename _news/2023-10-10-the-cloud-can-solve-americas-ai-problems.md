@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential"
+    excerpt: "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems."
+    publishedDateTime: 2023-10-11T07:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Bank of America: These 6 global AI stocks are 'hidden gems' with great potential"
     excerpt: "Bank of America gives two of the chip stocks identified more than 40% upside potential over the next 12 months."
     publishedDateTime: 2023-10-10T22:21:00Z

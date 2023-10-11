@@ -87,19 +87,47 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Car financing fintech Lendbuzz gets $345m funding boost"
-    excerpt: "Lendbuzz, a Boston-based fintech that uses AI and machine learning (ML) for car financing, has announced a bumper US$345m funding round"
-    publishedDateTime: 2023-10-06T15:00:00Z
-    webUrl: "https://fintechmagazine.com/articles/car-financing-fintech-lendbuzz-gets-345m-funding-boost"
+  - title: "EDOMx taps FinTech finbotsAI for credit risk management"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-10-11T07:04:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/edomx-taps-fintech-finbotsai-for-credit-risk-management/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Arab Fintech Forum kicks off in Doha"
+    excerpt: "The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz Carlton Doha with a number of industry experts"
+    publishedDateTime: 2023-10-11T05:38:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/arab-fintech-forum-kicks-off-in-doha"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
     quality: 24
     images:
-      - url: "https://assets.bizclikmedia.net/1200/db4f84c6423b84fd88b5c6fdc4d228aa:42aeed92c0b38ec787a3b0a16b0526b2/gettyimages-1186093106.jpg.jpg"
+      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697004417-305.JPG?1697004417"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Industry experts spotlight future of fintech in MENA"
+    excerpt: "During a panel dialogue held yesterday at the second edition of the Arab Fintech Forum, officials of leading firms accentuated the"
+    publishedDateTime: 2023-10-11T06:16:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/industry-experts-spotlight-future-of-fintech-in-mena"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697005211-158.JPG?1697005212"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
     excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."

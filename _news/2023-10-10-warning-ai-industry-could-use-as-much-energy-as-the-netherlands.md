@@ -3,8 +3,8 @@ category: news
 title: "Warning AI industry could use as much energy as the Netherlands"
 excerpt: "The artificial intelligence (AI) industry could consume as much energy as a country the size of the Netherlands by 2027, a new study warns. Big tech firms have scrambled to add AI-powered services since ChatGPT burst onto the scene last year. They use far more power than conventional applications, making going online much more energy-intensive."
 publishedDateTime: 2023-10-10T15:00:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-67053139?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/technology-67053139?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.co.uk/news/technology-67053139"
+webUrl: "https://www.bbc.co.uk/news/technology-67053139"
 ampWebUrl: "https://www.bbc.co.uk/news/technology-67053139.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67053139.amp"
 type: article
@@ -57,6 +57,6 @@ related:
         height: 684
         isCached: true
 
-secured: "ysQow0OgpLHrVfGMDv3DBtIiWDE5u93Ku3ULzr4Lik6L6DYOYqEpmBnuX20dt6FNjjfI/WqRfG5OD+j7v4wBxJ17MFs47JUEMW4k4KW3hMOi9F4HwZCorHejpLNe6suVkNmf5X7tPVPFTrXKzQj+JBGCOSovELFiXhquVhteH3UBMAZx0FhFauJrhYDDmOYFqPBn8VCa4PEpjfse4v5wo+Pib639jzUozmLFwAfX39I3XHXBt7uql+iGBPE2ZkUI2Jl8L/JldX6jagYE6Jxbf4x7TWQRrj1cBFBuiucvWQnJXuIgJVmLGB+5gxOeAaKufR7exNSunT/7i0upAETrRDz4Kc8NX2Ynfv8RB2Wb3jI=;Srqq6Abi8wCcCfrhCGIIPQ=="
+secured: "C9Z8Z9lHWC+mnPs9W+oXREoUx0M66RNadHLn/LE0Wc+coaT4qs+Wzn7ifKP0ZDTp4qjICe4lFkOV0Rob8AaI77a5HTmWRs7hdztTeyMQWcBokM9+zrCuq6glNA3++7uT/zb3W4S3htL6xkS9lnFCPu1V+LwHqXclRiHyab1TXgZnQyUWec2kDQAthQBwWHALrXMhrhFTu1C9RYe3eteIzbjAmKvlK6pYvFLNbqobcp/MULYpIEVj9F/ewk/gJVE3k+fTQf8J2GzIDLLM3FLaneRuyPgEnzs5wY2QJekhADXwWRMLrrfW8blSyKi+oiP2eNmm1STVqP7mDTRnGw1FbjB4hJAJY/vrkkb8bFYMr6A=;bauwUVv+Sp3gN1daoyYjKQ=="
 ---
 

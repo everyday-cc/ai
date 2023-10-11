@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/10/11/bank-of-america-these-6-global-ai-
 webUrl: "https://www.cnbc.com/2023/10/11/bank-of-america-these-6-global-ai-stocks-are-hidden-gems-with-great-potential.html"
 type: article
 quality: 79
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNBC
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bank Of America Identifies 6 Global AI Stocks As 'Hidden Gems' With Great Potential"
+    excerpt: "Bank of America has highlighted five global stocks poised to profit as the application of artificial intelligence (AI) continues to burgeon. The bank projects significant growth potential for “end-device AI,” a deviation from the current server-based systems."
+    publishedDateTime: 2023-10-11T07:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/ai_shutter_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "The Cloud Can Solve America’s AI Problems"
     excerpt: "These shifts in the semiconductor industry won’t happen overnight, but the United States needs a strategy for governing AI hardware that is sustainable over the long term. And current export controls are too leaky to be a reliable method for slowing the proliferation of future high-risk AI systems."
     publishedDateTime: 2023-10-10T14:24:00Z

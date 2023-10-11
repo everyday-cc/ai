@@ -50,6 +50,15 @@ related:
       name: Aviation Week
       domain: aviationweek.com
     quality: 19
+  - title: "GITEX GLOBAL, Expand North Star 2023 Centre World’S Attention On Booming Artificial Intelligence (AI) Economy"
+    excerpt: "His Excellency Omar Sultan Al Olama, UAE Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications, and Chairman of Dubai Chamber of Digital Economy, spoke at the official GITEX GLOBAL and Expand North Star 2023 press ..."
+    publishedDateTime: 2023-10-10T19:41:00Z
+    webUrl: "https://menafn.com/1107221656/GITEX-GLOBAL-Expand-North-Star-2023-Centre-WorldS-Attention-On-Booming-Artificial-Intelligence-AI-Economy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
 
 secured: "jTVk5y74+opzwbWvO2Ha7tH05AWz6MAdulOHEpyO8xsN8RFaRi/KHCNV4+5RrY4rutKKDkLYjgqgf6IiklmJD/lN8r4tZQqbsutQXYgn2Cfc3Znc6EFhkqnXaJQ3377f8OF+8sSdAasyk461HpRHvbHZaJ/xRMsGwbK1RPTX3/mOft+VTdN6GI72kiUgQd7A7oRnhdT5tBlr8cqWIP4TqfiB6a2z5klmVoIK/9f6md4WjH/Ol//YJ/4tcYfTpoJuCrNVrD5esIqb4gGZp896qkZJpG1gArcws8Q61zbWzzDNg/I64X0/9PQhIQ72gaGN84uDil/+16DeoafoPp/7hpz5ItpLqXNpqBXqJD0vwao=;TJD/bM2XL8eF41mahapj8w=="
 ---

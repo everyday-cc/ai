@@ -33,34 +33,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
-  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
-    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
-    publishedDateTime: 2023-10-08T21:25:00Z
-    webUrl: "https://thethaiger.com/ph/news/554694/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 48
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Meta Launched a Host of AI-Powered Chatbots With Influencers"
-    excerpt: "Meta launched this month a host of 28 AI-powered chatbots — all with unique backstories — across its messaging apps WhatsApp, Messenger, and Instagram. One is an AI assistant called Meta AI, similar to chatbots like ChatGPT and Claude 2. It’s powered by Llama 2, Meta’s latest LLM."
-    publishedDateTime: 2023-10-08T20:36:00Z
-    webUrl: "https://iblnews.org/meta-launched-a-host-of-ai-powered-chatbots-with-influencers/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 37
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/10/metachatbot.jpg"
-        width: 860
-        height: 477
-        isCached: true
   - title: "Seven therapy chatbot apps to help support your mental health"
     excerpt: "Chatbot apps have become the go-to sources to confide in when you feeling sad, anxious or overwhelmed with your mental wellness journey."
     publishedDateTime: 2023-10-10T19:24:00Z

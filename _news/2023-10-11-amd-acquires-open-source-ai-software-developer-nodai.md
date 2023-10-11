@@ -99,6 +99,20 @@ related:
         width: 1500
         height: 800
         isCached: true
+  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
+    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
+    publishedDateTime: 2023-10-11T07:05:00Z
+    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 36
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "fU6gCr0Ty90xW3wcfEKeX02lPjZT8z6hACi2r2sSaQVMpmHzWD+6peE3qCsZpfHq/TyAKJ/bFdSm4JCfkCWZa3N3RoQ7tvMGigAUCibciRLPE1+c7PSln9rk+CgLLhJeF6FZg92NOhUpt+B1kFnepY+j1dOwJAkUrndc35GqlqpIMc80s6WSGpJwLkV/gjaEnZo0JZjJqGwy2M/DiajJ7gCquD2NgJp5TulqW2nxOWkOlvSmDOdTrkw7sIgd9ecEmgjx5oP1BpXbz8tWKGakXoAwXJWckNGqxDaD8rPdivOpiaY7r+CXdwErJcVVHvODeQlM+DXe253oRTI+XuCKpDEZ2kFR1VKu8K7Efudlvv9r3oGrFRETA+z9TFJuwpzGk/w0ZPsa1saPsb1goulz5bzA/nPt2R5pyj8j03vvjCKHEUkLoaF6xuMUWMRcpCzyF3PaQxbhVFQqvvl1bPLeYPwp5okqdzouE/LuPYtJaBxQrbzKt+YLRkbFS9CYwpHRAv2b9ixZqxSq5FsVN/Q5hA==;kFSXo0V++KLjj4R2AG1SJw=="
 ---

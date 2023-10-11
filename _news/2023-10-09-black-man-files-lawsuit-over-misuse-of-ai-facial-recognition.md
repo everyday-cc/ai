@@ -9,7 +9,7 @@ ampWebUrl: "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai
 cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
-    excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
-    publishedDateTime: 2023-10-06T14:55:00Z
-    webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 44
-    images:
-      - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
-        width: 1200
-        height: 675
-        isCached: true
   - title: "British lawmakers call for pause on use of live facial recognition"
     excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
     publishedDateTime: 2023-10-06T15:19:00Z

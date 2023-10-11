@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-surrey-66982326.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
 related:
   - title: "Shop owner installs AI cameras to beat shoplifters"
     excerpt: "A Surrey business owner has installed facial recognition cameras in his shop following an increase in assaults from regular shoplifters. Danyal Shoaib said he lost £7,000 to theft in a year, while staff at his business in Leatherhead, Surrey, faced an increasing amount of abuse, including racial slurs."
-    publishedDateTime: 2023-10-11T05:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/av/uk-england-surrey-67070829"
+    publishedDateTime: 2023-10-11T05:39:00Z
+    webUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
     type: article
     provider:
       name: BBC
-      domain: bbc.co.uk
-    quality: 37
+      domain: bbc.com
+    quality: 67
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/286C/production/_131384301_p0gkmsz0.jpg"
         width: 1024
         height: 576
         isCached: true
 
-secured: "MA8Mg5KNNgV11486Nr95oiGW+8wfri12Vz+ECla0ZI4+0fHys1sQ94VMp1xoNQPt11F54CjNuSUndxmbV7XTBZSHrW4rOwYfABTQJgovpTrjyxEEoY84dBkvGMO3Gw3LtOAO7cHX5uugekHzqn2s7JddP3nx4WpkoRaG7B6WKEkHGgNIKJA1fx7tU3GIgtNCP/YGfva9W2l7GqYqEs1++9dKfUOhQf79lO1MfyPbL1bgGg+jR4/KdLSr+uZt2Bz0X51YUwhSFxUQOKKfrd3UrSFykNFnRyRCdaHReJ/LSMDiJVJl56aQ1t1CEMppNek3EA4kfayvDObEEb2aINC8JphN6XELTeT+9/8lhC/xXns=;60HB1T/7vAtJ8Xd5Ep6/EQ=="
+secured: "tYnMd6UhSynukBUfcNTi0A7UYTqoTRF5hKbMm6KvTRa9mhD///fkktwtDyvj1nt72VVQQqQxq5M41MXFmKbFrSECBUxuclUPRy83AWFw/7gQWz+TjBii3v/wpjix+3C5Dzx5hGXMdCfPOGuWcS641a5pXG491OCouUbogcDgZyN+158z9IjGml0xxSac75rH1lcAkkEV81r/0HKRUfpqKPpKU+HRs+xSSbAi5/YODapDVZof7FRQgLejUmw0Qsrw8f74wl6U6xsxJPh0yoQRAMq8FQezGUEdi42xvl9aG+CvgihHg6Xq9wOCjtnh3CC3i9c+YaWRcx1cS1OfbZLhfo+N1ptwqyVesVwPNSygGm1B4W4P+R8pgoVQwCs2NsypaO+t7iInZt6tQvn93W9h34TJI1lNdjQyBZ9+Dw5+QDSM+G8xyjbounlJHADm8EIRNCAqJLKkAyWIkSe7MjDfLkzYwoKg0Hfw55bDg1hTGbHnXgWILF2GYVOBe1TQkEuTgrkeI0/Tpd1ku4ezOqFhkw==;iY56uEAcWAMNigiOD9iKag=="
 ---
 

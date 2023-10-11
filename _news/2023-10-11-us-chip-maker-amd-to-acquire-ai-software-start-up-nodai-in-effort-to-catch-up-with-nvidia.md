@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-make
 webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
         width: 1500
         height: 800
+        isCached: true
+  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
+    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
+    publishedDateTime: 2023-10-11T07:05:00Z
+    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 36
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "AMD acquires open-source AI software developer Nod.ai"
     excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."

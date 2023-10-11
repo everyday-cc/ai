@@ -38,17 +38,6 @@ related:
         width: 1600
         height: 1062
         isCached: true
-  - title: "The Impact of AI and Machine Learning on Startup Innovation"
-    excerpt: "The emergence of AI and machine learning has fundamentally reshaped the approach startups adopt for innovation, operations, and expansion."
-    publishedDateTime: 2023-10-06T14:57:00Z
-    webUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/"
-    ampWebUrl: "https://techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/startups/impact-ai-machine-startup-innovation/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 56
   - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
     excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
     publishedDateTime: 2023-10-09T07:10:00Z

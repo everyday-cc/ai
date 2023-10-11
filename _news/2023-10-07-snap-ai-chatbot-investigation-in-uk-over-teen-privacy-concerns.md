@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/snap-ai-chatbot-privacy.html"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 117
+published: true
 
 provider:
   name: CNBC
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Snap’s AI chatbot draws scrutiny in UK over kids’ privacy concerns"
-    excerpt: "Snap’s AI chatbot has landed the company on the radar of the UK’s data protection watchdog which has raised concerns the tool may be a risk to children’s privacy."
-    publishedDateTime: 2023-10-06T14:00:00Z
-    webUrl: "https://techcrunch.com/2023/10/06/snap-ico-notice/"
-    ampWebUrl: "https://techcrunch.com/2023/10/06/snap-ico-notice/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/snap-ico-notice/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/04/snapchat-my-ai-3.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Snapchat: Snap AI chatbot 'may risk children's privacy'"
     excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
     publishedDateTime: 2023-10-06T15:45:00Z
@@ -62,31 +46,34 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "UK data watchdog issues Snapchat enforcement notice over AI chatbot"
-    excerpt: "ICO inquiry provisionally finds social media app’s owner failed to assess risks to users of My AI service"
-    publishedDateTime: 2023-10-06T13:25:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/06/snapchat-enforcement-notice-my-ai-chatbot-uk-data-watchdog"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/06/snapchat-enforcement-notice-my-ai-chatbot-uk-data-watchdog"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/06/snapchat-enforcement-notice-my-ai-chatbot-uk-data-watchdog"
+  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
+    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
+    publishedDateTime: 2023-10-08T21:25:00Z
+    webUrl: "https://thethaiger.com/ph/news/554694/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 48
     images:
-      - url: "https://i.guim.co.uk/img/media/f4506afd5d6c97006c61ff472cdbe3c1dde08cb8/0_191_5849_3509/master/5849.jpg?width=620&quality=85&auto=format&fit=max&s=8946f96664ea02c09c30113a1457c21a"
-        width: 620
-        height: 372
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Snap might have to withdraw its AI chatbot, watchdog says"
-    excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
-    publishedDateTime: 2023-10-06T13:37:00Z
-    webUrl: "https://www.bbc.com/news/technology-67027282"
+  - title: "Meta Launched a Host of AI-Powered Chatbots With Influencers"
+    excerpt: "Meta launched this month a host of 28 AI-powered chatbots — all with unique backstories — across its messaging apps WhatsApp, Messenger, and Instagram. One is an AI assistant called Meta AI, similar to chatbots like ChatGPT and Claude 2. It’s powered by Llama 2, Meta’s latest LLM."
+    publishedDateTime: 2023-10-08T20:36:00Z
+    webUrl: "https://iblnews.org/meta-launched-a-host-of-ai-powered-chatbots-with-influencers/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
+      name: IBL News
+      domain: iblnews.org
+    quality: 37
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/10/metachatbot.jpg"
+        width: 860
+        height: 477
+        isCached: true
 
 secured: "gg1nfDmkhNQh+L3pawFRiUedjTjQbZTsSrKYb7mVwu6FeH0vwOre8mfaQuaO8Oh5j/CD8JuQlUemR8hEru3bEdlR2RSRbyandJR5CzswPlOpFCgCq5RBLIQaKORbHjF/DeYquN0MunrnNtuZyKuvg12UHo9wF4LKm9IYdkiSUaPvKykOwsE5i4B2rla23VvfhGH5nKfG9SE7KFmAFXxUwjF2NMSf+5oMAfxNMLfrywbQnRculHD6ndUzPaTsPHPRdOwonaZuBYJNzXQYrW02Pxjcp3CBXNGB+rhKamr/SLyI+gkJJ28G74nLU6kBq72VsqDwbQAAbK/5szk547ov7UR8LYYfQtNCdTmyl7FK75VaR2NBzNNG7yClppd96zfmGDhc1NBrahKBmpOiuiqkMOA2xi6wIheMUgjopSBly5b7FJCpumpDCQE9VgRTb6XGOZdgitRis89/yCMa4vCcJdI+lOsF0caSHBz2eN3FnCFl9aF6hC+VWuUbbUmoSe9WsqtYByKi/vEVKRUBHnfUUw==;caclf8r8AwfnfoT3blTI2Q=="
 ---

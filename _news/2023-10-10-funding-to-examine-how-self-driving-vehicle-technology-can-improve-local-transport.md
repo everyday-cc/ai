@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetnews.co.uk/news/funding-to-examine-how-self-drivi
 webUrl: "https://www.fleetnews.co.uk/news/funding-to-examine-how-self-driving-vehicle-technology-can-improve-local-transport"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2121
     height: 1414
     isCached: true
-
-related:
-  - title: "Telia plans 5G transport corridors for self-driving vehicles"
-    excerpt: "Telia said that the 5G initiative is being developed within the framework of the NorthStar innovation program and with EU funding"
-    publishedDateTime: 2023-10-06T14:42:00Z
-    webUrl: "https://www.rcrwireless.com/20231006/5g/telia-plans-5g-transport-corridors-seft-driving-vehicles"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 24
-    images:
-      - url: "https://b432460.smushcdn.com/432460/wp-content/uploads/2021/02/Telia-696x464.jpg?lossy=1&strip=1&webp=1"
-        width: 696
-        height: 464
-        isCached: true
 
 secured: "ICUqDkdbAHgYOtTXLL0ugJrTiHYuLuC0Zllfsgm+Hat+g0fA8Ezdnu8OzXUNW6HshI54tTrDQ7T93RIWLRf+WLvu7nNGVlAJf8WbSy0PaeReQx2sV9MY4MAVieGz9w1g82qqvHeNZWYB2qwaI/rut8vlMur6VER9B9TE93TsC3rZixkwE5XvZel5/qKl7yYTgr9XysnVnH/hlvjB/3f3wficRvDYZp47myzZ44wLcTDYZimrzA3hmFFYBsU6DBbSf7KvZG9vri8H1wnHRVwAfiTZzXkaB2z/lMWC+oRx2J13ijd7uko3N4cPBeIVCzaqtEjEtKa8WnrIev90mVOHZZbVJ678J0EbQxKYzLLH0jE7BAtxB1MUBHC72AATh+5H5fWuXpi5Q56y17Qs+/b+pLxbPmANLTq4fiFoIxzBt6h/nWYey/esg35M2U9I9WuXxaFccY0w77YzVohHN7xjeL2hVIuFrdlJEAaqhjZ0gY4xK/KUBRVb6f4F5+9HDFRngVbKZMyDWIAImREhb/EjTg==;4V4GZ9AW+7QL/h2CbH3E9A=="
 ---

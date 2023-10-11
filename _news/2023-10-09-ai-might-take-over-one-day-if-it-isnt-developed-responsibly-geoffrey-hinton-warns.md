@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
-  - title: "Geoffrey Hinton and Fei-Fei Li draw thousands to talk about responsible AI development"
-    excerpt: "A University Professor Emeritus at the University of Toronto who has been called the “godfather of AI,” Hinton has spent the past six months warning about the existential threat posed by the rapid development of large language models such as ChatGPT and Google’s PaLM – let alone nearer-term risks such as joblessness, fake news and “battle robots.”"
-    publishedDateTime: 2023-10-06T15:01:00Z
-    webUrl: "https://www.utoronto.ca/news/geoffrey-hinton-and-fei-fei-li-draw-thousands-talk-about-responsible-ai-development"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 31
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/2023-10/2023-10-04-Geoffrey-Hinton-and-Fei-Fei-Li_Photo-Polina-Teif-10-crop.jpg"
-        width: 1140
-        height: 760
-        isCached: true
 
 secured: "7YmFUCC2aIk6HIj7fel5bjLZJ+VH5nHPrT/wacftQ0o2QZE19/ShVqXMzm1WKxtI5YrtVNayFaD51UyBpK5WboTYeDYPBgXM/2kWYAwy7Cj6PaE8Rpz8mCXL8lFTINaMJxW3JOLUzOhFirwmZHifMYRgqx9iqVQGWubIcD/S6LgxiCBUoeSpNo6YYhhUcflNAdU3Gu0mGGcTZ1fJdkxsmLrishCF67A9VFLe1tD85Er+nvJFwBflJFi7n6/gmq8lH7HRodkIIF+EcS3dFs7i2Jj0d/XMHlAbSt/O9GHNxqldV/I0QNyUxndg37yvvwQs0xprVIeNuy7c/VLQXQbnvhyKW3cKTUzkG/WmKpRfFKJ/vVxLcQE6UaziMNau/3+vC/r234j300evswO6FWiGLJTn/MByVui/i4J0jHokPovLpQHwyIdJQu8S2WFNdBMHRGknikwLscLUAgA2/scji8YRbxOpu2mFU+UE0H6XKX1Kt3BMvwEkKzYUlrPHRYQfpzlUr5+IddbNFXbwU5fXlQ==;BBo2q87zrF5vr7O0U0duRw=="
 ---

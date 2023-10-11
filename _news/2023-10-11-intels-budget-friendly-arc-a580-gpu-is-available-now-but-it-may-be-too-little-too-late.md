@@ -7,7 +7,7 @@ originalUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/intels-
 webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/intels-budget-friendly-arc-a580-gpu-is-available-now-but-it-may-be-too-little-too-late"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel Arc A580 Gaming GPU Finally Launched for Only $179"
+    excerpt: "Intel has officially introduced the Arc A580 discrete graphics card, marking a global launch available as of today. The A580 boasts 24 Xe cores, ray"
+    publishedDateTime: 2023-10-11T06:48:00Z
+    webUrl: "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/"
+    ampWebUrl: "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2023/10/Intel-Arc-A580-3-e1697006486692.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Intel launches Arc A580 GPU at a cheap price - but you'd still be foolish to buy it right now"
     excerpt: "Mainly because at the time of writing, the Arc A750 has been cut in price so it's only a touch more expensive - and it gives you a bit of extra pep."
     publishedDateTime: 2023-10-10T15:50:00Z

@@ -21,35 +21,44 @@ topics:
   - AI
 
 related:
-  - title: "Australian robotics and manufacturing hub levels data field"
-    excerpt: "ARM Hub announced yesterday that it will launch Data and Artificial-intelligence-as-a-Service offering in 2024."
-    publishedDateTime: 2023-10-10T01:20:00Z
-    webUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturing-hub-levels-data-field/"
+  - title: "Australia’s Telecommunications Industry Following Global Peers on Generative AI"
+    excerpt: "Global telcos are already deploying generative AI. Chatbots are likely the first use cases in Australia, but data security challenges remain."
+    publishedDateTime: 2023-10-06T16:19:00Z
+    webUrl: "https://www.techrepublic.com/article/telcos-embracing-generative-ai-australia-new-zealand/"
     type: article
     provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 63
     images:
-      - url: "https://assets.primecreative.com.au/imagegen/280/-/assets/momoads/2023/08/04/115639/IMG_20230728_113222.jpg"
-        width: 280
-        height: 210
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
+        width: 270
+        height: 203
         isCached: true
-  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
-    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
-    publishedDateTime: 2023-10-08T23:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
+  - title: "Swedish artist takes out Australia’s inaugural AI art prize"
+    excerpt: "The nation’s first prize celebrating AI artwork has been awarded to Swede Annika Nordenskiöld, with the competition aiming to explore where the use of tech fits in the art world."
+    publishedDateTime: 2023-10-08T08:59:00Z
+    webUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1"
+    ampWebUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
+  - title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
+    excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
+    publishedDateTime: 2023-10-07T08:00:00Z
+    webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
     images:
-      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
-        width: 620
-        height: 372
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
     excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."

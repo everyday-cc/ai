@@ -28,17 +28,17 @@ images:
 related:
   - title: "Artificial intelligence is making online romance scams more believable"
     excerpt: "Online romance scams for years are nothing new. Unfortunately, advances in artificial intelligence are making these fake profiles look even more real. How is AI improving the quality of romance scams?"
-    publishedDateTime: 2023-10-10T22:00:00Z
-    webUrl: "https://okcfox.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-    ampWebUrl: "https://okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-    cdnAmpWebUrl: "https://okcfox-com.cdn.ampproject.org/c/s/okcfox.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+    publishedDateTime: 2023-10-10T18:00:00Z
+    webUrl: "https://wjla.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+    ampWebUrl: "https://wjla.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+    cdnAmpWebUrl: "https://wjla-com.cdn.ampproject.org/c/s/wjla.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
     type: article
     provider:
-      name: okcfox
-      domain: okcfox.com
+      name: wjla
+      domain: wjla.com
     quality: 57
     images:
-      - url: "https://okcfox.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
+      - url: "https://wjla.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
         width: 986
         height: 555
         isCached: true

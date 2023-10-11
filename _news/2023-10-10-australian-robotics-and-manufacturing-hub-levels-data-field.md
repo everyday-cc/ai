@@ -7,8 +7,8 @@ originalUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturin
 webUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturing-hub-levels-data-field/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: Manufacturers' Monthly
@@ -41,31 +41,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
-    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
-    publishedDateTime: 2023-10-09T04:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/10/09/australia-s-voice-referendum-what-is-it-why-does-it-matter-polling-and-voting/80537f70-6686-11ee-9753-2b3742e96987_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
-    excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
-    publishedDateTime: 2023-10-10T06:26:00Z
-    webUrl: "https://www.voanews.com/a/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    ampWebUrl: "https://www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    type: article
-    provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
 
 secured: "LXlmDcpFBl+rT6rBJ3IQYApeS9UzJ7oHEYUAV0XZ4afhbqs0URV3tsydXeom2Wozr1P/JZ4kXpkGnyPtu3kyTtM6gJCh9/Ru3oGr+8mcqoIe6g3zolH3p1nqjR1UHql6P23ST28gv5DWnGu5+J3BxEs8k5UmgTXjkaYcQbk1q1FtV+/As7DI2+qxUxzoMRkohy1Mxv5qeejGYEYU/WAc88xJnpRCX+bpFpimu3yiW4gKZTALsGpKZeESNGHElLO6GeuFloFj6Mn0stY8YHC+gtigus+SFNq21Qngl5rs3tAYlwI00AUvWHXNEBEPVrHbhxlRQYkbMVEyDU+tBo022a+No/jskAKoY2oe2tSaPTY=;GLIV3+YlEZEDiNZKB7Chtw=="
 ---

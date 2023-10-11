@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-driving-generative-
 webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search/"
 type: article
 quality: 108
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Why Generative AI Will Help And Not Hinder Human Connection"
-    excerpt: "Of course, a successful AI-enabled communication integration isn’t as simple as dropping generative AI and expecting immediate transformation of the contact center."
-    publishedDateTime: 2023-10-06T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/why-generative-ai-will-help-and-not-hinder-human-connection/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Addressing the Abuses of Generative AI in the Legal Profession"
     excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
     publishedDateTime: 2023-10-09T13:17:00Z

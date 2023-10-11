@@ -42,20 +42,6 @@ related:
         width: 726
         height: 481
         isCached: true
-  - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
-    excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
-    publishedDateTime: 2023-10-06T14:55:00Z
-    webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 44
-    images:
-      - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
     excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
     publishedDateTime: 2023-10-09T18:01:00Z

@@ -73,6 +73,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Razorpay Launches AI-Powered ‘Optimizer’ to Mitigate Transaction Failures"
+    excerpt: "RazorPay the leading full-stack fintech platform has made a significant move with the launch of 'Optimizer'. This advanced AI-powered payments"
+    publishedDateTime: 2023-10-11T07:43:00Z
+    webUrl: "https://www.dqindia.com/razorpay-launches-ai-powered-optimizer-to-mitigate-transaction-failures/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 18
 
 secured: "o8Ej3ZbGS6T8We54MzhOtMvt2JEDAnrDzwWA9MNaHX+5bErA9LVhHXdRBZR9u3D7CeSVb860pgWlWM/y735CJ2T1e0ySLHcibakbfsM2dTuFGSrY5ZzMP0wveBgdw6+deglpVb8CN+tDDqGyCe0+DdLZLXTlCskaDpBB1VHfYzfPsoLUB30Fa58jGGZ4e7jc9gyMbK0bHNRqbf9V0DwQw3M4drSPcOF2A/5oSFBl4BhYxryxNqoXLDziI8S9/I8w1bgFGlVc7lRMDLTL9jakzL0572z+mp4GTMe5CD41PpOJZBsoKs9Hn1l5Or4lJ6+qbpaNOl3VCMH4HnzdIyiV14PkTSP+OA1cl7a59btHRwKib6Rv7minIIo7oYBou09CR465ZirAddwHFAoz8LkiDequfuShjII7h/OJAbuNcZVV+IsdEDbdRoywEs5kWIgLi2hQzOg/6NyDRMq40ourlLoPgjyoNW/dLyDYht71jnwQqk3Xk/SUGLQGDHKcjakLbtw1uQFYvGa8pCoScrmZKQ==;uDzWLp+cV5duvX7zyuVPjQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/video-surveillance/article/53074
 webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53074573/axis-execs-talk-ai-regulation-cloud-economics-cybersecurity-and-more"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Deep Learning Is Moving Cybersecurity From A Reactive Response To Proactive Prevention"
-    excerpt: "In the battle against cybercrime, AI automation and deep learning models are crucial elements that are important to understand."
-    publishedDateTime: 2023-10-06T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/how-deep-learning-is-moving-cybersecurity-from-a-reactive-response-to-proactive-prevention/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 39
   - title: "Three advanced cybersecurity technologies for banks, financial services"
     excerpt: "Three zero-trust security technologies for banks, financial service organisations, and insurance companies were introduced at the Smart Banking 2023 international conference and exhibition."
     publishedDateTime: 2023-10-09T07:59:00Z

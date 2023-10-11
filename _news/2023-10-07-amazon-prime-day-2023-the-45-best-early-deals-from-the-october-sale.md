@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The best movies on Amazon Prime Video (October 2023)"
-    excerpt: "Amazon Prime Video‘s best movies tend to be dominated by films from other studios, as exemplified by the large number of Warner Bros. movies currently in Prime Video’s top ten. But for the ..."
-    publishedDateTime: 2023-10-06T14:31:00Z
-    webUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/"
-    ampWebUrl: "https://www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/best-movies-on-amazon-prime/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/Totally-Killer-Movie.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Amazon Prime Day 2023 - the 50+ best early deals from the October sale"
     excerpt: "Prime Big Deal Days is nearly here. Amazon's latest sales event - which is effectively another Prime Day - starts tomorrow (October 10) and runs until the end of Wednesday (October 11), with 48 ..."
     publishedDateTime: 2023-10-09T10:56:00Z

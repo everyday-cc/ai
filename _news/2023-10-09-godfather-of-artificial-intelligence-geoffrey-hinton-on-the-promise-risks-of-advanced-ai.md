@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minut
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
-  - title: "Geoffrey Hinton and Fei-Fei Li draw thousands to talk about responsible AI development"
-    excerpt: "A University Professor Emeritus at the University of Toronto who has been called the “godfather of AI,” Hinton has spent the past six months warning about the existential threat posed by the rapid development of large language models such as ChatGPT and Google’s PaLM – let alone nearer-term risks such as joblessness, fake news and “battle robots.”"
-    publishedDateTime: 2023-10-06T15:01:00Z
-    webUrl: "https://www.utoronto.ca/news/geoffrey-hinton-and-fei-fei-li-draw-thousands-talk-about-responsible-ai-development"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 31
-    images:
-      - url: "https://www.utoronto.ca/sites/default/files/2023-10/2023-10-04-Geoffrey-Hinton-and-Fei-Fei-Li_Photo-Polina-Teif-10-crop.jpg"
-        width: 1140
-        height: 760
-        isCached: true
   - title: "AI “might take over” one day if it isn’t developed responsibly, Geoffrey Hinton warns"
     excerpt: "There’s no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI’s benefits and dangers with Scott Pelley."
     publishedDateTime: 2023-10-08T23:29:00Z

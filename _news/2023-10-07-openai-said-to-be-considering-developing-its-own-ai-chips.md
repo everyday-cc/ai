@@ -39,22 +39,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "CEO Sam Altman has made the acquisition of more AI chips a top priority for the company. He has publicly complained about the scarcity of graphics processing units, a market dominated by Nvidia, which controls more than 80% of the global market for the chips best suited to run AI applications."
-    publishedDateTime: 2023-10-06T14:04:00Z
-    webUrl: "https://www.cnbc.com/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/06/chatgpt-owner-openai-is-exploring-making-its-own-ai-chips.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107219043-1680484099227-gettyimages-1250610099-raa-openaigp230402_nptCd.jpeg?v=1696608249"
-        width: 594
-        height: 395
-        isCached: true
   - title: "OpenAI Apparently Wants to Make Its Own AI Chips on Top of the 'iPhone for AI'"
     excerpt: "The AI development boom has resulted in chip shortages and skyrocketing prices creating an opportunity for a new player."
     publishedDateTime: 2023-10-06T15:35:00Z
@@ -101,31 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT’s OpenAI Seeks To Build Own AI Chips Via M&A: Report"
-    excerpt: "ChatGPT owner OpenAI to build AI chips and GPUs with Microsoft investments as the semiconductor market is led by startups like Anthropic via AWS."
-    publishedDateTime: 2023-10-06T13:49:00Z
-    webUrl: "https://www.crn.com/news/cloud/chatgpt-s-openai-seeks-to-build-own-ai-chips-via-m-a-report"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/027e-17465da7137e-5c78c13f1a2b-1000/openai.jpeg"
-        width: 611
-        height: 458
-        isCached: true
-  - title: "OpenAI Considers Own AI Chips Amidst Shortages"
-    excerpt: "OpenAI, known for its brainchild ChatGPT, has a new idea on the horizon: making its own AI chips. Sources tell Reuters that OpenAI wants specific technology which is currently scarce. This move could"
-    publishedDateTime: 2023-10-06T13:45:00Z
-    webUrl: "https://techround.co.uk/news/openai-considers-own-ai-chips-amidst-shortages/"
-    ampWebUrl: "https://techround.co.uk/news/openai-considers-own-ai-chips-amidst-shortages/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/openai-considers-own-ai-chips-amidst-shortages/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 54
   - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
     excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
     publishedDateTime: 2023-10-07T08:50:00Z

@@ -184,22 +184,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 79
-  - title: "UBS remain constructive on Microsoft ahead of 'key AI catalysts'"
-    excerpt: "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday."
-    publishedDateTime: 2023-10-06T14:53:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530"
-    ampWebUrl: "https://m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
-    cdnAmpWebUrl: "https://m-investing-com.cdn.ampproject.org/c/s/m.investing.com/news/stock-market-news/ubs-remain-constructive-on-microsoft-ahead-of-key-ai-catalysts-432SI-3192530?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 76
-    images:
-      - url: "https://i-invdn-com.investing.com/news/Microsoft_800x533_L_1412259239.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft, Google, And Adobe Navigate AI's Profitability Challenge"
     excerpt: "These AI technologies, capable of generating business memos and computer code, are costly due to their need for powerful servers and energy-intensive chips. Microsoft reportedly incurred losses on one of its initial generative AI products, the Wall Street ..."
     publishedDateTime: 2023-10-09T15:26:00Z
@@ -225,6 +209,22 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
+  - title: "Microsoft announces new AI chatbot, features for doctors, pathologists"
+    excerpt: "Microsoft has unveiled new healthcare tools in Azure AI, including a generative AI chatbot, Text Analytics for health, and three new models within Azu"
+    publishedDateTime: 2023-10-11T06:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/articleshow/104334034.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/amp_articleshow/104334034.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/amp_articleshow/104334034.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-104334034,width-1280,height-720,resizemode-4/104334034.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
     excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
     publishedDateTime: 2023-10-06T21:13:00Z
@@ -329,20 +329,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 62
-  - title: "Microsoft Stock: Don't Overlook This AI Pick Hiding in Plain Sight"
-    excerpt: "Apple may be the company that can bring forth the real sea change in the search space. Reportedly, Microsoft pitched Bing to Apple as a replacement for its default search option way back in 2020. Ultimately,"
-    publishedDateTime: 2023-10-06T14:28:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AAPL-Q/pressreleases/20898461/microsoft-stock-dont-overlook-this-ai-pick-hiding-in-plain-sight/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 54
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/252f5c3126fe5d8c8091b518774c5dbf/zaybb216crh9inxl.png"
-        width: 884
-        height: 640
-        isCached: true
   - title: "Microsoft unveils new generative AI products for health systems"
     excerpt: "The launches tie in with Microsoft’s ethos of developing high-impact but low-risk use cases for AI in healthcare, according to Microsoft’s VP of healthcare."
     publishedDateTime: 2023-10-10T16:47:00Z
@@ -482,6 +468,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 26
+  - title: "Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences"
+    excerpt: "Every industry depends on unique insights to achieve their goals, and unlocking the power of data is the key to an organization’s success. This is especially true in healthcare, where data has the potential to do so much good – from improving health outcomes and enhancing patient and clinician experiences to driving better organizational"
+    publishedDateTime: 2023-10-11T05:38:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/10/10/microsoft-introduces-new-data-and-ai-solutions-to-help-healthcare-organizations-unlock-insights-and-improve-patient-and-clinician-experiences/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 16
   - title: "Grid Dynamics Deepens Partnership with Microsoft by Earning Coveted Specialization in the Azure Migrate and Modernize Program"
     excerpt: "Grid Dynamics secures the sought-after Infra and Database Migration to Microsoft Azure Specialization, deepening its status as a Microsoft AI Cloud Partner and broadening its participation"
     publishedDateTime: 2023-10-10T12:50:00Z
