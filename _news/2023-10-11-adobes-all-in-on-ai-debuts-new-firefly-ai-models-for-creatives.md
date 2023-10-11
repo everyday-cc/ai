@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "What New Business Models Will AI Create Next?"
-    excerpt: "How to thrive in the new AI business world. AI is likely to generate many disruptive business models. How to thrive? How to survive?"
-    publishedDateTime: 2023-10-06T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/"
-    ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2023/10/06/what-new-business-models-will-ai-create-next/amp/"
+  - title: "Adobe Unveils Firefly Image 2 AI at Max Conference"
+    excerpt: "New generative AI for vector images, AI template design, lens blur in Lightroom, direct social publishing in Premiere Pro, and the GenStudio enterprise workflow solution were also covered."
+    publishedDateTime: 2023-10-10T16:09:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65203bd9cad7db72c330b81b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 898
+      - url: "https://i.pcmag.com/imagery/articles/05WgEg7RjQu7K4RunRWAmRA-1.fit_lim.size_1200x630.v1696882852.png"
+        width: 1117
+        height: 630
+        isCached: true
+  - title: "Adobe Highlights New Generative AI Features for Photoshop and More"
+    excerpt: "MAX conference, Adobe today provided insight into its plans for generative AI technology in Photoshop, Illustrator, and other"
+    publishedDateTime: 2023-10-10T22:31:00Z
+    webUrl: "https://www.macrumors.com/2023/10/10/adobe-generative-ai-features/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 37
+    images:
+      - url: "https://images.macrumors.com/t/mYTqbQN-5cbRxVBdcNykZ3Lawl4=/1600x/article-new/2023/10/adobe-generative-fill-photoshop.jpg"
+        width: 1600
+        height: 878
         isCached: true
 
 secured: "jyOTJAG9MSTseas2lqfy0fdpsDulAM91rH6FpbRY/I79LjlyHctnnoRArjCrsmA7L15DLa08C/1QPDRAII6C6uP6jNbxGuZYpe2G9r/3OEJMKOMjtlUYQHua7i9fjALg16OAtpD1uVp/imrrHcbcS6aJ6GUSNvmd9+jPkPtyUjN/ZavfR+8CcJ510FAjfVVrDuPgyNKuXwMVPI3wrVXtnOvn6VwoOkaiv19PNVwLeAjJtAELri9v3aedjeL4BgAfbcfySg+2F1lABwKtudpY85lDGLMKC63RDQDvnGFuEyUsEHGhxOOD4bAYK86pyqOP2/HK+RO1CnfuThAp7uoZuuG/U0cEFj8F2qcDTQpRYb+P9VBEl3VU/gFC8CuBKygEL5wzP2+hKPxcV6OlDAq7NXYl6wkN+/9nBPauOYC7kE2khYb8n7f1n7kzJAZ7WJqPoceXvvdAORqWvs5cFyrTFVBkKN5qh2a+QVxyZIEXX9pLc4r0HcJ5nq2ZGSFfJVB7k/b5bmzKdL7az1WnmKR4ng==;GwB46uQE5A+P+v7OufbCiw=="

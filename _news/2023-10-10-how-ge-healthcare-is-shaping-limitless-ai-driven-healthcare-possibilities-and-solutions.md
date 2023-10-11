@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/"
 type: article
 quality: 96
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: HealthTech
       domain: healthtechzone.com
     quality: 34
-  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
-    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
-    publishedDateTime: 2023-10-06T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231006407902/en/GE-HealthCare-Launches-Enhanced-Venue-Family-Point-of-Care-Ultrasound-Systems-Featuring-AI-Driven-Caption-Guidance"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "+20mF9ovmA+G6XTt7zZw3yJ+MqtvtNKYvz5JuevoWxq8QclS4JQFGfm5Qsm4b4IdsVddMTIiB3/ZBFovIpkAOemxlLDy09/pQE9gLS7Wrs9AlAClppujCd/614Y8Iz1MR+3tkW+uoX+qjM/d1q1KrTA5qKfgTv9OI4JqcNdV476WIZ1GsI3sZVow20nzT8w9PLQZWtGyQpduB1XkdTZAPfIjZtGOtS5icawrA2nLIifbOYLaDRMMu7EButPRVjve/y7X+XdCJEojOjWZJrsHOOo0FWXKbFIxP6jA+Ed/4gQwmKqUlARLr6nFhtemifS/hwhQPZZwa+pfCN5LAxnnE+RlGjVAszjBzzMJGvk7JAJte9XTdL317IEonWE60KkdbcR0fxh6PT/QKTkViev/uwD+6oGOAzprmbX0OXS06yV3ygwkXtjIix7Q7AAmQfm0WkfA0iijZ7oJCLLyBnuGkOCvnPDN0cKHko3MtzwLSpJauR1WMcnJFCDarKRCOcdsByyJfIvLmLvuBWHFDQh9yw==;KUO0ntUw6iEpbwvbwBVGYw=="
 ---

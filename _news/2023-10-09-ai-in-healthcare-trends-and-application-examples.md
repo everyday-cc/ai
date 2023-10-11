@@ -35,15 +35,6 @@ related:
         width: 1497
         height: 900
         isCached: true
-  - title: "GE HealthCare Launches Enhanced Venue Family Point-of-Care Ultrasound Systems Featuring AI-Driven Caption Guidance"
-    excerpt: "GE HealthCare (Nasdaq: GEHC) today announced its Venue Family point-of-care ultrasound systems will now feature Caption Guidance, artificial intellige"
-    publishedDateTime: 2023-10-06T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231006407902/en/GE-HealthCare-Launches-Enhanced-Venue-Family-Point-of-Care-Ultrasound-Systems-Featuring-AI-Driven-Caption-Guidance"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 12
 
 secured: "6/xPlu3ZYX4dF1rk6g4DwBHFtLabx6vsCdHeQx9HzPZDT5UlQUEjWmbMpLy7AZKt3pdvj/6OoohfOmCpcdhUiE6DbmEjhm4Eo5GXlQ4Hn3gj9nWDSawdo2kqKeUjHYjaxLHh7xs2TQw6q1xk5iL4jVawfZcG0tdAqrmfQ+fx+apXrQK7ShC3uKO4UFuBIuVO1ST2xK+YgA6dGTYKz62KQAo1IMmKmTQEC0ZuFpYsWeWyWBq0oCy6BKb2rLDxxnVU2Yf80AVRwQA89iMbYflvNGQXfx+baQ8sRBbdXAhNTg7YkJFFmMXJ7MHU/XNXtSX6ZOg0f3cAEcmLwFzT/XC1kKVIpmYBeG8xxh0cF7eNaBY=;vixK012c24BK/ne1ptnoZg=="
 ---

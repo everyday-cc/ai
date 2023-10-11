@@ -119,6 +119,22 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
+    excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
+    publishedDateTime: 2023-10-11T09:10:00Z
+    webUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/"
+    ampWebUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 91
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/microsoft-ai-tools-healthcare.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft prepares to debut inaugural AI chip at upcoming ignite conference"
     excerpt: "Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip at the forthcoming 'Ignite' developers' conference, slated for next month. This strategic move is aimed at diminishing Microsoft's dependency on Nvidia-manufactured AI chips,"
     publishedDateTime: 2023-10-08T11:03:00Z

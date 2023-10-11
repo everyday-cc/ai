@@ -21,6 +21,19 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Swedish artist takes out Australia’s inaugural AI art prize"
+    excerpt: "The nation’s first prize celebrating AI artwork has been awarded to Swede Annika Nordenskiöld, with the competition aiming to explore where the use of tech fits in the art world."
+    publishedDateTime: 2023-10-08T08:59:00Z
+    webUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1"
+    ampWebUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
+
 secured: "Tq9UBw0T6k8f2IRncf+9AayivSNKroUHEq4AH8+K/CS/j2UrQJUoTjjJYdpFiKAvk4mx7+rc3NJUdlhHwTcaINNCasNsXMsHx2im1oxWa82VFAZ5GZjNK6LQiEY21tmtMEWPYwg9Wz+V4cclS9rbK7zCt9NuZa3DYiMVrzxrT1166VAQ9MZ3iuEU7+b9crRyQmMr7C0eZsUDgrHWj+s/vA7oP1wuq2+S6yTeXllej+8n294KGq112S1YC9gcsw1Pg3rDHTu8h9N0ZDPmNIzzURIYg1QCA2AdgrRgBTvZ1KpH6ZJK4tDZt5/TJrk1X+pHe+E/xSuLPe9FqOI73cz+tC1g3ovDwWmNlmAA8doWBNov5lem7CsfYBPMrI3m2WyzMHJIzl3Zkj0OHXVcp0ZcfvmAYeNmciKP7aYsn0cei9feHirSrrq4rOs+JRgYxX3FRsLsFdxnii8tY83oWW1hsTD44sT8Du9zi8vyAJ5yiq25RwMqkkznHYUsHKttBM7I7NJhV1X1E2KmLjaobN/2VA==;h56Dt3TPSIiPr8uL4RdrOQ=="
 ---
 

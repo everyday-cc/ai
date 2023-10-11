@@ -18,19 +18,72 @@ topics:
   - AI
 
 related:
-  - title: "AWS: Kiwi SMEs are yet to fully realise the potential of cloud"
-    excerpt: "A new report from Amazon Web Services has found many New Zealand SMEs are only using the most basic of cloud services."
-    publishedDateTime: 2023-10-10T00:46:00Z
-    webUrl: "https://www.reseller.co.nz/article/709068/aws-kiwi-smes-are-yet-to-fully-realise-the-potential-of-cloud/"
+  - title: "The future of augmented reality is AI"
+    excerpt: "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text."
+    publishedDateTime: 2023-10-10T06:59:00Z
+    webUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 39
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/tim_dacomde-bird_aws.jpg"
-        width: 504
-        height: 315
+      - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Future of Work: 3 Ways Automation and AI Will Change the Job Market"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although some may feel that AI only came about in the last year, its"
+    publishedDateTime: 2023-10-07T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-work-3-ways-automation-and-ai-will-change-the-job-market-1032685963"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "The use of artificial intelligence and natural language processing for mental health interventions"
+    excerpt: "In a recent article published in Translational Psychiatry, researchers performed a systemic review and meta-analysis of scientific papers using an artificial intelligence (AI)-based tool that uses Natural Language Processing (NLP) to examine mental health interventions (MHI)."
+    publishedDateTime: 2023-10-10T11:23:00Z
+    webUrl: "https://www.news-medical.net/news/20231010/The-use-of-artificial-intelligence-and-natural-language-processing-for-mental-health-interventions.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 42
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761207_16969368716476864.jpg"
+        width: 2000
+        height: 1322
+        isCached: true
+  - title: "Artificial intelligence and the future of humanity"
+    excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
+    publishedDateTime: 2023-10-10T19:00:00Z
+    webUrl: "https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-humanity/"
+    type: article
+    provider:
+      name: aspistrategist.org.au
+      domain: aspistrategist.org.au
+    quality: 41
+    images:
+      - url: "https://www.aspistrategist.org.au/wp-content/uploads/2023/09/GettyImages-1404749040.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "Most HR teams are avoiding use of AI in recruitment"
+    excerpt: "HR professionals said they do not use AI in recruitment and most don’t have plans to do so in the next 12 months, according to a new survey from the Recruitment and Employment Confederation (REC)."
+    publishedDateTime: 2023-10-09T09:57:00Z
+    webUrl: "https://www.hrmagazine.co.uk/content/news/most-hr-teams-are-avoiding-use-of-ai-in-recruitment"
+    type: article
+    provider:
+      name: HR Magazine
+      domain: hrmagazine.co.uk
+    quality: 37
+    images:
+      - url: "https://www.hrmagazine.co.uk/media/li5cksfe/ai-recruitment-adobestock_506577011.jpeg"
+        width: 4249
+        height: 2681
         isCached: true
 
 secured: "7ntuOClTWeZEldiry9lzu2VC7GZEG1Bqu6I9Ry81yetbIDsz2D4seym7JJtyG7HBGQAaJsOm3DikP0t1v0BhA/6FgFwSR2fNGFOmjw6x+Z/seN3x7VlcPx+TH6hL85v/8VaoJ0C1R7OgND8lRtDUBQsocfCkshe1Cv/qwRowQ6dDTP+PcbOTG/FzLIcMEF8pJjPENOG4YNlT0CuboQEYtNgTaRKf97l14uyQRzuFKUlvLvz1nAIPHMZnBdNNWkHf+qU2EmoGQ973Sp8koMAoTttibpkNiJnuuNWGqcgg//42u9TAmxqkbi0qJb2UXNay7Xs6ettzSZnJew6QtT21PuSSlKRcXFq6OgHP7jn7XdlJ/z8r1bk4J/YHrYbBrnVPdJrjtldU+g+nmEhuoAutTkoAo3LwKrizk5hr1Uv3Dxk6mTYbWckVsorct1k6wcO8oOalCek7LKKx3yRNuIR0YLj6jLqrEcIjBq0qoxOenJ0aCrMqH9vQcd6Qb4Va4CMv8QX8BjJZj1xO3nXmJbQCXg==;7W47nn8uIqJSkaDTfnpDBQ=="

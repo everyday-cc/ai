@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Best Amazon deals in October 2023: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
+    publishedDateTime: 2023-10-09T16:00:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "14 things to know about the Voice to Parliament ahead of October 14 referendum"
     excerpt: "In just over a week, Australians will know whether they are to have an Aboriginal and Torres Strait Islander Voice enshrined in the country’s constitution."
     publishedDateTime: 2023-10-08T02:48:00Z

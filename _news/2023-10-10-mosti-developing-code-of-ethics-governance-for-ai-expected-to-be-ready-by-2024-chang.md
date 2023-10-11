@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Malaysia Working On AI Code Of Ethics, To Be Ready By 2024"
+    excerpt: "Malaysia is working on a code of ethics for AI that will be completed by 2024 as ASEAN members move toward regulating the fast-evolving technology."
+    publishedDateTime: 2023-10-11T09:35:00Z
+    webUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024-3714829"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.com/en/full/4492001/malaysia-mosti.png"
+        width: 1050
+        height: 613
+        isCached: true
   - title: "Mosti code of ethics, governance for AI expected in 2024, says minister"
     excerpt: "The Science, Technology and Innovation Ministry's code of ethics and governance for artificial intelligence (AI) is expected to be ready by 2024, says Science, Technology and Innovation Minister Chang Lih Kang."
     publishedDateTime: 2023-10-11T01:06:00Z

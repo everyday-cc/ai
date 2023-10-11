@@ -123,34 +123,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Embracing the Inevitable: The Era of AI-First Companies"
-    excerpt: "The Age of AI is not just approaching, it's already here. This was the topic of discussion during an expert panel and fireside chat I recently hosted that brought together an impressive mix of C-suite technology executives from Fortune 500 firms and leaders from emerging,"
-    publishedDateTime: 2023-10-06T16:27:00Z
-    webUrl: "https://www.unite.ai/embracing-the-inevitable-the-era-of-ai-first-companies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/ai-brain-942x600.png"
-        width: 942
-        height: 600
-        isCached: true
-  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
-    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
-    publishedDateTime: 2023-10-10T04:55:00Z
-    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
-    type: article
-    provider:
-      name: themediaonline.co.za
-      domain: themediaonline.co.za
-    quality: 37
-    images:
-      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
-        width: 700
-        height: 371
-        isCached: true
   - title: "Keeping AIs in Their Box"
     excerpt: "In his latest book, Mustafa Suleyman seeks to advance public debate on AI so that more informed consensus on how to regulate AI can be formed. While the book is interesting and actionable, the topic has been covered in more depth and more succinctly elsewhere,"
     publishedDateTime: 2023-10-07T12:25:00Z

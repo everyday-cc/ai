@@ -41,22 +41,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Researchers create a neural network for genomics that explains how it achieves accurate predictions"
-    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—the engines that drive artificial intelligence and machine learning—thereby illuminating a process that has largely been concealed from users."
-    publishedDateTime: 2023-10-06T15:15:00Z
-    webUrl: "https://techxplore.com/news/2023-10-neural-network-genomics-accurate.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-neural-network-genomics-accurate.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-neural-network-genomics-accurate.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 60
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/researchers-create-a-n-4.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "Neural Network for Genomics Explains How It Achieves Accurate Predictions"
     excerpt: "A new neural network that can explain how it reaches its predictions has been developed to examine the intricacies of RNA splicing."
     publishedDateTime: 2023-10-09T08:09:00Z

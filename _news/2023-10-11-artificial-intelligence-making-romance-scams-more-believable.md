@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Artificial intelligence is making online romance scams more believable"
-    excerpt: "Online romance scams for years are nothing new. Unfortunately, advances in artificial intelligence are making these fake profiles look even more real. How is AI improving the quality of romance scams?"
-    publishedDateTime: 2023-10-10T18:00:00Z
-    webUrl: "https://wjla.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-    ampWebUrl: "https://wjla.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
-    cdnAmpWebUrl: "https://wjla-com.cdn.ampproject.org/c/s/wjla.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+    excerpt: "Online romance scams for years are nothing new. Unfortunately, advances in artificial intelligence are making these fake profiles look even more real. How is AI improving the quality of romance scams? Honestly by a lot, because it's very easy to generate ..."
+    publishedDateTime: 2023-10-10T22:05:00Z
+    webUrl: "https://wwmt.com/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+    ampWebUrl: "https://wwmt.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
+    cdnAmpWebUrl: "https://wwmt-com.cdn.ampproject.org/c/s/wwmt.com/amp/news/nation-world/artificial-intelligence-is-making-online-romance-scams-more-believable-cyber-crime-cybersecurity-ai-nordvpn-virtual-private-network-casanova-con-artists-ai-generated-images-money-bitcoin-facetime-gut-instinct"
     type: article
     provider:
-      name: wjla
-      domain: wjla.com
+      name: wwmt
+      domain: wwmt.com
     quality: 57
     images:
-      - url: "https://wjla.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
+      - url: "https://wwmt.com/resources/media/4036c5d3-cecc-4ac9-bbf3-6a3e9219a85a-large16x9_WJARfileimage.PNG?1637020764197"
         width: 986
         height: 555
         isCached: true

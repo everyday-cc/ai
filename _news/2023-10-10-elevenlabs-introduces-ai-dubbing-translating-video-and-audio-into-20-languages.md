@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-transl
 webUrl: "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 55
+  - title: "AI video dubbing and audio translation using ElevenLabs"
+    excerpt: "The explosion of artificial intelligence (AI) over the past few years is transforming everything it touches  and one such area is the field of AI video"
+    publishedDateTime: 2023-10-11T08:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-video-dubbing-and-audio-translation/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/AI-video-dubbing-and-translation.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "gIZu5ag5C/grL9jQtPCA+sqws+h6tI29MwXsvkCkbfoEpuFxDDan9y9DLJfn6zHK/YflHO8OJcHLPmWJFuN2iYPKFv1dIuHFE/wDjNNxOENx4RjgoUy1sGdbTK5WYglis98HGt5wBf5ZUPvei434NIZuA/vC9UID4ZnoTvEdEua4QancIMuMEES6mdDTb+m4XVplgkJA/Mcs4BqT1oqcvv46h/4BIV+8LwRv8T628cG9m5LyDdUS7/lq7rP4bl4J2IGR/9Tz0Q3w8hrTTyAxwOw8wbrd2q39hYPYPxupmFevcFjvfOLTM5cpPx+amjVigztjLgwTjInE5szAFiTe0baC0m9kRanRMSKh6XzmfgTH/jaR9Y3wtUj0AQykTUDa5TLuZcpXsyQHTMOusIOneM7OH/XjQJKPXyd24Hd0UyHrAYgojUgt+I6qxhwT1HWj5WZMV1ipaCUGogI5m6z6SF/cmjm+X6Nggti5FO1aJ8daAzHx3xusgDcrZc/x0Ihzdb2qjFwFhWpDeQN97tDcGw==;W6tIyPM3YvJM1oy5947eOQ=="
 ---

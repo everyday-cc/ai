@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-impro
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "The impact of generative AI on the AV industry"
+    excerpt: "Electrical also has a chronic shortage of skilled workers. This is where the employment picture becomes more nuanced and less gloomy. Electrical contractors and design firms are using generative AI not because they want to reduce staff but rather because they can’t find enough qualified people in the first place. Sound familiar?"
+    publishedDateTime: 2023-10-11T09:43:00Z
+    webUrl: "https://www.inavateonthenet.net/features/article/the-impact-of-generative-ai-on-the-av-industry"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1697017458/widgetdocs/shutterstock_2309557517_jp4lut.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "C/5zqxbVZeGzBBigW87rWGxURUGrtsNLTCt25wDsw7ubsC/w+SOeE41HVNsgMmy/YMvTSpPgBwzHzkATF+cO4oHyDhsYKXKoaBAfro23JfM2ANFDm2nLuUXbs900bechXX53mddOcpvii6k+lsT8oOKZ+jLrd8e+xxsRh8dQceGNQMx0PxfBYZp0k5s1EkJAtI0X8MULQq1+EacTMlAMMeoh3arat4K1rabcR8B/GqWqhBZPxRqoNAUmbiRZrTHyuQ7Ny2gAV9Mi0uwqlXMTCX4CCajcRmFRlSCDXqTVlvZOSlA+/HJYHxjB/jPaMw6wI328sU+7DvFmUVHCHYd0zPrFh4BOoXGKQHNuuebdG52bUXwf22U8OA0GThLYc5f4n/BhJ43Zl+2huN9Nuc6RFaHNAWg1sUSalOFrBlKwu918BU8ehONaircJd7HMCg6gcASnvuyRFrWsDR3JW0TsHHZuvBR9CLm7CFyeFNS/wJ24Ebc7y3xg8oK/OH16cHaC3iDE+vNn/RInQZ0wP3i6Cg==;1pCY6LyQBnBjdNIsJkf/Qg=="

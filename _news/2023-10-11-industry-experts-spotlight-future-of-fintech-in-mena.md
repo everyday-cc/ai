@@ -129,6 +129,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
+    excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
+    publishedDateTime: 2023-10-11T08:59:00Z
+    webUrl: "https://www.business-standard.com/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 14
   - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
     excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
     publishedDateTime: 2023-10-09T13:30:00Z
@@ -148,6 +159,6 @@ related:
       domain: fintechnews.ch
     quality: 4
 
-secured: "GltZQ5jQeP7hYF8oesgVmVZ6q9orYIlNHA9nO1r81DVwdPleulmxx2caeryov8M8R01TNEsWQRIM+CcQm7Fj0j2sDrqP9Y2+sGlxqhpB7nvj1hKWBLpofDSRcOlUNy3L4m3gH5lD1YfDYfK2tXvumHhWZkuMXM/tOUcslzkYJzs5RMf9nbdMCO/B79w397XVKDmTmo76kdWjiDeUHG5qN6xTVQ7cBiTDyUr/DUJ9VIWLudhNV6VybktiYznF6jRtSFjGc233w5jRoAueniP+Lwx4vyF23lanWB8trbPyazZTFLwjKWO8VXb00camg0kiaUkjnIW1hCR6HBaDoNbYRe/QWthtX1D0/8ibFBoG+yw=;bnTUqHV4ARqwvpZ0VpKwdQ=="
+secured: "K9XkodncozmRHzFEclRkTxozPuzx6SUVeEsKvn1ri4ADRQbA7M5kyUdZeSwb1u8+NRooSuA8hLHBOaEkNvICVhnN9vRHjX9yi8jY2QW13fr81jVyz36WAcEeWJm5Zm+ZP71K33fCnhkU+TubySGR2NsRKn5LtV9V6v8gjmYgmtq0mRnW37370+1w+GVxxGQb85Ab4n/29YKllBVZbMwC11EE+QWD5Rmi7JCRuvlaQNwt8rxp/tr+b2vy5FtfZcNQtflNLeEISZsyCk/1Ka0KX7JURuWznEu5W64L5vNsiIyoYxFNifghetn59veyWW3ccIgiUmWxurK+aSBrIPw32TfV0FpL7VOE3Q11LeQ+oDr1aw/goHFfaFNmgP5246utWfN4+GgvbzkanjQ3nz4/Tui7G8Hl4OmVS+/U8Ip+t4OEzKW0SXSxCsLwuGFqHQBL8pAMGdZW4+j9CRO5yqZAxtEU5VhPFhetBtMuR86jrEGCd8VIpWAbaBjDpnEODlqOPLlzq82i6w5BlY42mUtMyA==;R1hNiRHRWbQrDQ+kxM1Dgg=="
 ---
 

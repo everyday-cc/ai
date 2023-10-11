@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/berkshire-hathaway-charlie-munger-on
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/berkshire-hathaway-charlie-munger-on-ai-being-overhyped-warren-buffett-2023-10?amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Charlie Munger Thinks That Artificial Intelligence (AI) Is Overhyped. Is He Right?"
+    excerpt: "Last week, Munger spoke at Zoom Video Communications ' Zoomtopia conference in San Jose, California. He stated at the conference that he thinks artificial intelligence (AI) is overhyped. Is Munger right?"
+    publishedDateTime: 2023-10-11T09:53:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/11/charlie-munger-artificial-intelligence-ai-overhype/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 76
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/750359/ai-robot-business-people.jpg"
+        width: 2119
+        height: 1414
+        isCached: true
 
 secured: "SybLxMM9yY3pbXU0N5MGQkp6jCDgvklWKFPVzNjCI50h67dQm/dtMX9zSRa9+4Md6qjIleOrGNB3ZSQrh/Dbhh3GQZvpJb46OhBhVVw2eIFoyXhaWfiruyggYeu+zBnluiTVoDNtnjbU/OeOJFFHKoHU2wclDKMjLuB6HL+LKRoLuPL5hQd77anKms6jne5ae928LSfiQKoU0DiqZeunOgXtjSXJu1/49mtHK+mEi8DjZLr2vCjL42gN6gxZAlOOngf8EZ1LA9uc0OdsmvUG2C4W23hoi5u9WAwD+7BLWE+mpJA6itcohr3sRBSUQ6KK+/gYPkE6Ei4pAbNvAk0km8p6kpJx7I7/Xl32WiFivAI=;48HEfv8mlaVDeGeRUBrXsA=="
 ---

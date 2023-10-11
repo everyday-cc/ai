@@ -7,8 +7,8 @@ originalUrl: "https://www.thestar.com.my/news/nation/2023/10/11/mosti-code-of-et
 webUrl: "https://www.thestar.com.my/news/nation/2023/10/11/mosti-code-of-ethics-governance-for-ai-expected-in-2024-says-minister"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Star
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Malaysia Working On AI Code Of Ethics, To Be Ready By 2024"
+    excerpt: "Malaysia is working on a code of ethics for AI that will be completed by 2024 as ASEAN members move toward regulating the fast-evolving technology."
+    publishedDateTime: 2023-10-11T09:35:00Z
+    webUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024-3714829"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://d.ibtimes.com/en/full/4492001/malaysia-mosti.png"
+        width: 1050
+        height: 613
+        isCached: true
   - title: "Malaysia developing AI code of ethics and governance, to be ready by 2024"
     excerpt: "Malaysia's Ministry of Science, Technology and Innovation (MOSTI), in collaboration with Universiti Teknologi Malaysia, representatives of government agencies, higher education institutions and industry players,"
     publishedDateTime: 2023-10-11T03:47:00Z

@@ -61,15 +61,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 12
-  - title: "The Rise of Autonomous Vehicles: Key Electronics Trends for 2023"
-    excerpt: "The automotive industry has been undergoing a seismic shift in recent years with the emergence and rapid development of autonomous vehicles. These self-driving cars have the potential to revolutionize transportation by increasing safety,"
-    publishedDateTime: 2023-10-08T13:33:00Z
-    webUrl: "https://techbullion.com/the-rise-of-autonomous-vehicles-key-electronics-trends-for-2023/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "u7J/OPzjPqM1wszUqrOZYiHPI3Tg2AKDil3QcZQMyWuM/SOzY+1P9MzpLgUCfRMi8HyuO8IkOQ7jRxCqkfz8W9YNbza5k11uX4yYtBVF58Yjyd5WusxeLC7D7qsU4UdCz5H9+Zlt7Daoh8gSS5xTko9QPO0DekP4ZMxEn+trGZ/ImKq9z1CEit9H5LPOWQ/vGnFdQSE9xebpaOVmvfT9xWF+7TDA2wP3Nq6oPoF38vG8wUb90iUYNmAq9/wMcPczVG2FxTFFvmWq2qgzx6XOcWtecibu0C5jZuMS0py9feruyY13sAU97zgp+8EHbpqlcp9nWNLVPKYcqj5rBIjM3OP+vW1qGujJa2fcJNL9VFU=;hERALB+CBO73hJrrRy/rlA=="
 ---

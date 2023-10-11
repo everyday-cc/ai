@@ -46,6 +46,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 55
+  - title: "AI video dubbing and audio translation using ElevenLabs"
+    excerpt: "The explosion of artificial intelligence (AI) over the past few years is transforming everything it touches  and one such area is the field of AI video"
+    publishedDateTime: 2023-10-11T08:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-video-dubbing-and-audio-translation/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/AI-video-dubbing-and-translation.jpg"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "T2UhhDCbsmnVnu9e0I72YEMpbuQq6uOV2MQibGRVxSgE0oIPH9CX/HvB79gLFtOYhtTvTRMg8VsY/bFF4VYZJcrPKpNuknC8Yfdv3kCzGP+THFhqXB7McgAageXX18Fdk3EFL45jm4X0twP1Pl71hA0eURcGg0RQQnINu6/WVF3P54eFBEevpwnir2lM74CgrMtxII2mivZU3efJWbnQZK8nLMJVCtYaHKj6K0uczDnexUxaILJvzmSEVwqU/bZDsbf8h2t5ZIAtGAduZ1grgpvq1BQ9sz33Q2nOC6bxJybIJAcdIqNUarVa293m87wXjyH8y1zLsZ5QDssYM8Fm9IK57oBJV5rcnyLdqpNU7yZg9W0Wkh1SfplueDNP7B/81Farrq68BtllPzTx0xbZu/EeJwnS6N2ZMKLERqLReoUjB9smWnvLaRqzA2cXbW1KRiGtcPAdMB8iDW5Td3vkn4t75RJR5yc534Ge02wLh7ErbObCvcIQf6xeXc3CS7CHlKRVbDwnwmXwycY0sgHFAA==;wWPtWsDnPQVeXoojtOLzzg=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "U.S. Warns E.U.’s Landmark AI Policy Will Only Benefit Big Tech"
-    excerpt: "The U.S. warned the E.U. that its proposed law to regulate AI would favor companies with resources and hurt smaller firms, documents show."
-    publishedDateTime: 2023-10-06T15:40:00Z
-    webUrl: "https://time.com/6321354/us-eu-ai-policy-warning/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/03/biden-ursula-von-der-leyen-european-council-us-diplomacy-climate-change.jpg?quality&#x3D;85"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "7dljG96obQO5tCLGFYIWhdy3cvnV5uo47D/WCakD3M8yN1PdsTTMFgQ+RDyw3tsTu03+cQ4ZZ9UnjRo+WfJocOOUFnT69gVJ0gOV8y0qF7x+KTpH/UmFuFW3nnmSiorJJb/D81VocsKZX4uqKZFRWyd6OdgefkQ/YmsGmwaa9MM+97RqYQkIViut5HeGE2ov2Rw4bG6MwvMjKZCBbN7ir+5o2y9W4mLQHGmEOqJtEKC7yUBGuB2oi7A1d8SI7YcEAfyEVPy01/oQlDtlnipbFzJ0QdU0YnoCKuAFdGytClm18PGro1TkMfCTGCa2JB7F0nC3yKL0tWg4FL3gBE18OwzIUZ/Wkv024iJlPWmosoyWUe3nddHyNDICKqrmOwMn8RQ3pqm6GOi+UPIsI3zSn8F0iaBjiDhjk5d3KLvjRyP/wnAsA0RqCpe1M5x3PtlealmtBCXc0YdTgA9cZ8BteZ7IdPnvny1OKw8nGdptFV47ZZQlmd9AfLguob3p3PcaNgX8BuEdNejdKWzAAHcE8A==;sCp+awVPzttF728FHyILNw=="
 ---

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities"
+    excerpt: "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,"
+    publishedDateTime: 2023-10-11T07:29:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AMD to acquire Nod.AI open-source AI software startup"
     excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
     publishedDateTime: 2023-10-10T19:40:00Z
@@ -77,6 +91,20 @@ related:
         width: 800
         height: 553
         isCached: true
+  - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
+    excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
+    publishedDateTime: 2023-10-11T08:58:00Z
+    webUrl: "https://www.econotimes.com/AMD-to-Acquire-Software-StartupNodai-in-Boost-to-AI-Chip-Software-Capabilities-1664133"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/10/f872o4iabc_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
   - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
     excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
     publishedDateTime: 2023-10-11T05:06:00Z
@@ -115,6 +143,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "gj99MpUHzjiuqpIAMZGsX2gA6K2j+BZWh7Bb0ayEy8npW7XB/gPg4w4lzjgwXunXt7pg8GOdGp+vl91dfzQVSCfwcRd+MArG2LhvZMlY5cCaOeQwAG3jYcbmGLE0Y2g2g+yV6+AFpxEglmohM1QfVdVjFFUIEqI4QsclI5oQJZBFMD9vmuZfQcQZ+BQNsdbQEnLyl+K7bdLYbSU60s+K1wwPbXH81fedVXSzUsBtgHGsvCIUygoNyJYgEicvpU5oWEV12Lnhfj1y4U/xBq5gObqikbBZtJ5qyL0E/nORMgPrBECWWmOQXNKNjn1554/+3AIKYK+tKfNDysDOdQ5UtRC2jmqWa1L9lG3dcUNHTHQ=;H573HANnulfms5R87kM0EA=="
+secured: "gYrIUAksqcAzDdAuLZcMl+tzlUF4wWmb4OCFtFHq/hIg5vpdj2cb3T5kz8/BkpZx2iJQOskgCuRFnOh4zmi3pFUFXuAJil0B8x+MXLs0/9FsAqBlAMH1sYlf1uU3LOAma6rxnOWkSfJEeOg4XIs0EpVqtA0BRzPprtxpZTNdxgfZbYTLbOwFFR0QHp4QK6IToAiuANY1udQyL88wf91yNBBHap8SX69khZikuWWi8sH9oZpVbKhxRNfuanXC2nDjvJfKE9kZ0Zb9QlKQpsCmTHE0aINKb2CcnHbLhmAAydQoc5p5OrmqsceNEVYIEwlpLfgTm4X8wD70PFEps9ht2cngUkeifsEj6b2Wz175m9NNge6OLCPERYGg5lQ25oclN9gqACXFi2gin4ObnyGPkHrLynM4H45QqMS9USi6OZtH7tU/Tm/MMcWAZ3Dt9ZxD3P9wKuEnuIB9z7MIQYZgNg3ok4Q3HEOCUY0m/CFtJ3mGLMIB7/QYgDo2/dJYZpNKJFesJGP7mNA1zgdNcMgmgg==;Mj3sSWDd/NACrDWbcB/PKw=="
 ---
 

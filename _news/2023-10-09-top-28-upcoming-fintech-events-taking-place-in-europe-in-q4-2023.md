@@ -137,6 +137,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
+    excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
+    publishedDateTime: 2023-10-11T08:59:00Z
+    webUrl: "https://www.business-standard.com/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 14
   - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
     excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
     publishedDateTime: 2023-10-09T13:30:00Z

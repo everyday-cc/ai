@@ -60,15 +60,6 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "The Rise of Autonomous Vehicles: Key Electronics Trends for 2023"
-    excerpt: "The automotive industry has been undergoing a seismic shift in recent years with the emergence and rapid development of autonomous vehicles. These self-driving cars have the potential to revolutionize transportation by increasing safety,"
-    publishedDateTime: 2023-10-08T13:33:00Z
-    webUrl: "https://techbullion.com/the-rise-of-autonomous-vehicles-key-electronics-trends-for-2023/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "kzPiO9Jb1J9JTpyaCAtffpFSg9N+b1aKoVY+UiK11D4Wpm8XKvv6No9SfMrUFDcKXsTIqfg2+6M/fQXw8HF4C3LFTdRSwawvxtRrBFBrwmpbfgy1LWsTJRLnfG789k8sEGTfjhDkuQhwmfKk6AVLa+3JaySMkY51LPLg70H6uNKU9xQTs3nLRIzu9GjoH0RrTNazAIprxuGMLz2lUO04MUOYhalUvMKb6rviB3DR+yX8MgMaI7F5nZGfo5H0cjV57gknQrK+Vr8s6ZgSreoYrboDe3inxLL9tPLD+4aLL1kMuphincBVu8N7nLl/UH1Jq0R7z5N3ycrkK+eKsBGt3SjkdkB4w8oDGoA7yWeTxPtvVD/ysxwCATN6HUe/1loyUY8QcxDnCM49AGn7UNEDOQ6ZCOTIjDEi8ZrvaCMzOjNsYKavpst/gNXUiMwcRLTAhGsXoMil58Ty5cmWiYgv5Yy1k0OjkeLG2ZJj5maqTiFKvHRUQf47ehgKhvkC7LQmeThWkd/JuJogBqWblnUg1A==;yEQQE4tsWpD7U+p4DqaROA=="
 ---

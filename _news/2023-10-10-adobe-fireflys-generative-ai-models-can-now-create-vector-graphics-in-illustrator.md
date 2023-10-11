@@ -129,6 +129,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "The impact of generative AI on the AV industry"
+    excerpt: "Electrical also has a chronic shortage of skilled workers. This is where the employment picture becomes more nuanced and less gloomy. Electrical contractors and design firms are using generative AI not because they want to reduce staff but rather because they can’t find enough qualified people in the first place. Sound familiar?"
+    publishedDateTime: 2023-10-11T09:43:00Z
+    webUrl: "https://www.inavateonthenet.net/features/article/the-impact-of-generative-ai-on-the-av-industry"
+    type: article
+    provider:
+      name: InAVate
+      domain: inavateonthenet.net
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1697017458/widgetdocs/shutterstock_2309557517_jp4lut.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ueVhGVudCfIff+ovI+ECnInWFrY7K50kjwmWyNd8t07BxswI4vvU0QzIn78nFTp2VZuxox/zVy+PRE90VSlPaiP+y06Rrogkt3iqvsGOiZD9yQtaZh179jUeBSkzE/WKN5cD9Gzeeon/J3ACEfS+PyEh3CJZ/K5O3vaycN7Z1vZUu2rIpLnfahXvZsd7CxphObAq2TCjEDGY3pqISfZeGMziec8lrjySMAXJmFhBSlujA8sYG6oOpS3HuZmUnE4TE0tyfr+LhShtNs4Jle92GQ01N/cVV34vV5pebgEq6VPh9LSi/ee48/6Fc1JotabBvhqXoYPG4J0ERYMDqcuZWFmQE0R+yO0fbY9ytLCIZlE=;L7Cq/+YFj0jk+BL3u2H5OA=="
 ---

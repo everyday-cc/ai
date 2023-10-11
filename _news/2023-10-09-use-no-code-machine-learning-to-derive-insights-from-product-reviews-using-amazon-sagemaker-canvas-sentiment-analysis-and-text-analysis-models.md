@@ -58,20 +58,6 @@ related:
         width: 895
         height: 443
         isCached: true
-  - title: "Personalize your generative AI applications with Amazon SageMaker Feature Store"
-    excerpt: "In this post, we elucidate the simple yet powerful idea of combining user profiles and item attributes to generate personalized content recommendations using LLMs. As demonstrated throughout the post, these models hold immense potential in generating high-quality, context-aware input text, which leads"
-    publishedDateTime: 2023-10-06T16:26:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-generative-ai-applications-with-amazon-sagemaker-feature-store/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 100
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/LLMRecIllustration-1183x630.png"
-        width: 1183
-        height: 630
-        isCached: true
   - title: "New – No-code generative AI capabilities now available in Amazon SageMaker Canvas"
     excerpt: "Launched in 2021, Amazon SageMaker Canvas is a visual, point-and-click service that allows business analysts and citizen data scientists to use ready-to-use machine learning (ML) models and build custom ML models to generate accurate predictions without the need to write any code. Ready-to-use models"
     publishedDateTime: 2023-10-10T17:20:10Z
@@ -99,20 +85,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/mistral-7b-sagemaker-jumpstart.jpg"
         width: 894
         height: 448
-        isCached: true
-  - title: "Build an image-to-text generative AI application using multimodality models on Amazon SageMaker"
-    excerpt: "In this post, we provide an overview of popular multimodality models. We also demonstrate how to deploy these pre-trained models on Amazon SageMaker. Furthermore, we discuss the diverse applications of these models, focusing particularly on several real-world scenarios, such as zero-shot tag and attribution"
-    publishedDateTime: 2023-10-06T16:12:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-an-image-to-text-generative-ai-application-using-multimodality-models-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/15/ML-15190-clip-1012x630.png"
-        width: 1012
-        height: 630
         isCached: true
 
 secured: "d6EQS3r/eukJoafYkQJLK65KTddl7J44zSpQ7WOy9CQULK8yn/UtVRrCg8jtrHF+Ns7KBQgQRl8Y6xyOv96LJKiPMT/aLa4fl67INvrJ/EnezvEacfY+OD0I4eAxRHCextSzgm9sDv8O2Oy5gjarzrK5C9huXlSs6BuMAVQZUv5zliphd2hM3N/y8Ok6kGkUVZeCAmazvHW5hAWJ87Lf5NwTAcRQUwlQXkEpoGUfDq8JiacIUefVjahUas2pcwZyJfLaWdKuQmy+f7HvGKFJyfvP22cUAsiHgZ4mo8NRQrLUzVpG6esk1UqfEJNmAjKHfB7oFntMVMjyT5609shsLpHqrHLt09Rf/A+7FX8gdxo=;D4j11C1GNfKneaAQ6keLjg=="

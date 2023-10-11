@@ -35,36 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "OpenAI Apparently Wants to Make Its Own AI Chips on Top of the 'iPhone for AI'"
-    excerpt: "The AI development boom has resulted in chip shortages and skyrocketing prices creating an opportunity for a new player."
-    publishedDateTime: 2023-10-06T15:35:00Z
-    webUrl: "https://gizmodo.com/openai-wants-to-make-its-own-ai-chips-1850906306"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 80
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9f3035c0abb92d35190311a97ccfb936.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI To Join The Custom AI Chip Club?"
-    excerpt: "It would hard to find something that is growing faster than the Nvidia datacenter business, but there is one contender: OpenAI. Open AI is, of course, the creator of the GPT generative AI model and chatbot interface that took the world by storm this year."
-    publishedDateTime: 2023-10-06T19:28:00Z
-    webUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/"
-    ampWebUrl: "https://www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/10/06/openai-to-join-the-custom-ai-chip-club/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "http://www.nextplatform.com/wp-content/uploads/2020/01/ab_ai-brain-circuit.jpg"
-        width: 8000
-        height: 4940
-        isCached: true
   - title: "OpenAI said to be considering developing its own AI chips"
     excerpt: "Discussions of AI chip strategies within the company have been ongoing ... It remains to be seen if the startup’s investors, one of which is Microsoft, have the appetite for such a risky bet."
     publishedDateTime: 2023-10-06T19:31:00Z
@@ -104,20 +74,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "OpenAI is Looking to Start Producing Custom AI Chips"
-    excerpt: "OpenAI, the creator of ChatGPT, is exploring options to start manufacturing its own AI chips. This initiative aims to combat the ongoing"
-    publishedDateTime: 2023-10-07T04:30:00Z
-    webUrl: "https://techreport.com/news/openai-is-looking-to-start-producing-custom-ai-chips/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/10/twitter-1-1.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Leveling Up AI: OpenAI’s Bold Chip Endeavor"
     excerpt: "OpenAI, a leading AI startup, is considering the development of its own AI chips to address growing shortages in the AI model training sector. The company is exploring strategies such as acquiring an AI chip producer or designing chips in-house."
     publishedDateTime: 2023-10-09T00:00:00Z
@@ -131,34 +87,6 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-Endeavor.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "OpenAI Considers Making AI Chips In-House"
-    excerpt: "You probably know the company OpenAI thanks to its LLM AI chatbot, ChatGPT. But the company still gets chips from"
-    publishedDateTime: 2023-10-09T02:54:00Z
-    webUrl: "https://www.lowyat.net/2023/308711/openai-considers-making-chips-in-house/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 54
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/03/ChatGPT-OpenAI.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "OpenAI Eyes AI Chip Production Amidst Shortages"
-    excerpt: "Similar steps have already been taken by other tech giants like Apple, Google, and Tesla, who have all made progress in developing their own chips. Should OpenAI proceed, they would have better control over the AI systems’ performance and capabilities ..."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.dmnews.com/openai-eyes-ai-chip-production-amidst-shortages/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Chip-Production.jpg"
-        width: 1000
-        height: 523
         isCached: true
   - title: "Report: OpenAI could develop custom AI chips"
     excerpt: "OpenAI has reportedly considered buying an AI chip startup to accelerate the development effort. According to Reuters, the company went as far as performing due diligence on a potential acquisition target. Due diligence is an audit in which a company verifies key details such as the reliability of an acquisition target’s technology."

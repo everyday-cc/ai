@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "The Aboriginal Australians Campaigning Against Constitutional Recognition"
+    excerpt: "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-11T09:01:00Z
+    webUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 68
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/10/multimedia/00OZ-INDIGENOUS-vwfp/00OZ-INDIGENOUS-vwfp-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "F5 Warns Australian IT of Social Engineering Risk Escalation Due to Generative AI"
+    excerpt: "F5 says Australian IT teams could be soon caught between generative AI-toting bad actors and enterprises guarding data with AI."
+    publishedDateTime: 2023-10-11T09:32:00Z
+    webUrl: "https://www.techrepublic.com/article/f5-generative-ai-cybersecurity-interview/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 62
+    images:
+      - url: "https://www.techrepublic.com/wp-content/uploads/2020/02/securityrisk.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Australian robotics and manufacturing hub levels data field"
     excerpt: "ARM Hub announced yesterday that it will launch Data and Artificial-intelligence-as-a-Service offering in 2024."
     publishedDateTime: 2023-10-10T01:20:00Z

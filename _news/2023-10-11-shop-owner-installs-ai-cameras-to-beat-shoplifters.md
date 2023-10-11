@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
 webUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -31,7 +31,7 @@ related:
   - title: "Shoplifting: The small businesses using facial recognition cameras"
     excerpt: "Politicians and privacy campaigners have called for a ban on the use of facial recognition cameras, but some small shops are pushing ahead with plans to install the system amid rising levels of shoplifting. So, what motivates small business owners to invest in this costly and controversial technology?"
     publishedDateTime: 2023-10-11T05:30:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326?at_medium=RSS&at_campaign=KARANGA"
+    webUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326"
     ampWebUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326.amp"
     cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-surrey-66982326.amp"
     type: article
@@ -45,6 +45,6 @@ related:
         height: 576
         isCached: true
 
-secured: "B/HcKx3Yx2tI5CJvOh88hJMgeokO91YL/0MTn6Mtlf7qh60+aQRTXGIxIF5q97IO5sUZvetzOMEY2XYkqtJvnmYBJMFDzrNKxL8sfK9iU15AOKfg8apviBoFa6FsAT2aOPvpqiL581V32Eg+U+BW/vcHEuEWp5Rvg/itHT4h74nSieFBhQVruAhjDefKJpiuqPYR/XHEckS32rSNWD7rS/jPZvly3PR/JTwfc/WX+nVDHC/v/OVE+BwgyBtCDHrEX+8AEs0dMjoKPwFjcFvE6/6g+GbMf0QElvqfUW+6rjQmpwTnNqhXMuo2p7vamHAVGQtMgDgrjIiWvTBLGrWopouOXr3HzOsJ2JpxdSajdwc=;PqOZ4D1xJU+kXr06K4Y0mQ=="
+secured: "a62RxRIZyuR4L+xnbfvlItJFZMKnUq1xIm4UuasRtgBtG7zIAtlLidn3VA8HCzia5tnhQ5f2TQRHR7YUzqxufmLqQqfwkDCmJFz4Oo0KaTg2QHYJDiWEJBOe6uzQExa4Ni8Q+sZNiqBKARpnIu0waCXyEcec+PUmMq/SwjP5KXpuVt8eS3gi4wvynnvWynEeUGC43RhpXxZbK9cUDAV02l5pzutSxo8FoSkdGlFSdQJoJp1Y7U732dJYB9kVXPm508ULO0g6mxThXYuC4ABUi3r7VqYDp+cQUUpwVcS44k3b3cSodkBYDsyN6rrgp2B7378F20EDTvkfFQlrtcJ2inrzm889rvgCOYU8+HRGQvALV/GwJV35CdLN/Y8pRq4Wl7cpX9kinFjHXgBFxLYE3bLhJDN3PZYlRmvrhC5o94NL4Miwa18+orhhb/km9LT9snyUT+cnbK/MRG9eJCchmrRVe03qgHWvZbXuKdBZkzuObrC1CEiFnN9Ntnefrmy40izC0CHONwh4jgTjAB8jLg==;3pQTIRS788OfDsK/CQCvUw=="
 ---
 

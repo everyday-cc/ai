@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/so-far-ai-has
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Warns E.U.’s Landmark AI Policy Will Only Benefit Big Tech"
-    excerpt: "The U.S. warned the E.U. that its proposed law to regulate AI would favor companies with resources and hurt smaller firms, documents show."
-    publishedDateTime: 2023-10-06T15:40:00Z
-    webUrl: "https://time.com/6321354/us-eu-ai-policy-warning/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/03/biden-ursula-von-der-leyen-european-council-us-diplomacy-climate-change.jpg?quality&#x3D;85"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How invisible tech and AI are working for Domino's"
     excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
     publishedDateTime: 2023-10-10T10:03:00Z

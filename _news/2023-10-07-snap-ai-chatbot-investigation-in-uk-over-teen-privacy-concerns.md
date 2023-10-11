@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Snapchat: Snap AI chatbot 'may risk children's privacy'"
-    excerpt: "The UK's data watchdog has told Snapchat it might have to stop offering its generative AI chatbot My AI. An initial probe into the company suggested a \"worrying failure\" by parent company Snap over potential privacy risks, especially to children. However, the Information Commissioners Office (ICO) stressed that its findings were \"provisional\"."
-    publishedDateTime: 2023-10-06T15:45:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67027282"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67027282.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67027282.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73FE/production/_131349692_gettyimages-1611746676.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
     excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
     publishedDateTime: 2023-10-08T21:25:00Z
@@ -59,6 +43,22 @@ related:
       - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "Coffee Briefing Oct. 10 – AI chatbot ChatGPT reshapes workplace norms amidst trust challenges:..."
+    excerpt: "Coffee Briefings are timely deliveries of the latest ITWC headlines, interviews, and podcasts. Today’s Coffee Briefing is delivered by IT World Canada’s editorial team! Missed last week’s Coffee Briefing?"
+    publishedDateTime: 2023-10-11T00:26:00Z
+    webUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674"
+    ampWebUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 46
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/02/coffee_briefing_2.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Meta Launched a Host of AI-Powered Chatbots With Influencers"
     excerpt: "Meta launched this month a host of 28 AI-powered chatbots — all with unique backstories — across its messaging apps WhatsApp, Messenger, and Instagram. One is an AI assistant called Meta AI, similar to chatbots like ChatGPT and Claude 2. It’s powered by Llama 2, Meta’s latest LLM."

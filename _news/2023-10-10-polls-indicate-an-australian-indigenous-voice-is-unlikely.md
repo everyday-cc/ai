@@ -21,31 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Australia’s Telecommunications Industry Following Global Peers on Generative AI"
-    excerpt: "Global telcos are already deploying generative AI. Chatbots are likely the first use cases in Australia, but data security challenges remain."
-    publishedDateTime: 2023-10-06T16:19:00Z
-    webUrl: "https://www.techrepublic.com/article/telcos-embracing-generative-ai-australia-new-zealand/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 63
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg"
-        width: 270
-        height: 203
-        isCached: true
-  - title: "Swedish artist takes out Australia’s inaugural AI art prize"
-    excerpt: "The nation’s first prize celebrating AI artwork has been awarded to Swede Annika Nordenskiöld, with the competition aiming to explore where the use of tech fits in the art world."
-    publishedDateTime: 2023-10-08T08:59:00Z
-    webUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1"
-    ampWebUrl: "https://www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/arts/swedish-artist-takes-out-australias-inaugural-ai-art-prize/news-story/ba1ba67fe5ac08557916b0bf3746fdc1?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
     excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
     publishedDateTime: 2023-10-07T08:00:00Z
@@ -59,6 +34,22 @@ related:
       - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
         width: 1200
         height: 800
+        isCached: true
+  - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
+    excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
+    publishedDateTime: 2023-10-10T00:36:00Z
+    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
+    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 31
+    images:
+      - url: "https://i.guim.co.uk/img/media/b61e6dd418c4f0b15304decfe9317deeb3b725d7/0_249_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=26f0c2757671d9dedd3875704ccab1ad"
+        width: 620
+        height: 372
         isCached: true
   - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
     excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
@@ -74,6 +65,15 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The bitter politics and hypocrisy of the Voice debate will mark it as yet another ugly chapter in Australia's history"
+    excerpt: "After many months of bitter debate about the Voice, an address to the National Press Club this week reminds us that we are back at a point where it seems that, no matter what the truth may be, we will not let it lead to any change,"
+    publishedDateTime: 2023-10-06T18:01:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-07/bitter-politics-voice-debate-another-ugly-chapter-history/102941070"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 0
 
 secured: "59rQHt7x24H5oNQHLtEdUpIw2KN7uVoRfphVRB5H6930UsPrBOwDaviw6y7KwqZVdJMxfB6tf656Fdc4XcMl/7IX4/DSaXSrYMW+bOZ2/5EYFiDOSCA1gRlrpEW38hTlmid/6EJeZKeFqTkg9U1iAbDjy+9XnmqZ7GpMfCKsUsp6+YVEK/+gZIctb/F4u5W6E16/D+FgBIOJOrTQ4QGIWzWI4vAtOQvrBu/gk5ye9vqn6geXAUGfTCuXyk5A5mOS8HIRjnMjOkLB06Ub6U6VvSER/orugfvvAws3mh10u/ikSGkS9oWbiuHQfx03dUOjrv2ms76MLiY2n0CUQLP54el6i94vngd1PDlZHLmx2RCkKHNAishvSF7rZep1Nss6ro6cBSUXyQUIRzmSDn1U8CwiiAZ93K8xOYbIrUPA+h/bcROGxsPZr/bpkoAfqVykw56Z/KwOgCyxQTzsw5XLpVE66aUTnPDYxUDjaxNcRi0y1hJB/dcNVt+bxGYOvm8a+YNCByfSzhetEuz/RBt3MQ==;ze9VjlZe+2q2X0b6vL8hhA=="
 ---

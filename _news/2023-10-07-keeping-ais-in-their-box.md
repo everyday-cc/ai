@@ -130,34 +130,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Embracing the Inevitable: The Era of AI-First Companies"
-    excerpt: "The Age of AI is not just approaching, it's already here. This was the topic of discussion during an expert panel and fireside chat I recently hosted that brought together an impressive mix of C-suite technology executives from Fortune 500 firms and leaders from emerging,"
-    publishedDateTime: 2023-10-06T16:27:00Z
-    webUrl: "https://www.unite.ai/embracing-the-inevitable-the-era-of-ai-first-companies/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/ai-brain-942x600.png"
-        width: 942
-        height: 600
-        isCached: true
-  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
-    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
-    publishedDateTime: 2023-10-10T04:55:00Z
-    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
-    type: article
-    provider:
-      name: themediaonline.co.za
-      domain: themediaonline.co.za
-    quality: 37
-    images:
-      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
-        width: 700
-        height: 371
-        isCached: true
 
 secured: "CR/SyHvqjFzbE957FrWtR5BU8xpF4Dxh4mOZzWh0PZnL/RQp8P+WSGDOrbMB9YVWDIM8DtWD6Gv0nE3J/lAqsLifuIzSYXhd3AJtJVrBN3Qy9eGVo1Uic4b6C8za3IjQs+j4hOzc7uHyTykjMu47PzgSQu6a2AiwFS9eQbbMyjYsugkfK0ow+xWH3XRLBHnY7nbtw2YhCyWSpTwTz36tP+JNrJfWki+ypS/MaosSu4N/E7uVE2kLAMHfFGzUjjyJffoz8mgIMPPtr4r9rYfKz/NwFeeDMgfVSeUJzsgYaRSHrC1WcdBuUK7aDnh/fYf5COE1ptIBchyQYrXDvsyozwIt4OGoOzFq2AmMOj6TsTuxvOg/7oqavoOIOR+zW03M9f9p0yvW+/kAxog7k9X5mh6aVQO6rXYnea5ANAOrUHiUcziTj/jml5Ho+pEjxVZr11dcxyRtAbHYeLH6H18Mdy6zD3JAmacs4SxvzLFr2uG0rU1R3A78awnFSawNNl+8Wt2FTApp93mkgjCWak0kxw==;nfG/1u4b7P8qpVb2kzP4ug=="
 ---
