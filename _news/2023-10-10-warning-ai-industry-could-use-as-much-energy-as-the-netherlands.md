@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UNESCO, Dutch join forces on ethical AI supervision project"
-    excerpt: "The Netherlands and UNESCO have launched an AI supervision project to help EU countries prepare for the tech's safe and ethical deployment."
-    publishedDateTime: 2023-10-06T09:58:00Z
-    webUrl: "https://thenextweb.com/news/unesco-dutch-ethical-ai-supervision-project"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FUntitled-design-17-2.jpg&signature=86af06e93f90321a3bfabd66dc3c93af"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The Ethics of AI in Political Creative"
     excerpt: "As the industry awaits guidance for where the compliance boundaries lie with AI, practitioners will have to decide what’s acceptable for now."
     publishedDateTime: 2023-10-09T20:30:00Z

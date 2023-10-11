@@ -24,73 +24,59 @@ images:
     isCached: true
 
 related:
-  - title: "Israel-Hamas War Causes Nvidia To Cancel AI Summit"
-    excerpt: "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation."
-    publishedDateTime: 2023-10-09T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
+  - title: "US chip maker AMD to acquire AI software start-up Nod.ai in effort to catch up with Nvidia"
+    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence (AI) start-up called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chip maker Nvidia, Advanced Micro Devices (AMD) plans to invest heavily in the ..."
+    publishedDateTime: 2023-10-11T03:07:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: scmp.com
+      domain: scmp.com
+    quality: 74
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg"
-        width: 1120
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/11/594b7b01-8e84-414e-baaf-fb3d5386e670_b5a0a465.jpg?itok=yLtbICdQ&v=1696992418"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Hamas assault on Israel shows surprise still possible in AI era: Peter Apps"
-    excerpt: "On Sept. 27, barely a week before Hamas fighters launched the largest surprise attack on Israel since the 1973 Yom Kippur war, Israeli officials took the chair of NATO's military committee to the Gaza border to demonstrate their use of artificial intelligence and high-tech surveillance."
-    publishedDateTime: 2023-10-09T18:36:00Z
-    webUrl: "https://www.reuters.com/technology/hamas-assault-israel-shows-surprise-still-possible-ai-era-peter-apps-2023-10-09/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 65
-    images:
-      - url: "https://www.reuters.com/resizer/-eBKql9OtdyeXlii5wlBFFbYgpU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H3TMMCKFBRKZHMZDQIXGBQS6NQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Israel’s AI startups carry on as employees mobilize for war, run to shelters"
-    excerpt: "AI startups in Israel are trying to carry on while supporting employees being called to the front lines of the newly-declared war with Gaza."
-    publishedDateTime: 2023-10-10T15:42:00Z
-    webUrl: "https://venturebeat.com/ai/israels-ai-startups-carry-on-as-employees-mobilize-for-war-run-to-shelters/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-10T112629.231.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "The chipmaker powering the AI revolution has canceled a 2,500 person conference in Tel Aviv due to the Israel-Hamas war"
-    excerpt: "Nvidia's AI Summit was scheduled for 15 and 16 October with speakers from Microsoft, Amazon Web Services, and Lenovo."
-    publishedDateTime: 2023-10-10T15:57:00Z
-    webUrl: "https://www.businessinsider.com/tel-aviv-ai-summit-canceled-israel-hamas-war-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/tel-aviv-ai-summit-canceled-israel-hamas-war-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tel-aviv-ai-summit-canceled-israel-hamas-war-2023-10?amp"
+  - title: "Graphcore, which wants to be an AI chip rival to Nvidia, has shut offices and needs more investor cash"
+    excerpt: "Graphcore's filings for 2022 show the expense and difficulty of going up against gorilla Nvidia, which holds around 70% of the AI chip market."
+    publishedDateTime: 2023-10-06T11:23:00Z
+    webUrl: "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 63
+    quality: 68
     images:
-      - url: "https://i.insider.com/652532a668f1d46f52acc7b2?width=1200&format=jpeg"
+      - url: "https://i.insider.com/65043698956dba001ace26d9?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Column-Hamas Assault on Israel Shows Surprise Still Possible in AI Era: Peter Apps"
-    excerpt: "(Reuters) - On Sept. 27, barely a week before Hamas fighters launched the largest surprise attack on Israel since the 1973 Yom Kippur war, Israeli officials took the chair of NATO's military committee to the Gaza border to demonstrate their use of artificial intelligence and high-tech surveillance."
-    publishedDateTime: 2023-10-09T19:36:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-09/column-hamas-assault-on-israel-shows-surprise-still-possible-in-ai-era-peter-apps"
+  - title: "AMD to acquire Nod.AI open-source AI software startup"
+    excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
+    publishedDateTime: 2023-10-10T19:40:00Z
+    webUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup"
+    ampWebUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 41
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/10/amd-to-acquire-nodai-open-source-ai-software-startup_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AMD acquires open-source AI software pioneer Nod.ai to fortify AI capabilities"
+    excerpt: "The purchase of Nod.ai, founded just three years ago, shows that AMD is serious about staking a claim in the rapidly growing AI chip market, which is expected to reach $383.7 billion by 2032,  according to industry analysts."
+    publishedDateTime: 2023-10-10T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/amd-acquires-open-source-ai-software-pioneer-nod-ai-to-fortify-ai-capabilities/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "AMD to acquire AI software startup in effort to catch Nvidia"
     excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
     publishedDateTime: 2023-10-10T16:05:00Z
@@ -105,6 +91,15 @@ related:
         width: 800
         height: 553
         isCached: true
+  - title: "AMD acquires open-source AI software developer Nod.ai"
+    excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
+    publishedDateTime: 2023-10-10T18:19:00Z
+    webUrl: "https://siliconangle.com/2023/10/10/amd-acquires-open-source-ai-software-developer-nod-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "f64CDT1XkPzC2h8PUKHeIP0S5J9CscfI+SdZwZxfTAAXjYL+0ynUdKO2Io/zqQjDa5AKzP4uoPqvU7sGiKHA/xZ/vwYQPres6mJmfoRIclLH16XxosOJOqCM4cs89iiuRaI7uDhy5zy8692s7DuJWS6TuKPxaHmjBI5GuEEM18fn3bCTFE9LEPGnKj5h6IyMe8FZhr9R0PpLz3yWCDffKQFVpekcvn08wvlv/ug+1jNjT0Y6c4g2dM+NAAQ2QV+osAmBDkH7sVOQVFnF/zQoGREY9jZT5J+nP9FvobM/CqjglCRuSrQH04p73QqQ7Z+gzhPOmX+nsBlF2RIZr5UdGBWjowzNpwqoFchXouIRiK0=;sdm9OypSOq92vZyTHsTASA=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Home will get a generative AI boost, too"
-    excerpt: "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new"
-    publishedDateTime: 2023-10-06T09:50:00Z
-    webUrl: "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/656179238ba7090ad5c22fdf489f23f6ca8e4d7c/2023/10/05/8d9920fe-0dff-4ba8-a9c2-8a9159ea5696/dsc09868.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How knowledge graphs improve generative AI"
     excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
     publishedDateTime: 2023-10-09T09:05:00Z
@@ -59,19 +43,37 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI may give boost to media stocks"
-    excerpt: "The Communications Services Sector has performed well in 2023 and John Stoltzfus from Oppenheimer Asset Management expects that to continue. He believes the many of the companies in the sector will benefit from new technologies and particularly Artificial Intelligence."
-    publishedDateTime: 2023-10-10T00:19:00Z
-    webUrl: "https://www.reuters.com/video/watch/idRCV00CEVK"
+  - title: "Adobe’s AI image generators get beefy updates, including vector graphics"
+    excerpt: "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill."
+    publishedDateTime: 2023-10-10T21:36:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 86
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20231004&i=RCV00CEVK&r=RCV00CEVK&t=2"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Adobe Firefly’s generative AI models can now create vector graphics in Illustrator"
+    excerpt: "Illustrator is Adobe's vector graphics tool for graphic artists and it's about to join the generative AI era with the launch of the Firefly Vector Model"
+    publishedDateTime: 2023-10-10T16:00:00Z
+    webUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/"
+    ampWebUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "The Power Of Fine-Tuning In Generative AI"
     excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
@@ -82,15 +84,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Google Assistant is have a Windows Copilot moment, and it's all thanks to AI"
-    excerpt: "The new and improved Google Assistant is basically the mobile version of what Microsoft is doing with Copilot and Windows PCs. Here's what's coming for Android users."
-    publishedDateTime: 2023-10-07T13:19:00Z
-    webUrl: "https://www.zdnet.com/article/google-assistant-is-have-a-windows-copilot-moment-and-its-all-thanks-to-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 44
   - title: "Generative AI and the impact on financial services"
     excerpt: "In association with NTT Data In 2020, I investigated the potential impact of AI on financial services, charting the meteoric evolution of AI and machine learning. This investigation culminated in an article I published on Forbes."
     publishedDateTime: 2023-10-09T08:00:00Z
@@ -133,15 +126,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Coda bucks trend of additional charges for generative AI tools"
-    excerpt: "Generative AI features are fast becoming table stakes for productivity and collaboration applications. Coda hopes to stand out in the market by eschewing add-on fees and integrating with multiple enterprise data sources."
-    publishedDateTime: 2023-10-06T09:49:00Z
-    webUrl: "https://www.computerworld.com/article/3708289/coda-bucks-trend-of-additional-charges-for-generative-ai-tools.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 17
 
 secured: "325mGr8sPHGwKx2Z7s46Z7lQCZ8UD0OThgUUBUadqHLHbcKuhBryy+xmp8/VudePp6/aubZcTnE+PEzUeHBz1XUSmZb7C1g8aG0LUzk/KEdBEEodUKNxJpdq78na1gBtk4isSKoaFZLwQS7UZLdVyPIqLVvBVG1mxO7AL5AVRRWbWm/eFzEgW9RdE1hSSKigyHtHnT3ujW2iKoSIAp8BQ3ThQCNmFztk40VfP6xrFuZj/mXYTtCDSvcnkglzub95Eptk1b1egoFxfvc2znbg9JuzH7PkWPR0IZg2gYqzWTunKiSVrTcvOAkcl4Tjm1J6kQR9fbXN26KsYKRwIGWuvaAFb4rwQBaPTxY4miWFaes=;zkSVlaRBwFVSvFn4uIHkLw=="
 ---

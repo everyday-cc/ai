@@ -1,0 +1,59 @@
+---
+category: news
+title: "Mosti code of ethics, governance for AI expected in 2024, says minister"
+excerpt: "The Science, Technology and Innovation Ministry's code of ethics and governance for artificial intelligence (AI) is expected to be ready by 2024, says Science, Technology and Innovation Minister Chang Lih Kang."
+publishedDateTime: 2023-10-11T01:06:00Z
+originalUrl: "https://www.thestar.com.my/news/nation/2023/10/11/mosti-code-of-ethics-governance-for-ai-expected-in-2024-says-minister"
+webUrl: "https://www.thestar.com.my/news/nation/2023/10/11/mosti-code-of-ethics-governance-for-ai-expected-in-2024-says-minister"
+type: article
+quality: 54
+heat: 74
+published: true
+
+provider:
+  name: The Star
+  domain: thestar.com.my
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2023/10/11/2329591.jpg"
+    width: 1240
+    height: 829
+    isCached: true
+
+related:
+  - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
+    excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
+    publishedDateTime: 2023-10-10T16:58:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=2233633"
+    type: article
+    provider:
+      name: bernama
+      domain: bernama.com
+    quality: 45
+    images:
+      - url: "https://www.bernama.com/storage/photos/fdf2df98576466acffaa0e6aff4cfb7a6525824a659e5"
+        width: 1110
+        height: 694
+        isCached: true
+  - title: "Mosti developing code of ethics, governance for AI, expected to be ready by 2024, says minister"
+    excerpt: "The Ministry of Science, Technology and Innovation (Mosti), in collaboration with Universiti Teknologi Malaysia, representatives of government"
+    publishedDateTime: 2023-10-11T00:18:00Z
+    webUrl: "https://www.malaymail.com/news/malaysia/2023/10/11/mosti-developing-code-of-ethics-governance-for-ai-expected-to-be-ready-by-2024-says-minister/95573"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 42
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/11/thumbs/400x400/153776.jpg"
+        width: 400
+        height: 271
+        isCached: true
+
+secured: "YgfXsgPA8uzmkbcZnVE6HuHk5yXezhUdKZ2bAM62ooJptAszdAlwQeFY4EZ3a6rAvBVjjbvl5bLWcwRFTtEZCvFsfAPCraoO53FoBLlwdgWsDf59dptstbzJmobhAC38JkhZSF5x5zZcE6n3ojTnvzCVSToYSrbAEoYEtdKIC9vgnkR5yXPXFgUHrCdWw22Xl2vHwGEp62J1kb6MCC0k2cU7nG+WSCngZ53PaAWWRch/MxzVzfnIBJQE0Wwgb0cRNj14/Rc1/9PtP53A9OXuhyn1r16ucMzgGCqgRFp3f41IUT/unlUMCQazttqCYhKd7N2gtQGPnXpUcz+lSqHEWGB+ftjvuTeLNc4AXyW0kiJt+yLWiaZRKP2NpEnfIRik54/fqm/vXYY42BxgWWzJR7d2NV4TEUr77V8rkIgp4ZpJA62pv92k54cVo8LoVR/n67Zdb9mBeHWHdXj6j77BZM9otnnI8jgLslsS5opwxWOrP6cBGo0iJL8yYKw/B7Ha+7z4ILoP+lBWVXjDHmxFNA==;ySoxgOrvOuZnpn7aoo/SRA=="
+---
+

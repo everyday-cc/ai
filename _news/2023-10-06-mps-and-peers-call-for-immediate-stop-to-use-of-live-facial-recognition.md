@@ -7,7 +7,7 @@ originalUrl: "https://morningstaronline.co.uk/article/b/mps-and-peers-call-immed
 webUrl: "https://morningstaronline.co.uk/article/b/mps-and-peers-call-immediate-stop-use-live-facial-recognition"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Should Police and Private Companies Stop Facial Recognition Surveillance?"
-    excerpt: "Should police and private companies stop the use of facial recognition surveillance? A group of politicians and privacy campaigners think so."
-    publishedDateTime: 2023-10-06T09:47:00Z
-    webUrl: "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/"
-    ampWebUrl: "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/police-private-facial-recognition-surveillance/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 58
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/10/man-5946820_1280.jpg"
-        width: 1280
-        height: 849
-        isCached: true
   - title: "MPs call for ‘urgent stop’ to police use of facial recognition tech"
     excerpt: "A cross party group of MPs and privacy campaigners have called for an “urgent stop” to the use of facial recognition surveillance technology by the police and private companies."
     publishedDateTime: 2023-10-06T12:07:00Z
@@ -59,15 +43,6 @@ related:
       name: Daily Express
       domain: express.co.uk
     quality: 19
-  - title: "CyberLink unveils new facial recognition integrations for POS kiosks, video surveillance"
-    excerpt: "Fintechs, banks, digital wallets, biometric POS terminals and other clients can access the faster enrollment, age verification and customer experiences."
-    publishedDateTime: 2023-10-09T18:56:00Z
-    webUrl: "https://www.biometricupdate.com/202310/cyberlink-unveils-new-facial-recognition-integrations-for-pos-kiosks-video-surveillance"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
 
 secured: "xoN6xozQvR9jG3w4s6IG20AanOdDwjlaMYbnxtgY3r9/fpndPqK1qGmMo2F8HugPEtvaPPWiD5zV2j7sRxjwbATdPpwvvqKYcksW+cUzL3XwyDlnLbbQN8zLwnK7MqOUe4/RKVV1YjwwUTYrQPHXOFFhXtJpR2pNuCa8yplAeteWuRE/FhW0/MUz3F9wHvpiCbIWnM/qRxV6VVJjEZC4E46dtAY918tkc0wQsr5NaugaoRxueeqbTn37MKHC4deEnKSkBSlk9ZuR6atUN7D/WyIC/AvF5cPIKbthmdMUIaPX+O+w0DlkNczz2aLGLEWabJZ2HMOQL3omq94NHWzYzMnkoBZOlEO7pnbaqsmEu00=;Z5ciaoGZfZrcIZL1oww3FA=="
 ---

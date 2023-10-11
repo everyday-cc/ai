@@ -87,6 +87,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "7 Hot Fintech Startups in Indonesia to Watch"
+    excerpt: "We look today at some of Indonesia's hottest startups. For this list, we’ve selected fastest-growing fintech companies that headquartered in Indonesia, compiling a selection of both early-stage and later-stage startups that have been making waves,"
+    publishedDateTime: 2023-10-11T00:07:00Z
+    webUrl: "https://fintechnews.sg/78633/indonesia/7-hot-fintech-startups-in-indonesia-to-watch/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/10/7-Hot-Fintech-Startups-in-Indonesia-to-Watch.jpg?x41783"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
     excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
     publishedDateTime: 2023-10-09T13:30:00Z

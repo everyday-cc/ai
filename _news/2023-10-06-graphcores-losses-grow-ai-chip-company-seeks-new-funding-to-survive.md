@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Graphcore, which wants to be an AI chip rival to Nvidia, has shut offices and needs more investor cash"
-    excerpt: "Graphcore's filings for 2022 show the expense and difficulty of going up against gorilla Nvidia, which holds around 70% of the AI chip market."
-    publishedDateTime: 2023-10-06T11:23:00Z
-    webUrl: "https://www.businessinsider.com/graphcore-posts-bigger-losses-2022-and-needs-cash-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/65043698956dba001ace26d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "f9jC//oscW1wEcQ873Ish+QTtYf/V5xoO1IQuvSqvHVbjSh4dL5JFFb+NXJ3Ku44f+v025euvA+xB+SEc9s96Wff1GUJhx2A886izjCnSFUhymiFaMWeYE7LDm1I2qoYsBOIILPvOw2Xw98zMnnk1EBpI5TBFoI3NBDZJYp9pvsIDTmZjp4F3zGi4qnHYhGnfnjV01Aekg4xOnqc5MJoyJ5P8GiZC4ozBsY9JKgCNLfOYHvrRpAJqb8xEH1GhRMe22D7F8E5kLZS/tGUXyPvOMmJ3d6N+bXXC4Zay1rW68TUMdEvPAtoyNwDeFEwxPXRArqy7ZdHfxI8nVvwHEe0fGUGp4RXjsf0nUqI1bRcmH1KEQbTbsInG9xcK0/NrUOb9vpYBXqR2hJrPlOvNoRV+d/A8lOxsa2Jq0/d3Pc6UkLyPyiuK5I2LM7vg6E1+OeEIAs6Wz6k306rnA3ikzXfBrZie6wp3sp7ZMhcwFO3G1w/kHjUahYBL+ttar5krqH6jHmxZun+6yjMFDv82o4svQ==;oIL08ld9xiCjhfkhfW0L6A=="
 ---

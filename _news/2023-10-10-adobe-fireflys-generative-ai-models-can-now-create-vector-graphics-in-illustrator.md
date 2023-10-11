@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How knowledge graphs improve generative AI"
+    excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
+    publishedDateTime: 2023-10-09T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Adobe’s AI image generators get beefy updates, including vector graphics"
     excerpt: "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill."
     publishedDateTime: 2023-10-10T21:36:00Z
@@ -46,19 +62,72 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express"
-    excerpt: "Adobe is going all in on AI, announcing three new generative AI models today that add powerful features to Illustrator and Adobe Express and vastly improve Photoshop’s text-to-image capabilities. During the company’s Adobe Max even t on Tuesday,"
-    publishedDateTime: 2023-10-10T16:12:00Z
-    webUrl: "https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express"
+  - title: "Dubai Assembly for Generative AI kicks off tomorrow"
+    excerpt: "The Dubai Assembly for Generative AI supports Dubai's vision to become a global center for testing emerging technologies and taking advantage of their opportunities. The assembly complements Dubai's efforts to collaborate with decision-makers and industry leaders from around the world in order to address challenges and create new opportunities."
+    publishedDateTime: 2023-10-10T10:20:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 53
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/juSDWZIdLoDoZd2JCtjzRmsChtw=/0x0:2660x1500/1200x628/filters:focal(1330x750:1331x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24991431/Adobe_Max.jpg"
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
+        width: 636
+        height: 424
+        isCached: true
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Generative AI and the impact on financial services"
+    excerpt: "In association with NTT Data In 2020, I investigated the potential impact of AI on financial services, charting the meteoric evolution of AI and machine learning. This investigation culminated in an article I published on Forbes."
+    publishedDateTime: 2023-10-09T08:00:00Z
+    webUrl: "https://www.techcentral.ie/generative-ai-and-the-impact-on-financial-services/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/Artificial_Intelligence.jpg"
+        width: 620
+        height: 351
+        isCached: true
+  - title: "Stability AI Releases Generative Audio Model Stable Audio"
+    excerpt: "Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44."
+    publishedDateTime: 2023-10-10T14:14:00Z
+    webUrl: "https://www.infoq.com/news/2023/10/stable-audio/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2023/10/stable-audio/en/headerimage/generatedHeaderImage-1695556023477.jpg"
         width: 1200
-        height: 628
+        height: 630
+        isCached: true
+  - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
+    excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."
+    publishedDateTime: 2023-10-10T20:49:00Z
+    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-collaborative-launched-at-hlth-2023"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "ueVhGVudCfIff+ovI+ECnInWFrY7K50kjwmWyNd8t07BxswI4vvU0QzIn78nFTp2VZuxox/zVy+PRE90VSlPaiP+y06Rrogkt3iqvsGOiZD9yQtaZh179jUeBSkzE/WKN5cD9Gzeeon/J3ACEfS+PyEh3CJZ/K5O3vaycN7Z1vZUu2rIpLnfahXvZsd7CxphObAq2TCjEDGY3pqISfZeGMziec8lrjySMAXJmFhBSlujA8sYG6oOpS3HuZmUnE4TE0tyfr+LhShtNs4Jle92GQ01N/cVV34vV5pebgEq6VPh9LSi/ee48/6Fc1JotabBvhqXoYPG4J0ERYMDqcuZWFmQE0R+yO0fbY9ytLCIZlE=;L7Cq/+YFj0jk+BL3u2H5OA=="

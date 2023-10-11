@@ -23,15 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "3 AI Stocks to Watch for Big Gains in the Next Five Years"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Picking AI stocks that can make big gains in the next five years can seem like"
-    publishedDateTime: 2023-10-10T15:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-watch-for-big-gains-in-the-next-five-years-1032693285"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "3 AI Stocks That Are Surprisingly Reasonable Bets"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of technology, AI stocks are emerging as some of"
     publishedDateTime: 2023-10-10T23:05:00Z

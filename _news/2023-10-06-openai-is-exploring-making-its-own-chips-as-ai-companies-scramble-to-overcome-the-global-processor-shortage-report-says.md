@@ -162,20 +162,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT-owner OpenAI is exploring making its own AI chips: sources"
-    excerpt: "Obstacles include a shortage of the advanced processors and the 'eye-watering' costs associated with running the hardware."
-    publishedDateTime: 2023-10-06T08:17:00Z
-    webUrl: "https://www.japantimes.co.jp/business/2023/10/06/companies/chatgpt-openai-chips/"
-    type: article
-    provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 54
-    images:
-      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/06/256139.JPG"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "ChatGPT owner OpenAI wants to make its own AI chips - report"
     excerpt: "OpenAI, the AI startup behind ChatGPT, is reportedly exploring the possibility of creating its own high-end chips and has considered potential acquisition targets to address the shortage of expensive AI chips it relies on, according to Reuters."
     publishedDateTime: 2023-10-06T10:42:00Z

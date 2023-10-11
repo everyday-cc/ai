@@ -43,6 +43,22 @@ related:
         width: 400
         height: 600
         isCached: true
+  - title: "Point Predictive, the AI-Powered Fraud Solution Provider for Auto Lending Industry, Teams Up with Metro Jobber’s"
+    excerpt: "Point Predictive, the firm focused on AI-powered fraud solutions for the auto lending industry, has joined forces with Metro Jobber's, Inc.."
+    publishedDateTime: 2023-10-10T21:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fast-Car-Automobile-BMV-i8.jpeg"
+        width: 1280
+        height: 1021
+        isCached: true
 
 secured: "t4LvNOjjT088X8T/Sj6pLETRXPwy+0KEItr9vLVdE2WR6KCiAButEhC9vc1tFfSerV+T6y7mtK4SKxsl6GoYfN5Te0IZndiysiydd/RAXp1qRjxMRiafvlS/ntZOh7xmAlEIhPbPN+zojWQ0a8PX7/MwpOs2f6CXRtpY9nvQzBzlc7uJhrAhpnQE4YXNuzUWf4UzStGxMAPcytmHnGQunMKIvW0St7h8g3B5KtILCc5PqzmoX5GoWo4ApOOggZ4aWAMI/VFeLyrXi/5DVvPgEmLfj5zYSND2KBCPVNrpl9os/ZfbHhKF+DYL8GtxeKwCSMBBdilZM1QVYP14WDCaHZu7cCE/DiJQziUhvLypmSB0K2s2cCSsJNUoWd5AMz0up+rjqrVrb/ay4/HFRaTSDwciEbdaPijNxGbs5jOG0wunVuflZukglBjYG3mVdLXMc9nK+QmGTUixEONqLClaKbH7q9sSJNOexWULKywSEY6XiY12XyNJdz+AKpcLiVnYns2jezLKR3gcUeLDnTFO/g==;uZ+iW3yeT36KdawCrZhlDg=="
 ---

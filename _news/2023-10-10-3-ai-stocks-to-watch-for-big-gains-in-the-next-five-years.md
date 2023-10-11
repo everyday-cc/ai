@@ -23,24 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
-    publishedDateTime: 2023-10-08T23:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
+  - title: "AI may give boost to media stocks"
+    excerpt: "The Communications Services Sector has performed well in 2023 and John Stoltzfus from Oppenheimer Asset Management expects that to continue. He believes the many of the companies in the sector will benefit from new technologies and particularly Artificial Intelligence."
+    publishedDateTime: 2023-10-10T00:19:00Z
+    webUrl: "https://www.reuters.com/video/watch/idRCV00CEVK"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 AI Stocks That Are Surprisingly Reasonable Bets"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of technology, AI stocks are emerging as some of"
-    publishedDateTime: 2023-10-10T23:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-are-surprisingly-reasonable-bets-1032694102"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20231004&i=RCV00CEVK&r=RCV00CEVK&t=2"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "lgmIwE1nT32Nc0nRrgc7A4ly5OoEFUfPAq6vcAaDT+w39heXIJNT4wygnM8dAAffWDi/9F1fmVxmdBLvU+WQjzNv8OuYtHJfizVaQ2HyZhsuDBWlUvntyycpyc8NOIo1hK1dI9rWgLLMKFl7R2PWXLkHfNCX02Upa6dGnGc6wJ4NjCCgqYsF8F2rAjLvURDhag0ycINACG80mPvVY/0J6htUhQSXVgMzsr25cqLRdlPIVSg34w99ObHGmznplzyE1yi07/3f7x6Kvv3Qa53kHzMt436+ScHfsULsgSnsQpTpEYpVu2+00Be3abP+z0FXeiV6VM6oB59hq+wjtw9fiUTopSN81vboVSnF/9yduRHHPek61pXc3p4vI724rWE7ZhE//UTnhadJN2apVcOudUKlplflVqyWXyv4754Yw0JqA4cXAfjEff0gk4r7zVTTYC/K1kOh+xKhg0A1vR574uzfAK0xpUTUoL4gLKLY/7+d0p2DFN3DKSVrPbCTU5CeL6DJf0GEYQJ2fXFcj8qMyw==;blSV9jFWZkTU/PLidyzRUA=="
 ---

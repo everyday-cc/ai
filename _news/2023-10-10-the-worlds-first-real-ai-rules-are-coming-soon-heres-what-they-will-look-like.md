@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-1
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10?amp"
 type: article
 quality: 82
-heat: 112
+heat: 114
 published: true
 
 provider:

@@ -29,34 +29,82 @@ images:
     isCached: true
 
 related:
-  - title: "Graphcore Was the UK's AI Champion—Now It’s Scrambling to Survive"
-    excerpt: "The British chipmaker wanted to challenge the dominance of Nvidia, but having been left out of government AI projects, is urgently looking to raise money."
-    publishedDateTime: 2023-10-06T11:59:00Z
-    webUrl: "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@"
+  - title: "US chip maker AMD to acquire AI software start-up Nod.ai in effort to catch up with Nvidia"
+    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence (AI) start-up called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chip maker Nvidia, Advanced Micro Devices (AMD) plans to invest heavily in the ..."
+    publishedDateTime: 2023-10-11T03:07:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: scmp.com
+      domain: scmp.com
+    quality: 74
     images:
-      - url: "https://media.wired.com/photos/651ff4404baa20ea53f1cbf7/191:100/w_1280,c_limit/shutterstock_1459527239.jpg"
-        width: 1280
-        height: 670
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/11/594b7b01-8e84-414e-baaf-fb3d5386e670_b5a0a465.jpg?itok=yLtbICdQ&v=1696992418"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Graphcore's losses grow, AI chip company seeks new funding to survive"
-    excerpt: "Graphcore reported pre-tax losses grew 11 percent to $204.6 million, its 2022 financial statements reveal. Revenue dropped 46 percent to $2.7 million. The company has laid off a number of workers, with its headcount down 21 percent to 494, and closed operations in Norway, Japan, and South Korea."
-    publishedDateTime: 2023-10-06T15:39:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/graphcores-losses-grow-ai-chip-company-seeks-new-funding-to-survive/"
+  - title: "AMD to acquire Nod.AI open-source AI software startup"
+    excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
+    publishedDateTime: 2023-10-10T19:40:00Z
+    webUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup"
+    ampWebUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Graphcore.width-358.png"
-        width: 358
-        height: 238
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/10/amd-to-acquire-nodai-open-source-ai-software-startup_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "AMD acquires open-source AI software pioneer Nod.ai to fortify AI capabilities"
+    excerpt: "The purchase of Nod.ai, founded just three years ago, shows that AMD is serious about staking a claim in the rapidly growing AI chip market, which is expected to reach $383.7 billion by 2032,  according to industry analysts."
+    publishedDateTime: 2023-10-10T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/amd-acquires-open-source-ai-software-pioneer-nod-ai-to-fortify-ai-capabilities/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "AMD to acquire AI software startup in effort to catch Nvidia"
+    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
+    publishedDateTime: 2023-10-10T16:05:00Z
+    webUrl: "https://www.aol.com/news/amd-acquire-ai-software-startup-130506735.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/31373b5e3013825b16ce899b59d3f492"
+        width: 800
+        height: 553
+        isCached: true
+  - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
+    excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
+    publishedDateTime: 2023-10-10T14:01:00Z
+    webUrl: "https://techcentral.co.za/amd-to-acquire-nod-ai-bid-to-catch-nvidia/233163/"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 37
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
+        width: 1500
+        height: 800
+        isCached: true
+  - title: "AMD acquires open-source AI software developer Nod.ai"
+    excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
+    publishedDateTime: 2023-10-10T18:19:00Z
+    webUrl: "https://siliconangle.com/2023/10/10/amd-acquires-open-source-ai-software-developer-nod-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 17
 
 secured: "ZjPGIp/wsXyv/uGyo1crl5BvPAFFVhS2OaOjAF8Mm+2cxu9IKf9sHbG9xlDIZRTt28Lz1fFPGJU7zuquu37KQsulTiX+K0MRBkPlV5ivRlXZ6KywNF5jLs4vJsa1/QknM72c3QdyvAuMcabBGR+JxVbcaebYRD2GKYV9HGrKgbgY9dSTr6PeFYpVc9vkD/QumUboJtAqSrEGms73+8fhwi8CaPZPUxPeePuK6Rmuil4BWlglaIevOEpTC+dS1UTkrbQTAuEHvTwjDe6RWy1RIn0Tg9knSetohqsBMuQo8rBKogd6I+SuUnfrSUrWzdygQjcc2M7GJlBqWaIZFOcRjGAVICaVztDqrVtHB/3NWEbAkfGllXFd7eEQQp9a/TuIP25Bgx59ekVZV7++SCXz0+YZHNkqbl6H+BpZ1E1JRe+EauD/upZ1BuUgPMKhgvCre5uYxTZcAe7vhQevp3b4+kzNpjkQ7xfwYMRvVjuPWvR33fwNG1EysK6l7wXP/g7oMUAqVrYwCqHCrLa1tHcQkw==;knwhdP6yzFzv3//5EinJzg=="
 ---

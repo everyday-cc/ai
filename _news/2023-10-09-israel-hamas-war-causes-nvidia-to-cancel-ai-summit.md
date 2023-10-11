@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cance
 webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
 type: article
 quality: 67
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -81,34 +81,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 41
-  - title: "AMD to acquire AI software startup in effort to catch Nvidia"
-    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
-    publishedDateTime: 2023-10-10T16:05:00Z
-    webUrl: "https://www.aol.com/news/amd-acquire-ai-software-startup-130506735.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/31373b5e3013825b16ce899b59d3f492"
-        width: 800
-        height: 553
-        isCached: true
-  - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
-    excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://techcentral.co.za/amd-to-acquire-nod-ai-bid-to-catch-nvidia/233163/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 37
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "tuOBsubRz2Bhg2YeSiU4TS5FxdhzRZg+1mo+NdCd94ZRsdXzpgZvS7SmugjgHJltufuq9waklMIInQ817IKZ0pAdkmOGn/SeoW9Z7rdxkccpBH5uKg6+D6aDoeRrrhbtM6b37YOtvGdXAkVIfhcjeOI6hvtvtXgGEW9GRSBWeb+AYx+2GI3mZMXa34npjbYhzEZEs8uDRU6+aUo1jUa+y9LoWTCyVGBgqgsWBcRp9V2dZCPlnvdgU8hSKoqiSBYiSorR2R4YU6PPagdUby/0RVX5UjgUgepSDpL2gexXtiIS+OT6R9v9gfBXIUvRNtfgt46yaBjvVXD/5yTE6FY//z52v0c0U+GWNLDx5hlf7cdJvkdrscGVnLm5NhOq2z5+vAriC+wIDN9Znc+KH0ZoEVBqdZqp7/7BS5/UYYkm2y9f9jNT2KBIpo+TVwmCrFcEcDVUs+KBeRrRBRA7jrYsRWtIwwTCoDLTpVH99Grh1pgB4cJXnhHqoC8hwO0T4uqLP+QC92WmNCCIfbEqQuCuig==;UwN+k40vvG0Pq99sD6fooA=="
 ---

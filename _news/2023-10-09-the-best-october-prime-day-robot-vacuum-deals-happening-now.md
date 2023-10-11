@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacu
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -79,6 +79,34 @@ related:
     excerpt: "Prime Big Deal Days is nearly here. Amazon's latest sales event - which is effectively another Prime Day - starts tomorrow (October 10) and runs until the end of Wednesday (October 11), with 48 ..."
     publishedDateTime: 2023-10-09T10:56:00Z
     webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon Prime Day 2023 – 100+ best deals from the October sale"
+    excerpt: "Amazon Prime Big Deal Days event is now here, with 48 hours of exclusive deals for Prime members running from today (October 10) until the end of Wednesday (October 11). As you might expect from a ..."
+    publishedDateTime: 2023-10-10T15:06:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon Prime Day 2023: 55+ best deals from the October sale"
+    excerpt: "Welcome to the second Amazon Prime Day sale of the year. Dubbed Prime Big Deal Days, it's the retailer's kickoff event to the Black Friday season, with 48 hours of exclusive offers across today ..."
+    publishedDateTime: 2023-10-10T15:11:00Z
+    webUrl: "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals"
     type: article
     provider:
       name: TechRadar

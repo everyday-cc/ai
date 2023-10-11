@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Move over: Drones and autonomous vehicles are on the way to Texas roads"
-    excerpt: "On Thursday, investors attended the UP.Summit to learn more about the future of artificial intelligence in transportation."
-    publishedDateTime: 2023-10-06T10:59:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 44
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/RlpajcAUg5_5geOwL1GEZjLppNU=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/35QQ32RRXNHVJFCG6W6RCKFZWA.jpg"
-        width: 830
-        height: 467
-        isCached: true
 
 secured: "D7EwwF9L8H5+gNPjysd/NckI5NOUND/7/deXCCMS18jiCdHibD8P99JuRzyn0JYFHesRPDOfxT6wpdZGo68UHdfMpEjcfUF6db0A7o0xWcjnjZdgHbZdiiWb23wOTJDGhKQkctX94K8PafqqePfWNpzc1UTePok2dgXqn0aZNzxL4DouaRUM9IVsiFdbdIX/p9cc281ZJr34af70HM/2bWqMIi8musGjmXI/mD6gTS0T1NqWqwez+UfubVW1X1DT8fIpyu8YAjy7zuaAMqoBrS0Hl9oqbP0npvwfTGFB2ZRstwx26ALSTMFHfsqbZAbdS//tTnekRRQ7rNKv9zaveZehUACVD2ZNBylOOQ2am9uCezkvpsN/yX9S7QSt2QHqVXpG5i0/yVXOp8Po2L148htBkDklqmdGyDNFo9FuwcLWqCs1BtgIirDxswV0RdX2n6TIerIttwrrwFsBHSOLANMqOOBhVWcebfHbmU0ZIEVpQ2jkubs3Nrmq47B3B+w8EWHcQ6ydd2ivUX/XHEpd3g==;yvP2jbQ9y4ZonRw28hbHeg=="
 ---

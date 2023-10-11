@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-09T12:00:00Z
 originalUrl: "https://venturebeat.com/ai/goldman-sachs-cio-is-anxious-to-see-results-from-genai-but-moving-carefully-the-ai-beat/"
 webUrl: "https://venturebeat.com/ai/goldman-sachs-cio-is-anxious-to-see-results-from-genai-but-moving-carefully-the-ai-beat/"
 type: article
-quality: 36
-heat: 36
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
-secured: "ZvwtlGqsQqq+1rJ/SXd66+TYuKZauoHmTx+PNLE+0Nrsu+o4Nllqgxt/ykcEHdwnThv6I2j5S3XCzoPrb+ZcsRN/RHwI1tIlqNTNHO7nw2am+sHx55HKPCvoiAwdNV/NcOLUsQ6PQl+Er/+JUw92eH7L99idTS3SJYbzRVk1N+qML/mc7gTyMLGNxZZOV3Tv5f8+4cVsqmPYeyF7LO4ue9RaIkJMRITMSm3pj0WvX/eEucasDiCNQXoxs7HU9v82+rLhp91l6xJ0FXpXfSOayQc3K5VsWjszNI54YbwUUnG5G/kGwTJrS5wpaULLRqTo/4xH7WDukVeIY52/qRss0Dl3gu+huuqZ9P4XGlmdTEH4wodT68nZhSKboNAHx+B3OXPWrFJ3bvGsIz8LlMWh3Vrs29P27Tj7mcVNwZtHWqSRoiq6/JhJ+BYpi+ZJDO3xtimrGZ1e/cKnCrM/dhedn7bWeKSK7pefxP6HEcxiiRtk4QJXPU3uiYAFR0OhQt0SU/wc2oxw8xc9Lvqy46UY2A==;JdvanjGd/uKlbOwkeWHEZg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-27T101048.062.png?w=1200&strip=all"
+    width: 1200
+    height: 750
+    isCached: true
+
+secured: "m4RORX8awv40mkY96WZwQdGrd3Eu2PaKSA+atC8X0FdGU7C+T/C7WzMjpodxME/J4ElW7IPL3t6SQxT0W+82BGi0sgipNJtBNG7SuO6d3pB+Q3DKRfkVkmfxdePhZqjp39eZ1no31wj4Ut93Yg4HhYEVnSo7wEV/6j2nFpIrN0gHVI173tf/WMg4i76HjaD/+vZavuPUTzp7o5cP5YmGSduRSML11B1Ei01AuNBbcgVbKMQ9+A8sjhD3tnjC7Ew9EB8ZVrMKkpiK+8/2wdag0AnES4E4t4RNJzOCtczXcIJo4lMZdh3NWCyZfeEO6pbWLgfe2FLRlHOdS5gxDHlKmaSG3SES/tLPW9tClfFBS1g=;cB1DeHT3EG/LmHrcS9Fh/w=="
 ---
 

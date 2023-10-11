@@ -7,7 +7,7 @@ originalUrl: "https://www.lowyat.net/2023/308680/samsung-announces-exynos-2400-s
 webUrl: "https://www.lowyat.net/2023/308680/samsung-announces-exynos-2400-soc-with-xclipse-940-gpu/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Exynos 2400 detailed – 70% faster CPU, Xclipse 940 GPU with AMD RDNA 3 graphics"
-    excerpt: "The upcoming flagship chipset was introduced at Samsung System LSI Tech Day in San Jose, California. Samsung Semiconductor held its System LSI Tech"
-    publishedDateTime: 2023-10-06T08:52:00Z
-    webUrl: "https://www.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-news-60133.php"
-    ampWebUrl: "https://m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 66
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/23/10/samsung-details-exynos-2400/-1220x526/gsmarena_00.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "Samsung unveils AI-focused Exynos 2400 with a 70% faster CPU"
     excerpt: "Samsung has announced the Exynos 2400, its next-gen flagship chipset for smartphones. It is heavily focused on AI performance."
     publishedDateTime: 2023-10-06T11:35:00Z

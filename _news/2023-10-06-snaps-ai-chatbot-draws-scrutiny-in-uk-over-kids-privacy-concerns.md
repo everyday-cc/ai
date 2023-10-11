@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/06/snap-ico-notice/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/snap-ico-notice/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "Snapchat's AI chatbot may pose privacy risk to children, says UK watchdog"
-    excerpt: "Britain's data watchdog said on Friday Snapchat had been issued with a preliminary enforcement notice over a possible failure to properly assess the privacy risks of its generative AI chatbot to users,"
-    publishedDateTime: 2023-10-06T10:58:00Z
-    webUrl: "https://www.reuters.com/technology/uk-regulator-issues-notice-snapchat-over-privacy-risks-posed-by-ai-chatbot-2023-10-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 46
 
 secured: "qRGAaUFCgVvJLOnl8sEd1ZcojswdMoLM/4FAnZ57WZvpoDYXxuHQgsI76zLZtOZtKvcHldMS576zRHKrrq1iES1A2BqCi1PZjI4ZUHgAiZhs+Xmq582yKNtmMO2EEeEu32F7VZFtQoKtW64i3N4QP40DZBEpnHnNluL0u7isxG5k6V6Vg+9Z7Sk35bUHlEHZmSJl0XvwsSopVQ8Qk5GRK2XyeNVEOJDBQVJV7w2asKuKQcLEIG14ql+xJRmq1lX7zkwEuJA6msEmasWVtaiPxlDOBR8i+Y3XbfanHgdbUn/Ti5zVWkA0IG39eB6nIPvNyewf+KPJzpnousrzph6wHGKCUi7p4Thmyi4ErZDD2XlOHmagrFxhUNAemzul+GQsDwpv9/+8JWepmlIJXLiKdwTa55dW7PtlxxOi+oCAkwsV9Y7ajZ/2Uh9sliNVRfr1Tl8+Tvkx1l+hiWOkx98l2sR48FjH0uLM9sBdc/EQk1S9pDrAFuvEcJ87UUj65nRMTzh8UmmJhK9bJu6EjeAG+A==;9ZEs7x2xGLq825usaL5sTA=="
 ---

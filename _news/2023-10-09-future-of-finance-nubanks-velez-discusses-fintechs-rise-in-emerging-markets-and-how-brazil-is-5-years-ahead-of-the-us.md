@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "7 Hot Fintech Startups in Indonesia to Watch"
+    excerpt: "We look today at some of Indonesia's hottest startups. For this list, we’ve selected fastest-growing fintech companies that headquartered in Indonesia, compiling a selection of both early-stage and later-stage startups that have been making waves,"
+    publishedDateTime: 2023-10-11T00:07:00Z
+    webUrl: "https://fintechnews.sg/78633/indonesia/7-hot-fintech-startups-in-indonesia-to-watch/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/10/7-Hot-Fintech-Startups-in-Indonesia-to-Watch.jpg?x41783"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
     excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
     publishedDateTime: 2023-10-09T11:54:00Z

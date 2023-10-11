@@ -168,6 +168,15 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Get Inspired: Five Microsoft partners using generative AI to enhance productivity"
+    excerpt: "Generative AI has become a critical tool for businesses seeking to streamline tasks and enhance productivity. Today, generative AI can generate everything from written content and music to product designs and programming code, paving the way for unprecedented levels of automation.\nThe post Get Inspired:"
+    publishedDateTime: 2023-10-10T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/get-inspired-five-microsoft-partners-using-generative-ai-to-enhance-productivity/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 79
   - title: "UBS remain constructive on Microsoft ahead of 'key AI catalysts'"
     excerpt: "UBS remains constructive on Buy-rated Microsoft (NASDAQ: MSFT) shares ahead of some \"key AI catalysts,\" the firm said in a note Friday."
     publishedDateTime: 2023-10-06T14:53:00Z
@@ -200,6 +209,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Microsoft empowers health organizations with generative AI and actionable data insights"
+    excerpt: "We’re making several exciting announcements about new capabilities in Microsoft Cloud for Healthcare that will be introduced across Azure to help health organizations improve patient experience, gain new insights with machine learning and AI, and handle health information securely.\nThe post Microsoft"
+    publishedDateTime: 2023-10-10T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-empowers-health-organizations-with-generative-ai-and-actionable-data-insights/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 76
   - title: "OpenAI – and Microsoft – reportedly could each develop custom AI chips"
     excerpt: "AI-optimized data center chips vary significantly in their design. However, almost all such processors share two key technical properties: They have high core counts and contain a large amount of onboard memory. Any chip OpenAI develops would most likely possess the same characteristics."
     publishedDateTime: 2023-10-06T21:13:00Z

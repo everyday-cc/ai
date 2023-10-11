@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Ambi Robotics Expands Partnership with Pitney Bowes to Automate Middle-Mile Sorting"
-excerpt: "Ambi Robotics, the leader in AI-powered robotic sorting solutions for supply chain operations, and Pitney Bowes Inc. (NYSE:PBI), a global shipping and mailing company that provides technology, logistics,"
-publishedDateTime: 2023-10-10T12:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/10/9895587.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/10/9895587.htm"
+excerpt: "Ambi Robotics, the leader in AI-powered robotic sorting solutions for supply chain operations, and Pitney Bowes Inc. (NYSE:PBI), a global shippi"
+publishedDateTime: 2023-10-10T12:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231010966768/en/Ambi-Robotics-Expands-Partnership-with-Pitney-Bowes-to-Automate-Middle-Mile-Sorting/"
+webUrl: "https://www.businesswire.com/news/home/20231010966768/en/Ambi-Robotics-Expands-Partnership-with-Pitney-Bowes-to-Automate-Middle-Mile-Sorting/"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "g+l6Fh6Sdk4syT1hMl2dtE3MdFT/BL+pc1rsRamgP+k/1vJeT1GOGKgXkJbiR+gdx5lxUegnykp6KY/AktDx/n+AmGHYJtyf/ckN3ZbkAVIiSLIiMLrlGDSpW//+/mqprYUxzXp3QK97nHomBDgiseecnzhyp/nByEGu5aU+mTx1YR9GE9s+81bgZx2ukUULdnE3z1SIUz4Vw+Rh1Fus39NO62qmQrWwWSekImtMQLq4AAqfsKVTwVOJuXZe/cJivbmNwVlG2N82WGzP8xVDypeFVyhBDFGluHRhJXEVOOF//0pF3ZMscLiuhuqY5ek9mjBLilTrGMs/8bUvlyCF64kDA2p5EyuUQoHGMyUELBU=;Us4PheUtVBPOu4oeuRIS2Q=="
+secured: "W1J7hqUCwBgz/YfzMSHwGlrJBHyV/3HxdLj/rUTDukNNN7mVieMWAWNSjAHVklO18PF0aXK4/1pe79+zcMsPMEcKgBrhP13iWrNcD0yb6ilpKMYJr4ziGtpPBCbvUwldPv0c69xZgWl5riY0+g5SLPSCISc4WsYOScYktY/lLd4oB2zqY09kbnfrn2vwPqv9tUf/zKCz9GqwY+SG8Z1RxdO5cIKj9wJQkFcH/ozP2w425h4kRuMzjnR9fAnYhCGpWvleXDPAtScoPjvc3jaD83X1FxDJWmn6yKbJtzcBTX1AnJ28VkC5RQXgF+9Bmlt+TsJfblIqL0G+UBcxhhqOcsDsMqrF+oBPt6xl3Xl9LmWkv+qCRO5yD+Y2QacURKSx1ci4VKPhEVa/rgQXYtx/0RjdPhXtorjadeOgDh/60DQOKnJxLCKEiBjKCCWVAN4BMeH/OzyGz50vmsjt48Aa/s4m1KI+o/lHp/QpWlyiaZAgH4Ewh2iAOx6v7BdhOwKnAPFmWMmWU8p5lHTCpWARTg==;nWb1t8hXCDxYcA5V50Qwig=="
 ---
 

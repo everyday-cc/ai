@@ -106,7 +106,7 @@
       "originalUrl": "https://www.wired.com/story/graphcore-uk-ai-champion-scrambling-to-stay-afloat/?n=@",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -523,11 +523,11 @@
     },
     {
       "path": "_news/2023-09-29-metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts.md",
-      "title": "Meta's New AI Chatbot Trained on Public Facebook and Instagram Posts",
-      "excerpt": "MENLO PARK, California (Reuters) - Meta Platforms used public Facebook and Instagram posts to train its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview.",
+      "title": "Meta's new AI chatbot trained on public Facebook and Instagram posts",
+      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
       "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-28/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts",
+      "webUrl": "https://www.nasdaq.com/articles/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?time=1695925504",
+      "originalUrl": "https://www.nasdaq.com/articles/metas-new-ai-chatbot-trained-on-public-facebook-and-instagram-posts?time=1695925504",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -537,21 +537,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T11:26:00-07:00",
+      "publishedDateTime": "2023-09-28T13:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

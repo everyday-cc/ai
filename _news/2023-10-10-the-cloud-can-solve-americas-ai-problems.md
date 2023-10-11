@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The entrepreneur who wants to decolonize artificial intelligence in Africa"
-    excerpt: "South African data scientist Pelonomi Moiloa is the founder of one of the continent’s first companies that develop AI-based products"
-    publishedDateTime: 2023-10-09T06:00:00Z
-    webUrl: "https://english.elpais.com/technology/2023-10-09/the-entrepreneur-who-wants-to-decolonize-artificial-intelligence-in-africa.html"
-    ampWebUrl: "https://english.elpais.com/technology/2023-10-09/the-entrepreneur-who-wants-to-decolonize-artificial-intelligence-in-africa.html?outputType=amp"
-    cdnAmpWebUrl: "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/technology/2023-10-09/the-entrepreneur-who-wants-to-decolonize-artificial-intelligence-in-africa.html?outputType=amp"
+  - title: "Bank of America: These 6 global AI stocks are 'hidden gems' with great potential"
+    excerpt: "Bank of America gives two of the chip stocks identified more than 40% upside potential over the next 12 months."
+    publishedDateTime: 2023-10-10T22:21:00Z
+    webUrl: "https://www.cnbc.com/2023/10/11/bank-of-america-these-6-global-ai-stocks-are-hidden-gems-with-great-potential.html"
     type: article
     provider:
-      name: El País in English
-      domain: elpais.com
-    quality: 57
+      name: CNBC
+      domain: cnbc.com
+    quality: 79
     images:
-      - url: "https://images.english.elpais.com/resizer/5RD8P_sL2QhbGYrgMH2j5zvBp-I=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/S3DKV22UTBD4HJOUF3SNO6EQ74.jpg"
-        width: 1200
-        height: 800
+      - url: "https://image.cnbcfm.com/api/v1/image/102492469-454318570.jpg?v=1696985505&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "wFu/mTFV+AN1UQvQbhIiJFh5re6kyThixCY6v12K81Xa6Fn7Kc0AzFarf246cORGBTWJshstEN24YwvUVAovL0rPWu6Lieuw9CpYSQhhfrCMBbPSGWEkJUNzN+z0xHq7BMm7LrRkujjKeV3eYSj7C8L/qEZvSVHKHBCd0tIpeHc5EWG3ZTsQPF0HPHdH5C8yeB5SgpFdkXIvKCIvs/bXivkLKJJreDH4cd0zoo4ns2J58Vgke/lRIplvOdF0ivekptnuvw5EmR8Q15hy3xEtxU2lxbKnLVMXLfOQqFJpXva+yJ2XRqMfRiL2zkdEbnLabJqakZNmFEqIfPNPsCl+miEsK6ZRQnX+7ke00Ki6t9A=;z/alLdkRLHG3Tf41vB5C1A=="

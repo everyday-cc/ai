@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dubformer-launches
 webUrl: "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_surreal_a_woman_opens_her_mouth_and_speaks_wit_9013efa9-a1cf-44a8-a700-46b487149a51-1.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Point Predictive, the AI-Powered Fraud Solution Provider for Auto Lending Industry, Teams Up with Metro Jobber’s"
+    excerpt: "Point Predictive, the firm focused on AI-powered fraud solutions for the auto lending industry, has joined forces with Metro Jobber's, Inc.."
+    publishedDateTime: 2023-10-10T21:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214144-point-predictive-the-ai-powered-fraud-solution-provider-for-auto-lending-industry-teams-up-with-metro-jobbers/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 38
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fast-Car-Automobile-BMV-i8.jpeg"
+        width: 1280
+        height: 1021
         isCached: true
 
 secured: "R+9iDXfeQJmeA0Fetm/PUIAzWfBNUsp6j8p1HHD/Mbzuu2Xfni/utOwRWst/fDmdZw08XU3+AVTYwCapCB0hmghhACEVtHHHbdUNk3Ynws0F7VZXLF3NkSXHICA2L3KXT+gm5zhwv3cSnZeKNJLFJqZkKhTXI/7QwZJkafAmoh6hSSRXKBqtFDBd2hpi+dSVPjnuOKs70GsMQehxK9/BFc1dr8UHxNQT6lMRSBfyGufQP9D5NHOEpCMqqqRKCN7SYUX5R99cpDWtOpz5gChDcDrRG5QVKuwzYEBVQkGA6CdvwGnRejT5ycFBh+SrhF+ROjevlrP0utuTPJ4KsjLywl1LFN871Q1pQehK6I/OlBTRMzO9mHe7OX2cG1aAyE/9ZNgu7m+xrUYl4OVYSFepW6LJhRb0U3eNPZiLeI6N6EICLtU42NHEqw2IlnRQoEuhUBRX0bREcKqNXfSbqIwjwqng3d/tMV3jL0P9O+XVPBzkQWO8NO7uHq7aiDa9v8IFVAD7n5PrlJlbsdUadqr21Q==;V9vodNx9MFNZTCOCXcy/bg=="

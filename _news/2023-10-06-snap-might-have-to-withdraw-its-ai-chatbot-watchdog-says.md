@@ -86,15 +86,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Snapchat's AI chatbot may pose privacy risk to children, says UK watchdog"
-    excerpt: "Britain's data watchdog said on Friday Snapchat had been issued with a preliminary enforcement notice over a possible failure to properly assess the privacy risks of its generative AI chatbot to users,"
-    publishedDateTime: 2023-10-06T10:58:00Z
-    webUrl: "https://www.reuters.com/technology/uk-regulator-issues-notice-snapchat-over-privacy-risks-posed-by-ai-chatbot-2023-10-06/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 46
 
 secured: "eL4j5lEVGWjO+OyCbWeQYSEau9lkRqJgZIxvPE85Gjt0187pZpZMVuD7Ntku862Lr8bgdW6y8ONK98phUjEwoz9EzV9ahwLbf8yV1/Jc+vO5xl1F+bMhBjQ4REKSHZ+LjS+Xm0y8VP6QPFMvp9Gty0UBbtdDI9PXjobgdLOONlBHXJDjEd1fOD3G1J2eqpacMEZ1W4yeaVwu5OKlir3V+vg8B8H1YVwyh8vLnYtOuaMS6DDHvpmyk06/eYzZCb9TRX2AkeaBmqwyhY5+qfyz2NsA93JO6uwQAir38ydtj0FRzYT115NsDmtYLLsjPrB3uUEv/yzXKqsQXve/0U0jXT57qQes4D0j9MgAf26ZfYJ8IMiHWgl3JE9Io5jdHKMDSUfXvubcSlKzfJVX/uzW6XEWnIThXlzwz4VFRvZhYikH/dy2rgeRSe3oHqKWHxcxnkAtlhAn8Opr+FyhTa/7JncZWl+g6jRKnxtqXnkscXMYRGEdPQcL0Y8uQF1U5aEEyeDBj+T+OLIubus1apD6DA==;EmUi4eq5OJ0oI6xvB7Gw1A=="
 ---

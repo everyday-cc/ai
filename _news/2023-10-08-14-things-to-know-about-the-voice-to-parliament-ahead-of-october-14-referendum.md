@@ -95,6 +95,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Amazon Prime Day 2023 – 100+ best deals from the October sale"
+    excerpt: "Amazon Prime Big Deal Days event is now here, with 48 hours of exclusive deals for Prime members running from today (October 10) until the end of Wednesday (October 11). As you might expect from a ..."
+    publishedDateTime: 2023-10-10T15:06:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Amazon Prime Day 2023: 55+ best deals from the October sale"
+    excerpt: "Welcome to the second Amazon Prime Day sale of the year. Dubbed Prime Big Deal Days, it's the retailer's kickoff event to the Black Friday season, with 48 hours of exclusive offers across today ..."
+    publishedDateTime: 2023-10-10T15:11:00Z
+    webUrl: "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Lovo.ai Review: The Best AI Voice Generator in October 2023?"
     excerpt: "Looking for the ultimate AI voice generator? Read this Lovo.ai review for an in-depth look at how to instantly add voiceovers using AI."
     publishedDateTime: 2023-10-09T17:26:00Z

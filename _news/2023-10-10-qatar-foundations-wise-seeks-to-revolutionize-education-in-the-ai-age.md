@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Importance Of Unlocking AI For The Retailer, And Why Digitalization Is The First Step"
-    excerpt: "Retailers can benefit from a digital transformation of their wholesale process in many ways. Let’s take a closer look at a few of the main perks it can unlock."
-    publishedDateTime: 2023-10-06T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/06/the-importance-of-unlocking-ai-for-the-retailer-and-why-digitalization-is-the-first-step/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/651ede92879f17197035ad11/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 633
-        isCached: true
   - title: "The Intersection of Data and Generative AI"
     excerpt: "Microsoft's Buck Woody breaks down how SQL Server is leveraging gen AI, and what skills you will need to stay competitive."
     publishedDateTime: 2023-10-10T20:19:00Z

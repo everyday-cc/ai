@@ -81,34 +81,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 41
-  - title: "AMD to acquire AI software startup in effort to catch Nvidia"
-    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
-    publishedDateTime: 2023-10-10T16:05:00Z
-    webUrl: "https://www.aol.com/news/amd-acquire-ai-software-startup-130506735.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/31373b5e3013825b16ce899b59d3f492"
-        width: 800
-        height: 553
-        isCached: true
-  - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
-    excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://techcentral.co.za/amd-to-acquire-nod-ai-bid-to-catch-nvidia/233163/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 37
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "pfB9uAN3hCM0K+JZUfCFBudehvJBGyraDV3LvQTjUeeiFITgcS0Mg2sh3A85Xplb7FBwy8S+vbGg0Twv/BmOmAgit3W3xAIU0vLBE/96Sbm191PWcjqvCFCqXP38v+Pq0gTlqc2+IrvKVduKDf3HqzlwHcXZvbqDnkDZsHICKuTfkfZeDE03B2ss6nM0XmeA3gwoe0RuGTUd0IlSHYfhJhNhTKzY+qm/LmpDhyU7h6+lfRFHDik8X9nLHg1cld1cTDmvI5i64/QGXxW2+3TqVmSTcC5hpgxhpwF8eoHGvvuDYo/MUj8eT9N3BNDVEjirFfvjdeXsN5uN6hL3M9fWIWFAE62iEZ0fOmPQTGDoeWgH+ttnbPukci33rDydWQkVhzufB0ixNJQ8/NCcYgd6R7MbEoaSP1brnOXTPXyJeOepcdar7lKEE2SvNPezOchB6AMas3V/H6TgaRpj/F4sKWgGhrauDJ8xvRE8GagSb2rjkrHaKj2pW+RnEuNUvSjDsREP4Ird7ymDnZg+Ib6UyQ==;8l/vtVbNqxMVBBifjG3fsA=="
 ---

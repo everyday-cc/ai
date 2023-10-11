@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202310/cyberlink-unveils-new-facia
 webUrl: "https://www.biometricupdate.com/202310/cyberlink-unveils-new-facial-recognition-integrations-for-pos-kiosks-video-surveillance"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -17,56 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Should Police and Private Companies Stop Facial Recognition Surveillance?"
-    excerpt: "Should police and private companies stop the use of facial recognition surveillance? A group of politicians and privacy campaigners think so."
-    publishedDateTime: 2023-10-06T09:47:00Z
-    webUrl: "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/"
-    ampWebUrl: "https://techround.co.uk/tech/police-private-facial-recognition-surveillance/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/tech/police-private-facial-recognition-surveillance/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 58
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2023/10/man-5946820_1280.jpg"
-        width: 1280
-        height: 849
-        isCached: true
-  - title: "MPs and peers call for ‘immediate stop’ to use of live facial recognition"
-    excerpt: "MPs and peers from across the political spectrum have called for an “immediate stop” to the use of live facial recognition surveillance by police and private companies. The Big Brother Watch campaign group says 65 members of the House of Commons and Lords have backed its call for a halt to the technology’s use."
-    publishedDateTime: 2023-10-06T15:54:00Z
-    webUrl: "https://morningstaronline.co.uk/article/b/mps-and-peers-call-immediate-stop-use-live-facial-recognition"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 38
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/PA-49302842.jpeg"
-        width: 1180
-        height: 585
-        isCached: true
-  - title: "MPs call for ‘urgent stop’ to police use of facial recognition tech"
-    excerpt: "A cross party group of MPs and privacy campaigners have called for an “urgent stop” to the use of facial recognition surveillance technology by the police and private companies."
-    publishedDateTime: 2023-10-06T12:07:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/10/mps-call-for-urgent-stop-to-use-of-facial-recognition-tech-by-police-forces/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 19
-  - title: "MPs call for 'immediate stop' to live facial recognition"
-    excerpt: "MPs and peers from all sides have called for an \"immediate stop\" to the use of live facial recognition surveillance by police and private companies."
-    publishedDateTime: 2023-10-06T19:02:00Z
-    webUrl: "https://www.express.co.uk/news/politics/1820935/live-facial-recognition-stop-mps"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 19
 
 secured: "hkstjoqk/rM1qEVAgIFuDR5MhAKk8ozdy9rqPYHIkHCpg6xfOBrk0vcWyeHu0xQPMXlD77NkpM7IohQQBidQfFJ4RL7SfXqJeTWj+sia+E04RKoOFJ3p7JoDAM14DYbPfHyQCA8C8oYKyNdmlWlb1wlA5D0oYixV4a96FBtFkjCPJkbhuxbmBIXqb8IQOhZ37cBMVNzfdQPqGcVMzszLWM/oZzeqiat3i5wbdbY5FNT92PHXj0zcAUe+pusC+vxdT2vjTokz/SJkFQapGpx5lN9ccVMVX/VrL93vQNf6rnZE7jCScDsbLyXNNmoMXUAkTaAm84gTGWhXDh/JjY3FPtlx15GNx0pX5CxQP6Lu50f8r9pPZn8HuXoaw7lx5/XKjvmDDgY88pt3ipjvG2y/fQAR9OQNdjMJBzYmHCTtu+yY++Du8j/RM1s8T8lEn6bo2towjlLYWYDNOzrXUVyDZMhYTy080KmgWhzRdrWsyjGprrxCnWgsI4U/l/FO4TfV7NOKpIrPCkqHPyAy2RvWYA==;VUlCXXa4q/Zkg1Ue0kfqYQ=="
 ---

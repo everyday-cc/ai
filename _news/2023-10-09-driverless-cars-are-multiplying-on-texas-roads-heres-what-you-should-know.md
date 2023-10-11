@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texa
 cdnAmpWebUrl: "https://www-kltv-com.cdn.ampproject.org/c/s/www.kltv.com/2023/10/08/driverless-cars-are-multiplying-texas-roads-heres-what-you-should-know/?outputType=amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: KLTV
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Move over: Drones and autonomous vehicles are on the way to Texas roads"
-    excerpt: "On Thursday, investors attended the UP.Summit to learn more about the future of artificial intelligence in transportation."
-    publishedDateTime: 2023-10-06T10:59:00Z
-    webUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/"
-    ampWebUrl: "https://www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2023/10/06/move-over-drones-and-autonomous-vehicles-are-on-the-way-to-texas-roads/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 44
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/RlpajcAUg5_5geOwL1GEZjLppNU=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/35QQ32RRXNHVJFCG6W6RCKFZWA.jpg"
-        width: 830
-        height: 467
-        isCached: true
   - title: "Driverless Rides in LA"
     excerpt: "Waymo One, a driverless taxi service, will be available to the public in locations across the L.A. area, starting with Santa Monica on Oct. 11. Why it matters: You can hail Waymo's driverless cars in places like Phoenix, San Francisco, and now L.A. However, the cars have been a source of controversy for sometimes stalling in the middle of the road."
     publishedDateTime: 2023-10-07T13:51:00Z
