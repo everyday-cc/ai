@@ -100,6 +100,20 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 24
+  - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
+    excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
+    publishedDateTime: 2023-10-12T03:38:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/10/12/uzku-o12.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 13
+    images:
+      - url: "https://www.wsws.org/asset/db6252e2-fab1-4b7c-aa96-ed23a8cc05a6?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "8TasJOhp5nQ7PTMlyC0cjpVbQZ3Grfpgc7acFX5ZDNZpvSkdY0ISNupJgA424+JVmBZIQApXcgFN3xZud+hMuOLX8Hlab08TcL6blqT5xjPERb+qvAKA8rJanhwOj4l9uCDkvdq7YvR/CkZm4Q4IG14Abs0uM4imBn7i1yljxg6WpstJRqE6EFo3bWD0HeMixEBfyvG6UNx7zg3Dpnjd5EtEDIQ0UuK8epyw8GVrzDqqyM/ZNkFTidSopSbw27sq+mZORPcw9O88b9GtmUYrjegjOUIXOX/gKMXMZF1fUmb8hBPem9UOmNvtDWMOKaqcahw2vMctCe7uA/lVzg62/aHJKUT5OpGUtieEhsXk0k4=;9Jj/xlJfhVbuvgCjM6Rg3g=="
 ---

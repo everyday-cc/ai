@@ -2,6 +2,151 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-08-31-expanded-partnership-brings-opentext-core-content-to-google-workspace.md",
+      "title": "Expanded Partnership Brings OpenText Core Content To Google Workspace",
+      "excerpt": "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at OpenText and Google’s collaboration in Google Workspace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0ba046f6bd58165b575a5/0x0.jpg?format=jpg&width=1200",
+          "width": 624,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/08/31/expanded-partnership-brings-opentext-core-content-to-google-workspace/amp/",
+      "publishedDateTime": "2023-08-31T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-how-to-detect-and-patch-a-log4j-vulnerability.md",
+      "title": "How to detect and patch a Log4J vulnerability ",
+      "excerpt": "The Log4j vulnerability—dubbed \"Log4Shell\"—still persists nearly two years later. Learn how to detect and patch the vulnerability.\nThe post How to detect and patch a Log4J vulnerability  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-detect-and-patch-a-log4j-vulnerability/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-detect-and-patch-a-log4j-vulnerability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-ai-is-not-just-about-automation-we-need-personalization-too.md",
+      "title": "AI Is Not Just About Automation, We Need Personalization Too",
+      "excerpt": "This is important because these misleading claims have the negative side effect of causing consumers to mistrust the field altogether. Users don’t want to have to constantly wonder if a product claiming to use AI actually is doing so and, if so, using it correctly. Consumers don’t need to be tricked very many times to lose faith.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0ab4d268c90e2d9b575a5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/08/31/ai-is-not-just-about-automation-we-need-personalization-too/amp/",
+      "publishedDateTime": "2023-08-31T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-artificial-intelligence-and-machine-learning-news-and-features.md",
       "title": "Artificial Intelligence and Machine Learning – News and Features",
       "excerpt": "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ...",
@@ -1013,153 +1158,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-chip-innovations-key-to-the-future-of-aiml.md",
-      "title": "Chip innovations key to the future of AI/ML",
-      "excerpt": "Dramatic gains in hardware performance have spawned generative AI, and a rich pipeline of ideas for future speedups that will drive machine learning to new heights. This is the word from Bill Dally, Nvidia’s chief scientist and senior vice president of research,",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
-      "originalUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://it-online.co.za/wp-content/uploads/2023/04/circuit-board.jpg",
-          "width": 1075,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-launch-into-satellite-applications-with-microsoft-azure.md",
-      "title": "Launch into satellite applications with Microsoft Azure",
-      "excerpt": "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
-      "originalUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/shutterstock_2291065933-100945245-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
-      "publishedDateTime": "2023-08-31T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40.md",
-      "title": "Morgan Stanley downgrades this big AI winner, says stock can fall more than 40%",
-      "excerpt": "Difficulties monetizing around artificial intelligence could spell bad news for Palantir after its massive rally, Morgan Stanley warned. Analyst Keith Weiss downgraded the data analytics stock to underweight from equal weight while adding $1 to his price target to $9.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
-      "originalUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106807440-1607372084669-gettyimages-1228810311-PALANTIR_NYSE.jpeg?v=1693476296&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

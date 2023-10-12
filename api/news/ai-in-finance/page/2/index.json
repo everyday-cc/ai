@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-20-machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Research Report 2023-2030 | 104 Pages Report",
+      "excerpt": "The Machine Learning as a Service (MLaaS) market has witnessed ... the analysis encompasses ongoing advancements and pivotal financial metrics. Readers will also have the opportunity to access ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34751304/machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34751304/machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-ai-bubble-or-revolution-goldman-sachs-research-takes-a-look.md",
       "title": "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look",
       "excerpt": "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI.",
@@ -1278,51 +1313,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list.md",
-      "title": "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you searching for a list of top AI chip companies? AI chip companies are",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -53,22 +53,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
-    excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
-    publishedDateTime: 2023-10-07T09:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 47
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Budget Constraints Are Holding Back Fintech Innovation, Finds Report"
     excerpt: "In the report, budget constraints were the top reported issue impeding executives’ ability to implement innovative solutions, but a large portion of U.S. respondents surprisingly also pointed to obstacles relating to their own firms’ talent and infrastructure, said Harry Stahl, Senior Director of Enterprise Strategy at FIS."
     publishedDateTime: 2023-10-10T06:08:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-australia-67076216.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 24
+  - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
+    excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
+    publishedDateTime: 2023-10-12T03:38:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/10/12/uzku-o12.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 13
+    images:
+      - url: "https://www.wsws.org/asset/db6252e2-fab1-4b7c-aa96-ed23a8cc05a6?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "uuCHPNVNKK4Bk5eX8MpqF8o+1xDALkfQPJL5E8fJO00k4yIAjXKrJVY7Sz46YFeVvC45tEoltDcByBUkZEUQPwpvdGvNCcoGmKaD01ZujeBkDiZG4n6f34wJD8s64iuQt26rYOKNu9foqonCTsUkh4AI1zaiR9J7Atf95O2dyhinykyvIj93nc2z0PJfwBDRSFcLzK6ZzcEwAz33dMrpmHSDhUb9l+KjaepxsZ4Aj9ztG7mEbZ3OSyLtfMNAnFmNCX4kQpdsZo0WboXjuQFGIJttRo087vs40VhgKaiMCIQlRYGC/+JOP322ODdPuHWhqfb0oe7QzS+YR8iPylXjl/t/4TQ3XYvy+hTPlOf3YPKZWFka4Y0D5svdVOYOFT8FgU3FQLXv59DB9ZeRy9J9Kznh+Yjc7MbBxMYM++7gLvgST3btFSijHny9OretjR2oWJNITw9jN/l1AFsDEZoKY0N00nw2RFjkSTRF864ZsZKLVb0rkSus8Iw88oCvljgXIoQh0vW551T9MqSeM60jog==;8HmA1QbUz6BUGPTWsbNdJg=="
 ---

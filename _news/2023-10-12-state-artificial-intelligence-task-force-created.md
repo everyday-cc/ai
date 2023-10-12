@@ -52,20 +52,6 @@ related:
         width: 650
         height: 413
         isCached: true
-  - title: "Google Cloud launches AI search to empower healthcare"
-    excerpt: "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records."
-    publishedDateTime: 2023-10-09T13:33:00Z
-    webUrl: "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 54
-    images:
-      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg"
-        width: 600
-        height: 331
-        isCached: true
 
 secured: "Ey4Swq6rF6u7TnJ7lS9jR/1Gsi6H2x9x106Q+oBdoqxtq/DWIcyfbthZyc76K8TGM2nuKiQB0iFZoGbS/8NmA9fG4FqieRu8GefMixMAUpPNaiEPQe9b/3EZTHjTq8fb2IH2DE5F4b/V/82gAzpl08sMKhWD4EyK489ioUXwQTSCQhMQCTNeubTJ7V16ofHzC9YByvRoBQZT1yogRaEFbz1qrLHdTXpfQwX6Zg9lYR2wzcte61Ba+9ksYF5BLXiVR4XAY7H684NgKhopMkh7BbakJND8K2m21zf9ADH2UBFlz1TG2OjC8Md/nqTHST8OuyzWddmHYPxEXp0PIWO8lNOwUeFC15fQ1zL3QTaK3e1laZHDJ97pt5b0hFPEeDEFRhLsRyE+XE4oaT6YJrFPkipXKIRyZJZNY+kQgwxJpx/bM80BEuir5txOA4Sk7dsXcRxT8Vo4Bue/c0MCxQQYPTmnWA8cMteL18/kIw0fvHJCT15A/wBbgxNAt4UJQbF3O9I63RzXGR5DucRaH0UUvg==;Jf3+BQR36sLZkcziobAxLQ=="
 ---

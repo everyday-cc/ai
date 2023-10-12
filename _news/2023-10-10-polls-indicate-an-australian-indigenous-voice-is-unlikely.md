@@ -99,6 +99,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
+    excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
+    publishedDateTime: 2023-10-12T03:38:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/10/12/uzku-o12.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 13
+    images:
+      - url: "https://www.wsws.org/asset/db6252e2-fab1-4b7c-aa96-ed23a8cc05a6?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "59rQHt7x24H5oNQHLtEdUpIw2KN7uVoRfphVRB5H6930UsPrBOwDaviw6y7KwqZVdJMxfB6tf656Fdc4XcMl/7IX4/DSaXSrYMW+bOZ2/5EYFiDOSCA1gRlrpEW38hTlmid/6EJeZKeFqTkg9U1iAbDjy+9XnmqZ7GpMfCKsUsp6+YVEK/+gZIctb/F4u5W6E16/D+FgBIOJOrTQ4QGIWzWI4vAtOQvrBu/gk5ye9vqn6geXAUGfTCuXyk5A5mOS8HIRjnMjOkLB06Ub6U6VvSER/orugfvvAws3mh10u/ikSGkS9oWbiuHQfx03dUOjrv2ms76MLiY2n0CUQLP54el6i94vngd1PDlZHLmx2RCkKHNAishvSF7rZep1Nss6ro6cBSUXyQUIRzmSDn1U8CwiiAZ93K8xOYbIrUPA+h/bcROGxsPZr/bpkoAfqVykw56Z/KwOgCyxQTzsw5XLpVE66aUTnPDYxUDjaxNcRi0y1hJB/dcNVt+bxGYOvm8a+YNCByfSzhetEuz/RBt3MQ==;ze9VjlZe+2q2X0b6vL8hhA=="
 ---

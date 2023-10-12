@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curate
 webUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://storage.googleapis.com/mmstudio-images/gallery/KzBywcHSlXNdwbffq9CuqiWMA6E3/1696937870123-0.jpeg"
         width: 650
         height: 413
-        isCached: true
-  - title: "Google Cloud launches AI search to empower healthcare"
-    excerpt: "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records."
-    publishedDateTime: 2023-10-09T13:33:00Z
-    webUrl: "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 54
-    images:
-      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg"
-        width: 600
-        height: 331
         isCached: true
   - title: "State Artificial Intelligence Task Force Created"
     excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"

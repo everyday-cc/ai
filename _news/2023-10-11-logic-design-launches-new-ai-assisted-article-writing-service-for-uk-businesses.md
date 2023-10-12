@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Google Cloud launches AI search to empower healthcare"
-    excerpt: "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records."
-    publishedDateTime: 2023-10-09T13:33:00Z
-    webUrl: "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 54
-    images:
-      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg"
-        width: 600
-        height: 331
-        isCached: true
   - title: "State Artificial Intelligence Task Force Created"
     excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
     publishedDateTime: 2023-10-11T18:20:00Z

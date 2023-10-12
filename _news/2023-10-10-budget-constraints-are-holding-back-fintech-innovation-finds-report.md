@@ -57,22 +57,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "AI-powered transformations in fintech for small businesses: Shaping the future of SMB financing"
-    excerpt: "By harnessing the power of artificial intelligence (AI), they are reshaping the landscape of SMB financing. They are providing easy access to capital to these SMBs, making bill payments easier and speeding up the time to access the credit."
-    publishedDateTime: 2023-10-07T09:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-powered-transformations-in-fintech-for-small-businesses-shaping-the-future-of-smb-financing-3265107/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 47
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design-2023-10-06T160116.656.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "EDOMx taps FinTech finbotsAI for credit risk management"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-10-11T07:04:00Z

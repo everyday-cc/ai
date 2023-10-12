@@ -2,6 +2,100 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-04-language-accessibility-drives-speech-recognition-innovation-from-isentia.md",
+      "title": "Language Accessibility Drives Speech Recognition Innovation From Isentia",
+      "excerpt": "Leading media intelligence company, Isentia, has bolstered its TV and radio Monitoring service, with the launch of all-new speech recognition capability that includes Te Reo Māori, with the help of Artificial Intelligence (AI) and tangata whenua staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU2310/S00046/language-accessibility-drives-speech-recognition-innovation-from-isentia.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-metas-ai-stickers-are-here-and-already-causing-controversy.md",
+      "title": "Meta’s AI stickers are here and already causing controversy",
+      "excerpt": "Meta's new AI Stickers raise concerns as content filters miss objectionable mashups, including copyrighted characters in controversial scenarios with guns and more.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
+      "originalUrl": "https://venturebeat.com/ai/metas-ai-stickers-are-here-and-already-causing-controversy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/crop-2.jpg?w=1200&strip=all",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-the-ai-empowered-patient-is-coming-are-doctors-ready.md",
       "title": "The AI-Empowered Patient Is Coming: Are Doctors Ready?",
       "excerpt": "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans.",
@@ -612,6 +706,40 @@
       ]
     },
     {
+      "path": "_news/2023-10-04-mphasis-forms-strategic-technology-partnership-with-corestack.md",
+      "title": "Mphasis Forms Strategic Technology Partnership with CoreStack",
+      "excerpt": "Mphasis, (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in cloud and cognitive services, today announces",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
+      "originalUrl": "https://www.businesswire.com/news/home/20231003982144/en/Mphasis-Forms-Strategic-Technology-Partnership-with-CoreStack",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-why-ai-is-teetering-on-the-edge-of-a-disillusionment-cliff-the-ai-beat.md",
       "title": "Why AI is teetering on the edge of a disillusionment cliff | The AI Beat",
       "excerpt": "while reportedly “VCs dangle AI chips to woo founders,” who claim to know what humanity will go hog-wild for. That’s not enough. We need more than these vague pronouncements. For AI to succeed, humanity needs to get on board. And after decades of ...",
@@ -1073,153 +1201,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-apples-ai-prowess-lies-in-its-neural-engine.md",
-      "title": "Apple's AI Prowess Lies In Its Neural Engine",
-      "excerpt": "The new GPU can run complex applications ... Apple's neural engine uses a different approach from competitors. It allows more onboard AI processing instead of relying on server-based AI solutions. This methodology means that running AI programs on a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651b05c1d2aa717e77be38c5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/amp/",
-      "publishedDateTime": "2023-10-03T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023.md",
-      "title": "Oracle Doubles Down On Generative AI Trend At CloudWorld 2023",
-      "excerpt": "AI Vector Search functionalities include a new vector data type ... though its partnership with Microsoft–arguably the leader in GenAI thus far–currently focuses on Oracle Database@Azure, we can all speculate what that partnership may grow to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c19e2eb69afd4ac308520/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
-      "publishedDateTime": "2023-10-03T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-construction-quality-control-services-market-size-regional-status-and-outlook-2023-2030-fischertechnik-modular-robotics-xiaomi.md",
-      "title": "Construction Quality Control Services Market Size, Regional Status and Outlook 2023-2030 | Fischertechnik, Modular Robotics, Xiaomi",
-      "excerpt": "Construction Quality Control Services Market Size, Regional Status and Outlook 2023-2030 | Fischertechnik, Modular Robotics, Xiaomi by Herald Keeper October 3, 2023 9:17 AM | 4 min read",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35063228/construction-quality-control-services-market-size-regional-status-and-outlook-2023-2030-fischertech",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35063228/construction-quality-control-services-market-size-regional-status-and-outlook-2023-2030-fischertech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35063228",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35063228",
-      "publishedDateTime": "2023-10-03T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

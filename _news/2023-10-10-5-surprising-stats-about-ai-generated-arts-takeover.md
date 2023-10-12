@@ -18,21 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Downing Street trying to agree statement about AI risks with world leaders"
-    excerpt: "Wording will form communique for AI summit next month where agreement on organisation to scrutinise technology is unlikely to be reached"
-    publishedDateTime: 2023-10-10T05:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/10/downing-street-trying-to-agree-statement-about-ai-risks-with-world-leaders"
-    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/10/downing-street-trying-to-agree-statement-about-ai-risks-with-world-leaders"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/10/downing-street-trying-to-agree-statement-about-ai-risks-with-world-leaders"
+  - title: "Users divided over AI generated profile pictures"
+    excerpt: "Using AI-powered apps to create professional-looking headshot photos is now popular, but are the images any good?"
+    publishedDateTime: 2023-10-11T20:16:00Z
+    webUrl: "https://www.bbc.com/news/av/business-67074599"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: BBC
+      domain: bbc.com
+    quality: 67
     images:
-      - url: "https://i.guim.co.uk/img/media/1f7d262c9b66858c4c7d26bad9a51788d1df3301/0_977_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=8dba7f092ce588abab909e98193f034e"
-        width: 620
-        height: 372
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2A1A/production/_131387701_p0gkpzfw.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "As Meta, Character AI place bets on ‘fun’ chatbots, problems lurk behind AI-generated smiles"
+    excerpt: "As Character AI and Meta bring entertaining chatbotsI to group chats, real problems have already begun to brew."
+    publishedDateTime: 2023-10-11T20:05:00Z
+    webUrl: "https://venturebeat.com/ai/as-meta-character-ai-place-bets-on-fun-chatbots-problems-lurk-behind-ai-generated-smiles/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AI-AIs.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Disney's 'Loki' TV show accused of using AI generated art for release promotion"
+    excerpt: "Illustrators are accusing Disney of using AI-generated artwork in the promotional material for the upcoming release of Loki season 2."
+    publishedDateTime: 2023-10-10T05:46:00Z
+    webUrl: "https://www.tweaktown.com/news/93687/disneys-loki-tv-show-accused-of-using-ai-generated-art-for-release-promotion/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 35
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93687_559111_disneys-loki-tv-show-accused-of-using-ai-generated-art-for-marketing_full.png"
+        width: 1500
+        height: 837
         isCached: true
 
 secured: "H2eCOUyyThB2zKJalp8c2KMQwKtYi5FueOQk37AxZeImttwZe3iYQxR/ZEOMJq0BzbPeg226VJF0ajl4Qa30Zajp1rteirZOjXbh0UqgYNoUjfUDPN04rrP+uq8r8IXype4mx1dlOzjkj+5zpZJB5TCQjHxS3qAGjJL92oMlzMcuqzgsfcRDak1Kc0Oo1dJn5eSqu3d3fZjRUkaREdkBgihvQoOi/mWgS/EQapzGpcpBs7ROUTOTttryxRxDdGk2thgjgVCFlQKVQtfvxdyaOgxD34+ZPcqKZAfujaDMTS7/KvYmUnR21FlrWaZ8tYwwe28Q9iAx/oPLr1RaejXvwBHCTn9HBXXrKlSdd6ByTRw3BqtRVugzMnDqa8/qTCZdJ8bn5FgcgwqUoMOC0MsA+ohFKMsHipeP/1MIBxWSXFzN2YAYRNoAWGK6BZp/BQDyb+4njTomrl+PPmn34ZZiXkyF63gmuUfg0IKE50seJJaKjMXjGgHsZQ7Zk1luh3p9M8xBlWVadRC3DpUr1vgpww==;TeDWrCubOlXqSDA3ThwOFw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/93687/disneys-loki-tv-show-accused-
 webUrl: "https://www.tweaktown.com/news/93687/disneys-loki-tv-show-accused-of-using-ai-generated-art-for-release-promotion/index.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,45 @@ images:
     width: 1500
     height: 837
     isCached: true
+
+related:
+  - title: "Users divided over AI generated profile pictures"
+    excerpt: "Using AI-powered apps to create professional-looking headshot photos is now popular, but are the images any good?"
+    publishedDateTime: 2023-10-11T20:16:00Z
+    webUrl: "https://www.bbc.com/news/av/business-67074599"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2A1A/production/_131387701_p0gkpzfw.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "As Meta, Character AI place bets on ‘fun’ chatbots, problems lurk behind AI-generated smiles"
+    excerpt: "As Character AI and Meta bring entertaining chatbotsI to group chats, real problems have already begun to brew."
+    publishedDateTime: 2023-10-11T20:05:00Z
+    webUrl: "https://venturebeat.com/ai/as-meta-character-ai-place-bets-on-fun-chatbots-problems-lurk-behind-ai-generated-smiles/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AI-AIs.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 surprising stats about AI-generated art’s takeover"
+    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
+    publishedDateTime: 2023-10-10T13:00:00Z
+    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "esIX8/hbKMMsiIRQUeyqf0ofYxAqIVDSjw00gidLo1b/tX9dhTGNSg7zKUrYc6eG1RjYupUmT5p0ZF+hC2x2XF9RcJHezYG1MSmPU4C6nu+IgM+PVTODHA81s8UtsjKf+2xDrHKt0lfxyAWtOVG0c53sdZS/eCrlMNPylYHSQ9eL59wjL8UUBg3Oovulz7yToES+7elWfbn1bqf57CrL22WlsxItZRln59Zrpb6mbZzTkMlqGu9WvY0PZTVEl/OKGzkkl2fFNK9xnb/BuiaeRidzxfR7R3u0Igvd4Dg0+UqiPe9lXyEEiIHooHtIHb7Zt+ShS3YNh/y4e9DjcRY4t/TlcfTbEaM6vksE/CrODJxp03hR3WjydSK+TpVB3oYzwB+6sS9vCk0qWi94u7CA50naSjze+uit5CmEdzKPBvNMBSHGH1PvT3TU77+ylY/vE8zZlMNPKJcCpKEf+1TvFJjJBfGfJIh9OcPigh5GOaYvk8/8bGz82J4o8Qt2gGZMmCSNk88gaCWI7Kyv4HsRXQ==;V1qPFek4ad8nHlOS/+qnZA=="
 ---

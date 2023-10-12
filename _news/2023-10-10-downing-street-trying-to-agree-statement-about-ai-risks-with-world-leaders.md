@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/10/downing-street-tr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/10/downing-street-trying-to-agree-statement-about-ai-risks-with-world-leaders"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "5 surprising stats about AI-generated art’s takeover"
-    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "ySPgqHhY9/G1GggmXyWUG1I5P89Kj1FN67uqlYvhT+SRpTZde9KtcSm1NmF31EYWqkinlqK2W5TtZ8uXwapsSPesv0CapNjS6btlkDnPW90PVeMgmpizueZIOkF0j7G0tQ3eiB6Eqy6tGmIn8xGNf1uffIz8OkFrG0qm6xhNo5zfuQY7n+aHbARx4RFF5bSmZbTJOd/6FZVIdVKKD3SIKMVyXNzbz7XxwtSbPdTgmVn8/raWIHrzLcFBqQCbqw18aOUQBCGF7Ilwe8vIKoeQ4Btmo4USlmpW9YoPI6g9SAnNie2g7EEOYYV2OO6pIKDyOWSVV60RekBWOFKQZyHDoG+M9KmR3e8XxWEDjeq9I86rrkATG10NFZsWiW/66q6Od8LVkH1gD6dl4UUSAYvUfYDmj+iiQri63fi4gL+nk9aGnK1S/Ftr4pD92OooEY7u68DZldItF+ZzO3bviUtoeRFZFwR1FunKSYI3bf9k24WfV8hJCcDhFhEv6kzzxgN7qEV1SPdWbjRIHeWSZLFdtw==;UnJOfC6YHfZgjZmRgQDSNg=="
 ---
