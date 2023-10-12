@@ -104,29 +104,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Ethics in the age of AI"
-    excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
-    publishedDateTime: 2023-10-12T06:29:00Z
-    webUrl: "https://thepeninsulaqatar.com/opinion/12/10/2023/ethics-in-the-age-of-ai"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230920_1695204350-893.jpg?1695204350"
-        width: 999
-        height: 1000
-        isCached: true
-  - title: "These 7 Stocks Are Leading the AI Pack"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
-    publishedDateTime: 2023-10-11T10:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/these-7-stocks-are-leading-the-ai-pack-1032695805"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "The Power Of Fine-Tuning In Generative AI"
     excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
     publishedDateTime: 2023-10-10T13:46:00Z
@@ -144,15 +121,6 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 47
-  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
-    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
-    publishedDateTime: 2023-10-09T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
     quality: 47
   - title: "The perils of artificial intelligence"
     excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."

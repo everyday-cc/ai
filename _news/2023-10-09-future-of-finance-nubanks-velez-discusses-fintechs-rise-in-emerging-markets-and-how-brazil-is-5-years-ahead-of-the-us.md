@@ -51,6 +51,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "How International FinTech company Collect & Pay Aims to Reshape Digital Finance"
+    excerpt: "The financial sector’s terrain is rapidly evolving. Led by fast-growing neo-banks such as Revolut, banking services are becoming more efficient and accessible than ever before. At the same time, new technologies like blockchain and cryptocurrencies are fundamentally redefining how we manage our finances."
+    publishedDateTime: 2023-10-12T08:42:00Z
+    webUrl: "https://techbullion.com/how-international-fintech-company-collect-pay-aims-to-reshape-digital-finance/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/IMG_20231005_124245_556-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Budget Constraints Are Holding Back Fintech Innovation, Finds Report"
     excerpt: "In the report, budget constraints were the top reported issue impeding executives’ ability to implement innovative solutions, but a large portion of U.S. respondents surprisingly also pointed to obstacles relating to their own firms’ talent and infrastructure, said Harry Stahl, Senior Director of Enterprise Strategy at FIS."
     publishedDateTime: 2023-10-10T06:08:00Z
@@ -146,6 +160,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 14
+  - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
+    excerpt: "Hong Kong Fintech Week and Singapore Fintech Festival just around the corner, we look today at the key highlights of this year’s events, focusing on their main themes, what participants can expect, and why these events are critical to attend for fintech companies aiming to thrive in the industry."
+    publishedDateTime: 2023-10-12T08:03:00Z
+    webUrl: "https://fintechnews.ch/events/why-swiss-fintechs-should-attend-2023s-hong-kong-fintech-week-and-singapore-fintech-festival/63945/"
+    type: article
+    provider:
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 13
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/10/Why-Swiss-Fintechs-Should-Attend-2023s-Hong-Kong-Fintech-Week-and-Singapore-Fintech-Festival.jpg?x81825"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
     excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
     publishedDateTime: 2023-10-09T11:54:00Z

@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-09-29-ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study.md",
+      "title": "AI language models can exceed PNG and FLAC in lossless compression, says study",
+      "excerpt": "In an arXiv research paper titled \"Language Modeling Is Compression,\" researchers detail their discovery that the DeepMind large language model (LLM) called Chinchilla 70B can perform lossless ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T17:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-life-satisfaction-may-not-enhance-cognitive-functioning-among-some-older-adults.md",
       "title": "Life satisfaction may not enhance cognitive functioning among some older adults",
       "excerpt": "Numerous studies have shown that leading a fulfilling and satisfying life may improve cognitive function by encouraging health-protective behaviors such as physical activity and reduced stress. Many of these studies assess this relationship from a population level,",
@@ -1030,49 +1073,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-tencent-backed-ai-chip-startup-enflame-raises-27-billion-from-state-linked-investors-others.md",
-      "title": "Tencent-backed AI chip startup Enflame raises $2.7 billion from state-linked investors, others",
-      "excerpt": "China's artificial intelligence (AI) chip startup Enflame, backed by tech giant Tencent, on Thursday said it raised 20 billion yuan",
-      "sourceUrl": null,
-      "webUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
-      "originalUrl": "https://kelo.com/2023/09/27/tencent-backed-ai-chip-startup-enflame-raises-2-7-billion-from-state-linked-investors-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.socastsrm.com/uploads/station/2223/fbShare.png?r=67740",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KELO",
-        "domain": "kelo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

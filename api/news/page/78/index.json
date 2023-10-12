@@ -2,6 +2,48 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2023-08-16-how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture.md",
+      "title": "How continuous automated red teaming (CART) can help improve your cybersecurity posture",
+      "excerpt": "CART utilizes automation to discover assets, prioritize discoveries and conduct real-world attacks to help improve your cybersecurity posture.\nThe post How continuous automated red teaming (CART) can help improve your cybersecurity posture appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "originalUrl": "https://www.ibm.com/blog/how-continuous-automated-red-teaming-cart-can-help-improve-your-cybersecurity-posture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T06:09:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-nutanix-simplifies-adoption-of-generative-ai-with-new-nutanix-gpt-in-a-box-solution.md",
       "title": "Nutanix Simplifies Adoption Of Generative Ai With New Nutanix Gpt-In-A-Box Solution",
       "excerpt": "AI infrastructure solution accelerates customers' path to GPT and LLMs while keeping organizations in control of their data. DUBAI, UAE– N",
@@ -1111,57 +1153,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-how-to-use-windows-11-copilot-ai.md",
-      "title": "How to use Windows 11 Copilot AI",
-      "excerpt": "The Windows Copilot AI is now available for Windows early adopters in the Insider program. Here's how to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/08/summarizedocuments.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-windows-copilot-ai/?amp",
-      "publishedDateTime": "2023-08-15T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

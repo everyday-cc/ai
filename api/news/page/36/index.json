@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2023-09-14-thailands-kbank-starts-100m-fund-targeting-ai-and-web3.md",
+      "title": "Thailand's KBank Starts $100M Fund Targeting AI and Web3",
+      "excerpt": "Thailand-based Kasikornbank (KBank) has started a $100 million fund which will target artificial intelligence (AI), Web3, and fintech startups globally, an announcement said on Thursday. KBank is one of the major banks in South East Asia and also provides digital services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/",
+      "originalUrl": "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coindesk.com/resizer/J4n2CZKpFIA_YB1uT9pyyAOfKd8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MT4473XFL5GDBHPET54LSUNLZU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/14/thailands-kbank-starts-100m-fund-targeting-ai-and-web3/?outputType=amp",
+      "publishedDateTime": "2023-09-14T01:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinDesk",
+        "domain": "coindesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-ai-language-models-need-to-shrink-heres-why-smaller-may-be-better.md",
       "title": "AI language models need to shrink; here’s why smaller may be better",
       "excerpt": "Large language models (LLMs) used for generative AI tools can consume vast amounts of processor cycles and be costly to use. Smaller, more industry- or business-tailored models can often provide better results tailored to business needs.",
@@ -1138,58 +1181,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-data-commons-is-using-ai-to-make-the-worlds-public-data-more-accessible-and-helpful.md",
-      "title": "Data Commons is using AI to make the world’s public data more accessible and helpful",
-      "excerpt": "A look at Data Commons, Google’s initiative to make publicly available data more useful for people working on solutions to societal challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "originalUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DataCommons_Hero_Image_02_TC_03_49.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-data-commons-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-data-commons-ai/amp/",
-      "publishedDateTime": "2023-09-13T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

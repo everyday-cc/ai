@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Lidia Thorpe’s movement mobilising against Peter Dutton’s referendum without an Indigenous voice to parliament"
+    excerpt: "Outspoken independent senator Lidia Thorpe has revealed the Black Sovereign Movement is already mobilising against a Peter Dutton-led second referendum solely on constitutional recognition, as she calls for a South ­African-style truth and reconciliation commission to progress truth and treaty if Saturday’s voice referendum fails."
+    publishedDateTime: 2023-10-12T09:08:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
   - title: "Lidia Thorpe’s unexpected call on Voice referendum"
     excerpt: "Lidia Thorpe says she’d support a legislated Voice to Parliament despite being one of the referendum’s most outspoken opponents."
     publishedDateTime: 2023-10-11T22:36:00Z

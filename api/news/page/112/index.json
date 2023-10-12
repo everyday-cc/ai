@@ -2,6 +2,57 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2023-07-25-wayfair-unveils-generative-ai-solution-to-reimagine-interior-design.md",
+      "title": "Wayfair unveils generative AI solution to reimagine interior design",
+      "excerpt": "Online furniture retailer Wayfair today launched Decorify, a generative AI tool for interior design inspiration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/wayfair-unveils-generative-ai-solution-to-reimagine-interior-design/",
+      "originalUrl": "https://venturebeat.com/ai/wayfair-unveils-generative-ai-solution-to-reimagine-interior-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/Wayfair-Decorify-e1690295749862.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-25-teradata-acquires-stemma-to-boost-ai-based-data-search-for-analytics.md",
       "title": "Teradata acquires Stemma to boost AI-based data search for analytics",
       "excerpt": "Stemma offers integrations with data warehouses, business intelligence tools, collaboration software and security tools.",
@@ -1157,58 +1208,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-nvidia-could-mint-300-billion-in-ai-revenues-by-2027-10-times-the-expected-takings-this-year-analyst-says.md",
-      "title": "Nvidia could mint $300 billion in AI revenues by 2027, 10 times the expected takings this year, analyst says",
-      "excerpt": "Mizuho analyst Vijay Rakesh expects the company to generate $25 billion to $30 billion in AI revenues this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7",
-      "originalUrl": "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64bf2969bea34400196092dd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-artificial-intelligence-nvidia-chip-revenues-stock-price-jensen-huang-2023-7?amp",
-      "publishedDateTime": "2023-07-24T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

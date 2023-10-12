@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-09-26-can-a-simple-eye-exam-help-diagnose-autism.md",
+      "title": "Can a simple eye exam help diagnose autism?",
+      "excerpt": "Females are often underdiagnosed with being on the autism spectrum because they often mask their symptoms more successfully than males. The key to understanding why may be in a simple eye exam.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/can-a-simple-eye-exam.jpg",
+          "width": 1524,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-09-simple-eye-exam-autism.amp",
+      "publishedDateTime": "2023-09-25T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-2023-artificial-intelligence-robotics-market-size-new-report-exclusive-data-report-forecast-2031.md",
       "title": "2023 | Artificial Intelligence Robotics Market Size, (New Report) Exclusive Data Report Forecast 2031",
       "excerpt": "\"Artificial Intelligence Robotics Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 113 Pages Report The extent and overview of the various commercial ...",
@@ -1011,40 +1054,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-funding-wrap-tens-of-millions-raised-for-cybersecurity-ai-robots-in-hospitals.md",
-      "title": "Funding wrap: Tens of millions raised for cybersecurity AI, robots in hospitals",
-      "excerpt": "Check out who has fresh cash in Austin — these kinds of deals often precede hiring and other kinds of expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

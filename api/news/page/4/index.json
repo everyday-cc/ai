@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-10-us-tech-company-raises-funding-to-build-swarming-robot-boats.md",
+      "title": "U.S. Tech Company Raises Funding To Build Swarming Robot Boats",
+      "excerpt": "Drone boat makers Saronic today announced today a new funding round to help develop and mass-produce large numbers of autonomous boats for the U.S. Navy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65250764b82b860c469297a6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
+      "publishedDateTime": "2023-10-10T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use.md",
+      "title": "56% of professionals are unsure if their companies have ethical guidelines for AI use",
+      "excerpt": "According to survey respondents in Deloitte's second edition Technology Trust Ethics Report, cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "originalUrl": "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6ed4d46746b8ce488cfa33273df969d675a87905/2023/10/09/404b742e-6806-469b-8fb0-4478670a8ccd/gettyimages-1469902598.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "publishedDateTime": "2023-10-09T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-the-case-for-chief-ai-officer-a-role-whose-time-has-come.md",
+      "title": "The Case For Chief AI Officer: A Role Whose Time Has Come?",
+      "excerpt": "“The case for a CAIO is simple,” they point out. “AI is still immature; hasn’t been proven in most enterprise settings; and needs many surrounding acts such as security, privacy, governance, provenance, ethicality, and truthfulness before it can offer real value to enterprises.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/amp/",
+      "publishedDateTime": "2023-10-09T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-ai-may-give-boost-to-media-stocks.md",
       "title": "AI may give boost to media stocks",
       "excerpt": "The Communications Services Sector has performed well in 2023 and John Stoltzfus from Oppenheimer Asset Management expects that to continue. He believes the many of the companies in the sector will benefit from new technologies and particularly Artificial Intelligence.",
@@ -346,6 +501,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-10-3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai.md",
+      "title": "3 Artificial Intelligence Stocks That Could Outperform the ‘Godfather of AI’",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I don’t think there is any debate on the point that Nvidia (NASDAQ:NVDA)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-dont-ask-metas-new-ai-dating-coach-your-kinky-sex-questions.md",
       "title": "Don't ask Meta's new AI dating coach your kinky sex questions",
       "excerpt": "Carter, Meta's AI assistant, tends to pass judgement when asked to discuss kinks and share advice.",
@@ -405,7 +603,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -501,7 +699,7 @@
       "originalUrl": "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -836,49 +1034,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-09-putting-citizens-at-the-center-of-government-services-with-ai.md",
-      "title": "Putting citizens at the center of government services with AI",
-      "excerpt": "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
-      "originalUrl": "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-09-this-iconic-artificial-intelligence-stock-is-hiding-in-plain-sight.md",
       "title": "This Iconic Artificial Intelligence Stock Is Hiding in Plain Sight",
       "excerpt": "While IBM isn't going to ever grow as fast as Nvidia, which leads the market for AI chips, the company's AI efforts should help drive solid, sustainable growth in the long run. The BofA analysts maintained a $160 price target on the stock, which is about 12% higher than the current stock price.",
@@ -1082,152 +1237,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds.md",
-      "title": "Why Is Virtual Care Rehab Modernizing Healthcare In Leaps And Bounds?",
-      "excerpt": "This article discusses Virtual Care Rehab servicing patients at home and in rehabilitation centers, using advanced digital and AI technologies improving healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6522e9d9bf30e7138aed8b61/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
-      "publishedDateTime": "2023-10-09T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-how-knowledge-graphs-improve-generative-ai.md",
-      "title": "How knowledge graphs improve generative AI",
-      "excerpt": "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html",
-      "publishedDateTime": "2023-10-09T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages.md",
-      "title": "OpenAI is reportedly developing its own chips to combat GPU shortages",
-      "excerpt": "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/3/93662_859_openai-is-creportedly-considering-developing-its-own-chips-to-combat-gpu-shortages_full.png",
-          "width": 1500,
-          "height": 842,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

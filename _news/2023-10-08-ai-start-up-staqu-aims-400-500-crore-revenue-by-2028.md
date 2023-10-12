@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung awards Rs 1.5 crore to Indian innovators behind personal cooling device & beach-cleaning robot"
+    excerpt: "These students have developed a beach-cleaning robot, a conversational AI tool and a personal cooling device. They are the winners of Samsung's Solve for Tomorrow initiative."
+    publishedDateTime: 2023-10-12T08:11:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 43
+    images:
+      - url: "https://images.indianexpress.com/2023/10/samsung-solve-for-tomorrow.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Indian-American teen's AI startup valued at Rs 100 cr"
     excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"
     publishedDateTime: 2023-10-11T16:38:00Z

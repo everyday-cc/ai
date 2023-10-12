@@ -2,6 +2,57 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-09-01-generative-ai-and-foundation-models-face-inflated-expectations.md",
+      "title": "Generative AI and Foundation Models Face Inflated Expectations",
+      "excerpt": "Computer vision and cloud AI services are among the most mature applications of AI, according to Gartner's 2023 AI Hype Cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/",
+      "originalUrl": "https://www.techrepublic.com/article/generative-ai-dominates-2023-gartner-hype-cycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr_08312023-generative-ai-dominates-2023-gartner-hype-cycle.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-closer-look-voice-typing-in-windows-11closer-look-voice-typing-in-windows-11.md",
       "title": "Closer Look: Voice typing in Windows 11Closer Look: Voice typing in Windows 11",
       "excerpt": "For other languages, Microsoft has recommended the use of Windows Speech Recognition instead. Voice typing settings in Windows 11 With Windows 11, the first thing I noticed was that Microsoft has ...",
@@ -1125,57 +1176,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-ai-startup-speak-raises-16-mln-in-latest-funding-led-by-lachy-groom.md",
-      "title": "AI startup Speak raises $16 mln in latest funding led by Lachy Groom",
-      "excerpt": "Speak, an artificial intelligence (AI)-backed English language learning platform, said on Thursday that it has raised $16 million in fresh funding led by venture capitalist Lachy Groom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/",
-      "originalUrl": "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/sMHeW__vJM8vdecztNpmluShMds=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B22ZDAHJQBLZ5GP5F6RM4YU5ZQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

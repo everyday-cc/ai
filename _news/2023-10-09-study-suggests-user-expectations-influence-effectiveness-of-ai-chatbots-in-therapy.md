@@ -57,6 +57,22 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
+  - title: "Coffee Briefing Oct. 10 – AI chatbot ChatGPT reshapes workplace norms amidst trust challenges:..."
+    excerpt: "Coffee Briefings are timely deliveries of the latest ITWC headlines, interviews, and podcasts. Today’s Coffee Briefing is delivered by IT World Canada’s editorial team! Missed last week’s Coffee Briefing?"
+    publishedDateTime: 2023-10-11T00:26:00Z
+    webUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674"
+    ampWebUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 46
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/02/coffee_briefing_2.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Meta Launched a Host of AI-Powered Chatbots With Influencers"
     excerpt: "Meta launched this month a host of 28 AI-powered chatbots — all with unique backstories — across its messaging apps WhatsApp, Messenger, and Instagram. One is an AI assistant called Meta AI, similar to chatbots like ChatGPT and Claude 2. It’s powered by Llama 2, Meta’s latest LLM."
     publishedDateTime: 2023-10-08T20:36:00Z

@@ -24,85 +24,44 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Edge AI: The AI No One Is Talking About"
-    excerpt: "Edge AI isn’t a type of algorithm in and of itself, but it's about where AI happens, regardless of the algorithm in question."
-    publishedDateTime: 2023-10-11T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
+  - title: "Understanding the different types and kinds of Artificial Intelligence"
+    excerpt: "Early iterations of the AI applications we interact with most today were built on traditional machine learning models. These models rely on learning algorithms that are developed and maintained by data scientists. In other words, traditional machine learning models need human intervention to process"
+    publishedDateTime: 2023-10-12T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/10/Understanding-the-different-types-and-kinds-of-Artificial-Intelligence.png"
+        width: 2400
+        height: 1260
         isCached: true
-  - title: "Embracing AI In The Workplace"
-    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
-    publishedDateTime: 2023-10-10T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
+  - title: "Putting citizens at the center of government services with AI"
+    excerpt: "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-09T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1246
-        height: 830
-        isCached: true
-  - title: "Adobe’s All In On AI: Debuts New Firefly AI Models For Creatives"
-    excerpt: "The centerpiece is Adobe’s release of three new AI models under its Firefly generative AI brand - Firefly Image 2, Firefly Vector and Firefly Design."
-    publishedDateTime: 2023-10-10T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Welcome to the AI gym staffed by virtual trainers"
+    excerpt: "Wall-to-wall LED screens, algorithms, and motion tracking sensors allow Lumin Fitness to offer supervised workouts with no human interaction."
+    publishedDateTime: 2023-10-09T08:51:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fe4913877b0bbf06f748/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1453
-        height: 900
-        isCached: true
-  - title: "Why Medium is opting out of AI"
-    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
-    publishedDateTime: 2023-10-11T14:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
-    excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
-    publishedDateTime: 2023-10-08T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/LUMIN_STUDIO_3320_screen.jpeg?w=3000"
+        width: 3000
+        height: 1688
         isCached: true
   - title: "Ethics in the age of AI"
     excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
@@ -118,24 +77,6 @@ related:
         width: 999
         height: 1000
         isCached: true
-  - title: "The Power Of Fine-Tuning In Generative AI"
-    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
-    publishedDateTime: 2023-10-10T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "These books are being used to train AI. No one told the authors"
-    excerpt: "Nearly 200,000 books written by a wide range of authors, including Nora Roberts, are being used to train artificial intelligence systems, according to a recent report. No one asked for the writers’ permission — and many of them are not happy."
-    publishedDateTime: 2023-10-08T12:00:00Z
-    webUrl: "https://www.cnn.com/2023/10/08/style/ai-books3-authors-nora-roberts-cec/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
   - title: "The AI Advantage In Attracting And Retaining The Right Talent"
     excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
     publishedDateTime: 2023-10-09T13:31:00Z
@@ -145,33 +86,79 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
+  - title: "Sunrise and sunset industries in the age of AI"
+    excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
+    publishedDateTime: 2023-10-10T16:50:00Z
+    webUrl: "https://www.manilatimes.net/2023/10/11/tmt-anniversary/sunrise-and-sunset-industries-in-the-age-of-ai/1913954"
     type: article
     provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 41
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
     images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/10/09/251404.jpg"
+        width: 1200
+        height: 806
         isCached: true
-  - title: "The Increasing Impact of Artificial Intelligence on Energy"
-    excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."
-    publishedDateTime: 2023-10-11T15:19:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14367"
+  - title: "AI and the landscapes of Capability Brown – in pictures"
+    excerpt: "Digital artist Daniel Ambrosi has created an exhibition that interprets quintessentially English, eighteenth-century vistas with AI. The exhibition runs at the Robilant+Voena gallery in London from 6"
+    publishedDateTime: 2023-10-09T06:00:00Z
+    webUrl: "https://www.theguardian.com/technology/gallery/2023/oct/09/ai-and-the-landscapes-of-capability-brown-in-pictures"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 37
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14367_16970374611364076.jpg"
-        width: 1000
-        height: 667
+      - url: "https://i.guim.co.uk/img/media/6e9de231d72878b0c436fa21fec0fbb9acb918df/0_544_1523_913/master/1523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11b020f56b11e8f96c1285eb5a2f8b7f"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
+    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
+    publishedDateTime: 2023-10-10T04:55:00Z
+    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
+    type: article
+    provider:
+      name: themediaonline.co.za
+      domain: themediaonline.co.za
+    quality: 37
+    images:
+      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
+        width: 700
+        height: 371
+        isCached: true
+  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
+    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
+    publishedDateTime: 2023-10-09T13:17:00Z
+    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
+  - title: "Understanding Agentized LLMs: How to avoid making rogue AI"
+    excerpt: "Recent advances in AI and the release of ChatGPT have sparked new interest in AI as a tool. Agentized LLMs are the latest attempt to make highly-specialized AIs, and to avoid them going rogue."
+    publishedDateTime: 2023-10-07T17:21:00Z
+    webUrl: "https://appleinsider.com/inside/xcode/tips/understanding-agentized-llms-how-to-avoid-making-rogue-ai"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 17
+  - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
+    excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
+    publishedDateTime: 2023-10-12T01:36:00Z
+    webUrl: "https://menafn.com/1107228825/Some-States-Already-Have-Indigenous-Advisory-Bodies-What-Are-They-And-How-Would-The-Voice-Be-Different"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/11/TC_e8554image_story.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "nCJR/hfNFcBVYyR/V8bwAblMqCKOvy/c5N9GCQ9Il7OXWwoPlxGdhrYe4KSLp4EGXNxhiTrStTlhKe2lSaTyYeCGiEm9xacde8PjgOr0PpoglvqVHRqXGq1rHq0xUDBMHe/8e5i0aVks2v1VrxgpXuBO/hzFULgI3ntuT4Hvs3IRD7FBR1nTMM4Cv4R5yXvPAUL0OkBekJW32a4vA4qIncp6apMmVt0RAfIGpRECbiJLgOc5LIg8gfRx+Ex1rkB0fUQwEQHwCk9CsOlgzZLomhdCjb9If9LwiS3E6PK3VXyLnpTWTod00bZ6oyJiJBNDytPyCc63DZI1iGACzfevzZUdLfOXL9nZZrb9BZTty0EZyjqdDHkzB5F//5TmL3jy4FI351QWTcpIsf5oivzvAoagujft5f6CKV7JLATxv3ZaRuWgeVPfZ27EPXfWEdD4f2yHD8BEpMvchOB5kjMLvSWNxuEfJE7Qzjq3Rf4tmCNNTwNcs4wVRMDJvmC8apZIs/ZZRYIpHvEc0nlenzx4yA==;fhOUEvFq0FFuzjIKXnBLrQ=="

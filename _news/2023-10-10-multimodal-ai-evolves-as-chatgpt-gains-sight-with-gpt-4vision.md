@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/multimodal-ai-evolves-as-chatgpt-gains-sight-
 webUrl: "https://www.unite.ai/multimodal-ai-evolves-as-chatgpt-gains-sight-with-gpt-4vision/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,68 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "5 Things CEOs Need To Know About ChatGPT And Generative AI"
-    excerpt: "Too much of the discussion around ChatGPT and Generative AI is preachy and vacuous. CEOs need specific views and recommendations on the impact of these new tools."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6522add329569a887be52b85/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 805
-        isCached: true
-  - title: "Coffee Briefing Oct. 10 – AI chatbot ChatGPT reshapes workplace norms amidst trust challenges:..."
-    excerpt: "Coffee Briefings are timely deliveries of the latest ITWC headlines, interviews, and podcasts. Today’s Coffee Briefing is delivered by IT World Canada’s editorial team! Missed last week’s Coffee Briefing?"
-    publishedDateTime: 2023-10-11T00:26:00Z
-    webUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674"
-    ampWebUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 46
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/02/coffee_briefing_2.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
-    excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
-    publishedDateTime: 2023-10-10T11:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03144-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03144-w/d41586-023-03144-w_26135186.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Q&A: Writer CEO May Habib on competing with ChatGPT, AI opportunities, and regulation"
-    excerpt: "AI startup Writer is looking to win in what's probably the most obvious place to make money in artificial intelligence right now: enterprise. The generative AI company made headlines in September when, in a still-slow VC environment, it raised $100 million ..."
-    publishedDateTime: 2023-10-10T17:33:00Z
-    webUrl: "https://www.aol.com/finance/q-writer-ceo-may-habib-171507396.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/W_Do_5PWiBu38Gzb7B2hpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/4ede2313e5b8746831fe43a2ad274ff8"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "MeAyPWKTrRg4buzwrL6ODX7skJQDFLc1ohZv/IXeyxKGR+BtIhLwEdaNlgtP560Bxf1UyiK3eo0ARw+Yk51VSOslZl8Gk3Lnn634jwDDW0p55iI/3RMa1RoOWCXCwv36eNcqz8qf0kYyNRTOTNWdx7YlE24CtW7q4fqyubaHGJHQUCGPSmdyXnsiAY4cqExzKVJGFpRpK2hj55Q0sg94FIa45dNHlX9eSx4I00h+JlnFQWDpuxIOcO47NG99pYzX6YGY4X9Sqe5qlnPpralqa77Fu6TPC9KZKAeKpGurs/nHrz3yfgNz2woMcNwGG4cu8i1T//k4ycBTdnDdMZFDQJCCHws/72aV1hqu/q5LTRzX+OI1JDah14E6ONJXCNYsB4JxJRMmNarzBmN12uHtHtEtazVdyCBVwqnfZch/mgD6rH1Vr6u5fXm5dLUz/M1aas6NYhVEInsc6nKhr8DCY2NsTa9ij0bY5Hg2YIg3l62skhrqjC75IHeq8n+LR5EWnu6LWFA/h2zcDOWPKicLvg==;GLCTy9zqFk7G9fujdGBgZA=="
 ---

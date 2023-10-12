@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-nee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Coffee Briefing Oct. 10 – AI chatbot ChatGPT reshapes workplace norms amidst trust challenges:..."
-    excerpt: "Coffee Briefings are timely deliveries of the latest ITWC headlines, interviews, and podcasts. Today’s Coffee Briefing is delivered by IT World Canada’s editorial team! Missed last week’s Coffee Briefing?"
-    publishedDateTime: 2023-10-11T00:26:00Z
-    webUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674"
-    ampWebUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
+  - title: "ChatGPT-esque AI Sales, Marketing Platform For Websites Customer Lead Generation"
+    excerpt: "Hundreds of Customers AI introduces a revolutionary sales and marketing service, leveraging advanced artificial intelligence to triple business"
+    publishedDateTime: 2023-10-12T08:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768"
     type: article
     provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 46
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
     images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/02/coffee_briefing_2.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-chatgpt-esque-ai-sal-1696430204.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "ChatGPT-owner OpenAI planning to manufacture own AI chips"
+    excerpt: "ChatGPT developer OpenAI plans to manufacture its own artificial intelligence AI chips and is even assessing a potential acquisition target"
+    publishedDateTime: 2023-10-11T17:29:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273996207/chatgpt-owner-openai-planning-to-manufacture-own-ai-chips"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1696824895583.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
     excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
@@ -74,15 +86,29 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Multimodal AI Evolves as ChatGPT Gains Sight with GPT-4V(ision)"
-    excerpt: "Explore the advancements in multimodal AI with OpenAI's GPT-4, its visionary capabilities, and the transformative impact of combining text and visuals in AI-driven interactions."
-    publishedDateTime: 2023-10-09T17:36:00Z
-    webUrl: "https://www.unite.ai/multimodal-ai-evolves-as-chatgpt-gains-sight-with-gpt-4vision/"
+  - title: "UiPath accelerates how customers can create generative AI applications with new connector for Amazon Bedrock"
+    excerpt: "UiPath, a leading enterprise automation software company, today announced a new Integration Service Connector that gives customers access to Amazon Bedrock, a fully managed service that provides access to industry-leading foundation models (FMs) via an API to build and scale"
+    publishedDateTime: 2023-10-10T00:45:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/uipath-accelerates-how-customers-can-create-generative-ai-applications-with-new-connector-for-amazon-bedrock.html"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
+      name: ITWire
+      domain: itwire.com
+    quality: 20
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/e702b1b31624d9e8bdcb0b36f092fa6e_M.jpg"
+        width: 375
+        height: 256
+        isCached: true
+  - title: "Ada Introduces Generative Actions, Enabling AI-Powered Customer Service Chatbots to Actually Resolve Customer's Issues Without Human Intervention"
+    excerpt: "Ada's Generative Actions technology can pull data from trusted business systems such as a CRM or order management system, for example, to personalize its response and take action to assist the customer. In fact, with Generative Actions, Ada anticipates chatbots will outperform a human agent in terms of speed and accuracy."
+    publishedDateTime: 2023-10-11T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896926.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "rE32Z3XI/FamzVAfu1fQ7RUT5BteHcZiG/DJq25DKHL0NyuhWITBQYyOp/G6SiBIEfSyj/IE/NbrjA8EaUiEm1UFvWNSebOvEBXbHiMdCrnQFbzG5capFjzD1963NgY7jE5iTZQvdgNG4f65YMPwaPqE2A0UTx429awaDWLfgm6eHVjyAnBm9G/RXBe1QYJpWln3DPBklLZvL9NLfWGveLy+YDdwy/hFad6P4lu7VuDUFTWRvOI6rqLC/2I5zWz3073EUa9KORvprfT9P9BDQRhRtJ74tEtcyElZM7SHIBrZGWzBp1gXWPlgzoQpUoYHrbCpd7YZy1xJxssvqPbvt5UPp5m3xpv4Dm1+X0/zurK+mL1bj6VQJ8PgHDi1QcgSsjGJNnEMgWsSC4Y3WbfqHwCdgMy9FN0vQ5T4r3EBt81063sSkgORROSpTvyuYhaTd63KGAvDn0cBAQ54X2hIMsyoQPu7o4GiGKKh+vqF3oGDKb24lSXiFFaOzl5W1KK+gDKlz07S+ubu+pzt1NGcrw==;+cGj9q8z20bMz8D7nv3+7Q=="
 ---

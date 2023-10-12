@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-12-godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics.md",
+      "title": "Godfather of AI Geoffrey Hinton named advisory board member for startup Vayu Robotics",
+      "excerpt": "British-Canadian computer scientist, Geoffrey Hinton, who is known as the ‘Godfather of AI’ has joined the advisory board of robotics startup, Vayu Robotics. Hinton, who worked part-time with Google Brain as a VP and Engineering Fellow for over a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/y8vraf/article67022092.ece/alternates/FREE_320/2023-06-28T005416Z_2054233180_RC21P1AHDHHZ_RTRMADP_3_DATABRICKS-AI.JPG",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
+      "publishedDateTime": "2023-10-12T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-understanding-the-different-types-and-kinds-of-artificial-intelligence.md",
+      "title": "Understanding the different types and kinds of Artificial Intelligence",
+      "excerpt": "Early iterations of the AI applications we interact with most today were built on traditional machine learning models. These models rely on learning algorithms that are developed and maintained by data scientists. In other words, traditional machine learning models need human intervention to process",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
+      "originalUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/10/Understanding-the-different-types-and-kinds-of-Artificial-Intelligence.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation.md",
+      "title": "ChatGPT-esque AI Sales, Marketing Platform For Websites Customer Lead Generation",
+      "excerpt": "Hundreds of Customers AI introduces a revolutionary sales and marketing service, leveraging advanced artificial intelligence to triple business",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-chatgpt-esque-ai-sal-1696430204.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-meet-the-16-year-old-indian-girl-whose-ai-startup-is-valued-at-rs-100-crore.md",
       "title": "Meet the 16-year-old Indian girl whose AI startup is valued at Rs 100 crore",
       "excerpt": "A 16-year-old Indian girl is making her mark in the world of AI with her startup, Delv.AI. According to Business Today, Pranjali Awasthi established Delv.AI in 2022. It is already valued at Rs 100 crore ($12 million) and recently impressed attendees of the Miami Tech Week. At 16, Awasthi has a team of 10 people working under her.",
@@ -10,7 +158,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -862,7 +1010,7 @@
       "originalUrl": "https://www.forbes.com/sites/kenrickcai/2023/10/11/character-ai-chatbots-group-chat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -914,7 +1062,7 @@
       "originalUrl": "https://www.bbc.com/news/world-australia-67076216",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1102,150 +1250,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud.md",
-      "title": "Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud",
-      "excerpt": "Custom Email Destination in IBM Cloud Event Notifications can help businesses establish a seamless communication channel with their customers.\nThe post Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T06:03:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ai-is-reprioritizing-the-fundamentals-of-pr-and-communications.md",
-      "title": "AI Is Reprioritizing The Fundamentals Of PR And Communications",
-      "excerpt": "However, you also must be rooted in the fundamentals of communications. This is going to become even more stark in the coming years as AI could replace many entry-level communications jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626ab6f86c569b0f24894e3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/amp/",
-      "publishedDateTime": "2023-10-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-bridging-the-gap-between-generative-ai-data-and-composable-martech.md",
-      "title": "Bridging The Gap Between Generative AI, Data And Composable MarTech",
-      "excerpt": "Advancements in customer data, SaaS, marketing technologies and AI-generated content have revolutionized business operations, but they also present unique challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d39bc57dd794869fd9eed8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/amp/",
-      "publishedDateTime": "2023-10-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

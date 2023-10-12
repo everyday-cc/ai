@@ -35,6 +35,17 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Lidia Thorpe’s movement mobilising against Peter Dutton’s referendum without an Indigenous voice to parliament"
+    excerpt: "Outspoken independent senator Lidia Thorpe has revealed the Black Sovereign Movement is already mobilising against a Peter Dutton-led second referendum solely on constitutional recognition, as she calls for a South ­African-style truth and reconciliation commission to progress truth and treaty if Saturday’s voice referendum fails."
+    publishedDateTime: 2023-10-12T09:08:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
 
 secured: "/GuDG12vJEZ8uVKrOBKKZnjkLqVHpyTvE9yJyBd7HpA5xbeoIik8KdthSG9/oTI1aq7DasUB3fiLJ5QxOiPr27yrc9KXFSQBquCH0e1dY4C/85SdqkEsOGDO+H8HXjTI7VYZV5Q1vtV1ATdzqplZRSCMID09n+A9SunXB2SDuEbxDV7T8IdoqFVTOFMT33H50drfEFrKrztZcDXNS85h+/WMeEJ7D8FAm+R6AceLDDupw/ijat8bedtzMzUPIvoJ3M9IkAyOfxiS8xBlec7oNc2CYaCzrH/iPqzCtKl/VPYCQXXQ7VxYGTJYrq+TklT4vktsREM6nV2DOVUn8MYzYlM60hfwKjNj6EZn8cvaiqO+1G21pbFzNl2wada3O6ZzMXwz2ic13HM0UUH37IgaW7/Gsk/WcArZkUy2gr+D05/wZdOOL5J4vG3w+QdgcjrvD44C/sXmdBQf+EnDtYAjr9RE661/wLafHnpZQ44qtyN9jA8WqeQ0vyh5lSgUpBwP97Rh61W6fj630elkoaRHOQ==;VmoHH/gbdsix0aTgyn5GrQ=="
 ---

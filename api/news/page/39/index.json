@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-09-13-with-github-for-data-gableai-wants-to-connect-software-engineers-and-ml-developers.md",
+      "title": "With ‘GitHub for data,’ Gable.ai wants to connect software engineers and ML developers",
+      "excerpt": "Seattle's Gable.ai launched out of stealth today, with $7 million in seed funding, to build the 'GitHub for data.'",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/with-github-for-data-gable-ai-wants-to-connect-software-engineers-and-ml-developers/",
+      "originalUrl": "https://venturebeat.com/ai/with-github-for-data-gable-ai-wants-to-connect-software-engineers-and-ml-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/Untitled-design-2023-09-11T151420.961.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-sqream-calls-in-45m-to-expand-its-gpu-based-big-data-analytics-platform.md",
       "title": "SQream calls in $45M to expand its GPU-based big data analytics platform",
       "excerpt": "Israeli data analytics startup SQream made a bet on the potential of GPUs as a cornerstone of enabling the processing and querying of big",
@@ -1156,40 +1208,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-12-embodied-ai-bridging-the-gap-between-mind-and-matter.md",
-      "title": "Embodied AI: Bridging the Gap Between Mind and Matter",
-      "excerpt": "Amid all the impressive strides artificial intelligence has made, there's one fundamental limitation - its confinement to the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
-      "originalUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

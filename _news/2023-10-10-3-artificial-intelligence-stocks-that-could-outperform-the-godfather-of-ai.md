@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intel
 webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Business Insider
@@ -23,22 +23,24 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "\"Godfather of Artificial Intelligence\" Geoffrey Hinton on the promise, risks of advanced AI"
-    excerpt: "There's no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI's benefits and dangers with."
-    publishedDateTime: 2023-10-08T23:36:00Z
-    webUrl: "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
+  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
+    publishedDateTime: 2023-10-08T23:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 68
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/06/c27215a4-6839-4287-8cac-4ea93e7d2040/thumbnail/1200x630/3de101d772e13ba17931564c21fa81f3/hinton-ws2.jpg?v=f334c339940ae79342a8ce7757900604"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Amazing AI Stocks That Will Make Early Investors Rich"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the electric world of Wall Street, some phrases don’t just make"
+    publishedDateTime: 2023-10-08T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-amazing-ai-stocks-that-will-make-early-investors-rich-1032686714"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "‘Godfather of AI’ says that AI could take over if humans aren’t careful"
     excerpt: "One of the \"godfathers of AI\" says that AI could takeover and rewrite its code so that humanity can't control it."
     publishedDateTime: 2023-10-11T22:53:00Z
@@ -52,20 +54,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all"
         width: 2400
         height: 1596
-        isCached: true
-  - title: "AI “might take over” one day if it isn’t developed responsibly, Geoffrey Hinton warns"
-    excerpt: "There’s no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI’s benefits and dangers with Scott Pelley."
-    publishedDateTime: 2023-10-08T23:29:00Z
-    webUrl: "https://www.cbsnews.com/video/geoffrey-hinton-ai-60-minutes-video-2023-10-08/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 30
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/08/78e6e363-bed6-4e08-9fd6-5b2cbec0e2f5/thumbnail/1200x630/df1d14188cb2d6f34fbebfb0961e8373/1008-60minutes-pelley-2354893-640x360.jpg?v=f334c339940ae79342a8ce7757900604"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "mFOrvRNM0oqZVdjR873shwDZvh8UlP5BnyTgR/cUxVOlaFoCkhdmUP1i0+ogq5m7jbM99iSvmMFR1IYYg59ZgGUsF4rMaNNDY+S/074kc2ihiT3exyXP59xVpeUjxBrRKGbUf/jLZO7IR6JSiq1SL1fghwAyVOmAYZRSc6+x3x8QqHldYsGB489Y204tHsd2RO73pzZfYQlfoqktYLe4T9WSwyw3MRxGmZdrlwaCzywnL7BdeY2pM+gxFgtv3OkcWCO8XN2NFi/A+E/sacj2CbWMYaegz6glnM3PGTKVGUX8pMr06G3gAIrA8ZrvIn+3Mz6Qaa8sNQYvfYSc9DWUO7ZiHBa2hmk5dKmBUeCl+qT1hTdTmbxiiptdE11Ahmx/gxNAqCxBzZPDZTNH6wF0ROstzgBY4KmjXh3AhZogDPtU7KbW7PaPSImVhQDQJQ47thIfEE5zM2KvXcTR1m0ajV8ClNUGqAySSgEkcOPCe5/s/GuvdV7ytYI7jWpa6UoaGV80x/rfnL2+I6TnqeTEqQ==;6r8R6jecWF0Lc67GgmZIAg=="

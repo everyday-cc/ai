@@ -76,20 +76,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "ChatGPT-owner OpenAI planning to manufacture own AI chips"
-    excerpt: "ChatGPT developer OpenAI plans to manufacture its own artificial intelligence AI chips and is even assessing a potential acquisition target"
-    publishedDateTime: 2023-10-11T17:29:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273996207/chatgpt-owner-openai-planning-to-manufacture-own-ai-chips"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1696824895583.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
     excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
     publishedDateTime: 2023-10-08T12:31:00Z
@@ -109,6 +95,6 @@ related:
       domain: techreport.com
     quality: 34
 
-secured: "3pwvOyBd5FRBN662sjE919DGrX564XWJRgxKekJmc1RTsO6pGk1D0Rk3qP21+I933Wr5dC6nQVJ5B2W914MC+pnv5AvuOgDklKr5KivnS36Yxy3KQTVRy0wSW56NTMu7SPz8OeUy6nz3QoI0hr9g1T2UhFVG01LucZ9cLP1zdrcQzoJzGKC3fetOMqbWdwpIRhqmUZRxXyLU+7mk/nCWKoEn7lB4IiM59lwpy7hYVwOrzSJAKKhWs9QtToCuVkcXZiwUPTLuvV6ZdrFCLKb2607WiW/Fw9qWhHJI6If2yWtQSXIOjPbYHtzdm0b+UAQowH12gN0qXMhNGArt2ljrBy96nTMCOML7kxYNk4Ca5qg=;UsJd5VmXoIkD0xIjO8T/tA=="
+secured: "u6S0DWrZ2Br/qgNp6uXzhqr+FvZfUL4N/cy8USQ+asM/h+zaAPSu8Zg8BoGppuH4xC3BPp+D/jCy2vdT4XkoLYglB/z+qbYXz9WJCQb0p3MPuCPZf+ThG0tyf8tlHlMIDmyBB9kt/XSgzT0bmHQT+yeS7bspAfXalIzfFwRFHiXi+ZlUjw0tWJp5sJXjPN5yH0B9OSh9Td97lolNabDzUPLWsfNL7k7qjYiPa15r32wCvx5LZHhBFcgtHF17R3sAGHh5kphIMtY+cF9lHr9xQGIqlkfyuo37RwWt9u8h9UO9Q5s//UWL6XOxVq4xcIzL1cWQoHSo4N/U6An6XEE4LpNaAt9G6w+NsysdeMDweCV9kjMCbUw3saUa09TjBqrnAYf4OyljWj2uO3BdJRQUYeApQ3x1XASIM9Ceh2WQAhXMBFLRL/X/i8dgvKdenrZAnMrrLX63/IuhD5F06NWCgQ1Z1yuoaWeHrb5/fMjUVmF9EDGbV8NjXLw9zpw2mkxUyrRpZ/fPlICyFetNlwj1WA==;vwKQHfT9gK/DreuA9G1QjQ=="
 ---
 

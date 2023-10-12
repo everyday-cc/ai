@@ -9,7 +9,7 @@ ampWebUrl: "https://disrupt-africa.com/2023/10/12/sa-startup-cue-raises-500k-fun
 cdnAmpWebUrl: "https://disrupt--africa-com.cdn.ampproject.org/c/s/disrupt-africa.com/2023/10/12/sa-startup-cue-raises-500k-funding-to-advance-ai-powered-customer-service/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     height: 574
     isCached: true
 
-related:
-  - title: "Ada Introduces Generative Actions, Enabling AI-Powered Customer Service Chatbots to Actually Resolve Customer's Issues Without Human Intervention"
-    excerpt: "Ada's Generative Actions technology can pull data from trusted business systems such as a CRM or order management system, for example, to personalize its response and take action to assist the customer. In fact, with Generative Actions, Ada anticipates chatbots will outperform a human agent in terms of speed and accuracy."
-    publishedDateTime: 2023-10-11T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "gLrArS9jwj95tGcb2WjoDf7jDZVz4p1rDdEwQHXygkVEBPoydaHwwtAKTvrsCHMX5MhRXvhgqx817P/IZPPsma6chUPhWKtyCN7Co3PO2uluj/HELpHBWoPBdFxNY5P3IoHW+AQZu1SBbyAzNKemT+JJZfew2/yVmRR66lUCaViUpZ2UVncX1EIKjbDiCUZwmdpMdw4OCJH1QAGVnMh7BLHsk/5ium4OJr+1PcIGqTudEwdq7Czp/9ysLLCENGnvHB47fgsX3asu2LreN7sql0eVdP4si+orSBsIB0izwCqpzoOqx3k/CYr8O/SReTfiCHLDttclhvDh0ELDzidY/Sclm0maQfRSE/utav8n4gI=;QIIZI7M1ic+RR7NOx3KK3A=="
+secured: "/p8HHrJGRcS2Ufla+FZ69yH8TGrg2kISOpSz6sva+T+k0pA8RHFZSogNxt8SqP58O8dHoixPInw5XZobvL0onto2W/mHsCZ/6LXXW/xBft8q+4R7ZBNQYbVFcyWRuEf1VDpxDqvhRuKAvw0sw9EUejyitLNhmUYv6Q5wvBuvWKzz5NgrICWo+FoowqgRJ6W3y9f6ksa+cOhJ0J7uFgfsMRtbMBq1uO/jBQH2KHZk+k2hs7goXpZSznMCtihx7qWpwFJFY7ETZm+jpmg7Gmn+WzsvVpc/1Y7hlxsl6pMIh4MsRpWWRsGG9xBPLw+euUijER1FC4jdE/s95ImnNu0LkFkUitH9dzlmPlB6zHeLl0/2J8bCPpz2Ephos4sLZOHxRlHWyMP3Ky2P/4KiKkhIkt76L1RLx5mQvPgD8xfg/GLlI+DV1ACFPK+0Owpg+lo6mp/9kerV37sHOxizHUc5Vc8HTrWtHr2FDbKQpOZhMxsHulQSuR2EEXPe08gL2QdRwIlwW1wJ57EPOvyJTAuuXg==;EZWk/5zTnyivy4YjjIkg7g=="
 ---
 

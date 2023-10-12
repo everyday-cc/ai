@@ -3,8 +3,8 @@ category: news
 title: "Shoplifting: The small businesses using facial recognition cameras"
 excerpt: "Politicians and privacy campaigners have called for a ban on the use of facial recognition cameras, but some small shops are pushing ahead with plans to install the system amid rising levels of shoplifting. So, what motivates small business owners to invest in this costly and controversial technology?"
 publishedDateTime: 2023-10-11T05:30:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326"
-webUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326"
+originalUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326?at_medium=RSS&at_campaign=KARANGA"
 ampWebUrl: "https://www.bbc.co.uk/news/uk-england-surrey-66982326.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-surrey-66982326.amp"
 type: article
@@ -56,6 +56,6 @@ related:
         height: 394
         isCached: true
 
-secured: "1rRjGX2JD7IrM4KUK2JS/b9s5LuKgsRxNUsfVuTuOtVdOoTApJUfFXxFGg5+FHwhoVFK/f1PbqgiUncwks0PVf4jjd9BKbgZLwPNk5SBnmPKSbCs5jPqSnyfyHTbzHRcGmOVVi/eASHQTvIEC7rBVhwQ+aLGigv3UjqloJh/22Ovt7ea2KELQtqrAd/XPrxXWzLBonbtvWUL53bgHs5BVTJjznqs4UHcO/LHelRL7FlMmpVsjhC0+boJEsDp6e4GlkZaT4f/F2+Gf4VM5Q9me7hlhlQ1vZ4x3beShFEkWyRrmMjMOvt0ltpl33sqmaXYFORVc88tepAa0X1ezV/YoMc6eb0L9FxInqUdAxIz2jp9W3+4/InDzZW/j1dNOiRnExzuRSh97MkpfwjC3Y23z/ZKwT5j70hHpnGb2AgXi3SxulFpCiM88T5GoF9vn0OQWAQ8736fVbQHL/a4RvnEv2tjdxwX8k/L8l2Wmn0T5qci8SZAgRh6teCt1LghfGCECZCYkoDxhwNSU5dNbCZg9A==;0DUXv+1lBxlowt0xg0mrhQ=="
+secured: "SQroRBiv3PK4hIle/TGyXCp1TbO5kexRtlJlB+gzbNGamx3iH0j3qX3yfxEMmP2cIVjmtUcJInxPOAVh5PKv98Oq5xj1IE1QWkAJTiEZYfDiMdm1Qn/IDS/Mpy+TKuoIkXgIW5Zt2z5xCpTNwMifKYznyxnX28f7ytMMrs+7W9VEDonLCSZruZinzOh4tXqEwJyClqBgEyjUme0E3v3lpHQufToWAJDNGUdA90984mzykcDZGe9j9gpzia/6d82B144Trt25nciD3TORKH7+LnVIyaQs5eoos20WbRraPgMmuZ0OKJupfBJkbGnDZ2578LgZIgh+w5rPz0WHy2LBfHW1E3Sfda6Ci8Bx56Nmgds=;YTfoWbWxFRxbN6HZArXCPg=="
 ---
 

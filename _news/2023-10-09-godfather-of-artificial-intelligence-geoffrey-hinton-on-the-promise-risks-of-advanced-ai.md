@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minut
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,28 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "3 Artificial Intelligence Stocks That Could Outperform the ‘Godfather of AI’"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I don’t think there is any debate on the point that Nvidia (NASDAQ:NVDA)"
-    publishedDateTime: 2023-10-09T18:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930"
+  - title: "Godfather of AI Geoffrey Hinton named advisory board member for startup Vayu Robotics"
+    excerpt: "British-Canadian computer scientist, Geoffrey Hinton, who is known as the ‘Godfather of AI’ has joined the advisory board of robotics startup, Vayu Robotics. Hinton, who worked part-time with Google Brain as a VP and Engineering Fellow for over a ..."
+    publishedDateTime: 2023-10-12T09:02:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "‘Godfather of AI’ says that AI could take over if humans aren’t careful"
-    excerpt: "One of the \"godfathers of AI\" says that AI could takeover and rewrite its code so that humanity can't control it."
-    publishedDateTime: 2023-10-11T22:53:00Z
-    webUrl: "https://bgr.com/tech/godfather-of-ai-says-that-ai-could-take-over-if-humans-arent-careful/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: The Hindu
+      domain: thehindu.com
+    quality: 82
     images:
-      - url: "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all"
-        width: 2400
-        height: 1596
+      - url: "https://th-i.thgim.com/public/incoming/y8vraf/article67022092.ece/alternates/FREE_320/2023-06-28T005416Z_2054233180_RC21P1AHDHHZ_RTRMADP_3_DATABRICKS-AI.JPG"
+        width: 320
+        height: 213
         isCached: true
   - title: "AI “might take over” one day if it isn’t developed responsibly, Geoffrey Hinton warns"
     excerpt: "There’s no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI’s benefits and dangers with Scott Pelley."

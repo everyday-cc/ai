@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Samsung awards Rs 1.5 crore to Indian innovators behind personal cooling device & beach-cleaning robot"
+    excerpt: "These students have developed a beach-cleaning robot, a conversational AI tool and a personal cooling device. They are the winners of Samsung's Solve for Tomorrow initiative."
+    publishedDateTime: 2023-10-12T08:11:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 43
+    images:
+      - url: "https://images.indianexpress.com/2023/10/samsung-solve-for-tomorrow.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "AI start-up Staqu aims ₹400-500 crore revenue by 2028"
     excerpt: "Staqu Technologies, an AI-based security and big data analytics service provider, aims to achieve significant revenue growth, targeting ₹400-500 crore by 2028 from ₹14 crore currently. The company’s product,"
     publishedDateTime: 2023-10-08T09:45:00Z

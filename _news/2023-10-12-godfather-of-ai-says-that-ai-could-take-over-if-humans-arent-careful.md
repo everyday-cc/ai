@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "\"Godfather of Artificial Intelligence\" Geoffrey Hinton on the promise, risks of advanced AI"
-    excerpt: "There's no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI's benefits and dangers with."
-    publishedDateTime: 2023-10-08T23:36:00Z
-    webUrl: "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 68
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/06/c27215a4-6839-4287-8cac-4ea93e7d2040/thumbnail/1200x630/3de101d772e13ba17931564c21fa81f3/hinton-ws2.jpg?v=f334c339940ae79342a8ce7757900604"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3 Artificial Intelligence Stocks That Could Outperform the ‘Godfather of AI’"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I don’t think there is any debate on the point that Nvidia (NASDAQ:NVDA)"
     publishedDateTime: 2023-10-09T18:46:00Z
@@ -49,20 +33,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
-  - title: "AI “might take over” one day if it isn’t developed responsibly, Geoffrey Hinton warns"
-    excerpt: "There’s no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI’s benefits and dangers with Scott Pelley."
-    publishedDateTime: 2023-10-08T23:29:00Z
-    webUrl: "https://www.cbsnews.com/video/geoffrey-hinton-ai-60-minutes-video-2023-10-08/"
+  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
+    publishedDateTime: 2023-10-08T23:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 30
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/08/78e6e363-bed6-4e08-9fd6-5b2cbec0e2f5/thumbnail/1200x630/df1d14188cb2d6f34fbebfb0961e8373/1008-60minutes-pelley-2354893-640x360.jpg?v=f334c339940ae79342a8ce7757900604"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Amazing AI Stocks That Will Make Early Investors Rich"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the electric world of Wall Street, some phrases don’t just make"
+    publishedDateTime: 2023-10-08T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-amazing-ai-stocks-that-will-make-early-investors-rich-1032686714"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "fBiO1USZcBOM2ldifo9qW53Oi0UQfoli/MzTJhhkUIL+TgCmuDToWCwnFARhrfkb9KjmmeRmEBUrVy2BU9vHkpb/OUCPla3UHVUhkWpbeE+N5qmXzZWmno9lgeqWDlB8xpFh0i1vDXy4TL5ixnYS8oEQEldCjoGqltG7hGXDiZS5rIYiAG0eqlFYUnEu+J15sgTWDyjIkqKlBTqDc7GSrRypQLxCtEBF5U4rZu9jZ3KssTxyPqHOxoVMWw9U5E/kdSzz/GcMMrbKMn21UHb7YVsczBUbDSR+JVAu7gd/pMr1xMAoiu5Hz1tYF2RHeMIVIbiji7Glw8dDPIHKZWiiroXXgqNSfaEYl0dITj4XECCJqf+9+ENYTiEeuK3/G745aAgtSLZUdi9y8ZOUroUcrXGUz6g0XiX74iEVhJ1Ux5aMNNPAspTrw9v7xKwo6pmcpAcEbkxfPS+F/DqA8oXLNdv2nuyK9sNF5rQYs84tCJR0FdlrTqW+b0Mcbzcc32oFmJNVqLfQL1tK9WIGoTe/RA==;obrtiNHbv6bQ6odP6gQpgg=="
 ---

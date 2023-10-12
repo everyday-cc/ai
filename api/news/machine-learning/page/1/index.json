@@ -227,51 +227,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-09-godfather-of-artificial-intelligence-geoffrey-hinton-on-the-promise-risks-of-advanced-ai.md",
-      "title": "\"Godfather of Artificial Intelligence\" Geoffrey Hinton on the promise, risks of advanced AI",
-      "excerpt": "There's no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI's benefits and dangers with.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "originalUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/06/c27215a4-6839-4287-8cac-4ea93e7d2040/thumbnail/1200x630/3de101d772e13ba17931564c21fa81f3/hinton-ws2.jpg?v=f334c339940ae79342a8ce7757900604",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "publishedDateTime": "2023-10-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-10-07-survey-challenges-and-solutions-in-generative-ai-adoption.md",
       "title": "Survey: Challenges and Solutions in Generative AI Adoption",
       "excerpt": "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down.",
@@ -372,10 +327,10 @@
     {
       "path": "_news/2023-10-06-3-machine-learning-stocks-ready-to-make-a-move-higher.md",
       "title": "3 Machine Learning Stocks Ready to Make a Move Higher",
-      "excerpt": "The post 3 Machine Learning Stocks Ready to Make a Move Higher appeared first on InvestorPlace.",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent weeks, there have been many discussions about artificial",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -388,9 +343,18 @@
       "publishedDateTime": "2023-10-06T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1272,6 +1236,40 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-beating-the-books-how-deep-learning-can-improve-your-nhl-bets.md",
+      "title": "Beating the Books: How Deep Learning Can Improve Your NHL Bets",
+      "excerpt": "The emergence of AI has allowed for machine learning models to become more powerful. Here's how to use it to your advantage to measure NHL player performance and place wagers on various NHL games.",
+      "sourceUrl": null,
+      "webUrl": "https://thehockeynews.com/betting/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "originalUrl": "https://thehockeynews.com/betting/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehockeynews.com/betting/.amp/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "cdnAmpWebUrl": "https://thehockeynews-com.cdn.ampproject.org/c/s/thehockeynews.com/betting/.amp/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
+      "publishedDateTime": "2023-09-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hockey News",
+        "domain": "thehockeynews.com",
         "images": null,
         "publishers": null,
         "authors": null

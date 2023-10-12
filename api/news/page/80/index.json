@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2023-08-15-take-advantage-of-ai-and-use-it-to-make-your-business-better.md",
+      "title": "Take advantage of AI and use it to make your business better",
+      "excerpt": "Only 54% of AI projects make it to production. Here's how to overcome the challenges and benefit from artificial intelligence in business.\nThe post Take advantage of AI and use it to make your business better appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/",
+      "originalUrl": "https://www.ibm.com/blog/take-advantage-of-ai-and-use-it-to-make-your-business-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/dji_0420-9b.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-the-bold-promise-of-mega-personas-as-a-new-shake-up-for-prompt-engineering-generative-ai-techniques.md",
       "title": "The Bold Promise Of Mega-Personas As A New Shake-Up For Prompt Engineering Generative AI Techniques",
       "excerpt": "A rising technique in prompt engineering for generative AI consists of invoking mega-personas, a step upward for ordinary multi-personas. Here's how it works and more.",
@@ -1163,58 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-15-the-marketmaster-ai-system-using-machine-learning-to-pick-stocks.md",
-      "title": "The MarketMaster AI System: Using Machine Learning to Pick Stocks",
-      "excerpt": "Fortunately, advances in artificial intelligence now make this possible. This is especially true with machine learning, which creates models that improve with time. It’s how Google’s AlphaGo managed to beat a world champion in 2016. And it’s why ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-marketmaster-ai-system-using-machine-learning-to-pick-stocks-1032552884",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/07/marketmaster-a-vs-f-stocks-bar-chart2.png",
-          "width": 777,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

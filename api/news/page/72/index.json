@@ -2,6 +2,58 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-08-21-the-voice-actor-behind-nintendos-mario-is-retiring.md",
+      "title": "The voice actor behind Nintendo’s Mario is retiring",
+      "excerpt": "Charles Martinet, who has been the voice of Mario in every Nintendo game since 1991 ... ‘Yippee!,’ ‘Whee!’ and I get recognition for that. Subscribe to Well Adjusted, our newsletter full of simple strategies to work smarter and live better ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
+      "originalUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/08/Switch_SMO_ND0913_SCRN07.bmp?w=840",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/08/21/mario-voice-actor-nintendo-retires-charles-martinet/amp/",
+      "publishedDateTime": "2023-08-21T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
       "title": "Natural language processing to extract social risk factors influencing health",
       "excerpt": "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed ...",
@@ -1134,49 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-21-implement-machine-learning-to-secure-your-iot-network.md",
-      "title": "Implement Machine Learning to Secure Your IoT Network",
-      "excerpt": "By Zac Amos, Features Editor, ReHack Connected devices pose unique security risks and are prone to bot attacks, requiring a tool capable of quickly processing a large amount of information. A machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.cyberdefensemagazine.com/implement-machine-learning-to-secure-your-iot-network/",
-      "originalUrl": "https://www.cyberdefensemagazine.com/implement-machine-learning-to-secure-your-iot-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cyberdefensemagazine.com/wp-content/uploads/2023/08/Implement-Machine-Learning-to-Secure-Your-IoT-Network.jpg",
-          "width": 780,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-20T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyber Defense Magazine",
-        "domain": "cyberdefensemagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

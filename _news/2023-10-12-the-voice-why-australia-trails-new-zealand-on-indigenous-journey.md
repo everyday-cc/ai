@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Australians look set to vote against Indigenous voice in parliament"
+    excerpt: "The yes campaign has also been battered by the Blak sovereignty movement, which has led the progressive no case, arguing the voice would be powerless while pushing for truth and treaty to come ahead of constitutional recognition. The no campaign has leaned ..."
+    publishedDateTime: 2023-10-12T09:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/1528835ad768cc625de3588f2473d6bac9ddfe91/0_66_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=8016fe9065cb533aa7d9f45f9133e738"
+        width: 620
+        height: 372
+        isCached: true
   - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
     excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
     publishedDateTime: 2023-10-08T23:35:00Z
@@ -143,6 +159,6 @@ related:
         height: 900
         isCached: true
 
-secured: "14v7cOxstuRYTsS7CQbJtZXu0DY/8B6bHZacC0dJInWp7k6g9HFlx5pK4rJZ6Fo4v8aiNUbLr6XWZTDXO/WBEXAV1SQJj69oFIrluUuu44ifLc64RtSte2mFu9WXr+0dfq43h0iuixI6/rz+D/RevJOumw7h52cc4oWsvWTQxXRz+93pUdcb+7YIPziq4q3j8+GRuDkyPLW5bUWWSDHZrCXv4GRGhw5hDhUbY6bsfhPOsnzLs/f/O1IOCFR5OjVmmgJRF1nXGM2NU3k7S7+keRfJZk3Waqaa6vrFZNRGmOAAi4It9BbPGe6Ne3LL3wWzsWToq2ydL9D6CR1mJkHIxSqNaRQJLu2uld2KZ5Zfs8o=;vFTQtMXQYnAmAi7dyI/HSQ=="
+secured: "PNavf5DtNihT8o7cgOGNVZE78+M8uq+WWwW6n2eG0JWR8319UEVgi64V1JipDo+SG8FIXKY+5Txe9QR1T1A0BXTm/w5iNZVWXHN868k3Ae3dFTxy6H2/WuackJ7kmV+UzVvjaDPKUic+87rEkQ1+CDJhcIIhezHAFpfjL7oFe5eF6JMPJgFqJYBsXEctKgTgWA4tsdJSsu6zGqUQ9BD3uvj9F1OChIM4voEVYB4etx5VwWDXplTcRyU3GCP64A2uKl9otNYVUNk3fsdUWqyib2cLuTOiwysJ2flngMz/uI7TmaYkuoD2XyUgY5A+pwp5sW561uz3r7AZTTTIYCnfxH7mVljc1BNNi/jIWlpaHj2iSndWsZgEL8bKOEF1JiohXyFF56V7+3Cnb/SkJvCWF+5snO4sHtU+JVGjnYJTCSMfl8GTlRou/WV2TH8sUzYb8tOPsPCatOZxT5KpoG50+Udm7n95NNJLcnnvmhe9Rwvm7iiJYAfuv0s0HENWp752p9ivB/YyRGVNwniBqz4yoQ==;2LMH1mVMbEcBfdELdeI9wQ=="
 ---
 

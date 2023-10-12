@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-09-06-thanks-to-ai-hearing-aids-offer-translation-other-high-tech-features.md",
+      "title": "Thanks to AI, hearing aids offer translation, other high-tech features",
+      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to act ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtkr.com/with-ai-future-of-hearing-aids-might-include-language-translation",
+      "originalUrl": "https://www.wtkr.com/with-ai-future-of-hearing-aids-might-include-language-translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/76e0068/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1693937408_zqbECF.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTKR",
+        "domain": "wtkr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
       "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
       "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
@@ -1148,49 +1191,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence.md",
-      "title": "USM tapped to develop ethics training in age of artificial intelligence",
-      "excerpt": "The University of Southern Maine has received a federal grant to develop an ethics training program for scientists, engineers and students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/37214095_20230829_USMethics1944-1693877941.jpg?w=1024",
-          "width": 1024,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

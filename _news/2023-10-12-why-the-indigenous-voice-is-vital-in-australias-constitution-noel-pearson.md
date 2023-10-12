@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Australians look set to vote against Indigenous voice in parliament"
+    excerpt: "The yes campaign has also been battered by the Blak sovereignty movement, which has led the progressive no case, arguing the voice would be powerless while pushing for truth and treaty to come ahead of constitutional recognition. The no campaign has leaned ..."
+    publishedDateTime: 2023-10-12T09:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/1528835ad768cc625de3588f2473d6bac9ddfe91/0_66_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=8016fe9065cb533aa7d9f45f9133e738"
+        width: 620
+        height: 372
+        isCached: true
   - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
     excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
     publishedDateTime: 2023-10-08T23:35:00Z

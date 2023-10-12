@@ -2,6 +2,58 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2023-08-23-democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce.md",
+      "title": "Democratizing Opportunity: How AI-Enabled Long Tail Learning Empowers The Blue-Collar Workforce",
+      "excerpt": "Artificial Intelligence can create customized education for specific skills that are vital for blue collar workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e541aceddf72308ad8ae34/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 977,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2023/08/22/democratizing-opportunity-how-ai-enabled-long-tail-learning-empowers-the-blue-collar-workforce/amp/",
+      "publishedDateTime": "2023-08-22T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-metas-new-ai-model-is-a-real-time-translation-expert.md",
       "title": "Meta's new AI model is a real-time translation expert",
       "excerpt": "Meta's latest AI output is a major advancement for real-time text and speech translation. On Tuesday, the company released SeamlessM4T: a multimodal model that translates text to speech and vice versa.",
@@ -1077,49 +1129,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year.md",
-      "title": "Alibaba Cloud Named a Challenger in Gartner® Magic Quadrant™ for Cloud AI Developer Services for Second Consecutive Year",
-      "excerpt": "Alibaba Cloud, the digital technology and intelligence backbone of Alibaba Group, has been named a Challenger in this year’s Gartner® Magic Quadrant™ for Cloud AI Developer Services (CAIDS) for the second consecutive year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lionheartv.net/2023/08/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year/",
-      "originalUrl": "https://www.lionheartv.net/2023/08/alibaba-cloud-named-a-challenger-in-gartner-magic-quadrant-for-cloud-ai-developer-services-for-second-consecutive-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lionheartv.net/wp-content/uploads/2023/08/Alibaba-Cloud-1.jpg",
-          "width": 1500,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LionhearTV",
-        "domain": "lionheartv.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

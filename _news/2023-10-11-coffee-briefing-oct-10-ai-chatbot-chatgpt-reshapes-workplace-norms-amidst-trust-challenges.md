@@ -27,59 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "5 Things CEOs Need To Know About ChatGPT And Generative AI"
-    excerpt: "Too much of the discussion around ChatGPT and Generative AI is preachy and vacuous. CEOs need specific views and recommendations on the impact of these new tools."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
+  - title: "Character.AI’s $200 Million Bet That Chatbots Are The Future Of Entertainment"
+    excerpt: "The unicorn AI startup is bringing bots that make it sound like you’re talking to well known people like Taylor Swift into interactions with friends."
+    publishedDateTime: 2023-10-11T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2023/10/11/character-ai-chatbots-group-chat/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 66
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6522add329569a887be52b85/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65257fd731c05c16afe962c3/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200"
         width: 1200
-        height: 805
+        height: 675
         isCached: true
-  - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
-    excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
-    publishedDateTime: 2023-10-10T11:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03144-w"
+  - title: "AI as Your BFF? The Latest Chatbots Want to Get Personal With You"
+    excerpt: "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend."
+    publishedDateTime: 2023-10-08T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-as-your-bff-the-latest-chatbots-want-to-get-personal-with-you/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
+      name: CNET
+      domain: cnet.com
+    quality: 51
+  - title: "AI as Your BFF? A New Wave of Chatbots Want to Get Personal With You"
+    excerpt: "Amazon, Google, Meta and OpenAI are now all pushing AI interactions to be natural and conversational. Get ready for chatbots that want to be your friend."
+    publishedDateTime: 2023-10-09T12:33:00Z
+    webUrl: "https://www.cnet.com/tech/computing/ai-as-your-bff-a-new-wave-of-chatbots-want-to-get-personal-with-you/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 51
+  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
+    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
+    publishedDateTime: 2023-10-08T21:25:00Z
+    webUrl: "https://thethaiger.com/ph/news/554694/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 48
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03144-w/d41586-023-03144-w_26135186.jpg"
-        width: 1024
-        height: 576
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
-  - title: "Q&A: Writer CEO May Habib on competing with ChatGPT, AI opportunities, and regulation"
-    excerpt: "AI startup Writer is looking to win in what's probably the most obvious place to make money in artificial intelligence right now: enterprise. The generative AI company made headlines in September when, in a still-slow VC environment, it raised $100 million ..."
-    publishedDateTime: 2023-10-10T17:33:00Z
-    webUrl: "https://www.aol.com/finance/q-writer-ceo-may-habib-171507396.html"
+  - title: "Meta Launched a Host of AI-Powered Chatbots With Influencers"
+    excerpt: "Meta launched this month a host of 28 AI-powered chatbots — all with unique backstories — across its messaging apps WhatsApp, Messenger, and Instagram. One is an AI assistant called Meta AI, similar to chatbots like ChatGPT and Claude 2. It’s powered by Llama 2, Meta’s latest LLM."
+    publishedDateTime: 2023-10-08T20:36:00Z
+    webUrl: "https://iblnews.org/meta-launched-a-host-of-ai-powered-chatbots-with-influencers/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
+      name: IBL News
+      domain: iblnews.org
+    quality: 37
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/W_Do_5PWiBu38Gzb7B2hpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/4ede2313e5b8746831fe43a2ad274ff8"
-        width: 1200
-        height: 800
+      - url: "https://iblnews.org/wp-content/uploads/2023/10/metachatbot.jpg"
+        width: 860
+        height: 477
         isCached: true
-  - title: "Multimodal AI Evolves as ChatGPT Gains Sight with GPT-4V(ision)"
-    excerpt: "Explore the advancements in multimodal AI with OpenAI's GPT-4, its visionary capabilities, and the transformative impact of combining text and visuals in AI-driven interactions."
-    publishedDateTime: 2023-10-09T17:36:00Z
-    webUrl: "https://www.unite.ai/multimodal-ai-evolves-as-chatgpt-gains-sight-with-gpt-4vision/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
 
 secured: "Eu9PArrXG7w4JvkIS6rqLq11hkMS4bFh1w5PZQz573Jgso5O/LT2Jxi8hF9vDkku1b4stLR4rTV9XhEo+yNgy6EMZQkYKrq42Op/C7+ULbs0EgO6280v9EBvwgkRFXqtOx0z45C/6/lIiMj5igbLrTVE/munjz6MpvEYZEjE5Teike5BzZrH2+icrB0GoSbMgF0rAuOglSoWA1h0nTGjWrD6WyvqtrajTxcf3fHC4fECwNW+ifwFojX6e11RVSrb+yvuUgHYUKdNmoRH20JWjgNTDlrpju/SmPp7MlvcdqJGrftg5OWfpN1szOxrAMW67NuNdiqmmJmFi/qAuimWh4qwbhutp9FezeLf8rDRp6I=;ifrHaLrZfNrN+RTTQA5WWQ=="
 ---

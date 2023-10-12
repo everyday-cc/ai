@@ -52,20 +52,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "UiPath accelerates how customers can create generative AI applications with new connector for Amazon Bedrock"
-    excerpt: "UiPath, a leading enterprise automation software company, today announced a new Integration Service Connector that gives customers access to Amazon Bedrock, a fully managed service that provides access to industry-leading foundation models (FMs) via an API to build and scale"
-    publishedDateTime: 2023-10-10T00:45:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/uipath-accelerates-how-customers-can-create-generative-ai-applications-with-new-connector-for-amazon-bedrock.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 20
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/e702b1b31624d9e8bdcb0b36f092fa6e_M.jpg"
-        width: 375
-        height: 256
-        isCached: true
 
 secured: "2vy3hk6COpOhlmMhoAzNXwuJP61Fg4Cdjat3JsUAv8kvaYMo5nFz+e8+4/OkqX6v0mN1WomgQvTvtc1OGyCxOcEREkEqkltm2VY+Dr/LLKb1uDHHVDxK8eR03GeB8c/pbB4VADzBKr1c/Ks7xpgow7Lk4/V1HCHFIbkRpMhkONlS0D/+dtBz6sVvi3xhLfKDX8zXMAlBhfB499eEayqLUzpKF4lIeiixnB6T/d9u0JyI7fy+GmX7t7JC82xE/hb9PyfY/SDoIJzm51JvvX6IhiE0lHTCjomkD3L2FllXhby9xWNZiptMaB4yfgnVm/0G8fF6B5UN97ScJLu4rKvui78tP2mXyJU8R6kNwHxW4bC6L8NLOBqlFQFIX/I7UnWfucmfK2fUUeKgj04rGXCp649voLKahqoOSsZfaxXDPB+bq8bKH23azvJZjod2rPDcigwgE6v1vjGcgMK6rsSL/vYqAYCKw31RB/Gz9rdIf47Ew6WoVfCA6SC1G2AW0cA5hU4YQrFUbolpWaY+VQN36Q==;8NgJwEe+LWtiaLbTpdGgWw=="
 ---

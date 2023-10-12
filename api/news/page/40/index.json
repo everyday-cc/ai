@@ -2,6 +2,40 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2023-09-12-embodied-ai-bridging-the-gap-between-mind-and-matter.md",
+      "title": "Embodied AI: Bridging the Gap Between Mind and Matter",
+      "excerpt": "Amid all the impressive strides artificial intelligence has made, there's one fundamental limitation - its confinement to the digital realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
+      "originalUrl": "https://www.techopedia.com/embodied-ai-bridging-the-gap-between-mind-and-matter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-12T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-machine-social-network-to-update-air-force-ai-robots-on-the-fly.md",
       "title": "Machine ‘Social Network’ To Update Air Force AI Robots On The Fly",
       "excerpt": "No machine-learning system can be trained on every possible situation, and when it encounters something new it may not be able to deal with it. Dolev says this could be something as simple as an object recognition system seeing snow for the first time and ...",
@@ -1137,49 +1171,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts.md",
-      "title": "Optimizing AI Inference Is As Vital As Building AI Training Beasts",
-      "excerpt": "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
-      "originalUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg",
-          "width": 714,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
-      "publishedDateTime": "2023-09-11T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

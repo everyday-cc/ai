@@ -159,6 +159,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-10-3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai.md",
+      "title": "3 Artificial Intelligence Stocks That Could Outperform the ‘Godfather of AI’",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I don’t think there is any debate on the point that Nvidia (NASDAQ:NVDA)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-this-iconic-artificial-intelligence-stock-is-hiding-in-plain-sight.md",
       "title": "This Iconic Artificial Intelligence Stock Is Hiding in Plain Sight",
       "excerpt": "While IBM isn't going to ever grow as fast as Nvidia, which leads the market for AI chips, the company's AI efforts should help drive solid, sustainable growth in the long run. The BofA analysts maintained a $160 price target on the stock, which is about 12% higher than the current stock price.",
@@ -260,51 +303,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-godfather-of-artificial-intelligence-geoffrey-hinton-on-the-promise-risks-of-advanced-ai.md",
-      "title": "\"Godfather of Artificial Intelligence\" Geoffrey Hinton on the promise, risks of advanced AI",
-      "excerpt": "There's no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI's benefits and dangers with.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "originalUrl": "https://www.cbsnews.com/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/06/c27215a4-6839-4287-8cac-4ea93e7d2040/thumbnail/1200x630/3de101d772e13ba17931564c21fa81f3/hinton-ws2.jpg?v=f334c339940ae79342a8ce7757900604",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/geoffrey-hinton-ai-dangers-60-minutes-transcript/",
-      "publishedDateTime": "2023-10-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
       ]
     },
     {

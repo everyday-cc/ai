@@ -70,6 +70,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Coffee Briefing Oct. 10 – AI chatbot ChatGPT reshapes workplace norms amidst trust challenges:..."
+    excerpt: "Coffee Briefings are timely deliveries of the latest ITWC headlines, interviews, and podcasts. Today’s Coffee Briefing is delivered by IT World Canada’s editorial team! Missed last week’s Coffee Briefing?"
+    publishedDateTime: 2023-10-11T00:26:00Z
+    webUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674"
+    ampWebUrl: "https://www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/coffee-briefing-oct-10-ai-chatbot-chatgpt-reshapes-workplace-norms-amidst-trust-challenges-report-meerandas-human-like-ai-joins-amazons-aws-build-accelerator-iclassifier-unveils-ai-breakthro/548674?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 46
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/02/coffee_briefing_2.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "LZIj/2HLtywCQnXdQFYvA8JjOIhEDlIeOgPOZoLcCEygib9dP1suGezPLohZvjkjmbDOc0QM+WYCV+rgaTUOjJxYZFGO2iV2BZTrq/yjOkdrlWabip5zzoMhDIQderh3puLPL29NXBq8vx1CuNWO+Go5lr6V9UHPUvo/eWENvNrODkz1beOEW5AB4FrVdXMQWXtAKlaxHf4Pj9n+h07yIV9vavfq1bFd+UPmsMwunt30f6XxHRHwLFj/ROlaAL53Ldl74X3JEAPdLEaW/5F6unobNPem2DR5nHwcOjq6mtCRtIrUVoFBKh+3mc4v3EKovMT7ml9xdA8aeCVpf8FBVmaULPJlnPOJBad9a5IoNEU=;ajZapx93i2MEwpB7HeHJ4Q=="
 ---
