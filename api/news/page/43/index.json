@@ -2,6 +2,143 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2023-09-11-machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating.md",
+      "title": "Machine learning can level the playing field against match fixing – helping regulators spot cheating",
+      "excerpt": "The study shows that machine learning can be utilised to help safeguard the integrity of sports competitions, and to assist regulatory bodies, sports organisations and law enforcement agencies maintain fairness and public trust.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/09/11/1600x900/Data_Science_Course_1686915589627_1694397187884.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating-71694348321724.html",
+      "publishedDateTime": "2023-09-10T18:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-dynamics-empowering-business-with-new-opportunities-till-2030.md",
+      "title": "2023, Artificial Intelligence and Robotics in Aerospace and Defense Market Growth Dynamics: Empowering Business with New Opportunities till 2030",
+      "excerpt": "Artificial Intelligence and Robotics in Aerospace and Defense Market Report Overview: The Global Artificial Intelligence and Robotics in Aerospace and Defense market is expected to experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34418636/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-dynamics-empowerin",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34418636/2023-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-growth-dynamics-empowerin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34418636",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34418636",
+      "publishedDateTime": "2023-09-10T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-a-paralyzed-woman-couldnt-speak-for-more-than-20-years-with-ai-now-she-can-just-by-thinking.md",
+      "title": "A paralyzed woman couldn't speak for more than 20 years. With AI, now she can — just by thinking.",
+      "excerpt": "The neurotech, developed by researchers at UC San Francisco and UC Berkeley, reads the stroke survivor's brain signals and converts them to speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
+      "originalUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64fe3e4ea39a1b00190ccb18?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-neurotech-allows-stroke-survivor-speak-brainwaves-thinking-paralyzed-2023-9?amp",
+      "publishedDateTime": "2023-09-10T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-ecology-and-artificial-intelligence-stronger-together.md",
       "title": "Ecology and artificial intelligence: Stronger together",
       "excerpt": "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ...",
@@ -969,152 +1106,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-automated-machine-learning-automl-market-size-2023-booming-worldwide-by-2031.md",
-      "title": "Automated Machine Learning (AutoML) Market Size 2023 Booming Worldwide by 2031",
-      "excerpt": "Global Automated Machine Learning (AutoML) market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.Ask ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34401583/automated-machine-learning-automl-market-size-2023-booming-worldwide-by-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34401583/automated-machine-learning-automl-market-size-2023-booming-worldwide-by-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34401583",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34401583",
-      "publishedDateTime": "2023-09-09T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-amazon-now-requires-authors-to-disclose-ai-generated-content.md",
-      "title": "Amazon Now Requires Authors to Disclose AI-Generated Content",
-      "excerpt": "After complaints from the Authors Guild and others, Amazon is now requiring writers to disclose the use of AI, though it's not yet publicly identifying those books in its marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content",
-      "originalUrl": "https://www.pcmag.com/news/amazon-starts-requiring-writers-to-disclose-ai-generated-content",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05fDpqPt4Tw50fbQCuGXvAr-1.fit_lim.size_1200x630.v1694278993.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-09T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-how-elon-musk-set-tesla-on-a-new-course-for-self-driving.md",
-      "title": "How Elon Musk set Tesla on a new course for self-driving",
-      "excerpt": "The new version he was using, FSD 12, was based on a radical new concept that he believes will not only totally transform autonomous vehicles but also be a quantum leap toward artificial general ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107293542-1693349778237-94_Dhaval_Shroff_from_him.png?v=1694260802",
-          "width": 2524,
-          "height": 3366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
-      "publishedDateTime": "2023-09-09T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

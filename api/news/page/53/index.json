@@ -2,6 +2,151 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-09-04-how-to-get-a-handle-on-shadow-ai.md",
+      "title": "How to get a handle on shadow AI",
+      "excerpt": "By allowing the use of AI tools proven to be safe, but requiring them to be used within explicit guidelines, you can alleviate both employee frustration and organizational risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/shadow_of_hand_hovering_over_keyboard_cybercrime_cybersecurity_data_theft_hacking_by_dimitris66_gettyimages-509258975_2400x1600_cso_nw-100852242-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705493/how-to-get-a-handle-on-shadow-ai.amp.html",
+      "publishedDateTime": "2023-09-04T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-rethinking-open-source-for-ai.md",
+      "title": "Rethinking open source for AI",
+      "excerpt": "Mehul Shah, founder and CEO of Aryn, a stealth startup that aims to reimagine enterprise search through AI, first outlined the problem for me in an interview. Shah, who spearheaded AWS’ OpenSearch business, is betting big on AI and also on open source.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/artificial-intelligence-neural-network-human-face-picture-id1150038843-100860324-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706091/rethinking-open-source-for-ai.amp.html",
+      "publishedDateTime": "2023-09-04T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-flow-wfm-wins-the-emerging-leader-in-wfm-award-at-bpo-and-contact-center-summit-2023.md",
+      "title": "FLOW WFM wins the \"Emerging leader in WFM\" award at BPO and Contact Center Summit 2023",
+      "excerpt": "FLOW WFM showcased a plethora of features and benefits that empower contact centers to automate routine tasks, freeing up time to focus on delivering exceptional customer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1345708&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1345708&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2199922/Emerging_leader_in_WFM.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-artificial-intelligence-top-three-roles-under-threat-in-small-australian-businesses.md",
       "title": "Artificial intelligence: Top three roles under threat in small Australian businesses",
       "excerpt": "The top three roles most at risk of being replaced by artificial intelligence in small businesses have been revealed. Sobering results of a new survey of 79,000 companies found that one third of ...",
@@ -1017,152 +1162,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-ai-has-a-big-dirty-problem-that-is-tarnishing-big-techs-environmental-image.md",
-      "title": "AI has a big, dirty problem that is tarnishing Big Tech's environmental image",
-      "excerpt": "AI is challenging the tech industry's ability to present itself positively on environmental, social and governance issues.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8",
-      "originalUrl": "https://www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ef959a0ce10a00183be341?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-big-dirty-problem-tarnishing-big-tech-environmental-image-2023-8?amp",
-      "publishedDateTime": "2023-09-02T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-crossing-the-chasm-in-ai-led-marketing-transformation.md",
-      "title": "Crossing the chasm in AI-led marketing transformation",
-      "excerpt": "And that is why it should be among the top priorities for any chief marketing officer (CMO) to unravel the possibilities of AI. Customer-centric sectors such as fintech, and e-commerce have already started piloting AI strategies while many other sectors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-01T181533.194.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-crossing-the-chasm-in-ai-led-marketing-transformation-3230292/lite/",
-      "publishedDateTime": "2023-09-02T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health.md",
-      "title": "Workers Taking Wellness Into Their Own Hands Using AI-Backed Mental Health",
-      "excerpt": "Artificial intelligence and mental health might be an odd coupling, but employees are using the new technology to take control of their mental health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/",
-      "originalUrl": "https://www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dcc56ee715cb3003d8ae1f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2023/09/02/workers-taking-wellness-into-their-own-hands-using-ai-backed-mental-health/amp/",
-      "publishedDateTime": "2023-09-02T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

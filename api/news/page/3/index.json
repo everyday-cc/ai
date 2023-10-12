@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-11-intel-arc-a580-gaming-gpu-finally-launched-for-only-179.md",
+      "title": "Intel Arc A580 Gaming GPU Finally Launched for Only $179",
+      "excerpt": "Intel has officially introduced the Arc A580 discrete graphics card, marking a global launch available as of today. The A580 boasts 24 Xe cores, ray",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/",
+      "originalUrl": "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2023/10/Intel-Arc-A580-3-e1697006486692.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/",
+      "publishedDateTime": "2023-10-10T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-shop-owner-installs-ai-cameras-to-beat-shoplifters.md",
       "title": "Shop owner installs AI cameras to beat shoplifters",
       "excerpt": "A Surrey business owner has installed facial recognition cameras in his shop following an increase in assaults from regular shoplifters. Danyal Shoaib said he lost £7,000 to theft in a year, while staff at his business in Leatherhead, Surrey, faced an increasing amount of abuse, including racial slurs.",
@@ -243,6 +286,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-11-educause-23-teaching-about-ai-must-include-limits-biases.md",
+      "title": "Educause '23: Teaching About AI Must Include Limits, Biases",
+      "excerpt": "As teachers integrate generative artificial intelligence into lesson plans and subjects, doing so responsibly will mean teaching about the limitations and biases of such tools, and discouraging over-reliance on them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/6d18f42/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F86%2Fa811e8c84774bf6df6cc36762e23%2Fcloud-ai.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true",
+      "publishedDateTime": "2023-10-10T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
       "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
       "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
@@ -346,6 +432,57 @@
       ]
     },
     {
+      "path": "_news/2023-10-11-adobes-ai-image-generators-get-beefy-updates-including-vector-graphics.md",
+      "title": "Adobe’s AI image generators get beefy updates, including vector graphics",
+      "excerpt": "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
+      "publishedDateTime": "2023-10-10T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-automated-chronic-pain-cohort-mined-from-twitter-using-machine-learning.md",
       "title": "Automated chronic pain cohort mined from Twitter using machine learning",
       "excerpt": "Social media platforms like Twitter (now X) offer valuable insights into self-reported chronic pain, according to a recent study by multiple institutions. The researchers have automated the process of establishing a chronic pain cohort,",
@@ -397,7 +534,7 @@
       "originalUrl": "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1028,49 +1165,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-10-ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search.md",
-      "title": "IBM watsonx Assistant: Driving generative AI innovation with Conversational Search",
-      "excerpt": "We can now build compelling conversational experiences, transforming the search bar into a compelling and knowledgeable AI assistant.\nThe post IBM watsonx Assistant: Driving generative AI innovation with Conversational Search appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T08:18:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-10-generative-ai-deployment-strategies-for-smooth-scaling.md",
       "title": "Generative AI deployment: Strategies for smooth scaling",
       "excerpt": "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas",
@@ -1111,109 +1205,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-how-ai-is-changing-the-future-of-digital-experience.md",
-      "title": "How AI Is Changing The Future Of Digital Experience",
-      "excerpt": "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/",
-      "publishedDateTime": "2023-10-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages.md",
-      "title": "ElevenLabs introduces AI Dubbing, translating video and audio into 20 languages",
-      "excerpt": "ElevenLabs' AI Dubbing tool can translate speech into more than 20 languages while retaining the original speaker's voice.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/",
-      "originalUrl": "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_representation_of_podcast_host_speaking_and_wo_6da3a358-8a00-4735-b154-11c2544fd1c5.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

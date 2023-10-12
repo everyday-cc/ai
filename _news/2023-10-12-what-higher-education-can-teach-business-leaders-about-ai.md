@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/what
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/what-higher-education-can-teach-business-leaders-about-ai/"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -23,35 +23,35 @@ topics:
   - AI in Education
 
 related:
-  - title: "Educause '23: Teaching About AI Must Include Limits, Biases"
-    excerpt: "As teachers integrate generative artificial intelligence into lesson plans and subjects, doing so responsibly will mean teaching about the limitations and biases of such tools, and discouraging over-reliance on them."
-    publishedDateTime: 2023-10-10T23:38:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
+  - title: "Is Artificial Intelligence Right For Your Business?"
+    excerpt: "Artificial intelligence (AI) has evolved to become a cornerstone of the business landscape, driving transformational changes across industries. As a business leader, you will find yourself at a crossroads, contemplating whether to embrace AI and if so ..."
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/6d18f42/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F86%2Fa811e8c84774bf6df6cc36762e23%2Fcloud-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "AI Nightmares: 5 Risks that Keep Business Leaders Up at Night and What You Can Do About It"
-    excerpt: "A few years ago, your worst nightmares for your organization might have involved old-fashioned data breaches or class action lawsuits. Those"
-    publishedDateTime: 2023-10-09T14:15:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ai-nightmares-5-risks-that-keep-3540755/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 27
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7295_415.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65008f371bd6db82125e7015/0x0.jpg?format=jpg&crop=1750,1312,x473,y0,safe&height=900&width=1600&fit=bounds"
         width: 1200
         height: 900
+        isCached: true
+  - title: "How AI is revolutionising business contracts"
+    excerpt: "Contracts are the foundation of business. They sustain commercial relationships, provide clarity, offer protection, enhance collaboration and drive revenue. Every medium and large organisation generates substantial numbers of contracts across multiple parts of the business including finance,"
+    publishedDateTime: 2023-10-10T17:04:00Z
+    webUrl: "https://www.ft.com/partnercontent/icertis/how-ai-is-revolutionising-business-contracts.html"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://ft.com/partnercontent/icertis/img/hero1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "6VAn/zSnRe0XgbBcL+p95QeOIyekH3OAAj8qELUu0mCelNA/hdJzW3onMUl2H6kQv3rMHblxRgVy3YVWy4UE3VzVhkedvG1IaR2ailu1EAGQnkJkePRNJddYVoH25Quf2xx8ZsgwPOuHxWqV491i+gHxLmrrGSpuHOcVYJ8zJ6at1gsd0jgVJ113IXRDNCIDao2145LK5EEYWR8MEXdXeLvOUn2TFbXmM0jzYtXRnoQFKHqf0nSCTSVuymL9vZTEGZj+PcZrCFUm9+ReuxWzOp4pJCJ8u9Wi2PI3btpgFicl8hTsND+TakkZJoUlIYkhiLVsI4JKeUrS5oFimcqC7elVAWRnMllfZ5Tl6YZdnzNlxnlIaWVvegT8n/P76/OqTX5eaP1EJhq1s7+AayVP5WAGPHr5wgeDsaGpWkVj7z9evyIiTWMNR6izxSkxjC0cPlRvpqu/TCSjgOVzXA2QTjihXRj98LfL+BSjDqNsdsGcxDZN2JdKScSqSEKO8eSeq3VxcVdjaXtBnvBf0wA+cw==;pf6HwZt5LCaKyxc2E1ZSEw=="

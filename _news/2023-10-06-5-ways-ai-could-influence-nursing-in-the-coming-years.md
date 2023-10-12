@@ -3,18 +3,18 @@ category: news
 title: "5 ways AI could influence nursing in the coming years"
 excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
 publishedDateTime: 2023-10-06T13:11:00Z
-originalUrl: "https://www.newsobserver.com/news/nation-world/world/article280205024.html"
-webUrl: "https://www.newsobserver.com/news/nation-world/world/article280205024.html"
+originalUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
+webUrl: "https://www.sacbee.com/news/nation-world/world/article280205024.html"
 type: article
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "gItahElqUlLVr/o5wMGc3k42EHd6CCiUaYJP9+EFrgN2rsT4k4JNnzXUiMPKK3kHYtsjjg5Iuy4aAWoHW4xYc1WZath+a+0kO1+52HCYsPWqJwI3w4AXIH1Jhrd1lKggD4Yoiqk5f8D04f/EevstuxNY10Or099PT9TpFWzA+3zYEECGzKuzrLXAThKmsyrgDpt6ckonliOqnVCbI/IilJrKCkcDS6nEigFVOuEzC3GFFMlntX+Eci7YvDZkmea61hvO3qtDM5xAB88T9gA6U9Y1hCooi8gL62uEPX4zqY3yXW6EG7uzN+Vi7CoQLh/dBZGwxDMTRbmb6pPNgxd3T8QPGvlDlEwpKHSFG2c/qpaYYvAaOzofvKo7tok230vFZBr27D9a0ks7MGICQ5StK9ib0nRAL2SHofBw257AlbEw4E1ZHyAx2nyIPM/Ia+TFe7j9kNKQZRVP5nVYR9GwNowBt8+IH1B9f+kO26g9JOBaaP35n3KPwyDSV9nJTrxIGE7VHNx1Wr1FQp9decZZHQ==;Kd4agUuvPIBKQyk7Ibc+8Q=="
+secured: "HUZQggzWKUaR6VQ4fPw+VrCgWGLnMK4pRJY9k78d8rJhUqTD4oEETzzEF/Z85F9RHT4phrKA9mxZyUR7nuHiuq6Ei1KpU7fISQpLW0enp8PqCNLDYnGE3XSFqzenuMz3pMN7SX4msiiNcHhsbDZe5Z/dwOa5XPiFFtKz2ST1dN/MEZveF5hHAwiGiS82s5enFyF1V8fPzUMwHwoKHaCSjtyJKfJW5fC1j/HE5uJjVd/dUFzRWZ6n8JIOdfTBzIM3bKriwe9Bg6rmJkOYsB5eQW32OCArB/mI9iEAv3KRHNLxZ+RnWJdVYNg2jLlTs/V5vNrgKjJvIaAlgwc3K+E9pRlClGfqdM/IRrilO3CNvkx6hZyqBggjPYqmF3TPiCDqTV4nzbsAx1/O7icOgW6wxZ/OyjRur72YBIppHTDo9rSMbupOm7qjKPIzF0mecCu4Tbq3X4cuj1JXWDQxWXIPSy3V7fEX36i2gxLFvJz86AIZi8tGa4DxpKtscpgbpDiSovTwl8xlG+sqYXFgGM8tcA==;Jh0Eow9CnUXJGYPZ2FOURA=="
 ---
 

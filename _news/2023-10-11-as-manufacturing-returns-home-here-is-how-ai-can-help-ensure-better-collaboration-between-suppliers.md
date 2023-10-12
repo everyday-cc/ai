@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How AI is revolutionising business contracts"
-    excerpt: "Contracts are the foundation of business. They sustain commercial relationships, provide clarity, offer protection, enhance collaboration and drive revenue. Every medium and large organisation generates substantial numbers of contracts across multiple parts of the business including finance,"
-    publishedDateTime: 2023-10-10T17:04:00Z
-    webUrl: "https://www.ft.com/partnercontent/icertis/how-ai-is-revolutionising-business-contracts.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://ft.com/partnercontent/icertis/img/hero1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "9VbmdQAIy8NBPRT3cUot8S7yu8NmADD8sXHMy6GujBj7d3E5mAPDavRHSuVlncMxvksKPHoA4q62f3UzLwArjKTrNGXFblUUdA64Bwv3UbwZDrlVTcgdzq9fQ8GVPQkrZjae7336mTeKa01pkhTAhyyIuoLgYTIXZAe4sU6nst4yIBdFlEWGlOLc85cCM9eJT9CEOQswMj4LcNeH6XIT83OsVAvWgDwD6zIjqLZ4Q+5CObcOYRhJRD96s5vVpWN4EJbjxmrFLcoLji0DupsVNX95eZaji5GNV9xx+6CkTzxlnVhVNaMTKnk1LzHS8Ls4aR5Tn0VCThFuadCkG9eGkF2WyPgqByeUEhxo5/Hs+Y38Rr4UkqiM52l53bWzoNEOuDaOIqz0gi7K9Q6x3b73j/pOjwbRcvqKSt4OXYclfLSZV5iEIb2nO8U2mw1nJpoI6djtXKDsoxIwkl59lPrPUqMmW8a1lA7RKU8uro/HvPAZlY09ysBh7jO2225MrPgBayfgDRY9qqAx5UFuf6tKsg==;Ho7jzDAt6CYT5TAZcodFYQ=="
 ---

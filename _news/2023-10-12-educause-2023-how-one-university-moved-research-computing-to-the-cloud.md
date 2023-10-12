@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Educause '23: Teaching About AI Must Include Limits, Biases"
+    excerpt: "As teachers integrate generative artificial intelligence into lesson plans and subjects, doing so responsibly will mean teaching about the limitations and biases of such tools, and discouraging over-reliance on them."
+    publishedDateTime: 2023-10-10T23:38:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6d18f42/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F86%2Fa811e8c84774bf6df6cc36762e23%2Fcloud-ai.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Echo360 Unveils Artificial Intelligence Innovation at Educause 2023"
     excerpt: "Echo.ai Assist enhances recently launched EchoPoll with A.I. technology that saves time for instructors and increases engagement for learners worldwide. NEW YORK, /PRNewswire/ -- Echo360, the leading"
     publishedDateTime: 2023-10-09T12:40:00Z

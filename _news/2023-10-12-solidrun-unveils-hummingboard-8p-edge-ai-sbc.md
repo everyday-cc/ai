@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "SolidRun Unveils the Hummingboard 8P Edge AI SBC with Hailo-8 AI Processor"
+    excerpt: "SolidRun, a leading innovator in high-performance System on Module (SOM) solutions and developer of embedded systems, is proud to announce the release of its new Hummingboard 8P Edge AI single-board-computer (SBC)."
+    publishedDateTime: 2023-10-12T17:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/12/9897892.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
+
 secured: "pjdmyZJnWGdiSV9AAkRVdwA/bU2jgiTb02ZIWTGBT/4BaX7XaMHvso62jBkDSczcJgQI2YU39w5Ex3cZ+fVYgG5FzjU4y6xrpU5nhASItsB3/qCtC9qlWL7iiVZvq+ECDaeZQxf7CKQXRhKB9Y/sj9GybdW36+Meu9SCzYowmR4Nl+8ULCS+VNUABFbAqObO+LEXmWdsZyIsG2PSZcY8+D9UsiELmN6P5ZCuy4x6K0t70pN+Slymq/bJolN0M9nA/yvarfADr5xjwJQtung/HxMzpj5FXaLc8o5h/afd66aCUpVCP9dTycmzW12fNHpfuJfWi83LMUkA+hiol5SvDwsQpwU9sLURrVrcYG9e0MI=;6y7zc+h1LcaCUlthzaa4xg=="
 ---
 

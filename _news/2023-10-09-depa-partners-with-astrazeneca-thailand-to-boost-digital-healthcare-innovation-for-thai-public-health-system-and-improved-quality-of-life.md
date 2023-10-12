@@ -41,6 +41,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Artificial Intelligence Optimists Concerned About Risks of Visual Misinformation"
+    excerpt: "TC’s Ioana Literat has complicated feelings around artificial intelligence (AI). More than anything, she is an optimist who sees the positives that generative AI can bring to society — even in just pushing educators to think deeply about their goals ..."
+    publishedDateTime: 2023-10-12T16:14:00Z
+    webUrl: "https://www.tc.columbia.edu/articles/2023/october/artificial-intelligence-optimists-concerned-about-risks-of-visual-misinformation/"
+    type: article
+    provider:
+      name: tc.columbia.edu
+      domain: columbia.edu
+    quality: 32
+    images:
+      - url: "https://www.tc.columbia.edu/media/news/images/2023/october/ioana-literat-ai-2023-social-card.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "Jb5feZdbp7Ma8KFRUXzkaeOoE2/vjzFw2P3dLLYHWb/ZJjsgsanRasKV4YHMlM5KOQCghYe0j7y44L8rstX1TUN+qTAs2/8y1ok59ApR7tgXb/KAexiI5mZ918IdjZ9WazxYRG4a+z7KaxIQBx1BRamJNGQfbbDo3UtyQSIM9bWymYO9irNkbBGMsesZMYPPFFzIHHpdCsgfmUxF81LRUAgq19k5tdq8MOchWAQWcM5hgEV+0I650oEZigF1fLYw60I2+qWDBB27WLCLEyvFmrxZNu3oXXLWQm7zEhd4qE2B6haQ/fEULIZtInkV3FHPjfxN2Ulw97D16rp66C1MbhYCGDog+alIpsDX3/9/kb5rERA54jPzZLkUMy+4cwCSbRQRwBrku4qaAh4oiSIsEokGQjvErz8jRKi57oq0MBB28Xy1K900ueTNqoVQrUefGyqkQzH+ZZZrwLQjizcbqJKjsYwWeQCouIKzjC9FCSn7z8hqRqH2gZzg7o+1imfVUnGhC418GC8Dyod48y3iqw==;v1PFfBAMCW2UOhSXPtWOEA=="
 ---

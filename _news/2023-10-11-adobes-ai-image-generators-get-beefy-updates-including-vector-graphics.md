@@ -9,8 +9,8 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-ima
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Ars Technica
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How knowledge graphs improve generative AI"
-    excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
-    publishedDateTime: 2023-10-09T09:05:00Z
-    webUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Adobe Firefly’s generative AI models can now create vector graphics in Illustrator"
     excerpt: "Illustrator is Adobe's vector graphics tool for graphic artists and it's about to join the generative AI era with the launch of the Firefly Vector Model"
     publishedDateTime: 2023-10-10T16:00:00Z
@@ -62,105 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "US Space Force Bans Use of Generative AI"
-    excerpt: "Outside of work, Space Force employees will find it increasingly difficult to avoid using AI. Google recently announced that Assistant is getting a Bard generative AI upgrade, Microsoft is adding generative AI to the Windows 11 experience, and Amazon is investing billions in AI to improve the customer experience for all its services."
-    publishedDateTime: 2023-10-12T11:40:00Z
-    webUrl: "https://www.pcmag.com/news/us-space-force-bans-use-of-generative-ai"
+  - title: "Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express"
+    excerpt: "Adobe is going all in on AI, announcing three new generative AI models today that add powerful features to Illustrator and Adobe Express and vastly improve Photoshop’s text-to-image capabilities. During the company’s Adobe Max even t on Tuesday,"
+    publishedDateTime: 2023-10-10T16:12:00Z
+    webUrl: "https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: The Verge
+      domain: theverge.com
+    quality: 53
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05eR2BHqfTmXbAUOwc8o0x8-1.fit_lim.size_1200x630.v1697110351.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Dubai Assembly for Generative AI kicks off tomorrow"
-    excerpt: "The Dubai Assembly for Generative AI supports Dubai's vision to become a global center for testing emerging technologies and taking advantage of their opportunities. The assembly complements Dubai's efforts to collaborate with decision-makers and industry leaders from around the world in order to address challenges and create new opportunities."
-    publishedDateTime: 2023-10-10T10:20:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe"
-    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
-        width: 636
-        height: 424
-        isCached: true
-  - title: "Stability AI Releases Generative Audio Model Stable Audio"
-    excerpt: "Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44."
-    publishedDateTime: 2023-10-10T14:14:00Z
-    webUrl: "https://www.infoq.com/news/2023/10/stable-audio/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2023/10/stable-audio/en/headerimage/generatedHeaderImage-1695556023477.jpg"
+      - url: "https://cdn.vox-cdn.com/thumbor/juSDWZIdLoDoZd2JCtjzRmsChtw=/0x0:2660x1500/1200x628/filters:focal(1330x750:1331x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24991431/Adobe_Max.jpg"
         width: 1200
-        height: 630
+        height: 628
         isCached: true
-  - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
-    excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."
-    publishedDateTime: 2023-10-10T20:49:00Z
-    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-collaborative-launched-at-hlth-2023"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "UiPath drives generative AI apps with Amazon Bedrock"
-    excerpt: "Earlier this year, UiPath also announced that data science teams using Amazon SageMaker, an end-to-end machine learning (ML) service, can now connect Amazon SageMaker-hosted ML models into UiPath business processes without the need for coding and manual ..."
-    publishedDateTime: 2023-10-11T18:37:00Z
-    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/UiPath-drives-generative-AI-apps-with-Amazon-Bedrock"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-101023-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
-  - title: "3 critical considerations for generative AI on campus"
-    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
-    publishedDateTime: 2023-10-12T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/10/12/critical-considerations-generative-ai-campus/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 19
-  - title: "3D Generative AI for Every Creator"
-    excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
-    publishedDateTime: 2023-10-11T18:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35200875/3d-generative-ai-for-every-creator"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
-  - title: "How Can Local Governments Safely Use Generative AI?"
-    excerpt: "A new task force formed by MetroLab is seeking to explore this question, doing so by including more than 45 local governments, alongside other public, academic and private-sector members."
-    publishedDateTime: 2023-10-11T19:34:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-can-local-governments-safely-use-generative-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "peHlzu82QqwHrr7BCyffd6RQrNe/7a6C66N0mA7qKfO1ryL21AZpbkbprQ/M7a/xk8hE5kmqpSnqoj2r5Fe1e6BduDLyujTfTMFImYyv3shO/gAAELHlMhTWcJEtJyUzJuGBLVg2tvEzza+clr6KQJ+iouQYW7RUAto+I6bHs2BT04Wz9kgL6RF1bMLurGJVD070qL8hF0pG/eUoqZUuNmcrFg8b+cjYrs4OqvmaK3nMh8Bt4yl4kgfdWerusp6MZIbMZffXJNlmgoeaI1441IHEfiTwd3OsypPs7P/BX3naM8qWL9A42007ETQ1u8aPMZJcHmGoIyXO33iQJVum2yq9OfrWFYn1nuTUXM29efsgA+BVGGLq9c4z6aZo+t4iIXAM8kGjE00vMjHY4C/tNbWPCBX2RzRZpxuQqC8D7ezAe7pYLI2kMD2TUkbd+3jwgXQXNhl4KjldOUMRxqfRUERjCvObzfOsB9SEIysNTH3w1PmR/8vr/PKYim51K3cvpOyjMi8fLJrWKylA5rqYqg==;bFyiQXKtUC6bz8l//V/gGA=="
 ---

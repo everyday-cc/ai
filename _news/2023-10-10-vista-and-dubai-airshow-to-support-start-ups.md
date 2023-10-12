@@ -49,6 +49,20 @@ related:
         width: 852
         height: 528
         isCached: true
+  - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
+    excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
+    publishedDateTime: 2023-10-12T17:20:00Z
+    webUrl: "https://menafn.com/1107232402/RespondIo-To-Showcase-New-Artificial-Intelligence-AI-Powered-Solutions-At-GITEX-Global-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?236858"
+        width: 369
+        height: 250
+        isCached: true
   - title: "GITEX GLOBAL, Expand North Star 2023 Centre World’S Attention On Booming Artificial Intelligence (AI) Economy"
     excerpt: "His Excellency Omar Sultan Al Olama, UAE Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications, and Chairman of Dubai Chamber of Digital Economy, spoke at the official GITEX GLOBAL and Expand North Star 2023 press ..."
     publishedDateTime: 2023-10-10T19:41:00Z

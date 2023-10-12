@@ -30,15 +30,109 @@ images:
     isCached: true
 
 related:
-  - title: "Skills and expertise: Keys to the generative AI engine"
-    excerpt: "Trusted skills, expertise and systems integrators are keys to successfully implementing generative AI technologies.\nThe post Skills and expertise: Keys to the generative AI engine appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-12T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generative-ai-engine/"
+  - title: "New ways to get inspired with generative AI in Search"
+    excerpt: "We’re testing new ways to get started on something you need to do — like creating an image that can bring an idea to life, or a written draft when you need a starting po…"
+    publishedDateTime: 2023-10-12T16:00:00Z
+    webUrl: "https://blog.google/products/search/google-search-generative-ai-october-update/"
+    ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-october-update/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_Image_Nb4hNLE.width-1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "Our responsible approach to building guardrails for generative AI"
+    excerpt: "We’re sharing some of the ways we’re building guardrails for generative AI."
+    publishedDateTime: 2023-10-12T16:00:00Z
+    webUrl: "https://blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/"
+    ampWebUrl: "https://blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "IBM watsonx Assistant: Driving generative AI innovation with Conversational Search"
+    excerpt: "We can now build compelling conversational experiences, transforming the search bar into a compelling and knowledgeable AI assistant.\nThe post IBM watsonx Assistant: Driving generative AI innovation with Conversational Search appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-10T15:18:39Z
+    webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 99
+    quality: 108
+  - title: "How knowledge graphs improve generative AI"
+    excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
+    publishedDateTime: 2023-10-09T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Adobe unveils three new generative AI models, including the next generation of Firefly"
+    excerpt: "On Tuesday, Adobe kicked off its annual Adobe MAX Creativity Conference by announcing its latest innovations, which included three new generative AI models: Firefly Image 2 Model, Firefly Vector Model, and Firefly Design Model. Also: Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
+    publishedDateTime: 2023-10-10T16:00:00Z
+    webUrl: "https://www.zdnet.com/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/fe2a0f5a77a3e0c533d1125f7616a6e7207daab5/2023/10/09/00d83395-45f0-4272-966b-fabc49c199e8/d78c1416-e941-4d8b-b680-82f990e651de.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "US Space Force Bans Use of Generative AI"
+    excerpt: "Outside of work, Space Force employees will find it increasingly difficult to avoid using AI. Google recently announced that Assistant is getting a Bard generative AI upgrade, Microsoft is adding generative AI to the Windows 11 experience, and Amazon is investing billions in AI to improve the customer experience for all its services."
+    publishedDateTime: 2023-10-12T11:40:00Z
+    webUrl: "https://www.pcmag.com/news/us-space-force-bans-use-of-generative-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05eR2BHqfTmXbAUOwc8o0x8-1.fit_lim.size_1200x630.v1697110351.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Dubai Assembly for Generative AI kicks off tomorrow"
+    excerpt: "The Dubai Assembly for Generative AI supports Dubai's vision to become a global center for testing emerging technologies and taking advantage of their opportunities. The assembly complements Dubai's efforts to collaborate with decision-makers and industry leaders from around the world in order to address challenges and create new opportunities."
+    publishedDateTime: 2023-10-10T10:20:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
+        width: 636
+        height: 424
+        isCached: true
   - title: "The Power Of Fine-Tuning In Generative AI"
     excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
     publishedDateTime: 2023-10-10T13:46:00Z
@@ -48,33 +142,42 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "How Domino’s generative AI experiment could transform the front and back of house"
-    excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
-    publishedDateTime: 2023-10-09T21:04:00Z
-    webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
+  - title: "Generative AI In Industrials"
+    excerpt: "Those in the industrial sector that are fully cogent in their generative AI investments have an opportunity to gain a real advantage."
+    publishedDateTime: 2023-10-12T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/generative-ai-in-industrials/"
     type: article
     provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
+    excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."
+    publishedDateTime: 2023-10-10T20:49:00Z
+    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-collaborative-launched-at-hlth-2023"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/2dominos_2_3.gif"
-        width: 770
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
+        width: 690
         height: 400
         isCached: true
-  - title: "Over 1,800 AI Global Experts To Demystify Generative AI During The Dubai Assembly For Generative AI"
-    excerpt: "Over 1,800 AI Global Experts to Demystify Generative AI During the Dubai Assembly for Generative AI <br /> . Taking place on 11-12 October at the Mus"
-    publishedDateTime: 2023-10-10T00:08:00Z
-    webUrl: "https://menafn.com/1107216279/Over-1800-AI-Global-Experts-To-Demystify-Generative-AI-During-The-Dubai-Assembly-For-Generative-AI"
+  - title: "UiPath drives generative AI apps with Amazon Bedrock"
+    excerpt: "Earlier this year, UiPath also announced that data science teams using Amazon SageMaker, an end-to-end machine learning (ML) service, can now connect Amazon SageMaker-hosted ML models into UiPath business processes without the need for coding and manual ..."
+    publishedDateTime: 2023-10-11T18:37:00Z
+    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/UiPath-drives-generative-AI-apps-with-Amazon-Bedrock"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 25
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?26731"
-        width: 437
-        height: 250
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-101023-cover-500px.jpg"
+        width: 500
+        height: 354
         isCached: true
   - title: "Spend Connect - SAP brings generative AI to enterprise spend"
     excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
@@ -85,15 +188,24 @@ related:
       name: Diginomica
       domain: diginomica.com
     quality: 19
-  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
-    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
-    publishedDateTime: 2023-10-08T19:09:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
+  - title: "3 critical considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-10-12T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/10/12/critical-considerations-generative-ai-campus/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 19
+  - title: "3D Generative AI for Every Creator"
+    excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
+    publishedDateTime: 2023-10-11T18:06:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35200875/3d-generative-ai-for-every-creator"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "kvnHkVaYe4RMvUoXYcojEqTSUYQxeT4HvMC0eoX/Ewpbmiu0OeZ3QLgPfDaL2AL/F2iJh2zEoXmlFiTed+YlY8SGIpU81/GgWvyzSJN1GLH23ytyh6wl43cb0R0orNPefY5wucW5upbEit3KvatDMbkBMpnZWOTm4d85JfP3HxK+RDRJ6uk+n080ZaEysf44zJeUwNkSecJ6Ctel3ZPwHZdt+xD+NO5HKUz78u10cM9Yx8w+Wl8e0+8mi7j2UcgiXlpJbmNtQkKur5VfivaXh7Es3Gs0Kzz86YyjqcPgjvnQACkJnj1lokiBC5x/xGI7MJJVlVFDj86u0kFUk4FdzsDPQN/MeI1sliKzxlWYdoA=;n/ZMWhJ9q4hk+6PISxG8vQ=="
 ---

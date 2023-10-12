@@ -25,6 +25,47 @@ images:
     isCached: true
 
 related:
+  - title: "New ways to get inspired with generative AI in Search"
+    excerpt: "We’re testing new ways to get started on something you need to do — like creating an image that can bring an idea to life, or a written draft when you need a starting po…"
+    publishedDateTime: 2023-10-12T16:00:00Z
+    webUrl: "https://blog.google/products/search/google-search-generative-ai-october-update/"
+    ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-october-update/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_Image_Nb4hNLE.width-1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "Our responsible approach to building guardrails for generative AI"
+    excerpt: "We’re sharing some of the ways we’re building guardrails for generative AI."
+    publishedDateTime: 2023-10-12T16:00:00Z
+    webUrl: "https://blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/"
+    ampWebUrl: "https://blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "IBM watsonx Assistant: Driving generative AI innovation with Conversational Search"
+    excerpt: "We can now build compelling conversational experiences, transforming the search bar into a compelling and knowledgeable AI assistant.\nThe post IBM watsonx Assistant: Driving generative AI innovation with Conversational Search appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-10T15:18:39Z
+    webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 108
   - title: "How knowledge graphs improve generative AI"
     excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
     publishedDateTime: 2023-10-09T09:05:00Z
@@ -41,37 +82,37 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Adobe’s AI image generators get beefy updates, including vector graphics"
-    excerpt: "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill."
-    publishedDateTime: 2023-10-10T21:36:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
+  - title: "How Adobe is leveraging generative AI in customer experience upgrades"
+    excerpt: "They start to build a map of your brand's benefit to their lives ... Also: Adobe Generative Expand adds to Photoshop's AI arsenal Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual ..."
+    publishedDateTime: 2023-10-12T15:17:00Z
+    webUrl: "https://www.zdnet.com/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 86
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-800x450.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.zdnet.com/a/img/resize/1cece709d5fe4df7d14b8770ec21f19b19242067/2023/03/21/b3d81f07-31e0-455d-b67c-87c27c0bd51d/gettyimages-600781912.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Adobe Firefly’s generative AI models can now create vector graphics in Illustrator"
-    excerpt: "Illustrator is Adobe's vector graphics tool for graphic artists and it's about to join the generative AI era with the launch of the Firefly Vector Model"
+  - title: "Adobe unveils three new generative AI models, including the next generation of Firefly"
+    excerpt: "On Tuesday, Adobe kicked off its annual Adobe MAX Creativity Conference by announcing its latest innovations, which included three new generative AI models: Firefly Image 2 Model, Firefly Vector Model, and Firefly Design Model. Also: Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
     publishedDateTime: 2023-10-10T16:00:00Z
-    webUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/"
-    ampWebUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
+    webUrl: "https://www.zdnet.com/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 81
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800"
+      - url: "https://www.zdnet.com/a/img/resize/fe2a0f5a77a3e0c533d1125f7616a6e7207daab5/2023/10/09/00d83395-45f0-4272-966b-fabc49c199e8/d78c1416-e941-4d8b-b680-82f990e651de.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
   - title: "US Space Force Bans Use of Generative AI"
     excerpt: "Outside of work, Space Force employees will find it increasingly difficult to avoid using AI. Google recently announced that Assistant is getting a Bard generative AI upgrade, Microsoft is adding generative AI to the Windows 11 experience, and Amazon is investing billions in AI to improve the customer experience for all its services."
@@ -103,20 +144,24 @@ related:
         width: 636
         height: 424
         isCached: true
-  - title: "Stability AI Releases Generative Audio Model Stable Audio"
-    excerpt: "Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44."
-    publishedDateTime: 2023-10-10T14:14:00Z
-    webUrl: "https://www.infoq.com/news/2023/10/stable-audio/"
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/news/2023/10/stable-audio/en/headerimage/generatedHeaderImage-1695556023477.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Generative AI In Industrials"
+    excerpt: "Those in the industrial sector that are fully cogent in their generative AI investments have an opportunity to gain a real advantage."
+    publishedDateTime: 2023-10-12T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/generative-ai-in-industrials/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "UiPath drives generative AI apps with Amazon Bedrock"
     excerpt: "Earlier this year, UiPath also announced that data science teams using Amazon SageMaker, an end-to-end machine learning (ML) service, can now connect Amazon SageMaker-hosted ML models into UiPath business processes without the need for coding and manual ..."
     publishedDateTime: 2023-10-11T18:37:00Z
@@ -131,6 +176,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
+    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
+    publishedDateTime: 2023-10-09T18:05:00Z
+    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
   - title: "3 critical considerations for generative AI on campus"
     excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
     publishedDateTime: 2023-10-12T09:00:00Z
@@ -148,15 +202,6 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 19
-  - title: "How Can Local Governments Safely Use Generative AI?"
-    excerpt: "A new task force formed by MetroLab is seeking to explore this question, doing so by including more than 45 local governments, alongside other public, academic and private-sector members."
-    publishedDateTime: 2023-10-11T19:34:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/how-can-local-governments-safely-use-generative-ai"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
     quality: 19
 
 secured: "qwqxYjn9prAx13hBsrewDBsFXH4rGDxdxd8NhrYTjuwcfEJAcmpbTXTRJyX2d6qBeysLw+27YwYlO/GDULHoBz6K3cD/xRx2tX7BvGSQHm2JoA+pdMsojkxtlAHOWENXKNoIC5l3MRcLkqlP8MxaizT6wW2Ql2Q5rt3Jia505h+VNfBxyuCQoI6x1EkJdaiVUhZQkRYgKs7Ohkbsg4cK85hXXoOykBgBZK67nASIAXVO5Tg8xmIZV88isrCIDzvm9dBIF3Da9md7WDmgoz+jAes3vwZ3tnMBC5YK3SqNeSz2eJHcwbND/rvWOOAW0doNCaOGOM8eG42mavtWPwRqeZt1WRvPbUTcGlGW5tQmbr3pMdrTqON2TPrWaTm4cnFBEoJq7E0Fvlc9VB6R8avqs5kwpaTQ8Vbygk00y1UjPsfneqfzMq0gjlBr3daHw/j6Q5bUL/F2IL4iLSXfiyI7MIKgP6IBYPh4KUVizCzb6xSJHj/1ej68m6aDSPbvK2bnmrQ7khgBxTh8YmWxQmGrpQ==;ofkqJwnn8gJBvmFcQFolYA=="

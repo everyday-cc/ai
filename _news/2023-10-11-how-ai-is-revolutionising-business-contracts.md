@@ -25,31 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating Industry 4.0: How Artificial Intelligence and Robotics Are Revolutionizing Manufacturing and Supply Chain Management"
-    excerpt: "This dynamic synergy between human ingenuity and cutting-edge technology is unlocking new horizons of efficiency, agility, and competitiveness., Technology & Science News, Times Now"
-    publishedDateTime: 2023-10-09T04:39:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 76
-    images:
-      - url: "https://static.tnn.in/thumb/msid-104273267,thumbsize-25658,width-1280,height-720,resizemode-75/104273267.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "As Manufacturing Returns Home - Here Is How AI Can Help Ensure Better Collaboration Between Suppliers"
-    excerpt: "As Chinese manufacturing slows and the war in Ukraine continues, more U.S. companies are shifting their offshore operations back to reshoring or near-shoring activities."
-    publishedDateTime: 2023-10-10T18:44:00Z
-    webUrl: "https://www.forbes.com/sites/paulnoble/2023/10/10/as-manufacturing-returns-homehere-is-how-ai-can-help-ensure-better-collaboration-between-suppliers/"
+  - title: "Is Artificial Intelligence Right For Your Business?"
+    excerpt: "Artificial intelligence (AI) has evolved to become a cornerstone of the business landscape, driving transformational changes across industries. As a business leader, you will find yourself at a crossroads, contemplating whether to embrace AI and if so ..."
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 32
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65008f371bd6db82125e7015/0x0.jpg?format=jpg&crop=1750,1312,x473,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "What Higher Education Can Teach Business Leaders About AI"
+    excerpt: "While AI tools are incredible resources, they can’t replace the value of investing in the people on your team."
+    publishedDateTime: 2023-10-12T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/what-higher-education-can-teach-business-leaders-about-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
 
 secured: "MqH/pc/1bfzOFl0hUveZBsoZyCoMCzy+Q8yl9rLBNjQ1upze+L0PXT2KejblFoXvWImYiPrQLtZuLdgUNBfAqPz0xfyMtbELP3EkAQNOSUou2HWxsoctxGixdafaTsyKdsefBkR6r7GosLFdVXh5KkptHjDBz0tb3mIUDjGmOuGrVmIPG42Tg/NDm/7A1KEWD+FhuSt++iB1Kgb5CKAtqVRj2XKRC7+BQ50OUZ858w0U4Vgn3BgOp+evyqbMORPW2U5zrACFXos+1ElgNwyhtVXEOIv6EetBp5tT0FMzcu4ZJDVCjcSXUvG9goUVuXM2ePzaO9RhsS+kpb8EUxrTGpCNdLdgTXpt14ACi7n9n3k=;wjS0fvpLjAGUa/3uL9SwWw=="
 ---

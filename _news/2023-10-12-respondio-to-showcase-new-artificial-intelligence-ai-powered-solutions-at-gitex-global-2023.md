@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
+    excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
+    publishedDateTime: 2023-10-12T17:20:00Z
+    webUrl: "https://menafn.com/1107232402/RespondIo-To-Showcase-New-Artificial-Intelligence-AI-Powered-Solutions-At-GITEX-Global-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?236858"
+        width: 369
+        height: 250
+        isCached: true
   - title: "VISTA And Dubai Airshow To Support Start-Ups"
     excerpt: "VISTA will return in 2023 for its second year, aiming to provide support and investment to start-up companies within the aerospace ... businesses operating in fields such as robotics, sustainability, artificial intelligence, drones, eVTOLs, UAVs and ..."
     publishedDateTime: 2023-10-10T11:18:00Z

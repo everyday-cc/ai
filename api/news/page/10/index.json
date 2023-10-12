@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-04-pixel-8-pro-runs-googles-generative-ai-models-on-device.md",
+      "title": "Pixel 8 Pro runs Google’s generative AI models on-device",
+      "excerpt": "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
+      "originalUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
+      "publishedDateTime": "2023-10-04T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-us-agency-california-gathering-details-of-accident-involving-robot-taxi-and-pedestrian.md",
+      "title": "US agency, California gathering details of accident involving robot taxi and pedestrian",
+      "excerpt": "WASHINGTON, Oct 3 (Reuters) - U.S. and California officials said on Tuesday they are in discussions with General Motors' (GM.N) self-driving unit Cruise about an accident in San Francisco ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
+      "originalUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ykik3dJ9wjhMeC_4EUzKuyCb4w4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3QK7U3OJNNLLPB2AFH4YL47PXU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-fintech-unicorn-slice-to-merge-with-a-small-finance-bank-karnataka-doubles-down-on-gaming-gst.md",
       "title": "Fintech unicorn Slice to merge with a small finance bank; Karnataka doubles down on gaming GST",
       "excerpt": "Credit card and payments unicorn Slice is all set for its banking foray as it prepares to merge with North East Small Finance Bank (NESFB).",
@@ -1071,101 +1176,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-chinese-tech-startups-are-testing-self-driving-cars-on-california-roads.md",
-      "title": "Chinese tech startups are testing self-driving cars on California roads",
-      "excerpt": "Tony Peng, a spokesperson for Baidu’s Apollo ... of stealing proprietary information about self-driving technology while applying to a “China-based autonomous vehicle company,” which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "originalUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "publishedDateTime": "2023-10-03T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-ibm-enables-safe-enterprise-ai-with-granite-foundation-models.md",
-      "title": "IBM Enables Safe Enterprise AI with Granite Foundation Models",
-      "excerpt": "With its just-released Granite foundation models, IBM takes a big step towards addressing enterprise requirements for generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "publishedDateTime": "2023-10-03T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

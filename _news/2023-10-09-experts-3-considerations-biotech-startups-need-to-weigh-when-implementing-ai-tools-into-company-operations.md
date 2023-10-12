@@ -27,31 +27,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "How Adobe is leveraging generative AI in customer experience upgrades"
-    excerpt: "They start to build a map of your brand's benefit to their lives ... Also: Adobe Generative Expand adds to Photoshop's AI arsenal Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual ..."
-    publishedDateTime: 2023-10-12T15:17:00Z
-    webUrl: "https://www.zdnet.com/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1cece709d5fe4df7d14b8770ec21f19b19242067/2023/03/21/b3d81f07-31e0-455d-b67c-87c27c0bd51d/gettyimages-600781912.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Power Of Fine-Tuning In Generative AI"
-    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
-    publishedDateTime: 2023-10-10T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "How Domino’s generative AI experiment could transform the front and back of house"
     excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
     publishedDateTime: 2023-10-09T21:04:00Z
@@ -80,15 +55,6 @@ related:
         width: 437
         height: 250
         isCached: true
-  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
-    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
-    publishedDateTime: 2023-10-09T18:05:00Z
-    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
 
 secured: "wXE6A2ddvMBE9F0Q4S1YdjFJ0Q6iuPR6CUsXgMGfHxFI1h2/w4pBaBSq+VzkfsTkwAxRsADJszHQSrUN17ihxFSRDQnj2XseFFeNngEHHPuu/pTO1wWpwJOq6v7zPRUShOD2WmxVzm6aBxK0Q6uvYc+bvKFqYY/o8sE3MGdOAdbnjeS/e6sy2m+xTZtdPMMKV6uc/2WngBFCBakv92iHIIgEOLADKldQuxngWk7WHMQ/gVqGiUN8/DWW4fEamPNKbk5RVtMtxnh9nuh1vZCOp9inAIOH/fzdX6E8Yd1e0zKLdO1+km7OdEl283uyqX6gEZyomRYJri+q3NkNMRRK4IjkR4/wrgzOHeamwIm5dlIr0/aHzgslgVNJy/VQGjo3XiTMetxFYKkOhf1UZ3oMeuymE4ZO33sy4Yp9jC87Lem6SmgRt+rQ4emQyodyyYuhq6fNu46nf/rr08DSCXvi6MroAUrTrMu7jOb7+4IOOx1jSCggqUogutw3V0NQOSW+mNG8IXsCR/I5uygOeR79lw==;T2WkQoT6GZgrXpBCpiNdXA=="
 ---

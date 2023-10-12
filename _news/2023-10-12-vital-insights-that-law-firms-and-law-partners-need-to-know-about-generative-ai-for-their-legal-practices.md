@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Optimists Concerned About Risks of Visual Misinformation"
+    excerpt: "TC’s Ioana Literat has complicated feelings around artificial intelligence (AI). More than anything, she is an optimist who sees the positives that generative AI can bring to society — even in just pushing educators to think deeply about their goals ..."
+    publishedDateTime: 2023-10-12T16:14:00Z
+    webUrl: "https://www.tc.columbia.edu/articles/2023/october/artificial-intelligence-optimists-concerned-about-risks-of-visual-misinformation/"
+    type: article
+    provider:
+      name: tc.columbia.edu
+      domain: columbia.edu
+    quality: 32
+    images:
+      - url: "https://www.tc.columbia.edu/media/news/images/2023/october/ioana-literat-ai-2023-social-card.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "depa partners with AstraZeneca Thailand to Boost Digital Healthcare Innovation for Thai Public Health System and Improved Quality of Life"
     excerpt: "The Digital Economy Promotion Agency (depa) and AstraZeneca Thailand continued their partnership to promote the adoption of digital healthcare innovation to improve Thailand’s healthcare system, to expand the use of artificial intelligence (AI) technology for initial lung cancer screening and expand the results to other types of cancer screening."
     publishedDateTime: 2023-10-09T01:37:00Z

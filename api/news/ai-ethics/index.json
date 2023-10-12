@@ -340,6 +340,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-11-educause-23-teaching-about-ai-must-include-limits-biases.md",
+      "title": "Educause '23: Teaching About AI Must Include Limits, Biases",
+      "excerpt": "As teachers integrate generative artificial intelligence into lesson plans and subjects, doing so responsibly will mean teaching about the limitations and biases of such tools, and discouraging over-reliance on them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/6d18f42/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F86%2Fa811e8c84774bf6df6cc36762e23%2Fcloud-ai.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true",
+      "publishedDateTime": "2023-10-10T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-generative-ai-deployment-strategies-for-smooth-scaling.md",
       "title": "Generative AI deployment: Strategies for smooth scaling",
       "excerpt": "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas",
@@ -1415,49 +1458,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-nasas-mars-rovers-could-inspire-a-more-ethical-future-for-ai.md",
-      "title": "NASA's Mars Rovers Could Inspire A More Ethical Future For AI",
-      "excerpt": "Since ChatGPT's release in late 2022, many news outlets have reported on the ethical threats posed by artificial intelligence. Tech pundits have iss",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI",
-      "originalUrl": "https://menafn.com/1107113753/NASAs-Mars-Rovers-Could-Inspire-A-More-Ethical-Future-For-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-09/21/TC_b1ba0image_story.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
