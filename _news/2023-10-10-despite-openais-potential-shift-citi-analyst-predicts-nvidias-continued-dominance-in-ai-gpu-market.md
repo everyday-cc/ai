@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Anysphere raises $8M from OpenAI to build an AI-powered IDE"
+    excerpt: "Anysphere, a startup building what it describes as an \"AI-native\" software development environment, called Cursor, today announced that it raised $8"
+    publishedDateTime: 2023-10-12T06:38:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/"
+    ampWebUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/27253e8e-2d70-41e0-99f1-f9e5a684f1a3_2918x1855.jpg"
+        width: 2918
+        height: 1855
+        isCached: true
   - title: "Leveling Up AI: OpenAI’s Bold Chip Endeavor"
     excerpt: "OpenAI, a leading AI startup, is considering the development of its own AI chips to address growing shortages in the AI model training sector. The company is exploring strategies such as acquiring an AI chip producer or designing chips in-house."
     publishedDateTime: 2023-10-09T00:00:00Z

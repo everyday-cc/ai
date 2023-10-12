@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Fintech Unicorn Razorpay Unveils 'Optimizer': AI-Powered Payment Routing System"
+    excerpt: "In a strategic move to safeguard businesses from financial losses arising from transaction failures, Razorpay, a prominent fintech unicorn, has unveiled ‘Optimizer’ – a state-of-the-art AI-powered payment routing system."
+    publishedDateTime: 2023-10-11T23:31:00Z
+    webUrl: "https://trak.in/stories/fintech-unicorn-razorpay-unveils-optimizer-ai-powered-payment-routing-system/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 35
+    images:
+      - url: "https://trak.in/stories/wp-content/uploads/2023/10/RazorPay-Payment-Gateway-UPI-Integration-1280x720-1024x576-1.jpeg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Razorpay Launches AI-Powered ‘Optimizer’ to Mitigate Transaction Failures"
     excerpt: "RazorPay the leading full-stack fintech platform has made a significant move with the launch of 'Optimizer'. This advanced AI-powered payments"
     publishedDateTime: 2023-10-11T07:43:00Z

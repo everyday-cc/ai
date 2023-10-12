@@ -2,6 +2,57 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-08-10-new-ai-tech-aims-to-detect-the-origin-of-cancers-for-optimal-treatments-an-important-step.md",
+      "title": "New AI tech aims to detect the origin of cancers for optimal treatments: ‘An important step’",
+      "excerpt": "Researchers at MIT have created an artificial intelligence (AI) model that analyzes the genetic information and predicts where in the body tumors first appeared.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
+      "originalUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b20a8b4d-d1d9-46e9-a471-d4f6f6c9211e/f5657d0d-4d70-46a3-ba0e-25c77dafa905/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/new-ai-tech-aims-detect-origin-cancers-optimal-treatments-important-step.amp",
+      "publishedDateTime": "2023-08-09T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-what-the-bible-can-teach-christians-about-how-to-navigate-ai.md",
       "title": "What the Bible can teach Christians about how to navigate AI",
       "excerpt": "As Christians evaluate technologies, we need to be asking ourselves how technologies create new symptoms that distract us from the underlying problem.",
@@ -1125,40 +1176,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ibm-to-make-metas-llama-2-available-on-watson-x.md",
-      "title": "IBM to make Meta’s Llama 2 available on Watson X",
-      "excerpt": "IBM announced today that it plans to host Meta’s open source large language model (LLM) Llama 2-chat on its AI and data platform, watsonx. Watsonx, which came out in May, sought to offer enterprises the full technology stack,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792",
-      "originalUrl": "https://www.itbusiness.ca/news/ibm-to-make-metas-llama-2-available-on-watson-x/125792",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

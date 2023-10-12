@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Could an AI-created profile picture help you get a job?"
+    excerpt: "Filters and Photoshop move over, artificial intelligence (AI) is the new trend for creating online profile pictures. Over the summer a video went viral on TikTok. It was captioned \"using this trend to get a new LinkedIn headshot\"."
+    publishedDateTime: 2023-10-11T23:10:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-67054382"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-67054382.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67054382.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F2F5/production/_131379126_molly.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Disney's 'Loki' TV show accused of using AI generated art for release promotion"
     excerpt: "Illustrators are accusing Disney of using AI-generated artwork in the promotional material for the upcoming release of Loki season 2."
     publishedDateTime: 2023-10-10T05:46:00Z

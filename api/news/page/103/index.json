@@ -2,6 +2,49 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-07-30-uber-self-driving-car-test-driver-pleads-guilty-to-endangerment-in-pedestrian-death-case.md",
+      "title": "Uber self-driving car test driver pleads guilty to endangerment in pedestrian death case",
+      "excerpt": "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-executives-need-to-be-careful-before-diving-into-the-world-of-ai.md",
       "title": "Executives Need To Be Careful Before Diving Into The World Of AI",
       "excerpt": "With AI continuing to make headlines, organizations feel under pressure to adopt the new technology. But many questions remain.",
@@ -1151,58 +1194,6 @@
         "AI",
         "AI Ethics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-can-self-driving-go-mainstream-within-10-years-watch-this-debate.md",
-      "title": "Can Self-Driving Go Mainstream Within 10 Years? Watch This Debate",
-      "excerpt": "CMU Professor Raj Rajkumar, of the DARPA challenge winning team faces off with Brad Templeton on the core question",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
-      "publishedDateTime": "2023-07-28T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

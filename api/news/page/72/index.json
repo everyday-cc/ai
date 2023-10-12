@@ -2,6 +2,49 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-08-21-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
+      "title": "Natural language processing to extract social risk factors influencing health",
+      "excerpt": "A new study has found that a natural language processing (NLP) system developed by Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health informaticians showed ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/health.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-08-natural-language-social-factors-health.amp",
+      "publishedDateTime": "2023-08-21T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-abba-star-helps-youtube-come-to-grips-with-ai-music.md",
       "title": "Abba Star Helps YouTube Come To Grips With AI Music",
       "excerpt": "Dubbed the YouTube AI Music Incubator, the program includes a wide range of artists from the Universal Music Group, including the Abba star, Brazilian singer Anitta, singer d4vd and several others. Artists seemingly don’t even need to be alive to help YouTube come to grips with AI—the estate of Frank Sinatra is among the list of contributors.",
@@ -1134,57 +1177,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-20-christians-shouldnt-fear-ai-they-should-partner-with-it.md",
-      "title": "Christians shouldn’t fear AI, they should partner with it",
-      "excerpt": "Christians shouldn't fear AI, they should put their faith in it. Christianity has always made good use of new tech from the bible to the internet -- to share the Good News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it",
-      "originalUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36ae3862-0423-4106-81a2-d0758d6f8bcd/50b7085b-418c-431d-8dc8-49f293d407c1/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/christians-shouldnt-fear-ai-should-partner-with-it.amp",
-      "publishedDateTime": "2023-08-20T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

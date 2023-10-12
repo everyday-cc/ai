@@ -7,7 +7,7 @@ originalUrl: "https://www.cigionline.org/articles/ai-guardrails-are-urgently-nee
 webUrl: "https://www.cigionline.org/articles/ai-guardrails-are-urgently-needed-but-thats-just-a-start/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 567
     height: 320
     isCached: true
+
+related:
+  - title: "Can AI be taught to stop straying from its ethical guardrails?"
+    excerpt: "Google, OpenAI and Anthropic want technology such as chatbots to learn from a ‘constitution’ to keep them from generating toxic content"
+    publishedDateTime: 2023-10-12T04:00:00Z
+    webUrl: "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 56
+    images:
+      - url: "https://www.irishtimes.com/resizer/z5f5z19tZhCvBxpQzfo7MQBM7aY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OD7XZHMFM5PL6B2UHHS4G6YTKQ.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UphdmlWgOnAe3jKg6XrdVALt9AV017Z9M6e9rSf1mLD88jlcoPdbvh/LSqP1vShm9uWI1mbbx52K0WxfnP/UnXbOkojWXPTGtS+QXIXCRMI951DwSuRVueDsCC10DwmPbVxIWN2H0XJV7LDRE91D/f66/GukhjkOT1ZlRd8skVVwpEy1F5PPp2eF0LUsEiaINr0DPZc95gM65J/ge0Ji9tkpF75nLM8L9xPjIJ4KCwqLlyBf5FGQ84WUip9sCOze/7yHy/uDE9S2tzYgLkFY/hAz2CsNRmUR3Uvq3ncmb6S55v0Zf1Q8waTC7/XNf0iRLnmSpxc3jBmVcgfnpTXHw+e0XWqRohSxWcGdnyl7c8o=;cu+hd23YzbMdec8Z5jwNhQ=="
 ---

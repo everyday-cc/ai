@@ -2,6 +2,40 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2023-08-15-twin-cities-selected-as-host-site-for-a-2nd-time-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Twin Cities Selected as Host Site for a 2nd Time for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
+      "excerpt": "TWIN CITIES, Minn., Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Strategic Education, Inc. in the Twin Cities. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/14/9864132.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-the-ai-engineer-myth-unicorn-or-new-normal.md",
       "title": "The AI Engineer: Myth, Unicorn, Or New Normal?",
       "excerpt": "What is an AI Engineer? What skills are required to become one? What jobs are available? Do I want to become an AI engineer? How to start learning to be an AI Engineer?",
@@ -1087,57 +1121,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food.md",
-      "title": "This AI Startup Has Saved Grocers From Tossing Millions Of Pounds Of Food",
-      "excerpt": "It means that fruits and veggies are not sitting around for nearly as long at grocers like Cub, a Minnesota chain with 100 stores, which is moving produce in and out of its stores 7% faster than before. The retailer has also seen a nice 2.5% boost in sales from improving its in-stock levels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food/",
-      "originalUrl": "https://www.forbes.com/sites/laurendebter/2023/08/14/this-ai-startup-has-saved-grocers-from-tossing-millions-of-pounds-of-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d68ed1ee3896df3c5b2603/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

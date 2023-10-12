@@ -102,6 +102,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ethics in the age of AI"
+    excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
+    publishedDateTime: 2023-10-12T06:29:00Z
+    webUrl: "https://thepeninsulaqatar.com/opinion/12/10/2023/ethics-in-the-age-of-ai"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 54
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230920_1695204350-893.jpg?1695204350"
+        width: 999
+        height: 1000
+        isCached: true
   - title: "These 7 Stocks Are Leading the AI Pack"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
     publishedDateTime: 2023-10-11T10:01:00Z
@@ -142,20 +156,6 @@ related:
       - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
         width: 640
         height: 800
-        isCached: true
-  - title: "Artificial Intelligence in the Art World"
-    excerpt: "Artificial intelligence is our creation to build and play with. Unfortunately, there are always those who seek to abuse technology for their own gain."
-    publishedDateTime: 2023-10-07T12:00:00Z
-    webUrl: "https://dailyutahchronicle.com/2023/10/07/artificial-intelligence-art-benefits/"
-    type: article
-    provider:
-      name: Daily Utah Chronicle
-      domain: dailyutahchronicle.com
-    quality: 39
-    images:
-      - url: "https://dailyutahchronicle.com/wp-content/uploads/2023/10/AI_Jones.png"
-        width: 2001
-        height: 814
         isCached: true
   - title: "The Increasing Impact of Artificial Intelligence on Energy"
     excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."

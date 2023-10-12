@@ -2,6 +2,57 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-09-21-is-it-possible-to-regulate-artificial-intelligence.md",
+      "title": "Is it possible to regulate artificial intelligence?",
+      "excerpt": "Physicist Reinhard Scholl is the founder of the UN's \"AI For Good\" programme. This aims to find and implement practical AI solutions to help achieve the UN's sustainable development goals. These include everything from ending poverty, to eradicating hunger and giving everyone access to clean water.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/business-66853057?at_ptr_name=twitter&at_link_origin=BBCNews&at_bbc_team=editorial&at_link_type=web_link&at_format=link&at_campaign_type=owned&at_link_id=6BF50DD8-5816-11EE-AB2F-B83EFE754D29",
+      "originalUrl": "https://www.bbc.com/news/business-66853057?at_ptr_name=twitter&at_link_origin=BBCNews&at_bbc_team=editorial&at_link_type=web_link&at_format=link&at_campaign_type=owned&at_link_id=6BF50DD8-5816-11EE-AB2F-B83EFE754D29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C318/production/_131144994_gettyimages-1352002665.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/business-66853057.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-66853057.amp",
+      "publishedDateTime": "2023-09-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-amazon-limits-authors-to-self-publishing-3-books-per-day-amid-flood-of-ai-garbage.md",
       "title": "Amazon Limits Authors to Self-Publishing 3 Books Per Day Amid Flood of AI Garbage",
       "excerpt": "Amazon moves to stop people from posting AI-generated books on its marketplace, though a three-books-per-day limit still seems high given how long it takes to write an actual book.",
@@ -1106,58 +1157,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment.md",
-      "title": "CBRE’s AI-Based Facilities Management Solutions Reaches 1 Billion Square Feet Of Deployment",
-      "excerpt": "CBRE's Smart FM Solutions includes a Self-service AI Playground, which is already yielding great innovation and value creation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
-      "originalUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6509bbaad13aac53da935f67/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 635,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2023/09/20/cbres-ai-based-facilities-management-solutions-reaches-1-billion-square-feet-of-deployment/amp/",
-      "publishedDateTime": "2023-09-20T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

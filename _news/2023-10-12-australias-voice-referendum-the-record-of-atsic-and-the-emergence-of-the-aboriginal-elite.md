@@ -73,6 +73,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
+    excerpt: "Standing there reading the panels, Debbie May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice."
+    publishedDateTime: 2023-10-12T07:54:00Z
+    webUrl: "https://www.aol.com/voice-why-australia-trails-zealand-145945223.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/5ebb6862fb4dc0d012e27a30708d817a"
+        width: 976
+        height: 549
+        isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
     publishedDateTime: 2023-10-10T00:36:00Z
@@ -114,6 +128,20 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 24
+  - title: "Voting on the Voice: what you can and can't do at polling places"
+    excerpt: "Australian election officials have detailed the ground rules for the Indigenous Voice to Parliament referendum on Saturday. It comes as opinion polling continues to suggest defeat for the question in Saturday's vote."
+    publishedDateTime: 2023-10-12T04:59:00Z
+    webUrl: "https://www.sbs.com.au/news/podcast-episode/voting-on-the-voice-what-you-can-and-cant-do-at-polling-places/1ecj8w9bq"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/0c7f34a/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F35%2F33%2F0985e796457980b6d162f8ca124e%2Fr2r-podcast-gfx-voting-4-sand.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "mhRmWYCFQUhFT886ST5xCFnBLEEdD/1k9FG73ecu9DG4BMABrGvwhOQqvlmvqNSAgpWRvjS7abwtnH+KtTjceonGNcMxO02Ql9vKf178EbDL8Q4WUlhFKhBg/hnFKINnve/xGqL8Jcpi08lsDsdP9kn2RBV7CfbHfi9FlhmkckQ4FzzjlcAHV94q3kcMGf1+z44FYzxCDAxsAuyYhJThlkigBUWxXcm3rlfiiR8SpityPqqCYEr5CkKe3gn7AtlBfnx0am0BE7U7/8jezeXw1DCmuc1kqCo0cbDtAEK7hejL2keQ/1EyQkzEmQSjZe3ARmv+4CUlvOJZ+/FdfIoA190d5odTLSm2ukkrELBo8YI=;lCAA7IgdgWszIgWQ/9txTg=="
 ---

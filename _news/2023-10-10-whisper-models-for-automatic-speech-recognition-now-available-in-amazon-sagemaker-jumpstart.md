@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 111
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2023/10/Achronix-logo-2-1-1023.png"
         width: 669
         height: 334
+        isCached: true
+  - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
+    excerpt: "is proud to announce its latest innovation in partnership with Myrtle.ai — an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA. This transformative solution converts spoken language to text in over 1,000 concurrent ..."
+    publishedDateTime: 2023-10-12T07:31:00Z
+    webUrl: "https://www.design-reuse.com/news/54994/achronix-fpga-powered-accelerated-automatic-speech-recognition.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
+    images:
+      - url: "https://static.designandreuse.com/news_img2/homepage54994/achronix-fpga-powered-accelerated-ASR-solution.png"
+        width: 764
+        height: 400
         isCached: true
 
 secured: "k07VuqRP+PkJlNTOFNkVC19l9qH84r9qDigJjPgumvEfVDxGFUzOZkIgcbb+ibtu3sHk74QrTR37BaL9fxdYfjsSxir0ypc17wHLokK9hrONiax9bGtQ+wkDpobXR39yBRyu2ebK4I5CCoNDgpKIIyXa3yq5U587RgxCpm/SECGWrIUiM7KjhHZuKoBk0iurU2dYXuz4E35CZS5ary8M9QakFD7jBN/ViNTsY6potKQsytZku/s+7cf0BxdO/YOS/dXCGfHUfT4UzPbBPLhrGAnOGAVn6G/RIADzLuKxb3YsvutDgWnEXa+EwxDgnR16vfBwAnoBeGXpVYDRWsYd5jE57btLBqh7udB/NJ2+QUE=;VK88bilL5MWHXmZBH1NDNQ=="

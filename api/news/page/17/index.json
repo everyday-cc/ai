@@ -199,6 +199,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-27-automated-machine-learning-automl-market-an-exclusive-study-on-upcoming-trends-and-growth-2023-2030.md",
+      "title": "Automated Machine Learning (AutoML) Market : An Exclusive Study On Upcoming Trends And Growth 2023-2030",
+      "excerpt": "Automated Machine Learning (AutoML) Market 2023 with 103 Pages Report and enhance with extents shares into sub-counties are covered in this market. Automated Machine Learning (AutoML) Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34937370/automated-machine-learning-automl-market-an-exclusive-study-on-upcoming-trends-and-growth-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34937370/automated-machine-learning-automl-market-an-exclusive-study-on-upcoming-trends-and-growth-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34937370",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34937370",
+      "publishedDateTime": "2023-09-27T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-how-ai-and-machine-learning-are-transforming-liver-disease-diagnosis-and-treatment.md",
       "title": "How AI and Machine Learning Are Transforming Liver Disease Diagnosis and Treatment",
       "excerpt": "It is based on algorithms or arrays of mathematical formulae that make up specific computational learning methods. Machine learning (ML) and deep learning (DL) use algorithms in more complex ways ...",
@@ -1004,58 +1047,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-oracles-transformation-is-clicking-cloudworld-recap.md",
-      "title": "Oracle’s Transformation Is Clicking: CloudWorld Recap",
-      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, gives his insights on Oracle over the last couple of weeks including Oracle CloudWorld.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651352a8dcb01218dd83cd9e/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/amp/",
-      "publishedDateTime": "2023-09-26T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

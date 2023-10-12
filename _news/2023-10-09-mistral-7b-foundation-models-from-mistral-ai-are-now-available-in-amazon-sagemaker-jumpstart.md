@@ -113,6 +113,20 @@ related:
         width: 669
         height: 334
         isCached: true
+  - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
+    excerpt: "is proud to announce its latest innovation in partnership with Myrtle.ai — an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA. This transformative solution converts spoken language to text in over 1,000 concurrent ..."
+    publishedDateTime: 2023-10-12T07:31:00Z
+    webUrl: "https://www.design-reuse.com/news/54994/achronix-fpga-powered-accelerated-automatic-speech-recognition.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
+    images:
+      - url: "https://static.designandreuse.com/news_img2/homepage54994/achronix-fpga-powered-accelerated-ASR-solution.png"
+        width: 764
+        height: 400
+        isCached: true
 
 secured: "IP1JX5whXARjT782QDvkpEzTiN/ventCGVeiwcKfP4UnLreTrLqcXIcYigBGa96oNWPCujYmjtC+xkdfdMvEE175wFlgSZkNhSI/98AU1XMrCFR9Bj3SMHD4BDJZivhj2f9PS5OTCZTyJZCIihoax6AfVOsLskjwBJmolWWd4LDOCw4xMgzbubJ/2XZfHp4sf9p6LOSwuUb5pBEbzrcnwae+dYytuweWC6vuzDpplGg8ve1FWTN+vRlM4xzg94VpBwE2Gp/Xq3B27ZUiSP7Jqb9ES3cGgYZCBBDyRH+6EnaGDOsN2wgwbwtO4lm4nIBjgAcwXRHgAld6Y6r2Im7xiiYYjvifrRrBPt5ESvNOUb4=;f9eCi1bS+k/heMZjjc5/2w=="
 ---

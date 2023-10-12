@@ -2,9 +2,9 @@
 category: news
 title: "IBM’s AI portfolio ‘underappreciated,’ analysts say"
 excerpt: "“The company has a defensive portfolio, attractive dividend yield and an underappreciated AI portfolio.” They noted that IBM’s watsonix was different from its “old Watson,” with a focus on enterprise AI and providing foundation models that make ..."
-publishedDateTime: 2023-10-05T20:44:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html?region=ca"
-webUrl: "https://www.proactiveinvestors.com/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html?region=ca"
+publishedDateTime: 2023-10-06T01:00:00Z
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "rqDygwR/0g9i/eAWCBpktdOChLL/xZnaDtaDSGl3wW9aQ3ViUtxo5uirN/jFhNrxaTuDwkfpC/mns3Dg6SgxTLbpdUIME2Haq2k3jTEEdZUC2eMPHuf17lgzAwkgyBQ5o2yYt/b+9yn0k5sf9XBpZBY9dYyb6bPUjsfeKYhvpLTkxForBaWI+iuhXPYNGV/aULecLVRidheCaKjPDhC0O82LAv+uxVIq5gXlnaLhJcLaxPATiWRtJPiGB5lI5Y/9c74ZZwSkoX8URcksm8ZaNJ5qdcjhC59gq5Mcp3UKNLgWbwpTPuv18Mud/U6AsQlUczBc2jckjtXBuy1DFzlOP/yVE+hYNKwQYGGmFbXVccA=;sgP/80QXO5F3VxCjeemFhQ=="
+secured: "vcOr0jzQfuX/MhEQfRQd0wRZlPiErvf2dTgok+jZY5s3bxAaAZHHnKaJ48nh9KVhU1Rb0ckxjWnMZ5R1spwsomLeHxoGK45+/akmfjJ7dr0t5bACH6GPvT4BokGB1qbeclIKDwjC4fB8Up4/lNMfdiGbHmHAxu+w10tgCxNvxY4p3bwWMaglotnFBlvK3AF2cHOmQ0LnGmDadfRU3a7vfe1LkQp1syAnFkcv2/3b6bjNDk/5Mgu6PvnfOo8aFgPOBPBhqmu6dovk9I5JLNT+R2mn/6n5r1BEut+QT0i/q+O/gr3BkA8QmG+DWJc3CzHsF0jzVGhwOe+dXzKcVfSXF722nRfiJ87y3O5/pGnWA2s=;IuvWWG7GG05RAuizDXWcww=="
 ---
 

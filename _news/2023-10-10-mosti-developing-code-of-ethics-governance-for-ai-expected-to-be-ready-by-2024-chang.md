@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Future of Work: 3 Ways Automation and AI Will Change the Job Market"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although some may feel that AI only came about in the last year, its"
-    publishedDateTime: 2023-10-07T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-work-3-ways-automation-and-ai-will-change-the-job-market-1032685963"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Artificial intelligence and the future of humanity"
     excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
     publishedDateTime: 2023-10-10T19:00:00Z

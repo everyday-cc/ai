@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Eastwall and AOG Partner to Accelerate Clinical AI Strategies through Microsoft Azure"
-excerpt: "This collaboration between Eastwall and Asher Orion Group brings clinical and technical healthcare design together, offering solutions where AI is seamlessly integrated into the clinical environment, all supported by the robustness and scalability of Microsoft Azure."
-publishedDateTime: 2023-09-28T16:40:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/09/28/9889696.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/09/28/9889696.htm"
+excerpt: "The alliance seeks to further healthcare technology services by creating a seamless bridge between AOG's specialized clinical AI strategies and Eastwall's comprehensive Microsoft Azure solutions."
+publishedDateTime: 2023-09-28T15:37:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/23/09/n34980295/eastwall-and-aog-partner-to-accelerate-clinical-ai-strategies-through-microsoft-azure"
+ampWebUrl: "https://www.benzinga.com/amp/content/34980295"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34980295"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "5q6yIqvCzxoMx4Cp6ODsv0lLMpvn9L40Cg0ijuvhFVRoZGef7C8DmRV4IAJPmW+MIn7I8UHl2VtnbC6mXnll8+1fNttkAHUtLltqy6lxoruSZriX2gvZmgOJuhQ8+hOEPoRk6oEDdVXHnzX3G4TDxAGyzcRC4/BtTtvipCDgant3EAiLngIcv3m3xdui/JtR87ET9W5OHPYhzMlCj8dYqNOLL4HRCFZQFq/3eJn9EjhCJOSloSpDsQcFIFsBeGNqkbizobtAqXwZXqLjxWvndX6ofoS9rOM24o09Jl0cCVaxnDqp4kWwJ0DmG1jJDshFKLpI9XtxPPyJ7x2paFtepNCtqe6/N7bDZAb/ot3YUsSMv1M/yGuASPzjWMnPWupGWYAOF0BSEgQRym63nShDvyRLnZGE7yhOUBDEspPtbzYcIIMwdNwgOyhQcLBuUkax1bJeNJ7+Qji8FXWXJ38c2IyLKWp/5NMjZPjzJKTV7GvU2yFQ9Lo8AASvCazkFHAcc2dzVkKv88/cZWOvF+N/ag==;PgzPd4UjHrCZMRZvWU/sUQ=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "6tfdbaXeyc6zmxqZWX6AZ5Bb1C84fciAIPibFsT3o7b1CrHMz4pNl7EwrXcwXzoCTjdKagkDhES5DvtheuZ0VKEeZHLZNZeLhVKCxM0HYVnlyquISgMX+wPsyW3fIX4HYFPY0dHgeBDw94UZnrdn1aVuFt0ZGrqicp0+MEojPhWzXnixMBRoI5SJIrdRoqaStXVs8TwblBDxqjroDF5RH15UQQxFujlGXCFITnrGlFpveUi2qfYNezkGNjtQNAafq1f+924R1khEpan4MFXSe+LK09ZhVFV3XWWMfAxG+yHWQk8xGj/ig5coIt1s9Lf8Soqj7plTwvjcpglXWxG+qjZbAwB2aQTXNlwHgQnY/dw=;v7CQ7u4jeYXCteOKH4E/yA=="
 ---
 

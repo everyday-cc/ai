@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-08-26-pharmaceutical-industry-enlists-packaging-robotics.md",
+      "title": "Pharmaceutical Industry Enlists Packaging Robotics",
+      "excerpt": "Two new packaging robotics pick-and-place systems for pharma applications use a cobot and a 6-axis robot, respectively, to load blisters and to cap primary aseptic pharma packs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcarepackaging.com/machinery-materials/automation-robotics/article/22866401/pharmaceutical-industry-enlists-packaging-robotics",
+      "originalUrl": "https://www.healthcarepackaging.com/machinery-materials/automation-robotics/article/22866401/pharmaceutical-industry-enlists-packaging-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.healthcarepackaging.com/files/base/pmmi/all/image/2023/08/ESS_Packaging_Robotics.64caf6c126cce.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcarepackaging",
+        "domain": "healthcarepackaging.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-26-10x-coders-beware-metas-new-ai-model-boosts-coding-and-debugging-for-free.md",
       "title": "10X coders beware: Meta’s new AI model boosts coding and debugging for free",
       "excerpt": "As an extension of Llama 2 (released in July ), Code Llama builds off of weights-available LLMs Meta has been developing since February. Code Llama has been specifically trained on source code data sets and can operate on various programming languages, including Python, Java, C++, PHP, TypeScript, C#, Bash scripting, and more.",
@@ -1137,49 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
-      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
-      "excerpt": "The research suggests security systems within voice recognition software, frequently used to protect people's bank accounts and other sensitive information, aren't entirely safe from would-be thieves.",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html",
-      "originalUrl": "https://madison.com/news/local/education/university/uw-madison-research-voice-recognition-security/article_5abc588e-41f3-11ee-9bce-4fa93f74193d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/5/ab/5abc588e-41f3-11ee-9bce-4fa93f74193d/64e6ae349c49c.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/arti
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Do Empathy Even Better Than Humans? Companies Are Trying It."
-    excerpt: "Artificial Intelligence is getting smart enough to express and measure empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
-    publishedDateTime: 2023-10-07T12:02:00Z
-    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-864407/social"
-        width: 607
-        height: 405
-        isCached: true
   - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
     excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
     publishedDateTime: 2023-10-08T14:01:00Z
@@ -56,29 +42,6 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/10/08/1600x900/im-864229_1696773639317_1696773702013.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
-    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
-    publishedDateTime: 2023-10-07T12:02:00Z
-    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
-  - title: "Could AI find alien life faster than humans, and would it tell us?"
-    excerpt: "Machine-learning algorithms are transforming the search for extraterrestrial intelligence, finding candidate signals faster and better than ever before, but the development of artificial general intelligence could complicate contact."
-    publishedDateTime: 2023-10-09T21:00:00Z
-    webUrl: "https://www.space.com/could-ai-find-alien-life-faster-than-humans"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 37
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gqJY6ym5VXcad6GYw8gwaa-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "PMQSN4upqYXCkNebk9yA+9LhVhf8/uWmUkjaA4Lczt+PdDXiRx7JW2njyawCUBsj43KUt9bsAX8AoLrA8CcWASJkYBLAzyRdGY1FYuKtz0QQIQR+ZCPV7wTHmpWnSn5zNG7vyKJA74/Vpfmn3no0dN4Rh1IM5SMQOo8c6dUekSZxpT9vJ3HtLrqpxkc/w/jpJFcr+8RBGB8mQVtBYcsNWNWxifwoqYqmGJ+Qzv5V+0LO0/W+AkfTc1YgkfdGuV6hNw4xMoHGrJcyx205S6Ek9K05+YIKw1yLt81CsqqhwwlYQRhr4AngjjVvEFsEmRrm1p7V1FcgJc1U2O0ktgtNXFYucq8+AmI5c3s72ErB0GY=;J3iNI6pNvKtEaxkF8al2pg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com/news/components-peripherals/nvidia-ai-chip-rel
 webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ai-chip-releases-move-to-one-year-rhythm-with-h100-successors-for-2024-2025"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 600
     height: 648
     isCached: true
+
+related:
+  - title: "4 Chip Stocks to Consider for Earnings Season. Yes, Nvidia Is One."
+    excerpt: "Semiconductor companies are heading into earnings season with artificial intelligence at the top of the agenda. Investors will be watching Nvidia, the market’s AI chip favorite, but they should also be thinking about Monolithic Power Systems, Marvell Technology, and Broadcom, according to Oppenheimer’s Rick Schafer."
+    publishedDateTime: 2023-10-11T14:30:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-554588/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "VaduSBzKJKbzY7cDVd8X0zIubd0nN9FUPej0Oe9njQt8uYlJ+Ucn+e83M7as2GQhZ0bHiQewhdLtBrbfUHhj4+QOATUWMXeasLjfKvwsObLotICUSgD6XUBkaQ5nkp9ogQCUINn4x1rpXQQJrXtLUsE0sJ2LbuFDZeAAtGsZBE/O/qwKjKHD0gm9JT87umc9a/aOWLn4s6+rObvHpRKA0Kv+sFlK6mOBEuWvlC19WYBe3zdnvd1PARZJhcC0EA2NY7VU+xu5k5sGYiHNRMz6XE5o3VNJKBctaysB24g2xOY4ifd12Ju81S7yHAHhZz6D9OFzOJcKsNJnTdeL1nAccVvVAM653hHfmSfzO/IYR22tXNFaX6Yin2+JqijpgzgqZtcbSVWeFey/ojoQ02w78slr6Vcxpyo/sO1DRkD5k2vis0MaF8xk+jDkGIMxTcVpU93nuJ0cx4iqDOPXIcPNamwt15RV6XpbmMyAPt/J+HwjOlwlXfzipu34aewEXD7vKvv3ZmlB6SUxjGUB4bqspw==;+5I3RJaNpAZ9GCl+A9988g=="
 ---

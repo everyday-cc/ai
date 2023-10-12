@@ -83,6 +83,20 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 37
+  - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
+    excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
+    publishedDateTime: 2023-10-12T04:37:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-founded-by-a-16yearold-indian-prodigy-is-now-valued-at-100-crore-nid-225863-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/cRAfb40B.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Artificial Intelligence Key to Future India-UK Trade, Says Indian Cabinet Minister"
     excerpt: "Investors have been urged to support a new state of the art artificial intelligence park which is being built in Maharashtra, India."
     publishedDateTime: 2023-10-11T11:27:00Z

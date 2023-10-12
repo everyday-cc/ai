@@ -9,8 +9,8 @@ ampWebUrl: "https://www.kvpr.org/npr-news/2023-10-09/meet-the-high-school-sport-
 cdnAmpWebUrl: "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/npr-news/2023-10-09/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers?_amp=true"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Valley Public Radio
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the high school sport that builds robots — and the next generation of engineers"
-    excerpt: "The FIRST Robotics Competition has evolved from a fascinating after-school activity to having an impact on the tech and engineering world, involving tens of thousands of teens across the globe."
-    publishedDateTime: 2023-10-07T15:02:00Z
-    webUrl: "https://www.iowapublicradio.org/news-from-npr/2023-10-07/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
-    type: article
-    provider:
-      name: Iowa Public Radio
-      domain: iowapublicradio.org
-    quality: 32
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/32d4c00/2147483647/strip/true/crop/2997x1573+0+212/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2023%2F10%2F04%2Fmleong_scioly_20230831_slide-1fc39305d8ab464d47b44d973eec5ba99454c852.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meet the high school sport that builds robots — and the next generation of engineers"
     excerpt: "gamesmanship and intelligence — both human and artificial. Local engineering and IT professionals volunteer as mentors, but older students also teach their younger teammates. Team 299 Valkyrie Robotics of Cupertino, Calif., tend to their robot in the pit ..."
     publishedDateTime: 2023-10-11T21:05:00Z

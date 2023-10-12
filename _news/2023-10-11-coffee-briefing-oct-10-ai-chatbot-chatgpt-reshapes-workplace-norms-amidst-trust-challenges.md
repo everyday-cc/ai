@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 805
         isCached: true
-  - title: "It’s ‘War’—CEO Of ChatGPT Developer OpenAI And AI Pioneer Issues Stark Bitcoin Warning Amid Crypto Price Swings"
-    excerpt: "Sam Altman, the chief executive of ChatGPT developer OpenAI and artificial intelligence (AI) pioneer, has warned the U.S. government is waging \"war\" on crypto and wants to \"control\""
-    publishedDateTime: 2023-10-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6492c93c9243df4befb3466b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
     excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
     publishedDateTime: 2023-10-10T11:00:00Z

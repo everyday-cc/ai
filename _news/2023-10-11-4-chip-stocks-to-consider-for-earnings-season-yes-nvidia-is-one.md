@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-semicondu
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "How NVIDIA became a major player in robotics"
-    excerpt: "This February, the company noted, “A million developers across the globe are now using the Nvidia Jetson platform for edge AI and robotics to build innovative ... It’s not exactly right, but I don’t have to start from zero. It’s giving me 70%."
-    publishedDateTime: 2023-10-07T12:56:00Z
-    webUrl: "https://techcrunch.com/2023/10/07/how-nvidia-became-a-major-player-in-robotics/"
+  - title: "Nvidia AI Chip Releases Move To ‘One-Year Rhythm’ With H100 Successors For 2024, 2025"
+    excerpt: "Nvidia says in a new road map that it plans to move its AI chip releases to a yearly cadence, starting with successors to the H100 and L40S in 2024."
+    publishedDateTime: 2023-10-11T15:53:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/nvidia-ai-chip-releases-move-to-one-year-rhythm-with-h100-successors-for-2024-2025"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
+      name: CRN
+      domain: crn.com
+    quality: 47
+    images:
+      - url: "https://www.crn.com/resources/0286-1930b1435b5a-63f7caf55b76-1000/gracehopper_20231011115105.jpg.jpeg"
+        width: 600
+        height: 648
+        isCached: true
 
 secured: "ZXLO2vVSqjYBmdlCmEiZPL2sCBJS/Vqb2YvbEFiyh2PWEZU3pZO6vJeYQ3ZXJmrfDVIKxY6rfmOQAnoDChF2gdCGoJTk1prB+KjNdFIFP6SheJL6n3PRK0gIFVffOZqb6idUuXlZF/ef3JgjoK9HmqXvaIH0XWesCemoSxQ1MVYAnq6LjAm9sBj6yaSXN+L7hhSqV0dx2spis3IyBj3k0RTtueqYwHdUKTTmgdcy0DjH5P/5RfCDgvAwA5Hq8luIc0yVyvPuA9ogggDzoAMap50lBvekDft4sbGW/VPSAGFyDbBySx6NenBmwCHaoOS+GKsZNsZUgQnEVZaNUJXIZG3MCpT1owzzLULLJ3C2EOY=;qSFCGizd9JiKjk//CPvnag=="
 ---

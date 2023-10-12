@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/most-people-the-support-nee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-people-the-support-need-for-trustworthy-and-regulated-ai/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

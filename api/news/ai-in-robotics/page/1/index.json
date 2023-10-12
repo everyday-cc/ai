@@ -97,49 +97,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-09-meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers.md",
-      "title": "Meet the high school sport that builds robots — and the next generation of engineers",
-      "excerpt": "The FIRST Robotics Competition has evolved from a fascinating after-school activity to having an impact on the tech and engineering world, involving tens of thousands of teens across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvpr.org/npr-news/2023-10-09/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers",
-      "originalUrl": "https://www.kvpr.org/npr-news/2023-10-09/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/c737267/2147483647/strip/true/crop/1536x864+0+80/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2Fd3%2Fd661ebbf4320a0502c1e323716d8%2F092623-caste-bill-hunger-strike-mg-01.png",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvpr.org/npr-news/2023-10-09/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers?_amp=true",
-      "cdnAmpWebUrl": "https://www-kvpr-org.cdn.ampproject.org/c/s/www.kvpr.org/npr-news/2023-10-09/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers?_amp=true",
-      "publishedDateTime": "2023-10-09T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Valley Public Radio",
-        "domain": "kvpr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-09-the-best-october-prime-day-robot-vacuum-deals-happening-now.md",
       "title": "The best October Prime Day robot vacuum deals happening now",
       "excerpt": "Amazon's Prime Early Access Sale is almost over, so don't miss the best Prime Day robot vacuum deals to shop today.",
@@ -1349,6 +1306,49 @@
         "name": "Hartford Business",
         "domain": "hartfordbusiness.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-02-3-robotics-stocks-set-to-explode-higher.md",
+      "title": "3 Robotics Stocks Set to Explode Higher",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The AI boom has been nothing short of remarkable, with companies like OpenAI",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-set-to-explode-higher-1032668473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

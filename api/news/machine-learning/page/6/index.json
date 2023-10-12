@@ -2,6 +2,42 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-15-enterprise-security-leaders-see-ai-and-machine-learning-as-the-biggest-near-term-cyberthreats-isg-study-finds.md",
+      "title": "Enterprise Security Leaders See AI and Machine Learning as the Biggest Near-Term Cyberthreats, ISG Study Finds",
+      "excerpt": "Global enterprise leaders see emerging AI and machine learning technologies as the biggest looming threat to cybersecurity, and are focusing future cyber investments on detection and prevention rather than remediation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-enterprise-security-leaders-see-ai-machine-learning-as-/2023/08/15/9864941.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-nutanix-simplifies-adoption-of-generative-ai-with-new-gpt-in-a-box-solution.md",
       "title": "Nutanix Simplifies Adoption of Generative AI with New GPT-in-a-Box Solution",
       "excerpt": "Nutanix (NASDAQ: NTNX), a leader in hybrid multi-cloud computing, today announced the Nutanix GPT-in-a-Box™ solution for customers l",
@@ -1312,50 +1348,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction.md",
-      "title": "How can Multimodal Machine Learning ensure positive digital yield extraction",
-      "excerpt": "Artificial intelligence (AI) induced digital revolution seems to be ascertaining how futuristic global technological progress will happen. With machine learning (ML) models considered important for it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "originalUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/Image-credit-Freepik-2023-08-06T233356.340.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/blockchain-how-can-multimodal-machine-learning-ensure-positive-digital-yield-extraction-3201814/lite/",
-      "publishedDateTime": "2023-08-06T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

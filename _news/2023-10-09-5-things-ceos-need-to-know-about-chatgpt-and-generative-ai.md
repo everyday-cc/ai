@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-nee
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "It’s ‘War’—CEO Of ChatGPT Developer OpenAI And AI Pioneer Issues Stark Bitcoin Warning Amid Crypto Price Swings"
-    excerpt: "Sam Altman, the chief executive of ChatGPT developer OpenAI and artificial intelligence (AI) pioneer, has warned the U.S. government is waging \"war\" on crypto and wants to \"control\""
-    publishedDateTime: 2023-10-07T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/10/07/its-war-ceo-of-chatgpt-developer-openai-and-ai-pioneer-issues-stark-bitcoin-warning-amid-crypto-price-swings/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6492c93c9243df4befb3466b/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Coffee Briefing Oct. 10 – AI chatbot ChatGPT reshapes workplace norms amidst trust challenges:..."
     excerpt: "Coffee Briefings are timely deliveries of the latest ITWC headlines, interviews, and podcasts. Today’s Coffee Briefing is delivered by IT World Canada’s editorial team! Missed last week’s Coffee Briefing?"
     publishedDateTime: 2023-10-11T00:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.space.com/could-ai-find-alien-life-faster-than-humans"
 webUrl: "https://www.space.com/could-ai-find-alien-life-faster-than-humans"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,61 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI Do Empathy Even Better Than Humans? Companies Are Trying It."
-    excerpt: "Artificial Intelligence is getting smart enough to express and measure empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
-    publishedDateTime: 2023-10-07T12:02:00Z
-    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2?mod=hp_lista_pos2"
+  - title: "How AlphaFold and other AI tools could help us prepare for the next pandemic"
+    excerpt: "Langya hasn’t been linked to any deaths yet. But it is related to some deadly viruses, so researchers were keen to develop vaccines. There was just one problem: a viral protein that could form the basis of a jab seemed impossible to make in the lab."
+    publishedDateTime: 2023-10-11T15:46:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-03201-4"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: Nature
+      domain: nature.com
+    quality: 34
     images:
-      - url: "https://images.wsj.net/im-864407/social"
-        width: 607
-        height: 405
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03201-4/d41586-023-03201-4_26150484.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Artificial Empathy: A Human Construct Borrowed by AI"
-    excerpt: "Within this complexity, we find empathy at a curious crossroads with artificial intelligence (AI). The incongruous idea of machine-driven empathy beckons examination. Is AI capable of 'borrowing' what fundamentally defines human social experience?"
-    publishedDateTime: 2023-10-08T16:23:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/artificial-empathy-a-human-construct-borrowed-by-ai?amp"
+  - title: "Could AI communicate with aliens better than we could?"
+    excerpt: "Machine-learning algorithms being used to better understand the communication of dolphins could form the basis for understanding aliens  —  if we ever find them."
+    publishedDateTime: 2023-10-11T19:00:00Z
+    webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-10/EmpathyEye.jpg?itok=pkjnVcC7"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
-    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
-    publishedDateTime: 2023-10-08T14:01:00Z
-    webUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai-11696773635780.html"
-    ampWebUrl: "https://www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai/amp-11696773635780.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/artificial-empathy-is-coming-are-we-ready-for-emotions-from-ai/amp-11696773635780.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/08/1600x900/im-864229_1696773639317_1696773702013.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Artificial Empathy Is Coming. Are We Ready for Emotions From AI?"
-    excerpt: "Artificial Intelligence is getting smart enough to express and measure human empathy. Here’s how the new technology could change healthcare, customer service—and your performance review"
-    publishedDateTime: 2023-10-07T12:02:00Z
-    webUrl: "https://www.wsj.com/tech/ai/ai-empathy-business-applications-technology-fc41aea2"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 49
+      name: Space.com
+      domain: space.com
+    quality: 17
 
 secured: "6MwddgNsWlyTC4TvMMxAgAHJTCrn14xrl01nlzzt3uU/mJjXYp2rQzkP9PSuatIacyaWhEoubP2hMDsu6pUQZtxYuMM+Son9gYKpnUgjeAurCYj0Y3ftnOV20MtqwmRYDTZiJ6LHBlYwcUxC3T6MKNblz69uXwiBqeQjTJ9oXhNvv7UuFz1OAqkEB9D0ut4zGitwE+H0RBbwWkECigbJ0phcHu0a5LHBjItwJxMhOn6nUnC2nIRGUQ1d8bAMRupq8Zhcd/C03WzqiUUEKkCJcPct8Dr3eTHx1xWQXfguMsZHJYGDmsRhST/vtkLC6ViVkWPoC5CA17Urhe51W1+RZQDDu+5xF9HkS/oJPuXToyNHDpyGPnK3W4SVUVX9I2wYoqnbogVOwf93eqdDmo5F4KK4e9AQuReTmL3Jz6UeKtQrevJ8LiaWgttSKctOeFGr5qHa5vvHG8XGEj/aHiR2AiZbdjOUt9lTH1vrr2k0qAGYS4FkGJPvcxMSFFfCH0wNOqs19cNHERunEZH0cC4kfA==;AR7P+xCBjKTqEBNrLBSPLQ=="
 ---

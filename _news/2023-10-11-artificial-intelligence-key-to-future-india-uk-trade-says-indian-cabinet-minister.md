@@ -97,6 +97,20 @@ related:
         width: 800
         height: 580
         isCached: true
+  - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
+    excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
+    publishedDateTime: 2023-10-12T04:37:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-founded-by-a-16yearold-indian-prodigy-is-now-valued-at-100-crore-nid-225863-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/cRAfb40B.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "ZJ/DFETH6Mlin6Y5n//1PxWhhO4dvyhZVwCelZTTtzJ611DddFYzVjt2GJ4Fxs+P+qzMtjuIPohQenEIkquu5LJw15SIIWUxqqG1bwwZGZcBC840Hen0gpjnTRirQ5GKfc3dBnF/SeAOaYqhJiN2MRgHyQ3z+LHvFaYP/CzHIGgFazkVlqitywPFDp4mborO/Jzjauec/pi78gT4D3ZXzvW+N7Agp06lnlWVv2BRW4S5kV05W7CAoi5aOI7lgZVTsHK3izN7pdyYhb3t99vXKqyszAdgtXka4pBJnkg6LcJZQ/L9vaCdha+RjiBvU9pJRbgaH4SWOhWKxj+lzlJkSkx7iApF4MU5u5FOPm3RyE0=;kehyAZ338woaR+x/amLbaw=="
 ---

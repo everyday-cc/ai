@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-10-09-openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages.md",
-      "title": "OpenAI is reportedly developing its own chips to combat GPU shortages",
-      "excerpt": "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/3/93662_859_openai-is-creportedly-considering-developing-its-own-chips-to-combat-gpu-shortages_full.png",
-          "width": 1500,
-          "height": 842,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-09-the-synergy-between-uem-and-medical-device-risk-management.md",
       "title": "The synergy between UEM and medical device risk management",
       "excerpt": "Unified Endpoint Management (UEM) and medical device risk management have deep synergies. When a healthcare organization develops a risk management framework, cybersecurity is a must. \nThe post The synergy between UEM and medical device risk management appeared first on IBM Blog.\n",
@@ -191,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1225,6 +1182,57 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.md",
+      "title": "The Valuation Reckoning: When AI Startup Darlings Hit Stratospheric Levels",
+      "excerpt": "It's been a wild year for AI companies – in the public market, where stocks like Nvidia have skyrocketed, but even more so in the private markets, where one in every four dollars invested in a startup is going to an AI-related company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
+      "originalUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107313066-16966232146ED2-TC-Weekly-100623.jpg?v=1696626139&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Future of Work: 3 Ways Automation and AI Will Change the Job Market"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Although some may feel that AI only came about in the last year, its"
-    publishedDateTime: 2023-10-07T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-future-of-work-3-ways-automation-and-ai-will-change-the-job-market-1032685963"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
     excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
     publishedDateTime: 2023-10-10T16:58:00Z

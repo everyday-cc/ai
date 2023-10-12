@@ -7,7 +7,7 @@ originalUrl: "https://www.dmnews.com/elevating-ai-with-custom-chip-technology/"
 webUrl: "https://www.dmnews.com/elevating-ai-with-custom-chip-technology/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1000
     height: 523
     isCached: true
+
+related:
+  - title: "Generative AI-based Translation Technology from memoQ"
+    excerpt: "Q invites users to express their interest by signing up on the waitlist to try memoQ AGT, memoQ’s AI-based translation technology, with all the productivity benefits."
+    publishedDateTime: 2023-10-12T07:00:00Z
+    webUrl: "https://slator.com/generative-ai-based-translation-technology-from-memoq/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "NbSH+vTS2KxMNF6pKhaUTIQnEa8odVsktz0GqTvgFcPhxaO3wjODSE8D9FWawgusWSjbSUiUXQNaaLHP+fC2xtDuR8tCuGNNRB4+JIS+PPkTNaT9wtTfv+s9mstf1AAkI94HNq67iosTm6+aAAcL+OCAyr7gEsTISIOW+f1mjqWV/PxF3kebAHCymL9kUkpt9LvbxlwIFivHlO0ZkW6qjyul3QNc/x5AuGvrvPvzamiFBv/1KrzIxCgb/CP53PuK2LBI2VFiIUOs0QbIkXwBArT/bBUc1u58yxHH26t5RQMx8XkTQ2HzmgvJNE8VbQNjIttUhNmWy/JbAWIAU1XBzO1biCYat4TGtsA11EPaHO/J2r8dKh0TO0pAoC5BG49iwtCbSWsWYv2H73rXlchHurbBqhtzum7IUDFWDYe6KmIYU/06Hapd5dsWd1PoQYPPZmXqYYq066Q2fxMa52CGI3Y4od7jGRvyuu04x7U4VSKKvHxcjCtqbhzGDLza24hNV66ubzQdsNCF0RSIAYiRCQ==;nr+fDxZ8IoT1PX1ZdUrWPQ=="
 ---

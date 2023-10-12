@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Computer vision's next breakthrough"
-excerpt: "The first computer vision use cases in the 1950s analyzed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition ..."
-publishedDateTime: 2023-09-25T17:47:00Z
-originalUrl: "https://www.infoworld.com/article/3706989/computer-visions-next-breakthrough.html"
-webUrl: "https://www.infoworld.com/article/3706989/computer-visions-next-breakthrough.html"
-ampWebUrl: "https://www.infoworld.com/article/3706989/computer-visions-next-breakthrough.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706989/computer-visions-next-breakthrough.amp.html"
+excerpt: "The first computer vision use cases in the 1950s analysed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition ..."
+publishedDateTime: 2023-09-26T00:00:00Z
+originalUrl: "https://www.arnnet.com.au/article/708899/computer-vision-next-breakthrough/"
+webUrl: "https://www.arnnet.com.au/article/708899/computer-vision-next-breakthrough/"
 type: article
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/article/2019/02/industry_4-0_industrial_iot_engineer_virtual_interface_smart_factory_automation_robotics_by_metamorworks_gettyimages-858527414_2400x1600-100788453-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 800
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/computer_1.jpg"
+    width: 504
+    height: 315
     isCached: true
 
-secured: "k96HXAjOGHQLSvijwYzmHDcPu4r3dH9s4cc8Tat1P3RHcetjTwWZjpF+30GU+NkAd9fhqqeycbIXu9M8d91CwKF0n66W2hN5uM4AtYTRRJCImZwac8VIfyxN2EWEbcVpwZswp7Kw2uTOUNzNzKFlGT0G76oouu7wY0UQf8X70Ut2993DhG5CfjhPZKSsXqUjvR50jTrTlEPXZRcrHxTwqkPGdoV4F+YdtrQkNcmAusUwRKkNJsEzrXgoyYgzDQn3U/kvkvFQr2Rwpv0MhWLLbBbLqWOkHcW/Ne6k0oGgbiVI1KQ7dev60bv+Zc/ZWq8x2yXTdYggeQDzZplgB2OJVgiNcBooYZxg6LInQZuc5IQ=;7aKqEtdMd8HC32GC8m3olA=="
+secured: "Khuj9nlatI5TSGMoK7MEeuddwBnneFGql9m43Ku8Eog3+ESIA1VThuWiO+GF+YGD6aNkfCKlsuHiug82N9R1QJFHMaZtHrTIZHdous84a75haE7cdJipzeaoI+rKSgs5EMUWdc/Q/ufdp1QUzRVQ+kbSp9RBGi2R1Q+k0zHqeq+cV2hEnqJeJu+hsF7MssccCbCGYXCRtlx6i7J38CMqOYU6Lz1i+t6BtthfBk5svKWK6KEYSI4Qqc0XYWbbMZ72GdO/cyE7J5grXxKiPkxqVO8c4ubUys+ssdGLuywLWvAQSNOaK2IbVUXGy8YSZAim1Om+ZIrNYWr2Oh4yI2ryVfjXeS2n0x28xhPJWVKOD00=;FPoGq7M1TlRVQq3NojSRYw=="
 ---
 
