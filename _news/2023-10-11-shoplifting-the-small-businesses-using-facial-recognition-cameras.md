@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Researchers deploy virtual reality, AI to combat shoplifters"
-    excerpt: "As major retailers, like Target, plan to close some of their stores due to retail theft, a group of researchers in Central Florida is trying to help corporations outsmart thieves."
-    publishedDateTime: 2023-10-11T02:00:00Z
-    webUrl: "https://www.clickorlando.com/news/investigators/2023/10/10/researchers-deploy-virtual-reality-ai-to-combat-shoplifters/"
-    type: article
-    provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/10-10-2023/t_fda065905c2b4c45a78c27ca861847b7_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "ZfB0QM0XoRfpRqmvKERDVJuSSTK18dAd1WR9KqyopMzRSh9iJbdhBHln6kJLo+ofU02cm4mzCShL/WkGp/DBjeBKMV4ETS2TyFeC9AImYzNbqi/VV5dE3fniIlJdhao3KsbAevTzhfMFXnsHhaMexZ2FcauaW3gh3KOYj5NAlgM7XLQPHhXf8sArxkqGNHG0SdjvwkUwThi7WPPtf3WG/sTS9dFQfZR7cwPnSwNJHC5vdL+uWD4i4BxrkR9IKrtXGVhRSNc0s6XIgzUpCVwEA76gg+TOp3fYLOML8n5rwgQQREM7XhKu/+6jluDLBWRuPu5wr15U6tuYvtVwxfVlLxz5LJvZEkf9cP8uIPEoogYhrK7OA4qhpwMXYdO9/brgxnZQ6s03sP9e/TDogUsA2cc/IKPMeaIEgPseSPlB+HGzUCfTAfcF7+jUvUddlOwOhu7HBaCcBQEamjbJAgKWkyecmRMp+yIOtEZas7RVjQNmGJ0LUu6eZR6vf00qPH0myGTLXIyOVb4mxD4AElPdyA==;ydL54axQiJrsqmaFm1xkBQ=="
 ---

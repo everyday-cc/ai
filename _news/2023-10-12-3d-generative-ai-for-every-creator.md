@@ -139,6 +139,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "3 critical considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-10-12T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/10/12/critical-considerations-generative-ai-campus/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 19
   - title: "How Can Local Governments Safely Use Generative AI?"
     excerpt: "A new task force formed by MetroLab is seeking to explore this question, doing so by including more than 45 local governments, alongside other public, academic and private-sector members."
     publishedDateTime: 2023-10-11T19:34:00Z

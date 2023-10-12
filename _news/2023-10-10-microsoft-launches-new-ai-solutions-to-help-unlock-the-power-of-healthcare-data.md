@@ -48,6 +48,22 @@ related:
         width: 1352
         height: 900
         isCached: true
+  - title: "Microsoft Introduces Generative AI Tools To Boost Creativity"
+    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at some of the creative elements that Microsoft debuted at Microsoft's September event."
+    publishedDateTime: 2023-10-10T16:14:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652577426e83e29fecffd856/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Are Microsoft and OpenAI making moves to enter the AI chip market?"
     excerpt: "A new report from Reuters outlined OpenAI's plans to begin providing its own AI chips and secure its share of the lucrative AI chip market. While"
     publishedDateTime: 2023-10-08T13:46:00Z

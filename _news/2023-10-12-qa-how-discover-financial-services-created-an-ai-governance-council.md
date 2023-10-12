@@ -8,7 +8,7 @@ webUrl: "https://www.computerworld.com/article/3708629/how-discover-financial-se
 ampWebUrl: "https://www.computerworld.com/article/3708629/how-discover-financial-services-created-ai-governance-council.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708629/how-discover-financial-services-created-ai-governance-council.amp.html"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_1739491604-100947060-large.jpg?auto=webp&quality=85,70"
@@ -92,6 +93,6 @@ related:
         height: 683
         isCached: true
 
-secured: "7NTYHDgDjexIorcrGOAPnvvof/IPYwUzbQ1B9MdqYM50y+XrbJ0tULGigjUN3FjRmZz/00HvEZ9vBW07GSYkbxeQIwt/WceVeuNhulBXrxKxaUx5efz7lF5pIChCpeYKJWIyVYTvdoXN8yJkGNWAmOu0EgmIINWpy+V1+UPDntgRo/HtnBc7nqyb/+BwWlNWI50ztPH8IJgK9WhN/tbfmAACfFqGJlQr681f1/GCqSg8QnL+HG8eJwGwD96WXuilygZrbTHc4VVWB1heGLXkiHtufq9n4ZQJS7zK2rNWuLpagfEaXI6bfQV01gt4MxrIBJaNf/pbouSsJPQ7x1iw9Y01+dLfu4xmyQYXdm441Wg=;XqIULGTYlbG+0VEQXpushA=="
+secured: "VJOgasnLMMRfDcJn3sUS1lnEVv4fJ2aChRVoj+jbg8x/q3i+C6kTBZD/FhrLcU2K0p2PpUEThdzsngNnsdsBH1sm7+IM26q1NpleJOT+zmUxJoxngEj0qPK6JSNwdkkFBZ27yBAYCONVGITDS8ATdH0J9pS+6ar+HsP1oYgzxLIl55RqP9Gq2TcCzcZkPk0KUYrFFhb0Qp0JeY+vpIdrGMZXCuOAvgDsUXUvSlUFAG09Cf5JAXz42+8BaDJZVya30HDxHMzUpzCtqCP4ZYZQ+c5ScO9tk93oo+oZF5CfUltyBbqg3YmZ3rC4ZbRRu2/3A8SNAUeXSddEmQEOW64OfPvh86w6vG4g78xEDIcMq2tJgt76OZhFIJjHYGOfh8qJkEOujlXG9IimRSqVKOjO9tzJ+Fllz9UwroyGAgoTAZUfn0pl2BzHH9Ao4dw5zD/2lbBJBHk/847dkWYUKeBvqsqqaGqZ0T2AhLbaXvCEcbxAA9NMAnqPfHGILaKRbEUd57PSMnAn2D53a01X0R3e3g==;o75tkHii9SS+nXOVVjHCOA=="
 ---
 

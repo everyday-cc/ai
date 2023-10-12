@@ -2,19 +2,17 @@
 category: news
 title: "Voice to Parliament referendum 2023: Everything you need to know"
 excerpt: "Saturday’s referendum day will mark the close of a long-winded chapter of polarised debate over Indigenous rights in Australia."
-publishedDateTime: 2023-10-12T04:17:00Z
-originalUrl: "https://www.news.com.au/national/politics/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
-webUrl: "https://www.news.com.au/national/politics/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
-ampWebUrl: "https://www.news.com.au/national/politics/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3?amp"
-cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3?amp"
+publishedDateTime: 2023-10-12T14:45:00Z
+originalUrl: "https://www.theaustralian.com.au/breaking-news/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
+webUrl: "https://www.theaustralian.com.au/breaking-news/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Couriermail
-  domain: news.com.au
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
   - Natural Language Processing
@@ -70,6 +68,6 @@ related:
         height: 372
         isCached: true
 
-secured: "pv7fgU1YtK6w4SSFPQo+Q48VDAcMGn/wgC15jGsHaBVOL00IyVu/R/sUBl1SsiqPt9Q1P5VnWOXy6B60a/oZeYnddxmzz9lL+fipgapkPwPFAnCfeLkk2yL5qaHKRxpTMRxyzsGmx0o+fv0ZEIOCfZvrEqlWm69a5FF/WgRT0tBvmv+Qmt4n6TXlQImVZqoCnKuMh2meR/262j+gpVBkgWdsrqxQPphoDv4z5zBEfj01Oe+fQUPmhY8p6PZjy0UwxqldVluFBfCd7jUjJDncVSuqE8FP3VloXHT+5NJlznuKa3nF5FdTwiJ2wsZ+afaWn4HoUItGrP5K7vz/wK6TO9Vn0aM/YrPAqVBQgxeJCr0uou+alLibeBdQeNQb5q+VtztQ9UkuXlveqlVScx7HiTElj5NF5TWadThiEJlus//EF3loEMl5Ru1aam9Nj7mk13wlEqbNFTRyan7SDdGJUwURIL1Y0PpPsZszOPwZknr1vqkHHX9Ir/gqM2I+AGANqyQ7Yp4hDk7gBNKLDa176g==;5+YkaqUCSDQ9p2yfQh4S+A=="
+secured: "Ca9wKAEeATjWiYjVb1HEBAqTNvrQpg/ZJeFIwT2lpEA5a2bqAbPWR7HDUjkrnd1VG+03pniuzvXxomCv+4DCNJshm1ucjW+pa7OehSv3D/63pIV7QSGkVYpsfRVOc4yqr3In0gX40dLE/xybcBjjIHwHqjlnsKTDp2DEKHOEcCJD+5fYBxTvW7qPSIlJafq6yjnPDGkDYCmMt1ghfUI234HeMkZ6r0KUeDnYSI2AA7ww/QK8JIV09LcK3HRew9wGRd2e6RMlIkaqG0k7WxbHU0/tELBNDgBLWDsNdWk6+VdPirkqHfnTjKXTHFF738bdXN3rS4G03XI/+pKhXybhQsYOydtWaFm7LPCu8/0+Lyep33olKGWKT2vdRLR/hZF5piDsEBbUvU10LY5whsVPFvIqiu1n+Ma7cd7mJjvlkWVkzafTOj0yUpYocuTAu81/9d3eGHKubJ5Vhb9yiNaIc/lWtrvqu9ANCu/Tq48TC6tMCCIIQwB19qdKhTxsRonOhspPiEA0ylC7olZwHoPGUQ==;IhmRerbLFsHCPieSamNA5A=="
 ---
 

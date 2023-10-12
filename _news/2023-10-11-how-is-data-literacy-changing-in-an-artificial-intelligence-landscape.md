@@ -84,6 +84,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "How BharatPe is Harnessing Generative AI for the Future of Finance"
+    excerpt: "BharatPe’s AI and analytics team, comprising 30 professionals, including 10 specialised in AI and ML, is pivotal in the organisation, contributing significantly to innovation and data-driven decision-making, involving close cooperation with data engineers, scientists, and domain experts, ensuring technical excellence aligns with business goals."
+    publishedDateTime: 2023-10-09T12:15:00Z
+    webUrl: "https://analyticsindiamag.com/how-bharatpe-is-harnessing-generative-ai-for-the-future-of-finance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
 
 secured: "T8RFe4bPPe4b+km7g3aYl8LjUQVZLyoyLb8bxk0WcNilx10hFixc5ZaW6ufwIL2NJ9Nw0KLkB3nNaylczK0MLVW0SYJSb9I4UbSTEpUP2m3yuGh+M4rDCRdwtwHTBBX98PZ0sKFcvBnLNLCpcylay5SkfzPUQrQwc/XfUvrs4bHzUpQEpVyinwZKzOlOdaRQIAz1uw6I09q7iZPHzW+EikuUAS3mUD5n/tdk6Kr4KJhdojGkPun0ZDup/P/qYXi2Fbe+hB5c9aRDNIH4vDlL5vRAvRBLRZq3JNarmZER3RCqsPBicnJ8nEiU+jMLjp807pjR0ixwBEpwnq4kvSRPd2YUPkZ2xe22us/m2Yar4MK9IHSF/tFmTtq5QmKgTdZg6HxUXMnyUhs+DRN4dcPL00kGvmw4zI6xbHF9FtMDCFA26CPexTuzsTieckcozo1SwSG9TpUn0JpbjEwJqwlAKVa+eH3Zw+BBSFy2Cbv6SFXS1NvUHSFX6W/UwUvfq0B8UY/0Ud2+3G6DFwMvzr2Q5A==;yXsPcQPhome0iZlpiTKPxw=="
 ---

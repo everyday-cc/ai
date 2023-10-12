@@ -7,7 +7,7 @@ originalUrl: "https://www.earth.com/news/ai-can-design-and-build-walking-robots-
 webUrl: "https://www.earth.com/news/ai-can-design-and-build-walking-robots-in-seconds/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Designs Little Robots in 30 Seconds and They Keep Sprouting Legs"
+    excerpt: "“When only large companies, governments and large academic institutions have enough computational power [to design with artificial intelligence], it really limits the diversity of the questions being asked,” Kriegman says. “Increasing the accessibility of these tools is something that’s really exciting.”"
+    publishedDateTime: 2023-10-12T12:55:00Z
+    webUrl: "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/"
+    ampWebUrl: "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 74
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/FC675300-E120-4F74-991B2B0DFC5A9F8D.jpg"
+        width: 790
+        height: 496
+        isCached: true
   - title: "Have You Seen This? AI designs functioning robot in seconds"
     excerpt: "EVANSTON, Illinois — Researchers at Northwestern University have developed a first-of-its-kind artificial intelligence program that can design functioning robots from scratch in a matter of seconds. To do this, the research team prompted the program to ..."
     publishedDateTime: 2023-10-11T21:31:00Z

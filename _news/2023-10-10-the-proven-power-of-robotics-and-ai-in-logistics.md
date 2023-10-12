@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/october-2023/proven-powe
 webUrl: "https://www.automation.com/en-us/articles/october-2023/proven-power-robotics-ai-logistics"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Unleashing the power of robotics to unlock the future of automation"
+    excerpt: "In today’s rapidly evolving business landscape, manufacturers are navigating a complex terrain fraught with challenges such as labour shortages, an expanding skills gap, and intense global competition."
+    publishedDateTime: 2023-10-09T10:40:00Z
+    webUrl: "https://www.controlengeurope.com/article/200733/Unleashing-the-power-of-robotics-to-unlock-the-future-of-automation.aspx"
+    type: article
+    provider:
+      name: IML Group
+      domain: controlengeurope.com
+    quality: 54
+    images:
+      - url: "https://www.controlengeurope.com/global/showimage/Article/214472/"
+        width: 600
+        height: 390
+        isCached: true
   - title: "The Ethics of AI in Political Creative"
     excerpt: "As the industry awaits guidance for where the compliance boundaries lie with AI, practitioners will have to decide what’s acceptable for now."
     publishedDateTime: 2023-10-09T20:30:00Z

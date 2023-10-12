@@ -41,6 +41,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "4 ways pragmatic AI can drive profitable services growth"
+    excerpt: "Pragmatic AI targets real-world, current business problems with measurable outcomes rather than aspirational or flashy use cases."
+    publishedDateTime: 2023-10-12T12:40:00Z
+    webUrl: "https://venturebeat.com/business/4-ways-pragmatic-ai-can-drive-profitable-services-growth/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "7dljG96obQO5tCLGFYIWhdy3cvnV5uo47D/WCakD3M8yN1PdsTTMFgQ+RDyw3tsTu03+cQ4ZZ9UnjRo+WfJocOOUFnT69gVJ0gOV8y0qF7x+KTpH/UmFuFW3nnmSiorJJb/D81VocsKZX4uqKZFRWyd6OdgefkQ/YmsGmwaa9MM+97RqYQkIViut5HeGE2ov2Rw4bG6MwvMjKZCBbN7ir+5o2y9W4mLQHGmEOqJtEKC7yUBGuB2oi7A1d8SI7YcEAfyEVPy01/oQlDtlnipbFzJ0QdU0YnoCKuAFdGytClm18PGro1TkMfCTGCa2JB7F0nC3yKL0tWg4FL3gBE18OwzIUZ/Wkv024iJlPWmosoyWUe3nddHyNDICKqrmOwMn8RQ3pqm6GOi+UPIsI3zSn8F0iaBjiDhjk5d3KLvjRyP/wnAsA0RqCpe1M5x3PtlealmtBCXc0YdTgA9cZ8BteZ7IdPnvny1OKw8nGdptFV47ZZQlmd9AfLguob3p3PcaNgX8BuEdNejdKWzAAHcE8A==;sCp+awVPzttF728FHyILNw=="
 ---

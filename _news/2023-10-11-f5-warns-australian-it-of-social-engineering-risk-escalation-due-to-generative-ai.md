@@ -65,6 +65,24 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 11
+  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
+    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
+    publishedDateTime: 2023-10-12T13:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
+    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
+    publishedDateTime: 2023-10-12T12:05:00Z
+    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "4efE7617Q8eup0f2MNF3TShv7DyxKPOuDXmRpyQ0+SfBSw5vRfrYGE3+fYbPj4otR/xVwns+E6vYzeyY14NNBzi3a1tu8eGi5W74GGbgRHYLLihOm3RE7x2uU8WHr6+/kqweHiEjChjJzF2dThER2/l5DKMvNX1zVJ5T45NPJZ3NUAWUNaWbBMeLuhSHblkd0oYc2dxxYb/lqZ4PPJUvbqO4CBQeJ7nNYGrUmxCiXIX4l4RPxp133WWtbaNPuEbJ4MDcGOk44pTFKY1neGKnd48bENARmuIoc4AiYM5EdmT5qK/gJ0s3TVK1u54cDrLpo/Wx3JdsC+L57VhEFv/9T7RReB3oQ4uTrrVCRhQAQob/ZtiMnF6KMCFcePDfibXMKr5FM474K5SKRacSzb50xDJac0HcFcgixoJ8lCyLNXMNEXw9e2SeDmmNVwt3StyCAbOJh/sKacaEEU/tajd2Qv/sTxEGMuDvJ/ubEOfpEY0+pE2T+qLFBomUazIyqcsAZZkY54AuwVEuDHwsY/KAQA==;m5kxpoxJWkoD3BNS6RzaBQ=="
 ---

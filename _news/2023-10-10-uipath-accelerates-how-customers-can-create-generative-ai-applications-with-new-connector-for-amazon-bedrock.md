@@ -69,6 +69,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "While ChatGPT stokes fears of mass layoffs, new jobs are being spawned to review AI"
+    excerpt: "Mesh AI, a digital transformation-focused consulting firm, says that human feedback can help AI models learn mistakes they make through trial and error. “With this approach organizations can automate analysis and tracking of their regulatory commitments,” Michael Chalmers, CEO at Mesh AI, told CNBC via email."
+    publishedDateTime: 2023-10-12T13:09:00Z
+    webUrl: "https://www.cnbc.com/2023/10/12/chatgpt-new-jobs-side-hustles-reviewing-ai-are-being-spawned.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 41
   - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
     excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
     publishedDateTime: 2023-10-10T11:00:00Z
@@ -97,6 +106,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI and ChatGPT are transforming how we learn and work"
+    excerpt: "The acronym stands for chat generative pre-trained transformer. Walker says ChatGPT is one of an expanding number of publicly available artificial intelligence (AI) text generators that rely upon algorithms to scan the web for answers to user-generated questions."
+    publishedDateTime: 2023-10-12T12:55:00Z
+    webUrl: "https://www.seattletimes.com/sponsored/how-ai-and-chatgpt-are-transforming-how-we-learn-and-work/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "Ada Introduces Generative Actions, Enabling AI-Powered Customer Service Chatbots to Actually Resolve Customer's Issues Without Human Intervention"
     excerpt: "Ada's Generative Actions technology can pull data from trusted business systems such as a CRM or order management system, for example, to personalize its response and take action to assist the customer. In fact, with Generative Actions, Ada anticipates chatbots will outperform a human agent in terms of speed and accuracy."
     publishedDateTime: 2023-10-11T14:16:00Z

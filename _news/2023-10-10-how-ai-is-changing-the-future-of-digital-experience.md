@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How BharatPe is Harnessing Generative AI for the Future of Finance"
+    excerpt: "BharatPe’s AI and analytics team, comprising 30 professionals, including 10 specialised in AI and ML, is pivotal in the organisation, contributing significantly to innovation and data-driven decision-making, involving close cooperation with data engineers, scientists, and domain experts, ensuring technical excellence aligns with business goals."
+    publishedDateTime: 2023-10-09T12:15:00Z
+    webUrl: "https://analyticsindiamag.com/how-bharatpe-is-harnessing-generative-ai-for-the-future-of-finance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 34
 
 secured: "dIT7llVEiNZt1U9S04RgARn0dZ88GofyUEGThlw110J3jmZS7VK00GEbdkdi+smjY7NDckvbk27bjPp4LwVEiKMCowv70cOLAbfJ3/CzObPtA8HmupBzgL4+dirKexQsgmVf7HsKOVCJrqHwHrcPRSeCUF7HrV8a3YVU53eJQ31FQNcusuw7FSWpUPWPCGD2hJvm0K/H/zy7F59wpfoD7pzkjbWfqQuGetSSIs/ZafD7F++9ceBOPmL6ssF2FXiCWljmeox6LAu4EDBq2reXPBGw8r+vVEFq43sB8ndTIrNpVmTGapPsONCWDnP2xVadJlsEpXIavMXRSxTYC0qfPzYYy1DqKkK0Qn9sU4r2Aoo=;dy5z3aqNAPuJm3DQ1rahEw=="
 ---

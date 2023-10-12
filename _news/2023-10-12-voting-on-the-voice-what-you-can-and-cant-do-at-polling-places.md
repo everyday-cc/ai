@@ -144,6 +144,20 @@ related:
       name: Voice of America
       domain: voanews.com
     quality: 24
+  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
+    excerpt: "When announcing his plan to hold a referendum in March, Mr Albanese said the Voice would enshrine \"recognition\" that Australians \"share this great island continent with the world's oldest continuous culture\". \"Our nation's birth certificate should ..."
+    publishedDateTime: 2023-10-12T15:44:00Z
+    webUrl: "https://www.aol.com/news/voice-referendum-australias-voice-parliament-150649043.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/0f9a98c041f5fc27109c8cb19dfb70e2"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
     excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
     publishedDateTime: 2023-10-12T03:38:00Z

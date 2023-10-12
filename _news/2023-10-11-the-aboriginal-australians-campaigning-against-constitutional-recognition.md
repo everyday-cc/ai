@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price
 webUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html"
 type: article
 quality: 68
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -66,6 +66,24 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 11
+  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
+    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
+    publishedDateTime: 2023-10-12T13:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
+    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
+    publishedDateTime: 2023-10-12T12:05:00Z
+    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "EXObSzGiw/IabXOLOUCBiVxj+/YWlDVpvEII7rIWK2gCjh4YNFDwGEEeN4l+Dp+BcM7lu+2evGJ/P0jq9OOrcET1kgR64Wv5hf/cekLtg8kts96rheufOlhHDJbxpzCZ2ZfqTx2vBqM5N7MyTLswJkDH/bpBVCPz/ff2e9GUYanuHbkbf6sCrO3/klIUUDD8+DDxNyXnJt5ue+d7wRnsh/0UPcmUvzhdc8PnYBvy30G5ukaMzzP2+/fTx7FqCH0Y40ueXb5uys0nbIk80QzzrOgSi6ib5oAogMMMEcrKtUC9tT05tJt3Aw2SehYXdHSjQzu5ptGu6gxPxufPmwbxJnsHalFvmLaICrW6H9o4Gadh2CcxiNSkfs/lTcJlwU6UggAQfD2vZMQE2B5zCfpdsy0ouHRQaLRnkEcaKkFmrSxxkghAm9PKXuKKzMo5d6oQUBZFOw61x44v/c8hfOuKiBII03IPgDJK8s5rdeOK/2UFl/0/2JBgjh9dDVyZDNGSgtUvBTsA4Jf+vVTXBZKSSA==;9PZCwhfA8dSuhPOMw+OG/A=="
 ---

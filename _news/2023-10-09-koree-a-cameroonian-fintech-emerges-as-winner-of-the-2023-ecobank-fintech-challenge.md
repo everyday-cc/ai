@@ -74,6 +74,15 @@ related:
       name: BusinessGhana
       domain: businessghana.com
     quality: 12
+  - title: "Koree, a Cameroonian Fintech emerges as winner of the 2023 Ecobank Fintech Challenge"
+    excerpt: "Koree from Cameroon is the competition’s first-ever female-led fintech winner having beaten eight other finalists to claim the top prize of US$50,000"
+    publishedDateTime: 2023-10-12T13:46:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Koree-a-Cameroonian-Fintech-emerges-as-winner-of-the-2023-Ecobank-Fintech-Challenge-1861001"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 12
 
 secured: "hU5NPeFlqqwbYObxmEJ0r7zVKc/R2HasderVmBGarmM9iufSmwqsNmGTrXxjKzFCzp3LP6aoRr4HhxheGPbfxADKKk/MV8BKrBq45otAS/3hzRN8Wg6ZgXhKHoJUg2c7nieXkhAtzUvqlk3Jvu6qx/r5dc4RjL5RoR3hSe20HVBvtjAWClxlX0ZVP7f5XKC/8kzuv1CLtjloseTCiE2SORq8dLYjShItF07Rs5SpGhzFLlQysoAOM+Rn937gSpqWUQCptszxG4Pg2PSyBktyLUE4EKLzc8i+RI54zZtV2SuFyjoBhRPkS+AI3fFrB1KxGBpdkB2XChH7qYKPyC99nOORylfPFSD6nEzGYJtWuyc=;pRY3FwMj2ClWHMK3xgQlrg=="
 ---

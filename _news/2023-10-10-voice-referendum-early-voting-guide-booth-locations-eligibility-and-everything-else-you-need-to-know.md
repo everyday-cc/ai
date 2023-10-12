@@ -65,15 +65,13 @@ related:
         isCached: true
   - title: "Voice to Parliament referendum 2023: Everything you need to know"
     excerpt: "Saturday’s referendum day will mark the close of a long-winded chapter of polarised debate over Indigenous rights in Australia."
-    publishedDateTime: 2023-10-12T04:17:00Z
-    webUrl: "https://www.news.com.au/national/politics/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
-    ampWebUrl: "https://www.news.com.au/national/politics/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3?amp"
+    publishedDateTime: 2023-10-12T14:45:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "I1Wn4BTyerHGehRnB6Uc3pxoowAkR+/HOPHU02c3HaahXCC9wzLDSk+e+A81myopbfSnry3iKjxkROkYdiv7mXjnYN4F7po6HhRVoHgCDdqmxpxg3d+ZPVS8k7eOUdirPP+otLNXVLQ6Caghrs7xZcXDayuysIu03N1hmlOvsgdjDLm6yXaTBxoVslaW/zcdzyrnAv1VIzVA1fDBDhWl4nmsld21Q4CHGrOJ7P+NclS6h4hs+iG/lRWFwmkr0asQCjsjPBBaj5XJZfbWUFoM7dcTMhwnRLzdzhVZkOE1fkMV2tdgYnq8WIBTSmrbZf/rAClV04jq3tlwOI+1Ah03pi5yzeSPIUTWCl79gI/GIy1k1ohCPNEQUowmCAIh/+enwjnW2aotM0958dTfehVc1ovEaVF6lU4lhnIcVjAhocKNrXpVLiDlHrE72LsdP5FRiBFT/TJlMIo0dOsJL8wQczwKtCdl2InwM4MBB38MY60nQ+XVXPo4u2uXlNJ4bsMSFJQgZSzmErssNaN7adriQw==;IvUo0l+U+/QF6YyParCgUQ=="
 ---

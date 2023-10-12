@@ -131,6 +131,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "3 critical considerations for generative AI on campus"
+    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
+    publishedDateTime: 2023-10-12T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/10/12/critical-considerations-generative-ai-campus/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 19
   - title: "3D Generative AI for Every Creator"
     excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
     publishedDateTime: 2023-10-11T18:06:00Z

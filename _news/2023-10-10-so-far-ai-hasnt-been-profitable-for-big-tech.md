@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/so-far-ai-has
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "4 ways pragmatic AI can drive profitable services growth"
+    excerpt: "Pragmatic AI targets real-world, current business problems with measurable outcomes rather than aspirational or flashy use cases."
+    publishedDateTime: 2023-10-12T12:40:00Z
+    webUrl: "https://venturebeat.com/business/4-ways-pragmatic-ai-can-drive-profitable-services-growth/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "How invisible tech and AI are working for Domino's"
     excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
     publishedDateTime: 2023-10-10T10:03:00Z

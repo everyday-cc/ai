@@ -37,6 +37,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Lidia Thorpe walks back unexpected call on Voice referendum"
+    excerpt: "Lidia Thorpe says she’d support a legislated Voice to Parliament despite being one of the referendum’s most outspoken opponents."
+    publishedDateTime: 2023-10-12T15:39:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/lidia-thorpes-unexpected-call-on-voice-referendum/news-story/f4610e9d47fd7f3020d70325984a8fdc"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
   - title: "Lidia Thorpe’s unexpected call on Voice referendum"
     excerpt: "Lidia Thorpe says she’d support a legislated Voice to Parliament despite being one of the referendum’s most outspoken opponents."
     publishedDateTime: 2023-10-11T22:36:00Z

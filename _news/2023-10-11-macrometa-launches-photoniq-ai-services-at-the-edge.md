@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Macrometa Launches PhotonIQ, AI Services at the Edge"
-excerpt: "Managed Solutions Improve Site Performance and Origin Offload, and Deliver Privacy-Preserving User Experiences PALO ALTO, Calif., Oct. /PRNewswire/ -- Macrometa, a leading provider of a global edge cloud,"
-publishedDateTime: 2023-10-10T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/n35167652/macrometa-launches-photoniq-ai-services-at-the-edge"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/n35167652/macrometa-launches-photoniq-ai-services-at-the-edge"
-ampWebUrl: "https://www.benzinga.com/amp/content/35167652"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35167652"
+excerpt: "PALO ALTO, Calif., Oct. 10, 2023 /PRNewswire/ -- Macrometa, a leading provider of a global edge cloud, today announced the launch of PhotonIQ, a suite of edge services designed to deliver faster, more efficient and more secure digital experiences in eCommerce, Gaming, Financial Services, and more."
+publishedDateTime: 2023-10-10T17:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/10/9896121.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/10/9896121.htm"
 type: article
-quality: 59
-heat: 59
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
+  - url: "https://mma.prnewswire.com/media/2216852/PhotonIQ_by_Macrometa.jpg"
+    width: 400
+    height: 271
     isCached: true
 
-secured: "4ellS8eA2FN40BKdXkKs/j3QM7vQn2lmJ7et9q0CF333NF5w711YGKRGchZlXkUxdgKCNpDfYzgCIJFKybCEDCvoJeE0+McTwnisepcJp8TboNXrIV9BLySQMQnahNSjMT1qvcA6Tc+52T73reXGBXxBdcqkkZTQYDMNeJW8lD+9dmt5OQ0nKtu3ThT04TUR2+Gf59Kk1XC8dBsWeTIb06D+3qr41pvFcNJWx5dOWst/+RnmpKcfzX6D5oflVGzvk+Vkk+YQutXzf2CDH7FRj8aN0QRlv9udU4SY+2geq9sJJkCdZ4S2Fd2Fy0Q8Prg0C3wf5Za1z820D4FbGYMlcitU+6fj8Czbv5MhtTDtJPw=;8T1fOXvEWaSZceS6k6ynVw=="
+secured: "d3pnNcGuXD/nUFtgi/QNdec2ILwzQ7i9qLR2/M3LWnbo4FLiDSeBkCwa/maiVXuxGSRkk4ah27/e99L9FPC9hhWMi9ykXFxABrJQIv8VCrQdM/XsBCIVwqgAfuvZkJ9U/rnhpOiO5OoiXt9p8prMp3Hh93/XzMpWS+KTkSIAYKHlDDWHidcr6jUY+CCCoYK5bA3y0GeSLwKIyiox/AsRSGqAUPOr8Z5klTf5wogDTS6LfoGRTdw3i2PtOE/iL/Nn4EDjuRtGPwyANL6ODWt+RPjLObm8ldnRoFsTolcQmL9x8VXcQd+maQ3VWR5LYHrvwlZhf5PSqPzi5YJS9BQdgxHBM38gSAHE4YryiVEcoBQ=;ONy7NY5wBlXU3JSlrR8vSQ=="
 ---
 

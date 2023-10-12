@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
 webUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/158FD/production/_131371388_49592245-55fa-43e3-b328-c35793e8b641.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Researchers deploy virtual reality, AI to combat shoplifters"
-    excerpt: "As major retailers, like Target, plan to close some of their stores due to retail theft, a group of researchers in Central Florida is trying to help corporations outsmart thieves."
-    publishedDateTime: 2023-10-11T02:00:00Z
-    webUrl: "https://www.clickorlando.com/news/investigators/2023/10/10/researchers-deploy-virtual-reality-ai-to-combat-shoplifters/"
-    type: article
-    provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/10-10-2023/t_fda065905c2b4c45a78c27ca861847b7_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "a62RxRIZyuR4L+xnbfvlItJFZMKnUq1xIm4UuasRtgBtG7zIAtlLidn3VA8HCzia5tnhQ5f2TQRHR7YUzqxufmLqQqfwkDCmJFz4Oo0KaTg2QHYJDiWEJBOe6uzQExa4Ni8Q+sZNiqBKARpnIu0waCXyEcec+PUmMq/SwjP5KXpuVt8eS3gi4wvynnvWynEeUGC43RhpXxZbK9cUDAV02l5pzutSxo8FoSkdGlFSdQJoJp1Y7U732dJYB9kVXPm508ULO0g6mxThXYuC4ABUi3r7VqYDp+cQUUpwVcS44k3b3cSodkBYDsyN6rrgp2B7378F20EDTvkfFQlrtcJ2inrzm889rvgCOYU8+HRGQvALV/GwJV35CdLN/Y8pRq4Wl7cpX9kinFjHXgBFxLYE3bLhJDN3PZYlRmvrhC5o94NL4Miwa18+orhhb/km9LT9snyUT+cnbK/MRG9eJCchmrRVe03qgHWvZbXuKdBZkzuObrC1CEiFnN9Ntnefrmy40izC0CHONwh4jgTjAB8jLg==;3pQTIRS788OfDsK/CQCvUw=="

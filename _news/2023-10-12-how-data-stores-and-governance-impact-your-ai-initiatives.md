@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-you
 webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
 type: article
 quality: 119
-heat: 169
+heat: 171
 published: true
 
 provider:
@@ -39,7 +39,7 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_1739491604-100947060-large.jpg?auto=webp&quality=85,70"
         width: 1199

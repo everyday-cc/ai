@@ -7,7 +7,7 @@ originalUrl: "https://realtybiznews.com/ai-chat-tools-revolutionize-real-estate-
 webUrl: "https://realtybiznews.com/ai-chat-tools-revolutionize-real-estate-industry-blends-new-chat-tool-leads-the-way/98779663/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Revolutionizes Gaming and Online Casino Experiences"
-    excerpt: "Explore the revolutionizing impact of AI in industries with a focus on gaming and online casinos, offering a thrilling, optimized user experience."
-    publishedDateTime: 2023-10-10T14:20:00Z
-    webUrl: "https://www.westislandblog.com/artificial-intelligence-revolutionizes-gaming-and-online-casino-experiences/"
+  - title: "Generative AI In Industrials"
+    excerpt: "Those in the industrial sector that are fully cogent in their generative AI investments have an opportunity to gain a real advantage."
+    publishedDateTime: 2023-10-12T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/generative-ai-in-industrials/"
     type: article
     provider:
-      name: West
-      domain: westislandblog.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "I8Nqyf8xIGqMYnubdm3GkVUa+CSreOFbcnUAJUAdJpSDFc/IldLLpwa0Y3xZqiM+wd3xg+Ih5cfL2VVM6FgQc8ighbK/PZoJYidOtVHtbwFjdNehnmRh7dVBFjTvm5mszZdDOGTSXm1FyiRVP4p01a88sOHcXC0lgnM0o0oGfpZzQtIpx8eGf2HfXuKIQPshSpt3kGokK0IxjHFEE9zV/HT84XVS9Z4fbehHERUf9DKllV9xfMVnnbFQKF3I7f1/QzO/Qp2Jb3a/N5mIFqzI2LhJnKhW15ugPrUUtKpVF0AyNAyGhtSLh/s31Vr6qpiDs8rabSh1dguKAZmB4P3vLyK4CmLlhdJ7ti9BiJXUydg=;GO3pt1peRdQo6ODF/vt4Zg=="
 ---

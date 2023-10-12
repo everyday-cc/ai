@@ -62,6 +62,24 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 11
+  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
+    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
+    publishedDateTime: 2023-10-12T13:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
+    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
+    publishedDateTime: 2023-10-12T12:05:00Z
+    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "LXlmDcpFBl+rT6rBJ3IQYApeS9UzJ7oHEYUAV0XZ4afhbqs0URV3tsydXeom2Wozr1P/JZ4kXpkGnyPtu3kyTtM6gJCh9/Ru3oGr+8mcqoIe6g3zolH3p1nqjR1UHql6P23ST28gv5DWnGu5+J3BxEs8k5UmgTXjkaYcQbk1q1FtV+/As7DI2+qxUxzoMRkohy1Mxv5qeejGYEYU/WAc88xJnpRCX+bpFpimu3yiW4gKZTALsGpKZeESNGHElLO6GeuFloFj6Mn0stY8YHC+gtigus+SFNq21Qngl5rs3tAYlwI00AUvWHXNEBEPVrHbhxlRQYkbMVEyDU+tBo022a+No/jskAKoY2oe2tSaPTY=;GLIV3+YlEZEDiNZKB7Chtw=="
 ---

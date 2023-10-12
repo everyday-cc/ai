@@ -1,0 +1,89 @@
+---
+category: news
+title: "Koree, a Cameroonian Fintech emerges as winner of the 2023 Ecobank Fintech Challenge"
+excerpt: "Koree from Cameroon is the competition’s first-ever female-led fintech winner having beaten eight other finalists to claim the top prize of US$50,000"
+publishedDateTime: 2023-10-12T13:46:00Z
+originalUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Koree-a-Cameroonian-Fintech-emerges-as-winner-of-the-2023-Ecobank-Fintech-Challenge-1861001"
+webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Koree-a-Cameroonian-Fintech-emerges-as-winner-of-the-2023-Ecobank-Fintech-Challenge-1861001"
+type: article
+quality: 12
+heat: -1
+published: false
+
+provider:
+  name: Ghanaweb.com
+  domain: ghanaweb.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "Koree, a Cameroonian company emerges as winner of 2023 Ecobank Fintech Challenge"
+    excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge."
+    publishedDateTime: 2023-10-10T08:44:00Z
+    webUrl: "https://www.myjoyonline.com/koree-a-cameroonian-company-emerges-as-winner-of-2023-ecobank-fintech-challenge/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 34
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2023/10/Koree-wins-2023-Ecobank-fintech.jpg"
+        width: 1760
+        height: 1200
+        isCached: true
+  - title: "Cameroonian firm wins African Fintech Challenge"
+    excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge. The announcement was made by a distinguished panel of judges during the competition’s Grand Finale at the bank’s headquarters at the Pan African Centre in Lomé,"
+    publishedDateTime: 2023-10-09T13:34:00Z
+    webUrl: "https://www.premiumtimesng.com/news/top-news/632077-cameroonian-firm-wins-african-fintech-challenge.html"
+    type: article
+    provider:
+      name: Premium Times
+      domain: premiumtimesng.com
+    quality: 24
+    images:
+      - url: "https://media.premiumtimesng.com/wp-content/files/2017/10/Laptops.jpg"
+        width: 1492
+        height: 840
+        isCached: true
+  - title: "Cameroonian Fintech Emerges as Winner of 2023 Ecobank Challenge"
+    excerpt: "Koree from Cameroon is the Ecobank Fintech Challenge competition’s first ever female-led fintech winner having beaten eight other finalists"
+    publishedDateTime: 2023-10-10T14:12:00Z
+    webUrl: "https://www.itnewsafrica.com/2023/10/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge/"
+    type: article
+    provider:
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 19
+  - title: "Cameroon’s Koree wins Ecobank Fintech Challenge"
+    excerpt: "Koree, a fintech company based in Cameroon, has been declared the overall winner of the 2023 Ecobank Fintech Challenge at the competition’s grande finale held at the bank’s headquarters in Lome, Togo."
+    publishedDateTime: 2023-10-10T09:22:00Z
+    webUrl: "https://it-online.co.za/2023/10/10/cameroons-koree-wins-ecobank-fintech-challenge/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
+  - title: "Koree, a Cameroonian Fintech Emerges as Winner of the 2023 Ecobank Fintech Challenge"
+    excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge. The announcement was made by a distinguished panel of judges during the competition’s Grand Finale at the bank’s headquarters at the Pan African Centre in Lomé, Togo."
+    publishedDateTime: 2023-10-09T12:13:00Z
+    webUrl: "https://www.myjoyonline.com/koree-a-cameroonian-fintech-emerges-as-winner-of-the-2023-ecobank-fintech-challenge/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 12
+  - title: "Koree, a Cameroonian Fintech Emerges as Winner of the 2023 Ecobank Fintech Challenge"
+    excerpt: "Koree from Cameroon is the competition’s first ever female-led fintech winner having beaten eight other finalists to claim the top"
+    publishedDateTime: 2023-10-10T12:20:00Z
+    webUrl: "https://www.businessghana.com/site/news/Business/295213/Koree,-a-Cameroonian-Fintech-Emerges-as-Winner-of-the-2023-Ecobank-Fintech-Challenge"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 12
+
+secured: "Jr8t0Lov5E6LNYNnCuS3/lD3KCvHTF8qmsfpiI5x+EASVS7K2i79scXWyI8lxJeyV7NyPjVFZu8yiBXIfA61PaxYpGphpBJgtSRCuqR23z0Wndb1Nk2RHjfE+xiaiu8oigA+/8Q2P9CsAEYqjNnD8EGgXv83SeB/mG8LgnT1xt/4Zi38Lf60kQhq3968E3l0hGduc02eGp+Kd2F4AOou4x4Qy0/iN9m7foJzYfCRbB0BeL2j//CBCvFpN1ZTtklSVYY3WsNU58X8KL+HcdnYarWM7MhasczjfMU/Mgrl29opiJR5sAZxbMx2PLGDIFpmqMKG9yJKRgx6/JejV57zkJxrNUxHaYsk0KRP6wSdLVypNipuVyFZUwSt8dP0WTl53eeGxcLOrvHDX+gduU8wUyikq1tAv0yNwqXex7YXPh9Ne+PYWmYWgeCuaX+rSVShz3cuvpG8NxGQeaFhLJjd8zFuhkv7MNtMR3to4hOZCYJ9zkOUuclrR7Hg7JPoE4XZJr4Ycb69towzMHXbMu8K0Q==;VHV4NrfZe3rZI0ZTVLeA9w=="
+---
+

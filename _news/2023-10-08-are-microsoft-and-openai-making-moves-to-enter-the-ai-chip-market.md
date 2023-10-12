@@ -62,6 +62,22 @@ related:
         width: 1276
         height: 900
         isCached: true
+  - title: "Microsoft Introduces Generative AI Tools To Boost Creativity"
+    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at some of the creative elements that Microsoft debuted at Microsoft's September event."
+    publishedDateTime: 2023-10-10T16:14:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652577426e83e29fecffd856/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Microsoft to debut its first AI chip next month to reduce reliance on Nvidia"
     excerpt: "Tech giant Microsoft is likely to unveil its first artificial intelligence (AI) chip next month, according to a report by The Information."
     publishedDateTime: 2023-10-08T10:48:00Z
