@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-07-machine-learning-and-neural-networks-in-the-fintech-industry-sergey-kondratenko.md",
+      "title": "Machine Learning And Neural Networks In The Fintech Industry – Sergey Kondratenko",
+      "excerpt": "According to fintech expert Sergey Kondratenko, thanks to machine learning, financial organisations can quickly, reliably and accurately solve a wide range of problems related to the processing, analysis and interpretation of data.",
+      "sourceUrl": null,
+      "webUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
+      "originalUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
+      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
+      "publishedDateTime": "2023-10-06T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRound",
+        "domain": "techround.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists.md",
+      "title": "Getty Images built a “socially responsible” AI tool that rewards artists",
+      "excerpt": "Rather than crawling the web for data to feed its AI model, Getty's tool is trained exclusively on images that Getty owns the rights to, Peters said. The tool was created out of rising demand from Getty Images customers who want access to AI generators that don't carry copyright risks. Peters explained:",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1704492074-800x542.jpg",
+          "width": 800,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/amp/",
+      "publishedDateTime": "2023-10-06T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-what-new-business-models-will-ai-create-next.md",
       "title": "What New Business Models Will AI Create Next?",
       "excerpt": "How to thrive in the new AI business world. AI is likely to generate many disruptive business models. How to thrive? How to survive?",
@@ -157,10 +252,10 @@
     {
       "path": "_news/2023-10-06-3-machine-learning-stocks-ready-to-make-a-move-higher.md",
       "title": "3 Machine Learning Stocks Ready to Make a Move Higher",
-      "excerpt": "The post 3 Machine Learning Stocks Ready to Make a Move Higher appeared first on InvestorPlace.",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent weeks, there have been many discussions about artificial",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -173,9 +268,18 @@
       "publishedDateTime": "2023-10-06T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -184,9 +288,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1087,101 +1190,6 @@
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform.md",
-      "title": "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform",
-      "excerpt": "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2015/11/Money-in-Wallet-100.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/213919-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform/amp/",
-      "publishedDateTime": "2023-10-05T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-us-poised-to-tighten-restrictions-on-chip-equipment-exports-to-china.md",
-      "title": "US poised to tighten restrictions on chip equipment exports to China",
-      "excerpt": "A rule aimed at restricting exports of U.S. chipmaking equipment to China is in the final stages of review, suggesting the Biden administration is tightening restrictions on Beijing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china",
-      "originalUrl": "https://www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ff1dabb-f8ec-406c-972e-29251d2057db/f3ac9eb9-6f96-4c13-8122-59dfc62ad99a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china.amp",
-      "publishedDateTime": "2023-10-05T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

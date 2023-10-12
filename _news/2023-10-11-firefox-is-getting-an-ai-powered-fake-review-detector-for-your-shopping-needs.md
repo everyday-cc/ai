@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-po
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

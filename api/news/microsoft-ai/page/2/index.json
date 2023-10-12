@@ -1112,40 +1112,6 @@
       ]
     },
     {
-      "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
-      "excerpt": "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue growth, and enable business transformation Generative AI has opened new avenues of AI applications and key enterprise functions across industries,",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1348674&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1348674&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-26-infosys-partners-with-microsoft-to-drive-enterprise-generative-ai-adoption.md",
       "title": "Infosys Partners with Microsoft to Drive Enterprise Generative AI Adoption",
       "excerpt": "Indian IT and consulting firm, Infosys announced its partnership with Microsoft aimed at accelerating the widespread adoption of generative AI across various industries.",
@@ -1252,6 +1218,49 @@
       "provider": {
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
+      "excerpt": "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue growth, and enable business transformation Infosys (NSE,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infosys.com/newsroom/press-releases/2023/collaborates-accelerate-democratize-generative-ai.html",
+      "originalUrl": "https://www.infosys.com/newsroom/press-releases/2023/collaborates-accelerate-democratize-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/images/calendar.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosys",
+        "domain": "infosys.com",
         "images": null,
         "publishers": null,
         "authors": null

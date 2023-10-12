@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-12-opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator.md",
+      "title": "OpenText Delivers Broad AI Orchestration Capabilities for the Enterprise with Aviator",
+      "excerpt": "OpenText unveiled a broad expansion of its enterprise-class Aviator platform with new AI capabilities spanning business and technology needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6527422f48ebd112c83fa429/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
+      "publishedDateTime": "2023-10-11T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-amazons-bold-move-demolishing-towers-for-ai-dominance.md",
+      "title": "Amazon's Bold Move: Demolishing Towers For AI Dominance",
+      "excerpt": "Matt Shumer, the founder of Otherside AI, told the Financial Times last week that AI has profoundly changed the role of software engineers. His team now focuses on defining the problem, designing structure, and then directing AI to do all of the heavy lifting. Otherside is capable of doing much more with far fewer coders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65273dcbe0b481b15f1f6525/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
+      "publishedDateTime": "2023-10-11T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-ai-ethics-usage-study-takes-place.md",
       "title": "AI ethics & usage study takes place",
       "excerpt": "Artificial Intelligence. It's a tool of the future, but it's here today. How do we reign in something so new that most people don't understand it yet?",
@@ -10,7 +112,7 @@
       "originalUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -45,58 +147,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-12-opentext-aviator-lets-ai-fly-across-expansive-enterprise-software-portfolio.md",
-      "title": "OpenText Aviator lets AI fly across expansive enterprise software portfolio",
-      "excerpt": "The new OpenText Aviator effort is launching today as a set of AI capabilities in the OpenText Cloud Editions (CE) 23.4 release.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/opentext-aviator-lets-ai-fly-across-expansive-enterprise-software-portfolio/",
-      "originalUrl": "https://venturebeat.com/ai/opentext-aviator-lets-ai-fly-across-expansive-enterprise-software-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/opentext-ai-8-780x470-1.jpg?w=1200&strip=all",
-          "width": 780,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-12-box-launches-ai-focused-hubs-for-curated-search.md",
       "title": "Box launches AI-focused Hubs for curated search",
       "excerpt": "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More How do employees find the information they need to do their job? And how can companies present the right information that employees need to find?",
@@ -105,7 +155,7 @@
       "originalUrl": "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -565,7 +615,7 @@
       "originalUrl": "https://www.zdnet.com/article/firefox-is-getting-an-ai-powered-fake-review-detector-for-your-shopping-needs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1197,49 +1247,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-deep-learning-explained-unraveling-the-magic-behind-neural-networks.md",
-      "title": "Deep learning explained: Unraveling the magic behind neural networks",
-      "excerpt": "Explained: Are we alone in the universe? Explained: Why are mathematicians obsessed with prime numbers? Dive into the world of deep learning and discover the inner workings of neural networks, the driving force behind modern AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/articleshow/103929376.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/articleshow/103929376.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-103929347,width-1280,height-720,resizemode-4/103929347.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
-      "publishedDateTime": "2023-10-11T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

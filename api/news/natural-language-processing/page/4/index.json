@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-09-07-paradigm-shift-in-natural-language-processing.md",
-      "title": "Paradigm shift in natural language processing",
-      "excerpt": "In recent years, similar methods that reformulate a natural language processing (NLP) task as another one has achieved great success and gained increasing attention in the community. After the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1000840",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1000840",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d6bbf00d-7771-48bf-8486-11a2d1294fae/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-07-healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-growth-in-future.md",
       "title": "Healthcare Natural Language Processing Market Size and Trend Analysis 2023-2030| Poised for Strong Growth in Future",
       "excerpt": "The \"Healthcare Natural Language Processing Market\" 2023 report conducts a comprehensive analysis of the diverse array of factors that impact market drivers, industry development, and future ...",
@@ -1382,6 +1339,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-harnessing-ai-for-market-research-opportunities-and-challenges.md",
+      "title": "Harnessing AI For Market Research: Opportunities And Challenges",
+      "excerpt": "Sophisticated natural language processing algorithms ... insights within proper business context to translate findings into strategic recommendations. • Proactively validate findings by triangulating AI output with both quantitative metrics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ee4143b3c813b9ed4af6bb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/30/harnessing-ai-for-market-research-opportunities-and-challenges/amp/",
+      "publishedDateTime": "2023-08-30T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curate
 webUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/"
 type: article
 quality: 67
-heat: 98
+heat: 97
 published: true
 
 provider:

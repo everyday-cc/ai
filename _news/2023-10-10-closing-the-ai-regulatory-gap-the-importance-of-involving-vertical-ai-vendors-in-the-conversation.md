@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/closing-the-ai-regulatory-gap-the-importance-of-involving-vertical-ai-vendors-in-the-conversation/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "5 ways AI could influence nursing in the coming years"
-    excerpt: "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future."
-    publishedDateTime: 2023-10-07T08:19:00Z
-    webUrl: "https://kvia.com/news/us-world/stacker-news/2023/10/07/5-ways-ai-could-influence-nursing-in-the-coming-years/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 39
-    images:
-      - url: "https://kvia.b-cdn.net/2023/10/NurseAI01CoverJAU3_0.png"
-        width: 1080
-        height: 770
-        isCached: true
 
 secured: "QdVqcKyoqJ/TE5u/0XhsWUIifX3VPLvNjGXnwBOQLTdBY/B+RBaGOYUO619vBQLc/eKA1/FQ9uhN7f5I7y0eQasfGYvNHXbY9DzXk3sgccXJSAvbXXknGG9w/ocy47XEelg7flIvUoN4wh1B8/VLpiR+3qm6zAvrPiTcF5W1+d5AE6ZJZwy5mebBMKYsg7d2hVizuvRsQ8O7PETHXBZzrRwPVjOUcFySSHNGY8K0BWfEhie+vZMr/D+cFMIUanD5dEUEjXI9BKyAs5wAdearuAUbU97sbrq8I3ZCTy4DCpBB/QcO3vYWsMUBwhi3xnktl2ix0M4enOwBmFS92hqsXMtG3J0V5i2wPS1TM8x5ap6jjmdYjfinfxAM4FsIQaUTOpH/W23crFQCPrxfwCN6y6UiesxLuDFYxJytI7XNXM8gVC6Gbq1M7F3znRVVEWFZ4lATgVM0CaE4rJ4TIngKNPnN4jSHnlZ/x3C3947Lh7BHdCww36KQI1MQaZiEW4PYGRboGcEoLM/VjeBgaG0IEQ==;K0aZHP+c6Jm5EMlbDMmwjw=="
 ---

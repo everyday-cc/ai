@@ -2,6 +2,143 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-08-31-chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available.md",
+      "title": "China's Baidu makes AI chatbot Ernie Bot publicly available",
+      "excerpt": "Two other AI companies in China, Baichuan and Zhipu AI, also launched their AI language models Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-102824060",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-102824060",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/wirestory_627bd09608816847907d41f44da235d9_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-102824060",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-102824060",
+      "publishedDateTime": "2023-08-31T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
+      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
+      "excerpt": "Tech giant Baidu launched China's first public artificial intelligence chatbot on Thursday, with ERNIE trained to censor highly sensitive topics for the ruling Communist Party such as the Tiananmen crackdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
+      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d?refsec=topics_afp-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
+      "publishedDateTime": "2023-08-31T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-to-loom-over-hollywood-strike.md",
+      "title": "Arnold Schwarzenegger's stunt coordinator wants ‘fair contract’ as AI continues to loom over Hollywood strike",
+      "excerpt": "A stunt coordinator who's worked with the likes of Arnold Schwarzenegger and Ryan Reynolds, explains he just wants a fair contract out of the ongoing actors strike.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike",
+      "originalUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/FreddyBoucieguesArnoldSchwarzeneggerLindaHamilton.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/arnold-schwarzeneggers-stunt-coordinator-wants-fair-contract-as-ai-continues-loom-over-hollywood-strike.amp",
+      "publishedDateTime": "2023-08-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-baidu-and-sensetime-launch-chatgpt-style-ai-bots-to-the-public.md",
       "title": "Baidu and SenseTime launch ChatGPT-style AI bots to the public",
       "excerpt": "Chinese tech firms Baidu and SenseTime launched their ChatGPT-style AI bots to the public on Thursday, marking a new milestone in the global AI race. Baidu has opened public access to its ERNIE ...",
@@ -1061,160 +1198,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-generative-ai-startup-ai21-labs-lands-155m-at-a-14b-valuation.md",
-      "title": "Generative AI startup AI21 Labs lands $155M at a $1.4B valuation",
-      "excerpt": "AI21 Labs, a company competing against OpenAI and Anthropic, among other generative AI players, has raised $155 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/",
-      "originalUrl": "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1463459171.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/30/generative-ai-startup-ai21-labs-lands-155m-at-a-1-4b-valuation/amp/",
-      "publishedDateTime": "2023-08-30T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-how-to-use-claude-ai-and-how-its-different-from-chatgpt.md",
-      "title": "How to use Claude AI (and how it's different from ChatGPT)",
-      "excerpt": "The Claude AI chatbot is trained on the latest real-time data and is accessible through Slack. Here's what else you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "originalUrl": "https://www.zdnet.com/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/be7b18f7d66f3a2675ca79cd4a5948999b093312/2023/08/30/950b5064-6d1b-4dfe-a250-10df6189607c/silo-gettyimages-1348371250.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-use-claude-ai-and-how-its-different-from-chatgpt/",
-      "publishedDateTime": "2023-08-30T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-will-a-bitterly-divided-australia-elevate-the-voice-of-aboriginal-people.md",
-      "title": "Will a Bitterly Divided Australia Elevate the Voice of Aboriginal People?",
-      "excerpt": "A referendum to set up an Indigenous advisory body in Parliament was envisioned as uniting the country. The opposite has happened.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html",
-      "originalUrl": "https://www.nytimes.com/2023/08/29/world/australia/voice-aboriginal-indigenous.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/08/24/multimedia/00OZ-VOICE-01-kmzh/00OZ-VOICE-01-kmzh-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

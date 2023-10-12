@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-09-navigating-industry-40-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management.md",
+      "title": "Navigating Industry 4.0: How Artificial Intelligence and Robotics Are Revolutionizing Manufacturing and Supply Chain Management",
+      "excerpt": "This dynamic synergy between human ingenuity and cutting-edge technology is unlocking new horizons of efficiency, agility, and competitiveness., Technology & Science News, Times Now",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
+      "originalUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-104273267,thumbsize-25658,width-1280,height-720,resizemode-75/104273267.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp",
+      "publishedDateTime": "2023-10-08T21:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-116-billion-by-2033.md",
+      "title": "Cyber Security in Robotics Market Poised for Rapid Growth, Set to Reach US$ 11.6 Billion by 2033",
+      "excerpt": "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/10/09/cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-11-6-billion-by-2033/",
+      "originalUrl": "https://www.fmiblog.com/2023/10/09/cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-11-6-billion-by-2033/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/10/Cyber-Security-in-Robotics-Market.jpg",
+          "width": 1000,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-5-things-ceos-need-to-know-about-chatgpt-and-generative-ai.md",
       "title": "5 Things CEOs Need To Know About ChatGPT And Generative AI",
       "excerpt": "Too much of the discussion around ChatGPT and Generative AI is preachy and vacuous. CEOs need specific views and recommendations on the impact of these new tools.",
@@ -1128,101 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-machine-learning-and-neural-networks-in-the-fintech-industry-sergey-kondratenko.md",
-      "title": "Machine Learning And Neural Networks In The Fintech Industry – Sergey Kondratenko",
-      "excerpt": "According to fintech expert Sergey Kondratenko, thanks to machine learning, financial organisations can quickly, reliably and accurately solve a wide range of problems related to the processing, analysis and interpretation of data.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
-      "originalUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2020/08/uk-fintech-1.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/machine-learning-neural-networks-fintech-industry/amp/",
-      "publishedDateTime": "2023-10-06T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists.md",
-      "title": "Getty Images built a “socially responsible” AI tool that rewards artists",
-      "excerpt": "Rather than crawling the web for data to feed its AI model, Getty's tool is trained exclusively on images that Getty owns the rights to, Peters said. The tool was created out of rising demand from Getty Images customers who want access to AI generators that don't carry copyright risks. Peters explained:",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1704492074-800x542.jpg",
-          "width": 800,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/getty-images-built-a-socially-responsible-ai-tool-that-rewards-artists/amp/",
-      "publishedDateTime": "2023-10-06T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

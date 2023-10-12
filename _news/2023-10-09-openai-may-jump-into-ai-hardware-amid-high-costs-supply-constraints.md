@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-ju
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/10/09/nvda_chip.png?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "ChatGPT developer OpenAI planning to make its own AI chips: Report"
-    excerpt: "ChatGPT’s developer OpenAI is considering the development of its own artificial intelligence chips and has even explored a potential acquisition target, Reuters reported, citing sources."
-    publishedDateTime: 2023-10-07T08:50:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19218/chatgpt-developer-openai-planning-to-make-its-own-ai-chips-report.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 54
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/905c562ffbcfa3994bf6bc8f28becfcd.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Leveling Up AI: OpenAI’s Bold Chip Endeavor"
     excerpt: "OpenAI, a leading AI startup, is considering the development of its own AI chips to address growing shortages in the AI model training sector. The company is exploring strategies such as acquiring an AI chip producer or designing chips in-house."

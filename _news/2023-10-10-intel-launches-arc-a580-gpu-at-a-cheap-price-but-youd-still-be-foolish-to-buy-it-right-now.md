@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel Arc A580 launches, a new budget GPU with an affordable $179 price point"
+    excerpt: "The Intel Arc A580 is now available globally, and with its USD 179 price point it's targeting an overlooked gaming sector - the budget PC gamer."
+    publishedDateTime: 2023-10-11T23:58:00Z
+    webUrl: "https://www.tweaktown.com/news/93725/intel-arc-a580-launches-new-budget-gpu-with-an-affordable-179-price-point/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 36
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93725_02_intel-arc-a580-launches-new-budget-gpu-with-an-affordable-179-price-point_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "gi3fxYeEf7HfDFlYiFWzyNABQENU7r5ZaOFf75ObxgXeLv1mSt+11eNzG8IK/0ZbJceIbPAhXQoduSnEu8TGEBxLEnkVE8qgru1WQ/aOyEpviaDMvkOoEGHs6ajn/m32dUf86uymz9C5pY9YhlTrr0h9lLWFLIaGwMqeT5syLZg2v54hA/CqE6mTqM5ZcrtmRkeH6IOp/DMjgZQZc33UOF967forXpVAT/Zg6uNYSpJQSDu6bn8/erj7FHYmTXD46dvdNF3HgQxUUsjG32e/RJMMQwRDoTIPexp+8LRtngqdtaXwv/MUKQCDhWbEQWxIY1VGGQChVFFHtnPIuREVLKtfFML25AeFnS7SU3HPmdgAS5jpIrQfxRf0Ufw1dIzzP+6mT3z1ad8WeXzKQzneY1c4rZDxQrxi7cjW/LvmkskO01cMcsWz4KNOWDdYr8/df/oBgItpYVE4STyabkFP667um97X7AnJf752Nw7xUsp82wB27b8Pzo2GSzeKfgnets3A4axME09WwXhRd2+xVQ==;XYQlBCXNdbjUCYbI/GcimQ=="
 ---

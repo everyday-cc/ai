@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-11-deep-learning-explained-unraveling-the-magic-behind-neural-networks.md",
+      "title": "Deep learning explained: Unraveling the magic behind neural networks",
+      "excerpt": "Explained: Are we alone in the universe? Explained: Why are mathematicians obsessed with prime numbers? Dive into the world of deep learning and discover the inner workings of neural networks, the driving force behind modern AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/articleshow/103929376.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/articleshow/103929376.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-103929347,width-1280,height-720,resizemode-4/103929347.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms",
+      "publishedDateTime": "2023-10-11T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-the-aboriginal-australians-campaigning-against-constitutional-recognition.md",
       "title": "The Aboriginal Australians Campaigning Against Constitutional Recognition",
       "excerpt": "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament.",
@@ -262,7 +305,7 @@
       "originalUrl": "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -305,7 +348,7 @@
       "originalUrl": "https://www.bbc.com/news/av/uk-england-surrey-67070829",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -440,6 +483,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ai-computing-and-decentralized-gpu-power.md",
+      "title": "AI Computing and Decentralized GPU Power",
+      "excerpt": "This democratization of AI and ML capabilities presents a game-changing opportunity for various industries. The Io.net test network sources GPU computing power from data centers, cryptocurrency miners, and decentralized storage providers. This pooling of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/",
+      "originalUrl": "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.dmnews.com/wp-content/uploads/2023/10/Decentralized-AI-Computing.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Direct Marketing News",
+        "domain": "dmnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1120,110 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine.md",
-      "title": "Adobe’s Project Stardust is a sneak preview of its next-gen AI photo editing engine",
-      "excerpt": "The latest version of Adobe's Project Stardust AI photo editor already thoroughly leaked earlier this month, but at its MAX conference, the company now",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/",
-      "originalUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/adobe_logo.jpg?resize=1200,725",
-          "width": 1200,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/",
-      "publishedDateTime": "2023-10-10T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-how-ge-healthcare-is-shaping-limitless-ai-driven-healthcare-possibilities-and-solutions.md",
-      "title": "How GE Healthcare Is Shaping Limitless AI-Driven Healthcare Possibilities And Solutions",
-      "excerpt": "AI, the cloud, and intelligent platforms like GE Healthcare's Edison will enable more people to access healthcare services on an ongoing basis. While this transformation is in its early stages, safe and secure AI may serve as the catalyst that accelerates this remarkable journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/",
-      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65245bc68366e2d8a028ea98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1497,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/10/how-ge-healthcare-is-shaping--limitless-ai-driven-healthcare-possibilities-and-solutions/amp/",
-      "publishedDateTime": "2023-10-10T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

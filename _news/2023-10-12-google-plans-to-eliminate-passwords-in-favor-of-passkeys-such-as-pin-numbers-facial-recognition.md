@@ -39,6 +39,34 @@ related:
         width: 635
         height: 395
         isCached: true
+  - title: "BBC uses facial recognition to identify terrorist as police officer"
+    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
+    publishedDateTime: 2023-10-12T00:21:00Z
+    webUrl: "https://www.biometricupdate.com/202310/bbc-uses-facial-recognition-to-identify-terrorist-as-police-officer"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
+  - title: "News outlet uses facial recognition to identify terrorist as police officer"
+    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
+    publishedDateTime: 2023-10-12T00:09:00Z
+    webUrl: "https://www.biometricupdate.com/202310/news-outlet-uses-facial-recognition-to-identify-terrorist-as-police-officer"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
 
 secured: "aeNyBzbCilgQJR2tA6Fd9EolpxqLWq4b9k8BKZJejOQxRiliUq6mBblaPZPTn57u1QMe9DH+RvH9qk07EP5jnSfJs8vzVNP0CYXjnUAj/5Ly/DAj9MlQleJEDyfnturV0HD0isutY/0bTqx9UGoKuKf8YPX8Ek1IAlA6zT7WV+IqUE8kd9kxcVcIyCAFxjZ2rNHu1GMdgKmxl9rtHjQYMnQ4GB3oinQonpq38hLPetw7feVBxxS86nD35zmA03/swn7cc4g+dRbvXBkDiFPXHdwBwYyIABaVYfopCJ51t0HoJ2AOttp/R68NOEpzi8sa0YOsv3s2ytJuQYHTgS1fgPi5l21BYgWp4qIY0pJyd8czSCUBmly2LJodIhenbXmm5iZZ+4JyjA2xMSWn5D87eStkxlt/uk38i5P12Za2tdV39i6T/ETUhUKLKG+bCwF52PUCoHo4KeJK0B0wCayY6RLjuyc7CHDQ8jQ+AbJ9JhrKyUGo53O44EEPdvnXvNVVwQvOrWQRAmOCDl16Wqv2Jw==;vve4kywVkEO1XQkKcXP/uA=="
 ---

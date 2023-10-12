@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "BBC uses facial recognition to identify terrorist as police officer"
+    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
+    publishedDateTime: 2023-10-12T00:21:00Z
+    webUrl: "https://www.biometricupdate.com/202310/bbc-uses-facial-recognition-to-identify-terrorist-as-police-officer"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
+  - title: "News outlet uses facial recognition to identify terrorist as police officer"
+    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
+    publishedDateTime: 2023-10-12T00:09:00Z
+    webUrl: "https://www.biometricupdate.com/202310/news-outlet-uses-facial-recognition-to-identify-terrorist-as-police-officer"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
   - title: "Google plans to eliminate passwords in favor of passkeys such as PIN numbers, facial recognition"
     excerpt: "The company wants to replace passwords with passkeys, technology that includes fingerprinting, facial recognition or a PIN number. The company first signaled its support for the shift away from passwords in May. In a Tuesday blog post the company affirmed that passkeys are more efficient and more secure."
     publishedDateTime: 2023-10-11T17:05:00Z

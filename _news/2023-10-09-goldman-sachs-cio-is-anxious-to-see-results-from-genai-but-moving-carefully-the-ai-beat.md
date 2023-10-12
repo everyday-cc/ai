@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/goldman-sachs-cio-is-anxious-to-see-res
 webUrl: "https://venturebeat.com/ai/goldman-sachs-cio-is-anxious-to-see-results-from-genai-but-moving-carefully-the-ai-beat/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 750
     isCached: true
+
+related:
+  - title: "Goldman Sachs pilots superhuman, generative AI banker project"
+    excerpt: "Goldman Sachs is piloting a generative AI project that could boost the efficiency of bankers' meetings and their relationships with clients, chief information officer Marco Argenti tells Axios."
+    publishedDateTime: 2023-10-11T14:58:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2023/10/11/goldmans-superhuman-generative-ai-banker-project"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
 
 secured: "m4RORX8awv40mkY96WZwQdGrd3Eu2PaKSA+atC8X0FdGU7C+T/C7WzMjpodxME/J4ElW7IPL3t6SQxT0W+82BGi0sgipNJtBNG7SuO6d3pB+Q3DKRfkVkmfxdePhZqjp39eZ1no31wj4Ut93Yg4HhYEVnSo7wEV/6j2nFpIrN0gHVI173tf/WMg4i76HjaD/+vZavuPUTzp7o5cP5YmGSduRSML11B1Ei01AuNBbcgVbKMQ9+A8sjhD3tnjC7Ew9EB8ZVrMKkpiK+8/2wdag0AnES4E4t4RNJzOCtczXcIJo4lMZdh3NWCyZfeEO6pbWLgfe2FLRlHOdS5gxDHlKmaSG3SES/tLPW9tClfFBS1g=;cB1DeHT3EG/LmHrcS9Fh/w=="
 ---

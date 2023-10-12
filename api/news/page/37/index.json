@@ -2,6 +2,134 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-09-13-exploring-patient-provider-perceptions-of-healthcare-ai.md",
+      "title": "Exploring Patient, Provider Perceptions of Healthcare AI",
+      "excerpt": "Advances in healthcare artificial intelligence have received significant hype, but patients and providers are still cautious of these new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai",
+      "originalUrl": "https://healthitanalytics.com/features/exploring-patient-provider-perceptions-of-healthcare-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/features/_normal/Getty_correct_size_sdoh.png",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-unlock-innovation-today-and-for-tomorrow-with-a-future-ready-digital-infrastructure.md",
+      "title": "Unlock innovation today and for tomorrow with a future-ready digital infrastructure",
+      "excerpt": "IBM is assisting clients in making informed architectural decisions to future-ready their businesses, allowing for the creation of sustained value in the long run.\nThe post Unlock innovation today and for tomorrow with a future-ready digital infrastructure appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unlock-innovation-today-and-for-tomorrow-with-a-future-ready-digital-infrastructure/",
+      "originalUrl": "https://www.ibm.com/blog/unlock-innovation-today-and-for-tomorrow-with-a-future-ready-digital-infrastructure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have.md",
+      "title": "IBM Cloud for Payments is an imperative, not a nice-to-have",
+      "excerpt": "The ability to settle payments real-time and provide frictionless customer experience is critical to remaining competitive.\nThe post IBM Cloud for Payments is an imperative, not a nice-to-have appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T05:47:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-the-future-of-ai-in-business-predictions-and-how-to-prepare.md",
       "title": "The Future Of AI In Business: Predictions And How To Prepare",
       "excerpt": "AI has exploded in popularity in 2023. Here are my predictions for what's to come with AI and how your business can prepare.",
@@ -1010,135 +1138,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-alibaba-introduces-ai-model-to-public.md",
-      "title": "Alibaba Introduces AI Model to Public",
-      "excerpt": "Alibaba has launched its artificial-intelligence model, making it the latest Chinese company to tap the country’s fast-growing AI market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33",
-      "originalUrl": "https://www.wsj.com/tech/ai/alibaba-introduces-ai-model-to-public-bd120c33",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-851207/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-the-global-race-to-set-the-rules-for-ai.md",
-      "title": "The global race to set the rules for AI",
-      "excerpt": "The industry and policymakers agree that the emerging technology needs regulating. But no one is quite sure how",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/59b9ef36-771f-4f91-89d1-ef89f4a2ec4e",
-      "originalUrl": "https://www.ft.com/content/59b9ef36-771f-4f91-89d1-ef89f4a2ec4e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-natural-language-processing-for-finance-market-share-report-2023-2030.md",
-      "title": "Natural Language Processing for Finance Market Share Report 2023-2030",
-      "excerpt": "The Global Natural Language Processing for Finance market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34515154/natural-language-processing-for-finance-market-share-report-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34515154/natural-language-processing-for-finance-market-share-report-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34515154",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34515154",
-      "publishedDateTime": "2023-09-12T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

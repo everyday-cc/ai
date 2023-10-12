@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-11-optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts.md",
+      "title": "Optimizing AI Inference Is As Vital As Building AI Training Beasts",
+      "excerpt": "The history of computing teaches us that software always and necessarily lags hardware, and unfortunately that lag can stretch for many years when it comes to wringing the best performance out of iron by tweaking algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "originalUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/09/nvidia-gpu-full-stack-performance-hpc-ai-mix.jpg",
+          "width": 714,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2023/09/11/optimizing-ai-inference-is-as-vital-as-building-ai-training-beasts/amp/",
+      "publishedDateTime": "2023-09-11T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.md",
       "title": "Enterprise DPU advances are spurred by AI, security, networking apps",
       "excerpt": "Nvidia is capitalizing in a monster way on AI and its use of its GPU technology, largely in hyperscaler networks at this point. The company’s second-quarter revenue came in at $13.51 billion, a 101% jump year-over-year that it credited largely to AI ...",
@@ -1373,40 +1416,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
-      "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
-      "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
-      "originalUrl": "https://www.victoriaadvocate.com/dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications/article_54b10cd7-3d6c-502f-b7e7-745674a52d54.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

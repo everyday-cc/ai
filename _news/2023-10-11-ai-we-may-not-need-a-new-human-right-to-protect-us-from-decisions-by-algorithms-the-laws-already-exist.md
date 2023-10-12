@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AI: we may not need a new human right to protect us from decisions by algorithms – the laws already exist"
-excerpt: "In light of such problems, calls have been made to create a new human right against being subject to automated decision-making (ADM), which the UK Information Commissioner’s Office (ICO) describes as “the process of making a decision by automated means without any human involvement”."
-publishedDateTime: 2023-10-10T17:00:00Z
-originalUrl: "https://theconversation.com/ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist-214525"
-webUrl: "https://theconversation.com/ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist-214525"
+excerpt: "There are risks and harms that come with relying on algorithms to make decisions. People are already feeling the impact of doing so. Whether reinforcing racial biases or spreading misinformation, many technologies that"
+publishedDateTime: 2023-10-11T03:37:00Z
+originalUrl: "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091"
+webUrl: "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/552765/original/file-20231009-17-qwgeso.jpg?ixlib=rb-1.1.0&rect=16%2C278%2C5447%2C2719&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://f1.econotimes.com/2023/10/mjtzouo7eq_th_1024x0.jpg"
+    width: 496
+    height: 331
     isCached: true
 
-secured: "RDoI1Q0HZeEf8oGLuCLT1eYMRJMhlLu0bXNYVk4nGy3mMJjjMdW792Iz0c71hUBc5xK9Ig4u6eakfTtIesQ8OfW11MdCQXREum3yICnTWsZlL0MtgM97egCseqEn8ptULFa/pR2Gu4WpQucdvTg1rtls5SZs5dijHjZompSX4lM/39lcCg63q+d3jzs10DbJfWMU/Y0of7OW9/1J6QKLar637fIA3D5dBsvaqJHEL3HvdiWaAmlJ6e9IiXueglynNTyknAfJRZ/iOBEwkzrsXfCQDdjHjeVGyjcptZNtHfHhWssgpcnIj2dcxCBB2JZzirsjKgqWRYTruKXkjB8DY2lbIa70SPOKzmWxUtg+ZLE=;IVq7PBMHyyXdTgK2fRypnw=="
+secured: "mEaKTP6L7xLGU4/QFXvRBr4cB5e3HyLpQLpEovnOPpNWFQXpzlXSTOWjdkAWwZORpDtd2e/LkzMg+5rwhx0NWhPBgToBrfsYjrJiTd5IK1bPj+fap1cUUBb9XUkECPPyf8/ZsvnWOnSUJN0vWVOPD0yr2FNWxsU225tasdF3W2+O3/BX4WXl0EwpTEvkRHJqXVFzwsza5a6zWN77c0UBRMObaJVPB5GyJj/dGQyJ8+LIXBAHdTeGOy0H9QUReUGYsh2eBSKADL3MuGT9Rokuw4cJhefudKj/a80G6Np4E0VNso4kBXu1tcEHL3X0IvUgzalALoJjwDLlLrb9pLKehKszFzgsMMomEYkCmLrYbHA=;9LK/H0XyvougCKFcdrwAAw=="
 ---
 

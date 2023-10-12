@@ -63,19 +63,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australia’s ‘voice’ for Indigenous people failing to spark a fire in the Outback"
-    excerpt: "Ahead of a nationwide referendum on Indigenous issues on 14 October, Praveen Menon talks to members of the community"
-    publishedDateTime: 2023-10-07T08:00:00Z
-    webUrl: "https://www.aol.com/australia-voice-indigenous-people-failing-080000659.html"
+  - title: "Why the Indigenous 'Voice' is vital in Australia's constitution: Noel Pearson"
+    excerpt: "Australia faces a referendum on a new representative body: the Indigenous Voice to Parliament. Indigenous lawyer and academic Noel Pearson lays out the backstory, and his view of what’s to come, in his Boyer Lectures."
+    publishedDateTime: 2023-10-11T23:16:00Z
+    webUrl: "https://www.cbc.ca/radio/ideas/boyer-lectures-noel-pearson-australia-indigenous-voice-1.6991711"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6991711"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6991711"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 41
     images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/89a5101613a5558f58b5a96b09632bf9"
-        width: 1200
-        height: 800
+      - url: "https://i.cbc.ca/1.6991891.1697066507!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1595108848.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
     excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."

@@ -130,6 +130,20 @@ related:
         width: 690
         height: 400
         isCached: true
+  - title: "UiPath drives generative AI apps with Amazon Bedrock"
+    excerpt: "Earlier this year, UiPath also announced that data science teams using Amazon SageMaker, an end-to-end machine learning (ML) service, can now connect Amazon SageMaker-hosted ML models into UiPath business processes without the need for coding and manual ..."
+    publishedDateTime: 2023-10-11T18:37:00Z
+    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/UiPath-drives-generative-AI-apps-with-Amazon-Bedrock"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-101023-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
   - title: "3D Generative AI for Every Creator"
     excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
     publishedDateTime: 2023-10-11T18:06:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
 webUrl: "https://www.bbc.com/news/av/uk-england-surrey-67070829"
 type: article
 quality: 67
-heat: 88
+heat: 87
 published: true
 
 provider:

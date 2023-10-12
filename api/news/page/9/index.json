@@ -2,6 +2,111 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-10-05-users-find-that-facebooks-new-ai-stickers-can-generate-elmo-with-a-knife.md",
+      "title": "Users find that Facebook’s new AI stickers can generate Elmo with a knife",
+      "excerpt": "Less than a week after Meta unveiled AI-generated stickers in its Facebook Messenger app, users are already abusing it to create awkward images of copyright-protected characters and sharing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/facebook_AI_stickers-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun/amp/",
+      "publishedDateTime": "2023-10-04T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
+      "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
+      "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231004142152-masayoshi-son-100423-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/04/tech/japan-softbank-ai-hnk-intl/index.html",
+      "publishedDateTime": "2023-10-04T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-facebooks-new-ai-stickers-can-generate-mickey-mouse-holding-a-machine-gun.md",
       "title": "Facebook’s new AI stickers can generate Mickey Mouse holding a machine gun",
       "excerpt": "\"F ound out that facebook messenger has ai generated stickers now and I don't think anyone involved has thought anything through ,\" Desbiens wrote in his post. \"W e really do live in the stupidest future imaginable,\" he added in a reply.",
@@ -92,6 +197,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-man-was-arrested-held-for-six-days-over-faulty-facial-recognition-tech-lawsuit.md",
+      "title": "Man was arrested, held for six days over faulty facial recognition tech: lawsuit",
+      "excerpt": "A black man visiting his mother in Atlanta was wrongfully arrested and held for six days after facial recognition technology incorrectly identified him as a fraudster and thief in Louisiana ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/",
+      "originalUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/10/NYPICHPDPICT000044822397.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/04/man-was-arrested-for-six-days-over-faulty-facial-recognition-tech-lawsuit/amp/",
+      "publishedDateTime": "2023-10-04T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1049,151 +1197,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-ai-empowered-patient-is-coming-are-doctors-ready.md",
-      "title": "The AI-Empowered Patient Is Coming: Are Doctors Ready?",
-      "excerpt": "In the future, medical expertise will no longer be the sole domain of trained clinicians. Future versions of AI will put medical expertise in the hands of all Americans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2023/10/04/the-ai-empowered-patient-is-coming-are-doctors-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c09e514a6169a0c341388/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-how-shaq-and-william-became-early-investors-in-the-ai-boom.md",
-      "title": "How Shaq And Will.i.am Became Early Investors In The AI Boom",
-      "excerpt": "Google, ChatGPT-maker Open AI, Anthropic, Runway, Inflection AI and Hugging Face are just a few of the investments Shaq & Will.i.am have made as they bet on an AI future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650267b9e67a47ad659fe77b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2023/10/04/how-shaq-and-william-became-early-investors-in-the-ai-boom/amp/",
-      "publishedDateTime": "2023-10-04T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-openais-sam-altman-invests-in-indian-startup-induced-ai.md",
-      "title": "OpenAI's Sam Altman invests in Indian startup Induced AI",
-      "excerpt": "The startup Induced AI, founded this year, has raised $2.3 million in its seed-funding round led by Altman and VC firm Peak XV, along with “an incredible set of investors”.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "originalUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2023/10/04/263437?itok=uwS43QXA",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-openais-sam-altman-invests-in-indian-startup-induced-ai-257482/amp",
-      "publishedDateTime": "2023-10-04T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

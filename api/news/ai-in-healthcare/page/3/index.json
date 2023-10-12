@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-06-artificial-intelligence-the-future-is-now.md",
+      "title": "Artificial Intelligence: The Future is NOW",
+      "excerpt": "Companies and Investors are very focused on Artificial Intelligence. We think it is a significant, durable theme. The big tech companies are likely to have a competitive advantage, in our view.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence%3A-the-future-is-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-advancing-ai-in-various-industries-like-healthcare-energy-and-climate.md",
       "title": "Advancing AI in Various Industries Like Healthcare, Energy and Climate",
       "excerpt": "Andrew Feldman, Co-Founder and CEO of Cerebras, joins Jill Malandrino on Nasdaq TradeTalks to discuss advancing artificial intelligence (AI) in various industries like healthcare, energy, climate, and more. Sign up for our newsletter to get the latest on ...",
@@ -1293,49 +1328,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-breakthrough-ai-implants-let-paralyzed-woman-talk-for-first-time-in-years.md",
-      "title": "Breakthrough AI implants let paralyzed woman ‘talk’ for first time in years",
-      "excerpt": "A digital avatar is able to speak what she is thinking, using a copy of her voice recorded during a toast she gave at her own wedding.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "originalUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000026650278.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "publishedDateTime": "2023-08-23T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
         "images": null,
         "publishers": null,
         "authors": null

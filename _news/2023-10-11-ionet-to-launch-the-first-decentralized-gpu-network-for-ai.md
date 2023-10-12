@@ -7,7 +7,7 @@ originalUrl: "https://invezz.com/news/2023/10/11/io-net-to-launch-the-first-dece
 webUrl: "https://invezz.com/news/2023/10/11/io-net-to-launch-the-first-decentralized-gpu-network-for-ai/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Computing and Decentralized GPU Power"
+    excerpt: "This democratization of AI and ML capabilities presents a game-changing opportunity for various industries. The Io.net test network sources GPU computing power from data centers, cryptocurrency miners, and decentralized storage providers. This pooling of ..."
+    publishedDateTime: 2023-10-11T00:00:00Z
+    webUrl: "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 54
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Decentralized-AI-Computing.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "io.net to launch first GPU-enabled decentralized computing network for AI"
     excerpt: "io.net intends to address the scarcity of GPUs for AI processing by procuring one million units from independent computing power sources. During the course of its development, it will establish the first decentralized cloud environment specifically designed for machine learning, according to the latest information shared with Finbold on October 11."
     publishedDateTime: 2023-10-11T13:30:00Z

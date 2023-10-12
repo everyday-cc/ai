@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "OpenText Delivers Broad AI Orchestration Capabilities for the Enterprise with Aviator"
+    excerpt: "OpenText unveiled a broad expansion of its enterprise-class Aviator platform with new AI capabilities spanning business and technology needs."
+    publishedDateTime: 2023-10-12T00:50:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6527422f48ebd112c83fa429/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "OpenText Aviator lets AI fly across expansive enterprise software portfolio"
     excerpt: "The new OpenText Aviator effort is launching today as a set of AI capabilities in the OpenText Cloud Editions (CE) 23.4 release."
     publishedDateTime: 2023-10-11T21:45:00Z

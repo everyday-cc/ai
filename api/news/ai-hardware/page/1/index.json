@@ -315,7 +315,7 @@
       "originalUrl": "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -399,6 +399,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ai-computing-and-decentralized-gpu-power.md",
+      "title": "AI Computing and Decentralized GPU Power",
+      "excerpt": "This democratization of AI and ML capabilities presents a game-changing opportunity for various industries. The Io.net test network sources GPU computing power from data centers, cryptocurrency miners, and decentralized storage providers. This pooling of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/",
+      "originalUrl": "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.dmnews.com/wp-content/uploads/2023/10/Decentralized-AI-Computing.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Direct Marketing News",
+        "domain": "dmnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -505,7 +548,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1416,58 +1459,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember.md",
-      "title": "What AI forgets could kill us, but new research is helping it remember",
-      "excerpt": "A better understanding how the human brain makes memories could help us to reduce neural networks' habit of 'catastrophic' forgetting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "originalUrl": "https://www.zdnet.com/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7f343b9e762783bd928da1f94d55f75a23ac3c10/2023/10/02/92fcf4f1-8fd7-4fff-b75a-c5c675994e60/girl-stringgettyimages-668677129.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-forgets-could-kill-us-but-new-research-is-helping-it-remember/",
-      "publishedDateTime": "2023-10-02T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
