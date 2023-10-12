@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-de
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: cryptopolitan
       domain: cryptopolitan.com
     quality: 34
+  - title: "10-Step Plan for Employers Using Artificial Intelligence in Employment Processes"
+    excerpt: "Artificial intelligence has transformed the way we live, work and even think. While AI offers seemingly endless potential benefits in the workplace – including improvements in efficiency, cost cutting and innovation – employers must balance those ..."
+    publishedDateTime: 2023-10-12T17:56:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/10-step-plan-for-employers-using-7996947/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15452_3935.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "zI5RR9mWLMKMAIlvZIWnwemb3VdOFMF1P9SNwsVA2cg+kcDcqsRgW8Injhousy4Fm6U1tr2eX95vuK3miyrqXkIbAy81mmsZm0i1SDK9wGqiC2IWwmGa4M77DgpOtVLwEV4lLctbnYXKWfTP0ZDgwetvo5Vgc2QOSDSeQ/2JsfwF3o77Qw3t7nUv4Rfxx6Vhs1G8/kqMd2aNVORNqBvr0hNI0vHzT5cpPlUXSfsTM+6/XDnH2yPeRujP74E5UlcBBhqXk7ax5BPmyOL4oJNtUIKlHEijBL+ncP/8mV27h65onwPCjAmBFox5NafqQSwWS7wTRs5UJ5yelb3LgV7idxIlmMPTZi+0vhW0v1E14pku7JzNrVR6X7a44qGylIj7fojZz9NUlQnVmZZgsE9nEbNrHoNeCtCZyFtC7Jc468uH1+RzYIaQUZng+mLEdjIXB77PMfIcQzTtBd4OtL3OlcJqxA3OcNa8AFEqdpZqnakleFAAzByiTpMpDkcmvv11o5lFvzo2CJ0fD/HxP1LreA==;errHY0y4X55Ui/qE9qteqA=="
 ---

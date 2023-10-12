@@ -172,6 +172,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australia news live: Dutton spread ‘fear and division’ over voice, Ken Wyatt says; Perth flight from Singapore turned around"
+    excerpt: "She urged Australians who are yet to cast their vote in the referendum to “please remember that voice recognition is inclusion and listening to Indigenous peoples on matters that affect us”: We’ve got decades of evidence of that policy made without ..."
+    publishedDateTime: 2023-10-12T21:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally?filterKeyEvents=false&page=with:block-652858df8f0889b52d8c324f"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+    images:
+      - url: "https://i.guim.co.uk/img/media/1ee33dfe437480971d0226d6cd2502acd0e020a3/241_234_7194_4318/master/7194.jpg?width=620&quality=85&auto=format&fit=max&s=51346a4b376d80f514b6acd093fc3d76"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "mhRmWYCFQUhFT886ST5xCFnBLEEdD/1k9FG73ecu9DG4BMABrGvwhOQqvlmvqNSAgpWRvjS7abwtnH+KtTjceonGNcMxO02Ql9vKf178EbDL8Q4WUlhFKhBg/hnFKINnve/xGqL8Jcpi08lsDsdP9kn2RBV7CfbHfi9FlhmkckQ4FzzjlcAHV94q3kcMGf1+z44FYzxCDAxsAuyYhJThlkigBUWxXcm3rlfiiR8SpityPqqCYEr5CkKe3gn7AtlBfnx0am0BE7U7/8jezeXw1DCmuc1kqCo0cbDtAEK7hejL2keQ/1EyQkzEmQSjZe3ARmv+4CUlvOJZ+/FdfIoA190d5odTLSm2ukkrELBo8YI=;lCAA7IgdgWszIgWQ/9txTg=="
 ---

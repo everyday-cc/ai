@@ -41,15 +41,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Researchers create a neural network for genomics -- one that explains how it achieves accurate predictions"
-    excerpt: "A team of computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks--the engines that drive artificial intelligence and machine learning--thereby illuminating a process that has largely been concealed from users."
-    publishedDateTime: 2023-10-08T01:14:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231006104521.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
   - title: "Researchers create interpretable neural network to predict complex biological outcomes"
     excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions."
     publishedDateTime: 2023-10-09T02:41:00Z

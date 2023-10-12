@@ -51,6 +51,20 @@ related:
       name: cryptopolitan
       domain: cryptopolitan.com
     quality: 34
+  - title: "10-Step Plan for Employers Using Artificial Intelligence in Employment Processes"
+    excerpt: "Artificial intelligence has transformed the way we live, work and even think. While AI offers seemingly endless potential benefits in the workplace – including improvements in efficiency, cost cutting and innovation – employers must balance those ..."
+    publishedDateTime: 2023-10-12T17:56:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/10-step-plan-for-employers-using-7996947/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15452_3935.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "mENvDeIsp48MLoKlUCdTFCrlJmQd4wBCED8e7tto+gYUI9KCnVcnUvgg6y+7NvPps8oRK9gBO2WdWHLjwYaauAj6NkV4M4VeWvy/rJC1L79GR8xkkJcJcl24xNXwEPFwBdJKwrgvSemmFgUH2sggW87n2PMuNEHFihBf1bkzStXENowy/4N/asv5R21yLXojm5GjLcniM2KRqb/KX9QW6OIye7MeWfe3Rvaix+hysHl81F9W5x1OQ1v6Mv5Et/qxmLo6kHnEtIxUtqKYLuGqiW2YlbEYR2tK7BngE2qnyyynWLUCyl6Xx/T72wMD91utMoaB9VfpJden85zprv5yvLYYB3gCWkSuPdrmlH/m8dI=;IpLFdr1MQTLQNHRE0kXHYQ=="
 ---

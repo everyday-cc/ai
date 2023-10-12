@@ -26,22 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Mass market self-driving cars unlikely by 2035, industry experts say"
-    excerpt: "Autonomous or self-driving cars are unlikely to be rolled out for general use by 2035, according to business analytics company S&P Global."
-    publishedDateTime: 2023-10-08T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2023/10/08/mass-market-self-driving-cars-unlikely-by-2035-industry-experts-say"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/06/2322505.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
-
 secured: "ah8qViBDg0o8zKIYbOqvi+X2FWYXY5xfHBClWL7eRppeAiDXZ3wXUh79Kx1RDwBQ8O7hLtY9H/XnOFQpz3gePc89/ofNNG/v0K74rQ+YrzpUVleQ95LmCUn3KFLmlpOv2NkZe/6M4H+M7JDPoxrcnZKXfBdqOc+MSA+NvSitVGjHSadEYzcEIC08/jwyaRsfcxKgUdj4JAN9oSdt2aLx5IxYgb8njf9io4xOClqPJQVH9Q0Oq0ttWL3O/8iu+CcXdJnsxQq6DvgAoU/BMpmvctHSOC90HjFvfm/6nlFcga9FDD/WnmHHE/sMeFoJQUpnqhMYtWYrCpgelPpeUF4zBHAU64soAVjGO8FXIX5q8XI=;WE+5vF4XxuMg+IqodJuHGg=="
 ---
 

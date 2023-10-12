@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content
 webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -51,6 +51,22 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "UpscaleImage.AI Announces the Launch of a Next-Gen AI Tool, Revolutionizing the Realm of Image Generation and Repair"
+    excerpt: "A groundbreaking tool has been unveiled by a pioneering AI startup, revolutionizing the field of image generation and enhancement. The tool targets creators, marketers, and everyday users looking to fix their photos."
+    publishedDateTime: 2023-10-12T20:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35229886/upscaleimage-ai-announces-the-launch-of-a-next-gen-ai-tool-revolutionizing-the-realm-of-image-gen"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35229886"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35229886"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
 
 secured: "s4rp7JjrylyYi8z6thMBz+8iZmi42kAxW/jaGtHADkUweYRkQaWUHwxETwOp7yIKEP9jiZ8oRkZ5jfq3RQYVd00yYi7Gv4oID2kn4OPOp4AGL83gVHzVf7dANsF01rhTkGlCtf8Ye4LMH/dqxRHLQfjav6e4kFjfRgo9+OCR+mb3H/Ef/SHQcprhKG+9W/LLDEH5ZxLsBhcC+KHFPWW53+eLMtYe9UAPSmZYpd2MPPuIJL6qciPEOPRUld/feQCBdLtO2qwEOVZimlrzLX4VOA08auEvtN7DBKq4KZctTx0QUgCXFueN0Egq87f01SjE52hqMFCX1F2Ngok8aZFGFOnSjuXUSK6tmcGMgelwkGA=;+XDFd8jUymJOaD3aiYTvWg=="

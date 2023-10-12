@@ -81,6 +81,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
+    excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
+    publishedDateTime: 2023-10-12T18:08:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/5-tips-to-help-business-leaders-make-sense-of-the-ai/463286"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
   - title: "The AI Advantage In Attracting And Retaining The Right Talent"
     excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
     publishedDateTime: 2023-10-09T13:31:00Z

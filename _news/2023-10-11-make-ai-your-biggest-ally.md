@@ -22,6 +22,15 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence Is Seeping Into All of Your Gadgets"
+    excerpt: "Artificial intelligence abounds, and it’s only making its way deeper and deeper into every scrap of technology we use. Generative AI in particular is an invention that seems destined to follow us far into the future, so it’s best to try to make sense ..."
+    publishedDateTime: 2023-10-12T17:39:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-616/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
   - title: "How to Make Your Own AI '90s Yearbook Photo"
     excerpt: "This app didn’t land on the App Store with the express intent to generate AI yearbook photos: It already offered AI photo editing tools for users to remove distracting objects, swap backgrounds, add filters, and more. But it’s the yearbook feature that caused it to blow up. Here’s how you can try it out for yourself."
     publishedDateTime: 2023-10-09T20:30:00Z

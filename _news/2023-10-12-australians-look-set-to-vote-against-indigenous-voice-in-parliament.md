@@ -162,6 +162,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Australia news live: Dutton spread ‘fear and division’ over voice, Ken Wyatt says; Perth flight from Singapore turned around"
+    excerpt: "She urged Australians who are yet to cast their vote in the referendum to “please remember that voice recognition is inclusion and listening to Indigenous peoples on matters that affect us”: We’ve got decades of evidence of that policy made without ..."
+    publishedDateTime: 2023-10-12T21:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally?filterKeyEvents=false&page=with:block-652858df8f0889b52d8c324f"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+    images:
+      - url: "https://i.guim.co.uk/img/media/1ee33dfe437480971d0226d6cd2502acd0e020a3/241_234_7194_4318/master/7194.jpg?width=620&quality=85&auto=format&fit=max&s=51346a4b376d80f514b6acd093fc3d76"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
     excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
     publishedDateTime: 2023-10-12T03:38:00Z

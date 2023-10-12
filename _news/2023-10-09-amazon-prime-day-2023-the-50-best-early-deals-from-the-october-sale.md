@@ -101,17 +101,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "14 things to know about the Voice to Parliament ahead of October 14 referendum"
-    excerpt: "In just over a week, Australians will know whether they are to have an Aboriginal and Torres Strait Islander Voice enshrined in the country’s constitution."
-    publishedDateTime: 2023-10-08T02:48:00Z
-    webUrl: "https://www.news.com.au/national/politics/14-things-to-know-about-the-voice-to-parliament-ahead-of-october-14-referendum/news-story/dbaaf297877c5d56ae4cad98be016eed"
-    ampWebUrl: "https://www.news.com.au/national/politics/14-things-to-know-about-the-voice-to-parliament-ahead-of-october-14-referendum/news-story/dbaaf297877c5d56ae4cad98be016eed?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/14-things-to-know-about-the-voice-to-parliament-ahead-of-october-14-referendum/news-story/dbaaf297877c5d56ae4cad98be016eed?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 20
 
 secured: "N/TM4Ynb0XfbjdAJk2J6lhe3cHl7tPFBDn/TxGHRpX2t/RFpdKyBJoQ2ZiUL5pFMY7NRM5wyhQFX6Lk6HYh6um/aEx0SiSMVBVnNfnRx1THB92wcnRs6FdZ4zM85+ZCzDSomMQ2DiRYZxCMH1bur6A+ySNqE2D0q0SWnzKUsDChNJBPW35bBoUEbEKKI9frRkP8YoHotu3/TP7ouzUa4+XLS9pti1QBYYKObBRhwfYrJSsJdvP1y9y5kuvzGx7Z5MPcy/E6/tkDufQEGwv+9izAN9Yc5mAR11XwxiS04tCKPH8jjSneTktK5QqJAoQg5hM2MIHOjalTHAltXeTQSX5JCwnyCFW8TcLQ+MvWmaIs=;DIVRWwKEcDG62EtHj3VN1g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/the-rise-of-ai-on-the-silver-screen-how-ho
 webUrl: "https://techbullion.com/the-rise-of-ai-on-the-silver-screen-how-hollywood-portrays-artificial-intelligence-in-movies/"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Long Until AI Guts Hollywood? And Other Investing Insights"
-    excerpt: "It’s only a matter of time until someone builds “HollywoodGPT,” an AI bot trained on the transcripts of every film from the past 100 years that can dream up brand-new movie ideas in seconds. Trying to ignore or ban new innovations never works."
-    publishedDateTime: 2023-10-10T21:44:00Z
-    webUrl: "https://www.equities.com/news/ai-guts-hollywood-stock-market-insights/"
+  - title: "Hollywood actors remain on strike over AI, endorse ‘NO FAKES ACT’"
+    excerpt: "SAG-AFTRA has been openly concerned from the beginning of the strike about the growing availability and use of AI and 3D scanning."
+    publishedDateTime: 2023-10-12T21:01:00Z
+    webUrl: "https://venturebeat.com/ai/hollywood-actors-remain-on-strike-over-ai-endorse-no-fakes-act/"
     type: article
     provider:
-      name: equities
-      domain: equities.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://res.cloudinary.com/equities-com/images/w_1024,h_683,c_scale/f_auto,q_auto/v1696974187/carlos-aranda-QMjCzOGeglA-unsplash_3468091ec6d0/carlos-aranda-QMjCzOGeglA-unsplash_3468091ec6d0.jpg?_i=AA"
-        width: 1024
-        height: 683
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_glowing_3D_wireframe_of_an_actor_is_crossed_out_ba4d367c-de05-4859-9ddd-1c5cf3814214.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "VU0EIwThp2A3xqUwOZbFsJ9WRPdGmukO2EuU7O56oL2D63dj/O8BVOgRK1JlPnJNbglFVeTfhd+mQDyAc4Mq66Kdath7anQCJqfMv1gWqyNmchG62j4A9C6g/jV3sqFAB64pwPZPPpe1BmXGKBfiULjOKlKOap9WXB19dM2j+hjyA93mv0qcWo8FCPc0ZD1Q/RL1/W8FPVhGKP854mgvNWzhTytqVVAl4WKgtNeN2OZoW8f+qW6llJnY1eYTvkGDArGvSei+kP4wULwdvUnbc+24qnAVYBfnm4ZUOSPlcpfHrWNenXlnZf+5w+lLrmjb5LipkFYOubhmNx6IpBjNgBZcK9GIrgyVDNc3yprGXtQ=;RHBLQPkAfaH3bE9bb/03WA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-octo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
 type: article
 quality: 109
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -207,6 +207,24 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Your Generative AI strategy could use a startup’s touch"
+    excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
+    publishedDateTime: 2023-10-12T19:29:00Z
+    webUrl: "https://www.cio.com/article/655535/your-generative-ai-strategy-could-use-a-startups-touch.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
+  - title: "Dumbing down or wising up: how will generative AI change the way we think?"
+    excerpt: "AI tools are becoming increasingly personalised to cater to our every need. Will outsourcing the handling of information to AI make us ‘dumber’?"
+    publishedDateTime: 2023-10-12T19:03:00Z
+    webUrl: "https://theconversation.com/dumbing-down-or-wising-up-how-will-generative-ai-change-the-way-we-think-214561"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 15
 
 secured: "HJsJ3EzB5OVivh8Dig4LYoIO2C/puHXTvYknt+vGZCWTPKVZu3GJv09FVy/c4X5cHeN/AizP9CnaTgc2izPxA9tIkFRETvyqn2Zo7j01e3lrZVM0bhsNkSY4riYwofGtys5d69QCRer7NQ5GfOx7N0Ej9hDarhnbmtS1chdyX86qER0vj4KclGeyV44nAx3qJ6vEFWyfv91xkQCscqwWkjZil53aIRI4whBL8cYdcTT7t9TgKj1KdCQa/ClNvX+TBNcESvd66gapFH7gCoole1KZTX8EIznmBg7XjiRJ1UMojTfzzqqqrvitsKkP6vGv+84iTKLrfNnKJ8pBqZYUhqQl+QXGoYGHMKlCelFDZok=;P9I5li85yfXxznvEaY7xnA=="
 ---

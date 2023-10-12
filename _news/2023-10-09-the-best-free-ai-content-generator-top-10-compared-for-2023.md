@@ -48,6 +48,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "UpscaleImage.AI Announces the Launch of a Next-Gen AI Tool, Revolutionizing the Realm of Image Generation and Repair"
+    excerpt: "A groundbreaking tool has been unveiled by a pioneering AI startup, revolutionizing the field of image generation and enhancement. The tool targets creators, marketers, and everyday users looking to fix their photos."
+    publishedDateTime: 2023-10-12T20:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35229886/upscaleimage-ai-announces-the-launch-of-a-next-gen-ai-tool-revolutionizing-the-realm-of-image-gen"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35229886"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35229886"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "K1e8ZZbObDyNA01vqQXXkRUqV9JIYfRRA0brdpgGJxYikxXUxMZSzT7ZchkLc+ng21NTFQHbMa814TpTdX8KUySbiTw8lWKWDJbmpZoKLOPBsRhY33SSslcRl+a+n3FoBO2q2pUbtfIFaQzWOk0x3gCfefV+a5tZbXohr+SEwfYwr5y4PcxboABQ9xW5aTyqLaNZTl/TMM6kiGH2OLkpOWNlwO3vaxOfAz7fd8N9J+fh68QjbotaynAow24DW36MrZxLlyUSET97TJMxeers0IhUIEqG54h2elixC04Ygl6Z2QyzQgBXj1x/yweGg4VGVa37dEWr1pbpF++mlH4ide+9DR8iM8wQz/6q5lBqWGU=;/8y5ZMS8CoOg1PNr1/1bvQ=="
 ---

@@ -52,6 +52,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "UpscaleImage.AI Announces the Launch of a Next-Gen AI Tool, Revolutionizing the Realm of Image Generation and Repair"
+    excerpt: "A groundbreaking tool has been unveiled by a pioneering AI startup, revolutionizing the field of image generation and enhancement. The tool targets creators, marketers, and everyday users looking to fix their photos."
+    publishedDateTime: 2023-10-12T20:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35229886/upscaleimage-ai-announces-the-launch-of-a-next-gen-ai-tool-revolutionizing-the-realm-of-image-gen"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35229886"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35229886"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
 
 secured: "2vy3hk6COpOhlmMhoAzNXwuJP61Fg4Cdjat3JsUAv8kvaYMo5nFz+e8+4/OkqX6v0mN1WomgQvTvtc1OGyCxOcEREkEqkltm2VY+Dr/LLKb1uDHHVDxK8eR03GeB8c/pbB4VADzBKr1c/Ks7xpgow7Lk4/V1HCHFIbkRpMhkONlS0D/+dtBz6sVvi3xhLfKDX8zXMAlBhfB499eEayqLUzpKF4lIeiixnB6T/d9u0JyI7fy+GmX7t7JC82xE/hb9PyfY/SDoIJzm51JvvX6IhiE0lHTCjomkD3L2FllXhby9xWNZiptMaB4yfgnVm/0G8fF6B5UN97ScJLu4rKvui78tP2mXyJU8R6kNwHxW4bC6L8NLOBqlFQFIX/I7UnWfucmfK2fUUeKgj04rGXCp649voLKahqoOSsZfaxXDPB+bq8bKH23azvJZjod2rPDcigwgE6v1vjGcgMK6rsSL/vYqAYCKw31RB/Gz9rdIf47Ew6WoVfCA6SC1G2AW0cA5hU4YQrFUbolpWaY+VQN36Q==;8NgJwEe+LWtiaLbTpdGgWw=="
 ---

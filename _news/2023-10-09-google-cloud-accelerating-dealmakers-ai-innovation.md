@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 1062
         isCached: true
+  - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
+    excerpt: "Human-centered designers, digital technologists, marketing experts, and experienced consultants are all contributing their knowledge to establish robust \"AI ethics\" guidelines around privacy, sensitive data usage, and the optimal use of AI across the ..."
+    publishedDateTime: 2023-10-12T21:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35230587/blastx-consulting-launches-the-blastx-ai-innovation-center"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35230587"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35230587"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "China Has an Authoritarian Edge in AI Innovation"
     excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
     publishedDateTime: 2023-10-10T04:00:00Z

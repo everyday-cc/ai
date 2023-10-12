@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Behind the Prices: Is Generative AI Legal Tech Cheaper to Buy or Build?"
+    excerpt: "The costs to run or buy generative AI-powered tools can be considerable, but there are no easy ways of getting around them."
+    publishedDateTime: 2023-10-12T19:57:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/12/behind-the-prices-is-generative-ai-legal-tech-cheaper-to-buy-or-build/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/How-Much-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Artificial Intelligence Optimists Concerned About Risks of Visual Misinformation"
     excerpt: "TC’s Ioana Literat has complicated feelings around artificial intelligence (AI). More than anything, she is an optimist who sees the positives that generative AI can bring to society — even in just pushing educators to think deeply about their goals ..."
     publishedDateTime: 2023-10-12T16:14:00Z

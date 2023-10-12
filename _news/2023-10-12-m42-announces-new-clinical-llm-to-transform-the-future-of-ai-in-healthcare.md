@@ -20,24 +20,20 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Google encourages entry of AI into healthcare: Here’s all you need to know"
-    excerpt: "a good starting point to discuss the responsibility and liability of AI?... RBI Deputy Governor Rabi Shankar called for self-regulation in the fintech sector, but here's why we disagree with his stance. Both the IT Minister and the IT Minister of State ..."
-    publishedDateTime: 2023-10-10T10:55:00Z
-    webUrl: "https://www.medianama.com/2023/10/223-google-ai-healthcare-all-you-need-to-know/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 34
   - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "M42, a global tech-enabled healthcare network, has unveiled an impactful advancement in healthcare technology with the launch of Med42, a new open-access"
-    publishedDateTime: 2023-10-12T17:55:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60353187-m42-announces-new-clinical-llm-to-transform-the-future-of-ai-in-healthcare-008.htm"
+    excerpt: "The model has been developed to exponentially enhance clinical decision-making and increase access to synthesized medical knowledge for healthcare professionals, patients, and medical researchers through to regulators."
+    publishedDateTime: 2023-10-12T17:39:00Z
+    webUrl: "https://www.macaubusiness.com/m42-announces-new-clinical-llm-to-transform-the-future-of-ai-in-healthcare/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 32
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 52
+    images:
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/09/Event_MGM-Oktoberfest-2023_media_v1_Macau-Business-Still-pop-up-banner_800-x-480.jpg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "sMgCmJ39LFQE3CZJ8c4m2rXJIn1itWqKVmRU82WX18pAVhCVzMaetrMmuBbxLxBVC3ykyg5XJ40UT+b4C6vXuE8vBv07sg1HY3vMe48/Vv7LL81blTdf5aBcu92HByowZPRHbbv2J8k70bPZYkNajv+8S5071/jhal0hpr1wd3D993HZBf+TTbKPUWAVfqKr2vG6mxN38E9bRFgaMkXxXSKuf/2w7ZkLFB/YE7/F5NvCCoEl8Iwr2Iux+841RrD7dAtNaTwrhCLEEi1iFjH0EQjx5o4NVRlfL4HI+JBPMRwL6UyGxv9ZgO47nXnp1nBjuSn/ylNdIUmk2pD33RP7g+lYl3ucu/2FxBBBqBFdqWc=;nKmpgOUiCVl4rBX2b0WkmQ=="
 ---

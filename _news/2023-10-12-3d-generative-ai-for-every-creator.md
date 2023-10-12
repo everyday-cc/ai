@@ -202,6 +202,24 @@ related:
       name: ecampusnews.com
       domain: ecampusnews.com
     quality: 19
+  - title: "Your Generative AI strategy could use a startup’s touch"
+    excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
+    publishedDateTime: 2023-10-12T19:29:00Z
+    webUrl: "https://www.cio.com/article/655535/your-generative-ai-strategy-could-use-a-startups-touch.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
+  - title: "Dumbing down or wising up: how will generative AI change the way we think?"
+    excerpt: "AI tools are becoming increasingly personalised to cater to our every need. Will outsourcing the handling of information to AI make us ‘dumber’?"
+    publishedDateTime: 2023-10-12T19:03:00Z
+    webUrl: "https://theconversation.com/dumbing-down-or-wising-up-how-will-generative-ai-change-the-way-we-think-214561"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 15
 
 secured: "mJcwyLhMXHzxMP16R3mPvNKbdVT0nGIuF0NbOt+X0tjU6SEhdj82g/PnUqNqpPkNUwDQrLVobvSMz3VwRT946FFdll/6sKjsXG59iM2Kt2VD0+IubmTvbYtTrci1ss6AQlezawEKiY8Gw9uAceBmsyYi+PDGgFcqmkZqg2OcHKeiPeppX6THDgg5/n6G0RY1GGiTRWaG7d5EtRlZXTJIch0fg4wQh4t18Vv6iXup17wmIkepBsk1NaDhRlqlxlHNvx/LTbudJ8qtOq2le27FeYw4MtxODEAUkOqNP7z/AkTPaiM8/VJIy08ZKI4d73ZKL8/rvCe9n1W/I2JxN0jFY2/ba6D5zw3ZC6fJUlE+Vss=;i7MchHe20EASetd4o8VJEQ=="
 ---

@@ -30,6 +30,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 0
+  - title: "Indigenous voice to parliament: Don’t slam door on children, says Noel Pearson"
+    excerpt: "Indigenous leader and leading Yes campaigner Noel Pearson has delivered his final pitch ahead of Saturday’s referendum, urging undecided people to consider the futures of young Indigenous children when they vote."
+    publishedDateTime: 2023-10-12T19:32:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-dont-slam-door-on-children-says-noel-pearson/news-story/f3a696ef1bfb6333b4a5520530540dc4"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "hErnn2byO1X9sf9Z/JfG9lIW314l9+qQv6ckiTZcdLjd7msFa8p/Su3MX59DEjYmO/hfuvp7vnsTecqbJPxT8w0r5OTYLaXxjOxoEmlN3wFrZD5SY9sNrfBHDXW1PdLKElttKiD82bwoaeEdCVeLsKgN03Bm0L03k50Ni4TIovF8j585a/sploYMqVLv3RSkjKkVwLoTMNW5O9B8tBoOkkL67GRhLKQajmWCrh/DvH2OmkdFiS2jQwJ6uU7tFEkNYTr2ua4K8I97fjYTFxgZSENvwFOYoWOblRrsgSR3P+WE6woGeFeDILbo0IhLi2y67hkOPlOb1+RJnduIL+Bjpiuc8vWVpSfbclZMi06h4LbPnhsZu4NlooDAU9VHaNvhatvJKh0jhWP577k6pNRhZfUMT9ilx36pR2g4i8CLHmxBHBdff2WspFSfrQd/m3vxY84+R9cSiPTFqybNsw6It/uI5sB8YxzAUlCDFX9DXBUqllDLswlfbg7TH9QK1uPrRu/Pk7bgYRetaXVQTo115g==;LErhECT7PRQmXw7IDnE0dQ=="
 ---

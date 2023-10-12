@@ -51,6 +51,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "10-Step Plan for Employers Using Artificial Intelligence in Employment Processes"
+    excerpt: "Artificial intelligence has transformed the way we live, work and even think. While AI offers seemingly endless potential benefits in the workplace – including improvements in efficiency, cost cutting and innovation – employers must balance those ..."
+    publishedDateTime: 2023-10-12T17:56:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/10-step-plan-for-employers-using-7996947/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 32
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15452_3935.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "E7Z/K1903luSzl2XQOqhgdAbaEGkk4MTqb0mXOmWv7AWLPTlBBBFpG54S8OCP0dIl8D29MKNwU1h/4j3fw1YcjjDBZttdPY5Pa/HNWUeVbG5xlLLndJsSAEfnz8nqK7yzKIWEAroMnjLEngEYPeFpcwv0Jc3tRIvkStA0aqi5YeCvM3Ss/416H2uadopCtMWqzj1M7Jhl9Cg7vDckJ5Og3m3n/gthEYLPheU3gXehnGzbBzWCANlyb7dDqICGrRZqVQRmYrGvSGdCoy0YoIMykPWn6X/RGFvI1/3REH2fLqCUOJMjV+qM5524EllQZB6jhv83dP4ngao9GuSBbKFZ+EzjUFKMbLLpEEncb2Czx4o6eldlSyLfVLlt5zhITZBPShgvWmn0sjOX9yAXozLPzhK+niLwh2US+VlvSvYcscPLhbEG+rm62xJldHrZnpMXbQMsDdM1UVksXJRC0beYk9Mw+mmTXQa/qWVCvsKiBqrOjYyh+UFIfAVQrLiWv5j2D3BzrR2V3IypZdCgNtRJA==;yvv88JupSvNMUFsOB+oR8Q=="
 ---

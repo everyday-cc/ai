@@ -84,6 +84,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
+    excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
+    publishedDateTime: 2023-10-12T18:08:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/5-tips-to-help-business-leaders-make-sense-of-the-ai/463286"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
   - title: "Sunrise and sunset industries in the age of AI"
     excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
     publishedDateTime: 2023-10-10T16:50:00Z

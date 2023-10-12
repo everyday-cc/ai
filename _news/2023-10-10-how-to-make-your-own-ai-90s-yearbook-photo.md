@@ -34,6 +34,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial Intelligence Is Seeping Into All of Your Gadgets"
+    excerpt: "Artificial intelligence abounds, and it’s only making its way deeper and deeper into every scrap of technology we use. Generative AI in particular is an invention that seems destined to follow us far into the future, so it’s best to try to make sense ..."
+    publishedDateTime: 2023-10-12T17:39:00Z
+    webUrl: "https://www.wired.com/story/gadget-lab-podcast-616/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 47
 
 secured: "Nn3936yYVnNFOvCn1RSDVyu3bb8SoSwh2VOUqfjnzI5/3KFE0+xWI7ZgZTAOhx2WKUaFPHV1uAwfFV9UnPOxkVczOw8AXoPnhoFUWyNTYJObcqejTkkzWSE2wA//1QHN9hAmAHVsytA/K5saG1xWYsYSdyBF0CFZPCsYy1JxxU3QcfsDQ7uh22g7dG0OReGUPg04VLAD/LPm2aJn8Aaz5JCGz8LR0QVgIwwuwaE4fXzrKKQ3VlWOrT6mYFtQP4vESDElgkc4PnAog5nM477wwUYaxTmqnTQ9mg0JNhUKLq+cgN0Zs7yRoF89detm4Zo4fWKg+RpArseC03cWhOMNyUayaysf4xNGH6CChEWYkE0=;z6eXVAdaeLK1mqLMCJFK3w=="
 ---

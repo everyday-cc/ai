@@ -33,6 +33,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "MEGA International Announces Udpated AI-driven Enterprise Architecture Platform"
+    excerpt: "MEGA International, an enterprise architecture SaaS software company, announces the launch of HOPEX Aquila, an AI-driven solution for digital transformation. Leveraging a partnership with Microsoft, HOPEX Aquila includes the launch of the new HOPEX AI Assistant."
+    publishedDateTime: 2023-10-12T20:31:00Z
+    webUrl: "https://insidehpc.com/2023/10/mega-international-announces-udpated-ai-driven-enterprise-architecture-platform/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 35
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/12/Generic-data-algorithm-shutterstock_768710794.jpg"
+        width: 500
+        height: 270
+        isCached: true
 
 secured: "bcKcOEsUlxRHs8W9yLsh3eaMZ03Z00lbIOaDEEir2TAu9gxuLs/F/vkU3elaJm3ZEc9uqnbHkexQWNolCaLk4hDNVTs9t5UrkMOVDYZxThu1dOjrLwYoT5H0zOfiN34m1R5ghnX0DlcZ1Wrr0kY+msINA6vkXLk5XyH4HdPfFhe4q2Bmxf9QNoL4FZQ9iD1qIvxmYNmy19sS4bfsRFbsuNTpNTEVaemjmh1tG4igZw5UdFzppzrjmzQTJghPAkJe1DfUg9Lzh/5zERJNrSt7GYUG0cCwm0AInDOwlGLnJoTk/XH4OxC88wyCm2ZMuzLm72nns+jIJPwedMBNjMbhSb62MmFWDOH6Rm3uaGraav3kCt9RTKzTkZOB7BtoDFdOyEamio1d9ZxaIqzXgfspRgN6AFQNOZ+dqIZtYQpKJl5fMxLo+H+yyqTB7hYqGEPfZcs0Ij85Q+hwun0HDYluonrpTijqHcCCRV5uVgr4Oh01/lBbSEllxDuiDht3cEmTcjcOEX90/GBw4alfsSBxCQ==;fx6ptWhng0QwgWPcUDZMzg=="
 ---

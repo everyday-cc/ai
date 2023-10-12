@@ -26,6 +26,15 @@ images:
 
 related:
   - title: "SolidRun Unveils the Hummingboard 8P Edge AI SBC with Hailo-8 AI Processor"
+    excerpt: "image and object recognition, surveillance, smart cities, IoT, and more. This SBC kit features the flexibility to connect two cameras, supporting Basler MIPI-CSI cameras or USB 3.0 cameras for powerful computer vision applications, and can even support AI ..."
+    publishedDateTime: 2023-10-12T15:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35223515/solidrun-unveils-the-hummingboard-8p-edge-ai-sbc-with-hailo-8-ai-processor"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
+  - title: "SolidRun Unveils the Hummingboard 8P Edge AI SBC with Hailo-8 AI Processor"
     excerpt: "SolidRun, a leading innovator in high-performance System on Module (SOM) solutions and developer of embedded systems, is proud to announce the release of its new Hummingboard 8P Edge AI single-board-computer (SBC)."
     publishedDateTime: 2023-10-12T17:25:00Z
     webUrl: "https://www.tmcnet.com/usubmit/2023/10/12/9897892.htm"

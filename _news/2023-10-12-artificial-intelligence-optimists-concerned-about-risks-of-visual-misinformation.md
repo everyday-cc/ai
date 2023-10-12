@@ -40,6 +40,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Behind the Prices: Is Generative AI Legal Tech Cheaper to Buy or Build?"
+    excerpt: "The costs to run or buy generative AI-powered tools can be considerable, but there are no easy ways of getting around them."
+    publishedDateTime: 2023-10-12T19:57:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/12/behind-the-prices-is-generative-ai-legal-tech-cheaper-to-buy-or-build/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/How-Much-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "depa partners with AstraZeneca Thailand to Boost Digital Healthcare Innovation for Thai Public Health System and Improved Quality of Life"
     excerpt: "The Digital Economy Promotion Agency (depa) and AstraZeneca Thailand continued their partnership to promote the adoption of digital healthcare innovation to improve Thailand’s healthcare system, to expand the use of artificial intelligence (AI) technology for initial lung cancer screening and expand the results to other types of cancer screening."
     publishedDateTime: 2023-10-09T01:37:00Z

@@ -203,6 +203,24 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Your Generative AI strategy could use a startup’s touch"
+    excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
+    publishedDateTime: 2023-10-12T19:29:00Z
+    webUrl: "https://www.cio.com/article/655535/your-generative-ai-strategy-could-use-a-startups-touch.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 17
+  - title: "Dumbing down or wising up: how will generative AI change the way we think?"
+    excerpt: "AI tools are becoming increasingly personalised to cater to our every need. Will outsourcing the handling of information to AI make us ‘dumber’?"
+    publishedDateTime: 2023-10-12T19:03:00Z
+    webUrl: "https://theconversation.com/dumbing-down-or-wising-up-how-will-generative-ai-change-the-way-we-think-214561"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 15
 
 secured: "325mGr8sPHGwKx2Z7s46Z7lQCZ8UD0OThgUUBUadqHLHbcKuhBryy+xmp8/VudePp6/aubZcTnE+PEzUeHBz1XUSmZb7C1g8aG0LUzk/KEdBEEodUKNxJpdq78na1gBtk4isSKoaFZLwQS7UZLdVyPIqLVvBVG1mxO7AL5AVRRWbWm/eFzEgW9RdE1hSSKigyHtHnT3ujW2iKoSIAp8BQ3ThQCNmFztk40VfP6xrFuZj/mXYTtCDSvcnkglzub95Eptk1b1egoFxfvc2znbg9JuzH7PkWPR0IZg2gYqzWTunKiSVrTcvOAkcl4Tjm1J6kQR9fbXN26KsYKRwIGWuvaAFb4rwQBaPTxY4miWFaes=;zkSVlaRBwFVSvFn4uIHkLw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/science/2023/oct/12/researchers-use-ai-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/oct/12/researchers-use-ai-to-read-word-on-ancient-scroll-burned-by-vesuvius"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 372
     isCached: true
 
-secured: "WTA1GUEBWDkTxX6xNQEy+1pRg7KT1oUycbJK4S+rz2syANiXX/ROLK9HLP9V6oJqU8aCHi8+FvO4xodJfFAUcxu/CPlSzstISs0r6h5YHubYrJ8YhlZjOWdPgjpw+AQRmzHDc7gqMHIxyRgRkbs8kQi6PScWvdTAjEhwU9HNeNul0DmT+jdcGl8vB7H30mi8rgCPvf7iw3ifCaXIhXw/7Ha+1rCHCbktdp3bKLE0bIu8hXG1n9PahaMJgtqzY8bXioFcUKyghDW5wTYf8D804Yrl+HJrqIWOj4FX3PZKBefoR/WiFYfskANPz8x75y/lnuvwRqmx7fjlUThyGusjU0AQpJ6YiVei5tY0b3Kxz+0=;NTe38DPQMXrX25NG1ePVgg=="
+related:
+  - title: "AI reads text from ancient Herculaneum scroll for the first time"
+    excerpt: "Charred scrolls from Herculaneum can’t be opened easily, but X-ray scanning can reveal their contents. Credit: UK Photo A 21-year-old computer-science student has won a global contest to read the first text inside a carbonized scroll from the ancient Roman city of Herculaneum,"
+    publishedDateTime: 2023-10-12T20:41:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-03212-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03212-1/d41586-023-03212-1_26151284.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "B8ND5Rsc1zyZjyHizL5AseeON2JOLrH3rAwmaySjJdhI5BLego/nYrxw0MBt1EsDIwfIm5u8uqtkuR2wbHlOVxMfcalK8t2n6cqMzt4rybKxNNCGzwrweNoKFvvYW+shojIA5IoKLLWFTZwKGSJ7RT0Rb7uHMsgGcm/vf4afpylKRpvvLEMoq+4P2Qiw3/JaU0f7uZFgcXZbZUNLjeP7F1UF5Zlaf9pLCxys3z2/w4tMj8sRBaMyluBAcRDMfmX9n5SlsrJUls7q++g2XIc/uROyn7A+tAiDERUosQ693uPY8DI46Zntcp4M0mQ3g6lMszQypDcdKpIuGL+KQNUQTMQ9mDxDLFZBztvG/PtnpvQIGUOK6O0L9vVjeAbhl1GEUM4nCthesEjIIx9/9uN5ppVKSMiCP+NQql4h2bLEA3SEml55KFLymZn7Z2cSK2PCkdoWkqGvaROBgrJFwsI4IuRy8P2jfGeP/6g5ohWVbyLyABSfq0s8U13YbW3zVk327ZkLXNbnJzSlLCryaZOeug==;2Am+BYZbhyurhrDqStSpoA=="
 ---
 
