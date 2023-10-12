@@ -39,7 +39,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 72
+    quality: 76
     images:
       - url: "https://www.techrepublic.com/wp-content/uploads/2020/10/artificial-intelligence-cheat-sheet.jpeg"
         width: 1200

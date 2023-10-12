@@ -7,8 +7,8 @@ originalUrl: "https://www.fmiblog.com/2023/10/09/cyber-security-in-robotics-mark
 webUrl: "https://www.fmiblog.com/2023/10/09/cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-11-6-billion-by-2033/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Future Market Insights
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Surgical Robotics Market is projected to witness lucrative growth by reaching up to USD 19.9 billion by 2030"
+    excerpt: "Because of the prevalence of technology like artificial intelligence and cloud computing, which will help to improve performance and reduce the burden for humans, these robotics innovations will be innovative. Thus, the benefits of surgery are known to ..."
+    publishedDateTime: 2023-10-11T23:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35207759/surgical-robotics-market-is-projected-to-witness-lucrative-growth-by-reaching-up-to-usd-19-9-bill"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35207759"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35207759"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Healthcare Cybersecurity Market Size to Register USD 21.06 Billion Globally, by 2030, at 17.80% CAGR Growth"
     excerpt: "Global Healthcare Cybersecurity Market is valued at USD 12.96 Billion in 2022. Global Healthcare Cybersecurity Market valuation to reach USD 48.05 Billion by 2030. Healthcare Cybersecurity sales to account for a significant CAGR of 17.80% during 2023 – 2030."
     publishedDateTime: 2023-10-10T14:24:00Z

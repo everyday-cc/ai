@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Godfather of AI’ says that AI could take over if humans aren’t careful"
+    excerpt: "One of the \"godfathers of AI\" says that AI could takeover and rewrite its code so that humanity can't control it."
+    publishedDateTime: 2023-10-11T22:53:00Z
+    webUrl: "https://bgr.com/tech/godfather-of-ai-says-that-ai-could-take-over-if-humans-arent-careful/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1596
+        isCached: true
   - title: "AI “might take over” one day if it isn’t developed responsibly, Geoffrey Hinton warns"
     excerpt: "There’s no guaranteed path to safety as artificial intelligence advances, Geoffrey Hinton, AI pioneer, warns. He shares his thoughts on AI’s benefits and dangers with Scott Pelley."
     publishedDateTime: 2023-10-08T23:29:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-11T18:49:00Z
 originalUrl: "https://insidehpc.com/2023/10/achronix-announces-fpga-powered-automatic-speech-recognition-solution/"
 webUrl: "https://insidehpc.com/2023/10/achronix-announces-fpga-powered-automatic-speech-recognition-solution/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2023/10/Achronix-logo-2-1-1023.png"
+    width: 669
+    height: 334
+    isCached: true
 
 related:
   - title: "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart"
@@ -104,6 +110,6 @@ related:
         height: 449
         isCached: true
 
-secured: "Uo5QDTrJnJZim8Cp7iTgM8IZvVlqC6kLhs6GWYiyaMXxWs2zN47RUyrl19+Qp51YFyoofMKcFrF1FFL9CEwZVURb/L70GRFYwsBwhP2o5qXAPSKeqP45iqp+j29lmMOsr4wdePstVLV1RZ4Yh+eP5InVpqDDMH9bpWw5O02tLJ+H97MWJ7ItD67vNhPcCRV2PvFQi5/Pwotcx12AVnyCXO/301/C4wqo+9GxUOR2uHNirVBgpZ2W2/X+PLryzwCqwojwsydWdkRbHJF8B8Loqk6bY7pNNoSptmpuEM93fsZ6EYTsN//+9d4vzzCCRE61ZKNDsYTrwzyYnWfFcZvYTSdrh/PI5+diSZCYYpjSi1w=;KAJmDLaUYRGDCRjX2tKkuA=="
+secured: "+iY+4arMnU7OHa+IV0gIRTymVoziLXyIw2FbDPvcJ7+SzsPmoT20dMaue7ME9Ty2EE6st6gUj8nuig1Ng7LIXuPCuF2LRbSiRmpRfOHyEfGZZI0C/UxipNZyBHmHOss54e1ea4PI6SQUY46gCR3zfBMq69asaLhSS5Yl2lnGwp9TVQsXa2jM6fvCihKGJs6rLXaLdevw08aIAK3TFRqr5celXhDoJBibXiRHXiVeMD0a7g/M4/O8L9AJIi9k2lSO1olyUb5oH/f/+pu2R6RpnOvA5McIdEUUfElMMVkzieXJfZMT2ckAfj0NtIxib6NzOarfwfS+FP3U+qArvMFXGQEuIiq3huT6691+awcq5yc=;1i2bvyFdIbH+/3M5fim7Yw=="
 ---
 

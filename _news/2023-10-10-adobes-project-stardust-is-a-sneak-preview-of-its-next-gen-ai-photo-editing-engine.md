@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobes-project-stardust-is-a-sneak-preview-of-its-next-gen-ai-photo-editing-engine/amp/"
 type: article
 quality: 83
-heat: 94
+heat: 93
 published: true
 
 provider:

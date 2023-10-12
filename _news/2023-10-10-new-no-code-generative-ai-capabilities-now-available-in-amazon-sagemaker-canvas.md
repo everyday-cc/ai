@@ -107,7 +107,12 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Achronix-logo-2-1-1023.png"
+        width: 669
+        height: 334
+        isCached: true
 
 secured: "1LLIQKtQsLmG+rh1E4nu/7QdqkqOkJN3OQAf8ahJlHKnK7SlShJI2mDLPM4zF1nZvqEI95axDYD/mcyGbe8X0yrX4Y/dcXqF3tbRcYe5Ugp2eAthQkVO9l6a/aiT4KyKzZqdccpiUz0cWQmuHUSELIJapaTTf+/adIPWtMDdnHGi9IEUDrYzWf9RA4TFosZj38j3cAUODZiaTKXQMnO+4zvBvPunozJF3iw03r3kLFziXnHz0lPirfv+iEHn4gBwlkBTtT1/U/8bklwISax6J1gOQYlmqFoM0H9uU6Xldop15AAOQ5gv1xZROwT8CJr2Fh+PvtBC1Az8GZj5XCzGWpIMtbS+mjroWKWUuUhIZ4I=;XQyBuNPJewJXhL0Y6Z32qA=="
 ---

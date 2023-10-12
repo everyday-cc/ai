@@ -49,6 +49,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "‘Godfather of AI’ says that AI could take over if humans aren’t careful"
+    excerpt: "One of the \"godfathers of AI\" says that AI could takeover and rewrite its code so that humanity can't control it."
+    publishedDateTime: 2023-10-11T22:53:00Z
+    webUrl: "https://bgr.com/tech/godfather-of-ai-says-that-ai-could-take-over-if-humans-arent-careful/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1596
+        isCached: true
 
 secured: "7YmFUCC2aIk6HIj7fel5bjLZJ+VH5nHPrT/wacftQ0o2QZE19/ShVqXMzm1WKxtI5YrtVNayFaD51UyBpK5WboTYeDYPBgXM/2kWYAwy7Cj6PaE8Rpz8mCXL8lFTINaMJxW3JOLUzOhFirwmZHifMYRgqx9iqVQGWubIcD/S6LgxiCBUoeSpNo6YYhhUcflNAdU3Gu0mGGcTZ1fJdkxsmLrishCF67A9VFLe1tD85Er+nvJFwBflJFi7n6/gmq8lH7HRodkIIF+EcS3dFs7i2Jj0d/XMHlAbSt/O9GHNxqldV/I0QNyUxndg37yvvwQs0xprVIeNuy7c/VLQXQbnvhyKW3cKTUzkG/WmKpRfFKJ/vVxLcQE6UaziMNau/3+vC/r234j300evswO6FWiGLJTn/MByVui/i4J0jHokPovLpQHwyIdJQu8S2WFNdBMHRGknikwLscLUAgA2/scji8YRbxOpu2mFU+UE0H6XKX1Kt3BMvwEkKzYUlrPHRYQfpzlUr5+IddbNFXbwU5fXlQ==;BBo2q87zrF5vr7O0U0duRw=="
 ---

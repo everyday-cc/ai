@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-10T16:28:00Z
 originalUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/"
 webUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/"
 type: article
-quality: 72
+quality: 76
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Microsoft AI
+  - Facebook AI
 
 images:
   - url: "https://www.techrepublic.com/wp-content/uploads/2020/10/artificial-intelligence-cheat-sheet.jpeg"

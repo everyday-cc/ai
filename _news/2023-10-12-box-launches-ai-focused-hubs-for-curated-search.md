@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curate
 webUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/"
 type: article
 quality: 67
-heat: 87
+heat: 98
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg"
         width: 600
         height: 331
+        isCached: true
+  - title: "State Artificial Intelligence Task Force Created"
+    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
+    publishedDateTime: 2023-10-11T18:20:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 37
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
+        width: 775
+        height: 500
         isCached: true
 
 secured: "6bcE+8qID8aV4R+bBBhO19I4j+XSgyXw7Srk4AWqN21yJgo12D/leZZ7nT8oYRnRO6bzNtb98ECZlrE185qPamWSv2oLFIgLxnTg5xDcJzhkAkKVdrDBT+AcIJHjsRzBSkjYGG5XVsTCHQoBQGciQst2C3+zHnqyBWrgxx4Yvsc19H3/Mz8lCqeIBAEa+CnKsERBJsr7NbeP/ldU+tvgar4XWobCfU7ze3t0+dZqf+ElWAnqxPpsaS4VgEYcjE+zbk5SRj1zXo6FIA+GxWyt9X5YThTMXt6juYV1t2r4n7cPLzxxUKtUv+ftRMoeIdenbwA/utOROkMZOTOwjD/rpb5p7q7Q0c9fbZfmELoLp2M=;mWyhJP3Mq8kjFjtMDP/8mg=="

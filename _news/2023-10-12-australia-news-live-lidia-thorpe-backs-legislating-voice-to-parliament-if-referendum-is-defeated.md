@@ -30,6 +30,17 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "Lidia Thorpe’s unexpected call on Voice referendum"
+    excerpt: "Lidia Thorpe says she’d support a legislated Voice to Parliament despite being one of the referendum’s most outspoken opponents."
+    publishedDateTime: 2023-10-11T22:36:00Z
+    webUrl: "https://www.news.com.au/finance/work/leaders/lidia-thorpes-unexpected-call-on-voice-referendum/news-story/f4610e9d47fd7f3020d70325984a8fdc"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 4
+
 secured: "qPNYDGqnreXHOfygy49KmexIzY95zqcLLZVw1sjXJjE7f+NOKtn801jPLTfeHhh4h0JrUwmVl0aD2OVIvyAyifPSAuZn13U0yZ2KawOaLNivRpJWu788exvQgpt1mU7rrUs2vKNxy27AUWwYHDUExrkh1DcaZ5bfOxfP2HiXb7sv4lU5liSz05teadi4EKNKdBawBvieoTTo4iHGQ7H4BRD4I1JyL5lVwCBz6RXycohaBYwVKhHVs7KuhhbvYjwG8dkYQFAl5DEs8l4sKSbtgmt/IBVHOkd4yGB0k+9IvIcUVc3Jl3od2IYjIdS/aEiZOuhh4iPR0p0AIbi2Ak7Atf5KQzMNiLYmhFYlbrEnz0M=;9//9jqL3DMfEEmhVkGIL6w=="
 ---
 

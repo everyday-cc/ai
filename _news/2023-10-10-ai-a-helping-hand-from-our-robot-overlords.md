@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-fr
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:

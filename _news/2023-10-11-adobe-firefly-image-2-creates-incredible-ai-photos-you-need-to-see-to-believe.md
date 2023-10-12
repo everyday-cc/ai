@@ -38,6 +38,20 @@ related:
         width: 1117
         height: 630
         isCached: true
+  - title: "Adobe unveils Firefly 2 and previews more AI features: what you need to know"
+    excerpt: "Adobe is allowing companies to customize and fine-tune Firefly for their needs, and control how their employees use it."
+    publishedDateTime: 2023-10-11T23:49:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Firefly-A-field-full-of-fireflies-atop-a-city-building-67568.jpg?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "UN Conference to Focus on Impact of AI on the Film Industry"
     excerpt: "In 2021, UNESCO established the first-ever global framework on AI ethics, the Recommendation on the Ethics of Artificial Intelligence, which was adopted unanimously by its Member States. Tom has covered the broadcast technology market for the past 25 years ..."
     publishedDateTime: 2023-10-11T17:46:00Z

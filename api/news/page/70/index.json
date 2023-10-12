@@ -2,6 +2,186 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-08-22-chinas-baidu-reports-15-revenue-growth-beating-expectations.md",
+      "title": "China's Baidu reports 15% revenue growth, beating expectations",
+      "excerpt": "Baidu also operates self-driving taxis under the Apollo Go brand in China. In the second quarter, Baidu said it ran roughly 714,000 robotaxi rides, up from 660,000 in the first quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/22/baidu-earnings-report-2q-2023.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/22/baidu-earnings-report-2q-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107289832-1692682147676-gettyimages-1615403121-CHINA_BAIDU.jpeg?v=1692696226",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/22/baidu-earnings-report-2q-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/22/baidu-earnings-report-2q-2023.html",
+      "publishedDateTime": "2023-08-22T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-leanix-partners-with-microsoft-to-bring-generative-ai-to-enterprise-architecture.md",
+      "title": "LeanIX Partners with Microsoft to Bring Generative AI to Enterprise Architecture",
+      "excerpt": "LeanIX launches the first-of-its-kind AI Assistant for LeanIX EAM, transforming the way organizations collaborate with their data",
+      "sourceUrl": null,
+      "webUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
+      "originalUrl": "https://www.charlotteobserver.com/press-releases/article278479764.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Charlotte Observer",
+        "domain": "charlotteobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-ai-is-remixing-musicbut-the-dj-is-still-a-human.md",
+      "title": "AI Is Remixing Music—But The DJ Is Still A Human",
+      "excerpt": "The truth is that successful, AI-generated art will still require a human touch. Despite its ability to automate tasks and generate images, AI (for now) is still limited by the abilities and decisions of the people responsible for its creation, editing and programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e38a5f40c0644c620c8def/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/22/ai-is-remixing-music-but-the-dj-is-still-a-human/amp/",
+      "publishedDateTime": "2023-08-22T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java.md",
+      "title": "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java",
+      "excerpt": "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java",
+      "originalUrl": "https://www.crn.com/news/software/ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0281-17ff763feedb-c722086b95fd-1000/2_watsonx.data.jpeg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-move-over-faang-these-brilliant-artificial-intelligence-ai-stocks-are-laying-the-groundwork-of-the-future-and-could-soon-skyrocket-as-a-result.md",
       "title": "Move Over FAANG: These Brilliant Artificial Intelligence (AI) Stocks Are Laying the Groundwork of the Future, And Could Soon Skyrocket as a Result",
       "excerpt": "The generative AI market could still expand at a compound annual growth rate (CAGR) of 34% from 2023 to 2032, according to Allied Market Research ... and spokeswoman for Facebook and sister ...",
@@ -975,195 +1155,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-why-ai-is-on-the-edge.md",
-      "title": "Why AI Is On The ‘Edge’",
-      "excerpt": "It might be possible to find an enterprise technology vendor that isn’t currently extending its core platform with new strains of generative Artificial Intelligence ... delivering Deep Learning (DL) and neural network intelligence for users to quiz ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/21/why-ai-is-on-the-edge/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/21/why-ai-is-on-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64df67b9721527373ad8ae1f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/08/21/why-ai-is-on-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/08/21/why-ai-is-on-the-edge/amp/",
-      "publishedDateTime": "2023-08-21T16:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ai-run-etfs-keep-missing-the-mark.md",
-      "title": "AI-Run ETFs Keep Missing the Mark",
-      "excerpt": "in-depth research, investing resources, and more. Learn More The robots may need some lessons in self-confidence. There are at least 13 different ETFs managed by artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/21/ai-run-etfs-keep-missing-the-mark/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/21/ai-run-etfs-keep-missing-the-mark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-robobusiness-generative-ais-impact-on-robotics.md",
-      "title": "RoboBusiness: Generative AI’s impact on robotics",
-      "excerpt": "The panel will include Pras Velagapudi, VP of Innovation at Agility Robotics, Jeff Linnell, CEO and Founder of Formant, Ken Goldberg, the William S. Floyd Jr. Distinguished Chair in Engineering at UC Berkeley, Amit Goel, the Director of Product Management at NVIDIA, and Ted Larson, the CEO of OLogic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robobusiness-generative-ais-impact-on-robotics/",
-      "originalUrl": "https://www.therobotreport.com/robobusiness-generative-ais-impact-on-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/08/genai-keynote-featured-1.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music.md",
-      "title": "YouTube and Universal Music Group join forces to explore the future of AI music",
-      "excerpt": "YouTube announced it is launching an artificial intelligence (AI) incubator designed to explore AI's role in music.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music/",
-      "originalUrl": "https://venturebeat.com/ai/youtube-and-universal-music-group-join-forces-to-explore-the-future-of-ai-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/nuneybits_robot_piano_player_in_the_style_of_Ernie_Barnes_1db59697-574c-4365-a013-aa6356769289-transformed.png?fit=750%2C600&#038;strip=all",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-21T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

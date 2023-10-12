@@ -41,6 +41,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Meet the high school sport that builds robots — and the next generation of engineers"
+    excerpt: "gamesmanship and intelligence — both human and artificial. Local engineering and IT professionals volunteer as mentors, but older students also teach their younger teammates. Team 299 Valkyrie Robotics of Cupertino, Calif., tend to their robot in the pit ..."
+    publishedDateTime: 2023-10-11T21:05:00Z
+    webUrl: "https://www.kqed.org/mindshift/62512/meet-the-high-school-sport-that-builds-robots-and-the-next-generation-of-engineers"
+    type: article
+    provider:
+      name: KQED
+      domain: kqed.org
+    quality: 32
+    images:
+      - url: "https://ww2.kqed.org/app/uploads/sites/23/2023/10/mleong_scioly_20230831_slide-1fc39305d8ab464d47b44d973eec5ba99454c852-1020x680.jpg"
+        width: 1020
+        height: 680
+        isCached: true
 
 secured: "N7I6xfhaC1S+AXsImdMHe2NUACl2gIT95Ze0u94uqeoCRl7/CejrZ/dxqDBaUkarHWY3lCNWTxZKdY3Pgq3dxw4kvcGeR0E32L9YIzajr3sI/z63vDln87Iy1PQ5FFoKVAXNhBCfJ+q6J880LYXznFDBbn9VRJIQLYZwcgHvJdXpy8I1z+PHLiLWWbeyIzC7HM4Tqnt8QBLrp4rR5OSUVVSiuihDhEeuHHJ+Q8FEj9y+sF7evGH7BnlLjtEW6c8vgffjAueDzgw0taZOz3wxmvLwKZna4gXmNOnv39GUO55YxmSTtLUZbpAaDH0ww580YX2R8C9Ab95UbJeRIfHW4oDK3cagsY5NMvL4ijRb4gzwFf2hEXm65vOBUGoeuuC3syiGFk0RQ5FRzZzFgDtotwDyKyeLD3OEBuxMcklpaZ4Mup1nd34aFQjxSvnJb+sD9PezMg2TVch6iHf89T1gfrBBr9XTtjNGwOZtM/9cTp/3FBpugT9RvVTeVDTnNnv+HV1su6eURsSvu+qjc1xVhA==;pZL0iBjMnTvi8QhYUQ233w=="
 ---

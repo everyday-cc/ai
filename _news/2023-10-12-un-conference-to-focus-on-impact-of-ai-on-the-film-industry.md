@@ -39,6 +39,20 @@ related:
         width: 1117
         height: 630
         isCached: true
+  - title: "Adobe unveils Firefly 2 and previews more AI features: what you need to know"
+    excerpt: "Adobe is allowing companies to customize and fine-tune Firefly for their needs, and control how their employees use it."
+    publishedDateTime: 2023-10-11T23:49:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Firefly-A-field-full-of-fireflies-atop-a-city-building-67568.jpg?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Adobe Firefly Image 2 creates incredible AI photos you need to see to believe"
     excerpt: "But Adobe has to start somewhere, and hopefully, these requirements will prevent Generative Match abuse. The bigger protection against AI-generated fake imagery is the new Content Credentials feature. It’s an open standard driven by the Content ..."
     publishedDateTime: 2023-10-11T15:39:00Z

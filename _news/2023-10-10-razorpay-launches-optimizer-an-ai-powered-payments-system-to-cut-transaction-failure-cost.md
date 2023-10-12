@@ -59,6 +59,22 @@ related:
         width: 1020
         height: 675
         isCached: true
+  - title: "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments"
+    excerpt: "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer."
+    publishedDateTime: 2023-10-11T22:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg"
+        width: 1600
+        height: 1291
+        isCached: true
   - title: "Razorpay launches AI-powered payments routing system 'Optimizer'"
     excerpt: "Razorpay launches AI-powered payments routing system 'Optimizer' - Full-stack fintech platform Razorpay launched a payment infrastructure, ‘Optimizer’, an"
     publishedDateTime: 2023-10-10T14:16:00Z
