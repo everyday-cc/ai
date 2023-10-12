@@ -147,15 +147,6 @@ related:
       name: Law
       domain: law.com
     quality: 19
-  - title: "Understanding Agentized LLMs: How to avoid making rogue AI"
-    excerpt: "Recent advances in AI and the release of ChatGPT have sparked new interest in AI as a tool. Agentized LLMs are the latest attempt to make highly-specialized AIs, and to avoid them going rogue."
-    publishedDateTime: 2023-10-07T17:21:00Z
-    webUrl: "https://appleinsider.com/inside/xcode/tips/understanding-agentized-llms-how-to-avoid-making-rogue-ai"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 17
 
 secured: "Bv3pSeGGeAqG6VLZODOeA2QEdIOHWZ6dfJMuntiL2pASGC1S5UP2fopYf2Brz1h1NEoKELnuEFut+qro+frTwUzMJbbYZfmwioR0NXxBwaiFeWStyz5PXJRoDuSDJbCetY2Vvq5ySnU7z/bbwD8yxy8FEU8Qfc1Ta18fYsGXJTo00bWKmc4gNM7aFOTOtW0ybXP4EOwZ9S3b4SvbrZaaUD3HDazzxEBlRggi8IFipBQqiVrAAA4nORYES3/x6neSq5YFNHY9DSQJtkGq9DpE60dnhAVqodF+6f8z/jkAfAvOShZ0a/CgNFaVZRocrrnmjMtpAgA/QZdyxReMBwJNp9Gniks6jc212L6Lo16pohk=;Fz7zHg1X9hdJtvJm9ylW6Q=="
 ---

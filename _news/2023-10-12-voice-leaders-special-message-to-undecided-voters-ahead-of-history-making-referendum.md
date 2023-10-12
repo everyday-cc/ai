@@ -2,24 +2,22 @@
 category: news
 title: "Voice leaders special message to undecided voters ahead of history-making referendum"
 excerpt: "Leading Yes campaigners are issuing their final pleas to undecided voters less than two days before the referendum."
-publishedDateTime: 2023-10-12T01:53:00Z
-originalUrl: "https://www.news.com.au/national/politics/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336"
-webUrl: "https://www.news.com.au/national/politics/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336"
-ampWebUrl: "https://www.news.com.au/national/politics/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336?amp"
-cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336?amp"
+publishedDateTime: 2023-10-12T11:30:00Z
+originalUrl: "https://www.theaustralian.com.au/breaking-news/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336"
+webUrl: "https://www.theaustralian.com.au/breaking-news/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336"
 type: article
-quality: 17
-heat: 17
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Couriermail
-  domain: news.com.au
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "xBNzPI46Jl5NktEsfQVOt0fyigO1UcFsgqgIsJ2y/HtYrrlm2Cm6Y4xjUW+rhx34r76P8ROiXcKX1M/3R8nScd9mlO8fUOYeZfYUhaD492kNk1seSad2W7236EceDEZJ0mnsXsjR8vxnXnGcLWmJ9wTc5jiNoGjb4ZRWoxKYQe5ZA/+/UwhBysG+GTxQ1hUHuvxbmoGsy5PEaTk4+sV1Wc5b1eVkwu9Z77RaipG1Hs1WYTmMIlmhfSlrZEi2fs6QiPDWwWyTOXFtXYdGRHAWoqWmMl8xbyy0EHSCtmC4257l67axT+tLJknbESXM2x1Y4ghG+pp4AfNwSZotgF+tajliyv6bo0YFPjjGI0TlCgcXQhKkSLM2ly3S7NWhx4GeTwePWJDqMnm/D0n7wP6IPnMEPJjBhsrW73qSGS9jKgl2UPWjL48GgroRsEV4D4wveYotuj/ts7bZzTpiGxRn1PhwNau7N1Vvj1ZqMBr/VVD51mJx3GxTkziLt/5sMvJwIk8vqEyyLdU5qCLEtShqNA==;sYIp9RiEPzjI01g7JtEFcw=="
+secured: "tn96JIf7oFJBn4P1vE9uRfzeD0VeM21S7w5B9aiiF1SQecixPfYyuTi3te9kflvnIs8OrPfdAdVtp00JQnlfjDmhllr0qibBjDVcmJelk91EFzU0OKbbswT/FtY4K4xyXwQPoexMmgbUw/nyTzQlZTb/dhNnb1xBtPfey5KmExE0mE9ic90OiTU1iamD9dQ0I4OKEzzud+05VrTH+4CgPQ7gA/aitqACplpMGAhW/doScZ24V+0+t7w9VEfKp3B5rF8eWhpu9X4Zxv9TcSi4R1ymfFQcRElRbz52CNgs2eGI+8eHCcr/yCRypYIuj2k1I8pKaKwEsuZAzw/r6rKUL0hdkN73Adkdv24QapG1tFpV5QppWLIKru56klkEYQ1aJi4yzi/++aflr1jQfn4+69NKvIx3oWv3uD1ArmSnAtlp6oRcmp/AR0MWpR+91W59W8cXfY4R+1Q3Uf2q0JisJb/9V/zdJdjMYcX6p+ocjrNiKiVA6FFDitLluF/kCdQmMjoZi5hR9on/vw3SKYaAKw==;xhQw/e1LHCrtW+WfLjejWw=="
 ---
 

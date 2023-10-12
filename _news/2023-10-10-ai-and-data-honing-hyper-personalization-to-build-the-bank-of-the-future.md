@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-pe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
 type: article
 quality: 103
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2023/10/Members-of-the-153rd-Intelligence-Squadron-perform-tasks-as-part-of-the-space-focused-targeting-mission-at-Ebbing-Air-National-Guard-Base-Fort-Smith-Ark.-US-Air-National-Guard-photo-scaled.jpg"
         width: 2560
         height: 1700
-        isCached: true
-  - title: "The Intersection of Data and Generative AI"
-    excerpt: "Microsoft's Buck Woody breaks down how SQL Server is leveraging gen AI, and what skills you will need to stay competitive."
-    publishedDateTime: 2023-10-10T20:19:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/10/the-intersection-of-data-and-generative-ai.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIGlobe.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "Generative AI and the Future of Machine Translation"
     excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."

@@ -49,15 +49,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
-    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
-    publishedDateTime: 2023-10-09T18:05:00Z
-    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
 
 secured: "v621lq2w2HnF3mWuMs9E+e9V2s6zApw5YKBQEND9ZMtmfhvUL0Tphcdo9MmeAQ67rJ20nHsz3uhM9phws9zqRGRPJBfpseSCTDQQPDfy4/id0VHScQiWORcY9IiVc25nyj6O/ff74aBhvWDZpS3ojvP5yblolmgVU0BAi4KL1GkQNr9laGaub4XESoOVbWkyPX64AmA+TCEArV63kF35RoofOk6cEOuplE97l/CRqFOOqL4378sHBj7OzBL8jB1y/5sjUUZPE4ydAKGKb8qRZPWmxjxlhGkjHdzluRjzRZ4qFduKShcg3EFyyertxjPVgjrf2EaFyiWKwgsBRWeWlzG6VQp+kTWQ4GupirEOr8lO94NsXH25ZJG0+jwS1u8RvpQnkjugB8UOH3FCUGc6NoHG1etnTPqXKp4eHcHyRzbViVEP+/NKr15bROVaMuDABVqLTYgbqpvUstxZiN37KjkJtrnvO4CYgftdoDhXFlNsEP79FZfZLnowKr2iXvAhcnB5xlGuMm19gmL7B393cQ==;MWutJhl9hiCBmV5h7NezXw=="
 ---

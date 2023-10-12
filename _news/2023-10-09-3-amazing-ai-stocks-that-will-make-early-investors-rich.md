@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "3 Artificial Intelligence Stocks That Could Outperform the ‘Godfather of AI’"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips I don’t think there is any debate on the point that Nvidia (NASDAQ:NVDA)"
-    publishedDateTime: 2023-10-09T18:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
   - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
     publishedDateTime: 2023-10-08T23:19:00Z
@@ -40,19 +31,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "‘Godfather of AI’ says that AI could take over if humans aren’t careful"
-    excerpt: "One of the \"godfathers of AI\" says that AI could takeover and rewrite its code so that humanity can't control it."
-    publishedDateTime: 2023-10-11T22:53:00Z
-    webUrl: "https://bgr.com/tech/godfather-of-ai-says-that-ai-could-take-over-if-humans-arent-careful/"
+  - title: "Dividend Machines: The Top 6 AI Income Stocks to Buy Now"
+    excerpt: "Broadcom’s largest contribution to the AI space is a new chip, the Jericho3-AI, that is capable of wiring together 32,000 GPU chips at once. GPUs, or graphics processing units, are the chips that AI relies on to run its incredibly complex code."
+    publishedDateTime: 2023-10-10T16:45:00Z
+    webUrl: "https://investmentu.com/research-reports/ai-income-stocks/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
+      name: Investment U
+      domain: investmentu.com
+    quality: 41
     images:
-      - url: "https://bgr.com/wp-content/uploads/2022/09/AdobeStock_217516770.jpeg?quality=82&strip=all"
-        width: 2400
-        height: 1596
+      - url: "https://investmentu.com/wp-content/uploads/2023/10/Chart.jpg"
+        width: 927
+        height: 590
         isCached: true
 
 secured: "sLx5PnV6yM3thGiENHKghmM7SIH41USgkVyEsGKNDEl1dHKs+kS6T0zNUohTolVcAPblsUl6kcVrix09rzi3XOfluVa/jUcfyY5VQcegJzzZh+PFedX/l17G0vK+HmHINDYrNYweVpSch6IiCQtV21U2dJ3ATDad+u6Cyy39TRcY8hgQoRSEZId9BSkSCONs0NHnccwJn+g9bv3wAgqtRpChjuK7i35VYlMN6xPi9WAklXAHaoPPe8YNNz6wt65juVId2L/ASLOO4uUOEAU/QrcIZffKZluTmnMyYS/ljTFvq0T+PqfZnPq6XHnpem155ToGl3JqJvdibQTRVlxbnPqht1kqBYZmEDoxk5xQg6/dK2sYnqXG9C/eZwrSsygEGvRBm9tpkDVOaZDqQBsBBiQ1qcUhlYVIJ+MRuuVlzKFj5WmkkTopij8w0jNbvJcGc8ir7IKoqZBzu+VtV5AvLObxS+Og8SmIiy7Yz2B2sYgiSEyDkd2IJVssPiRfL/HvSQfbXbQlH4iwNmnAQCNQjQ==;8SLrINwAK/OwljBqaWSmbQ=="

@@ -28,6 +28,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "In A New Era Of Deepfakes, AI Makes Real News Anchors Report Fake Stories"
+    excerpt: "“Videos of news anchors is a compelling vessel for delivering disinformation,” said Hany Farid, a professor at UC Berkeley’s School of Information who has testified before Congress on deepfakes. “In many cases, the anchors are known to viewers and trusted, and even if not, the general news format is familiar and therefore more trusted.”"
+    publishedDateTime: 2023-10-12T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6527443d30644766927a21cd/0x0.jpg?format=jpg&crop=3690,2073,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
 
 secured: "I1+JO1SAU//Jxq0IxQCjtKmTRZFHQ4w7u6FErGjgKS38LXiYRi4X3QKdcuJqdWmWGgDShJ8WOkBdi7KBx2osG1IZiS4uBT6SSBhX7doAsb5svZX/zTXGidrgxp1lO6lJqOhEMg2maYZIc6iyBMoPPEYQz00hBJdsEYMSvHfFXNKg4mOlvO0ySz4SAbDyTsADTELTJZdfoRGwZwUKQ72+PUkVeBuSIhnqDPRkJTkEplyJEuuAN2soNu/iuOFleo+rC5MV7QqJWfuhYxOFAss7WGhEMxaAxIHEYyski/+xFPRnvuAq7tYehL+ouvlcLLNBjKzU3DAbKXFV32XSRtTY7h871ZA+hKawkeGxebYXtbccSTGwkz5dd4xg87t227HGtOaYa4KR6HpnQQyb/yVEAslujt97+2zqg/cFElBXwMNYpsrwbxAtg3ls2wGvxmSARCPQ6T4dYo3C9vRinifWerGXTISEAQa2WN8v8CYoZzfIRhyCotMTS+ao/9si7c9bqvUcunXC04thLWU/aZ6azg==;TE8LqSAOHUwqvHcEnWkMRA=="
 ---

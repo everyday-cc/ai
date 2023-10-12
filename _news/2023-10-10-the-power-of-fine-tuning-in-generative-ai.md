@@ -23,123 +23,61 @@ topics:
   - AI
 
 related:
-  - title: "Edge AI: The AI No One Is Talking About"
-    excerpt: "Edge AI isn’t a type of algorithm in and of itself, but it's about where AI happens, regardless of the algorithm in question."
-    publishedDateTime: 2023-10-11T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
+  - title: "Skills and expertise: Keys to the generative AI engine"
+    excerpt: "Trusted skills, expertise and systems integrators are keys to successfully implementing generative AI technologies.\nThe post Skills and expertise: Keys to the generative AI engine appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generative-ai-engine/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How Domino’s generative AI experiment could transform the front and back of house"
+    excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
+    publishedDateTime: 2023-10-09T21:04:00Z
+    webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 34
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://www.nrn.com/sites/nrn.com/files/2dominos_2_3.gif"
+        width: 770
+        height: 400
         isCached: true
-  - title: "Embracing AI In The Workplace"
-    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
-    publishedDateTime: 2023-10-10T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
+  - title: "Over 1,800 AI Global Experts To Demystify Generative AI During The Dubai Assembly For Generative AI"
+    excerpt: "Over 1,800 AI Global Experts to Demystify Generative AI During the Dubai Assembly for Generative AI <br /> . Taking place on 11-12 October at the Mus"
+    publishedDateTime: 2023-10-10T00:08:00Z
+    webUrl: "https://menafn.com/1107216279/Over-1800-AI-Global-Experts-To-Demystify-Generative-AI-During-The-Dubai-Assembly-For-Generative-AI"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1246
-        height: 830
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?26731"
+        width: 437
+        height: 250
         isCached: true
-  - title: "Adobe’s All In On AI: Debuts New Firefly AI Models For Creatives"
-    excerpt: "The centerpiece is Adobe’s release of three new AI models under its Firefly generative AI brand - Firefly Image 2, Firefly Vector and Firefly Design."
-    publishedDateTime: 2023-10-10T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
+  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
+    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
+    publishedDateTime: 2023-10-09T18:05:00Z
+    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fe4913877b0bbf06f748/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1453
-        height: 900
-        isCached: true
-  - title: "Why Medium is opting out of AI"
-    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
-    publishedDateTime: 2023-10-11T14:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
+  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
+    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
+    publishedDateTime: 2023-10-08T19:09:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
-    excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
-    publishedDateTime: 2023-10-08T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "These books are being used to train AI. No one told the authors"
-    excerpt: "Nearly 200,000 books written by a wide range of authors, including Nora Roberts, are being used to train artificial intelligence systems, according to a recent report. No one asked for the writers’ permission — and many of them are not happy."
-    publishedDateTime: 2023-10-08T12:00:00Z
-    webUrl: "https://www.cnn.com/2023/10/08/style/ai-books3-authors-nora-roberts-cec/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 41
-    images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
-        isCached: true
-  - title: "The Increasing Impact of Artificial Intelligence on Energy"
-    excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."
-    publishedDateTime: 2023-10-11T15:19:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14367"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 37
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14367_16970374611364076.jpg"
-        width: 1000
-        height: 667
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "2LE5NnaYTuWdqSlPC1iwRYjnOPMCIPdxK72LFrp74YiJsGEeT2aQUD1wwMUL8yEfgqrU44qMc1OblTABXIHcnC/a0pN3jZXOpilYVQv+pDlcq2sgJibta6ZEBD+cat5Y94Uza2B/bKSPlskimwz1TZn7ppgVeI76Y5EP8V6q9yRX3N4V7m4nnl3OfH92iE5+gFCVStEuF4sroUnVKVBr9/1HKMk2h9g5kb33NDhYYBMv7AldxbFS8aYI5ZV6HmbzrydLUwKwQNAXzbyy+86AuhqaKUrokWZg+ESQb8L/8SJEE/qj89nNRU5H5aqYe/xz1ESOxIQvMe/i0xDAyUAfqGAZY07L/raR9MT+5O4ZSwQ=;GxOT0CM+zPadj4Qh2CHmWg=="
 ---

@@ -25,40 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "GITEX Global: Dubai ignites start-up innovation in AI"
-    excerpt: "Dubai is set to become the epicentre of the global artificial intelligence movement as it hosts the 43rd edition of GITEX Global, the"
-    publishedDateTime: 2023-10-10T20:28:00Z
-    webUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/"
-    ampWebUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
-    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
+  - title: "Skills and expertise: Keys to the generative AI engine"
+    excerpt: "Trusted skills, expertise and systems integrators are keys to successfully implementing generative AI technologies.\nThe post Skills and expertise: Keys to the generative AI engine appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generative-ai-engine/"
     type: article
     provider:
-      name: Ventureburn
-      domain: ventureburn.com
-    quality: 57
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "How Domino’s generative AI experiment could transform the front and back of house"
+    excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
+    publishedDateTime: 2023-10-09T21:04:00Z
+    webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 34
     images:
-      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/10/Untitled-design51.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.nrn.com/sites/nrn.com/files/2dominos_2_3.gif"
+        width: 770
+        height: 400
         isCached: true
-  - title: "VISTA And Dubai Airshow To Support Start-Ups"
-    excerpt: "VISTA will return in 2023 for its second year, aiming to provide support and investment to start-up companies within the aerospace ... businesses operating in fields such as robotics, sustainability, artificial intelligence, drones, eVTOLs, UAVs and ..."
-    publishedDateTime: 2023-10-10T11:18:00Z
-    webUrl: "https://aviationweek.com/shownews/dubai-airshow/vista-dubai-airshow-support-start-ups"
+  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
+    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
+    publishedDateTime: 2023-10-09T18:05:00Z
+    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
     type: article
     provider:
-      name: Aviation Week
-      domain: aviationweek.com
+      name: Diginomica
+      domain: diginomica.com
     quality: 19
-  - title: "GITEX GLOBAL, Expand North Star 2023 Centre World’S Attention On Booming Artificial Intelligence (AI) Economy"
-    excerpt: "His Excellency Omar Sultan Al Olama, UAE Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications, and Chairman of Dubai Chamber of Digital Economy, spoke at the official GITEX GLOBAL and Expand North Star 2023 press ..."
-    publishedDateTime: 2023-10-10T19:41:00Z
-    webUrl: "https://menafn.com/1107221656/GITEX-GLOBAL-Expand-North-Star-2023-Centre-WorldS-Attention-On-Booming-Artificial-Intelligence-AI-Economy"
+  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
+    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
+    publishedDateTime: 2023-10-08T19:09:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 13
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "jTVk5y74+opzwbWvO2Ha7tH05AWz6MAdulOHEpyO8xsN8RFaRi/KHCNV4+5RrY4rutKKDkLYjgqgf6IiklmJD/lN8r4tZQqbsutQXYgn2Cfc3Znc6EFhkqnXaJQ3377f8OF+8sSdAasyk461HpRHvbHZaJ/xRMsGwbK1RPTX3/mOft+VTdN6GI72kiUgQd7A7oRnhdT5tBlr8cqWIP4TqfiB6a2z5klmVoIK/9f6md4WjH/Ol//YJ/4tcYfTpoJuCrNVrD5esIqb4gGZp896qkZJpG1gArcws8Q61zbWzzDNg/I64X0/9PQhIQ72gaGN84uDil/+16DeoafoPp/7hpz5ItpLqXNpqBXqJD0vwao=;TJD/bM2XL8eF41mahapj8w=="
 ---

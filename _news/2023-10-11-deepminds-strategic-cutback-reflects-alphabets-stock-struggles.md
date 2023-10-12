@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35191877"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35191877"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Alphabet’s AI Lab DeepMind Cut Employee Costs by 39% in 2022, Reported Decline in Profit"
+    excerpt: "DeepMind, Alphabet Inc's AI division reduced employee expenses by 39% last year within its cost-cutting strategy."
+    publishedDateTime: 2023-10-12T09:08:00Z
+    webUrl: "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/"
+    ampWebUrl: "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 65
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-deepmind-cut-employee-2022.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Alphabet's AI-focused DeepMind division saw a 40% cut in employee costs lats year"
     excerpt: "DeepMind, the AI lab owned by Google-parent Alphabet Inc (NASDAQ:GOOG), cut its employee costs by nearly 40% last year, according to a recent filing with a UK government agency. In the company’s 2022 fiscal year, staff costs and related expenses were ..."
     publishedDateTime: 2023-10-11T22:36:00Z

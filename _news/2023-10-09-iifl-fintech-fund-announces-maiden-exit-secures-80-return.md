@@ -7,7 +7,7 @@ originalUrl: "https://economictimes.indiatimes.com/tech/funding/iifl-fintech-fun
 webUrl: "https://economictimes.indiatimes.com/tech/funding/iifl-fintech-fund-announces-maiden-exit-secures-80-return/articleshow/104288728.cms"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Fintech launches new AI-driven compliance platform"
+    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
+    publishedDateTime: 2023-10-12T11:22:00Z
+    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "bcKcOEsUlxRHs8W9yLsh3eaMZ03Z00lbIOaDEEir2TAu9gxuLs/F/vkU3elaJm3ZEc9uqnbHkexQWNolCaLk4hDNVTs9t5UrkMOVDYZxThu1dOjrLwYoT5H0zOfiN34m1R5ghnX0DlcZ1Wrr0kY+msINA6vkXLk5XyH4HdPfFhe4q2Bmxf9QNoL4FZQ9iD1qIvxmYNmy19sS4bfsRFbsuNTpNTEVaemjmh1tG4igZw5UdFzppzrjmzQTJghPAkJe1DfUg9Lzh/5zERJNrSt7GYUG0cCwm0AInDOwlGLnJoTk/XH4OxC88wyCm2ZMuzLm72nns+jIJPwedMBNjMbhSb62MmFWDOH6Rm3uaGraav3kCt9RTKzTkZOB7BtoDFdOyEamio1d9ZxaIqzXgfspRgN6AFQNOZ+dqIZtYQpKJl5fMxLo+H+yyqTB7hYqGEPfZcs0Ij85Q+hwun0HDYluonrpTijqHcCCRV5uVgr4Oh01/lBbSEllxDuiDht3cEmTcjcOEX90/GBw4alfsSBxCQ==;fx6ptWhng0QwgWPcUDZMzg=="
 ---

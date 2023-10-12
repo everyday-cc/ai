@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "US Space Force Bans Use of Generative AI"
+    excerpt: "Outside of work, Space Force employees will find it increasingly difficult to avoid using AI. Google recently announced that Assistant is getting a Bard generative AI upgrade, Microsoft is adding generative AI to the Windows 11 experience, and Amazon is investing billions in AI to improve the customer experience for all its services."
+    publishedDateTime: 2023-10-12T11:40:00Z
+    webUrl: "https://www.pcmag.com/news/us-space-force-bans-use-of-generative-ai"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05eR2BHqfTmXbAUOwc8o0x8-1.fit_lim.size_1200x630.v1697110351.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Dubai Assembly for Generative AI kicks off tomorrow"
     excerpt: "The Dubai Assembly for Generative AI supports Dubai's vision to become a global center for testing emerging technologies and taking advantage of their opportunities. The assembly complements Dubai's efforts to collaborate with decision-makers and industry leaders from around the world in order to address challenges and create new opportunities."
     publishedDateTime: 2023-10-10T10:20:00Z
@@ -77,20 +91,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
         width: 636
         height: 424
-        isCached: true
-  - title: "Generative AI and the impact on financial services"
-    excerpt: "In association with NTT Data In 2020, I investigated the potential impact of AI on financial services, charting the meteoric evolution of AI and machine learning. This investigation culminated in an article I published on Forbes."
-    publishedDateTime: 2023-10-09T08:00:00Z
-    webUrl: "https://www.techcentral.ie/generative-ai-and-the-impact-on-financial-services/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/Artificial_Intelligence.jpg"
-        width: 620
-        height: 351
         isCached: true
   - title: "Stability AI Releases Generative Audio Model Stable Audio"
     excerpt: "Harmonai, the audio research lab of Stability AI, has released Stable Audio, a diffusion model for text-controlled audio generation. Stable Audio is trained on 19,500 hours of audio data and can generate 44."
@@ -133,20 +133,6 @@ related:
       - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-101023-cover-500px.jpg"
         width: 500
         height: 354
-        isCached: true
-  - title: "The impact of generative AI on the AV industry"
-    excerpt: "Electrical also has a chronic shortage of skilled workers. This is where the employment picture becomes more nuanced and less gloomy. Electrical contractors and design firms are using generative AI not because they want to reduce staff but rather because they can’t find enough qualified people in the first place. Sound familiar?"
-    publishedDateTime: 2023-10-11T09:43:00Z
-    webUrl: "https://www.inavateonthenet.net/features/article/the-impact-of-generative-ai-on-the-av-industry"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1697017458/widgetdocs/shutterstock_2309557517_jp4lut.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "3D Generative AI for Every Creator"
     excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"

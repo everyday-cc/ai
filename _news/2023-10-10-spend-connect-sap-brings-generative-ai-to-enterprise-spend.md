@@ -19,45 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Unleashed: Charting The Enterprise Future"
-    excerpt: "Generative AI is rapidly emerging and represents a turning point for businesses in nearly every industry. Article offers a blueprint for leaders to ride this wave."
-    publishedDateTime: 2023-10-07T20:40:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/10/07/generative-ai-unleashed-charting-the-enterprise-future/amp/"
+  - title: "Skills and expertise: Keys to the generative AI engine"
+    excerpt: "Trusted skills, expertise and systems integrators are keys to successfully implementing generative AI technologies.\nThe post Skills and expertise: Keys to the generative AI engine appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generative-ai-engine/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6521b9ec75d709eee0dd5adb/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 712
-        isCached: true
-  - title: "Unleashing the power of robotics to unlock the future of automation"
-    excerpt: "In today’s rapidly evolving business landscape, manufacturers are navigating a complex terrain fraught with challenges such as labour shortages, an expanding skills gap, and intense global competition."
-    publishedDateTime: 2023-10-09T10:40:00Z
-    webUrl: "https://www.controlengeurope.com/article/200733/Unleashing-the-power-of-robotics-to-unlock-the-future-of-automation.aspx"
+    quality: 49
+  - title: "How Domino’s generative AI experiment could transform the front and back of house"
+    excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
+    publishedDateTime: 2023-10-09T21:04:00Z
+    webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
     type: article
     provider:
-      name: IML Group
-      domain: controlengeurope.com
-    quality: 54
-    images:
-      - url: "https://www.controlengeurope.com/global/showimage/Article/214472/"
-        width: 600
-        height: 390
-        isCached: true
-  - title: "How BharatPe is Harnessing Generative AI for the Future of Finance"
-    excerpt: "BharatPe’s AI and analytics team, comprising 30 professionals, including 10 specialised in AI and ML, is pivotal in the organisation, contributing significantly to innovation and data-driven decision-making, involving close cooperation with data engineers, scientists, and domain experts, ensuring technical excellence aligns with business goals."
-    publishedDateTime: 2023-10-09T12:15:00Z
-    webUrl: "https://analyticsindiamag.com/how-bharatpe-is-harnessing-generative-ai-for-the-future-of-finance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Nation's Restaurant News
+      domain: nrn.com
     quality: 34
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/2dominos_2_3.gif"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "Over 1,800 AI Global Experts To Demystify Generative AI During The Dubai Assembly For Generative AI"
+    excerpt: "Over 1,800 AI Global Experts to Demystify Generative AI During the Dubai Assembly for Generative AI <br /> . Taking place on 11-12 October at the Mus"
+    publishedDateTime: 2023-10-10T00:08:00Z
+    webUrl: "https://menafn.com/1107216279/Over-1800-AI-Global-Experts-To-Demystify-Generative-AI-During-The-Dubai-Assembly-For-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?26731"
+        width: 437
+        height: 250
+        isCached: true
+  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
+    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
+    publishedDateTime: 2023-10-08T19:09:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "TUtQl4t6jvUFSj03TMbWDUMF6CaO+7OSgFAcm4oYdyrsx+bsnn1gLE4cPoF26wtUyjNSqGJGUa6Dy6FNA8AdnjpE6o81Gps2JtwaLWPMzmSsG9+X/wMYFydKS4XStlp2hAB+GXHBE3d7r3dJimPNQi2wP4EuKr4qbQTBAgQuAMMKH93onSJk8ApCnLBnssIWiCMgO7JLLjdXiSJtT3+YFolKFfYYrbfGnr/eIxVGeqCezDXm0zMpKAihwRfeo68M7I+SsztP6/l/jlc5fKivXXg6q/OgMmhhoACqojUlyB4Qc+aXuT/++vxTL4lAMGA2ZrbvmSrM8GFOv8hwKnjRZreX8tHy6lXyL/NxhxBk1JSsTdGcgySBmSNl6NOCp27StkPhLD7Am6CEaPndsMV/TVX947s9uO2OG/oR+5zjZtZ6huQCTRNPsxwL5gCno+NHPbGswZWUQbsbULFGDQEnu1PhKhgJVv72vvM5mDwYpUSFcv/f9kqwpRg2Um1L6IqB7U75iW3h+ZKxtNEcUcDjTA==;c9VxyzVq5CPzJ787DAHVJw=="
 ---

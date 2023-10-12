@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-
 webUrl: "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "In A New Era Of Deepfakes, AI Makes Real News Anchors Report Fake Stories"
+    excerpt: "“Videos of news anchors is a compelling vessel for delivering disinformation,” said Hany Farid, a professor at UC Berkeley’s School of Information who has testified before Congress on deepfakes. “In many cases, the anchors are known to viewers and trusted, and even if not, the general news format is familiar and therefore more trusted.”"
+    publishedDateTime: 2023-10-12T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6527443d30644766927a21cd/0x0.jpg?format=jpg&crop=3690,2073,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Creating a new urban era with AI"
     excerpt: "Eighty per cent of cities face significant climate hazards – such as extreme heat, rainfall, drought or flooding, according to environmental data charity CDP. Its 2022 Protecting People and the Planet report also highlights that these issues are expected to threaten at least 70 per cent of the population in 28 per cent of these cities."
     publishedDateTime: 2023-10-09T13:30:00Z

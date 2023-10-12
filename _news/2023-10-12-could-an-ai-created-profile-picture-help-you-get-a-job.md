@@ -40,19 +40,19 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "As Meta, Character AI place bets on ‘fun’ chatbots, problems lurk behind AI-generated smiles"
-    excerpt: "As Character AI and Meta bring entertaining chatbotsI to group chats, real problems have already begun to brew."
-    publishedDateTime: 2023-10-11T20:05:00Z
-    webUrl: "https://venturebeat.com/ai/as-meta-character-ai-place-bets-on-fun-chatbots-problems-lurk-behind-ai-generated-smiles/"
+  - title: "How to create professional AI profile pictures"
+    excerpt: "You might be interested to know that you can create professional personalized portraits using Stability AI’s Stable Diffusion AI generator. If you’re not so comfortable using Stable Diffusion there also other services and apps available such as Remini ..."
+    publishedDateTime: 2023-10-12T11:48:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-profile-picture/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AI-AIs.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-to-create-professional-AI-profile-pictures.jpg"
+        width: 700
+        height: 451
         isCached: true
   - title: "Disney's 'Loki' TV show accused of using AI generated art for release promotion"
     excerpt: "Illustrators are accusing Disney of using AI-generated artwork in the promotional material for the upcoming release of Loki season 2."

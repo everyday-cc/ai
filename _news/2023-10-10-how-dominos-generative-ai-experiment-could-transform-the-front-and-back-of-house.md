@@ -25,29 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
-    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
-    publishedDateTime: 2023-10-11T17:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
+  - title: "Skills and expertise: Keys to the generative AI engine"
+    excerpt: "Trusted skills, expertise and systems integrators are keys to successfully implementing generative AI technologies.\nThe post Skills and expertise: Keys to the generative AI engine appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generative-ai-engine/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "The Power Of Fine-Tuning In Generative AI"
+    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
+    publishedDateTime: 2023-10-10T13:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Over 1,800 AI Global Experts To Demystify Generative AI During The Dubai Assembly For Generative AI"
+    excerpt: "Over 1,800 AI Global Experts to Demystify Generative AI During the Dubai Assembly for Generative AI <br /> . Taking place on 11-12 October at the Mus"
+    publishedDateTime: 2023-10-10T00:08:00Z
+    webUrl: "https://menafn.com/1107216279/Over-1800-AI-Global-Experts-To-Demystify-Generative-AI-During-The-Dubai-Assembly-For-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 25
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
-        width: 1024
-        height: 768
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?26731"
+        width: 437
+        height: 250
         isCached: true
-  - title: "AI Pioneer Sai Nitisha Tadiboina Has a Transformative Impact on Healthcare Technology"
-    excerpt: "Sai Nitisha Tadiboina's journey exemplifies the dynamic synergy between AI and healthcare, where her vision and dedication are shaping a brighter future for medical technologies. Through her work, she envisions a healthcare ecosystem where AI-driven technologies optimize diagnostics, treatment, and patient outcomes."
-    publishedDateTime: 2023-10-11T19:42:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273996297/ai-pioneer-sai-nitisha-tadiboina-has-a-transformative-impact-on-healthcare-technology"
+  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
+    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
+    publishedDateTime: 2023-10-09T18:05:00Z
+    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 27
+      name: Diginomica
+      domain: diginomica.com
+    quality: 19
+  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
+    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
+    publishedDateTime: 2023-10-08T19:09:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "eAdJ64Bfouqsk2SBbFsTtDpxwwLM0YWKtl6GBaGimiFtDi8vVob6DePHySdBxy75Z0VBmOwzvvdem5QS814N2xKVRjVYfxOENkc/OzTPy2iLlVGy5TYSsgvn6EPB4LHKG9TGKkqole3FQlre75YPq1AnrSMLOgat+TRbS5u4CZQ2JEusVeWbrUpHLO3KY4SiJehhNer83/53D1FpYFlAmNqkrYxL5j2oyCsm9YSZ2Y1NQdXty05YI3+/+uskSiiKug2g26SYcaiwKQJDxuuL7w8SJO125SzSkm3yn76HGhpqSG4H9rnj2pMfgE16EWqk5dindF6GD23P4OaMh29h+WmBBKvnS/6FtFUEfQrZI5Cls2Bf+GDm3CWMTL2YCQ3mwnRCv9jNkv8AJh57MMfM1oL72KME33V6hy4YO1UL1eFON413DnxctfLFfiytiGi6J5KNdsm7dGl3uCY9awHQdNJNdRMM8bgyBebhLovQ2OdG3N1NWRIghu7aezZFDMZwuRv4K6FjAxLb53Abc9xJLg==;Sc+FRYYb/2beGablnM3WwQ=="
 ---

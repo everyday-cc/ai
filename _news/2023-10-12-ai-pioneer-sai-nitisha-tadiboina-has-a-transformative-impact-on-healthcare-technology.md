@@ -33,20 +33,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "How Domino’s generative AI experiment could transform the front and back of house"
-    excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
-    publishedDateTime: 2023-10-09T21:04:00Z
-    webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 34
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/2dominos_2_3.gif"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "pEfPaE5h+hJc79m2rvFWKaqDLOoI7G4hivsmdQAD3sMCTLiES11+/54UrZloILurftmpJzYtcDh+DlOQydkgx3hFU4Evb9ChVYWTYM2az7103K8pKongeZZvInC6yLuK2OyjJ8upP3iFOHSSWHjK27ztYjWrOCPyj7+x0Nk4Y2MmPnCTTZDkxhZ8JP3yFu35yXl7Ce6hivi7GyVqb04p5dAx0UhCogZHWEfvGJucpkGHx8aPRo0fG9kT3k1OxbVqTI3yC5UbaoWJJ7G0XQ4F8MdXleirCXbcJULLBwQumiFKZjUS9/R1hGfwiSRhDTNDmZaosH6nFu5ejeQVPCt1FCuaLoOYzoyWpYHpoBGuXy8=;mIfGkIa86UCX6lz2Bjht5A=="
 ---

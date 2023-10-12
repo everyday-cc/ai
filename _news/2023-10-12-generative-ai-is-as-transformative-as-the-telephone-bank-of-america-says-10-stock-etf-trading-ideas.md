@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-a
 webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Domino’s generative AI experiment could transform the front and back of house"
-    excerpt: "Domino’s executive vice president - chief technology officer Kelly Garcia spoke about the company’s fledgling relationship with Microsoft’s generative AI tech"
-    publishedDateTime: 2023-10-09T21:04:00Z
-    webUrl: "https://www.nrn.com/quick-service/how-domino-s-generative-ai-experiment-could-transform-front-and-back-house"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 34
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/2dominos_2_3.gif"
-        width: 770
-        height: 400
-        isCached: true
   - title: "AI Pioneer Sai Nitisha Tadiboina Has a Transformative Impact on Healthcare Technology"
     excerpt: "Sai Nitisha Tadiboina's journey exemplifies the dynamic synergy between AI and healthcare, where her vision and dedication are shaping a brighter future for medical technologies. Through her work, she envisions a healthcare ecosystem where AI-driven technologies optimize diagnostics, treatment, and patient outcomes."
     publishedDateTime: 2023-10-11T19:42:00Z

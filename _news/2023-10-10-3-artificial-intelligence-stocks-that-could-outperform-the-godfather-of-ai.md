@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intel
 webUrl: "https://markets.businessinsider.com/news/stocks/3-artificial-intelligence-stocks-that-could-outperform-the-godfather-of-ai-1032689930"
 type: article
 quality: 61
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,24 +23,22 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
-    publishedDateTime: 2023-10-08T23:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
+  - title: "Rogue AI will learn to ‘manipulate people’ to stop it from being switched off, predicts British ‘Godfather of AI’"
+    excerpt: "Geoffrey Hinton, a former AI engineer at Google, told 60 Minutes he expected artificial intelligence to become self ... He also set the foundations for the growth of AI through his pioneering neural network, which helped him win a prestigious Turing ..."
+    publishedDateTime: 2023-10-11T03:03:00Z
+    webUrl: "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/"
+    ampWebUrl: "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "3 Amazing AI Stocks That Will Make Early Investors Rich"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the electric world of Wall Street, some phrases don’t just make"
-    publishedDateTime: 2023-10-08T18:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-amazing-ai-stocks-that-will-make-early-investors-rich-1032686714"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Fortune
+      domain: fortune.com
+    quality: 68
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1260013883-e1696933068802.jpg?w=840"
+        width: 840
+        height: 560
+        isCached: true
   - title: "‘Godfather of AI’ says that AI could take over if humans aren’t careful"
     excerpt: "One of the \"godfathers of AI\" says that AI could takeover and rewrite its code so that humanity can't control it."
     publishedDateTime: 2023-10-11T22:53:00Z

@@ -133,15 +133,6 @@ related:
       name: Law
       domain: law.com
     quality: 19
-  - title: "Understanding Agentized LLMs: How to avoid making rogue AI"
-    excerpt: "Recent advances in AI and the release of ChatGPT have sparked new interest in AI as a tool. Agentized LLMs are the latest attempt to make highly-specialized AIs, and to avoid them going rogue."
-    publishedDateTime: 2023-10-07T17:21:00Z
-    webUrl: "https://appleinsider.com/inside/xcode/tips/understanding-agentized-llms-how-to-avoid-making-rogue-ai"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 17
   - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
     excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
     publishedDateTime: 2023-10-12T01:36:00Z
