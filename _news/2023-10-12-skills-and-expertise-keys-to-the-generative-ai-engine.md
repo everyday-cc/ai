@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generati
 webUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generative-ai-engine/"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
         width: 437
         height: 250
         isCached: true
-  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
-    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
-    publishedDateTime: 2023-10-08T19:09:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "Q+7X5R4mog7xSNHhnApo2COmphayI+GQIZl/XfCUcnyUYXR/WlEntPCvJoeCoQcvLQVNObADboQ4pjHcAdJJzcNTlJBQOShyed2ObhgAMOC6+F8YK44kQWx/cx8uob1fYKfR3LAt+nT8LO9hg3GrBA2YFupuB6KZXdi/MZHMdcnHOaPxZAVLyzdIwJoSbuicZuqBiVgzYMeMl/i3rNlfRwt2BHYeQBlC76bRJgr4PRnsHlJddvY8qZgud/cIDx+aHHYaM9QNWDAuLIoKFHWLYABq5cUY12VRLb2LICNb61HTOVHGaf5vv7jCnfWkRHlgZVd5TzhYld8lMWDwyygnHlCE3pa5rn1HywfkxRarrKc=;xt9RizXbGzXrp54dAwm/ig=="
 ---

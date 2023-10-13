@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "‘This is a disaster’: Albanese under fire in TV grilling over the Voice to Parliament"
-    excerpt: "Anthony Albanese has downplayed concerns the Voice to Parliament is dead, clashing with Sunrise host Natalie Barr about whether his leadership is at risk should the referendum fail."
-    publishedDateTime: 2023-10-08T22:52:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/this-is-a-disaster-albanese-under-fire-in-tv-grilling-over-the-voice-to-parliament/news-story/2521acd8778b7d290d8635a8e121ccdc"
-    ampWebUrl: "https://www.news.com.au/finance/work/leaders/this-is-a-disaster-albanese-under-fire-in-tv-grilling-over-the-voice-to-parliament/news-story/2521acd8778b7d290d8635a8e121ccdc?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/finance/work/leaders/this-is-a-disaster-albanese-under-fire-in-tv-grilling-over-the-voice-to-parliament/news-story/2521acd8778b7d290d8635a8e121ccdc?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 17
   - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
     excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
     publishedDateTime: 2023-10-13T08:15:00Z

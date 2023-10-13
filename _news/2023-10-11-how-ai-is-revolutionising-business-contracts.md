@@ -50,6 +50,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Will AI reinvent the real estate business?"
+    excerpt: "Join The Real Deal for TRD.AI, the only event bringing together real estate and artificial intelligence, in Miami on Nov. 10."
+    publishedDateTime: 2023-10-13T14:30:00Z
+    webUrl: "https://therealdeal.com/miami/2023/10/13/find-out-about-ai-at-the-real-deals-trd-ai-event/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 17
 
 secured: "MqH/pc/1bfzOFl0hUveZBsoZyCoMCzy+Q8yl9rLBNjQ1upze+L0PXT2KejblFoXvWImYiPrQLtZuLdgUNBfAqPz0xfyMtbELP3EkAQNOSUou2HWxsoctxGixdafaTsyKdsefBkR6r7GosLFdVXh5KkptHjDBz0tb3mIUDjGmOuGrVmIPG42Tg/NDm/7A1KEWD+FhuSt++iB1Kgb5CKAtqVRj2XKRC7+BQ50OUZ858w0U4Vgn3BgOp+evyqbMORPW2U5zrACFXos+1ElgNwyhtVXEOIv6EetBp5tT0FMzcu4ZJDVCjcSXUvG9goUVuXM2ePzaO9RhsS+kpb8EUxrTGpCNdLdgTXpt14ACi7n9n3k=;wjS0fvpLjAGUa/3uL9SwWw=="
 ---

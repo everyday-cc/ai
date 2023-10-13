@@ -40,6 +40,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Artificial intelligence helps to read ancient burned scroll"
+    excerpt: "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence."
+    publishedDateTime: 2023-10-13T14:58:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/67103053"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/67103053.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "CLwqyAYmsqjAhn7eVje3LDAnXU/AXdfz0T/sw7GIS9PDUCzr9whpnQmX2+4WsMkSRsI/GADxtiqJyQXigJqZKe9XcxMuRiNDIt8e7lKeaPEr4WhHdnZXahpZOiZkxFpewazwMY/b2FSMAaFRbjiZfM47kAuFIPwWlH/b+1IwfVTaSvZSqXz1yFkjg5V7dRkrUGdE9rLohnauURGR0HIQj//AAgZ4UNq3d7i3vPkmEet16E4BI5dyQN7cgRTMTw+LE/b0C47u8sn5jpXfFESq2yzwNTVD/r/toytfi+Ra3XiODYmV5fdortH4bjfmvOrtmfTeinA+c5yoF0WyTn6q/lPu11eg5RheLRgJfPYM0o+R9CUP31Ee/kfnu8y6gqbqheccNzwk2/wkS5KL08wkYYNccJPY9Qk4a0F6BxLnO42Trz2PE7/0Voo8eZKgqjp1ST0egMZbDRpX2EkhqF+RvG2i/XU2d53O+dQRLrOh2kLyk6m5e6IXedgXwWpfXktpGhlOaqjBcLtcbjEC+/vUeA==;myKDhaWXgGX5KRuiDOn+dw=="
 ---

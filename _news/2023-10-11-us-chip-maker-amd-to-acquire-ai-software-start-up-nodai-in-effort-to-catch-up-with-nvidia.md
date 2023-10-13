@@ -66,6 +66,22 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 64
+  - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
+    excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
+    publishedDateTime: 2023-10-13T14:56:00Z
+    webUrl: "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
+    ampWebUrl: "https://www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 63
+    images:
+      - url: "https://editorial.fxstreet.com/images/Markets/Equities/Industries/Semiconductors/pic-man-repairing-semiconductors-637435354060707899_Small.jpg"
+        width: 320
+        height: 229
+        isCached: true
   - title: "4 Chip Stocks to Consider for Earnings Season. Yes, Nvidia Is One."
     excerpt: "Semiconductor companies are heading into earnings season with artificial intelligence at the top of the agenda. Investors will be watching Nvidia, the market’s AI chip favorite, but they should also be thinking about Monolithic Power Systems, Marvell Technology, and Broadcom, according to Oppenheimer’s Rick Schafer."
     publishedDateTime: 2023-10-11T14:30:00Z
@@ -137,6 +153,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-104332059,imgsize-44324,width-1200,height=765,overlay-etcio/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Why NVIDIA Isn't My Favorite AI Stock"
+    excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
+    publishedDateTime: 2023-10-13T15:55:00Z
+    webUrl: "https://moneymorning.com/investing/why-nvidia-isnt-my-favorite-ai-stock/"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 39
+    images:
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/10/ibm-chart.jpg"
+        width: 624
+        height: 276
         isCached: true
   - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
     excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."

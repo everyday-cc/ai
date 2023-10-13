@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-arti
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Will AI reinvent the real estate business?"
+    excerpt: "Join The Real Deal for TRD.AI, the only event bringing together real estate and artificial intelligence, in Miami on Nov. 10."
+    publishedDateTime: 2023-10-13T14:30:00Z
+    webUrl: "https://therealdeal.com/miami/2023/10/13/find-out-about-ai-at-the-real-deals-trd-ai-event/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 17
 
 secured: "9NKotutQxw2cZ2h0xPXTzF17UiackfcyYiChDtXpvbO125WEnqpQgfVA5KFGp3P9xgf/lOq0bxg9u5ohB0nzufpXT7QEBITFA0MTAJjbyUSSRkGe6VTcIEk52zXK5AYGKS2fg/xPUwjyt/tPInct4NdN1Q2Sf5ulIwP1DcIwO1iMlLZ/JGvJESnji2WU7Cz4QfioU0X0pVewTTEwatveGgth2jSvM0tp3zX6Nmjwpd6Q4Phd81hz466tQtKAKUq3mrZhY6Gr8C3yhbnsk198X/Djf3pi3UWi63GS+ndnM48jy87kcU9TvX8J5PM68NekQc109yVS/wZRgZGaDCllhNcbsGcGzFPfi4gOiqkgnGg=;9WqpOowKZpgbrhTuV1y54w=="
 ---

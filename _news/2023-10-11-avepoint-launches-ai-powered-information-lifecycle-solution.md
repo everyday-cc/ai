@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "AvePoint debuts AI-powered information lifecycle management solution"
+    excerpt: "Next generation solution enables customers to better manage information, reduce costs, and improve efficiencies"
+    publishedDateTime: 2023-10-13T14:06:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=160989"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "Garu43zdVFBV+7U5mUWjlMEPvshKEtjVGA+dhC8kR5Gg10MJOvB45oBq7UsU9+6Tqns95J73RF9p2y0ZG8Cw5JYsMk4MfxO7zKkAReXt6rOZxHjIqu9COlQe0wkgATFK0oYuK14DXrYG3nEzkpG0rOeErhwoQfjPwHZAmsVqfTwU7yL2139AzrQdHRKTA5BcR+qKeZyalshr60qVFczJgPfwBqyjtEt2NdLor9iPyZPilLdxvHOJ+3hhWo8feHFcSc/uJK+TuCy8G6t3UdjpGncSxOOiAAtvOGSDsUToJz3Z8vZouSsTfAGJAWSG0La+6wdSpEnlocb6CbUX/LC9OVgwfMns4L1L+pAEiuR1wtnJae6IAeUx+yaLE3uS8iPm8Ja6JjGP+oAZ6HUDF+Cd6eQXuQTiU3b2GqnLjmsuLAUWf4CsVoG0qfb5FX1rQn/IWSQj9Bqn5XEgNM4K9SsQBk550afmoWGQLMp85qAElJcLwReti2mj5qatF5N99Y1AFc/GCSrzXNj04F9mWyjS8g==;5M6NvYbHVcGr3X2vQ5cReg=="
 ---

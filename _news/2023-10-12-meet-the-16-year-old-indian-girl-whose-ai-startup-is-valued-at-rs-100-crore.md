@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-ol
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
 type: article
 quality: 55
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: moneycontrol.com
@@ -26,53 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "16-year-old Pranjali Awasthi, owner of AI startup Delv.AI, raises ₹3.7 crore funding"
-    excerpt: "Sixteen-year-old Indian girl Pranjali Awasthi, the owner of artificial intelligence (AI) startup Delv.AI has successfully secured a funding of around ₹ 3.7 crore, said a report by Indiatoday.in. At a Miami Tech Week event, Pranjali revealed that Delv.AI was founded by her in January 2022, as per the report."
-    publishedDateTime: 2023-10-09T15:04:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html"
+  - title: "Artificial Intelligence will transform Indian Economy"
+    excerpt: "New Delhi: The government is hopeful that India's artificial intelligence (AI) programme is likely to be a kinetic enabler for India to achieve the goal of a $1-trillion digital economy by 2026. Besides, the country’s AI programme will also focus on comprehensive skills in the country and building computer infrastructure among others."
+    publishedDateTime: 2023-10-13T10:01:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 50
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 59
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/The-words-Artificial-Intelligence-are-seen-in-an-i_1685385941309_1696863759427.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s40itrnobcarmt6el9q9g6sne2-20231007080411.Medi.jpeg"
+        width: 800
+        height: 448
         isCached: true
-  - title: "Pranjali Awasthi: 16-Year-Old Entrepreneur Raises Millions For Her Rs 100 Cr AI Startup"
-    excerpt: "A 16 year old Indian girl has taken the internet by storm by raising 3 crore funding for her AI startup launched in 2022. Read on to learn about this GenZ girl who has raised the bar for success."
-    publishedDateTime: 2023-10-11T11:42:00Z
-    webUrl: "https://www.herzindagi.com/inspiration/pranjali-awasthi-16-year-old-indian-girl-ai-startup-founder-raised-3-crore-funding-article-249618"
-    ampWebUrl: "https://www.herzindagi.com/amp/inspiration/pranjali-awasthi-16-year-old-indian-girl-ai-startup-founder-raised-3-crore-funding-article-249618"
-    cdnAmpWebUrl: "https://www-herzindagi-com.cdn.ampproject.org/c/s/www.herzindagi.com/amp/inspiration/pranjali-awasthi-16-year-old-indian-girl-ai-startup-founder-raised-3-crore-funding-article-249618"
+  - title: "At the deep end: Putting a spotlight on the Indian deep tech startup ecosystem"
+    excerpt: "This fortnight, we have a collection of stories of deep tech entrepreneurship, from robotics to aerospace, as well as the burgeoning number of venture capitalists opening the purse-strings to fuel the"
+    publishedDateTime: 2023-10-10T06:45:00Z
+    webUrl: "https://www.forbesindia.com/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
     type: article
     provider:
-      name: Her Zindagi Hindi
-      domain: herzindagi.com
-    quality: 49
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 40
     images:
-      - url: "https://images.herzindagi.info/image/2023/Oct/AI-founder-pranjali-awasthi.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Samsung awards Rs 1.5 crore to Indian innovators behind personal cooling device & beach-cleaning robot"
-    excerpt: "These students have developed a beach-cleaning robot, a conversational AI tool and a personal cooling device. They are the winners of Samsung's Solve for Tomorrow initiative."
-    publishedDateTime: 2023-10-12T08:11:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/samsung-solve-for-tomorrow-rs-1-5-crore-award-8979605/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 43
-    images:
-      - url: "https://images.indianexpress.com/2023/10/samsung-solve-for-tomorrow.jpg"
-        width: 1200
-        height: 667
+      - url: "https://www.forbesindia.com/media/images/2023/Oct/img_220141_forbesindiaedit.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Indian-American teen's AI startup valued at Rs 100 cr"
     excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"
@@ -87,6 +71,20 @@ related:
       - url: "https://www.indiablooms.com/finance_pic/2023/6ab22df3358ea8e39d1d7cdfc7f3b6fd.jpg"
         width: 800
         height: 580
+        isCached: true
+  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
+    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
+    publishedDateTime: 2023-10-11T07:05:00Z
+    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 36
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
     excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
@@ -115,6 +113,20 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14366_1697023153857708.jpg"
         width: 752
         height: 502
+        isCached: true
+  - title: "Introducing Voiceai: The Most Accurate AI Transcription For Arabic And Indian Languages And Dialects"
+    excerpt: "NeuralSpace releases VoiceAI: The most accurate call transcription, translation and speech analytics for Arabic and Indian languages and dialects. Melanie Swamy-Brown NeuralSpace +44 7889 918293 Visit us on social media: Twitter LinkedIn YouTube"
+    publishedDateTime: 2023-10-09T08:28:00Z
+    webUrl: "https://menafn.com/1107210792/Introducing-Voiceai-The-Most-Accurate-AI-Transcription-For-Arabic-And-Indian-Languages-And-Dialects"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?331303"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "GXsDSiYLVScWxAmKlPepPAC8beaUSFFecT5qtQ+BY/Q7FAmo+1zbglGVe6Vw6TMZB5O79/IsaARBArSEAng3hpkFnFV4RbsLgzvEP338PzFc+xlJiXraauVh0W0XE/VYZZekwhmk7j9+IPKvE0LyWhlKiI/65HjEfhnJ3SFZCn79SRcPFL5JNnurIBdeLyqr30ZiG4NxUw1rgN0ZW/7Kf22QZg0POdDlzfMnTJXQwNJWTKJKWcshuv0xLS+URT4ofqFe/2OShiNHphWTtCePe7a+S+PdRyoLKH4N/E+H4UQ9dcp7mg9w4s39FAoppsPH3iZpJ6A9jj6TW0og0jRGhLcl/AzAvQ5fflfC6WBM/8s=;1DOaZi1Zt/BL/j79lyt5zA=="

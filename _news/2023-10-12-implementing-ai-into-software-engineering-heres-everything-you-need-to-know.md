@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/implementing-ai-into-softwa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
 type: article
 quality: 86
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google encourages entry of AI into healthcare: Here’s all you need to know"
-    excerpt: "a good starting point to discuss the responsibility and liability of AI?... RBI Deputy Governor Rabi Shankar called for self-regulation in the fintech sector, but here's why we disagree with his stance. Both the IT Minister and the IT Minister of State ..."
-    publishedDateTime: 2023-10-10T10:55:00Z
-    webUrl: "https://www.medianama.com/2023/10/223-google-ai-healthcare-all-you-need-to-know/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 34
   - title: "Your ultimate guide to the Voice ahead of polling day – everything you need to know"
     excerpt: "The Yes campaign says a Voice to Parliament will provide better outcomes for Indigenous people as well as giving them formal recognition. It argues that the Voice needs to be constitutionally enshrined to make a “powerful statement” to recognise the ..."
     publishedDateTime: 2023-10-13T03:27:00Z

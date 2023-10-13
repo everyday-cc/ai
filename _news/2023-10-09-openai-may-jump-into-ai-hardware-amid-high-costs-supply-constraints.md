@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-ju
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "OpenAI Considering Manufacturing Its Own AI Chips Amidst Shortage"
-    excerpt: "Amidst a growing global chip shortage, OpenAI is now looking to develop its own chip and even acquire another entity to boost AI growth."
-    publishedDateTime: 2023-10-08T19:24:00Z
-    webUrl: "https://techreport.com/news/openai-considering-manufacturing-its-own-ai-chips-amidst-shortage/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
 
 secured: "UxbMdMGGxocYwW4709NoLAT2EblyN12Ia3JCct89HsCcCSxOXLFYyLEuLGoqeZrkch7NEd0HykLItPSixOFRrbfOKRynWHnZk/EDWAxWagkCGSU/rK9xUqu4872FOSKdWNBjgQqykgkxD0JT3Jmfd5nUZcAAdXkmcxhW08mCQDlHFhM30JKkb+apXYUm4Hrpv/kjV1xu1SfS+1jVMq1Yw3Ueif1W5usN8PBiTIqBmQWohY+z5F9J11EDQW5S5G3Wdxz4/X1XllGw4HuNqnPXihHCzKihg99BUCSyjqa6f+rz9MlWfY1qYx79VEW9z4R/20Bo607JDys65kS6RMylYzaPB9iK97vWdP8NuZoLUHHUlivSZwkC0rKC0cm9JQ37/JCH9hA4e4pUNs/vorFDBvxB7AO0/hqOpakoey27KfBSfGhh+8staJbr1UFZdAP+x4l+9BbcnLYMbE8i+fpw4mqRG90D9IXVoW0PxMKSD9VGI2/hU1FW73BTeCWWhxS0WyxuYZoVNFgltBGQjC8RHw==;SIluF2ktolEOZFe9/lFOVw=="
 ---

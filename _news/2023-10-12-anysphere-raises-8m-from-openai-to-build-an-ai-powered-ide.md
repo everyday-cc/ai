@@ -76,15 +76,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "OpenAI Considering Manufacturing Its Own AI Chips Amidst Shortage"
-    excerpt: "Amidst a growing global chip shortage, OpenAI is now looking to develop its own chip and even acquire another entity to boost AI growth."
-    publishedDateTime: 2023-10-08T19:24:00Z
-    webUrl: "https://techreport.com/news/openai-considering-manufacturing-its-own-ai-chips-amidst-shortage/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 34
 
 secured: "u6S0DWrZ2Br/qgNp6uXzhqr+FvZfUL4N/cy8USQ+asM/h+zaAPSu8Zg8BoGppuH4xC3BPp+D/jCy2vdT4XkoLYglB/z+qbYXz9WJCQb0p3MPuCPZf+ThG0tyf8tlHlMIDmyBB9kt/XSgzT0bmHQT+yeS7bspAfXalIzfFwRFHiXi+ZlUjw0tWJp5sJXjPN5yH0B9OSh9Td97lolNabDzUPLWsfNL7k7qjYiPa15r32wCvx5LZHhBFcgtHF17R3sAGHh5kphIMtY+cF9lHr9xQGIqlkfyuo37RwWt9u8h9UO9Q5s//UWL6XOxVq4xcIzL1cWQoHSo4N/U6An6XEE4LpNaAt9G6w+NsysdeMDweCV9kjMCbUw3saUa09TjBqrnAYf4OyljWj2uO3BdJRQUYeApQ3x1XASIM9Ceh2WQAhXMBFLRL/X/i8dgvKdenrZAnMrrLX63/IuhD5F06NWCgQ1Z1yuoaWeHrb5/fMjUVmF9EDGbV8NjXLw9zpw2mkxUyrRpZ/fPlICyFetNlwj1WA==;vwKQHfT9gK/DreuA9G1QjQ=="
 ---

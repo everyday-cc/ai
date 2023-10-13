@@ -1,15 +1,15 @@
 ---
 category: news
 title: "IBM’s AI portfolio ‘underappreciated,’ analysts say"
-excerpt: "“The company has a defensive portfolio, attractive dividend yield and an underappreciated AI portfolio.” They noted that IBM’s watsonix was different from its “old Watson,” with a focus ..."
+excerpt: "“The company has a defensive portfolio, attractive dividend yield and an underappreciated AI portfolio.” They noted that IBM’s watsonix was different from its “old Watson,” with a focus on enterprise AI and providing foundation models that make ..."
 publishedDateTime: 2023-10-05T20:44:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html"
+originalUrl: "https://www.proactiveinvestors.com/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html?region=ca"
+webUrl: "https://www.proactiveinvestors.com/companies/news/1028901/ibm-s-ai-portfolio-underappreciated-analysts-say-1028901.html?region=ca"
 type: article
 
 provider:
-  name: Proactive Investors
-  domain: proactiveinvestors.co.uk
+  name: Proactiveinvestors
+  domain: proactiveinvestors.com
 
 topics:
   - IBM AI
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "UqS3jQVr2qaQjDcHT8maVQd1vqspHR9CjomFYrwrz2cJMNkY25DCvtNxUz4kISjoAZQOFSuK7VL9WWesJYvN+7cQ1Ub/C1woQvvZ3dRKiThZD4MSnuYI0MBeBvOlBj9JgYenPW44dukffzqhUopWK2qIDdoPGwDwYwaRXWNxTTle7RBuoxXoSTcRbh11YFLctVrVYiIZSTHf6J4Upbk7AAWdr5InQcvdAfZrCLgZd0+pEjUkjO/PJgJ1dd+hJBjCqP/lB9WJhwuYl4BJx8xPp71t7YTNJVbOyz3UtbZSmBli4+jkEzLWUjQAWYAeZ832skFpJzrOWdHKeoUESyX0KEOsH74D9najZfjTGY4p6oE=;oJBlvpYXmg+6GsebWKXWDQ=="
+secured: "f/mWI7cXjEAngqfs5Aw0PqZgUA9p4d/WMDunqlhnfV5DJWgRNMipmHao5Dy31QjauL5BUAZ0Wo1JSiOMyy69KbV/EgTvW4SBj19ioi3OjA9T1+4y7Y54lE7rwn9nxuZozLlDc0qXKtg5/Ki2IpgPWK9oOuxhRlW8ozCu6WCPYEB2VsWB11aohaf/UJ9+nmfsC+EJxyqXzbZ6Y7rbo7Ri7P8CxA8vYl4CwAsFl9Gt8sHHyc6EgvIm4gqZMhxiZKGrV9UufR4xsSHRoDt2rOl6kIi1mQGFAsv+/ylzwjJ7BIeePyxcxnnKfYMAX9gE54+VIJRyeenzQPCAisB+UNLX8HV6S9Ymas7cLrruC0QDzqE=;eaYpz1Q2RlVIAdWJW8S8tA=="
 ---
 

@@ -74,6 +74,20 @@ related:
         width: 1790
         height: 968
         isCached: true
+  - title: "Regulators Are Grappling With Antitrust Principles in the AI Age"
+    excerpt: "Emerging artificial intelligence technologies are raising new questions about how antitrust principles will be applied going forward."
+    publishedDateTime: 2023-10-13T14:45:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/13/regulators-are-grappling-with-antitrust-principles-in-the-ai-age/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/11/Artificial-Intelligence-01-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "ueVhGVudCfIff+ovI+ECnInWFrY7K50kjwmWyNd8t07BxswI4vvU0QzIn78nFTp2VZuxox/zVy+PRE90VSlPaiP+y06Rrogkt3iqvsGOiZD9yQtaZh179jUeBSkzE/WKN5cD9Gzeeon/J3ACEfS+PyEh3CJZ/K5O3vaycN7Z1vZUu2rIpLnfahXvZsd7CxphObAq2TCjEDGY3pqISfZeGMziec8lrjySMAXJmFhBSlujA8sYG6oOpS3HuZmUnE4TE0tyfr+LhShtNs4Jle92GQ01N/cVV34vV5pebgEq6VPh9LSi/ee48/6Fc1JotabBvhqXoYPG4J0ERYMDqcuZWFmQE0R+yO0fbY9ytLCIZlE=;L7Cq/+YFj0jk+BL3u2H5OA=="
 ---

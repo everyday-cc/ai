@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "AvePoint debuts AI-powered information lifecycle management solution"
+    excerpt: "Next generation solution enables customers to better manage information, reduce costs, and improve efficiencies"
+    publishedDateTime: 2023-10-13T14:06:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=160989"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "AvePoint Launches AI-Powered Information Lifecycle Solution"
     excerpt: "It's a cloud-based solution that helps organizations manage their information lifecycle, from creation and classification to retention and disposal, with advanced AI and automation."
     publishedDateTime: 2023-10-10T18:36:00Z

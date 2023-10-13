@@ -62,6 +62,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Dumbing down or wising up: How will generative AI change the way we think?"
+    excerpt: "But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking."
+    publishedDateTime: 2023-10-13T15:31:00Z
+    webUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
   - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
     excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
     publishedDateTime: 2023-10-10T17:16:00Z
@@ -71,15 +87,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
-    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
-    publishedDateTime: 2023-10-09T19:46:00Z
-    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
 
 secured: "H31t+oad4z0r/JBSb2eYfcNVMu0p52ItO0yUza+5hC20TsNFTYjrW14O7mEWT/BTkYEKUpcWKHdYAFA4e3xhRBDVT2zp5RdKMRfB1wp8r2K3GyIuLK9Xl/gAXSYHbC+FKqJI5Kq19H6i1lEl+PrmjqlB1QT0arVxoCk+x3Qb5Bp8PaMz2q/VLCJw7KwbzY5QHCXJINJwasC9XRWC5KYwtqLeza1bUMG6H/C+dUCnhV+QKS8tXZwIDRUlfcaU1dvs7gclJ04PDVjUPmfUXsiBPfRuY16Bpb2dP1YxrXqc2qlL0DjpykNGve9XjRnWyNt/8brrMKJmPMydaFxMZBE3bS9F+JwWkfVL0u2X/cP6PyM=;YF9zYY8e5E08CEyNyRAklw=="
 ---

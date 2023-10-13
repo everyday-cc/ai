@@ -53,6 +53,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Will AI reinvent the real estate business?"
+    excerpt: "Join The Real Deal for TRD.AI, the only event bringing together real estate and artificial intelligence, in Miami on Nov. 10."
+    publishedDateTime: 2023-10-13T14:30:00Z
+    webUrl: "https://therealdeal.com/miami/2023/10/13/find-out-about-ai-at-the-real-deals-trd-ai-event/"
+    type: article
+    provider:
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 17
 
 secured: "6VAn/zSnRe0XgbBcL+p95QeOIyekH3OAAj8qELUu0mCelNA/hdJzW3onMUl2H6kQv3rMHblxRgVy3YVWy4UE3VzVhkedvG1IaR2ailu1EAGQnkJkePRNJddYVoH25Quf2xx8ZsgwPOuHxWqV491i+gHxLmrrGSpuHOcVYJ8zJ6at1gsd0jgVJ113IXRDNCIDao2145LK5EEYWR8MEXdXeLvOUn2TFbXmM0jzYtXRnoQFKHqf0nSCTSVuymL9vZTEGZj+PcZrCFUm9+ReuxWzOp4pJCJ8u9Wi2PI3btpgFicl8hTsND+TakkZJoUlIYkhiLVsI4JKeUrS5oFimcqC7elVAWRnMllfZ5Tl6YZdnzNlxnlIaWVvegT8n/P76/OqTX5eaP1EJhq1s7+AayVP5WAGPHr5wgeDsaGpWkVj7z9evyIiTWMNR6izxSkxjC0cPlRvpqu/TCSjgOVzXA2QTjihXRj98LfL+BSjDqNsdsGcxDZN2JdKScSqSEKO8eSeq3VxcVdjaXtBnvBf0wA+cw==;pf6HwZt5LCaKyxc2E1ZSEw=="
 ---

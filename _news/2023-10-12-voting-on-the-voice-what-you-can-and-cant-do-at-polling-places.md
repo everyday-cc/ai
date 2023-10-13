@@ -103,6 +103,20 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Australia’s Voice campaigners make final push ahead of indigenous referendum"
+    excerpt: "“This is a once-in-a-generation opportunity for recognition.” [ Brianna Parkins: Voice referendum in Australia asks a simple question with no simple answer ] [ Australia sets date for referendum on First Nations people ] Noel Pearson, a leading ..."
+    publishedDateTime: 2023-10-13T15:04:00Z
+    webUrl: "https://www.irishtimes.com/world/australia/2023/10/13/australias-voice-campaigners-make-final-push-ahead-of-indigenous-referendum/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 36
+    images:
+      - url: "https://www.irishtimes.com/resizer/hkA1d7j3ULvWSefZrs9af4PZG0E=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6PONLCKATY74BLPJUE4QA6IFHA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
     publishedDateTime: 2023-10-10T00:36:00Z
@@ -158,6 +172,20 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Australians Vote on a Voice for First Nations Peoples"
+    excerpt: "Although the referendum’s suggested change would be small, the campaign against it has grown on the back of misinformation, lies, and a deep well of racism. Supporters are preparing for it to fail."
+    publishedDateTime: 2023-10-13T15:57:00Z
+    webUrl: "https://thediplomat.com/2023/10/australians-vote-on-a-voice-for-first-nations-peoples/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 24
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2023/10/sizes/td-story-s-2/thediplomat_2023-10-13-140439.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Australia news live: Dutton spread ‘fear and division’ over voice, Ken Wyatt says; Perth flight from Singapore turned around"
     excerpt: "She urged Australians who are yet to cast their vote in the referendum to “please remember that voice recognition is inclusion and listening to Indigenous peoples on matters that affect us”: We’ve got decades of evidence of that policy made without ..."
     publishedDateTime: 2023-10-12T21:55:00Z
@@ -174,15 +202,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australia’s Voice campaigners make final push ahead of indigenous referendum"
-    excerpt: "Noel Pearson, a leading indigenous rights campaigner, was still hopeful that the referendum could succeed, making his final pitch to voters from Perth on Thursday. “To say to those Australians who are undecided, who are still thinking about yes or no, don’t slam the door on the children,” he said."
-    publishedDateTime: 2023-10-13T08:18:00Z
-    webUrl: "https://www.ft.com/content/c229e0b5-2566-4d1e-bb8f-c72b54ddcc1d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 16
   - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
     excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
     publishedDateTime: 2023-10-12T03:38:00Z

@@ -27,81 +27,85 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Changing The Future Of Digital Experience"
-    excerpt: "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/"
-    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/"
+  - title: "Open source is actually the cradle of artificial intelligence. Here's why"
+    excerpt: "In a way, open source and artificial intelligence were born together. Back in 1971, if you'd mentioned AI to most people, they might have thought of Isaac Asimov's Three Laws of Robotics."
+    publishedDateTime: 2023-10-09T00:00:00Z
+    webUrl: "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 640
-        height: 320
+      - url: "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
-    excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
-    publishedDateTime: 2023-10-10T16:58:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=2233633"
+  - title: "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities"
+    excerpt: "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,"
+    publishedDateTime: 2023-10-11T07:29:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
     type: article
     provider:
-      name: bernama
-      domain: bernama.com
-    quality: 45
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
     images:
-      - url: "https://www.bernama.com/storage/photos/fdf2df98576466acffaa0e6aff4cfb7a6525824a659e5"
-        width: 1110
-        height: 694
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Artificial intelligence and the future of humanity"
-    excerpt: "Thinking and learning about artificial intelligence are the mental equivalent of a fission chain reaction. The questions get really big, really quickly. The most familiar concerns revolve around short-term impacts: the opportunities for economic productivity,"
-    publishedDateTime: 2023-10-10T19:00:00Z
-    webUrl: "https://www.aspistrategist.org.au/artificial-intelligence-and-the-future-of-humanity/"
+  - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
+    excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
+    publishedDateTime: 2023-10-11T11:14:00Z
+    webUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
     type: article
     provider:
-      name: aspistrategist.org.au
-      domain: aspistrategist.org.au
-    quality: 41
+      name: Network World
+      domain: networkworld.com
+    quality: 59
     images:
-      - url: "https://www.aspistrategist.org.au/wp-content/uploads/2023/09/GettyImages-1404749040.jpg"
-        width: 788
-        height: 443
+      - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1004
         isCached: true
-  - title: "How Is Data Literacy Changing in an Artificial Intelligence Landscape"
-    excerpt: "The geospatial community is well-suited to be a space of change and continued growth of a data-driven culture highly data literate people. Data are part of our everyday conversations, and we can model what data literacy can look like beyond our field. As leaders, we should ensure that:"
-    publishedDateTime: 2023-10-11T05:51:00Z
-    webUrl: "https://www.directionsmag.com/article/12622"
+  - title: "AMD to acquire Nod.AI open-source AI software startup"
+    excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
+    publishedDateTime: 2023-10-10T19:40:00Z
+    webUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup"
+    ampWebUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
     type: article
     provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 37
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
     images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2023/October/5/6/f80021aa-85ab-4038-beb1-afd9034f19d2-sized"
-        width: 800
-        height: 450
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/10/amd-to-acquire-nodai-open-source-ai-software-startup_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "How BharatPe is Harnessing Generative AI for the Future of Finance"
-    excerpt: "BharatPe’s AI and analytics team, comprising 30 professionals, including 10 specialised in AI and ML, is pivotal in the organisation, contributing significantly to innovation and data-driven decision-making, involving close cooperation with data engineers, scientists, and domain experts, ensuring technical excellence aligns with business goals."
-    publishedDateTime: 2023-10-09T12:15:00Z
-    webUrl: "https://analyticsindiamag.com/how-bharatpe-is-harnessing-generative-ai-for-the-future-of-finance/"
+  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
+    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
+    publishedDateTime: 2023-10-09T19:46:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 34
-  - title: "The Future of Investing: Artificial Intelligence in Stock Trading"
-    excerpt: "In the fast-paced world of finance, staying ahead of the game is crucial. With advancements in technology, the landscape of stock trading has undergone a significant transformation. One of the most groundbreaking developments in recent years has been the integration of artificial intelligence (AI) into stock trading practices."
-    publishedDateTime: 2023-10-12T17:53:00Z
-    webUrl: "https://techbullion.com/the-future-of-investing-artificial-intelligence-in-stock-trading/"
+  - title: "AMD acquires open-source AI software developer Nod.ai"
+    excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
+    publishedDateTime: 2023-10-10T18:19:00Z
+    webUrl: "https://siliconangle.com/2023/10/10/amd-acquires-open-source-ai-software-developer-nod-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 17
 
 secured: "sI1PFE1C1yl6W7Tq7pMVYjrNylVpb6cIRqSh8kDJp+p5i5XKIA2Qx+ymrYpX7PlYio6lUvTNZK80T4UEFUzdRGc64evqd72Qx4r9EMP7h5jSIQoSSdA7du+cWEA2eqvotjCG8okm0A1n+iW44m9vff/UowIuahP+5sATkoOHLOb/aqaUKOx9/ez+u2Z2GgJWY3uT0fqOlpiPVHGMDZnVJl+Qeu5+hfCOaFrKERaIcd9cQakGQbQrF1JV7gTJrZ4jGMk8LbQXHHghZnZZ1WEGCQ876ocM2iunHAcMk1bYRq2r5y5YYSCurEBqJvfQJFirBc+JwX0vi9h7QndG7Ijls2p0De5GEMWYPntw2wRIRs8lC7Hk1xUalwmqbMh8e9tgWEkjtX5CzslkTsFGKmBGCKE3e+z8gBNTt0TdiKJmydYG8yw2pCHNfwqRTx7dEP+p0jdsWzIFkGvvubfFaMsKlI4G+7ZVSmMhG6TvcxalJC5MF7xE4TP9YHuIsGn+n2kWSgyWFfTag2haeYy39gUbqA==;GlMc69fGMKPopbEAHCK3Xw=="

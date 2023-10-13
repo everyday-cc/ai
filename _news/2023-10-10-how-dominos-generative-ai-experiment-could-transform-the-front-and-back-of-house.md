@@ -48,15 +48,6 @@ related:
         width: 437
         height: 250
         isCached: true
-  - title: "Experts: 3 considerations biotech startups need to weigh when implementing AI tools into company operations"
-    excerpt: "The use of artificial intelligence in biotech is no novel concept, but concerns from experts are mounting about the technology's use in emerging startups working to solve challenges across the medical and life sciences industry."
-    publishedDateTime: 2023-10-08T19:09:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2023/10/08/biotech-startups-consider-ai-implementation.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "eAdJ64Bfouqsk2SBbFsTtDpxwwLM0YWKtl6GBaGimiFtDi8vVob6DePHySdBxy75Z0VBmOwzvvdem5QS814N2xKVRjVYfxOENkc/OzTPy2iLlVGy5TYSsgvn6EPB4LHKG9TGKkqole3FQlre75YPq1AnrSMLOgat+TRbS5u4CZQ2JEusVeWbrUpHLO3KY4SiJehhNer83/53D1FpYFlAmNqkrYxL5j2oyCsm9YSZ2Y1NQdXty05YI3+/+uskSiiKug2g26SYcaiwKQJDxuuL7w8SJO125SzSkm3yn76HGhpqSG4H9rnj2pMfgE16EWqk5dindF6GD23P4OaMh29h+WmBBKvnS/6FtFUEfQrZI5Cls2Bf+GDm3CWMTL2YCQ3mwnRCv9jNkv8AJh57MMfM1oL72KME33V6hy4YO1UL1eFON413DnxctfLFfiytiGi6J5KNdsm7dGl3uCY9awHQdNJNdRMM8bgyBebhLovQ2OdG3N1NWRIghu7aezZFDMZwuRv4K6FjAxLb53Abc9xJLg==;Sc+FRYYb/2beGablnM3WwQ=="
 ---

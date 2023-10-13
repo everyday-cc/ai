@@ -70,15 +70,22 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
-    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
-    publishedDateTime: 2023-10-09T19:46:00Z
-    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
+  - title: "Dumbing down or wising up: How will generative AI change the way we think?"
+    excerpt: "But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking."
+    publishedDateTime: 2023-10-13T15:31:00Z
+    webUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
+      name: techxplore
+      domain: techxplore.com
+    quality: 55
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
 
 secured: "2vy3hk6COpOhlmMhoAzNXwuJP61Fg4Cdjat3JsUAv8kvaYMo5nFz+e8+4/OkqX6v0mN1WomgQvTvtc1OGyCxOcEREkEqkltm2VY+Dr/LLKb1uDHHVDxK8eR03GeB8c/pbB4VADzBKr1c/Ks7xpgow7Lk4/V1HCHFIbkRpMhkONlS0D/+dtBz6sVvi3xhLfKDX8zXMAlBhfB499eEayqLUzpKF4lIeiixnB6T/d9u0JyI7fy+GmX7t7JC82xE/hb9PyfY/SDoIJzm51JvvX6IhiE0lHTCjomkD3L2FllXhby9xWNZiptMaB4yfgnVm/0G8fF6B5UN97ScJLu4rKvui78tP2mXyJU8R6kNwHxW4bC6L8NLOBqlFQFIX/I7UnWfucmfK2fUUeKgj04rGXCp649voLKahqoOSsZfaxXDPB+bq8bKH23azvJZjod2rPDcigwgE6v1vjGcgMK6rsSL/vYqAYCKw31RB/Gz9rdIf47Ew6WoVfCA6SC1G2AW0cA5hU4YQrFUbolpWaY+VQN36Q==;8NgJwEe+LWtiaLbTpdGgWw=="
 ---

@@ -117,6 +117,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Generative AI could help low code evolve into no code - but with a twist"
+    excerpt: "Generative AI tools can handle many low-level tasks, but professionals need to be careful how they use the technology for coding."
+    publishedDateTime: 2023-10-13T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-could-help-low-code-evolve-into-no-code-but-with-a-twist/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-could-help-low-code-evolve-into-no-code-but-with-a-twist/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-help-low-code-evolve-into-no-code-but-with-a-twist/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/39793e76a3a7acf1a8064110167245799e9fb6a6/2023/09/21/5e523a3e-501b-47ba-99ea-b6c8b4829bfd/gettyimages-1412645344.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
     excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
     publishedDateTime: 2023-10-13T11:45:00Z
@@ -180,6 +196,20 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
         width: 636
         height: 424
+        isCached: true
+  - title: "China Targets Generative AI Data Security With Fresh Regulatory Proposals"
+    excerpt: "Data security is paramount, especially in fields as influential as artificial intelligence (AI). Recognizing this, China has put forth new draft regulations, a move that underscores the criticality of data security in AI model training processes."
+    publishedDateTime: 2023-10-13T11:59:00Z
+    webUrl: "https://www.unite.ai/china-targets-generative-ai-data-security-with-fresh-regulatory-proposals/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 55
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Alex_Mc_map_of_china_and_red_neural_networks_5651cf4b-4433-474e-8c0b-41f3cfc554a1-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "The Power Of Fine-Tuning In Generative AI"
     excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
@@ -263,15 +293,6 @@ related:
       name: CIO
       domain: cio.com
     quality: 17
-  - title: "Dumbing down or wising up: how will generative AI change the way we think?"
-    excerpt: "AI tools are becoming increasingly personalised to cater to our every need. Will outsourcing the handling of information to AI make us ‘dumber’?"
-    publishedDateTime: 2023-10-12T19:03:00Z
-    webUrl: "https://theconversation.com/dumbing-down-or-wising-up-how-will-generative-ai-change-the-way-we-think-214561"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 15
 
 secured: "wwsqkrkEMkaPlCDhtFn2C75BRLFCST10gIV9OfwibIZjMs5pxSFwFthL9oDgPxzHzU9oyBOnZSsh9VGvcQF2KzUW9GK4Ppss46Ds4d6NVM+3dmx/qaiZ2t62UP36yOnA3SnKSxjEMbW3ESMPrCZ3PhNg4L/D1lIg81/gZIem4P2YJdoPem0dVTXBGV9kKt4+35l1CiowquZfZTqCHLxun/jQKlCPadBmnbU3aW4JehfbKgVGxLG4Vm/lekyzUYTaF08Z++1rxrzgwZg8wt/5gBGJzHthzrkoKm1ow0LBeGPHHKSMfTjUUm+SOnCrjtM8mtP8ImrWf2b6tOrAeULBgtQ7gXy90SsQB3b03/bamm5AwtZiWg6w9tCBS47jaZSc7dH9RABYumzTH8segHO6uoPSxZSE5KYoi/4WI7dxDij/UuHqYiUTtrywNgQkyhGo3q61r09Uqn5B0dvhiAe/w4Fml6YI3Az7eK1AcQyUEfIqmUmlQLyX3pLJdZNNe+4Ep9tkHJwYetVrelbn+sXRXw==;yhc3WyTQmoIvY/HZDZ+Qbw=="
 ---

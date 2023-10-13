@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can simplify lung cancer screening process"
-    excerpt: "Machine learning models to identify the simplest way to screen for lung cancer have been developed by researchers from UCL and the University of Cambridge, bringing personalized screening one step closer."
-    publishedDateTime: 2023-10-08T19:48:00Z
-    webUrl: "https://www.news-medical.net/news/20231006/Machine-learning-can-simplify-lung-cancer-screening-process.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 19
   - title: "Shaking Up Predictions: Deep Learning Revolutionizes Earthquake Forecasts"
     excerpt: "Researchers have developed a deep learning model, RECAST, that outperforms traditional methods in predicting earthquake aftershocks, especially with larger datasets. This advancement promises improved earthquake forecasting using comprehensive global data."
     publishedDateTime: 2023-10-09T16:23:00Z

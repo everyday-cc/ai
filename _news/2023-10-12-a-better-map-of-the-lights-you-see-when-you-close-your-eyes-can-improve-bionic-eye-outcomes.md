@@ -26,6 +26,17 @@ images:
     height: 1365
     isCached: true
 
+related:
+  - title: "A better 'map' of the lights you see when you close your eyes can improve 'bionic eye' outcomes"
+    excerpt: "Researchers have identified a new way of mapping ‘phosphenes’ – the visual perception of the bright flashes we see when no light is entering the eye – to improve the outcome of surgery for patients receiving a cortical visual prosthesis (‘bionic eye’)."
+    publishedDateTime: 2023-10-12T23:10:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231012013448.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 22
+
 secured: "tt4krcGVdqHj0jMFHgdTODVb4S9YWHK8LZla3eJ0ahdPC+k4vKmUo0w2WgSJEkRqGCk241qXICqwr5CKuR6Q1kQV7SteBNnxxdbG2UB0/RWI4/iDjjrLFPgetYCMBreMdQC3durnl3JXWolUSPm57uWb0aNd87P4NyCwCR6JWQEQWCONcDVkCWii82f6afdM3hniL7EpxsvzVzroMBUOstm+VLbArWjYoAWTpJaB6I9UKlksRxPTokRG7VqpD0A6bml5T7RmE5hB1AaAjUi0ffBhb0QKP0uJaAbRWX+5xsBOx+IBIWJFN8WupIOdjd008FCrA4d6k0z/NT7e1fqGNm8PiAE17GFcKkK7Y58Gic3WcOuWxG7lJtQdR1Qj3EavUQl2SZalIVj5AGfNisnlMnns4y9fUkcGsXRsNcueMBn3yiFlL6Y6UlTwBPudKxKgkoDGia1YifZLzwB1d1zw9peSjBZ85hqhN4lwRd/N7+0P0UaDBnUVC31OJvbyfW1rAZ0chGDnL26ID4bT2TuaUA==;y6FVGKvnq4tRxlVNqyVc9A=="
 ---
 

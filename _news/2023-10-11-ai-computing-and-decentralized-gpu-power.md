@@ -7,8 +7,8 @@ originalUrl: "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/"
 webUrl: "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Direct Marketing News
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "io.net to launch the first decentralized GPU Network for AI"
-    excerpt: "The demand for powerful Graphics Processing Units (GPUs) has surged exponentially in the ever-evolving landscape of artificial intelligence (AI)."
-    publishedDateTime: 2023-10-11T13:45:00Z
-    webUrl: "https://invezz.com/news/2023/10/11/io-net-to-launch-the-first-decentralized-gpu-network-for-ai/"
+  - title: "AI panel recommends govt to create 24,500-GPU computing infra at 17 centres"
+    excerpt: "Union Minister Rajeev Chandrasekhar said that based on the suggestion made by the panel, the government was considering making AI chips and GPU infrastructure in the country through a public-private p"
+    publishedDateTime: 2023-10-13T14:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 54
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
     images:
-      - url: "https://invezz.com/wp-content/uploads/2023/10/decentralized-gpu-network-for-ai.jpg"
-        width: 800
-        height: 533
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/03/RTX-3090Ti.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "io.net to launch first GPU-enabled decentralized computing network for AI"
     excerpt: "io.net intends to address the scarcity of GPUs for AI processing by procuring one million units from independent computing power sources. During the course of its development, it will establish the first decentralized cloud environment specifically designed for machine learning, according to the latest information shared with Finbold on October 11."

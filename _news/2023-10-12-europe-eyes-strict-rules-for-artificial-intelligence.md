@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-11T23:25:00Z
 originalUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
 webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"

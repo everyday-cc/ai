@@ -39,6 +39,20 @@ related:
         width: 1627
         height: 1080
         isCached: true
+  - title: "Didi’s Self-Driving Unit to Receive $149 Million Investment From State-Linked Firms"
+    excerpt: "What’s new: State-owned automaker Guangzhou Automobile Group Co. Ltd. (GAC) ( 601238.SH) has announced plans to partner with a local government-owned investment firm to invest up to $149 million in Didi Global Inc.’s autonomous driving unit, in an effort to develop a technology that could eventually allow drivers to be hands-free."
+    publishedDateTime: 2023-10-13T12:27:00Z
+    webUrl: "https://www.caixinglobal.com/2023-10-13/didis-self-driving-unit-to-receive-149-million-investment-from-state-linked-firms-102116593.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 18
+    images:
+      - url: "https://img.caixin.com/2023-10-13/169717706707949_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
 
 secured: "9fjd0aalsMO3GEWyA5NNOLUaikosi2oSWh7FVoD+1CJnrKK43WV2jyDfKzj/Wf7o+QenL0CFhW0maJERzsnImSe/SsLU8//YKvw+17/gdB0Fv57jQRvwq4JBqaPMfwrYmFGXsWF4duuFJfCSfRh6Y0eIU3riOv5xNf+MnZsgDU764cMLbH6GjiA7e+uEQwCqUh1XudvyN7rbgUY8og3A7JT3PALPdwAi4ocSFWmq5xewuywXKShdRfK/9T0p+wkMxYkgfFmGfN48fsyPh55sO2R1OkXFBTKKcmBr7I3uYWdsxuSLggusXncqkyR2NTVHOQq5gOrfreTKTxdgM/8M2hiiTkD5uDMqLJccgmDkaMNfsNly/1853j4ZXTOiikFgHDDXG1wu5jIClJBGWDtqzC0aZ/nW7riCWXauhz9YF7vuc6UwxKB/ZGE9dlazCfFbRdqtlHqfwwiHsz2xUyIn8MBXldrP3r57puT7NVcBCiwifNGPESxjaNY9YzsMrgdiGsJpupYRx/0Lajcq/vNgIw==;SKZtQC+Fs0YEay1rElEz/g=="
 ---

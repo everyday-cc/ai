@@ -50,34 +50,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 51
-  - title: "Study suggests user expectations influence effectiveness of AI chatbots in therapy"
-    excerpt: "A recent incident involving a manager at OpenAI has sparked a debate about the effectiveness of AI chatbots in therapy. Lilian Weng, a manager at the artificial intelligence firm, shared on social media that she had an emotional conversation with the company’s viral chatbot,"
-    publishedDateTime: 2023-10-08T21:25:00Z
-    webUrl: "https://thethaiger.com/ph/news/554694/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 48
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/09/beth-macdonald-7c07jLiecck-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
-  - title: "Meta Launched a Host of AI-Powered Chatbots With Influencers"
-    excerpt: "Meta launched this month a host of 28 AI-powered chatbots — all with unique backstories — across its messaging apps WhatsApp, Messenger, and Instagram. One is an AI assistant called Meta AI, similar to chatbots like ChatGPT and Claude 2. It’s powered by Llama 2, Meta’s latest LLM."
-    publishedDateTime: 2023-10-08T20:36:00Z
-    webUrl: "https://iblnews.org/meta-launched-a-host-of-ai-powered-chatbots-with-influencers/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 37
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2023/10/metachatbot.jpg"
-        width: 860
-        height: 477
-        isCached: true
 
 secured: "Eu9PArrXG7w4JvkIS6rqLq11hkMS4bFh1w5PZQz573Jgso5O/LT2Jxi8hF9vDkku1b4stLR4rTV9XhEo+yNgy6EMZQkYKrq42Op/C7+ULbs0EgO6280v9EBvwgkRFXqtOx0z45C/6/lIiMj5igbLrTVE/munjz6MpvEYZEjE5Teike5BzZrH2+icrB0GoSbMgF0rAuOglSoWA1h0nTGjWrD6WyvqtrajTxcf3fHC4fECwNW+ifwFojX6e11RVSrb+yvuUgHYUKdNmoRH20JWjgNTDlrpju/SmPp7MlvcdqJGrftg5OWfpN1szOxrAMW67NuNdiqmmJmFi/qAuimWh4qwbhutp9FezeLf8rDRp6I=;ifrHaLrZfNrN+RTTQA5WWQ=="
 ---

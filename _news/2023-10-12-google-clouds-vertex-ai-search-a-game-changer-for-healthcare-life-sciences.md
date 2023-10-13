@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/"
 type: article
 quality: 100
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI Can Now Create Images From Search, Google Images"
+    excerpt: "Google will now let you generate images and written drafts related to your search."
+    publishedDateTime: 2023-10-13T15:22:00Z
+    webUrl: "https://www.pcmag.com/news/googles-ai-can-now-create-images-from-search-google-images"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/06PyVcjR8KlE9qbxcj8TiyB-1.fit_lim.size_1200x630.v1697208916.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Google Cloud launches AI search to empower healthcare"
     excerpt: "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records."
     publishedDateTime: 2023-10-09T13:33:00Z

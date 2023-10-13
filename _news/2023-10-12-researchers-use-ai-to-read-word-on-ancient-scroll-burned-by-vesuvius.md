@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/science/2023/oct/12/researchers-use-ai-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/oct/12/researchers-use-ai-to-read-word-on-ancient-scroll-burned-by-vesuvius"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Guardian
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence helps to read ancient burned scroll"
+    excerpt: "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence."
+    publishedDateTime: 2023-10-13T14:58:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/67103053"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/67103053.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "AI reads text from ancient Herculaneum scroll for the first time"
     excerpt: "Charred scrolls from Herculaneum can’t be opened easily, but X-ray scanning can reveal their contents. Credit: UK Photo A 21-year-old computer-science student has won a global contest to read the first text inside a carbonized scroll from the ancient Roman city of Herculaneum,"
     publishedDateTime: 2023-10-12T20:41:00Z
