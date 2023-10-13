@@ -120,6 +120,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
+    excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
+    publishedDateTime: 2023-10-13T18:33:00Z
+    webUrl: "https://techreport.com/news/biden-administration-considers-tightening-ai-chip-curbs-on-chinese-companies-abroad/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 28
 
 secured: "xsHSqH0Lf8hioGzY5/w8PTpm8ZSOAQMBOdB5CMpFmdxXoniAZYEi/l5b1y+VPZEehcgY1vPY0P8FBfsfeLa1s8fAIsgkEA/vFaX1SoRSUwEkAhaheh/vrKkMJG0SY4bi8sRijfMKHpwpeSqb/RXlA+jqVwUYIpuWNfTovJu15j1mZuPNrfA/l49feX+SGMmGpnWyScq0munSF0KHEkc532qGyN8TlF1mrxnTM53Q9SZMrDIDW3axAgCxEs7QVJMQ3eBhPbIYpFqkJHxcSEougEEnUiz0CRBR6g334hW2byVHiI/57yIaE796IxgEDkyQCLVpiDMPXu83pnhsigJmiepsNqdNCnmaIcR4deKGSWdBTxegfOoW4sbGhzNjNhEHMZ98BZDZ1VDuR9HOmT7OfxcCSZpcfC9+SKPkrHoFWjadBP4HN0kS2hgi/UpXAw0rvrXkIjIhcpLQYo++uOuijq4FcnB0a5QvM6zNQsrGyZ6J1SNFLlC92+HLjfRuHQAAqgltx0wtLCgTFLGuqfk7xw==;lHOzFslW+YMwu/wfXN744A=="
 ---

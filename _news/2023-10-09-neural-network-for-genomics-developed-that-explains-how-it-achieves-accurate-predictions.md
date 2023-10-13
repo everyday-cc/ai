@@ -49,20 +49,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Researchers create interpretable neural network to predict complex biological outcomes"
-    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions."
-    publishedDateTime: 2023-10-09T02:41:00Z
-    webUrl: "https://www.news-medical.net/news/20231006/Researchers-create-interpretable-neural-network-to-predict-complex-biological-outcomes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 31
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "WqstkrUjv5pJ7E6hHCdXNFJxto/2oaC+fvtMXHP2J7ctvfoBJr/nU1WXV9XhJEBGD1cTyoxfrpb+g7Oj5f1E2EWg7KDCXmCIHZSLQNYI6IvbHcjJDdrEv7g5gKbk32dh01sQQN4/g0JU6tJp0sS3J193wRUUWiw4T4G0fK2A8404v/4OfptA916bLBabTmbPlFFqdZ172NM4sJ9RQmZbm6kiHjt6LlTboFz21DsXzCkvAuAkQwjKvBO7yGitUSxBhDGF6yeBTmFk2YvJHKZl/Toi6kfXX6T5J+rVV1WEP6ZtIVioP38H1S7UQ3MOrAGvTuLCssFS1/B4mT0abh4gV/oxG+LbSovEvTBfw/0Vm1ThU+kVEteT7iI97+wbhrNziUh1q+YY7H4caLUF8QSS5ppCgggHHVShy0g7pG6lZrIbo6WAWsMNMdPDEiJhtsWIDwxcfsNpcbnFFbac4q1zSzpKRxxOP5/bvypyBgPKZ+kXnLQUwUHDppUs2/7eLHJR6NPeB2bZGEsJfKFbVID/EQ==;+47gkb6CkoWV6Z9qMqxGjQ=="
 ---

@@ -25,54 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Reasearch finds AI language models can be helpful in diagnosing schizophrenia"
-    excerpt: "Researchers at University College London have developed AI language models that can help diagnose schizophrenia by analyzing subtle signatures in patients' speech. The models, including Facebook AI Research's fastText,"
-    publishedDateTime: 2023-10-11T04:22:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/articleshow/104331053.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms"
+  - title: "New AI Tools Offer Path to Early Alzheimer's Diagnosis"
+    excerpt: "Is the eye the window to Alzheimer’s? WSJ reporter Vipal Monga joins host Zoe Thomas to discuss some of the AI tools that are in the works to help detect signs"
+    publishedDateTime: 2023-10-13T19:16:00Z
+    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/new-ai-tools-offer-path-to-early-alzheimer-diagnosis/B366C1D0-07C5-4AE3-8D71-69DDD4B38F6B"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 56
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-65656,msid-104331148/the-ai-tools-were-more-successful-in-predicting-the-responses-of-the-control-group-than-those-of-the-schizophrenic-patients.jpg"
-        width: 600
-        height: 450
+      - url: "http://images.wsj.net/im-868546?width=1280&height=720"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "AI language models could help diagnose schizophrenia, study says"
-    excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
-    publishedDateTime: 2023-10-10T13:39:00Z
-    webUrl: "https://www.deccanherald.com/science/ai-language-models-could-help-diagnose-schizophrenia-study-says-2720370"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 39
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F62b3a087-fe0b-467b-a506-e17617a565f1%2F2023newsmlRC2OL3AFLTFJ890668919.jpeg?rect=0%2C6%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI language models could help diagnose schizophrenia: Research"
-    excerpt: "Researchers at University College London in the UK developed new tools, based on AI language models, that can characterise subtle signatures in the speech of patients diagnosed with schizophrenia"
-    publishedDateTime: 2023-10-10T12:51:00Z
-    webUrl: "https://telanganatoday.com/ai-language-models-could-help-diagnose-schizophrenia-research"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 19
-  - title: "AI language models could help diagnose schizophrenia: Study"
-    excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
-    publishedDateTime: 2023-10-10T13:12:00Z
-    webUrl: "https://www.hindustantimes.com/technology/ai-language-models-could-help-diagnose-schizophrenia-study-101696942752361.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 19
 
 secured: "/o7/+IST5xspdY7xCG6RJfPIy6K9Psh74/N+XAQPYsyrzElo16MHZVLJKkTDd0IUudAOAT1ntzLR7TLFJXI1WeojJZI90fzElkiMZHOHD3W7nK7XrJpWxGiM5e+V8VbwOq9sd8aNcvsmbp16/xRSzQzm66vnD3kLi3f2VNpa5B5jh8N/QqfyDCHfkrv+4DE81BRoNP8mljF+rtVkR0Jnqgy5MLE+NOIagO89/quMqdTFYDCXWZv8i7k6ymWe8zKU3KkAo2q1SddI+AwTTwd1hbpguavop0VJyVurVHDG09n6Bt69YN4CRnu9Z3acD0ri2OxU/iezSnEctSM/JerrNln18zXNDgCa13JaaUz/suP+ywL256muI8jnmWqGKlOdUwmakEYnMz6CQrQgtv35S8pCbW1UAj1FspQMpeMOgue4JbMP0tbkO0ds3Zxjs8AQhJAlwAXci43tOo5BM8Jb0KkxC15B8LtOqoakyukY1SLHtulzMQyZ0ACE6fqR4cXribE+aw5KLQxKG5J2gw2wpw==;b519htcAeuWfZyvK4mxzKA=="
 ---

@@ -203,7 +203,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/articleshow/104331053.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1147,6 +1147,58 @@
       ]
     },
     {
+      "path": "_news/2023-09-23-which-top-artificial-intelligence-ai-stock-could-make-investors-the-most-money-this-decade-heres-why-it-just-might-be-google.md",
+      "title": "Which Top Artificial Intelligence (AI) Stock Could Make Investors the Most Money This Decade? Here's Why It Just Might Be Google.",
+      "excerpt": "The company is reportedly close to releasing its Gemini generative AI tool. Semiconductor research company SemiAnalysis ... development and spokeswoman for Facebook and sister to Meta Platforms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/747869/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-23T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-the-fall-of-babylon-is-a-warning-for-ai-unicorns.md",
       "title": "The Fall of Babylon Is a Warning for AI Unicorns",
       "excerpt": "When it went public in 2021, Babylon Health was valued at over $4 billion. Now it has declared bankruptcy. Insiders say it could never live up to its hype.",
@@ -1315,40 +1367,6 @@
       "provider": {
         "name": "Pacific Daily News",
         "domain": "guampdn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-k-state-psychology-professors-research-finds-ai-chatbot-can-infer-personality.md",
-      "title": "K-State psychology professor’s research finds AI chatbot can infer personality",
-      "excerpt": "TOPEKA, Kan. (WIBW) - A Kansas State University psychology professor’s research finds that an artificial intelligence (AI) chatbot can infer someone’s personality. Kansas State University ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wibw.com/2023/09/14/k-state-psychology-professors-research-finds-ai-chatbot-can-infer-personality/",
-      "originalUrl": "https://www.wibw.com/2023/09/14/k-state-psychology-professors-research-finds-ai-chatbot-can-infer-personality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-14T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WIBW",
-        "domain": "wibw.com",
         "images": null,
         "publishers": null,
         "authors": null

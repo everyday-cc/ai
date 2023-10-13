@@ -24,6 +24,17 @@ images:
     height: 617
     isCached: true
 
+related:
+  - title: "Why I cannot support the ‘Voice’"
+    excerpt: "On the eve of the referendum to change the Constitution by inserting a new chapter IX, the so-called Voice, people have a final chance to draw a deep breath and reject this structural change to"
+    publishedDateTime: 2023-10-13T19:40:00Z
+    webUrl: "https://www.spectator.com.au/2023/10/why-i-cannot-support-the-voice/"
+    type: article
+    provider:
+      name: spectator.com.au
+      domain: spectator.com.au
+    quality: 4
+
 secured: "lzmRZVPwZn2q2137l8kQ7zpZntCUJ5uOJGPfcDjtQy5jrUecMUIo2C8tbu2eIpHHOwGeDUVoAi70d7hjGV27u3dMARNGqWSAZekRRTFR1qZxZtYqj6EQ+DYlXQXI4ph+9UBcMm9vc7yIciI2zSH9NGlLOyOiBhEfyPLBfsGNAu5/72pmY3349AjgxblGJpocA4RklmbACsxThjtEx8Kd8wEgLFDUyHBqdLZjB5Bbmp/SNjjURTPDGqkqh37uJDWhyIKburTlHKwZI0MivndsPmesmaYcCQgRgR+bNNoM5GU4y85QlvvM7y5hz2xvhae1OnaaSWg6gTDyScQGCWIglbXVZjjucRjauA4kcK+s2I1fnBtNQtSSrCf43DBKhL9eY2Xejh2Lnv77aPRlqUVHYT/tLNBOSILv2O5X8sJ3ej2HG/6qtR432I1m5EmRiKnHsn2nqiqROhyqpWmr+3OscNl4+Liyr8bzT9havLuBb30g37JD4/kYvcPMz0Gqn7kjLSvYf/8dgeQxZhxxCmKxFg==;iaBSgBz4A9gZMIE47DuV6w=="
 ---
 

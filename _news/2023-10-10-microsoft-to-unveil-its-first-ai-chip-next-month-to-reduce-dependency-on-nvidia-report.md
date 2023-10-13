@@ -124,19 +124,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
-    excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
-    publishedDateTime: 2023-10-09T05:03:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/104273815"
+  - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
+    excerpt: "Microsoft's Bing AI launched a new bug bounty program designed to find important and critical flaws in the chatbot. If you find one, the reward is pretty big."
+    publishedDateTime: 2023-10-13T21:48:00Z
+    webUrl: "https://www.slashgear.com/1420424/bing-ai-microsoft-bug-bounty-program/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 82
+      name: SlashGear
+      domain: slashgear.com
+    quality: 84
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-104273815,imgsize-74694,width-1200,height=765,overlay-etcio/corporate-news/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs.jpg"
-        width: 1200
-        height: 765
+      - url: "https://www.slashgear.com/img/gallery/bing-ai-joins-microsofts-bug-bounty-program-and-the-payouts-are-big/l-intro-1697233282.jpg"
+        width: 1600
+        height: 901
         isCached: true
   - title: "Get Inspired: Five Microsoft partners using generative AI to enhance productivity"
     excerpt: "Generative AI has become a critical tool for businesses seeking to streamline tasks and enhance productivity. Today, generative AI can generate everything from written content and music to product designs and programming code, paving the way for unprecedented levels of automation.\nThe post Get Inspired:"
@@ -187,20 +187,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-104334034,width-1280,height-720,resizemode-4/104334034.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft On The Verge Of Unveiling Its First-Ever AI Chip"
-    excerpt: "Regrettably, the tech publication did not divulge key details about the AI chip. Nevertheless, the move could be Microsoft's attempt to reduce its reliance on NVIDIA's GPU (graphics processing unit) chips. Notably, the widely popular NVIDIA GPUs have been ..."
-    publishedDateTime: 2023-10-09T05:04:00Z
-    webUrl: "https://www.ibtimes.co.uk/microsoft-verge-unveiling-its-first-ever-ai-chip-1720386"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 71
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1717954/microsoft.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Microsoft plans to announce AI chip next month"
     excerpt: "Microsoft plans to announce its in-house artificial intelligence chip at its annual developers’ conference next month, the Information reports. The data center chip will be used to train and run large language models as well as other AI workloads."

@@ -46,6 +46,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
+  - title: "The Yes and No cases for the Voice to Parliament"
+    excerpt: "Their proposal for both recognition and respect is an enshrined Voice, meaning a permanent body that can't be removed without another referendum. The Yes camp says the Voice is a way of combining the symbolism of recognition with tangible action in the ..."
+    publishedDateTime: 2023-10-13T19:27:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-14/the-yes-and-no-cases-for-the-voice/102972172"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 4
 
 secured: "qTNRhpKjIpCJ+PxeC+fVTbrIjCskvXlhNqdUC92fnOJ+gTbnyYZa7dQhWxoj9DkYFXv3tI9lhwflcLxdE+4sELA8Qx35pbrDMmccduP2XSOtMyZWjeamRKqeSXIS76kI5L6kta/eteOMIzBZCF+JvJFgCFaQz9ktYcO7ySJTQDxibnQ8HgDFUNca5j/yy76rFwhocBjhauUt3QmcsRREVs8SGoEfILzM95MvCT1lCz17Rexb7sidzYGDPCnooGwsbOl3n3p9gzmvIW2+Zb7PaSYr8UXIMT7lHPQT9V29V6Z+iRMrHv4/t4yjm56F8UEEw98/TPpB+n27oKDgN+PkGhaxytRxiE8sfsZQCUpucSigz7n/pUAorwvBcSwxfp8G6LrurC22HIIhIqMgttfRggVsyht64rKIkTWxBTvK8DMgY+XFCC1bsfrMxJ9/vNmt4pnsNOmoQsG2a2wFZkK5ozzhElPDkvInqmFndeamoxjRD6DG3uge7w8ThBjFzj1Jo7nN9DCKMASm0paSkEpOgA==;MrPIpAstjC+6qlYnVQ42Mw=="
 ---

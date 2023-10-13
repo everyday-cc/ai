@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artifi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers Introduce AI, Deep Learning Model for Improved Earthquake Forecasting"
-    excerpt: "Researchers recently introduced the Recurrent Earthquake foreCAST (RECAST), a deep learning model for earthquake forecasting and explore its performan"
-    publishedDateTime: 2023-10-09T04:22:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/researchers-introduce-ai-deep-learning.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 49
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5fKM4nWv9UoKxA7r8STYCFyeZwBxG8p5IXozuIRoIPxTRCaQBvwNqgkgdNaEfvc0b2bwPDIT9pxRh5CkeYNLWbzUFzn7n05Iu1WdFxUsy-NPBbhhVJYNwValFx_uaK2xVzhq4fzuncJNTVEBNMfXCJFrIk5G9-VGHs2gGT_uFnwfgaK_Mq0oaTEnO8Y/w938-h624/parker-johnson-cf72vgi3d6s-unsplash.jpg"
-        width: 936
-        height: 624
-        isCached: true
   - title: "New AI Language Model for Finding Age-Related Disease Targets"
     excerpt: "A brand-new study named “Biomedical generative pre-trained based transformer language model for age-related disease target discovery” was published in the journal Aging (listed by MEDLINE/PubMed as “Aging (Albany NY)” and “Aging-US” by Web of Science)."
     publishedDateTime: 2023-10-09T12:05:00Z

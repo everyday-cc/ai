@@ -124,6 +124,15 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
+    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
+    publishedDateTime: 2023-10-13T19:47:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "AMD to acquire AI software startup in effort to catch Nvidia"
     excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
     publishedDateTime: 2023-10-10T16:05:00Z
@@ -194,15 +203,15 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy Now and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already transforming huge portions of the global economy and it's only really just getting started in those efforts. As AI is incorporated into companies' operations to boost productivity and slash costs, it should also ..."
-    publishedDateTime: 2023-10-09T03:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CRWD-Q/pressreleases/20891818/3-artificial-intelligence-ai-stocks-to-buy-now-and-hold-for-the-next-decade/"
+  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
+    excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
+    publishedDateTime: 2023-10-13T19:49:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21085117/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 29
+    quality: 32
 
 secured: "ZXLO2vVSqjYBmdlCmEiZPL2sCBJS/Vqb2YvbEFiyh2PWEZU3pZO6vJeYQ3ZXJmrfDVIKxY6rfmOQAnoDChF2gdCGoJTk1prB+KjNdFIFP6SheJL6n3PRK0gIFVffOZqb6idUuXlZF/ef3JgjoK9HmqXvaIH0XWesCemoSxQ1MVYAnq6LjAm9sBj6yaSXN+L7hhSqV0dx2spis3IyBj3k0RTtueqYwHdUKTTmgdcy0DjH5P/5RfCDgvAwA5Hq8luIc0yVyvPuA9ogggDzoAMap50lBvekDft4sbGW/VPSAGFyDbBySx6NenBmwCHaoOS+GKsZNsZUgQnEVZaNUJXIZG3MCpT1owzzLULLJ3C2EOY=;qSFCGizd9JiKjk//CPvnag=="
 ---

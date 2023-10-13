@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-13T09:45:00Z
 originalUrl: "https://www.fool.com/investing/2023/10/13/amazon-trillion-opportunity-ai-advertising/"
 webUrl: "https://www.fool.com/investing/2023/10/13/amazon-trillion-opportunity-ai-advertising/"
 type: article
-quality: 62
+quality: 64
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/750494/person-on-laptop-and-smartphone.jpg"

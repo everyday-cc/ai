@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/reasearch-finds-ai-lan
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F62b3a087-fe0b-467b-a506-e17617a565f1%2F2023newsmlRC2OL3AFLTFJ890668919.jpeg?rect=0%2C6%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
         width: 1200
         height: 630
-        isCached: true
-  - title: "How artificial intelligence is being used to research Alzheimer’s disease"
-    excerpt: "Some researchers in Columbia studying Alzheimer's disease are using artificial intelligence to help identify the \"most important factors.\""
-    publishedDateTime: 2023-10-11T15:50:00Z
-    webUrl: "https://abc17news.com/news/alzheimers/2023/10/11/how-artificial-intelligence-is-being-used-to-research-alzheimers-disease/"
-    type: article
-    provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 38
-    images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2023/10/Screenshot-2023-10-04-at-5.32.47-PM.png"
-        width: 1200
-        height: 672
         isCached: true
   - title: "AI language models could help diagnose schizophrenia: Research"
     excerpt: "Researchers at University College London in the UK developed new tools, based on AI language models, that can characterise subtle signatures in the speech of patients diagnosed with schizophrenia"

@@ -185,6 +185,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "From ancient Jewish texts to androids to AI, a just-right sequence of numbers or letters turns matter into meaning"
+    excerpt: "Integral to Kabbalah is the notion that Hebrew letters are the building blocks of the cosmos. According to mystical interpretations of the creation story in the Book of Genesis, God brought the world into being by creating the alphabet, then assembled the earth and sky by recombining letters."
+    publishedDateTime: 2023-10-13T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/from-ancient-jewish-texts-to-androids-to-ai-a-18423870.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 0
 
 secured: "SHcoo2Xege21RECEfm92WKOLpGbHutgEh8ULxVactCJ28o9Z84RZVS7BLvN/hdY3yoLYM6rMY2y+ydFwKprnpG+FDo9M5IXseJnUhxVO6jynovvA+u8xQlRJQWjRhHmigd5/Ifr6DWHNcEzcK7/j/ESCq/alzZvqknhbeh0WX2FRZ9F5UyUzJ0aHXunBGwCmUZ04Ym8PudjKQUwiuX1B+zB5vySNdUm0e9J2yd8nWWcJfngxDsGRmSY14AN/dHVPuU7gR8gaaG/YrkG0kjpLF0eYNyxrHCGQa8lJVAf+5OecqmakmcLYQogiXXNXyEm6duhJ5rx5LEduHoojkAALaEPMX5PDweS3NQ7AZG6X888Cas5YDRUXPx+N9oRmk6jLMjWAZcO9i5A3H1ydFmfUOQL+FZLGo+HtY8AmL1UH4Qg7Y8BZesOx1LJxdL7ct3/5Nt/SEjt4X9w9jVviK/OavRC9NIkF0BOxBItDWsVI21u/a6blcdDsu67Uyla5P1kRnp9FFbkS0Q0K5Ta1WP7hVA==;K8gWXYsIs4NMBuaYW91FHA=="
 ---

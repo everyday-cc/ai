@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kin
 webUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/"
 type: article
 quality: 119
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -185,6 +185,15 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "From ancient Jewish texts to androids to AI, a just-right sequence of numbers or letters turns matter into meaning"
+    excerpt: "Integral to Kabbalah is the notion that Hebrew letters are the building blocks of the cosmos. According to mystical interpretations of the creation story in the Book of Genesis, God brought the world into being by creating the alphabet, then assembled the earth and sky by recombining letters."
+    publishedDateTime: 2023-10-13T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/from-ancient-jewish-texts-to-androids-to-ai-a-18423870.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 0
 
 secured: "KjA1WP0xpu5IP0UHZzLAbzluA6stIfMbPN5dGCGr6vxe/2OhfEYT615lfU9BFpkPi5/Nxl7vpB3E+lggKZKI3TdLQ4CjyiAQhg7UmJ2YUTmKMU/G6xZgGbBr4yj6Bdevan7DNcYEAPdzFNfbEIut+XI9+EhTbnae2GC3EiUGbm8eU6HrynZhcmaHyUBiRKZfMZsl7j83PLZTMlw97UBq1UQU7bZ0my43qaJPay9Ma6I9CsMGf8B1SDhxkFixMvooZQ5RlHnuEuDxzi2GcQoVpQOvbmKlfuKedqryV/Tdw2HzjMy3xSlhwzSeBNYrb9qirBWs73pAppnKKLKYqKHSLbbwNwZzZsgQjkgaE1oMEjE=;7H5LKIphOFX46QEWyeIsww=="
 ---

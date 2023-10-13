@@ -41,20 +41,6 @@ related:
         width: 2030
         height: 1259
         isCached: true
-  - title: "Researchers Introduce AI, Deep Learning Model for Improved Earthquake Forecasting"
-    excerpt: "Researchers recently introduced the Recurrent Earthquake foreCAST (RECAST), a deep learning model for earthquake forecasting and explore its performan"
-    publishedDateTime: 2023-10-09T04:22:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/researchers-introduce-ai-deep-learning.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 49
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5fKM4nWv9UoKxA7r8STYCFyeZwBxG8p5IXozuIRoIPxTRCaQBvwNqgkgdNaEfvc0b2bwPDIT9pxRh5CkeYNLWbzUFzn7n05Iu1WdFxUsy-NPBbhhVJYNwValFx_uaK2xVzhq4fzuncJNTVEBNMfXCJFrIk5G9-VGHs2gGT_uFnwfgaK_Mq0oaTEnO8Y/w938-h624/parker-johnson-cf72vgi3d6s-unsplash.jpg"
-        width: 936
-        height: 624
-        isCached: true
 
 secured: "XWmk87agYdbxcTFqP3/tL0GyTDx36yvX46hJX6j6ai8phqFAYttxpQNgcjvgZipLkhGQvALJulu3tEqMYkEABumlDZAZv0iPVoi8QHhd1r2gwzTpU4FWRIsmXFY+/rP6Iyh8y16dPA8wf+zl7VvBccpZoeN01jdAsTJv9z+BUgSDlbj5HfiSpBpDcLUEdEl/XWsYLqHjGV9mXvz93RAEn6X4/3yEyt0h7jJeesRQMxBNJXNLnC6uKko+9Gnamn1VX6eXpD21AJ/NIat4kQ3Ym6TyypPNBVZtvWi1lYMjZYEOzRoRWUsqUARH47AAoPhiw//Vnl5xW+hrDdF2/4yvevZL+QM58ccrPjDitD2Cfq6U5AKPuZR00GF0tcK1iy12/W49tW0TspAv4XP2IYg/iJioHFaFTMu7KBCsEehRtuHVJ7SYGigboFrVEg73n/W3TSDf2e7eQWecWDrDKSSH6nnMVLqFlpsiIaFyA4Gj0mJGi+fH83YO4QeJhylhTJptUPVPTieMsu+BuEzEhnl6fA==;WMzAtqZjmlix1gb/ssxC5Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C"
 webUrl: "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -124,6 +124,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
+    excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
+    publishedDateTime: 2023-10-13T18:33:00Z
+    webUrl: "https://techreport.com/news/biden-administration-considers-tightening-ai-chip-curbs-on-chinese-companies-abroad/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 28
 
 secured: "INbU6XUCokYF3DpIQZweLHlUMTMfuL9PRTiiR+Fg4/LMxU5D59eOR/89BzAPh2ia4d/AAJT4zV9aRuXUTHS1HrCeuh5CoW33YcB7qJkPsvSkHTaSpVDFzPjQ3ivNCkrUkCqSqbpg0aCK/bxdNwcvmG6Cd/iRsy4m/tTqugZ2X/B0CZumSy5NUKtkq+a0rXjvXQBP1YjcU72DJOIVfGgmUGn813j8qM132QDBgVNPs0O/642nqG0PWjWiJQsPovqK9A2Ggiurmc1qYrNB0NhIWZOOulJsnXsYP2aarpcO7QwJozSAkdDGxINulDsn3lJFETktSIajnMMqbKsSF8qyLyf7M6y6bKgixM+Fa1C1Mro=;T7BXjpG6qVKJn0a2nqjlwg=="
 ---

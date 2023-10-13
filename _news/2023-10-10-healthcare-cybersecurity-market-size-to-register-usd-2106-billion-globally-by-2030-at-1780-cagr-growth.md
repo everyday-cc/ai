@@ -19,36 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Cyber Security in Robotics Market Poised for Rapid Growth, Set to Reach US$ 11.6 Billion by 2033"
-    excerpt: "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3."
-    publishedDateTime: 2023-10-09T04:15:00Z
-    webUrl: "https://www.fmiblog.com/2023/10/09/cyber-security-in-robotics-market-poised-for-rapid-growth-set-to-reach-us-11-6-billion-by-2033/"
+  - title: "Three advanced cybersecurity technologies for banks, financial services"
+    excerpt: "Three zero-trust security technologies for banks, financial service organisations, and insurance companies were introduced at the Smart Banking 2023 international conference and exhibition."
+    publishedDateTime: 2023-10-09T07:59:00Z
+    webUrl: "https://vir.com.vn/three-advanced-cybersecurity-technologies-for-banks-financial-services-105837.html"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 58
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 39
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/Cyber-Security-in-Robotics-Market.jpg"
-        width: 1000
-        height: 495
+      - url: "https://vir.com.vn/stores/news_dataimages/2023/102023/08/14/in_social/opswat-introduced-advanced-cybersecurity-technologies-at-smart-banking-2023-20231008143947.jpg?randTime=1696845704"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Surgical Robotics Market is projected to witness lucrative growth by reaching up to USD 19.9 billion by 2030"
-    excerpt: "Because of the prevalence of technology like artificial intelligence and cloud computing, which will help to improve performance and reduce the burden for humans, these robotics innovations will be innovative. Thus, the benefits of surgery are known to ..."
-    publishedDateTime: 2023-10-11T23:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35207759/surgical-robotics-market-is-projected-to-witness-lucrative-growth-by-reaching-up-to-usd-19-9-bill"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35207759"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35207759"
+  - title: "Sergey Kondratenko: Cybersecurity in the Fintech Industry – Modern Threats and Protective Measures"
+    excerpt: "The fintech industry continues to innovate and break the stereotypes of traditional financial services. Therefore, the issue of the need for cybersecurity has never been as acute as it is now, Sergey Kondratenko notes."
+    publishedDateTime: 2023-10-10T11:54:00Z
+    webUrl: "https://fintechnews.ch/security/sergey-kondratenko-cybersecurity-in-the-fintech-industry-modern-threats-and-protective-measures/63928/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
+      name: fintechnews
+      domain: fintechnews.ch
+    quality: 0
 
 secured: "quhXGwsBkXLZ/yWrGljPU9nsdfl55hgwjMAqNRiaCVCjdyf0o6wgBMLiSYgFq8Q5xGM5WizDHXlsoObVkgeXDu1nT9NBL9lBINHs3KXF8lQ5py3iQhvJAIqC+yAAvnGZJ0WnefLOKHHRV1Toz/wBUsXpQ7Tt0tyD/xYeZFhS4uQEvXniOGcqkvmWflfFZjA6FUTtJe4kofjnQi2PVt2y0YhJ5NzpPNT4kNltzcR6qUDBdnkWWp8/+PwwQwhjYXVXQP+SOgzJOJf8Y1TlOZ/Wgd4tymIV2/IfFH2uKuD6NvmzCuTD0BhaaL67EGYt16HpfABU4JhwCc8hWdiQP4DsIXreJQiLyUUb3j8ya/qcAkvLZMQitQKvm+HxHNn2iN/LG1bLN1DPyFRuUbsglNhlTXdC0LpG99NL9der08+OqK1ezUHqyA4iEwb7bQrsKw6+GKsj998wx25K7BOyEWNvfcQg082JIJo0fojxbMGXha+dNBmlzK+T+HsDc3sY0gdKfFffuLI44Fdy+W3rqDruRA==;RzoENOxlFbLoU2NI2xq2Gg=="
 ---

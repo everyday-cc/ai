@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/breakthrough-in-genomics-researchers-
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/breakthrough-in-genomics-researchers-develop-neural-network-with-explainable-predictive-accuracy/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://assets.technologynetworks.com/production/dynamic/images/content/379630/neural-network-for-genomics-explains-how-it-achieves-accurate-predictions-379630-640x360.jpg?cb=20231009"
         width: 640
         height: 360
-        isCached: true
-  - title: "Researchers create interpretable neural network to predict complex biological outcomes"
-    excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions."
-    publishedDateTime: 2023-10-09T02:41:00Z
-    webUrl: "https://www.news-medical.net/news/20231006/Researchers-create-interpretable-neural-network-to-predict-complex-biological-outcomes.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 31
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "Neural Network for Genomics Developed that Explains How It Achieves Accurate Predictions"
     excerpt: "A team of New York University computer scientists has created a neural network that can explain how it reaches its predictions. The work reveals what accounts for the functionality of neural networks—the engines that drive artificial intelligence and machine learning—thereby illuminating a process that has largely been concealed from users."

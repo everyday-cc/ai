@@ -250,6 +250,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Google promises to back generative AI users against copyright claims"
+    excerpt: "Let's say you're a graphic designer and decide to use Duet AI to generate images when you're creating an eye-catching presentation for a client. Later on, an illustrator claims one of the images on the slide is eerily similar to one they've created and ..."
+    publishedDateTime: 2023-10-13T18:58:00Z
+    webUrl: "https://www.zdnet.com/article/google-promises-to-back-generative-ai-users-against-copyright-claims/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Generative AI In Industrials"
     excerpt: "Those in the industrial sector that are fully cogent in their generative AI investments have an opportunity to gain a real advantage."
     publishedDateTime: 2023-10-12T13:46:00Z
@@ -258,6 +267,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "Adobe's new generative AI tool is a game-changer for video editing"
+    excerpt: "Adobe's editing applications, such as Photoshop, Lightroom, and Premiere, have been the cornerstone of many creatives' everyday workflows. Since the rise of generative AI, Adobe has been developing ways to optimize those workflows, and this one will be a huge help for video editors."
+    publishedDateTime: 2023-10-13T18:55:00Z
+    webUrl: "https://www.zdnet.com/article/adobes-new-generative-ai-tool-is-a-game-changer-for-video-editing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 47
   - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
     excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."

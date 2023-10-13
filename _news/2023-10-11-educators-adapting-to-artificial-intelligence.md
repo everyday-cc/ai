@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
+    excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
+    publishedDateTime: 2023-10-13T19:16:00Z
+    webUrl: "https://www.laprensalatina.com/u-s-investor-tim-draper-rejects-regulating-artificial-intelligence-for-now/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 15
 
 secured: "nLytVKAWE+S0yDOyjlSnn5iZi61jbpvahPipCVnZcRBttuBTw3ZdWY689ErMFgH3hac92+ZUfKOgg61o5F5lRVgZRCR7DRe130BvAiKDN00/S/kudA+cNdrmWorJkkk/7EF3bbe0xKIKZs0mcfYKrbBFn5HB0JxHBxdZAehp9BzXZ3+6EnMr4/rHyh1ieAA+OCy2P80MtyD3VepBgqovolOEZmPMyzsn4aiFDmC3Ve0KNP3XkoCkWEfRTqZxqUJH3z4nbw5ffvse5RA+aKyDUSMR7xubgWCzc6CKpvOCNYXFSaJKP3Yq72y0ZvUOW2ghgmzueYmXBvUEc9+Vof+9azAeGz+cKobg/3UcEu35Tth+PeG7PKPeCXKAoauMoaMR4I8BLxxnm+PxTHVRIYa7A5TzAdVt7UXWqcMBW3BoAwpNQRldLrW3gi7v9ieYAChf1rS1HqywiNA0e8PuN1uEd9xa+rJ/qg6eGcodpKMyAqNNWlOpdQjnl+TJUVKMMQdWRa/2vbfXwwusSYZXt4sang==;51ZLfSgJT9phvv3tnFa+SA=="
 ---

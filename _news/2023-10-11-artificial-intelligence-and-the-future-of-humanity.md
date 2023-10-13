@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How to Launch a Game-Changing Artificial Intelligence Pilot"
+    excerpt: "Agencies looking to launch an AI pilot need to think strategically about the various use cases that would benefit their organization. CDW offers what it calls exploration services, bringing in a digital strategist and technical expert to identify the different personas that interact internally and externally with a particular agency."
+    publishedDateTime: 2023-10-13T20:47:00Z
+    webUrl: "https://fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot"
+    ampWebUrl: "https://fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot?amp"
+    type: article
+    provider:
+      name: https//fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 57
+    images:
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1469706255.jpg?itok=8KKnL_wC"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
     excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
     publishedDateTime: 2023-10-10T16:58:00Z

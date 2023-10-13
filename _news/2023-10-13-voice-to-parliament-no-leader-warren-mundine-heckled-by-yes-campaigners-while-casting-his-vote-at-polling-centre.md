@@ -38,6 +38,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
+  - title: "The Yes and No cases for the Voice to Parliament"
+    excerpt: "Their proposal for both recognition and respect is an enshrined Voice, meaning a permanent body that can't be removed without another referendum. The Yes camp says the Voice is a way of combining the symbolism of recognition with tangible action in the ..."
+    publishedDateTime: 2023-10-13T19:27:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-14/the-yes-and-no-cases-for-the-voice/102972172"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 4
   - title: "Indigenous voice to parliament: Don’t slam door on children, says Noel Pearson"
     excerpt: "Indigenous leader and leading Yes campaigner Noel Pearson has delivered his final pitch ahead of Saturday’s referendum, urging undecided people to consider the futures of young Indigenous children when they vote."
     publishedDateTime: 2023-10-12T19:32:00Z

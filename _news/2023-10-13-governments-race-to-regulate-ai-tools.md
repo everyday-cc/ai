@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-to
 webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
+    excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
+    publishedDateTime: 2023-10-13T19:16:00Z
+    webUrl: "https://www.laprensalatina.com/u-s-investor-tim-draper-rejects-regulating-artificial-intelligence-for-now/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 15
 
 secured: "VIIR1VDecngVWZtUaCsLBbEizRDUU5OnZM/u+QlVLhLSwyYtMW9Txg0QvlOExWXgrBjd4wgA0Dq1pyIAxV4kbj11PjaNzGLG0wLG3DWiKHbHo+dn5Qs/EkCVBlbnXU4JGMWXCndJuB3Hh60oFzY2KcPRJJ5GluLSjv4KlKN700TbPC9amdkeWzdXTE1t5xi57sJ0xKHq7Atd3ParE/TD62tPKN/tBIhTLK4x+Cco6P3i2gMAs+j7U3HHsl4Uk8Z3tJsgRsowMG8aNNS2Vz+j2ueexshHpuQttoRrcf8shz06O3eJOdNdCdGD3RG60KfH/HpPx85fIPbPtZgSDzSBE+qYC6LaCIE7Gi4AGdT8et0SPUp0NydL0kEKzLI36qzGD/yoWWxxaPXuna8wMlTC4iMYBqCzFUQvgVHiGrHWqDMD2Euisf3nYnCPm7pwV91k20acre94DEXczJpMe+nJhvZ2Z1QnjeUH8unkS+ixQHg+AW9ek5RSDBGrX0092O+pYN8u6oksMhFKEpDYkEM22g==;w2qt5AvSUJUHMJ5av7VrEg=="
 ---

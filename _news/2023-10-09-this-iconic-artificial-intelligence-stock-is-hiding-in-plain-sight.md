@@ -37,7 +37,7 @@ related:
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://g.foolcdn.com/editorial/images/750494/person-on-laptop-and-smartphone.jpg"
         width: 2121

@@ -138,6 +138,15 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
+    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
+    publishedDateTime: 2023-10-13T19:47:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
     excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
     publishedDateTime: 2023-10-11T08:58:00Z
@@ -194,15 +203,15 @@ related:
         width: 1500
         height: 800
         isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks to Buy Now and Hold for the Next Decade"
-    excerpt: "Artificial intelligence (AI) is already transforming huge portions of the global economy and it's only really just getting started in those efforts. As AI is incorporated into companies' operations to boost productivity and slash costs, it should also ..."
-    publishedDateTime: 2023-10-09T03:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/CRWD-Q/pressreleases/20891818/3-artificial-intelligence-ai-stocks-to-buy-now-and-hold-for-the-next-decade/"
+  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
+    excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
+    publishedDateTime: 2023-10-13T19:49:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21085117/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 29
+    quality: 32
 
 secured: "evmsrVEgdPlSWn2y2Kn4FQOb+lBRVgoG2p9PyQvOc3bVQTMO8qRH5uLU4yKqwk+Ldbc55Nl8JZmENWlIp7VRtJpMooot8eYaZBiLtbIcnKkv6JxvtwUyZjhptXIP9YSFakD9Ji1AloBSnR23kuhSq9ZB2RPMT2+bSN0aDADsYfeAOICTkp5+7rpRR25PKytbpLI4gVAnvrFKuomWnVXwsz+stadNv2xNpRFOQ99tm7ZRjo9HMbBQNOISPeyptfVdVMVjLKgS0lWw6WvGAUdyg4DCyKhZY5tNTDtfJAfIV1O09FF+9rULNCPlv+dq08Xf/MsvZwWos6UKITAGazciQXVPh7zmsF2ti3srRm/z9Xc=;m+EWlfyviKRXaFErJoJbcg=="
 ---

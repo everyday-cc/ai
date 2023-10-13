@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Healthcare Cybersecurity Market Size to Register USD 21.06 Billion Globally, by 2030, at 17.80% CAGR Growth"
+    excerpt: "Global Healthcare Cybersecurity Market is valued at USD 12.96 Billion in 2022. Global Healthcare Cybersecurity Market valuation to reach USD 48.05 Billion by 2030. Healthcare Cybersecurity sales to account for a significant CAGR of 17.80% during 2023 – 2030."
+    publishedDateTime: 2023-10-10T14:24:00Z
+    webUrl: "https://www.medgadget.com/2023/10/healthcare-cybersecurity-market-size-to-register-usd-21-06-billion-globally-by-2030-at-17-80-cagr-growth.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 1
   - title: "Sergey Kondratenko: Cybersecurity in the Fintech Industry – Modern Threats and Protective Measures"
     excerpt: "The fintech industry continues to innovate and break the stereotypes of traditional financial services. Therefore, the issue of the need for cybersecurity has never been as acute as it is now, Sergey Kondratenko notes."
     publishedDateTime: 2023-10-10T11:54:00Z

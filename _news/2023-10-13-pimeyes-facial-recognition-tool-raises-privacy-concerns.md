@@ -19,33 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "BBC uses facial recognition to identify terrorist as police officer"
-    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
-    publishedDateTime: 2023-10-12T00:21:00Z
-    webUrl: "https://www.biometricupdate.com/202310/bbc-uses-facial-recognition-to-identify-terrorist-as-police-officer"
+  - title: "As Airports and Cruises Embrace Facial Recognition, Experts Worry About Privacy Risks"
+    excerpt: "The technology is being used at airports, theme parks, hotels, and more. And while that may add some convenience to the often-stressful travel experience, it’s also bringing up concerns about security and privacy, The New York Times reported on Friday."
+    publishedDateTime: 2023-10-13T21:30:00Z
+    webUrl: "https://robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/"
+    ampWebUrl: "https://robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/amp/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
+      name: Robb Report
+      domain: robbreport.com
+    quality: 67
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
-  - title: "News outlet uses facial recognition to identify terrorist as police officer"
-    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
-    publishedDateTime: 2023-10-12T00:09:00Z
-    webUrl: "https://www.biometricupdate.com/202310/news-outlet-uses-facial-recognition-to-identify-terrorist-as-police-officer"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
+      - url: "https://robbreport.com/wp-content/uploads/2023/10/Facial-Recognition.jpg?w=681&h=383&crop=1"
+        width: 681
+        height: 383
         isCached: true
 
 secured: "L5+2OBzNtQS507A+WxOFNqN3y0kaOq5mETFo8KLjc4dp20Vm8Ie14JnuIl7pJfTwCbqvjFRqWDb7L6L+L5DXb12Vvnio9lCk4ExB69k2Kb6D4OLP6ngbeAiRC5HLL86bAQCdftBTchgZT65BsvQ1YV/XY6cLy/CuuOtM2ItVQnmRyYPEemqT8xvdCuHL+nayNGFHxHBPzvpUZxQto/b+hSP/E3FaU+TXtGPY1czWOsI7yflSbUM+Cn38sxuX63m82SRlCJU8m2v8FOyNketeN98msOSWJ+Sp8JWVu/SrXuig+bcD+R2ZTGyZEXmIYvwpxD9sRq/yPuTmfDKmhwVJN1kn6HZ+cuJG2jx0NtO3khw=;7jRgMxAZu4eJT5Vc5dXzvw=="

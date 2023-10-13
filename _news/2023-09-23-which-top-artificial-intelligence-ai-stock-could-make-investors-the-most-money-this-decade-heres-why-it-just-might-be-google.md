@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Which Top Artificial Intelligence (AI) Stock Could Make Investors the Most Money This Decade? Here's Why It Just Might Be Google."
-excerpt: "The surgeon general has determined that investing in artificial intelligence (AI) has proven to be advantageous ... The company's Amazon Web Services (AWS) is the top cloud-services platform. Amazon has moved quickly to roll out generative AI functionality ..."
-publishedDateTime: 2023-09-23T10:12:00Z
-originalUrl: "https://www.nasdaq.com/articles/which-top-artificial-intelligence-ai-stock-could-make-investors-the-most-money-this-decade"
-webUrl: "https://www.nasdaq.com/articles/which-top-artificial-intelligence-ai-stock-could-make-investors-the-most-money-this-decade"
+excerpt: "The company is reportedly close to releasing its Gemini generative AI tool. Semiconductor research company SemiAnalysis ... development and spokeswoman for Facebook and sister to Meta Platforms ..."
+publishedDateTime: 2023-09-23T10:11:00Z
+originalUrl: "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/"
+webUrl: "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
+  - Facebook AI
   - AI
 
-secured: "y9Ir5OKPAIgNJblnNX7t8/Xe8v1NJwQvc8TbojjIQ8rWwtXqnH5xfOfBoNkke/9gchQW/f7S9sljQKcL8vUKZBjevJrFMWhunBCVsKj7E6WJQMhQ3M2YjAWuc6yxG3f+0FH+rr1O1Fx+ruPwbMq6uYcpzDWho6kJPboOQLjXhKSUBU7/vrfno8Bdk9jM5v7IhJgZCCiOywfq8OpgFYEWW58JmXDC1VLb70qHjWA1cmEiK+Qvi3fF8rDmVdI90fXfSmMgJr5VDpwCdE8KeX0at0hwwomFm0NkExxQrjwJe+ydjnzYDTmxiToOVnKI1cjWvvwbxQdOeVAVNaohhm/3AFMkE2I+t+VQp+ep2Ph2Zlw=;1owzFlaCvv98uj8uWQC+CA=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/747869/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
+    width: 2359
+    height: 1270
+    isCached: true
+
+secured: "tUgQTx6Pm8AkvKN3vbqCDEE02m248imIbUvnI+LxCcKqzFNwzrK95UqYc5xaTzK0mt4GW5nMSFN1uZ8eKEB+N77lamgLllV/bURaKx0Cz6UmDpIX/LTJlL3dG3LKkH1A7VLxlGIRuYuqiCzrahQAQDgKTxw3/sD3L5BZ1B+fnMpD55lTVyasJXrPb/MPl23O9HOzmDCQVXx0kMZj7JuH1kdc5zWBdJwIdAl5VRetf1W6S0jZgjLHHw7162+jX+/hXGGceaiiw4LdHHvo+LeQon9sm0Sl6mrQ558OcD7B6mX9c/AF6rXik2rzJlgLLRO3qvFHiEWzVF5YSEgH99rffBABxF1B4sdfe0fmF/reymM=;6c8NNkit1hU7aXkQoK2s+g=="
 ---
 

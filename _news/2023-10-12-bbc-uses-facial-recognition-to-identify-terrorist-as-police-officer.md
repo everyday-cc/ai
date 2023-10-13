@@ -40,15 +40,6 @@ related:
         width: 2048
         height: 1333
         isCached: true
-  - title: "PimEyes facial recognition tool raises privacy concerns"
-    excerpt: "A new facial recognition search engine called PimEyes is causing controversy for its potential to be used for surveillance and stalking. The website allows users to upload a photo of a person and search for other photos of that same person online."
-    publishedDateTime: 2023-10-12T19:43:00Z
-    webUrl: "https://www.itworldcanada.com/post/pimeyes-facial-recognition-tool-raises-privacy-concerns"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
 
 secured: "rV9vTxUkyqQkSpH1yHe+gRbhni6S+/iiYTfy0Fiv8cmXdNdDE7LKgHnRcZtTcYi2ix1kQIj1jzNh6hvzWYDYpkvytjHGtAoxjL1xgX2V6Jx0WOmleuBCrnxSHKOkUI9GB8XfXu5RbW+7oDIKVe8uDcLWBJe1t7d5BrskW7hW4o2p30h0QCDHpwXx+G5jE1vgxY+xxar2tbhmx8vy+fEs0fRUxY7pH4Z3B/dOao1OrVng8ffF0Fi3gjhFcFD+4/m0G8ZQ/NzFnrfBpSgLHcZFBz0OjAHVlHKxHMTfGit0rGfuKP3nmJyCoRM0sMVquOW4fEXAIJcJG9SFZe6uUmuRfx7Y0mVTHwPl+wrrBNO/QoY=;v6Zant2IhBWM0dEpNuVvcA=="
 ---

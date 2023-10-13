@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Nokē Migrates to AWS to Enhance Cloud-Based, Digital Customer Experience"
-excerpt: "Janus International's Nokē is Now Powered by Amazon Web Services Janus International Group, Inc (NYSE:JBI) (\"Janus\"), a leading provider of cutting-edge access control technologies and building produc"
-publishedDateTime: 2023-10-11T14:32:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35195176/nok-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35195176/nok-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience"
-ampWebUrl: "https://www.benzinga.com/amp/content/35195176"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35195176"
+title: "Noke Migrates to AWS to Enhance Cloud-Based, Digital Customer Experience"
+excerpt: "Janus International Group, Inc (NYSE: JBI) (\"Janus\"), a leading provider of cutting-edge access control technologies and building product solutions for the self-storage, commercial, and industrial sectors,"
+publishedDateTime: 2023-10-11T14:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm"
 type: article
-quality: 58
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
 
 related:
   - title: "Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud"
@@ -37,6 +29,6 @@ related:
       domain: ibm.com
     quality: 70
 
-secured: "oxYivOXKeqL99S7+xxwCpzG/rGGOVNE3ZbBE4BdwGF6QrbWF4uA4SkM/BeoCoWfbsdZSExDrhd7W79bDFJu7rPNV/TXzZOnPpuhi7M/N25zUo9wXYffZW36kV38H43Tdg9LOg9yao1l0pXWbTXqWCFz+PMShsEKFNaSOTkdZ2uU35J2l00pnnibpMda0mq248mHRt/Rr/avlEMn+cfB9o7rmt6aPy0lurdtBWQBiShc5VU2ZcIkq0aPiF4MuunveLt3gKm4wq9zOEqKDOcQ76C+Hb7X25szT3dK90Cl9EU6By/YV56Pj/Kkef6d1gwxvYwJWPf3Q2eKsueVT3/ElE+uejJa2h/x8yg1kM8HXlyU=;N1mXfiOnOzHhaJeCoifPxQ=="
+secured: "MX0N8epx2edAm/KjQ0UXPZ6nMxZqYOeAPvHeEr2niY77aIwKDZINMSazpP+GmymbAGFrzcQvOM5O3AxBs6VDhaPK2LCKJhiY1MFZF03xWwnrd0ZDJTldx2gwQQWths/UDqBXfNLnxIFDG15/DMjGeJpJzcGt0HRwnK7UoYkKtgaKmcY+xBD9YOFyyGtsP8Al0bSdolfDbLgSURMH2ZCGKGtAvxqjYV3bjL2D/he9RrezxHy8ccModzfTP1p1Rp5cujU6TPnZO/f7J4unXk9Ak7DHME0AUIxJ2DuKNjJtG1oSQX1eVA0QqyZsHEJ+XSYKq9UKA5sVdp9Mc4bdS4f+ZOXNDUjc75vDJCSm5z+tg2g=;fHfPIetr5ZNnqul50+SLGg=="
 ---
 

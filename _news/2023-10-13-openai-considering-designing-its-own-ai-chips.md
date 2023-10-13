@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "OpenAI Considers Making AI Chips In-House"
-    excerpt: "You probably know the company OpenAI thanks to its LLM AI chatbot, ChatGPT. But the company still gets chips from"
-    publishedDateTime: 2023-10-09T02:54:00Z
-    webUrl: "https://www.lowyat.net/2023/308711/openai-considers-making-chips-in-house/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 54
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2023/03/ChatGPT-OpenAI.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "3 AI Stocks That Are Surprisingly Reasonable Bets"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of technology, AI stocks are emerging as some of"
     publishedDateTime: 2023-10-10T23:05:00Z

@@ -248,6 +248,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Google promises to back generative AI users against copyright claims"
+    excerpt: "Let's say you're a graphic designer and decide to use Duet AI to generate images when you're creating an eye-catching presentation for a client. Later on, an illustrator claims one of the images on the slide is eerily similar to one they've created and ..."
+    publishedDateTime: 2023-10-13T18:58:00Z
+    webUrl: "https://www.zdnet.com/article/google-promises-to-back-generative-ai-users-against-copyright-claims/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
   - title: "Generative AI In Industrials"
     excerpt: "Those in the industrial sector that are fully cogent in their generative AI investments have an opportunity to gain a real advantage."
     publishedDateTime: 2023-10-12T13:46:00Z
@@ -256,6 +265,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "Adobe's new generative AI tool is a game-changer for video editing"
+    excerpt: "Adobe's editing applications, such as Photoshop, Lightroom, and Premiere, have been the cornerstone of many creatives' everyday workflows. Since the rise of generative AI, Adobe has been developing ways to optimize those workflows, and this one will be a huge help for video editors."
+    publishedDateTime: 2023-10-13T18:55:00Z
+    webUrl: "https://www.zdnet.com/article/adobes-new-generative-ai-tool-is-a-game-changer-for-video-editing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 47
   - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
     excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."
@@ -322,6 +340,6 @@ related:
       domain: cio.com
     quality: 17
 
-secured: "10Csnb6uA7Kk5Qy/DFofQtsXqVLIhA6l6080BsAGMddd4q5ObCv3i2qIKDoKIXOgGOsfoetzlj4TVpmSSXFoZDWXem3e6xLEaLs947wTD7G+drNWoaAbkmDyfDfzpZK5LJhA5HXILZGbMXI3qSr9K8rVa/7cKPpSD0WK8dECRAWP3EZUavAFRK1VcY47qXPXnDffvTjyPgkmYOAkpxtD34k/texS9V9/VZG/x3OE/cXJrJpqfUzs+G53x8pWj8uzR2cD03D4ZaU+XZy/Wa8plOsmJYiHT8nZl1LOnKgOn3tlfOHEM6ZNQqIoYPA2k7k0K+0rBoksE4l8l1xPRROrUgEopJ8U+BXhkfFy0bU5Fe0=;xuRRsQ9MCiQvIP1zxM3utA=="
+secured: "05BOaT/v94FK17D/6WZRr0ZHPhyH2+kT+zLiT+r5uoFTQRzJ0siPct0ZkhjiMpnfMurnaHb9MdSOfYdOcfRBjvp3yKVUFzqhatOogpc25RYaxyztoiAfInmkePyfMT4SLT4Fi6y/bVp6PHZCsEq4jBXyN9mnkI69JOSdrY7qCH7v5R3RYHsaV8Iuz7nrcoBZQ37afnLfjt55JDEBFUkxxAQ5X+T66Ri88Om0d4ckiDhW89Bkv9r8n3eyL3rb8I20+QJ2SDkoUhU7Ok+DqbeWcJm0F642TfD1egRnvaRTLLpk7AKMpnHt/yhRHo9T1TE0emU0xuwqxcF5XcjbiloI3p0ZfO7wmtMy+jx+jCm6WjRF1Ygs5fT7LgnFTqNJqpdPzAXiPxJ6SDkJm+aqRIWRPs1/C0+9yRLqR9a2VVP7/+h4MjrQ859NDLlJroKz1hLG4Ie+pjqXBZfhS0C0WZRv4a+iEi8ONgQ420RDQbzV90xRR1FC9a6b5OKaUSp4VdbneJ3XOPdaXDePORw+k2bDYA==;linidch7LPpgLPz9pB+5ZA=="
 ---
 

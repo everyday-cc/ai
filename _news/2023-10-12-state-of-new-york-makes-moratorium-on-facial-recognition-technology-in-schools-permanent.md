@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New York state bans facial recognition technology in schools"
+    excerpt: "Facial recognition technology is being banned at some public and private elementary and secondary schools, including charter schools, across New York state."
+    publishedDateTime: 2023-10-13T17:57:00Z
+    webUrl: "https://www.wamc.org/news/2023-10-13/new-york-state-bans-facial-recognition-technology-in-schools"
+    type: article
+    provider:
+      name: WAMC
+      domain: wamc.org
+    quality: 19
 
 secured: "HPRoLCUrc0CRPsPKxJe54pB+62l9rLq6XHe7T1R+OXed3x61350Y8ARCkN6jtWZClIAzhqGoDBT4T26yTR2ks4pq120HZ0IRJGz/qUWlRGaAj8rSNJ/2/Usr0RHSdFUwx/0S0Gn5K8ff25XWEoaFL/gH2/ZFfROB3Wnm50MYr7rRNq79Ew5l2CUNG3YQ/pSZLGLy6deUR6MGGiQ7ytlCHWrTaNGLHrS/x6Vfnm1K4ZfANSa0oKvFsLYn3wlvS+EapCoGHB9uP+LhIi1QaugO/TyXA4UMaQ3xGwGOqKAbz8S757t7ET4aUy9He8qvN+NQyqt4wMoTphkhX1xz8wdzSxJ/C3T9C29HxFVuCuZ2oIKUlOkgtPHtDAJwLgUIGbysubpmUXSxiYtLofA38VnWGiT6IqmCVhsO3OCiE4MvH73wueNODmDgzVp3fM0AW5llLWSMREQoMAdvFEsfyNQnLq0T7oh/n3qNZBZUWHM9cGMpMRNEQsOsxG+D/NxBISSAkx+P4t4vayb5iYsh8psG3Q==;LZejl+YchpPCK5oBSA+41w=="
 ---

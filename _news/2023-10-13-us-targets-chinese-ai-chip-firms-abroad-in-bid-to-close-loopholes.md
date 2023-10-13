@@ -119,6 +119,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
+    excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
+    publishedDateTime: 2023-10-13T18:33:00Z
+    webUrl: "https://techreport.com/news/biden-administration-considers-tightening-ai-chip-curbs-on-chinese-companies-abroad/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 28
 
 secured: "0AdIoPUMwpxxBYztd2aS2L6xw70robwo0mk5xKT85NtLGKGNCxF33djMInd8r1OMSobyqsrITDoX1JvYPUj9e3e9NG2i8F3d/yG/ebRNWo2RY2XdZS/Unb70SZMGsN0cvgqR2x+lplZuYmi6GKBlvEF5CxntNYSUJC+y5HxN46vzzscolYge0QbcogD3KGYXcmKYsNlcFShyYcPkh+pOIB2fFrU+HVBsr6hBLahCAptxfb0u+DQFUoGBTx0kXTP63c9mdxnw7Z+HCE+X1lGHuQ7RjLEIidY2VyYCEv/lQ/x1M/y0ED0LqhCPmsMGiFV7doDgLVzHitwUoSovJ3KdzDr7FGYnFS0q+pF8QVYvPK3l5UlgPfdIzy4fJKw98LWyJ1EomUw8Mc5myZ5wlxD1ipRKMJP9rgMvkn1Y+w/Wg0AnwXMrWkCKmi6/IK/3vTrt6o17DK5L55RaxfJ2+qzQMzp15KLUD3XWKIkyJsaRA7M2cvT9YXEG8dzJx8QRnNMryDXgrv+XlFF17za06tLkuw==;Wbqcw8I9Kki/z+TcupZocg=="
 ---

@@ -103,20 +103,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Why Australia Plans an Indigenous ‘Voice’ Referendum"
-    excerpt: "Unlike some other former British colonies, Australia doesn’t have a treaty with its Indigenous population, collectively known as First Nations. There isn’t even a mention of them in the country’s constitution."
-    publishedDateTime: 2023-10-09T04:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/2023/10/09/australia-s-voice-referendum-what-is-it-why-does-it-matter-polling-and-voting/80537f70-6686-11ee-9753-2b3742e96987_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
     excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
     publishedDateTime: 2023-10-10T06:26:00Z
@@ -200,6 +186,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
+    excerpt: "It’s an historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
+    publishedDateTime: 2023-10-13T08:21:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 0
 
 secured: "PNavf5DtNihT8o7cgOGNVZE78+M8uq+WWwW6n2eG0JWR8319UEVgi64V1JipDo+SG8FIXKY+5Txe9QR1T1A0BXTm/w5iNZVWXHN868k3Ae3dFTxy6H2/WuackJ7kmV+UzVvjaDPKUic+87rEkQ1+CDJhcIIhezHAFpfjL7oFe5eF6JMPJgFqJYBsXEctKgTgWA4tsdJSsu6zGqUQ9BD3uvj9F1OChIM4voEVYB4etx5VwWDXplTcRyU3GCP64A2uKl9otNYVUNk3fsdUWqyib2cLuTOiwysJ2flngMz/uI7TmaYkuoD2XyUgY5A+pwp5sW561uz3r7AZTTTIYCnfxH7mVljc1BNNi/jIWlpaHj2iSndWsZgEL8bKOEF1JiohXyFF56V7+3Cnb/SkJvCWF+5snO4sHtU+JVGjnYJTCSMfl8GTlRou/WV2TH8sUzYb8tOPsPCatOZxT5KpoG50+Udm7n95NNJLcnnvmhe9Rwvm7iiJYAfuv0s0HENWp752p9ivB/YyRGVNwniBqz4yoQ==;2LMH1mVMbEcBfdELdeI9wQ=="
 ---

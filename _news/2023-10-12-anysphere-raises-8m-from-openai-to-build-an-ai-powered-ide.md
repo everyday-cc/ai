@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI-Specific Code Nixed from Semantic Kernel AI SDK"
+    excerpt: "Officially the company's \"What is Semantic Kernel?\" documentation says: \"Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python."
+    publishedDateTime: 2023-10-13T19:07:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/10/13/semantic-kernel-beta.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 19
 
 secured: "u6S0DWrZ2Br/qgNp6uXzhqr+FvZfUL4N/cy8USQ+asM/h+zaAPSu8Zg8BoGppuH4xC3BPp+D/jCy2vdT4XkoLYglB/z+qbYXz9WJCQb0p3MPuCPZf+ThG0tyf8tlHlMIDmyBB9kt/XSgzT0bmHQT+yeS7bspAfXalIzfFwRFHiXi+ZlUjw0tWJp5sJXjPN5yH0B9OSh9Td97lolNabDzUPLWsfNL7k7qjYiPa15r32wCvx5LZHhBFcgtHF17R3sAGHh5kphIMtY+cF9lHr9xQGIqlkfyuo37RwWt9u8h9UO9Q5s//UWL6XOxVq4xcIzL1cWQoHSo4N/U6An6XEE4LpNaAt9G6w+NsysdeMDweCV9kjMCbUw3saUa09TjBqrnAYf4OyljWj2uO3BdJRQUYeApQ3x1XASIM9Ceh2WQAhXMBFLRL/X/i8dgvKdenrZAnMrrLX63/IuhD5F06NWCgQ1Z1yuoaWeHrb5/fMjUVmF9EDGbV8NjXLw9zpw2mkxUyrRpZ/fPlICyFetNlwj1WA==;vwKQHfT9gK/DreuA9G1QjQ=="
 ---

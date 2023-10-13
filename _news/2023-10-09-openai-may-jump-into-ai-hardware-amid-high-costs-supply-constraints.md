@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-ju
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI-Specific Code Nixed from Semantic Kernel AI SDK"
+    excerpt: "Officially the company's \"What is Semantic Kernel?\" documentation says: \"Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python."
+    publishedDateTime: 2023-10-13T19:07:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/10/13/semantic-kernel-beta.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 19
 
 secured: "UxbMdMGGxocYwW4709NoLAT2EblyN12Ia3JCct89HsCcCSxOXLFYyLEuLGoqeZrkch7NEd0HykLItPSixOFRrbfOKRynWHnZk/EDWAxWagkCGSU/rK9xUqu4872FOSKdWNBjgQqykgkxD0JT3Jmfd5nUZcAAdXkmcxhW08mCQDlHFhM30JKkb+apXYUm4Hrpv/kjV1xu1SfS+1jVMq1Yw3Ueif1W5usN8PBiTIqBmQWohY+z5F9J11EDQW5S5G3Wdxz4/X1XllGw4HuNqnPXihHCzKihg99BUCSyjqa6f+rz9MlWfY1qYx79VEW9z4R/20Bo607JDys65kS6RMylYzaPB9iK97vWdP8NuZoLUHHUlivSZwkC0rKC0cm9JQ37/JCH9hA4e4pUNs/vorFDBvxB7AO0/hqOpakoey27KfBSfGhh+8staJbr1UFZdAP+x4l+9BbcnLYMbE8i+fpw4mqRG90D9IXVoW0PxMKSD9VGI2/hU1FW73BTeCWWhxS0WyxuYZoVNFgltBGQjC8RHw==;SIluF2ktolEOZFe9/lFOVw=="
 ---

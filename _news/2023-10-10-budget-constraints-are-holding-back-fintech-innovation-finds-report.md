@@ -71,6 +71,22 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
+    excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
+    publishedDateTime: 2023-10-13T20:51:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Chukwuemeka-Ujam.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "EDOMx taps FinTech finbotsAI for credit risk management"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-10-11T07:04:00Z
@@ -243,6 +259,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
+  - title: "OriginTrail's 1st DKG Conference brings together Internet, Artificial Intelligence and Blockchain pioneers to harness trusted AI across industries"
+    excerpt: "Ljubljana, Slovenia, Oct. 13, 2023 (GLOBE NEWSWIRE) -- The international DKGcon - Decentralized Knowledge Graph Conference gathered pioneers in Internet and blockchain technologies, as well as Artificial Intelligence (AI), in Ljubljana, Slovenia ..."
+    publishedDateTime: 2023-10-13T16:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35244109/origintrails-1st-dkg-conference-brings-together-internet-artificial-intelligence-and-blockchain-pi"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Fv7RGQO9PRP6Lh9+qgsJXBmG4vDFSfptsKC9KNo8+BcabgHFg4XnZYOqSIQa35iXjXFFF07AAwj/OVRvP0//3kdXI0QKLEvLl9nCjW38omNIC5r5zi+F01+bJ2xzpAHILnm33Ug5ouieMn+WbRce+HX+XcsdTojPcin1pO1OCqYqzPP11iP2RmRa8X27wOZceXMEQjd2jVPGwtwrJQmHW25Mx3wxKB9nkyV7WBj2TY/k93zJfzGo0I1PWeTDpyEGx9zbMy7G+csc/SEYwt9j6vQZIXupOpYbyPTThuDCPbwM1f0XI8fYSL3zHzfIKg5z+azpNW3OU8Yfx5QVmZu8G29/QrZ+XQMyHAV2NvDGf+ReT4pF5ywOPcMHkby+hiU0E+bcwSDkmFkj6g0VUN3EkEJBcNl6d7WXbLJeH9dxFdSqBvrfEMDz8krvaZi3D7xJE3jDBGOYMyIKLdhDN4LGyQPNxhEqwRnsNiPG7uWiOFtUd3tg5LCzj+FhGZwK5rk1ShrXq3qg4HXrndnbHkx5Bw==;gS6o3L2Mk62ZQRLyG4IALw=="
 ---
