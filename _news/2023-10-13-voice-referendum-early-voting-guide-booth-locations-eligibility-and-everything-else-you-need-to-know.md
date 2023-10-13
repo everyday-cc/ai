@@ -1,0 +1,94 @@
+---
+category: news
+title: "Voice referendum early voting guide: booth locations, eligibility and everything else you need to know"
+excerpt: "Can I vote early? Where do I find a voting location near me? Your questions answered on how to vote in the Indigenous voice to parliament referendum on 14 October"
+publishedDateTime: 2023-10-13T00:25:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2023/oct/13/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+webUrl: "https://www.theguardian.com/australia-news/2023/oct/13/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+type: article
+quality: 28
+heat: -1
+published: false
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/31dde193df371f5e13619ba4277a5ca178b0f5b4/395_586_4836_2901/master/4836.jpg?width=620&quality=85&auto=format&fit=max&s=e2f3cd549848884716ef0af325ec68a2"
+    width: 620
+    height: 372
+    isCached: true
+
+related:
+  - title: "Voice referendum early voting guide: booth locations, eligibility and everything else you need to know"
+    excerpt: "Can I vote early? Where do I find a voting location near me? Your questions answered on how to vote in the Indigenous voice to parliament referendum on 14 October"
+    publishedDateTime: 2023-10-10T03:03:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/10/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 28
+    images:
+      - url: "https://i.guim.co.uk/img/media/31dde193df371f5e13619ba4277a5ca178b0f5b4/395_586_4836_2901/master/4836.jpg?width=620&quality=85&auto=format&fit=max&s=e2f3cd549848884716ef0af325ec68a2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Voice referendum early voting guide: booth locations, eligibility and everything else you need to know"
+    excerpt: "The chapter would include a new section 129, which would be as follows: 129 Aboriginal and Torres Strait Islander Voice In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: (i) there shall be a body ..."
+    publishedDateTime: 2023-10-11T00:11:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/11/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 28
+    images:
+      - url: "https://i.guim.co.uk/img/media/31dde193df371f5e13619ba4277a5ca178b0f5b4/395_586_4836_2901/master/4836.jpg?width=620&quality=85&auto=format&fit=max&s=e2f3cd549848884716ef0af325ec68a2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Voice referendum early voting guide: booth locations, eligibility and everything else you need to know"
+    excerpt: "Can I vote early? Where do I find a voting location near me? Your questions answered on how to vote in the Indigenous voice to parliament referendum on 14 October"
+    publishedDateTime: 2023-10-11T23:35:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/12/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 28
+    images:
+      - url: "https://i.guim.co.uk/img/media/31dde193df371f5e13619ba4277a5ca178b0f5b4/395_586_4836_2901/master/4836.jpg?width=620&quality=85&auto=format&fit=max&s=e2f3cd549848884716ef0af325ec68a2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Voice to Parliament referendum 2023: Everything you need to know"
+    excerpt: "Saturday’s referendum day will mark the close of a long-winded chapter of polarised debate over Indigenous rights in Australia."
+    publishedDateTime: 2023-10-12T14:45:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
+
+secured: "EG4tVWLWnHN5xzdz4HYa6t3HURCSdvXGPP/T96tQTRn55RXif5CrPcp4h8n5Fam7S3VqxiVz9oq7PKqQ0ENxj6MxDgQaGvSXVaaQc/NbaquaysaHrlDfkjztTgnsIhWl1nK+eQnGwx0H1jYSOej51RDaylaaHHE20jvG/pP69V0FT6X5GlPRPcw31jXVh7aFkEbKAVpXWcKiDrZeH1yZkjOI1FneoKzPHk9l9v0eChcLNg5VOKBh7mfA5tbFDl2itJqkb3+iNz/CLOLyqSGw4BlymU27Y4HCx19eOfDvb3aM2iZ2wL2GsG+m66or5UwAL5iIHFrbwj2gdM+X9pojQuwLO516IiQBYf63WVq2dM0=;/y9FzTKnHkvBTfNQWfeDkw=="
+---
+

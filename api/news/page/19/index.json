@@ -2,6 +2,127 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-09-27-45-million-granted-to-nu-cancer-therapy-device-project.md",
+      "title": "$45 million granted to NU cancer therapy device project",
+      "excerpt": "The Advanced Research Projects Agency for Health awarded researchers at Northwestern and seven other institutions a $45 million grant to continue developing a small, implantable device that could detect and treat cancer,",
+      "sourceUrl": null,
+      "webUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
+      "originalUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailynorthwestern.com/wp-content/uploads/2023/09/TECH_FILE_AvaMandoli_7.jpg",
+          "width": 2001,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Northwestern",
+        "domain": "dailynorthwestern.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-2031-ai-in-computer-vision-market-research-report-booming-worldwide.md",
+      "title": "2031, AI In Computer Vision Market Research Report | Booming Worldwide",
+      "excerpt": "Facebook, Microsoft Corporation, Intel Corporation, Apple Inc., COGNEX Corporation are one of the principal market rivals, according to the research. Global AI In Computer Vision market size is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34930004/2031-ai-in-computer-vision-market-research-report-booming-worldwide",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34930004/2031-ai-in-computer-vision-market-research-report-booming-worldwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34930004",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34930004",
+      "publishedDateTime": "2023-09-26T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-infosys-ms-collaborate-for-cognitive-services.md",
+      "title": "Infosys, MS collaborate for cognitive services",
+      "excerpt": "Bengaluru: Infosys is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topaz, Azure OpenAI Service and.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/articleshow/103975119.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/articleshow/103975119.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/amp_articleshow/103975119.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/bengaluru/infosys-ms-collaborate-for-cognitive-services/amp_articleshow/103975119.cms",
+      "publishedDateTime": "2023-09-26T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-passur-completes-migration-to-aws.md",
       "title": "PASSUR Completes Migration to AWS",
       "excerpt": "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy",
@@ -945,126 +1066,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai.md",
-      "title": "Infosys and Microsoft collaborate to drive adoption of generative AI",
-      "excerpt": "Infosys has joined forces with Microsoft to jointly develop industry-leading solutions to accelerate and democratize industry-wide adoption of generative AI. The integrated solutions will leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services to help businesses increase productivity and drive new revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai?amp",
-      "publishedDateTime": "2023-09-26T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-microsoft-to-jointly-develop-genai-solutions.md",
-      "title": "Infosys, Microsoft to jointly develop GenAI solutions",
-      "excerpt": "Infosys partners with Microsoft for new AI solutions. Infosys, India’s second-largest IT services exporter, is collaborating with Microsoft to jointly develop industry-leading s",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
-      "originalUrl": "https://yourstory.com/enterprise-story/2023/09/infosys-and-microsoft-to-jointly-develop-genai-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/120/220356402d6d11e9aa979329348d4c3e/exp-24-1695740487293.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expansion-strategies.md",
-      "title": "Artificial Intelligence (AI) in Healthcare Market Overview and Forecast 2023-2031 | Mapping Future Expansion Strategies",
-      "excerpt": "In the dynamic landscape of the global Artificial Intelligence (AI) in Healthcare market from 2023 to 2031, a treasure trove of strategic insights awaits. This comprehensive report offers a deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34912878/artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expa",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34912878/artificial-intelligence-ai-in-healthcare-market-overview-and-forecast-2023-2031-mapping-future-expa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34912878",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34912878",
-      "publishedDateTime": "2023-09-26T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

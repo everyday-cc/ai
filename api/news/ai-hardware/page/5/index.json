@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-02-a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage.md",
+      "title": "A new way to optimize and prioritize AI projects for the GPU shortage",
+      "excerpt": "The GPU shortage is a challenge, but zeroing in on a Contribution Per GPU method can maximize ROI and help ensure long-term success.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
+      "originalUrl": "https://venturebeat.com/ai/a-new-way-to-optimize-and-prioritize-ai-projects-for-the-gpu-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_many_file_drawers_and_files_and_GPU_with_one_file_drawe_9e7c558c-2436-4ad2-bd8b-0500f9b2202f.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-dihuni-ships-gpu-servers-for-generative-ai-and-llm-applications.md",
       "title": "Dihuni Ships GPU Servers for Generative AI and LLM Applications",
       "excerpt": "1, 2023 /PRNewswire/ -- Dihuni, a leading artificial intelligence (AI), data center and Internet of Things (IoT) solutions company today announced it has started shipping new OptiReady GPU servers ...",
@@ -1422,50 +1475,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-08-28-advances-in-ai-chips-boost-voice-recognition.md",
-      "title": "Advances in AI, chips boost voice recognition",
-      "excerpt": "Separate developments in speech recognition technology from IBM and California universities at San Francisco and Berkeley offer promising news for patients suffering from vocal paralysis and speech loss.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/advances-in-ai-chips-b.jpg",
-          "width": 2667,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-advances-ai-chips-boost-voice.amp",
-      "publishedDateTime": "2023-08-28T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

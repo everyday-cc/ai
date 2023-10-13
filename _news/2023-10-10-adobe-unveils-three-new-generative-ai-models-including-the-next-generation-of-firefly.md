@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google’s AI-powered search experience can now generate images, write drafts"
+    excerpt: "Google's AI-powered search feature, SGE (Search Generative Experience), is gaining some new skills, starting today. The AI feature, which introduces a"
+    publishedDateTime: 2023-10-12T21:22:00Z
+    webUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/"
+    ampWebUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-search-labs-SGE-1.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "US Space Force Bans Use of Generative AI"
     excerpt: "Outside of work, Space Force employees will find it increasingly difficult to avoid using AI. Google recently announced that Assistant is getting a Bard generative AI upgrade, Microsoft is adding generative AI to the Windows 11 experience, and Amazon is investing billions in AI to improve the customer experience for all its services."
     publishedDateTime: 2023-10-12T11:40:00Z

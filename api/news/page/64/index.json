@@ -2,6 +2,205 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-08-28-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market.md",
+      "title": "US, China at each other's throats for lion's share of over $100b AI chip market",
+      "excerpt": "Tremendous progress in artificial intelligence is leading to significant revenue generation due to increased demands in semiconductor production, which is expected to exceed $100 billion by",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "originalUrl": "https://www.thenews.com.pk/latest/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-08-28/l_1104528_033804_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1104528-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market",
+      "publishedDateTime": "2023-08-28T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News International",
+        "domain": "thenews.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-how-to-honor-artists-in-the-age-of-ai.md",
+      "title": "How To Honor Artists In The Age Of AI",
+      "excerpt": "With these strategies in mind, you can be sure your creative talent will have a little more faith in working with you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e8caccf02f344e0cd8ae25/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 865,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/28/how-to-honor-artists-in-the-age-of-ai/amp/",
+      "publishedDateTime": "2023-08-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-the-34-most-promising-ai-startups-of-2023-according-to-top-vcs.md",
+      "title": "The 34 most promising AI startups of 2023, according to top VCs",
+      "excerpt": "Insider asked dozens of top VCs to name one promising AI startup they invested in and one they didn't but were hearing good things about.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "originalUrl": "https://www.businessinsider.com/the-most-promising-artificial-intelligence-startups-of-2023-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e4471abd98a600197b871d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-28-ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.md",
+      "title": "AI can combat Colonial Pipeline-like cyberattacks that cripple hospitals, critical services: expert",
+      "excerpt": "AI could have minimized the damage from the 2021 Colonial Pipeline shutdown, as well as the current rash of malware attacks on hospitals, an expert says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
+      "originalUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03b9e505-6f62-4b16-aa50-c8daae42012a/2198e320-0b57-4a91-a07d-5df191549eba/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-can-combat-colonial-pipeline-like-cyberattacks-that-cripple-hospitals-critical-services-expert.amp",
+      "publishedDateTime": "2023-08-27T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-how-artificial-intelligence-gave-a-paralyzed-woman-her-voice-back.md",
       "title": "How Artificial Intelligence Gave a Paralyzed Woman Her Voice Back",
       "excerpt": "At the age of 30, Ann suffered a brainstem stroke that left her severely paralyzed. She lost control of all the muscles in her body and was unable even to breathe. It came on suddenly one afternoon, f",
@@ -885,182 +1084,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-graduate-certificate-in-artificial-intelligence-and-machine-learning.md",
-      "title": "Graduate Certificate in Artificial Intelligence and Machine Learning",
-      "excerpt": "Who is the AI and Machine Learning Certificate program for? Drexel College of Computing & Informatics' Post-Baccalaureate/Graduate Certificate in Artificial Intelligence (AI) and Machine Learning (ML) is designed for recent graduates and professionals who ...",
-      "sourceUrl": null,
-      "webUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
-          "width": 315,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drexel University",
-        "domain": "drexel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-internet-controlled-robotic-arm.md",
-      "title": "Internet Controlled Robotic Arm",
-      "excerpt": "The guys over at Rusty Nail Workshop have put up an Internet controlled robotic arm for your amusement. While you’re waiting for the turkey to be done (or, you know, working), try your hand at ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2011/11/24/internet-controlled-robotic-arm-2/",
-      "originalUrl": "https://hackaday.com/2011/11/24/internet-controlled-robotic-arm-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://hackaday.com/wp-content/uploads/2011/11/arm.png",
-          "width": 470,
-          "height": 257,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-masters-ms-in-machine-learning-and-artificial-intelligence.md",
-      "title": "Master’s (MS) in Machine Learning and Artificial Intelligence",
-      "excerpt": "Who is the Master's in Artificial Intelligence and Machine Learning program for? Drexel’s College of Computing & Informatics' Master of Science in Artificial Intelligence and Machine Learning (MSAIML) is designed for students who hold a four-year ...",
-      "sourceUrl": null,
-      "webUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
-          "width": 315,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drexel University",
-        "domain": "drexel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-theres-no-such-thing-as-self-driving-cars-not-yet-anyway.md",
-      "title": "There's No Such Thing as Self-Driving Cars, Not Yet Anyway",
-      "excerpt": "But what makes self-driving cars so complicated and tricky to make? And where do we stand in all of this? What in the heck is an autonomous car anyway? A fully autonomous car is a vehicle that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html",
-      "originalUrl": "https://www.autoguide.com/auto-news/2020/08/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-fastly.autoguide.com/media/2023/06/28/13413253/there-s-no-such-thing-as-self-driving-cars-not-yet-anyway.jpg?size=1200x628",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AutoGuide",
-        "domain": "autoguide.com",
         "images": null,
         "publishers": null,
         "authors": null

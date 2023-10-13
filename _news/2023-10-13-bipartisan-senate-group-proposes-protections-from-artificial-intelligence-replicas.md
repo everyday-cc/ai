@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonexaminer.com/policy/technology/senate-group-
 webUrl: "https://www.washingtonexaminer.com/policy/technology/senate-group-protections-artificial-intelligence"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 630
     isCached: true
 
-secured: "LbNBGbqii0UR8CHnmre2JWpKZkTCSrvb6G/PmFNkaRUKoIMiFq9VYnzBt5GlRwY9Vl8GQCypJLhpem9a00ymZrnVVPPbQF71BRI4kMidSDUMp5Oe/1e+oMGCuSR9CeHKzeMbzWP9OyMwcJ02uAp+cW2D7S/BngWYF9HsvUcUoQhZ73DEt9QvO0y385LxBxgG9Qj7cknH7FwEWZRobSuinc8V8LXPTA0n0NQUviMdQHCI8FmCxoVoZ1Z9KoJXBkqnJblganNug15rpArqgVTwdjrUDOF7tu++XF0T5I+cvM2XoaypYDTs6cBqAVrI68DxuQLkTLOeYf+hOq15Bu5+dxGulaPlmp8368Tg7sCWr10=;2Wxc5d4rwDXrEOc35WrugQ=="
+related:
+  - title: "US senators draft NO FAKES bill to ban unauthorized AI copycats"
+    excerpt: "The proposed act came just hours after talks broke down between actors and Hollywood studios, with AI replicas a major friction point in negotiations. Unauthorized artificial intelligence-powered recreations of people’s voices and images would be banned ..."
+    publishedDateTime: 2023-10-13T01:46:00Z
+    webUrl: "https://cointelegraph.com/news/us-senators-no-fakes-bill-ban-ai-replicas"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 37
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/2fc2e280-2fe5-4fd7-bed6-7a2286e49fdc.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+
+secured: "vw4Qjd1xyWn2L3598ScRSZHJRGeQs5vStYKtZhEpqQDEBH8bS1ODFltM2BJBx+opyyHU+0qPAvQqkeUhw6Fp7gbV0I1LSkMDQgnp2tJ+n1Zs1qk5MhOURtTgR5RaJsYOI4rVfug8hvStDKmWGw4B07ulENrHq8nJYUoxnzKP3vY0bMT/w6nj2sJDf2xuWIypgFW10MEiPvCx3NNnFNjTtvwD6JP/lRI/8qVzjaR/MM+EhyLekwQoFnQ6QTzZEgFRktObBXIyGC2rw2YrWe6vxySBiSsEYa4HaerowF0Iem7AF4LfAYB8RPa/oh5/tWRzyD76MJuaLiDOF9J+46jjFPYVHC3Xo99a7lC4M289GK14qnHVDLHPMKempaj1E9Jc7o5HUM4MzL7S/+GIiIUSmirqmxbKNbGGqSohTlVsXS8nn3hgDLCZIUSUEiR1cZxe0HpcxL65azvcJVmM9SHqK5o+aTZuWQiM1WlZ5EYjPtpVAgFC1CSr30Vb/DfloICjSmJ1FBxHrxswLrwV6saedA==;imL+b9J99NRF5MYcpy87lw=="
 ---
 

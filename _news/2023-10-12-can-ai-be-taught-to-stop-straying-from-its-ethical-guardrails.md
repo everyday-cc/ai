@@ -7,8 +7,8 @@ originalUrl: "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-
 webUrl: "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Irish Times
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence holds massive potential for good, but needs guardrails: Selipsky"
+    excerpt: "AWS CEO Adam Selipsky responds to FTC allegations against Amazon, discusses AI innovation, and breaks down Amazon's contributions to the U.S. economy on 'FOX Business Originals.'"
+    publishedDateTime: 2023-10-13T00:33:00Z
+    webUrl: "https://www.foxbusiness.com/video/6338955294112"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 43
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/6801cf17-fb43-4b54-a0a2-5152f049a135/5adf064a-38a2-4e61-a23a-1ce012253de7/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "AI Guardrails Are Urgently Needed, but That’s Just a Start"
     excerpt: "By convention, people who are not law-abiding do not pay attention to the law. Consequently, guardrails for and regulation of AI development must not only cover law-abiding corporations, individuals, and all other groups, but also provide protection from bad actors."
     publishedDateTime: 2023-10-11T16:30:00Z

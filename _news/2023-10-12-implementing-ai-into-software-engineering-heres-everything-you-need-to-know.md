@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/implementing-ai-into-softwa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: medianama.com
     quality: 34
 
-secured: "tez+2l1WBVDzP3FC3m4nIytW2Htomr5OTbxZUuTSP1yvTKyqVTXsuu9/tlQscYMXII5XjYwPku7zLJlIBXNRlTTjc0NLOOXcET8g6Uuqc10wB5xUAm2OgCg9tuclbup57iBUx+XdMHStfSewxjBAnzgcT2HtmAfKpePvbtLgAr9qJWH3sWVvBnu5XWBb4kvQUOtc28v1D07lK1IIiG6w4vmJvw+OT9R7xU+0pR9gPDKa3PFxkyqRH73ZkuNEdA31cVjrn15Dc85/Z64dREk3RE4tVKtYoeDISNTHiwoHUU7Lc8YGEHTyE1u8RsynlAQuY7/saHaHe3KVKsqgNP7v8dO20u9RIDfjuJtj3nD6Ahw=;OqQ7MRCPJP1dRoiaeB9gGw=="
+secured: "jLEVbb61nz29TYGa5s/MJ6kHRwHePenv503pkJ5e5iHX+qlpzwnrAdEb8kyA73Xo794K3Y+kiLuUJKOanxnWJRN3k6Nh56SgPKlK+vRE0F+aD/x13uK55nZ9c0XfzdUpxusONwiRv5whOQdP3Tf5l/5EgbRgUtHFY3qSJBVuo2P3O1MCTFNsfka4bSUV7QpwYogmq3wwfoLFcXQHTm3grKRam7b8+NZcbDLRl6HaLZPXguVc6vgFEAfkuV/WrUG2uDphZ/g4o5xoy54omSvWSeJUob26ItLygkiS36WL1GYtOeOnjao4STHM32UwupVKCsMVvRceXLZV4KFfQMHp4PoCJoilDN9lwJOIju0wQ0ICrtOHFZk0LwZHQkzvPnfzadcTxN7woaBbx+UFE4TLRiPqVkOwBdODy2gTkEMv5PyAfzJ4SC1qc/8IWeWKtgChvIwIRPjClv26onZB7qQq1c+ZmdthW/rLdiV/8u4gn97xC3HQQ/0mELpwllo/MWrgnE3bFc0Q/9TmsTDpKphbpw==;g24mvzpKeGXplVuZf2u/Xg=="
 ---
 

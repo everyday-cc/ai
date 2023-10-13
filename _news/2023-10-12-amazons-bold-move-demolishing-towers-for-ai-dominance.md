@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

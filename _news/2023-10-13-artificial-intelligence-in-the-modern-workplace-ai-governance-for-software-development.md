@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-12T20:11:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-the-modern-8713904/"
 webUrl: "https://www.jdsupra.com/legalnews/artificial-intelligence-in-the-modern-8713904/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13676_5142.jpg"

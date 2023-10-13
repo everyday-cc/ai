@@ -2,6 +2,203 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-07-31-generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms.md",
+      "title": "Generative AI Exposure Widens Return Gap Between Tech And Traditional Firms",
+      "excerpt": "A new study from the National Bureau of Economic Research reveals that recent advances in generative AI are accelerating the divergence in stock market performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/644899074c7bf57cf451f763/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/30/generative-ai-exposure-widens-return-gap-between-tech-and-traditional-firms/amp/",
+      "publishedDateTime": "2023-07-30T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-31-incheon-airport-introduces-smartpass-facial-recognition-system.md",
+      "title": "Incheon airport introduces Smartpass facial recognition system",
+      "excerpt": "A new biometric identification system using the facial features of travelers now substitutes for passports at Incheon International Airport, Korea's largest international air hub. The enhanced identification process started being used on July 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2023/07/135_356006.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202307/76a5bef4fee443218a7a270c29c87bb8.jpg",
+          "width": 980,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356006",
+      "publishedDateTime": "2023-07-30T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-fragmented-truth-how-ai-is-distorting-and-challenging-our-reality.md",
+      "title": "Fragmented truth: How AI is distorting and challenging our reality",
+      "excerpt": "Truth and trust have been under attack for quite some time. Why developments in generative AI suggest the trend will continue.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/fragmented-truth-how-ai-is-distorting-and-challenging-our-reality/",
+      "originalUrl": "https://venturebeat.com/ai/fragmented-truth-how-ai-is-distorting-and-challenging-our-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/07/annevb_artificial_intelligence_fragmenting_into_smaller_pieces_456c801c-fa4c-4aa1-9c32-ecf46c7653ed.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-30T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-workers-at-risk-of-ai-radically-changing-their-jobs-arent-too-worried-about-it.md",
+      "title": "Workers at risk of AI radically changing their jobs aren't too worried about it",
+      "excerpt": "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Over 27 million Americans are in work where key activities involved in their job could \"be replaced or aided ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
+      "originalUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64c0278eed4f4600196381d7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jobs-at-risk-ai-will-change-work-pew-research-center-2023-7?amp",
+      "publishedDateTime": "2023-07-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-30-can-chatgpt-destroy-humanity-if-it-doesnt-understand-the-world.md",
       "title": "Can ChatGPT Destroy Humanity If It Doesn’t Understand The World?",
       "excerpt": "The depth of their understanding of the human world is a much more important hurdle than hallucinations for LLM to overcome before they become \"superintelligence.\"",
@@ -970,187 +1167,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-for-fans.md",
-      "title": "AWS AI-powered video highlights feature introduces game-changing World Cup viewing experience for fans",
-      "excerpt": "The technology utilizes services from AWS, including Amazon Rekognition. \"This is leveraging computer vision and a lot of other services from AWS to help us develop what they did for the World Cup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans",
-      "originalUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/1200/675/Womens-World-Cup.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/sports/aws-ai-powered-video-highlights-feature-introduces-game-changing-world-cup-viewing-experience-fans.amp",
-      "publishedDateTime": "2023-07-28T18:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do.md",
-      "title": "A year ago, DeepMind’s AlphaFold AI changed the shape of science — but there is more work to do",
-      "excerpt": "OpenAI’s ChatGPT may have captured the AI zeitgeist last fall, but it was DeepMind’s AlphaFold AI that shook the science world last summer. A year ago, on July 28, 2022, the A",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/650188/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/",
-      "originalUrl": "https://www.inferse.com/650188/a-year-ago-deepminds-alphafold-ai-changed-the-shape-of-science-but-there-is-more-work-to-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/07/wp-header-logo-6918.png",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-taking-killer-robots-seriously.md",
-      "title": "Taking Killer Robots Seriously",
-      "excerpt": "Now’s as good a time as any to start taking killer robots seriously ... Our guess is that solving the AI and autonomy problems are just a matter of time. While gadflys like Elon Musk and ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/06/27/taking-killer-robots-seriously/",
-      "originalUrl": "https://hackaday.com/2016/06/27/taking-killer-robots-seriously/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/06/robotkill.jpg",
-          "width": 3519,
-          "height": 2039,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-hearing-aids-counselling-may-slow-cognitive-decline-for-some-seniors-new-study-finds.md",
-      "title": "Hearing aids, counselling may slow cognitive decline for some seniors, new study finds",
-      "excerpt": "(Rick Bowmer/The Associated Press) Seniors at risk of dementia who were given hearing aids and counselling had less cognitive decline over a three-year period, a randomized trial finds. Research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/news/health/hearing-aids-cognitive-decline-dementia-1.6909911",
-      "originalUrl": "https://www.cbc.ca/news/health/hearing-aids-cognitive-decline-dementia-1.6909911",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6622234.1666216761!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/hearing-loss-captions-everywhere.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6909911",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6909911",
-      "publishedDateTime": "2023-07-28T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 820
         isCached: true
+  - title: "ZTE's first 'flagship GPU server' for China has NVIDIA H800 AI GPUs, works around US sanctions"
+    excerpt: "ZTE has just unveiled its very first \"flagship GPU server\" for the Chinese market, powered by Intel Xeon Scalable processors and NVIDIA H800 AI GPUs. Check it out:"
+    publishedDateTime: 2023-10-13T00:19:00Z
+    webUrl: "https://www.tweaktown.com/news/93768/ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93768_904_ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
     excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
     publishedDateTime: 2023-10-11T20:45:00Z

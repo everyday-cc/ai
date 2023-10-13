@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-octo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
 type: article
 quality: 109
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -85,6 +85,22 @@ related:
     quality: 87
     images:
       - url: "https://www.zdnet.com/a/img/resize/1cece709d5fe4df7d14b8770ec21f19b19242067/2023/03/21/b3d81f07-31e0-455d-b67c-87c27c0bd51d/gettyimages-600781912.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google’s AI-powered search experience can now generate images, write drafts"
+    excerpt: "Google's AI-powered search feature, SGE (Search Generative Experience), is gaining some new skills, starting today. The AI feature, which introduces a"
+    publishedDateTime: 2023-10-12T21:22:00Z
+    webUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/"
+    ampWebUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-search-labs-SGE-1.jpg?resize=1200,675"
         width: 1200
         height: 675
         isCached: true

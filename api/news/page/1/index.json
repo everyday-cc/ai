@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-13-joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad.md",
+      "title": "Joe Biden eyes adding AI chip curbs to Chinese companies abroad",
+      "excerpt": "The United States last year shook relations with Beijing when it unveiled new restrictions on shipments of AI chips and chipmaking tools to China, seeking to thwart its military advances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/06/Joe-Biden_AFP-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp",
+      "publishedDateTime": "2023-10-12T18:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-elon-musk-unveils-xai-a-game-changer-for-investors.md",
+      "title": "Elon Musk Unveils X.ai: A Game-Changer For Investors",
+      "excerpt": "Elon Musk held a Twitter Spaces event in early July to reveal X.ai, his newest AI business. X.ai researchers will focus on science, while also building applications for enterprises and consumers. To participate, investors should continue to buy Arista Networks ANET +0.6% (ANET).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652893e5a8b7c4daca3ed28c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/",
+      "publishedDateTime": "2023-10-12T17:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-80-of-enterprises-will-have-incorporated-ai-by-2026-according-to-a-gartner-report.md",
       "title": "80% of enterprises will have incorporated AI by 2026, according to a Gartner report",
       "excerpt": "\"Technology leaders should start with models with high accuracy in performance leaderboards, ones that have superior ecosystem support and have adequate enterprise guardrails around security and privacy,\" said Chandrasekaran. Also: Firefox is getting an AI ...",
@@ -206,7 +300,7 @@
       "originalUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 279,
       "tags": null,
       "images": [
         {
@@ -258,7 +352,7 @@
       "originalUrl": "https://www.zdnet.com/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -886,7 +980,7 @@
       "originalUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 240,
       "tags": null,
       "images": [
         {
@@ -983,6 +1077,50 @@
       ]
     },
     {
+      "path": "_news/2023-10-12-can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails.md",
+      "title": "Can AI be taught to stop straying from its ethical guardrails?",
+      "excerpt": "Google, OpenAI and Anthropic want technology such as chatbots to learn from a ‘constitution’ to keep them from generating toxic content",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/",
+      "originalUrl": "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/resizer/z5f5z19tZhCvBxpQzfo7MQBM7aY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OD7XZHMFM5PL6B2UHHS4G6YTKQ.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-meet-the-16-year-old-indian-girl-whose-ai-startup-is-valued-at-rs-100-crore.md",
       "title": "Meet the 16-year-old Indian girl whose AI startup is valued at Rs 100 crore",
       "excerpt": "A 16-year-old Indian girl is making her mark in the world of AI with her startup, Delv.AI. According to Business Today, Pranjali Awasthi established Delv.AI in 2022. It is already valued at Rs 100 crore ($12 million) and recently impressed attendees of the Miami Tech Week. At 16, Awasthi has a team of 10 people working under her.",
@@ -1074,151 +1212,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator.md",
-      "title": "OpenText Delivers Broad AI Orchestration Capabilities for the Enterprise with Aviator",
-      "excerpt": "OpenText unveiled a broad expansion of its enterprise-class Aviator platform with new AI capabilities spanning business and technology needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6527422f48ebd112c83fa429/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/",
-      "publishedDateTime": "2023-10-11T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-amazons-bold-move-demolishing-towers-for-ai-dominance.md",
-      "title": "Amazon's Bold Move: Demolishing Towers For AI Dominance",
-      "excerpt": "Matt Shumer, the founder of Otherside AI, told the Financial Times last week that AI has profoundly changed the role of software engineers. His team now focuses on defining the problem, designing structure, and then directing AI to do all of the heavy lifting. Otherside is capable of doing much more with far fewer coders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65273dcbe0b481b15f1f6525/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/11/amazons-bold-move-demolishing-towers-for-ai-dominance/amp/",
-      "publishedDateTime": "2023-10-11T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-ai-ethics-usage-study-takes-place.md",
-      "title": "AI ethics & usage study takes place",
-      "excerpt": "Artificial Intelligence. It's a tool of the future, but it's here today. How do we reign in something so new that most people don't understand it yet?",
-      "sourceUrl": null,
-      "webUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
-      "originalUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kswo-prod.cdn.arcpublishing.com/resizer/9lF5iIay7NHAw9fB0ymqpJL9wZ4=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/GSZDN2XRDNFB7IFGSIQJ2WZ3SQ.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kswo-com.cdn.ampproject.org/c/s/www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/?outputType=amp",
-      "publishedDateTime": "2023-10-11T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSWO ABC 7 News",
-        "domain": "kswo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kin
 webUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/"
 type: article
 quality: 119
-heat: 239
+heat: 240
 published: true
 
 provider:

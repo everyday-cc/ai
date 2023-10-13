@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-12T22:48:00Z
 originalUrl: "https://bgr.com/tech/google-now-lets-you-generate-ai-images-by-searching-heres-how-to-do-it/"
 webUrl: "https://bgr.com/tech/google-now-lets-you-generate-ai-images-by-searching-heres-how-to-do-it/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://bgr.com/wp-content/uploads/2023/10/Google-SGE.jpg?quality=82&strip=all"
@@ -71,6 +72,6 @@ related:
         height: 628
         isCached: true
 
-secured: "ZQOZYeL0B71WxAKTlfU2k+rbkZV37YFaGjZQ6oMZUoSMLLYkO67lz2mdKZOasnvuApMdyPZeh6dpsa77eub54baIO4WKbIW9h7FeWhJT+uUWJKbzxRTi4P+WHHvWAZlXRelyFoeAzYJPzmKvvF2SH/4NpFjHGiuLz4sovkiW1COQEaLfDLAiJpkPlYt+u/oC88Rz9Eg0mbKt7w5wjkHb8bxpFmjA9iNtAxRU+ed3dNjvUuuqMlFFB0LsO05ZCiUP0khDV4xPAdOxJxEyCkSuRAj91NrMxjGRXkCli9CLCQJ9vAj87/Vh2JTKnBJqAaiDmD+um9drr38pmgsaNW7rKFGQ142KgbiZXO3ytbHjUo4=;ESKxgMCiLa4LkF2FKlFLdg=="
+secured: "uGkXCSBL1Ob3pYwQd+6Rz+6IuYguWrqBv3WsACbUdoVsA+JXxv8FAakF7+E58TIuJvu+F3ykTGWJEzS9X+GZfFbI3klYMiWGa3dTlHFQUygfXjrwTSzR4C9ZkzXra10oAvsAhJEBQLaJ+txjiyQ3/hroRFC2Y964/o5GJ7OjOrALRVHFRe6P+wELzopffzwpTpbCp6jKp+z/QLiM2InOU2U5szzyBg4nmNUQ126RaMcilC6L+wGQs/qzVoSpmnrHNeU89Np1picoLnD7Z9Xc4zx9aCAP4XrVUw1CUajyECh0FxnXyE1rCyBvr114Nk4H7sErs4SsrAJdXd8PoEv9o6XQhy6PUo7mKgY/C/qoe6NplyxOH0VlO52n+Yb7RGSYkirWxjItXSTvAmMn+wKsbUKTg9yGn4Wk7qv0D9l19wI4PAiGv3ht7J8x3rEAwyiQe4Fw5BLDiWhljifzBtXXC0IuY/2rKS6W5n72nhhYxFOsRD0W9sSvatE6wL5ClJfOyWoszIjfbncPIx1t2G0ogQ==;iQokg/Yhh0rLt/Ms/RSWbw=="
 ---
 

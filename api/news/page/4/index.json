@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-10-whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we’re excited to announce that the OpenAI Whisper foundation model is available for customers using&nbsp;Amazon SageMaker JumpStart. Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680 thousand hours of labelled data, Whisper models demonstrate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/ML-15311-image001-1225x630.jpg",
+          "width": 1225,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T10:09:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-reinventing-a-cloud-native-federated-learning-architecture-on-aws.md",
+      "title": "Reinventing a cloud-native federated learning architecture on AWS",
+      "excerpt": "In this blog, you will learn to build a cloud-native FL architecture on AWS. By using infrastructure as code (IaC) tools on AWS, you can deploy FL architectures with ease. Also, a cloud-native architecture takes full advantage of a variety of AWS services with proven security and operational excellence,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-a-cloud-native-federated-learning-architecture-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-a-cloud-native-federated-learning-architecture-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/26/fl-arch.png",
+          "width": 935,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T10:01:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-the-proven-power-of-robotics-and-ai-in-logistics.md",
+      "title": "The Proven Power of Robotics and AI in Logistics",
+      "excerpt": "High-performance robots and a blend of unique innovations and sophisticated software are proving to be indispensable in order fulfillment spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/october-2023/proven-power-robotics-ai-logistics",
+      "originalUrl": "https://www.automation.com/en-us/articles/october-2023/proven-power-robotics-ai-logistics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/333f6225-93bb-4e8e-b129-49f8bde16bc3/robotics-logistics-feature-oct-10-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-microsoft-targets-healthcare-with-new-cloud-based-data-ai-solutions.md",
       "title": "Microsoft Targets Healthcare with New Cloud-Based Data & AI Solutions",
       "excerpt": "Microsoft introduces cloud-based health care analytics platform, healthcare-focused AI models, and AI-driven tools to simplify the clinician experience.",
@@ -10,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 481,
+      "heat": 461,
       "tags": null,
       "images": [
         {
@@ -1100,160 +1248,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use.md",
-      "title": "56% of professionals are unsure if their companies have ethical guidelines for AI use",
-      "excerpt": "According to survey respondents in Deloitte's second edition Technology Trust Ethics Report, cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
-      "originalUrl": "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6ed4d46746b8ce488cfa33273df969d675a87905/2023/10/09/404b742e-6806-469b-8fb0-4478670a8ccd/gettyimages-1469902598.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
-      "publishedDateTime": "2023-10-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-the-case-for-chief-ai-officer-a-role-whose-time-has-come.md",
-      "title": "The Case For Chief AI Officer: A Role Whose Time Has Come?",
-      "excerpt": "“The case for a CAIO is simple,” they point out. “AI is still immature; hasn’t been proven in most enterprise settings; and needs many surrounding acts such as security, privacy, governance, provenance, ethicality, and truthfulness before it can offer real value to enterprises.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/amp/",
-      "publishedDateTime": "2023-10-09T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ai-may-give-boost-to-media-stocks.md",
-      "title": "AI may give boost to media stocks",
-      "excerpt": "The Communications Services Sector has performed well in 2023 and John Stoltzfus from Oppenheimer Asset Management expects that to continue. He believes the many of the companies in the sector will benefit from new technologies and particularly Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRCV00CEVK",
-      "originalUrl": "https://www.reuters.com/video/watch/idRCV00CEVK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20231004&i=RCV00CEVK&r=RCV00CEVK&t=2",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

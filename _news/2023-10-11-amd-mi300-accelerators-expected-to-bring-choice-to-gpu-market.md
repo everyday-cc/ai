@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-11T14:56:00Z
 originalUrl: "https://insidehpc.com/2023/10/amd-mi300-accelerators-expected-to-bring-choice-to-gpu-market/"
 webUrl: "https://insidehpc.com/2023/10/amd-mi300-accelerators-expected-to-bring-choice-to-gpu-market/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2023/10/AMD-MI300-1023.png"

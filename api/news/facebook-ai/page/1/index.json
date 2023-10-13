@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-12-can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails.md",
+      "title": "Can AI be taught to stop straying from its ethical guardrails?",
+      "excerpt": "Google, OpenAI and Anthropic want technology such as chatbots to learn from a ‘constitution’ to keep them from generating toxic content",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/",
+      "originalUrl": "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/resizer/z5f5z19tZhCvBxpQzfo7MQBM7aY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OD7XZHMFM5PL6B2UHHS4G6YTKQ.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
       "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
       "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
@@ -1306,58 +1350,6 @@
         "name": "KTBS",
         "domain": "ktbs.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-nasa-created-a-new-position-to-lead-ufo-research-and-appointed-somebody-but-wont-share-who-it-is.md",
-      "title": "NASA created a new position to lead UFO research and appointed somebody, but won't share who it is",
-      "excerpt": "NASA's new UFO (or UAP) research plan includes a chief of these mysterious phenomena. The agency is keeping the role anonymous because of harassment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nasa-appoints-ufo-research-chief-keeps-identity-secret-anonymous-2023-9",
-      "originalUrl": "https://www.businessinsider.com/nasa-appoints-ufo-research-chief-keeps-identity-secret-anonymous-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/650334a0992da60019ec778d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nasa-appoints-ufo-research-chief-keeps-identity-secret-anonymous-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nasa-appoints-ufo-research-chief-keeps-identity-secret-anonymous-2023-9?amp",
-      "publishedDateTime": "2023-09-14T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

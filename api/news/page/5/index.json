@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-10-56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use.md",
+      "title": "56% of professionals are unsure if their companies have ethical guidelines for AI use",
+      "excerpt": "According to survey respondents in Deloitte's second edition Technology Trust Ethics Report, cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "originalUrl": "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6ed4d46746b8ce488cfa33273df969d675a87905/2023/10/09/404b742e-6806-469b-8fb0-4478670a8ccd/gettyimages-1469902598.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/",
+      "publishedDateTime": "2023-10-09T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-the-case-for-chief-ai-officer-a-role-whose-time-has-come.md",
+      "title": "The Case For Chief AI Officer: A Role Whose Time Has Come?",
+      "excerpt": "“The case for a CAIO is simple,” they point out. “AI is still immature; hasn’t been proven in most enterprise settings; and needs many surrounding acts such as security, privacy, governance, provenance, ethicality, and truthfulness before it can offer real value to enterprises.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64066e2004e88f37218619bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/09/the-case-for-chief-ai-officer-a-role-whose-time-has-come/amp/",
+      "publishedDateTime": "2023-10-09T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-ai-may-give-boost-to-media-stocks.md",
+      "title": "AI may give boost to media stocks",
+      "excerpt": "The Communications Services Sector has performed well in 2023 and John Stoltzfus from Oppenheimer Asset Management expects that to continue. He believes the many of the companies in the sector will benefit from new technologies and particularly Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idRCV00CEVK",
+      "originalUrl": "https://www.reuters.com/video/watch/idRCV00CEVK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20231004&i=RCV00CEVK&r=RCV00CEVK&t=2",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-wm-motors-bankruptcy-highlights-challenges-faced-by-ev-startups-in-china.md",
       "title": "WM Motor’s bankruptcy highlights challenges faced by EV startups in China",
       "excerpt": "WM Motor, backed by Baidu and Tencent, was one of the most well-funded EV ... seat in its cars and has introduced a cellphone that interacts with the car’s self-driving system. Li Auto, which appears to be winning with a strong delivery streak this ...",
@@ -554,7 +708,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1092,143 +1246,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages.md",
-      "title": "OpenAI is reportedly developing its own chips to combat GPU shortages",
-      "excerpt": "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/93662/openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/3/93662_859_openai-is-creportedly-considering-developing-its-own-chips-to-combat-gpu-shortages_full.png",
-          "width": 1500,
-          "height": 842,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-the-synergy-between-uem-and-medical-device-risk-management.md",
-      "title": "The synergy between UEM and medical device risk management",
-      "excerpt": "Unified Endpoint Management (UEM) and medical device risk management have deep synergies. When a healthcare organization develops a risk management framework, cybersecurity is a must. \nThe post The synergy between UEM and medical device risk management appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
-      "originalUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/r_jofe160519-00040-01.l_2x1-e1688051935864.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T00:49:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-navigating-industry-40-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management.md",
-      "title": "Navigating Industry 4.0: How Artificial Intelligence and Robotics Are Revolutionizing Manufacturing and Supply Chain Management",
-      "excerpt": "This dynamic synergy between human ingenuity and cutting-edge technology is unlocking new horizons of efficiency, agility, and competitiveness., Technology & Science News, Times Now",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
-      "originalUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-104273267,thumbsize-25658,width-1280,height-720,resizemode-75/104273267.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/navigating-industry-4-0-how-artificial-intelligence-and-robotics-are-revolutionizing-manufacturing-and-supply-chain-management-article-104273235/amp",
-      "publishedDateTime": "2023-10-08T21:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

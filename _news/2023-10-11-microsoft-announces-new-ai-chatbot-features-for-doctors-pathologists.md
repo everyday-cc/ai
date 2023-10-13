@@ -231,20 +231,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 76
-  - title: "Microsoft prepares to unveil its AI Chips next month to reduce costs"
-    excerpt: "ALBAWABA - Microsoft is gearing up to reveal its artificial intelligence chips next month in a move aimed at cost reduction.The company, co-founded by b"
-    publishedDateTime: 2023-10-08T08:04:00Z
-    webUrl: "https://www.albawaba.com/business/microsoft-prepares-unveil-its-ai-chips-next-month-reduce-costs-1536932"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 71
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2023-10/Microsoft%20prepares%20to%20unveil%20its%20AI%20Chips%20next%20month%20to%20reduce%20costs.jpg?itok=w5D_NFg5"
-        width: 810
-        height: 540
-        isCached: true
   - title: "Microsoft On The Verge Of Unveiling Its First-Ever AI Chip"
     excerpt: "Regrettably, the tech publication did not divulge key details about the AI chip. Nevertheless, the move could be Microsoft's attempt to reduce its reliance on NVIDIA's GPU (graphics processing unit) chips. Notably, the widely popular NVIDIA GPUs have been ..."
     publishedDateTime: 2023-10-09T05:04:00Z
@@ -296,15 +282,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 66
-  - title: "Microsoft likely to unveil its first AI chip next month to cut Nvidia GPU costs"
-    excerpt: "Microsoft's data centre servers currently use Nvidia GPUs to power cutting-edge LLMs for cloud customers, including OpenAI and Intuit, as well as for AI features in Microsoft's productivity apps."
-    publishedDateTime: 2023-10-08T07:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/microsoft-likely-to-unveil-its-first-ai-chip-next-month-to-cut-nvidia-gpu-costs/articleshow/104256710.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 62
   - title: "Microsoft's AI Alignment Boosts Investor Confidence According to Morgan Stanley"
     excerpt: "Weiss highlights that the MS 3Q23 CIO survey suggests stabilization in IT spending growth in the near term, with expectations for 2023 holding at +2.7% YoY sequentially and early reads offering modest acceleration in 2024 at +3.4% (+64 bps YoY)."
     publishedDateTime: 2023-10-10T18:36:00Z

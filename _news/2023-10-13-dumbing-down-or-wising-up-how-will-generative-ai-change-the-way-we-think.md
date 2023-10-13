@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google’s AI-powered search experience can now generate images, write drafts"
+    excerpt: "Google's AI-powered search feature, SGE (Search Generative Experience), is gaining some new skills, starting today. The AI feature, which introduces a"
+    publishedDateTime: 2023-10-12T21:22:00Z
+    webUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/"
+    ampWebUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-search-labs-SGE-1.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Adobe unveils three new generative AI models, including the next generation of Firefly"
     excerpt: "On Tuesday, Adobe kicked off its annual Adobe MAX Creativity Conference by announcing its latest innovations, which included three new generative AI models: Firefly Image 2 Model, Firefly Vector Model, and Firefly Design Model. Also: Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
     publishedDateTime: 2023-10-10T16:00:00Z

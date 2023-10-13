@@ -2,6 +2,145 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-05-the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023.md",
+      "title": "The 3 Best Artificial Intelligence (AI) ETFs to Buy in 2023",
+      "excerpt": "Investing in artificial intelligence can be daunting for the retail investor. For starters, artificial intelligence is still in its early stages. That can make it difficult to have conviction ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-etfs-to-buy-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-why-your-ceo-needs-an-ai-education-now.md",
+      "title": "Why Your CEO Needs An AI Education — Now",
+      "excerpt": "CEOs, CFOs, CHROs, and COOs should also become well-versed in the power and potential of AI, Sohigian adds. “They can provide comprehensive thinking around employee experience, business agility, privacy and security, and openness through integration and extensibility.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651df2b8214ddd9eb4621a70/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/10/04/why-your-ceo-needs-an-ai-education---now/amp/",
+      "publishedDateTime": "2023-10-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-insight-in-australias-outback-indigenous-voice-proposal-struggles-to-inspire.md",
+      "title": "Insight: In Australia's Outback, Indigenous Voice proposal struggles to inspire",
+      "excerpt": "\"People say to me, 'What is the Voice about?' It's about recognition and listening so as to get better results. That's all it's about,\" Albanese said during a visit to the Northern Territory in August. The lack of specificity has been a refrain of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/",
+      "originalUrl": "https://www.reuters.com/world/asia-pacific/australias-outback-indigenous-voice-proposal-struggles-inspire-2023-10-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/investigates/special-report/assets/australia-indigenous/mastheads/australia_vote_01_copy.jpg?v=415616041023",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T16:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far.md",
       "title": "Arc browser is offering the most truly helpful spin on AI I've seen so far",
       "excerpt": "Arc browser decided it was time to throw its hat into the AI ring but opted to go a much different route than most browsers and it should pay off.",
@@ -1049,145 +1188,6 @@
         "Google AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-theres-a-new-squishy-robot-in-town-and-was-created-by-ai.md",
-      "title": "There's a new squishy robot in town, and was created by AI",
-      "excerpt": "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
-      "originalUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-the-ai-transformation-is-the-tip-of-the-tech-spear.md",
-      "title": "The AI Transformation Is The Tip Of The Tech Spear",
-      "excerpt": "The global artificial intelligence transformation is well underway, and investors have increasingly come around to the disruptive potential this technology carries both for personal and commercial uses. However, it won’t just be the end applications of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/10/04/the-ai-transformation-is-the-tip-of-the-tech-spear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643d4772a81bd24f0f0ab188/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-technology.md",
-      "title": "Lawsuit: Improper arrest due to misuse of facial recognition technology",
-      "excerpt": "A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial recognition technology, according to a civil lawsuit filed against the arresting police officers.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
-      "originalUrl": "https://abc7news.com/lawsuit-improper-arrest-due-to-misuse-of-facial-recognition-techno/13860699/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7 San Francisco",
-        "domain": "abc7news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

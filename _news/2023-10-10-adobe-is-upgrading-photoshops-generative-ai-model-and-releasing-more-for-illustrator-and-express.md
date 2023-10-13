@@ -68,7 +68,7 @@ related:
     provider:
       name: BGR
       domain: bgr.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://bgr.com/wp-content/uploads/2023/10/Google-SGE.jpg?quality=82&strip=all"
         width: 1790
