@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/arangographml-simp
 webUrl: "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541"
 type: article
 quality: 66
-heat: 86
+heat: 87
 published: true
 
 provider:

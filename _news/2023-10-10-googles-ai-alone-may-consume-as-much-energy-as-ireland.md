@@ -25,6 +25,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Artificial intelligence applications can use as much power as entire nations"
+    excerpt: "There is an increasing concern regarding the environmental impact of artificial intelligence and the energy consumed by AI applications."
+    publishedDateTime: 2023-10-10T18:28:00Z
+    webUrl: "https://www.earth.com/news/artificial-intelligence-applications-can-use-as-much-power-as-entire-nations/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 14
+
 secured: "JAtOfXEDJBZe11o8Y/lclXGk86Uj4j5ajRmtOjG+hY7XVx6zljonk66dMVYoG6U5D2Noz529NSMMCyEo08tU8JY3auRf2yqdXt57Dc4sSrTXmLApWfTaXkQfFrzwJekMhfzdV+aYA8gtzqd0T4WjwFHE4JcuRc6janmELtqmrkT4FZkda5DtB2hZG+fyTjZvilaseKMlmvFXeUYnADvx8nq4TcAEtZ/exSKvSRVsZ0J0ZBejuXQVmYxO52/25Nq4kCKdqjMEkIP4lQnUBseSkPp7UGZ8cB5sWC2QaI6Jm6o2KbjwKdb30riB4DU0k+0Lfw5RBJxxgUqklSd8vlSRNhyFYHaJKiW9HHCAIzFRfv0=;7dWHqzYVHw3yDboabWBt1A=="
 ---
 

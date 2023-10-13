@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/deals/amazon-gift-card-promotion-2021-how-to-get-1
 webUrl: "https://bgr.com/deals/amazon-gift-card-promotion-2021-how-to-get-10-free-right-now/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 3560
     height: 1800
     isCached: true
+
+related:
+  - title: "Amazon Prime Day 2023: the best deals still available today"
+    excerpt: "Prime Big Deal Days may be over but you can still bag these offers Amazon's inaugural Prime Big Deal Days sale is now over. The two-day sale - effectively a second Amazon Prime Day - ran from ..."
+    publishedDateTime: 2023-10-12T11:14:00Z
+    webUrl: "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "4R77eC+KqQsA7YqvjjHBVgCMMI4TOYuRBZFt3JN3IdhURtcz2cTYaUzFNMbzQTzQ3Dv7NitlDpBCFHET2wl4UjS873wyMwKkHILuaBuL5XrbY2K0sI0pVwwSvjQ/HwO8LSYDxQ+a1GaPac2XfQZ1jGKVAmoQEz1LSIvr9DDbYxeF3GQdOt12tPornGRtK2IJDhZCJQb7ipTrH7Q8DEBMVZMZ1DUGj8WU022Z4um9upzCP0VrW90JDOjqITccLVMnbL8zmBdSGFLPGZuBlE1D37mxRnZ13eReldK8JVmFGPwmnzTroeLaxhO2pFSCN+eZ89Zvju6NMn4DlJ007wY3QBf2rCd/mbHr2dGlcg4lDYI=;kF4J5H5Wd8iLY92Z7i7DBw=="
 ---

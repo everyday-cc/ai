@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/adobes-ai-ima
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/juSDWZIdLoDoZd2JCtjzRmsChtw=/0x0:2660x1500/1200x628/filters:focal(1330x750:1331x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24991431/Adobe_Max.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Google now lets you generate AI images by searching – here’s how to do it"
+    excerpt: "Google added two new features to its Search Generative Experience today, one of which allows users to create AI images on the fly."
+    publishedDateTime: 2023-10-12T22:48:00Z
+    webUrl: "https://bgr.com/tech/google-now-lets-you-generate-ai-images-by-searching-heres-how-to-do-it/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 36
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/10/Google-SGE.jpg?quality=82&strip=all"
+        width: 1790
+        height: 968
         isCached: true
 
 secured: "peHlzu82QqwHrr7BCyffd6RQrNe/7a6C66N0mA7qKfO1ryL21AZpbkbprQ/M7a/xk8hE5kmqpSnqoj2r5Fe1e6BduDLyujTfTMFImYyv3shO/gAAELHlMhTWcJEtJyUzJuGBLVg2tvEzza+clr6KQJ+iouQYW7RUAto+I6bHs2BT04Wz9kgL6RF1bMLurGJVD070qL8hF0pG/eUoqZUuNmcrFg8b+cjYrs4OqvmaK3nMh8Bt4yl4kgfdWerusp6MZIbMZffXJNlmgoeaI1441IHEfiTwd3OsypPs7P/BX3naM8qWL9A42007ETQ1u8aPMZJcHmGoIyXO33iQJVum2yq9OfrWFYn1nuTUXM29efsgA+BVGGLq9c4z6aZo+t4iIXAM8kGjE00vMjHY4C/tNbWPCBX2RzRZpxuQqC8D7ezAe7pYLI2kMD2TUkbd+3jwgXQXNhl4KjldOUMRxqfRUERjCvObzfOsB9SEIysNTH3w1PmR/8vr/PKYim51K3cvpOyjMi8fLJrWKylA5rqYqg==;bFyiQXKtUC6bz8l//V/gGA=="

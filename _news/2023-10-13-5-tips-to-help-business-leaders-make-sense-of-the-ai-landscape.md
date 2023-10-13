@@ -146,6 +146,15 @@ related:
       name: Law
       domain: law.com
     quality: 19
+  - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
+    excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
+    publishedDateTime: 2023-10-12T21:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231012406923/en/BlastX-Consulting-Launches-the-BlastX-AI-Innovation-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
   - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
     excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
     publishedDateTime: 2023-10-12T01:36:00Z

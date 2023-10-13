@@ -156,6 +156,15 @@ related:
       name: Law
       domain: law.com
     quality: 19
+  - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
+    excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
+    publishedDateTime: 2023-10-12T21:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231012406923/en/BlastX-Consulting-Launches-the-BlastX-AI-Innovation-Center"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "Bv3pSeGGeAqG6VLZODOeA2QEdIOHWZ6dfJMuntiL2pASGC1S5UP2fopYf2Brz1h1NEoKELnuEFut+qro+frTwUzMJbbYZfmwioR0NXxBwaiFeWStyz5PXJRoDuSDJbCetY2Vvq5ySnU7z/bbwD8yxy8FEU8Qfc1Ta18fYsGXJTo00bWKmc4gNM7aFOTOtW0ybXP4EOwZ9S3b4SvbrZaaUD3HDazzxEBlRggi8IFipBQqiVrAAA4nORYES3/x6neSq5YFNHY9DSQJtkGq9DpE60dnhAVqodF+6f8z/jkAfAvOShZ0a/CgNFaVZRocrrnmjMtpAgA/QZdyxReMBwJNp9Gniks6jc212L6Lo16pohk=;Fz7zHg1X9hdJtvJm9ylW6Q=="
 ---

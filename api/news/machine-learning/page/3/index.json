@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-17-deep-learning-for-biomedical-image-reconstruction.md",
+      "title": "Deep Learning for Biomedical Image Reconstruction",
+      "excerpt": "The background theory of deep learning is introduced step-by-step, and by incorporating modeling fundamentals this book explains how to implement deep learning in a variety of modalities, including X-ray, CT, MRI and others. Real-world examples demonstrate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/deep-learning-for-biomedical-image-reconstruction/2A1635D1602B85FF58D3672FBD8FD444",
+      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-for-biomedical-image-reconstruction/2A1635D1602B85FF58D3672FBD8FD444",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cambridge.org/97813165/17512/large_cover/9781316517512i.jpg",
+          "width": 448,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-2023-automated-machine-learning-automl-market-size-restricted-information-analysis-forecast-2031.md",
       "title": "2023 | Automated Machine Learning (AutoML) Market Size, Restricted Information Analysis Forecast 2031",
       "excerpt": "\"Automated Machine Learning (AutoML) Market| Outlook 2023-2031 | Pre and Post-COVID Research is Covered, Report Information | Newest 114 Pages Report The extent and overview of the various ...",
@@ -1344,40 +1387,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-efficient-training-for-artificial-intelligence.md",
-      "title": "Efficient training for artificial intelligence",
-      "excerpt": "The concept is known as neuromorphic computing. Although this sounds similar to artificial neural networks, it in fact has little to do with them as artificial neural networks run on conventional digital computers. This means that the software, or more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mpg.de/20826914/neuromorphic-computer",
-      "originalUrl": "https://www.mpg.de/20826914/neuromorphic-computer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Max Planck Society",
-        "domain": "www.mpg.de",
         "images": null,
         "publishers": null,
         "authors": null

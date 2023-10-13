@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-27-chemists-used-machine-learning-and-molecular-modeling-to-identify-potential-anticancer-drugs.md",
+      "title": "Chemists used machine learning and molecular modeling to identify potential anticancer drugs",
+      "excerpt": "RUDN University chemists and colleagues from China built several machine learning models and discovered a group of potential drugs that inhibit the enzyme responsible for uncontrolled cell division. The results were published in Biomedicines.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.html",
+      "originalUrl": "https://phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/chemists-used-ml-and-m.jpg",
+          "width": 2880,
+          "height": 1508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-chemists-machine-molecular-potential-anticancer.amp",
+      "publishedDateTime": "2023-09-26T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-a-reinforcement-learning-based-method-to-plan-the-coverage-path-and-recharging-of-unmanned-aerial-vehicles.md",
       "title": "A reinforcement learning-based method to plan the coverage path and recharging of unmanned aerial vehicles",
       "excerpt": "Unmanned aerial vehicles (UAVs), commonly known as drones, have already proved invaluable for tackling a wide range of real-world problems. For instance, they can assist humans with deliveries, environmental monitoring,",
@@ -1215,49 +1258,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-17-deep-learning-for-biomedical-image-reconstruction.md",
-      "title": "Deep Learning for Biomedical Image Reconstruction",
-      "excerpt": "The background theory of deep learning is introduced step-by-step, and by incorporating modeling fundamentals this book explains how to implement deep learning in a variety of modalities, including X-ray, CT, MRI and others. Real-world examples demonstrate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/deep-learning-for-biomedical-image-reconstruction/2A1635D1602B85FF58D3672FBD8FD444",
-      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-for-biomedical-image-reconstruction/2A1635D1602B85FF58D3672FBD8FD444",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cambridge.org/97813165/17512/large_cover/9781316517512i.jpg",
-          "width": 448,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T01:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

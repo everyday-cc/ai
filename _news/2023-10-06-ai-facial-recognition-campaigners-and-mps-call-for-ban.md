@@ -1,91 +1,26 @@
 ---
 category: news
 title: "AI facial recognition: Campaigners and MPs call for ban"
-excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ..."
-publishedDateTime: 2023-10-05T23:33:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-67022005"
-webUrl: "https://www.bbc.co.uk/news/technology-67022005"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-67022005.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67022005.amp"
+excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human rights, potential for discrimination and \"the lack of a democratic mandate\"."
+publishedDateTime: 2023-10-06T02:01:00Z
+originalUrl: "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html"
+webUrl: "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html"
 type: article
-quality: 74
-heat: -1
-published: false
 
 provider:
-  name: BBC
-  domain: bbc.co.uk
+  name: AOL
+  domain: aol.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
-    width: 1024
-    height: 576
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/656ea96363e253c179d5d40cd8be9320"
+    width: 976
+    height: 549
     isCached: true
 
-related:
-  - title: "Black man files lawsuit over misuse of AI facial recognition"
-    excerpt: "Black man files lawsuit against Atlanta area police in Dekalb County over arrest stemming from the misuse of AI facial recognition"
-    publishedDateTime: 2023-10-09T16:10:00Z
-    webUrl: "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/"
-    ampWebUrl: "https://bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2502144/black-man-files-lawsuit-over-misuse-of-ai-facial-recognition/amp/"
-    type: article
-    provider:
-      name: Bossip
-      domain: bossip.com
-    quality: 76
-    images:
-      - url: "https://bossip.com/wp-content/uploads/sites/28/2023/10/16968606202042.jpg?strip=all&quality=80"
-        width: 726
-        height: 481
-        isCached: true
-  - title: "This caller lacks 'trust' in the government's handling of the AI facial recognition debate"
-    excerpt: "As MPs call for a ban of AI facial recognition, this caller tells Shelagh Fogarty he \"does not trust\" the government with more powers."
-    publishedDateTime: 2023-10-06T14:55:00Z
-    webUrl: "https://www.lbc.co.uk/radio/presenters/shelagh-fogarty/this-caller-lacks-trust-in-the-governments-handling-of-the-ai-facial-recognition/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 44
-    images:
-      - url: "https://images.lbc.co.uk/images/608205?width=1200&crop=16_9&signature=xj7iBAsyP8gGYPxKZXtyiN3OuPo="
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "British lawmakers call for pause on use of live facial recognition"
-    excerpt: "A coalition of UK politicians from each major party along with rights groups have called for a halt to plans for live facial recognition use by police."
-    publishedDateTime: 2023-10-06T15:19:00Z
-    webUrl: "https://www.biometricupdate.com/202310/british-lawmakers-call-for-pause-on-use-of-live-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
-  - title: "Black man wrongfully arrested in DeKalb County, Georgia due to facial recognition tech: lawsuit"
-    excerpt: "All known cases of false arrests due to facial recognition technology were of Black or African American people, the ACLU said."
-    publishedDateTime: 2023-10-09T18:01:00Z
-    webUrl: "https://abc7news.com/randal-quran-reid-ai-artificial-intelligence-dekalb-county-georgia-ga/13860699/"
-    type: article
-    provider:
-      name: ABC7 San Francisco
-      domain: abc7news.com
-    quality: 27
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/13883139_100923-wls-n1-ai-wrongful-arrest-pkg-vid.jpg?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
-
-secured: "AlHiJHsXHoqbkL8pYzc2/lhg6uGIspmEde8bMfOB0Q9cU5zy0DHrILMuv0iDxlSGxqSfGZF2P8CcCd7LwrDdJ24GEv7LMbggNr+hwXTvh/WXU2YcrfABzBp1J16AWRxRAfl3I/nQ730I15AeM2penhF/f48FWCS96jRQdRy+5n4klsgKM6Sdd8iNkcZt+n043CKYFfIbIRZJm7BekvfVU7EScUwPOZLtteTiOgBgxIjnfLYQKLyYTe9/kBRkQhVFk9deDkeiUdn7U4Sr47Vss9X45XHu5kjwV9O+H5uHxXuzwuLLuQ++8gGOhVdauZyTmUvDZ44HAN00U6hiYgt7ghxsMggfDAKpiIjimZyCGlM=;TJMyd7m8xtq5CSW7eHyhBg=="
+secured: "Cn3qtk1+28Xcm+zRp6vs75vNb3zEM+/mteOxLOOerTk963cf79gSNh/qT+EskY/N0aP3eTAdDv4iM/dcryLP6bjDHk5P+d2or7JWodNZ5UFLeYCIWpEiOrThW8DMszdd5aRUmdKBvUj2k7zLsOecZPVhmulPigkTx9zed5mZSECv6m0h1AaoALXahE9daEz1XUJoQ26YuksTtRmUjEqY2ua0PQIEAgswOqIhmPSpNqDl8mLJWBf9XUJCL4kWgt6HxnsoGzfrN+IHfGRRYBdoIWyOwwj3mugjnI/4yKB0UQt3HWUR6gph8PCENCR8+HLuaUqFB87ZxEmu+tyGs/CEDXgc1ntmA8i1Lj0C9/eBjCU=;ozinrRDIFoNYGlsZfsMz2Q=="
 ---
 

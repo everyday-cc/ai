@@ -1,86 +1,170 @@
 ---
 category: news
 title: "BlastX Consulting Launches the BlastX AI Innovation Center"
-excerpt: "Human-centered designers, digital technologists, marketing experts, and experienced consultants are all contributing their knowledge to establish robust \"AI ethics\" guidelines around privacy, sensitive data usage, and the optimal use of AI across the ..."
-publishedDateTime: 2023-10-12T21:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35230587/blastx-consulting-launches-the-blastx-ai-innovation-center"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35230587/blastx-consulting-launches-the-blastx-ai-innovation-center"
-ampWebUrl: "https://www.benzinga.com/amp/content/35230587"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35230587"
+excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
+publishedDateTime: 2023-10-12T21:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231012406923/en/BlastX-Consulting-Launches-the-BlastX-AI-Innovation-Center"
+webUrl: "https://www.businesswire.com/news/home/20231012406923/en/BlastX-Consulting-Launches-the-BlastX-AI-Innovation-Center"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
 related:
-  - title: "Google claims their AI innovation far beyond rivals"
-    excerpt: "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged"
-    publishedDateTime: 2023-10-08T09:46:00Z
-    webUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news"
-    ampWebUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
+  - title: "Understanding the different types and kinds of Artificial Intelligence"
+    excerpt: "Early iterations of the AI applications we interact with most today were built on traditional machine learning models. These models rely on learning algorithms that are developed and maintained by data scientists. In other words, traditional machine learning models need human intervention to process"
+    publishedDateTime: 2023-10-12T09:00:00Z
+    webUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/"
     type: article
     provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg"
-        width: 1600
-        height: 1062
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/10/Understanding-the-different-types-and-kinds-of-Artificial-Intelligence.png"
+        width: 2400
+        height: 1260
         isCached: true
-  - title: "China Has an Authoritarian Edge in AI Innovation"
-    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
-    publishedDateTime: 2023-10-10T04:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
+  - title: "Putting citizens at the center of government services with AI"
+    excerpt: "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-09T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "Welcome to the AI gym staffed by virtual trainers"
+    excerpt: "Wall-to-wall LED screens, algorithms, and motion tracking sensors allow Lumin Fitness to offer supervised workouts with no human interaction."
+    publishedDateTime: 2023-10-09T08:51:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/LUMIN_STUDIO_3320_screen.jpeg?w=3000"
+        width: 3000
+        height: 1688
+        isCached: true
+  - title: "Ethics in the age of AI"
+    excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
+    publishedDateTime: 2023-10-12T06:29:00Z
+    webUrl: "https://thepeninsulaqatar.com/opinion/12/10/2023/ethics-in-the-age-of-ai"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 54
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20230920_1695204350-893.jpg?1695204350"
+        width: 999
+        height: 1000
+        isCached: true
+  - title: "These 7 Stocks Are Leading the AI Pack"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
+    publishedDateTime: 2023-10-11T10:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/these-7-stocks-are-leading-the-ai-pack-1032695805"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
+    excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
+    publishedDateTime: 2023-10-12T18:08:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/5-tips-to-help-business-leaders-make-sense-of-the-ai/463286"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
+  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
+    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
+    publishedDateTime: 2023-10-09T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 47
-  - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
-    excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
-    publishedDateTime: 2023-10-09T07:10:00Z
-    webUrl: "https://menafn.com/1107210557/Google-Cloud-Accelerating-Dealmakers-AI-Innovation"
+  - title: "Sunrise and sunset industries in the age of AI"
+    excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
+    publishedDateTime: 2023-10-10T16:50:00Z
+    webUrl: "https://www.manilatimes.net/2023/10/11/tmt-anniversary/sunrise-and-sunset-industries-in-the-age-of-ai/1913954"
+    type: article
+    provider:
+      name: manilatimes
+      domain: manilatimes.net
+    quality: 39
+    images:
+      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/10/09/251404.jpg"
+        width: 1200
+        height: 806
+        isCached: true
+  - title: "AI and the landscapes of Capability Brown – in pictures"
+    excerpt: "Digital artist Daniel Ambrosi has created an exhibition that interprets quintessentially English, eighteenth-century vistas with AI. The exhibition runs at the Robilant+Voena gallery in London from 6"
+    publishedDateTime: 2023-10-09T06:00:00Z
+    webUrl: "https://www.theguardian.com/technology/gallery/2023/oct/09/ai-and-the-landscapes-of-capability-brown-in-pictures"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 37
+    images:
+      - url: "https://i.guim.co.uk/img/media/6e9de231d72878b0c436fa21fec0fbb9acb918df/0_544_1523_913/master/1523.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11b020f56b11e8f96c1285eb5a2f8b7f"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
+    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
+    publishedDateTime: 2023-10-10T04:55:00Z
+    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
+    type: article
+    provider:
+      name: themediaonline.co.za
+      domain: themediaonline.co.za
+    quality: 37
+    images:
+      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
+        width: 700
+        height: 371
+        isCached: true
+  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
+    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
+    publishedDateTime: 2023-10-09T13:17:00Z
+    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
+  - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
+    excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
+    publishedDateTime: 2023-10-12T01:36:00Z
+    webUrl: "https://menafn.com/1107228825/Some-States-Already-Have-Indigenous-Advisory-Bodies-What-Are-They-And-How-Would-The-Voice-Be-Different"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 39
+    quality: 7
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?298297"
-        width: 431
-        height: 250
-        isCached: true
-  - title: "Processor and Software Innovations Empower Edge AI Applications"
-    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
-    publishedDateTime: 2023-10-09T14:36:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2023-10/11/TC_e8554image_story.jpg"
+        width: 960
+        height: 640
         isCached: true
 
-secured: "/UfC3wxNCYEFYLHMQDBC75pXSgrdlyUDHeTAMi9aG7xAtxnY51skOtXbTu0PTQlMZIcmsvItmWmQpJcCKSaCuh3IBBY6sOl2K4MG9ScpN96uvbqAoeZaB4w2BjiSp9XJjEy7KVA/Pxa+e65WLXxFt0Uap0Emx0eNgwGGebzrVS+xTXH5vvbBffHc7ANo+9hqBQeSpGw3srQNILxLAcWABicHi6b1OpyRibO3Scw3qbCGaT0KqY3rOG6kszgqfxmVndQLQ2fqbial6BjYeyuLeFsRSAOCB+0FhYKxDyaLZXTXTBQbPMZQSfBpPZU9/7yx7aFz2EFvbJNYhR4uuCmt0GNipvZ4P/yNSpiTD93BFLI=;+UyFDwe8xF1H21xgbd+0NQ=="
+secured: "7ym7lGP9FnYceHDz5Y10QT5A692cGXT4ikiAGT1Cf3WVlmBCXafJoGtSZC2xl/v5kBzk5zrikCdOtmKbCdB4LB3wMdqQXF/gzd9jyrJN/tb+YuV/bf3C5byFrEOG/1q9bKq8l1qGk1fL+ZMqkyaRa4ylYHLLKMF6FVkyDFPwIG00OT1DYMqO/U3R3bESI5EUYjtC1kGAOJh01ysrfuD3A+neb3jemHw7f9gbpHf3/cZUJ5p8hizROa5euKDGIT3xj/6GZWaUN2R+VoLJ1/tPHddTCfSI52udzXgKF/mFYz0sYLmX0B/ftdEJHpkQgvl7PK2R0DVKAxoDSyb1yJ/8zsskClyIOuJzW26nGG05tBljySVYtyYqsSXhj5J/TrPbt/sG8tTPRN4Xb1GZ/FSj9eddMxU5CbC+AiE1YbQzwuczF9LNgTEocBCN4Pp1pwJ2FG6jnseX1Iwdmv7OwrE+P3TvEHF4uYacnxgVLeyD3zs6pjIZrZiB5lmzcwIkdFAcazLlq4/Rh5v4whQUYiVQ+A==;T3yEY7PeUYMAjs4uIxeUuw=="
 ---
 

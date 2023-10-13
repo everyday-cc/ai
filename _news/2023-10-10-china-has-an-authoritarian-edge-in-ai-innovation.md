@@ -38,22 +38,6 @@ related:
         width: 1600
         height: 1062
         isCached: true
-  - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
-    excerpt: "Human-centered designers, digital technologists, marketing experts, and experienced consultants are all contributing their knowledge to establish robust \"AI ethics\" guidelines around privacy, sensitive data usage, and the optimal use of AI across the ..."
-    publishedDateTime: 2023-10-12T21:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35230587/blastx-consulting-launches-the-blastx-ai-innovation-center"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35230587"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35230587"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
     excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
     publishedDateTime: 2023-10-09T07:10:00Z

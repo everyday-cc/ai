@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-04-every-single-amazon-team-is-working-with-generative-ai-says-ceo.md",
+      "title": "‘Every single’ Amazon team is working with generative AI says CEO",
+      "excerpt": "He added that generative AI can help Amazon become “more cost-effective and streamlined in how we run operations and various businesses, to the absolute heart of every customer experience in which we offer” “It’s true in our AWS business,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/artificial-intelligence/every-single-amazon-team-is-working-with-generative-ai-says-ceo",
+      "originalUrl": "https://www.tvbeurope.com/artificial-intelligence/every-single-amazon-team-is-working-with-generative-ai-says-ceo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-salesforce-einstein-studio-lets-you-bring-your-own-model-starting-with-amazon-sagemaker.md",
       "title": "Salesforce Einstein Studio lets you bring your own model, starting with Amazon SageMaker",
       "excerpt": "The solution is really aimed at folks who have fairly sophisticated data teams and have been building models in other places like SageMaker. These companies want to put those models they’ve ...",
@@ -1341,58 +1375,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-better-artificial-intelligence-stock-apple-vs-amazon.md",
-      "title": "Better Artificial Intelligence Stock: Apple vs. Amazon",
-      "excerpt": "Additionally, Apple's stock has risen 301% over the last five years, while Amazon's has increased by 43%. The significant difference further solidifies Apple as the more reliable option and the better artificial intelligence stock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/26/better-artificial-intelligence-stock-apple-vs-amaz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740740/analyst-home-investor-stocks-trends.jpg",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
