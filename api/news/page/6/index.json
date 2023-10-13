@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-09-why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds.md",
+      "title": "Why Is Virtual Care Rehab Modernizing Healthcare In Leaps And Bounds?",
+      "excerpt": "This article discusses Virtual Care Rehab servicing patients at home and in rehabilitation centers, using advanced digital and AI technologies improving healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6522e9d9bf30e7138aed8b61/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/09/why-is-virtual-care-rehab-modernizing-healthcare-in-leaps-and-bounds/amp/",
+      "publishedDateTime": "2023-10-09T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-openai-is-reportedly-developing-its-own-chips-to-combat-gpu-shortages.md",
       "title": "OpenAI is reportedly developing its own chips to combat GPU shortages",
       "excerpt": "OpenAI, the world's leading artificial intelligence company, has hinted at powering its AI tools with in-house chips to combat the GPU shortage.",
@@ -1172,57 +1224,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.md",
-      "title": "The Valuation Reckoning: When AI Startup Darlings Hit Stratospheric Levels",
-      "excerpt": "It's been a wild year for AI companies – in the public market, where stocks like Nvidia have skyrocketed, but even more so in the private markets, where one in every four dollars invested in a startup is going to an AI-related company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107313066-16966232146ED2-TC-Weekly-100623.jpg?v=1696626139&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

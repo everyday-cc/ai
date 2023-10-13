@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepap
 webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Google claims their AI innovation far beyond rivals"
-    excerpt: "A company executive, while introducing their latest flagship smartphones, emphasized that Google's artificial intelligence technology has surged"
-    publishedDateTime: 2023-10-08T09:46:00Z
-    webUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news"
-    ampWebUrl: "https://www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
-    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/life/google-claims-their-ai-innovation-far-beyond-rivals/news/amp"
-    type: article
-    provider:
-      name: Daily Sabah
-      domain: dailysabah.com
-    quality: 59
-    images:
-      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/10/08/thumbs/800x531/295624.jpg"
-        width: 1600
-        height: 1062
-        isCached: true
-  - title: "China Has an Authoritarian Edge in AI Innovation"
-    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
-    publishedDateTime: 2023-10-10T04:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Google Cloud Accelerating Dealmaker's AI Innovation"
-    excerpt: "DealMaker is excited to announce that Google Cloud has selected DealMaker to join its Google for Startups Program. Google Cloud has awarded $100K in credits to accelerate DealMaker's AI innovation in the fintech space with their robust AI tools."
-    publishedDateTime: 2023-10-09T07:10:00Z
-    webUrl: "https://menafn.com/1107210557/Google-Cloud-Accelerating-Dealmakers-AI-Innovation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?298297"
-        width: 431
-        height: 250
-        isCached: true
 
 secured: "GWO12460M4eqDfseVuP4zzRaRxnMyQ19G8RPXGi4W9XotDHstlZcJw/+OstKvCYi2gjBiPFtlQ+R46/CRMzZKbTD7DFrw6Zidr+3/gQmQ8B9W/snFFHZa8CNbve2vXFX53ZcNiruTi4IfT5POMH/+sCslu/mAvX3fbGBwN0G7nxVzqmRILEsyWzc1gjmnmRGb2mVJohW1f3Nd/WOTNWzRZ5BHjbba95K4EsEYlkijJKYT1hCNlWwv886GchE4hji5sem4OiU2nXyWxXY2qjur68okccp0sFlfCD/iDDpn5t3VvjA7svb7rYn2Jd+EVNz2G2S8ABdZdjQdXfGf6Q12XCu/kJMGe2Tity2/QPjfe97RqmS5zR2XdnAnVQGA9AGTbHXEjmN4ZDzIp80oVbXKGsQ1nBr9eKGnetVLG5Vm24w/SYr8eZzTziiscbZfp8U7V6RqS72TUR56UgbppJvG2J7I3Mr2jEH8qIk93Z/4FL6IrZ/XLugHDJJOUrGohHyN2YWK9JukZNqlpnh8dXiTA==;S72V/qwW4PzhD20wAoI9YQ=="
 ---

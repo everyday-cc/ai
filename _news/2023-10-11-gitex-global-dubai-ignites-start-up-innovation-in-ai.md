@@ -9,7 +9,7 @@ ampWebUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-
 cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "China Has an Authoritarian Edge in AI Innovation"
+    excerpt: "The AI revolution gives us a good chance to test this idea. AI is perhaps the most important technological innovation in decades — with the capacity to revolutionize every aspect of our lives from pharmaceutical research to traffic flow."
+    publishedDateTime: 2023-10-10T04:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2023-10-10/china-has-an-authoritarian-edge-in-ai-innovation"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Respond.io to Showcase New Artificial Intelligence (AI)-powered Solutions at GITEX Global 2023"
     excerpt: "including healthcare, IT and SaaS, logistics, e-commerce and education. Concurrently, respond.io will also participate in Expand North Star Dubai, the world's largest global startup event, held at Dubai Harbour in conjunction with GITEX Global 2023."
     publishedDateTime: 2023-10-12T11:08:00Z

@@ -74,17 +74,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "AI start-up Staqu aims ₹400-500 crore revenue by 2028"
-    excerpt: "Staqu Technologies, an AI-based security and big data analytics service provider, aims to achieve significant revenue growth, targeting ₹400-500 crore by 2028 from ₹14 crore currently. The company’s product,"
-    publishedDateTime: 2023-10-08T09:45:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-start-up-staqu-aims-400-500-crore-revenue-by-2028/article67395712.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-start-up-staqu-aims-400-500-crore-revenue-by-2028/article67395712.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-start-up-staqu-aims-400-500-crore-revenue-by-2028/article67395712.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 37
   - title: "Indian-American teen's AI startup valued at Rs 100 cr"
     excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"
     publishedDateTime: 2023-10-11T16:38:00Z

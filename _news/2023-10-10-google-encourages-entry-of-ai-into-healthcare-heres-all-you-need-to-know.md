@@ -36,6 +36,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Your ultimate guide to the Voice ahead of polling day – everything you need to know"
+    excerpt: "The Yes campaign says a Voice to Parliament will provide better outcomes for Indigenous people as well as giving them formal recognition. It argues that the Voice needs to be constitutionally enshrined to make a “powerful statement” to recognise the ..."
+    publishedDateTime: 2023-10-13T03:27:00Z
+    webUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52"
+    ampWebUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 18
 
 secured: "ZddiQ9djLbm0Yb8brIwFQq9IuoPIkpogPYMYLdQnkDZryMUIXqGzP1dXiHKDl4Lfplf+ZFHewN0CEDPPAYSIyHhhvTGefaIKwd6zMwCNzVIUP2shdwrKVBeHvfKdr4+UE2kNTl2qInGnyrY6ATLE3PGG6U3BwSOYQc39HIvdZrsPppBTMf8NGMS7G5nTXb4VlBBqMOP/xo3i9o/CqRASc9A/E/upkqbp/JxReH6IM91Yf8Tx7PD7+tdFSyhI3m9dG5+KbSwOnLLjIAPTbZASx9WY/gNR6ftexa//26tbfv2g0hora3bo/AloS6iR69ysY6a3GFkPKF0WpwoxOyfkgLkiv/oO57ukYSlVTyVSoutSkuA9fW6MzqeXBvQ4wvUjAthbb/GjKo8eFughwjXrQm56CAI72xzy3RhlWDpGU+cl3/i7uw9/ezzC7kGoH4lY2BITpwjRdJm1VdqTeCq2o5tAB2ov5kyCdyaJpMzj2wcw5CfnRrIAlGVfX3Wv7DroZ6XVBC5mcBOVlTxinFcUJw==;J77/rfcrrfp5NY+lL/oCXQ=="
 ---

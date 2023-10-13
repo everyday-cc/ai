@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-12T21:23:00Z
 originalUrl: "https://www.cnbc.com/2023/10/13/artificial-intelligence-deepwater-is-bullish-on-this-ai-stock.html"
 webUrl: "https://www.cnbc.com/2023/10/13/artificial-intelligence-deepwater-is-bullish-on-this-ai-stock.html"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107310736-1696346465449-gettyimages-1302950659-rsrobotermacbookaischreibend2_0168.jpeg?v=1697153034&w=1920&h=1080"

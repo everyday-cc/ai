@@ -24,6 +24,22 @@ images:
     height: 801
     isCached: true
 
+related:
+  - title: "For an active boycott of the Voice referendum! Build a socialist movement of the working class against war and austerity!"
+    excerpt: "The referendum will solve nothing. The key issue is building a movement against the the entire political establishment, and its program of war, austerity and dictatorship."
+    publishedDateTime: 2023-10-13T03:44:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/10/13/kudi-o13.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 14
+    images:
+      - url: "https://www.wsws.org/asset/8fa27e59-075a-46b3-a1f7-3d6d9473b4e4?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
+
 secured: "LEn8pEG0yYIhAiCkvuApi1op+gR9NrBva4S65L9Tj/4cEyrl0NWIOAIMFN9Gm3V/h9ipqzf5z63gebRuP3nQFpM4KCCbB5w/bhHsW9m0UsahzqL+o7dhz0L5ZVJgnlgyrAdZ/bjra2zPukWP9RtiHsuz0V4jq0VIrL9GTKECHZcGB2rRuzU1bbi7BxxpFSbA+uGR00NoAPDtt8cUpaZF+fH4gwvbE8FKHFTDq1dAgXzZdp/+QVWXgcfpG7pEmRLNhU+up52n9tVk824uzpyyue7VKs9thLgd/SlCAU5IP+GFQqxmLGhF3Cgzge6bRMQ4mMJoba+tdwycAKspyy2yEeID9SFZ3cSCrpPNZjUglkCQ8nuy0aPzRSLThE+G1x3oigpWoiu4RSCF+m2+4X6/zD792KxY211LDjey3c0+VnQEPQ2z+ZOyzxvzdYCm1aBCJhFKaZFa5qoZUmO8sZ0Wx1F7pbWIkuOOSEJ/WCSA6AUjtt43fvpEdG6UDBLUJ9sGk0IdkeFFh1WZcWR9QhhEdQ==;RoamII07tjjGuDEwIZWW5w=="
 ---
 

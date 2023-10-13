@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-11-qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd.md",
+      "title": "Qualcomm Teases Snapdragon X Chips As AI PC Battle Heats Up With Intel And AMD",
+      "excerpt": "Qualcomm said its upcoming Snapdragon X chips for PCs will contain the legally contested custom Oryon CPU design, setting the stage for increased rivalry against Intel and AMD.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd",
+      "originalUrl": "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0286-192f082325ad-5882241986fe-1000/snapdragon.jpg.jpeg",
+          "width": 600,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart.md",
       "title": "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart",
       "excerpt": "Today, we’re excited to announce that the OpenAI Whisper foundation model is available for customers using&nbsp;Amazon SageMaker JumpStart. Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680 thousand hours of labelled data, Whisper models demonstrate",
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 461,
+      "heat": 451,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1239,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-us-tech-company-raises-funding-to-build-swarming-robot-boats.md",
-      "title": "U.S. Tech Company Raises Funding To Build Swarming Robot Boats",
-      "excerpt": "Drone boat makers Saronic today announced today a new funding round to help develop and mass-produce large numbers of autonomous boats for the U.S. Navy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65250764b82b860c469297a6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
-      "publishedDateTime": "2023-10-10T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

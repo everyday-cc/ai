@@ -387,41 +387,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-06-3-machine-learning-stocks-ready-to-make-a-move-higher.md",
-      "title": "3 Machine Learning Stocks Ready to Make a Move Higher",
-      "excerpt": "The post 3 Machine Learning Stocks Ready to Make a Move Higher appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-10-06-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform.md",
       "title": "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform",
       "excerpt": "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility.",
@@ -1380,6 +1345,41 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Research Report 2023-2030 | 104 Pages Report",
+      "excerpt": "The Machine Learning as a Service (MLaaS) market has witnessed ... the analysis encompasses ongoing advancements and pivotal financial metrics. Readers will also have the opportunity to access ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34751304/machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34751304/machine-learning-as-a-service-mlaas-market-research-report-2023-2030-104-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-13T00:11:00Z
 originalUrl: "https://menafn.com/1107234904/Artificial-Intelligence-Chip-Market-To-Reach-3837-Billion-By-2032-Growing-At-A-CAGR-Of-382-From-2023-To-2032"
 webUrl: "https://menafn.com/1107234904/Artificial-Intelligence-Chip-Market-To-Reach-3837-Billion-By-2032-Growing-At-A-CAGR-Of-382-From-2023-To-2032"
 type: article
-quality: 34
+quality: 38
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ topics:
   - AI in Healthcare
   - AI
   - AI Hardware
+  - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288675"

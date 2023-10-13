@@ -34,7 +34,7 @@ related:
     provider:
       name: Fox Business
       domain: foxbusiness.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/6801cf17-fb43-4b54-a0a2-5152f049a135/5adf064a-38a2-4e61-a23a-1ce012253de7/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         width: 1024

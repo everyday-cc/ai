@@ -2,6 +2,50 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-09-23-artificial-intelligence-ai-chips-market-2023-2030-a-business-intelligence-solution-99-pages-report.md",
+      "title": "Artificial Intelligence (AI) Chips Market [2023-2030]| A Business Intelligence Solution| 99 Pages Report",
+      "excerpt": "The Artificial Intelligence (AI) Chips Market experienced substantial growth, increasing from USD million to USD million between 2017 and 2022. Projections suggest a CAGR of Percent, expected to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34836807/artificial-intelligence-ai-chips-market-2023-2030-a-business-intelligence-solution-99-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34836807/artificial-intelligence-ai-chips-market-2023-2030-a-business-intelligence-solution-99-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-developments-112-pages.md",
       "title": "AI in Computer Vision Market Analysis 2023 | Size with Share in Report by Top Key Players, Future Developments | 112 Pages",
       "excerpt": "2023 AI in Computer Vision Market Overview: Insights on [ Automotive, Sports and Entertainment, Consumer, Robotics and Machine Vision, Healthcare, Security and Surveillance, Agriculture ...",
@@ -1109,57 +1153,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-generative-ai-is-breathing-new-life-into-classic-computer-games.md",
-      "title": "Generative AI Is Breathing New Life Into Classic Computer Games",
-      "excerpt": "Generative AI has the potential to revolutionize every creative industry ... Stroll through a forest in even a very recent video game, and if you pay attention, you might start to notice that there’s only a small number of individual tree models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
-      "publishedDateTime": "2023-09-21T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

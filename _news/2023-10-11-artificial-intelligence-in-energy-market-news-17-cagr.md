@@ -33,7 +33,7 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 34
+    quality: 38
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288675"
         width: 375

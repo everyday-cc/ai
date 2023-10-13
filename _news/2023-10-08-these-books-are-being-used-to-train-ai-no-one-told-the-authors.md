@@ -86,36 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Question Is That If Men Are Daily Thinking About The Roman Empire Is Generative AI Doing Likewise"
-    excerpt: "A viral trend online is that men are supposedly thinking daily about the Roman Empire. If so, this begs the question of whether generative AI might be doing likewise."
-    publishedDateTime: 2023-10-08T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/08/the-question-is-that-if-men-are-daily-thinking-about-the-roman-empire-is-generative-ai-doing-likewise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6521ee8968080657cb125249/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The perils of artificial intelligence"
-    excerpt: "especially when AI is used in critical applications like health care diagnosis or autonomous vehicles. Ensuring transparency and interpretability in AI systems is crucial to building trust and accountability. Artificial Intelligence undoubtedly holds ..."
-    publishedDateTime: 2023-10-08T10:00:00Z
-    webUrl: "https://www.thegazette.com/business/the-perils-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 41
-    images:
-      - url: "https://imengine.public.prod.cdr.navigacloud.com/?uuid=6a3ea25d-1e11-5792-b9d1-8d951194b683&type=preview&q=75&width=1200&height=800"
-        width: 640
-        height: 800
-        isCached: true
   - title: "The Increasing Impact of Artificial Intelligence on Energy"
     excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."
     publishedDateTime: 2023-10-11T15:19:00Z

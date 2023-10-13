@@ -2,6 +2,57 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-09-08-underestimated-unprepared-are-we-ready-for-the-next-stage-of-ai.md",
+      "title": "Underestimated & Unprepared: Are We Ready For The Next Stage Of AI",
+      "excerpt": "Are we grossly underestimating AI's potential? In my mind, yes we are. The global community is largely unprepared for the magnitude of change AI might bring",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa3bf75688348511f9e2c7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/amp/",
+      "publishedDateTime": "2023-09-07T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-why-business-partnerships-are-vital-for-achieving-a-true-ai-renaissance.md",
       "title": "Why business partnerships are vital for achieving a true AI renaissance",
       "excerpt": "Explore the transformative power of generative AI and the role of collaboration in driving its adoption.",
@@ -1151,49 +1202,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-self-driving-car-revolution-is-coming-but-slowly.md",
-      "title": "Self-driving car revolution is coming, but slowly",
-      "excerpt": "MUNICH - In Munich, where this week's IAA motor show is taking place, an interactive street survey elicits an overwhelming \"yes\" when asking passers-by if they would take a self-driving taxi from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.enca.com/opinion/self-driving-car-revolution-coming-slowly",
-      "originalUrl": "https://www.enca.com/opinion/self-driving-car-revolution-coming-slowly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enca.com/sites/default/files/styles/large/public/afp/2023-09/doc-33UF3KC-copy-%40photo0.jpg.webp?itok=digVIs_e",
-          "width": 480,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eNCA",
-        "domain": "enca.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

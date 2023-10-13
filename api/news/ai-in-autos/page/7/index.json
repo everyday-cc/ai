@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-15-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
+      "excerpt": "MIAMI, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College (Wolfson Campus) in Miami. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032552838",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032552838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-robomart-is-banking-on-store-hailing-to-bring-self-driving-stores-directly-to-customers.md",
       "title": "Robomart is banking on ‘store-hailing’ to bring self-driving stores directly to customers",
       "excerpt": "Los Angeles–based firm Robomart is announcing a $2 million seed round, putting its to-date funding at $3.4 million.",
@@ -1232,49 +1276,6 @@
       "provider": {
         "name": "Fox Business",
         "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-self-driving-taxi-service-coming-to-texas-with-driverless-cars.md",
-      "title": "Self-driving taxi service coming to Texas with driverless cars",
-      "excerpt": "Have you ever wanted to hop in a driverless car? Waymo, a self-driving taxi company, has announced its expansion to Texas bringing its fleet of autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
-      "originalUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/08/932/470/waymo.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp",
-      "cdnAmpWebUrl": "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/news/self-driving-taxi-service-coming-to-texas-with-driverless-cars.amp",
-      "publishedDateTime": "2023-08-03T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRIV",
-        "domain": "fox26houston.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,60 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-08-11-ibm-plans-to-make-llama-2-available-within-watsonxai-platform.md",
+      "title": "IBM Plans to Make Llama 2 Available within watsonx.ai Platform",
+      "excerpt": "IBM makes plans with Meta's Llama 2. Plus, why open source may or may not be a differentiator in generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
+      "originalUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg",
+          "width": 1400,
+          "height": 884,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-10T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-black-hat-2023-keynote-navigating-generative-ai-in-todays-cybersecurity-landscape.md",
       "title": "Black Hat 2023 Keynote: Navigating Generative AI in Today’s Cybersecurity Landscape",
       "excerpt": "Discover the challenges AI will bring to cybersecurity and the opportunities and future implications of security in an AI-dominated world.",
@@ -1162,57 +1216,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-biden-floats-nearly-20m-in-prizes-for-ai-tools-that-secure-us-computer-code.md",
-      "title": "Biden floats nearly $20M in prizes for AI tools that secure US computer code",
-      "excerpt": "The White House announced a competition that will award monetary prizes to teams that develop AI-powered tools to protect critical U.S. computer code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code",
-      "originalUrl": "https://www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9701d44a-1444-4956-902f-20d2fde42b67/44ffe35d-8225-4400-a110-20e3b019da52/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-floats-prizes-ai-tools-secure-computer-code.amp",
-      "publishedDateTime": "2023-08-10T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

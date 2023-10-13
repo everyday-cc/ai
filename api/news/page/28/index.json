@@ -2,6 +2,40 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-09-20-deep-genomics-to-present-at-the-2023-elevate-festival.md",
+      "title": "Deep Genomics to Present at the 2023 Elevate Festival",
+      "excerpt": "Brendan’s remarks, titled Beacons of Hope: AI in Medicine will highlight recent advances in the use of Artificial Intelligence (AI) and deep learning for drug discovery. As the inventor of one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230920974425/en/Deep-Genomics-to-Present-at-the-2023-Elevate-Festival",
+      "originalUrl": "https://www.businesswire.com/news/home/20230920974425/en/Deep-Genomics-to-Present-at-the-2023-Elevate-Festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-google-deepminds-ai-tool-could-pinpoint-our-genetic-faults.md",
       "title": "Google DeepMind’s AI Tool Could Pinpoint Our Genetic Faults",
       "excerpt": "Case in point: new work by Alphabet’s AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease. Get a curated selection of 10 of our best stories in your ...",
@@ -1099,40 +1133,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-artificial-intelligence-in-online-casinos.md",
-      "title": "Artificial Intelligence in Online Casinos",
-      "excerpt": "There seems to be a new kid on the block, one everyone talks about and yet, nobody really knows what it is or what it does. It’s called artificial",
-      "sourceUrl": null,
-      "webUrl": "https://macsources.com/artificial-intelligence-in-online-casinos/",
-      "originalUrl": "https://macsources.com/artificial-intelligence-in-online-casinos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "macsources.com",
-        "domain": "macsources.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

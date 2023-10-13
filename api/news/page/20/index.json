@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-09-26-a-simple-eye-exam-could-explain-why-females-are-underdiagnosed-with-autism.md",
+      "title": "A Simple Eye Exam Could Explain Why Females Are Underdiagnosed With Autism",
+      "excerpt": "Females are often underdiagnosed with being on the autism spectrum because they often mask their symptoms more successfully than males. The key to understanding why may be in a simple eye exam.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/diagnostics/news/a-simple-eye-exam-could-explain-why-females-are-underdiagnosed-with-autism-379236",
+      "originalUrl": "https://www.technologynetworks.com/diagnostics/news/a-simple-eye-exam-could-explain-why-females-are-underdiagnosed-with-autism-379236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/379236/a-simple-eye-exam-could-explain-why-females-are-underdiagnosed-with-autism-379236-640x360.jpg?cb=20230926",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai.md",
       "title": "Infosys and Microsoft collaborate to drive adoption of generative AI",
       "excerpt": "Infosys has joined forces with Microsoft to jointly develop industry-leading solutions to accelerate and democratize industry-wide adoption of generative AI. The integrated solutions will leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services to help businesses increase productivity and drive new revenue growth.",
@@ -995,49 +1038,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-driverless-ice-cream-trucks-3d-avatar-booths-hangzhou-shows-off-tech-innovations-at-asian-games.md",
-      "title": "Driverless ice cream trucks, 3D avatar booths: Hangzhou shows off tech innovations at Asian Games",
-      "excerpt": "The city of 12 million is using the Asian Games as a window to showcase China’s cutting-edge technologies, including big data, artificial intelligence, and virtual reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/asia/asian-games-hangzhou-technology-innovation-3797816",
-      "originalUrl": "https://www.channelnewsasia.com/asia/asian-games-hangzhou-technology-innovation-3797816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--DOOQoOm4--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2023/09/26/screenshot_2198.png?itok=8MYxyMd8",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -1125,6 +1125,49 @@
       ]
     },
     {
+      "path": "_news/2023-09-26-computer-visions-next-breakthrough.md",
+      "title": "Computer vision's next breakthrough",
+      "excerpt": "The first computer vision use cases in the 1950s analysed typed versus handwritten text. Early commercial applications focused on single images, including optical character recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/708899/computer-vision-next-breakthrough/",
+      "originalUrl": "https://www.arnnet.com.au/article/708899/computer-vision-next-breakthrough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/computer_1.jpg",
+          "width": 504,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-toshiba-develops-worlds-first-lidar-with-999-tracking-accuracy.md",
       "title": "Toshiba Develops World's First LiDAR with 99.9% Tracking Accuracy",
       "excerpt": "Toshiba Corporation (TOKYO: 6502), has announced world-first *1  advances in LiDAR: technologies that secure an unmatched accuracy of 99.9% *2  in object tracking and object recognition of 98.9% with data acquired by the LiDAR alone.",
@@ -1249,40 +1292,6 @@
       "provider": {
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031.md",
-      "title": "AI in Computer Vision Market Size (New Report) Forecast Report 2023-2031",
-      "excerpt": "Short Summery About AI in Computer Vision Market: The AI in Computer Vision market has witnessed a growth from USD million to USD million from 2017 to 2023. With a CAGR of Persent, this market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34873480/ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34873480/ai-in-computer-vision-market-size-new-report-forecast-report-2023-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34873480",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34873480",
-      "publishedDateTime": "2023-09-25T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

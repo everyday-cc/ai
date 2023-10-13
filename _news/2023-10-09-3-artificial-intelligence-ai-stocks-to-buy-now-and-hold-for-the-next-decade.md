@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Hedge Fund Investor Bill Ackman Just Loaded Up on This Top Artificial Intelligence (AI) Stock"
-    excerpt: "Last week, renowned hedge fund manager Bill Ackman spoke at length about a new position in his portfolio. As it turns out, Silicon Valley investors are not the only ones looking to capitalize on the rising popularity of artificial intelligence (AI)."
-    publishedDateTime: 2023-10-08T10:46:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/08/secretive-hedge-fund-investor-bill-ackman-just-loa/"
+  - title: "This Magnificent High-Yield Dividend Stock Is Actually an Under-the-Hood Artificial Intelligence (AI) Play"
+    excerpt: "Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, top-rated podcasts, and non-profit The Motley Fool Foundation."
+    publishedDateTime: 2023-10-12T09:52:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/12/high-yield-dividend-stock-artificial-intelligence/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 71
+    quality: 64
     images:
-      - url: "https://g.foolcdn.com/editorial/images/749674/gettyimages-1483272785-4.jpg"
-        width: 5530
-        height: 3111
+      - url: "https://g.foolcdn.com/editorial/images/750107/cell-tower-worker.jpg"
+        width: 2121
+        height: 1414
         isCached: true
 
 secured: "lg5tXpKN6B56+vkZWcQOV6eIPiQd09jnhifKh34VRnKhirT/qE16+8wlYwfhBELOPdNnufANrbppr8OZ9Oln4EvXPxDxeKOJk74nYx9ek8Nj6k0xyV+XZ7UahMZyfodPkEgq7Ob8SkBR7SskXMAZA6HZaqYZUWIeS3pDVs9osRa7b6fuF3RNJ/TX7Pe9Ymt0wSdcA3GDbcIU4iSxovdPUxpgE/5H0+xmyHD77tpL6xOrZsLUgh9+rxxyZtcF361akKeccVnuWNEf6NwmBGBZrK09wVCdQzD345UBZd49WX5k7c+yJfC28pjqMeq1K93lTJvtE6Xpi+pT3MCGFoOA0olD7/16ctrK7RFHYupJHu0=;iYaXjQFJrvYoHR9v8P9ixw=="

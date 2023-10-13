@@ -2,6 +2,59 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2023-08-18-the-30-young-leaders-who-are-forging-a-new-future-for-the-healthcare-industry-in-2023.md",
+      "title": "The 30 young leaders who are forging a new future for the healthcare industry in 2023",
+      "excerpt": "Christie also advises state and private organizations on increasing access to midwifery services and helped push for a Rhode ... dark glasses and headphones she's designing for people with mild cognitive impairment, Alzheimer's, and Parkinson's.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
+      "originalUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64dd439b4ef9f30019f8a662?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-intriguing-results.md",
       "title": "Moemate’s AI avatar analyzes your whole screen, with spotty but intriguing results",
       "excerpt": "Moemate is a new app that lets large language models including Anthropic's Claude and GPT-4 'read' what's on your PC's screen.",
@@ -1174,49 +1227,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-google-expanding-ai-capabilities-with-life-advice-tool-report.md",
-      "title": "Google expanding AI capabilities with life advice tool: Report",
-      "excerpt": "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "publishedDateTime": "2023-08-17T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

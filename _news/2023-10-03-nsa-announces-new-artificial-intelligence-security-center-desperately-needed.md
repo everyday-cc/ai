@@ -21,6 +21,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Security
+  - AI in Autos
 
 images:
   - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1"

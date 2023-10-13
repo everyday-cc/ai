@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static01.nyt.com/images/2023/10/05/multimedia/05SP-DEMOCRACY-AI-INYT-zflb/05SP-DEMOCRACY-AI-INYT-zflb-facebookJumbo.jpg"

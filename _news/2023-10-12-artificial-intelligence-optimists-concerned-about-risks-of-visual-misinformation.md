@@ -40,6 +40,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Generative AI in the Contact Center: Uses, Benefits, Best Practices"
+    excerpt: "Read on to learn how generative AI is being used in contact centers now and how it can benefit contact centers that adopt the technology with security, ethics, and other best practices in mind. Though most people think of generative AI in the context of ..."
+    publishedDateTime: 2023-10-12T21:33:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-contact-center/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231012-ai-contact-center.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Behind the Prices: Is Generative AI Legal Tech Cheaper to Buy or Build?"
     excerpt: "The costs to run or buy generative AI-powered tools can be considerable, but there are no easy ways of getting around them."
     publishedDateTime: 2023-10-12T19:57:00Z

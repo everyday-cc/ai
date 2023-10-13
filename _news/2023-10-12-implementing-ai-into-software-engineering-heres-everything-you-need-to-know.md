@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/implementing-ai-into-softwa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
 type: article
 quality: 86
-heat: 97
+heat: 108
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
       name: MediaNama
       domain: medianama.com
     quality: 34
+  - title: "Your ultimate guide to the Voice ahead of polling day – everything you need to know"
+    excerpt: "The Yes campaign says a Voice to Parliament will provide better outcomes for Indigenous people as well as giving them formal recognition. It argues that the Voice needs to be constitutionally enshrined to make a “powerful statement” to recognise the ..."
+    publishedDateTime: 2023-10-13T03:27:00Z
+    webUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52"
+    ampWebUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 18
 
 secured: "jLEVbb61nz29TYGa5s/MJ6kHRwHePenv503pkJ5e5iHX+qlpzwnrAdEb8kyA73Xo794K3Y+kiLuUJKOanxnWJRN3k6Nh56SgPKlK+vRE0F+aD/x13uK55nZ9c0XfzdUpxusONwiRv5whOQdP3Tf5l/5EgbRgUtHFY3qSJBVuo2P3O1MCTFNsfka4bSUV7QpwYogmq3wwfoLFcXQHTm3grKRam7b8+NZcbDLRl6HaLZPXguVc6vgFEAfkuV/WrUG2uDphZ/g4o5xoy54omSvWSeJUob26ItLygkiS36WL1GYtOeOnjao4STHM32UwupVKCsMVvRceXLZV4KFfQMHp4PoCJoilDN9lwJOIju0wQ0ICrtOHFZk0LwZHQkzvPnfzadcTxN7woaBbx+UFE4TLRiPqVkOwBdODy2gTkEMv5PyAfzJ4SC1qc/8IWeWKtgChvIwIRPjClv26onZB7qQq1c+ZmdthW/rLdiV/8u4gn97xC3HQQ/0mELpwllo/MWrgnE3bFc0Q/9TmsTDpKphbpw==;g24mvzpKeGXplVuZf2u/Xg=="
 ---

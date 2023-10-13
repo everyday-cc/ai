@@ -48,6 +48,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
+    excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
+    publishedDateTime: 2023-10-13T03:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214226-fintech-carefull-secures-16-5m-to-scale-financial-safety-platform-for-older-adults/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "m9Qc1viWogsSNeRQ2FbDQshqyu4hxgeCnmf8yV8u5goOZkiTex1J4KWMIOwxYfLRw3174ziIaRS5uXuGGvSR8SJIyzpBNYmD0awOCep+SL4hSHQpEidS7yfSXFORTb+CDWDGZDWOmvKU9cQNQTNNohPGJNYLPsIhG31ivGiBiu12xK2A4Eytp7OGjuzOS5fuEzKwxNz6gOHYpuVeR8lO+JwBnYFbqqbM4czOAcFLFm0ZJ0CML7J5PQ9+rMQquuHrfdmh+gBkqAKL4ZkYsupR5ABCmCrnIN660ZqGkcoJjV3or/bFVBl76KMeImYsQ8vSitvMu/s3j64RmaPi4QC6FT6tYE+GfTpAZ3xzJ6SXq2BE16/aPkrdBd5CVrgVmvAHdKN9al+bQhZCb3oxdXT2JPZBCunfWfmxUaPjvMYjTZ2HJuv4k+maNfmDyh7IdJtJxD7X2PkROgyeUWV9DmDgqhiVriscRwppA80RpZDXHZqEfBcFf95aQabXMI8uR8/UkzmpGUT28a6JjyXxMvsrkQ==;Jw+pYJ/uxB/HpyYIXRYNUw=="
 ---

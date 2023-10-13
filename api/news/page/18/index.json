@@ -2,6 +2,59 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-09-27-chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines.md",
+      "title": "‘ChatGPT for robots’: Microsoft vets lead new startup that helps create instructions for machines",
+      "excerpt": "The product includes an AI foundation model for robotics, synthetic data generation, and a tool for orchestration, training, and fine tuning. For example, customers can use the startup’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "originalUrl": "https://www.geekwire.com/2023/chatgpt-for-robots-microsoft-vets-lead-new-startup-that-helps-create-instructions-for-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/09/90649193-B6A1-4701-9A67-B11908DA337B_4_5005_c.jpeg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-one-hour-training-is-all-you-need-to-control-a-third-robotic-arm-study-finds.md",
       "title": "One-hour training is all you need to control a third robotic arm, study finds",
       "excerpt": "A new study has found that people can learn to use supernumerary robotic arms as effectively as working with a partner in just one hour of training.",
@@ -984,49 +1037,6 @@
       "provider": {
         "name": "cio.economictimes.indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-infosys-and-microsoft-join-hands-to-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys and Microsoft Join Hands To Democratize Industry-Wide Adoption of Generative AI",
-      "excerpt": "Indian IT major Infosys has announced that it is collaborating with Microsoft to jointly develop industry leading solutions that leverage Infosys Topa",
-      "sourceUrl": null,
-      "webUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "originalUrl": "https://www.indianweb2.com/2023/09/infosys-and-microsoft-join-hands-to.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFFLsiJOlqlptOI48CVvv-0OczpUnQhYpn0WZHLfAqik3sppqZy3_VWIbPmHOr8GZMR9VtTBBzbfCaEYXsG6uAI-F7YzTV5leJ1aSlWAY2moHi45p6DPFRrl4qlR1uZD8oKnnuZKp-p2Cu4Uvjet2m_GRpJwnfQdUpC2_DqemjLzNNNH_xb0m_w4bmXYs/s16000/infosys_microsoft.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "indianweb2.com",
-        "domain": "indianweb2.com",
         "images": null,
         "publishers": null,
         "authors": null

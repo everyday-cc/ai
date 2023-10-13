@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
 type: article
 quality: 121
-heat: 461
+heat: 451
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-08-image.jpg"
         width: 1100
         height: 733
-        isCached: true
-  - title: "Microsoft to debut its first AI chip next month to reduce reliance on Nvidia"
-    excerpt: "Tech giant Microsoft is likely to unveil its first artificial intelligence (AI) chip next month, according to a report by The Information."
-    publishedDateTime: 2023-10-08T10:48:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/08/microsoft-to-unveil-its-first-ai-chip-next-month/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 98
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Microsoft-AI-chip.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Microsoft could debut its AI chip next month: Report"
     excerpt: "Microsoft to unveil own AI chip at dev conference, reducing dependence on Nvidia. OpenAI exploring own chip, AMD chips 80% as fast as Nvidia's, future path to match performance."

@@ -60,20 +60,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
-  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through"
-    publishedDateTime: 2023-10-13T01:20:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/10/13/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/95961"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 54
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/13/thumbs/400x400/154316.jpg"
-        width: 400
-        height: 266
-        isCached: true
   - title: "US eyes adding AI chip curbs to Chinese companies abroad"
     excerpt: "China’s AI capability depends on its access to US chips. CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies Nvidia, Xilinx, Intel, and Microsemi."
     publishedDateTime: 2023-10-13T01:45:00Z
@@ -88,6 +74,29 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "U.S. Considers Closing AI Chip Access Loophole for Chinese Companies Abroad"
+    excerpt: "In a move that could significantly impact the global AI chip landscape, the Biden administration is actively considering closing a loophole that grants Chinese companies access to American artificial intelligence (AI) chips via their overseas subsidiaries."
+    publishedDateTime: 2023-10-13T02:37:00Z
+    webUrl: "https://www.cryptopolitan.com/u-s-closing-ai-chip-access-chinese-abroad/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 52
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_2023-10-01_16-10-59.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
+  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
+    excerpt: "THE Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four sources familiar with the matter."
+    publishedDateTime: 2023-10-13T03:12:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 34
 
 secured: "MKvRgd0fGWtLjtfUfEOr8rwAPKr4JMyvSOTJDmuTe+L/VdSiguDkSxkwKxTnyIsoXK4BjCtSyn/3D0T7Z/UG6NHeEhoUi8dV+YUTgR7V8xlqbPBSJ/hEDnV10sgdlNtvQCpdd510xQfh3ZlIK9IVv3AKRuR3YgVLfsEhyj7kwBddvZD0ae7KTOXRHEvvXfjVn8tKXmMkWj0IKJIRtdWyWyEhhEnrQzGRVrkaz7TXbL443cmNtfgGomt9faotLVk8wB//c1lgW54VJVfcPvLiUfLTTj40UG/JEuobKE4tTPNkIZNSgwO7G4UMIryi5TcKooGyUpC+8Ug7tn5CbfmX3B8HR1joQKw4BCErPZoA8pRJ61RTOVj8YYDB7NBgtUzggT4PjEI3CLmUiMrMMCRpiIdT7E0/KsD6L+bmEOP+iEftujdvtWtQQJLs7wdwZEwze1xi+1HpnDxy64W3DKtfAa6L87swsPGxSZpcFreJuYDWqjh68Oaw+NAny8hePZ953M08YCmRgx83RiLXB78NIw==;Db06THynCuB376SMV4Tyxg=="
 ---

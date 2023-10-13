@@ -2,6 +2,58 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-08-15-vsbltys-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intels-gpu-flex-170.md",
+      "title": "VSBLTY'S AI-DRIVEN WEAPONS DETECTION SOFTWARE IS FASTER & MORE RELIABLE WITH INTEL'S GPU FLEX 170",
+      "excerpt": "VSBLTY's AI-driven software Vector provides early threat detection using enhanced facial recognition, and the ability to identify weapons, utilizing surveillance cameras to observe a wide area around protected sites.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-driven-weapons-detection-software-is-faster-more-reliable-with-intel-s-gpu-flex-170-1032553856",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-15T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-artificial-intelligence-steps-in-to-assist-dementia-patients-with-high-tech-apparel.md",
       "title": "Artificial intelligence steps in to assist dementia patients with high-tech apparel",
       "excerpt": "Artificial intelligence platforms are revamping health care across many disciplines, including another U.K.-based system called CognoSpeak, which can monitor speech patterns in a bid to detect ...",
@@ -1120,49 +1172,6 @@
       "topics": [
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Size, industry Report and Forecast to 2030",
-      "excerpt": "The global Artificial Intelligence (AI) in Fintech market size was valued at USD 10204.78 million in 2022 and is expected to expand at a CAGR of 28.6 Percentage during the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33843456",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33843456",
-      "publishedDateTime": "2023-08-14T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

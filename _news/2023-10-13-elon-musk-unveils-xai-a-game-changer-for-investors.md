@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xa
 ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/12/elon-musk-unveils-xai-a-game-changer-for-investors/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/652893e5a8b7c4daca3ed28c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "SbHCbh+DnZ80PlHjwamlZ81/HLuWkGIVi7oZlh9SxOAkccUS4CetipnAUITiZRy4MpsnkOWUOjpf0YvLNqj8XYOe2URjDNw28Gcr+ELnOItigdy2EBcOwcd3pskujV+lGERL16ycb5coEymAE5fhQMEnqR45j8Qb2WGgxjpKRCidPP9r85Z2C13p9UBNztVhC73IicnMoXYxwzAGbGcSjMani6GgJmiAHm/upxkpRxetO6HaHvV7mVggyC0qBziOsmBvUi70sP7x/HFjTWv3ivL2B08Q9yhsYE7GhjpE0H0TlqeYcO1b42oye47+iFzp2NdPLgyMw0r7ZlEBjjWYQMjzWInyNJEWUdTVN9K7SpE=;3v6k3uF4EJw2ch/fGo2viw=="
+secured: "xRx8fqilz+Klj/rm+Y+WZykMyfImggRCy4/KtHtqinYvzdoI2r7gx6OgS/txrRGV2JaBuN2fRjek9DRKFzq65TCjGzJOXaqAEDa7fZ3eOU9fqNYzNQ3QmJdNFgNG/DvP9FOIzgHu/1w6ssm6JA1AtdYrrsGePREN6a4XKkMq0wKXJ80Aw4P855datMzQaPUkk1OcALM2pMeK0kZg4sWsmvB8uw5oWezjpfcnjqNFTUcXQYAl7qU+PdPnnVNb7g3g50cn69DVXLTS9YjITqXuGjNmPF24d2pbAXNZpqYk+48WWna0NuF3rao0eLrop5xwKcRSCXw1QVtBP8efmKVO5+NAJjzxP4u7iQ45ptGRhCVPDfzSUzmGkFZSPoV1n2gZa795wXxAUuzFAHDKV4S+uNhc+86KN409En1MAYkyNYrM8nEpSD7hjzTGI/yqKaiQQS1IIWTs2vDh8PaIusXBd3PyfDy2HtYbs4cBfz6SR+w472SAVsfABrH4sjDEqDS1+JJY4v1qv2qcHY8cpJ5hWw==;K6ubcqez477rYLKXvreiDQ=="
 ---
 

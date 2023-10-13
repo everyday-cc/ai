@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parl
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-three-objections-to-voting-yes-and-why-they-matter/news-story/1fe0d300671d343351b5efbbcaefde02?amp"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,22 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous voice to parliament: it’s time to embrace this chance for good of the nation"
-    excerpt: "Indigenous elders and leaders gathered at Uluru after the most extensive consultations with First Nations people this country has ever seen."
-    publishedDateTime: 2023-10-12T12:23:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-its-time-to-embrace-this-chance-for-good-of-the-nation/news-story/f299814f9ab4ef6a8423b33ea2186ba8"
+  - title: "Voice to Parliament No leader Warren Mundine heckled by Yes campaigners while casting his vote at polling centre"
+    excerpt: "Prominent No campaigner Warren Mundine has been caught up in heated scenes at a polling centre in Sydney as he cast his vote for the Indigenous Voice to Parliament referendum."
+    publishedDateTime: 2023-10-13T03:08:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/leading-no-advocate-warren-mundine-heckled-by-yes-campaigners-while-casting-his-vote-at-polling-centre/news-story/932cd170d52e6297f049ea0f42a3c159"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/leading-no-advocate-warren-mundine-heckled-by-yes-campaigners-while-casting-his-vote-at-polling-centre/news-story/932cd170d52e6297f049ea0f42a3c159?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/leading-no-advocate-warren-mundine-heckled-by-yes-campaigners-while-casting-his-vote-at-polling-centre/news-story/932cd170d52e6297f049ea0f42a3c159?amp"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 38
+    images:
+      - url: "https://content.api.news/v3/images/bin/2b489a9e643330236b7f3e9a962449f7"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Indigenous voice to parliament: Don’t slam door on children, says Noel Pearson"
     excerpt: "Indigenous leader and leading Yes campaigner Noel Pearson has delivered his final pitch ahead of Saturday’s referendum, urging undecided people to consider the futures of young Indigenous children when they vote."
     publishedDateTime: 2023-10-12T19:32:00Z
