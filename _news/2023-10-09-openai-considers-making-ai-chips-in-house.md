@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "OpenAI considering designing its own AI chips"
+    excerpt: "OpenAI, is reportedly considering the development of custom AI chips to address its ongoing struggle with GPU supply. Microsoft Athena AI"
+    publishedDateTime: 2023-10-13T05:36:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
+        width: 700
+        height: 465
+        isCached: true
   - title: "OpenAI Eyes AI Chip Production Amidst Shortages"
     excerpt: "Similar steps have already been taken by other tech giants like Apple, Google, and Tesla, who have all made progress in developing their own chips. Should OpenAI proceed, they would have better control over the AI systems’ performance and capabilities ..."
     publishedDateTime: 2023-10-09T00:00:00Z
@@ -64,20 +78,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "OpenAI considering designing its own AI chips"
-    excerpt: "OpenAI, is reportedly considering the development of custom AI chips to address its ongoing struggle with GPU supply. Microsoft Athena AI"
-    publishedDateTime: 2023-10-13T05:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
-        width: 700
-        height: 465
-        isCached: true
 
 secured: "EANzoPzP2Od/13F6B9VNrbWrQEO6EE65N+nIw0g1HSFTeY2JfotnZEDMl1bXrS1djcIAZ4KCHIGOJN2rQAuXDe1jZVIFZxOuV+ynozabgn186gETdTGw1WXDz2Q+4XmXloynPCmUh2Iyd0FFmUhFAOEZomsqE45q9RC52WAJUKQrsG/rRvpBVqMz+yYSMRM2nRBj5X9YFRCbUfovpysL0vNIxEmFt5GoYUoZWjoZ2M9/s2Ybv3UIfKkQTOH5CbYlzYw2ggzxqsoejwPfUbDZFRilnOoxf8roaDlaq36HWEDeCR6Kmzz3kFd5SSA93/5kWXb5v1M9AcOhdBi50Zi/NcWk03p9VvXZOqJCDAJy/cY=;Rfg9XP+Z/78YTK5feUYx1g=="
 ---

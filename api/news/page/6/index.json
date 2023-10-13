@@ -2,6 +2,254 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-09-nvidia-powers-first-gpu-accelerated-5g-network.md",
+      "title": "NVIDIA Powers First GPU-Accelerated 5G Network",
+      "excerpt": "NTT DOCOMO announced the world's first GPU-accelerated commercial Open RAN 5G built on NVIDIA, Fujitsu, and Wind River technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652369e27de3a0c8a978fc0c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
+      "publishedDateTime": "2023-10-09T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-canadian-startups-had-a-tough-q3-and-ais-popularity-isnt-making-a-big-difference.md",
+      "title": "Canadian startups had a tough Q3, and AI’s popularity isn’t making a big difference",
+      "excerpt": "No new Canadian unicorns were minted last quarter, either. The only company that raised at least $100 million, Toronto-based AI chip startup Tenstorrent, hit the $1 billion mark back in 2021. That’s not all: Canada saw fewer deals in the quarter ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/09/canadian-startup-funding/",
+      "originalUrl": "https://techcrunch.com/2023/10/09/canadian-startup-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Big-Lonely-Doug.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation.md",
+      "title": "Clio Unveils Clio Duo: Empowering Legal Professionals with AI-Driven Innovation",
+      "excerpt": "\"The future of AI powered solutions start with privacy and security at their core,\" said Jonathan Watson, Chief Technology Officer at Clio. \"We are confident that with responsible data privacy guardrails in place, AI will transform every aspect of how ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2241332/Clio_Clio_Unveils_Clio_Duo__Empowering_Legal_Professionals_with.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-israel-hamas-war-causes-nvidia-to-cancel-ai-summit.md",
+      "title": "Israel-Hamas War Causes Nvidia To Cancel AI Summit",
+      "excerpt": "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
+      "originalUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
+      "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
+      "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "originalUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
+      "publishedDateTime": "2023-10-09T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-artificial-intelligence-and-a-new-era-of-human-resources.md",
       "title": "Artificial intelligence and a new era of human resources",
       "excerpt": "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n",
@@ -53,7 +301,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/10/09/this-iconic-artificial-intelligence-ai-stock-is-hi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -156,7 +404,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -947,255 +1195,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai.md",
-      "title": "UNESCO And The Netherlands Launch Initiative To Ensure Ethical Oversight Of AI",
-      "excerpt": "Dubbed Supervising AI by Competent Authorities, the initiative will see UNESCO assemble a report on current AI supervisory practices across Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6520084cff6afed1494d46b2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2023/10/07/unesco-and-the-netherlands-launch-initiative-to-ensure-ethical-oversight-of-ai/amp/",
-      "publishedDateTime": "2023-10-06T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-dubformer-launches-ai-video-dubbing-solution-for-media-industry.md",
-      "title": "Dubformer Launches AI Video Dubbing Solution for Media Industry",
-      "excerpt": "Dubformer, a leading AI dubbing start-up specializing in delivering broadcast-level quality dubbing and voice-over services to the media industry, announces the launch of its AI video dubbing service. The solution supports 70+ languages and language variants, and 1000+ voices.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dubformer-launches-ai-video-dubbing-solution-for-media-industry-1032685734",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-dubformer-launches-a-1696626906.jpeg",
-          "width": 400,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-will-medicare-part-b-premiums-go-up-again-in-2024.md",
-      "title": "Will Medicare Part B premiums go up again in 2024?",
-      "excerpt": "Next year’s Medicare Part B premiums are expected to be announced soon and there is speculation that coverage of another pricey new Alzheimer’s medication could cause monthly costs to go up, echoing what occurred in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/medicare-part-b-premiums-again-200741949.html",
-      "originalUrl": "https://www.aol.com/medicare-part-b-premiums-again-200741949.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/the_hill_articles_341/35622368e67f3eaf4884fa2285c6cb6b",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-creatives-across-industries-are-strategizing-together-around-ai-concerns.md",
-      "title": "Creatives across industries are strategizing together around AI concerns",
-      "excerpt": "From music to screenwriting and science fiction, creative industries share many of the same concerns about generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/",
-      "originalUrl": "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1347909256.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/creatives-across-industries-are-strategizing-together-around-ai-concerns/amp/",
-      "publishedDateTime": "2023-10-06T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature.md",
-      "title": "AI app EPIK hits No. 1 on the App Store for its viral yearbook photo feature",
-      "excerpt": "Another week, another AI app going viral. This time around, the AI app that has surged to the top of the App Store is EPIK, a photo-editing app that lets Another week, another AI app going viral. This time around,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/",
-      "originalUrl": "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-at-12.55.18 PM.jpg?w=1200",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/amp/",
-      "publishedDateTime": "2023-10-06T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -52,6 +52,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Domino's Pizza Will Utilize AI for More Personalized Orders"
+    excerpt: "Domino’s Pizza is furthering its use of AI for a more cohesive overall experience."
+    publishedDateTime: 2023-10-13T07:20:00Z
+    webUrl: "https://hypebeast.com/2023/10/dominos-using-microsoft-cloud-azure-openai-pizza"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F10%2Fdominos-using-microsoft-cloud-azure-openai-pizza-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Generative AI and the Future of Machine Translation"
     excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
     publishedDateTime: 2023-10-09T21:42:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-13T05:36:00Z
 originalUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
 webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
@@ -79,6 +80,6 @@ related:
       domain: businessinsider.com
     quality: 47
 
-secured: "fuyDWVEOEBVkbP7QtY0NW7s7EoRmbjFlIQEYdIZTrmnXaXa1iYq1CUyQmCMLzbXpcAp0+GhXRUjhKHo2dFh/VLABzA7EVDrYYNR+P+J7qzd/CUAjt0PmonP6Z+RYJ+H1KGK0LJfW5D5wZAJrofR4BAgTawP9NOwGGt4N5YbfbRel2+7X/Tl0TZbTpg7qcXBB/sqbKKtYJyNtyjxi66/nWGMOsMXSbFFzgE81CdwM8AvBHXhJhUCR5uYPJe1AwAK59TNWrxkAxXJ9n7KK3m+vPi2adNmrURp8GsaSNgLMRdJVHKtemS7FyS4OuaQSj2wNrkSVECRWsM+civ8tHEp8r6OvI3j2EnJFZ7Kfp/HkMiA=;LXLV7563UPYoQnyaNdwiyg=="
+secured: "mFAC70iXefGEXZ7GawttRapaBOos8KmGD/z2qv7+pKl+RN7QfGITKDaaR7aTSuEqAPKADqBj+vX2PEAmM9zyJvex0pggKrp18fwMOhhFAkQ3OKHIcfH4iqHRI3YMxLy+Y2tROk4uM+lj+ObGPMGxG9iyZMINpctiJf2ztycI/8z+GsMw9Lpjcoy1dTYPvhSKn6U9QSfgQyCLSo8ksfjJz4CVVhu30PJKFWQapSODBw1QaU1/KM3Vutb5K4NtInVQ0UnVY06MuiDnt2YDsNyn5tVY3UQWmMQ2TrLYxvXgSGIs4HzyQGW3DEwNkxLnRnqCHYbeXA5bMNXxgBD/up/GJRNdipRgA/dPtGeyswMJYjjsJ66BCTAQRTCg7nihi3Ygolr+rxYQM0qfA6XaCIF3sBuEEeOI3lNWT5RMzxJpZTFIv1hJJ0h/fcOjCU46m2wxzM02Wbeuva1na6VXZbbpiTQ6RTALUYHVXeEkV8luy8OLKr3yVLt6gqLN5we+1P1lg1Jdgzdgt8VoXSdNB3jl0g==;7m3z8Cu+FDdfyijmSOHiaA=="
 ---
 

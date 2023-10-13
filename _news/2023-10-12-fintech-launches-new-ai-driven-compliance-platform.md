@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Irish fintech Alt21 raises $21m to expand hedging platform"
+    excerpt: "The fintech said this business generated more than €8m in operating ... The company also plans to invest in AI and machine learning in the future to bolster its products. Pritesh Ruparel, the ALT21 CEO, said the company’s goal is to “make things ..."
+    publishedDateTime: 2023-10-13T08:41:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/alt21-assure-hedge-funding-series-a-fintech-hedging"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/ALT21-London-team.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "MEGA International Announces Udpated AI-driven Enterprise Architecture Platform"
     excerpt: "MEGA International, an enterprise architecture SaaS software company, announces the launch of HOPEX Aquila, an AI-driven solution for digital transformation. Leveraging a partnership with Microsoft, HOPEX Aquila includes the launch of the new HOPEX AI Assistant."
     publishedDateTime: 2023-10-12T20:31:00Z

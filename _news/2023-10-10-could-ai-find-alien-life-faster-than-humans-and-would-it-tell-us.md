@@ -38,15 +38,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Could AI communicate with aliens better than we could?"
-    excerpt: "Machine-learning algorithms being used to better understand the communication of dolphins could form the basis for understanding aliens  —  if we ever find them."
-    publishedDateTime: 2023-10-11T19:00:00Z
-    webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 17
 
 secured: "6MwddgNsWlyTC4TvMMxAgAHJTCrn14xrl01nlzzt3uU/mJjXYp2rQzkP9PSuatIacyaWhEoubP2hMDsu6pUQZtxYuMM+Son9gYKpnUgjeAurCYj0Y3ftnOV20MtqwmRYDTZiJ6LHBlYwcUxC3T6MKNblz69uXwiBqeQjTJ9oXhNvv7UuFz1OAqkEB9D0ut4zGitwE+H0RBbwWkECigbJ0phcHu0a5LHBjItwJxMhOn6nUnC2nIRGUQ1d8bAMRupq8Zhcd/C03WzqiUUEKkCJcPct8Dr3eTHx1xWQXfguMsZHJYGDmsRhST/vtkLC6ViVkWPoC5CA17Urhe51W1+RZQDDu+5xF9HkS/oJPuXToyNHDpyGPnK3W4SVUVX9I2wYoqnbogVOwf93eqdDmo5F4KK4e9AQuReTmL3Jz6UeKtQrevJ8LiaWgttSKctOeFGr5qHa5vvHG8XGEj/aHiR2AiZbdjOUt9lTH1vrr2k0qAGYS4FkGJPvcxMSFFfCH0wNOqs19cNHERunEZH0cC4kfA==;AR7P+xCBjKTqEBNrLBSPLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacu
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Prime Day 2023: the best deals still available right now"
+    excerpt: "The best last-minute offers from the Prime Big Deal Days sale It's done. Amazon's first-ever Prime Big Deal Days sale is over for the year. We went in expecting something similar to an Amazon ..."
+    publishedDateTime: 2023-10-12T14:23:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Prime Day 2023 - the 50+ best early deals from the October sale"
     excerpt: "Prime Big Deal Days is nearly here. Amazon's latest sales event - which is effectively another Prime Day - starts tomorrow (October 10) and runs until the end of Wednesday (October 11), with 48 ..."
     publishedDateTime: 2023-10-09T10:56:00Z

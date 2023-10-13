@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "China says it will closely follow proposed US move on AI chip curbs"
+    excerpt: "China's foreign ministry said on Friday the country will closely follow possible moves by the United States to close a loophole that gives Chinese companies access to American artificial intelligence chips through units located overseas."
+    publishedDateTime: 2023-10-13T06:35:00Z
+    webUrl: "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
     excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."
     publishedDateTime: 2023-10-13T05:23:00Z
@@ -41,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rule Curbing AI Chip Exports to China Under Final Review"
-    excerpt: "(Reuters) - A U.S. rule that restricts shipments of certain advanced chips to China has been revised and is under final review, according to a government posting, suggesting that further curbs on chips that can be used for artificial intelligence are coming soon."
-    publishedDateTime: 2023-10-11T15:29:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Exclusive-Biden Eyes Adding AI Chip Curbs to Chinese Companies Abroad"
     excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... The efforts to close the loophole show how the Biden administration is struggling to cut China off from top AI technology and how difficult it is to plug every gap in export controls."
     publishedDateTime: 2023-10-13T01:32:00Z

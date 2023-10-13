@@ -173,6 +173,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australia’s Voice campaigners make final push ahead of indigenous referendum"
+    excerpt: "Noel Pearson, a leading indigenous rights campaigner, was still hopeful that the referendum could succeed, making his final pitch to voters from Perth on Thursday. “To say to those Australians who are undecided, who are still thinking about yes or no, don’t slam the door on the children,” he said."
+    publishedDateTime: 2023-10-13T08:18:00Z
+    webUrl: "https://www.ft.com/content/c229e0b5-2566-4d1e-bb8f-c72b54ddcc1d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 16
   - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
     excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
     publishedDateTime: 2023-10-12T03:38:00Z

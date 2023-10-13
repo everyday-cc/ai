@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-pe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://sites.breakingmedia.com/uploads/sites/3/2023/10/Members-of-the-153rd-Intelligence-Squadron-perform-tasks-as-part-of-the-space-focused-targeting-mission-at-Ebbing-Air-National-Guard-Base-Fort-Smith-Ark.-US-Air-National-Guard-photo-scaled.jpg"
         width: 2560
         height: 1700
+        isCached: true
+  - title: "Domino's Pizza Will Utilize AI for More Personalized Orders"
+    excerpt: "Domino’s Pizza is furthering its use of AI for a more cohesive overall experience."
+    publishedDateTime: 2023-10-13T07:20:00Z
+    webUrl: "https://hypebeast.com/2023/10/dominos-using-microsoft-cloud-azure-openai-pizza"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F10%2Fdominos-using-microsoft-cloud-azure-openai-pizza-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+        width: 1000
+        height: 500
         isCached: true
   - title: "Generative AI and the Future of Machine Translation"
     excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."

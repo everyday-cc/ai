@@ -60,6 +60,20 @@ related:
         width: 2560
         height: 1700
         isCached: true
+  - title: "Domino's Pizza Will Utilize AI for More Personalized Orders"
+    excerpt: "Domino’s Pizza is furthering its use of AI for a more cohesive overall experience."
+    publishedDateTime: 2023-10-13T07:20:00Z
+    webUrl: "https://hypebeast.com/2023/10/dominos-using-microsoft-cloud-azure-openai-pizza"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F10%2Fdominos-using-microsoft-cloud-azure-openai-pizza-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "LByh5EHiOmWAzxRl+mU/YRWL50nNuwGr5nULcQlbxzMrXT/Mq2+hDgNlyhTS5C1QxlRwrib0oRXtCiWEKsiCDRNEJq3d/J6nBvRdHKd0MtJ2esapT//H6gnD+LTbUknQGFzZfrXcTyVFCWMnJEvBOEl9eRonPvmCWBEOFJpNlp6J9XW5YDPhCoLfAkQEB7jUKOnsvISpzR1ApNsTVzUe4wvYORPi6Ph93B9dqG4QvzaBOi2sd7L8T3D7FGpyCPy6JpamgxrHLoTi9t8EPZ+BPldWvnVJVf+Ooxa13aXbzoLLyvwz3sIZis88JtyAE6hc2dWVJWHV1BauiTmb3M43xwWOkKDCbEZ8pfc7qPHCIBne7xHqAil8ft2dwrivUIlBAFj3nIRya1bEyAzx6i9EoaEvQ6tayvOQHDWsN/dyCVKk8GP+D8AYAhjaktD7bOtoW1J68IpJ3goxN+cDX5nxaAzBKpENjfWDXAfEVWIRciupgPT4q7ikRAuwxIb+qXS5hn5WDmvKad83y00Ngfm1cw==;ix2+cLyWX25l3CUUjhfCHw=="
 ---

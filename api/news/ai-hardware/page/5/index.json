@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-05-the-3-best-ai-chip-stocks-to-buy-now-september-2023.md",
+      "title": "The 3 Best AI Chip Stocks to Buy Now: September 2023",
+      "excerpt": "AI requires high-performance computing power, which depends on advanced semiconductor chips. Therefore, investing in semiconductor companies that are leading the AI revolution can be a smart move for long-term investors. Right now, the Q2 earnings season ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-now-september-2023-1032603570",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-chip-stocks-to-buy-now-september-2023-1032603570",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-04T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition.md",
       "title": "How Google Cloud Is Leveraging Generative AI To Outsmart Competition",
       "excerpt": "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture.",
@@ -1423,58 +1466,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-the-tech-world-is-being-dividing-into-gpu-rich-and-gpu-poor-here-are-the-companies-in-each-group.md",
-      "title": "The tech world is being dividing into 'GPU rich' and 'GPU poor.' Here are the companies in each group.",
-      "excerpt": "Much of this article is behind a paywall, so anyone who is serious about AI should subscribe to their great newsletter. I'm just sharing my thoughts on the free parts of the post here. The GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
-      "originalUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64ece05a3c42320019c02740?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gpu-rich-vs-gpu-poor-tech-companies-in-each-group-2023-8?amp",
-      "publishedDateTime": "2023-08-28T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,212 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-13-ai-could-be-apples-next-chapter.md",
+      "title": "AI Could Be Apple’s Next Chapter",
+      "excerpt": "Apple can bring AI to the consumer’s pocket by the billions, and is rumored to be sitting on one of the best AI models on the market today with ... READ MORE",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652890e165c4d9104afc7673/0x0.jpg?format=jpg&crop=3180,1789,x0,y164,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/",
+      "publishedDateTime": "2023-10-13T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-meta-made-its-llama-2-ai-model-open-source-because-zuck-has-balls-a-former-top-facebook-engineer-says.md",
+      "title": "Meta made its Llama 2 AI model open-source because 'Zuck has balls,' a former top Facebook engineer says",
+      "excerpt": "Meta CEO Mark Zuckerberg took a big risk by making its powerful AI model Llama 2 mostly open source, according to Replit CEO Amjad Masad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meta-llama2-open-source-mark-zuckerberg-balls-replit-amjad-masad-2023-10",
+      "originalUrl": "https://www.businessinsider.com/meta-llama2-open-source-mark-zuckerberg-balls-replit-amjad-masad-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64dfca5bb698ac0019dcdb2d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/meta-llama2-open-source-mark-zuckerberg-balls-replit-amjad-masad-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-llama2-open-source-mark-zuckerberg-balls-replit-amjad-masad-2023-10?amp",
+      "publishedDateTime": "2023-10-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-the-53-most-promising-climate-tech-startups-of-2023-from-ai-robotics-to-soil-carbon-sampling-according-to-top-vcs.md",
+      "title": "The 53 most promising climate tech startups of 2023, from AI robotics to soil carbon sampling, according to top VCs",
+      "excerpt": "Agriculture, AI, green energy, carbon credits and more, top VCs named the climate startups worldwide that have all the early signs of success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/most-promising-climate-tech-startups-vcs-2023-10",
+      "originalUrl": "https://www.businessinsider.com/most-promising-climate-tech-startups-vcs-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/651ede686561dd877e719e21?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-the-impact-of-artificial-intelligence-on-software-development-still-unclear.md",
+      "title": "The impact of artificial intelligence on software development? Still unclear",
+      "excerpt": "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "originalUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "publishedDateTime": "2023-10-13T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-meity-discloses-the-draft-national-strategy-on-robotics.md",
       "title": "MeitY discloses the Draft National Strategy on Robotics",
       "excerpt": "According to the draft, the Indian government’s ‘India AI’ is an umbrella program that takes into account current AI initiatives",
@@ -141,6 +347,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-13-china-says-it-will-closely-follow-proposed-us-move-on-ai-chip-curbs.md",
+      "title": "China says it will closely follow proposed US move on AI chip curbs",
+      "excerpt": "China's foreign ministry said on Friday the country will closely follow possible moves by the United States to close a loophole that gives Chinese companies access to American artificial intelligence chips through units located overseas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C",
+      "originalUrl": "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar.md",
       "title": "Government to support development of AI chips in PPP model: Rajeev Chandrasekhar",
       "excerpt": "A government panel has also called for using the public-private partnership model to create computing infrastructure of graphics processing units for startups and researchers",
@@ -149,7 +407,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -224,58 +482,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-tech-war-us-eyes-more-ai-chip-curbs-on-chinese-companies-abroad-to-close-loophole.md",
-      "title": "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole",
-      "excerpt": "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3237797/tech-war-us-eyes-more-ai-chip-curbs-chinese-companies-abroad-close-loophole",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3237797/tech-war-us-eyes-more-ai-chip-curbs-chinese-companies-abroad-close-loophole",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/13/1c9895fb-b779-43e2-b4bb-93d360312dbb_0b7b6e10.jpg?itok=y2hRJcln&v=1697174526",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -536,7 +742,7 @@
       "originalUrl": "https://blog.google/products/search/google-search-generative-ai-october-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -1024,194 +1230,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices.md",
-      "title": "Vital Insights That Law Firms And Law Partners Need To Know About Generative AI For Their Legal Practices",
-      "excerpt": "Law firms and law partners need to be thinking seriously about the adoption of generative AI in their legal practices. I cover top asked questions and give vital answers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64decaf569374c283b0c8ded/0x0.jpg?format=jpg&crop=1908,1271,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/",
-      "publishedDateTime": "2023-10-12T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai.md",
-      "title": "Government Asks Schools To Include Skilling Courses on Drone, 3D Printing, Robotics, AI",
-      "excerpt": "The initiative is in line with the Pradhan Mantri Kaushal Vikas Yojana 4.0, that emphasises on the need for promoting skill development in schools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538",
-      "originalUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-07/atiapkug_cbse-students-generic_625x300_22_July_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/education/government-asks-schools-to-include-skilling-courses-on-drone-3d-printing-robotics-ai-4474538/amp/1",
-      "publishedDateTime": "2023-10-12T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-this-magnificent-high-yield-dividend-stock-is-actually-an-under-the-hood-artificial-intelligence-ai-play.md",
-      "title": "This Magnificent High-Yield Dividend Stock Is Actually an Under-the-Hood Artificial Intelligence (AI) Play",
-      "excerpt": "Founded in 1993, The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. The Motley Fool reaches millions of people every month through our premium investing solutions, free guidance and market analysis on Fool.com, top-rated podcasts, and non-profit The Motley Fool Foundation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/12/high-yield-dividend-stock-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/12/high-yield-dividend-stock-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750107/cell-tower-worker.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-alphabets-ai-lab-deepmind-cut-employee-costs-by-39-in-2022-reported-decline-in-profit.md",
-      "title": "Alphabet’s AI Lab DeepMind Cut Employee Costs by 39% in 2022, Reported Decline in Profit",
-      "excerpt": "DeepMind, Alphabet Inc's AI division reduced employee expenses by 39% last year within its cost-cutting strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/",
-      "originalUrl": "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-deepmind-cut-employee-2022.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/",
-      "publishedDateTime": "2023-10-12T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

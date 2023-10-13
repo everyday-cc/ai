@@ -32,6 +32,17 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 24
+  - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
+    excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
+    publishedDateTime: 2023-10-13T08:15:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 16
 
 secured: "PMY5LWJffAPh71YXgsNNx+O4Elg90bjxSHGulIQ5p+Ma3Ulfk3ffOQeM1gOHDFwweNk7QHv1Jwh4o/pkhmnhGv5MdYMLnqsygV7tyyOiJwbsXz1c3cJiUl/X/rHE3twWG7UCbyMvNkve4MecO4EQcR5gXhWT4ssorCi8sF+Ts6MI7/dJKE+b1hcXA6mT4PKOU/ujYX2nXorQDs8waVbEfVC3vvkMyGQETcEYBwlGJHZmoPP5LsNBqtQiivW/viDr60/S7GqeYr7rm/jBFaF+kMjOUbIZzzbxGV3fRlT/aQ6w0xLXF3oSaZz+SF2jMKqIMmRjBBUBma+kyzycGhKx6WAhJy7AhvhC86CHFIbdi2WqmR2kmo+2Y+tcXMYaVglbvszMrBnnAoxLISybNIvWAnPhgD47aLNGE7Z91MIvadZO9cdY4MggkU2Rl2rTsLxGw0+7tFwcdeWzlsJ2XHahZHslmR6FsEJfG2E7YOsHZsVof/7ACqU6AhUFNtUVtOqhCLKRJlbNUs0ZhUbeTJ8aYw==;N8hL+bcSYq68QyNHdjeXWA=="
 ---

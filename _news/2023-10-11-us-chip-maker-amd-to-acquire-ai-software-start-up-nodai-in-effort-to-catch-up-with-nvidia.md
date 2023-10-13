@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-make
 webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -177,15 +177,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AMD acquires open-source AI software developer Nod.ai"
-    excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
-    publishedDateTime: 2023-10-10T18:19:00Z
-    webUrl: "https://siliconangle.com/2023/10/10/amd-acquires-open-source-ai-software-developer-nod-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
   - title: "AMD to finalise acquisition of software startup Nod.ai"
     excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."
     publishedDateTime: 2023-10-11T12:36:00Z

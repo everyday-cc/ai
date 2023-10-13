@@ -2,6 +2,283 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-09-19-ai-and-machine-learning-can-successfully-diagnose-polycystic-ovary-syndrome.md",
+      "title": "AI and machine learning can successfully diagnose polycystic ovary syndrome",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) can effectively detect and diagnose Polycystic Ovary Syndrome (PCOS), which is the most common hormone disorder among women, typically between ages 15 and 45,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230918153140.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230918153140.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T15:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-ibm-expands-watsonx-platform-with-watsonxdata.md",
+      "title": "IBM Expands Watsonx Platform With Watsonx.data",
+      "excerpt": "Vice President & Principal Analyst, Enterprise Data Technologies, Robert Kramer analyzes the expansion of IBM's watsonx.data offering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6508c80a3d69b479bdfdab8c/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/18/ibm-expands-watsonx-platform-with-watsonxdata/amp/",
+      "publishedDateTime": "2023-09-18T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24.md",
+      "title": "Collina Strada Takes On AI Fashion At New York Fashion Week SS24",
+      "excerpt": "Apart from the new fashion trends unveiled at NYFW SS24, another notable trend that could potentially take the fashion world by storm is AI fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
+      "originalUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650843e139f2f2bd102250ba/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rosecelestin/2023/09/18/collina-strada-takes-on-ai-fashion-at-new-york-fashion-week-ss24/amp/",
+      "publishedDateTime": "2023-09-18T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-engineering-whistleblower-explains-why-safe-full-self-driving-cant-ever-happen.md",
+      "title": "Engineering whistleblower explains why safe Full Self-Driving can't ever happen",
+      "excerpt": "Pulled from the pages of science fiction, self-driving cars seem to be on the way to becoming real. Cruise and Waymo are expanding their reach with their autonomous taxi experiment and Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/automotive/whistleblower-explains-why-safe-full-self-driving-cant-happen",
+      "originalUrl": "https://www.thestreet.com/automotive/whistleblower-explains-why-safe-full-self-driving-cant-happen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report.md",
+      "title": "Data and AI Ethics Market Growth Insights by 2030 | Updated 124+ Pages Report",
+      "excerpt": "Data and AI Ethics Market (CAGR 2023 - 2030) | No. of pages: [124] | market size, share, and industry analysis, By Type [Solutions, Services], Application [BFSI, Government and Defense ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34691120/data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34691120/data-and-ai-ethics-market-growth-insights-by-2030-updated-124-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34691120",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34691120",
+      "publishedDateTime": "2023-09-18T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack.md",
+      "title": "Questions every VC needs to ask about every AI startup’s tech stack",
+      "excerpt": "Leonard Wossnig is the CTO of LabGenius and former founder and CEO of Rahko and VP of AI at Odyssey Therapeutics. From fraud detection to agricultural crop monitoring, a new wave of tech startups has emerged, all armed with the conviction that their use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/",
+      "originalUrl": "https://techcrunch.com/2023/09/18/questions-every-vc-needs-to-ask-about-every-ai-startups-tech-stack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-656781058.jpg?resize=1200,841",
+          "width": 1200,
+          "height": 841,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence.md",
       "title": "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence",
       "excerpt": "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk",
@@ -904,282 +1181,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-ibm-connected-trade-platform-helps-power-the-digitization-of-trade-and-supply-chain-financing.md",
-      "title": "IBM Connected Trade Platform helps power the digitization of trade and supply chain financing",
-      "excerpt": "As organizations strive to optimize trade and supply finance processes, now is the time to embrace digitization to transact faster and more efficiently.\nThe post IBM Connected Trade Platform helps power the digitization of trade and supply chain financing appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-connected-trade-platform-helps-power-the-digitization-of-trade-and-supply-chain-financing/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-connected-trade-platform-helps-power-the-digitization-of-trade-and-supply-chain-financing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T06:43:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service.md",
-      "title": "Trade Ledger Introduces Bank Solution with Microsoft Azure OpenAI Service",
-      "excerpt": "Trade Ledger announces it will launch a new solution integrating Microsoft Azure OpenAI Service designed exclusively for Business Owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 585,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/First-State-Bank-1940-Oil-Ghost-Town-Oklahoma.jpg",
-          "width": 1125,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/09/213091-trade-ledger-introduces-bank-solution-with-microsoft-azure-openai-service/amp/",
-      "publishedDateTime": "2023-09-18T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-israels-pm-talks-to-elon-musk-about-antisemitism-on-x-and-artificial-intelligence.md",
-      "title": "Israel's PM talks to Elon Musk about antisemitism on X and artificial intelligence",
-      "excerpt": "Prime Minister Benjamin Netanyahu is starting a U.S. trip in California to talk about technology and artificial intelligence with billionaire businessman Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/",
-      "originalUrl": "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2023/09/Musk-Netanyahu.png?resize=1200%2C675&quality=85&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/elon-musk-israel-prime-minister-meeting/3320290/?amp=1",
-      "publishedDateTime": "2023-09-18T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-iron-iq-inc-announces-successful-oil-field-of-the-future-initiative-leveraging-amazon-aws-platform.md",
-      "title": "Iron-IQ, Inc. Announces Successful Oil Field of the Future Initiative, Leveraging Amazon AWS Platform",
-      "excerpt": "Iron-IQ, Inc., a leading provider of cloud-native solutions, is thrilled to announce the successful completion of its Oil Field of the Future Initiative with Vital Energy (NYSE: VTLE), leveraging Amazon's AWS Platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/iron-iq-inc-announces-successful-oil-field-of-the-future-initiative-leveraging-amazon-aws-platform/article_fe89713c-692c-5441-9672-00688bd143e5.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/iron-iq-inc-announces-successful-oil-field-of-the-future-initiative-leveraging-amazon-aws-platform/article_fe89713c-692c-5441-9672-00688bd143e5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions.md",
-      "title": "How AI Will Help Marketers Harness Psychology To Drive Consumer Purchase Decisions",
-      "excerpt": "Marketers can leverage AI to harness the power of these cognitive biases to drive better sales outcomes—here’s how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64122de1eba4a8992dc2ecb2/0x0.jpg?format=jpg&width=1200",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/09/18/how-ai-will-help-marketers-harness-psychology-to-drive-consumer-purchase-decisions/amp/",
-      "publishedDateTime": "2023-09-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-beyond-algorithms-the-ai-era-in-investment-fintech.md",
-      "title": "Beyond Algorithms: The AI Era In Investment FinTech",
-      "excerpt": "Some other specific challenges to mitigate include:",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/18/beyond-algorithms-the-ai-era-in-investment-fintech/amp/",
-      "publishedDateTime": "2023-09-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

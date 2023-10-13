@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Generative AI and migrations to the public cloud"
+    excerpt: "GenAI can analyze application dependencies, network configurations, and security risks, but it will mostly help lazy companies that aren't doing this anyway."
+    publishedDateTime: 2023-10-13T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2016/01/thinkstockphotos-511283035-100638943-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Adobe unveils three new generative AI models, including the next generation of Firefly"
     excerpt: "On Tuesday, Adobe kicked off its annual Adobe MAX Creativity Conference by announcing its latest innovations, which included three new generative AI models: Firefly Image 2 Model, Firefly Vector Model, and Firefly Design Model. Also: Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
     publishedDateTime: 2023-10-10T16:00:00Z

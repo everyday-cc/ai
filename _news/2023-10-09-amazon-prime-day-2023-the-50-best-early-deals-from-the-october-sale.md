@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon Prime Day 2023: the best deals still available right now"
+    excerpt: "The best last-minute offers from the Prime Big Deal Days sale It's done. Amazon's first-ever Prime Big Deal Days sale is over for the year. We went in expecting something similar to an Amazon ..."
+    publishedDateTime: 2023-10-12T14:23:00Z
+    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Amazon Prime Day 2023 – 100+ best deals from the October sale"
     excerpt: "Amazon Prime Big Deal Days event is now here, with 48 hours of exclusive deals for Prime members running from today (October 10) until the end of Wednesday (October 11). As you might expect from a ..."
     publishedDateTime: 2023-10-10T15:06:00Z

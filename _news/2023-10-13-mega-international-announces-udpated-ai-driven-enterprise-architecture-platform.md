@@ -39,6 +39,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Irish fintech Alt21 raises $21m to expand hedging platform"
+    excerpt: "The fintech said this business generated more than €8m in operating ... The company also plans to invest in AI and machine learning in the future to bolster its products. Pritesh Ruparel, the ALT21 CEO, said the company’s goal is to “make things ..."
+    publishedDateTime: 2023-10-13T08:41:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/alt21-assure-hedge-funding-series-a-fintech-hedging"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/ALT21-London-team.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "IIFL Fintech Fund announces maiden exit, secures 80% return"
     excerpt: "The fund, backed by group companies IIFL Finance and IIFL Securities, has a corpus of Rs 210 crore invested in a portfolio of 13 companies including Bengaluru-based stock analytics platform Trendlyne,"
     publishedDateTime: 2023-10-09T12:51:00Z

@@ -2,6 +2,264 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-10-breaking-out-of-ai-jail-3-ways-brand-marketers-can-get-ahead.md",
+      "title": "Breaking Out Of AI Jail: 3 Ways Brand Marketers Can Get Ahead",
+      "excerpt": "Here are three key steps we’re helping our brand partners take, each of which will allow you to get your hands dirty with little risk and a lot of rewards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/10/breaking-out-of-ai-jail-3-ways-brand-marketers-can-get-ahead/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/10/breaking-out-of-ai-jail-3-ways-brand-marketers-can-get-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65200bddf68eca52e66cf7bf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/10/breaking-out-of-ai-jail-3-ways-brand-marketers-can-get-ahead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/10/breaking-out-of-ai-jail-3-ways-brand-marketers-can-get-ahead/amp/",
+      "publishedDateTime": "2023-10-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-new-ways-were-helping-reduce-transportation-and-energy-emissions.md",
+      "title": "New ways we’re helping reduce transportation and energy emissions",
+      "excerpt": "These new product features and expansions help people, city planners and policy makers take action toward building a sustainable future.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/sustainability/google-transportation-energy-emissions-reduction/",
+      "originalUrl": "https://blog.google/outreach-initiatives/sustainability/google-transportation-energy-emissions-reduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2023-10-09_at_2.07.54_PM.width-1300.png",
+          "width": 1300,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-superopsai-returns-to-its-backers-to-raise-another-12-million.md",
+      "title": "SuperOps.ai Returns To Its Backers To Raise Another $12 Million",
+      "excerpt": "SuperOps.ai aims to build a one-stop-shop for managed services providers looking for tools to run their customers' IT",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65251ad6393acaba72a9bd20/0x0.jpg?format=jpg&crop=2512,1176,x421,y1059,safe&width=1200",
+          "width": 1200,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/",
+      "publishedDateTime": "2023-10-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment.md",
+      "title": "Artificial Intelligence In Talent Acquisition: How Machine Learning Is Influencing Recruitment",
+      "excerpt": "The fusion of new AI and ML technologies has reshaped recruitment, replacing outdated methods with data-driven approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65202b2df0674311519d4b1f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/amp/",
+      "publishedDateTime": "2023-10-10T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-aws-releases-cloud-institute-virtual-program-to-train-developers.md",
+      "title": "AWS releases Cloud Institute virtual program to train developers",
+      "excerpt": "In an effort to reduce the scarcity of trained cloud developers, AWS is releasing a new virtual program, dubbed Cloud Institute. AWS Cloud Institute, which is a one-year program with 12 different courses spread across four quarters, has been designed by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
+      "originalUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/04/11/shutterstock_editorial_2329866433-100944305-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
+      "publishedDateTime": "2023-10-10T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-demand-more-from-social-with-ai-powered-ads.md",
       "title": "Demand more from social with AI-powered ads",
       "excerpt": "Learn how Demand Gen campaigns can help you drive better results across YouTube and Google. See new case studies, videos, tips, and more.",
@@ -697,7 +955,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -988,254 +1246,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-nvidia-powers-first-gpu-accelerated-5g-network.md",
-      "title": "NVIDIA Powers First GPU-Accelerated 5G Network",
-      "excerpt": "NTT DOCOMO announced the world's first GPU-accelerated commercial Open RAN 5G built on NVIDIA, Fujitsu, and Wind River technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652369e27de3a0c8a978fc0c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/",
-      "publishedDateTime": "2023-10-09T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-canadian-startups-had-a-tough-q3-and-ais-popularity-isnt-making-a-big-difference.md",
-      "title": "Canadian startups had a tough Q3, and AI’s popularity isn’t making a big difference",
-      "excerpt": "No new Canadian unicorns were minted last quarter, either. The only company that raised at least $100 million, Toronto-based AI chip startup Tenstorrent, hit the $1 billion mark back in 2021. That’s not all: Canada saw fewer deals in the quarter ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/09/canadian-startup-funding/",
-      "originalUrl": "https://techcrunch.com/2023/10/09/canadian-startup-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Big-Lonely-Doug.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation.md",
-      "title": "Clio Unveils Clio Duo: Empowering Legal Professionals with AI-Driven Innovation",
-      "excerpt": "\"The future of AI powered solutions start with privacy and security at their core,\" said Jonathan Watson, Chief Technology Officer at Clio. \"We are confident that with responsible data privacy guardrails in place, AI will transform every aspect of how ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/clio-unveils-clio-duo-empowering-legal-professionals-with-ai-driven-innovation-1032689348",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2241332/Clio_Clio_Unveils_Clio_Duo__Empowering_Legal_Professionals_with.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-israel-hamas-war-causes-nvidia-to-cancel-ai-summit.md",
-      "title": "Israel-Hamas War Causes Nvidia To Cancel AI Summit",
-      "excerpt": "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
-      "originalUrl": "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-09T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-09-tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers.md",
-      "title": "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers",
-      "excerpt": "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
-      "originalUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/",
-      "publishedDateTime": "2023-10-09T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

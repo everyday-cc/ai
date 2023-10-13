@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-25-robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient.md",
+      "title": "‘Robotics is the future of food’: Artisan pizza restaurant Moto makes automation a key ingredient",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
+      "originalUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/moto1-1.jpeg",
+          "width": 2000,
+          "height": 1583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-ai-helps-robots-manipulate-objects-with-their-whole-bodies.md",
       "title": "AI helps robots manipulate objects with their whole bodies",
       "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
@@ -1298,49 +1350,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-industrial-robotics-lithuania.md",
-      "title": "AI Industrial Robotics - Lithuania",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$6m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.75%, resulting in a market volume of US$17m ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/lithuania",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/lithuania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -188,6 +188,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australia’s Voice campaigners make final push ahead of indigenous referendum"
+    excerpt: "Noel Pearson, a leading indigenous rights campaigner, was still hopeful that the referendum could succeed, making his final pitch to voters from Perth on Thursday. “To say to those Australians who are undecided, who are still thinking about yes or no, don’t slam the door on the children,” he said."
+    publishedDateTime: 2023-10-13T08:18:00Z
+    webUrl: "https://www.ft.com/content/c229e0b5-2566-4d1e-bb8f-c72b54ddcc1d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 16
 
 secured: "mhRmWYCFQUhFT886ST5xCFnBLEEdD/1k9FG73ecu9DG4BMABrGvwhOQqvlmvqNSAgpWRvjS7abwtnH+KtTjceonGNcMxO02Ql9vKf178EbDL8Q4WUlhFKhBg/hnFKINnve/xGqL8Jcpi08lsDsdP9kn2RBV7CfbHfi9FlhmkckQ4FzzjlcAHV94q3kcMGf1+z44FYzxCDAxsAuyYhJThlkigBUWxXcm3rlfiiR8SpityPqqCYEr5CkKe3gn7AtlBfnx0am0BE7U7/8jezeXw1DCmuc1kqCo0cbDtAEK7hejL2keQ/1EyQkzEmQSjZe3ARmv+4CUlvOJZ+/FdfIoA190d5odTLSm2ukkrELBo8YI=;lCAA7IgdgWszIgWQ/9txTg=="
 ---

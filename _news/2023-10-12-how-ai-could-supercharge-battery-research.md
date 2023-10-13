@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/12/1081502/ai-battery-resea
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/12/1081502/ai-battery-research/amp/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Could Be Apple’s Next Chapter"
+    excerpt: "Apple can bring AI to the consumer’s pocket by the billions, and is rumored to be sitting on one of the best AI models on the market today with ... READ MORE"
+    publishedDateTime: 2023-10-13T09:15:00Z
+    webUrl: "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/"
+    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652890e165c4d9104afc7673/0x0.jpg?format=jpg&crop=3180,1789,x0,y164,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Could AI communicate with aliens better than we could?"
+    excerpt: "Machine-learning algorithms being used to better understand the communication of dolphins could form the basis for understanding aliens  —  if we ever find them."
+    publishedDateTime: 2023-10-11T19:00:00Z
+    webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 17
 
 secured: "oTuK4mziZrHpzEBJgE/orcZi3tBSIOLGRtp+Cdq3ijYKnz6Deb3PB9SfnQFU9OFYSyJig5rWffuF/loL7UFhQ9UidP9oxJv6L9BZxCVJCpjkL+cFJ4kzPvickYGXJpFLIUmzKRo/jZZ8OSWVP/t2Mab/GD7LtVlEQ+zILF26XeLi+LFUKNHZaZAAEyNAzsDqnZbbxnhI6BluExXIyC54QiFtpXxQ5X5oBVM4aZG0Xb53iXT4p+Rp6N1kxxdz/MjWOqt28LDfgiKSzOtUa0d5MZyNoWDQWn61nW0AcMCiocywkvuKYosUNubEpoUJYEy9HSWCw6/GkrlI/K1QjlCrXc5vdmAHFo6cjM5n+EjhM4HBxpp2S9m/AS4OsMpwkQiWebl5DtVRSVIfDOjObID3SNLzTX+0HNIdoAvDw/35FJMFlBbBZ98EYwyKnB29pJ5zY5lnvTzQA51/08ohSgGC5Sqv4yhvR1r8D9qXr3ia4DK2ZrgbSYwklDoqkj4Y2SxfhzWCsXxEWz3A259wneW1PA==;+F+VaJbQTg0HmRb4xpxoTw=="
 ---
