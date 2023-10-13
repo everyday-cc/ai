@@ -2,6 +2,186 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-05-wordly-launches-trusted-ai-translation.md",
+      "title": "Wordly Launches Trusted AI Translation",
+      "excerpt": "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html",
+      "originalUrl": "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/2f/02f07c12-bfcb-5d74-8a5e-19f8cd0e80ce/651d6922305ce.image.jpg?crop=1053%2C553%2C107%2C0&resize=1053%2C553&order=crop%2Cresize",
+          "width": 1053,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-south-koreas-doosan-robotics-shares-jump-127-in-trading-debut.md",
+      "title": "South Korea's Doosan Robotics shares jump 127% in trading debut",
+      "excerpt": "Shares in South Korea's Doosan Robotics opened 127% up from their initial public offering (IPO) price in the company's market debut on Thursday, based on investors' bullish outlook for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/08/sensex_stocks_nifty_stockmarket.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/south-koreas-doosan-robotics-shares-jump-127-in-trading-debut-11479381.html/amp",
+      "publishedDateTime": "2023-10-04T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-ai-voice-cloning-tech-emerges-in-sudan-civil-war.md",
+      "title": "AI: Voice cloning tech emerges in Sudan civil war",
+      "excerpt": "A campaign using artificial intelligence to impersonate Omar al-Bashir, the former leader of Sudan, has received hundreds of thousands of views on TikTok, adding online confusion to a country torn apart by civil war.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-africa-66987869",
+      "originalUrl": "https://www.bbc.com/news/world-africa-66987869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/14E9E/production/_131326658_bashir.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-africa-66987869.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-africa-66987869.amp",
+      "publishedDateTime": "2023-10-04T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-revolutionising-finance-heres-how-ai-is-shaping-fintechs-future.md",
+      "title": "Revolutionising Finance: Here's How AI Is Shaping Fintech's Future",
+      "excerpt": "One of the most significant ways AI is transforming the fintech industry is through personalised financial services",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
+      "originalUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/04/4062998364edbb2a8edeadc34f6a364f1696423944483314_original.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/business/here-s-how-ai-is-shaping-fintech-s-future-revolutionising-finance-1633805/amp",
+      "publishedDateTime": "2023-10-04T17:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abp LIVE",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-are-ai-powered-virtual-bands-the-future-of-k-pop.md",
       "title": "Are AI-powered virtual bands the future of K-pop?",
       "excerpt": "K-Pop girl bands Eternity and Mave's videos have racked up millions of views. None of these singers are real. CNN's Ivan Watson has more.",
@@ -1017,194 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-money-machines-and-meeting-goals-healthier-cash-flow-with-ai.md",
-      "title": "Money, Machines And Meeting Goals: Healthier Cash Flow With AI",
-      "excerpt": "Plus, predictive analytics provided by AI and ML further fortify the company’s financial position through accurate forecasting. Samuel’s approach—combining traditional financial acumen with modern fintech solutions—illustrates how I believe you can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651c364909d97bda96db65c6/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/04/money-machines-and-meeting-goals-healthier-cash-flow-with-ai/amp/",
-      "publishedDateTime": "2023-10-04T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability.md",
-      "title": "Fashion’s New Frontier: Exploring The Role Of AI In Apparel And Sustainability",
-      "excerpt": "The impact is a self-healing supply chain that learns from its mistakes faster, takes action and then feeds its new decisions and processes back to the AI brain. Wash, rinse, repeat. These feedback loops—an essential building block for AI systems—are where humans just can’t compete.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/644923fd6eac23cc20a3babc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/04/fashions-new-frontier-exploring-the-role-of-ai-in-apparel-and-sustainability/amp/",
-      "publishedDateTime": "2023-10-04T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-seven-key-insights-on-graphql-trends.md",
-      "title": "Seven key insights on GraphQL trends",
-      "excerpt": "Seven key insights on GraphQL trends for the coming years based on learnings from GraphQLConf 2023.\nThe post Seven key insights on GraphQL trends appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
-      "originalUrl": "https://www.ibm.com/blog/seven-key-insights-on-graphql-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:48:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-achieve-your-ai-goals-with-an-open-data-lakehouse-approach.md",
-      "title": "Achieve your AI goals with an open data lakehouse approach",
-      "excerpt": "Artificial intelligence (AI) is now at the forefront of how enterprises work with data to help reinvent operations to be more efficient\nThe post Achieve your AI goals with an open data lakehouse approach appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

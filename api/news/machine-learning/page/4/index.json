@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-09-microchip-mchp-expands-portfolio-with-new-ml-development-suite.md",
+      "title": "Microchip (MCHP) Expands Portfolio with New ML Development Suite",
+      "excerpt": "Microchip MCHP is expanding its portfolio with the launch of the MPLAB Machine Learning (ML) Development suite. This innovative software package empowers developers to seamlessly integrate ML capabilities into microcontroller units (MCUs) and microprocessor units (MPUs).",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microchip-mchp-expands-portfolio-with-new-ml-development-suite",
+      "originalUrl": "https://www.nasdaq.com/articles/microchip-mchp-expands-portfolio-with-new-ml-development-suite",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-09-efficient-training-for-artificial-intelligence.md",
       "title": "Efficient training for artificial intelligence",
       "excerpt": "The concept is known as neuromorphic computing. Although this sounds similar to artificial neural networks, it in fact has little to do with them as artificial neural networks run on conventional digital computers. This means that the software, or more ...",
@@ -1258,40 +1292,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-domo-announces-domoai-to-revolutionize-the-way-businesses-manage-and-deploy-artificial-intelligence.md",
-      "title": "Domo Announces Domo.AI to Revolutionize the Way Businesses Manage and Deploy Artificial Intelligence",
-      "excerpt": "The Domo platform -- and our architectural approach to Domo.AI -- is purpose-built to deliver on this need for unique data experiences that help businesses overcome real-world challenges and accelerate innovation and growth.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2023/08/29/9871996.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2023/08/29/9871996.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

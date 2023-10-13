@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "49ers vs. Cowboys props, odds, best bets, AI predictions, SNF picks: Brandon Aiyuk over 56.5 receiving yards"
-    excerpt: "SportsLine AI reveals the top NFL prop picks for Dallas vs. San Francisco and Sunday Night Football best bets for sites like PrizePicks"
-    publishedDateTime: 2023-10-08T14:35:00Z
-    webUrl: "https://www.cbssports.com/nfl/news/49ers-vs-cowboys-props-odds-best-bets-ai-predictions-snf-picks-brandon-aiyuk-over-56-5-receiving-yards/"
-    ampWebUrl: "https://www.cbssports.com/nfl/news/49ers-vs-cowboys-props-odds-best-bets-ai-predictions-snf-picks-brandon-aiyuk-over-56-5-receiving-yards/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/nfl/news/49ers-vs-cowboys-props-odds-best-bets-ai-predictions-snf-picks-brandon-aiyuk-over-56-5-receiving-yards/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 18
   - title: "Packers vs. Raiders props, odds, bets, AI predictions, MNF picks: Jordan Love under 233.5 passing yards"
     excerpt: "SportsLine AI reveals the top NFL prop picks for Las Vegas vs. Green Bay and Monday Night Football best bets for sites like PrizePicks"
     publishedDateTime: 2023-10-09T13:59:00Z

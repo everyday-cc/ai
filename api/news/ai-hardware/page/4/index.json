@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-12-the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries.md",
+      "title": "The Amazing Ways Snowflake Uses Generative AI For Synthetic Data And Natural Language Queries",
+      "excerpt": "Discover how cloud data giant Snowflake is revolutionizing the use of synthetic data created through generative AI to overcome the challenges of realworld data collection",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650002763f0c19e47373b638/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/",
+      "publishedDateTime": "2023-09-11T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-the-3-most-undervalued-ai-chip-stocks-to-buy-in-september-2023.md",
       "title": "The 3 Most Undervalued AI Chip Stocks to Buy in September 2023",
       "excerpt": "The post The 3 Most Undervalued AI Chip Stocks to Buy in September 2023 appeared first on InvestorPlace.",
@@ -1344,59 +1396,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-04-how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition.md",
-      "title": "How Google Cloud Is Leveraging Generative AI To Outsmart Competition",
-      "excerpt": "It has a smaller 256-chip footprint per Pod, which is optimized for the state-of-the-art neural network architecture based on the transformer architecture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f5bc845a7c3861341e8146/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/09/04/how-google-cloud-is-leveraging-generative-ai-to-outsmart-competition/amp/",
-      "publishedDateTime": "2023-09-04T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

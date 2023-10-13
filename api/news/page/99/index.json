@@ -2,6 +2,188 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-08-03-will-artificial-intelligence-change-how-entertainment-is-made-the-ethical-life-podcast.md",
+      "title": "Will artificial intelligence change how entertainment is made? | The Ethical Life podcast",
+      "excerpt": "The hosts discuss how worried we should be about computers taking over more of what we watch and read, and whether live performances and sports will benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html",
+      "originalUrl": "https://www.stltoday.com/opinion/column/artificial-intelligence-films-books-podcast/article_3c9b495b-dca5-51ea-826b-8d6102fff53a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/3/c9/3c9b495b-dca5-51ea-826b-8d6102fff53a/64ca79fb1255f.preview.jpg?crop=1196%2C628%2C1%2C0&resize=1196%2C628&order=crop%2Cresize",
+          "width": 1196,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-fruit-picking-robots-take-flight-just-when-youve-seen-it-all.md",
+      "title": "Fruit-picking robots take flight, just when you’ve seen it all",
+      "excerpt": "With labor shortages leaving a wealth of fruit to rot on trees, farmers around the globe are seeing a glimmer of hope on the horizon as AI-driven robots fly to their rescue. These tech marvels are combating an escalating labor shortage that's leaving vast quantities of fruit to decay on trees.",
+      "sourceUrl": null,
+      "webUrl": "https://wfin.com/fox-technology-news/fruit-picking-robots-take-flight-just-when-youve-seen-it-all/",
+      "originalUrl": "https://wfin.com/fox-technology-news/fruit-picking-robots-take-flight-just-when-youve-seen-it-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg",
+          "width": 864,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFIN",
+        "domain": "wfin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-ai-chip-firm-tenstorrent-raises-100-million-from-hyundai-samsung.md",
+      "title": "AI chip firm Tenstorrent raises $100 million from Hyundai, Samsung",
+      "excerpt": "Tenstorrent, a Canadian startup headed by chip industry veteran Jim Keller that is developing artificial intelligence chips, said on Wednesday it has raised $100 million from Hyundai Motor Group and a Samsung investment fund,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tenstorrent-ai/ai-chip-firm-tenstorrent-raises-100-mln-from-hyundai-samsung-idUKL1N39J23E",
+      "originalUrl": "https://www.reuters.com/article/tenstorrent-ai/ai-chip-firm-tenstorrent-raises-100-mln-from-hyundai-samsung-idUKL1N39J23E",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/yg2PwqH_QhneAM4oinSQuGZeU3k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WMBJXP3VPJN4TMZOBZRW4JNC7Q.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-baidus-ernie-bot-to-be-used-in-great-wall-motors-vehicles-to-enhance-conversation-between-driver-and-car.md",
+      "title": "Baidu’s Ernie Bot to be used in Great Wall Motor’s vehicles to enhance conversation between driver and car",
+      "excerpt": "Great Wall Motor, China’s largest sport-utility vehicle (SUV) assembler, looks set to become the first carmaker to use Baidu’s ChatGPT ... featuring autonomous driving technology and digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/china-business/article/3229790/baidus-ernie-bot-be-used-great-wall-motors-vehicles-enhance-conversation-between-driver-and-car",
+      "originalUrl": "https://www.scmp.com/business/china-business/article/3229790/baidus-ernie-bot-be-used-great-wall-motors-vehicles-enhance-conversation-between-driver-and-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-study-shows-ai-could-help-detect-more-cancers-from-mammograms.md",
       "title": "Study shows AI could help detect more cancers from mammograms",
       "excerpt": "Previous studies have looked at using AI to diagnose breast cancer in mammograms, but they were retrospective, meaning the screenings had already been examined by radiologists. The study’s co-author said it’s too early to start implementing AI in ...",
@@ -1011,197 +1193,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-20-best-funded-ai-startups-in-2023.md",
-      "title": "20 Best-Funded AI Startups in 2023",
-      "excerpt": "In this piece, we will take a look at 20 best-funded AI startups in 2023. If you want to see more best-funded AI startups in this selection, check out 5 Best-Funded AI Startups in 2023. Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/20-best-funded-ai-startups-in-2023-1175178/",
-      "originalUrl": "https://www.insidermonkey.com/blog/20-best-funded-ai-startups-in-2023-1175178/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2023/08/01105312/possessed-photography-jIBMSMs4_kA-unsplash.jpg",
-          "width": 4468,
-          "height": 3216,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations.md",
-      "title": "How AI-powered chatbots are transforming marketing and sales operations",
-      "excerpt": "Discover how some marketing teams are embracing AI technology with Watson Assistant to drive more powerful marketing campaigns.\nThe post How AI-powered chatbots are transforming marketing and sales operations appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/",
-      "originalUrl": "https://www.ibm.com/blog/how-ai-powered-chatbots-are-transforming-marketing-and-sales-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-how-conversational-ai-can-transform-it-support.md",
-      "title": "How conversational AI can transform IT support",
-      "excerpt": "There are two prominent problems in the IT support process: repetitiveness and availability. Here's how conversational AI can help address both.\nThe post How conversational AI can transform IT support appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/",
-      "originalUrl": "https://www.ibm.com/blog/how-conversational-ai-can-transform-it-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/dsc09921.blog-lead-space-40x21-1-630x330.jpg",
-          "width": 630,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-2-healthcare-ai-stocks-that-could-go-parabolic.md",
-      "title": "2 Healthcare AI Stocks That Could Go Parabolic",
-      "excerpt": "In May, Recursion increased its AI-powered capability by agreeing to buy two AI-focused drug discovery start-ups, Cyclica and Valance, for a total of $87.5 million. GE Healthcare's shares are up nearly 40% to start the year. The recent spinoff from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/02/2-healthcare-ai-stocks-that-could-go-parabolic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741875/research-scientists-drugs-pharma-biotech.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

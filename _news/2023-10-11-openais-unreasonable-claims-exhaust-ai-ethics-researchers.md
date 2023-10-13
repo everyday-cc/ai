@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/openai-ethics-researchers-unreasonab
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-ethics-researchers-unreasonable-claims-2023-ai-100-10?amp"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "OpenAI considering designing its own AI chips"
+    excerpt: "OpenAI, is reportedly considering the development of custom AI chips to address its ongoing struggle with GPU supply. Microsoft Athena AI"
+    publishedDateTime: 2023-10-13T05:36:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
+        width: 700
+        height: 465
+        isCached: true
 
 secured: "rY12I9ZC8InNEVkWmN2rYTPtzjnf1sVoJZlGb2Njv2f0RyxjQxWA25xSt5WpEBv1knPJhYUXpi6LN6W6oHcatpVv5QwrS5NRzxZ9/14GJHYFjqIVbjijJPhJ7Jr5vHZNpN9jRzZbBmUbqAFa+pyJD3zmjiSFq+mTnkKaZIluHujHDkKC5VnU1fvvgBQxMOvoQj+jee6l7k/thk6ew0DfiQkVaB6ZvU07WUEToTIJql25D62GRHJRk7iE3OwgBMIYlAK+IPl3Zxz1r+oJ3YOGNzUB72cMpYDEWB/9h+/rRzLyUKweeO5Ujv1VBQVpOexm7mAVFqG1oRBCD9YFfM23ZN5vSK1slZFQXlB1XYqv0i21OvD5Un60UYNtm0xAl1LghGZoXgo7zxNOmln74SDewGV8uIXPwX7R0UObNh1h/ESh8UbiPE44rQNhCM3xfe2Rty0h1auTVr4T5drqQUOOue+KXZE9Gp/CxjQxgnfeslpTU+kzszimP8Oonx7Ul42e4Zlz4cpCDa+7f66vFI2F/w==;5MXmt9CX9CtmQh/TPS+Z6A=="
 ---

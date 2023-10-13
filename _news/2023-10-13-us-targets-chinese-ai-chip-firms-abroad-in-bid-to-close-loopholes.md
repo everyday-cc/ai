@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
-    publishedDateTime: 2023-10-13T04:33:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th-i.thgim.com/public/news/national/alhwsy/article67405571.ece/alternates/FREE_1200/Joe%20Biden.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Joe Biden eyes adding AI chip curbs to Chinese companies abroad"
     excerpt: "The United States last year shook relations with Beijing when it unveiled new restrictions on shipments of AI chips and chipmaking tools to China, seeking to thwart its military advances."
     publishedDateTime: 2023-10-13T01:25:00Z
@@ -83,6 +67,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
+    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
+    publishedDateTime: 2023-10-13T06:08:00Z
+    webUrl: "https://www.asiaone.com/world/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 54
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/Semiconductor%20chips.jpg?h=0429cc9e&itok=Ao0OC8Y9"
+        width: 600
+        height: 316
+        isCached: true
   - title: "US eyes adding AI chip curbs to Chinese companies abroad"
     excerpt: "China’s AI capability depends on its access to US chips. CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies Nvidia, Xilinx, Intel, and Microsemi."
     publishedDateTime: 2023-10-13T01:45:00Z

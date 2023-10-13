@@ -75,20 +75,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Are Microsoft and OpenAI making moves to enter the AI chip market?"
-    excerpt: "A new report from Reuters outlined OpenAI's plans to begin providing its own AI chips and secure its share of the lucrative AI chip market. While"
-    publishedDateTime: 2023-10-08T13:46:00Z
-    webUrl: "https://www.techspot.com/news/100419-microsoft-openai-making-moves-enter-ai-chip-market.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 101
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-08-image.jpg"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "Microsoft could debut its AI chip next month: Report"
     excerpt: "Microsoft to unveil own AI chip at dev conference, reducing dependence on Nvidia. OpenAI exploring own chip, AMD chips 80% as fast as Nvidia's, future path to match performance."
     publishedDateTime: 2023-10-09T09:32:00Z
@@ -369,15 +355,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 51
-  - title: "Microsoft's CEO shares his fear about Artificial Intelligence (AI)"
-    excerpt: "Satya Nadella worries about artificial intelligence and it's not just the doomsday \"Terminator\" scenario that has him concerned."
-    publishedDateTime: 2023-10-08T14:41:00Z
-    webUrl: "https://www.thestreet.com/technology/microsofts-ceo-nadella-shares-fear-about-artificial-intelligence-ai"
+  - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
+    excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"
+    publishedDateTime: 2023-10-13T06:56:00Z
+    webUrl: "https://www.inferse.com/751999/supercharge-brand-content-with-the-typeface-ai-app-for-microsoft-microsoft/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 49
+      name: Inferse
+      domain: inferse.com
+    quality: 50
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-7711.png"
+        width: 1091
+        height: 618
+        isCached: true
   - title: "3 health systems adopt new Microsoft AI tools"
     excerpt: "Microsoft unveils new healthcare data and AI tools to help healthcare organizations unlock insights and improve patient and clinician experiences."
     publishedDateTime: 2023-10-10T17:27:00Z

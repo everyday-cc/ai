@@ -2,6 +2,198 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-12-godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics.md",
+      "title": "Godfather of AI Geoffrey Hinton named advisory board member for startup Vayu Robotics",
+      "excerpt": "British-Canadian computer scientist, Geoffrey Hinton, who is known as the ‘Godfather of AI’ has joined the advisory board of robotics startup, Vayu Robotics. Hinton, who worked part-time with Google Brain as a VP and Engineering Fellow for over a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/y8vraf/article67022092.ece/alternates/FREE_320/2023-06-28T005416Z_2054233180_RC21P1AHDHHZ_RTRMADP_3_DATABRICKS-AI.JPG",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/godfather-of-ai-geoffrey-hinton-named-advisory-board-member-for-startup-vayu-robotics/article67411253.ece/amp/",
+      "publishedDateTime": "2023-10-12T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-understanding-the-different-types-and-kinds-of-artificial-intelligence.md",
+      "title": "Understanding the different types and kinds of Artificial Intelligence",
+      "excerpt": "Early iterations of the AI applications we interact with most today were built on traditional machine learning models. These models rely on learning algorithms that are developed and maintained by data scientists. In other words, traditional machine learning models need human intervention to process",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
+      "originalUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 240,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/10/Understanding-the-different-types-and-kinds-of-Artificial-Intelligence.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation.md",
+      "title": "ChatGPT-esque AI Sales, Marketing Platform For Websites Customer Lead Generation",
+      "excerpt": "Hundreds of Customers AI introduces a revolutionary sales and marketing service, leveraging advanced artificial intelligence to triple business",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-chatgpt-esque-ai-sal-1696430204.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails.md",
+      "title": "Can AI be taught to stop straying from its ethical guardrails?",
+      "excerpt": "Google, OpenAI and Anthropic want technology such as chatbots to learn from a ‘constitution’ to keep them from generating toxic content",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/",
+      "originalUrl": "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/resizer/z5f5z19tZhCvBxpQzfo7MQBM7aY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OD7XZHMFM5PL6B2UHHS4G6YTKQ.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-meet-the-16-year-old-indian-girl-whose-ai-startup-is-valued-at-rs-100-crore.md",
       "title": "Meet the 16-year-old Indian girl whose AI startup is valued at Rs 100 crore",
       "excerpt": "A 16-year-old Indian girl is making her mark in the world of AI with her startup, Delv.AI. According to Business Today, Pranjali Awasthi established Delv.AI in 2022. It is already valued at Rs 100 crore ($12 million) and recently impressed attendees of the Miami Tech Week. At 16, Awasthi has a team of 10 people working under her.",
@@ -1057,196 +1249,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce.md",
-      "title": "People And AI: ADP Is Hot In Automations For Payroll And Workforce",
-      "excerpt": "We've talked a lot about this and related topics, and looked at AI's effect on the business world from any number of angles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65033b85fb3035d47a2250b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
-      "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
-      "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
-      "publishedDateTime": "2023-10-11T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-arangographml-simplifying-the-power-of-graph-machine-learning.md",
-      "title": "ArangoGraphML: Simplifying the Power of Graph Machine Learning",
-      "excerpt": "Next-generation graph data and analytics platform now with machine learning and data science features to accelerate innovationSAN FRANCISCO, Oct.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud.md",
-      "title": "Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud",
-      "excerpt": "Custom Email Destination in IBM Cloud Event Notifications can help businesses establish a seamless communication channel with their customers.\nThe post Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T06:03:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

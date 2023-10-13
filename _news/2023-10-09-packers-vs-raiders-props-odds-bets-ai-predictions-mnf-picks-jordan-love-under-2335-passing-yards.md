@@ -7,7 +7,7 @@ originalUrl: "https://www.cbssports.com/nfl/news/packers-vs-raiders-props-odds-b
 webUrl: "https://www.cbssports.com/nfl/news/packers-vs-raiders-props-odds-bets-ai-predictions-mnf-picks-jordan-love-under-233-5-passing-yards/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "49ers vs. Cowboys props, odds, best bets, AI predictions, SNF picks: Brandon Aiyuk over 56.5 receiving yards"
-    excerpt: "SportsLine AI reveals the top NFL prop picks for Dallas vs. San Francisco and Sunday Night Football best bets for sites like PrizePicks"
-    publishedDateTime: 2023-10-08T14:35:00Z
-    webUrl: "https://www.cbssports.com/nfl/news/49ers-vs-cowboys-props-odds-best-bets-ai-predictions-snf-picks-brandon-aiyuk-over-56-5-receiving-yards/"
-    ampWebUrl: "https://www.cbssports.com/nfl/news/49ers-vs-cowboys-props-odds-best-bets-ai-predictions-snf-picks-brandon-aiyuk-over-56-5-receiving-yards/amp/"
-    cdnAmpWebUrl: "https://www-cbssports-com.cdn.ampproject.org/c/s/www.cbssports.com/nfl/news/49ers-vs-cowboys-props-odds-best-bets-ai-predictions-snf-picks-brandon-aiyuk-over-56-5-receiving-yards/amp/"
-    type: article
-    provider:
-      name: CBSSports.com
-      domain: cbssports.com
-    quality: 18
   - title: "Chiefs vs. Broncos props, odds, best bets, AI predictions, TNF picks: Russell Wilson goes under 227.5 yards"
     excerpt: "SportsLine AI reveals the top NFL prop picks for Denver vs. Kansas City and Thursday Night Football best bets for sites like PrizePicks"
     publishedDateTime: 2023-10-12T13:50:00Z

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-27-springboard-launches-new-100-online-machine-learning-engineering-and-ai-bootcamp-for-university-partners.md",
+      "title": "Springboard Launches New, 100% Online Machine Learning Engineering and AI Bootcamp for University Partners",
+      "excerpt": "Springboard today announced the launch of a new course offering for university partners: a machine learning engineering and AI bootcamp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-chemists-used-machine-learning-and-molecular-modeling-to-identify-potential-anticancer-drugs.md",
       "title": "Chemists used machine learning and molecular modeling to identify potential anticancer drugs",
       "excerpt": "RUDN University chemists and colleagues from China built several machine learning models and discovered a group of potential drugs that inhibit the enzyme responsible for uncontrolled cell division. The results were published in Biomedicines.",
@@ -1223,41 +1257,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-the-3-best-machine-learning-stocks-to-buy-now-september-2023.md",
-      "title": "The 3 Best Machine Learning Stocks to Buy Now: September 2023",
-      "excerpt": "Machine learning has been the stuff of science fiction for longer than most of us have been alive. The 20th century was filled with stories of robots who could think and feel just like us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-3-best-machine-learning-stocks-to-buy-now%3A-september-2023",
-      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-machine-learning-stocks-to-buy-now%3A-september-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

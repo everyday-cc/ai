@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-13-government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar.md",
+      "title": "Government to support development of AI chips in PPP model: Rajeev Chandrasekhar",
+      "excerpt": "A government panel has also called for using the public-private partnership model to create computing infrastructure of graphics processing units for startups and researchers",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Rajeev-Chandrasekhar-1-770x433-1.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/government-to-support-development-of-ai-chips-in-ppp-model-rajeev-chandrasekhar-11526051.html/amp",
+      "publishedDateTime": "2023-10-12T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-tech-war-us-eyes-more-ai-chip-curbs-on-chinese-companies-abroad-to-close-loophole.md",
       "title": "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole",
       "excerpt": "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say.",
@@ -1423,59 +1467,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind.md",
-      "title": "Less is a lot more when it comes to AI, says Google's DeepMind",
-      "excerpt": "Neural network AI programs that are reduced by 75% of their functionality can achieve the same power as programs twice their size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
-      "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
-      "publishedDateTime": "2023-10-03T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

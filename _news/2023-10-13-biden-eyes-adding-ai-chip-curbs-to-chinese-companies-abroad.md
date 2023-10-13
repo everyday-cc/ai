@@ -2,28 +2,26 @@
 category: news
 title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
 excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
-publishedDateTime: 2023-10-13T04:33:00Z
-originalUrl: "https://www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece"
-webUrl: "https://www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece/amp/"
+publishedDateTime: 2023-10-13T06:08:00Z
+originalUrl: "https://www.asiaone.com/world/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad"
+webUrl: "https://www.asiaone.com/world/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://th-i.thgim.com/public/news/national/alhwsy/article67405571.ece/alternates/FREE_1200/Joe%20Biden.jpg"
-    width: 1200
-    height: 800
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/Semiconductor%20chips.jpg?h=0429cc9e&itok=Ao0OC8Y9"
+    width: 600
+    height: 316
     isCached: true
 
 related:
@@ -113,6 +111,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "jOYKTJ3tcjaQ8YJIn8E9SeBkvq7E2k1QidsHrPKD9R7FckUJzei17g/Z+UUjPcEiYw+GcS0SapRlBtvedwIrjURygQ3qlZej36oielHhEGUoR4mYaBmTewP2+SO7a6QNmwQm+WXZ5lYgY3Oh2EjhWhhmOe/FqT0M9SliXIAumuaXDLkbwgS8vCrBj+/QnqTnOdi6i5fpl+MT7KFy/kX/kQ6Oh3GBf97HvhYreCdxHyrPcXKuPJYLYkdajFS4Zq8uKf5Y9vgYSW95iOwHpiH6hFqzN231tciycF8bn3sb3lZsOpXZsAcd32LdNs7D2CeYjCi9Y49oYuum2/cmARJoFHtCxcLJWizMOzAcr3td2HY=;3fOjhQnoQAjoY2vU6F9VRQ=="
+secured: "9IVToM56NgxTiKcBKz4DN7iKuaLQrz3HBcD342vP0UNsYlIxhkg9LbAUEYIGW4/D6/JvFCcmvx6a1Qq9q3pwR0FWbDjLKct1z9hYVqXf6eZlA0Shy6M79su4VetrM7t4ho587RLyq8NyeItg24nC1Ok0zlV9R1WY9f/kdOWFu1gTHIn3KSB/qkGOL+67gpkUF+1+rDy5m5t2zqi1Q8KQaBgs3rZRrCU6eJQtVwgyTmSCcqEj4tIv2a0BPll8H89CxTUMSQoKe/hGC51mVIvMFk/uF2orXk6U0YmlpjgClYNUTcbCaUqX/LYeH9VN7+buSWhUJrkEXtn4GlvTNYIbQI+iiZX+Emi//Ivg+zzjIvQ=;c1e7A/843hxghS4thoVDTQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-13-ultra-efficient-machine-learning-transistor-cuts-ai-energy-use-by-99.md",
+      "title": "Ultra-efficient machine learning transistor cuts AI energy use by 99%",
+      "excerpt": "AI machine learning uses so much computing power and energy that it's typically done in the cloud. But a new microtransistor, 100X more efficient than the current tech, promises to bring new levels of intelligence to mobile and wearable devices.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/technology/ai-machine-learning-transistor/",
+      "originalUrl": "https://newatlas.com/technology/ai-machine-learning-transistor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e99a0d4/2147483647/strip/true/crop/970x509+0+70/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F30%2Ff5%2Fc1888d57472eb8eff918fddb0623%2Fhersam970-fitmaxwzk3mcw2ntbd.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-implementing-ai-into-software-engineering-heres-everything-you-need-to-know.md",
       "title": "Implementing AI into software engineering? Here's everything you need to know",
       "excerpt": "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project.",
@@ -431,10 +483,10 @@
     {
       "path": "_news/2023-10-06-3-machine-learning-stocks-ready-to-make-a-move-higher.md",
       "title": "3 Machine Learning Stocks Ready to Make a Move Higher",
-      "excerpt": "The post 3 Machine Learning Stocks Ready to Make a Move Higher appeared first on InvestorPlace.",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent weeks, there have been many discussions about artificial",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -447,9 +499,18 @@
       "publishedDateTime": "2023-10-06T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -458,9 +519,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1245,40 +1305,6 @@
       "provider": {
         "name": "emjreviews.com",
         "domain": "emjreviews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-springboard-launches-new-100-online-machine-learning-engineering-and-ai-bootcamp-for-university-partners.md",
-      "title": "Springboard Launches New, 100% Online Machine Learning Engineering and AI Bootcamp for University Partners",
-      "excerpt": "Springboard today announced the launch of a new course offering for university partners: a machine learning engineering and AI bootcamp.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
