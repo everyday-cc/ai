@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Delightful disruption: Austin’s tech trailblazers prep for the AI revolution — Table of Experts"
+    excerpt: "The Austin Business Journal recently assembled a panel of experts in tech to discuss this dawning of a new era, and its implications for the business world."
+    publishedDateTime: 2023-10-13T11:00:00Z
+    webUrl: "https://www.bizjournals.com/austin/news/2023/10/13/delightful-disruption-austin-s-tech-trailblazers.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 7
 
 secured: "4YwN3Aoh8JVHL6Rq3g9UX/NIrJLXF9a+d2Jt1R+p6oK8f8OSgCafJMvDCQGw+U6CvhsAd/PXso9d2gGi91UtoLnpSxJk8GiyNQt864bI7EJQcg2fIFDyQU05a9tTMthKWliuZn24zVdUWC9zxh4SE+xvuN32fvHNJ7MYOztG72EwRL0q/f7AjOl3YTMqr/wf/Xe5xgY7U8QRLDcsjlBtbkH+VlbeeBJNWgviFZYaemFEctvB3s5e/xsAOT/dAd/p+P7uDBJv/Ltff+JUMcLj+v5po/VOFCMvOxMqpQicY8WHYZ78gS/VjNID1lUdyZGnIyOnzAHKP+AVmJvhq3JZBMzmSTFCvcYn003CJ+BtvDI=;ih3dRcDWs71zTo0dg5tBIw=="
 ---

@@ -119,6 +119,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
+    excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
+    publishedDateTime: 2023-10-13T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f846bb05c4c0b7790b99b3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1348
+        height: 900
+        isCached: true
   - title: "Adobe unveils three new generative AI models, including the next generation of Firefly"
     excerpt: "On Tuesday, Adobe kicked off its annual Adobe MAX Creativity Conference by announcing its latest innovations, which included three new generative AI models: Firefly Image 2 Model, Firefly Vector Model, and Firefly Design Model. Also: Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
     publishedDateTime: 2023-10-10T16:00:00Z

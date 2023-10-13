@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107236341/A-European-Approach-To-Artificial-In
 webUrl: "https://menafn.com/1107236341/A-European-Approach-To-Artificial-Intelligence"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "NexGen Cloud’s $1bn AI supercloud to turbocharge AI in Europe"
-    excerpt: "European organisations can adhere to EU regulations and develop cutting-edge generative AI applications using one of the largest cloud deployments of high-performance NVIDIA GPUs in Europe."
-    publishedDateTime: 2023-10-10T09:08:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2023/oct/10/nexgen-clouds-1bn-ai-supercloud-to-turbocharge-ai-in-europe/"
+  - title: "Europe eyes strict rules for artificial intelligence"
+    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
+    publishedDateTime: 2023-10-11T23:25:00Z
+    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 19
+      name: Politico Europe
+      domain: politico.eu
+    quality: 39
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x5rW53npc14yQG3vn534+uM898Nd4MXIpHCETheTTtgEojpJvtdIOvCZxijP628dzty1ZffjnE4N86ygFJR3439HfvWDJXR9XdV3ZZsXGbdD7JwOtTFDjzYY5bBhM3jq2JaXJ54uA0FghrkiQyYk/WubCv1ACNCU3PZ9co+Lof+/S5KbLSma3UfLUw1wB+vt+YLAsHDbI7pbewMknv5xAIZVVRx5hHa6n9GVzZAyOOv3QokcTZ7lXSbat1GvvBnGyN+RRFRmyvq+lEGnSwWSpAyan2UYm0w9FLAlG6Fvie4e6yEty6PU5/QRAFY4jRsugMwglShZhppWeyfLUuuVymWIKEzG67HheMnmI4yivEo=;b5ZPIa1AL2I7CuZUaE3+iQ=="
 ---

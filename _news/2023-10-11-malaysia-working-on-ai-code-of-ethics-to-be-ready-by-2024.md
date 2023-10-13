@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024
 webUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024-3714829"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/11/thumbs/400x400/153776.jpg"
         width: 400
         height: 271
-        isCached: true
-  - title: "Educators Adapting to Artificial Intelligence"
-    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
-    publishedDateTime: 2023-10-11T15:29:00Z
-    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 37
-    images:
-      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "jCjs3ZA0T/8D0c5/dFX8kYDrG2u1zEfBcE22BX8rFoTetF6nfBd1ycJHp5R+me9r9FQxNm5CiAkbFFc4H0qvR+RH8wmJV6COasZI+lCYQxEKQ2jDJnnA5Kb3V+To2ylkbekOn3srHa0LtxGaSeit9W1PwVaw/JXsFfLWy7HA1j72NcJOcbhe2mH0b5gZkwbFjzDty/gbJdZxc1+CE6OP6D/RHFG8YNzhCAB5/LSA/lEl5XuCAlE+aCjJmoz8G5eCibnSFXJe5z6upJHj/0j1CYMiUsw+EewbnQXmrQHZUxGGjrXDk5fzzz6x8E/bfbOJrJZpctM8KZI029bg8ff+tV3tDhUMewuuhr9b6ZBW/gsgLcvJiglvCyWHAcY4x1faY5ebiriqU736ioZvvQYhNg1HmiooenzEA2iwUokwMjrlQRbJd3IJU3I/uEDBIZo0aECGr/fVZjxgcAY2mPl2wwQUA0+nOlkBek7EKGADW70tl+ngLtm4Pw/aUnDw6epQdYSRu0M9vZgfo2sNh2X3dw==;Q7AznDbPNRvyGx2A0foNcA=="

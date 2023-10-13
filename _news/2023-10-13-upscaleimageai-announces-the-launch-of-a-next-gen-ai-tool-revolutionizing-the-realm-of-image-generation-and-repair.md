@@ -40,15 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
-    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
-    publishedDateTime: 2023-10-10T17:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
     excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
     publishedDateTime: 2023-10-09T13:43:00Z

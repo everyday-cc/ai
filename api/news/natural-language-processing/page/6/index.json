@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-23-the-lex-newsletter-ai-translation-may-supersede-ai-aided-language-learning.md",
+      "title": "The Lex Newsletter: AI translation may supersede AI-aided language learning",
+      "excerpt": "What is included in my trial? During your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages. Standard Digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/cd30d49c-b38b-4843-a516-aba62e4b347f",
+      "originalUrl": "https://www.ft.com/content/cd30d49c-b38b-4843-a516-aba62e4b347f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T06:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-the-most-in-demand-ai-skills-and-how-companies-want-to-use-them.md",
       "title": "The most in-demand AI skills — and how companies want to use them",
       "excerpt": "“Generative AI was born out of machine learning techniques. People added rule-based systems ... but companies that have their own open AI services, like Microsoft and Azure, also offer online training opportunities.”",
@@ -1318,40 +1352,6 @@
       "ampWebUrl": "https://www.benzinga.com/amp/content/33815537",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33815537",
       "publishedDateTime": "2023-08-13T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-vehicle-speech-recognition-system-market-size-and-strategies-2023-2030.md",
-      "title": "Vehicle Speech Recognition System Market Size and Strategies 2023-2030",
-      "excerpt": "Market Analysis and Insights: - The global Vehicle Speech Recognition System market was valued at USD million in 2022 and is anticipated to reach USD million by 2029, witnessing a CAGR of Percent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33783447/vehicle-speech-recognition-system-market-size-and-strategies-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33783447/vehicle-speech-recognition-system-market-size-and-strategies-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-12T06:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

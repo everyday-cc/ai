@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Exclusive: Biden eyes adding AI chip curbs to Chinese companies abroad"
+    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
+    publishedDateTime: 2023-10-13T09:13:00Z
+    webUrl: "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
     excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."
     publishedDateTime: 2023-10-13T05:23:00Z
@@ -63,15 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Exclusive-Biden Eyes Adding AI Chip Curbs to Chinese Companies Abroad"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... The efforts to close the loophole show how the Biden administration is struggling to cut China off from top AI technology and how difficult it is to plug every gap in export controls."
-    publishedDateTime: 2023-10-13T01:32:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-12/exclusive-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
     excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
     publishedDateTime: 2023-10-13T06:08:00Z

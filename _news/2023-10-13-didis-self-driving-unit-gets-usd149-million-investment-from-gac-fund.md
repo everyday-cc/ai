@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/didis-self-driving-unit-gets-usd1
 webUrl: "https://www.yicaiglobal.com/news/didis-self-driving-unit-gets-usd149-million-from-gacs-investment-fund"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 510
     isCached: true
 
-secured: "J6oqQJ6GcBAqRE956GRYN+JviUiF73Z47EtSSmqHir1YYTpdHkQ68M/qwp4Jo6VCnfib9HL8hv8Z1JTiVtGWS1znbbr1kjfIetYkaK7RMXtGERXUAA/z+0rtI9Db4oac4cXNJCQvYCPQLRUnOP5XZRNtNHE7gzGOBIYxHyQH36o4vDsDauqyUNyGBBK76//I9JBPKECcRgEyuVHyQe6ujmUEmSv+udVAa+25/doWBfzx8JKWF2QGInl0WE9zCEgI8o7S7rURrmUL2a7uAu67UlCwCZFnoMo7aZO0yTFYtN7ffaxaa9aYBCZkI+AbXCrIpPO0zfT6ZLHoxcFY30XuX/J9SNp2cv1n5ZSszancmmw=;ixKtdba6XCMtu1+KuQnNlg=="
+related:
+  - title: "GAC’s $75 million investment in Didi set to boost EV sales, autonomous driving: expert"
+    excerpt: "Chinese carmaker Guangzhou Automobile Group (GAC) is strengthening its alliance with ride-hailing platform Didi, investing up to $75 million into the latter’s autonomous driving unit. The move is expected to help GAC enhance its self-driving ..."
+    publishedDateTime: 2023-10-13T10:48:00Z
+    webUrl: "https://technode.com/2023/10/13/gacs-75-million-investment-in-didi-set-to-boost-ev-sales-autonomous-driving-expert/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 33
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/10/Didis-robotaxi.jpg"
+        width: 1627
+        height: 1080
+        isCached: true
+
+secured: "9fjd0aalsMO3GEWyA5NNOLUaikosi2oSWh7FVoD+1CJnrKK43WV2jyDfKzj/Wf7o+QenL0CFhW0maJERzsnImSe/SsLU8//YKvw+17/gdB0Fv57jQRvwq4JBqaPMfwrYmFGXsWF4duuFJfCSfRh6Y0eIU3riOv5xNf+MnZsgDU764cMLbH6GjiA7e+uEQwCqUh1XudvyN7rbgUY8og3A7JT3PALPdwAi4ocSFWmq5xewuywXKShdRfK/9T0p+wkMxYkgfFmGfN48fsyPh55sO2R1OkXFBTKKcmBr7I3uYWdsxuSLggusXncqkyR2NTVHOQq5gOrfreTKTxdgM/8M2hiiTkD5uDMqLJccgmDkaMNfsNly/1853j4ZXTOiikFgHDDXG1wu5jIClJBGWDtqzC0aZ/nW7riCWXauhz9YF7vuc6UwxKB/ZGE9dlazCfFbRdqtlHqfwwiHsz2xUyIn8MBXldrP3r57puT7NVcBCiwifNGPESxjaNY9YzsMrgdiGsJpupYRx/0Lajcq/vNgIw==;SKZtQC+Fs0YEay1rElEz/g=="
 ---
 

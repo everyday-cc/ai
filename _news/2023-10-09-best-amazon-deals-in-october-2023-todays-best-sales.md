@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "1 Hot Artificial Intelligence (AI) Stock I'm Buying More of in October"
+    excerpt: "It does this by utilizing a segment of AI known as machine learning. By analyzing trillions of signals weekly, CrowdStrike's platform knows what is normal activity and what is a threat. This was a key innovation when CrowdStrike first came on the scene, but now multiple competitors offer the same product."
+    publishedDateTime: 2023-10-13T11:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/749900/it-team-solving-a-problem.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
   - title: "Amazon Prime Day 2023: the best deals still available right now"
     excerpt: "The best last-minute offers from the Prime Big Deal Days sale It's done. Amazon's first-ever Prime Big Deal Days sale is over for the year. We went in expecting something similar to an Amazon ..."
     publishedDateTime: 2023-10-12T14:23:00Z

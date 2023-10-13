@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/hamas-assault-israel-shows-surp
 webUrl: "https://www.reuters.com/technology/hamas-assault-israel-shows-surprise-still-possible-ai-era-peter-apps-2023-10-09/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Reuters
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israel-Hamas War Causes Nvidia To Cancel AI Summit"
-    excerpt: "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation."
-    publishedDateTime: 2023-10-09T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Israel’s AI startups carry on as employees mobilize for war, run to shelters"
     excerpt: "AI startups in Israel are trying to carry on while supporting employees being called to the front lines of the newly-declared war with Gaza."
     publishedDateTime: 2023-10-10T15:42:00Z

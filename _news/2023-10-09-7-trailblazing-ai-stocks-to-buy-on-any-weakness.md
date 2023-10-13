@@ -23,15 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "3 Amazing AI Stocks That Will Make Early Investors Rich"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the electric world of Wall Street, some phrases don’t just make"
-    publishedDateTime: 2023-10-08T18:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-amazing-ai-stocks-that-will-make-early-investors-rich-1032686714"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Dividend Machines: The Top 6 AI Income Stocks to Buy Now"
     excerpt: "Broadcom’s largest contribution to the AI space is a new chip, the Jericho3-AI, that is capable of wiring together 32,000 GPU chips at once. GPUs, or graphics processing units, are the chips that AI relies on to run its incredibly complex code."
     publishedDateTime: 2023-10-10T16:45:00Z

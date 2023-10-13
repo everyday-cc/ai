@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
+    excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
+    publishedDateTime: 2023-10-13T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f846bb05c4c0b7790b99b3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1348
+        height: 900
+        isCached: true
   - title: "Google’s AI-powered search experience can now generate images, write drafts"
     excerpt: "Google's AI-powered search feature, SGE (Search Generative Experience), is gaining some new skills, starting today. The AI feature, which introduces a"
     publishedDateTime: 2023-10-12T21:22:00Z
@@ -257,6 +273,6 @@ related:
       domain: theconversation.com
     quality: 15
 
-secured: "sYQVqobSTQwFHc4IXBHYzQOsqr5D5ycnGK42n3w4sF3RXvAtFmVQWwRxSZxqGNA0pCsTFAt81gyzHcInrhEWYHikyDf4DnZa013Tj71eXZog5zixI2jw7Pwlso8qJfMu9ynYkHl1Qy3Hr2O29oz/tyha8nIZL6YHcgx4IVi2uq/aeT9yweX/+CbB4mQ47f28exmteQ6OX7WoYnoxPfIUf1NvI+K2Xz2IQyFvv0yMyP32vTEzFXWj44LFr6HkAAbFfSsTRe1t52T9xQ9gXTwXbDaOk1K1+PKZ3QW/u1XK9wpbHl+y1ThPyPk2SVcbMFLw1LpQpYTu8DapgnlPnR5Jr7f04k4mMWaPn5wnE1K/ty8=;676CiJhbH2IJhi8l8ai8Aw=="
+secured: "aCFmdP8/FmWiSWCD7DAqIR1rHiqx/KB+GEMHCHpVJYWS8u22eLGBnjKRIruw4dqWr+K57a4Wde0RVuFRThBlkcw61Fw1SEfmTlDs0IGQ0av2lRwDGmpBvdH3zrv/FHASq7QEWWrrSmcKCNgXlGFL8VKzFBW9FznknTq+nLw0rRbPgH+63MHBC/TQPCcvWBn5TX0UIm1czhuGYnDpC+r3U8mIF2eLuC18nKjEUCZ1JggXNOw4zuD+oMdqM2dzFIT95GTOUDVjD1FLJFNWSA2OfmRgg3FWUslGuqX0q84HNyLovxgg4c5RySscFd0N1SNUuy5gQCLKvY0i1JD8UP84rWZxYcmZ38U1KkVzJtwS6DKWCPh1SpL4b96XGa/dUUXQb4oG8Mrb4umbB5vWxknj6FdxDkMjh9K8AFoKH86GbroatphwwKVFifiGz+elPVFVmDRa2Wg+IplG7wzZrWMbEVeqUWocqt1lwdQQ/9HyO1dGQCDjoUrBfXsUOFK7T6dxywfESt2bv76NjG94NT/ftg==;nK2hMplT8+VhAyXbMhMAfA=="
 ---
 

@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The AI Boom Could Use a Shocking Amount of Electricity"
+    excerpt: "Powering artificial intelligence models takes a lot of energy. A new analysis demonstrates just how big the problem could become"
+    publishedDateTime: 2023-10-13T11:11:00Z
+    webUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/"
+    ampWebUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/AE1CFA10-BB53-41CF-9D9F713DA1BA26B4.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "MjQN6sT+Nzj0X6D+xvfCe25GI652tqT/0MQJjlPQ+ki6vyos7CqUC+c/VPAomZ2EVpvrXwSQDXk7IprmGEek+S1LMRgwRIMNsuBE4ywK9asNhY3IR7W4Cjx50LKaBEg1F1SO6SppblNZAjFyA6riXojIQlkjtabdPCxtecySaZqp3mbSdT/di4Dywrvj42JqAk9XjzHWetKEBlk91dKm8Y+mg1i2lgQKCfQDN2N0Ni6hB1szrFH/8BTPtmWy//zKVJl5bUvAdFNFcqwkHFbtY4S08p3q97YN8FOVhrGGZCXFDXdAigXyCSCEcKZhP7k5kBRflTzJL0YT+LOhnEr/rFKqFrsUXV4jCaRP5B81J30=;Uc4FdJbdrT4i21/yzHfOwA=="
 ---

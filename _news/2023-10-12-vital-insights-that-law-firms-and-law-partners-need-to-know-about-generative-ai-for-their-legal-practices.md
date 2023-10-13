@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
 type: article
 quality: 70
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,62 +30,54 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI in the Contact Center: Uses, Benefits, Best Practices"
-    excerpt: "Read on to learn how generative AI is being used in contact centers now and how it can benefit contact centers that adopt the technology with security, ethics, and other best practices in mind. Though most people think of generative AI in the context of ..."
-    publishedDateTime: 2023-10-12T21:33:00Z
-    webUrl: "https://www.eweek.com/artificial-intelligence/ai-contact-center/"
+  - title: "How creative marketing giant WPP is preparing for generative AI"
+    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
+    publishedDateTime: 2023-10-13T10:56:00Z
+    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
+    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
+      name: Diginomica
+      domain: diginomica.com
+    quality: 76
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231012-ai-contact-center.jpg"
-        width: 1400
-        height: 900
+      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
+        width: 2062
+        height: 1366
         isCached: true
-  - title: "Behind the Prices: Is Generative AI Legal Tech Cheaper to Buy or Build?"
-    excerpt: "The costs to run or buy generative AI-powered tools can be considerable, but there are no easy ways of getting around them."
-    publishedDateTime: 2023-10-12T19:57:00Z
-    webUrl: "https://www.law.com/legaltechnews/2023/10/12/behind-the-prices-is-generative-ai-legal-tech-cheaper-to-buy-or-build/"
+  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
+    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
+    publishedDateTime: 2023-10-11T17:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/10/How-Much-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "Artificial Intelligence Optimists Concerned About Risks of Visual Misinformation"
-    excerpt: "TC’s Ioana Literat has complicated feelings around artificial intelligence (AI). More than anything, she is an optimist who sees the positives that generative AI can bring to society — even in just pushing educators to think deeply about their goals ..."
-    publishedDateTime: 2023-10-12T16:14:00Z
-    webUrl: "https://www.tc.columbia.edu/articles/2023/october/artificial-intelligence-optimists-concerned-about-risks-of-visual-misinformation/"
-    type: article
-    provider:
-      name: tc.columbia.edu
-      domain: columbia.edu
-    quality: 32
-    images:
-      - url: "https://www.tc.columbia.edu/media/news/images/2023/october/ioana-literat-ai-2023-social-card.jpg"
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
         width: 1024
-        height: 512
+        height: 768
         isCached: true
-  - title: "depa partners with AstraZeneca Thailand to Boost Digital Healthcare Innovation for Thai Public Health System and Improved Quality of Life"
-    excerpt: "The Digital Economy Promotion Agency (depa) and AstraZeneca Thailand continued their partnership to promote the adoption of digital healthcare innovation to improve Thailand’s healthcare system, to expand the use of artificial intelligence (AI) technology for initial lung cancer screening and expand the results to other types of cancer screening."
-    publishedDateTime: 2023-10-09T01:37:00Z
-    webUrl: "https://www.thaipr.net/en/exhibition_en/3393449"
+  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
+    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
+    publishedDateTime: 2023-10-10T17:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 21
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/zg-1-5cb1409c-e1696815426104.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
+    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
+    publishedDateTime: 2023-10-09T19:46:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
 
 secured: "P0xzlG/hHep0tn2doTbdv7/8u26E4lMAn9EV1XOJTJMOtcHxKXCXsazopHCCxixdKiEgTrktssDTAgVbatENkbmYYaognSqRL2GbesFM3ZLEfc7gjr/1zwt2EaUGNOGI2hwkPHp1Be5L08bLve93dcBXsvmOrlOJjuBhnh9EPB4xLYvj/OhtVTCZsGt+IDjJKmXKZPlA4F71Iq7EymJ5uAJvEigwG40Fpro6xPwFmslQxpa/hkIg0JmVkFw3waeoqIpargUIiuCNKuqtdEaSiya3OtOcKp+AxSlLRZMqOa1S+HMR0Kb4p42iHh8TPh63TuFuhjr6QFJTVIsUfXN3sVex3DXuqkGBmRU0UYzrJrM=;gvfi0f2tDKfPo/85NULEQA=="
 ---

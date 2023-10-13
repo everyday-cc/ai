@@ -37,6 +37,22 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Navigating Ethical AI And The Future Of Automation"
+    excerpt: "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles."
+    publishedDateTime: 2023-10-13T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65281e618a11dedf60f87672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Welcome to the AI gym staffed by virtual trainers"
     excerpt: "Wall-to-wall LED screens, algorithms, and motion tracking sensors allow Lumin Fitness to offer supervised workouts with no human interaction."
     publishedDateTime: 2023-10-09T08:51:00Z

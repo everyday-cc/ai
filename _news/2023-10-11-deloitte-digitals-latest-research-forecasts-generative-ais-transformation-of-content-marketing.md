@@ -24,50 +24,61 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Get AI for Content Generation, Image Creation, and More for $80"
-    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
-    publishedDateTime: 2023-10-09T16:07:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+  - title: "How creative marketing giant WPP is preparing for generative AI"
+    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
+    publishedDateTime: 2023-10-13T10:56:00Z
+    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
+    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: Diginomica
+      domain: diginomica.com
+    quality: 76
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
+      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
+        width: 2062
+        height: 1366
         isCached: true
-  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
-    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
-    publishedDateTime: 2023-10-09T13:43:00Z
-    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
+  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
+    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
+    publishedDateTime: 2023-10-11T17:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
-        width: 1000
-        height: 667
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "UpscaleImage.AI Announces the Launch of a Next-Gen AI Tool, Revolutionizing the Realm of Image Generation and Repair"
-    excerpt: "A groundbreaking tool has been unveiled by a pioneering AI startup, revolutionizing the field of image generation and enhancement. The tool targets creators, marketers, and everyday users looking to fix their photos."
-    publishedDateTime: 2023-10-12T20:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35229886/upscaleimage-ai-announces-the-launch-of-a-next-gen-ai-tool-revolutionizing-the-realm-of-image-gen"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35229886"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35229886"
+  - title: "Vital Insights That Law Firms And Law Partners Need To Know About Generative AI For Their Legal Practices"
+    excerpt: "Law firms and law partners need to be thinking seriously about the adoption of generative AI in their legal practices. I cover top asked questions and give vital answers."
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64decaf569374c283b0c8ded/0x0.jpg?format=jpg&crop=1908,1271,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
+    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
+    publishedDateTime: 2023-10-09T19:46:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
     quality: 34
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "2vy3hk6COpOhlmMhoAzNXwuJP61Fg4Cdjat3JsUAv8kvaYMo5nFz+e8+4/OkqX6v0mN1WomgQvTvtc1OGyCxOcEREkEqkltm2VY+Dr/LLKb1uDHHVDxK8eR03GeB8c/pbB4VADzBKr1c/Ks7xpgow7Lk4/V1HCHFIbkRpMhkONlS0D/+dtBz6sVvi3xhLfKDX8zXMAlBhfB499eEayqLUzpKF4lIeiixnB6T/d9u0JyI7fy+GmX7t7JC82xE/hb9PyfY/SDoIJzm51JvvX6IhiE0lHTCjomkD3L2FllXhby9xWNZiptMaB4yfgnVm/0G8fF6B5UN97ScJLu4rKvui78tP2mXyJU8R6kNwHxW4bC6L8NLOBqlFQFIX/I7UnWfucmfK2fUUeKgj04rGXCp649voLKahqoOSsZfaxXDPB+bq8bKH23azvJZjod2rPDcigwgE6v1vjGcgMK6rsSL/vYqAYCKw31RB/Gz9rdIf47Ew6WoVfCA6SC1G2AW0cA5hU4YQrFUbolpWaY+VQN36Q==;8NgJwEe+LWtiaLbTpdGgWw=="
 ---

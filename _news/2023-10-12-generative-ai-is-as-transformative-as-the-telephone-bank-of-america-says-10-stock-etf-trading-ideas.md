@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-a
 webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
 type: article
 quality: 70
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,15 +30,56 @@ images:
     isCached: true
 
 related:
-  - title: "AI Pioneer Sai Nitisha Tadiboina Has a Transformative Impact on Healthcare Technology"
-    excerpt: "Sai Nitisha Tadiboina's journey exemplifies the dynamic synergy between AI and healthcare, where her vision and dedication are shaping a brighter future for medical technologies. Through her work, she envisions a healthcare ecosystem where AI-driven technologies optimize diagnostics, treatment, and patient outcomes."
-    publishedDateTime: 2023-10-11T19:42:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273996297/ai-pioneer-sai-nitisha-tadiboina-has-a-transformative-impact-on-healthcare-technology"
+  - title: "How creative marketing giant WPP is preparing for generative AI"
+    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
+    publishedDateTime: 2023-10-13T10:56:00Z
+    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
+    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 27
+      name: Diginomica
+      domain: diginomica.com
+    quality: 76
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
+        width: 2062
+        height: 1366
+        isCached: true
+  - title: "Vital Insights That Law Firms And Law Partners Need To Know About Generative AI For Their Legal Practices"
+    excerpt: "Law firms and law partners need to be thinking seriously about the adoption of generative AI in their legal practices. I cover top asked questions and give vital answers."
+    publishedDateTime: 2023-10-12T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 70
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64decaf569374c283b0c8ded/0x0.jpg?format=jpg&crop=1908,1271,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
+    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
+    publishedDateTime: 2023-10-10T17:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
+  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
+    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
+    publishedDateTime: 2023-10-09T19:46:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
 
 secured: "H31t+oad4z0r/JBSb2eYfcNVMu0p52ItO0yUza+5hC20TsNFTYjrW14O7mEWT/BTkYEKUpcWKHdYAFA4e3xhRBDVT2zp5RdKMRfB1wp8r2K3GyIuLK9Xl/gAXSYHbC+FKqJI5Kq19H6i1lEl+PrmjqlB1QT0arVxoCk+x3Qb5Bp8PaMz2q/VLCJw7KwbzY5QHCXJINJwasC9XRWC5KYwtqLeza1bUMG6H/C+dUCnhV+QKS8tXZwIDRUlfcaU1dvs7gclJ04PDVjUPmfUXsiBPfRuY16Bpb2dP1YxrXqc2qlL0DjpykNGve9XjRnWyNt/8brrMKJmPMydaFxMZBE3bS9F+JwWkfVL0u2X/cP6PyM=;YF9zYY8e5E08CEyNyRAklw=="
 ---

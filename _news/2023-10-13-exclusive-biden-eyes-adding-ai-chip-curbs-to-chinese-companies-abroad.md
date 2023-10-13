@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Exclusive-Biden Eyes Adding AI Chip Curbs to Chinese Companies Abroad"
-excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... The efforts to close the loophole show how the Biden administration is struggling to cut China off from top AI technology and how difficult it is to plug every gap in export controls."
-publishedDateTime: 2023-10-13T01:32:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2023-10-12/exclusive-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad"
-webUrl: "https://money.usnews.com/investing/news/articles/2023-10-12/exclusive-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad"
+title: "Exclusive: Biden eyes adding AI chip curbs to Chinese companies abroad"
+excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
+publishedDateTime: 2023-10-13T09:13:00Z
+originalUrl: "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/"
+webUrl: "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/"
 type: article
-quality: 64
+quality: 84
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "China says it will closely follow proposed US move on AI chip curbs"
@@ -119,6 +125,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "Vkhvh1f9+fYKdPoPYnGYVkoEvR66+CsHWoUcKGiJIVR3ovggetGEAKsT5fA7AH/DR6UJdaVeo4PzbX/Uygf41T64kNS2wu0+QzPL2kEAM5LPYecxEBTT3CSTqC7a9yE9Vmy3WSfSL8Tx2Cvh8qr+7BAGf/sQijCzlCthcribgYwgSPVEO98a9irOyvTtgAzZR1RO8NIj99Q42E2XoXasr8bn2VkhMeMDeiihRI6DioVvPmasc1mlYKYBJCwr5aCdCgjI873PQELyuWnxl/iGNQEzznIH909NjyJ5n6BmlfGxL6PJmlUd0geHqnf9F6u9ABNq3oqkNTGCxCmuyNV/QkEq1uzLgYt19RgxhWtHKGQlzCOmJwZW0bO0zK+QncPRrFS/XOOd/JFMmGF+IBcwT8ciNw5YIekdzShYDaC6ed2M2Z83oHNHG5SAwYMOQOUvpq+CN/Gisl0BzX2F1Qd1nkES0J/HvV2aOc69AzEwRUGJY8Zk62PsvRED3G0RjWT51BJ6wz2KzietfJGPgvZK+A==;paABObB7RdDYJ2ngrz0w2g=="
+secured: "HWlGBl6d3cgB8+YMKX8j4OKjdgAgrsT4HL1pSWQb3AOvV88gfQUiSyr/9EwaU7G3Dq8YuqycYBlVwIIuPc4DiIfa5KrSvyZv29FF3LQlFo3oATEJQbRO4uzn7iFGR6qa1B2ZCWJMrzHPCiFEFhUrTs0sRl6dY9Of9pdD6PriynF39oYpYrr3RDkRZOjMJJjAEXw46BLbpwzL360JhHBm4n2aOVldaKarWdbkgy4CkUhUCd+mNWXO6rjE0CVyEZOQB9zVu+ofMtcXvb1dzKVT68BgqqiKxb5/3MPZPRJowiOO1EUMMRlOBrQUf7l6YjYztWM03dBatSxvJAaeT0oi2Uy5JllAehMygy+JGM7Q1w4=;6i2/mDOAZ+uQP/c1/gzF3w=="
 ---
 

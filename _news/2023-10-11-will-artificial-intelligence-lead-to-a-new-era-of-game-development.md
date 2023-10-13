@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Government will assist the development of AI chips using the PPP model: MoS IT"
+    excerpt: "Government will assist the development of AI chips using the PPP model: MoS IT - The government announced to support the development of artificial intelligence (AI) chips via a"
+    publishedDateTime: 2023-10-13T10:03:00Z
+    webUrl: "https://www.siliconindia.com/news/general/government-will-assist-the-development-of-ai-chips-using-the-ppp-model-mos-it-nid-225894-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 50
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/PBd5vT3H.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "AMD acquires open-source AI software developer Nod.ai"
     excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
     publishedDateTime: 2023-10-10T18:19:00Z

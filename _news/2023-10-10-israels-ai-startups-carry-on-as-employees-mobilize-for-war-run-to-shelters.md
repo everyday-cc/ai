@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Israel-Hamas War Causes Nvidia To Cancel AI Summit"
-    excerpt: "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation."
-    publishedDateTime: 2023-10-09T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Hamas assault on Israel shows surprise still possible in AI era: Peter Apps"
     excerpt: "On Sept. 27, barely a week before Hamas fighters launched the largest surprise attack on Israel since the 1973 Yom Kippur war, Israeli officials took the chair of NATO's military committee to the Gaza border to demonstrate their use of artificial intelligence and high-tech surveillance."
     publishedDateTime: 2023-10-09T18:36:00Z
