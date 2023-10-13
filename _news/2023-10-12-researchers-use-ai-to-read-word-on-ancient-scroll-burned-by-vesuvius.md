@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/science/2023/oct/12/researchers-use-ai-t
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/oct/12/researchers-use-ai-to-read-word-on-ancient-scroll-burned-by-vesuvius"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -40,7 +40,7 @@ related:
     provider:
       name: BBC
       domain: bbc.co.uk
-    quality: 57
+    quality: 59
     images:
       - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg"
         width: 640

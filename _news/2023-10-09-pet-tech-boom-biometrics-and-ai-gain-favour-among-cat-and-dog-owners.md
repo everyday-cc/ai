@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Innovatrics and Nedap partner to create keyless lockers using face biometrics"
+    excerpt: "The AEOS Locker Management system enhanced with facial recognition technology eliminates the need for keys, fobs, or PINs."
+    publishedDateTime: 2023-10-13T17:21:00Z
+    webUrl: "https://www.biometricupdate.com/202310/innovatrics-and-nedap-partner-to-create-keyless-lockers-using-face-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 21
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/13131751/locker-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
+
 secured: "9r4CiJtCJrGcpcuZhjGn7QrHMwHXI1N+NFja+l3Y0Ws8Vz41hvR8R/q7IP4HK3bEgmC0rS88ic4xjepqudSKcfp6MW2BASdVuieeaiAfpfYoTl3N+uc/9IgEjR3JnM07MTvEPQh3O0U2sV7C+PlxBIesmARq4Hp9F9TMnzlliZfuvnW3YYO0aJe4esE0NndbFf5h0ei/h5pFk64Yd4VAIwwzIQOkwHQfoFq+MTZnqdRYTa6fHm7cojTs8IN5teA3et8fCr4JgdXgdPnx13nEEecJsDRYVGpucbmwv6Cv8/k9t5N2RIrnNtXXB2K90HUmbhV6oL/JQwhrIQkfp0SRq05U2Tuk4K2SE2nLCQEKprI=;Ez2eBG8vzONOAB3f4/DOOA=="
 ---
 

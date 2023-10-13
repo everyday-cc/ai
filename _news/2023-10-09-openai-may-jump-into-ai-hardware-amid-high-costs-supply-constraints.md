@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-ju
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/10/09/nvda_chip.png?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Leveling Up AI: OpenAI’s Bold Chip Endeavor"
-    excerpt: "OpenAI, a leading AI startup, is considering the development of its own AI chips to address growing shortages in the AI model training sector. The company is exploring strategies such as acquiring an AI chip producer or designing chips in-house."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.dmnews.com/leveling-up-ai-openais-bold-chip-endeavor/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-Endeavor.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "UxbMdMGGxocYwW4709NoLAT2EblyN12Ia3JCct89HsCcCSxOXLFYyLEuLGoqeZrkch7NEd0HykLItPSixOFRrbfOKRynWHnZk/EDWAxWagkCGSU/rK9xUqu4872FOSKdWNBjgQqykgkxD0JT3Jmfd5nUZcAAdXkmcxhW08mCQDlHFhM30JKkb+apXYUm4Hrpv/kjV1xu1SfS+1jVMq1Yw3Ueif1W5usN8PBiTIqBmQWohY+z5F9J11EDQW5S5G3Wdxz4/X1XllGw4HuNqnPXihHCzKihg99BUCSyjqa6f+rz9MlWfY1qYx79VEW9z4R/20Bo607JDys65kS6RMylYzaPB9iK97vWdP8NuZoLUHHUlivSZwkC0rKC0cm9JQ37/JCH9hA4e4pUNs/vorFDBvxB7AO0/hqOpakoey27KfBSfGhh+8staJbr1UFZdAP+x4l+9BbcnLYMbE8i+fpw4mqRG90D9IXVoW0PxMKSD9VGI2/hU1FW73BTeCWWhxS0WyxuYZoVNFgltBGQjC8RHw==;SIluF2ktolEOZFe9/lFOVw=="

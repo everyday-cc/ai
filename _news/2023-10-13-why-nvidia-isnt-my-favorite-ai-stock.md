@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
+    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
+    publishedDateTime: 2023-10-13T16:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-91984761/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Israel-Hamas War Causes Nvidia To Cancel AI Summit"
     excerpt: "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation."
     publishedDateTime: 2023-10-09T14:10:00Z
@@ -188,6 +204,6 @@ related:
       domain: theglobeandmail.com
     quality: 29
 
-secured: "Tn7UcVyFQIOv4rAd84A/H3KORWS3xR33UGQP+2+8+IvQ//homHgEqlpi8KHiSGjtjkV4UGVKfi9EIiE0eC0r5QQArrCI9U8fcZARJj6HKjkz1G3JSR0x3NvZzDrWPTLRwAPA4OdHURBfQh/AbAdeySLSEFhB660/ZPIFO4bP7X7R5nODQ0YA4Bl7UrxYGAvQlUI4yacC7SX9C+m4Xp/2JMipCe4zruqb0pzFxfQOsqT3Lm9jXzUQ2ugUvCBL4J13Mxgf9sHQpFT7OFZ46TVy8rec7aFgHl3sahYU6HRb26pJdvKttCfeNu79dbgzoVcOKNho/Dvtws3aZeaLOiGTVWiAIgBFAL5uB4hxUas/qHs=;+mC41uQ3+xPk2pEBycuHDA=="
+secured: "ehC/Rh2T9bdoNRUyI0C552CYUzvC7hrIXL6yP2mB/4GiwLiFpcS1RYSx+JiDZJZkN3wyVyfz2/av4JL5Y7TldJN/f4/5NjnETXIlWSp0AYtcNaeg9r/mSsPmKeGbaJglZoya45CnfPZ7D7Saqz0WxcKaS0GomKhJ862e4v4g0duH02TVc6N+l7DJEpAn1Vb2NgWY+oas/Bho7AeGfFa21LncnUSXK7pvxE+ieLGl5ZC6pNMRAL8F9BhPFCJodKelSsKQ6d2ijOkCM4x5XgiFIP16U9InEZHpZWRcYJJ3CF3ElV+pWYljQr8bPjqI7hTxtsck5ozB+Wn4fFoxsIYQO7PERZ/gxd+nVYf01fIEsnH0fSh3aGkRgbmSZsE0XUxwjXmOyaywNPouZJA1LZQclui257Dgmex6UWZep+ABIUZcSKogjeWRYOXI+LXua6VbKttgstY5Ew7j0eloCVi6ANprWaO5cUcvRAuYGcdaume9lwPS6+Q3drtNT2L3fg/WeLiMCvtrmqCugtKwnJbugw==;WhVQv9Ekybd+zt0shFbu9g=="
 ---
 

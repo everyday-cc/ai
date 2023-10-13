@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-03-institute-for-physical-artificial-intelligence.md",
+      "title": "Institute for Physical Artificial Intelligence",
+      "excerpt": "Purdue University is building a world-leading program in artificial intelligence (AI ... Purdue’s often sought-after experts share their insights on topics including self-driving cars and human-AI interaction. Purdue has existing centers in a wide ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/",
+      "originalUrl": "https://www.purdue.edu/computes/institute-for-physical-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.purdue.edu/computes/wp-content/uploads/2023/06/cropped-IPAI-Home-Hero.jpg",
+          "width": 915,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023.md",
+      "title": "Kyle Vogt to discuss self-driving cars, AI, investing and more at TC Disrupt 2023",
+      "excerpt": "Cruise, the self-driving subsidiary of General Motors, has raised over $15 billion, employs more than 3,000 people and expanded its footprint across multiple cities within the U.S. It even has a presence in Dubai. What does it take to build and scale such ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/",
+      "originalUrl": "https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/vogt-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/amp/",
+      "publishedDateTime": "2023-09-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-are-self-driving-cars-already-safer-than-human-drivers.md",
       "title": "Are self-driving cars already safer than human drivers?",
       "excerpt": "Based on this data, Cruise claimed that over its first million miles, its vehicles crashed 56 percent less often per mile than a typical human driver. Moreover, Cruise estimated that its cars were 73 percent less likely to be in a crash with a risk of a serious injury and 93 percent less likely to be the “primary contributor” to a crash.",
@@ -1256,101 +1351,6 @@
       "provider": {
         "name": "AutoGuide",
         "domain": "autoguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving.md",
-      "title": "Tesla Is Wrong: Single Passenger Cars Should Not Be Focus For Self-Driving",
-      "excerpt": "The focus of Tesla FSD is wrong. We shouldn’t be aiming to make single-passenger vehicles autonomous, when there are other areas that will provide greater benefit sooner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7d44f7b6ad5c3a54af6bf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2023/08/26/tesla-is-wrong-single-passenger-cars-should-not-be-focus-for-self-driving/amp/",
-      "publishedDateTime": "2023-08-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-26-driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians.md",
-      "title": "Driverless cars ‘worse at detecting children and darker-skinned pedestrians’",
-      "excerpt": "Dr Jie Zhang from the Department of Informatics at King’s College London, in collaboration with colleagues, assessed eight artificial intelligence ... which tell a driverless car whether ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians/",
-      "originalUrl": "https://www.just-auto.com/news/driverless-cars-worse-at-detecting-children-and-darker-skinned-pedestrians/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/02/AI-autonomous-fleet-platooning.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
         "images": null,
         "publishers": null,
         "authors": null

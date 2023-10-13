@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-ge
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
+    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
+    publishedDateTime: 2023-10-09T19:46:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
 
 secured: "gwr1f/8DVAbci+t7ky79KnwJEJKnNhq+KLCzqiuzF9dAGOw7++kRiy2ElVXFBrKdYcgM0vxlGgmd0Z8CWhyYTZn+ir4Gx0/rnKrhWqRh7Q6DTw71ttExpTJJRZyJebrlzolEcfQoVpE1kkwP17lvtUGmz4X5PY09FCiCbYeWdhcENWae79RO1iYKZJD7q4U4dOTSKJ7DMOqyBqDORNMc9Jq8ycyI+Ztp4Cu32an4t5jaVjk8Zg73m3r0WWKmp4E82oWQ4bqJ29/85inUdc58hkv//c0o+tWgZtFZX8WZDUVJUPQevfg8YiVGweNR023AMF6kjWK/Zq3BRfEOvjtmgIdE6kAlYJWfeXoQ2qzdTCM=;O7pSxOraE2Y/1ZtqqvZ5OQ=="
 ---

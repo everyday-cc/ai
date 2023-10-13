@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-67054382.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67054382.amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Users divided over AI generated profile pictures"
-    excerpt: "Using AI-powered apps to create professional-looking headshot photos is now popular, but are the images any good?"
-    publishedDateTime: 2023-10-11T20:16:00Z
-    webUrl: "https://www.bbc.com/news/av/business-67074599"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2A1A/production/_131387701_p0gkpzfw.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "How to create professional AI profile pictures"
     excerpt: "You might be interested to know that you can create professional personalized portraits using Stability AI’s Stable Diffusion AI generator. If you’re not so comfortable using Stable Diffusion there also other services and apps available such as Remini ..."
     publishedDateTime: 2023-10-12T11:48:00Z
@@ -54,29 +40,6 @@ related:
         width: 700
         height: 451
         isCached: true
-  - title: "Disney's 'Loki' TV show accused of using AI generated art for release promotion"
-    excerpt: "Illustrators are accusing Disney of using AI-generated artwork in the promotional material for the upcoming release of Loki season 2."
-    publishedDateTime: 2023-10-10T05:46:00Z
-    webUrl: "https://www.tweaktown.com/news/93687/disneys-loki-tv-show-accused-of-using-ai-generated-art-for-release-promotion/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 35
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93687_559111_disneys-loki-tv-show-accused-of-using-ai-generated-art-for-marketing_full.png"
-        width: 1500
-        height: 837
-        isCached: true
-  - title: "5 surprising stats about AI-generated art’s takeover"
-    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "85kRhBhmUOqrAt8Hq+IUiIZRDP7yRWMQP/dgroKPPDmWrfTV2MyljWQbYqwx5/L5EXfdjjCa8GIJRArf+0XYY10sxXYeH1TmMqo43ymhaOZ0aECCx//JmILtbSYwGgtKP+QHdFxi2xPhJRctZ8FsD8RBroFOxmPhsx0iWYAA+FWO1TmLx/xAYRN7/4fdGQXbP+ne3PuVlxWipR+TCBu5BEU5wfnMJ5XrJF61X0heCPAcv8sHuh5zHtDs/GVq7ptxuWi05LJ5sx8lZFq4V6vsdZ1ibNP7n7g4q7OOILNyQRF6jH7fe9w5A0KIKfczHjnWLy+jsoDj0HO9NKQg/G/tGdrF2F2ZFpfs2Ski8tQp3t4=;wa0H3PxUmGDhpNv4VxCxWA=="
 ---

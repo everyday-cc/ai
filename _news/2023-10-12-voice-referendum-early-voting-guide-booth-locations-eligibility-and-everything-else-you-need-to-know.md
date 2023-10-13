@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "On the voice referendum, we’ve nothing to lose, and everything to gain"
+    excerpt: "For the first time in more than half a century, Australians can vote to heal our country. On your ballot paper is a 92-word vision for recognition, a modest request to be heard."
+    publishedDateTime: 2023-10-13T16:28:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "Voice referendum early voting guide: booth locations, eligibility and everything else you need to know"
     excerpt: "Can I vote early? Where do I find a voting location near me? Your questions answered on how to vote in the Indigenous voice to parliament referendum on 14 October"
     publishedDateTime: 2023-10-10T03:03:00Z
@@ -88,6 +99,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
+  - title: "Coming to terms with the past is more important than ever. The Voice referendum is a vital first step"
+    excerpt: "Voice supporters are not looking for division, but rather a desire to play a role in the future of a nation that accepts it’s our country, too."
+    publishedDateTime: 2023-10-12T19:02:00Z
+    webUrl: "https://theconversation.com/coming-to-terms-with-the-past-is-more-important-than-ever-the-voice-referendum-is-a-vital-first-step-215152"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 0
 
 secured: "sHc8SzeCPQBrLUFPVz83gzD0/K0wyYwhGQrcbKEMCF6rhqGww8LH8W+hXo6556L27ixz8s1gZqb8byLgXBtZPF+pSH4IgS15DLkTknxjHcT22wl3iQI9Hmp6KbviXmDS+GcKIUzSbXLR9El0Ajo63WI/3dNLdUfFtNDBjMGqY/C4eBczbu9/3lSiB7CMo3Z2Cj06Jl3frxCIZBmXQXA5j/EiVJ0dgmq9VG2bi9z7bdvTvzKyEkhQopwRafoFe7H1Fe0pL8An1xA5V8LT1PPKwVXz2AmLwaVO/hM6/XQlUmRowNKurwxqgwtS7Hr/zosQo55cNeQdBaF5mEaqsjdrGoqwm7n2/tuONWNmzycp32ZUc8yhyEBa3kGhRxYXCov9Z0CeLaVEH2irNK71+115p2jrjfdnWPcBYSAzechxE7J1xRLcBIYTFKK37HTJVmNg5YNlteag5sULuV5dSkS/29/jLTWdlI9cLIAndEaNKwa4SwqBBNqB2GGlA2d/y2ttD38IpgWl4jXV+5jHinSu5Q==;F2jqgW1OESZU3yeyvq3maw=="
 ---

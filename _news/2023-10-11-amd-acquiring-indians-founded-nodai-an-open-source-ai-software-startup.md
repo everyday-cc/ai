@@ -24,110 +24,84 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence will transform Indian Economy"
-    excerpt: "New Delhi: The government is hopeful that India's artificial intelligence (AI) programme is likely to be a kinetic enabler for India to achieve the goal of a $1-trillion digital economy by 2026. Besides, the country’s AI programme will also focus on comprehensive skills in the country and building computer infrastructure among others."
-    publishedDateTime: 2023-10-13T10:01:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
+  - title: "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities"
+    excerpt: "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,"
+    publishedDateTime: 2023-10-11T07:29:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
+    excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
+    publishedDateTime: 2023-10-11T11:14:00Z
+    webUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 59
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s40itrnobcarmt6el9q9g6sne2-20231007080411.Medi.jpeg"
-        width: 800
-        height: 448
+      - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1004
         isCached: true
-  - title: "Meet the 16-year-old Indian girl whose AI startup is valued at Rs 100 crore"
-    excerpt: "A 16-year-old Indian girl is making her mark in the world of AI with her startup, Delv.AI. According to Business Today, Pranjali Awasthi established Delv.AI in 2022. It is already valued at Rs 100 crore ($12 million) and recently impressed attendees of the Miami Tech Week. At 16, Awasthi has a team of 10 people working under her."
-    publishedDateTime: 2023-10-12T02:49:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
+  - title: "AMD to acquire Nod.AI open-source AI software startup"
+    excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
+    publishedDateTime: 2023-10-10T19:40:00Z
+    webUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup"
+    ampWebUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Collage-Maker-12-Oct-2023-08-12-AM-9755.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/10/amd-to-acquire-nodai-open-source-ai-software-startup_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "At the deep end: Putting a spotlight on the Indian deep tech startup ecosystem"
-    excerpt: "This fortnight, we have a collection of stories of deep tech entrepreneurship, from robotics to aerospace, as well as the burgeoning number of venture capitalists opening the purse-strings to fuel the"
-    publishedDateTime: 2023-10-10T06:45:00Z
-    webUrl: "https://www.forbesindia.com/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
+  - title: "AMD acquires open-source AI software pioneer Nod.ai to fortify AI capabilities"
+    excerpt: "The purchase of Nod.ai, founded just three years ago, shows that AMD is serious about staking a claim in the rapidly growing AI chip market, which is expected to reach $383.7 billion by 2032,  according to industry analysts."
+    publishedDateTime: 2023-10-10T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/amd-acquires-open-source-ai-software-pioneer-nod-ai-to-fortify-ai-capabilities/"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 40
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "AMD’s Strategic Play: Acquisition of Nod.ai to Challenge Nvidia’s Dominance"
+    excerpt: "As the AI industry continues its exponential growth, the competition for dominance in the hardware sector intensifies. AMD, a pivotal player in the microprocessor and graphics processor market, has taken a significant step towards bolstering its position against the industry titan,"
+    publishedDateTime: 2023-10-11T17:44:00Z
+    webUrl: "https://www.unite.ai/amds-strategic-play-acquisition-of-nod-ai-to-challenge-nvidias-dominance/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 35
     images:
-      - url: "https://www.forbesindia.com/media/images/2023/Oct/img_220141_forbesindiaedit.jpg"
-        width: 900
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Alex_Mc_2_AI_chips_next_to_each_other._One_is_green_and_white_a_0243e714-aca4-4895-aa15-bb29f3fc9966-1000x600.jpg"
+        width: 1000
         height: 600
         isCached: true
-  - title: "Indian-American teen's AI startup valued at Rs 100 cr"
-    excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"
-    publishedDateTime: 2023-10-11T16:38:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19232/indian-american-teen-s-ai-startup-valued-at-rs-100-cr.html"
+  - title: "AMD to finalise acquisition of software startup Nod.ai"
+    excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."
+    publishedDateTime: 2023-10-11T12:36:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/amd-to-finalise-acquisition-of-software-startup-nod-ai/articleshow/104346348.cms"
     type: article
     provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 37
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/6ab22df3358ea8e39d1d7cdfc7f3b6fd.jpg"
-        width: 800
-        height: 580
-        isCached: true
-  - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
-    excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
-    publishedDateTime: 2023-10-12T04:37:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-founded-by-a-16yearold-indian-prodigy-is-now-valued-at-100-crore-nid-225863-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 34
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/cRAfb40B.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Artificial Intelligence Key to Future India-UK Trade, Says Indian Cabinet Minister"
-    excerpt: "Investors have been urged to support a new state of the art artificial intelligence park which is being built in Maharashtra, India."
-    publishedDateTime: 2023-10-11T11:27:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14366"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 31
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14366_1697023153857708.jpg"
-        width: 752
-        height: 502
-        isCached: true
-  - title: "Introducing Voiceai: The Most Accurate AI Transcription For Arabic And Indian Languages And Dialects"
-    excerpt: "NeuralSpace releases VoiceAI: The most accurate call transcription, translation and speech analytics for Arabic and Indian languages and dialects. Melanie Swamy-Brown NeuralSpace +44 7889 918293 Visit us on social media: Twitter LinkedIn YouTube"
-    publishedDateTime: 2023-10-09T08:28:00Z
-    webUrl: "https://menafn.com/1107210792/Introducing-Voiceai-The-Most-Accurate-AI-Transcription-For-Arabic-And-Indian-Languages-And-Dialects"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?331303"
-        width: 375
-        height: 250
-        isCached: true
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 17
 
 secured: "gYrIUAksqcAzDdAuLZcMl+tzlUF4wWmb4OCFtFHq/hIg5vpdj2cb3T5kz8/BkpZx2iJQOskgCuRFnOh4zmi3pFUFXuAJil0B8x+MXLs0/9FsAqBlAMH1sYlf1uU3LOAma6rxnOWkSfJEeOg4XIs0EpVqtA0BRzPprtxpZTNdxgfZbYTLbOwFFR0QHp4QK6IToAiuANY1udQyL88wf91yNBBHap8SX69khZikuWWi8sH9oZpVbKhxRNfuanXC2nDjvJfKE9kZ0Zb9QlKQpsCmTHE0aINKb2CcnHbLhmAAydQoc5p5OrmqsceNEVYIEwlpLfgTm4X8wD70PFEps9ht2cngUkeifsEj6b2Wz175m9NNge6OLCPERYGg5lQ25oclN9gqACXFi2gin4ObnyGPkHrLynM4H45QqMS9USi6OZtH7tU/Tm/MMcWAZ3Dt9ZxD3P9wKuEnuIB9z7MIQYZgNg3ok4Q3HEOCUY0m/CFtJ3mGLMIB7/QYgDo2/dJYZpNKJFesJGP7mNA1zgdNcMgmgg==;Mj3sSWDd/NACrDWbcB/PKw=="
 ---

@@ -184,6 +184,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 14
+  - title: "Origintrail's 1St DKG Conference Brings Together Internet, Artificial Intelligence And Blockchain Pioneers To Harness Trusted AI Across Industries"
+    excerpt: "DKGcon 2023: Fireside chat with Dr. Bob Metcalfe, Internet pioneer and Ethernet inventor, and Branimir Rakic, Co-Founder of the OriginTrail ecosystem, moderated by Ivan On Tech, Founder of Moralis Academy."
+    publishedDateTime: 2023-10-13T17:34:00Z
+    webUrl: "https://menafn.com/1107238252/Origintrails-1St-DKG-Conference-Brings-Together-Internet-Artificial-Intelligence-And-Blockchain-Pioneers-To-Harness-Trusted-AI-Across-Industries"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?285694"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
     excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
     publishedDateTime: 2023-10-09T13:30:00Z

@@ -56,20 +56,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "OpenAI Eyes AI Chip Production Amidst Shortages"
-    excerpt: "Similar steps have already been taken by other tech giants like Apple, Google, and Tesla, who have all made progress in developing their own chips. Should OpenAI proceed, they would have better control over the AI systems’ performance and capabilities ..."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.dmnews.com/openai-eyes-ai-chip-production-amidst-shortages/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Chip-Production.jpg"
-        width: 1000
-        height: 523
-        isCached: true
   - title: "3 AI Stocks That Are Surprisingly Reasonable Bets"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the rapidly evolving world of technology, AI stocks are emerging as some of"
     publishedDateTime: 2023-10-10T23:05:00Z

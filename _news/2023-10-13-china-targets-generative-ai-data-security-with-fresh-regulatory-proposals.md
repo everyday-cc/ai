@@ -115,6 +115,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "What Generative AI Can Mean For Enterprises"
+    excerpt: "In order for these outcomes to be achieved, however, GenAI will need to evolve with more standardization, safety, bias mitigation, security, economy and governance. Once it does, GenAI plays a more active role in governing enterprise GenAI through continuous learning of policies, spending and governing patterns."
+    publishedDateTime: 2023-10-13T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/1180038568/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Generative AI could help low code evolve into no code - but with a twist"
     excerpt: "Generative AI tools can handle many low-level tasks, but professionals need to be careful how they use the technology for coding."
     publishedDateTime: 2023-10-13T14:15:00Z
@@ -209,6 +225,22 @@ related:
         width: 636
         height: 424
         isCached: true
+  - title: "Here are some of the ways Apple might use generative AI"
+    excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."
+    publishedDateTime: 2023-10-13T12:58:00Z
+    webUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/11/gift-guide-for-fitness-enthusiasts-100868109-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Power Of Fine-Tuning In Generative AI"
     excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
     publishedDateTime: 2023-10-10T13:46:00Z
@@ -292,6 +324,6 @@ related:
       domain: cio.com
     quality: 17
 
-secured: "jDMjmFMje/ctm4NfTZjC1L1huOeZkBVCQFKm3qzFHUOGXugUJulJt1NNWky7CIRjdre7JrM+6WlDkW38eRDAL4UzbaP6D+JjIYe5JP3Rut2Axcefuoses4X/KqGzA+WimeG4AAOl9pEtrEXKsugK1A6L6MilEUYvFBj2/k5BEIdQxOiG47Cx+pMo7wk3gUi6/lHC6ms23Odeaq9H+n8yKj7sbOMpOBLX+YEHkCbkq68HF22mVU/D+im5rBLIolV624scPa5C4yL7cyvVGFFiIM22V3Wbioj8PR4WamPtTDZXj+F1FbVYoL3D1DIbLixRbAerykl7aqb5DQE8dGaHjl7eVrFbjrmp1UK4zqCAIMI=;kz+w2IluDzZg8Zc+QD/YzQ=="
+secured: "y+IEFwHl6OVh6PHZaask5Fh4uNQwsACxB832LUG2wmQIuoDWvUMauS5qpZdO2YrPkIOGeaOb/dZHqSJaXHvknxoBJ9ry5baB6OAx9iFDzQU09no09NrJymLpMRWdLmRAHI7SDWsoNxMCxIB4nM7ybFdYht2ka991cIYSsClkMRueLEZ6+gGrjXafAhcFV1Ll8oiqMXkgTgMEl/h9rPwdUAQ7oMWQJQanVrVbnMoGXFwZC1FVX5XKSZYKIOSI6USFT3fQN22gmb2Ueddmzsb83wHHWEvom2aRD1S/EV+4Ip+jkfawJbnsTuwJ1ZRV4sxUe4UkHIo6Lmerhk1jSFqT+K9v0v/9uJ8ioHC0CUl3Pp8lDbo8EaTfiUAjkq18tvKy4+SIIkgDzfYUtWPBj+wMIlYxjDkTDt48d8cE6iNLKfUa2VWreabHV6qu3X2ESjuhNePirxg7JYZlP7LDMx1H684IzfEJzwT91xt79APpagiT7WrWoriMfHWKoq0Xdr5AZlQWFDy84oXLKoex4cb8nQ==;hCk9fx3OWRzYY6axaJ+hPQ=="
 ---
 

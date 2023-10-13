@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/93703/nvidias-next-gen-gb200-blackw
 webUrl: "https://www.tweaktown.com/news/93703/nvidias-next-gen-gb200-blackwell-gpu-listed-on-its-2024-data-center-roadmap/index.html"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA confirms GB200 and GX200 GPU codenames"
-    excerpt: "NVIDIA has confirmed the inclusion of GB200 and GX200 in their GPU product lineup. While NVIDIA seldom discloses its product plans, this revelation pertains specifically to their Data Center segment."
-    publishedDateTime: 2023-10-11T06:49:00Z
-    webUrl: "https://www.guru3d.com/story/nvidia-confirms-gb200-and-gx200-gpu-codenames/"
+  - title: "NVIDIA unveils its next-gen Data center & AI Roadmap"
+    excerpt: "The next-generation GB200 and GX200 Data Center & AI GPU accelerators from NVIDIA have been formally confirmed for release in 2024 and 2025, respectively."
+    publishedDateTime: 2023-10-13T15:54:00Z
+    webUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/"
+    ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
     type: article
     provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 19
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 59
+    images:
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/10/NVIDIA-MLPerf-Inference-v3.1-Hopper-H100-Grace-Hopper-GH200-L4-GPU-Performance-_W-_2-g-standard-scale-4_00x-Custom-728x406-1.png"
+        width: 728
+        height: 406
+        isCached: true
 
 secured: "cQXq2OjJjB6VgxiKf1l0StjEEbjVW2lsmNcQ7gvdkOdQmpdeyRy4gIyH/WXD68EZTjZoSeP3GXuaRJWm+0/+tvYe1c8wEJ+F9BOFKr9TeiBi3+i++HVmBwh2H2vP9EjkSbNGdemVGnTwsE39py9WkwuGLamS81XUaIA/6thmwWqIQLhoJBs6E6pzaJ7U3xiadfZ7MRAluG0aEHCu+lIk1vocDoBCPsg/x04d9wKjbHQtW740gZqacZMmMPNPGoLzM6Fx+uLhnaqNoWB4HGj6pqZSSdS7ZHSj8m2cgpSz+hs1b0ii+uHSzGEYwVaL/Bs0NuNh+2/MvRl95SY/K4UpDp9mgLJNH1+BzWY99NHPorrNrO9znIx3Fs2wrItd3EnCQROTJ9AIhb7Kjp2oWEJHy4xlcZ6HKNe9GrA7bCEtSrhlaPGumsmWlKtJk+E2ZqKzlNuGzXJmSzpThkQO1moTKiTujWTQHXCUD7x8sZhE9jGtsXHmJRAeigHyYgvTWWU68ywQxuczIPKnVKxzkEBcxw==;luhYyqjj9NayXfkvPU0N+Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-s
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768"
 type: article
 quality: 96
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Things CEOs Need To Know About ChatGPT And Generative AI"
-    excerpt: "Too much of the discussion around ChatGPT and Generative AI is preachy and vacuous. CEOs need specific views and recommendations on the impact of these new tools."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2023/10/08/5-things-ceos-need-to-know-about-chatgpt-and-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6522add329569a887be52b85/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "ChatGPT-owner OpenAI planning to manufacture own AI chips"
     excerpt: "ChatGPT developer OpenAI plans to manufacture its own artificial intelligence AI chips and is even assessing a potential acquisition target"
     publishedDateTime: 2023-10-11T17:29:00Z

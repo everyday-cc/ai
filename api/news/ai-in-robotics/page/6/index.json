@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-03-gaganyaan-2024-isros-humanoid-robot-vyommitra-is-prepping-for-lift-off.md",
+      "title": "Gaganyaan 2024 | ISRO's humanoid robot Vyommitra is prepping for lift-off",
+      "excerpt": "He said the project's second phase will involve the launch of a female humanoid robot called \"Vyommitra\" into space. Aditya-L1 Mission: The satellite is healthy and operating nominally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/gaganyaan-2024-isros-humanoid-robot-vyommitra-is-prepping-for-lift-off-11302251.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/gaganyaan-2024-isros-humanoid-robot-vyommitra-is-prepping-for-lift-off-11302251.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/09/Vyommitra_Space_friend_ISRO-Wikimedia-Commons-2-770x435.jpg",
+          "width": 770,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/gaganyaan-2024-isros-humanoid-robot-vyommitra-is-prepping-for-lift-off-11302251.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/gaganyaan-2024-isros-humanoid-robot-vyommitra-is-prepping-for-lift-off-11302251.html/amp",
+      "publishedDateTime": "2023-09-03T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-walmart-labor-day-sale-2023-the-19-best-deals-i-recommend.md",
+      "title": "Walmart Labor Day sale 2023 - the 19 best deals I recommend",
+      "excerpt": "COSORI Air Fryer Pro: was $99.99 now $89 at Walmart Get the top-rated Cosori Air Fryer Pro on sale for $89 at Walmart's Labor Day sale. With over 37,000 positive reviews on Amazon, the five-quart air fryer features nine different functions to whip up easy meals, and the basket is dishwasher safe for easy clean-ups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
+      "originalUrl": "https://www.techradar.com/seasonal-sales/walmart-labor-day-sale-2023-19-best-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/GVjnAYtE5oyApprfoq2UwZ-1200-80.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-enabot-ebo-x-review-a-smart-but-flawed-robot-companion.md",
       "title": "Enabot EBO X review: A smart, but flawed robot companion",
       "excerpt": "The Enabot EBO X robot companion is rough around the edges, but it offers tons of cool smart home features that make it a compelling addition to your family.",
@@ -1259,102 +1354,6 @@
         "AI in Robotics",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-this-inventor-aims-to-make-mind-controlled-sex-toys.md",
-      "title": "This inventor aims to make mind-controlled sex toys",
-      "excerpt": "A new report by Slate published on Saturday is highlighting the work of Brian Sloan an inventor who is seeking to make the first-ever mind-controlled sex toys.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/this-inventor-aims-to-make-mind-controlled-sex-toys",
-      "originalUrl": "https://interestingengineering.com/innovation/this-inventor-aims-to-make-mind-controlled-sex-toys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/27/image/jpeg/Bdki9L5W1pulTx0ENmJQd6IBM1KVABUSSuahtxEM.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-ai-brings-the-robot-wingman-to-aerial-combat.md",
-      "title": "A.I. Brings the Robot Wingman to Aerial Combat",
-      "excerpt": "The emergence of artificial intelligence is helping to spawn a new generation ... “I’m not going to have this robot go out and just start shooting at things,” General Jobe said during a briefing with Pentagon reporters late last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html",
-      "originalUrl": "https://www.nytimes.com/2023/08/27/us/politics/ai-air-force.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/08/24/multimedia/00dc-military-ai-bmpq/00dc-military-ai-bmpq-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-27T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

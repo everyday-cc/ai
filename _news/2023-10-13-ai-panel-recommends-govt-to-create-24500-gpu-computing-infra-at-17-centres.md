@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,36 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AI working groups recommend setting up 24,500 GPUs of compute infra"
+    excerpt: "Microsoft provided Open AI LP with a USD 1-billion investment in 2019 and a USD 10-billion investment in 2023."
+    publishedDateTime: 2023-10-13T17:22:00Z
+    webUrl: "https://telanganatoday.com/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 54
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/09/Artificial-Intelligence-1.jpg"
+        width: 1280
+        height: 750
+        isCached: true
+  - title: "Government Working Groups Recommend Setting Up Three-Tier Compute Infrastructure for Artificial Intelligence"
+    excerpt: "The working groups have recommended setting up a three-tier compute infrastructure comprising 24,500 graphics processing units. This will provide a 15 times increase in capacity over the highest capacity installed at present."
+    publishedDateTime: 2023-10-13T17:21:00Z
+    webUrl: "https://www.goodreturns.in/news/artificial-intelligence-working-groups-recommend-setting-up-three-tier-compute-infrastructure-gen-1306123.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/news/artificial-intelligence-working-groups-recommend-setting-up-three-tier-compute-infrastructure-gen-1306123.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/artificial-intelligence-working-groups-recommend-setting-up-three-tier-compute-infrastructure-gen-1306123.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 38
+    images:
+      - url: "https://www.goodreturns.in/img/2023/10/GR-Default-image-2-ft-20231013225136.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "io.net to launch first GPU-enabled decentralized computing network for AI"
     excerpt: "io.net intends to address the scarcity of GPUs for AI processing by procuring one million units from independent computing power sources. During the course of its development, it will establish the first decentralized cloud environment specifically designed for machine learning, according to the latest information shared with Finbold on October 11."
     publishedDateTime: 2023-10-11T13:30:00Z
@@ -52,6 +82,6 @@ related:
       domain: finbold.com
     quality: 33
 
-secured: "VGdFBNO6uJmm3/5ATW7BSSBjvVPtflwNtq7hZDpdH2e8pdaOQ8dD8H+1f5d9RuzpbHAvGCgpRUK4tUtmCZ1d2I0Z24Xh7nT2OBVz9Ntcf3OVOWhudMacjYNVoN1CQnDuGuBBU9TUOpi+m3pqU61xpgUkDOIqGmg7cSCtJL24eTPa+kwBAk3w1I0rKiE2W9f6jGTuKQydVCAg/eC81VSnZpKwi9FQgQAmR5S1Tt++iNv0RR1H/oLTYAQEh9KWdhd9viP5+2qeQ1pfjsGMgf7S9CjnAa9q6uIPEnNc1wYAtIYJT9IGhsq04Sj7EHlh4xSMqw13jO6G/MhaPe2QKLoxSn4yb+z5XQ/v8dW5jjSOd3E=;T5gwm2mRiCQIKIKu8LX0qw=="
+secured: "gxyqQTYlCJXmLl1iJcUdT8DxQRasXMKE9z4aqx0kYHVxXuSrqVgrLfaXAVKuXLYzMnR6VZO9KCFNy8adC9NSVoFDBPSLsjk1jRKsMmhFdjX8vNNdJ50eHY53Q2KiM4G1ygRrpQzbaC9Iu2Ar3IChntcGXlFC+BQxWtj6VTgrHTO0uRtmedXGZD00qkFPbZLdxLx6ZN02JGiyCrhfGiHDELCM2VHMdUUOFTkbC4yBrdnjwlgTj47F6vpeFOsNOaloJD14AKyllqdIvRVLfU50F/0y4zk/kqIyH6i7cyCNeU9aYvPVsQpQ+NDoV6l6hoC8fa8B1BTPMr/JKuQuL4xUkl0ZO1wuDZm9RbDvmsiEuljMpXWJ3bYxqu7cX3P5oyq6NhCSubP/BrrOuosPnKJO1Erch3HkOJlY145LiaJMdv8Wpi71wBbz/jqi6ZPH8O/+k8EX0giduQtfelrnTqgb8VuaFLLh4KXC85DYj0OIdhA9V+DyTszlsjXMPT4zTfEE8exdkfQGiZ6M/sYibSp5Mw==;k4RWD3XOmrwqHnrgGwEo0g=="
 ---
 

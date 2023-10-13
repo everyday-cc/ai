@@ -41,6 +41,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI working groups recommend setting up 24,500 GPUs of compute infra"
+    excerpt: "Microsoft provided Open AI LP with a USD 1-billion investment in 2019 and a USD 10-billion investment in 2023."
+    publishedDateTime: 2023-10-13T17:22:00Z
+    webUrl: "https://telanganatoday.com/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 54
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/09/Artificial-Intelligence-1.jpg"
+        width: 1280
+        height: 750
+        isCached: true
+  - title: "Government Working Groups Recommend Setting Up Three-Tier Compute Infrastructure for Artificial Intelligence"
+    excerpt: "The working groups have recommended setting up a three-tier compute infrastructure comprising 24,500 graphics processing units. This will provide a 15 times increase in capacity over the highest capacity installed at present."
+    publishedDateTime: 2023-10-13T17:21:00Z
+    webUrl: "https://www.goodreturns.in/news/artificial-intelligence-working-groups-recommend-setting-up-three-tier-compute-infrastructure-gen-1306123.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/news/artificial-intelligence-working-groups-recommend-setting-up-three-tier-compute-infrastructure-gen-1306123.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/artificial-intelligence-working-groups-recommend-setting-up-three-tier-compute-infrastructure-gen-1306123.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 38
+    images:
+      - url: "https://www.goodreturns.in/img/2023/10/GR-Default-image-2-ft-20231013225136.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "io.net to launch first GPU-enabled decentralized computing network for AI"
     excerpt: "io.net intends to address the scarcity of GPUs for AI processing by procuring one million units from independent computing power sources. During the course of its development, it will establish the first decentralized cloud environment specifically designed for machine learning, according to the latest information shared with Finbold on October 11."
     publishedDateTime: 2023-10-11T13:30:00Z

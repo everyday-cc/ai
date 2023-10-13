@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35236128"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35236128"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Will Consumers Buy ‘Selfish’ Self-Driving Cars?"
+    excerpt: "When it comes to prioritizing the safety of passengers over bystanders, makers of autonomous vehicles have to walk a fine line."
+    publishedDateTime: 2023-10-13T12:30:00Z
+    webUrl: "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self-driving-cars-73ac7d52"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "https://images.wsj.net/im-868014/social"
+        width: 876
+        height: 640
+        isCached: true
 
 secured: "Ai3dEpscIYvFsGBHNZot1eZHPHJ91FRnEZ7F1qb/dbEt2lu8VE9aQ4c193aN6Km9VXc+UNvu2W/rz8m9O998ihH2Ip6MP+xWj40ksFop5jll4XEwc9M+353/ZqAcyeRtP0jZBLwEF9lrraeUUyrRZJPylqStlSwQJNYFNiadds1wOWuDtY4ZupbHeRNxoRRmNTd4r9ghBb3pXWAKOpTpuTcL63C6a66vM+sZc3goCnYk8HpN8pPB5N9YzKVlm63QYu5ToRDNjp5MgLfqRQ/fYnwzAF6poF5EKbIMD2zVmXSTcsWJpyRz3Ylzhu7zrdbSu0br9s/+Uxbq78SVIpuwCMk8Vsyq8RUeclV8jQAPembRo3NFP3Ddt29QFcQCU+ccpVpjfLwO2S/nnPq6HfEGfz7IETkaafrFzILihmHKEc48jtVtHteCV3XbvfIZEwqFMF8SrGZw1mG7QzVITAWqbEKYSbGmo7n8rImJEvzaRDbIU1WeFSOfBWXryPyoe5giDy6TcOMYitJBlXit+vshQg==;DdJVMgWtgjNFAW+pLCEbrg=="
 ---

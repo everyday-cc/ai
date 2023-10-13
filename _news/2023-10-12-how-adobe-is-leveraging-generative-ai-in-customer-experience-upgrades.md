@@ -103,6 +103,22 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "What Generative AI Can Mean For Enterprises"
+    excerpt: "In order for these outcomes to be achieved, however, GenAI will need to evolve with more standardization, safety, bias mitigation, security, economy and governance. Once it does, GenAI plays a more active role in governing enterprise GenAI through continuous learning of policies, spending and governing patterns."
+    publishedDateTime: 2023-10-13T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/1180038568/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Generative AI could help low code evolve into no code - but with a twist"
     excerpt: "Generative AI tools can handle many low-level tasks, but professionals need to be careful how they use the technology for coding."
     publishedDateTime: 2023-10-13T14:15:00Z
@@ -196,6 +212,22 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
         width: 636
         height: 424
+        isCached: true
+  - title: "Here are some of the ways Apple might use generative AI"
+    excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."
+    publishedDateTime: 2023-10-13T12:58:00Z
+    webUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/11/gift-guide-for-fitness-enthusiasts-100868109-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "China Targets Generative AI Data Security With Fresh Regulatory Proposals"
     excerpt: "Data security is paramount, especially in fields as influential as artificial intelligence (AI). Recognizing this, China has put forth new draft regulations, a move that underscores the criticality of data security in AI model training processes."

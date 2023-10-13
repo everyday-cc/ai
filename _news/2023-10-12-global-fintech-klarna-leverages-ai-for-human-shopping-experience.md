@@ -169,6 +169,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 14
+  - title: "Origintrail's 1St DKG Conference Brings Together Internet, Artificial Intelligence And Blockchain Pioneers To Harness Trusted AI Across Industries"
+    excerpt: "DKGcon 2023: Fireside chat with Dr. Bob Metcalfe, Internet pioneer and Ethernet inventor, and Branimir Rakic, Co-Founder of the OriginTrail ecosystem, moderated by Ivan On Tech, Founder of Moralis Academy."
+    publishedDateTime: 2023-10-13T17:34:00Z
+    webUrl: "https://menafn.com/1107238252/Origintrails-1St-DKG-Conference-Brings-Together-Internet-Artificial-Intelligence-And-Blockchain-Pioneers-To-Harness-Trusted-AI-Across-Industries"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?285694"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
     excerpt: "Hong Kong Fintech Week and Singapore Fintech Festival just around the corner, we look today at the key highlights of this year’s events, focusing on their main themes, what participants can expect, and why these events are critical to attend for fintech companies aiming to thrive in the industry."
     publishedDateTime: 2023-10-12T08:03:00Z

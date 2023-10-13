@@ -87,20 +87,6 @@ related:
         width: 800
         height: 580
         isCached: true
-  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
-    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
-    publishedDateTime: 2023-10-11T07:05:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 36
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
     excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
     publishedDateTime: 2023-10-12T04:37:00Z
@@ -114,20 +100,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/cRAfb40B.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "Artificial Intelligence Key to Future India-UK Trade, Says Indian Cabinet Minister"
-    excerpt: "Investors have been urged to support a new state of the art artificial intelligence park which is being built in Maharashtra, India."
-    publishedDateTime: 2023-10-11T11:27:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14366"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 31
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14366_1697023153857708.jpg"
-        width: 752
-        height: 502
         isCached: true
 
 secured: "WnbdTPtvxijWrpkIULlC4Wa96ZZkoyFLS65jy4YOOaM2qXzjMYY5b+0Jn51BekzHtnyy1aVo2wXOSnvEsRzVMKf+iXNLiuadQ7MVbIZXvzY5jxD/jnCVZyBCGDfIvYB5PfYjFvxOGYO+FPdbrDzPRsA7X92SrOTT6GT32VqmsWmdbzPfBwsXRVd89cEMkPnTJ4l2+MW2RJ5PSpEt7VOEd93yIaTjyDEtEyPjQ4ebwU0X5qSRd7vVnMh+TwQk67EQB/ccud3s9CyflbTl3yKK1bdw1z+g2B7eV6sxb6MD436fxLgzMOqwYdOaVp7cKdatlxWoUf37UWkGMTPTThSK3MCjnRAiHVLMiRqSixcMR6o=;0KGtbsTQBvRiSCfhL134Qw=="

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The 'start of a dystopia': Experts, students discuss AI's impact on writing careers"
-excerpt: "With the capabilities of Artificial Intelligence, or AI, rapidly evolving each day, many people have expressed uncertainty over whether the technological development will take away the need for jobs in many industries,"
-publishedDateTime: 2023-10-13T15:24:00Z
-originalUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers"
-webUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers"
+excerpt: "While AI may open up new pathways, Furze said, he also thinks there will always be a place for writing as a craft. “It sounds like a start of a dystopia, doesn’t it?” Furze said. “I also think that as part of all of this, 'real' human writing ..."
+publishedDateTime: 2023-10-13T15:11:00Z
+originalUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers?ct=content_open&cv=cbox_latest"
+webUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers?ct=content_open&cv=cbox_latest"
 type: article
 quality: 31
 heat: 31
@@ -23,6 +23,6 @@ images:
     height: 900
     isCached: true
 
-secured: "606ps8ulVACoanDxQEgQYisRnFYQdZ+CEEWo1HsxQzoGLWtxwuM5enFeO67E/echQip7RMxWJS1LrRZFk9a5JBEGmGfA4640mqF1f6Ix9CtAdNW/uu8tJOOZXKW8PV2w89VnnqmaHi1sdznkmpvfr6WKE64hXGm1l8ut3++YYDuTAioupJzbUOwrRpQhwYEawZ1uZ6yE1JfURZsY4LoSMNnJudftyNDknIA/WwVRSR7MyBm4InzU9tw+FVQYSubfe5M7kcHFxj7kA1Ls6RXwPlYpJjV6C/ZuIKUGWyUbeS8GH+wHfQebOFKuLu6dDGynxAPwBfmrY5wPfQU/712ZGOkcsBPAZncHJYoDPO0HueQ=;ULpSigSDnOl0IdAueYjA+g=="
+secured: "de0W7Cz5JnPbzl4h9enpuUPAVu9j053dfkUVGDvQZNwLsKglPNw56YQB1R1Y7hgZo5nu+Qzd+vWcW0zdZkMur9GhX5wXzKnHuLkqY3FW+8KTsFFqIR79Yo7S7PeYEKhOtKGvaCrJehX78FYrBi5DliOvVakPpQjRFH2HLlzWP5gdX/zVKBu2jcZtk0b4RUT0PdaoPzLzmeW9YwIDgS0BVA7Im6H/OetMF0c81iEvx3DbKAzygUaQxWN7XW6+KcoxgfBBZM+GAhNKPPSG9U8XieiNG3c5klk1818M5hsANVU83zVi5CPB+Zdpg6dvixDR11BxkbiNx0+KLvFTP2VVufS/w5M/LMFeIJeFktTsjA4=;Jw9U1n0ch5EmGVAVaVrspw=="
 ---
 

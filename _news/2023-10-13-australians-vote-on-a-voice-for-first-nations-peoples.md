@@ -57,22 +57,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
-    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
-    publishedDateTime: 2023-10-08T23:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Why the Indigenous 'Voice' is vital in Australia's constitution: Noel Pearson"
     excerpt: "Australia faces a referendum on a new representative body: the Indigenous Voice to Parliament. Indigenous lawyer and academic Noel Pearson lays out the backstory, and his view of what’s to come, in his Boyer Lectures."
     publishedDateTime: 2023-10-11T23:16:00Z
@@ -217,6 +201,6 @@ related:
         height: 900
         isCached: true
 
-secured: "2+eXeKXZSE7Fn9WvVqgp0asuQpcrUjtgJIlTpHk/AOK3DGRoI6FziF7ayB/2YOPsJUctT3oCaaRSNQ5QsxKz7l8vx7+s3Pe1FCMxMO8t3og5o/jRax8M1JifHYWpt1pAmdBZZmzSvbvKefsH2/1eBIteKF3Dsa2yjK/PhlsuqRtbFZuPfnK6c422ew0WXpUe6cj2m001ra4vvOcB+gJYYzobAq6ubE7h2EMYWi0vNZuCLLa/u02JI2hqTk6eKhaTXOSE9SvSGpQhWgKmeAE9lc7O8e0+QHfaZRDG1Ov63TfQ63il9Qt0n3/1KQTXlbsesb6/VYE1Mt4QPyepw1x8wZ8IWUkYHd7xWG5IhQDNw5k=;pxbKHgpNzu/Q/K/LkFOHlg=="
+secured: "ApF2N4dIF21Nx5DKUhH1gAHwgOZhLHLyw6qo4hrEb1a6rJjwwjnOsDAv4GWFqS69cLCTizyF3CAaqpjfMgfuiZfh4Tq55itrUIIyzgPI+tnEdgYI1sTJx+l54aN3Ssxun7NDHVxMa38SOj/PeJk12TtsSnfYZgWKoOTXajaZeZVYNj5wKiQ6uJq3MVWJh2Zv0SiLNQBpJeyKzwmHcUiwJBUHsodu2UvuzjqSaUAV1HIGbgS5HU1JUNAxtXCD7S9HyrEOVEZ2hA9e2ONNn7rwIe29h+3814Yf87ckLJn1FX6uJJpCY6OPoGf3SPIPZDRpFRTEFlw+8+GbwDQgNnUh2/dnCaaKJTqzR0dUScn8dbYlcm/9dvIQkfJvW0g21Rk7HT5PE8n4jveEzNbj40u57XK1y6NSThTDjRVmuHgyAq1oar0LiUXQrg1tDW5nHbXZHvlUiammBG1daEzLclCSbbly9STx+ayDGoFj+goBrjOGhW+hTpIYiIwSe0QwIKkotUAg3fAtDY81sO2XjBveFw==;4haSbKYwQSyFSdkbfLB+cA=="
 ---
 

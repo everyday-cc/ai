@@ -59,20 +59,6 @@ related:
         width: 2918
         height: 1855
         isCached: true
-  - title: "Leveling Up AI: OpenAI’s Bold Chip Endeavor"
-    excerpt: "OpenAI, a leading AI startup, is considering the development of its own AI chips to address growing shortages in the AI model training sector. The company is exploring strategies such as acquiring an AI chip producer or designing chips in-house."
-    publishedDateTime: 2023-10-09T00:00:00Z
-    webUrl: "https://www.dmnews.com/leveling-up-ai-openais-bold-chip-endeavor/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Revolution-Endeavor.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "QN5/3UVK29KpWq20kDr8RQsvEQ9vuesDFU1tCshk0mHIvfJQy47rs1TIW+LardkbSqWeWm0GAVV95c4IUw2JzkuIexA8t18e0FjuDQEfj+PhdvsDt5PP8EiCF/JrjmfFzExXfQG6MpYT22yIVa0VYTiaU70OWdGhoS/M5GTMtIJBNujnMnjKFsVMUbh8zOjRFB6SZEKjtkhZPZyo+RSz64xlOiyRAotqopInOQLz767oHxfve0lngvAKf498o4qhjUx6SyI/zICOmpvXvY6hs85KXp9XbNpXP19Y1scmMJlxe4VP7wJ6lVYxr8OOAuH7CBSTej0yTEv7yOf7MnqaN8myOv4Rt9uMMh1L0PyBlko=;Ueetu+9HWw7s8PkpTacVpg=="
 ---

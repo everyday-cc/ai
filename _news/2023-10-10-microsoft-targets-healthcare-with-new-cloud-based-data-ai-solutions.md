@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
 type: article
 quality: 121
-heat: 431
+heat: 441
 published: true
 
 provider:
@@ -265,6 +265,20 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4643/MicrosoftHealth_web.jpg"
         width: 975
         height: 548
+        isCached: true
+  - title: "Microsoft Debuts AI Bug-Bounty Program, Offers $15K"
+    excerpt: "Should a participant be a public sector employee, the bounty award must go to the public sector organization and be signed by an attorney or executive responsible for its ethics policies. The scope of the bounty program extends to AI-powered Bing on bing ..."
+    publishedDateTime: 2023-10-13T17:20:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt878cddbb8cb42fa9/651db13445184e093837307b/bingchat_Daniel_Chetroni_alamy.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Microsoft unveils new generative AI products for health systems"
     excerpt: "The launches tie in with Microsoft’s ethos of developing high-impact but low-risk use cases for AI in healthcare, according to Microsoft’s VP of healthcare."

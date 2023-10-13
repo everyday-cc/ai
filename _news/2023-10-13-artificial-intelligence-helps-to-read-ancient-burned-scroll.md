@@ -8,9 +8,9 @@ webUrl: "https://www.bbc.co.uk/newsround/67103053"
 ampWebUrl: "https://www.bbc.co.uk/newsround/67103053.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
   name: BBC
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg"
@@ -57,6 +58,6 @@ related:
         height: 576
         isCached: true
 
-secured: "JvW4LXq2FlvGVrFM17UOwqxdb1ZsYrb/ofvXfM/eic9fTpyVd3qYnsZNn+5+8l3PSnIbPYSb6Pq0Gl3xrHQyE7gFyKH5BK37oQnY2rIDhyUC+vnLsBh8NJwZ5jQRQYGTT7LRZKl9xakD1WPE6yVRgYdLpChIPTshQMV/7Mjg5/Qu6bVhukIz5qHsxplNkw/sor5Dwpr/HYH2iTMTguq6NELTk2piZcylAm3YCS9HfmJ8EWnNP82LCrBJLEd/xazXV8eHb3bcbGCJOsnGJZQ8nMBGAR6BHq73+fc1VErIpu4nBXB7q6TAfT0CBKTZ+GZLe6vRJ2QvN405wbBNOsRLgHUjkf7acZubQwxjE3UoXC8=;b9vvLNQMDsDLf+/ai0JBfw=="
+secured: "MUU57V9VDtdLnbXJGEBg6+3R2ywKY4cwcD6vhOIqub44HhIQCbkuEKq7WrcEdRGe5w07DGMUJGSQzH9uIJACu7IsRwO2bzMULzfj5lQIr4s+SVGdpr0GJg3i8hyXJoEkBH6cMHz4tG2sKaRX+21dtc+OBpR36789kQd0X3Sv2jyLB6sDB5y00cXNJ4aK5SsBil+XjWx6OlI7BYl5twKAYqCGj0wji0Th6lfZVDOjF3wuVCXYKYx/SRgYaWRFkjol4H5AlyRemYk1heVKQ9p4lt/4902sTAmkC7iTc5tk/+f89qRTRv6zxhD3MI7mOFNnolhRgk/Kr4JmS8gl9A4OUIMiGNvGxcVsw8U2/n1SBWja8FC7N6/+M8piin++RDtpYaLMMxkOIyN9d0iB2iac7xFyDsNmI+0HkdIDyEJuqHD1yaBOh2YXxO16OD6wky6vNizOLef1qSY9nCp+iCksFMZD37r8evH1JURXYD0rhe1CM4VHuHhao97uSGrmcRcaRGg999qP/oPbgL/u5kwERw==;KBfkyD9yMxNkZuYMi5AJ6A=="
 ---
 

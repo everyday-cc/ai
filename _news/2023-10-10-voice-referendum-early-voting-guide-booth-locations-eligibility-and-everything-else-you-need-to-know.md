@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/04/indigenous-vo
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/04/indigenous-voice-to-parliament-referendum-early-voting-guide-booth-locations-eligibility-and-everything-you-need-to-know"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "On the voice referendum, we’ve nothing to lose, and everything to gain"
+    excerpt: "For the first time in more than half a century, Australians can vote to heal our country. On your ballot paper is a 92-word vision for recognition, a modest request to be heard."
+    publishedDateTime: 2023-10-13T16:28:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "Voice referendum early voting guide: booth locations, eligibility and everything else you need to know"
     excerpt: "The chapter would include a new section 129, which would be as follows: 129 Aboriginal and Torres Strait Islander Voice In recognition of Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia: (i) there shall be a body ..."
     publishedDateTime: 2023-10-11T00:11:00Z
@@ -88,6 +99,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
+  - title: "Coming to terms with the past is more important than ever. The Voice referendum is a vital first step"
+    excerpt: "Voice supporters are not looking for division, but rather a desire to play a role in the future of a nation that accepts it’s our country, too."
+    publishedDateTime: 2023-10-12T19:02:00Z
+    webUrl: "https://theconversation.com/coming-to-terms-with-the-past-is-more-important-than-ever-the-voice-referendum-is-a-vital-first-step-215152"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 0
 
 secured: "I1Wn4BTyerHGehRnB6Uc3pxoowAkR+/HOPHU02c3HaahXCC9wzLDSk+e+A81myopbfSnry3iKjxkROkYdiv7mXjnYN4F7po6HhRVoHgCDdqmxpxg3d+ZPVS8k7eOUdirPP+otLNXVLQ6Caghrs7xZcXDayuysIu03N1hmlOvsgdjDLm6yXaTBxoVslaW/zcdzyrnAv1VIzVA1fDBDhWl4nmsld21Q4CHGrOJ7P+NclS6h4hs+iG/lRWFwmkr0asQCjsjPBBaj5XJZfbWUFoM7dcTMhwnRLzdzhVZkOE1fkMV2tdgYnq8WIBTSmrbZf/rAClV04jq3tlwOI+1Ah03pi5yzeSPIUTWCl79gI/GIy1k1ohCPNEQUowmCAIh/+enwjnW2aotM0958dTfehVc1ovEaVF6lU4lhnIcVjAhocKNrXpVLiDlHrE72LsdP5FRiBFT/TJlMIo0dOsJL8wQczwKtCdl2InwM4MBB38MY60nQ+XVXPo4u2uXlNJ4bsMSFJQgZSzmErssNaN7adriQw==;IvUo0l+U+/QF6YyParCgUQ=="
 ---

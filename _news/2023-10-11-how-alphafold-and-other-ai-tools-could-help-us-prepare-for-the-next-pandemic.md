@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In the search for alien life, should we be looking for artificial intelligence?"
+    excerpt: "Extraterrestrial life could have passed through its own technological singularity long ago, meaning that our universe could be dominated by artificial life-forms."
+    publishedDateTime: 2023-10-13T16:00:00Z
+    webUrl: "https://www.space.com/should-search-for-alien-life-include-looking-for-artificial-intelligence"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 33
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HnN5cYDZRjZQbFXqCR4grQ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "fmIhXfQvVtCPrF4EJkvo2JRfNb2185Khu+e6ZnWzXRA0BDE6rVkAg4jQe76bCSl/JGPy4ZGlGQEVi0iDipcLrswSO+6Ins9EIFXyYSWWQlKQPEtr0m+Q8ajv5lg9ojY46vNtflkayDbo2eRVVgcEv2+RG06/fEz81gAte0wJOsIsuDAuwrPlVxsoi9qbtaiannH6B2xezyp+B9AM3KFtsxX/7i9FnE19Wtry4CJSoJAd6clVR/c6UcYccz1JmSbb8QtUh50O8QgPAPmtZySkxquG/6g3ANKh8m36X5dm8ZcMwamIRmIHpMP0w/kdG6ai/OYMuwrU/MOWMi0/4lUnM/XCmGryn/QPs6BiucS+kzDkF2HegXNv5zND2XyFlx/NvpI9R0JFQqcVF4sPNZYqOcS94brVRcm1JZZpLgpmenNhaevvhxyq2EXUg54HuhrkU7lcA47otVHDEJ5t1vC6rYLRjGA8nnCrqc8l+jotp/qCvhwy23h76IDQnO33/1HJIXulbz1hWRmcF4qNNmJrfw==;IVVj8ldkDHtcZUIzpVgjTw=="
 ---

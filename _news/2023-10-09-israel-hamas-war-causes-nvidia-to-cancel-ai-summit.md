@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
+    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
+    publishedDateTime: 2023-10-13T16:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-91984761/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
     excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."
     publishedDateTime: 2023-10-12T13:46:00Z

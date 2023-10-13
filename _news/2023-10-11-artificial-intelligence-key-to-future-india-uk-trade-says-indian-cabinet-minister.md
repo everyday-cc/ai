@@ -24,109 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence will transform Indian Economy"
-    excerpt: "New Delhi: The government is hopeful that India's artificial intelligence (AI) programme is likely to be a kinetic enabler for India to achieve the goal of a $1-trillion digital economy by 2026. Besides, the country’s AI programme will also focus on comprehensive skills in the country and building computer infrastructure among others."
-    publishedDateTime: 2023-10-13T10:01:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
-    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
-    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
+  - title: "Centre comes out with strategy on robotics to make India global leader in the field by 2030"
+    excerpt: "India has outlined its ambitious roadmap for its artificial intelligence (AI) and robotics sectors, envisaging it as a pivotal enabler to help take the country’s digital economy hit one trillion dollars in valuation and position India as a global leader in the field of robotics by 2030."
+    publishedDateTime: 2023-10-13T17:20:00Z
+    webUrl: "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.html"
+    ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 59
+      name: The Week
+      domain: theweek.in
+    quality: 64
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s40itrnobcarmt6el9q9g6sne2-20231007080411.Medi.jpeg"
-        width: 800
-        height: 448
-        isCached: true
-  - title: "Meet the 16-year-old Indian girl whose AI startup is valued at Rs 100 crore"
-    excerpt: "A 16-year-old Indian girl is making her mark in the world of AI with her startup, Delv.AI. According to Business Today, Pranjali Awasthi established Delv.AI in 2022. It is already valued at Rs 100 crore ($12 million) and recently impressed attendees of the Miami Tech Week. At 16, Awasthi has a team of 10 people working under her."
-    publishedDateTime: 2023-10-12T02:49:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Collage-Maker-12-Oct-2023-08-12-AM-9755.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "At the deep end: Putting a spotlight on the Indian deep tech startup ecosystem"
-    excerpt: "This fortnight, we have a collection of stories of deep tech entrepreneurship, from robotics to aerospace, as well as the burgeoning number of venture capitalists opening the purse-strings to fuel the"
-    publishedDateTime: 2023-10-10T06:45:00Z
-    webUrl: "https://www.forbesindia.com/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 40
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Oct/img_220141_forbesindiaedit.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Indian-American teen's AI startup valued at Rs 100 cr"
-    excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"
-    publishedDateTime: 2023-10-11T16:38:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19232/indian-american-teen-s-ai-startup-valued-at-rs-100-cr.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 37
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/6ab22df3358ea8e39d1d7cdfc7f3b6fd.jpg"
-        width: 800
-        height: 580
-        isCached: true
-  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
-    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
-    publishedDateTime: 2023-10-11T07:05:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 36
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
-    excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
-    publishedDateTime: 2023-10-12T04:37:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-founded-by-a-16yearold-indian-prodigy-is-now-valued-at-100-crore-nid-225863-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 34
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/cRAfb40B.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "Introducing Voiceai: The Most Accurate AI Transcription For Arabic And Indian Languages And Dialects"
-    excerpt: "NeuralSpace releases VoiceAI: The most accurate call transcription, translation and speech analytics for Arabic and Indian languages and dialects. Melanie Swamy-Brown NeuralSpace +44 7889 918293 Visit us on social media: Twitter LinkedIn YouTube"
-    publishedDateTime: 2023-10-09T08:28:00Z
-    webUrl: "https://menafn.com/1107210792/Introducing-Voiceai-The-Most-Accurate-AI-Transcription-For-Arabic-And-Indian-Languages-And-Dialects"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?331303"
-        width: 375
-        height: 250
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2018/january/robot-robotics-intelligence-3d-rendering-ai-robot-think-computer.jpg"
+        width: 760
+        height: 443
         isCached: true
 
 secured: "ZJ/DFETH6Mlin6Y5n//1PxWhhO4dvyhZVwCelZTTtzJ611DddFYzVjt2GJ4Fxs+P+qzMtjuIPohQenEIkquu5LJw15SIIWUxqqG1bwwZGZcBC840Hen0gpjnTRirQ5GKfc3dBnF/SeAOaYqhJiN2MRgHyQ3z+LHvFaYP/CzHIGgFazkVlqitywPFDp4mborO/Jzjauec/pi78gT4D3ZXzvW+N7Agp06lnlWVv2BRW4S5kV05W7CAoi5aOI7lgZVTsHK3izN7pdyYhb3t99vXKqyszAdgtXka4pBJnkg6LcJZQ/L9vaCdha+RjiBvU9pJRbgaH4SWOhWKxj+lzlJkSkx7iApF4MU5u5FOPm3RyE0=;kehyAZ338woaR+x/amLbaw=="

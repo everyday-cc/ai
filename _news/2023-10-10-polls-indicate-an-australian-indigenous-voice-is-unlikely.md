@@ -53,22 +53,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "I’m voting yes to the voice for a brighter future for all Australian kids"
-    excerpt: "I want to live in a country where we are committed to ensuring all children thrive and have the same opportunities – let’s make a better Australia by voting yes"
-    publishedDateTime: 2023-10-08T23:35:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/09/im-voting-yes-to-the-voice-for-a-brighter-future-for-all-australian-kids"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 43
-    images:
-      - url: "https://i.guim.co.uk/img/media/f455866d293bc2ff9dc765931e141b243fa3b8be/303_201_2429_1458/master/2429.jpg?width=620&quality=85&auto=format&fit=max&s=243d353bc4bd3d70a6e1eb3dddb1e80a"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Why the Indigenous 'Voice' is vital in Australia's constitution: Noel Pearson"
     excerpt: "Australia faces a referendum on a new representative body: the Indigenous Voice to Parliament. Indigenous lawyer and academic Noel Pearson lays out the backstory, and his view of what’s to come, in his Boyer Lectures."
     publishedDateTime: 2023-10-11T23:16:00Z

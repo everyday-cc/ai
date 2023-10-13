@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Users divided over AI generated profile pictures"
-    excerpt: "Using AI-powered apps to create professional-looking headshot photos is now popular, but are the images any good?"
-    publishedDateTime: 2023-10-11T20:16:00Z
-    webUrl: "https://www.bbc.com/news/av/business-67074599"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2A1A/production/_131387701_p0gkpzfw.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Could an AI-created profile picture help you get a job?"
     excerpt: "Filters and Photoshop move over, artificial intelligence (AI) is the new trend for creating online profile pictures. Over the summer a video went viral on TikTok. It was captioned \"using this trend to get a new LinkedIn headshot\"."
     publishedDateTime: 2023-10-11T23:10:00Z
@@ -55,29 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Disney's 'Loki' TV show accused of using AI generated art for release promotion"
-    excerpt: "Illustrators are accusing Disney of using AI-generated artwork in the promotional material for the upcoming release of Loki season 2."
-    publishedDateTime: 2023-10-10T05:46:00Z
-    webUrl: "https://www.tweaktown.com/news/93687/disneys-loki-tv-show-accused-of-using-ai-generated-art-for-release-promotion/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 35
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93687_559111_disneys-loki-tv-show-accused-of-using-ai-generated-art-for-marketing_full.png"
-        width: 1500
-        height: 837
-        isCached: true
-  - title: "5 surprising stats about AI-generated art’s takeover"
-    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "kSyfmvfn3HvyncU4KUzhPlnBIn86dmZGtoiUgcxM5v6POzzXfroFG2sil/xnn04In97+tEn1868W8x1cIOEsFDIjEFBamB/i6eNbzdQRx1ty7WixOU5OhbnIbypX5qE+BgmjVavHZHECjv/fmT6p0EZvXso11HqZ1L3o9hJs4q48QcMHJ9rMMRv/t4vB0xM7OICI19tOzQK35vZbBEcVHlp0SyeSWQ866kh39H8qCQ06WyppDbXupUMUeXWTnT7CsFS+aT7S3IhSK7OIiAdkGr6Coy1V8lPpe/TNfQSOMePa/HJ5D4UGuQ5PMm863dzZ356cIf8yl0d/KqsArXko0V+P5nj81R8ruz4GSNtH600=;UvK0YgSNNWUPly0IcqtFeQ=="
 ---

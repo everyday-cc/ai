@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/10/13/cyberpunk-2077-use
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/10/13/cyberpunk-2077-used-ai-for-a-dead-voice-actors-performance-with-permission/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cyberpunk 2077 Devs Used AI to Recreate a Dead Voice Actor"
+    excerpt: "CD Projekt Red said it didn’t want to replace the well-loved vocals of Viktor Vektor, voiced by well-loved VO actor Miłogost Reczek."
+    publishedDateTime: 2023-10-13T14:21:00Z
+    webUrl: "https://gizmodo.com/cyberpunk-2077-devs-used-ai-to-recreate-a-dead-voice-ac-1850924561"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/76568cc76a08928150dd4d0c53fff8cd.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Used to Resurrect Video Game Voice Actor in ‘Cyberpunk 2077’ Universe"
     excerpt: "The Polish video game developer CD Projekt SA has used artificial intelligence to replicate the voice of the late Polish actor Miłogost Reczek."
     publishedDateTime: 2023-10-12T23:18:00Z

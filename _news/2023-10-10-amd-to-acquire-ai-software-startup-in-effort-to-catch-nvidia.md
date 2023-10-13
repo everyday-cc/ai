@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
+    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
+    publishedDateTime: 2023-10-13T16:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://images.barrons.com/im-91984761/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Israel-Hamas War Causes Nvidia To Cancel AI Summit"
     excerpt: "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation."
     publishedDateTime: 2023-10-09T14:10:00Z

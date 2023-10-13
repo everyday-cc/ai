@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-an
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
 type: article
 quality: 16
-heat: -1
+heat: 16
 published: false
 
 provider:
@@ -21,17 +21,24 @@ topics:
   - AI
 
 related:
-  - title: "‘It’s a disaster’: Natalie Barr grills Anthony Albanese on Voice"
-    excerpt: "Sunrise host Natalie Barr has launched a stinging attack on Anthony Albanese during a fiery interview about the Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-08T23:27:00Z
-    webUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500"
-    ampWebUrl: "https://www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/entertainment/tv/morning-shows/its-a-disaster-natalie-barr-grills-anthony-albanese-on-voice/news-story/cac101bd634e7af242b708e13d8c7500?amp"
+  - title: "Voice to Parliament referendum: Peta Credlin debates Joe Hildebrand"
+    excerpt: "Peta Credlin and Joe Hildebrand have faced off before Australia goes to the polls to answer the burning questions about the Voice referendum."
+    publishedDateTime: 2023-10-12T19:00:00Z
+    webUrl: "https://www.thechronicle.com.au/news/national/voice-to-parliament-referendum-peta-credlin-debates-joe-hildebrand/news-story/91b60bb03dd174aa1b8083a4905eea9d"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 24
+      name: The Toowoomba Chronicle
+      domain: thechronicle.com.au
+    quality: 4
+  - title: "Voice leaders special message to undecided voters ahead of history-making referendum"
+    excerpt: "Leading Yes campaigners are issuing their final pleas to undecided voters less than two days before the referendum."
+    publishedDateTime: 2023-10-12T11:30:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "//Lx4dnVbs3razi+9L98A81I3GG0zaYtlaCXqz+Se5lEqR01YLhU7UuwTNovmJZygr7CVZOvJiitQuSjZV9I7Pc13QWr4YCIipzetp8VtlStHUd9KdGHN8uZ18Ocy5TGiOtNAt1UVv2OQEqaz8XyvHB4+D7RuNIRePq12tRMhi3YF8OoNyguhaepi6JilMQUQ91c77av/CWuQBsv0fI8E20CXZ/0cZv5rTbRq1l2UdSDfrucgo3B9NG9WOPeOH+Eg38JZfNARkgw3tgjbYrzD6AMW+jiFmL5yHUmRpctIYDNj57N8dA1VD88eUMaMsxvl860Kv09ZGSrqwT4LktyegWEHR8ApmDApEkKDE2UkV+oObOLnrZQ20p8nRen4XZPW71d+7zY2dMnt2031/YIXhKfJl5PynDT6SJcyoo2ydHo9eje712uPKHgLmw4Om8wCS3Zv2J/U4azjWid9CjL0j0mqoAG7ZuCrFReFuom0ujk+1rh0VHAGQhP6Fbq3tAV2DFKUXOEduAZ+7zUCsGrqA==;ehJzSZ6f5MubdmOp/IGRnA=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Cyberpunk 2077 Devs Used AI to Recreate a Dead Voice Actor"
+    excerpt: "CD Projekt Red said it didn’t want to replace the well-loved vocals of Viktor Vektor, voiced by well-loved VO actor Miłogost Reczek."
+    publishedDateTime: 2023-10-13T14:21:00Z
+    webUrl: "https://gizmodo.com/cyberpunk-2077-devs-used-ai-to-recreate-a-dead-voice-ac-1850924561"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 67
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/76568cc76a08928150dd4d0c53fff8cd.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "yFRDpKfm3ZNoF11DJUKLrnkx33l/wKUOliyaUJDV+bcEXFjzBS4aVrbyLXy9WBuHw1SPA6Wj3jyTiycx8OAXz27M5iFEAPRxkvK4gMIbK79X/DP1Otvkz4v/xNY1bkS82jWZKvH9Qsf6CRdZmoSgdSbPbnQk12R7Ng++G0XRhQpTXwwgokvZWAqHrAUYn4+0iZfwbnlYxfS4wrjRJI78FSIJqhNBRKZChJUHn99R5xTVgeHRTFhNwuydiQLZ8VT77Nwiat5z9pzcLZFExWyZxHG6RniJpO7wxBlqLNx16a05Yh92z/kN99JAFnFLpnd5erAi+rAaE1eOaoW0Jh1L4SM0qS8rKkaOenobs7S4OHqXnvNjypkUawp47gylPoSZ97gZKJDlTKCszrphr+vaEkhwx2yo3oDY8TK/PqjLfTJOiuIF7K2OXH3ynsJ70agy0ViKuqbimtswgGGQt6MXyEWxnZRppaDAJ14UH9o7N7Csw+UpA7z8lvyiUqq2P7EuCXMrF4mRdilpWjNy5OfYeg==;S/BrenU/A5zuGGQNXnruQw=="
 ---
