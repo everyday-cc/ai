@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "These books are being used to train AI. No one told the authors"
-    excerpt: "Nearly 200,000 books written by a wide range of authors, including Nora Roberts, are being used to train artificial intelligence systems, according to a recent report. No one asked for the writers’ permission — and many of them are not happy."
-    publishedDateTime: 2023-10-08T12:00:00Z
-    webUrl: "https://www.cnn.com/2023/10/08/style/ai-books3-authors-nora-roberts-cec/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
   - title: "The Increasing Impact of Artificial Intelligence on Energy"
     excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."
     publishedDateTime: 2023-10-11T15:19:00Z

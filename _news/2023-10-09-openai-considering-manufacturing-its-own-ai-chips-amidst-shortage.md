@@ -81,15 +81,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
-    publishedDateTime: 2023-10-08T12:31:00Z
-    webUrl: "https://techstory.in/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
 
 secured: "m79ftFWhVSo9VbU3h/9Un8696Ix/qzjEHodDrG7FsktPbQbGZIcQJBHG+QZqCdqMleINft/Y3AdjgSg92LjS4wXApkj7hYe+bBF540cAJKyaLOJpUJHSJDrfrNVzLYTNTgY5ct/KjAqS/j5TiMWTEQpP4Bm+b/8QyfGz8Emt1XS+OCxoS/Bsh+O3SzzOnYuc/fQw+Qi3cMAseMMY22Hl39Eq3Xj+vKfmQroK+7eYOB+n3/hKywLEwbVmBrgoEb6e3kpyWVG/TcP7DIsuq4SaTv6fT9DsU9cJoj5roJhzKQP8PEMmkNXsw9baM2PvWC4GatFaj7x4undLhfijD40jd6RBo9eLJm75DU99Ce0N+/JLPomw1tovMPbj7lZlnRJEwmSh362nJ1MsJZyFKB7E9Q1StLrLiX5jm8/UNkM4Vw4mm58fbrRFrneBFtba0knwmj1yirEgy04JYKmkIin1x46Npos9M4DWWJ2Edmnh5ZrKSF6nsIczhEgvYEEVrV/cHKg4IR0DTmzSwZo1EQ7iqQ==;dZAN29TemFUjcmkhNme9QQ=="
 ---

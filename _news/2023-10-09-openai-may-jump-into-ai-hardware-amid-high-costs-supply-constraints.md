@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/openai-may-ju
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/openai-may-jump-into-ai-hardware-amid-high-costs-supply-constraints/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Exclusive: ChatGPT-owner OpenAI is exploring making its own AI chips"
-    excerpt: "OpenAI, the parent company of ChatGPT, is trying to find new ways to its own artificial intelligence chips and has gone much ahead as calculating a potential takeover target, according to people who are well versed with the company’s plans."
-    publishedDateTime: 2023-10-08T12:31:00Z
-    webUrl: "https://techstory.in/exclusive-chatgpt-owner-openai-is-exploring-making-its-own-ai-chips/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 34
   - title: "OpenAI Considering Manufacturing Its Own AI Chips Amidst Shortage"
     excerpt: "Amidst a growing global chip shortage, OpenAI is now looking to develop its own chip and even acquire another entity to boost AI growth."
     publishedDateTime: 2023-10-08T19:24:00Z

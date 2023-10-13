@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktobe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Science-Fiction Writer Thinks AI Needs Its Own Body"
-    excerpt: "Ann Leckie, author of the award-winning novel ‘Ancillary Justice,’ on the future of AI; ‘I think there’s a mechanical answer’"
-    publishedDateTime: 2023-10-08T12:07:00Z
-    webUrl: "https://www.wsj.com/tech/ai/this-science-fiction-writer-thinks-ai-needs-its-own-body-740bcaf6"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
   - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
     excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
     publishedDateTime: 2023-10-09T18:43:00Z

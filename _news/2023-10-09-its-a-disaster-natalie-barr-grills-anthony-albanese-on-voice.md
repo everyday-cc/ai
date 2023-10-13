@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Anthony Albanese says Voice won’t be legislated if referendum fails"
-    excerpt: "Anthony Albanese has doubled down in declaring one of the No campaign’s key arguments “the great lie”, as he pleads with undecided Australians to vote Yes in the Voice to Parliament referendum."
-    publishedDateTime: 2023-10-08T11:59:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/anthony-albanese-says-race-division-argument-the-great-lie-ahead-of-voice-referendum/news-story/f0b1825371104f396e17acc235cf14ef"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "‘This is a disaster’: Albanese under fire in TV grilling over the Voice to Parliament"
     excerpt: "Anthony Albanese has downplayed concerns the Voice to Parliament is dead, clashing with Sunrise host Natalie Barr about whether his leadership is at risk should the referendum fail."
     publishedDateTime: 2023-10-08T22:52:00Z

@@ -26,77 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "The United States last year shook relations with Beijing when it unveiled new restrictions on shipments of AI chips and chipmaking tools to China, seeking to thwart its military advances."
-    publishedDateTime: 2023-10-13T01:25:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp"
+  - title: "7 Trailblazing AI Stocks to Buy on Any Weakness"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The transformative power of artificial intelligence (AI) — with regards"
+    publishedDateTime: 2023-10-08T23:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-trailblazing-ai-stocks-to-buy-on-any-weakness-1032686824"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/Joe-Biden_AFP-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Rule Curbing AI Chip Exports to China Under Final Review"
-    excerpt: "(Reuters) - A U.S. rule that restricts shipments of certain advanced chips to China has been revised and is under final review, according to a government posting, suggesting that further curbs on chips that can be used for artificial intelligence are coming soon."
-    publishedDateTime: 2023-10-11T15:29:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 Amazing AI Stocks That Will Make Early Investors Rich"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the electric world of Wall Street, some phrases don’t just make"
+    publishedDateTime: 2023-10-08T18:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-amazing-ai-stocks-that-will-make-early-investors-rich-1032686714"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "Exclusive-Biden Eyes Adding AI Chip Curbs to Chinese Companies Abroad"
-    excerpt: "Low commission rates start at $0 for U.S. listed stocks & ETFs ... The efforts to close the loophole show how the Biden administration is struggling to cut China off from top AI technology and how difficult it is to plug every gap in export controls."
-    publishedDateTime: 2023-10-13T01:32:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-12/exclusive-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "US eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "China’s AI capability depends on its access to US chips. CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies Nvidia, Xilinx, Intel, and Microsemi."
-    publishedDateTime: 2023-10-13T01:45:00Z
-    webUrl: "https://www.straitstimes.com/business/us-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/13/2023-10-11T152528Z580120646RC2EQ3ADKR74RTRMADP3USA-CHINA-CHIPS.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "U.S. Considers Closing AI Chip Access Loophole for Chinese Companies Abroad"
-    excerpt: "In a move that could significantly impact the global AI chip landscape, the Biden administration is actively considering closing a loophole that grants Chinese companies access to American artificial intelligence (AI) chips via their overseas subsidiaries."
-    publishedDateTime: 2023-10-13T02:37:00Z
-    webUrl: "https://www.cryptopolitan.com/u-s-closing-ai-chip-access-chinese-abroad/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 52
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_2023-10-01_16-10-59.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "THE Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four sources familiar with the matter."
-    publishedDateTime: 2023-10-13T03:12:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "MKvRgd0fGWtLjtfUfEOr8rwAPKr4JMyvSOTJDmuTe+L/VdSiguDkSxkwKxTnyIsoXK4BjCtSyn/3D0T7Z/UG6NHeEhoUi8dV+YUTgR7V8xlqbPBSJ/hEDnV10sgdlNtvQCpdd510xQfh3ZlIK9IVv3AKRuR3YgVLfsEhyj7kwBddvZD0ae7KTOXRHEvvXfjVn8tKXmMkWj0IKJIRtdWyWyEhhEnrQzGRVrkaz7TXbL443cmNtfgGomt9faotLVk8wB//c1lgW54VJVfcPvLiUfLTTj40UG/JEuobKE4tTPNkIZNSgwO7G4UMIryi5TcKooGyUpC+8Ug7tn5CbfmX3B8HR1joQKw4BCErPZoA8pRJ61RTOVj8YYDB7NBgtUzggT4PjEI3CLmUiMrMMCRpiIdT7E0/KsD6L+bmEOP+iEftujdvtWtQQJLs7wdwZEwze1xi+1HpnDxy64W3DKtfAa6L87swsPGxSZpcFreJuYDWqjh68Oaw+NAny8hePZ953M08YCmRgx83RiLXB78NIw==;Db06THynCuB376SMV4Tyxg=="
 ---

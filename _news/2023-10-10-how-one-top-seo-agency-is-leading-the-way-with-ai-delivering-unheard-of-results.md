@@ -18,47 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "AI in the Driver’s Seat: How Artificial Intelligence is Transforming Auto Electronics in 2023"
-    excerpt: "In the ever-evolving landscape of the automotive industry, technology continues to push the boundaries of what’s possible. One of the most significant technological advancements that have revolutionized the sector in recent years is the integration of Artificial Intelligence (AI)."
-    publishedDateTime: 2023-10-08T12:00:00Z
-    webUrl: "https://techbullion.com/ai-in-the-drivers-seat-how-artificial-intelligence-is-transforming-auto-electronics-in-2023/"
+  - title: "Businesses Are Boosting Online Presence and Pursuing Tech-Forward AI Projects, According to Internal Research From Fiverr"
+    excerpt: "Fiverr.com in the news! Fiverr's 8th Business Trends Index revealed that even traditionally offline businesses like shipping and construction are investin"
+    publishedDateTime: 2023-10-09T15:56:00Z
+    webUrl: "https://www.fiverr.com/news/businesstrends-fall-2023"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 43
+      name: Fiverr
+      domain: fiverr.com
+    quality: 12
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Untitled-design-2023-10-08T134229.356.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "The Evolution of AI in Consumer Electronics: 2023 Insights"
-    excerpt: "In the rapidly evolving landscape of consumer electronics, artificial intelligence (AI) has emerged as a transformative force, revolutionizing the way we interact with our devices. As we step into the year 2023,"
-    publishedDateTime: 2023-10-09T15:49:00Z
-    webUrl: "https://techbullion.com/the-evolution-of-ai-in-consumer-electronics-2023-insights/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/Untitled-design-2023-10-09T164846.855.png"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Sensigo’s AI Tool is Porsche’s Answer to Advanced Auto Diagnostics"
-    excerpt: "In a significant leap forward for the automotive industry, Porsche, in partnership with US investment firm UP.Partners, has taken a bold step into the future with the creation of Sensigo, a start-up set to transform the way mechanics approach car diagnostics and repairs through the application of artificial intelligence (AI)."
-    publishedDateTime: 2023-10-09T04:26:00Z
-    webUrl: "https://www.cryptopolitan.com/sensigos-ai-tool-porsches-advanced-auto/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 37
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_2023-10-09_09-25-26.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://assetsv2.fiverrcdn.com/assets/v2_globals/fiverr_logo/fiverr-og-logo-4953e4763ba1d66b9a44f3b285abda43.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "kzPiO9Jb1J9JTpyaCAtffpFSg9N+b1aKoVY+UiK11D4Wpm8XKvv6No9SfMrUFDcKXsTIqfg2+6M/fQXw8HF4C3LFTdRSwawvxtRrBFBrwmpbfgy1LWsTJRLnfG789k8sEGTfjhDkuQhwmfKk6AVLa+3JaySMkY51LPLg70H6uNKU9xQTs3nLRIzu9GjoH0RrTNazAIprxuGMLz2lUO04MUOYhalUvMKb6rviB3DR+yX8MgMaI7F5nZGfo5H0cjV57gknQrK+Vr8s6ZgSreoYrboDe3inxLL9tPLD+4aLL1kMuphincBVu8N7nLl/UH1Jq0R7z5N3ycrkK+eKsBGt3SjkdkB4w8oDGoA7yWeTxPtvVD/ysxwCATN6HUe/1loyUY8QcxDnCM49AGn7UNEDOQ6ZCOTIjDEi8ZrvaCMzOjNsYKavpst/gNXUiMwcRLTAhGsXoMil58Ty5cmWiYgv5Yy1k0OjkeLG2ZJj5maqTiFKvHRUQf47ehgKhvkC7LQmeThWkd/JuJogBqWblnUg1A==;yEQQE4tsWpD7U+p4DqaROA=="

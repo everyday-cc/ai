@@ -138,22 +138,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Microsoft prepares to debut inaugural AI chip at upcoming ignite conference"
-    excerpt: "Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip at the forthcoming 'Ignite' developers' conference, slated for next month. This strategic move is aimed at diminishing Microsoft's dependency on Nvidia-manufactured AI chips,"
-    publishedDateTime: 2023-10-08T11:03:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/microsoft-prepares-to-debut-inaugural-ai-chip-at-upcoming-ignite-conference-2023-10-08-896803"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 89
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/nepal-51-1696762830.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
     excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."
     publishedDateTime: 2023-10-10T04:46:00Z
@@ -334,15 +318,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft may debut its first AI chip at Ignite 2023 to mitigate cost"
-    excerpt: "Since Microsoft extended its partnership with OpenAI by making a multi-billion dollar investment, the company has been fully focused on AI technology and its advances. And now, a report by The Information reveals that Microsoft might debut its first dedicated artificial intelligence chip at Ignite 2023."
-    publishedDateTime: 2023-10-08T12:37:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-may-debut-its-first-ai-chip-at-ignite-2023-to-mitigate-cost"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 51
   - title: "Microsoft is all set to reveal its AI chip at Ignite conference"
     excerpt: "Microsoft's decision to create its own AI chips is a calculated strategic move. At its upcoming developers' conference, 'Ignite,' which is scheduled for next month, Microsoft is reportedly planning to introduce its first artificial intelligence (AI) chip."
     publishedDateTime: 2023-10-09T10:27:00Z

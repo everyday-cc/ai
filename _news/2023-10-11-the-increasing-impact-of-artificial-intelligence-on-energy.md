@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "These books are being used to train AI. No one told the authors"
-    excerpt: "Nearly 200,000 books written by a wide range of authors, including Nora Roberts, are being used to train artificial intelligence systems, according to a recent report. No one asked for the writers’ permission — and many of them are not happy."
-    publishedDateTime: 2023-10-08T12:00:00Z
-    webUrl: "https://www.cnn.com/2023/10/08/style/ai-books3-authors-nora-roberts-cec/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 47
 
 secured: "MjQN6sT+Nzj0X6D+xvfCe25GI652tqT/0MQJjlPQ+ki6vyos7CqUC+c/VPAomZ2EVpvrXwSQDXk7IprmGEek+S1LMRgwRIMNsuBE4ywK9asNhY3IR7W4Cjx50LKaBEg1F1SO6SppblNZAjFyA6riXojIQlkjtabdPCxtecySaZqp3mbSdT/di4Dywrvj42JqAk9XjzHWetKEBlk91dKm8Y+mg1i2lgQKCfQDN2N0Ni6hB1szrFH/8BTPtmWy//zKVJl5bUvAdFNFcqwkHFbtY4S08p3q97YN8FOVhrGGZCXFDXdAigXyCSCEcKZhP7k5kBRflTzJL0YT+LOhnEr/rFKqFrsUXV4jCaRP5B81J30=;Uc4FdJbdrT4i21/yzHfOwA=="
 ---

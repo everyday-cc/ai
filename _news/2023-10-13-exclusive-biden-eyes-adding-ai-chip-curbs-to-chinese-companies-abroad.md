@@ -23,6 +23,36 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
+    excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."
+    publishedDateTime: 2023-10-13T05:23:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3237797/tech-war-us-eyes-more-ai-chip-curbs-chinese-companies-abroad-close-loophole"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/13/1c9895fb-b779-43e2-b4bb-93d360312dbb_0b7b6e10.jpg?itok=y2hRJcln&v=1697174526"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
+    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
+    publishedDateTime: 2023-10-13T04:33:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad/article67415376.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th-i.thgim.com/public/news/national/alhwsy/article67405571.ece/alternates/FREE_1200/Joe%20Biden.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden eyes adding AI chip curbs to Chinese companies abroad"
     excerpt: "The United States last year shook relations with Beijing when it unveiled new restrictions on shipments of AI chips and chipmaking tools to China, seeking to thwart its military advances."
     publishedDateTime: 2023-10-13T01:25:00Z
@@ -76,28 +106,14 @@ related:
         width: 1024
         height: 1024
         isCached: true
-  - title: "Dividend Machines: The Top 6 AI Income Stocks to Buy Now"
-    excerpt: "Broadcom’s largest contribution to the AI space is a new chip, the Jericho3-AI, that is capable of wiring together 32,000 GPU chips at once. GPUs, or graphics processing units, are the chips that AI relies on to run its incredibly complex code."
-    publishedDateTime: 2023-10-10T16:45:00Z
-    webUrl: "https://investmentu.com/research-reports/ai-income-stocks/"
+  - title: "US targets Chinese AI chip firms abroad in bid to close loopholes"
+    excerpt: "WASHINGTON: The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
+    publishedDateTime: 2023-10-13T03:59:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/13/us-targets-chinese-ai-chip-firms-abroad-in-bid-to-close-loopholes/"
     type: article
     provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 41
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2023/10/Chart.jpg"
-        width: 927
-        height: 590
-        isCached: true
-  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "THE Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four sources familiar with the matter."
-    publishedDateTime: 2023-10-13T03:12:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 34
 
 secured: "Vkhvh1f9+fYKdPoPYnGYVkoEvR66+CsHWoUcKGiJIVR3ovggetGEAKsT5fA7AH/DR6UJdaVeo4PzbX/Uygf41T64kNS2wu0+QzPL2kEAM5LPYecxEBTT3CSTqC7a9yE9Vmy3WSfSL8Tx2Cvh8qr+7BAGf/sQijCzlCthcribgYwgSPVEO98a9irOyvTtgAzZR1RO8NIj99Q42E2XoXasr8bn2VkhMeMDeiihRI6DioVvPmasc1mlYKYBJCwr5aCdCgjI873PQELyuWnxl/iGNQEzznIH909NjyJ5n6BmlfGxL6PJmlUd0geHqnf9F6u9ABNq3oqkNTGCxCmuyNV/QkEq1uzLgYt19RgxhWtHKGQlzCOmJwZW0bO0zK+QncPRrFS/XOOd/JFMmGF+IBcwT8ciNw5YIekdzShYDaC6ed2M2Z83oHNHG5SAwYMOQOUvpq+CN/Gisl0BzX2F1Qd1nkES0J/HvV2aOc69AzEwRUGJY8Zk62PsvRED3G0RjWT51BJ6wz2KzietfJGPgvZK+A==;paABObB7RdDYJ2ngrz0w2g=="
