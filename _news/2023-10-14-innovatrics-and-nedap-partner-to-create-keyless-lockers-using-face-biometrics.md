@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202310/innovatrics-and-nedap-partn
 webUrl: "https://www.biometricupdate.com/202310/innovatrics-and-nedap-partner-to-create-keyless-lockers-using-face-biometrics"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Pet tech boom: biometrics and AI gain favour among cat and dog owners"
-    excerpt: "From biometric ID to predictive diagnostics, AI is helping pet owners and veterinarians improve the quality of life of our burgeoning population of dogs and cats."
-    publishedDateTime: 2023-10-09T11:03:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2023/09/pet-tech-boom-biometrics-and-ai-gain-favour-among-cat-and-dog-owners/"
+  - title: "Panasonic, academic researchers say data partitioning can reduce face biometrics bias"
+    excerpt: "Develop a new way to train face biometrics algorithms that improves performance of facial recognition for demographic groups represented by less training data."
+    publishedDateTime: 2023-10-13T19:19:00Z
+    webUrl: "https://www.biometricupdate.com/202310/panasonic-academic-researchers-say-data-partitioning-can-reduce-face-biometrics-bias"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/22437/web_66-69-inspire-pet-tech_et-sept-oct-2023_shutterstock.jpg?center=0.20258620689655171,0.45394736842105265&mode=crop&width=1200&height=450&rnd=133404684040000000"
-        width: 1200
-        height: 450
-        isCached: true
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
 
 secured: "O3WptHwmHbYs2tAjGlMeGgVu45H9Rvk6zbW3fBFPbVR1Z1v5zm0Lgbqkak0+IYL45O6CkuLaonZPhNKCKZE+VhEPXr6oRzXwH0e+rUn07Rjd+I1RI51oZbTqgkWmmf/UH/w5JW7bA7u4mM4icGhBnE7/5tJ/Tl3IkgFj04X1XW+Vl1YWkfq7zNCb8WD12Z5JEf8lTcJ+XFFj9dUOarZYUk5M9y9CjdcprO6lGBK12mF9D7bvEHz+K94xQW3kDKD207wldmBy1A0kkWbxwbeHn5lpNRKbvK4sq/ei+F99y09mVqXc63SG7nGyqMc9nEJvMiisTgNwVLvUuyUeHqYJ/QMxzsudaMpTC0nManveOBzrm8NedIFbziE8kFimEOsSJhqA9wjpi/WD1/ypYlBZOpuuMYO9GoVdred7ALkH4bSYEQvKMOfOb/W06Kai1wo8AwCCOnee5j9rlhNKvlKdppQ1g6rsqcVaHwRWwXcPLy56Sa+RFT3q1GdR3tsaaNhciDlPOG/GDwVt2+/ktBvmrw==;rcP9rLi6BOmc1MOLciuWlg=="
 ---

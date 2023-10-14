@@ -9,8 +9,8 @@ ampWebUrl: "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: coinspeaker
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is top of mind for leaders. The pros and cons, according to execs from PwC, Google DeepMind, Slack, and IBM"
+    excerpt: "At Fortune‘s Most Powerful Women Summit in Laguna Niguel, Calif., executives from PwC, Google DeepMind, Slack, and IBM addressed the the risks and potential rewards of AI for leaders and companies. Slack CEO Lidiane Jones said she is optimistic about how ..."
+    publishedDateTime: 2023-10-13T20:26:00Z
+    webUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/?ref=biztoc.com"
+    ampWebUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 84
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/10/53249487823_6808d5bb83_o-e1697208210718.jpg?w=840"
+        width: 840
+        height: 560
+        isCached: true
   - title: "DeepMind's Strategic Cutback Reflects Alphabet's Stock Struggles"
     excerpt: "DeepMind Technologies Ltd., an artificial intelligence research entity under the umbrella of Alphabet Inc GOOG GOOGL, has reported a substantial reduction in its employee-related expenses. The AI giant cut down these costs by 39% in the previous year, coinciding with Alphabet's struggle with declining stock value."
     publishedDateTime: 2023-10-11T16:49:00Z

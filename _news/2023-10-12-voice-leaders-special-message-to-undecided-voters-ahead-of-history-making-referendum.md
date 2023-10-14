@@ -30,6 +30,17 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 16
+  - title: "Anthony Albanese lashes out when questioned about the Voice as Aussies head to the polls"
+    excerpt: "Prime Minister Anthony Albanese has fired up during a press conference, lashing out at “the media” after being asked a question about the Uluru Statement from the Heart.“You made a promise to implement the Uluru Statement from the Heart."
+    publishedDateTime: 2023-10-14T03:13:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1"
+    ampWebUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 15
   - title: "Voice to Parliament referendum: Peta Credlin debates Joe Hildebrand"
     excerpt: "Peta Credlin and Joe Hildebrand have faced off before Australia goes to the polls to answer the burning questions about the Voice referendum."
     publishedDateTime: 2023-10-12T19:00:00Z

@@ -79,6 +79,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Lovo.ai Review: The Best AI Voice Generator in October 2023?"
+    excerpt: "Looking for the ultimate AI voice generator? Read this Lovo.ai review for an in-depth look at how to instantly add voiceovers using AI."
+    publishedDateTime: 2023-10-09T17:26:00Z
+    webUrl: "https://www.unite.ai/lovo-ai-review/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/lovo-ai-review-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "IkWCu2Bor+5cOY8WpBgSsWXvDWG7K452klEUoqLOiwyXBhWPQKnKs+/eIqtkvM7HOk7jmu2dCmWOR1dOpVMpZlbCvEj59UqGMNReTfxjb1+c3GtXK1WA/kghY0YGJkzhBRzFpIZOsVVh0PvWS6RlP8iWYA99rO8y0Y1yaD6+a6q05IimNuLD82TUwsPu7OHUSHKC8OHTl0en5dn4jLb/PsBulDCGENhBkeySy/obkJxbyjsnvLxPRqi+etrhzqScD4qdruuq78T3ZeG5LzNYnpD8f46gKxQ82JshTgGekVJEOhLy6YnqiWUpEJh236svwsOqAtzlbM/PDkeLGIXzcRCOvnBNsBoLHMb06mICXaRENTvkVEFFzyZ6UVY45458QGZPy+ygokOeC512WkS1/AT36/74GYZxrTeYqXPtdA6nTinyJQXb8W9sa7pEG1Qa2I6QG+xY6/hMLX4sv/GVBiihPK2KazOgwCDTAT8/MXkmbtabAiqfWYLjbTqPhf6fWhuLYoCaBTZilHbX0YC7BQ==;1uGd5/UE7OjxRDR8nzf7vw=="
 ---

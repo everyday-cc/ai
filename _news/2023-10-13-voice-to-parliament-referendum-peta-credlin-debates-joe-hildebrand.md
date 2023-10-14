@@ -30,6 +30,17 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 16
+  - title: "Anthony Albanese lashes out when questioned about the Voice as Aussies head to the polls"
+    excerpt: "Prime Minister Anthony Albanese has fired up during a press conference, lashing out at “the media” after being asked a question about the Uluru Statement from the Heart.“You made a promise to implement the Uluru Statement from the Heart."
+    publishedDateTime: 2023-10-14T03:13:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1"
+    ampWebUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 15
   - title: "Voice leaders special message to undecided voters ahead of history-making referendum"
     excerpt: "Leading Yes campaigners are issuing their final pleas to undecided voters less than two days before the referendum."
     publishedDateTime: 2023-10-12T11:30:00Z

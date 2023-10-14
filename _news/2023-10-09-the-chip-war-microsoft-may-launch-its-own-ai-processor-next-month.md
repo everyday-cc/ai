@@ -68,22 +68,6 @@ related:
         width: 480
         height: 320
         isCached: true
-  - title: "Microsoft could debut its AI chip next month: Report"
-    excerpt: "Microsoft to unveil own AI chip at dev conference, reducing dependence on Nvidia. OpenAI exploring own chip, AMD chips 80% as fast as Nvidia's, future path to match performance."
-    publishedDateTime: 2023-10-09T09:32:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-could-debut-its-ai-chip-next-month/article67398996.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/microsoft-could-debut-its-ai-chip-next-month/article67398996.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/microsoft-could-debut-its-ai-chip-next-month/article67398996.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 91
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/o58e1o/article67398988.ece/alternates/FREE_1200/2023-09-06T195735Z_941892624_RC2LXY9W9FXP_RTRMADP_3_CHINA-USA-CYBER.JPG"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
     excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
     publishedDateTime: 2023-10-11T09:10:00Z
@@ -179,20 +163,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-104334034,width-1280,height-720,resizemode-4/104334034.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Microsoft plans to announce AI chip next month"
-    excerpt: "Microsoft plans to announce its in-house artificial intelligence chip at its annual developers’ conference next month, the Information reports. The data center chip will be used to train and run large language models as well as other AI workloads."
-    publishedDateTime: 2023-10-09T09:21:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-plans-to-announce-ai-chip-next-month/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 71
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Supercomputer.2e16d0ba.fill-1200x630.jpg"
-        width: 552
-        height: 289
         isCached: true
   - title: "Microsoft’s First In-House AI Chip Could Be Revealed Next Month"
     excerpt: "Microsoft is reportedly working on its own AI chip to lessen its reliance on Nvidia GPUs for AI workloads. According to The Information, the new AI chip could be officially announced in November, which is when Microsoft will hold its Ignite conference for IT pros."
@@ -310,15 +280,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft is all set to reveal its AI chip at Ignite conference"
-    excerpt: "Microsoft's decision to create its own AI chips is a calculated strategic move. At its upcoming developers' conference, 'Ignite,' which is scheduled for next month, Microsoft is reportedly planning to introduce its first artificial intelligence (AI) chip."
-    publishedDateTime: 2023-10-09T10:27:00Z
-    webUrl: "https://thesiliconreview.com/2023/10/microsoft-ai-chip-ignite-conference"
-    type: article
-    provider:
-      name: thesiliconreview
-      domain: thesiliconreview.com
-    quality: 51
   - title: "Microsoft to launch its new AI chip 'Athena' next month"
     excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference."
     publishedDateTime: 2023-10-10T12:33:00Z

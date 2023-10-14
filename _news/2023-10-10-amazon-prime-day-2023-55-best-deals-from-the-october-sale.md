@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The best October Prime Day robot vacuum deals happening now"
-    excerpt: "Amazon's Prime Early Access Sale is almost over, so don't miss the best Prime Day robot vacuum deals to shop today."
-    publishedDateTime: 2023-10-09T10:14:00Z
-    webUrl: "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/"
-    ampWebUrl: "https://www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-october-prime-day-robot-vacuum-deals/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 89
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/06/Digital-Trends-Best-Prime-Day-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "1 Hot Artificial Intelligence (AI) Stock I'm Buying More of in October"
-    excerpt: "It does this by utilizing a segment of AI known as machine learning. By analyzing trillions of signals weekly, CrowdStrike's platform knows what is normal activity and what is a threat. This was a key innovation when CrowdStrike first came on the scene, but now multiple competitors offer the same product."
-    publishedDateTime: 2023-10-13T11:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/749900/it-team-solving-a-problem.jpg"
-        width: 2309
-        height: 1299
-        isCached: true
   - title: "Amazon Prime Day 2023: the best deals still available right now"
     excerpt: "The best last-minute offers from the Prime Big Deal Days sale It's done. Amazon's first-ever Prime Big Deal Days sale is over for the year. We went in expecting something similar to an Amazon ..."
     publishedDateTime: 2023-10-12T14:23:00Z
@@ -73,15 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon Prime Day 2023 - the 50+ best early deals from the October sale"
-    excerpt: "Prime Big Deal Days is nearly here. Amazon's latest sales event - which is effectively another Prime Day - starts tomorrow (October 10) and runs until the end of Wednesday (October 11), with 48 ..."
-    publishedDateTime: 2023-10-09T10:56:00Z
-    webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
+  - title: "Amazon Prime Day 2023: the best deals still available today"
+    excerpt: "Prime Big Deal Days may be over but you can still bag these offers Amazon's inaugural Prime Big Deal Days sale is now over. The two-day sale - effectively a second Amazon Prime Day - ran from ..."
+    publishedDateTime: 2023-10-12T11:14:00Z
+    webUrl: "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 54
+    quality: 69
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
         width: 1200
@@ -101,33 +71,33 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Best Amazon deals in October 2023: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
-    publishedDateTime: 2023-10-09T16:00:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+  - title: "Amazon gift card deals, offers & coupons 2023: Get $395+ free"
+    excerpt: "The big news is that there are some Amazon gift card deals that anyone and everyone should take advantage of immediately. Altogether, there’s more than $395 in free Amazon credit and discounts ..."
+    publishedDateTime: 2023-10-11T00:00:00Z
+    webUrl: "https://bgr.com/deals/amazon-gift-card-promotion-2021-how-to-get-10-free-right-now/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
+      name: BGR
+      domain: bgr.com
+    quality: 24
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bgr.com/wp-content/uploads/2023/01/amazon-gift-card-deals.png"
+        width: 3560
+        height: 1800
         isCached: true
-  - title: "Lovo.ai Review: The Best AI Voice Generator in October 2023?"
-    excerpt: "Looking for the ultimate AI voice generator? Read this Lovo.ai review for an in-depth look at how to instantly add voiceovers using AI."
-    publishedDateTime: 2023-10-09T17:26:00Z
-    webUrl: "https://www.unite.ai/lovo-ai-review/"
+  - title: "Amazon gift card deals, offers & coupons 2023: Get $325+ free"
+    excerpt: "The big news is that there are some Amazon gift card deals that anyone and everyone should take advantage of immediately. Altogether, there’s more than $325 in free Amazon credit and discounts ..."
+    publishedDateTime: 2023-10-12T00:00:00Z
+    webUrl: "https://bgr.com/deals/amazon-gift-card-promotion-2021-how-to-get-10-free-right-now/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: BGR
+      domain: bgr.com
+    quality: 24
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/lovo-ai-review-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://bgr.com/wp-content/uploads/2023/01/amazon-gift-card-deals.png"
+        width: 3560
+        height: 1800
         isCached: true
 
 secured: "SWOHwjvXUDUBMljSm6G2c9elYlOXecVO3Zsx868hwiYwkhAUkfuvTXRlKHl16UdIefeirstdyfZOLIaGt3GIyWab+3oQG4OsoSU7qOSeY0lsecoOc02SJFE5NmbSdaZ7GjSJeUMZP19fGpBJ7xaNNubh7CDtdHmmeudlbUFWRhJ2iHrDSbn8agARld7h/80oQ7eQuclMMlB3QWNl0zzYKZNQmplKXz9uEJWKsSuytbzEKmNa4kwDwhiM9hKQbHe49WqpAcNfljnISx2hZb5CvmNPV9IUa6y3qOUtqh9haPmPoUOp5Zfpq2Zndo3yxAxt6STsR/QyZlyb0J1FU8zuIwm2lqjcwhYudF04dFfCntQ=;5egi7ooOVyD9ATQmfInGIA=="

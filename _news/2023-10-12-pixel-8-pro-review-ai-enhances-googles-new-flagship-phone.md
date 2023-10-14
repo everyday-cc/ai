@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Lovo.ai Review: The Best AI Voice Generator in October 2023?"
+    excerpt: "Looking for the ultimate AI voice generator? Read this Lovo.ai review for an in-depth look at how to instantly add voiceovers using AI."
+    publishedDateTime: 2023-10-09T17:26:00Z
+    webUrl: "https://www.unite.ai/lovo-ai-review/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/lovo-ai-review-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Google Pixel 8 Pro review: Google’s future is AI"
     excerpt: "The Google Pixel 8 Pro adds a better camera and display, plus a range of new AI features. But is it worth the added cost?"
     publishedDateTime: 2023-10-11T17:00:00Z

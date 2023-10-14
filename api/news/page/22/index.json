@@ -2,6 +2,83 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2023-09-26-eot-aws-partner-to-deliver-ai-optimized-industrial-assets.md",
+      "title": "EOT, AWS Partner to Deliver AI-Optimized Industrial Assets",
+      "excerpt": "EOT and AWS’ agreement calls for deploying the next generation of predictive maintenance by combining generative AI with edge computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/exclusives/eot-aws-partner-deliver-ai-optimized-industrial-assets-206583",
+      "originalUrl": "https://www.hartenergy.com/exclusives/eot-aws-partner-deliver-ai-optimized-industrial-assets-206583",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/09/eot-aws-partner-deliver-ai-optimized-industrial-assets.jpg?itok=1gGQKnUt",
+          "width": 650,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-on-generative-ai.md",
+      "title": "Infosys collaborates with Microsoft on generative AI",
+      "excerpt": "Infosys and Microsoft collaborate to develop AI-enabled solutions leveraging Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Solutions will help businesses increase productivity, drive new revenue growth and transition from digital to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/infosys-collaborates-with-microsoft-on-generative-ai/article67348839.ece/amp/",
+      "publishedDateTime": "2023-09-26T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-for-generative-ai.md",
       "title": "Infosys collaborates with Microsoft for generative AI",
       "excerpt": "Infosys Executive Vice President and Global Head – AI and Automation, Application Development & Maintenance - Balakrishna DR said, ''Through our strategic collaboration with Microsoft, we will continue to lead the generative AI revolution, helping businesses amplify human potential and navigate their next towards becoming AI-first enterprises''.",
@@ -961,83 +1038,6 @@
       "provider": {
         "name": "The Hockey News",
         "domain": "thehockeynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-image-recognition-market-size-to-hit-usd-11756-bn-by-2029-at-a-cagr-175-percent-says-maximize-market-research.md",
-      "title": "Image Recognition Market Size To Hit USD 117.56 Bn By 2029 At A CAGR 17.5 Percent Says Maximize Market Research",
-      "excerpt": "It encompasses a wide range of applications, which includes facial recognition, object detection, autonomous vehicles, medical imaging analysis and others. The top companies in healthcare, automotive, e-commerce, retail and advertising are increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
-      "originalUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-nn-capital-launch-a-safe-trading-software-app-based-on-artificial-neural-network-research.md",
-      "title": "NN Capital Launch A Safe Trading Software App, Based On Artificial Neural Network Research",
-      "excerpt": "--news direct--established by professor ian cartwright, an ai pioneer who was a distinguished faculty member in some of the world's leading",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107141754/NN-Capital-Launch-A-Safe-Trading-Software-App-Based-On-Artificial-Neural-Network-Research",
-      "originalUrl": "https://menafn.com/1107141754/NN-Capital-Launch-A-Safe-Trading-Software-App-Based-On-Artificial-Neural-Network-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?65708",
-          "width": 437,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

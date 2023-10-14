@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI is top of mind for leaders. The pros and cons, according to execs from PwC, Google DeepMind, Slack, and IBM"
+    excerpt: "At Fortune‘s Most Powerful Women Summit in Laguna Niguel, Calif., executives from PwC, Google DeepMind, Slack, and IBM addressed the the risks and potential rewards of AI for leaders and companies. Slack CEO Lidiane Jones said she is optimistic about how ..."
+    publishedDateTime: 2023-10-13T20:26:00Z
+    webUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/?ref=biztoc.com"
+    ampWebUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 84
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2023/10/53249487823_6808d5bb83_o-e1697208210718.jpg?w=840"
+        width: 840
+        height: 560
+        isCached: true
   - title: "Alphabet’s AI Lab DeepMind Cut Employee Costs by 39% in 2022, Reported Decline in Profit"
     excerpt: "DeepMind, Alphabet Inc's AI division reduced employee expenses by 39% last year within its cost-cutting strategy."
     publishedDateTime: 2023-10-12T09:08:00Z

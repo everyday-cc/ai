@@ -23,17 +23,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "What This Leading Scientist Says We Should Know About Humanized AI"
-    excerpt: "Techopedia interviewed Mark Sagar, Chief Scientific Officer and Co-Founder of Soul Machines, on his AI-driven digital people creation."
-    publishedDateTime: 2023-10-09T10:44:00Z
-    webUrl: "https://www.techopedia.com/humanized-ai-mark-sagar"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 19
-
 secured: "qsc9Y/3yQ3WTkF8+1CP3doPBqAUkcE0uz5OfnGxexWnAbsCMu25CwkJdwp0APOIPoa4f6uoPKVuh8+ieh6R/T3M7K2FhkbKju5Flsp59rgfxlUyFoKWILZAC52jBuwtdOI9XWQryNo/D91XFaMJX/q4XpfS2twpOAROlzL62u6xyqbyEsyO67xzX0ZlKcn6yTMmCS+nmjuTq8D2aFjgfgTOWyAQlV63eWUR3ScXIElnVuSAmmU2T7jx7YsKq6iGkc8V8EKcsrY2tOU4M0pLiKVf8vdemZSYxoW1g4drsFEwNm+hQo5KDebcwQNXVMF/dbSCmwai4de/X3oea7mkgYS5yi1cEgY00WS7sHpawW4PYuo88pJB+1JwD1ejU0BTKIKjlRCJkyXjVtmtc7JFXuv8+YdHFzxhFjPhVyO9p8h2XXOccUmfHNw+iTPRjbqgxFatKGB6YW8AaiqqzpHo98YjswEw21NAwrClnFAVGM8wU9fsdpgboEyQiqCzYyOXKeoJtLBeMto4voBHOo/TuCw==;hTCznMnaZdstSCOWvOj7/A=="
 ---
 
