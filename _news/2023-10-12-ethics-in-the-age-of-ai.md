@@ -64,22 +64,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Welcome to the AI gym staffed by virtual trainers"
-    excerpt: "Wall-to-wall LED screens, algorithms, and motion tracking sensors allow Lumin Fitness to offer supervised workouts with no human interaction."
-    publishedDateTime: 2023-10-09T08:51:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/LUMIN_STUDIO_3320_screen.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "These 7 Stocks Are Leading the AI Pack"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
     publishedDateTime: 2023-10-11T10:01:00Z

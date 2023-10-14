@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Researchers measure global consensus over the ethical use of AI"
+    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
+    publishedDateTime: 2023-10-14T01:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
     excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
     publishedDateTime: 2023-10-10T18:00:00Z

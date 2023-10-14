@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
 type: article
 quality: 121
-heat: 431
+heat: 421
 published: true
 
 provider:
@@ -79,22 +79,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/o58e1o/article67398988.ece/alternates/FREE_1200/2023-09-06T195735Z_941892624_RC2LXY9W9FXP_RTRMADP_3_CHINA-USA-CYBER.JPG"
         width: 1200
         height: 801
-        isCached: true
-  - title: "Microsoft to Develop a Special AI Chip to Counter Nvidia"
-    excerpt: "According to a report from The Information, Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip next month. This move is"
-    publishedDateTime: 2023-10-09T08:12:00Z
-    webUrl: "https://propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/"
-    ampWebUrl: "https://propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 91
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/10/AI-chip-e1696837734444.jpg"
-        width: 1000
-        height: 560
         isCached: true
   - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
     excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."

@@ -64,22 +64,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Welcome to the AI gym staffed by virtual trainers"
-    excerpt: "Wall-to-wall LED screens, algorithms, and motion tracking sensors allow Lumin Fitness to offer supervised workouts with no human interaction."
-    publishedDateTime: 2023-10-09T08:51:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/09/1081333/welcome-to-the-ai-gym-staffed-by-virtual-trainers/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/LUMIN_STUDIO_3320_screen.jpeg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
   - title: "Ethics in the age of AI"
     excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
     publishedDateTime: 2023-10-12T06:29:00Z

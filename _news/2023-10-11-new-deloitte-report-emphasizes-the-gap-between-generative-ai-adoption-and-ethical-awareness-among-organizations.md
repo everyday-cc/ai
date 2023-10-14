@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Researchers measure global consensus over the ethical use of AI"
+    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
+    publishedDateTime: 2023-10-14T01:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
 
 secured: "57KxEAHP11iKwTRrPsk2t6CzQVQmgGgNHNVwRVv+hI6xk9y5OctKFsYwfAPhSiXzOpiJPiKEumk/gJjo2WuTshqQgniKJMUQfM1DPDhHnQ6DuvZ7FcFVAvN9mZSUpBNBDMna/sg4M7oxH8Xu0/kgi5/aKf+2+WLjPq6idSItwdFW5GWoGMhOBd71WmfPctBLhFUajXJPvsO9IKJz9JbBBGsHQiyeNxNX7se3SeuAW1406R1G94jXQ49BvlfXPGTcCpixetPGJ3ZCSNmLu/oZvmoIGClE3haDlqV4B84op6uE37h2TOptNezVtWvuAsAGRAUIkioIZWMapmAK7q+m9MnTLOR/7IpOUty5bMqx1IeGD2kigSuCg62lfVi5QaTsg2QIqJ+pPrEBsUv7/wV3qaHcHUn8D7ORtmYSUCLzsKyv768BJzYtKC/bXzIIcXsIG0NeAkK5WQcNVJ8y6i9YroDQH5LSsEuJyP3KubjZ/a4QIhTcnlVILYNWGtQhaiSienfGGfz0jrVrXiywEV14lQ==;CWdXUaaVxtqNzP65/QCuXg=="
 ---

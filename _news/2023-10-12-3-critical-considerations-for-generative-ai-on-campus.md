@@ -60,22 +60,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 108
-  - title: "How knowledge graphs improve generative AI"
-    excerpt: "Large language models have immense potential, but also major shortcomings. Knowledge graphs make LLMs more accurate, transparent, and explainable."
-    publishedDateTime: 2023-10-09T09:05:00Z
-    webUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707814/how-knowledge-graphs-improve-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How Adobe is leveraging generative AI in customer experience upgrades"
     excerpt: "They start to build a map of your brand's benefit to their lives ... Also: Adobe Generative Expand adds to Photoshop's AI arsenal Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual ..."
     publishedDateTime: 2023-10-12T15:17:00Z
@@ -201,6 +185,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05eR2BHqfTmXbAUOwc8o0x8-1.fit_lim.size_1200x630.v1697110351.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Google adds AI image generation to Search — but there’s a catch"
+    excerpt: "The new feature is available only for those who have already opted into Google Search Labs, the company's experimental beta testing service."
+    publishedDateTime: 2023-10-13T23:33:00Z
+    webUrl: "https://venturebeat.com/ai/google-adds-ai-image-generation-to-search-but-theres-a-catch/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_magnifying_glass_over_a_drawing_742f94ef-3a3d-48da-9120-276e833303ff.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Dubai Assembly for Generative AI kicks off tomorrow"
     excerpt: "The Dubai Assembly for Generative AI supports Dubai's vision to become a global center for testing emerging technologies and taking advantage of their opportunities. The assembly complements Dubai's efforts to collaborate with decision-makers and industry leaders from around the world in order to address challenges and create new opportunities."

@@ -92,22 +92,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Microsoft to Develop a Special AI Chip to Counter Nvidia"
-    excerpt: "According to a report from The Information, Microsoft is poised to introduce its inaugural artificial intelligence (AI) chip next month. This move is"
-    publishedDateTime: 2023-10-09T08:12:00Z
-    webUrl: "https://propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/"
-    ampWebUrl: "https://propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/09/microsoft-to-develop-a-special-ai-chip-to-counter-nvidia/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 91
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2023/10/AI-chip-e1696837734444.jpg"
-        width: 1000
-        height: 560
-        isCached: true
   - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
     excerpt: "Microsoft's Bing AI launched a new bug bounty program designed to find important and critical flaws in the chatbot. If you find one, the reward is pretty big."
     publishedDateTime: 2023-10-13T21:48:00Z

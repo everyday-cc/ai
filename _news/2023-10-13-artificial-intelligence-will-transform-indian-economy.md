@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indi
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       name: devdiscourse
       domain: devdiscourse.com
     quality: 25
-  - title: "Introducing Voiceai: The Most Accurate AI Transcription For Arabic And Indian Languages And Dialects"
-    excerpt: "NeuralSpace releases VoiceAI: The most accurate call transcription, translation and speech analytics for Arabic and Indian languages and dialects. Melanie Swamy-Brown NeuralSpace +44 7889 918293 Visit us on social media: Twitter LinkedIn YouTube"
-    publishedDateTime: 2023-10-09T08:28:00Z
-    webUrl: "https://menafn.com/1107210792/Introducing-Voiceai-The-Most-Accurate-AI-Transcription-For-Arabic-And-Indian-Languages-And-Dialects"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?331303"
-        width: 375
-        height: 250
-        isCached: true
 
 secured: "sjYUe4N8HrlzhJd/8KsMiwvUpxCSOCVFqQc+LLigNT18cj+VfHqGUuK7JlfbnGv9BkpqbTPSBEzDHd/K41QhhTdYHdmIy6LsdQofNl5HAn6sOW9SXyTEPB8JUrLuwZcRy+pe9UEj0BKmC6y/2LtEjwotgo//db3yZcjz7ktPnVa+ZJseouqdgubbd3dwybpIGWEfB14fzm8uPpt5aPZzNDjLovQRb4ImjbU2q0EZE2+hVhHbBsHpJY+hKf+Ta8IOHFR0HDlUbyKDVC9ehZNCHK4QMwio/TmLJ87HxgvJwLouV6uY25bl+c58G7ih9j31EtXRCbrXhBQ690hzqx5OF+7S0WVf4IMAa2ao7KXCeBk=;KJqq6R4d7UAhhM7i+6pTqw=="
 ---

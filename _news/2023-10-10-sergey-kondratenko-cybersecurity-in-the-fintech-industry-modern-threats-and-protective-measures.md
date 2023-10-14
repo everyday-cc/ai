@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.ch/security/sergey-kondratenko-cybersecurity-i
 webUrl: "https://fintechnews.ch/security/sergey-kondratenko-cybersecurity-in-the-fintech-industry-modern-threats-and-protective-measures/63928/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,31 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Three advanced cybersecurity technologies for banks, financial services"
-    excerpt: "Three zero-trust security technologies for banks, financial service organisations, and insurance companies were introduced at the Smart Banking 2023 international conference and exhibition."
-    publishedDateTime: 2023-10-09T07:59:00Z
-    webUrl: "https://vir.com.vn/three-advanced-cybersecurity-technologies-for-banks-financial-services-105837.html"
-    type: article
-    provider:
-      name: Vietnam Investment Reviev
-      domain: vir.com.vn
-    quality: 39
-    images:
-      - url: "https://vir.com.vn/stores/news_dataimages/2023/102023/08/14/in_social/opswat-introduced-advanced-cybersecurity-technologies-at-smart-banking-2023-20231008143947.jpg?randTime=1696845704"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Healthcare Cybersecurity Market Size to Register USD 21.06 Billion Globally, by 2030, at 17.80% CAGR Growth"
-    excerpt: "Global Healthcare Cybersecurity Market is valued at USD 12.96 Billion in 2022. Global Healthcare Cybersecurity Market valuation to reach USD 48.05 Billion by 2030. Healthcare Cybersecurity sales to account for a significant CAGR of 17.80% during 2023 – 2030."
-    publishedDateTime: 2023-10-10T14:24:00Z
-    webUrl: "https://www.medgadget.com/2023/10/healthcare-cybersecurity-market-size-to-register-usd-21-06-billion-globally-by-2030-at-17-80-cagr-growth.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 1
 
 secured: "pPP/XHBhphzVYuz6/uzsL9RCki/CSUpZ2lri00azoIX1BR68+xL9jL+N7ifLPdX0RijvD+1waM9QqJzxf7cvZ2/Wv8PdG1ptdYKr4MXW/2o2Z00eWDppiTokJZK5pj6j9ORJMDjDX10+7uUTkFqmMFipG69OKdxU1O5Omv4VSN0aHKrs7Qhb45/KDLetMS3JHmXRpoPndr6FFXes3kulHVGBtyuNgDMEFou4oSssUPXv6HxIMOIWK6DCXzCPS58GFzDVHO9qRPuxG13HgGkhGy+9SSOpZSa+trITGrzkayYJX3IYiuZouEHAQKux4ssn9vRDOUKTttmabfO3kVuht5I1H+i4B80nkybHakUhYlAnD5Y4/EFDwk6uePx155/QyAREwaTlNmnL1igZyCZKls30ahowoYyNF5q+bxj8iASPz38GCiZvsxzhI2w2WAkBxY3GJDxZu5NzZrNwdXlLSEsSp7rnTUizTH7YfnOnmSCwmw087U/pkXINBnVBJXNHvtm7810+Z5C08CX/tk+oYA==;umUvd9w9qUri8JUpm66RvA=="
 ---

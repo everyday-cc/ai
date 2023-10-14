@@ -8,8 +8,8 @@ webUrl: "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-
 ampWebUrl: "https://www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true"
 type: article
-quality: 59
-heat: 59
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/fc67728/2147483647/strip/true/crop/380x258+0+0/resize/380x258!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F6b%2Fbb%2F563a07814eeb91f2117dfaa725ec%2F1-main-logo-for-digital-use-only.png%20%281%292.png"

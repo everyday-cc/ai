@@ -69,6 +69,22 @@ related:
         width: 280
         height: 210
         isCached: true
+  - title: "Anthony Albanese makes impassioned final plea as more than 9 million Australians still to vote in Voice referendum"
+    excerpt: "The prime minister delivers his most fervent plea yet for the Yes campaign, as more than 9 million people head to the polls to vote in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-14T00:45:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-14/nine-million-australians-still-to-vote-in-voice-referendum/102976642"
+    ampWebUrl: "https://amp.abc.net.au/article/102976642"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 22
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/d7684ea097300836ad54963dd334f97a?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
   - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
     excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
     publishedDateTime: 2023-10-11T14:38:00Z
@@ -97,6 +113,6 @@ related:
       domain: biometricupdate.com
     quality: 0
 
-secured: "LSn6fjK3OkIpQzvCbypltGw/WhntIYbngnqzCz/QNhD7Gx1sEB6Pux4ZdfH4pkfaDpvZJFyLt9IS4EFiCq/+YZNTZ+y+8EriIf4yquZXLGkPOcavEjnlVwmjC5XWNa64jt1s/B3FXtXcarFv9rfJc+m1l9e3VJrps3UT8T+4MS0WdtWayaN9JCpdJSQaScIt//Ri2xAVgRnEEe92bqN1Kxz6bglEL4HBAFaKM/OGbe/17iCgDidPSdhcv+6yRih+nIqbGuwgKZszTaq0bBF3/r+UxYMJWSYUFhR4M2rEH3xko3IXFtoW0GDYNJD1DEle7NN1L1wjSfe3FDSqLp8UXj2HibThvQlw5nGbPSu1ro4=;UEQloZMb93UQAO3GS8fnlQ=="
+secured: "vwSALPL8+CGHbsk9zeVJH4igXcUc0d3T9LCec6Qdtst9NHopeIB85VDG47H6PUIGVa8m/OaunoV6KrSXjhJOOWM6trnB+77pT0uqwBNc8hiWfrLYAn9xWkHl6REeUwa9d2zELL1yQJnBfke3NIB/Tjlm43GE0wqkxrRAlJL7nmjMHHAn9Ihrufd/Br9o1HpNJ4y3EN6UYIrV+cSiVwJatSqPkzrjIL4XuIJFXz+fKBD2UQ7b2IzG27RpN77VVRA7KcC+JPTXWzY6YVnabo320XFtq9P/4+cAyrvVQytMtq9Zzdhb9GaDVp+LhUjshf5tzFrlGEvWFkXR+WR+1DGO9wFtkzVryLdnR+nvdb30wVgIx0EuHhsvCV5Xcc/1vbEKhdvQH3C9zI0qI73eCN3JMURYCxvn1Gn1LXqQcEFkYPY9NRzUxx9cFKJRWPQGolpJZoZ0BWnCpe2OhUCh0STzLSWaj8nRPEv5HCo0qi2e+eN8ayB9Ki87M6CLsNkAaffEJjTclWo+Fv5Ix0PYY2SGfA==;aNEc5bygkjOqMDSwbn5Vyg=="
 ---
 

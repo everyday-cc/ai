@@ -26,6 +26,19 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Months old Yes poll sparks claims Indigenous Voice support claim is outdated"
+    excerpt: "Outdated polling showing overwhelming Indigenous support for the Voice has sparked a late-stage brawl over ... by Dean Parkin from Australians for Indigenous Constitutional Recognition. A Yes23 spokesperson said the 80 per cent figure was based on multiple ..."
+    publishedDateTime: 2023-10-14T01:11:00Z
+    webUrl: "https://www.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
+    ampWebUrl: "https://amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
+    type: article
+    provider:
+      name: The Age
+      domain: theage.com.au
+    quality: 36
+
 secured: "l2K3ZlaAaUjxA/P3M80yXzcftky4mOh4t0JhhKcXN1n2xXC2PrUvSAxUvPrCsdnXIbyYDnZYoA/WEmIcTrGmJss0NqUX7zBMYY63Bx+rkHPiHd8bmgNhc34hVS5RZhMHz37WNXie0daU+n3vJZXRAKc49LUddrYhu4u2FdLgwOw2ZNWKVda/qvwlLr4tNT62mdliOxKi+qWkyVnRIST3MTVUYEXfSWROwuRssl0istEq4xsLBYXpIY7I6UiI94AEvaznt6X6pln0L0PWj0UmRZJMNm5YYCu0X9alEt5Yv5XBLc45ujk1i8DHdiycAp5gMg1nQXA4TWLwo0H5XDdAB/1L7OKyVp3snKbNL/PyjG0=;78PnbZtfJcKJ5IlIW64wqA=="
 ---
 

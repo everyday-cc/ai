@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-you
 webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
 type: article
 quality: 119
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_1739491604-100947060-large.jpg?auto=webp&quality=85,70"
         width: 1199
         height: 622
-        isCached: true
-  - title: "Generative AI and the impact on financial services"
-    excerpt: "In association with NTT Data In 2020, I investigated the potential impact of AI on financial services, charting the meteoric evolution of AI and machine learning. This investigation culminated in an article I published on Forbes."
-    publishedDateTime: 2023-10-09T08:00:00Z
-    webUrl: "https://www.techcentral.ie/generative-ai-and-the-impact-on-financial-services/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 39
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/04/Artificial_Intelligence.jpg"
-        width: 620
-        height: 351
         isCached: true
   - title: "The Intersection of Data and Generative AI"
     excerpt: "Microsoft's Buck Woody breaks down how SQL Server is leveraging gen AI, and what skills you will need to stay competitive."
