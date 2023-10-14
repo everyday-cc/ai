@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curate
 webUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -28,33 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Logic Design Launches New AI-Assisted Article Writing Service For UK Businesses"
-    excerpt: "Award-winning website design and digital marketing agency Logic Design has launched ArticleStack, a new AI writing service.Ipswich, England,"
-    publishedDateTime: 2023-10-11T06:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses-1032694182"
+  - title: "‘Dubai. AI’ launched as Artificial Intelligence-powered digital city concierge"
+    excerpt: "AI platform in partnership with the Dubai Center for Artificial Intelligence (DCAI), which allows users to easily and seamlessly access services and information about the city of Dubai across various sectors. The platform was launched on day one of the ..."
+    publishedDateTime: 2023-10-11T17:49:00Z
+    webUrl: "https://gulfnews.com/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
+    ampWebUrl: "https://gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 68
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/KzBywcHSlXNdwbffq9CuqiWMA6E3/1696937870123-0.jpeg"
-        width: 650
-        height: 413
-        isCached: true
-  - title: "State Artificial Intelligence Task Force Created"
-    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
-    publishedDateTime: 2023-10-11T18:20:00Z
-    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
-    type: article
-    provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 37
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
-        width: 775
-        height: 500
+      - url: "https://imagevars.gulfnews.com/2023/10/11/Digital-Dubai-launches-Dubai-AI-1697036077563_18b1f3b8a30_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
 
 secured: "6bcE+8qID8aV4R+bBBhO19I4j+XSgyXw7Srk4AWqN21yJgo12D/leZZ7nT8oYRnRO6bzNtb98ECZlrE185qPamWSv2oLFIgLxnTg5xDcJzhkAkKVdrDBT+AcIJHjsRzBSkjYGG5XVsTCHQoBQGciQst2C3+zHnqyBWrgxx4Yvsc19H3/Mz8lCqeIBAEa+CnKsERBJsr7NbeP/ldU+tvgar4XWobCfU7ze3t0+dZqf+ElWAnqxPpsaS4VgEYcjE+zbk5SRj1zXo6FIA+GxWyt9X5YThTMXt6juYV1t2r4n7cPLzxxUKtUv+ftRMoeIdenbwA/utOROkMZOTOwjD/rpb5p7q7Q0c9fbZfmELoLp2M=;mWyhJP3Mq8kjFjtMDP/8mg=="

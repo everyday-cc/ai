@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday on whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives. Proponents said creating an Indigenous Voice via the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies."
-    publishedDateTime: 2023-10-14T07:48:00Z
-    webUrl: "https://www.aol.com/australians-decided-indigenous-voice-needed-044835784.html"
-    ampWebUrl: "https://www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/G_QCQkFLthlTLBM0ZRCcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a80222dfa9b3ee62432a75f3a765fb96"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
     publishedDateTime: 2023-10-10T00:36:00Z
@@ -142,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/b61e6dd418c4f0b15304decfe9317deeb3b725d7/0_249_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=26f0c2757671d9dedd3875704ccab1ad"
         width: 620
         height: 372
+        isCached: true
+  - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
+    excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
+    publishedDateTime: 2023-10-14T09:51:00Z
+    webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 30
+    images:
+      - url: "https://i.guim.co.uk/img/media/4d69b941e29b96ddb4f7705581d0f515e1fdcb9a/0_0_7449_4968/master/7449.jpg?width=620&quality=85&auto=format&fit=max&s=ac37d33112858e19de4ebf2f282e7e91"
+        width: 620
+        height: 413
         isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "When announcing his plan to hold a referendum in March, Mr Albanese said the Voice would enshrine \"recognition\" that Australians \"share this great island continent with the world's oldest continuous culture\". \"Our nation's birth certificate should ..."
@@ -231,6 +231,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
+    publishedDateTime: 2023-10-14T09:50:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "59rQHt7x24H5oNQHLtEdUpIw2KN7uVoRfphVRB5H6930UsPrBOwDaviw6y7KwqZVdJMxfB6tf656Fdc4XcMl/7IX4/DSaXSrYMW+bOZ2/5EYFiDOSCA1gRlrpEW38hTlmid/6EJeZKeFqTkg9U1iAbDjy+9XnmqZ7GpMfCKsUsp6+YVEK/+gZIctb/F4u5W6E16/D+FgBIOJOrTQ4QGIWzWI4vAtOQvrBu/gk5ye9vqn6geXAUGfTCuXyk5A5mOS8HIRjnMjOkLB06Ub6U6VvSER/orugfvvAws3mh10u/ikSGkS9oWbiuHQfx03dUOjrv2ms76MLiY2n0CUQLP54el6i94vngd1PDlZHLmx2RCkKHNAishvSF7rZep1Nss6ro6cBSUXyQUIRzmSDn1U8CwiiAZ93K8xOYbIrUPA+h/bcROGxsPZr/bpkoAfqVykw56Z/KwOgCyxQTzsw5XLpVE66aUTnPDYxUDjaxNcRi0y1hJB/dcNVt+bxGYOvm8a+YNCByfSzhetEuz/RBt3MQ==;ze9VjlZe+2q2X0b6vL8hhA=="
 ---

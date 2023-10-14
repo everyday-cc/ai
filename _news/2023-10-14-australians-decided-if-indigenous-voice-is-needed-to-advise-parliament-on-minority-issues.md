@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-excerpt: "Australians voted in a referendum Saturday on whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives. Proponents said creating an Indigenous Voice via the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies."
-publishedDateTime: 2023-10-14T07:48:00Z
-originalUrl: "https://www.aol.com/australians-decided-indigenous-voice-needed-044835784.html"
-webUrl: "https://www.aol.com/australians-decided-indigenous-voice-needed-044835784.html"
-ampWebUrl: "https://www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
+excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
+publishedDateTime: 2023-10-14T09:50:00Z
+originalUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
 type: article
-quality: 35
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/G_QCQkFLthlTLBM0ZRCcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a80222dfa9b3ee62432a75f3a765fb96"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
@@ -133,6 +125,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
+    excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
+    publishedDateTime: 2023-10-14T09:51:00Z
+    webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 30
+    images:
+      - url: "https://i.guim.co.uk/img/media/4d69b941e29b96ddb4f7705581d0f515e1fdcb9a/0_0_7449_4968/master/7449.jpg?width=620&quality=85&auto=format&fit=max&s=ac37d33112858e19de4ebf2f282e7e91"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
     excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
     publishedDateTime: 2023-10-10T06:26:00Z
@@ -233,6 +241,6 @@ related:
         height: 900
         isCached: true
 
-secured: "bUWMUb8zgALBsoBeJ0ZR4I5Oe0+m4uWt+LmeqN5CjeZvN5tacNLdB0Dx7HFUIZwbB6xGa/6ZytjIQHXQ5NmbdQRrc3mNQdnaLgWWlY0kREdS5ABKdcWCUSV1B+f3IirN9Plp/kUszyy1+FRgV9uOmwbdV4wM2pra9fZ9ti4Mb3HWhFwyPF9lSUucvQv/QrL63nlUzCM4zuQJ6v9JeKzb/NmdJGtDmBbbqXUTBKAidS/q9ldQdHc8y7QDcQrOVsr/93YXVnLg299EMqVIZCdVX2J8mSmmixEs4g1s3jY25sEWDJbJp6YQHEBIuq9ChO9doQVI9AqD0Ma020Vcjf8E3VkItGEGrYX990lELiVAhN8=;J7MM0/ZpTbBgfop8nDMJcA=="
+secured: "TttscqZp1fy9F6PHUzqXv7EnXfgnrVjJ/E7gDsggXbTsGGJIyhkZHJJ/N6BBo9NzLRGBUp8FGyZ0FhzmblSx9hJ5vr0l+EECNC4exOkNmxcP/64BiIwlzMAtihGAKd6a7m/Asr92OVDozZ5ji2KF0K9abJkvym/qMZj1MPG75wkCTIiMamaJteYJkYcMc5CPoeU4lEHZNqKo7exYl3S3cKRyRhNBg1ew6lPYs7e4PBkz05eNhXHNpELL733FtIy0MAlulvHj3+rAsnkM+dtftuvbXZPGaA10SkKoe0Q287ooQ86vxrxxz5whXPm24fSWx2Lab67sSgsPiUGyLafFXhuQAegIw/GtLXM/Bw+BHtnNCGn+NuO6Jqp4SJ6rOBEeKVA07KBuZg1fQCIDkVBaUTVKjU8kVqLC7G/710piEFnX/OCJlNqSI1dn7EtcZBjo1gyf/2RIE8LNF4e5Uzdv/k6T717HSTUCa0BOOoggdytQDhurgiNGO95SKXqlafhRy4WZ4W2CqLcNKjYabckcPg==;Qv6R/r1XP+JC80Ds2zXY1Q=="
 ---
 

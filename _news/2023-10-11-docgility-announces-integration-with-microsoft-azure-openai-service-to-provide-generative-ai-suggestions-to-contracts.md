@@ -122,22 +122,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 79
-  - title: "Microsoft, Google, And Adobe Navigate AI's Profitability Challenge"
-    excerpt: "These AI technologies, capable of generating business memos and computer code, are costly due to their need for powerful servers and energy-intensive chips. Microsoft reportedly incurred losses on one of its initial generative AI products, the Wall Street ..."
-    publishedDateTime: 2023-10-09T15:26:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35146260/microsoft-google-and-adobe-navigate-ais-profitability-challenge"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35146260"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35146260"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 76
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/09/bz_briefs_tech_5.png?width=1200&height=800&fit=crop"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Microsoft empowers health organizations with generative AI and actionable data insights"
     excerpt: "We’re making several exciting announcements about new capabilities in Microsoft Cloud for Healthcare that will be introduced across Azure to help health organizations improve patient experience, gain new insights with machine learning and AI, and handle health information securely.\nThe post Microsoft"
     publishedDateTime: 2023-10-10T16:00:00Z
@@ -227,20 +211,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Domino’s partners with Microsoft to launch AI assistant for store managers"
-    excerpt: "Domino’s Pizza and Microsoft have announced a joint effort to add Artificial Intelligence technology in order to support the restaurant’s store managers."
-    publishedDateTime: 2023-10-09T15:52:00Z
-    webUrl: "https://www.journal-news.com/business/dominos-partners-with-microsoft-to-launch-ai-assistant-for-store-managers/XTFTI4HSQNBCDGLOBAOAUZ7L4Y/"
-    type: article
-    provider:
-      name: Journal-News
-      domain: journal-news.com
-    quality: 52
-    images:
-      - url: "https://www.journal-news.com/resizer/XpJQP_X4wucpzwzcZuo58HQYKt0=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/RIHWOJQWJJCNFB4HVCBEZQSUIU.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft to launch its new AI chip 'Athena' next month"
     excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference."

@@ -46,6 +46,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "State Artificial Intelligence Task Force Created"
+    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
+    publishedDateTime: 2023-10-11T18:20:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 37
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
+        width: 775
+        height: 500
+        isCached: true
 
 secured: "6329L1a4AqjZfPin4HTsZmdDAJa5lCjBxeey8b8T2OXdGfpfGLs+pWLxdj/ZxSWlMglKJfRd2wd60ltIMWRcMgc9ZJpnpSC2rn/S4CHaGhSCyjWwpxNy1cbpuVNGqTFx5DdU6flBvK+2xtblJjpJnebBmBDwDvog9nAXROt8OpvqbNQ/x/Q+6Fape0lKCSMEiZniyCPTIWpoS0aCkYXkZ+NLZ/c7Jc2lUrD59iK0Sew4WbLDM6Lx6IE7NDM7THSvaWvxkp+V8IDVgbudrXWAMqgDLn5TlghZ6r4bLPlNdkv7MuQJ6qsct2R6KVk2W0A4GjmX6s9vMRV9HCRyjj9bdJPgmuhPlb6SG7MkcNVFeIxPYztTlWvuwxh6h/a/JtYoPrr3gBMjpWHjhwqLvuuoth1RLMPG4WGMqkt8N0VNtzEiUDjbKJJMNncoDdZdTLMC2dI9poVhniVnj/tSJxZ8nAsiD5QSzpwFnQJ02UgwG+n+CiflJk5jJVUvBli+urW+G+clPwLS7N6f2taGkmBmtA==;Taf1o+wovjYepFutVv2S2g=="
 ---

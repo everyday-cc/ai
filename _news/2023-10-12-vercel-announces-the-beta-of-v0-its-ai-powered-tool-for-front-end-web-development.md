@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/10/11/vercel-announces-beta-v0-ai-po
 webUrl: "https://siliconangle.com/2023/10/11/vercel-announces-beta-v0-ai-powered-tool-front-end-web-dev/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,42 @@ images:
     width: 1518
     height: 1012
     isCached: true
+
+related:
+  - title: "Anysphere raises $8M from OpenAI to build an AI-powered IDE"
+    excerpt: "Anysphere, a startup building what it describes as an \"AI-native\" software development environment, called Cursor, today announced that it raised $8"
+    publishedDateTime: 2023-10-12T06:38:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/"
+    ampWebUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/27253e8e-2d70-41e0-99f1-f9e5a684f1a3_2918x1855.jpg"
+        width: 2918
+        height: 1855
+        isCached: true
+  - title: "Demand more from social with AI-powered ads"
+    excerpt: "Learn how Demand Gen campaigns can help you drive better results across YouTube and Google. See new case studies, videos, tips, and more."
+    publishedDateTime: 2023-10-10T10:00:00Z
+    webUrl: "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "OpenAI-Specific Code Nixed from Semantic Kernel AI SDK"
+    excerpt: "Officially the company's \"What is Semantic Kernel?\" documentation says: \"Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python."
+    publishedDateTime: 2023-10-13T19:07:00Z
+    webUrl: "https://visualstudiomagazine.com/articles/2023/10/13/semantic-kernel-beta.aspx"
+    type: article
+    provider:
+      name: Visual Studio Magazine
+      domain: visualstudiomagazine.com
+    quality: 19
 
 secured: "sHV6z1FSEuuB4AIR9Ayx90vdYtLut2ehgtDkfLnV2ZhdB3DVin8l1nw/PASTsPqyY0bZwKHJzKO2lSYiyK/MrWC9AzsaRnqmtd8XQ4FPiSSsMT9ZorIbQ/kEqgJtfhTXju6DjR14oTfuJ7M/tbxFPwx8oozZfpJ9kdXXs0HQoHJkthnbkJ2wtlfDF9ApAaPTc+xm9OXB/1A0yKtKFctGEvfUbGPmhGXfwC9EaTGg9qfHHEujEZuTiOeTj4HL7rcQJm8oUye3Yqp9mBS6I3rE0PrSBE+SBUX66bBAED7nENPui2hikGe+xeHMQBC2MHzDYh7AitV5pVQ/dYaUqlcoilDSuMAJlk4oR8VXXDE3/cQ=;/Nn4GwspyXN0g3hn+d+YZw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-to
 webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "State Artificial Intelligence Task Force Created"
+    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
+    publishedDateTime: 2023-10-11T18:20:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 37
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
+        width: 775
+        height: 500
         isCached: true
   - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
     excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."

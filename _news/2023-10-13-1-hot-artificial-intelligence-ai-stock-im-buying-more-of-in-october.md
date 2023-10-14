@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelli
 webUrl: "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 2309
     height: 1299
     isCached: true
-
-related:
-  - title: "Best Amazon deals in October 2023: Today's best sales"
-    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
-    publishedDateTime: 2023-10-09T16:00:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "x6qvzeEXA+v6/65CHRDStxePX+pyAn5fwXgFHNWdtRcROoDlihf1bekgw2GRwqeS8wCrrYk4tdgi1v61YjwfPsVGO13lLB7pHFRDQ3ccMZZz1VO60YMo8p4GLNQtTAqMqdea9uFn2Y9CT1DyWXNwleWfZlwPLB7t0V9w1yreF0o7HxPqDW7m8DYUwC5nbpgKPGZwQWrAtEBD0OsBFT09o0v+ecN+mpGeHisDhBRBvoCOK3HKhN8sDAfyutk81WQNO6cxler128GRJ9RPV1muEOAU8kb8gM28Gd4fQmB6L0tEV7DUm+UfMJ/9Ap0lkXNp0qxYJM1XJqFxnf0qbCOZgc6HFMQUGCs4FatZaVskcls=;lWvj/ztT+AJ/I0M8yDJ2Ng=="
 ---

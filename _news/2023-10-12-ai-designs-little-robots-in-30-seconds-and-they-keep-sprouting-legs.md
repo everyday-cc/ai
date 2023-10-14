@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/ai-can-design-an-autonomo
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/?amp=true"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI can design and build walking robots in seconds"
-    excerpt: "In just nine design cycles, the AI crafted a robot capable of walking at a pace nearly equivalent to half of an average human’s stride."
-    publishedDateTime: 2023-10-09T15:23:00Z
-    webUrl: "https://www.earth.com/news/ai-can-design-and-build-walking-robots-in-seconds/"
-    type: article
-    provider:
-      name: earth
-      domain: earth.com
-    quality: 54
-    images:
-      - url: "https://cff2.earth.com/uploads/2023/10/09092351/Walking-robots-scaled.jpeg"
-        width: 2560
-        height: 2444
-        isCached: true
   - title: "Have You Seen This? AI designs functioning robot in seconds"
     excerpt: "EVANSTON, Illinois — Researchers at Northwestern University have developed a first-of-its-kind artificial intelligence program that can design functioning robots from scratch in a matter of seconds. To do this, the research team prompted the program to ..."
     publishedDateTime: 2023-10-11T21:31:00Z

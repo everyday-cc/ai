@@ -28,6 +28,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "The AI industry's dog-eat-dog race for compute power will see financial institutions launch 'GPU debt funds' in the next 12 months, VC firm predicts"
+    excerpt: "Air Street Capital predicts GPU debt funds will emerge amid sustained high interest rates and demand from AI startups for compute."
+    publishedDateTime: 2023-10-12T01:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/banks-gpu-debt-funds-fuel-ai-boom-report-predicts"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+    images:
+      - url: "https://i.insider.com/652661786561dd877e773a2e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "GxocnhNd8kaCZdefeqGVs20rR3WIw6piM2F2JLtzwBaIcQb2+F7fCsrTZTS3l+kdRUb0XxhRId5nZbqnpVwcKr5PstxyIoEztTZZlQVqyQF5tZDuF/H/xUVm2M42VGiQNWWyehKcIOw6xTZD5nY401Mk6DNXxsNx2U+aaNxSZK5SmiRgED4OSNrbKFi59aeK9H4NUzDtYpvJmru/TLBKoFY3GPYewz+UZZOR7lZ72XMeUhE05NhjuzTL5P+JhDzEwBbaZYFmqSftMla4bspwiKPaaOWMGHv3L4CZd5d4Hqha0xUTSJWAUTUaLDyVWWHyFc97mJZO/a38MK0bbQYrE/WJstEiXt1sVQEXBG8ZYzkuT0CKfSGVfQWRQxJlIJdTwGRUh/jsqELFSKKWAv+eUgh/rPT53HX8AmjbnVC8HR71HqoO74SAnHbGwrK54sVV6SQDrnb8I2dgf4R+Q3GRSH07AsSsANSmkNPaIIct17bIRlGPYG0wlyS4i1f/wYF8FTECcQk04mTCJplSStFTDA==;fq9nI1kew7W1u1xI0YcEPw=="
 ---
 

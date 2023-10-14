@@ -3,27 +3,21 @@ category: news
 title: "US: Waymo Launches Self-Driving Taxi In Santa Monica, California"
 excerpt: "Waymo, a subsidiary of Alphabet Inc., an American autonomous driving technology company, launched Waymo One, a 24/7 self-driving robotaxi service, taking a tour around Los Angeles on Wednesday, October 11,"
 publishedDateTime: 2023-10-14T02:58:00Z
-originalUrl: "https://www.wyomingnews.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_026eccc2-9269-5467-9e89-2a559bb749e9.html"
-webUrl: "https://www.wyomingnews.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_026eccc2-9269-5467-9e89-2a559bb749e9.html"
+originalUrl: "https://www.djournal.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_84a18a41-d887-56e4-bbc6-692f1e495c80.html"
+webUrl: "https://www.djournal.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_84a18a41-d887-56e4-bbc6-692f1e495c80.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://wyomingnews-wy.newsmemory.com/?getprima"
-    width: 284
-    height: 512
-    isCached: true
-
-secured: "gQ/DkeQG+JRCpH8Js7JzjvZ9r6KxW+k3GtAgZuMoDwwWqb2GOdY5RBSY68Rcpm3vsvv5+gVbqj9uJRGJT41pwbv1PF+19NH+T9AcB2y/XizxQ5p6YkH36Y8xlK4N87SGOUUtL0fU9qG+4z4UKX1o9R7WmT3llTqQQvzXAsN2xC/byfh/e3dS7d4rX3FQswtO617FQfcQl8XTPSBzIKMqOLTYgv4rz1vQfjqLNXIGkn9/gEHkfJiCOlGJCV+bQDMOQMYQBsdigRfMUB8VS/rkvQYzJfyxEr1YDGTzLDRdIteaGcdotdw2ZbfO9EmmixL12tWBgbgaKtWfFzi75ffaimc7/9zLW00EjoPTx7Xhpx0=;H4cfQu69BZnyuhaDfcfvuw=="
+secured: "YBOEFB5bIoMfJL6LNo0Qd1XXEsyxlFvEQr9ncj6o6uA/wpseeiW9shuP+VALHu6zpRngXi6OhetfQCv0QnFlQ43H8ywEVXPjG1GFMfkhe6mf/ZI97JhfyFNYm1E1J4DHvNT8DYWT7ery6AodeT8q/BRDldkQGR8bMV1jForpnItfzQIBJfZglAimYZRROrbTfhSGOmJPr1qbAo3j3TcRTXcjy8JJKeijvQxvEODjsddPSRp5VPqQW+Ob8yZCMrfS5csGAdL6OQMR0tr58zO6EKSPy3NoEZ3d4B/GQbavzh6JvXUbKttUCHq7EQitqk24uyLrMlAEn6PD4Z+YDz+vgCc2SsxVaLM1yvMlfxutUoedOjNA23c1BVeUpxB4cRXESq4fjfe/jfloYp2u+2QVm9+JaxWqIKO592nGALAmxm9gKudk5S99SdvvViGzYUm/ls1895XhWx19cquWhM0q414xnrrTu2fmZVR/myyheXzoHnjax3WFF2RKJpqy7e53HzZrlX5fKlyBIW6yduilnA==;O0iEp2BVAFNxogw4vdkMLA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://gulfnews.com/amp/uae/government/dubai-ai-launched-as-artific
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Gulf News
@@ -26,24 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Demand more from social with AI-powered ads"
-    excerpt: "Learn how Demand Gen campaigns can help you drive better results across YouTube and Google. See new case studies, videos, tips, and more."
-    publishedDateTime: 2023-10-10T10:00:00Z
-    webUrl: "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/"
+  - title: "Box launches AI-focused Hubs for curated search"
+    excerpt: "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More How do employees find the information they need to do their job? And how can companies present the right information that employees need to find?"
+    publishedDateTime: 2023-10-11T21:16:00Z
+    webUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Google Bets On AI-Powered Video Ads To Disrupt Social Media Advertising"
-    excerpt: "Google launches AI-powered Demand Gen ads to divert social media ad dollars from Facebook and Instagram. Google announced the launch of a new advertising product called Demand Gen Campaigns, which utilizes AI to create highly targeted video and image ads on YouTube and other Google platforms."
-    publishedDateTime: 2023-10-10T17:34:00Z
-    webUrl: "https://www.searchenginejournal.com/google-bets-on-ai-powered-video-ads-to-disrupt-social-media-advertising/498149/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/sharogold_searching_for_information_on_the_web_abstract_box_56059b78-e7c5-469d-91ea-dd46852784ac.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "KHYzgtJlWxSFFdWoUkqs0AqIU05lqLxJ0tMRmxwBoOr9lg9NA73Ea2IWThZlEfAwND42Gfe7aMzqOAlEYwk3EpB9KegtJwuXTBo3LqYBRAX6M4LY2SpDINxaOfW50EDYyz5sMToAar52Qr6ISY/6HZ4hwknSsrCeQcavI3Njz3fghppEayiAOLUN4BvxPZm/PVpec04SjbCiDZTHKJIElRG8XtCYcp2eObzv7+Kb6m1OwYx9ZmWmglOydRcM+yf7GfvOSAvJYgNW+LQxk9/mmmi3NmIHOzK7DkBrBUbdJkXQ0wj56DvH/w5q0qihWnC+9tkeFivItN7vuDqxW/1gFo/KynvAskRFqQ7dBXXXibs=;+uxUAPymi1p6Hi1X5g181w=="
 ---

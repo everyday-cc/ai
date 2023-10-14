@@ -121,21 +121,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday on whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives. Proponents said creating an Indigenous Voice via the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies."
-    publishedDateTime: 2023-10-14T07:48:00Z
-    webUrl: "https://www.aol.com/australians-decided-indigenous-voice-needed-044835784.html"
-    ampWebUrl: "https://www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
+  - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
+    excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
+    publishedDateTime: 2023-10-14T09:51:00Z
+    webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 35
+      name: The Guardian
+      domain: theguardian.com
+    quality: 30
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/G_QCQkFLthlTLBM0ZRCcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a80222dfa9b3ee62432a75f3a765fb96"
-        width: 1200
-        height: 800
+      - url: "https://i.guim.co.uk/img/media/4d69b941e29b96ddb4f7705581d0f515e1fdcb9a/0_0_7449_4968/master/7449.jpg?width=620&quality=85&auto=format&fit=max&s=ac37d33112858e19de4ebf2f282e7e91"
+        width: 620
+        height: 413
         isCached: true
   - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
     excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
@@ -236,6 +236,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
+    publishedDateTime: 2023-10-14T09:50:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "ot+QDjFzKMooAObXFJuki8jK+R56mXi0OYa42eoHglVNLG/otBI9RyBt6sDktfVeJJ1J4VyR81PlHC1LznGSYaU73A6Ghcgo2E62WnT/xH1FokKo3Qc1dXfLCM9YbSfukiODrd7IW1m8wXIvzPcpxN4A2Bs246F2PFSyuvpn+CV/0XlhI8XV6ibhwAt5X9EMOowOVGJyfRCJ5RIEs8gtNi/fAOwM2mZlChNsu+ccDNdQnO6JJmemGYW3ib8BfkNxwPRHuhqRGaieVrTnyylYhwenmFNz65C3xq8RIukiz0RqYiJ1nP1zgb3sxGQyLuDvETOLggydHbvIds0CsboSg3pZs17ipMGnygYWb9agsd2kM6XxYEaasKTxyuQMhVA6hx2rtua/gyfOk0GxLWMf5uzHZOkEy5vdzA0igaBbKXJdFMCdPgwb8rNP2zhaRdWaSl/QC3wLGWUbmij/NzaTWMWCj0y9ErsYDO675Ug9mK0vV2RZ4wsqP0t4stoappQ3VXrktds5r5EDfaHQ39n/OA==;/0cSCfVPrkPX4QUrCxPlVQ=="
 ---

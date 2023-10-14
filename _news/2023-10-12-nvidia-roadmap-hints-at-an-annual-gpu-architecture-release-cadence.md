@@ -25,45 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Powers First GPU-Accelerated 5G Network"
-    excerpt: "NTT DOCOMO announced the world's first GPU-accelerated commercial Open RAN 5G built on NVIDIA, Fujitsu, and Wind River technology."
-    publishedDateTime: 2023-10-09T15:37:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/09/nvidia-powers-first-gpu-accelerated-5g-network/amp/"
+  - title: "NVIDIA unveils its next-gen Data center & AI Roadmap"
+    excerpt: "The next-generation GB200 and GX200 Data Center & AI GPU accelerators from NVIDIA have been formally confirmed for release in 2024 and 2025, respectively."
+    publishedDateTime: 2023-10-13T15:54:00Z
+    webUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/"
+    ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652369e27de3a0c8a978fc0c/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 820
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/10/NVIDIA-MLPerf-Inference-v3.1-Hopper-H100-Grace-Hopper-GH200-L4-GPU-Performance-_W-_2-g-standard-scale-4_00x-Custom-728x406-1.png"
+        width: 728
+        height: 406
         isCached: true
-  - title: "ZTE's first 'flagship GPU server' for China has NVIDIA H800 AI GPUs, works around US sanctions"
-    excerpt: "ZTE has just unveiled its very first \"flagship GPU server\" for the Chinese market, powered by Intel Xeon Scalable processors and NVIDIA H800 AI GPUs. Check it out:"
-    publishedDateTime: 2023-10-13T00:19:00Z
-    webUrl: "https://www.tweaktown.com/news/93768/ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions/index.html"
+  - title: "NVIDIA's next-gen GB200 'Blackwell' GPU listed on its 2024 data center roadmap"
+    excerpt: "A recent slide from NVIDIA's own Investors Presentation confirms its next-gen Blackwell GB200 and GX200 GPUs for the datacenter market."
+    publishedDateTime: 2023-10-11T01:33:00Z
+    webUrl: "https://www.tweaktown.com/news/93703/nvidias-next-gen-gb200-blackwell-gpu-listed-on-its-2024-data-center-roadmap/index.html"
     type: article
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 42
+    quality: 35
     images:
-      - url: "https://static.tweaktown.com/news/9/3/93768_904_ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions_full.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://static.tweaktown.com/news/9/3/93703_104_nvidias-next-gen-gb200-blackwell-gpu-listed-on-its-2024-datacenter-roadmap_full.jpg"
+        width: 1459
+        height: 727
         isCached: true
-  - title: "Europe's first exascale-class supercomputer will use ARM processors with Nvidia GPU nodes"
-    excerpt: "EuroHPC JU, Europe's supercomputer consortium, recently announced the signing of the procurement contract for the Jupiter supercomputer. Jupiter will be the first European exascale supercomputer, boasting"
-    publishedDateTime: 2023-10-10T18:16:00Z
-    webUrl: "https://www.techspot.com/news/100436-europe-first-exascale-class-supercomputer-use-arm-processors.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 40
 
 secured: "pz5TpBT8ZswavRTMomzGd329MhaETNUUqez6aSte+08aMOi3jprBlDy2CBHRcCk/FscSjvTGWHLcpbM1YuFzAXWB9pBCsAzF0of+lN0cMvk4Is5088V37QnD3GvDnkjg8dKO3TwWosILmhuThnASAqHNcAo+tgFuR4kVx7rE50T7mvayKm9aWnJXkClbC72OLi8xFLB8OtT2K2EWObYz6/BQ4M6ocfR3tcXS2PxaAxZc7nBeS03NlNtmgKzKyGYICO5gIJJfJ6GLn1cM58UPE5N3ON9tZ14jlYfRSMBkYorjYrWMXgK25AOtziHF0ReKkKo+zRQsPXSDbrlmWPxTMEdRoeObCNrR3uUd1DDJMctEcTmt09Dw0671IZ4aozS6L/E7ZYgETuduzxP3wD9oQMiEAk0NQylbMBcjz6tDMIow4veNhi2WaO3GJ2Mseb6MeZZ5ycGlyGEz+tjlXVW+PykI39YHXQc8t/GV/ui/i1yjZYR6SRCPmeGR9v8wwj9qzZVUJOjXmn5FlAKbKFLipw==;2b8JUVCj7HJj1J0n2DRLjQ=="
 ---

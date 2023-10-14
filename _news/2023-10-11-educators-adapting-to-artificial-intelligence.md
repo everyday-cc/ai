@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "State Artificial Intelligence Task Force Created"
+    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
+    publishedDateTime: 2023-10-11T18:20:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 37
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
+        width: 775
+        height: 500
+        isCached: true
   - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
     excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
     publishedDateTime: 2023-10-13T19:16:00Z

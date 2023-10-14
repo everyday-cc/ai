@@ -27,15 +27,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "Shaking Up Predictions: Deep Learning Revolutionizes Earthquake Forecasts"
-    excerpt: "Researchers have developed a deep learning model, RECAST, that outperforms traditional methods in predicting earthquake aftershocks, especially with larger datasets. This advancement promises improved earthquake forecasting using comprehensive global data."
-    publishedDateTime: 2023-10-09T16:23:00Z
-    webUrl: "https://scitechdaily.com/shaking-up-predictions-deep-learning-revolutionizes-earthquake-forecasts/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 18
 
 secured: "K1H1vw6YbALdpbb43rnjfp3IWjQPgp+schtsf5rzP1fU97nAnukGico/pRm/P/qV7i7uaq8qiqGWXkzUG6eueNhSbmL0mYyEPcLKKxTcXjQ4xM/CC9bVV32qn9mj8VSWYhVJcdxRq0xyKyZ8IIr20EDndja8/pXuClJxwM8e4dPTdfJrckVKdgjZ4sb26s6Ej4mSV13OynvTi8O03T9OROdm8Ed1pmc2s09Jo6DHbzzkEjVYSQqsW+lESjgwYtI48GoXDBmznfXwQ0a99ey1I48meeBp72ntlQMyvEwFP+PODHSX96Nh7TryV4/sYVe0w6uIGDxbCxflcNkhkjUtfivlAT4+lay4KzFjERZMIRc=;K+ypMogYhosdScxxXIrRkA=="
 ---

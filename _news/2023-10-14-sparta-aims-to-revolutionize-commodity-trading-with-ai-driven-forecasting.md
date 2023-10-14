@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Shaking Up Predictions: Deep Learning Revolutionizes Earthquake Forecasts"
-    excerpt: "Researchers have developed a deep learning model, RECAST, that outperforms traditional methods in predicting earthquake aftershocks, especially with larger datasets. This advancement promises improved earthquake forecasting using comprehensive global data."
-    publishedDateTime: 2023-10-09T16:23:00Z
-    webUrl: "https://scitechdaily.com/shaking-up-predictions-deep-learning-revolutionizes-earthquake-forecasts/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 18
   - title: "Connetic Ventures Invests in Harmony, a Digital Platform Revolutionizing Workplace Communication with Artificial Intelligence"
     excerpt: "Connetic Ventures, an early-stage venture capital firm that leverages data and artificial intelligence to invest in the highest potential founders, is"
     publishedDateTime: 2023-10-10T12:00:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-ro
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TechnoSports
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
+    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
+    publishedDateTime: 2023-10-11T20:45:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "NVIDIA's next-gen GB200 'Blackwell' GPU listed on its 2024 data center roadmap"
     excerpt: "A recent slide from NVIDIA's own Investors Presentation confirms its next-gen Blackwell GB200 and GX200 GPUs for the datacenter market."
     publishedDateTime: 2023-10-11T01:33:00Z
