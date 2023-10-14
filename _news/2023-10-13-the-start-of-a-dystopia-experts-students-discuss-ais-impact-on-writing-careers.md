@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The 'start of a dystopia': Experts, students discuss AI's impact on writing careers"
-excerpt: "While AI may open up new pathways, Furze said, he also thinks there will always be a place for writing as a craft. “It sounds like a start of a dystopia, doesn’t it?” Furze said. “I also think that as part of all of this, 'real' human writing ..."
-publishedDateTime: 2023-10-13T15:11:00Z
-originalUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers?ct=content_open&cv=cbox_latest"
-webUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers?ct=content_open&cv=cbox_latest"
+excerpt: "With the capabilities of Artificial Intelligence, or AI, rapidly evolving each day, many people have expressed uncertainty over whether the technological development will take away the need for jobs in many industries,"
+publishedDateTime: 2023-10-13T15:24:00Z
+originalUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers"
+webUrl: "https://statenews.com/article/2023/10/the-start-of-a-dystopia-experts-students-discuss-ais-impact-on-writing-careers"
 type: article
 quality: 31
 heat: 31
@@ -23,6 +23,6 @@ images:
     height: 900
     isCached: true
 
-secured: "QX95erGPLzi4GholzPPRZi4YarXugK2d38kPYWl1TttLtmWVtGiXbcyjc0MoDmuzwjT7SgZQFDcz0F4gdBSqTx78m1tdAoHzc6xAsxIPg3gqn9/pnjp6MfjjK6bN/XZ0x0wlnO62Wf/MT5bYp9tqAyvmr4t5n7I6k7ejUQprkEAGle+lKqBlkvTbd4+fMdktPzB2lL7D0u7M/GadzCthOqB+VJlPdbX/6YTfbzk5Bij67HDrFdFCN7UacIHkiX6akoQxrMy0dUudIL2YgEmUXTukErBiqPSX02zdSILVS3STUgJ4yaRusnZX6n0cOlFx0EYHmCBF0tP+GqhYxdGyfZiqb1ldALKEF+EQMKv90G7Fu61WZIqwuwnT0StfvUIESFyzR87BE2PgNoeq9LjkGkaW8G54GAcChVi/UO2Qa/Ry27XY5qL0plKQ+RfrjwpNd29bkUSK0FOAUgeGZ3SYDjeTpoMLw22WNe+eT7qygBjywo/9avpyhE3/DHvt3qKnEFTxcomAjeiaXwnviY36gA==;ufiW9MbaCXrbAnx2AorUzA=="
+secured: "BK5555T0LhPt6OtSC7vOr6avakjcY9KcUTq93EkcKDDfIvLoAdJnYyInACn1Zg7Y9X4IwSkByI74y7sXPPnuwxYegzqSBaADZbzriH+Hh3+1y0veJ+o1oM3wg8Ulg3/EyrV5flcHDWzIFXPI4YkSpcekuISgMLgCc7IP4MBCzkVaNjevASLGXRs/QYWxdLvJIGe4e3EpjzrQeu5TV2KEBo1NLGfEwSXH9cRpESG3QU3GFvAdVJZsrb1+21JL/GeEdszaKRb5qhRmMT6VKwixYUv4gGGyJv1Lp8smRdVcyodIeiOy8bDEWLhBsU0GFll1b2T5KqUZfS++sxJWSul1SnEi7CLDcXIzIf1Fjv8I/sE=;yiuRQS88XvaDTpZ2c657Tg=="
 ---
 

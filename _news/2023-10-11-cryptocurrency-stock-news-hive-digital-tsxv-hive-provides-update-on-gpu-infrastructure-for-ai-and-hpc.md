@@ -28,6 +28,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "RETRANSMISSION: HIVE Digital Provides Update on GPU Infrastructure for AI and HPC"
+    excerpt: "HIVE President and CEO Aydin Kilic stated, \"We're on track to have 3,200 GPUs, mostly powerful Nvidia A40s, up and running in the AI/HPC space by the end of October.\" Mr. Kilic continued ..."
+    publishedDateTime: 2023-10-10T13:26:00Z
+    webUrl: "https://www.nasdaq.com/press-release/retransmission%3A-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 59
   - title: "Cryptocurrency Stock News: HIVE Digital (TSXV: HIVE) Provides Update on GPU Infrastructure for AI and HPC"
     excerpt: "HIVE Digital Technologies Ltd. (TSXV: HIVE) (NASDAQ: HIVE) (FSE: YO0) (the \"Company\" or \"HIVE\") is pleased to provide an update on its HPC and AI infrastructure projects. Figure 1 The Company is converting its 38,"
     publishedDateTime: 2023-10-10T13:43:00Z

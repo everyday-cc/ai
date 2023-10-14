@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-14-a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan.md",
+      "title": "A chat about AI’s role in networking and the edge with Intel’s Pallavi Mahajan",
+      "excerpt": "GamesBeat Next unites gaming industry leaders for exceptional content, networking, and deal-making opportunities. Join us on Oct 23-24 in San Francisco.  Register Now The edge of the network isn’t always where you find the most powerful computers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan/",
+      "originalUrl": "https://venturebeat.com/games/a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/intel-glass-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-14T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-shipbuilders-embrace-robotics-amid-labor-shortage.md",
       "title": "Shipbuilders embrace robotics amid labor shortage",
       "excerpt": "Once the transformation is completed, the automated manufacturing process using robots and artificial intelligence will be seen in shipyards. Earlier this year, Hanwha Ocean succeeded in developing a collaborative robot that can weld a vessel’s plumbing.",
@@ -722,6 +774,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-13-nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole.md",
+      "title": "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole",
+      "excerpt": "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
+      "originalUrl": "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://editorial.fxstreet.com/images/Markets/Equities/Industries/Semiconductors/pic-man-repairing-semiconductors-637435354060707899_Small.jpg",
+          "width": 320,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
+      "publishedDateTime": "2023-10-13T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos.md",
       "title": "Chips for AI to be developed under public-private partnerships: IT MoS",
       "excerpt": "These clusters would be made available to Indian start-ups and researchers ... Also read:Is the current regulatory system equipped to deal with AI? “While robotics is a multidisciplinary technology that has the potential to transform and disrupt ...",
@@ -1108,92 +1203,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-new-ai-algorithm-promises-defense-against-cyberattacks-on-robots.md",
-      "title": "New AI algorithm promises defense against cyberattacks on robots",
-      "excerpt": "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
-      "originalUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-responding-in-real-time-to-changing-market-dynamics.md",
-      "title": "Responding in real time to changing market dynamics",
-      "excerpt": "Implementing more aware, dynamic and automated inventory management systems create a competitive advantage to increase market share.\nThe post Responding in real time to changing market dynamics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/",
-      "originalUrl": "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

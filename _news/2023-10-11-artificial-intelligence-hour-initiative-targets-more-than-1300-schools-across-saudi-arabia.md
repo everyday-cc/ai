@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Saudi-China collaboration raises concerns about access to AI chips"
-    excerpt: "Saudi-Chinese collaboration in artificial intelligence has stirred fears within the Gulf kingdom’s premier academic institution that the ties could jeopardise the university’s access to US-made chips needed to power the new technology."
-    publishedDateTime: 2023-10-10T00:15:00Z
-    webUrl: "https://www.ft.com/content/2a636cee-b0d2-45c2-a815-11ca32371763"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "OSrfGHmYxd99gOM7MS6cjorzff8uBjrk7ysRmY62QKD+1goZ0R6SzpQHq1G15HdBm6lBSGWyN3WVRQTHrh5c7Y8GR9JMBbItr5KbyhUbBVxnDtPA3OXYC1pVi5g5rEEgjkBeyV/i7ii9Jg7u3mDzegT7axh4jRcFKm0jRHhLA+dNF/ErracO6qqTJcNaEH6E8wwgP/qogsA0I1Yo7N63RACHAHQZh/Oaz8bD3wJzcyxxEnlbHYvpu3DLJ4ZN0EdIEkwIcyd7+e9BpR2ZsBAkJ8AAJPfUAlHC7toicuiRUW6PJkV2U6QfeFvLM0e3pKQ8H+FNgrZId+KQxOgqfieMDOhuAa8sX/B23H1JXSps+ww=;hBexdg+PFgnRyxdnQAr0Lg=="
 ---

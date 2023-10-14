@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Defeating Voice would guard monarchists against a future republic referendum: John Howard"
-    excerpt: "A meeting of monarchists in Sydney has heard from John Howard and Tony Abbott — who said he was against any Aboriginal constitutional recognition that would have a \"meaningful\" impact."
-    publishedDateTime: 2023-10-10T00:50:00Z
-    webUrl: "https://www.crikey.com.au/2023/10/10/monarchists-against-republic-referendum-john-howard-voice-to-parliament/"
+  - title: "Farmer completes Run for the Voice as polls predict referendum race has run"
+    excerpt: "\"All Australian people to support the simple proposition, a very humble proposition, to create the recognition of the Aboriginal people in the Constitution, and to give them an instrument, a voice, a body through which they can say, to the parliament and ..."
+    publishedDateTime: 2023-10-11T05:38:00Z
+    webUrl: "https://www.sbs.com.au/news/podcast-episode/farmer-completes-run-for-the-voice-as-polls-predict-referendum-race-has-run/pfbxv0y6i"
     type: article
     provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 30
+      name: SBS
+      domain: sbs.com.au
+    quality: 22
     images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2023/10/john1final.jpg"
-        width: 1480
-        height: 801
-        isCached: true
-  - title: "For an active boycott of the Voice referendum! Build a socialist movement of the working class against war and austerity!"
-    excerpt: "The referendum will solve nothing. The key issue is building a movement against the the entire political establishment, and its program of war, austerity and dictatorship."
-    publishedDateTime: 2023-10-13T03:44:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/10/13/kudi-o13.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 14
-    images:
-      - url: "https://www.wsws.org/asset/8fa27e59-075a-46b3-a1f7-3d6d9473b4e4?rendition=1600x900"
-        width: 1600
-        height: 900
+      - url: "https://images.sbs.com.au/dims4/default/a70c18c/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fc3%2Ff3%2F41ca1bc84b45a9633d655e3df9d9%2Fr2r-podcast-gfx-voting-2-blue.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "7qSxLaomJSlYz3lAPp0qWs5EWqCK1rgz46WAKtAEmMMAKTI4cEMEtSpBwckHwZgOzov0Awt5Zv69HRundiUsrY/CArAYZWF/DbjqKDh5WSVXtMvOh0Qvh+ZBSwDejjVAwM2Bcaf4iXnaP1klNYvu7kGznvIdebXax0vhh4hpyL7uVLzRJEjNVWrhlAGBG5JoVQCTfg4+icSASOALtokmPOaYUF1CGttJWCb8b+DrsB5I8BJacc20DGizFfV1DUHON+0bgaK1EGOtfWhe3YKBs3XSQMRCx9MjEZOHUT97jp7k5nuaG7hX0/hpfReDcCG9tllPZKUNR2QJ5t2p4hnpLVh2TsScRJ0Z0/KYjdSs8Rgb9BQ6OBVtItOKJRkJLzY4F8Gtr5yT8ZisSNWDP+d8ao3I6acUWG2TI4sRrDVhRx0KSgzdk1CuHmsNAlQIr6Ri0A0z1g+hXwGmJ88D4Hv7hclzX1hxuoG9eje1nAT2DTGLz75RvgP394qGzaZW68wfLVMjHf8Z5lUkEe8bS0uFWw==;pApKZxhv9iUn+d+aEHHbwQ=="

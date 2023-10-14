@@ -46,17 +46,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 22
-  - title: "Indigenous voice to parliament: three objections to voting Yes, and why they matter"
-    excerpt: "Each of us must vote Yes or No at the voice referendum this Saturday. Enormous effort has gone into persuading us that we should all vote Yes. But polls indicate the number intending to vote Yes has fallen steeply."
-    publishedDateTime: 2023-10-09T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-three-objections-to-voting-yes-and-why-they-matter/news-story/1fe0d300671d343351b5efbbcaefde02"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-three-objections-to-voting-yes-and-why-they-matter/news-story/1fe0d300671d343351b5efbbcaefde02?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-three-objections-to-voting-yes-and-why-they-matter/news-story/1fe0d300671d343351b5efbbcaefde02?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 18
   - title: "Indigenous voice to parliament: Don’t slam door on children, says Noel Pearson"
     excerpt: "Indigenous leader and leading Yes campaigner Noel Pearson has delivered his final pitch ahead of Saturday’s referendum, urging undecided people to consider the futures of young Indigenous children when they vote."
     publishedDateTime: 2023-10-12T19:32:00Z

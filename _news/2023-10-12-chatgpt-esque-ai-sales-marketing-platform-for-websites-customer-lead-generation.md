@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-s
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768"
 type: article
 quality: 96
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/W_Do_5PWiBu38Gzb7B2hpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/4ede2313e5b8746831fe43a2ad274ff8"
         width: 1200
         height: 800
-        isCached: true
-  - title: "UiPath accelerates how customers can create generative AI applications with new connector for Amazon Bedrock"
-    excerpt: "UiPath, a leading enterprise automation software company, today announced a new Integration Service Connector that gives customers access to Amazon Bedrock, a fully managed service that provides access to industry-leading foundation models (FMs) via an API to build and scale"
-    publishedDateTime: 2023-10-10T00:45:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/uipath-accelerates-how-customers-can-create-generative-ai-applications-with-new-connector-for-amazon-bedrock.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 20
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/e702b1b31624d9e8bdcb0b36f092fa6e_M.jpg"
-        width: 375
-        height: 256
         isCached: true
   - title: "How AI and ChatGPT are transforming how we learn and work"
     excerpt: "The acronym stands for chat generative pre-trained transformer. Walker says ChatGPT is one of an expanding number of publicly available artificial intelligence (AI) text generators that rely upon algorithms to scan the web for answers to user-generated questions."

@@ -2,6 +2,92 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-09-25-amazon-announces-4b-investment-in-ai-company-anthropic.md",
+      "title": "Amazon announces $4B investment in AI company Anthropic",
+      "excerpt": "25 (UPI) --Amazon said on Monday it will pay up to $4 billion for a minority stake in the artificial intelligence company ... will allow Anthropic will use AWS Trainium and Inferentia chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/8591695644117/2023/1/3975ef2cb59fa3e3bb6cf542ecec035d/v1.5/Amazon-announces-4B-investment-in-AI-company-Anthropic.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2023/09/25/Amazon-Anthropic-minority-stake-AI/8591695644117/",
+      "publishedDateTime": "2023-09-25T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-lawsuits-by-black-plaintiffs-over-misidentification-by-facial-recognition-grow.md",
+      "title": "Lawsuits by Black plaintiffs over misidentification by facial recognition grow",
+      "excerpt": "A lawsuit filed this month blames the misuse of facial recognition technology by a sheriff’s detective in Jefferson Parish, La., for his ordeal. “I was confused and I was angry because I didn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2023-09-25/facial-recognition-lawsuits-wrongful-arrest-black-plaintiffs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/b7f637b/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F5c%2F3e3aa6de4b948117b18f31902b06%2F65110882005975-19167542.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-the-1-billion-gamble-to-ensure-ai-doesnt-destroy-humanity.md",
       "title": "The $1 billion gamble to ensure AI doesn’t destroy humanity",
       "excerpt": "is describing to members of the AI startup’s “alignment” team in a conference room at its downtown San Francisco offices. Alignment means ensuring that the AI systems made by companies like ...",
@@ -1023,101 +1109,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-beijing-at-forefront-of-smart-vehicle-industry.md",
-      "title": "Beijing at forefront of smart vehicle industry",
-      "excerpt": "In April 2022, Beijing became the first Chinese city to greenlight the pilot commercial operation of self-driving passenger vehicles without anyone in the driver's seat and Baidu's autonomous driving arm, Apollo Go, was among the first to offer fully autonomous driving services in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202309/25/WS6510ce27a310d2dce4bb78bd.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202309/25/WS6510ce27a310d2dce4bb78bd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202309/25/6510ce27a310d2dc6d286e45.jpeg",
-          "width": 720,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-24T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-openai-gives-chatgpt-a-voice-for-verbal-conversations.md",
-      "title": "OpenAI gives ChatGPT a voice for verbal conversations",
-      "excerpt": "with its open source Whisper speech recognition system used to transcribe verbal utterances into text. Spotify was also unveiled as a launch partner, with the music-streaming giant introducing a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/",
-      "originalUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/25/openai-chatgpt-voice/amp/",
-      "publishedDateTime": "2023-09-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

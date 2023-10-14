@@ -135,6 +135,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Adobe Shares Rising On New Generative AI Services"
+    excerpt: "Adobe plans to share with analysts how much Generative AI will expand its TAM at its next analyst meeting, Chakravarthy said."
+    publishedDateTime: 2023-10-14T17:11:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6526d079a8afc579c64e54c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
     excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
     publishedDateTime: 2023-10-13T11:45:00Z

@@ -27,20 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
-    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
-    publishedDateTime: 2023-10-11T20:45:00Z
-    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
+  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
+    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
+    publishedDateTime: 2023-10-13T19:47:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 39
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
-        width: 708
-        height: 398
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "NVIDIA's next-gen GB200 'Blackwell' GPU listed on its 2024 data center roadmap"
     excerpt: "A recent slide from NVIDIA's own Investors Presentation confirms its next-gen Blackwell GB200 and GX200 GPUs for the datacenter market."
     publishedDateTime: 2023-10-11T01:33:00Z

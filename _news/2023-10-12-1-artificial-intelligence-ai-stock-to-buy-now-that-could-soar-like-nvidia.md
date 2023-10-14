@@ -24,6 +24,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Nvidia’s plans for AI GPUs could upend PC gaming forever"
+    excerpt: "not in the overall GPU picture – well, Nvidia will just stop making them. Or that’s how it feels like things could pan out, given the focus on AI, with a yearly release cadence – if it ..."
+    publishedDateTime: 2023-10-11T16:38:00Z
+    webUrl: "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZqEx6xXrMoLaCqGQs2YgJN-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
     excerpt: "Nvidia's soaring, but many other AI players might just be flying under your radar. These three top-quality tech stocks offer more bang for your buck."
     publishedDateTime: 2023-10-13T11:37:00Z
@@ -68,22 +82,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
-    excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
-    publishedDateTime: 2023-10-13T14:56:00Z
-    webUrl: "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
-    ampWebUrl: "https://www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
-    type: article
-    provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 63
-    images:
-      - url: "https://editorial.fxstreet.com/images/Markets/Equities/Industries/Semiconductors/pic-man-repairing-semiconductors-637435354060707899_Small.jpg"
-        width: 320
-        height: 229
-        isCached: true
   - title: "4 Chip Stocks to Consider for Earnings Season. Yes, Nvidia Is One."
     excerpt: "Semiconductor companies are heading into earnings season with artificial intelligence at the top of the agenda. Investors will be watching Nvidia, the market’s AI chip favorite, but they should also be thinking about Monolithic Power Systems, Marvell Technology, and Broadcom, according to Oppenheimer’s Rick Schafer."
     publishedDateTime: 2023-10-11T14:30:00Z
@@ -114,15 +112,20 @@ related:
         width: 1000
         height: 523
         isCached: true
-  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
-    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
-    publishedDateTime: 2023-10-13T19:47:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
+  - title: "ZTE's first 'flagship GPU server' for China has NVIDIA H800 AI GPUs, works around US sanctions"
+    excerpt: "ZTE has just unveiled its very first \"flagship GPU server\" for the Chinese market, powered by Intel Xeon Scalable processors and NVIDIA H800 AI GPUs. Check it out:"
+    publishedDateTime: 2023-10-13T00:19:00Z
+    webUrl: "https://www.tweaktown.com/news/93768/ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions/index.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93768_904_ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions_full.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "AMD to acquire AI software startup in effort to catch Nvidia"
     excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
     publishedDateTime: 2023-10-10T16:05:00Z
@@ -137,33 +140,19 @@ related:
         width: 800
         height: 553
         isCached: true
-  - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
-    excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
-    publishedDateTime: 2023-10-11T08:58:00Z
-    webUrl: "https://www.econotimes.com/AMD-to-Acquire-Software-StartupNodai-in-Boost-to-AI-Chip-Software-Capabilities-1664133"
+  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
+    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
+    publishedDateTime: 2023-10-11T20:45:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
+      name: HotHardware
+      domain: hothardware.com
     quality: 39
     images:
-      - url: "https://f1.econotimes.com/2023/10/f872o4iabc_th_1024x0.jpeg"
-        width: 1024
-        height: 614
-        isCached: true
-  - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
-    excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
-    publishedDateTime: 2023-10-11T05:06:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia/104332059"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-104332059,imgsize-44324,width-1200,height=765,overlay-etcio/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia.jpg"
-        width: 1200
-        height: 765
+      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
+        width: 708
+        height: 398
         isCached: true
   - title: "Why NVIDIA Isn't My Favorite AI Stock"
     excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
@@ -178,20 +167,6 @@ related:
       - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/10/ibm-chart.jpg"
         width: 624
         height: 276
-        isCached: true
-  - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
-    excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://techcentral.co.za/amd-to-acquire-nod-ai-bid-to-catch-nvidia/233163/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 37
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
-        width: 1500
-        height: 800
         isCached: true
   - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
     excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."

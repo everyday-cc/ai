@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/ai-film-and-ai-games-festival-draws-
 webUrl: "https://venturebeat.com/games/ai-film-and-ai-games-festival-draws-300-to-hear-about-ai-taking-the-directors-seat/"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 672
     isCached: true
+
+related:
+  - title: "A chat about AI’s role in networking and the edge with Intel’s Pallavi Mahajan"
+    excerpt: "GamesBeat Next unites gaming industry leaders for exceptional content, networking, and deal-making opportunities. Join us on Oct 23-24 in San Francisco.  Register Now The edge of the network isn’t always where you find the most powerful computers."
+    publishedDateTime: 2023-10-14T15:45:00Z
+    webUrl: "https://venturebeat.com/games/a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 65
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/09/intel-glass-3.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "vZibkCsAeXkSZ8rVzEoxGi6/og66l+XyZveb/mY8s87c2BbAFwZ1uE6o/7IRqKn7aci4MdJuumB53JFKW7bQUBSAYrc7X5m4DKjwpiKsoAV90StNsCVshmzLznQh8VoaSasPJpTg4VdCWdUKHTEd0RfmNKt3AjI87ufNY4VAm5oUQVetQ8K0Yq7eUkquEyGRpb5m6rKEHWHXR0yD3UwpFR/BlILVNrHbAgmxQKDqi5cBEAZifXzX0AJj/e+YknlfIZxSbsZgb2T9pFGbeSaopuuu4bSlnJ2vWswgbtIJo1SD8YxtnfoEO778fpUPl/s+QXMQUKicGfpHBEGk0JNEl3hzBRiUfIhMIx5LsO05/BFbRb84lc+em1WhgZ5LNNZ8OMjPXcVo5I4IpmfTHappMcXlGw8Rmhf0ri73HEVpKSMqfn8MkWwA3iXE7JYf0LgQt0fzeECYn5qEfqEMOhnBetJbIbmRua03bmSvT/7OKKhyCYbKFoIDIYypi1uxDGW+W2A61WX2ri+EnXiHZ6hpFw==;LDnzgPCbJwDFCPjlRAv3EA=="
 ---

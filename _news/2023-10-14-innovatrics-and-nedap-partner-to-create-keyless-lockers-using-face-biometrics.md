@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202310/innovatrics-and-nedap-partn
 webUrl: "https://www.biometricupdate.com/202310/innovatrics-and-nedap-partner-to-create-keyless-lockers-using-face-biometrics"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biometrics enabling digital banking advances in multiple applications"
+    excerpt: "The expansion of biometrics for financial services made up several of the top headlines this week. And digital identity wallets continue to gain prominence."
+    publishedDateTime: 2023-10-14T16:32:00Z
+    webUrl: "https://www.biometricupdate.com/202310/biometrics-enabling-digital-banking-advances-in-multiple-applications"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/12154539/selfie-phone-PAD-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Panasonic, academic researchers say data partitioning can reduce face biometrics bias"
     excerpt: "Develop a new way to train face biometrics algorithms that improves performance of facial recognition for demographic groups represented by less training data."
     publishedDateTime: 2023-10-13T19:19:00Z

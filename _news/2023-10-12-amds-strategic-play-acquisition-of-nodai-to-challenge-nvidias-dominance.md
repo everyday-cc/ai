@@ -93,6 +93,34 @@ related:
         width: 609
         height: 458
         isCached: true
+  - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
+    excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
+    publishedDateTime: 2023-10-11T08:58:00Z
+    webUrl: "https://www.econotimes.com/AMD-to-Acquire-Software-StartupNodai-in-Boost-to-AI-Chip-Software-Capabilities-1664133"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
+    images:
+      - url: "https://f1.econotimes.com/2023/10/f872o4iabc_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
+  - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
+    excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
+    publishedDateTime: 2023-10-11T05:06:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia/104332059"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-104332059,imgsize-44324,width-1200,height=765,overlay-etcio/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AMD Aims to Bolster Software Capabilities with Nod.ai Acquisition"
     excerpt: "Advanced Micro Devices (AMD) is strategically moving to rival chipmaker Nvidia. It plans to acquire an artificial intelligence startup"
     publishedDateTime: 2023-10-11T20:58:00Z

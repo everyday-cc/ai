@@ -38,17 +38,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 22
-  - title: "Indigenous voice to parliament: three objections to voting Yes, and why they matter"
-    excerpt: "Each of us must vote Yes or No at the voice referendum this Saturday. Enormous effort has gone into persuading us that we should all vote Yes. But polls indicate the number intending to vote Yes has fallen steeply."
-    publishedDateTime: 2023-10-09T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-three-objections-to-voting-yes-and-why-they-matter/news-story/1fe0d300671d343351b5efbbcaefde02"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-three-objections-to-voting-yes-and-why-they-matter/news-story/1fe0d300671d343351b5efbbcaefde02?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-three-objections-to-voting-yes-and-why-they-matter/news-story/1fe0d300671d343351b5efbbcaefde02?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 18
   - title: "The Yes and No cases for the Voice to Parliament"
     excerpt: "Their proposal for both recognition and respect is an enshrined Voice, meaning a permanent body that can't be removed without another referendum. The Yes camp says the Voice is a way of combining the symbolism of recognition with tangible action in the ..."
     publishedDateTime: 2023-10-13T19:27:00Z

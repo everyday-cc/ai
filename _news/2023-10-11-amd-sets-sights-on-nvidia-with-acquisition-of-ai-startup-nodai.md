@@ -25,127 +25,74 @@ images:
     isCached: true
 
 related:
-  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
-    excerpt: "Nvidia's soaring, but many other AI players might just be flying under your radar. These three top-quality tech stocks offer more bang for your buck."
-    publishedDateTime: 2023-10-13T11:37:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
+  - title: "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities"
+    excerpt: "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,"
+    publishedDateTime: 2023-10-11T07:29:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
     images:
-      - url: "https://g.foolcdn.com/editorial/images/750812/ai-robot-hand-building-coin-stacks.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "US chip maker AMD to acquire AI software start-up Nod.ai in effort to catch up with Nvidia"
-    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence (AI) start-up called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chip maker Nvidia, Advanced Micro Devices (AMD) plans to invest heavily in the ..."
-    publishedDateTime: 2023-10-11T03:07:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
+  - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
+    excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
+    publishedDateTime: 2023-10-11T11:14:00Z
+    webUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 74
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/11/594b7b01-8e84-414e-baaf-fb3d5386e670_b5a0a465.jpg?itok=yLtbICdQ&v=1696992418"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
-    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
-    publishedDateTime: 2023-10-13T16:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-91984761/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
-    excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."
-    publishedDateTime: 2023-10-12T13:46:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/12/1-artificial-intelligence-ai-stock-to-buy-now-that/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
-  - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
-    excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
-    publishedDateTime: 2023-10-13T14:56:00Z
-    webUrl: "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
-    ampWebUrl: "https://www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
-    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
-    type: article
-    provider:
-      name: FXStreet
-      domain: fxstreet.com
-    quality: 63
-    images:
-      - url: "https://editorial.fxstreet.com/images/Markets/Equities/Industries/Semiconductors/pic-man-repairing-semiconductors-637435354060707899_Small.jpg"
-        width: 320
-        height: 229
-        isCached: true
-  - title: "4 Chip Stocks to Consider for Earnings Season. Yes, Nvidia Is One."
-    excerpt: "Semiconductor companies are heading into earnings season with artificial intelligence at the top of the agenda. Investors will be watching Nvidia, the market’s AI chip favorite, but they should also be thinking about Monolithic Power Systems, Marvell Technology, and Broadcom, according to Oppenheimer’s Rick Schafer."
-    publishedDateTime: 2023-10-11T14:30:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
+      name: Network World
+      domain: networkworld.com
     quality: 59
     images:
-      - url: "https://images.barrons.com/im-554588/social"
-        width: 1280
-        height: 640
+      - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1004
         isCached: true
-  - title: "Nvidia Overcomes Rumors: Dominating AI Chip Market"
-    excerpt: "Nvidia, a leading company in the AI GPU chip industry, recently experienced a drop in its stocks due to speculation that OpenAI, a prominent artificial intelligence research lab, might switch its chip supplier. This potential shift in OpenAI’s alliance ..."
-    publishedDateTime: 2023-10-11T00:00:00Z
-    webUrl: "https://www.dmnews.com/nvidia-overcomes-rumors-dominating-ai-chip-market/"
+  - title: "AMD to acquire Nod.AI open-source AI software startup"
+    excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
+    publishedDateTime: 2023-10-10T19:40:00Z
+    webUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup"
+    ampWebUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
     type: article
     provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
     images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Nvidia-Dominates-AI.jpg"
-        width: 1000
-        height: 523
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/10/amd-to-acquire-nodai-open-source-ai-software-startup_feature.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
-    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
-    publishedDateTime: 2023-10-13T19:47:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
+  - title: "AMD acquires open-source AI software pioneer Nod.ai to fortify AI capabilities"
+    excerpt: "The purchase of Nod.ai, founded just three years ago, shows that AMD is serious about staking a claim in the rapidly growing AI chip market, which is expected to reach $383.7 billion by 2032,  according to industry analysts."
+    publishedDateTime: 2023-10-10T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/amd-acquires-open-source-ai-software-pioneer-nod-ai-to-fortify-ai-capabilities/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "AMD to acquire AI software startup in effort to catch Nvidia"
-    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
-    publishedDateTime: 2023-10-10T16:05:00Z
-    webUrl: "https://www.aol.com/news/amd-acquire-ai-software-startup-130506735.html"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "AMD Makes Second AI Software Acquisition In Less Than Two Months"
+    excerpt: "AMD revealed it has acquired Nod.ai to boost its open AI software capabilities, making it the company's second AI software acquisition in less than two months."
+    publishedDateTime: 2023-10-10T15:20:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/amd-makes-second-ai-software-acquisition-in-less-than-two-months"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: CRN
+      domain: crn.com
     quality: 39
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/31373b5e3013825b16ce899b59d3f492"
-        width: 800
-        height: 553
+      - url: "https://www.crn.com/resources/027e-1746893681da-1a8cfce8ad03-1000/amd-sign.jpeg"
+        width: 609
+        height: 458
         isCached: true
   - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
     excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
@@ -161,43 +108,71 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Why NVIDIA Isn't My Favorite AI Stock"
-    excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
-    publishedDateTime: 2023-10-13T15:55:00Z
-    webUrl: "https://moneymorning.com/investing/why-nvidia-isnt-my-favorite-ai-stock/"
+  - title: "AMD Aims to Bolster Software Capabilities with Nod.ai Acquisition"
+    excerpt: "Advanced Micro Devices (AMD) is strategically moving to rival chipmaker Nvidia. It plans to acquire an artificial intelligence startup"
+    publishedDateTime: 2023-10-11T20:58:00Z
+    webUrl: "https://techreport.com/news/amd-aims-to-bolster-software-capabilities-with-nod-ai-acquisition/"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
+      name: The Tech Report
+      domain: techreport.com
     quality: 39
     images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/10/ibm-chart.jpg"
-        width: 624
-        height: 276
+      - url: "https://techreport.com/wp-content/uploads/2023/10/what-is-crypto-malware-1.jpg"
+        width: 1940
+        height: 1282
         isCached: true
-  - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
-    excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://techcentral.co.za/amd-to-acquire-nod-ai-bid-to-catch-nvidia/233163/"
+  - title: "AMD is buying an AI software startup Nod.AI"
+    excerpt: "AMD did not reveal what it's spending on buying Nod.AI or Nod Labs. Nod.AI will help expand the multinational's footprint in AI software."
+    publishedDateTime: 2023-10-10T17:02:00Z
+    webUrl: "https://invezz.com/news/2023/10/10/amd-is-buying-ai-software-startup-nod-ai/"
     type: article
     provider:
-      name: TechCentral
-      domain: techcentral.co.za
+      name: Invezz
+      domain: invezz.com
     quality: 37
     images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
-        width: 1500
-        height: 800
+      - url: "https://invezz.com/wp-content/uploads/2023/01/vladimir-malyutin-sw8-yizppms-unsplash-1024x645.jpg"
+        width: 1024
+        height: 645
         isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
-    excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
-    publishedDateTime: 2023-10-13T19:49:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21085117/"
+  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
+    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
+    publishedDateTime: 2023-10-11T07:05:00Z
+    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 36
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "AMD’s Strategic Play: Acquisition of Nod.ai to Challenge Nvidia’s Dominance"
+    excerpt: "As the AI industry continues its exponential growth, the competition for dominance in the hardware sector intensifies. AMD, a pivotal player in the microprocessor and graphics processor market, has taken a significant step towards bolstering its position against the industry titan,"
+    publishedDateTime: 2023-10-11T17:44:00Z
+    webUrl: "https://www.unite.ai/amds-strategic-play-acquisition-of-nod-ai-to-challenge-nvidias-dominance/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 35
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Alex_Mc_2_AI_chips_next_to_each_other._One_is_green_and_white_a_0243e714-aca4-4895-aa15-bb29f3fc9966-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "AMD to finalise acquisition of software startup Nod.ai"
+    excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."
+    publishedDateTime: 2023-10-11T12:36:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/amd-to-finalise-acquisition-of-software-startup-nod-ai/articleshow/104346348.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 17
 
 secured: "pggN3epp2gdha4Q/yx5/IveC/o9+z6FjQRWGhLRITgzeNCZWetaImHNxCd6NoVnol7v4Lqwb97RkNy0sex9AxH4na6RBjP32m9A73wSUbvThV3pC4cJbNY9kxMljZizjyrQuj2iEwd4v9IgvtxcnIOoO+h4rQuzbzi69SaZIFjigrLUD4nAEiG5D9HzkBIPmscX9XXHJ1py9qytgbwNyH0OMNP4GxkBAlkoRBsKLk7SSvKXLX6rtheHryLT8LS5Mz7WBOLqChrn9sRCjMXcpptMH97S7MMSPvI0wryiocim/bQ0bPF416CoIGgVfJ93ILCoAteMPZvpAWWjipotdShbdsJrmPf6ZyRkFlxIB9KHWav2vFQDSpIzoBupMpP0hzUddxq920Tdwh4hFT3ajL8Beeyp5Dn6U4Z/inhpNRjaf4cY4oCGqmcLxqnqXGUIcdpK9EMMBPmM+S/xcoAYQXhmwdafIekRL5XOKKUVo37BMI9VjDMpirvkt+oCA3GIP09caHVnKGborNFxnjd+LNg==;yFccqtxNMmPGnllPdnjtnA=="
 ---

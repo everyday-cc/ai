@@ -93,6 +93,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T17:07:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 47
+    images:
+      - url: "https://media.nbcnewyork.com/2023/10/AP23287125795600.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why the Indigenous 'Voice' is vital in Australia's constitution: Noel Pearson"
     excerpt: "Australia faces a referendum on a new representative body: the Indigenous Voice to Parliament. Indigenous lawyer and academic Noel Pearson lays out the backstory, and his view of what’s to come, in his Boyer Lectures."
     publishedDateTime: 2023-10-11T23:16:00Z
@@ -136,22 +152,6 @@ related:
       - url: "https://www.irishtimes.com/resizer/hkA1d7j3ULvWSefZrs9af4PZG0E=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6PONLCKATY74BLPJUE4QA6IFHA.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
-    excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
-    publishedDateTime: 2023-10-10T00:36:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/10/indigenous-voice-to-parliament-referendum-guardian-view-yes-vote"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 31
-    images:
-      - url: "https://i.guim.co.uk/img/media/b61e6dd418c4f0b15304decfe9317deeb3b725d7/0_249_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=26f0c2757671d9dedd3875704ccab1ad"
-        width: 620
-        height: 372
         isCached: true
   - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
     excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
