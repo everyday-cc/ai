@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-you
 webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
 type: article
 quality: 119
-heat: 171
+heat: 169
 published: true
 
 provider:

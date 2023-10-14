@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-11-rule-curbing-ai-chip-exports-to-china-under-final-review.md",
+      "title": "Rule Curbing AI Chip Exports to China Under Final Review",
+      "excerpt": "(Reuters) - A U.S. rule that restricts shipments of certain advanced chips to China has been revised and is under final review, according to a government posting, suggesting that further curbs on chips that can be used for artificial intelligence are coming soon.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-characterais-200-million-bet-that-chatbots-are-the-future-of-entertainment.md",
+      "title": "Character.AI’s $200 Million Bet That Chatbots Are The Future Of Entertainment",
+      "excerpt": "The unicorn AI startup is bringing bots that make it sound like you’re talking to well known people like Taylor Swift into interactions with friends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2023/10/11/character-ai-chatbots-group-chat/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2023/10/11/character-ai-chatbots-group-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65257fd731c05c16afe962c3/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-the-voice-why-australia-trails-new-zealand-on-indigenous-journey.md",
+      "title": "The Voice: Why Australia trails New Zealand on Indigenous journey",
+      "excerpt": "Standing there reading the panels, Debby May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-australia-67076216",
+      "originalUrl": "https://www.bbc.com/news/world-australia-67076216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6EB3/production/_131393382_waitangigirl-gettyimages-1300569525.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-australia-67076216.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp",
+      "publishedDateTime": "2023-10-11T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-ai-set-for-a-cold-shower-in-2024-warns-analyst.md",
       "title": "AI Set For A “Cold Shower” In 2024, Warns Analyst",
       "excerpt": "Steep costs and the threat of government regulation will dampen enthusiasm for generative AI services next year, an analyst warns",
@@ -543,7 +690,7 @@
       "originalUrl": "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1066,160 +1213,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
-      "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
-      "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6525d31e5fc01b0602309957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1306,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
-      "publishedDateTime": "2023-10-10T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review.md",
-      "title": "Sony brings AI to InZone gaming headset and ear buds — review",
-      "excerpt": "Sony has added AI smarts to its latest generation of InZone H5 gaming wireless headset and its new InZone Buds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review/",
-      "originalUrl": "https://venturebeat.com/games/sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/inzone-9.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-adobes-ai-image-generators-get-beefy-updates-including-vector-graphics.md",
-      "title": "Adobe’s AI image generators get beefy updates, including vector graphics",
-      "excerpt": "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
-      "publishedDateTime": "2023-10-10T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

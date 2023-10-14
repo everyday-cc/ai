@@ -28,20 +28,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "Danish startup secures $2.4M seed to revolutionize sustainable procurement with AI-driven platform"
-    excerpt: "Copenhagen-based startup Responsibly has secured $2.4 million in a seed funding, with leading investments from Hambro Perks and Pi Labs, as well as support"
-    publishedDateTime: 2023-10-09T06:47:00Z
-    webUrl: "https://arcticstartup.com/responsibly-raises-2-4m-seed/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 23
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2023/10/responsibly-raises-2-4m-seed.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Connetic Ventures Invests in Harmony, a Digital Platform Revolutionizing Workplace Communication with Artificial Intelligence"
     excerpt: "Connetic Ventures, an early-stage venture capital firm that leverages data and artificial intelligence to invest in the highest potential founders, is"
     publishedDateTime: 2023-10-10T12:00:00Z

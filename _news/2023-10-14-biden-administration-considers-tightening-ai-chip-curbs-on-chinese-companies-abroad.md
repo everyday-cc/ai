@@ -128,6 +128,20 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "China opposes US politicizing, instrumentalizing trade measures: FM responds to reported tightened AI chip rules"
+    excerpt: "According to a Reuters report, the Biden administration is considering closing a so-called loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, citing four people familiar with the matter."
+    publishedDateTime: 2023-10-13T23:08:00Z
+    webUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml?ref=lite.improvethenews.org"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-10-13/108ab00c-2d2e-44dc-839f-b90173b0775a.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "fQNlyhGOknGL6/tiESDp5LaR6Avm03jUMghD+Hw1WKt1YTvLefk5XtvhOrOX+c+fgC+mZ/UTf3P5MdT+EPg0wZT6h67v+fhgwV0Xu+0gJt+zDUYSFjbqNs5N3nExK/t9xjtpp5d/RsvhCmXhpoVZi7gC5thTXwxNM7EagObzbKuH+M7KDSJy4tgl6cj9D4BVBqfK0VsYbhYlVK6TVhalByLHMknwNvem9kJzhxiUbJa5bNfP05RoZXkqqfCmoVxHZxcjbXmROKPKZLK/1n6Dpoz5Xs21luplsPH4+XKwx6jN+qrt812RTxquLCn5PJHc9725B/xq1Prb9otg4pPPUEixEffJYtqF4m5EOJGrcesTYIbxIbztjXkt6a2AyZ09sFreSs2mDdRfB2JZJLj1BjUvXyUaSBhxAhwA/DYTpK65gwGxy4PhGf/g3jNG0bJ+oD0+8coszZwlLNBIM0Juj0qqUATnJsKKoiDjINXICtlvOzQ+PRuOck9wZPTWgN/emV6X/fOdoNb1Vn+kDI5UzA==;3AwkBjVs/eXGNQBHDtP+sA=="
 ---

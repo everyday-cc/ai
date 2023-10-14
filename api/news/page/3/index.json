@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-12-entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp.md",
+      "title": "Entrepreneurship In The AI Era: Spearheading Transformation And The Essential Route To An MVP",
+      "excerpt": "For businesses looking to navigate the surging tide of AI, they'll need to map out their journey from the inception of an idea to the creation of an MVP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62a396a0ec5f519b6147255f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1339,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/",
+      "publishedDateTime": "2023-10-12T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-amazon-prime-day-2023-the-best-deals-still-available-today.md",
+      "title": "Amazon Prime Day 2023: the best deals still available today",
+      "excerpt": "Prime Big Deal Days may be over but you can still bag these offers Amazon's inaugural Prime Big Deal Days sale is now over. The two-day sale - effectively a second Amazon Prime Day - ran from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals",
+      "originalUrl": "https://www.techradar.com/uk/amazon-prime-day/new-prime-day-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-12T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-is-artificial-intelligence-right-for-your-business.md",
+      "title": "Is Artificial Intelligence Right For Your Business?",
+      "excerpt": "Artificial intelligence (AI) has evolved to become a cornerstone of the business landscape, driving transformational changes across industries. As a business leader, you will find yourself at a crossroads, contemplating whether to embrace AI and if so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65008f371bd6db82125e7015/0x0.jpg?format=jpg&crop=1750,1312,x473,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/10/12/is-artificial-intelligence-right-for-your-business/amp/",
+      "publishedDateTime": "2023-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-skills-and-expertise-keys-to-the-generative-ai-engine.md",
       "title": "Skills and expertise: Keys to the generative AI engine",
       "excerpt": "Trusted skills, expertise and systems integrators are keys to successfully implementing generative AI technologies.\nThe post Skills and expertise: Keys to the generative AI engine appeared first on IBM Blog.\n",
@@ -182,7 +337,7 @@
       "originalUrl": "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -485,7 +640,7 @@
       "originalUrl": "https://www.kswo.com/2023/10/11/ai-ethics-usage-study-takes-place/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1076,153 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-rule-curbing-ai-chip-exports-to-china-under-final-review.md",
-      "title": "Rule Curbing AI Chip Exports to China Under Final Review",
-      "excerpt": "(Reuters) - A U.S. rule that restricts shipments of certain advanced chips to China has been revised and is under final review, according to a government posting, suggesting that further curbs on chips that can be used for artificial intelligence are coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-characterais-200-million-bet-that-chatbots-are-the-future-of-entertainment.md",
-      "title": "Character.AI’s $200 Million Bet That Chatbots Are The Future Of Entertainment",
-      "excerpt": "The unicorn AI startup is bringing bots that make it sound like you’re talking to well known people like Taylor Swift into interactions with friends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2023/10/11/character-ai-chatbots-group-chat/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2023/10/11/character-ai-chatbots-group-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65257fd731c05c16afe962c3/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-the-voice-why-australia-trails-new-zealand-on-indigenous-journey.md",
-      "title": "The Voice: Why Australia trails New Zealand on Indigenous journey",
-      "excerpt": "Standing there reading the panels, Debby May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-australia-67076216",
-      "originalUrl": "https://www.bbc.com/news/world-australia-67076216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/6EB3/production/_131393382_waitangigirl-gettyimages-1300569525.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-australia-67076216.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp",
-      "publishedDateTime": "2023-10-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

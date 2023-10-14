@@ -63,6 +63,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australia votes in historic Indigenous Voice poll"
+    excerpt: "Polls had long shown support for an Indigenous Voice to Parliament but now suggest the No vote is ahead. A looming referendum on whether to elevate First Nations voices is forcing the county to examine its past. Australia is holding a historic vote - its neighbour has a different approach to recognising Indigenous people."
+    publishedDateTime: 2023-10-13T23:08:00Z
+    webUrl: "https://www.bbc.com/news/live/world-australia-67100354"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 54
+    images:
+      - url: "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Why the Indigenous 'Voice' is vital in Australia's constitution: Noel Pearson"
     excerpt: "Australia faces a referendum on a new representative body: the Indigenous Voice to Parliament. Indigenous lawyer and academic Noel Pearson lays out the backstory, and his view of what’s to come, in his Boyer Lectures."
     publishedDateTime: 2023-10-11T23:16:00Z

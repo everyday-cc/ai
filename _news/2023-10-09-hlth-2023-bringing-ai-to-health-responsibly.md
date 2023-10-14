@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/health/hlth-2023-bringing-ai-to-hea
 webUrl: "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - Google AI
 
 related:
+  - title: "Health care: No clear AI winner yet, say experts at HLTH conference"
+    excerpt: "More than 10,000 individuals descended on Las Vegas this week as health and tech companies ranging from startups to Fortune 500 juggernauts showcased their latest digital health chops at HLTH 2023. Last year's big takeaway focused on moving away from single-point solutions."
+    publishedDateTime: 2023-10-13T22:31:00Z
+    webUrl: "https://www.aol.com/no-clear-winner-ai-health-193147987.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/zg4AU8QWL1VndDmjkoSDMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/07dc62bc93c939824192660160ec8319"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "No clear winner in AI in health care yet, say experts at this year's HLTH conference"
     excerpt: "This year, artificial intelligence (AI) was the topic on investors' minds as they search for the next big bet in digital health. But it's unclear what use-case for AI in health care will ultimately win. That thought was top of mind for Prateesh Maheshwari ..."
     publishedDateTime: 2023-10-13T19:42:00Z

@@ -37,6 +37,17 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Indigenous voice to parliament: referendum for change brought low by hubris"
+    excerpt: "The Yes campaign for the voice doesn’t like the No campaign’s slogan “If you don’t know, vote No”. Unfortunately for those advocating change, the slogan appears to have worked. Saturday’s referendum would need to usher in the biggest polling turnaround in Australian history to get up."
+    publishedDateTime: 2023-10-13T23:29:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 22
   - title: "The Yes and No cases for the Voice to Parliament"
     excerpt: "Their proposal for both recognition and respect is an enshrined Voice, meaning a permanent body that can't be removed without another referendum. The Yes camp says the Voice is a way of combining the symbolism of recognition with tangible action in the ..."
     publishedDateTime: 2023-10-13T19:27:00Z

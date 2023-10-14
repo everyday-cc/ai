@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content
 webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -29,19 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Best Free AI Content Generator — Top 10 Compared for 2023"
-    excerpt: "Looking for the best free AI content generator? We've tested, reviewed, and compared the top 10 free AI writing solutions on the market."
-    publishedDateTime: 2023-10-09T13:43:00Z
-    webUrl: "https://techreport.com/artificial-intelligence/best-free-ai-content-generator/"
+  - title: "Google finally adds AI text-to-image generation, but it's not where you think"
+    excerpt: "Although Google is not new to AI image generation, announcing its own Imagen text-to-image model as early as March 2022, it has yet to release an image-generator to the public -- until now."
+    publishedDateTime: 2023-10-13T16:27:00Z
+    webUrl: "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
     images:
-      - url: "https://techreport.com/wp-content/uploads/2023/10/Best-Free-AI-Content-Generators.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.zdnet.com/a/img/resize/120b3978ed55499a5a10827d5f9f87a08f6ff836/2023/10/13/c7129b29-4f66-4724-bba8-512efdf39f76/gettyimages-1406057094.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "UpscaleImage.AI Announces the Launch of a Next-Gen AI Tool, Revolutionizing the Realm of Image Generation and Repair"
     excerpt: "A groundbreaking tool has been unveiled by a pioneering AI startup, revolutionizing the field of image generation and enhancement. The tool targets creators, marketers, and everyday users looking to fix their photos."

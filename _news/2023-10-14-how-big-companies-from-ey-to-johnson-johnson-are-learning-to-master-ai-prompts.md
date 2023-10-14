@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How big companies from EY to Johnson & Johnson are learning to master AI prompts"
-excerpt: "\"You can then fine tune the model to be especially good at that.\" Fine tuning is done by someone with machine learning experience, rather than a prompt engineer. At this stage, the company may decide to shrink the dataset by removing unnecessary stuff ..."
-publishedDateTime: 2023-10-13T21:26:00Z
-originalUrl: "https://www.aol.com/big-companies-ey-johnson-johnson-190204919.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/big-companies-ey-johnson-johnson-190204919.html?ref=biztoc.com"
+excerpt: "Embracing AI is the easy part—firms have already moved on to harder parts like making AI actually work for their business."
+publishedDateTime: 2023-10-13T22:02:00Z
+originalUrl: "https://www.aol.com/finance/big-companies-ey-johnson-johnson-190204919.html"
+webUrl: "https://www.aol.com/finance/big-companies-ey-johnson-johnson-190204919.html"
 type: article
 quality: 34
 heat: 34
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "ONTjkdehEVyDp/6fqOYZ1E3BgyH5QrkC046lDozkMbpqYfFPQlIgHvnleo4WykMDgygz+KDfFVM0iaz3lj9vXPLnwdtlInlkVpEidiJxcCawoWG1QvAAbAztaXjORRHhJwI8zo2cYPN5eJUJV5i/N3iksJpcVXy5EKNF+SaZrigXr4E9rCuFvA3IdbU7ju59CDY9uBiGIp86vlsTNqu368jjFpiTyhm6suA8LXFHjKdR7XG2J2YVlmva839vZ/IdPWZYeT2tepUmy+kWveNw67cr0KcW+E9mgxo40Sbr/K72uKBhWciaAIgig/2/1KHkJz1WNJStl0IrtR9IYk8nCiREMc+UrU/qPyryf85503s=;RKiMO/lNMgY9/WLa/eAjAg=="
+secured: "OKxRxignZPSxxucMDd5OS1vNat1SY5dJHOa5180K8MbSRqlAiBrH77gyn0XFuwgdEQZPUENZwCRWYTUo5rBwKeIo6YmKsoluowGZerHiXvdpKwvXy7C8duIRWoPTGvmep4AdXF6xwHvpYgGBjK9f8/tvjxvSMjzqj6bVR69DqOBYQznAOTpSy7B675xJs3EG+E0FkLnYrJFxS8g1NrHyNYGBnowGrMVRysJlpxgH41FTgMyuiE4a9c3Z3TQ7yXjK9aRsbr7yBaBGEHu2Zq5VFGyzRfd/5GThYikkRi3vuNviuE5AX5xK8v6t8OKOGalqeu/ezD9gUmd2w1ZqfH373WhZSX1EKyk7Cwio7N66BhA=;7OMARbwV+pVmzQ+uHGFaMA=="
 ---
 

@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
+      "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
+      "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6525d31e5fc01b0602309957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1306,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "publishedDateTime": "2023-10-10T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review.md",
+      "title": "Sony brings AI to InZone gaming headset and ear buds — review",
+      "excerpt": "Sony has added AI smarts to its latest generation of InZone H5 gaming wireless headset and its new InZone Buds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review/",
+      "originalUrl": "https://venturebeat.com/games/sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/inzone-9.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-adobes-ai-image-generators-get-beefy-updates-including-vector-graphics.md",
+      "title": "Adobe’s AI image generators get beefy updates, including vector graphics",
+      "excerpt": "Now, Adobe is extending its reach with a wave of new generative AI features. Adobe's Firefly Image 2 model is an update to its original Firefly AI image generator, which powers Photoshop features like Generative Fill.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/illustrator_ai_barbarian_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobes-ai-image-generators-get-beefy-updates-including-vector-graphics/amp/",
+      "publishedDateTime": "2023-10-10T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-automated-chronic-pain-cohort-mined-from-twitter-using-machine-learning.md",
       "title": "Automated chronic pain cohort mined from Twitter using machine learning",
       "excerpt": "Social media platforms like Twitter (now X) offer valuable insights into self-reported chronic pain, according to a recent study by multiple institutions. The researchers have automated the process of establishing a chronic pain cohort,",
@@ -1076,161 +1230,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-superopsai-returns-to-its-backers-to-raise-another-12-million.md",
-      "title": "SuperOps.ai Returns To Its Backers To Raise Another $12 Million",
-      "excerpt": "SuperOps.ai aims to build a one-stop-shop for managed services providers looking for tools to run their customers' IT",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65251ad6393acaba72a9bd20/0x0.jpg?format=jpg&crop=2512,1176,x421,y1059,safe&width=1200",
-          "width": 1200,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/",
-      "publishedDateTime": "2023-10-10T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment.md",
-      "title": "Artificial Intelligence In Talent Acquisition: How Machine Learning Is Influencing Recruitment",
-      "excerpt": "The fusion of new AI and ML technologies has reshaped recruitment, replacing outdated methods with data-driven approaches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65202b2df0674311519d4b1f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/artificial-intelligence-in-talent-acquisition-how-machine-learning-is-influencing-recruitment/amp/",
-      "publishedDateTime": "2023-10-10T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-aws-releases-cloud-institute-virtual-program-to-train-developers.md",
-      "title": "AWS releases Cloud Institute virtual program to train developers",
-      "excerpt": "In an effort to reduce the scarcity of trained cloud developers, AWS is releasing a new virtual program, dubbed Cloud Institute. AWS Cloud Institute, which is a one-year program with 12 different courses spread across four quarters, has been designed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
-      "originalUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/04/11/shutterstock_editorial_2329866433-100944305-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708191/aws-releases-cloud-institute-virtual-program-to-train-developers.amp.html",
-      "publishedDateTime": "2023-10-10T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

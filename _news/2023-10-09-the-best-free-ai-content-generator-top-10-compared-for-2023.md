@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Get AI for Content Generation, Image Creation, and More for $80"
-    excerpt: "Scribbyo AI isn't just one AI tool ... Scribbyo knows 37 different languages, so you can translate product descriptions, blog posts, and more. You can even get Scribbyo to transcribe the audio for a video, then translate it to create your own international ..."
-    publishedDateTime: 2023-10-09T16:07:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/get-ai-for-content-generation-image-creation-and-more-for/463165"
+  - title: "Generative AI in the Contact Center: Uses, Benefits, Best Practices"
+    excerpt: "Read on to learn how generative AI is being used in contact centers now and how it can benefit contact centers that adopt the technology with security, ethics, and other best practices in mind. Though most people think of generative AI in the context of ..."
+    publishedDateTime: 2023-10-12T21:33:00Z
+    webUrl: "https://www.eweek.com/artificial-intelligence/ai-contact-center/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: eWeek
+      domain: eweek.com
     quality: 69
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1696444534-ENT-ScribbyoAI.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "UpscaleImage.AI Announces the Launch of a Next-Gen AI Tool, Revolutionizing the Realm of Image Generation and Repair"
-    excerpt: "A groundbreaking tool has been unveiled by a pioneering AI startup, revolutionizing the field of image generation and enhancement. The tool targets creators, marketers, and everyday users looking to fix their photos."
-    publishedDateTime: 2023-10-12T20:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35229886/upscaleimage-ai-announces-the-launch-of-a-next-gen-ai-tool-revolutionizing-the-realm-of-image-gen"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35229886"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35229886"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://www.eweek.com/wp-content/uploads/2023/10/ew_20231012-ai-contact-center.jpg"
+        width: 1400
+        height: 900
         isCached: true
 
 secured: "K1e8ZZbObDyNA01vqQXXkRUqV9JIYfRRA0brdpgGJxYikxXUxMZSzT7ZchkLc+ng21NTFQHbMa814TpTdX8KUySbiTw8lWKWDJbmpZoKLOPBsRhY33SSslcRl+a+n3FoBO2q2pUbtfIFaQzWOk0x3gCfefV+a5tZbXohr+SEwfYwr5y4PcxboABQ9xW5aTyqLaNZTl/TMM6kiGH2OLkpOWNlwO3vaxOfAz7fd8N9J+fh68QjbotaynAow24DW36MrZxLlyUSET97TJMxeers0IhUIEqG54h2elixC04Ygl6Z2QyzQgBXj1x/yweGg4VGVa37dEWr1pbpF++mlH4ide+9DR8iM8wQz/6q5lBqWGU=;/8y5ZMS8CoOg1PNr1/1bvQ=="

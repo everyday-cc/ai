@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price
 webUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://assets.primecreative.com.au/imagegen/280/-/assets/momoads/2023/08/04/115639/IMG_20230728_113222.jpg"
         width: 280
         height: 210
+        isCached: true
+  - title: "Australia holds constitutional referendum on recognition of First Nations"
+    excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
+    publishedDateTime: 2023-10-13T23:16:00Z
+    webUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/"
+    ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 43
+    images:
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
+        width: 1024
+        height: 800
         isCached: true
   - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
     excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."

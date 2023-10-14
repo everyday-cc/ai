@@ -2,6 +2,111 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-10-03-two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development.md",
+      "title": "Two divergent skills that matter in an AI world: Math and business development",
+      "excerpt": "For those seeking to get heavily immersed in building AI applications, it's time to shore up basic math skills. For those seeking more right-brained roles, business development skills are the top requirement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "originalUrl": "https://www.zdnet.com/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bdbde0facf0ff42db0a2012db3bc30d5b6e47a03/2023/09/26/3c2c8202-701f-403f-b22d-8d1df03a9b9d/2paths-gettyimages-1320194843.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-divergent-skills-that-matter-in-an-ai-world-math-and-business-development/",
+      "publishedDateTime": "2023-10-02T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha.md",
+      "title": "Sob story about dead grandma tricks Microsoft AI into solving CAPTCHA",
+      "excerpt": "Shiryaev first shared a screenshot of Bing Chat refusing to solve the CAPTCHA when it was shared as a simple image. Next, Shiryaev pasted that image into another image of a pair of hands holding an open locked.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 376,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/special_love_code-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/amp/",
+      "publishedDateTime": "2023-10-02T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-tom-hanks-disavows-ai-clone-amid-hollywoods-robot-reckoning.md",
       "title": "Tom Hanks disavows AI clone amid Hollywood’s robot reckoning",
       "excerpt": "studios and streaming companies are bulking up on AI staff. Aug. 2, 2023 But when actors’ consent is taken out of the picture, people start to get worried. That’s what happened with Tom Hanks’ illegitimate dental endorsement, but also what’s ...",
@@ -1082,91 +1187,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-robin-williams-daughter-says-she-finds-ai-recreations-of-her-fathers-voice-personally-disturbing.md",
-      "title": "Robin Williams' daughter says she finds AI recreations of her father's voice 'personally disturbing'",
-      "excerpt": "\"I've witnessed for YEARS how many people want to train these models to create/recreate actors who cannot consent, like Dad,\" she wrote on Instagram.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10",
-      "originalUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/651a23acec74fc001906fb3d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robin-williams-daughter-zelda-disturbing-ai-recreate-voice-2023-10?amp",
-      "publishedDateTime": "2023-10-01T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-autonomous-driving-remains-a-distant-reality-in-japan.md",
-      "title": "Autonomous driving remains a distant reality in Japan",
-      "excerpt": "Beijing has officially allowed robotaxi operators including Baidu Inc to charge for fully autonomous taxis in some areas. At stake is a self-driving vehicle market that could be worth as much as US$400bil (RM1.88 trillion) by 2035, according to McKinsey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2023/10/02/autonomous-driving-remains-a-distant-reality-in-japan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
         "publishers": null,
         "authors": null
       },

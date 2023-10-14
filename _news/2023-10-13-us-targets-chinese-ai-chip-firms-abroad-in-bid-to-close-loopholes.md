@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "China opposes US politicizing, instrumentalizing trade measures: FM responds to reported tightened AI chip rules"
+    excerpt: "According to a Reuters report, the Biden administration is considering closing a so-called loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, citing four people familiar with the matter."
+    publishedDateTime: 2023-10-13T23:08:00Z
+    webUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml?ref=lite.improvethenews.org"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-10-13/108ab00c-2d2e-44dc-839f-b90173b0775a.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
     excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
     publishedDateTime: 2023-10-13T18:33:00Z

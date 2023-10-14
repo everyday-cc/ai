@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-14-brazil-consults-on-regulatory-sandbox-for-ai-and-data-protection.md",
+      "title": "Brazil Consults On Regulatory Sandbox For AI And Data Protection",
+      "excerpt": "The controlled environment is expected to enhance algorithmic transparency and promote responsible AI innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/10/13/brazil-consults-on-regulatory-sandbox-for-ai-and-data-protection/",
+      "originalUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/10/13/brazil-consults-on-regulatory-sandbox-for-ai-and-data-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6529c183e0b4cb956108033b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2023/10/13/brazil-consults-on-regulatory-sandbox-for-ai-and-data-protection/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/angelicamarideoliveira/2023/10/13/brazil-consults-on-regulatory-sandbox-for-ai-and-data-protection/amp/",
+      "publishedDateTime": "2023-10-13T15:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-as-airports-and-cruises-embrace-facial-recognition-experts-worry-about-privacy-risks.md",
       "title": "As Airports and Cruises Embrace Facial Recognition, Experts Worry About Privacy Risks",
       "excerpt": "The technology is being used at airports, theme parks, hotels, and more. And while that may add some convenience to the often-stressful travel experience, it’s also bringing up concerns about security and privacy, The New York Times reported on Friday.",
@@ -341,6 +392,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think.md",
+      "title": "Google finally adds AI text-to-image generation, but it's not where you think",
+      "excerpt": "Although Google is not new to AI image generation, announcing its own Imagen text-to-image model as early as March 2022, it has yet to release an image-generator to the public -- until now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "originalUrl": "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/120b3978ed55499a5a10827d5f9f87a08f6ff836/2023/10/13/c7129b29-4f66-4724-bba8-512efdf39f76/gettyimages-1406057094.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "publishedDateTime": "2023-10-13T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -965,7 +1067,7 @@
       "originalUrl": "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1092,101 +1194,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-how-creative-marketing-giant-wpp-is-preparing-for-generative-ai.md",
-      "title": "How creative marketing giant WPP is preparing for generative AI",
-      "excerpt": "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai",
-      "originalUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg",
-          "width": 2062,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp",
-      "publishedDateTime": "2023-10-13T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-governments-race-to-regulate-ai-tools.md",
-      "title": "Governments race to regulate AI tools",
-      "excerpt": "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/",
-      "originalUrl": "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

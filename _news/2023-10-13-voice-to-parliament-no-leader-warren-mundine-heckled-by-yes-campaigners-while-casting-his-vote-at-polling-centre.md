@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Indigenous voice to parliament: referendum for change brought low by hubris"
+    excerpt: "The Yes campaign for the voice doesn’t like the No campaign’s slogan “If you don’t know, vote No”. Unfortunately for those advocating change, the slogan appears to have worked. Saturday’s referendum would need to usher in the biggest polling turnaround in Australian history to get up."
+    publishedDateTime: 2023-10-13T23:29:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 22
   - title: "Indigenous voice to parliament: three objections to voting Yes, and why they matter"
     excerpt: "Each of us must vote Yes or No at the voice referendum this Saturday. Enormous effort has gone into persuading us that we should all vote Yes. But polls indicate the number intending to vote Yes has fallen steeply."
     publishedDateTime: 2023-10-09T23:30:00Z

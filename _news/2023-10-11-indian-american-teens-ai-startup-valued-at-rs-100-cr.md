@@ -86,6 +86,17 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "India's AI programme to be kinetic enabler to achieve USD 1 trillion digital economy: Chandrasekhar"
+    excerpt: "The government on Friday unveiled a report on the countrys artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T10:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 25
   - title: "Introducing Voiceai: The Most Accurate AI Transcription For Arabic And Indian Languages And Dialects"
     excerpt: "NeuralSpace releases VoiceAI: The most accurate call transcription, translation and speech analytics for Arabic and Indian languages and dialects. Melanie Swamy-Brown NeuralSpace +44 7889 918293 Visit us on social media: Twitter LinkedIn YouTube"
     publishedDateTime: 2023-10-09T08:28:00Z

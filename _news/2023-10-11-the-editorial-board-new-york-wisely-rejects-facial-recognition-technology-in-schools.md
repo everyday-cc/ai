@@ -7,7 +7,7 @@ originalUrl: "https://buffalonews.com/opinion/editorial/the-editorial-board-new-
 webUrl: "https://buffalonews.com/opinion/editorial/the-editorial-board-new-york-wisely-rejects-facial-recognition-technology-in-schools/article_9eae7afe-5e2c-11ee-b54a-cbc972d78e5f.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Does Facial Recognition Technology Make Schools Safer? What Educators Need to Know"
+    excerpt: "New York has banned facial recognition technology in schools. Here’s what experts say schools need to consider before using it."
+    publishedDateTime: 2023-10-13T20:02:00Z
+    webUrl: "https://www.edweek.org/leadership/does-facial-recognition-technology-make-schools-safer-what-educators-need-to-know/2023/10"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 33
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/765ca37/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F53%2Fc9%2F8a96a2eb465e89e9d18fa364a671%2F102023-lead-image-facial-recognition-gt.jpg"
+        width: 942
+        height: 630
+        isCached: true
   - title: "New York state bans facial recognition technology in schools"
     excerpt: "Facial recognition technology is being banned at some public and private elementary and secondary schools, including charter schools, across New York state."
     publishedDateTime: 2023-10-13T17:57:00Z

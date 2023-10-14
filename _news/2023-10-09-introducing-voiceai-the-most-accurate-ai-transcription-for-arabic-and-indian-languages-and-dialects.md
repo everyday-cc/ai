@@ -101,6 +101,17 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "India's AI programme to be kinetic enabler to achieve USD 1 trillion digital economy: Chandrasekhar"
+    excerpt: "The government on Friday unveiled a report on the countrys artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T10:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 25
 
 secured: "WnbdTPtvxijWrpkIULlC4Wa96ZZkoyFLS65jy4YOOaM2qXzjMYY5b+0Jn51BekzHtnyy1aVo2wXOSnvEsRzVMKf+iXNLiuadQ7MVbIZXvzY5jxD/jnCVZyBCGDfIvYB5PfYjFvxOGYO+FPdbrDzPRsA7X92SrOTT6GT32VqmsWmdbzPfBwsXRVd89cEMkPnTJ4l2+MW2RJ5PSpEt7VOEd93yIaTjyDEtEyPjQ4ebwU0X5qSRd7vVnMh+TwQk67EQB/ccud3s9CyflbTl3yKK1bdw1z+g2B7eV6sxb6MD436fxLgzMOqwYdOaVp7cKdatlxWoUf37UWkGMTPTThSK3MCjnRAiHVLMiRqSixcMR6o=;0KGtbsTQBvRiSCfhL134Qw=="
 ---

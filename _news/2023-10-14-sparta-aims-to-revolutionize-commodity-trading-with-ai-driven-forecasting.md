@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Danish startup secures $2.4M seed to revolutionize sustainable procurement with AI-driven platform"
-    excerpt: "Copenhagen-based startup Responsibly has secured $2.4 million in a seed funding, with leading investments from Hambro Perks and Pi Labs, as well as support"
-    publishedDateTime: 2023-10-09T06:47:00Z
-    webUrl: "https://arcticstartup.com/responsibly-raises-2-4m-seed/"
-    type: article
-    provider:
-      name: ArcticStartup
-      domain: arcticstartup.com
-    quality: 23
-    images:
-      - url: "https://arcticstartup.com/wp-content/uploads/2023/10/responsibly-raises-2-4m-seed.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Shaking Up Predictions: Deep Learning Revolutionizes Earthquake Forecasts"
     excerpt: "Researchers have developed a deep learning model, RECAST, that outperforms traditional methods in predicting earthquake aftershocks, especially with larger datasets. This advancement promises improved earthquake forecasting using comprehensive global data."
     publishedDateTime: 2023-10-09T16:23:00Z
