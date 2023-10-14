@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artifi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Medical Xpress
@@ -24,22 +24,6 @@ images:
     width: 2030
     height: 1259
     isCached: true
-
-related:
-  - title: "New AI Language Model for Finding Age-Related Disease Targets"
-    excerpt: "A brand-new study named “Biomedical generative pre-trained based transformer language model for age-related disease target discovery” was published in the journal Aging (listed by MEDLINE/PubMed as “Aging (Albany NY)” and “Aging-US” by Web of Science)."
-    publishedDateTime: 2023-10-09T12:05:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14359"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14359_16968488295792769.jpg"
-        width: 639
-        height: 444
-        isCached: true
 
 secured: "iN7ORxtvvHUC7yvw717ifdaWA6bI30j8ZozBDcKGxsgWQqxUiTSnJDIjXAxYZxb8IJ36gkVaXLqec1Tg72NDJXolRjgNjT5+o3wu227Dio26Y+trJ/sZjWPs5kDHPsfAghBOuH4rgFnV+ds5dhOTdwv/C9Jv48Ih4oBabF3C60n0+p8fDLioe77u8MT9pxQ41SgRAsvJAs0ccElcOAJCFFngPdYO95KnmEq2gahEYxofRvUDx43tE0fLbZk7QjwX0Z2C1yzz6vaTWyuCrQra5ya1S+HffNN25id3WAKQCyFOAMzjQXJvGSO8Y477BjdNiCUX3uR/fJP86pGfHCEUDDyTmmpKlzVhVvehCGVfxFcU/Asdlft7rJTpaj4jtwkwZhlf7Bn0vPHlBqUl61y/Su43U8JLMmGn+lbgVHKADe2OQZLAXny2OLG0GuFPufzpog/Q0WDj7vV4j0pkcg3x2JTGoexbm2zaOTL+mP25wYni+LNK4BLrHwuOvhxN2MBlOjIGu6cIE6bHIcnGe/jW5g==;axPFeU0G+Fumu+bFHxF6eg=="
 ---

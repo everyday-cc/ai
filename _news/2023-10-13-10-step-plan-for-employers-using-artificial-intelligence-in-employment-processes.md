@@ -56,15 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How US AI Regulations Ensure Its Ethical and Safe Deployment"
-    excerpt: "In the age of rapid technological advancements, artificial intelligence (AI) is one of the most transformative forces shaping our world. From smart homes and self-driving cars to advanced medical diagnostics and predictive analytics,"
-    publishedDateTime: 2023-10-09T12:35:00Z
-    webUrl: "https://www.cryptopolitan.com/us-ai-regulations-ensure-its-safe-deployment/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 34
 
 secured: "LH+Hvv7EqiKYGIvtyJ7svdQxneJVHmT3O8QMK5LL2ipnynhhIshyQX0kPdf4WoYzhASC4pRJQA2Cm7LdxemoD2vVeGTs5oXtAStf6fS+SW+Ge+r9SujYZmtJYm5+CjzeD6aZwMtknteO3oSKGylChKlTBLfug+n8hrU+3Eylw+EVUbo7vHvy//3g1WIENIgauJR2210evtVYlOVMdMoPLIs89xGEQnWEc5BrlxUrA9a/cNCplPI+uPs5NgQJ6AOdVjZSr2Ke21k2rBqh+I2iCTLi1HiOzPzqKor6zQTbnEivFqgHkXRmE/Kuhw1nTzdvrFB0t/AZHJaQeCfrVTeZW4jeNUWOFxpdLrwB08KwsZ4=;X30JNM2Z8CIAXNeRaRUMuA=="
 ---

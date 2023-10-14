@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Putting citizens at the center of government services with AI"
-    excerpt: "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-09T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "These 7 Stocks Are Leading the AI Pack"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
     publishedDateTime: 2023-10-11T10:01:00Z

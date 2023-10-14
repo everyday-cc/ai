@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Even Indigenous support for Voice may be failing"
+    excerpt: "The No vote is ahead in the five federal electorates with the largest Indigenous populations as a proportion of voters, new polling says."
+    publishedDateTime: 2023-10-10T05:07:00Z
+    webUrl: "https://www.afr.com/politics/federal/even-indigenous-support-for-the-voice-may-be-failing-20231009-p5eark"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3485%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1016%2C$y_306/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/bf34c27eda750c6fd32186abd922cfae7ace0831"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Months old Yes poll sparks claims Indigenous Voice support claim is outdated"
     excerpt: "Outdated polling showing overwhelming Indigenous support for the Voice has sparked a late-stage brawl over ... by Dean Parkin from Australians for Indigenous Constitutional Recognition. A Yes23 spokesperson said the 80 per cent figure was based on multiple ..."
     publishedDateTime: 2023-10-14T01:11:00Z

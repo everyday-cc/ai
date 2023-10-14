@@ -181,15 +181,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Microsoft plans to launch an AI chip similar to the Nvidia GPU"
-    excerpt: "Microsoft may present its first artificial intelligence chip that will reduce costs. Find out what Microsoft is planning."
-    publishedDateTime: 2023-10-09T11:45:00Z
-    webUrl: "https://www.thehansindia.com/tech/microsoft-plans-to-launch-an-ai-chip-similar-to-the-nvidia-gpu-828650"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 66
   - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
     excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
     publishedDateTime: 2023-10-11T16:29:00Z
@@ -274,15 +265,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The chip ‘war’: Microsoft may launch its own AI processor next month"
-    excerpt: "Microsoft is reportedly planning to unveil its first AI chip, codenamed \"Athena,\" at its annual developers' conference. The chip is designed to proces"
-    publishedDateTime: 2023-10-09T12:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-chip-war-microsoft-may-launch-its-own-ai-processor-next-month/articleshow/104288664.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 51
   - title: "Microsoft to launch its new AI chip 'Athena' next month"
     excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference."
     publishedDateTime: 2023-10-10T12:33:00Z

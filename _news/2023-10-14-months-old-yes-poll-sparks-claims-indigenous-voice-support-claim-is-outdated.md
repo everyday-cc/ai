@@ -37,6 +37,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Even Indigenous support for Voice may be failing"
+    excerpt: "The No vote is ahead in the five federal electorates with the largest Indigenous populations as a proportion of voters, new polling says."
+    publishedDateTime: 2023-10-10T05:07:00Z
+    webUrl: "https://www.afr.com/politics/federal/even-indigenous-support-for-the-voice-may-be-failing-20231009-p5eark"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3485%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1016%2C$y_306/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_analysis_no_age_social_wm/bf34c27eda750c6fd32186abd922cfae7ace0831"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "4RV5njwM9HpqaF9KrWE/RPZ6vY+P/EkZ/YM5g3qECCrXPAvDYhCnjgePnLFkEatQEnQHFnWaAQYTmUsvnZmSVyGUGQuSZTKigCK7+MMUfqLlKtWsvYWxtSIf379zDOpIq+ZCV1XzxW+y6DQCOT3npFRdtch4jAWLrneTBGzZokWDT8ETgq9WTVL5TgCy8M3eGL6Xj6rATwieeThPthYuG0JKhc2F/UOzJpoFm64QafUBrdHz/ctJ/XiO7ezlL1xuAd7wyt34Ax/kRBiUVewzLFwV2udCK3yjBXxgIaV71+wme3RWbhNTDQOc9+LG2vW9Lq+KQWmqmwVdKw78hW1qcITF+PXadHBNpLB15raaN+EUA2R4R2PXt60zvPTd04dt75jJiYgS2OgLSeUxcfBBNAC6PBHI8dXJekv3hsJleAJVxphx5Ag1Y3r6LEY+ZTyEw7tT1zKFCpt1G/fLLBn/t9WoP76jCuAmWEqwYEmgrT32RsqtWEfg2Vhzonj7aRCzPkNKavsrZL7iCcjstcPVeQ==;6bgFFV79q3ujRDhnFYiq2A=="
 ---

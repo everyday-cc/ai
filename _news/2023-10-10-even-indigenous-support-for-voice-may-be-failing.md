@@ -25,31 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Why we’re backing yes: organisations from law to health to education on their support for the voice"
-    excerpt: "Addressing the disempowerment of Indigenous people and improving critical outcomes are among the reasons cited for a positive vote in referendum"
-    publishedDateTime: 2023-10-09T13:00:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/oct/09/indigenous-voice-to-parliament-referendum-yes-vote-yes-campaign-companies"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/09/indigenous-voice-to-parliament-referendum-yes-vote-yes-campaign-companies"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/09/indigenous-voice-to-parliament-referendum-yes-vote-yes-campaign-companies"
+  - title: "Confusion, distrust impact Indigenous Voice vote"
+    excerpt: "She is however a supporter of constitutional recognition – “but not this way, which includes Voice”. No one from the official Yes campaign wished to comment on this week’s polling figures – perhaps understandable given the desire to keep a ..."
+    publishedDateTime: 2023-10-13T23:08:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 47
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 44
     images:
-      - url: "https://i.guim.co.uk/img/media/3e00dd05d2996e9c0eb2dcf7d312aa4c3b5a148f/0_255_5076_3046/master/5076.jpg?width=620&quality=85&auto=format&fit=max&s=0021b524175be3965b742894cb02653e"
-        width: 620
-        height: 372
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
         isCached: true
-  - title: "The Voice: through the disinformation to the source of opposition"
-    excerpt: "Australians will vote on a seemingly inoffensive change to their Constitution. Why is it meeting such opposition?"
-    publishedDateTime: 2023-10-10T17:54:00Z
-    webUrl: "https://johnmenadue.com/the-voice-through-the-disinformation-to-the-source-of-opposition/"
+  - title: "Months old Yes poll sparks claims Indigenous Voice support claim is outdated"
+    excerpt: "Outdated polling showing overwhelming Indigenous support for the Voice has sparked a late-stage brawl over ... by Dean Parkin from Australians for Indigenous Constitutional Recognition. A Yes23 spokesperson said the 80 per cent figure was based on multiple ..."
+    publishedDateTime: 2023-10-14T01:11:00Z
+    webUrl: "https://www.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
+    ampWebUrl: "https://amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
     type: article
     provider:
-      name: johnmenadue.com
-      domain: johnmenadue.com
-    quality: 4
+      name: The Age
+      domain: theage.com.au
+    quality: 36
 
 secured: "VWLFGGKq+OsvUchFZ2lj+MpAVkMDxv8dPwubTYm9XQ4YwmBo3MynB8t4Mf1d76AczGEQ7ZVCK7tagtZqvTWA13kIMC2ty3eYWXPzNmsdpCrCt/3+/ClQw1c/JkuNxQ+Z4EMdsyYplmyRWw/VHfhPFN2Bz1f6V5DewBRgPoqpqyoadwV0pNr+dv18iAvATmlmp6dfgWOucY6V02ILHHhQ7rLOBXdiUsuFcy4/YCmFCrAubMkqhOI+az3EIUxT8yr4I9rX+crD9JmL/kTGWM5MSNJaog6jZmjahJ8xdfOIruQHw4Rr8bWmaHYngzHihX29e9GlMo8tpmI5tTNhtmurtb+mW1KNGvBbm0D/h6JZyQ3MnjdANFDXjxF98uJ9RIj7wuELLPMJtKktckCg4iuJVivrK5pjn1ME3H+Ti4SiZfzL+fIwVMJwD+8WWmofay+9oK42zTMmXJLlL9AB8PT9IyPEGDYmmESydS3+dMCuYVaq+WDPz8sAwYm10mgnjzYiKBJMjYGwJ6kBeDYv4aMRZQ==;CCedsI/Y9OtXvA62u5BF4g=="
 ---

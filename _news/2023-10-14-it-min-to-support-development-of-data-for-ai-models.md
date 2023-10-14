@@ -8,7 +8,7 @@ webUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-da
 ampWebUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/Union-minister-Rajeev-Chandrasekhar-highlighted-th_1684875176547_1697217740301.jpg"
@@ -42,6 +43,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "7 working groups submit final IndiaAI report on AI development"
+    excerpt: "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no"
+    publishedDateTime: 2023-10-14T05:25:00Z
+    webUrl: "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?"
+        width: 800
+        height: 450
         isCached: true
   - title: "Will Artificial Intelligence Lead to a New Era of Game Development?"
     excerpt: "AI is also going to affect bots in competitive games. Machine learning can allow AI bots to better mimic human players and perhaps even find new skill ceilings. Generative AI will also change how non-playable characters (NPCs) behave in story games. NPCs can take on personalities and become interactive, instead of just having predetermined lines."
@@ -83,6 +100,6 @@ related:
       domain: siliconangle.com
     quality: 17
 
-secured: "T6C5xI8PD6ZqKtSR+VTBBXzXuvkWKrU4pYGJSTe5+G77bCLA04aNy4rsu+7Pfc8az+i8c/67VgTYlRgY3411U0WBduK0qIFIJNY7mcTVP0xhKLsARqAlZz+cXx6V/unnGnXadIArt42UMG4f6rDLblFmXdE/oBJAs39HGB5Y5pTgGdGKSKQmeDBvuDWoMlsOmUXKK7SRWB5AP5VvdAiaPikLdzcYacq/gu7oXyKNuApToOAJS+UDMe7GDp29zABKHcHuzPTsIfeMQ0wCXJX+vcz05R4uEAaX5e5XvgHviLncmWx1fO1tHpy7tSh1g/EkhnoYJn38VUs7teKfL/VCwlYlFIwsnnJNu+SSeoxe81w=;eYlgZpLz7d/+FjLssKld9A=="
+secured: "bRkD7UPwCvn8+PCvuJVqu2IQ7dHYoFlREFGwueAP1iGaHCim2k4Nwn3hQcV12ItHuRaaTd7GpmQtPMR1SUttqvPPoE/vHtt2lMf0OuOU8pyrtVi2OF8jYcnTR5MCRvKF/bYeJpxLzfo7zGkFzfaJkWG0VSET6Yuhvzkpb7VXXF2USvj26PrFWqjJC8WfJP6++9mjuwqhTDZ5qpklYxTuxVM8bHk65bcl6Kw09xBSlAo1IPQXNLiqmekM/a4xEzg9mg+83mExYbdpZJfngG2BX94U9t/fPZURfvjn/5oq4AxAn7pzCWviAqRsSM/XTx392HD/JdVUVjY5HSZE6sUoQPPPTHyK7ZUVVRnKlT9BIGSlXtf3EP1JP3HwwevbxGTnxZKtQnmOW6YqzMRNszDs4RcwHwIMJaZd5rfIG+kvaaX64uH/swGvXZ4UqAelpzlZ86T2ouYn1edPYkfwcxlKWuiDfs4gO6OAET/d/ynfx8MXcrf5zt5hM70uzcVes5UyjnqlvgMer1STqgHeSz0o3Q==;EjLnaO/Nsr8ZdxM6yIV53A=="
 ---
 

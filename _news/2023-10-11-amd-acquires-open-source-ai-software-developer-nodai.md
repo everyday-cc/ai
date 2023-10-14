@@ -44,11 +44,27 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/Union-minister-Rajeev-Chandrasekhar-highlighted-th_1684875176547_1697217740301.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "7 working groups submit final IndiaAI report on AI development"
+    excerpt: "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no"
+    publishedDateTime: 2023-10-14T05:25:00Z
+    webUrl: "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?"
+        width: 800
+        height: 450
         isCached: true
   - title: "Will Artificial Intelligence Lead to a New Era of Game Development?"
     excerpt: "AI is also going to affect bots in competitive games. Machine learning can allow AI bots to better mimic human players and perhaps even find new skill ceilings. Generative AI will also change how non-playable characters (NPCs) behave in story games. NPCs can take on personalities and become interactive, instead of just having predetermined lines."

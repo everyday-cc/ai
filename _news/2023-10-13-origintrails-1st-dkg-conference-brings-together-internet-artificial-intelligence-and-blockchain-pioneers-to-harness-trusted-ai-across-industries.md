@@ -230,15 +230,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 8
-  - title: "Top 28 Upcoming Fintech Events Taking Place in Europe in Q4 2023"
-    excerpt: "A look at the top upcoming fintech events taking place in Europe in the coming months. For this list, we’ve focused on large-scale gatherings scheduled for Q4 2023."
-    publishedDateTime: 2023-10-09T11:54:00Z
-    webUrl: "https://fintechnews.ch/events/top-28-upcoming-fintech-events-taking-place-in-europe-in-q4-2023/63850/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 4
   - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
     excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
     publishedDateTime: 2023-10-11T11:26:00Z

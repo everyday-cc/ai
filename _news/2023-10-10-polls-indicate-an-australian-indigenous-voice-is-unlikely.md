@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
+    publishedDateTime: 2023-10-14T05:02:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
     publishedDateTime: 2023-10-10T00:36:00Z
@@ -185,6 +201,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
+    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
+    publishedDateTime: 2023-10-13T12:25:00Z
+    webUrl: "https://www.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html?post=p55b5o"
+    ampWebUrl: "https://amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    type: article
+    provider:
+      name: The Age
+      domain: theage.com.au
+    quality: 16
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
     excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
     publishedDateTime: 2023-10-12T03:38:00Z
@@ -199,15 +231,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
-    excerpt: "It’s an historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
-    publishedDateTime: 2023-10-13T08:21:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 0
 
 secured: "59rQHt7x24H5oNQHLtEdUpIw2KN7uVoRfphVRB5H6930UsPrBOwDaviw6y7KwqZVdJMxfB6tf656Fdc4XcMl/7IX4/DSaXSrYMW+bOZ2/5EYFiDOSCA1gRlrpEW38hTlmid/6EJeZKeFqTkg9U1iAbDjy+9XnmqZ7GpMfCKsUsp6+YVEK/+gZIctb/F4u5W6E16/D+FgBIOJOrTQ4QGIWzWI4vAtOQvrBu/gk5ye9vqn6geXAUGfTCuXyk5A5mOS8HIRjnMjOkLB06Ub6U6VvSER/orugfvvAws3mh10u/ikSGkS9oWbiuHQfx03dUOjrv2ms76MLiY2n0CUQLP54el6i94vngd1PDlZHLmx2RCkKHNAishvSF7rZep1Nss6ro6cBSUXyQUIRzmSDn1U8CwiiAZ93K8xOYbIrUPA+h/bcROGxsPZr/bpkoAfqVykw56Z/KwOgCyxQTzsw5XLpVE66aUTnPDYxUDjaxNcRi0y1hJB/dcNVt+bxGYOvm8a+YNCByfSzhetEuz/RBt3MQ==;ze9VjlZe+2q2X0b6vL8hhA=="
 ---

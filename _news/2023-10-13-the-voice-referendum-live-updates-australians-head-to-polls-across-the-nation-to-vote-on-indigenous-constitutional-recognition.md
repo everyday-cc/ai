@@ -1,22 +1,30 @@
 ---
 category: news
 title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
-excerpt: "It’s an historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
-publishedDateTime: 2023-10-13T08:21:00Z
-originalUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
+publishedDateTime: 2023-10-13T12:25:00Z
+originalUrl: "https://www.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html?post=p55b5o"
+webUrl: "https://www.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html?post=p55b5o"
+ampWebUrl: "https://amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Sydney Morning Herald
-  domain: smh.com.au
+  name: The Age
+  domain: theage.com.au
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
@@ -108,6 +116,22 @@ related:
       - url: "https://www.irishtimes.com/resizer/hkA1d7j3ULvWSefZrs9af4PZG0E=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6PONLCKATY74BLPJUE4QA6IFHA.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
+    publishedDateTime: 2023-10-14T05:02:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
@@ -209,6 +233,6 @@ related:
         height: 900
         isCached: true
 
-secured: "HJOjmgHrAaTib+C2dJml7XhsU3my3Q2D4RCgYzNwaCdxoOEcTY/OoGM7oYfVPmU/t4lLIObscOyAvAWTRHK1n9D8b3zEVZO54TrQj5VtqrqS+zIvmgrSJH9RtwQtPHclc6XpH5QxyFgNEkzTC2KkQLNVTjBzVpItlDcJzkYgHoUHG8GdVoGkfS+MtQxEbuQeICzqlRa+K32S12rVL2ZZ8mw+DVqtoWvd4DYp4shl4n8bwHougvqOtDHLaqsulNW+Z+e/qznoY3U2mTkw1Bf2sPsT/oydy49cFDOW9snrb2tdrdzoxLG1RrcVWHWAWJbu2zbiD24IyzVzNq++seDvl+ouVvi/d1QpnFEryHgdnDKWtjwns6HBj2Nu5m64Ft7lHnU7ufbiLtL+Coc9y5yTv1hkDRExuXfUddzdw13owlSrDAlsIMJhMEbHbUH81IyRhDFl7EPo/bVNW8bQq/o1Luo7JH0IBxl75b604WXZpA8XKSj8xNKjiEe3nfqDOmnS5/AEDF1iahgkGykYesmswg==;UmIDt5kIROLtUxahFTe+uA=="
+secured: "T1WLmEQ0zpH2yrLRbfPhyBxNZQjmuYSNeN2eEVlj2yNVALjJD5NaTC4AiDR7tkIhbkMOLFSsyBVvgZ4mfPYBR5Uocs+ach54gQbxLidF7zW/AK10lh1Zfdf4SNVuGceOG7lzmw+4K8WcrJoAS+wYiD5YYzimMFa5mBdJVrhvutTCbDquRcO00djKMtbOhT2XQvd4eVQjuwg+SCgBgojfS2zGAjtsX1aXoTAhErYuvWi0FOpQpODa1Pum1NqOkoI0W9Mj1MY4ZjJDLJAUQeW6Xf7v5cVwmq6VjSufgG3mdCOt24sNuPyVUt4XqCDP4v5Hj37MAUm0nncPPIATOCNmwy8sU9Dj+iDXcCxgxUCdQjU=;Rhr/gTQiQrfyWId+yKSkxQ=="
 ---
 

@@ -121,6 +121,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
+    publishedDateTime: 2023-10-14T05:02:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 35
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
     excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
     publishedDateTime: 2023-10-10T06:26:00Z
@@ -190,6 +206,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
+    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
+    publishedDateTime: 2023-10-13T12:25:00Z
+    webUrl: "https://www.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html?post=p55b5o"
+    ampWebUrl: "https://amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    type: article
+    provider:
+      name: The Age
+      domain: theage.com.au
+    quality: 16
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
     excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
     publishedDateTime: 2023-10-12T03:38:00Z
@@ -204,15 +236,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
-    excerpt: "It’s an historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
-    publishedDateTime: 2023-10-13T08:21:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 0
 
 secured: "ot+QDjFzKMooAObXFJuki8jK+R56mXi0OYa42eoHglVNLG/otBI9RyBt6sDktfVeJJ1J4VyR81PlHC1LznGSYaU73A6Ghcgo2E62WnT/xH1FokKo3Qc1dXfLCM9YbSfukiODrd7IW1m8wXIvzPcpxN4A2Bs246F2PFSyuvpn+CV/0XlhI8XV6ibhwAt5X9EMOowOVGJyfRCJ5RIEs8gtNi/fAOwM2mZlChNsu+ccDNdQnO6JJmemGYW3ib8BfkNxwPRHuhqRGaieVrTnyylYhwenmFNz65C3xq8RIukiz0RqYiJ1nP1zgb3sxGQyLuDvETOLggydHbvIds0CsboSg3pZs17ipMGnygYWb9agsd2kM6XxYEaasKTxyuQMhVA6hx2rtua/gyfOk0GxLWMf5uzHZOkEy5vdzA0igaBbKXJdFMCdPgwb8rNP2zhaRdWaSl/QC3wLGWUbmij/NzaTWMWCj0y9ErsYDO675Ug9mK0vV2RZ4wsqP0t4stoappQ3VXrktds5r5EDfaHQ39n/OA==;/0cSCfVPrkPX4QUrCxPlVQ=="
 ---

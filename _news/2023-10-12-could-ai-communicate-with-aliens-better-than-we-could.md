@@ -34,6 +34,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Weather prediction with AI, deep learning could be game-changer in North East"
+    excerpt: "Be it the flood in Assam in 2022 or the flash flood in Sikkim this year, extreme events are causing immense devastation."
+    publishedDateTime: 2023-10-14T04:16:00Z
+    webUrl: "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.html"
+    ampWebUrl: "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 71
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/24/w600X390/Climatic_Disaster_Photos_2020_AP.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "How AI could supercharge battery research"
     excerpt: "Aionics is working to use AI tools to help researchers find better battery chemistries faster. The company is primarily focusing on electrolyte, the material that shuttles charge around in batteries. “This is a huge opportunity for us to accelerate this whole industry,” Sendek says."
     publishedDateTime: 2023-10-12T10:00:00Z

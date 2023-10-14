@@ -101,15 +101,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How BharatPe is Harnessing Generative AI for the Future of Finance"
-    excerpt: "BharatPe’s AI and analytics team, comprising 30 professionals, including 10 specialised in AI and ML, is pivotal in the organisation, contributing significantly to innovation and data-driven decision-making, involving close cooperation with data engineers, scientists, and domain experts, ensuring technical excellence aligns with business goals."
-    publishedDateTime: 2023-10-09T12:15:00Z
-    webUrl: "https://analyticsindiamag.com/how-bharatpe-is-harnessing-generative-ai-for-the-future-of-finance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
   - title: "The Future of Investing: Artificial Intelligence in Stock Trading"
     excerpt: "In the fast-paced world of finance, staying ahead of the game is crucial. With advancements in technology, the landscape of stock trading has undergone a significant transformation. One of the most groundbreaking developments in recent years has been the integration of artificial intelligence (AI) into stock trading practices."
     publishedDateTime: 2023-10-12T17:53:00Z

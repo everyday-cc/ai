@@ -61,15 +61,6 @@ related:
         width: 500
         height: 270
         isCached: true
-  - title: "IIFL Fintech Fund announces maiden exit, secures 80% return"
-    excerpt: "The fund, backed by group companies IIFL Finance and IIFL Securities, has a corpus of Rs 210 crore invested in a portfolio of 13 companies including Bengaluru-based stock analytics platform Trendlyne,"
-    publishedDateTime: 2023-10-09T12:51:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/iifl-fintech-fund-announces-maiden-exit-secures-80-return/articleshow/104288728.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
 
 secured: "BOFOguLIkg2N+EVe9JVcSTAK04f7oVEeIvLkYQj5EIVNymzBXQclIaBZvCNP3cm/9MGllNN9PMc78KLh2WbBELpio4pbGIh2mZtoRWlukhDNi1wHQW9Ei785zJcfd2C5L2r0XE8lYylHUU9WhiLcxkXTpsbGU535fR577KU1/zRUoBnksrJA1Hh2uL/x6SuPiZipueTvCy+jp7NPlQ9umNTKRklVT8LBHXDUFf4XmCPsZoJ2YxS0tJ5sHHGxcoKlx5hLO9RhCZ1NUba+FhlWkXQwWg4kyo71jN/BnFbAucSSFs9Ku9c40VIeP9LKl2/IbJlZX8Xf+/B1LXfChMYXnTx98fvi3ZShqyW4qPpONVr0Q9lZaAAXaXSqslZ/zxEzOoPqOb3c6CIVD6bcgItD+bp6/AjGqNKXHFYeRAdMu6Fi7lzFja9sfAfAriepsInG8jJ71fJrFw/YS8JbT8NRlGBWgqGEp/35jNrtDeqUtLBy3F2+gkvcPLo0M05BfvetYH4yPOJHnAjeWdLjAOKcKQ==;D01yOewUhiFyIK+5N/bBsg=="
 ---

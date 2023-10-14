@@ -53,15 +53,6 @@ related:
         width: 500
         height: 270
         isCached: true
-  - title: "IIFL Fintech Fund announces maiden exit, secures 80% return"
-    excerpt: "The fund, backed by group companies IIFL Finance and IIFL Securities, has a corpus of Rs 210 crore invested in a portfolio of 13 companies including Bengaluru-based stock analytics platform Trendlyne,"
-    publishedDateTime: 2023-10-09T12:51:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/iifl-fintech-fund-announces-maiden-exit-secures-80-return/articleshow/104288728.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
   - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
     excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
     publishedDateTime: 2023-10-13T03:25:00Z

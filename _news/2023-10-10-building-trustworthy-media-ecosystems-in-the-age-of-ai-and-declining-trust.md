@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Putting citizens at the center of government services with AI"
-    excerpt: "AI can create greater efficiencies in how agencies communicate internally and with people who rely on public services.\nThe post Putting citizens at the center of government services with AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-09T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/putting-citizens-at-the-center-of-government-services-with-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "Ethics in the age of AI"
     excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
     publishedDateTime: 2023-10-12T06:29:00Z

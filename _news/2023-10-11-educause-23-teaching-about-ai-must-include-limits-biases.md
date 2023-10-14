@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-abo
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Echo360 Unveils Artificial Intelligence Innovation at Educause 2023"
-    excerpt: "Echo.ai Assist enhances recently launched EchoPoll with A.I. technology that saves time for instructors and increases engagement for learners worldwide. NEW YORK, /PRNewswire/ -- Echo360, the leading"
-    publishedDateTime: 2023-10-09T12:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35144426/echo360-unveils-artificial-intelligence-innovation-at-educause-2023"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35144426"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35144426"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "EDUCAUSE 2023: How One University Moved Research Computing to the Cloud"
     excerpt: "Azure HPC Pack and Azure Machine Learning. Shah and Chow monitor faculty usage of the system and determine how to manage costs accordingly. Quarterly faculty check-ins help them determine who is using the resources and whether they can be recycled for ..."
     publishedDateTime: 2023-10-11T19:56:00Z

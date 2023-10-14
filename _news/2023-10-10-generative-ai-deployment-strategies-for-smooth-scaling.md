@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-de
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How US AI Regulations Ensure Its Ethical and Safe Deployment"
-    excerpt: "In the age of rapid technological advancements, artificial intelligence (AI) is one of the most transformative forces shaping our world. From smart homes and self-driving cars to advanced medical diagnostics and predictive analytics,"
-    publishedDateTime: 2023-10-09T12:35:00Z
-    webUrl: "https://www.cryptopolitan.com/us-ai-regulations-ensure-its-safe-deployment/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 34
   - title: "10-Step Plan for Employers Using Artificial Intelligence in Employment Processes"
     excerpt: "Artificial intelligence has transformed the way we live, work and even think. While AI offers seemingly endless potential benefits in the workplace – including improvements in efficiency, cost cutting and innovation – employers must balance those ..."
     publishedDateTime: 2023-10-12T17:56:00Z
