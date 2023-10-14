@@ -42,18 +42,20 @@ related:
         height: 720
         isCached: true
   - title: "AI working groups recommend setting up 24,500 GPUs of compute infra"
-    excerpt: "Microsoft provided Open AI LP with a USD 1-billion investment in 2019 and a USD 10-billion investment in 2023."
-    publishedDateTime: 2023-10-13T17:22:00Z
-    webUrl: "https://telanganatoday.com/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra"
+    excerpt: "Working groups formed by the government on artificial intelligence on Friday recommended setting up a three-tier compute infrastructure comprising 24,500 graphics processing units."
+    publishedDateTime: 2023-10-14T14:32:00Z
+    webUrl: "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece"
+    ampWebUrl: "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 54
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/09/Artificial-Intelligence-1.jpg"
-        width: 1280
-        height: 750
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Government Working Groups Recommend Setting Up Three-Tier Compute Infrastructure for Artificial Intelligence"
     excerpt: "The working groups have recommended setting up a three-tier compute infrastructure comprising 24,500 graphics processing units. This will provide a 15 times increase in capacity over the highest capacity installed at present."

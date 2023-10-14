@@ -53,20 +53,6 @@ related:
         width: 881
         height: 630
         isCached: true
-  - title: "Mistral 7B foundation models from Mistral AI are now available in Amazon SageMaker JumpStart"
-    excerpt: "Today, we are excited to announce that the Mistral 7B foundation models, developed by Mistral AI, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. With 7 billion parameters, Mistral 7B can be easily customized and quickly deployed. You can"
-    publishedDateTime: 2023-10-09T21:37:48Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/mistral-7b-foundation-models-from-mistral-ai-are-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 93
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/mistral-7b-sagemaker-jumpstart.jpg"
-        width: 894
-        height: 448
-        isCached: true
   - title: "Improve performance of Falcon models with Amazon SageMaker"
     excerpt: "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements"
     publishedDateTime: 2023-10-11T16:28:05Z

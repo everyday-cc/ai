@@ -110,6 +110,15 @@ related:
       name: Medindia
       domain: medindia.net
     quality: 34
+  - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
+    excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
+    publishedDateTime: 2023-10-14T13:06:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 28
 
 secured: "7p03LakKGY5crIhJWhPcA1DLf6itSjvZ5MwcvZ5gv7WMVePPslH4qr8hkF6IdDRWXcUs+5XfF5VEtsBzT+OWTIhL6KDBkzsIVIO2bYqt1eckxUYrhTiuFCXFC8xpjFr8ZeTStmTAnaqKMmfnPnN46MfzCq98ygSKCoF9Gy46PbrA9Kf8qsI1tImEmKVz3f5VBTGfKzSQezBaDgIWXEhj6KWUX7/Ct5TtqS94dh3A5nz63Vny+7gyOd8LhKRolEDp28HOof7vXYoybakrvX7HVDImFzXmpPBMmvxq9HTLLv/XQxiLl3Eth1L8i/QuIgMkH1/NnsaIUe9VhYFgM0ud7B3NlTZUJEiPsDAgrCEuSzw=;QkiEMbbCjEljXgIwpPfLDA=="
 ---

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AI working groups recommend setting up 24,500 GPUs of compute infra"
-excerpt: "Microsoft provided Open AI LP with a USD 1-billion investment in 2019 and a USD 10-billion investment in 2023."
-publishedDateTime: 2023-10-13T17:22:00Z
-originalUrl: "https://telanganatoday.com/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra"
-webUrl: "https://telanganatoday.com/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra"
+excerpt: "Working groups formed by the government on artificial intelligence on Friday recommended setting up a three-tier compute infrastructure comprising 24,500 graphics processing units."
+publishedDateTime: 2023-10-14T14:32:00Z
+originalUrl: "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece"
+webUrl: "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece"
+ampWebUrl: "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Telangana Today
-  domain: telanganatoday.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/09/Artificial-Intelligence-1.jpg"
-    width: 1280
-    height: 750
+  - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+    width: 1200
+    height: 1200
     isCached: true
 
 related:
@@ -81,6 +83,6 @@ related:
       domain: finbold.com
     quality: 33
 
-secured: "y6w6wxGtK+fhEzY3CB1gUaP/S5MBLHDePd+WD7tZ00S7fWFs4mwDaJJ/0th2m246Q5dyieZ26+01eVIa/JjgPjjCm/bLxAqz1yCEkUMdxWYBnls06m6++aBGq39CMxnV1c3f1F0pRRxjzIexw4OZP4M1uJWwVbmbPCUdxS9d2D7vGbJbobhYW2udIGyNBECONZwcnaoNnCNQ6jhQ23Ejzfp1bC6o8Sw+CAsbVW0wbemPg2quZY41ikoo5NK2zxmGe9j1mM43TZH2VIKoaURMVjVwuDv8PvlsJ+TRecYmNrJZvNJQnN0tG0Am5AqO5qAJMPSwEY7OpqQFf+0c4NFnGSZ2rbVXE/vrLcVQisnDWI0=;Ry2zxRklfhSTrpAeAx6ZSA=="
+secured: "aApkF94pWJencP8yoCc/kF0rbhUAExlHO6zjsQhV7C+Y3dlEEoqTYOzOm6Fc8ZdiTOsfbvINztjTpSIiJRSV7LI764oTkzdDhqkgPBndxasNq104AO90DTRGBBkWsMBaN3TvpjIaz9GpqzGwPOspE3zAH5XmfTFcl1f3vSJDFH50sw6dNmpKcCUZjpraHJSBB0MGqKhaTzGOUX6RpF3pThK5/oOuZ4ae009P8B9WMLYVVpFp5D6vg3Sfoh0Vdd4K+ng2sX8GRpm/iadpvPEWWaBglvpF9f89zYmnQZRJuu+eb1Cyfhc+Xwmk3GoB5FbK0Q9Wdxe9SOYPtmQFl0ydqY1aya5JmOPVUHEg5u7aJjY=;ITXYkao6otVYxXpmCeadaQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-f
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/13/ripcord-the-steve-wozniak-backed-file-scanning-startup-is-raising-new-cash/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

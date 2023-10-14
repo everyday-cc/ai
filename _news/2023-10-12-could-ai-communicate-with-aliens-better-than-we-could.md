@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-11T19:00:00Z
 originalUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
 webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI Could Be Apple’s Next Chapter"

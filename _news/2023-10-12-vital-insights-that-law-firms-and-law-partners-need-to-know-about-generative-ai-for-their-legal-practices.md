@@ -85,15 +85,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
-  - title: "Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
-    excerpt: "Open-source licenses, already stretched thin by software-as-a-service and the cloud, are an even worse fit for AI's large language models. What's an open source leader to do?"
-    publishedDateTime: 2023-10-09T19:46:00Z
-    webUrl: "https://www.zdnet.com/article/open-source-isnt-ready-for-generative-ai-how-stakeholders-are-changing-this-light-bulb-together/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 34
 
 secured: "P0xzlG/hHep0tn2doTbdv7/8u26E4lMAn9EV1XOJTJMOtcHxKXCXsazopHCCxixdKiEgTrktssDTAgVbatENkbmYYaognSqRL2GbesFM3ZLEfc7gjr/1zwt2EaUGNOGI2hwkPHp1Be5L08bLve93dcBXsvmOrlOJjuBhnh9EPB4xLYvj/OhtVTCZsGt+IDjJKmXKZPlA4F71Iq7EymJ5uAJvEigwG40Fpro6xPwFmslQxpa/hkIg0JmVkFw3waeoqIpargUIiuCNKuqtdEaSiya3OtOcKp+AxSlLRZMqOa1S+HMR0Kb4p42iHh8TPh63TuFuhjr6QFJTVIsUfXN3sVex3DXuqkGBmRU0UYzrJrM=;gvfi0f2tDKfPo/85NULEQA=="
 ---

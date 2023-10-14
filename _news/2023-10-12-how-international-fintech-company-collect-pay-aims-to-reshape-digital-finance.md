@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Forefront Finance: Revolutionizing Banking With AI and Blockchain Integration, Secures $160 Million Seed Investment From Cyberdyne and Stabila"
-    excerpt: "Forefront Finance, the pioneering neobank at the forefront of innovation, is proud to announce a game-changing development in the world of digital banking. Through strategic integration of Artificial"
-    publishedDateTime: 2023-10-09T22:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35152596/forefront-finance-revolutionizing-banking-with-ai-and-blockchain-integration-secures-160-million-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35152596"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35152596"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
     excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
     publishedDateTime: 2023-10-13T20:51:00Z

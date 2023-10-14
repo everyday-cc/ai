@@ -131,22 +131,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-    publishedDateTime: 2023-10-14T05:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 35
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
     publishedDateTime: 2023-10-10T00:36:00Z
@@ -264,6 +248,33 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T11:27:00Z
+    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+  - title: "The Voice: Australians vote No in historic referendum"
+    excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
+    publishedDateTime: 2023-10-14T13:13:00Z
+    webUrl: "https://www.aol.com/news/voice-australians-vote-no-historic-125700729.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
+    publishedDateTime: 2023-10-14T09:50:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "f6bT1VU+lS9on8SEn8MaarfdFfHgxAIkJZbuHcTBg0wX/RDcSePQZjFChd77ajlrp9v6pTNMJhFQjmaN0UEGRpfpIzopw2BHZKdLSE1oRwgUhTN82Mk65rROlHC8Ec0MInqMgdaGGe3b7CcskUQCrSsCeR/HXMnVdgzMWpG8xpc61SELFamAVLL8f6kHNQCxM+LV5sQRGj8TdR7s1go89c7ILDAbheE+E1ab1OYz3OnfEA6h5G5y1q8Wl09xKwQmBpYE7IjezEQ/OsGYhhZTkjM1kdozIvPrjLtimGpe0WFjdLB69VmkDHSsHMWVBMN57wFHf6iZqtJFKaqfPGVebJYzgoqF9PoYuzGiTLfO2Fh4kjIw6tHpbpKk+7krSUBv/XO0ERWgSe96C3AW3W6ZfRYzHUSnu1/HwdUtAJOxpUPYun5DbyRBepXMhagxikXET76WhZDyZRisZnL+wbe4WIx2FNDkzh0UK0aNPjuoSChPTrN4v25ZzvSAgunGF9hRqY3gX4QsA81Ez7gFiE0AOA==;5zXT0nK2Nhx03H7VBSLXxg=="
 ---

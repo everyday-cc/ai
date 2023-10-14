@@ -44,6 +44,29 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "The Path to AI Arms Control"
+    excerpt: "Will AI undermine nations’ monopoly on the means of mass violence? Will AI enable individuals or small groups to produce viruses capable of killing on a scale that was previously the preserve of great powers?"
+    publishedDateTime: 2023-10-13T04:42:00Z
+    webUrl: "https://www.foreignaffairs.com/united-states/path-ai-arms-control"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
+    images:
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/RTSL4MO6.JPG?itok=AsEJKXqd"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Klarna Launches AI-Powered Image Recognition Tool"
+    excerpt: "including Google Lens and Amazon Rekognition, in recent years. Swedish fintech company Klarna released a new AI-powered image recognition tool Wednesday to improve users' shopping experience ..."
+    publishedDateTime: 2023-10-11T22:41:00Z
+    webUrl: "https://www.investopedia.com/klarna-launches-new-ai-powered-image-recognition-tool-8350329"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "6bcE+8qID8aV4R+bBBhO19I4j+XSgyXw7Srk4AWqN21yJgo12D/leZZ7nT8oYRnRO6bzNtb98ECZlrE185qPamWSv2oLFIgLxnTg5xDcJzhkAkKVdrDBT+AcIJHjsRzBSkjYGG5XVsTCHQoBQGciQst2C3+zHnqyBWrgxx4Yvsc19H3/Mz8lCqeIBAEa+CnKsERBJsr7NbeP/ldU+tvgar4XWobCfU7ze3t0+dZqf+ElWAnqxPpsaS4VgEYcjE+zbk5SRj1zXo6FIA+GxWyt9X5YThTMXt6juYV1t2r4n7cPLzxxUKtUv+ftRMoeIdenbwA/utOROkMZOTOwjD/rpb5p7q7Q0c9fbZfmELoLp2M=;mWyhJP3Mq8kjFjtMDP/8mg=="
 ---

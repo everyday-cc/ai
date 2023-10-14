@@ -33,6 +33,15 @@ related:
       name: CNN
       domain: cnn.com
     quality: 49
+  - title: "The Google Pixel 8's Ability to Perfect Photos Shows AI's Promise and Peril"
+    excerpt: "Commentary: The Pixel 8's new AI-powered photo tools make image editing easy, but also raise ethical and social concerns about the credibility of digital images."
+    publishedDateTime: 2023-10-14T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/the-google-pixel-8s-ability-to-perfect-photos-shows-ais-promise-and-peril/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 45
 
 secured: "rReTA4TdSj1gBf2+10CRK2xg5FsM7JPUsHSan+/87tPbV6tKwJZDtj9ugUMUiYxbUKQ+0kc385pxqSndnyQjZFFtVrFwHdTrUOBrHthoxgJVp/xl94dTmYetiKiBhBVLbhz+yq1hbwBf2oTsNRbX4inWJCQmCOmDyUzsxIf0Z0ENCMsStWIJcsWZA19mO9QDQhewXWuPTO1cDPyvitUTKaoctTlCbrdqYjSNJezPIDPcxfNEU1cPm4WVBtaq3AmRLBAXSv1JRoH3ci4snqN/YjYJ7oqljVDylqjTTLm5p+4sYlywwHjfEqRxwyLG/g1BAZVhOWj63i5Od51YlAjBr+bSrz+AD0XAG8zYUlO7b8xwvZYDjLtVXozZmE/eD8IwFPZFdeUzHo4oaQDOvKtnJLJliqK+oSEgrRsw4Bx+GW7XG1bRMLAwgCb5kRCv7Z7cWWswj2KrPHgdApc/MeYhvTmBQPScNePuqW0/JX8V5l9ef5fhiAYgvCo5ZIxML/FXk8zumHZ5Cs/VTuBqPq5i3A==;gfvv1+tEMGmFHBO3Siu3bg=="
 ---

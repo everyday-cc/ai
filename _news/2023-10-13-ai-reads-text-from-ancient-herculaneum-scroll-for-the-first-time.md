@@ -56,6 +56,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI revealed the colorful first word of an ancient scroll torched by Mount Vesuvius"
+    excerpt: "The carbonized scrolls are too delicate for human hands, but AI analysis found 'purple' amid the charred papyrus."
+    publishedDateTime: 2023-10-13T18:10:00Z
+    webUrl: "https://www.popsci.com/technology/ai-scroll-scan-vesuvius/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-scroll-scan-vesuvius/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-scroll-scan-vesuvius/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 51
+    images:
+      - url: "https://www.popsci.com/uploads/2023/10/13/MicrosoftTeams-image-20_0.png?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "CLwqyAYmsqjAhn7eVje3LDAnXU/AXdfz0T/sw7GIS9PDUCzr9whpnQmX2+4WsMkSRsI/GADxtiqJyQXigJqZKe9XcxMuRiNDIt8e7lKeaPEr4WhHdnZXahpZOiZkxFpewazwMY/b2FSMAaFRbjiZfM47kAuFIPwWlH/b+1IwfVTaSvZSqXz1yFkjg5V7dRkrUGdE9rLohnauURGR0HIQj//AAgZ4UNq3d7i3vPkmEet16E4BI5dyQN7cgRTMTw+LE/b0C47u8sn5jpXfFESq2yzwNTVD/r/toytfi+Ra3XiODYmV5fdortH4bjfmvOrtmfTeinA+c5yoF0WyTn6q/lPu11eg5RheLRgJfPYM0o+R9CUP31Ee/kfnu8y6gqbqheccNzwk2/wkS5KL08wkYYNccJPY9Qk4a0F6BxLnO42Trz2PE7/0Voo8eZKgqjp1ST0egMZbDRpX2EkhqF+RvG2i/XU2d53O+dQRLrOh2kLyk6m5e6IXedgXwWpfXktpGhlOaqjBcLtcbjEC+/vUeA==;myKDhaWXgGX5KRuiDOn+dw=="
 ---

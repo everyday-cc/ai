@@ -24,22 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Gen AI a job threat? On the contrary, human workers have much to gain"
-    excerpt: "Why show up to work when you can oversee a robot from the comfort of your own home? A new study sees increased workplace flexbility -- and more reasons for optimism."
-    publishedDateTime: 2023-10-09T20:32:00Z
-    webUrl: "https://www.zdnet.com/article/gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gen-ai-a-job-threat-on-the-contrary-human-workers-have-much-to-gain/"
+  - title: "‘Dubai. AI’ launched as Artificial Intelligence-powered digital city concierge"
+    excerpt: "AI platform in partnership with the Dubai Center for Artificial Intelligence (DCAI), which allows users to easily and seamlessly access services and information about the city of Dubai across various sectors. The platform was launched on day one of the ..."
+    publishedDateTime: 2023-10-11T17:49:00Z
+    webUrl: "https://gulfnews.com/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
+    ampWebUrl: "https://gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 68
     images:
-      - url: "https://www.zdnet.com/a/img/resize/de474e5d9214c333fcb7c5367a7af8f0887b0af6/2023/10/09/f94bcd81-e55c-48e1-b81a-cfac17bb969f/hardhat-gettyimages-1375487979.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imagevars.gulfnews.com/2023/10/11/Digital-Dubai-launches-Dubai-AI-1697036077563_18b1f3b8a30_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
+  - title: "Box launches AI-focused Hubs for curated search"
+    excerpt: "AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More How do employees find the information they need to do their job? And how can companies present the right information that employees need to find?"
+    publishedDateTime: 2023-10-11T21:16:00Z
+    webUrl: "https://venturebeat.com/ai/box-launches-ai-focused-hubs-for-curated-search/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/sharogold_searching_for_information_on_the_web_abstract_box_56059b78-e7c5-469d-91ea-dd46852784ac.png?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+  - title: "Klarna Launches AI-Powered Image Recognition Tool"
+    excerpt: "including Google Lens and Amazon Rekognition, in recent years. Swedish fintech company Klarna released a new AI-powered image recognition tool Wednesday to improve users' shopping experience ..."
+    publishedDateTime: 2023-10-11T22:41:00Z
+    webUrl: "https://www.investopedia.com/klarna-launches-new-ai-powered-image-recognition-tool-8350329"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "7UH1L0SWA8JPK+YkFCDEH0cGjyGqjNaH8Pq18InR96Ct2ubQP/ccVCe9hxPn4O4iRsMgMPCHxWccheBtN8Ro02vdO6+sT4OnobyceILWZOCtddayclVbaFmiu5AqeC8SnGeGY9Fgcwhdw/jQDLSfF7TcDVErr1nrPoo/UaClzUbQkKyYs9deMAJITeqU03mwxcOPz4h1iNkR+CMeGF4jSTzC5/ZwUiNaeflkcA8IY0FbbbWK+rAN+pBKzEQX2FA6g2Sjx85R6/3uTHA7s0LhYiJFN5lWDL/gK+cPQw6H92qsWcTTqmNELtuZ6RiHwT1fHyCDPhtda9+HjQ1XWHs30t95FX+gs0JSmyaLHSgV1rE=;8/Pn1d48Qkpgg71Hy+d00A=="
 ---

@@ -40,6 +40,15 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "India aims to become global robotics hub with new national strategy: Check details here"
+    excerpt: "Reportedly, the progress in Artificial Intelligence is projected to have a profound impact on cyber-physical systems, particularly in domains like robotics, where AI plays a pivotal role in enabling interaction between the virtual and physical components of systems."
+    publishedDateTime: 2023-10-14T13:31:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/india-aims-to-become-global-robotics-hub-with-new-national-strategy-check-details-here-2023-10-14-897791"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 41
 
 secured: "ZJ/DFETH6Mlin6Y5n//1PxWhhO4dvyhZVwCelZTTtzJ611DddFYzVjt2GJ4Fxs+P+qzMtjuIPohQenEIkquu5LJw15SIIWUxqqG1bwwZGZcBC840Hen0gpjnTRirQ5GKfc3dBnF/SeAOaYqhJiN2MRgHyQ3z+LHvFaYP/CzHIGgFazkVlqitywPFDp4mborO/Jzjauec/pi78gT4D3ZXzvW+N7Agp06lnlWVv2BRW4S5kV05W7CAoi5aOI7lgZVTsHK3izN7pdyYhb3t99vXKqyszAdgtXka4pBJnkg6LcJZQ/L9vaCdha+RjiBvU9pJRbgaH4SWOhWKxj+lzlJkSkx7iApF4MU5u5FOPm3RyE0=;kehyAZ338woaR+x/amLbaw=="
 ---

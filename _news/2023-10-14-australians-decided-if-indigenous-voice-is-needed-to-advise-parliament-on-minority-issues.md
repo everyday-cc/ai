@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-publishedDateTime: 2023-10-14T05:02:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
+publishedDateTime: 2023-10-14T09:50:00Z
+originalUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
 type: article
-quality: 35
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
@@ -264,7 +256,25 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T11:27:00Z
+    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+  - title: "The Voice: Australians vote No in historic referendum"
+    excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
+    publishedDateTime: 2023-10-14T13:13:00Z
+    webUrl: "https://www.aol.com/news/voice-australians-vote-no-historic-125700729.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
 
-secured: "1lfCefEmPHnzo6+lZgE+XJYOhf3Po5gUg0ydSt4eSdvzmmISg3KLIGbLSMZWiHHg373tM0tm4fBZUi3ejIJRLg4Yu552QKmIDaTGeBVGvGHe5kIqfrXkXjYtbNOLrmRdhRIZi9iQhsi3oEtVnDEC8LLIg8HSGYSRvT22qwysgd0eDXhT5SfGLxGhnhv0mJd8as1xl8cGoaleOGPPU35lZdEkeAGufKYCRHw1IxPUghMUOZHooyGIut8LBH4G6mqkccxUHhYPBMoOEFpH1sBgFj1l/KPkwP6F0AR6r/soITvlh+oZRnNhe7N1xfAUqGiWcelgjTN3JPTlgzfNwYhXVGbkXpnFBC9ixZGkkNL9eWQ=;0Tl1LaEp/w+GYkNzySNWaw=="
+secured: "GrEC4MA4043JE2UY7tfoQKJhLR/hnTgx5hmRkZfFbch7Gv/9h5KQZPt6EfxARiJSMxIc2ochTuEY0scc6QOjAp4tscrNCsP7m2nIz1ulOVOm2y7VwjtettH6SNDYPweo2w/b0BHwx7X0d2B9Wz/8OY5nOABu+hvf3SF8m8grBzBI1QlxFQ2DWtZAdxoLHz/P9Dog5mgxMO3D4fAvua1RLQEXGGHZW1t4Uw/i6wX3zbuMLJbecQ/OFuLGkuAWr6+zWTY8ybBITz8ThhuK3eVBrNhF7BwizkAPcSncHoqXkouWmms3dexlVV/g9XYhyTpxah8kAd5+EKN/J62G5NNpMUCgpEDJjFsvi/nLG21BkJ7/7J7br/JRp8EhFvFclCjzs+04AI6iYSc3TZ99U2voWWLj32gyAz6y4NyTFA964C/JrurBACP/vl7QQg4+0v7YzX1CANrabT//N0eInNnQ0o/UM9xaDY5t54hN1oBiG/3Tz1dTexaI5qNzKmFOtB8oFlgMwV/mkeCt2wpPXs+YEQ==;bpjrYnHyNEAIeaShB4bSVQ=="
 ---
 

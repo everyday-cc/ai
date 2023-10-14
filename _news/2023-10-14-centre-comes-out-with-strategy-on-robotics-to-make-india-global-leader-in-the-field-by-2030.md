@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-wit
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "India aims to become global robotics hub with new national strategy: Check details here"
+    excerpt: "Reportedly, the progress in Artificial Intelligence is projected to have a profound impact on cyber-physical systems, particularly in domains like robotics, where AI plays a pivotal role in enabling interaction between the virtual and physical components of systems."
+    publishedDateTime: 2023-10-14T13:31:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/india-aims-to-become-global-robotics-hub-with-new-national-strategy-check-details-here-2023-10-14-897791"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 41
   - title: "Artificial Intelligence Key to Future India-UK Trade, Says Indian Cabinet Minister"
     excerpt: "Investors have been urged to support a new state of the art artificial intelligence park which is being built in Maharashtra, India."
     publishedDateTime: 2023-10-11T11:27:00Z

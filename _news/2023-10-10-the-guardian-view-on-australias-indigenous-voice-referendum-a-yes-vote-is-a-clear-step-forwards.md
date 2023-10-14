@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-    publishedDateTime: 2023-10-14T05:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 35
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
     excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
     publishedDateTime: 2023-10-14T09:51:00Z
@@ -268,6 +252,33 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T11:27:00Z
+    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+  - title: "The Voice: Australians vote No in historic referendum"
+    excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
+    publishedDateTime: 2023-10-14T13:13:00Z
+    webUrl: "https://www.aol.com/news/voice-australians-vote-no-historic-125700729.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
+    publishedDateTime: 2023-10-14T09:50:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
 secured: "ot+QDjFzKMooAObXFJuki8jK+R56mXi0OYa42eoHglVNLG/otBI9RyBt6sDktfVeJJ1J4VyR81PlHC1LznGSYaU73A6Ghcgo2E62WnT/xH1FokKo3Qc1dXfLCM9YbSfukiODrd7IW1m8wXIvzPcpxN4A2Bs246F2PFSyuvpn+CV/0XlhI8XV6ibhwAt5X9EMOowOVGJyfRCJ5RIEs8gtNi/fAOwM2mZlChNsu+ccDNdQnO6JJmemGYW3ib8BfkNxwPRHuhqRGaieVrTnyylYhwenmFNz65C3xq8RIukiz0RqYiJ1nP1zgb3sxGQyLuDvETOLggydHbvIds0CsboSg3pZs17ipMGnygYWb9agsd2kM6XxYEaasKTxyuQMhVA6hx2rtua/gyfOk0GxLWMf5uzHZOkEy5vdzA0igaBbKXJdFMCdPgwb8rNP2zhaRdWaSl/QC3wLGWUbmij/NzaTWMWCj0y9ErsYDO675Ug9mK0vV2RZ4wsqP0t4stoappQ3VXrktds5r5EDfaHQ39n/OA==;/0cSCfVPrkPX4QUrCxPlVQ=="
 ---

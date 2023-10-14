@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "The Google Pixel 8's Ability to Perfect Photos Shows AI's Promise and Peril"
+    excerpt: "Commentary: The Pixel 8's new AI-powered photo tools make image editing easy, but also raise ethical and social concerns about the credibility of digital images."
+    publishedDateTime: 2023-10-14T12:00:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/the-google-pixel-8s-ability-to-perfect-photos-shows-ais-promise-and-peril/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 45
   - title: "Google touting AI power on new Pixel 8 phones"
     excerpt: "Google is leaning into artificial intelligence with its new Pixel 8 and Pixel 8 Pro releases. Lisa Eadicicco, a senior mobile editor for CNET, joined CBS News to discuss some of the features on the new products."
     publishedDateTime: 2023-10-12T14:04:00Z

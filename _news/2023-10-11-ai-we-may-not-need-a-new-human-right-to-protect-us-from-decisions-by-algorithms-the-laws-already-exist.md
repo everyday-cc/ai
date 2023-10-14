@@ -1,29 +1,23 @@
 ---
 category: news
 title: "AI: we may not need a new human right to protect us from decisions by algorithms – the laws already exist"
-excerpt: "There are risks and harms that come with relying on algorithms to make decisions. People are already feeling the impact of doing so. Whether reinforcing racial biases or spreading misinformation, many technologies that"
-publishedDateTime: 2023-10-11T03:37:00Z
-originalUrl: "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091"
-webUrl: "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091"
+excerpt: "In light of such problems, calls have been made to create a new human right against being subject to automated decision-making (ADM), which the UK Information Commissioner’s Office (ICO) describes as “the process of making a decision by automated means without any human involvement”."
+publishedDateTime: 2023-10-10T17:00:00Z
+originalUrl: "https://theconversation.com/ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist-214525"
+webUrl: "https://theconversation.com/ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist-214525"
 type: article
-quality: 22
-heat: 22
+quality: 2
+heat: 2
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://f1.econotimes.com/2023/10/mjtzouo7eq_th_1024x0.jpg"
-    width: 496
-    height: 331
-    isCached: true
-
-secured: "M7Eyl0OstAwPrt32dvJRyILBczUTav1BRXPP8/mfnp12Hm3/XTPlJc9aT02WiOIYNhUHQ+B7V+eXbs1CZiQ8Luu3LEgahsYjXgjuGzlH9IJklVaXBvoklUpv+sI+KhYRlh7Y43tu+KDEvVNd0bEfg09aCJsuzsTMMOQegHNDB0YJKqWfAD7KTFgWdaK7RH9EuGEj+f8R81NEX62fuAPHVzSK/uj7b0ckpxhc7+SOmred+Up1XTdHU1zn7HgbbFa9bYlUwA951MF8q+Ggw7T55Cw24oSWq1y1y75TdsYGxeX8yGuCdGs5iLP6Pf9S5YpH/UXICANTBA5J8H0UuXMrKpO/b10aMtTS7TXXbAgSVgr7YBFDEii4qR9FUMcFRticxm7pzx7t4eSwHLQ5GH4hGJG3DBkm8QC2GFH74+Bl6G2EgrWBaQSaTKNcFXeCu82t1jqFhwAnmraxK+QM7TxDLUwbBWQ5G20lVLV790XZCVrxfynfWbC3YLCArHhlXsVDPA2MVP41BiNItKDkI1lAQA==;XuK5dVBwICdutFd9ZFuFfQ=="
+secured: "p7zZsHlop/JU6cN/kc8RrmjvYkwzqaFK4LGT750ySVf+TSPtqQnos3yzAGPZMb4wX4oV6H8evQ0uWJrjYaNw2GpD1J5J9dzOnLzYT8inoLv6uNevwvBRpT39vvm174Cx8jvRBQf9EGWWrrQWJuJqjPjPgu8oZb3jWPpu4t+PaBlU7aUEoKRzqk6iuLsKhnb3ON4oFXPoAsYYm2tKQ5LUVpPkJ6N6KdffwMpkZ/6nzkb/lFKlMj9TPIt3nIDFfI6AgUdYY+CHnfpWcC3FdslJ7VcHkv9hICz0wJrWUCje2e4UhAXyp7Aw04n79FC/fCYWKLAp3cdFsgsdCnh/V6Uit7QJ21+9L80eo/kseoVTx7nPBiW3w3v3jX2Nb47NKmev/4uwWVR8p9klWTrNxeC8hKWyMyZp/jGrZsR/OozjVdNlff44EVLNDabATZkbGQ2h8v8xwDzgerXaV45PidHCCbPQcFFgArNbFUKJ7fliSDlM3fMxXk7+tCgWKkM5a4qi7GjEhWhkvMB8JeVmOySfGA==;Hjq6oJwGsuVuujgeuiOUaw=="
 ---
 

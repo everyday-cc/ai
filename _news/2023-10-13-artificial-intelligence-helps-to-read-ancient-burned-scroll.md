@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/newsround/67103053.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/57bdd0ea22f5385d6e516a2c069bc07910a4a8fe/100_0_1200_720/master/1200.jpg?width=620&quality=85&auto=format&fit=max&s=5969f838d24953eb3f344c9b0bd51b7e"
         width: 620
         height: 372
+        isCached: true
+  - title: "AI revealed the colorful first word of an ancient scroll torched by Mount Vesuvius"
+    excerpt: "The carbonized scrolls are too delicate for human hands, but AI analysis found 'purple' amid the charred papyrus."
+    publishedDateTime: 2023-10-13T18:10:00Z
+    webUrl: "https://www.popsci.com/technology/ai-scroll-scan-vesuvius/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-scroll-scan-vesuvius/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-scroll-scan-vesuvius/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 51
+    images:
+      - url: "https://www.popsci.com/uploads/2023/10/13/MicrosoftTeams-image-20_0.png?auto=webp"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "AI reads text from ancient Herculaneum scroll for the first time"
     excerpt: "Charred scrolls from Herculaneum can’t be opened easily, but X-ray scanning can reveal their contents. Credit: UK Photo A 21-year-old computer-science student has won a global contest to read the first text inside a carbonized scroll from the ancient Roman city of Herculaneum,"

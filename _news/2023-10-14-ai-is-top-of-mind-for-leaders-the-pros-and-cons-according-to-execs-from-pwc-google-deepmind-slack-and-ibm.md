@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 116
 published: true
 
 provider:

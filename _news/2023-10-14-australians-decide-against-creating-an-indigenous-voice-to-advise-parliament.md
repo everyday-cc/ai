@@ -117,22 +117,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-    publishedDateTime: 2023-10-14T05:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 35
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "The Guardian view on Australia’s Indigenous voice referendum: a yes vote is a clear step forwards"
     excerpt: "Editorial: The yes campaign strategy has not been without flaws but settling for the status quo on 14 October after a campaign full of misinformation would represent a disastrous missed opportunity"
     publishedDateTime: 2023-10-10T00:36:00Z
@@ -264,7 +248,34 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T11:27:00Z
+    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+  - title: "The Voice: Australians vote No in historic referendum"
+    excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
+    publishedDateTime: 2023-10-14T13:13:00Z
+    webUrl: "https://www.aol.com/news/voice-australians-vote-no-historic-125700729.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
+    excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
+    publishedDateTime: 2023-10-14T09:50:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 0
 
-secured: "ynhh6zK0e79JsyfO1me1dUfmDuBi7q+Gdu+iHf6hzRpqzwBmymfxFynh/j/3gqhfZTRapItorubqPniYkGnn9Lqhdw+avQxKV0U9ZhsUBsu+Txaws5/V6FXPMADs37S0M3jH9Ar5D7QKvo6QK/n+FRV6pDmdc8V3PLo49cyTwHQVGJKmYez4NYjYKXj/82V1UD1hIbp7WAb3K1CGsmCVdOt00rIypweCPZuT9wyUoqc4kJLhn+KkMq13KNMjKHj+ajg3TI78stN9qpttTrYDq02iwVnkOo/98u/LyPoXXwR6UjiFaQj6F7DG8/wZd/iiUBFxEcdMkkolC/HhU+fhggmCEmbam2MQq1Ru3jmMEkw=;HgO8/bPhp5/CAncSlhSMaw=="
+secured: "UtbwTM6WEGVZSZl2Ca9e2+MZCfD1ZzRSSqr8k53MWZAIE91T6Z/pVuMVQJ/eBjGR4IO2BM89UCmATUCVRerEU4syy3npBvb82FSaj0bludRVbweDGJ6wzPmt0dTjn/fVFt+TtQXpDVlJM0nxRyYHBvPbsORieD5QPCpEfaiLULErNVcn5Z/2HTuZjxMqs8HkdlaCALz/mfnsWBwMImq0HocfTFqekUpgW4QaMz2+hnLqt0QSqjpBc3ng8BVj8exBMWJURwbAny+abllNZ7AcudzoBFq2WBKzc8cTpjU3YDtl12dzQ03NYeuoUefU3KBpzk38zfB+BdNW8LKEAlVhHikVVKXzt2MBedmn17+oELr4LSbfpbCTdUC8pByGTwBCuTi1VYaAZU/5gGVli/VTwTXs0Mhmyxyc35oMu3eeCyf52oDkLtkjXCSN9oXTWa3EcJ8FjIeL48i0vHM/hCKF6tRSCTZWqc2gVHH1yckrF0YSY+XV/p5Sdzf/e80XYoBgdKXCk4CV4kmqt9WBWQ20Ug==;7sDkwTy0qGmu3CjSSHH0Hw=="
 ---
 

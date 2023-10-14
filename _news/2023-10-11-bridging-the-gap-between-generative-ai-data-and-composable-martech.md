@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "This week in data: AI stack tricks, generative AI adoption, the future of composability (and more)"
-    excerpt: "Bruno talks everything from data management and composability, to generative AI adoption trends, to standing out in sales."
-    publishedDateTime: 2023-10-09T21:20:00Z
-    webUrl: "https://venturebeat.com/ai/this-week-in-data-ai-stack-tricks-generative-ai-adoption-the-future-of-composability-and-more/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 53
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/databases.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "00cATcFPQTjtEOLKpw1DBVQ8VfIjnrH8F5N2/h8elBxH5Qy5W65YItCFyqzsoH+rUzDMvLvf8gZxiMh0oDRV1/VkAcYO8spGegd9ToFkA0tA6mEv5zSB83OcjFmdH5FPTz86WT75JddVcctaTFRnVfAV+68LBNnNmvPYaAqb8h/3ROYQMuFtuORAGHZzCGevCvUHSY6nz+S7L5b9M49N6OmjcunEItRGRxKfWMDnVuuA1ZibQOT4B+5rBCfuACj4l9dByMgavuCyUuotL91LOIPw0T5IjSnMhAojnnR+IVbMtXTlVUxBPk9LqyFP+VHCqvLo4Jt/Y9AMsPD/PpMVyebKg5u9kxc0srCuqMKsEbc=;3GBtopQLkCxekRUGxS14yg=="
 ---

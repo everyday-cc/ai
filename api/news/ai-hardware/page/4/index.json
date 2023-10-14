@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-12-facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets.md",
+      "title": "Facing supply glut for chips, Apple-supplier IQE targets Asian and AI markets",
+      "excerpt": "IQE offers GaN Power electronics which aims to serve power hungry AI infrastructure as the likes of generative AI ChatGPT consumes a lot more energy.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/articleshow/103604444.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-78466,msid-103604505/chips-istock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/facing-supply-glut-for-chips-apple-supplier-iqe-targets-asian-and-ai-markets/amp_articleshow/103604444.cms",
+      "publishedDateTime": "2023-09-12T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-ai-chip-startup-enfabrica-raises-125-mln-with-backing-from-nvidia.md",
       "title": "AI chip startup Enfabrica raises $125 mln, with backing from Nvidia",
       "excerpt": "Enfabrica, a Silicon Valley chip startup working on networking chips for artificial intelligence data centers, said on Tuesday that it has raised $125 million in venture capital, with Nvidia joining as a strategic investor.",
@@ -1342,49 +1385,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing.md",
-      "title": "Chip Designer Arm Aims For $52 Bn Valuation In NY Stock Listing",
-      "excerpt": "British chip designer Arm, owned by Japan's Softbank, aims for a market valuation of $52 billion when it lists its shares in New York later this month, according to a document published Tuesday on the website of the US stock market regulator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "originalUrl": "https://www.barrons.com/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/chip-designer-arm-aims-for-52-bn-valuation-in-ny-stock-listing-f6f77feb",
-      "publishedDateTime": "2023-09-05T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

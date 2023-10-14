@@ -9,7 +9,7 @@ ampWebUrl: "https://breakingdefense.com/2023/10/operationalizing-artificial-inte
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2023/10/operationalizing-artificial-intelligence-making-it-work-for-the-mission-today/?amp=1"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -25,56 +25,6 @@ images:
     width: 2560
     height: 1700
     isCached: true
-
-related:
-  - title: "AI and data: Honing hyper-personalization to build the bank of the future"
-    excerpt: "This bank is using AI and a surfeit of information to create personalized experiences for its customers -- and there's much more to come, too."
-    publishedDateTime: 2023-10-09T20:19:00Z
-    webUrl: "https://www.zdnet.com/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-data-honing-hyper-personalization-to-build-the-bank-of-the-future/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/fda662863ef1d073e13c543085b5016d651c2491/2023/09/28/9d6479aa-492f-4628-95c3-581f7d68b1e4/gettyimages-1320874274.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "QATAR FOUNDATION'S WISE SEEKS TO REVOLUTIONIZE EDUCATION IN THE AI AGE"
-    excerpt: "WISE Summit will explore the challenges and opportunities AI presents in educationDOHA, Qatar, Oct. 10, 2023 /PRNewswire/ --"
-    publishedDateTime: 2023-10-10T13:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qatar-foundation-s-wise-seeks-to-revolutionize-education-in-the-ai-age-1032692613"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Domino's Pizza Will Utilize AI for More Personalized Orders"
-    excerpt: "Domino’s Pizza is furthering its use of AI for a more cohesive overall experience."
-    publishedDateTime: 2023-10-13T07:20:00Z
-    webUrl: "https://hypebeast.com/2023/10/dominos-using-microsoft-cloud-azure-openai-pizza"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 39
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F10%2Fdominos-using-microsoft-cloud-azure-openai-pizza-tw.jpg?w=1080&cbr=1&q=90&fit=max"
-        width: 1000
-        height: 500
-        isCached: true
-  - title: "Generative AI and the Future of Machine Translation"
-    excerpt: "Attend the translation and localization industry’s leading events, network with thought leaders, and grow your career and business online."
-    publishedDateTime: 2023-10-09T21:42:00Z
-    webUrl: "https://slator.com/event/generative-ai-and-the-future-of-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 34
 
 secured: "0eToobe1pfBFLpZxaCZ6T0IcRlQlIAmUZ/R8u0pe+fiYhVcrs+he3rXCs3oneq1Xkt49t21sBssiekfB5bKVBcQvbyBCSg51ZjpIq8OVYqDRkQGhzMb2jjaI5JYOHCgXlwzEjHi/69nfNeDL1YkhjM4YZ8CRmvjuk+OTRZsUqcfFQ1fNL9+rRxdSqPIDx6nv4liLv4dGBpvZ/AN89ZE/CBp+P2QgfoiWXGcxXvzfNE6xE0BcHZV2qcVXO/aoIh8MsYCAzkKgtWoNWNnRv++fkKOBIlYJfsckgi5NE7hYVRSPiDU5a6ij0GyADIFhJQ4f6Dv4Q8GX09ymDThf6vet0NHvXA+3764u1vBzm896v7XZaI0DQsw5oflPmBtbWz7RuammEco6067igdinNGKI5cygl7BPrgSfE6Pz6RFFzlxau7ONA3HlV80DVvVWskCqoZ3dyU8CxI2kRbst621HLgc+TgvPz60aDuHWwMUqOY2G0Ew9iyqDaWko3I7enspxOhq0EeELepqRP940hBj9+w==;EzX0PHTClxULPKlJwtk90w=="
 ---

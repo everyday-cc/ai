@@ -65,7 +65,7 @@ related:
     provider:
       name: Space.com
       domain: space.com
-    quality: 17
+    quality: 19
 
 secured: "0mUGiPY0+e2Ab2mTbTnRemSgu4czeKXpQSbEJmHvJINW+QkWNJymK8Ry2jCWzyiNvY058w0y6fPqgL4lH1j0M/Vm9D/r095HPh1jdaIjsrmoRgu5tDja/WF7pRuwE3XFf/I1zg1fOjF5JJnvPCM/Bb1GIKbZzd8KZJbz3A2crZJTRJ22B/ixzOuIw+lbdGosXCkMHyM3/I8E+K9JKjgdLb+j606/Syxz/AB98swQY0jIyYBeBjwCUzTXk2wRq1nlmGkEge0ng0887Myi02RRy53iLP6NstFee8yvU6jgsf/Pwwg4QyZ9g7LMSTAHsS2unc1LeK163ySiMuDqtCXjPtxLSvXzSfYHNVV6/dBgfCA=;IVw/hxPotuikQGCMHGQZtw=="
 ---

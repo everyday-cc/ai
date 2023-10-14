@@ -53,6 +53,20 @@ related:
         width: 2048
         height: 1333
         isCached: true
+  - title: "Bill targets police misuse of facial recognition"
+    excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that'"
+    publishedDateTime: 2023-10-14T15:29:00Z
+    webUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-facial-recognition/article_35077526-69dd-11ee-a04e-6fe0fe7cd6d0.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/08/80897eea-69dd-11ee-9a36-13e52a140747/652962b0064a1.image.jpg?crop=1035%2C543%2C0%2C75&resize=1035%2C543&order=crop%2Cresize"
+        width: 1035
+        height: 543
+        isCached: true
 
 secured: "RFkcdRE6J8bD5Zz/EXrIPzuW3+Sz+z9SCpqPIac0CuD4S7GCny1SGPEvYTukja2fbfqzlwCYtKTtwmctRtzGphcH3AV/obmbZGCy9HDYWEBmRRV6Nev5pWATV5AwtcEcj+DDkRqI4hwWgak1rsWPAQFCkfMdRbq2XXQL8Tk7uCXqrNpOD9i8X9kV0VEyr9gRrxQT1eJmOtXnTqFeqxZjcVJQSOexPd/x49GqaAhahI5FkXzkWOks72nTuUt/e2HMJFyVZNsgKhGdrJD/t2IP7x9cut3Gf+tnE6olsUbVf7vSj83qUsWTl0NtzQ+oHio+/uyuP+hlNrrWEYqrbMyHu0Y1tBDJTZQVQfNipR7/BDY=;qfL8nwAQdXJJXDaUuipJQQ=="
 ---

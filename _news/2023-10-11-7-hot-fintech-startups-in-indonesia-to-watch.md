@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Forefront Finance: Revolutionizing Banking With AI and Blockchain Integration, Secures $160 Million Seed Investment From Cyberdyne and Stabila"
-    excerpt: "Forefront Finance, the pioneering neobank at the forefront of innovation, is proud to announce a game-changing development in the world of digital banking. Through strategic integration of Artificial"
-    publishedDateTime: 2023-10-09T22:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35152596/forefront-finance-revolutionizing-banking-with-ai-and-blockchain-integration-secures-160-million-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35152596"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35152596"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "How International FinTech company Collect & Pay Aims to Reshape Digital Finance"
     excerpt: "The financial sector’s terrain is rapidly evolving. Led by fast-growing neo-banks such as Revolut, banking services are becoming more efficient and accessible than ever before. At the same time, new technologies like blockchain and cryptocurrencies are fundamentally redefining how we manage our finances."
     publishedDateTime: 2023-10-12T08:42:00Z

@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI working groups recommend setting up 24,500 GPUs of compute infra"
+    excerpt: "Working groups formed by the government on artificial intelligence on Friday recommended setting up a three-tier compute infrastructure comprising 24,500 graphics processing units."
+    publishedDateTime: 2023-10-14T14:32:00Z
+    webUrl: "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece"
+    ampWebUrl: "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "AI Computing and Decentralized GPU Power"
     excerpt: "This democratization of AI and ML capabilities presents a game-changing opportunity for various industries. The Io.net test network sources GPU computing power from data centers, cryptocurrency miners, and decentralized storage providers. This pooling of ..."
     publishedDateTime: 2023-10-11T00:00:00Z
@@ -55,20 +71,6 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Decentralized-AI-Computing.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "AI working groups recommend setting up 24,500 GPUs of compute infra"
-    excerpt: "Microsoft provided Open AI LP with a USD 1-billion investment in 2019 and a USD 10-billion investment in 2023."
-    publishedDateTime: 2023-10-13T17:22:00Z
-    webUrl: "https://telanganatoday.com/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 54
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2023/09/Artificial-Intelligence-1.jpg"
-        width: 1280
-        height: 750
         isCached: true
   - title: "io.net to launch first GPU-enabled decentralized computing network for AI"
     excerpt: "io.net intends to address the scarcity of GPUs for AI processing by procuring one million units from independent computing power sources. During the course of its development, it will establish the first decentralized cloud environment specifically designed for machine learning, according to the latest information shared with Finbold on October 11."

@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/747869/ai-artificial-intelligence-in-circle-on-keyboard.jpg"
