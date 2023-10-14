@@ -78,6 +78,22 @@ related:
         width: 1453
         height: 900
         isCached: true
+  - title: "Techno-plasticity in the Age of Artificial Intelligence"
+    excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
+    publishedDateTime: 2023-10-14T18:10:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "The AI Boom Could Use a Shocking Amount of Electricity"
     excerpt: "Powering artificial intelligence models takes a lot of energy. A new analysis demonstrates just how big the problem could become"
     publishedDateTime: 2023-10-13T11:11:00Z
@@ -108,6 +124,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
+    type: article
+    provider:
+      name: tech-ish.com
+      domain: tech-ish.com
+    quality: 19
 
 secured: "WvSspt8DprdDSL12JlWwmfrjWg92VjalAtEYkqqHPMyQvRWNBk7YO1grq9wM9HJ2Vbh66kwj6x/En2Q3FFDWP5P1cKze5kfrm+YnghKgBTAjHVXLYnhAa49K4eN/hQhi0gzf8V4i0qfQWjM8dMPYvdgMNv+hsL1KqUDDoM18Na9zDaKP0pxIZ5bP98sFwqiTqsEy43SyF4pLPTFs3S3BoUXcLRMUe4j5am575Tj0OWEpCoiT3QxyW2HWX3rVzQXFVsktpQhxqXmwOqMtlu3D5TJcSDT6IexwEGI7x+CS5ljjXRnEdY9C00w6tzKNrZysBEtTe8ip6S1+4G894cdP1H7CQxy7ivHstGc7tN8pguM=;6iRIEEEq3uggwh1owQ8s5A=="
 ---

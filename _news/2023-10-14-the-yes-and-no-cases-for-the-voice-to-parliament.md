@@ -55,6 +55,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 0
+  - title: "Indigenous Yes leaders call ‘week of silence’ after resounding defeat in Voice to Parliament"
+    excerpt: "Indigenous Australians from across the country devastated by Saturday night’s referendum result have called a “week of silence” to grieve the outcome and “reflect on its meaning and significance”."
+    publishedDateTime: 2023-10-14T21:55:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/indigenous-yes-leaders-call-week-of-silence-after-resounding-defeat-in-voice-to-parliament/news-story/2ee2b12ccbceebaa89927eaaf8e2fa1c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "umII5faZBMCM8bRCQECGGUp5MqCVKxJCH9L9Ynm4cBnhX36d6sG+j4lUhHCqMYzLStTD3Uw9oRayD6INT17/ikg7bWY3BmCXHMMvwSi+DHgE+paVyrf9EKvLEWBDRgox4XfKX06ToubZpIWBVAkWG5+nXvfm1jqRX/X9kpNMJR/UdlxYlzpbMj65st7fqWJ44kOrqBHEmm/ocxalYnT4/ClM6tl/69eVgN24gQlWOxMQzUmGD/eUzEXB+GHerXH7iuRh5uUfDbowTvupG4wwL9RoBn1S/epqTqhAIWc7QnDjwAhysB708AwheZ4jSIOtNWEOX2/jGTounTSWwOv1t9Qh8fmh2HM8+LyV5MB6Whg=;jXWrdKE23YpiKQUPY9JrGQ=="
 ---

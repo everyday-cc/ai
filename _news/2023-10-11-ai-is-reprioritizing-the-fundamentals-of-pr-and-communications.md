@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-re
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "AI and Robotics Revolutionizing Recycling"
-    excerpt: "The combination of artificial intelligence (AI) and robotics is making the recycling business much more profitable and practical than ever."
-    publishedDateTime: 2023-10-12T17:51:00Z
-    webUrl: "https://emagazine.com/ai-and-robotics-revolutionizing-recycling/"
-    type: article
-    provider:
-      name: E–The Environmental Magazine
-      domain: emagazine.com
-    quality: 49
 
 secured: "Y/Lrm2gipvx7MMi3c6hqakK69iDoPzOMN1k0FM1v1U3XoPVgGcW2B1uok9NaQXW5BZY6eCs3CGcf3WftSIDz3v5YJ8f2LuvgUiEfgOXGuMyFDenRnQo54AYE1945ha/bDshtiG6JneD5+PiFHJBboymmhIWwa8wdtw7tjZh6mXmS8+tIpQxXKngXx0Y3AxGDOmXc4ji1Fo6q2YLDXGZDITlwUUmkob7VIUAupo2zGTM1dwceSm9RnkGFNOAv/9aBMVglFZxCIxR/D8arKG4yNXYNre6Uiwvdq+Qeipe+i+TaaNA+UVgx0co/votZnV4ucrwqJn5VX6GzTTlRUu7buuaislNxgK6sTYMI8MjRm0I=;k52OAaMikC4VxhbSIDkIFg=="
 ---

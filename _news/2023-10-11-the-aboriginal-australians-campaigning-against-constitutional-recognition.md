@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price
 webUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.techrepublic.com/wp-content/uploads/2020/02/securityrisk.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Australian robotics and manufacturing hub levels data field"
-    excerpt: "ARM Hub announced yesterday that it will launch Data and Artificial-intelligence-as-a-Service offering in 2024."
-    publishedDateTime: 2023-10-10T01:20:00Z
-    webUrl: "https://www.manmonthly.com.au/australian-robotics-and-manufacturing-hub-levels-data-field/"
-    type: article
-    provider:
-      name: Manufacturers' Monthly
-      domain: manmonthly.com.au
-    quality: 54
-    images:
-      - url: "https://assets.primecreative.com.au/imagegen/280/-/assets/momoads/2023/08/04/115639/IMG_20230728_113222.jpg"
-        width: 280
-        height: 210
         isCached: true
   - title: "Australia holds constitutional referendum on recognition of First Nations"
     excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."

@@ -2,9 +2,9 @@
 category: news
 title: "Under cover of a shoplifting panic, the Tories are pushing through a shocking expansion of facial recognition"
 excerpt: "This widespread use in shops would be a sudden and dramatic increase of government and police surveillance powers , writes Akiko Hart from Liberty"
-publishedDateTime: 2023-10-12T14:11:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2023/oct/12/shoplifting-facial-recognition-shops-police-surveillance-powers?leakd"
-webUrl: "https://www.theguardian.com/commentisfree/2023/oct/12/shoplifting-facial-recognition-shops-police-surveillance-powers?leakd"
+publishedDateTime: 2023-10-12T15:45:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2023/oct/12/shoplifting-facial-recognition-shops-police-surveillance-powers"
+webUrl: "https://www.theguardian.com/commentisfree/2023/oct/12/shoplifting-facial-recognition-shops-police-surveillance-powers"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/12/shoplifting-facial-recognition-shops-police-surveillance-powers"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/12/shoplifting-facial-recognition-shops-police-surveillance-powers"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "xJngzy05H/sGmwjS9Ly6FIeOK34Ah7VE9AP7jIT+BWtoOeODOdGXLWud10C6325nhMU/FBm5baJarVe4TNxFChuBETOd6sFXmDDrpEQMmQZsoErkwtf1izw5FBbbcWEtttQOlChHlPnfJ2xa3wKUBEUzd8bcinkv61cSQIpbjFEqEbvIBg34KMFc7Z6l/WfY84YU6H8ny7wsnUlCmPH5mfGiqug3G2bQLlEKB9JSKIe241DndglmquEEs4hrklvlQbDmJeiqCsC0X4bT/lVh5bsRyes3nNJ+R+qE22g8Yy1ityicqy/vGWvfx0qCuIqr6dh2QpDk1bMfzkrtYrVyLhEPFyrm3+LjTmlSWfR3q3KsQ3/iApFdYgkWFtSQ7soRFjfRXu8Co6Y8VXOPglhgmlyIXcUaK6MGhhW5ZNjk5Wgu0clO6spW59BgqFOTRrn5lxuDTGk17mxRelfWTPBxFT8pRck6KDGNTSS3m2jKmM73XogelTBgCJetH2jvVRX8DX3bTU8JlVdUnuLDqEReqA==;ZNwxMwhqEAJhd8Q0umKbAw=="
+secured: "fdXxqOGHdoTfgLRBM1SgmMl+xAOUetvP9c0TownuIyxjg1xlkXFkXPhanOyNC0S0oLrKdMW0ULTbc9Jt7YDS5Y2PA9IUK3l1Ev3SL9bpcJVPLp4FFAtDc/v6x9LJtZpL1sY3joxg0s+b7Xrhoh4EpdUJF9QQb2R3zj04e52Vs+mdISZHNF7D6IVo1eFXCTJR8zLeImnocC2wgnLOUJi5VdNr+tTeY5/z4W2PlaQERRGCh9OKpz5lPt+QAoVlaPNrq36VLddvMTXdt/QvhbBlhSIyZHhDz1U3BJ/zjsyM2JxMr8ZlT4fFKvW8gKkbS9Hr7qp4RuqidCNU4NATTbvrAsIa9JF61/94WVIQBuk8lwM=;AOM+6FKuJbTpJj/GF9j80g=="
 ---
 

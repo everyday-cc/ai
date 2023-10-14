@@ -87,20 +87,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 51
-  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
-    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
-    publishedDateTime: 2023-10-10T04:55:00Z
-    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
-    type: article
-    provider:
-      name: themediaonline.co.za
-      domain: themediaonline.co.za
-    quality: 37
-    images:
-      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
-        width: 700
-        height: 371
-        isCached: true
   - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
     excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
     publishedDateTime: 2023-10-12T21:00:00Z

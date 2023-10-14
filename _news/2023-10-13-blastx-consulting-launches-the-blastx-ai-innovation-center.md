@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 806
         isCached: true
-  - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
-    excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
-    publishedDateTime: 2023-10-10T04:55:00Z
-    webUrl: "https://themediaonline.co.za/2023/10/how-can-we-build-trustworthy-media-ecosystems-in-the-age-of-ai-and-declining-trust/"
-    type: article
-    provider:
-      name: themediaonline.co.za
-      domain: themediaonline.co.za
-    quality: 37
-    images:
-      - url: "https://themediaonline.co.za/wp-content/uploads/2023/10/pexels-daniel-friday-danzor-3669735.jpg"
-        width: 700
-        height: 371
-        isCached: true
   - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
     excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
     publishedDateTime: 2023-10-12T01:36:00Z

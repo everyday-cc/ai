@@ -18,15 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Sparta aims to revolutionize commodity trading with AI-driven forecasting"
-    excerpt: "VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More Sparta, a startup that provides live market intelligence and forecasting insight for commodity traders ..."
-    publishedDateTime: 2023-10-13T19:35:00Z
-    webUrl: "https://venturebeat.com/ai/sparta-aims-to-revolutionize-commodity-trading-with-ai-driven-forecasting/"
+  - title: "The AI revolution is coming. Invest in $10,000 handbags"
+    excerpt: "Analysis shows LVMH, Dior, Hermès and Gucci owner Kering have consistently outperformed Amazon, Google and Apple"
+    publishedDateTime: 2023-10-11T10:18:00Z
+    webUrl: "https://www.theguardian.com/business/nils-pratley-on-finance/2023/oct/11/ai-revolution-is-coming-invest-handbags-lvmh-dior"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "K1H1vw6YbALdpbb43rnjfp3IWjQPgp+schtsf5rzP1fU97nAnukGico/pRm/P/qV7i7uaq8qiqGWXkzUG6eueNhSbmL0mYyEPcLKKxTcXjQ4xM/CC9bVV32qn9mj8VSWYhVJcdxRq0xyKyZ8IIr20EDndja8/pXuClJxwM8e4dPTdfJrckVKdgjZ4sb26s6Ej4mSV13OynvTi8O03T9OROdm8Ed1pmc2s09Jo6DHbzzkEjVYSQqsW+lESjgwYtI48GoXDBmznfXwQ0a99ey1I48meeBp72ntlQMyvEwFP+PODHSX96Nh7TryV4/sYVe0w6uIGDxbCxflcNkhkjUtfivlAT4+lay4KzFjERZMIRc=;K+ypMogYhosdScxxXIrRkA=="
 ---

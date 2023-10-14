@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
 type: article
 quality: 121
-heat: 331
+heat: 321
 published: true
 
 provider:
@@ -93,22 +93,6 @@ related:
       - url: "https://www.slashgear.com/img/gallery/bing-ai-joins-microsofts-bug-bounty-program-and-the-payouts-are-big/l-intro-1697233282.jpg"
         width: 1600
         height: 901
-        isCached: true
-  - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
-    excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."
-    publishedDateTime: 2023-10-10T04:46:00Z
-    webUrl: "https://www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html"
-    ampWebUrl: "https://www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html/amp/"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 83
-    images:
-      - url: "https://static.digit.in/Untitled-design-28.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Get Inspired: Five Microsoft partners using generative AI to enhance productivity"
     excerpt: "Generative AI has become a critical tool for businesses seeking to streamline tasks and enhance productivity. Today, generative AI can generate everything from written content and music to product designs and programming code, paving the way for unprecedented levels of automation.\nThe post Get Inspired:"

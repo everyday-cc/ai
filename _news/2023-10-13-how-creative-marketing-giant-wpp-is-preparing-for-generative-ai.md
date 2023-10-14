@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-ge
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
 type: article
 quality: 76
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: Diginomica
@@ -28,51 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
-    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
-    publishedDateTime: 2023-10-11T17:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
+  - title: "Deloitte: Many Organizations Don’t Know If They Have Ethical Standards for Using Generative AI"
+    excerpt: "According to this 2023 State of Ethics and Trust in Technology report, 57% of respondents think cognitive technologies are most likely to pose a serious ethical risk."
+    publishedDateTime: 2023-10-10T16:28:00Z
+    webUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 76
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
-        width: 1024
-        height: 768
+      - url: "https://www.techrepublic.com/wp-content/uploads/2020/10/artificial-intelligence-cheat-sheet.jpeg"
+        width: 1200
+        height: 750
         isCached: true
-  - title: "Vital Insights That Law Firms And Law Partners Need To Know About Generative AI For Their Legal Practices"
-    excerpt: "Law firms and law partners need to be thinking seriously about the adoption of generative AI in their legal practices. I cover top asked questions and give vital answers."
-    publishedDateTime: 2023-10-12T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/12/vital-insights-that-law-firms-and-law-partners-need-to-know-about-generative-ai-for-their-legal-practices/amp/"
+  - title: "Generative AI deployment: Strategies for smooth scaling"
+    excerpt: "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas"
+    publishedDateTime: 2023-10-10T14:12:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 70
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64decaf569374c283b0c8ded/0x0.jpg?format=jpg&crop=1908,1271,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "Dumbing down or wising up: How will generative AI change the way we think?"
-    excerpt: "But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking."
-    publishedDateTime: 2023-10-13T15:31:00Z
-    webUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
-        width: 1920
-        height: 1285
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/V2-MIT_Fig3_GenAI_100523.png?w=3000"
+        width: 2999
+        height: 1785
         isCached: true
   - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
     excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
@@ -83,6 +67,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 53
+  - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
+    excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
+    publishedDateTime: 2023-10-10T18:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/new-deloitte-report-emphasizes-the-gap-between-generative-ai-adoption-and-ethical-awareness-among-organizations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 14
 
 secured: "35g+DZPYRvKx1VpEI9GtPIM5TGFDxW9NJo4omI5JusxQJnO1Q+0vVfI3HPfH9muO4H6q6ILjO+bP07MJcQGfw6qIiWg9SN+Bb0yR5dAnjvyMWT5tBKjXprNdaVrW25VK+7mpnfPXgOf5/2kulscc/TnKYAj0901yeYbzb58hfTC8dHYpeE8fYm5nVlAlnDLjpf8JRLsKAaBgd8qLEDulBueKZ+vnv3U8hy5o8o/NB7s4Rv4bmq6X4q3jjmKp4bGuq9+860POzlZH+H1FoH+LkJfVJl37aTI1klIrIelJSbngCLilYamtusZH5K5O34PtuV/U54heS21geVdN/7I3V4ja4/K/iEu3Md6PlT2w66W4wSOEcvEarzDoKPhfN96MUVY4Cw0FUc5jkGVBR/4ZT2d2ez62aApdfkwZDluNmMiweIDywATo8O3nEiB4e+vPYT1GPMzWDbiIQ/ecZ5fNqZ/2DD2A0wO3vC7Ok2Cl5oCaomlCTpleDFMshBOBBen/ZP40kP5Q4kiEsULztNqHOg==;2U9S3SU+YBZtAfhMrJ0pkA=="
 ---

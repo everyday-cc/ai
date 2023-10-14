@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of-play-has-ai-really-changed-digital-marketing/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
+    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
+    publishedDateTime: 2023-10-14T21:13:00Z
+    webUrl: "https://thethaiger.com/ph/news/555161/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 72
+    images:
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
 
 secured: "Rl7HKghbTPRRirV57pQPnVvM9QAOfKrCwJsHdH9j7PDflmZpGrUQkrKKUvfi61LqIVrCWHpq9JGQoWBLcEGMfnGcxt6aY5IBlC7wmGnS8U1UToneYOLOhmIaijWOJFn8JrHLK84GWNHjGaR5AwA7PwjQDygIPoDxkgxD5phdTbApGOwJSQuL4lbkBCGRCLL7B2qlB8KgIAbShUfnjYTmmQmvcSEqd6MqHfs1vPkaETFLTaLOz+z7PbGo3cgWtQBJvn5fwaq6LJevD2cCfcw11eZyt4b0sj2j7lzyvdemnLerQ58GA3tSTUs1MF9kOPVzoIFv59Tj3dd21w0P8DW1/YEuX+Cr2XKKMeROdlLzZkM=;nUACMDvSJ6BtkdwdQuPWCw=="
 ---

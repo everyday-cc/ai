@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Science Daily
@@ -23,45 +23,20 @@ topics:
   - AI
 
 related:
-  - title: "56% of professionals are unsure if their companies have ethical guidelines for AI use"
-    excerpt: "According to survey respondents in Deloitte's second edition Technology Trust Ethics Report, cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk."
-    publishedDateTime: 2023-10-10T04:01:00Z
-    webUrl: "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
+  - title: "The use of artificial intelligence and natural language processing for mental health interventions"
+    excerpt: "In a recent article published in Translational Psychiatry, researchers performed a systemic review and meta-analysis of scientific papers using an artificial intelligence (AI)-based tool that uses Natural Language Processing (NLP) to examine mental health interventions (MHI)."
+    publishedDateTime: 2023-10-10T11:23:00Z
+    webUrl: "https://www.news-medical.net/news/20231010/The-use-of-artificial-intelligence-and-natural-language-processing-for-mental-health-interventions.aspx"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
+      name: News Medical
+      domain: news-medical.net
+    quality: 42
     images:
-      - url: "https://www.zdnet.com/a/img/resize/6ed4d46746b8ce488cfa33273df969d675a87905/2023/10/09/404b742e-6806-469b-8fb0-4478670a8ccd/gettyimages-1469902598.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761207_16969368716476864.jpg"
+        width: 2000
+        height: 1322
         isCached: true
-  - title: "Deloitte: Many Organizations Don’t Know If They Have Ethical Standards for Using Generative AI"
-    excerpt: "According to this 2023 State of Ethics and Trust in Technology report, 57% of respondents think cognitive technologies are most likely to pose a serious ethical risk."
-    publishedDateTime: 2023-10-10T16:28:00Z
-    webUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 76
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2020/10/artificial-intelligence-cheat-sheet.jpeg"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
-    excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
-    publishedDateTime: 2023-10-10T18:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/new-deloitte-report-emphasizes-the-gap-between-generative-ai-adoption-and-ethical-awareness-among-organizations/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 14
 
 secured: "eVQAKj9GVuejh23tI/xDetqgyOq9uOOOYKxLNk7QLFGq256QaOGmAl6wz24yCy6QsulRhHzvSxLnI5PWPJVSj8xw8qV5I2EVolCLa3wVyM0J/nQPEig7oCJT1SfJGtZEV4xDYwUNQUlO5mvdkJ2ROlkHzmCsNeG8NvAOyHAg3/fYnggKyD5A406vkLFcOq0VPbikuNfIK5nkR67yQwZUapD1fJLBopntxCz7UdmurVEX1kOUM7XiqmJ0AMLtgmyxq/sP/lohh/TtnpD/O5rKIuFZpuzYxzlr6acORa0UYamYEWUWspW17pAqr+7SgoEFWvV97LTjiBEYYWH6M+qJ0gVRBtbAM0pUUCaFSGrX7Mc=;d8+ipwvpyYh/Kaf2fgHvQQ=="
 ---

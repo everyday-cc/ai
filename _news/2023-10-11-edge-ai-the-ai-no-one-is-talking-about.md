@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 159
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Techno-plasticity in the Age of Artificial Intelligence"
+    excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
+    publishedDateTime: 2023-10-14T18:10:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 61
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "The AI Boom Could Use a Shocking Amount of Electricity"
     excerpt: "Powering artificial intelligence models takes a lot of energy. A new analysis demonstrates just how big the problem could become"
     publishedDateTime: 2023-10-13T11:11:00Z
@@ -109,6 +125,15 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
+    type: article
+    provider:
+      name: tech-ish.com
+      domain: tech-ish.com
+    quality: 19
 
 secured: "2p90NeV5OQ+YSBa8BKCbJnXS6R9+3lEmI0szfxRtOX0o1iv5lHVi1IlZPfasaA/I8GuEWLnG7E72Z0Vom6hYGw2z8fM3DvYCaqsWkkccVddp2XsKWhJMcfCdIL7wJAIhgSCWTwe5yfTBBPR49GYtLfoZHq4erQBMllL1lVBdTdZQNfTp3+oTfGnuKHzKtMkm+X16JQOGZNO+3fG5/eYYX0dT0fV2j2/cqR6pPgyIWy3lcvh6aqgBCuD2oJVyAjOdWHkV+wG+nednuPJ78lKah0iIGXwh5gDRMp/xl0k7h9B6GhljGw7g61uLmPTVsIE0XkF8IbfaBq4SJWCzO60hMUF1dGVMOH/RFW398DyAHig6RM6RS8ujwhyqr410R2K5vTGSva3XTU94o8ZHMRIvzcbmoe9k4bqeLIJCvwOW61BwEsmFKVr1KPsr7bMsgfidoBW6lN0Sl490MIs5syXBB/O9dgBBZzzLbxqdnU+sTQtQEdhOqk/XW2IyGrfoa3iUWIb2I9wzNfHIoEn9QEr1wA==;MtRGIlArJpMxbTNSrPrTFQ=="
 ---

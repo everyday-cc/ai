@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/technology/63-gen-z-students-fear-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/63-gen-z-students-fear-ai-will-cause-instability-in-job-roles-employment-survey-11507301.html/amp"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI deployment: Strategies for smooth scaling"
-    excerpt: "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas"
-    publishedDateTime: 2023-10-10T14:12:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/V2-MIT_Fig3_GenAI_100523.png?w=3000"
-        width: 2999
-        height: 1785
-        isCached: true
   - title: "10-Step Plan for Employers Using Artificial Intelligence in Employment Processes"
     excerpt: "Artificial intelligence has transformed the way we live, work and even think. While AI offers seemingly endless potential benefits in the workplace – including improvements in efficiency, cost cutting and innovation – employers must balance those ..."
     publishedDateTime: 2023-10-12T17:56:00Z

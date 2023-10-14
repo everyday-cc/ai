@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-
 webUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: TechRepublic
@@ -31,31 +31,47 @@ images:
     isCached: true
 
 related:
-  - title: "56% of professionals are unsure if their companies have ethical guidelines for AI use"
-    excerpt: "According to survey respondents in Deloitte's second edition Technology Trust Ethics Report, cognitive technologies such as generative AI have the most potential for both social good and serious ethical risk."
-    publishedDateTime: 2023-10-10T04:01:00Z
-    webUrl: "https://www.zdnet.com/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/56-of-professionals-are-unsure-if-their-companies-have-ethical-guidelines-for-ai-use/"
+  - title: "How creative marketing giant WPP is preparing for generative AI"
+    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
+    publishedDateTime: 2023-10-13T10:56:00Z
+    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
+    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 97
+      name: Diginomica
+      domain: diginomica.com
+    quality: 76
     images:
-      - url: "https://www.zdnet.com/a/img/resize/6ed4d46746b8ce488cfa33273df969d675a87905/2023/10/09/404b742e-6806-469b-8fb0-4478670a8ccd/gettyimages-1469902598.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
+        width: 2062
+        height: 1366
         isCached: true
-  - title: "Researchers measure global consensus over the ethical use of AI"
-    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
-    publishedDateTime: 2023-10-14T01:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
+  - title: "Generative AI deployment: Strategies for smooth scaling"
+    excerpt: "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas"
+    publishedDateTime: 2023-10-10T14:12:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/V2-MIT_Fig3_GenAI_100523.png?w=3000"
+        width: 2999
+        height: 1785
+        isCached: true
+  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
+    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
+    publishedDateTime: 2023-10-10T17:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 53
   - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
     excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
     publishedDateTime: 2023-10-10T18:00:00Z

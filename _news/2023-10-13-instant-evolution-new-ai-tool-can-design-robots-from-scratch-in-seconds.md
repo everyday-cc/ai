@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-desig
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Leading In The AI Revolution: The Case For A Chief Artificial Intelligence Officer"
+    excerpt: "As AI becomes more sophisticated and pervasive, many firms are considering whether to appoint a ... [+] chief artificial intelligence officer (CAIO). The potential of Artificial intelligence (AI) is undeniable. It's no longer a futuristic concept but fast ..."
+    publishedDateTime: 2023-10-12T17:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidhenkin/2023/10/12/leading-in-the-ai-revolution-the-case-for-a-chief-artificial-intelligence-officer/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
   - title: "Which Countries Are Positioned to Benefit From the AI Revolution?"
     excerpt: "Which countries are best positioned to benefit from deploying artificial intelligence (AI) over the next decade?"
     publishedDateTime: 2023-10-13T07:21:00Z

@@ -55,6 +55,15 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 4
+  - title: "Indigenous Yes leaders call ‘week of silence’ after resounding defeat in Voice to Parliament"
+    excerpt: "Indigenous Australians from across the country devastated by Saturday night’s referendum result have called a “week of silence” to grieve the outcome and “reflect on its meaning and significance”."
+    publishedDateTime: 2023-10-14T21:55:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/indigenous-yes-leaders-call-week-of-silence-after-resounding-defeat-in-voice-to-parliament/news-story/2ee2b12ccbceebaa89927eaaf8e2fa1c"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "qTNRhpKjIpCJ+PxeC+fVTbrIjCskvXlhNqdUC92fnOJ+gTbnyYZa7dQhWxoj9DkYFXv3tI9lhwflcLxdE+4sELA8Qx35pbrDMmccduP2XSOtMyZWjeamRKqeSXIS76kI5L6kta/eteOMIzBZCF+JvJFgCFaQz9ktYcO7ySJTQDxibnQ8HgDFUNca5j/yy76rFwhocBjhauUt3QmcsRREVs8SGoEfILzM95MvCT1lCz17Rexb7sidzYGDPCnooGwsbOl3n3p9gzmvIW2+Zb7PaSYr8UXIMT7lHPQT9V29V6Z+iRMrHv4/t4yjm56F8UEEw98/TPpB+n27oKDgN+PkGhaxytRxiE8sfsZQCUpucSigz7n/pUAorwvBcSwxfp8G6LrurC22HIIhIqMgttfRggVsyht64rKIkTWxBTvK8DMgY+XFCC1bsfrMxJ9/vNmt4pnsNOmoQsG2a2wFZkK5ozzhElPDkvInqmFndeamoxjRD6DG3uge7w8ThBjFzj1Jo7nN9DCKMASm0paSkEpOgA==;MrPIpAstjC+6qlYnVQ42Mw=="
 ---

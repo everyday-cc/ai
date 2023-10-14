@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Leading In The AI Revolution: The Case For A Chief Artificial Intelligence Officer"
+    excerpt: "As AI becomes more sophisticated and pervasive, many firms are considering whether to appoint a ... [+] chief artificial intelligence officer (CAIO). The potential of Artificial intelligence (AI) is undeniable. It's no longer a futuristic concept but fast ..."
+    publishedDateTime: 2023-10-12T17:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidhenkin/2023/10/12/leading-in-the-ai-revolution-the-case-for-a-chief-artificial-intelligence-officer/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 58
 
 secured: "ejwAJjlq3XYjXHh1wSb8FNPFtOcmU8vwKZr4BfzmBBy+T+mEYkOXYqs/C4lAWWr3SRUwk8nAFxzIbhREmcNYY1lOrx5jp1Zzkc4CvsQUnea8zfQaWnz5xqxsys4YR4hPPiUGAXc1KtO0V2MfMxBzcToFqnnF4O4qs/zdL7HykxO4YddXC7ewDTyH3yCPrrRCJ1CH1rIuQgt98vlfSQ8VrgM80McMQ2HbkOq8ecaxiswW/2raQ3VB2hfv4rfdbUSlFf7HGUb+euLT+69DQUJYP15vpIhPjB2TkwEQCk/UXcBh8YDf1+hqNQdZG40h1Wpf7pjTRvnuKJEnqd3UEUZDKGgizD5GZedzNuyhXUZu7gdbU4agaUWrs2e7EjAn591Br8QkJe75tt8Djf78eZszvqdKtWhwInOcGcPTGS23Kie5o0ufF6FvYZgZrJYJ0p3Q35AXByoJlXMm5v+9RsBBmvsSFm6+BNnduWNJGtavKbByIBDlRQfDyh1Payk73Llv5Qlxxip98j/Nv5OM5As1nQ==;6FIMoRSIRBIPCC5PkbjJQA=="
 ---

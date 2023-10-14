@@ -41,6 +41,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Researchers Test Large Language Model That Preserves Patient Privacy"
+    excerpt: "Locally run large language models (LLMs) may be a feasible option for extracting data from text-based radiology reports while preserving patient pri"
+    publishedDateTime: 2023-10-14T18:52:00Z
+    webUrl: "https://menafn.com/1107240737/Researchers-Test-Large-Language-Model-That-Preserves-Patient-Privacy"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 4
 
 secured: "FQHfRAgcxbFI8zfLnuHmWdM9BfTacM3xk6yFKpqtt9sSvxes1PvMLijHdxn8PozY42tN+UBaKAk9VjOlD1WuqSlFi1Aeobu5Q9ouC2Y0li1OuwUgrco7phj43JAlewwLtRpKQYywY46CGpqfKa++3a+I2ijYTcimIn8yaPH7X7+HlTPxgli1h2XYtveNVbaWjmLIQOzJM8KiOkd7UCCcOsMt8spWx4yPFX+7W0o3W5zethXv6ii2m1iPwcF5l+LILMjripY3MUUIlNrOdAkuw1B2LLUMGZCwaAQZa89EydYaP4r1aW74rWwW0VsCKUy3FBmuoKzDOkV/UnpJPahARUj7ZlUZs1VZmqzYGfXeuTGF0+uo2XjB82XCCwfBFFpJ2fusZQGlKJmZ7sNbw6ZgzThKt4K/iHo1EGjTdWD2psi92tcqcXdigb4Z5JeXQxJFYmRbVy/U/TYnPuIydcwEa6Ugqg7Wy1rNDlX663nWw1Fx2tL5tVS/rHbVG5ABEtGB+zngxRwr0qAKtjlTCuVjog==;T5O2E2s8AZyV8CAaNkaD/Q=="
 ---

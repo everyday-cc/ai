@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "How creative marketing giant WPP is preparing for generative AI"
-    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
-    publishedDateTime: 2023-10-13T10:56:00Z
-    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
-    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
+  - title: "How roboticists are thinking about generative AI"
+    excerpt: "It’s not exactly right, but I don’t have to start from zero. It’s giving me 70% ... the MIT CSAIL head explained how researchers are using generative AI to actually design the robots: It turns out that generative AI can be quite powerful for solving ..."
+    publishedDateTime: 2023-10-14T20:08:00Z
+    webUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 76
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
-        width: 2062
-        height: 1366
-        isCached: true
-  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
-    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
-    publishedDateTime: 2023-10-11T17:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
-        width: 1024
-        height: 768
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-16-at-2.58.20 PM.png?resize=1200,714"
+        width: 1200
+        height: 714
         isCached: true
   - title: "Vital Insights That Law Firms And Law Partners Need To Know About Generative AI For Their Legal Practices"
     excerpt: "Law firms and law partners need to be thinking seriously about the adoption of generative AI in their legal practices. I cover top asked questions and give vital answers."
@@ -72,15 +58,47 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
-    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
-    publishedDateTime: 2023-10-10T17:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
+  - title: "The Proven Power of Robotics and AI in Logistics"
+    excerpt: "High-performance robots and a blend of unique innovations and sophisticated software are proving to be indispensable in order fulfillment spaces."
+    publishedDateTime: 2023-10-10T16:51:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/proven-power-robotics-ai-logistics"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
+      name: Automation
+      domain: automation.com
+    quality: 69
+    images:
+      - url: "https://www.automation.com/getmedia/333f6225-93bb-4e8e-b129-49f8bde16bc3/robotics-logistics-feature-oct-10-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+  - title: "AI and Robotics Revolutionizing Recycling"
+    excerpt: "The combination of artificial intelligence (AI) and robotics is making the recycling business much more profitable and practical than ever."
+    publishedDateTime: 2023-10-12T17:51:00Z
+    webUrl: "https://emagazine.com/ai-and-robotics-revolutionizing-recycling/"
+    type: article
+    provider:
+      name: E–The Environmental Magazine
+      domain: emagazine.com
+    quality: 49
+  - title: "AI-Powered Robotics: Enhancing Precision and Efficiency in Surgery"
+    excerpt: "In a world where AI technology continues to push boundaries, there’s one groundbreaking innovation that is revolutionizing the operating room: AI-powered robotics. Imagine a scenario where surgical precision meets unparalleled efficiency,"
+    publishedDateTime: 2023-10-14T18:15:00Z
+    webUrl: "https://techbullion.com/ai-powered-robotics-enhancing-precision-and-efficiency-in-surgery/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+  - title: "5 surprising stats about AI-generated art’s takeover"
+    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
+    publishedDateTime: 2023-10-10T13:00:00Z
+    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "t2ZAwXkqzgdNmGpN1+n53FyjdNO/wVxRO3AdBaYQqZUs3MqTYMNdTzp/5pRCLgI40h3pbJParg0H8TNk0bXFe7eQEEwqeqho1P+xYyDyhRwt3yEXQEbj3KtR/cv/abHGPvPC0OV7MJGyL/V5qQtqXWqiS2cqNlO2/3vBsVfYqGs3GaGF2CJ4ZgrabrcOrSWikF8RH5LXjfZZn3BZfE6G4x9z8VPxMqiijU9yHPe8QLYs1gAdrlMO1lZCA/SY+5v0upKQeUR4APMtwJ04vtI4//2LQWrXQPxwZfWc7f34Y1X4JHSoud2YDqExaZJHQaWKVBPNdfgeC02YmriT0PVzQHFGSOSwmANhMspVxjQHI/c=;v1znCkWdE4PvEeTBX84tOA=="
 ---

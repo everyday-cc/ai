@@ -101,22 +101,6 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "Microsoft to unveil its first AI chip next month to reduce dependency on Nvidia: Report"
-    excerpt: "Microsoft is reportedly planning to debut its first AI chip next month at its Ignite conference to reduce its dependence on Nvidia's GPU chips."
-    publishedDateTime: 2023-10-10T04:46:00Z
-    webUrl: "https://www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html"
-    ampWebUrl: "https://www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/microsoft-to-unveil-its-first-ai-chip-next-month-to-reduce-dependency-on-nvidia-report.html/amp/"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 83
-    images:
-      - url: "https://static.digit.in/Untitled-design-28.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft empowers health organizations with generative AI and actionable data insights"
     excerpt: "We’re making several exciting announcements about new capabilities in Microsoft Cloud for Healthcare that will be introduced across Azure to help health organizations improve patient experience, gain new insights with machine learning and AI, and handle health information securely.\nThe post Microsoft"
     publishedDateTime: 2023-10-10T16:00:00Z
