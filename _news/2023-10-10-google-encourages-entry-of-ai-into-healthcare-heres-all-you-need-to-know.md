@@ -101,15 +101,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI in healthcare: trends and application examples"
-    excerpt: "They are available around the clock and are ready to answer questions in real time. This is one of the major applications of artificial intelligence in healthcare, which is increasingly being used to raise awareness and improve self-management skills in ..."
-    publishedDateTime: 2023-10-09T13:47:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2023/10/09/457356-ai-healthcare-trends-application-examples.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 34
   - title: "AI in Healthcare: Patients' Comfort Tied to Familiarity"
     excerpt: "Utilizing artificial intelligence must address concerns spanning across generations, making it crucial to ensure that AI adoption benefits people of all age groups."
     publishedDateTime: 2023-10-10T19:37:00Z

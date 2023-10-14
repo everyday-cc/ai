@@ -2,6 +2,58 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-08-23-meta-is-building-a-space-age-universal-language-translator.md",
+      "title": "Meta is building a space-age ‘universal language translator’",
+      "excerpt": "But Facebook owner Meta wants to change that with SeamlessM4T, an AI-powered “universal language translator” that could instantly convert any language in the world into whatever output you want.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
+      "originalUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/meta-facebook.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/meta-ai-universal-language-translator/?amp",
+      "publishedDateTime": "2023-08-22T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-meta-claims-breakthrough-in-quest-to-build-hitchhikers-guide-style-language-translator.md",
       "title": "Meta claims breakthrough in quest to build Hitchhiker’s Guide-style language translator",
       "excerpt": "The Facebook owner has revealed a new AI tool that can automatically translate speech from 100 languages. The technology can transcribe all 100 languages into text form, while also translating ...",
@@ -1084,49 +1136,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-humanoid-robots-bring-artificial-intelligence-to-services.md",
-      "title": "Humanoid robots bring artificial intelligence to services",
-      "excerpt": "Holding, tilting and twisting a jug of milk to make latte art is no longer the unique skill of a barista -- a humanoid robot could recently be seen swirling hearts into cups of coffee in Beijing. At the 2023 World Robot Conference (WRC) kicked off last week in Beijing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/273940153/humanoid-robots-bring-artificial-intelligence-to-services",
-      "originalUrl": "https://www.malaysiasun.com/news/273940153/humanoid-robots-bring-artificial-intelligence-to-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/xih1692722643.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -41,6 +41,22 @@ related:
         width: 876
         height: 640
         isCached: true
+  - title: "More than half of drivers think self-driving cars will make UK roads more dangerous"
+    excerpt: "As more developments are made in the rollout of autonomous vehicles, a new study has noted more than half of UK motorists are against self-driving cars."
+    publishedDateTime: 2023-10-13T12:22:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 38
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/driverless-car-china-5010451.jpg?r=1697208433387"
+        width: 590
+        height: 393
+        isCached: true
 
 secured: "Ai3dEpscIYvFsGBHNZot1eZHPHJ91FRnEZ7F1qb/dbEt2lu8VE9aQ4c193aN6Km9VXc+UNvu2W/rz8m9O998ihH2Ip6MP+xWj40ksFop5jll4XEwc9M+353/ZqAcyeRtP0jZBLwEF9lrraeUUyrRZJPylqStlSwQJNYFNiadds1wOWuDtY4ZupbHeRNxoRRmNTd4r9ghBb3pXWAKOpTpuTcL63C6a66vM+sZc3goCnYk8HpN8pPB5N9YzKVlm63QYu5ToRDNjp5MgLfqRQ/fYnwzAF6poF5EKbIMD2zVmXSTcsWJpyRz3Ylzhu7zrdbSu0br9s/+Uxbq78SVIpuwCMk8Vsyq8RUeclV8jQAPembRo3NFP3Ddt29QFcQCU+ccpVpjfLwO2S/nnPq6HfEGfz7IETkaafrFzILihmHKEc48jtVtHteCV3XbvfIZEwqFMF8SrGZw1mG7QzVITAWqbEKYSbGmo7n8rImJEvzaRDbIU1WeFSOfBWXryPyoe5giDy6TcOMYitJBlXit+vshQg==;DdJVMgWtgjNFAW+pLCEbrg=="
 ---

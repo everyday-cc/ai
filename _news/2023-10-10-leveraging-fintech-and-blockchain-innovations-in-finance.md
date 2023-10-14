@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
 type: article
 quality: 104
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -218,15 +218,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S."
-    excerpt: "Future of Finance: Nubank’s Vélez discusses FinTech’s rise in emerging markets and how Brazil is 5 years ahead of the U.S. Welcome to Future of Finance, where Fortune asks prominent people at major companies about their jobs, how their firm fits into the crypto ecosystem, and what it all means for how we use money."
-    publishedDateTime: 2023-10-09T13:30:00Z
-    webUrl: "https://www.aol.com/finance/future-finance-nubank-v-lez-103000795.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 8
   - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
     excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
     publishedDateTime: 2023-10-11T11:26:00Z

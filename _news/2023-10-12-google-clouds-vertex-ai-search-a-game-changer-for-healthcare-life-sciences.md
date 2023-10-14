@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/google-clouds-vertex-ai-search-a-game-changer-for-healthcare--life-sciences/amp/"
 type: article
 quality: 100
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/06PyVcjR8KlE9qbxcj8TiyB-1.fit_lim.size_1200x630.v1697208916.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Google Cloud launches AI search to empower healthcare"
-    excerpt: "Google Cloud has introduced new artificial intelligence-driven search capabilities designed to aid healthcare professionals in swiftly accessing precise clinical information from a variety of medical records."
-    publishedDateTime: 2023-10-09T13:33:00Z
-    webUrl: "https://www.arabtimesonline.com/news/google-cloud-launches-ai-search-to-empower-healthcare/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 54
-    images:
-      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/unnamed.jpg"
-        width: 600
-        height: 331
         isCached: true
 
 secured: "6jeK+CK9XY/JhALWTVkUt7ccM/77PDDPBtBGAI5mCoN9vzZ5162C/YRMttJRjPbMXGsp5DRsoofEyMB4cuoFjHxT7U4jN/Yfn3VgENy4Wd+9c0QTqD0F8GlyngnwJirwwqujN2qMrEjJO8AUZvkoggOWG1Xlji1N7t+9mJZjGzwedeW3RT8linRbnuMiT2NBSGzZ3tkLsTyhsxILW+1mWyrm15JrH34H4sf2fIhGc06IafzlZWw/ClV5cwzKC9tpusv8woyOszWaQ9xAI14D7T8Ah5dkqQUMWUJSkSYixujSIVdJ+juxJ+IKm4KE89sAjKMKtzAYQ1exNFfmXe5ZHYtDwtO83Jat4RZ1i3YBqPbAtd/L7KF1agVEXEnGc+05uOVf9us/kcmis1PH6b2V3dxnjaR0eToRjzxYcy/oi/hmUdZ3h99TRLOZPxu6B60ub/N2Q0qZrk75abU0vtv2Yyx8bvU98yf11JFkk8QCJPF/HYAQnwECb17uUQ3sUo/mY5D3kuaNAHIT7j4vuPUtZQ==;hH7KobG1WujZvAY/De4K9Q=="

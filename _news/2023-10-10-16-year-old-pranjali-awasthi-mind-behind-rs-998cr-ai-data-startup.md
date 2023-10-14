@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "16-year-old Pranjali Awasthi, owner of AI startup Delv.AI, raises ₹3.7 crore funding"
-    excerpt: "Sixteen-year-old Indian girl Pranjali Awasthi, the owner of artificial intelligence (AI) startup Delv.AI has successfully secured a funding of around ₹ 3.7 crore, said a report by Indiatoday.in. At a Miami Tech Week event, Pranjali revealed that Delv.AI was founded by her in January 2022, as per the report."
-    publishedDateTime: 2023-10-09T15:04:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 50
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/The-words-Artificial-Intelligence-are-seen-in-an-i_1685385941309_1696863759427.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Pranjali Awasthi: 16-Year-Old Entrepreneur Raises Millions For Her Rs 100 Cr AI Startup"
     excerpt: "A 16 year old Indian girl has taken the internet by storm by raising 3 crore funding for her AI startup launched in 2022. Read on to learn about this GenZ girl who has raised the bar for success."
     publishedDateTime: 2023-10-11T11:42:00Z

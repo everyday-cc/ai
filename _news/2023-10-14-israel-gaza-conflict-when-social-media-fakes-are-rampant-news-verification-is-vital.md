@@ -1,25 +1,31 @@
 ---
 category: news
-title: "Israel-Gaza conflict when social media fakes are rampant news verification is vital"
-excerpt: "As news of Palestinian militant group Hamas launching a deadly attack on Israel and Israel’s threat of retaliation began to filter across news networks and social media platforms, a wave of misinformation and fake videos rose alongside."
-publishedDateTime: 2023-10-14T05:45:00Z
-originalUrl: "https://www.theweek.in/wire-updates/international/2023/10/14/fgn14-israel-gaza-fake-news.html"
-webUrl: "https://www.theweek.in/wire-updates/international/2023/10/14/fgn14-israel-gaza-fake-news.html"
-ampWebUrl: "https://www.theweek.in/wire-updates/international/2023/10/14/fgn14-israel-gaza-fake-news.amp.html"
-cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/international/2023/10/14/fgn14-israel-gaza-fake-news.amp.html"
+title: "Israel-Gaza conflict: when social media fakes are rampant, news verification is vital"
+excerpt: "The rise of misinformation and fake videos surrounding the Israel-Hamas conflict highlights the importance of verification efforts by journalists. According to the Digital News Report 2023, 56% of people surveyed expressed concerns about identifying real news from fake news on the internet."
+publishedDateTime: 2023-10-14T06:03:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/articleshow/104416569.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/articleshow/104416569.cms"
+ampWebUrl: "https://m.economictimes.com/tech/technology/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/amp_articleshow/104416569.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/amp_articleshow/104416569.cms"
 type: article
-quality: 18
-heat: 18
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: The Week
-  domain: theweek.in
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "fw0wp/fGwehKuYr+wfzQoDBgY5FJQQX8FEEgwwkb3iAqvW38rlMdMXEGRqp1ens1PU5pxCGBCga0H0ub/J4FRZg5Y7Z/6k658YKWwAq9/8mWkxvDr1ElljqxguvVSi6HAru2DQ+VHOAAWeN5bSgm80Bch1P2R577/RqodrIToLWzKssG1ReVJ9D8iTsSHxzxBDaI7YhHY+z7mTjUiV/3DfGLixw4R8dYQfoDVzjCfwMKxTpTAV4g92mGEfswqUNk2F23tF1TR3lWHKF4ZK7zH6s9/CgpF/RlqiLn2sXLJSFMbu9W9H4p/POtTs1qcQ89O3VcpumWFyJP1fnBcMAylglQG4mjSkH7vdd7rqUe9AM=;jilNoPbenRyiNh9g6Bsugg=="
+images:
+  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-209638,msid-104416583/eu-asks-musks-x-for-information-on-hate-speech-and-illegal-content-related-to-israel-hamas-war.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "NK0180ZIjyAvwfibebQK1JSw0jIl2CUznrtRJW+Hl4hnkNy5Ajs9+xh4i3nToMKETQPaBuqcQlCYrIVWgRQy5MpItH6OEz1Y13T5DvkJZAFe5psjrE0eR9pYGhqSeGFkABoh2OrwdsGJN1O3zHIdUwEwcXP2jf0JurkVGWASoEbnvYfMZGbBwa2jxcip8KkvqKF2vh4I8fACfmhz7O/1n0QAqMaXwRUj+YSCsLpKgQZK7c2gPZ9zJrehAVfK8yKoUjWI+Pw682Cc8Q9/zd5G8CpCFF1IOFmM1an8ljfMdiVHyBp9P037ecVhWwa/im7c+xGKSlrrAaqKvV7sUNl/kdCjwViTdNwmx/xTqb79Gsk=;2lySIWV1M5LNhKzks99HLg=="
 ---
 

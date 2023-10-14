@@ -9,7 +9,7 @@ ampWebUrl: "https://ampe.vnexpress.net/news/travel/vietnam-china-resume-self-dri
 cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,52 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers"
-    excerpt: "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is."
-    publishedDateTime: 2023-10-09T14:00:00Z
-    webUrl: "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/"
-    ampWebUrl: "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/"
+  - title: "Could Chinese Self-Driving Cars Go On A Programed Killing Spree In America? Some Lawmakers Think So"
+    excerpt: "Several Chinese companies are legally testing autonomous cars in the U.S. but some members of Congress want to crack down on self-driving startups"
+    publishedDateTime: 2023-10-09T18:30:00Z
+    webUrl: "https://www.carscoops.com/2023/10/could-chinese-self-driving-cars-go-on-a-programed-killing-spree-in-america-some-lawmakers-think-so/"
     type: article
     provider:
       name: Carscoops
       domain: carscoops.com
-    quality: 58
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "More than half of drivers think self-driving cars will make UK roads more dangerous"
-    excerpt: "As more developments are made in the rollout of autonomous vehicles, a new study has noted more than half of UK motorists are against self-driving cars."
-    publishedDateTime: 2023-10-13T12:22:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 38
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/driverless-car-china-5010451.jpg?r=1697208433387"
-        width: 590
-        height: 393
-        isCached: true
-  - title: "What’s the difference between Tesla Autopilot and Full Self-Driving? – Digital Trends"
-    excerpt: "Cars are quickly changing. Companies are increasingly adopting new technologies to roll out fully electric models. At the same time, those companies are"
-    publishedDateTime: 2023-10-10T22:03:00Z
-    webUrl: "https://www.inferse.com/749565/whats-the-difference-between-tesla-autopilot-and-full-self-driving-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 32
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-6545.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 0
 
 secured: "zP5qSmB6m/IKxksji95OjsGDJU1DEIML27+bcMjt5RnAdDrWNuXOhL2TsHioiP714K9czDwSBtUWbFCa1uJyk8SPlK7m/dp0UZb0SPZ4nzKSht1s+pLLYp2S1+QcqXPnQ+eueFNvPBo13PzgnS9QVDfXSr3D6dq3eJzIsbo1fsMPujEXcD2x8cgNCpbGLPGY1TXV2D9zCcmajONgbln/ixCHSvzR2eqVjtioQh9E0zC/i99/tRNn629NUfZAI8RUPZH6GvUtmcxJNTw9VfB6eBa7J/U7AIYSjiIgj3UWIY0ylLCl1EVlY4XjCKPH5PieYM0vWxtUd7y55nHq57YrXuuZSO/ONLoZSr0AXnYZWh8=;1usYOidEAAjXSDAnE1w0hQ=="
 ---

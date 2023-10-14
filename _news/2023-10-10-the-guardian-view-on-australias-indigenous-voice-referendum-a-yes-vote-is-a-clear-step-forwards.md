@@ -122,20 +122,20 @@ related:
         height: 630
         isCached: true
   - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-    publishedDateTime: 2023-10-14T05:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    excerpt: "Australians voted in a referendum Saturday on whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives. Proponents said creating an Indigenous Voice via the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies."
+    publishedDateTime: 2023-10-14T07:48:00Z
+    webUrl: "https://www.aol.com/australians-decided-indigenous-voice-needed-044835784.html"
+    ampWebUrl: "https://www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: AOL
+      domain: aol.com
     quality: 35
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.yimg.com/ny/api/res/1.2/G_QCQkFLthlTLBM0ZRCcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a80222dfa9b3ee62432a75f3a765fb96"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
     excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."

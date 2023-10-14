@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/PBd5vT3H.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "IT Minister will support data development for AI models"
+    excerpt: "The India datasets platform will be one of the largest and most diverse collections of anonymized datasets to train multi-parameter AI models."
+    publishedDateTime: 2023-10-14T06:32:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/it-minister-will-support-data-development-for-ai-models-829756"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 41
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/10/14/1389165-rajeev-chandrasekhar.jpg"
+        width: 1200
+        height: 720
         isCached: true
   - title: "AMD acquires open-source AI software developer Nod.ai"
     excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."

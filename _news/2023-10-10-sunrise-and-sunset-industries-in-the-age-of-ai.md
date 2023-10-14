@@ -87,15 +87,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 51
-  - title: "The AI Advantage In Attracting And Retaining The Right Talent"
-    excerpt: "Many advancements in AI provide the tools firms need to excel across various activities related to talent acquisition"
-    publishedDateTime: 2023-10-09T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2023/10/09/the-ai-advantage-in-attracting-and-retaining-the-right-talent/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Building trustworthy media ecosystems in the age of AI and declining trust"
     excerpt: "More than two billion people globally will be participating in the democratic process in 2024, with elections happening in countries"
     publishedDateTime: 2023-10-10T04:55:00Z
@@ -110,15 +101,6 @@ related:
         width: 700
         height: 371
         isCached: true
-  - title: "Addressing the Abuses of Generative AI in the Legal Profession"
-    excerpt: "Transparency and accountability are essential in addressing these concerns. Legal professionals must have a clear understanding of how AI systems make decisions and generate content. They must also be vigilant in scrutinizing and auditing AI-generated work to ensure it aligns with ethical standards and legal principles."
-    publishedDateTime: 2023-10-09T13:17:00Z
-    webUrl: "https://www.law.com/njlawjournal/2023/10/09/addressing-the-abuses-of-generative-ai-in-the-legal-profession/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
   - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
     excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
     publishedDateTime: 2023-10-12T21:00:00Z

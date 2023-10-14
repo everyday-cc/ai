@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Health care: No clear AI winner yet, say experts at HLTH conference"
-excerpt: "More than 10,000 individuals descended on Las Vegas this week as health and tech companies ranging from startups to Fortune 500 juggernauts showcased their latest digital health chops at HLTH 2023. Last year's big takeaway focused on moving away from single-point solutions."
+excerpt: "But it's unclear what use-case for AI in health care will ultimately win."
 publishedDateTime: 2023-10-13T22:31:00Z
-originalUrl: "https://www.aol.com/no-clear-winner-ai-health-193147987.html?ref=biztoc.com"
-webUrl: "https://www.aol.com/no-clear-winner-ai-health-193147987.html?ref=biztoc.com"
+originalUrl: "https://www.aol.com/finance/no-clear-winner-ai-health-193147987.html"
+webUrl: "https://www.aol.com/finance/no-clear-winner-ai-health-193147987.html"
 type: article
 quality: 39
 heat: -1
@@ -44,6 +44,6 @@ related:
       domain: aol.com
     quality: 12
 
-secured: "ugfgHLo1VJZ1qJO576goA+ostONMH1CuROOMqKkYWFL4VoB5VQTjzpgKQ+sp3+OwRsHmXM/31v6baDwRbQdomtDGiPI5EKUDCkW2eBRC4+wN7+9N9EMqflDT3rUbK9xzljUjtssWNddN1IU1R0EEV8Fw9Zm4QGc7oJwVa5eUm7SK50vYxvPkw+mgRk+LnG7Js+tAuC26z1sQxcdOCrHafGmkMkWx7+xlky+XNqeLNrlS/0s4ytpl5HoLJ2yGIxfvScIMLLQaqFGfi0SZq1d/dOBfMKKx9E708Ep5YkQW762G3e7Aa94I3ocnYGn85cXH8BET0Rf6kLegOTDPM98CCFk42IJ7eYvC74TJhjHfDDbsicMT0WKwP8YYjcSlVwYR3RyRo5BsM56tg4g39JcuU/Q4EvgFtfZuya4Q9hgF4iwlGdDFFq8NpW+fy8cnvAcnqVKSJYKMSR433nb/fHiki07uIqFo5sO+hXRD3Xn6FUrFZQyzH0Qr5/4Yjtkgu+7F6ywoJVK5WZQsDYiEVMpQYg==;ls4i1/384VBBHnAwneoy3Q=="
+secured: "245sVC7dVcIyya/Xcv0KbXZIgY9qpJY2SpPo7oMU4cop7XbzwdEX1DlnP9u9fryf5emgNpjSgZATB8u6z5JVSCshnsy5kgjftoEAYwu4lm7garFxuEBjRAVk+aHUG1IyASX1HtW6PIQVcylHpoxTJM42/Aqu1vd4hTtd9GwRy/aAmcOjl9z9puPaEFNX3vEFSE2JtBst2EUCSzaibFuDWxxL23IBCsr7FajZtDt2rsf2iGZHZV0LoQbWbe7fM/s2AZ7CODrzkcbDxcknjfipFCtH7s8xbdR78mrOpUXYmvUhRfGzp4amzZB0XIpW8hRuqhLwga8lf3OdyHbzOPGbQXXDh6rEu3x2rEEmSFMj/00=;KU2RdKOF2goEtlUoxcXsIA=="
 ---
 

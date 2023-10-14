@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-regulation-2023-us-eu-china-100-1
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-regulation-2023-us-eu-china-100-10?amp"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "EU: Artificial Intelligence Regulation Should Ban Social Scoring"
-    excerpt: "Human Rights Watch, La Quadrature Du Net and EDRi shared a proposal with the European Council and the European Parliament to strengthen the regulation’s prohibition on social scoring."
-    publishedDateTime: 2023-10-09T13:30:00Z
-    webUrl: "https://www.hrw.org/news/2023/10/09/eu-artificial-intelligence-regulation-should-ban-social-scoring"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2023/05/202305tech_mena_jordan_illustration.jpg?h=6c8f15e6&itok=PHwCg2gi"
-        width: 374
-        height: 374
-        isCached: true
   - title: "Scholars propose unified global regulations on facial recognition"
     excerpt: "facial recognition, without global trade regulation, could pose a threat to democracy around the world and help entrench autocratic regimes."
     publishedDateTime: 2023-10-10T20:49:00Z

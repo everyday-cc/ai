@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-up
 webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
 type: article
 quality: 84
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://images.barrons.com/im-91984761/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Israel-Hamas War Causes Nvidia To Cancel AI Summit"
-    excerpt: "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation."
-    publishedDateTime: 2023-10-09T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
     excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."

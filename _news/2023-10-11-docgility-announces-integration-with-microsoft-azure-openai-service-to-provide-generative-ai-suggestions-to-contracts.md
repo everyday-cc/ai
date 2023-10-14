@@ -163,20 +163,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft’s First In-House AI Chip Could Be Revealed Next Month"
-    excerpt: "Microsoft is reportedly working on its own AI chip to lessen its reliance on Nvidia GPUs for AI workloads. According to The Information, the new AI chip could be officially announced in November, which is when Microsoft will hold its Ignite conference for IT pros."
-    publishedDateTime: 2023-10-09T14:07:00Z
-    webUrl: "https://www.thurrott.com/cloud/290645/microsoft-first-ai-chip-could-be-revealed-november-2023"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/10/Microsoft-AI-Chip.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Microsoft's AI Alignment Boosts Investor Confidence According to Morgan Stanley"
     excerpt: "Weiss highlights that the MS 3Q23 CIO survey suggests stabilization in IT spending growth in the near term, with expectations for 2023 holding at +2.7% YoY sequentially and early reads offering modest acceleration in 2024 at +3.4% (+64 bps YoY)."
     publishedDateTime: 2023-10-10T18:36:00Z
@@ -241,20 +227,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft to compete with industry leaders NVIDIA in developing AI processors"
-    excerpt: "According to The Information, Microsoft is currently in the process of developing its own AI processors. These processors are specifically designed to handle"
-    publishedDateTime: 2023-10-09T14:18:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-to-compete-with-industial-leaders-nvidia-in-developing-ai-processors/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 53
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2023/05/Intel-vs.-NVIDIA-Chipmakers-Bing-Image-Creator.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Domino’s partners with Microsoft to launch AI assistant for store managers"
     excerpt: "Domino’s Pizza and Microsoft have announced a joint effort to add Artificial Intelligence technology in order to support the restaurant’s store managers."

@@ -68,20 +68,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Israel-Hamas War Causes Nvidia To Cancel AI Summit"
-    excerpt: "Nvidia is calling off a company event due to the war between Israel and Hamas. The GPU maker was originally scheduled to hold its AI summit later this Sunday in Tel Aviv, Israel. But the official website for the event has since been updated with a statement announcing the cancellation."
-    publishedDateTime: 2023-10-09T14:10:00Z
-    webUrl: "https://www.pcmag.com/news/israel-hamas-war-causes-nvidia-to-cancel-ai-summit"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05ZWqiIH8MXMo2BomGGzCvL-1.fit_lim.size_1200x630.v1696859178.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
     excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
     publishedDateTime: 2023-10-13T14:56:00Z

@@ -96,6 +96,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "IT Minister will support data development for AI models"
+    excerpt: "The India datasets platform will be one of the largest and most diverse collections of anonymized datasets to train multi-parameter AI models."
+    publishedDateTime: 2023-10-14T06:32:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/it-minister-will-support-data-development-for-ai-models-829756"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 41
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2023/10/14/1389165-rajeev-chandrasekhar.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "fU6gCr0Ty90xW3wcfEKeX02lPjZT8z6hACi2r2sSaQVMpmHzWD+6peE3qCsZpfHq/TyAKJ/bFdSm4JCfkCWZa3N3RoQ7tvMGigAUCibciRLPE1+c7PSln9rk+CgLLhJeF6FZg92NOhUpt+B1kFnepY+j1dOwJAkUrndc35GqlqpIMc80s6WSGpJwLkV/gjaEnZo0JZjJqGwy2M/DiajJ7gCquD2NgJp5TulqW2nxOWkOlvSmDOdTrkw7sIgd9ecEmgjx5oP1BpXbz8tWKGakXoAwXJWckNGqxDaD8rPdivOpiaY7r+CXdwErJcVVHvODeQlM+DXe253oRTI+XuCKpDEZ2kFR1VKu8K7Efudlvv9r3oGrFRETA+z9TFJuwpzGk/w0ZPsa1saPsb1goulz5bzA/nPt2R5pyj8j03vvjCKHEUkLoaF6xuMUWMRcpCzyF3PaQxbhVFQqvvl1bPLeYPwp5okqdzouE/LuPYtJaBxQrbzKt+YLRkbFS9CYwpHRAv2b9ixZqxSq5FsVN/Q5hA==;kFSXo0V++KLjj4R2AG1SJw=="
 ---

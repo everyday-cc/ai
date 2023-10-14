@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-publishedDateTime: 2023-10-14T05:02:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+excerpt: "Australians voted in a referendum Saturday on whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives. Proponents said creating an Indigenous Voice via the constitution would recognize the special place that Indigenous people have in Australian history while giving them input in government policies."
+publishedDateTime: 2023-10-14T07:48:00Z
+originalUrl: "https://www.aol.com/australians-decided-indigenous-voice-needed-044835784.html"
+webUrl: "https://www.aol.com/australians-decided-indigenous-voice-needed-044835784.html"
+ampWebUrl: "https://www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/australians-decided-indigenous-voice-needed-044835784.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s.yimg.com/ny/api/res/1.2/G_QCQkFLthlTLBM0ZRCcTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/a80222dfa9b3ee62432a75f3a765fb96"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -233,6 +233,6 @@ related:
         height: 900
         isCached: true
 
-secured: "mat8N9oeqcMstKebwuwdsrr7c8Eu/V+w1FQ0wpUtxRIfuJ0RRXgWyzh7HIG6AxkOjTjoH3QIiIQcCm3rSjGMYMNxso09EVeaU+vAXcAH8/Npoaxw8Ykbr7bwdiJaMcMHzH3nHGt2u/lDG5uKqnZobMxIou3l1s75m/owChstwStRIjPgphrPgQjv/P+xRZeQ1e3jXSZiPz4TJabp34aqfgEBFVh9sFH9xJWU6ye5X8i2l/iv7jOBlhd6fKTLsiB6F6NykEMGJktAoB0L4e39+7Q9ClzVbdy34BAUChS0dWLoLPB8D0dYc7mpjEObcmza28Fz6WDBoFJe82IsTZ+j8iggGM1B5TJBMpU/vTgdit8=;YyAVXGz7OJV2YNd4tIcYUw=="
+secured: "bUWMUb8zgALBsoBeJ0ZR4I5Oe0+m4uWt+LmeqN5CjeZvN5tacNLdB0Dx7HFUIZwbB6xGa/6ZytjIQHXQ5NmbdQRrc3mNQdnaLgWWlY0kREdS5ABKdcWCUSV1B+f3IirN9Plp/kUszyy1+FRgV9uOmwbdV4wM2pra9fZ9ti4Mb3HWhFwyPF9lSUucvQv/QrL63nlUzCM4zuQJ6v9JeKzb/NmdJGtDmBbbqXUTBKAidS/q9ldQdHc8y7QDcQrOVsr/93YXVnLg299EMqVIZCdVX2J8mSmmixEs4g1s3jY25sEWDJbJp6YQHEBIuq9ChO9doQVI9AqD0Ma020Vcjf8E3VkItGEGrYX990lELiVAhN8=;J7MM0/ZpTbBgfop8nDMJcA=="
 ---
 

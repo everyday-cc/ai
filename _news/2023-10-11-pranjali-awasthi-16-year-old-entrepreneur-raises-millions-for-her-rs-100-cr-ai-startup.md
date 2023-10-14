@@ -9,7 +9,7 @@ ampWebUrl: "https://www.herzindagi.com/amp/inspiration/pranjali-awasthi-16-year-
 cdnAmpWebUrl: "https://www-herzindagi-com.cdn.ampproject.org/c/s/www.herzindagi.com/amp/inspiration/pranjali-awasthi-16-year-old-indian-girl-ai-startup-founder-raised-3-crore-funding-article-249618"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "16-year-old Pranjali Awasthi, owner of AI startup Delv.AI, raises ₹3.7 crore funding"
-    excerpt: "Sixteen-year-old Indian girl Pranjali Awasthi, the owner of artificial intelligence (AI) startup Delv.AI has successfully secured a funding of around ₹ 3.7 crore, said a report by Indiatoday.in. At a Miami Tech Week event, Pranjali revealed that Delv.AI was founded by her in January 2022, as per the report."
-    publishedDateTime: 2023-10-09T15:04:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding-11696863120768.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/16yearold-pranjali-awasthi-owner-of-ai-startup-delv-ai-raises-rs-3-7-crore-funding/amp-11696863120768.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 50
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/The-words-Artificial-Intelligence-are-seen-in-an-i_1685385941309_1696863759427.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "16-Year-Old Pranjali Awasthi: Mind Behind Rs 99.8Cr AI Data Startup"
     excerpt: "Pranjali Awasthi’s Delv.AI, valued at $12M, is revolutionising data extraction and research with innovative AI solutions."
     publishedDateTime: 2023-10-10T16:22:00Z

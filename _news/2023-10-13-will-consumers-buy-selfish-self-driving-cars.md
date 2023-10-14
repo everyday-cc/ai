@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self
 webUrl: "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self-driving-cars-73ac7d52"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "More than half of drivers think self-driving cars will make UK roads more dangerous"
+    excerpt: "As more developments are made in the rollout of autonomous vehicles, a new study has noted more than half of UK motorists are against self-driving cars."
+    publishedDateTime: 2023-10-13T12:22:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 38
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/driverless-car-china-5010451.jpg?r=1697208433387"
+        width: 590
+        height: 393
+        isCached: true
   - title: "GM's Cruise Fine Tunes Self-Driving Safety For Easier Coexistence With Emergency Responders"
     excerpt: "However, less than two weeks later, the California Department of Motor Vehicles (DMV) directed Cruise to withdraw 50% of its autonomous vehicles from the roads after one of its self-driving cars collided with an emergency vehicle. Check out more of ..."
     publishedDateTime: 2023-10-13T10:03:00Z

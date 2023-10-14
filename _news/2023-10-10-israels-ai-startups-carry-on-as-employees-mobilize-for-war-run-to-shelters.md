@@ -67,6 +67,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 41
+  - title: "Israel-Hamas war: When social media fakes are rampant, news verification is vital"
+    excerpt: "As news of Palestinian militant group Hamas launching a deadly attack on Israel and Israel’s threat of retaliation began to filter across news networks and social media platforms, a wave of misinformation and fake videos rose alongside."
+    publishedDateTime: 2023-10-14T01:03:00Z
+    webUrl: "https://www.deccanherald.com/world/israel-hamas-war-when-social-media-fakes-are-rampant-news-verification-is-vital-2726765"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 19
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F5a01c035-b7d3-4085-a0c8-db625f787d93%2F2021_05_18t173836z804255781rc2gin992vqsrtrmadp3israel_palestiniansjpg_987457_1621391261_987843_16214.jpg?rect=0%2C0%2C700%2C368&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wz4BQUEK4oZDOf4UwpX832pNDmulgvXE0mgAN9VFcaByWlXmcl4cswRt3tPEh3SL4eFaYLIIwbzjuYollCyteGrB1nXpWKuiK/eh3UylUnkSgIdRaWsJBgwSQm7f3comgi0Uzkr4f1C/i0dU4jra8MkPrgk7MSAKKBLd4XPIFu9swE30h244pk1d5u/IKZzaX/mS1rhd47DathP2Q9YcmivpCp0fgA74SYcw+9yCftuHSTE8i/JkndJc9eEIwezyVnQUC5LboEPUSTyFZYtr9Y2hVdQF6eWCEEHWzEMBBO4HbIqC/mGoIOO0SEN2nlf10HWGJqfbH8e6d6IWfz2HdGNLnT8QdTBvMn9aUh+Bxze29m9fuaTcHIex9SqYGVqKKA+M5CgVQcClYVfHVpv57llNRLRdLEVRUkwuF089qcg5a7b3oA43vEeMnLH7cfQKFC8gG5xf5pGEcMP9W+jTmRxN77fN+3MgAdfBK+WYCWlZlNjmU8Vb12fGmEaHwXzDIoRb7bxHAESpObxGDYo50w==;cP7un/dcOTY7ehnTCjgHHw=="
 ---

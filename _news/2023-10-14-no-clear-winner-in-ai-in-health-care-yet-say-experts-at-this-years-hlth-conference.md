@@ -29,9 +29,9 @@ related:
       domain: blog.google
     quality: 69
   - title: "Health care: No clear AI winner yet, say experts at HLTH conference"
-    excerpt: "More than 10,000 individuals descended on Las Vegas this week as health and tech companies ranging from startups to Fortune 500 juggernauts showcased their latest digital health chops at HLTH 2023. Last year's big takeaway focused on moving away from single-point solutions."
+    excerpt: "But it's unclear what use-case for AI in health care will ultimately win."
     publishedDateTime: 2023-10-13T22:31:00Z
-    webUrl: "https://www.aol.com/no-clear-winner-ai-health-193147987.html?ref=biztoc.com"
+    webUrl: "https://www.aol.com/finance/no-clear-winner-ai-health-193147987.html"
     type: article
     provider:
       name: AOL

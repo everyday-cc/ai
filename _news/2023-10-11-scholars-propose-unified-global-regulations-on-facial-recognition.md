@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "EU: Artificial Intelligence Regulation Should Ban Social Scoring"
-    excerpt: "Human Rights Watch, La Quadrature Du Net and EDRi shared a proposal with the European Council and the European Parliament to strengthen the regulation’s prohibition on social scoring."
-    publishedDateTime: 2023-10-09T13:30:00Z
-    webUrl: "https://www.hrw.org/news/2023/10/09/eu-artificial-intelligence-regulation-should-ban-social-scoring"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/styles/square/public/media_2023/05/202305tech_mena_jordan_illustration.jpg?h=6c8f15e6&itok=PHwCg2gi"
-        width: 374
-        height: 374
-        isCached: true
 
 secured: "WKjPrVvxMO7pa99xy1Jsxos7YYHkbvBfZEEokUR/bNTMe0Y8LNZsXVzV8uMbkUdK0TeVCSp13BDejcZ8ZqxHpQZQJSS8A0AbQQzrlv8lsz6NIE8T4wja7ei9UXDdntvcrcmlzupwuONH9sO5wanSY50vwD/T/HDsYEsmw38hwcmnBfQkktG4xF+Fv8/XK9G9NOq1YrT3fFDuNbXepbYS2tu22a/8TBrC/U7SYl9bDwFEHPW9MEjeoGBxPGmJgAZSu5zGJrIsNk6Cx4MXxdlZr7N/Jw8OJfz3GiqYTQF8VBSuX1yGxzNL6q32hmxWiep/AMqMOfjXYUC6y4syRJnTk8KNiE9c4b8UN+g7pnlReDTHgNRalKz7spxxV4CkViICYcdqWVgo+Hcwff81D3i5EdT/o2LGCsw8CwKY9ug9mEO1Ou748zuUK0kKbwt382+647c3OPBy/ZzaK10PcIhr51V/CRxFNrF3grDMJZv/wKku6dkWTH9ClAp1enbfvStKL7O/QcgzP7EbKdfh9O0zYQ==;gn6opGqotQ4x2w5R/ymNXw=="
 ---

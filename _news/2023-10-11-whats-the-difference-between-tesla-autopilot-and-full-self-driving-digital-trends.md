@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/749565/whats-the-difference-between-tesla-
 webUrl: "https://www.inferse.com/749565/whats-the-difference-between-tesla-autopilot-and-full-self-driving-digital-trends/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,56 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Tesla Engineer Says ‘Full Self-Driving’ Name Isn’t Meant To Trick Buyers"
-    excerpt: "An engineer from Tesla has asserted that the car manufacturer did not name its suite of automated driving functions as ‘Full Self-Driving’ in an intentional move to make customers believe the system is more advanced than it currently is."
-    publishedDateTime: 2023-10-09T14:00:00Z
-    webUrl: "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/"
-    ampWebUrl: "https://www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-engineer-says-full-self-driving-name-isnt-meant-to-trick-buyers/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 58
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2023/10/Tesla-Autopilot-a.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Vietnam, China resume self-driving tours along frontier"
-    excerpt: "Vietnam and China are set to resume their self-driving tours at border areas beginning late this month after more than three years of suspension due to Covid."
-    publishedDateTime: 2023-10-10T00:17:00Z
-    webUrl: "https://e.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
-    ampWebUrl: "https://ampe.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
-    cdnAmpWebUrl: "https://ampe-vnexpress-net.cdn.ampproject.org/c/s/ampe.vnexpress.net/news/travel/vietnam-china-resume-self-driving-tours-along-frontier-4662798.html"
-    type: article
-    provider:
-      name: VN Express
-      domain: vnexpress.net
-    quality: 44
-    images:
-      - url: "https://i1-english.vnecdn.net/2023/10/09/387177053747965480204973061986-2655-9680-1696856006.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=sM-fHbMlcPr8ZaCrmBKaSw"
-        width: 1360
-        height: 816
-        isCached: true
-  - title: "More than half of drivers think self-driving cars will make UK roads more dangerous"
-    excerpt: "As more developments are made in the rollout of autonomous vehicles, a new study has noted more than half of UK motorists are against self-driving cars."
-    publishedDateTime: 2023-10-13T12:22:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1823392/driverless-autonomous-vehicle-safety-concerns/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 38
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/secondary/driverless-car-china-5010451.jpg?r=1697208433387"
-        width: 590
-        height: 393
-        isCached: true
 
 secured: "39AnSxRfFkVvgOBtU32L2Z3Qdj44scGaQQJMlaIfSzVgNn+Q0xHMwFGJt3EXLNVXNwEbqbsHWqWeOrB5+OtmRgHOiqu01MEiXVQlA7zoaqsJyZsMJkQjRqSegIV9ZMEYJNHgPkB3k7l0tzutITQ529XF0lCRP1lrUhOxwLTfcCBkf5s0tRvgnby0YrbaVaMj9EmLuhjWDuvbeLAtiBV7G83MZuaB58jR3HK9c8nPVbGaEnM6evB+d1iQUVylIzRsZEABoxo/xa4XHWWGp3XFUre+8TOaeoyHeIUUKsO2OJ3mgQUahKQXanIx1B3ynpxFyOQPi4aGeyGu0iUYIlxcACGRnklbqvzTmy6QxyJmqzmqIWSrcRmK8CUwaHuPU7f9aPDgu04eY6V1Ef+dB+KoZXgo2XMz82PJq3KlMJe3MbZ3sZycAYVyBhqJIshEmWc5JuTyfIxUQnLSExedRGPLUXmaWhhhVFz/R+9a1avGBc2Ky2f1UYxp+hx+Ln2BP6DSBNNabZ7s6cZnBomMcpedPA==;dIczsB/1QExKF/ZhIgEaVw=="
 ---

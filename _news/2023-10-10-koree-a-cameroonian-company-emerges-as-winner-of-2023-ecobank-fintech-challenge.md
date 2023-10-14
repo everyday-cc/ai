@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cameroonian firm wins African Fintech Challenge"
-    excerpt: "Pan-African Banking Group, Ecobank Group, has announced Koree, a fintech company based in Cameroon, as the overall winner of the 2023 Ecobank Fintech Challenge. The announcement was made by a distinguished panel of judges during the competition’s Grand Finale at the bank’s headquarters at the Pan African Centre in Lomé,"
-    publishedDateTime: 2023-10-09T13:34:00Z
-    webUrl: "https://www.premiumtimesng.com/news/top-news/632077-cameroonian-firm-wins-african-fintech-challenge.html"
-    type: article
-    provider:
-      name: Premium Times
-      domain: premiumtimesng.com
-    quality: 24
-    images:
-      - url: "https://media.premiumtimesng.com/wp-content/files/2017/10/Laptops.jpg"
-        width: 1492
-        height: 840
-        isCached: true
   - title: "Cameroonian Fintech Emerges as Winner of 2023 Ecobank Challenge"
     excerpt: "Koree from Cameroon is the Ecobank Fintech Challenge competition’s first ever female-led fintech winner having beaten eight other finalists"
     publishedDateTime: 2023-10-10T14:12:00Z

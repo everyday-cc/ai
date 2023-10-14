@@ -37,6 +37,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "How the Voice to Parliament compares to other countries’ Indigenous recognition"
+    excerpt: "In a referendum campaign defined by its division, the 'yes' and 'no' camps wholeheartedly agree on one aspect of the proposed Indigenous voice."
+    publishedDateTime: 2023-10-13T18:37:00Z
+    webUrl: "https://7news.com.au/politics/federal-politics/how-the-voice-to-parliament-compares-to-other-countries-indigenous-recognition-c-12137249"
+    ampWebUrl: "https://7news.com.au/politics/federal-politics/how-the-voice-to-parliament-compares-to-other-countries-indigenous-recognition-c-12137249.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/politics/federal-politics/how-the-voice-to-parliament-compares-to-other-countries-indigenous-recognition-c-12137249.amp"
+    type: article
+    provider:
+      name: 7NEWS
+      domain: 7news.com.au
+    quality: 40
+    images:
+      - url: "https://images.7news.com.au/publication/C-12137249/f13b2738c1cb960cdab760aec0becd8f6d0cec23-16x9-x0y0w1280h720.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Even Indigenous support for Voice may be failing"
     excerpt: "The No vote is ahead in the five federal electorates with the largest Indigenous populations as a proportion of voters, new polling says."
     publishedDateTime: 2023-10-10T05:07:00Z

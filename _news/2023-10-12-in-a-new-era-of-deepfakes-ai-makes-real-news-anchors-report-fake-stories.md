@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-e
 webUrl: "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: Forbes
@@ -28,24 +28,52 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and a new era of human resources"
-    excerpt: "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-09T13:16:50Z
-    webUrl: "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/"
+  - title: "Yepic fail: This startup promised not to make deepfakes without consent, but did anyway"
+    excerpt: "U.K.-based startup Yepic AI claims to use “deepfakes for good” and promises to “never reenact someone without their consent.” But the company did exactly what it claimed it never would. In an unsolicited email pitch to a TechCrunch reporter ..."
+    publishedDateTime: 2023-10-11T19:33:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/yepic-ai-deepfakes-without-consent/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Creating a new urban era with AI"
-    excerpt: "Eighty per cent of cities face significant climate hazards – such as extreme heat, rainfall, drought or flooding, according to environmental data charity CDP. Its 2022 Protecting People and the Planet report also highlights that these issues are expected to threaten at least 70 per cent of the population in 28 per cent of these cities."
-    publishedDateTime: 2023-10-09T13:30:00Z
-    webUrl: "https://www.technologyrecord.com/article/artmid/439/articleid/4622/creating-a-new-urban-era-with-ai"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 39
+  - title: "After Fake Drake, New Federal Bill Would Ban AI-Generated Deepfake Vocals"
+    excerpt: "The draft bill – labelled the “Nurture Originals, Foster Art, and Keep Entertainment Safe Act, or NO FAKES Act — would create a federal right for artists, actors and others to sue those who create “digital replicas” of their image, voice, or visual likeness without permission."
+    publishedDateTime: 2023-10-12T21:12:00Z
+    webUrl: "https://www.billboard.com/pro/ai-generated-deepfakes-vocals-banned-federal-bill/?ref=biztoc.com"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 19
+      name: Billboard
+      domain: billboard.com
+    quality: 36
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/04/Drake-and-The-Weeknd-2018-billboard-1548-1.jpg?w=1024"
+        width: 1024
+        height: 677
+        isCached: true
+  - title: "After Fake Drake, New Federal Bill Would Ban AI-Generated Deepfakes Vocals"
+    excerpt: "The draft bill – labelled the “Nurture Originals, Foster Art, and Keep Entertainment Safe Act, or NO FAKES Act — would create a federal right for artists, actors and others to sue those who create “digital replicas” of their image, voice, or visual likeness without permission."
+    publishedDateTime: 2023-10-12T20:58:00Z
+    webUrl: "https://www.billboard.com/pro/ai-generated-deepfakes-vocals-banned-federal-bill/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 35
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/04/Drake-and-The-Weeknd-2018-billboard-1548-1.jpg?w=1024"
+        width: 1024
+        height: 677
+        isCached: true
+  - title: "AI advances concerning IT decision makers as survey highlights worries over Deepfake attacks"
+    excerpt: "Integrity360, has today announced findings from independent research into AI's impact on cyber security, the risks and advantages."
+    publishedDateTime: 2023-10-11T13:06:00Z
+    webUrl: "https://enterprisetalk.com/news/ai-advances-concerning-it-decision-makers-as-survey-highlights-worries-over-deepfake-attacks/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 6
 
 secured: "YgmIFXpgKfkH0uqmSU1nXgf3qCfr//TvYxhDzSZw3NGmZ2bLS883EB9lV1z287PS1n5eBenyJIWkYJzNLwf/pkO3SbL4WWLGl1Ug0VWBXFHX1aaxhGsDIytyfndWdkNRvUMG9bEWfObWHFKMadpEPcmXrq7rx1CDTzIZCjt94cjPjvxehUg0zpzeY/9gL47DEBtinpx/lMVE+xUaUpGzdzGT4mDqUSHJQqatpz7NE1Y44lwd35vKJiJydCv1+0G0QOQjZ06kU2XTTuzibSymydZF7ApTWjPOHKc76FBaUuxDHlnuNdBdna4+zU79qZ9rmFOtIulCNUti7KEazLNNU9WvBjxDKcdd5Ykx0ki5WfY=;5IyG745QiPm078D2tyM9Gw=="
 ---

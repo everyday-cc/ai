@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/applicatio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "Processor and Software Innovations Empower Edge AI Applications"
-    excerpt: "Embedded processors capable of running AI algorithms coupled with “low-code” software-development tools lead to edge AI applications that can"
-    publishedDateTime: 2023-10-09T14:36:00Z
-    webUrl: "https://www.electronicdesign.com/tools/learning-resources/whitepaper/21274588/texas-instruments-processor-and-software-innovations-empower-edge-ai-applications"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 39
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2023/09/A_I_dreamstime__Thekaikoro_137795292.6515b03907c9a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5cJBZRfDNe0hHFHOrBWISlib1oQzL5JRfgIqPpcfVOREzgjp9vkUjhIRlGtRWA3Kx83OgOtpN4wZiR/9AFbuXVHX0P/vG4EubP7O+MzzZH4w0q40EEnOO67bud6OITc9QeDmUWc0MS/pJN/6tiTAdUsoKRBUJFNpH46cUPpleIQoIbbMC1iJ2V5DJkASSsDV1U7WmawnFH/tJg4h/eLlihxDW5csskH2Sf7cyxTp+pecellBT4hg3Y06JhC4uMjIR+z3HWY/J52il72Atpj6gZx4sq5zeYO1zo+YiWjaMdL+KYpu1mCPv58PToWDQADDeH58EpTMWVDAyxguyYJ3v2FZEcO3RV4249H2aWJgbSd4izhmfBWwposYlI2fCaCn26KFSvma4eLK1E+7Fq9d9MVWDuw7bY9z/whIjVC8aeeFMul3PdhF0z2HUfa7MoQehpcfJ1Z8gjaCjh+jmy9hF8jkLkw2EF4PEddrj1GBQMdionUp9cv8MfOdPHogQG6YdfpputiV/Pzv8UUu2Vpf7Q==;ED0Pia4EBYGs0605vivP4A=="
 ---
