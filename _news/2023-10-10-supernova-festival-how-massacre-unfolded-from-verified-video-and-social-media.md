@@ -3,22 +3,18 @@ category: news
 title: "Supernova festival: How massacre unfolded from verified video and social media"
 excerpt: "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing."
 publishedDateTime: 2023-10-10T16:01:00Z
-originalUrl: "https://www.bbc.com/news/world-middle-east-67056741"
-webUrl: "https://www.bbc.com/news/world-middle-east-67056741"
-ampWebUrl: "https://www.bbc.com/news/world-middle-east-67056741.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-middle-east-67056741.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
+webUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-67056741.amp"
 type: article
-quality: 70
-heat: 70
-published: true
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AWS AI
@@ -30,6 +26,6 @@ images:
     height: 576
     isCached: true
 
-secured: "Uh1kWYDxOhkIzjXgjsEX1jLJQ3XurEAvmOr39whrgXu0mvTyEXKYGkmbwdh1vNQXIabiKi76xd+cnlwipmvU4oivmE/NCRNPP3xe5hlUfxJ7VBI6eXoMqPycBQ4jPXmvHEM24U94CJs9UnSqMUiRlpbhVoe43gs/gL40sZD/2r+qHeNBwVEarqgAOmw9BBmI2zNhiD7yMmBUND6O/nQ5Y5GYtRbhOii5JXaR287me6WJ2NDctZFeQ+2CmTad4tBSYSzeJa7nctse8PPlcHk12xUPi5TC5c3g3qzD5fKm571oiULKe8OnbvCx4T/U/II4w7VQzxAIKa4FnXFUtUOyoKU9keXJw3dRSxvaVvj/090=;cF9GHRP7twDkGhR1oDw40A=="
+secured: "lbhF0MqnaQ5IK2pXqB2/FjZUGNNVk/3ocmUvIEfcraBx4ibvz3ftowg12R68CuiHgW14IKVQUb4cQSdw+Cv1bE+mz/v8xPaQ+dVSrlWLkZVl70hWq35uOLJx04K9YJhtMp3cBzdEL10DeSHW5JU0eb7/+0nIUuZWb4kJXtqSxJh2SGFMbRZI7+Ob8DL0ce0Hs2eU8ROFOXUFGFv51dg+nW8faZKXLaqrLbHN/DwFv9HxZbkrd8gQrVxNqm+Z/dwW8eTA9LI7F7EwPFxwEs02BTcxlV4a6xqjjV924yfTK2YtOM87RGQJPt0k0Nv2QmIpMXz+ieVV6HWqMCQ2iTci+2+wslP495s93nL+fV5MgnM=;UAvWizxvyGSmQ1MtqAiKTA=="
 ---
 

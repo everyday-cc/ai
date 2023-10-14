@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "HLTH 2023: Bringing AI to health responsibly"
-    excerpt: "Google leaders take the stage at HLTH to discuss the transformative power of AI for health."
-    publishedDateTime: 2023-10-09T18:45:00Z
-    webUrl: "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "Health care: No clear AI winner yet, say experts at HLTH conference"
     excerpt: "But it's unclear what use-case for AI in health care will ultimately win."
     publishedDateTime: 2023-10-13T22:31:00Z

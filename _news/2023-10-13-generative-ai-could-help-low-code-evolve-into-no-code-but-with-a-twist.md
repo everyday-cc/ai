@@ -119,6 +119,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI Or Not? How To Detect If An Image Is AI-Generated"
+    excerpt: "Discover the telltale signs that reveal whether an image has been created by AI or whether it's a genuine photograph"
+    publishedDateTime: 2023-10-14T10:01:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/"
+    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65295434e27170289d761a55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
   - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
     excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
     publishedDateTime: 2023-10-13T11:45:00Z
@@ -305,15 +321,6 @@ related:
         width: 500
         height: 354
         isCached: true
-  - title: "Spend Connect - SAP brings generative AI to enterprise spend"
-    excerpt: "All SAP AI solutions have been built with the highest levels of concern for security, privacy, compliance, and ethics. SAP was one of the first companies to define guiding principles for using AI in our software in 2018. Since then, we have rolled out an ..."
-    publishedDateTime: 2023-10-09T18:05:00Z
-    webUrl: "https://diginomica.com/spend-connect-sap-brings-generative-ai-enterprise-spend"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 19
   - title: "3 critical considerations for generative AI on campus"
     excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
     publishedDateTime: 2023-10-12T09:00:00Z

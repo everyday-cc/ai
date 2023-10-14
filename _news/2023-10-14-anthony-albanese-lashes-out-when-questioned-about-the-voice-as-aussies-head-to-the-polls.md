@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "'Not the end of the road': Prime Minister Anthony Albanese speaks out following crushing defeat of Voice referendum"
+    excerpt: "Prime Minister Anthony Albanese delivered an emotional address to the nation after the Voice to Parliament proposal was resoundingly rejected by the Australian public in Saturday's referendum."
+    publishedDateTime: 2023-10-14T11:42:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/not-the-end-of-the-road-prime-minister-anthony-albanese-speaks-out-following-crushing-defeat-of-voice-referendum/news-story/72f99faba176bb075e166991ff07102f"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/not-the-end-of-the-road-prime-minister-anthony-albanese-speaks-out-following-crushing-defeat-of-voice-referendum/news-story/72f99faba176bb075e166991ff07102f?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/not-the-end-of-the-road-prime-minister-anthony-albanese-speaks-out-following-crushing-defeat-of-voice-referendum/news-story/72f99faba176bb075e166991ff07102f?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 22
+    images:
+      - url: "https://content.api.news/v3/images/bin/edee0c9357254d68f5ed8fa305a2fd8d"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
     excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
     publishedDateTime: 2023-10-13T08:15:00Z
@@ -32,24 +48,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 16
-  - title: "Voice to Parliament referendum: Peta Credlin debates Joe Hildebrand"
-    excerpt: "Peta Credlin and Joe Hildebrand have faced off before Australia goes to the polls to answer the burning questions about the Voice referendum."
-    publishedDateTime: 2023-10-12T19:00:00Z
-    webUrl: "https://www.thechronicle.com.au/news/national/voice-to-parliament-referendum-peta-credlin-debates-joe-hildebrand/news-story/91b60bb03dd174aa1b8083a4905eea9d"
-    type: article
-    provider:
-      name: The Toowoomba Chronicle
-      domain: thechronicle.com.au
-    quality: 4
-  - title: "Voice leaders special message to undecided voters ahead of history-making referendum"
-    excerpt: "Leading Yes campaigners are issuing their final pleas to undecided voters less than two days before the referendum."
-    publishedDateTime: 2023-10-12T11:30:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/voice-leaders-special-message-to-undecided-voters-ahead-of-historymaking-referendum/news-story/2e253a1f18d917e93680b5cc7baf1336"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
 
 secured: "0uTaPkQV+IChJjfe8QG9zcv14nHhY62H5ncDzHH7TM47NgjSfNBvv2UEeGPeeKDckyK9McXrPebjevvSSmtyR3o369MNohgPP44yK+CWq9cEhlSJl7ImH4BoxegufbmDo4o620k8o53gIAOFp9IBqKiZkdfcb8120jpCHKfoGxTwaFhqwNMvefEr26NntouNO21nZcHeb/ICW/aZ27zFfNsMj0TBMd7MafyHf7xl2djhCdT18Z5f/d7mUxFFzKwzbQ1dES/Ka8wK7V0XPT6EKrIcO/isWLLHEftvFkDddlhscOJFig9Jpwzwe+dXk1AT8ZYaRo+YlKGswDF1UJbPRfC2sE0A0yl5LIP056QPlPDlSYe1ouY/HhJeD/8VaVMguSMApk1AQtXTOigeEJXy0Vo4SuB5raBW2Zc56iT4CdoKJJ0pN5NUTkzOVD3n67+MvaJ5WxK5c3A61r1VaTZ2FGb0pb1L7KDp+pRNu4OF5BWv4zk3wZ+5JlTAyk70uwpt+SgQBlUH0hSQ1NGS3GS+Ww==;cs0ixMYhMQddDDwuXMYXHg=="
 ---

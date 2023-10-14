@@ -39,20 +39,6 @@ related:
         width: 1225
         height: 630
         isCached: true
-  - title: "Prepare your data for Amazon Personalize with Amazon SageMaker Data Wrangler"
-    excerpt: "A recommendation engine is only as good as the data used to prepare it. Transforming raw data into a format that is suitable for a model is key to getting better personalized recommendations for end-users. In this post, we walk through how to prepare and import the MovieLens dataset, a dataset prepared"
-    publishedDateTime: 2023-10-09T17:45:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/prepare-your-data-for-amazon-personalize-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/prepare-amazon-personalize-data-wrangler.jpg"
-        width: 895
-        height: 443
-        isCached: true
   - title: "New – No-code generative AI capabilities now available in Amazon SageMaker Canvas"
     excerpt: "Launched in 2021, Amazon SageMaker Canvas is a visual, point-and-click service that allows business analysts and citizen data scientists to use ready-to-use machine learning (ML) models and build custom ML models to generate accurate predictions without the need to write any code. Ready-to-use models"
     publishedDateTime: 2023-10-10T17:20:10Z
@@ -94,20 +80,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg"
         width: 1257
         height: 630
-        isCached: true
-  - title: "Use no-code machine learning to derive insights from product reviews using Amazon SageMaker Canvas sentiment analysis and text analysis models"
-    excerpt: "According to Gartner, 85% of software buyers trust online reviews as much as personal recommendations. Customers provide feedback and reviews about products they have purchased through many channels, including review websites, vendor websites, sales calls, social media, and many others. The problem with"
-    publishedDateTime: 2023-10-09T17:49:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/use-no-code-machine-learning-to-derive-insights-from-product-reviews-using-amazon-sagemaker-canvas-sentiment-analysis-and-text-analysis-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 70
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/no-code-sentiment-reviews.jpg"
-        width: 894
-        height: 449
         isCached: true
   - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
     excerpt: "is proud to announce its latest innovation in partnership with Myrtle.ai — an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA. This transformative solution converts spoken language to text in over 1,000 concurrent ..."

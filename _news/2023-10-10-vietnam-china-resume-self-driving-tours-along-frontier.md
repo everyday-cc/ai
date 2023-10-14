@@ -26,17 +26,6 @@ images:
     height: 816
     isCached: true
 
-related:
-  - title: "Could Chinese Self-Driving Cars Go On A Programed Killing Spree In America? Some Lawmakers Think So"
-    excerpt: "Several Chinese companies are legally testing autonomous cars in the U.S. but some members of Congress want to crack down on self-driving startups"
-    publishedDateTime: 2023-10-09T18:30:00Z
-    webUrl: "https://www.carscoops.com/2023/10/could-chinese-self-driving-cars-go-on-a-programed-killing-spree-in-america-some-lawmakers-think-so/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 0
-
 secured: "zP5qSmB6m/IKxksji95OjsGDJU1DEIML27+bcMjt5RnAdDrWNuXOhL2TsHioiP714K9czDwSBtUWbFCa1uJyk8SPlK7m/dp0UZb0SPZ4nzKSht1s+pLLYp2S1+QcqXPnQ+eueFNvPBo13PzgnS9QVDfXSr3D6dq3eJzIsbo1fsMPujEXcD2x8cgNCpbGLPGY1TXV2D9zCcmajONgbln/ixCHSvzR2eqVjtioQh9E0zC/i99/tRNn629NUfZAI8RUPZH6GvUtmcxJNTw9VfB6eBa7J/U7AIYSjiIgj3UWIY0ylLCl1EVlY4XjCKPH5PieYM0vWxtUd7y55nHq57YrXuuZSO/ONLoZSr0AXnYZWh8=;1usYOidEAAjXSDAnE1w0hQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-phot
 webUrl: "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-photographs"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,24 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Klarna Launches AI Tool to Help Users Identify Items for Purchase"
+    excerpt: "The tool will use AI to provide users with information on goods around them through the Klarna app by simply pointing their phones at items."
+    publishedDateTime: 2023-10-11T13:48:00Z
+    webUrl: "https://www.coinspeaker.com/klarna-ai-tool-items/"
+    ampWebUrl: "https://www.coinspeaker.com/klarna-ai-tool-items/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/klarna-ai-tool-items/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 59
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/klarna-ai-tool-items.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "yd8ucJtNvoFW87kAzDMCb/UeQIlLdnEKo+5o4altEDlFdKeM7Rbw71GRxK1GRLxmKrow+y5woOUtJuprRWphvXT9cp7N+fTbSBMwRB36mKXnVsWpri6Mi6BMKu9OSbM7VVuo0AvCmYRZDbxiMjCMbXEFT6X5r9MbQkXh1rcPNxJXINDlj5FjzssZeXDVBJWoDctPtw0fKqy5v7Q3yTtGsj4k+CTblzbkBV7k8Aq3BNnCdKeho6Ssc5rthBmbM8HaaVMIZPeB8QQNe3zRLMlteBBZHWK896VfPdnjznXSBsmcj/0Ct8HErFas7LFsF/Zmlt9jmKoIRyyNcLwAdOG1/kdegmgaLnX2I6jFWK38+JR3mSZct9iUiKyXE41yRsnbNHvOcB5I36JCK0xrqIvUV0DX548wx/vGciUnWNqHk7MAaqsf3ZQb+712jZDqQHtm8adlkqslFcl2i0KOSG8PZk7ha92R7ZdgkzFAq6GhPeySFbELcZlsb5sOsU/UzpNIC/LJmGGFs4Q/KxySPpiSUA==;CHW5YtOP/DTC2djsPEnKPw=="
 ---

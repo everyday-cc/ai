@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktobe
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/ao3-ai-fears-lock-account-kinktober-fanfiction/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Fiction writers are wrong in demanding control of and compensation for artificial intelligence"
-    excerpt: "AI can replicate art, but it can't inspire new work OPINION: Fiction writers are in an uproar about artificial intelligence creating new competition. They want large language models to either stop training on their work or for writers to be paid royalties."
-    publishedDateTime: 2023-10-09T18:43:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/9/fiction-writers-are-wrong-in-demanding-control-of-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 5
 
 secured: "9H1ZSoiiFs25F6O3SAh34/vCwxDzmOMhYht9hmQNsBP9+DrUd/7s/o1dtAoA/+z6Awk0S52W2K6AVmmdh46BjFPMxsS6c10iFmaYvBhGCDanXIUH9epYzpnPDXrfZUpmA4wn8UINUY+rQLkPLUIMma6eTsTUEb7qUXsAi5/zVw0nGPnp5X10Hp/z/kJXDi/os3ryEeMYJEmcwsN8EgU0BipSYaBJSHyQvuP3+wrKIOHV+dzqLH60frRf9u82qQIA6Q3SbI7l5fpgnRvnvNBDtknjSAWIqF2N7H3HMxNEfFZpL0gLmvO2LMzgjOrTP+5ZyL745f9oWCtFqvlQMUDCjo1aqlrP69zdspY4eHlkyyU=;z1+qAe+iCLMfWwZvRSO8Ng=="
 ---

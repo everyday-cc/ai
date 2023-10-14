@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
-publishedDateTime: 2023-10-14T09:50:00Z
-originalUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
-webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
+excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
+publishedDateTime: 2023-10-14T05:02:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
 type: article
-quality: 0
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
@@ -50,6 +58,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/1528835ad768cc625de3588f2473d6bac9ddfe91/0_66_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=8016fe9065cb533aa7d9f45f9133e738"
         width: 620
         height: 372
+        isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament"
+    excerpt: "CANBERRA, Australia >> Australians voted in a referendum today against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T11:05:00Z
+    webUrl: "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/"
+    ampWebUrl: "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/"
+    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/"
+    type: article
+    provider:
+      name: Honolulu Star-Advertiser
+      domain: staradvertiser.com
+    quality: 56
+    images:
+      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/10/web1_14305175-60302059f3c845c4b99d810132b81e3e.jpg"
+        width: 760
+        height: 507
         isCached: true
   - title: "Australia votes in historic Indigenous Voice poll"
     excerpt: "Polls had long shown support for an Indigenous Voice to Parliament but now suggest the No vote is ahead. A looming referendum on whether to elevate First Nations voices is forcing the county to examine its past. Australia is holding a historic vote - its neighbour has a different approach to recognising Indigenous people."
@@ -241,6 +265,6 @@ related:
         height: 900
         isCached: true
 
-secured: "TttscqZp1fy9F6PHUzqXv7EnXfgnrVjJ/E7gDsggXbTsGGJIyhkZHJJ/N6BBo9NzLRGBUp8FGyZ0FhzmblSx9hJ5vr0l+EECNC4exOkNmxcP/64BiIwlzMAtihGAKd6a7m/Asr92OVDozZ5ji2KF0K9abJkvym/qMZj1MPG75wkCTIiMamaJteYJkYcMc5CPoeU4lEHZNqKo7exYl3S3cKRyRhNBg1ew6lPYs7e4PBkz05eNhXHNpELL733FtIy0MAlulvHj3+rAsnkM+dtftuvbXZPGaA10SkKoe0Q287ooQ86vxrxxz5whXPm24fSWx2Lab67sSgsPiUGyLafFXhuQAegIw/GtLXM/Bw+BHtnNCGn+NuO6Jqp4SJ6rOBEeKVA07KBuZg1fQCIDkVBaUTVKjU8kVqLC7G/710piEFnX/OCJlNqSI1dn7EtcZBjo1gyf/2RIE8LNF4e5Uzdv/k6T717HSTUCa0BOOoggdytQDhurgiNGO95SKXqlafhRy4WZ4W2CqLcNKjYabckcPg==;Qv6R/r1XP+JC80Ds2zXY1Q=="
+secured: "1lfCefEmPHnzo6+lZgE+XJYOhf3Po5gUg0ydSt4eSdvzmmISg3KLIGbLSMZWiHHg373tM0tm4fBZUi3ejIJRLg4Yu552QKmIDaTGeBVGvGHe5kIqfrXkXjYtbNOLrmRdhRIZi9iQhsi3oEtVnDEC8LLIg8HSGYSRvT22qwysgd0eDXhT5SfGLxGhnhv0mJd8as1xl8cGoaleOGPPU35lZdEkeAGufKYCRHw1IxPUghMUOZHooyGIut8LBH4G6mqkccxUHhYPBMoOEFpH1sBgFj1l/KPkwP6F0AR6r/soITvlh+oZRnNhe7N1xfAUqGiWcelgjTN3JPTlgzfNwYhXVGbkXpnFBC9ixZGkkNL9eWQ=;0Tl1LaEp/w+GYkNzySNWaw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/no-clear-winner-ai-health-193147987.ht
 webUrl: "https://www.aol.com/finance/no-clear-winner-ai-health-193147987.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "HLTH 2023: Bringing AI to health responsibly"
-    excerpt: "Google leaders take the stage at HLTH to discuss the transformative power of AI for health."
-    publishedDateTime: 2023-10-09T18:45:00Z
-    webUrl: "https://blog.google/technology/health/hlth-2023-bringing-ai-to-health-responsibly/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "No clear winner in AI in health care yet, say experts at this year's HLTH conference"
     excerpt: "This year, artificial intelligence (AI) was the topic on investors' minds as they search for the next big bet in digital health. But it's unclear what use-case for AI in health care will ultimately win. That thought was top of mind for Prateesh Maheshwari ..."
     publishedDateTime: 2023-10-13T19:42:00Z

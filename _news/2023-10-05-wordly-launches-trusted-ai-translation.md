@@ -2,25 +2,27 @@
 category: news
 title: "Wordly Launches Trusted AI Translation"
 excerpt: "announced the launch of Trusted AI Translation, the easiest, most affordable, and most secure way to make meetings and events more language inclusive and accessible. Wordly Trusted AI Translation ..."
-publishedDateTime: 2023-10-05T04:42:00Z
-originalUrl: "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html"
-webUrl: "https://www.victoriaadvocate.com/wordly-launches-trusted-ai-translation/article_cdd65377-c379-5abd-8232-325b85e0a5c9.html"
+publishedDateTime: 2023-10-04T17:02:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/10/n35088030/wordly-launches-trusted-ai-translation"
+webUrl: "https://www.benzinga.com/pressreleases/23/10/n35088030/wordly-launches-trusted-ai-translation"
+ampWebUrl: "https://www.benzinga.com/amp/content/35088030"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35088030"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/2f/02f07c12-bfcb-5d74-8a5e-19f8cd0e80ce/651d6922305ce.image.jpg?crop=1053%2C553%2C107%2C0&resize=1053%2C553&order=crop%2Cresize"
-    width: 1053
-    height: 553
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
     isCached: true
 
-secured: "Fnq6XmbBBwnCPl55/3TX75HUd8PgV428+9AEChYeVg8Jonq8IVBjGIh9WCh9p7k6jgOEOoSnEiTcVl48+7rSxz7SWV0A/c7KQN157zwoOAUnTl73zfuPfDcfB/tWxOxZx1fqgie0vmwhIxUDBdziqXZGb5we1bFJUVGlrpWm7jd0OPDNxyAuzQc8vFoaxhHnXAYw2J3Av+PvWqCF/I1oIYQM9AaIrO207aX/RlouCLMBZV4Q7+HP8kd5BMMPRtZHhB5tqPp5tyPM7+p9y49gD1FO9N57JAburnfSCJ8y0iveqxDnvk2pHzejlSanUmFk+1Bsmo/gY4OvLKp4TftAKNJMipmF3AZYJv/crRq8le8=;j5rUgY9g9k09GeQ2m4PU1Q=="
+secured: "14+nQVSm+j6uhs4fnifXqncEM8llprTO+oKjijc9nux149wgkIEpwJtA+5bZfqOhIp4g6Luo6d2XbJSWVSTJWESXl7OtR4R9iudEPFsqtC7Xq47av6qNatCPbTL7kGfo3XUVZU7eqGMmR88Mqu6c1fiQMm9+s+JeHDZvseUeLcisttB/qZcODDNrd/9HxN9i27/vZq0duTarPNma6GZnTXd+rwbTT38N7jUgvPSezg7wvo5G4AvwWE1neUeftu2PbKtssi2xaBAAzdRZp5/5fAG0xYmoTLIJwVnnaaW+zdPC8oYzEL27brbbZXeDMLCKb9V+oaMOwdjD++IEi1L91fZSQzXm2YFRTQPnGLLzo4A=;YiZwQzCIO6FobJSMMZgvbg=="
 ---
 

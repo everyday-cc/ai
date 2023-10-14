@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/most-promising-climate-tech-startu
 webUrl: "https://www.businessinsider.com/most-promising-climate-tech-startups-vcs-2023-10"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

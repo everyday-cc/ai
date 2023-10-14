@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Tesla engineer defends 'Full Self-Driving' name at crash trial"
-excerpt: "SAN FRANCISCO, Oct 5 (Reuters) - A Tesla (TSLA.O) engineer in court on Wednesday rejected a lawyer's suggestion that the company named its driver-assistant feature \"Full Self-Driving\" because it ..."
-publishedDateTime: 2023-10-05T19:19:00Z
-originalUrl: "https://www.reuters.com/legal/tesla-engineer-defends-full-self-driving-name-crash-trial-2023-10-05/"
-webUrl: "https://www.reuters.com/legal/tesla-engineer-defends-full-self-driving-name-crash-trial-2023-10-05/"
+title: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial"
+excerpt: "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial By Dan Levine and Hyunjoo Jin SAN FRANCISCO (Reuters) - A Tesla engineer in court on Wednesday rejected a lawyer's suggestion that ..."
+publishedDateTime: 2023-10-05T19:22:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2023-10-05/tesla-engineer-defends-full-self-driving-name-at-crash-trial"
+webUrl: "https://www.usnews.com/news/top-news/articles/2023-10-05/tesla-engineer-defends-full-self-driving-name-at-crash-trial"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/7egOyeK0G_x1QtI1rGBCvXbELBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZEG65746BZI6FC4YSD272FMKNA.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "tSugT2zrXNs9UPHzRXpLk4MBnllpUHcGbkLi/GC1NHx0GSsbxxi9d6kk0fo776Y4QCK0Jjr6vZBoEW2WzLFl1YASlWamzSdG7sOu+2w3+srS8cSBKMY8LuMPXOI0GrzSmGNrPTfs8GmNOOISMBe401hUqJADbvrxWvAO41RLYpetliRZ1PQKKlSP8Eikf2t2as3Enh8lcSVzDXYXsHILhTh8k0TcztpBH1D+Jw/LFa8OoX69caLGlx7lMHfQiM+he1Zj3EHmFeSUVTbj1vuUmjXKMgbx+kxirvK8mRah0IResmb5T3mb0AbMCGcx+Y1NqDmHM25Rq0UJ4kD54RSebBEu1VAKhKfmZ4/E0Y1SmWM=;bctXT/bFqXyVyNUKQdwSyw=="
+secured: "3r4UnKpuPpoOTXq/Fd0OSfNUQO1DpX9ThMTtEUyEKqfKtkmkl8zQa9AnLHdWsMe+5r9j4RxJqPyeWEAPNN8YGwOaLGC5RVDtEmdRlJi5VY/GjR2SfyLdmUUq21V+6i6CZKnF90pdhDIUr0Wb37xABdqc2ysH/eBrRfd61KTchOQ0FMKwcNZq0lF9aMjoRZN1FSMCxdOPdmfOhJb2qspE9fYRt5fMC7IPwOFM3cChkO57gZ+7UmSLwzdwy9wBitmTtMp+/nZBIWHX1XRu1si2R38rlQLQx3nW9WxQ0zzby2JE6VcyfBbnjnQ7a713r7tW+SlGld4+t2QsiA/M6I7t7hHqo13wUYZ/SSjHH3uTLH0=;FBEAgMUPxmFSqXcYoqE2PQ=="
 ---
 
