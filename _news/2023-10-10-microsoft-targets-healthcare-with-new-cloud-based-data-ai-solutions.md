@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
 type: article
 quality: 121
-heat: 321
+heat: 301
 published: true
 
 provider:
@@ -193,15 +193,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft to launch its new AI chip 'Athena' next month"
-    excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference."
-    publishedDateTime: 2023-10-10T12:33:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-launch-new-chip-athena"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
   - title: "Wolters Kluwer Health Language Platform to Maximize the Value of Health Data for Organizations Using Microsoft Azure"
     excerpt: "Wolters Kluwer Health Language Platform, a FHIR Terminology Server, enables interoperability to ensure quality healthcare data is leveraged across health plans, providers, and HIT vendors for analytic"
     publishedDateTime: 2023-10-10T13:30:00Z
@@ -268,15 +259,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-  - title: "Grid Dynamics Deepens Partnership with Microsoft by Earning Coveted Specialization in the Azure Migrate and Modernize Program"
-    excerpt: "Grid Dynamics secures the sought-after Infra and Database Migration to Microsoft Azure Specialization, deepening its status as a Microsoft AI Cloud Partner and broadening its participation"
-    publishedDateTime: 2023-10-10T12:50:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60327355-grid-dynamics-deepens-partnership-with-microsoft-by-earning-coveted-specialization-in-the-azure-migrate-and-modernize-program-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
 
 secured: "3TBKuHSJnV9Y6t4ygWb8fTw9ZxcGdmWftcRmpQPbuzkEyiFLwFRdupejT4ZeQ0Q1qYdBCD1kK5Lfg/lwfWoykPgTHIxV1tYHTFLbmLkKj8PLv5hDVqDH60ztgMf+uPFrjp+5vmRuY03qkkCcEuGpr4IRvUKqR9ERr9ZvoqTzJD/bqf7RbE9xe1KeEEXB7FDTpzL/SXJBzoSjpo4WAdDioI+tQVqponQT4d4ZLXjJOoubpJiu2Rz8lpyyP8XrfrUJ7vnX2HuxouX06tjGIGrsVVaiCyRbbzIfQGWP/UnFWxMavumBbuF5co11jo9CK3/B59FTMipmTmRDa0gvU2xEPO4IxBR3t+CgJdcA0VDD6Sv9jDjwo24zETStmyvbq4E+MluqiFq3a2T54Mcz/N2WzaeVa4sdqw/O3h6rIuTWh8+xugnxNoNQ7MAx3BM+LLY6gf3jFjgRNLlzZjMEQoT5DHwriqsDmTiST1IXcjsNLBp2JiuaKju6TrgSyonO/63wDC1l6HBvgLW3VIo1RsFt9g==;JFctUerT+z8yiRhjOL4Iow=="
 ---

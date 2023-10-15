@@ -62,15 +62,6 @@ related:
         width: 369
         height: 250
         isCached: true
-  - title: "VISTA And Dubai Airshow To Support Start-Ups"
-    excerpt: "VISTA will return in 2023 for its second year, aiming to provide support and investment to start-up companies within the aerospace ... businesses operating in fields such as robotics, sustainability, artificial intelligence, drones, eVTOLs, UAVs and ..."
-    publishedDateTime: 2023-10-10T11:18:00Z
-    webUrl: "https://aviationweek.com/shownews/dubai-airshow/vista-dubai-airshow-support-start-ups"
-    type: article
-    provider:
-      name: Aviation Week
-      domain: aviationweek.com
-    quality: 19
 
 secured: "4hGbfCj0RtgVIKRGsdiy49fpBT/t6ore/yCXoKA+Utm5vYEF4yMM0rQk/CYNlWzxc5LDjFHhHGYxe9ORG+3dMyL9gWc5V6BlJiMgI+DWbF//l0CRwZP0tURp10fLOnOvo5bx5SRZUH39yY6Eq8HSsLQK02DZTOruyVxDuZ0giLp/mBElPZxvb+BsFf4ym2zAmfHFUjivJMzEAb0k0aRel8EcVPSpB+nOCXF3iQhi2I8g00vvUp7a7B749pFoUFHCJG/JYYaiDdJph1/s1NSWcnDFqWwgolNy7ptlizqk3EyB3k4TDJ5SL1u7AI69hTwUbplIPhumJDxblWyr+BCGM5mFx8pVZV5+wE9mxusvBVo=;FuHWpF0LhAiXeA3eHp98pw=="
 ---

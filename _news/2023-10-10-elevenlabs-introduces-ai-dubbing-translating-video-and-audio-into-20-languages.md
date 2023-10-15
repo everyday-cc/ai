@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-transl
 webUrl: "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "ElevenLabs' new AI Dubbing tool can translate audio while preserving the speaker's voice"
-    excerpt: "On Tuesday, ElevenLabs unveiled AI Dubbing, a new feature that can convert spoken content to another language while keeping the voice, speech patterns, emotions, and intonations of the original speaker. Also: Gen AI a job threat? On the contrary, human workers have much to gain"
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/elevenlabs-new-ai-dubbing-tool-can-translate-audio-while-preserving-the-speakers-voice/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 55
   - title: "AI video dubbing and audio translation using ElevenLabs"
     excerpt: "The explosion of artificial intelligence (AI) over the past few years is transforming everything it touches  and one such area is the field of AI video"
     publishedDateTime: 2023-10-11T08:53:00Z

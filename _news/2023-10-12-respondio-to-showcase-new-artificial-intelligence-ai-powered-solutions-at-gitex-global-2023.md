@@ -55,15 +55,6 @@ related:
         width: 369
         height: 250
         isCached: true
-  - title: "VISTA And Dubai Airshow To Support Start-Ups"
-    excerpt: "VISTA will return in 2023 for its second year, aiming to provide support and investment to start-up companies within the aerospace ... businesses operating in fields such as robotics, sustainability, artificial intelligence, drones, eVTOLs, UAVs and ..."
-    publishedDateTime: 2023-10-10T11:18:00Z
-    webUrl: "https://aviationweek.com/shownews/dubai-airshow/vista-dubai-airshow-support-start-ups"
-    type: article
-    provider:
-      name: Aviation Week
-      domain: aviationweek.com
-    quality: 19
   - title: "GITEX GLOBAL, Expand North Star 2023 Centre World’S Attention On Booming Artificial Intelligence (AI) Economy"
     excerpt: "His Excellency Omar Sultan Al Olama, UAE Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications, and Chairman of Dubai Chamber of Digital Economy, spoke at the official GITEX GLOBAL and Expand North Star 2023 press ..."
     publishedDateTime: 2023-10-10T19:41:00Z

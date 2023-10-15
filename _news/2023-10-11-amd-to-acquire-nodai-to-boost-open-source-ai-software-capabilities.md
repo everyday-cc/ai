@@ -71,15 +71,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AMD acquires open-source AI software pioneer Nod.ai to fortify AI capabilities"
-    excerpt: "The purchase of Nod.ai, founded just three years ago, shows that AMD is serious about staking a claim in the rapidly growing AI chip market, which is expected to reach $383.7 billion by 2032,  according to industry analysts."
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://venturebeat.com/ai/amd-acquires-open-source-ai-software-pioneer-nod-ai-to-fortify-ai-capabilities/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
   - title: "AMD Makes Second AI Software Acquisition In Less Than Two Months"
     excerpt: "AMD revealed it has acquired Nod.ai to boost its open AI software capabilities, making it the company's second AI software acquisition in less than two months."
     publishedDateTime: 2023-10-10T15:20:00Z

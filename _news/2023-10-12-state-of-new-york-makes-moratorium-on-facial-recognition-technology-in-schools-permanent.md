@@ -19,33 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Scholars propose unified global regulations on facial recognition"
-    excerpt: "facial recognition, without global trade regulation, could pose a threat to democracy around the world and help entrench autocratic regimes."
-    publishedDateTime: 2023-10-10T20:49:00Z
-    webUrl: "https://www.biometricupdate.com/202310/scholars-propose-unified-global-regulations-on-facial-recognition"
+  - title: "Does Facial Recognition Technology Make Schools Safer? What Educators Need to Know"
+    excerpt: "New York has banned facial recognition technology in schools. Here’s what experts say schools need to consider before using it."
+    publishedDateTime: 2023-10-13T20:02:00Z
+    webUrl: "https://www.edweek.org/leadership/does-facial-recognition-technology-make-schools-safer-what-educators-need-to-know/2023/10"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
+      name: Education Week
+      domain: edweek.org
+    quality: 33
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://epe.brightspotcdn.com/dims4/default/765ca37/2147483647/strip/true/crop/1720x1150+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2F53%2Fc9%2F8a96a2eb465e89e9d18fa364a671%2F102023-lead-image-facial-recognition-gt.jpg"
+        width: 942
+        height: 630
         isCached: true
-  - title: "Performing arts programs at Waterville high school receive national recognition"
-    excerpt: "A surprise ceremony was held Thursday at Waterville Senior High School to award students and staff the Performing Arts School of Excellence award given by the National Federation of State High School Associations."
-    publishedDateTime: 2023-10-12T21:05:00Z
-    webUrl: "https://www.pressherald.com/2023/10/12/performing-arts-programs-at-waterville-high-school-receive-national-recognition/"
+  - title: "The Editorial Board: New York wisely rejects facial recognition technology in schools"
+    excerpt: "Rosa made the right call while cracking the door open to other biometric identifying technology, with caveats."
+    publishedDateTime: 2023-10-11T11:30:00Z
+    webUrl: "https://buffalonews.com/opinion/editorial/the-editorial-board-new-york-wisely-rejects-facial-recognition-technology-in-schools/article_9eae7afe-5e2c-11ee-b54a-cbc972d78e5f.html"
     type: article
     provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 20
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 32
     images:
-      - url: "https://w2pcms.com/wp-content/uploads/sites/10/2023/10/37434727_09award.jpg?w=1024"
-        width: 1024
-        height: 675
+      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/a/97/a976dd7c-6774-11ee-a6b0-a726b571cd14/651480cbc2fac.image.jpg?crop=1690%2C887%2C0%2C169&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "New York state bans facial recognition technology in schools"
     excerpt: "Facial recognition technology is being banned at some public and private elementary and secondary schools, including charter schools, across New York state."

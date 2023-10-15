@@ -204,15 +204,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft to launch its new AI chip 'Athena' next month"
-    excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference."
-    publishedDateTime: 2023-10-10T12:33:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-launch-new-chip-athena"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
   - title: "Microsoft's New AI Tools Set to Transform Healthcare Data Management"
     excerpt: "Microsoft Corp MSFT showcased new data and AI tools designed to assist healthcare organizations in efficiently managing and analyzing the vast amounts of data they collect."
     publishedDateTime: 2023-10-10T19:09:00Z
@@ -263,15 +254,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-  - title: "Grid Dynamics Deepens Partnership with Microsoft by Earning Coveted Specialization in the Azure Migrate and Modernize Program"
-    excerpt: "Grid Dynamics secures the sought-after Infra and Database Migration to Microsoft Azure Specialization, deepening its status as a Microsoft AI Cloud Partner and broadening its participation"
-    publishedDateTime: 2023-10-10T12:50:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60327355-grid-dynamics-deepens-partnership-with-microsoft-by-earning-coveted-specialization-in-the-azure-migrate-and-modernize-program-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
 
 secured: "0044DDpeaK94sRg+9gdrb356s93sn8VsH1CgDsPctgil6CODK7cwh3PGehZuGp/UftqyGh08lcyQXx6cn/21sGoEiWw+ojqWHR4WQ8CZwecO8hkU+z9PnZC7xvQChIZyNCJNbGA+H9j2vPRkKrfHoJcR9G9o66kHX+SqZRpswBk7+A0IuXLYVODtehweApdfc4gbHaCfb0mWP/pgO6tARukZPwT52U6puUFFZrCoyyI3b1TmTwcdiyvitNmXsJ1dipMPDvAW8Gs/LsG3HkSB/pnj+0/81q/2ySwg2XfYV/zdsODHqDWqq2/1PpktHHQnUGql1Vh7DLIfyMhUmZdPFQ9ys4OmFG43HZIBzEjrcmU=;5YabS0rLYNTNWaARbVWo8w=="
 ---

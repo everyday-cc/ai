@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/fluid-apps-open-models-and-free-mark
 webUrl: "https://www.geekwire.com/2023/fluid-apps-open-models-and-free-markets-inside-the-ai-focused-intelligent-applications-summit/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 2624
     height: 1752
     isCached: true
-
-related:
-  - title: "Roll Over, Adam Smith! AI Applications Can Change Market Analysis"
-    excerpt: "One of the eventual applications of new AI/ML intelligence models has to be interfacing with markets and the general study of economics."
-    publishedDateTime: 2023-10-10T12:49:00Z
-    webUrl: "https://www.forbes.com/sites/johnwerner/2023/10/10/roll-over-adam-smith-ai-applications-can-change-market-analysis/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "4UTerWRSREEboU9l//gPT2KBNfPks3BpKQhpNBgCkXacUe3VeUj0dvGdv9fpHzpOg8kcjLNrlfTzpMwWUwuT6DGRoKDSChSiUW7wbvtajBa5WMuxLZJDeKHS5KGeG+SO9aGZ+48/0WKJfvbJzKhUrzyFM7LCurUZK5c9uiAhDGmvTdEDxP+4HYAetPZr/4ZvaOwwMyrlDyRFNy3pqs518205W4um+1rKhVyHEEK8mI84Mu3/2fDDfEy2ouQ5t/H7TOo3SNTr/Vh8DL6lDfP7GQ+od39z8LMdCJ5ivNpNxbbUULTYZS4cscuBl4bJ29I6XwIKnGB9j3YBFIx00TtoAZGeMB9bDqvVEhK2O9EIWYs4BrsxxpatqDqvbPXx00w3QL57nvyqYWFTclG5RIJyMykBYx3D6IXi/AJwcniPWY6+33dUNOnb+W627deaKTaG+9aArcwITego2tKc5dPffxi86OzULxVhM9LnXGbK3jvQNpbE7f3P/L3Y/T1iOJrxNcXqqMSOPH2UcdtW4p/Gag==;yor0bXwLJ/lCYctH0GW7Vg=="
 ---

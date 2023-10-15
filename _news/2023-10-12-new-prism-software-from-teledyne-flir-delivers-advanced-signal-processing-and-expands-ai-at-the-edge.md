@@ -20,17 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Teledyne FLIR Introduces Advanced Image Processing with Prism ISP"
-    excerpt: "Teledyne FLIR announced the launch of Prism ISP, an advanced image signal processing software optimized for embedded systems."
-    publishedDateTime: 2023-10-10T12:27:00Z
-    webUrl: "https://www.aviationtoday.com/2023/10/10/teledyne-flir-introduces-advanced-image-processing-with-prism-isp/"
-    type: article
-    provider:
-      name: Aviation Today
-      domain: aviationtoday.com
-    quality: 4
-
 secured: "HTstT204PUqTi7IXAYN/SUkM2B8YtzzbtgdrcsEYwXoEZwdwetoHaOvhs5oz068eiDPIaQAUJYjts9mhMytHJYzorzGbCCIqvW0G4qhHyyWRoxZhcjv7BR0A4TVO405sfFb5RxmttcnXUxu5HHyGq7usNvG84NY2APxFA/IXqjLFPa9+8/KItT1Ff3dmBAZyeigPAKuVNR/MlyER2YZ9mIN2G6kxgD5AOOTxQ7Sd5qs77dwQQLkj3yQeD5xpsmoIMzKhuvZnViK/UbYVZMwFAoHfSiytq638lUcCpt2Vp54NWVmePgCnkielWAxrNVb4h0HrgV0EAb07MzuwnTpaCW7x/xK49rlC/7U6XJ4sC10=;0FVdWmNicLN/4GtW6IZiZA=="
 ---
 

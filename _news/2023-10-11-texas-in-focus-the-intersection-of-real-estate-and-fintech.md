@@ -153,15 +153,6 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 3
-  - title: "Saudi Arabia's Appetite For Fintech & Saving Platforms On The Rise As Figures Demonstrate Growing Need For Financial Education"
-    excerpt: "As Saudi looks to lead from the forefront of Fintech, next-gen digital savings platform and accessible money mentor app MALY is ready to give use"
-    publishedDateTime: 2023-10-10T13:06:00Z
-    webUrl: "https://menafn.com/1107219779/Saudi-Arabias-Appetite-For-Fintech-Saving-Platforms-On-The-Rise-As-Figures-Demonstrate-Growing-Need-For-Financial-Education"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
   - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
     excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
     publishedDateTime: 2023-10-13T03:25:00Z

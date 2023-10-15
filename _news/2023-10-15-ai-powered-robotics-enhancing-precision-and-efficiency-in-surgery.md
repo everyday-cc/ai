@@ -90,15 +90,6 @@ related:
       name: E–The Environmental Magazine
       domain: emagazine.com
     quality: 49
-  - title: "5 surprising stats about AI-generated art’s takeover"
-    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "7+mKpDNRDXcCD1T+WgA0OpSAkD/O1RuMSIsNookcl8qsbROpgZEChmBE9MsGmygg7jfUJ1KEZUqu4i+7isLbIraYkv0+JE9ARm4nuD78Xl+bpm04wpCc6IF26SsQppcXul7nBF05iZXj7uIfPVAATS/XzSxv6Pvzu/NIqBMMci2Qahx28BptBOyrtIgSzPQcbHVzQlaB4gNrrq5HG85Z/AqY0S/BaU4uNfPLGZvyaAi9QtGtkoqrjWT7YcuyWIRcfeo6kzpAXoyBilFvZBTGo8muAI3ruvhAHYFvVW6zTcHMf3t8u67toGq2zbW+jOGN7sTV7LX6RG18bg2gudyviPSAxHWDnO4s1iFULXdoTnI=;5c1QpOT20OzzMxHCoRk+SA=="
 ---

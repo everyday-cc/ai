@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/ai-machine-learning-transistor/"
 webUrl: "https://newatlas.com/technology/ai-machine-learning-transistor/"
 type: article
 quality: 84
-heat: 94
+heat: 98
 published: true
 
 provider:

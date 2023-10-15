@@ -3,27 +3,21 @@ category: news
 title: "US: Waymo Launches Self-Driving Taxi In Santa Monica, California"
 excerpt: "Waymo, a subsidiary of Alphabet Inc., an American autonomous driving technology company, launched Waymo One, a 24/7 self-driving robotaxi service, taking a tour around Los Angeles on Wednesday, October 11,"
 publishedDateTime: 2023-10-14T02:58:00Z
-originalUrl: "https://www.wyomingnews.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_026eccc2-9269-5467-9e89-2a559bb749e9.html"
-webUrl: "https://www.wyomingnews.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_026eccc2-9269-5467-9e89-2a559bb749e9.html"
+originalUrl: "https://www.djournal.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_84a18a41-d887-56e4-bbc6-692f1e495c80.html"
+webUrl: "https://www.djournal.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_84a18a41-d887-56e4-bbc6-692f1e495c80.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Wyoming News
-  domain: wyomingnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://wyomingnews-wy.newsmemory.com/?getprima"
-    width: 284
-    height: 512
-    isCached: true
-
-secured: "Rwwk2yKrD5F68LVwwqcJ0crJpKMJqMcH+/44BSuzCBeokq57eBcER8zxZzlHAnFN0PZpxcz0JG4ezuAJqEqGUaAMpb/x9tYCUTZE2NHzqgUdWOsTdIYV6Rm+yzVGw9x+gT8CXspWGqv8dLrrxLIW5FFhr+Wfw7geU3nwrab79rQkBB+Eoh7SwSF7OWspSw+D0Pc28MOeKljzQCh7Bd7svIHMaWVfEhMBhAmpkA0j3fyQsUmvVd/f5xoGqUeXcjQP0v5hRjGjGiN5flzvmHNJgoLr5oJyVwLS/cLuv+fQfFE2e8z7sBCe2Mf5WZikEt3n58PgjmzjjslU0chCYKoMWPOOsa+wjVNGL0q9d92SXYHcZvQnnJut553jj2UoZZnfCQdFq29AZXHMyv6vtUnun4U+NCyprxhCYFDJr9K4Sao952+FV69DF9c4G8MTJGsZCy+mLY1OSw2LH5T4YlH/8a1NSzj/99oBz+253Si14OHA4M16zeTTHKHwC6Wjpn/MYbeIxH/I+hPIdrd21cXA8w==;MfYPxq4094fsmmVPYurzwA=="
+secured: "RRgvRo9l81m1S4uPn2hwuf6ECytGQ7YEeO6T7OaczYmX4wKCGZo7ETLLneWYWsMajpRAUtulC93glCAjItC8NvjT5+E8cYjNlhcCNQzGu/Ybkh9Ftl4wbKHfKjGb6jVldUODagKO/EbGeErPDd2D9HvSI5D9zwYgmui6dNi3Ucw/ouIxFqxxk8iJ38cpovLpo5hLSYxK9dpI4l3VfmCzQP2zudYugrSWQQ0LuwyjAbcYff+QxGBdcm2EmxeeGDYVimJNWwFDxSsmmHycP6ZAaKs/ZTRUyoV2XiP42yc+H1x+5GRTzEHZypLnKG6RVvKcjFWB+NsgAxcfNxLeMpNjrCRAEh9PsGMZhlckmDrUOjccSYlRwDDkKdrRA4ZCfH9tr35b11l0MCzwxIETz1PoVBE50P3Lafz+bGAq2o286mM2/7a+xS0FtN9gOOCkqHOUt9mNPKSYV5uKQ065eJNawChWA7tmalWx38aZlYMb/k2AOKw+n/T8PjD+ts0LviOYzI3tFS1qN+rEOGk0wNsRTA==;CyhVye481vlnHxwdafTMTg=="
 ---
 

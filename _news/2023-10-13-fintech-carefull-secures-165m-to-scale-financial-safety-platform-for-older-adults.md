@@ -162,15 +162,6 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 3
-  - title: "Saudi Arabia's Appetite For Fintech & Saving Platforms On The Rise As Figures Demonstrate Growing Need For Financial Education"
-    excerpt: "As Saudi looks to lead from the forefront of Fintech, next-gen digital savings platform and accessible money mentor app MALY is ready to give use"
-    publishedDateTime: 2023-10-10T13:06:00Z
-    webUrl: "https://menafn.com/1107219779/Saudi-Arabias-Appetite-For-Fintech-Saving-Platforms-On-The-Rise-As-Figures-Demonstrate-Growing-Need-For-Financial-Education"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
 
 secured: "BOFOguLIkg2N+EVe9JVcSTAK04f7oVEeIvLkYQj5EIVNymzBXQclIaBZvCNP3cm/9MGllNN9PMc78KLh2WbBELpio4pbGIh2mZtoRWlukhDNi1wHQW9Ei785zJcfd2C5L2r0XE8lYylHUU9WhiLcxkXTpsbGU535fR577KU1/zRUoBnksrJA1Hh2uL/x6SuPiZipueTvCy+jp7NPlQ9umNTKRklVT8LBHXDUFf4XmCPsZoJ2YxS0tJ5sHHGxcoKlx5hLO9RhCZ1NUba+FhlWkXQwWg4kyo71jN/BnFbAucSSFs9Ku9c40VIeP9LKl2/IbJlZX8Xf+/B1LXfChMYXnTx98fvi3ZShqyW4qPpONVr0Q9lZaAAXaXSqslZ/zxEzOoPqOb3c6CIVD6bcgItD+bp6/AjGqNKXHFYeRAdMu6Fi7lzFja9sfAfAriepsInG8jJ71fJrFw/YS8JbT8NRlGBWgqGEp/35jNrtDeqUtLBy3F2+gkvcPLo0M05BfvetYH4yPOJHnAjeWdLjAOKcKQ==;D01yOewUhiFyIK+5N/bBsg=="
 ---

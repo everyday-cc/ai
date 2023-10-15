@@ -78,6 +78,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "If There Is To Be Any Healing After The Voice Referendum, It Will Be A Long Journey"
+    excerpt: "The result of the Voice referendum on Saturday was unexceptional if considered in light of the constitutional history of this country. Wi"
+    publishedDateTime: 2023-10-15T05:36:00Z
+    webUrl: "https://menafn.com/1107241596/If-There-Is-To-Be-Any-Healing-After-The-Voice-Referendum-It-Will-Be-A-Long-Journey"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/15/TC_62082image_story.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Coming to terms with the past is more important than ever. The Voice referendum is a vital first step"
     excerpt: "Voice supporters are not looking for division, but rather a desire to play a role in the future of a nation that accepts it’s our country, too."
     publishedDateTime: 2023-10-12T19:02:00Z

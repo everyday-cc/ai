@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/reasearch-finds-ai-lan
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI language models could help diagnose schizophrenia: Research"
-    excerpt: "Researchers at University College London in the UK developed new tools, based on AI language models, that can characterise subtle signatures in the speech of patients diagnosed with schizophrenia"
-    publishedDateTime: 2023-10-10T12:51:00Z
-    webUrl: "https://telanganatoday.com/ai-language-models-could-help-diagnose-schizophrenia-research"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 19
   - title: "AI language models could help diagnose schizophrenia: Study"
     excerpt: "Artificial intelligence (AI) language models could help in diagnosing schizophrenia, according to the findings of a new research."
     publishedDateTime: 2023-10-10T13:12:00Z

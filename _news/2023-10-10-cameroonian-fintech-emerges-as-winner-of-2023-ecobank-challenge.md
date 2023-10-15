@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Koree, a Cameroonian Fintech Emerges as Winner of the 2023 Ecobank Fintech Challenge"
-    excerpt: "Koree from Cameroon is the competition’s first ever female-led fintech winner having beaten eight other finalists to claim the top"
-    publishedDateTime: 2023-10-10T12:20:00Z
-    webUrl: "https://www.businessghana.com/site/news/Business/295213/Koree,-a-Cameroonian-Fintech-Emerges-as-Winner-of-the-2023-Ecobank-Fintech-Challenge"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 12
   - title: "Koree, a Cameroonian Fintech emerges as winner of the 2023 Ecobank Fintech Challenge"
     excerpt: "Koree from Cameroon is the competition’s first-ever female-led fintech winner having beaten eight other finalists to claim the top prize of US$50,000"
     publishedDateTime: 2023-10-12T13:46:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-
 webUrl: "https://venturebeat.com/ai/video-startup-captions-launches-new-ai-dubbing-app-lipdub-with-gen-z-slang/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "This new AI dubbing tool can translate audio while preserving the speaker's voice"
-    excerpt: "On Tuesday, ElevenLabs unveiled AI Dubbing, a new feature that can convert spoken content to another language while keeping the voice ... the nature of the original content when creating a translation, according to the company. In the release, the CEO ..."
-    publishedDateTime: 2023-10-10T13:06:00Z
-    webUrl: "https://www.zdnet.com/article/this-new-ai-dubbing-tool-can-translate-audio-while-preserving-the-speakers-voice/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 59
   - title: "Video editing startup Captions launches a dubbing app with support for 28 languages"
     excerpt: "Using translation and AI-dubbing to reach a wider audience is a growing trend. In June, YouTube announced that it is testing an AI-powered tool to let users automatically dub their videos in other languages. The company said it is even working on better ..."
     publishedDateTime: 2023-10-11T13:27:00Z

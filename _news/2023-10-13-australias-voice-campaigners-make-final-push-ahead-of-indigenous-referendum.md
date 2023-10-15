@@ -151,8 +151,8 @@ related:
         isCached: true
   - title: "News live: Australia reacts to voice referendum results; thousands gather for pro-Palestine rallies"
     excerpt: "Follow the latest news and updates today after the results of the 2023 Australian Indigenous voice to parliament poll Government ... it’s a referendum on a particular model of constitutional recognition. Secondly, I think we need to reflect on what ..."
-    publishedDateTime: 2023-10-15T03:51:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls?page=with:block-652b60a28f080e3e7b6d7e3b"
+    publishedDateTime: 2023-10-15T05:47:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls?page=with:block-652b7a608f081db0948417fb"
     ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls"
     type: article

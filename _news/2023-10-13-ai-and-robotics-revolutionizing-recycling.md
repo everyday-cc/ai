@@ -90,15 +90,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 49
-  - title: "5 surprising stats about AI-generated art’s takeover"
-    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "Ck4Ep+prxKorJOijY5oFm9Lo+07qOLJp5RTQBQ/tQXv+TxgOej+FGwniYkVkblHMsPUxx7Uf1uJjTm6706EUtOlQHbG41sI3BzJCWDXeSYF44w9YlFs3iso7z7TURcM9r4BjvamLj0aDyj9eombXXQ56ttkH1Vs6LwclHMQkPcA6ZR+zI8NRzf2XUvP+jDNPPxJmkTiHND+ig1oNAAVZGMEGwyOiREQS9Um/ngCyt6dDLdDS4sdP1c51RWRCR969zBp8nrTMD+SnlV0T2c+2ZP46UmyRXft79eFQsrcXxKvbqm58zQIPYZ3l2LsBTNqX0sDoohqUcj1S+3Ep/3CrCAdVUTe9wxsfZIzsJ1kpKk+MYpthkgVS2QeLwceTiqN/QvTDhHsiem+vSX3nojNjD1l0g/fYXwSx6qi44+kk2YOG/Qpp7yoUMFBY/sk7NfHS0zAU2B36tdbA3BhnX6h/UmDbKqQYJMCrblOY0qkCLNYJqYMG2hUI5fldkRLA+wJhJn+Tb87rWXZ2pve0OW3dNQ==;/nKys5miAPf3Qlp6OqH/rQ=="
 ---

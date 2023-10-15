@@ -201,15 +201,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft to launch its new AI chip 'Athena' next month"
-    excerpt: "Microsoft next month plans to unveil the company’s first chip designed for artificial intelligence at its annual developers’ conference."
-    publishedDateTime: 2023-10-10T12:33:00Z
-    webUrl: "https://interestingengineering.com/innovation/microsoft-launch-new-chip-athena"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 51
   - title: "Wolters Kluwer Health Language Platform to Maximize the Value of Health Data for Organizations Using Microsoft Azure"
     excerpt: "Wolters Kluwer Health Language Platform, a FHIR Terminology Server, enables interoperability to ensure quality healthcare data is leveraged across health plans, providers, and HIT vendors for analytic"
     publishedDateTime: 2023-10-10T13:30:00Z
@@ -267,15 +258,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 26
-  - title: "Grid Dynamics Deepens Partnership with Microsoft by Earning Coveted Specialization in the Azure Migrate and Modernize Program"
-    excerpt: "Grid Dynamics secures the sought-after Infra and Database Migration to Microsoft Azure Specialization, deepening its status as a Microsoft AI Cloud Partner and broadening its participation"
-    publishedDateTime: 2023-10-10T12:50:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2023-10/60327355-grid-dynamics-deepens-partnership-with-microsoft-by-earning-coveted-specialization-in-the-azure-migrate-and-modernize-program-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 7
 
 secured: "Fc8QkOJtoJFR91A7zEjiIu8lPYipFUxFXcltl9OH8fPIiLbDtwjdAZlADqQmJJDz52TU6zyrK8MYJ+aKu9Aju+q/AXKjCmmNtEGFmytxJApxVkETqw1QakYOpIetU5homHSqKCji/p2A6Bw+SdtTokzNB+fmArFDpRd4h1VZxk5ACTbq9aEvb38o24Y00DY7L1mNEwrjRC7A6PykH+5WWIV+8tpa42+QktbwWde3Lwy/YS8UOVTurIbDp8XAT34cjhp2BmvTQ5pYhC9BZubECqeo7OpD2RD2emKHAZXMmjdO8/eldWpthbIfDtwWQVQ4wSKJplLqJej/p0BOLtNhB+X2/JwxKl2ZREfcgR3ZSa6NNi/jWc8jFxcCQOPRYuhTir6KAi8czNkxaL75Ump9I2wZSIKDhPteX5NwdK6oT3Uexrh1bd57Ms6ag1enur2Rd1vUilxtuh6X/BJaLSn9lPzpqzGKnlxpSwf7N3VKPNV2Fp4qcBWRBTfvL6WyJYTDlAE7RA6pXj1A3WDAJR9o9Q==;RrHccExMd35ck2g0K95ySQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
 type: article
 quality: 104
-heat: 165
+heat: 154
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 49
-  - title: "5 surprising stats about AI-generated art’s takeover"
-    excerpt: "Especially in the past decade, artificial intelligence programs have used neural networks and machine learning to make tons of art."
-    publishedDateTime: 2023-10-10T13:00:00Z
-    webUrl: "https://www.popsci.com/technology/artificial-intelligence-art-statistics/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "H/ERw9KKeTKvNi6QFAVW97h2RmL7E7ljfkb/iadfRCJSLaEut5XRQy5AsbyQvMlmUWVuuzC9ITqR52ijG59aVYVMnnx3Hsp/izTikSiAcgBgzXrVE7eOBGeE9YJnfmycIb7IHcxqOzRPJKK4KRR30LNJwCt+tRGckZPnMJlGlDJZWYfVCmWIWPDON9Oycx4MD9Hwy11iEC34iWD8n1ST/2vWQPyBT8YrbUfbaJXyLz3d2KGg6BOWx+2asrSrhpP/pbYfWp2oTqXClCWJgsWgetqKg5yQSzB7e04zmW5qNysi+7AwZ5V0JpSz1dXsfkfWRGxcdeDq4dfRZwvwh26cEiAYRuZl21ZDjWmuZdBAbOE=;tScwTI8s0uJQ6GD0sxLWwg=="
 ---
