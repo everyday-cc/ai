@@ -9,8 +9,8 @@ ampWebUrl: "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: ProPakistani
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's budget friendly Arc A580 GPU is available now, but it may be too little too late"
-    excerpt: "It's been a year since the release of the Arc A770 and A750, but it seems that Intel's Alchemist line of GPUs still had some tricks up its sleeve. Today, Intel officially released the Arc A580, a 1080p graphics card that falls well into a budget friendly price point."
-    publishedDateTime: 2023-10-10T20:28:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/intels-budget-friendly-arc-a580-gpu-is-available-now-but-it-may-be-too-little-too-late"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 45
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rBzRvmDp9iUpPjLmNYQX7d-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel Arc A580 launches, a new budget GPU with an affordable $179 price point"
     excerpt: "The Intel Arc A580 is now available globally, and with its USD 179 price point it's targeting an overlooked gaming sector - the budget PC gamer."
     publishedDateTime: 2023-10-11T23:58:00Z

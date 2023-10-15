@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
-    excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
-    publishedDateTime: 2023-10-11T09:10:00Z
-    webUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/"
-    ampWebUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 91
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/microsoft-ai-tools-healthcare.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
     excerpt: "Microsoft's Bing AI launched a new bug bounty program designed to find important and critical flaws in the chatbot. If you find one, the reward is pretty big."
     publishedDateTime: 2023-10-13T21:48:00Z
@@ -113,24 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft's New AI Tools Set to Transform Healthcare Data Management"
-    excerpt: "Microsoft Corp MSFT showcased new data and AI tools designed to assist healthcare organizations in efficiently managing and analyzing the vast amounts of data they collect."
-    publishedDateTime: 2023-10-10T19:09:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35167588/microsofts-new-ai-tools-set-to-transform-healthcare-data-management"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
-    excerpt: "“Bringing our latest platform technologies to Microsoft Azure enables more customers and teams within organizations to harness our industry-leading AI, analytics, and automation capabilities to modernize cloud operations, expedite releases of high ..."
-    publishedDateTime: 2023-10-12T13:09:00Z
-    webUrl: "https://menafn.com/1107232134/Latest-Dynatrace-Platform-Innovations-Available-to-Customers-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
   - title: "Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences"
     excerpt: "Every industry depends on unique insights to achieve their goals, and unlocking the power of data is the key to an organization’s success. This is especially true in healthcare, where data has the potential to do so much good – from improving health outcomes and enhancing patient and clinician experiences to driving better organizational"
     publishedDateTime: 2023-10-11T05:38:00Z
@@ -140,6 +106,15 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
+    publishedDateTime: 2023-10-14T23:14:00Z
+    webUrl: "https://www.inferse.com/753901/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "RY5UFCaGMtWiqYNhalRzooIAdaDw/EP7EZJB6pgjv1uIVExKBs/dIqv0heCowikGTRFxdIZb+1zpjvh+uflHs/jUqmDRZZ00czjuBBCyW2PS3nDKr9f0bn/o7OQ8TXpkcnc1PQrOPt/g1hljA72uL1PK0fhHEWTeuhndDI3IbKv0QVk5Kwtrhtr1Yd7dLocbdmca3OgEsTqj1BiNvrwEz0SSKIdZnGOkohBPAXjSST669skPUsPS+EWhpyNTsomcqFtrCQXbiZuz3Uj7wuWjQ1nr9eVr2+xxOj3p3mmfX1Ihjef8FInwycGYdHKHJjcEw1ivt7WTepHJnlIfqJtFWoVYxH2NDdvgJs4vh7kPTzP1cziMZaG76rlAVIS5cuTketIDhxMilihWwNKCaATSu6CE8RlXCNMldHE0/lBa16whM7U50zjoBMRYJHbFNZ9EeEvWUfPjCgD79ajEFnLysQRe3LqQ/Y9zKlrV2v9FvXSMI7/0rBGkz/S4BETmVy5L4tHCZ/USZctMeXsGtk95wA==;ae483UKw/ZsbsmCbTNEWSQ=="
 ---

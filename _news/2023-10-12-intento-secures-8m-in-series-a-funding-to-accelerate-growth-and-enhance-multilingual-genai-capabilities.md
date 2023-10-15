@@ -36,15 +36,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 30
-  - title: "Tevogen Bio Introduces Tevogen.ai to Enhance Patient Accessibility and Accelerate Innovation Leveraging Artificial Intelligence"
-    excerpt: "Tevogen Bio Inc (“Tevogen Bio”) announces the inception of Tevogen.ai, a new initiative focused on harnessing the potential of artificial intelligence"
-    publishedDateTime: 2023-10-10T20:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231010880299/en/Tevogen-Bio-Introduces-Tevogen.ai-to-Enhance-Patient-Accessibility-and-Accelerate-Innovation-Leveraging-Artificial-Intelligence/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "3QnKczYCFeTQex9oO3/0ONJyPqnYHrgPfN8GtA74Oz6QHLD9cr8BGbdgUxV1QW/CuVLgwiZjXp7LzRicCqTY7Sdq4yNvetN1RRaLOjA7jtzmI52TFeKy9sjXy0jqaoz++GHVfwW3mYHVIXGD8Lt8E5PeV9xrjCUtFIXpV1xhGNQ2H1oDQVA2PGxlytUWRLHbIu4UVy794SumQdkr5JmJGznQa28iowXJoUqqjKzoEnS9cWrioo6pzlyuA2NogMwveOGko4qT61ON5VFl+h+tIDJPmcaaSjwJmdgqwMT0CkUwjyQPaO15vVx46ro04IWvd8rkuCrbvWXfPR+tU+EEIbakUorr55v8OWa17m3eH8A=;z340T8hPZkg/MNWYXfdNtw=="
 ---

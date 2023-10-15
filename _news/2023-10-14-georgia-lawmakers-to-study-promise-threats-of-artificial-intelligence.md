@@ -7,7 +7,7 @@ originalUrl: "https://www.albanyherald.com/features/georgia-lawmakers-to-study-p
 webUrl: "https://www.albanyherald.com/features/georgia-lawmakers-to-study-promise-threats-of-artificial-intelligence/article_1aac5e48-6aa1-11ee-b0e3-3b2eaaa297b3.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1171
     height: 615
     isCached: true
-
-related:
-  - title: "Georgia State receives $10 million artificial intelligence research grant"
-    excerpt: "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial"
-    publishedDateTime: 2023-10-10T20:09:00Z
-    webUrl: "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html"
-    type: article
-    provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/f/ce/fce0efed-7e2c-5fb3-941b-255887ed7b4e/6525bb6020bdd.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "nTTs+XKLN2xIVsqCsW2PokLKOq5EYi1Wk2LqlqowwP/3Zy6yQHtuqgZxm79NdSPQ3WkTsEfyYa/sbagjQiIUItkB/vnawwnfPKOUuiDuLZBtY8TrqjZhmDF8zaYk3iRNjXZqhe+Rju0oWpchyq7q8Ob7RXcvoyyuu7677okHUUw5Ho9kSmlMB0u4F3aao6ZT/NWnvK0b3qPfanSSSWGRmbEbzGj4IvbVrvBdCoZkio3GRb1cg1gdZPJUovVIUg9J4C7x6QsiBp8ku2lUmtTB2qoq3VbEy4qRKmBuPfy9qMSA54il9QgYekKuxovlQLUiVANJwQphbfvH+llILriRLk8nTHugYPIrYJy2y8gRxRg=;Ss431rKdG7PN5zu3nZxIpw=="
 ---

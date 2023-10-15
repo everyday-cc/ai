@@ -46,6 +46,20 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Could AI communicate with aliens better than we could?"
+    excerpt: "Machine-learning algorithms being used to better understand the communication of dolphins could form the basis for understanding aliens  —  if we ever find them."
+    publishedDateTime: 2023-10-11T19:00:00Z
+    webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
+    type: article
+    provider:
+      name: Space.com
+      domain: space.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/DPVxJe4EPPcPb2GGtziSqJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How AI could supercharge battery research"
     excerpt: "Aionics is working to use AI tools to help researchers find better battery chemistries faster. The company is primarily focusing on electrolyte, the material that shuttles charge around in batteries. “This is a huge opportunity for us to accelerate this whole industry,” Sendek says."
     publishedDateTime: 2023-10-12T10:00:00Z
@@ -57,15 +71,6 @@ related:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 37
-  - title: "Could AI communicate with aliens better than we could?"
-    excerpt: "Machine-learning algorithms being used to better understand the communication of dolphins could form the basis for understanding aliens  —  if we ever find them."
-    publishedDateTime: 2023-10-11T19:00:00Z
-    webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 19
 
 secured: "0mUGiPY0+e2Ab2mTbTnRemSgu4czeKXpQSbEJmHvJINW+QkWNJymK8Ry2jCWzyiNvY058w0y6fPqgL4lH1j0M/Vm9D/r095HPh1jdaIjsrmoRgu5tDja/WF7pRuwE3XFf/I1zg1fOjF5JJnvPCM/Bb1GIKbZzd8KZJbz3A2crZJTRJ22B/ixzOuIw+lbdGosXCkMHyM3/I8E+K9JKjgdLb+j606/Syxz/AB98swQY0jIyYBeBjwCUzTXk2wRq1nlmGkEge0ng0887Myi02RRy53iLP6NstFee8yvU6jgsf/Pwwg4QyZ9g7LMSTAHsS2unc1LeK163ySiMuDqtCXjPtxLSvXzSfYHNVV6/dBgfCA=;IVw/hxPotuikQGCMHGQZtw=="
 ---

@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 1004
         isCached: true
-  - title: "AMD to acquire Nod.AI open-source AI software startup"
-    excerpt: "An AMD spokesperson said the acquisition of Nod.AI should be complete by the end of the quarter to bolster the company's AI tech development and business."
-    publishedDateTime: 2023-10-10T19:40:00Z
-    webUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup"
-    ampWebUrl: "https://www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/137356/amd-acquires-nod-ai-startup?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/10/amd-to-acquire-nodai-open-source-ai-software-startup_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AMD focuses on AI chips in new acquisition bid"
     excerpt: "AMD has entered an agreement to acquire software start-up Nod.ai, as the semiconductor giant makes a push into the AI chips market."
     publishedDateTime: 2023-10-11T13:55:00Z

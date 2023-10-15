@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-you
 webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
 type: article
 quality: 119
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_1739491604-100947060-large.jpg?auto=webp&quality=85,70"
         width: 1199
         height: 622
-        isCached: true
-  - title: "The Intersection of Data and Generative AI"
-    excerpt: "Microsoft's Buck Woody breaks down how SQL Server is leveraging gen AI, and what skills you will need to stay competitive."
-    publishedDateTime: 2023-10-10T20:19:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/10/the-intersection-of-data-and-generative-ai.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIGlobe.jpg"
-        width: 647
-        height: 450
         isCached: true
   - title: "The impact of generative AI on the AV industry"
     excerpt: "Electrical also has a chronic shortage of skilled workers. This is where the employment picture becomes more nuanced and less gloomy. Electrical contractors and design firms are using generative AI not because they want to reduce staff but rather because they can’t find enough qualified people in the first place. Sound familiar?"

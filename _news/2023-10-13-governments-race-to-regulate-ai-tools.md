@@ -28,75 +28,96 @@ images:
     isCached: true
 
 related:
-  - title: "Europe And Japan Are Leading The Race To Build AI Rules"
-    excerpt: "As the EU builds its case against Musk, the incident raises the issue of the role of Europe in regulating AI and the behaviour of the entrepreneurs leading AI."
-    publishedDateTime: 2023-10-14T15:03:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
+  - title: "Tech Giants Unveil New AI Tools For Healthcare"
+    excerpt: "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage."
+    publishedDateTime: 2023-10-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652aacd49cafb2eabf0453e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 420
-        height: 554
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652beefb8a28700db0fff333/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1565
+        height: 900
         isCached: true
-  - title: "Entrepreneurship In The AI Era: Spearheading Transformation And The Essential Route To An MVP"
-    excerpt: "For businesses looking to navigate the surging tide of AI, they'll need to map out their journey from the inception of an idea to the creation of an MVP."
-    publishedDateTime: 2023-10-12T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
+  - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
+    excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
+    publishedDateTime: 2023-10-11T09:10:00Z
+    webUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/"
+    ampWebUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a396a0ec5f519b6147255f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1339
-        height: 893
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/microsoft-ai-tools-healthcare.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Europe eyes strict rules for artificial intelligence"
-    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
-    publishedDateTime: 2023-10-11T23:25:00Z
-    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
+  - title: "Join Us to Discuss Artificial Intelligence’s Impact on DFW Healthcare"
+    excerpt: "Along with nearly every industry, healthcare is in the throes of dealing with artificial intelligence and ChatGPT software that threatens to change the practice of medicine. The question, though, is whether that change will be one that will save society or ..."
+    publishedDateTime: 2023-10-12T19:00:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2023/10/join-us-to-discuss-artificial-intelligences-impact-on-dfw-healthcare/"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 41
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 56
     images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
+      - url: "https://assets.dmagstatic.com/wp-content/uploads/2023/10/DCEO_HealthcareBreakfast22_Q4_BlogPostHeader.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "A European Approach To Artificial Intelligence"
-    excerpt: "RDI Inspector General Angeline van Dijk made the call as she delivered a speech on“A European Approach to Artificial Intelligence,” at the 2023 World Summit AI (WSAI), an annual event launched in 2017 for tech leaders to discuss the latest global AI developments. The theme of this year's WSAI is“AI on the Brink: Shaping the Future of Humanity.”"
-    publishedDateTime: 2023-10-13T08:29:00Z
-    webUrl: "https://menafn.com/1107236341/A-European-Approach-To-Artificial-Intelligence"
+  - title: "Revolutionizing Healthcare: The Power of Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) has rapidly transformed various industries, and healthcare is no exception. In recent years, AI has taken center stage in revolutionizing the healthcare industry, bringing with it promises of improved patient outcomes,"
+    publishedDateTime: 2023-10-11T15:19:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-the-power-of-artificial-intelligence/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
+      name: Impacts
+      domain: techbullion.com
+    quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2023-10/13/FG_1b7cfimage_story.jpeg"
-        width: 678
-        height: 381
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/HEALTH-TECH-4.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Tonix Pharmaceuticals Announces Oral Presentation at the World Vaccine Congress Europe"
-    excerpt: "Zembrace SymTouch and Tosymra are registered trademarks of Tonix Medicines. Intravail is a registered trademark of Aegis Therapeutics, LLC, a wholly owned subsidiary of Neurelis, Inc. All other marks are property of their respective owners."
-    publishedDateTime: 2023-10-11T11:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tonix-pharmaceuticals-announces-oral-presentation-at-the-world-vaccine-congress-europe-1032696045"
+  - title: "Unlocking AI’s Potential in Healthcare"
+    excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
+    publishedDateTime: 2023-10-13T14:35:00Z
+    webUrl: "https://www.unite.ai/unlocking-ai-potential-in-healthcare/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/knowledge-ai-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
+  - title: "Dropbox unveils video app, updates AI tools and web interface for new era of work"
+    excerpt: "Highlighting a new era of distributed, virtual work, Dropbox has announced a host of updates to its platform — including a number of new capabilities for its previously launched generative AI tools — as well as new subscription plans."
+    publishedDateTime: 2023-10-11T14:36:00Z
+    webUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/15/15/puff-7-100944726-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "VIIR1VDecngVWZtUaCsLBbEizRDUU5OnZM/u+QlVLhLSwyYtMW9Txg0QvlOExWXgrBjd4wgA0Dq1pyIAxV4kbj11PjaNzGLG0wLG3DWiKHbHo+dn5Qs/EkCVBlbnXU4JGMWXCndJuB3Hh60oFzY2KcPRJJ5GluLSjv4KlKN700TbPC9amdkeWzdXTE1t5xi57sJ0xKHq7Atd3ParE/TD62tPKN/tBIhTLK4x+Cco6P3i2gMAs+j7U3HHsl4Uk8Z3tJsgRsowMG8aNNS2Vz+j2ueexshHpuQttoRrcf8shz06O3eJOdNdCdGD3RG60KfH/HpPx85fIPbPtZgSDzSBE+qYC6LaCIE7Gi4AGdT8et0SPUp0NydL0kEKzLI36qzGD/yoWWxxaPXuna8wMlTC4iMYBqCzFUQvgVHiGrHWqDMD2Euisf3nYnCPm7pwV91k20acre94DEXczJpMe+nJhvZ2Z1QnjeUH8unkS+ixQHg+AW9ek5RSDBGrX0092O+pYN8u6oksMhFKEpDYkEM22g==;w2qt5AvSUJUHMJ5av7VrEg=="
 ---

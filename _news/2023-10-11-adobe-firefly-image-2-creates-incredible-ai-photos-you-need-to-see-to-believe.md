@@ -38,20 +38,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Adobe Highlights New Generative AI Features for Photoshop and More"
-    excerpt: "MAX conference, Adobe today provided insight into its plans for generative AI technology in Photoshop, Illustrator, and other"
-    publishedDateTime: 2023-10-10T22:31:00Z
-    webUrl: "https://www.macrumors.com/2023/10/10/adobe-generative-ai-features/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/mYTqbQN-5cbRxVBdcNykZ3Lawl4=/1600x/article-new/2023/10/adobe-generative-fill-photoshop.jpg"
-        width: 1600
-        height: 878
-        isCached: true
 
 secured: "nihNQTAjWz2GbafPw2AW/NF3Y2kpLozjSPyqHj51gMy52g8Zr+eSf0qlytrxxBfXXyx1fEG0USfKRklzjFmnta7vc1DzP3PTpmAEFy14DtoLwbqSA4J3WmMmAs/kdlvEQxkRFTsREE0Bt4x6P6XgIsw1V9ccOJUaN7wHb7gfnE8E+YwniYz+LxedKFZIFz68G7jqvGNwLXsDrZ4k6D3/6XKpnLIpJbvhLAy7e6MuPKIdKgp745HRTO4c3bQe03awDBjgre7AsVEad/Bt4/wZUM0vKEXBg0mpHJwknO7dkgDWjRo4yxHQOivAD32AQeyMQ2kPsZjHcoTf2l/Fq76Y58WrlEJtcZQwaeYvT05P8D6wYebMGUF4h0MKeV+//NQab2o/3plGN+HJryUrx75xNEHzOPmUlMgyHYWerSSToUvdLfTyY/pPreZUfzhhuNz4IyFvEzdjNyhnHZ2oTzJE8a/RzINgzm0c21PnRTkEqJqTvJYtbikbwEB8KrqbmLYE+vyOTG7y7U4jN3Vtuaf1tw==;F5TMXxDSMU3/Mq0IyGP/Sw=="
 ---

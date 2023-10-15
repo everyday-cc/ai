@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-id
 webUrl: "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Bank of America: These 6 global AI stocks are 'hidden gems' with great potential"
-    excerpt: "Bank of America gives two of the chip stocks identified more than 40% upside potential over the next 12 months."
-    publishedDateTime: 2023-10-10T22:21:00Z
-    webUrl: "https://www.cnbc.com/2023/10/11/bank-of-america-these-6-global-ai-stocks-are-hidden-gems-with-great-potential.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 79
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/102492469-454318570.jpg?v=1696985505&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "u7x6HJQOtsaQCKKueobSfslfbNbrGwxWKVQ8djHz9kcUWp6YSnY4kxtgi/WhhtzU3ItJOhgWUmJmCLuIXW0rK2OjQDmLVigLf/ef3UawBrKbVDCunBTrnV4OQmWPfcrdkbGyUNnOq//SAX4R8X7Le4t0PkK1Qt8ux5Bl6I79FvCtK2eQOvwBl1OvIhdZx3KWh8IcN5OFvALuci3egMqMyYijdxgJyHUHoKd6QYVaLGJyYk5Eu4k+FudLiT0drpQ++ZDDdTnJ5xqSWV9G2hg+sOPyibQG3h+Q4NOsk5Y9Wg/gK6wCJbZVrQa0HDyNvzpJqCvCA6MAJ83O5rQRXxEXAv3Mm21Z7FvR+KXLvarz9QKPLSr2+mj1yy9h4jSIJloyDfQ0JZqwkykpF+2YS/gFXxiTrktU8JEikD3n7Xb5NzsJnclH3DeHH+wepeu2+xpCYHEM9g9qwyfv0R79F1ypObSYbWGm6te8wsZHkhB/DACRVc+tn2HfFwydMqQZrXH0uJN/KS1IBkeSXiKSjZcNIQ==;LAO9y8bxyu+Fmw0BIv3ANQ=="
 ---

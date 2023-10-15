@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "GITEX Global: Dubai ignites start-up innovation in AI"
-    excerpt: "Dubai is set to become the epicentre of the global artificial intelligence movement as it hosts the 43rd edition of GITEX Global, the"
-    publishedDateTime: 2023-10-10T20:28:00Z
-    webUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/"
-    ampWebUrl: "https://ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
-    cdnAmpWebUrl: "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/10/gitex-global-dubai-ignites-start-up-innovation-in-ai/?amp=1"
+  - title: "Honeywell to showcase the latest 5g, machine learning and sensing innovations at Gitex 2023"
+    excerpt: "During the event, Honeywell will demonstrate solutions for retail, transportation & logistics, healthcare, oil & gas"
+    publishedDateTime: 2023-10-11T09:29:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit?amp=1"
     type: article
     provider:
-      name: Ventureburn
-      domain: ventureburn.com
-    quality: 57
+      name: Zawya
+      domain: zawya.com
+    quality: 49
     images:
-      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/10/Untitled-design51.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NWYyMzctYjcwYS00/0/taylorsmith_honeywellsps_image-jpeg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
   - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
     excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
@@ -55,15 +55,6 @@ related:
         width: 369
         height: 250
         isCached: true
-  - title: "GITEX GLOBAL, Expand North Star 2023 Centre World’S Attention On Booming Artificial Intelligence (AI) Economy"
-    excerpt: "His Excellency Omar Sultan Al Olama, UAE Minister of State for Artificial Intelligence, Digital Economy and Remote Work Applications, and Chairman of Dubai Chamber of Digital Economy, spoke at the official GITEX GLOBAL and Expand North Star 2023 press ..."
-    publishedDateTime: 2023-10-10T19:41:00Z
-    webUrl: "https://menafn.com/1107221656/GITEX-GLOBAL-Expand-North-Star-2023-Centre-WorldS-Attention-On-Booming-Artificial-Intelligence-AI-Economy"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 13
 
 secured: "vjvVZC6lD02KOicUQTYiJI4reMj41o70Vqd/4l9AVHkrGlkXmr06tbn9mhc7VS7qN14x0iZ9WztT0kP4VeV1a2Y8XOinb6obbidh/JfexBiytoRp5o1JlzXlHIcQ6O6paHK9fclNqIGBhjbMXtuxPt9DaLg5p3yJahfP2jkXi5aOJqYrdPh+2tBhMo0h1fuVIoYyWba3pzu2RBl9pJMLYjjp3F3QUgaWFLEMRVAINle0y4FjdwhHBhRr+HR4aWAwX25IuRJdFi/+msWLw6sntW3J2fF8K/HrhwvrZUJUKzMufxFigYC1qRbSqHLS4IZoRZ48qHvM0u1VpMXxiDV2+TPYMtmLTOcQrIL4TZPSChQKLBaW7Z3xbXDB92K+fQ3sA6Zqw7ME62ZtrCg32sW/rdAT68hCNjQk9B6uvH+kD8i1cvtk0geOuPgsItx6O1v0owsgbJLOPylC/RgEzfsq4/SOtn3iiHm1Dxo4Fy/FRB5kKzZjGdvNWCqNqVSSSj4ZMUDz16bmfehMa3/6NqDDMg==;5Ap+nCMjDpWopqpFtUYX5g=="
 ---

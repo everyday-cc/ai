@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.co.uk/article/low-paid-workers-are-training-ai-m
 webUrl: "https://www.wired.co.uk/article/low-paid-workers-are-training-ai-models-for-tech-giants"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop age prediction model for human brain tissue using artificial intelligence"
-    excerpt: "The aging brain undergoes structural and cellular changes that can impact function and increase susceptibility to neurodegenerative disorders like Alzheimer's disease. Age acceleration—or the differences between biological and chronological age—in the brain can reveal insights about mechanisms and normal functions of one of the body's most important organs."
-    publishedDateTime: 2023-10-10T20:10:00Z
-    webUrl: "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-age-human-brain-tissue-artificial.amp"
+  - title: "AI Startup Lays Off Workers Again in Fresh Sign of Sector Belt-Tightening"
+    excerpt: "Deepgram, an artificial intelligence startup selling speech recognition software that generates transcripts, has cut around 20% of staff, or around 20 people, CEO Scott Stephenson said. It was at least the second time this year the San Francisco startup has laid off workers,"
+    publishedDateTime: 2023-10-12T02:17:00Z
+    webUrl: "https://www.theinformation.com/articles/ai-startup-lays-off-workers-again-in-fresh-sign-of-sector-belt-tightening"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 61
+      name: The Information
+      domain: theinformation.com
+    quality: 36
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-first-to-d.jpg"
-        width: 2030
-        height: 1259
+      - url: "https://tii.imgix.net/production/articles/11481/fdfed770-1b2c-4af2-b30a-005be00573f3.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "SD6+RXIA70gmaxkhV5qTnE/1N7U/TFcCf2yae9raLxkLhLPS+hMo2wzv6nZbYD+SmyX0BYsw8tD6wtZpmtYuauibRFrC2uoqpwQEwwoGg6rBuCpF7hpbupTFdir15IGKhWkCBOK1d3HN83aWlzOzl4A/Uu3Aep+WTfizM5G7hUu2IkrTd0KDQEYuGGOAYYFRoGr35SlOK8DpadH+84/jabB5qOuInvhkKCakIexg/MIgMy4hpfulaT0cY1unlf/J2qF9ucH1EL0FmKcPkOyo/sKykviWuic+hhjClW3Y4TdMH3AF+YdQxeMtcw9lan61/W5tMG/OqjNfUw7vF4JB2t4VjJGYj2rPoYtC9ZSISxHhSX9SM+I5bTdE7bezAGy3ULGyyzJFU7e2Gpgjs1vCibO7J9mTgE+JQ2z17j5mcehGkfUwIpIQafKhEZqZM1IWgxFxcjXBAxTUJIAMivIiK5en+uD263+HxHfj//OHGnGUWWfr4Zhv9RV1vvKpjkwuk7ODbwDCuX2FRW+rvJjaMQ==;CjvGj4nJ1WUbP4kBsxQ3dA=="

@@ -25,21 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "AI Renaissance In Healthcare: Top Five Opportunities In Precision Medicine"
-    excerpt: "As data democratization and technological convergence continue, we're set to experience a healthcare renaissance where patient-centricity and proactive intervention will be the norm. Here are some of the most promising use cases where generative AI could help deliver the promise of precision medicine."
-    publishedDateTime: 2023-10-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
+  - title: "Tech Giants Unveil New AI Tools For Healthcare"
+    excerpt: "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage."
+    publishedDateTime: 2023-10-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 102
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6515e926f782f3662889eec0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652beefb8a28700db0fff333/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1565
         height: 900
+        isCached: true
+  - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
+    excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
+    publishedDateTime: 2023-10-11T09:10:00Z
+    webUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/"
+    ampWebUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 91
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/microsoft-ai-tools-healthcare.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-13T10:48:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Join Us to Discuss Artificial Intelligence’s Impact on DFW Healthcare"
+    excerpt: "Along with nearly every industry, healthcare is in the throes of dealing with artificial intelligence and ChatGPT software that threatens to change the practice of medicine. The question, though, is whether that change will be one that will save society or ..."
+    publishedDateTime: 2023-10-12T19:00:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2023/10/join-us-to-discuss-artificial-intelligences-impact-on-dfw-healthcare/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 56
+    images:
+      - url: "https://assets.dmagstatic.com/wp-content/uploads/2023/10/DCEO_HealthcareBreakfast22_Q4_BlogPostHeader.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Unlocking AI’s Potential in Healthcare"
     excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
@@ -55,61 +99,22 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Carta Healthcare survey results indicate that education around AI may improve consumer trust"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Carta Healthcare®, a company whose mission is to improve patient care by harnessing the value of clinical data, today announced the results of a survey measuring American perception and trust of artificial intelligence (AI ..."
-    publishedDateTime: 2023-10-12T13:42:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231012647360/en/"
+  - title: "Dropbox unveils video app, updates AI tools and web interface for new era of work"
+    excerpt: "Highlighting a new era of distributed, virtual work, Dropbox has announced a host of updates to its platform — including a number of new capabilities for its previously launched generative AI tools — as well as new subscription plans."
+    publishedDateTime: 2023-10-11T14:36:00Z
+    webUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 40
-  - title: "The 8 coolest things in healthcare"
-    excerpt: "From artificial intelligence writing patient portal messages for physicians to \"hospital rooms of the future\" equipped with voice assistants and video-based care, there are a lot of cool things in healthcare nowadays. But which are actually making a ..."
-    publishedDateTime: 2023-10-10T21:22:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/the-8-coolest-things-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/15/15/puff-7-100944726-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Adaptability and promising potential of synthetic information in healthcare"
-    excerpt: "Data-based decision-making underlies predictive analytics and innovation in clinical research and public health. In banking and economics, synthetic information has demonstrated promising potential for improving algorithm development, risk assessment, and portfolio optimization."
-    publishedDateTime: 2023-10-11T08:40:00Z
-    webUrl: "https://www.news-medical.net/news/20231011/Adaptability-and-promising-potential-of-synthetic-information-in-healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761327_16970134611824691.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "AI in Healthcare: Patients' Comfort Tied to Familiarity"
-    excerpt: "Utilizing artificial intelligence must address concerns spanning across generations, making it crucial to ensure that AI adoption benefits people of all age groups."
-    publishedDateTime: 2023-10-10T19:37:00Z
-    webUrl: "https://www.medindia.net/news/ai-in-healthcare-patients-comfort-tied-to-familiarity-213785-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 34
-  - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
-    excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
-    publishedDateTime: 2023-10-14T13:06:00Z
-    webUrl: "https://www.orlandosentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 28
 
 secured: "MtE7kaMPmNskTTwAUkjdEV06EJdUodLO/czhWBQPizuE7Cie+EQWKPCtrv1972piI5DeW4HnqNnR84wk/fPVFurWnx0UFTOmK6gNL2JYcwtoum8RTsHt0vpZwUhTZ/sxejq3ApP9eSgdjPbZPyyC7lumH6CLfmAYB4S+tPZLJlnADYFKkyNzV3lKenKclv9bez0TTEP8oX7Jlt+JBjlG5dl/1xFvwZUxninSEx0c0Q2jLOt9LZFg1qEVLhzGcoL291ZxpoXLx34XrGqaMHc4/kSS7Rf6HFCqJ2/zhLUOE1xd7R+quSVARcOj/Rjj/xTd3T7cUwEjdrXt8uIXEzDh9C/xhpijd6hKaEnlVhlQC4JIdvkLGP9nk7ywTNJVnRlB5jLfUZoJJqB+jTIzVhM7TtVN+YllBn0j5L0bK3UA3DRvLNo3dsflon0uIHSFFzWlyyWztaloG7Dyc5XmYNhefgYGEoyPiD/6PdTj8a8kxeHfgpck0UD2YNhGO3K9uHfGJxJBkHaMimseQD/xrRO1eA==;D6AqFoGQXINwwf6yPdSEwg=="
 ---

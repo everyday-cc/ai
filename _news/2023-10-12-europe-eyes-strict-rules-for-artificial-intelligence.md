@@ -58,20 +58,6 @@ related:
         width: 1339
         height: 893
         isCached: true
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-10-13T10:48:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "A European Approach To Artificial Intelligence"
     excerpt: "RDI Inspector General Angeline van Dijk made the call as she delivered a speech on“A European Approach to Artificial Intelligence,” at the 2023 World Summit AI (WSAI), an annual event launched in 2017 for tech leaders to discuss the latest global AI developments. The theme of this year's WSAI is“AI on the Brink: Shaping the Future of Humanity.”"
     publishedDateTime: 2023-10-13T08:29:00Z

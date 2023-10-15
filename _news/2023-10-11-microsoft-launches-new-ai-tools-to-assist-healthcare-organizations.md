@@ -9,8 +9,8 @@ ampWebUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
 type: article
 quality: 91
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: coinspeaker
@@ -28,119 +28,94 @@ images:
     isCached: true
 
 related:
-  - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
-    excerpt: "Microsoft's Bing AI launched a new bug bounty program designed to find important and critical flaws in the chatbot. If you find one, the reward is pretty big."
-    publishedDateTime: 2023-10-13T21:48:00Z
-    webUrl: "https://www.slashgear.com/1420424/bing-ai-microsoft-bug-bounty-program/"
+  - title: "Tech Giants Unveil New AI Tools For Healthcare"
+    excerpt: "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage."
+    publishedDateTime: 2023-10-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://www.slashgear.com/img/gallery/bing-ai-joins-microsofts-bug-bounty-program-and-the-payouts-are-big/l-intro-1697233282.jpg"
-        width: 1600
-        height: 901
-        isCached: true
-  - title: "Microsoft announces new AI chatbot, features for doctors, pathologists"
-    excerpt: "Microsoft has unveiled new healthcare tools in Azure AI, including a generative AI chatbot, Text Analytics for health, and three new models within Azu"
-    publishedDateTime: 2023-10-11T06:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/articleshow/104334034.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/amp_articleshow/104334034.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/amp_articleshow/104334034.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-104334034,width-1280,height-720,resizemode-4/104334034.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
-    excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
-    publishedDateTime: 2023-10-11T16:29:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-creates-new-data-and-ai-powered-capabilities-for-microsoft-fabric-and-azure-ai-insights"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 56
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4643/MicrosoftHealth_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
-  - title: "Microsoft Debuts AI Bug-Bounty Program, Offers $15K"
-    excerpt: "Should a participant be a public sector employee, the bounty award must go to the public sector organization and be signed by an attorney or executive responsible for its ethics policies. The scope of the bounty program extends to AI-powered Bing on bing ..."
-    publishedDateTime: 2023-10-13T17:20:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 56
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt878cddbb8cb42fa9/651db13445184e093837307b/bingchat_Daniel_Chetroni_alamy.jpg"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652beefb8a28700db0fff333/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1565
         height: 900
         isCached: true
-  - title: "Microsoft will pay you up to $15,000 to bait AI-powered Bing"
-    excerpt: "Microsoft cordially invites you to have a crack at tipping its new AI-powered Bing search tools into existential meltdown. And it will pay you up to $15,000 for your trouble. Well, it will if you manage to bait AI Bing in just the right way."
-    publishedDateTime: 2023-10-13T10:47:00Z
-    webUrl: "https://www.pcgamer.com/microsoft-will-pay-you-up-to-dollar15000-to-bait-ai-powered-bing/"
+  - title: "Governments race to regulate AI tools"
+    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
+    publishedDateTime: 2023-10-13T10:48:00Z
+    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
     type: article
     provider:
-      name: PC Gamer
-      domain: pcgamer.com
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Join Us to Discuss Artificial Intelligence’s Impact on DFW Healthcare"
+    excerpt: "Along with nearly every industry, healthcare is in the throes of dealing with artificial intelligence and ChatGPT software that threatens to change the practice of medicine. The question, though, is whether that change will be one that will save society or ..."
+    publishedDateTime: 2023-10-12T19:00:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2023/10/join-us-to-discuss-artificial-intelligences-impact-on-dfw-healthcare/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 56
+    images:
+      - url: "https://assets.dmagstatic.com/wp-content/uploads/2023/10/DCEO_HealthcareBreakfast22_Q4_BlogPostHeader.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Revolutionizing Healthcare: The Power of Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) has rapidly transformed various industries, and healthcare is no exception. In recent years, AI has taken center stage in revolutionizing the healthcare industry, bringing with it promises of improved patient outcomes,"
+    publishedDateTime: 2023-10-11T15:19:00Z
+    webUrl: "https://techbullion.com/revolutionizing-healthcare-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 54
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/HEALTH-TECH-4.jpg"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Microsoft's New AI Tools Set to Transform Healthcare Data Management"
-    excerpt: "Microsoft Corp MSFT showcased new data and AI tools designed to assist healthcare organizations in efficiently managing and analyzing the vast amounts of data they collect."
-    publishedDateTime: 2023-10-10T19:09:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35167588/microsofts-new-ai-tools-set-to-transform-healthcare-data-management"
+  - title: "Unlocking AI’s Potential in Healthcare"
+    excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
+    publishedDateTime: 2023-10-13T14:35:00Z
+    webUrl: "https://www.unite.ai/unlocking-ai-potential-in-healthcare/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-  - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
-    excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"
-    publishedDateTime: 2023-10-13T06:56:00Z
-    webUrl: "https://www.inferse.com/751999/supercharge-brand-content-with-the-typeface-ai-app-for-microsoft-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 50
+      name: unite
+      domain: unite.ai
+    quality: 54
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-7711.png"
-        width: 1091
-        height: 618
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/knowledge-ai-400x240.jpg"
+        width: 400
+        height: 240
         isCached: true
-  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
-    excerpt: "“Bringing our latest platform technologies to Microsoft Azure enables more customers and teams within organizations to harness our industry-leading AI, analytics, and automation capabilities to modernize cloud operations, expedite releases of high ..."
-    publishedDateTime: 2023-10-12T13:09:00Z
-    webUrl: "https://menafn.com/1107232134/Latest-Dynatrace-Platform-Innovations-Available-to-Customers-on-Microsoft-Azure"
+  - title: "Dropbox unveils video app, updates AI tools and web interface for new era of work"
+    excerpt: "Highlighting a new era of distributed, virtual work, Dropbox has announced a host of updates to its platform — including a number of new capabilities for its previously launched generative AI tools — as well as new subscription plans."
+    publishedDateTime: 2023-10-11T14:36:00Z
+    webUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
-  - title: "Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences"
-    excerpt: "Every industry depends on unique insights to achieve their goals, and unlocking the power of data is the key to an organization’s success. This is especially true in healthcare, where data has the potential to do so much good – from improving health outcomes and enhancing patient and clinician experiences to driving better organizational"
-    publishedDateTime: 2023-10-11T05:38:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/10/10/microsoft-introduces-new-data-and-ai-solutions-to-help-healthcare-organizations-unlock-insights-and-improve-patient-and-clinician-experiences/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/15/15/puff-7-100944726-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "zlWyfAUpz/kv6Rwk48wlfQmqOfDM3A7vhubH/TmheAdLGgl3bwdfFnTcCB67mKomASbljBiZOL7ZqJlPgJMJAFB9Y43oxKoYGlBSMoGJXGnUcTD1h47FKzA93cISLSm0yBovn8KHm/NVyNlJM+Ys+/uzniVx7UBNsLEmMoM1UU/MHTSxZIPil42txq8g29BO05r06mW3h29S1PHLA/SzlfmI74SSwZx3v4t7CLA9zjq1cT+EgCPPrPhq9vVafwBq48m2WlEdyeX7Bg7uwfeHfFnKrmI/HMTRLSWiCKTSHKStcxSW6C40vLprAD54q5fqURwB3FJeBnRtUOFJQ9EQzw4aZ4HighGS/fvsO1H9pqA=;DMbRf0BEFcn2UvZeS70u9g=="
 ---

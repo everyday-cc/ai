@@ -36,15 +36,6 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Tevogen Bio Introduces Tevogen.ai to Enhance Patient Accessibility and Accelerate Innovation Leveraging Artificial Intelligence"
-    excerpt: "Tevogen Bio Inc (“Tevogen Bio”) announces the inception of Tevogen.ai, a new initiative focused on harnessing the potential of artificial intelligence"
-    publishedDateTime: 2023-10-10T20:35:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231010880299/en/Tevogen-Bio-Introduces-Tevogen.ai-to-Enhance-Patient-Accessibility-and-Accelerate-Innovation-Leveraging-Artificial-Intelligence/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
 
 secured: "DMPOupF5zIbnP3qusFVOHoXLuU/1xxY+wl1JdGz8t8tzRYRh62oVbl6dOMdvwCkmCp9xtQkYNGpoGGpwmf3WXkdg12bDzBwb3PIjotLQ20bCFTNnhB/47HlB/H+mF7nskZhbvqB6g2O6oxLR+bICRzkBOL2xye+f1dSwFJHmB+Qrvkzp0fvG2a57H1Em1cQzX3uE4e+wQByGyS1mrNhq8XWIrZXL/orXjgbQaS14NgNVkklEgi9xpt6wB2UfsiBx0ZKpzj8akCKPWl7mg5Ec3eGzUeBi2vF/pVA5UMro19G99N2JGcrQWmSHf+5/owgEEbpvofpOPLQAwXQWTV+EOeSRAyu4AnRQB+YZcG6weNI=;xg4XvlL4pKtgxzF9/pE7Ug=="
 ---

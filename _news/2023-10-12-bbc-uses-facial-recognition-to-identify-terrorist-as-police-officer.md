@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Scholars propose unified global regulations on facial recognition"
-    excerpt: "facial recognition, without global trade regulation, could pose a threat to democracy around the world and help entrench autocratic regimes."
-    publishedDateTime: 2023-10-10T20:49:00Z
-    webUrl: "https://www.biometricupdate.com/202310/scholars-propose-unified-global-regulations-on-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "News outlet uses facial recognition to identify terrorist as police officer"
     excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
     publishedDateTime: 2023-10-12T00:09:00Z

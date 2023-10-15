@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-11T19:00:00Z
 originalUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
 webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/DPVxJe4EPPcPb2GGtziSqJ-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "AI Could Be Apple’s Next Chapter"
@@ -63,6 +70,6 @@ related:
       domain: technologyreview.com
     quality: 37
 
-secured: "wpMGOc4dRN9mDHHm/EiJqcN4k/PpG8Klun2kcMBww35Me5CAk6KtSsUABfP/4E5C3nZ+T2x1s8ahs2EkF08Y84Owu5JUlX2EI/9DNrE2YR1b2ELFHmmKNceasfGznrkwalVhDFhqMi8SGpOmQs9pcH/vwbQy1rzCg/mhh1/dXxn0/E0NRNuqx+gOrKRwqEFN3ppHWqc4PU9xR+RT2TrGMbaDVCPQPLzevpBnW7m7iN0UeE1xrDjLCi7OpD+CKeyJdxgxBs7j72sxlvJ4nJ2n+gxFXQc17H93rsB456rvh1wF86z/nCWObF9fBFkIRUkATcIF4A6zAeVCxcyqRMvH3zN7G0wS8//m09QxMhXhkqf9ncRJueHFXD7MeIjwZwBivmrMrfLq1U3t4HS6NAC995SsjTWWWKWOD6UNkUHnKkrphPQAG5bNoDXi2IS2W5Zt+xwreFZMjTEmos7Pxijp8dvz8R4r0E0WkYzYXnPfiCpxfATG5/DkkaH1Xlu21ZAynWDONtP5EAZIWbFIcSrLvA==;4fo5i0cnrrmnpE2VTd/uPA=="
+secured: "v9anOwVRLKgHSoIzndxEd5xJeWZ7U/XVo2q2ZuefJvmHsVbkOJg1hQXeufhBEBmFm/k2mRmDfpcJOWVi8z9t1O1iNVlqEFIdNnI3G5zlzx9MQTCeBiNsOtXPg3cGshs7MDKRxiyKzrNp3FoeLqmYDiTk386Pve3oK9Xjm7R9ICtubX6q1gLn8ZX6HS9QGYCQnOpDYSCAPtvxlsy0I++9VA0OYJZhkkyX6MHippq03JsgfiJwoDjXVUrv8FEI/2euh9yLaX8eJqPg9/ILnRsoSLKLrckJXmZcvBo2s2rJxyTc5bptqSxQ86h/tnN0xqEM8pgbh0VhAo6SH5JWGcvlXoCpuRFfiq9f5/FzXsvZecs=;PuohxVhcdtvVmDLpqQGCCQ=="
 ---
 

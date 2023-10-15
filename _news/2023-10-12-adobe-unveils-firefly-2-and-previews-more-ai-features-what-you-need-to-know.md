@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-mo
 webUrl: "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Highlights New Generative AI Features for Photoshop and More"
-    excerpt: "MAX conference, Adobe today provided insight into its plans for generative AI technology in Photoshop, Illustrator, and other"
-    publishedDateTime: 2023-10-10T22:31:00Z
-    webUrl: "https://www.macrumors.com/2023/10/10/adobe-generative-ai-features/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 37
-    images:
-      - url: "https://images.macrumors.com/t/mYTqbQN-5cbRxVBdcNykZ3Lawl4=/1600x/article-new/2023/10/adobe-generative-fill-photoshop.jpg"
-        width: 1600
-        height: 878
-        isCached: true
   - title: "Adobe Firefly Image 2 creates incredible AI photos you need to see to believe"
     excerpt: "But Adobe has to start somewhere, and hopefully, these requirements will prevent Generative Match abuse. The bigger protection against AI-generated fake imagery is the new Content Credentials feature. It’s an open standard driven by the Content ..."
     publishedDateTime: 2023-10-11T15:39:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.macrumors.com/2023/10/10/qualcomm-snapdragon-x/"
 webUrl: "https://www.macrumors.com/2023/10/10/qualcomm-snapdragon-x/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm Teases Snapdragon X Chips As AI PC Battle Heats Up With Intel And AMD"
-    excerpt: "Qualcomm said its upcoming Snapdragon X chips for PCs will contain the legally contested custom Oryon CPU design, setting the stage for increased rivalry against Intel and AMD."
-    publishedDateTime: 2023-10-10T20:06:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 50
-    images:
-      - url: "https://www.crn.com/resources/0286-192f082325ad-5882241986fe-1000/snapdragon.jpg.jpeg"
-        width: 600
-        height: 370
-        isCached: true
   - title: "Qualcomm unveils new AI-ready chips with “Snapdragon X”"
     excerpt: "Qualcomm has introduced a future line of PC processors with the Snapdragon X chips. These chips will be geared towards generative AI."
     publishedDateTime: 2023-10-11T12:33:00Z

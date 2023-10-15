@@ -258,20 +258,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Generative Artificial Intelligence Collaborative Launched at HLTH 2023"
-    excerpt: "A collective of providers, payers, and other stakeholders have launched VALID AI to explore use cases and best practices for generative AI in healthcare."
-    publishedDateTime: 2023-10-10T20:49:00Z
-    webUrl: "https://healthitanalytics.com/news/generative-artificial-intelligence-collaborative-launched-at-hlth-2023"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2022-03-25-GettyImages-1295784523.jpg"
-        width: 690
-        height: 400
-        isCached: true
   - title: "UiPath drives generative AI apps with Amazon Bedrock"
     excerpt: "Earlier this year, UiPath also announced that data science teams using Amazon SageMaker, an end-to-end machine learning (ML) service, can now connect Amazon SageMaker-hosted ML models into UiPath business processes without the need for coding and manual ..."
     publishedDateTime: 2023-10-11T18:37:00Z

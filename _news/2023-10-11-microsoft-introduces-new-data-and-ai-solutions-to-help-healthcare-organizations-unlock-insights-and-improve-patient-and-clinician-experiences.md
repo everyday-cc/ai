@@ -24,22 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
-    excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
-    publishedDateTime: 2023-10-11T09:10:00Z
-    webUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/"
-    ampWebUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 91
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/microsoft-ai-tools-healthcare.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
     excerpt: "Microsoft's Bing AI launched a new bug bounty program designed to find important and critical flaws in the chatbot. If you find one, the reward is pretty big."
     publishedDateTime: 2023-10-13T21:48:00Z
@@ -112,15 +96,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft's New AI Tools Set to Transform Healthcare Data Management"
-    excerpt: "Microsoft Corp MSFT showcased new data and AI tools designed to assist healthcare organizations in efficiently managing and analyzing the vast amounts of data they collect."
-    publishedDateTime: 2023-10-10T19:09:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35167588/microsofts-new-ai-tools-set-to-transform-healthcare-data-management"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
   - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
     excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"
     publishedDateTime: 2023-10-13T06:56:00Z
@@ -135,15 +110,15 @@ related:
         width: 1091
         height: 618
         isCached: true
-  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
-    excerpt: "“Bringing our latest platform technologies to Microsoft Azure enables more customers and teams within organizations to harness our industry-leading AI, analytics, and automation capabilities to modernize cloud operations, expedite releases of high ..."
-    publishedDateTime: 2023-10-12T13:09:00Z
-    webUrl: "https://menafn.com/1107232134/Latest-Dynatrace-Platform-Innovations-Available-to-Customers-on-Microsoft-Azure"
+  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
+    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
+    publishedDateTime: 2023-10-14T23:14:00Z
+    webUrl: "https://www.inferse.com/753901/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
+      name: Inferse
+      domain: inferse.com
+    quality: 14
 
 secured: "Fc8QkOJtoJFR91A7zEjiIu8lPYipFUxFXcltl9OH8fPIiLbDtwjdAZlADqQmJJDz52TU6zyrK8MYJ+aKu9Aju+q/AXKjCmmNtEGFmytxJApxVkETqw1QakYOpIetU5homHSqKCji/p2A6Bw+SdtTokzNB+fmArFDpRd4h1VZxk5ACTbq9aEvb38o24Y00DY7L1mNEwrjRC7A6PykH+5WWIV+8tpa42+QktbwWde3Lwy/YS8UOVTurIbDp8XAT34cjhp2BmvTQ5pYhC9BZubECqeo7OpD2RD2emKHAZXMmjdO8/eldWpthbIfDtwWQVQ4wSKJplLqJej/p0BOLtNhB+X2/JwxKl2ZREfcgR3ZSa6NNi/jWc8jFxcCQOPRYuhTir6KAi8czNkxaL75Ump9I2wZSIKDhPteX5NwdK6oT3Uexrh1bd57Ms6ag1enur2Rd1vUilxtuh6X/BJaLSn9lPzpqzGKnlxpSwf7N3VKPNV2Fp4qcBWRBTfvL6WyJYTDlAE7RA6pXj1A3WDAJR9o9Q==;RrHccExMd35ck2g0K95ySQ=="
 ---

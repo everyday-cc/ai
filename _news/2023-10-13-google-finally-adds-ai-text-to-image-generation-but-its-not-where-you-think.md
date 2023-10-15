@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-finally-adds-ai-text
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google now lets you generate AI images by searching – here’s how to do it"
+    excerpt: "Google added two new features to its Search Generative Experience today, one of which allows users to create AI images on the fly."
+    publishedDateTime: 2023-10-12T22:48:00Z
+    webUrl: "https://bgr.com/tech/google-now-lets-you-generate-ai-images-by-searching-heres-how-to-do-it/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 38
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/10/Google-SGE.jpg?quality=82&strip=all"
+        width: 1790
+        height: 968
+        isCached: true
   - title: "UpscaleImage.AI Announces the Launch of a Next-Gen AI Tool, Revolutionizing the Realm of Image Generation and Repair"
     excerpt: "A groundbreaking tool has been unveiled by a pioneering AI startup, revolutionizing the field of image generation and enhancement. The tool targets creators, marketers, and everyday users looking to fix their photos."
     publishedDateTime: 2023-10-12T20:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-f
 cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1333
-        isCached: true
-  - title: "Scholars propose unified global regulations on facial recognition"
-    excerpt: "facial recognition, without global trade regulation, could pose a threat to democracy around the world and help entrench autocratic regimes."
-    publishedDateTime: 2023-10-10T20:49:00Z
-    webUrl: "https://www.biometricupdate.com/202310/scholars-propose-unified-global-regulations-on-facial-recognition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
         isCached: true
   - title: "News outlet uses facial recognition to identify terrorist as police officer"
     excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."

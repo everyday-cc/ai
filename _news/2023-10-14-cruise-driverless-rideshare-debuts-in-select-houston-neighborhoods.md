@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "Research into new laws for driverless cars in Jersey is under way"
+    excerpt: "RESEARCH into the law changes needed if driverless cars were to be introduced in Jersey is being carried out by the government.The news has been welcomed by Digital Jersey chief executive Tony Moretta,"
+    publishedDateTime: 2023-10-15T13:44:00Z
+    webUrl: "https://jerseyeveningpost.com/news/2023/10/15/research-into-new-laws-for-driverless-cars-in-jersey-is-under-way/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 19
+
 secured: "DH2IIe5ZlABqXvH+43aMBokC3p7OGScmqq1JLRlnWYLUtrX0LonkENmpUNqO0mLc5ejMJo6y77RSjTpeUm98QUfzO5NNKSULjl6saFc2t8e9MAmWBWvCauZ5I/C0RqCnxWfz/zgOzDubsyce6yYFoMsTIFZhCEBPybvrq+M8l3LLeUHaUJWHhArUOsm1WZK560ReV+xqzFAJKAq0ltZv10op1DrXKd/kYeOnPBas48oAng7kzoECiNxe40k9gYcQbTJ+SNEDeJA2hLW/AQBv3vBFH5CDIhCgu6chg17QCUeucfiLd5oDpi+EVOSXojuxCJ27i58dvZ/01swU7S/iYKQKcZfV4LjGX/LCJ4sS8D5ZHVPpE53P77zqW7AbWVnZp/I0xoEV26/fcRneF9u/VTOiqK//Dn6AaINGvcGSSUH6yk0RJPfYlhui2GbBFrEEq3txLxvNPDcK0U4DXvxXfd8jngmcil9QPRYDRVebaqZfq8fl90i+BD3/DpwIkiuHEbRWS8d6iFOUMHiEpQOCJQ==;LkfFXmrOEBGp94S2M5exWA=="
 ---
 

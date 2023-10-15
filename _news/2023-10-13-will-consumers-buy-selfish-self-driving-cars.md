@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self
 webUrl: "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self-driving-cars-73ac7d52"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The Ethics Of Self-Driving Cars Making Deadly Decisions"
+    excerpt: "Self-driving cars are starting to pop up everywhere as companies slowly begin to test and improve them for the commercial market. Heck, Google’s self-driving car actually has its very own driver ..."
+    publishedDateTime: 2023-10-14T00:00:00Z
+    webUrl: "https://hackaday.com/2015/10/29/the-ethics-of-self-driving-cars-making-deadly-decisions/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 21
 
 secured: "4dxAFnobEK3uFbaMyDFC9zXF6ka1deCcGE+hVRzP1Ado3hwdtD6Qb0PA8IyH7WhQ2pyzpI1Bxp6I8Hhk36zbkuqJnPPtbdwcMIE8CIinLCJaYBDybzVwPRO1w4QtryS0nVF4/RJsdavbX4wkHcp5DHkEaQ7D43A4T8HM+GyBwnWdN2iM7iX8kFAbDe8kf0T6xZfreT07cnnyXXINwWl0tz4zaWIYe4yuzbkVCy0s3PoN2cTe++apoZrLq1RXgrhk5tJJi5M2u4PjADNaP5eOKv1aK1bOQ+mQKrZzlDSy72CXoe23TeZJAKCpiX8sdby5oOLHfy62sW36pYqfKUA5Xl2RSwmrD3YVUcTlrzeJpipOsHO2ab/pomA4aVMW2wuJOZlZM1aIw+x764kwvrt0xj457448nBq487QTSy2kccYu3oDuT79IUxm9bWLdxJa6CnRS8PeOap2HpJlbcYiVHIGhDUC1lvpItx+DyMC2c5AdJCMKavUxqEY0gTeHjD54HUnr10n3hfTBVI/TiLRAIw==;L/LCNqYGqhZ+mta3OKi2rA=="
 ---

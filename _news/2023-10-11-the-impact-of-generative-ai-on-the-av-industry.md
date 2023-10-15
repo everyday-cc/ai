@@ -54,20 +54,6 @@ related:
         width: 1199
         height: 622
         isCached: true
-  - title: "The Intersection of Data and Generative AI"
-    excerpt: "Microsoft's Buck Woody breaks down how SQL Server is leveraging gen AI, and what skills you will need to stay competitive."
-    publishedDateTime: 2023-10-10T20:19:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/10/the-intersection-of-data-and-generative-ai.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/AIGlobe.jpg"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "Uo4w0Q3tS0QVqK4M4n9SzvCJnCn11BL54UZ2Rv5LaSe8CLfdO96Qu9hQGlIDiDMLC1cEzI/NGDhK4RE31NgIf2ISwd2/NloGw8Pby9SLwCS/WiBjOkrHVc2wVSknW5rjWPTZzVgbzF4wpXKlGyPqEZbpZYsnC9wnTvfRRBF9g3HcBMJehbW5rTErAkH634+LX8t91fvwZqOBLGJK8I910v+G3A7sAa5puUQMs/bPiQ9WxR/7x2bKw3jW+F17tMJTc73WjkOr3Mhp6kHN1lh/9Jwha9L/tK3NQjJf7WffKUglmbAekp53HhYantwPe2xP4mUPUMcb9Y5Ub1ZoDjSJ4qsZBkWKgwk79JVKQWqgpsY=;cEBChTMrcJku9blgzjuuaQ=="
 ---

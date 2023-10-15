@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Intel's budget friendly Arc A580 GPU is available now, but it may be too little too late"
-    excerpt: "It's been a year since the release of the Arc A770 and A750, but it seems that Intel's Alchemist line of GPUs still had some tricks up its sleeve. Today, Intel officially released the Arc A580, a 1080p graphics card that falls well into a budget friendly price point."
-    publishedDateTime: 2023-10-10T20:28:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/intels-budget-friendly-arc-a580-gpu-is-available-now-but-it-may-be-too-little-too-late"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 45
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/rBzRvmDp9iUpPjLmNYQX7d-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "IcOgXiLFkp8CjRViuavwF48MJ8aBbzsM0ofNRh4KbqDSCm3hXOLwUysq76fMJtOtTLmQnEsy00mVp8BtA2cYT7Z/tE7Y+vp/Gs90utqOz2BqgaA64vN8Nns+I7Lfq8tnH3r+9OrBNgGv0MOH0IiIhqSU+NGeG/xPKHGbPSglavsyN+VTdGko3fcen0BiZMJWhkMfl+pci/cSfrtwKdX+4sf/PDOE7LBYqmvqRMQvOm39EnnEVQZviaZSBfNTjwk2p62jHID5Cpw2+iRozo2g8q+z4JbIfwTgfw7927u73ED7PN+R/fm4B35UfUARGu5u1SggdZC3erqDqLfZssRrN+QZTvy+nudhJQEMVxLIKsBa8vzX8YYn8L4cU3KjoE951RpNSlchHGlvqHjRSKYLYNBQyK0X0NH0K0fffZzU5XSbH/FhXOUCMhcNC/OtQsJ55bv/pmXx2lkZnxClnqfKcfBozwc2dXtQMQbVvhHj/iOsdrR9XuVJkHFaATDsT2N19oEfwx1qUOhgQtrjarM9Cg==;+4aPBdSqX5UNClIYabvyLg=="
 ---

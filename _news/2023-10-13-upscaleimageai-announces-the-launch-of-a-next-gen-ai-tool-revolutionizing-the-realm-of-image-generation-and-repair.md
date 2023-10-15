@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google now lets you generate AI images by searching – here’s how to do it"
+    excerpt: "Google added two new features to its Search Generative Experience today, one of which allows users to create AI images on the fly."
+    publishedDateTime: 2023-10-12T22:48:00Z
+    webUrl: "https://bgr.com/tech/google-now-lets-you-generate-ai-images-by-searching-heres-how-to-do-it/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 38
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/10/Google-SGE.jpg?quality=82&strip=all"
+        width: 1790
+        height: 968
+        isCached: true
 
 secured: "vIRp76hjCt1R76frWTIGO2jk/i4tQa96FMivwfLAyKaHgBBbGRzpAWak1MKD1ZulWTtZWOkK6agpq+QqaLoeDYvO+okepLftvMvrnHMqY1l0OsYgD5770uveEHiRqBd6fkCP6WFBPzpkYwxjfSHXPR5SiIVDAN+FP6vUWbMaSH23TU/uM9C6J6CkMBlt5K2iz9xst1qmp3yVClrgVLl7Pt3ezTq1WAzCdeXS3p6mknoS/b+zykF+566cIUD9ljwvzUl2YKyOGGgmkOwJBG3JX25wGoMwX7ZpVDA+Kgy0glyF4e0cl45l8wtGrVHldcCG5d8sM+kwKXiirRvhUEHTMlbtn4o4N/HthrjDZUGrMwk=;bZrnIFcKgf0s5KxGZCi59A=="
 ---

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Qualcomm Teases Snapdragon X Chips As AI PC Battle Heats Up With Intel And AMD"
-    excerpt: "Qualcomm said its upcoming Snapdragon X chips for PCs will contain the legally contested custom Oryon CPU design, setting the stage for increased rivalry against Intel and AMD."
-    publishedDateTime: 2023-10-10T20:06:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/qualcomm-teases-snapdragon-x-chips-as-ai-pc-battle-heats-up-with-intel-and-amd"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 50
-    images:
-      - url: "https://www.crn.com/resources/0286-192f082325ad-5882241986fe-1000/snapdragon.jpg.jpeg"
-        width: 600
-        height: 370
-        isCached: true
   - title: "Qualcomm to Take on Apple Silicon Chips With Snapdragon X Series for PCs"
     excerpt: "Qualcomm today outlined its plans for its next-generation chips designed for PCs. The Snapdragon X series is set to come out in 2024, and"
     publishedDateTime: 2023-10-10T23:49:00Z
