@@ -25,117 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "EDOMx taps FinTech finbotsAI for credit risk management"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-11T07:04:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/edomx-taps-fintech-finbotsai-for-credit-risk-management/"
+  - title: "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments"
+    excerpt: "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer."
+    publishedDateTime: 2023-10-11T22:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg"
+        width: 1600
+        height: 1291
         isCached: true
-  - title: "Fintech founder says bottom line remains top priority for SMBs"
-    excerpt: "Mark Hartley, founder and CEO of Bankifi, pointed out that while these subjects may be important to megabanks and their multinational customers, they’re not as important to his smaller financial institution customers and their small to medium-sized business  (SMB) customers in turn. What this group cares about most, he said, is “getting paid.”"
-    publishedDateTime: 2023-10-12T15:37:00Z
-    webUrl: "https://www.finextra.com/the-long-read/824/fintech-founder-says-bottom-line-remains-top-priority-for-smbs"
+  - title: "Fintech Unicorn Razorpay Unveils 'Optimizer': AI-Powered Payment Routing System"
+    excerpt: "In a strategic move to safeguard businesses from financial losses arising from transaction failures, Razorpay, a prominent fintech unicorn, has unveiled ‘Optimizer’ – a state-of-the-art AI-powered payment routing system."
+    publishedDateTime: 2023-10-11T23:31:00Z
+    webUrl: "https://trak.in/stories/fintech-unicorn-razorpay-unveils-optimizer-ai-powered-payment-routing-system/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 35
     images:
-      - url: "https://www.finextra.com/finextra-images/oped/824.jpg"
-        width: 800
-        height: 450
+      - url: "https://trak.in/stories/wp-content/uploads/2023/10/RazorPay-Payment-Gateway-UPI-Integration-1280x720-1024x576-1.jpeg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Arab Fintech Forum kicks off in Doha"
-    excerpt: "The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz Carlton Doha with a number of industry experts"
-    publishedDateTime: 2023-10-11T05:38:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/arab-fintech-forum-kicks-off-in-doha"
+  - title: "NPCI To Integrate AI-Powered Bhashini To Offer Conversational Payments In 22 Languages"
+    excerpt: "NPCI will integrate Bhashini, an AI-powered translation platform, to allow users make conversational payments in Indian languages."
+    publishedDateTime: 2023-10-13T09:43:00Z
+    webUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/"
+    ampWebUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697004417-305.JPG?1697004417"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Industry experts spotlight future of fintech in MENA"
-    excerpt: "During a panel dialogue held yesterday at the second edition of the Arab Fintech Forum, officials of leading firms accentuated the"
-    publishedDateTime: 2023-10-11T06:16:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/industry-experts-spotlight-future-of-fintech-in-mena"
+      name: inc42
+      domain: inc42.com
+    quality: 31
+  - title: "Razorpay Launches AI-Powered ‘Optimizer’ to Mitigate Transaction Failures"
+    excerpt: "RazorPay the leading full-stack fintech platform has made a significant move with the launch of 'Optimizer'. This advanced AI-powered payments"
+    publishedDateTime: 2023-10-11T07:43:00Z
+    webUrl: "https://www.dqindia.com/razorpay-launches-ai-powered-optimizer-to-mitigate-transaction-failures/"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697005211-158.JPG?1697005212"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "How AI can address climate change and nature-related risk in fintech"
-    excerpt: "As companies undergo digital transformation and embrace cloud platforms which dial-in sustainable and ESG efforts to the frameworks of a business, artificial intelligence (AI) is the next grand frontier for which financial institutions are embarking on ..."
-    publishedDateTime: 2023-10-11T15:47:00Z
-    webUrl: "https://www.finextra.com/the-long-read/818/how-ai-can-address-climate-change-and-nature-related-risk-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "Orion, FinTaar Technologies & bizAmica Software team to spearhead financial growth in India"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-12T05:29:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/orion-fintaar-technologies-bizamica-software-team-to-spearhead-financial-growth-in-india/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 14
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Arab Fintech Forum Kicks Off In Doha"
-    excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227403/Arab-Fintech-Forum-Kicks-Off-In-Doha"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "Industry Experts Spotlight Future Of Fintech In MENA"
-    excerpt: "Fadi Saab outlined that there is a“dramatic growth” in the industry during the past decade. He said:“ In May last year, it was calculated that the world has 27,050 firms. Financial investments in the fintech amounted to $150bn."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227400/Industry-Experts-Spotlight-Future-Of-Fintech-In-MENA"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "EDOMx Selects Singapore Fintech finbotsAI to Scale Faraja BNPL Business & Drive Financial Inclusion with High Accuracy AI-Powered Credit Decisioning"
-    excerpt: "Renowned for its Mobile Money Buy Now Pay Later (BNPL) service FARAJA, which is offered to M-PESA customers and businesses in partnership with Safaricom, EDOMx becomes a pioneering adopter of cutting-edge AI-based credit risk solutions a key pillar of its business."
-    publishedDateTime: 2023-10-11T01:27:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2903"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 0
-    images:
-      - url: "https://img.digitimes.com/ad/en_20230821_scs1114_bigbutton.jpg"
-        width: 336
-        height: 281
-        isCached: true
+      name: Dataquest
+      domain: dqindia.com
+    quality: 18
 
 secured: "PzuDjmO6+EMmicI1WPZoPbWVw1H4Bh6GCFf/lU83VPykujMj90OR/N4J0DiuYOqXdshat3NBnQ7+2gHfutv2EYdJ7hVhRE4S/Ak1Ef+rJAoE1fQxZiGF/Bly9abuvCaF1quEBoMS2KSLNIzZ8RkUxDuO47x6kfIEwdcPxKoPcNdYcn2bhGozdc2x3kMnRquUdzi4cK1JpWew5zfnbdrim09Y26bPjzKKNaFbIQPLMgA6LuOpcLfmyhDhRYLonf4tWH8JjTKzfz/WRt8M3OeDfdSOVHGcSoKbTRZ1SgBlxL7m1MeRxER3pQ8k3QaFNDpIFpe5/y35tPcecvyJvSBoZyQpopaFqBOhs9yAtA8fdTx6KtIpdp6+O2exwfvvavXgx9KC4ppWcw2aNKK8M4jw83zvb14i1xFhavth1pkUQcdHYmd8Vudw7EjLjABhBrjaOV7sw1X1gj6mgNVFMFCS8rhXr62kWyDKo6k8fJ9CzNYuA1KqRRaSyGEm4WYfXIHp2vz0xaM+gNCMJEge6LqfJg==;gHI6SZenGO0iOBBclFwkUg=="
 ---

@@ -1,0 +1,23 @@
+---
+category: news
+title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
+excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
+publishedDateTime: 2023-10-15T19:21:00Z
+originalUrl: "https://www.gulftoday.ae/news/2023/10/15/public-transport-fares-can-be-paid-via-facial-recognition-in-dubai"
+webUrl: "https://www.gulftoday.ae/news/2023/10/15/public-transport-fares-can-be-paid-via-facial-recognition-in-dubai"
+type: article
+quality: 30
+heat: 30
+published: false
+
+provider:
+  name: gulftoday
+  domain: gulftoday.ae
+
+topics:
+  - Computer Vision
+  - AI
+
+secured: "KKLYyDK1Kz3cuzb0NaYAY/v03j++8NmAbFawRUMArKlq/8+DvY3kgIzvX5PHHov5loB1r1rU8Jn8RPgT9qXdq2s+TuiRyGcmp4GURTl2qqnrxG1DT/LIj0JJ0fPQkwFwzUz9vtrVIunVA8WnCN0AE727ZSTjBRMYQ7y7MIC26ULaZu5BKL2KUIDOW19gu2ZZJn7Hqaoo2efBtXd9KsgwU1L9VQabunfDcf4FMWOdULDNx1BVMIodr8BdxAephNRBOEqmz176HznDfOTm3g3BJdhkLfbh7GEiWhL/5Mz6bFRZ4l6J1XdcVKOJimKFMwJfqcHaXD7z121J7Ty86UEo7gow3Hsw+TbJ/njRnDpZnQ/wWTv+qPOhtznOSMh7vflg0qxzTDK+deItZIJOwHVuJsudgJKUyi9lKA7WtxUHuKHZ+LHDvZ2tHl31Xk5u6ojGvt16TdGFfJLMe5NM8p4kjx2KDBP6kpbFXpqLtqEITo2IapIykqVkECxHxK3pIO4V9/mHHcVNLZmMv7VWJ93dlw==;fVhYce5nFchmRKyOSfx5jQ=="
+---
+

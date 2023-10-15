@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razor
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Crowdfund Insider
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Razorpay launches AI-powered payments routing system 'Optimizer'"
-    excerpt: "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing"
-    publishedDateTime: 2023-10-11T04:13:00Z
-    webUrl: "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer"
-    ampWebUrl: "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1"
+  - title: "Fintech launches new AI-driven compliance platform"
+    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
+    publishedDateTime: 2023-10-12T11:22:00Z
+    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png"
-        width: 1020
-        height: 675
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Fintech Unicorn Razorpay Unveils 'Optimizer': AI-Powered Payment Routing System"
     excerpt: "In a strategic move to safeguard businesses from financial losses arising from transaction failures, Razorpay, a prominent fintech unicorn, has unveiled ‘Optimizer’ – a state-of-the-art AI-powered payment routing system."
@@ -57,6 +55,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "NPCI To Integrate AI-Powered Bhashini To Offer Conversational Payments In 22 Languages"
+    excerpt: "NPCI will integrate Bhashini, an AI-powered translation platform, to allow users make conversational payments in Indian languages."
+    publishedDateTime: 2023-10-13T09:43:00Z
+    webUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/"
+    ampWebUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 31
   - title: "Razorpay Launches AI-Powered ‘Optimizer’ to Mitigate Transaction Failures"
     excerpt: "RazorPay the leading full-stack fintech platform has made a significant move with the launch of 'Optimizer'. This advanced AI-powered payments"
     publishedDateTime: 2023-10-11T07:43:00Z

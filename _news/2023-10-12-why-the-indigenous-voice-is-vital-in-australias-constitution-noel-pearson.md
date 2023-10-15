@@ -90,6 +90,22 @@ related:
         height: 576
         isCached: true
   - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
+    publishedDateTime: 2023-10-14T12:06:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 47
+    images:
+      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
     excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
     publishedDateTime: 2023-10-14T17:07:00Z
     webUrl: "https://www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/"
@@ -221,6 +237,20 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Op-Ed: Australia votes No to Aboriginal Voice in a messy referendum"
+    excerpt: "The proponents of the Yes vote had a problem, too. The Aboriginal Voice to Parliament was to be an advisory body “without binding powers”. Try explaining that to a suburban middle-class country."
+    publishedDateTime: 2023-10-15T15:49:00Z
+    webUrl: "https://www.digitaljournal.com/world/op-ed-australia-votes-no-to-aboriginal-voice-in-a-messy-referendum/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 24
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/10/d03cb5e11780196d6d750c8fd04dc9b5c1ca353e.jpg"
+        width: 768
+        height: 502
+        isCached: true
   - title: "Australia news live: Dutton spread ‘fear and division’ over voice, Ken Wyatt says; Perth flight from Singapore turned around"
     excerpt: "She urged Australians who are yet to cast their vote in the referendum to “please remember that voice recognition is inclusion and listening to Indigenous peoples on matters that affect us”: We’ve got decades of evidence of that policy made without ..."
     publishedDateTime: 2023-10-12T21:55:00Z
@@ -253,6 +283,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened, and what happens next"
+    excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
+    publishedDateTime: 2023-10-15T21:32:00Z
+    webUrl: "https://www.australiangeographic.com.au/news/2023/10/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-heres-what-happened-and-what-happens-next/"
+    type: article
+    provider:
+      name: Australian Geographic
+      domain: australiangeographic.com.au
+    quality: 16
+    images:
+      - url: "https://www.australiangeographic.com.au/wp-content/uploads/2023/10/20231014001852246547-original-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "‘Lies fuel racism’: how the global media covered Australia’s Voice to Parliament referendum"
     excerpt: "Could the vote affect the way the world views Australia and potentially have an impact on Australia’s international relations?"
     publishedDateTime: 2023-10-15T03:32:00Z
@@ -281,15 +325,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
-    publishedDateTime: 2023-10-14T11:27:00Z
-    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+  - title: "Australia indigenous voice referendum fails as ‘no’ votes prevail amongst citizens"
+    excerpt: "Australia's 45th referendum failed Saturday as polling results revealed a 60 percent majority of Australians rejected the proposal to recognise the country's First Nation people within Australia's"
+    publishedDateTime: 2023-10-15T12:04:00Z
+    webUrl: "https://www.jurist.org/news/2023/10/australia-indigenous-voice-referendum-fails-as-no-votes-prevail-amongst-citizens/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
+      name: Jurist
+      domain: jurist.org
+    quality: 13
   - title: "The Voice: Australians vote No in historic referendum"
     excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
     publishedDateTime: 2023-10-14T13:13:00Z

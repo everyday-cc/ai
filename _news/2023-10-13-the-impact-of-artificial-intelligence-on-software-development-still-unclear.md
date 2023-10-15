@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?"
         width: 800
         height: 450
-        isCached: true
-  - title: "Will Artificial Intelligence Lead to a New Era of Game Development?"
-    excerpt: "AI is also going to affect bots in competitive games. Machine learning can allow AI bots to better mimic human players and perhaps even find new skill ceilings. Generative AI will also change how non-playable characters (NPCs) behave in story games. NPCs can take on personalities and become interactive, instead of just having predetermined lines."
-    publishedDateTime: 2023-10-11T04:57:00Z
-    webUrl: "https://www.devdiscourse.com/article/sports-games/2625669-will-artificial-intelligence-lead-to-a-new-era-of-game-development"
-    ampWebUrl: "https://www.devdiscourse.com/article/sports-games/2625669-will-artificial-intelligence-lead-to-a-new-era-of-game-development?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2625669-will-artificial-intelligence-lead-to-a-new-era-of-game-development?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 57
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_10_2023_10_26_30_8156569.jpg?width=1280"
-        width: 1280
-        height: 1920
         isCached: true
   - title: "Government will assist the development of AI chips using the PPP model: MoS IT"
     excerpt: "Government will assist the development of AI chips using the PPP model: MoS IT - The government announced to support the development of artificial intelligence (AI) chips via a"

@@ -2,26 +2,26 @@
 category: news
 title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
 excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
-publishedDateTime: 2023-10-11T17:04:00Z
-originalUrl: "https://www.nbcsandiego.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3325190/"
-webUrl: "https://www.nbcsandiego.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3325190/"
-ampWebUrl: "https://www.nbcsandiego.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3325190/?amp=1"
-cdnAmpWebUrl: "https://www-nbcsandiego-com.cdn.ampproject.org/c/s/www.nbcsandiego.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3325190/?amp=1"
+publishedDateTime: 2023-10-11T17:02:00Z
+originalUrl: "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/"
+webUrl: "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/"
+ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1"
+cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: NBC 7 San Diego
-  domain: nbcsandiego.com
+  name: NBC 6 South Florida
+  domain: nbcmiami.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.nbcsandiego.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcmiami.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "n/UjjGDsaCLEb56xiAqC3txm/lqVsqkRteQYmlmI8C0WaB2uBRDx3N6ay4dsWVwKD0jKAkAICX29LB/fXORf0JTxUvdHXIzaGMqDC2gGVK3+GV+IBKCH/q16BWYzYhEOJiyMQhC/WR3aIm5pl69aE9m6U6Ra58DERvfgTwE3WFSNFtZ1wkJTy0Xd7tHlmJmOOd5CY1d4CvEgDqxltlhDEpO/RuvBcpScLiPZ1Kpl5I28lFN8ZTXE6lqX26adzP8EVNH1KTKRvEbgIj8sR1c6dVRQYy2oITJNl2+bC1KBeTF6b1KMEOgKqjIS6oCkBMnU847dzWmkC6glZM1UyAXeduaRnXNSMT+l+mxCWpY9otI=;93XGBTANLb6pntBCjZz8ZA=="
+secured: "PJwOPkA9RdLEzAK5KeG3QUFuVbU+Eq/1AZBqCOb/EkIy13+DADnj8uvfkV09V/SEAPI6kaAJL1s2b/f6+Ge1VVIeKmtOOmEdRxraAi/VFkcfpuZlMYns45axjuOzmaCyrJS95svejErPdDZAvHFrkY0VdtlcDtyioIXhYRIsD+nv/wVhVOzpqdEbr3BWCzmhYzJIJQpWRjegGEXGAfCnbIxEnr5VY1god64PnWU+X/z5lmwD7sUP/SIFfDqBFXV9LiPaYLdfiH3G0JOkpbrJRVg/EYIeWvjuQ9sMZAvbCDjL0M2EWdjI5miRy+S4CMjfPlpvGDiupYWqg6mUv9x6UDJwZpMtVs0wLKMqnnPOg7g=;9S5ZmlMzc+2DVZCr1Vp8cA=="
 ---
 

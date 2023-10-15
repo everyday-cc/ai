@@ -56,6 +56,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
+    excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
+    publishedDateTime: 2023-10-15T18:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-15/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
     excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
     publishedDateTime: 2023-10-11T16:29:00Z
@@ -98,6 +107,15 @@ related:
         width: 1091
         height: 618
         isCached: true
+  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
+    excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
+    publishedDateTime: 2023-10-15T21:18:00Z
+    webUrl: "https://www.inferse.com/756076/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
   - title: "Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences"
     excerpt: "Every industry depends on unique insights to achieve their goals, and unlocking the power of data is the key to an organization’s success. This is especially true in healthcare, where data has the potential to do so much good – from improving health outcomes and enhancing patient and clinician experiences to driving better organizational"
     publishedDateTime: 2023-10-11T05:38:00Z

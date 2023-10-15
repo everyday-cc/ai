@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/this-experimental-device-uses-ai-to-
 webUrl: "https://www.thedailybeast.com/this-experimental-device-uses-ai-to-help-you-lucid-dream"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Meta confesses it's using what you post to train its AI"
+    excerpt: "Meta claims that it is using your posts to train its artificial intelligence. Kurt \"CyberGuy\" Knutsson explains the privacy and ethical concerns."
+    publishedDateTime: 2023-10-15T18:00:00Z
+    webUrl: "https://www.foxnews.com/tech/meta-confesses-using-post-train-ai"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 47
 
 secured: "dy+BoeMWJ4hetPo4JMdbxZyqnSpduqTUJstYE/uhYsHD2CUuKohXgAxqsRjshBjyh4/hz+kh6+f59dKQi6K4PCbisoXFULcgXZrnyCuT89RGvuRLOXqV837JcNMYcOqo9dNIwvIMVc4v31oDWVRrWyaEdUg67jTSudl4FjHSR/1pea/mR4LxiV/zFufbzlL/ZRdHuQV170Jmho9OPcZ6SfYZhv13lTppeZ+iseooki6q1yAhHj/uH87bO6Vr0fQN0GADxfKB4anqR5iOtzdrr433LEY7FqYlNxd8M9VtvPoP4vVyAOs8wG65rq6wAE/ehOkOKlRhJCMU7wqBGQ9cHB2Twb+68kvb/B/AURuqXzT6PNSbctApB/GtJJXGwrXqbES0Qta33eQ3JhDIvWlQSwHTB9l9XtsLvtGmbvY3X32hoo1OojXX1PHbFTeUL7ndjyO1f9hKo02LCnaPESUfeBxaBXw+N93GE4DcDuS5FHpomzna+6oJ7pj7p1isjmP3HX973sphZ4QitaDuYpN1sQ==;SqS7oi+uQPP4ebUFpwCa5g=="
 ---

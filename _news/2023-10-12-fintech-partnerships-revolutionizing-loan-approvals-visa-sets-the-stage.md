@@ -7,7 +7,7 @@ originalUrl: "https://infotechlead.com/artificial-intelligence/fintech-partnersh
 webUrl: "https://infotechlead.com/artificial-intelligence/fintech-partnerships-revolutionizing-loan-approvals-visa-sets-the-stage-81103"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
-    excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
-    publishedDateTime: 2023-10-11T11:26:00Z
-    webUrl: "https://techbullion.com/texas-in-focus-the-intersection-of-real-estate-and-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
 
 secured: "HgFcCz7QtdvsX/S6zeXw9zH3XY7R4gY8QQs/bVjV/8RoDgbxiDVI2EiHfWwp0KiQFKXRx1eVN7dxhY+xTkhivkYxx17U3WarsBamoIfKfQQ4atqV2Cb/bHj1WYwbUlfIrwAWr3OZjk2DpVoYbNdWVDYw15Bagqyojc4Yv7GEbBymoyLTfEWabyr0v7gHSjGtb6YQTtHWJQ+HrCxVIAVYX74kCY31KCCZdJmQU/v11g3YKBc0xDZEuDb3zQ+8E51Z63sX5FUNGLLq2l5OrPIURTAjDh4uPA65D8MOl48JGs2KHK3SfaBTejPKnu4GXF6P3ngce4tmR63VxzZDR1zrsSTqAov8oXJjmGGOms6TTpv9uq0bT9cO67+6lltNdtVQ3t4GY9ZMQy+p+MSXlp4wc9RecHazBByv/77u0iBdUGECujhJSgMUDcmfCxzb+pcGpFOEhGxTrlS7N31/537Ie4bd7I2gV/kMeHocoFIiNPY8uusBPB8KFuhxMYJ0Nh8MXhZIt3CFqSTaDQ2rlam1Gw==;41zEQ/5dQY0XI6JVQOFKhQ=="
 ---

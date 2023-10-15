@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions"
-    excerpt: "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ..."
-    publishedDateTime: 2023-10-11T04:20:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 29
   - title: "Video editing startup Captions launches a dubbing app with support for 28 languages"
     excerpt: "Using translation and AI-dubbing to reach a wider audience is a growing trend. In June, YouTube announced that it is testing an AI-powered tool to let users automatically dub their videos in other languages. The company said it is even working on better ..."
     publishedDateTime: 2023-10-11T13:27:00Z

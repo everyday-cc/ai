@@ -55,20 +55,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "US chip maker AMD to acquire AI software start-up Nod.ai in effort to catch up with Nvidia"
-    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence (AI) start-up called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chip maker Nvidia, Advanced Micro Devices (AMD) plans to invest heavily in the ..."
-    publishedDateTime: 2023-10-11T03:07:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3237513/us-chip-maker-amd-acquire-ai-software-start-nodai-effort-catch-nvidia?module=live&pgtype=homepage"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 74
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/11/594b7b01-8e84-414e-baaf-fb3d5386e670_b5a0a465.jpg?itok=yLtbICdQ&v=1696992418"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
     excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."
     publishedDateTime: 2023-10-12T13:46:00Z

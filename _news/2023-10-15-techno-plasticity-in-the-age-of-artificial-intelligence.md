@@ -2,13 +2,13 @@
 category: news
 title: "Techno-plasticity in the Age of Artificial Intelligence"
 excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
-publishedDateTime: 2023-10-14T18:10:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+publishedDateTime: 2023-10-14T18:13:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-  - Machine Learning
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
@@ -114,6 +113,6 @@ related:
       domain: tech-ish.com
     quality: 19
 
-secured: "0bVTBBR/NhYKCTwi9XdI/S4czbBqkBLYmG21MOkVOHWgqfhsiYg3Jq8X6vOrxAOyWGa0zeEVneW0fdUM0NFAKqKrdxH3uqpzx3StCQHeAnzDRFIJC17sWZZlDbnAelN7uRh6Ka+mIdiTB6V0jUIJge/YxyRshMa4NKHrl9JQy4/CJBz/sC8eOkS2oSh/74kcmRLwA/fxZ086lzpXK+Z+qsukdHH/xNSeFO5QUyOgU299ySGIk85i8oO63elSWokTt/UheT0P3c5zl0gF4yKfqf7t+BjMA3nL6hI0TG6n/AEmG7K3RHSj6VBDbSPLYup5ZlWGajBmMpIqdPZ0DqELAIL8q/55NWsvswxF9VjQW98=;abM/4me5QalTNFFeK1AO2Q=="
+secured: "liNqf4VGKijLNSvc5FGst6LYrG+WKmB7DWR9KXmlDoyb2B4n03C30K4iPj1dGnt/VjbK0kPZOtz5g6QET/ntatjcWsVRXqIELTs7Up3h0rU4ohqYnzVGSIoUzDT4+hvn2XbnyFb8dn54mDXtEOAkt+TBLuOOQU1xSybSPEB/gbZpTFBCnhjjEC1GLWZ9qOTL/LmrpVriMvVLlmlvQemG0pz53fjN+d5+qRXqjDYTVn+zRL9OQj+j+G2WupmyWtdNiw+InrPRXvewGcr9O+zjblPwljLKQzDGAtxAN87iYou3DpZp3O4tRSGPKDFQ0pTdowbWNM9ARlJEtdY15bGcfJNxCjt0XvwBY9G3DKJbdYY=;vdOMFtyZd9MNouRxD0YPNA=="
 ---
 

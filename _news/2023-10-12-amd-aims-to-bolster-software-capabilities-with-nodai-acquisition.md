@@ -83,20 +83,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
-    excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
-    publishedDateTime: 2023-10-11T05:06:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia/104332059"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-104332059,imgsize-44324,width-1200,height=765,overlay-etcio/corporate-news/amd-to-acquire-ai-software-company-nod-ai-to-take-on-nvidia.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
     excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
     publishedDateTime: 2023-10-11T07:05:00Z

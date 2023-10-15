@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Razorpay launches AI-powered payments routing system 'Optimizer'"
-    excerpt: "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing"
-    publishedDateTime: 2023-10-11T04:13:00Z
-    webUrl: "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer"
-    ampWebUrl: "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 59
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png"
-        width: 1020
-        height: 675
-        isCached: true
   - title: "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments"
     excerpt: "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer."
     publishedDateTime: 2023-10-11T22:17:00Z
@@ -57,6 +41,31 @@ related:
         width: 1600
         height: 1291
         isCached: true
+  - title: "Fintech launches new AI-driven compliance platform"
+    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
+    publishedDateTime: 2023-10-12T11:22:00Z
+    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "NPCI To Integrate AI-Powered Bhashini To Offer Conversational Payments In 22 Languages"
+    excerpt: "NPCI will integrate Bhashini, an AI-powered translation platform, to allow users make conversational payments in Indian languages."
+    publishedDateTime: 2023-10-13T09:43:00Z
+    webUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/"
+    ampWebUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 31
   - title: "Razorpay Launches AI-Powered ‘Optimizer’ to Mitigate Transaction Failures"
     excerpt: "RazorPay the leading full-stack fintech platform has made a significant move with the launch of 'Optimizer'. This advanced AI-powered payments"
     publishedDateTime: 2023-10-11T07:43:00Z
