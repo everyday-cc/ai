@@ -79,6 +79,17 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
+    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
+    publishedDateTime: 2023-10-14T09:28:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 18
   - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
     excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
     publishedDateTime: 2023-10-12T13:53:00Z

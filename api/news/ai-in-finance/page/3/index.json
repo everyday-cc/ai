@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-01-this-little-known-software-maker-can-rally-nearly-30-as-it-monetizes-ai-bank-of-america-says.md",
+      "title": "This little-known software maker can rally nearly 30% as it monetizes AI, Bank of America says",
+      "excerpt": "This under-the-radar software name looks well-situated to capitalize on the generative AI craze overtaking Wall Street, according to Bank of America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
+      "originalUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107000275-1642015028719-gettyimages-1046078096-US_STOCKS.jpeg?v=1693567467&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-datavisor-appoints-financial-services-industry-expert-kevin-mcwey-as-new-chief-revenue-officer.md",
       "title": "DataVisor Appoints Financial Services Industry Expert Kevin McWey as New Chief Revenue Officer",
       "excerpt": "DataVisor, the world’s leading AI-powered fraud and risk platform, today announced the appointment of Kevin McWey as the new Chief Revenue Officer (CR",
@@ -1206,49 +1258,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market Size, industry Report and Forecast to 2030",
-      "excerpt": "The global Artificial Intelligence (AI) in Fintech market size was valued at USD 10204.78 million in 2022 and is expected to expand at a CAGR of 28.6 Percentage during the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33843456",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33843456",
-      "publishedDateTime": "2023-08-14T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

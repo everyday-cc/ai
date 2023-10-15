@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-14T15:45:00Z
 originalUrl: "https://venturebeat.com/games/a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan/"
 webUrl: "https://venturebeat.com/games/a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan/"
 type: article
-quality: 65
-heat: 75
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/09/intel-glass-3.jpg?w=1200&strip=all"

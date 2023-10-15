@@ -34,22 +34,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "The future of augmented reality is AI"
-    excerpt: "Augmented reality (AR) is technology that enhances or provides additional information about what we see in physical reality through digital images, sounds and text."
-    publishedDateTime: 2023-10-10T06:59:00Z
-    webUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3707794/the-future-of-augmented-reality-is-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/meta-glasses-100946620-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How to Launch a Game-Changing Artificial Intelligence Pilot"
     excerpt: "Agencies looking to launch an AI pilot need to think strategically about the various use cases that would benefit their organization. CDW offers what it calls exploration services, bringing in a digital strategist and technical expert to identify the different personas that interact internally and externally with a particular agency."
     publishedDateTime: 2023-10-13T20:47:00Z

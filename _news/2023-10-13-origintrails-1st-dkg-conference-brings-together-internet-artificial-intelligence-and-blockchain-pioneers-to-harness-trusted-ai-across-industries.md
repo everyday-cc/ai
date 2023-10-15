@@ -64,20 +64,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Budget Constraints Are Holding Back Fintech Innovation, Finds Report"
-    excerpt: "In the report, budget constraints were the top reported issue impeding executives’ ability to implement innovative solutions, but a large portion of U.S. respondents surprisingly also pointed to obstacles relating to their own firms’ talent and infrastructure, said Harry Stahl, Senior Director of Enterprise Strategy at FIS."
-    publishedDateTime: 2023-10-10T06:08:00Z
-    webUrl: "https://www.tradersmagazine.com/featured_articles/budget-constraints-are-holding-back-fintech-innovation-finds-report/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/10/Harry-Stahl.jpeg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "EDOMx taps FinTech finbotsAI for credit risk management"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-10-11T07:04:00Z

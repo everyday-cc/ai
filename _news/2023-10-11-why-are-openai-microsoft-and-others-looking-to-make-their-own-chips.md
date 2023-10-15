@@ -44,6 +44,15 @@ related:
         width: 1306
         height: 900
         isCached: true
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
+    publishedDateTime: 2023-10-14T23:01:00Z
+    webUrl: "https://www.inferse.com/753875/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
 
 secured: "WXHBgZJD1w2u1vtuLEEkpo09tk6YtJSRiwta8p85Qg+8Jr29XQdRWjHtmKI5/MxCYZ9SUy+SbNQnWEtRL36dx4S3eWLeT/ExCd79i3ueft5GJtXISIJqrhOTwLrHu2KvTRMvjcKSaNu09f04JrOXHxiXquQmODxF3NYmlL5pk2l7mQ7gW5ZW3juU9k2LW0tj2Lq9IIdE73CGhN7wt627wl2fWCF4/TwWJuRTsXHs7ZSOnfQ0PfKhtHecWOPNB+eGLCFWObIdl/BEAKVjOWoOeDiMFW3WFTU3OiG24C3EALlPQhPhvM6qPdJEknCOAybNKdH5rCRc1rZ3Af3R+zK1YcpizA+OKD7I9ALzce+n+J3DTGjLRncYrOn8t+6mlGTxzfzx0x8XT4E/x709cqYBX/k379nQPiejz8AKH8s5veJKSJX6i7ct2qsSIt6LWi3uA35tsAGfOYiCxLz2lCaaKoAlpdhXgSv27hc6lOxd1MlJvWIRFD8lpV9Z3xIlmRH48m67lwF2azMWvxndnbAZnw==;qTU3Rf36BYK+UUIkeGccMw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-shou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
+    excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
+    publishedDateTime: 2023-10-14T23:01:00Z
+    webUrl: "https://www.inferse.com/753875/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
 
 secured: "WNCEuhzBMpevLKd61SgAgmumE+wjXV12/4xYWurK9XDanS9qyFRmTiT7pIT+ORsXwwWicYbjDHulNk2yGLErtzedgko+UJA5bTWKSq84spqF0hBYDH2SVCC/Kd+KBmIWJuLNO2/JjbW0z0TLUuc6njWPbwSck+jUZa8P2JO+AmQ3MYNTLSfE8NFF8G1OBedzf3VcUiaBsu8Y2Qh+IQsRZB1eFIoB9y5rLwB0N2xROAR0iyTR2ecVeeysIe+aKoP1kDPeWbMN9R+Qobvp/3Fd1QiXU/VMfJkviD9EgtP0EeDmavwI3UDYlPqtzT0sIw6NCA4C2EYuh2f21D4wDt02D6XYoSN5vF7/kCeLUZBTKXg=;899hqeh/Aw5pvbsxH+hXDQ=="
 ---

@@ -3,11 +3,11 @@ category: news
 title: "Electric Sheep Brings AI Robotics Technology into Outdoor Services Market"
 excerpt: "We are aggressively exploring landscaping businesses in the top 50 metro areas with a high rate of growth and plenty of turf to maximize the impact of automating mowing,” said Nag Murty, CEO and Co-Founder of Electric Sheep."
 publishedDateTime: 2023-10-12T19:29:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/electric-sheep-ai-robotics-tech-outdoor-services"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/electric-sheep-ai-robotics-tech-outdoor-services"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/electric-sheep-ai-robotics-tech-outdoor-services? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/electric-sheep-ai-robotics-tech-outdoor-services? Control News & Articles"
 type: article
-quality: 48
-heat: 48
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "EJXPHD8tBdjZ1FJh/5cSXnJuUAx8gXLni5Og3Kd+7WVQXBVTTfVQbwZb317qXZWl3U4zzKKvQXbCNjiUUdbDQrh/7I75pPgLoK0KQOnZbcd6hE0uiCDSsokOtZQHr49FJPIwVOlQfpLunnkAu9JYR7w0FlOgLWuP8s8U++YDwZmlH2+fdkYCaiQxRU7CQxsy/F0PpkHMp/Q4CM7Ft8A2FiGqtEZAjzCKU/p5/cGFqHAR27Hsnkga3yhuAhdhepdktSwnd3hvlBnAqlyIv394vt0IChisGosRPeYfpzXtyLWtnD3DExDUQr8tGchrRfn1DPRnzRK8IeSFXVlWCinStPjRIYE2CvDpZy56gOVZs+B/H4iKHYZ2+CNuQdZA9Jdf4WiKMKAZuTmqDFAonrFsBdFYoG0tc0tKsgolYG19zZ/iQFGonKoaSBNt8SamfGyQKc7mJZl1LacNujKd76Evk4gag+UGO068V5mp2ZX5s4r5Xf8nnk03oENMhYA3htne5phGhB/MKpnDbRfO97raRQ==;YIsDrI5M036KEcPYVBM31Q=="
+images:
+  - url: "https://www.automation.com/getmedia/16f330e4-6ef6-4be7-8085-2f61a2314145/Lawn-news-Oct-12-2023-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
+
+secured: "R5NOfSzDbdbHJgkxLd9hA3r360MW3HzBsKOTsGJlyfe0hJfK8ClwRgZ651jHY3hl0Ll3lCQwTFGnDNIbDNKw5W/tVOsUPKzLkjrl+iYtVrd9dMKMNeYnzn0Rx09mxtfajjtfNhi2BpqTDsMx1/yXoOsS/bw7D+azH4whPEFp6uBx1U4fOreo76AXl0TcqBSKqwCeQmxFZBUuLgzL7najS0U9FgPN93ew6q2Vu3xDJkkuW0A/FPn/fIEplqU5S/p7Jw9fLTuBh+IDmc2E3vJsjgbKXJ7RGw4t7tZ5zk5i6hSYiMEugS3basPnaq/RNzkBEMINkKCeMJ45cLzPpkuCXE9QBXNwu3HXmuGFmSrZq5Xt7aL1WjRWtRg30i83HgG5GzN/XZJboBe78Jw5KtwYWaYi0qfe5XZ22ceCInxxEx7yp72i3iVf3XdNfRBClQ63Hg4UFCaciTjjBsIaPLtfraiqK31MAgsSf/Jaqe7tTZrv+IgXkc9oOyo8KTAquxAp2evr7Ne+aUtOGHPj/erJmA==;f64R1YvYqYje+e3U6AxkHw=="
 ---
 

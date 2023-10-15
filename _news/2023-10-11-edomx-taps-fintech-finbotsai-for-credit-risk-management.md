@@ -71,20 +71,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Budget Constraints Are Holding Back Fintech Innovation, Finds Report"
-    excerpt: "In the report, budget constraints were the top reported issue impeding executives’ ability to implement innovative solutions, but a large portion of U.S. respondents surprisingly also pointed to obstacles relating to their own firms’ talent and infrastructure, said Harry Stahl, Senior Director of Enterprise Strategy at FIS."
-    publishedDateTime: 2023-10-10T06:08:00Z
-    webUrl: "https://www.tradersmagazine.com/featured_articles/budget-constraints-are-holding-back-fintech-innovation-finds-report/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/10/Harry-Stahl.jpeg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "7 Hot Fintech Startups in Indonesia to Watch"
     excerpt: "We look today at some of Indonesia's hottest startups. For this list, we’ve selected fastest-growing fintech companies that headquartered in Indonesia, compiling a selection of both early-stage and later-stage startups that have been making waves,"
     publishedDateTime: 2023-10-11T00:07:00Z

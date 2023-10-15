@@ -71,6 +71,17 @@ related:
         width: 862
         height: 575
         isCached: true
+  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
+    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
+    publishedDateTime: 2023-10-14T09:28:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 18
   - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
     excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
     publishedDateTime: 2023-10-11T14:38:00Z

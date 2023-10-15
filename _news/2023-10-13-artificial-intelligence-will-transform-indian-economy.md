@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indi
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Collage-Maker-12-Oct-2023-08-12-AM-9755.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "At the deep end: Putting a spotlight on the Indian deep tech startup ecosystem"
-    excerpt: "This fortnight, we have a collection of stories of deep tech entrepreneurship, from robotics to aerospace, as well as the burgeoning number of venture capitalists opening the purse-strings to fuel the"
-    publishedDateTime: 2023-10-10T06:45:00Z
-    webUrl: "https://www.forbesindia.com/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/column/at-the-deep-end-putting-a-spotlight-on-the-indian-deep-tech-startup-ecosystem/88823/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 40
-    images:
-      - url: "https://www.forbesindia.com/media/images/2023/Oct/img_220141_forbesindiaedit.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "Indian-American teen's AI startup valued at Rs 100 cr"
     excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"

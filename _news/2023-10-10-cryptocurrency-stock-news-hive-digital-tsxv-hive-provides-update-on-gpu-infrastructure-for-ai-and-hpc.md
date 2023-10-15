@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "HIVE Digital Provides Update on GPU Infrastructure for AI and HPC"
-    excerpt: "HIVE President and CEO Aydin Kilic stated, \"We're on track to have 3,200 GPUs, mostly powerful Nvidia A40s, up and running in the AI/HPC space by the end of October.\" Mr. Kilic continued ..."
-    publishedDateTime: 2023-10-10T07:07:00Z
-    webUrl: "https://www.nasdaq.com/press-release/hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc-2023-10-10"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "RETRANSMISSION: HIVE Digital Provides Update on GPU Infrastructure for AI and HPC"
     excerpt: "HIVE President and CEO Aydin Kilic stated, \"We're on track to have 3,200 GPUs, mostly powerful Nvidia A40s, up and running in the AI/HPC space by the end of October.\" Mr. Kilic continued ..."
     publishedDateTime: 2023-10-10T13:26:00Z

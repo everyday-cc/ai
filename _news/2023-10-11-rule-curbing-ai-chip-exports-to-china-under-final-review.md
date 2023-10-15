@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-10-11/rule-c
 webUrl: "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/0374f4b9-57b1-4876-bfa9-83c169310593.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "US rule restricting AI chip shipments to China under final review"
+    excerpt: "According to a US government posting a rule restricting shipments of specific advanced chips to China has been revised and is under final review"
+    publishedDateTime: 2023-10-14T22:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273999490/us-rule-restricting-ai-chip-shipments-to-china-under-final-review"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697170671828.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "9IL/xAk+oF2q0kmW/M8UXGI7po582eOtWfMFbCY9+bFbf8nI8TzxU9cPhtRZBPFyexX9Wva3ofHUJH+zRXnXNBhUEoG6I3Lc4h2HHeagj0RTfloS+rshXkNyc4d1TIo+17f3Q8USqdOnFvgLXBfzNXamDPy7tSopNoheG6YOEu/Wox5V8RnypzZIigRoL3wYPv7bj4ug+1/Zbga2CtUmzQj6G0VBIJR8MXv2+QHLyaU92Y2h4pXxyMNz/CW7LUqpUQ1Rna9Hhlk+NSM0YA815miVnXmVAdB8qSWk89PNNnCPu7drX5AkYcUBVBztaScVEgsGvdaoYubLPeDIUDMaXxsHZFaS/dba2UjYtGQF6HBWia7hH87sZ8fLLipB/NFepNPXB/oZnai4oQ6ib12pWpEuMl66xme7wpFzFe8GTOS7Ny9hTUv5M0leFf0GGcLBrrPUaUlgXaVCY2JBgEeig/BUUhsp8UV6egIhSxUjoIAFour/ELEVqvNiC02NPlfBFl8iekekN2uS0m+sqXNMlA==;pADNPHeWHqUsK9ExQjDQ2Q=="

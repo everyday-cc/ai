@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Supernova festival: How massacre unfolded from verified video and social media"
-excerpt: "They had gathered in a remote area of southern Israel for the Supernova festival - an event that had promised dance, music, art and drinks at a secret location. Ticket holders were told, nearer the time, to head to a site north of the Re'im kibbutz, about 6km (3.7 miles) east of Gaza. The party's organisers promised a \"journey of unity and love\"."
-publishedDateTime: 2023-10-10T05:22:00Z
-originalUrl: "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/"
-webUrl: "https://www.the-star.co.ke/news/world/2023-10-10-supernova-festival-how-massacre-unfolded-from-verified-video-and-social-media/"
+excerpt: "BBC Verify has pieced together the events of the weekend's festival bloodbath using video and social media posts that we have verified, and facial recognition technology. Some of the festival-goers can be seen in the same footage looking up at the dark wisps above their heads. Others are oblivious and keep dancing."
+publishedDateTime: 2023-10-10T16:01:00Z
+originalUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
+webUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/world-middle-east-67056741.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-middle-east-67056741.amp"
 type: article
-quality: 0
-heat: 0
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: The Star
-  domain: the-star.co.ke
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - AWS AI
   - AI
 
-secured: "q8CmqjYkA6LEoNXMVG8nfnmLY49r2C2WPIMAKhDnRfBqrVqhjJNMIfIhh9Gwg9O6wfpdKd0lFLUJgSQIZSn+DeKnvozeYetDlJGYZG0N2wOr4L1C0NUlUX1t4USgCUXFv5PTqcK6LGgZPX3OGmFF2faWD3ZFkrj8maqVjhl9a6HKYhPjqWlt8B5/EeICT/9qVOgJPmDZR+SQk3V9JSBASp2gEnfuQxkvsvuQvCm1j3EV64nhcs6dqaPFHA9JlwDmF+h8stDZzhBMnUEkX+/iAfQAXmjYqhbGGoJPnu1R/gIsJVoIZ1U5VsIQg/LSgEzCGiKHMVQz4aKCZgzfy4LDitRIoegUQw9ase7SSXyxUfrC2cIOxZYvZkZehVkNaUiznNrEF4moqD2pAJs9G3WWj00jw8+JswGahttzg7Rnv4HAJh49nLUZknEl96o/Vu0EoyJzp21hAFmsDm0HhUQCBgcxY1v9PXpTT9gxEscfviYomkKMDzB5ygsDOSz8+L5jbq5uz/w8PlurH72m4pdBYw==;v5tZJwgP9SaUZOhPNFXYlA=="
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/12B67/production/_131374667_97b713fd-bb80-4987-b17a-49008c8054fb.png"
+    width: 1024
+    height: 576
+    isCached: true
+
+secured: "QeKmqc7pgx198f8LA/ZHv7UDCBw8r6+45q61PbcRELyWx7rDUaFo7MLV9yx9yocF2anscoMLjqHHpkJpAGSXfrDP6xnHsb0fAmtbs7/wAB30pNsbKAwlYhifunmynufxlgcp0tR9VXwEvRkM3OT8TmD8cYz0rKLwr1EdgQnFiP1x3GY8pt/dXVbeB1cbP/PAxDI6OgY3WFwdGv51nPmkX4RS4N/4mLZo3SEPZtT7wnmzdrMpeuNX0i7UJWZb0NmUOYBqB8K+TL0DgRxcauhUATpUDw8eVNpyg94pTK6qDw2cn8Tq+WZ9k0UmBDvuIdJF8ksjGAYcN3eHiuCYVoczrFdIi5s8X2rnJR/Ombtd5WY=;dVTBmZGwFGnsurCZQTrJww=="
 ---
 

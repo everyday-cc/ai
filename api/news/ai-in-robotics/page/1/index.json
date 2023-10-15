@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-15-i-do-menial-jobs-to-raise-money-for-building-robots-chima.md",
+      "title": "I do menial jobs to raise money for building robots — Chima",
+      "excerpt": "At times, it could take a month, or some weeks to create a robot with carton boxes, packaging foams, plywood, and other electronic components",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
+      "originalUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2023/10/14210723/CHIMA-EMMANUEL.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
+      "publishedDateTime": "2023-10-14T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-15-how-roboticists-are-thinking-about-generative-ai.md",
       "title": "How roboticists are thinking about generative AI",
       "excerpt": "It’s not exactly right, but I don’t have to start from zero. It’s giving me 70% ... the MIT CSAIL head explained how researchers are using generative AI to actually design the robots: It turns out that generative AI can be quite powerful for solving ...",
@@ -375,7 +418,7 @@
       "originalUrl": "https://www.deccanchronicle.com/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1295,49 +1338,6 @@
       "provider": {
         "name": "Popular Science",
         "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics.md",
-      "title": "Daniel Theobald on funding early startups and the future for ag robotics",
-      "excerpt": "On this episode, we catch up with mobile robotics veteran Daniel Theobald and talk about his latest adventures with ag robotics and startup consulting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics/",
-      "originalUrl": "https://www.therobotreport.com/daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/Daniel-theobald-farm-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

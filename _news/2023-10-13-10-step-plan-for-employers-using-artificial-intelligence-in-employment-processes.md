@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/10-step-plan-for-employers-using
 webUrl: "https://www.jdsupra.com/legalnews/10-step-plan-for-employers-using-7996947/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "63% Gen Z students fear AI will cause instability in job roles, employment: Survey"
-    excerpt: "Ethical dilemmas and privacy concerns were emphasised by 28.7 percent of participants, showcasing a heightened awareness of the ethical implications associated with AI implementation and the necessity for robust privacy safeguards."
-    publishedDateTime: 2023-10-10T05:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/63-gen-z-students-fear-ai-will-cause-instability-in-job-roles-employment-survey-11507301.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/63-gen-z-students-fear-ai-will-cause-instability-in-job-roles-employment-survey-11507301.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/63-gen-z-students-fear-ai-will-cause-instability-in-job-roles-employment-survey-11507301.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 51
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/BeFunky-collage-2023-10-10T110202.070.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "LH+Hvv7EqiKYGIvtyJ7svdQxneJVHmT3O8QMK5LL2ipnynhhIshyQX0kPdf4WoYzhASC4pRJQA2Cm7LdxemoD2vVeGTs5oXtAStf6fS+SW+Ge+r9SujYZmtJYm5+CjzeD6aZwMtknteO3oSKGylChKlTBLfug+n8hrU+3Eylw+EVUbo7vHvy//3g1WIENIgauJR2210evtVYlOVMdMoPLIs89xGEQnWEc5BrlxUrA9a/cNCplPI+uPs5NgQJ6AOdVjZSr2Ke21k2rBqh+I2iCTLi1HiOzPzqKor6zQTbnEivFqgHkXRmE/Kuhw1nTzdvrFB0t/AZHJaQeCfrVTeZW4jeNUWOFxpdLrwB08KwsZ4=;X30JNM2Z8CIAXNeRaRUMuA=="
 ---

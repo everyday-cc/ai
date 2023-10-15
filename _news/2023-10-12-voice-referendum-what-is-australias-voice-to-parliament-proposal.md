@@ -163,17 +163,20 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Polls Indicate an Australian Indigenous Voice is Unlikely"
-    excerpt: "She said the Voice would also put “the final nail in the coffin of Terra Nullius” meaning “land uninhabited,” a concept used by the British to justify colonization. Aboriginal advocates say Terra Nullius was used to avoid the word “invasion” and the miscarriages of justice that followed."
-    publishedDateTime: 2023-10-10T06:26:00Z
-    webUrl: "https://www.voanews.com/a/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    ampWebUrl: "https://www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
-    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/polls-indicate-an-australian-indigenous-voice-is-unlikely/7304153.html"
+  - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened"
+    excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
+    publishedDateTime: 2023-10-14T23:23:00Z
+    webUrl: "https://theconversation.com/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-heres-what-happened-215155"
     type: article
     provider:
-      name: Voice of America
-      domain: voanews.com
-    quality: 24
+      name: The Conversation
+      domain: theconversation.com
+    quality: 27
+    images:
+      - url: "https://images.theconversation.com/files/553795/original/file-20231014-17-vwmiud.jpg?ixlib=rb-1.1.0&rect=73%2C403%2C8052%2C4026&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Voting on the Voice: what you can and can't do at polling places"
     excerpt: "Australian election officials have detailed the ground rules for the Indigenous Voice to Parliament referendum on Saturday. It comes as opinion polling continues to suggest defeat for the question in Saturday's vote."
     publishedDateTime: 2023-10-12T04:59:00Z

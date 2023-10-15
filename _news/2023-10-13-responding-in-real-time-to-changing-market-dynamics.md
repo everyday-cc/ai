@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/responding-in-real-time-to-changing-marke
 webUrl: "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/"
 type: article
 quality: 82
-heat: 84
+heat: 82
 published: true
 
 provider:

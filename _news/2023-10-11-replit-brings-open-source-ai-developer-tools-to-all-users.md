@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/programming-development/replit-brings-open
 webUrl: "https://venturebeat.com/programming-development/replit-brings-open-source-ai-developer-tools-to-all-users/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: VentureBeat
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 672
     isCached: true
+
+related:
+  - title: "Check out OpenAI's other cool AI tools: DALL-E, Whisper, Codex – Business Insider"
+    excerpt: "But the startup behind it, OpenAI, has other AI products too. Just months earlier, OpenAI removed the waitlist for its generative AI art generator, DALL-E, which grew to over 1.5 million daily users."
+    publishedDateTime: 2023-10-14T23:43:00Z
+    webUrl: "https://www.inferse.com/753954/check-out-openais-other-cool-ai-tools-dall-e-whisper-codex-business-insider/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 32
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8593.png"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "gQOaVw+IhmoU+XAJm44hgxqA40v7AExXxii7RIQ+NKDYyyowvyOxZIScGVjuRuPxmmuA/JO+RAm5C8vaKNdu//snvQGMiMdKt9N7uLw+wVNEDH+ZIbm3aPhjMaeeAvC3MDmJsC9Bd8dmo1jWZpIXeIyGY4DSxF/pMqP4cCjhuaW7eOTcqqthBGFyY8/Zyue/+0M+Y+Xvz05rT0Kn+XEJdIpNQQqx2oCZaZCabw6XulB2E1cqJ3tQ8Ka6lpwFP/pYM0c7ZeZg0+V3cIBzFd/RXaOdxNg6bA1NcB5cqHpFd5gBGP9nTHmbLxHiTiMElRbWRgcck+MBfqDCPBqZOrSc7jjfdh7NbVYcD51ykPY0J+5ti6DELdtj8QtmZqmHCB7b6Veq3Uo95/XUYwT/UBoNJwh0WBZVvwMqtmG20MqbYZNAtkhqQF4o5oaqCrKrX2HtjpOkzJZXIm9HkjmEhlazvzjfYcRmHL7N1U9bFa8mYiNE0zkYZgq3wCFCoGW7I6BcGNkNF8d+lnIz+4rWHSwIEQ==;bcWA3mGzjaErasNDButKFA=="
 ---

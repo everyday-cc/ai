@@ -39,15 +39,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "EDOMx Selects Singapore Fintech finbotsAI to Scale Faraja BNPL Business & Drive Financial Inclusion with High Accuracy AI-Powered Credit Decisioning"
-    excerpt: "Renowned for its Mobile Money Buy Now Pay Later (BNPL) service FARAJA, which is offered to M-PESA customers and businesses in partnership with Safaricom, EDOMx becomes a pioneering adopter of cutting-edge AI-based credit risk solutions a key pillar of its business."
-    publishedDateTime: 2023-10-10T06:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/10/9895219.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "OwUkWJCne6SFCnLtIeTgsbduLAKc+VntLwAYmtVbDO3hx44Xj/PkEE/rXp38TxCT0IAqjLtU7AcxcNfzKHaiXx4fgYpuXee8v8pC/xUqaadKpH/8Glk+zK16PjieVjWS5kUhMTIRPpJ6o31MHOCefomcfj7jZeqRZ4DpXkvcveyEPBCD1BtWdvZeez9iUfbeb8BjORgdsM+WFVEfZsKBKQj7S3Gs2nbQMZgnJr/oGCE/PktHceJb2QnDLa0eE9ENLUIZBMvYoaqQUQVfNkfrHnsisQwvQ6EcgRBzc4XM3vAYcyXVKekeCnYvmsW3hDcpAGjgcslXs3Z2ZqN+tGo6A/bveUqRS7dEa2sydCTtHBE=;+1kO17LC4tbXy6z40YEerQ=="
 ---

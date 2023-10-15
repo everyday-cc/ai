@@ -34,6 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "US rule restricting AI chip shipments to China under final review"
+    excerpt: "According to a US government posting a rule restricting shipments of specific advanced chips to China has been revised and is under final review"
+    publishedDateTime: 2023-10-14T22:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273999490/us-rule-restricting-ai-chip-shipments-to-china-under-final-review"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697170671828.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "J3sYMxCFzM/MVj3HghU5+DMsenkO9m+JdwMJyOXB4hUGkhZOm/AE9PUUM9UppmwkkQXBcv7097KDC3tlGQL3J8agt2abzJ5Z8/yff2iUoqCoT3Bj8JH1o9dstuQTd3WtZFMq2IGPbtL5VV8tpj3f1HI34N4lvSRHB69JpSH4HLK+1NzPjC8c4tfEYHaUDLdJqSex6VEC+q9ybj/1Mqn021BFTYlCyAYsPqrKFZ2UfLioEWK8AgI2sTH6dppbXunxRHNGbrvqZ96FTmNm47mqIKFWZ2UU6O+WnpbkK8FhAyU7WxgS8C0JMdD20lyWR2VM8iR5bb+1v+4+ColhnHqYcuW4qQMunZ9A8rS6hKc5uFMCHk3IyLQOg3PW2W6XFiAkB6SRGmOK28xT73Xv7ZwP8j/uBEx+MSKWffok4X/bM/2Z5AaR6JMfzJ+YYGBV5L2CiG1Kt9EwZgodZsYgGABolKa80eGDlq2r5uHplvb+QMzd9LcHxa2ihhzGo+vitNoXd0aXK7BzqWmXU1ZNoT+eXg==;32y4yzJjUq9M0SAEAmAs6Q=="
 ---

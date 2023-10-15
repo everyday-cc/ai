@@ -285,6 +285,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
+      "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
+      "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "originalUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png",
+          "width": 1020,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "publishedDateTime": "2023-10-10T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-leveraging-fintech-and-blockchain-innovations-in-finance.md",
       "title": "Leveraging Fintech And Blockchain Innovations In Finance",
       "excerpt": "When harnessed strategically, fintech and blockchain present a chance to transform services, bolster capabilities and delight customers.",
@@ -293,7 +336,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1319,49 +1362,6 @@
       "provider": {
         "name": "inc42",
         "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-the-ai-use-cases-banks-and-the-federal-reserve-are-contemplating.md",
-      "title": "The AI use cases banks and the Federal Reserve are contemplating",
-      "excerpt": "Bank executives at the Sibos conference this week discussed how they are using predictive analytics and other technologies, and the fintech partnerships that move them forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/news/the-ai-use-cases-banks-and-the-federal-reserve-are-contemplating",
-      "originalUrl": "https://www.americanbanker.com/news/the-ai-use-cases-banks-and-the-federal-reserve-are-contemplating",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/95835e1/2147483647/strip/true/crop/6989x3669+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F33%2F68%2F20307f9b4512811716f6be0bc016%2Fbrian-moynihan-keynote.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T15:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
         "images": null,
         "publishers": null,
         "authors": null

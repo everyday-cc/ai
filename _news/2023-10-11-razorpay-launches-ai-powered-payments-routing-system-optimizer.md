@@ -9,8 +9,8 @@ ampWebUrl: "https://glamsham.com/world/technology/razorpay-launches-ai-powered-p
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: glamsham.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Razorpay introduces 'Optimizer': AI-powered payment routing system"
-    excerpt: "The 'Optimizer' seamless integration into more than 100 payment solutions, spanning Payment Aggregators, Payment Gateways, UPI, Banks, and other payment methods, businesses can enjoy a consolidated and thorough view of their payment processes,"
-    publishedDateTime: 2023-10-10T08:35:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/razorpay-s-new-ai-powered-system-optimizer-revolutionizes-payment-routing-2023-10-10-897113"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/razorpay-1696926402.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments"
     excerpt: "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer."
     publishedDateTime: 2023-10-11T22:17:00Z

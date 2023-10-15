@@ -1,20 +1,28 @@
 ---
 category: news
-title: "DeepMB: a deep learning framework for high-quality optoacoustic imaging in real-time"
-excerpt: "Researchers at Helmholtz Munich and the Technical University of Munich have made significant progress in advancing high-resolution optoacoustic imaging for clinical use. Their innovative deep-learning framework,"
-publishedDateTime: 2023-10-02T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/1003410"
-webUrl: "https://www.eurekalert.org/news-releases/1003410"
+title: "DeepMB: A deep learning framework for high-quality optoacoustic imaging in real-time"
+excerpt: "A team of researchers from the Bioengineering Center and the Computational Health Center at Helmholtz Munich and the Technical University of Munich have developed a deep-learning framework (DeepMB) allowing clinicians to obtain high-quality optoacoustic ..."
+publishedDateTime: 2023-10-02T15:40:00Z
+originalUrl: "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html"
+webUrl: "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html"
+ampWebUrl: "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Yw5UyuJPyCki12o5oUPEB39cLmYk4iTRTP/olCfRdBscyP5jtm+Q0rZdfKrZzpAVZhjOQwnvfp23m//QES2ilFn/sU1mwFj5JJsGqtwi5WCIZOSYwKa0cinBav6PxAwDcmc18Sarp6Fxnxc3xbD/w0JLdaKuJmcYHogBr1vMRLjYMOpYo7tVvjDZc064l+ZrtvH7tpjTsdX90/Sgt0PJdaBgv20DEXbcf0avbq+oR8Huf87653JS6wU0zHZiVzV0244FcmXmaK65lfXXY/isp6yEbeqXgnLJfUAMRbnADKVjx4mkn6zILUB7CcHD3qKCMqog4XXRlUIjz4dmm8honWNiJ+GHUj2uzL/s6Y82ddA=;Wl7mAxLb++6z+XK68+a5lw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmb-a-deep-learning.jpg"
+    width: 1595
+    height: 868
+    isCached: true
+
+secured: "TlHDzDRN9tWTZIEql2j81L1tNb55djS5oax+L+wSh+Q4uCSJuHcifjKIUGblUY+DshJUX9fyIZbUVMa5vHbEykQVLwGdzlp6iANeet7ho38x732ghk4/JENmvnr4ZPHeAhecuH1h1yiz5cKpnYgqmg68I1HH9tCrrZfYBKlqCazM0s6kXHllDhtxLJsC4hmdy4et3Z2VahXwNFS4Q9Ia3644m0IULecGFPl1H0cPybcRuo1YbQhogKe5G2c9xfqgBWp/OR/80em9t2pCLjX6vKpOAvzpY9g8ZwM0bdyOKhPNlQ2C1T35UCW3pehsl9/+CgM3JAYNt8RVIBlMSLK15Yx1rtDtX5fCYekSd/2HykU=;61By4vijSLfw8/n/7WVTxg=="
 ---
 

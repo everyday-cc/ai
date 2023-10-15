@@ -106,7 +106,7 @@
       "originalUrl": "https://newatlas.com/technology/ai-machine-learning-transistor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.zdnet.com/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -900,25 +900,34 @@
     },
     {
       "path": "_news/2023-10-02-deepmb-a-deep-learning-framework-for-high-quality-optoacoustic-imaging-in-real-time.md",
-      "title": "DeepMB: a deep learning framework for high-quality optoacoustic imaging in real-time",
-      "excerpt": "Researchers at Helmholtz Munich and the Technical University of Munich have made significant progress in advancing high-resolution optoacoustic imaging for clinical use. Their innovative deep-learning framework,",
+      "title": "DeepMB: A deep learning framework for high-quality optoacoustic imaging in real-time",
+      "excerpt": "A team of researchers from the Bioengineering Center and the Computational Health Center at Helmholtz Munich and the Technical University of Munich have developed a deep-learning framework (DeepMB) allowing clinicians to obtain high-quality optoacoustic ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1003410",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1003410",
+      "webUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmb-a-deep-learning.jpg",
+          "width": 1595,
+          "height": 868,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-01T17:00:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp",
+      "publishedDateTime": "2023-10-02T08:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

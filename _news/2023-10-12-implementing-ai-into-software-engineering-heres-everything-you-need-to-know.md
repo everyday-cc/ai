@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/implementing-ai-into-softwa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
 type: article
 quality: 86
-heat: 98
+heat: 96
 published: true
 
 provider:

@@ -2,6 +2,187 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2023-09-08-robot-can-detect-gas-pipe-leaks.md",
+      "title": "Robot Can Detect Gas Pipe Leaks",
+      "excerpt": "Aging, failing underground pipes carrying natural gas can be notoriously difficult to troubleshoot. Now, a self-propelled robot developed by MIT researchers promises to detect leaks quickly and accurately. The most recent gas pipe explosion happened in New ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robot-can-detect-gas-pipe-leaks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/GasLeakRobot-2.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030.md",
+      "title": "Computer Vision in the Healthcare Market Size, Trends, and Opportunities 2023-2030",
+      "excerpt": "Computer Vision In Healthcare Market is expected to grow from USD 993.8 million in 2022 to USD 22266 million by 2030, at a CAGR of 47%. The increasing demand for computer vision systems in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34319184/computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34319184/computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34319184",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34319184",
+      "publishedDateTime": "2023-09-07T16:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d.md",
+      "title": "This Week In XR: The AI Copyright Mess, Nintendo Back In XR Game, Text to 3D Virtual Worlds By Hiber3D",
+      "excerpt": "This may be the venerated Montreal XR Studio's best work yet. Venice Film Festival ‘Seven Ravens’ Mixed Reality Masterpiece Premieres At Venice Film Festival. Award-winning im",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa348969c863d8e51a5631/0x0.jpg?format=jpg&crop=1683,946,x274,y213,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
+      "publishedDateTime": "2023-09-07T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-politics-and-ai-google-to-require-artificial-intelligence-disclosures-on-ads.md",
+      "title": "Politics and AI: Google to require artificial intelligence disclosures on ads",
+      "excerpt": "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/",
+      "originalUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp",
+      "publishedDateTime": "2023-09-07T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIRO-TV",
+        "domain": "kiro7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-artificial-neural-networks-market-size-2023-booming-worldwide-by-2031.md",
       "title": "Artificial Neural Networks Market Size 2023 Booming Worldwide by 2031",
       "excerpt": "Global Artificial Neural Networks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.Ask for ...",
@@ -994,196 +1175,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-hawaiis-workforce-and-the-emergence-of-artificial-intelligence.md",
-      "title": "Hawaiʻi’s workforce and the emergence of artificial intelligence",
-      "excerpt": "With restaurants on Oʻahu utilizing AI for service-related work and lots of other businesses utilizing ChapGPT for any number of writing related needs, the emergence of AI in Hawaii is inevitable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.khon2.com/local-news/hawaiʻis-workforce-and-the-emergence-of-artificial-intelligence/",
-      "originalUrl": "https://www.khon2.com/local-news/hawaiʻis-workforce-and-the-emergence-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.khon2.com/wp-content/uploads/sites/8/2023/09/GettyImages-1432540662.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.khon2.com/local-news/hawai%ca%bbis-workforce-and-the-emergence-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/hawai%ca%bbis-workforce-and-the-emergence-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-09-07T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KHON2",
-        "domain": "khon2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
-      "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
-      "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
-      "originalUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.indiablooms.com/finance_pic/2023/bb0283f1eb0d7b4a044b3297683116e3.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Blooms",
-        "domain": "indiablooms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-microsoft-to-reveal-ai-plans-for-onedrive-in-october-event.md",
-      "title": "Microsoft to reveal AI plans for OneDrive in October event",
-      "excerpt": "Mark your calendar if you want a \"sneak peek\" at how AI will fuel new search, sharing, and queries for your OneDrive files.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 334,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/52621c88ff4f85caa000cfcdc623220ec0f8ea17/2023/09/07/3d33de39-0d04-4ce2-9326-cfb83bf94a84/onedrive-event.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
-      "publishedDateTime": "2023-09-07T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-09-07T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
