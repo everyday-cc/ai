@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-giv
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Educators Adapting to Artificial Intelligence"
+    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
+    publishedDateTime: 2023-10-11T15:29:00Z
+    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EVGcIF13AFK2h8mb9ro3iDeqwywOPJViVPOkCbYDOlxQvL+2XU1NAQmX3FvJen0WiPSt8QJaSI17IXQRGWQvFztFB5FrOosieGJWGriWoiPD4pz+nBkSjv3sYVMUvGtQzf1GUpW3oBG2Me4NMk3nJmPv9xVb1OtbIG3iS/0KpTBFofJKURoHDliiz26WlwTOHReaKVa7BuYSKMoHX9kdZ2STbRTt1yG0DfePK0wqHnvmrlru3Gi1or6t1o54rKjtrKkNbbheBzLOIp1JP4Xni3G07QYRaJqX/0u2/lepb/MaknUEoywEMTBQ7pfYq6qSxck7FtKpcA1grYTes+Z/x7bZE/J619iEkmf7PwKrUQj+Lk/xbHg9LXFAdSq+4LjUqWSMp6Mct8f9kLPiwCs/L9icza6sP4Cg6O5I+FbGdJUI/+37rcgwKFUbdY4gmEuIKqyaJ0gZsI2TF/l2qujebCqOsVSp8PuOMR9YxsO/ApgoKgZQmFxSf42LN1GlCw9BNb0pgPPXss4R4wrr+11KLQ==;QblwFEl8Wg6wxvo9597cEA=="
 ---

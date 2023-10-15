@@ -51,20 +51,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "The Proven Power of Robotics and AI in Logistics"
-    excerpt: "High-performance robots and a blend of unique innovations and sophisticated software are proving to be indispensable in order fulfillment spaces."
-    publishedDateTime: 2023-10-10T16:51:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/proven-power-robotics-ai-logistics"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 69
-    images:
-      - url: "https://www.automation.com/getmedia/333f6225-93bb-4e8e-b129-49f8bde16bc3/robotics-logistics-feature-oct-10-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Dumbing down or wising up: How will generative AI change the way we think?"
     excerpt: "But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking."
     publishedDateTime: 2023-10-13T15:31:00Z

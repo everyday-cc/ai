@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/artificial-intelligence/new-jersey-establish
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/new-jersey-establishes-artificial-intelligence-task-force?_amp=true"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Government Technology
@@ -27,6 +27,22 @@ images:
     width: 380
     height: 258
     isCached: true
+
+related:
+  - title: "State Artificial Intelligence Task Force Created"
+    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
+    publishedDateTime: 2023-10-11T18:20:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 37
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
+        width: 775
+        height: 500
+        isCached: true
 
 secured: "GLYMcLVTYfDHkI0WfnAk0iPQFlnaLAaS7vxCbghMgN7JBSr3lV08U5o7erCFsSChSGXjE2qF3fwepZftv/MMZQjRggJ0RH8fOncNdh5iE2Zab8rKYhxmOmDarVu9trfgGa/IMdgWpQspyXVaeUUeNzLOrcNw6HuEqq3xPR0siDx81KpI1UVifB4G+GRXoqKuWD7WS2utfXTkOLRWtKhRWoeFYqvKoqVIvon8xVaZtu7vPsYrMT52RNBasbLZRjBEmQvsK95M6/4/NM0z5In3oPek+qO5JjX77aLDR1XnweS1Vf65Luf9q0STHWuRlRoLjDcpgyIYTA3AGhR7IxVWnckVZY1Wwt8vXOVL/pQgwSysVA+dYTLeJ0dTj/mWPx/DcuRhUH0QWZab7ZhF2K2AI8X29As4xHGnfrQ4qIhChPCDNaIxUlzvScKug3IXPpDLAVk+tZh+Pu2PGTR5VlmM0O6mQYPp4W/V22LhxlGqgpBRPpzeJHOctJF1eyxBqsjwtWrvCKpmYT1okUTfGsYe4w==;tPrnVDMbd7D3Lcf3zSQN5g=="
 ---

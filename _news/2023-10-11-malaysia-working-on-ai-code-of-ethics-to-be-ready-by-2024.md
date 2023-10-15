@@ -7,7 +7,7 @@ originalUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024
 webUrl: "https://www.ibtimes.com/malaysia-working-ai-code-ethics-ready-2024-3714829"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--NXb__qh6--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-11t011700z_2_lynxmpej9a01i_rtroptp_3_ai-jobs.jpg?itok=pTvV1SWT"
         width: 1200
         height: 676
-        isCached: true
-  - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
-    excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
-    publishedDateTime: 2023-10-10T16:58:00Z
-    webUrl: "https://www.bernama.com/en/general/news.php?id=2233633"
-    type: article
-    provider:
-      name: bernama
-      domain: bernama.com
-    quality: 45
-    images:
-      - url: "https://www.bernama.com/storage/photos/fdf2df98576466acffaa0e6aff4cfb7a6525824a659e5"
-        width: 1110
-        height: 694
         isCached: true
   - title: "Mosti developing code of ethics, governance for AI, expected to be ready by 2024, says minister"
     excerpt: "The Ministry of Science, Technology and Innovation (Mosti), in collaboration with Universiti Teknologi Malaysia, representatives of government"

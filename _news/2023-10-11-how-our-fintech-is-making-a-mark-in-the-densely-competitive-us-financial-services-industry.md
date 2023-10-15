@@ -65,17 +65,17 @@ related:
         width: 340
         height: 250
         isCached: true
-  - title: "Arab Fintech Forum 2nd edition concludes"
-    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two day summit, offering a deep dive into the future of"
-    publishedDateTime: 2023-10-15T07:05:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/15/10/2023/arab-fintech-forum-2nd-edition-concludes"
+  - title: "Arab Fintech Forum 2Nd Edition Concludes"
+    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two-day summit, offering a deep d"
+    publishedDateTime: 2023-10-15T09:27:00Z
+    webUrl: "https://menafn.com/1107242133/Arab-Fintech-Forum-2Nd-Edition-Concludes"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
+      name: Mena FN
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20231015_1697353617-928.jpeg?1697353618"
+      - url: "https://menafn.com/updates/pr/2023-10/15/TP_e45b5image_story.jpg"
         width: 1200
         height: 832
         isCached: true

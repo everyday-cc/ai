@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Unveils Firefly Image 2 AI at Max Conference"
-    excerpt: "New generative AI for vector images, AI template design, lens blur in Lightroom, direct social publishing in Premiere Pro, and the GenStudio enterprise workflow solution were also covered."
-    publishedDateTime: 2023-10-10T16:09:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference"
+  - title: "AI’s impact on tech and entertainment to be a key focus for industry leaders"
+    excerpt: "AI’s impact on tech and entertainment to be a key focus for industry leaders."
+    publishedDateTime: 2023-10-15T08:29:00Z
+    webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05WgEg7RjQu7K4RunRWAmRA-1.fit_lim.size_1200x630.v1696882852.png"
-        width: 1117
-        height: 630
-        isCached: true
-  - title: "Adobe unveils Firefly 2 and previews more AI features: what you need to know"
-    excerpt: "Adobe is allowing companies to customize and fine-tune Firefly for their needs, and control how their employees use it."
-    publishedDateTime: 2023-10-11T23:49:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-unveils-firefly-2-and-previews-more-ai-features-what-you-need-to-know/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 64
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Firefly-A-field-full-of-fireflies-atop-a-city-building-67568.jpg?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
-  - title: "Adobe Firefly Image 2 creates incredible AI photos you need to see to believe"
-    excerpt: "But Adobe has to start somewhere, and hopefully, these requirements will prevent Generative Match abuse. The bigger protection against AI-generated fake imagery is the new Content Credentials feature. It’s an open standard driven by the Content ..."
-    publishedDateTime: 2023-10-11T15:39:00Z
-    webUrl: "https://bgr.com/tech/adobe-firefly-image-2-creates-incredible-ai-photos-you-need-to-see-to-believe/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 34
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/10/adobe-max-content-credentials-feature.jpg?quality=82&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-868527/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "upD0JK0DogIoiRRpybmD5ZNEnQ9fV2IvGqelOTVhLY8TaGg3Ad2R/cNyWl8MFTSJjPvAly9YqQOxy9OPQGd6BAaWiVdSXpaBM8svk+jyA4D8EuFVIIYkTSgaeGIYcVFxO65N7Un885ew2mOyvXa18bPaKQ4HZAS+D/vAazuX0ZAua9sKLu3WLsTkcLqSDp77UMY+/B+tLxStFqOxMeS+R0Pp9eNjHSY8R9tK35X/HBwY4o2Hfw15nf9DLMiYfWhal/lwhJ9oFpQQNC/+1CU4AjaLQu6OkkEusBO7Z/WRQLewsvXLBmAm1f7UUX+5tucD2yJj2RavnPJ+TjySd0ZW5F0Pkv5YbqkFObLs1wxyJMz9eMpQx33vxlS78qiDCvNbmBotztkFGYThEhH1GryujD1k7StQ/OvlJRxizHSPau+85dryFSoCeiYDighhTa/50E9TlIKzXcmBE/s3md7vdaUV00dd5CtkfsKSDcRGV1xFtlSfeuPkdpws2gMWMmB5ZhQDopHmAyTn6hKOWVr4cA==;T8CCb88aYVtOP6l5JsniuQ=="

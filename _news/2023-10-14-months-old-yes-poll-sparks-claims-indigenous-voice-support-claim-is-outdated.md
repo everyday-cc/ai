@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hurt ripples in wake of Indigenous Voice vote"
+    excerpt: "Some, like opposition leader Peter Dutton, have floated the idea of a second referendum that recognises Indigenous people in the constitution, but doesn't create an advisory body. Others have suggested the government could create the Voice through legislation - but Mr Albanese has ruled that out."
+    publishedDateTime: 2023-10-15T09:21:00Z
+    webUrl: "https://www.aol.com/hurt-ripples-wake-indigenous-voice-062103540.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b255efb383bed8b84910d038d132eb98"
+        width: 976
+        height: 549
+        isCached: true
 
 secured: "4RV5njwM9HpqaF9KrWE/RPZ6vY+P/EkZ/YM5g3qECCrXPAvDYhCnjgePnLFkEatQEnQHFnWaAQYTmUsvnZmSVyGUGQuSZTKigCK7+MMUfqLlKtWsvYWxtSIf379zDOpIq+ZCV1XzxW+y6DQCOT3npFRdtch4jAWLrneTBGzZokWDT8ETgq9WTVL5TgCy8M3eGL6Xj6rATwieeThPthYuG0JKhc2F/UOzJpoFm64QafUBrdHz/ctJ/XiO7ezlL1xuAd7wyt34Ax/kRBiUVewzLFwV2udCK3yjBXxgIaV71+wme3RWbhNTDQOc9+LG2vW9Lq+KQWmqmwVdKw78hW1qcITF+PXadHBNpLB15raaN+EUA2R4R2PXt60zvPTd04dt75jJiYgS2OgLSeUxcfBBNAC6PBHI8dXJekv3hsJleAJVxphx5Ag1Y3r6LEY+ZTyEw7tT1zKFCpt1G/fLLBn/t9WoP76jCuAmWEqwYEmgrT32RsqtWEfg2Vhzonj7aRCzPkNKavsrZL7iCcjstcPVeQ==;6bgFFV79q3ujRDhnFYiq2A=="
 ---

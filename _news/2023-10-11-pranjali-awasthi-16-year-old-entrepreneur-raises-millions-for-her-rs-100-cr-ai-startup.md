@@ -25,22 +25,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "16-Year-Old Pranjali Awasthi: Mind Behind Rs 99.8Cr AI Data Startup"
-    excerpt: "Pranjali Awasthi’s Delv.AI, valued at $12M, is revolutionising data extraction and research with innovative AI solutions."
-    publishedDateTime: 2023-10-10T16:22:00Z
-    webUrl: "https://yourstory.com/2023/10/16-year-old-prodigy-launches-ai-startup-delvai"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 37
-    images:
-      - url: "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Imagexf73-1696954606320.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
-
 secured: "tPWAWUXr7h9UQQasEOm9NCCq2vTC+5AsFwe3XuGsYnsWvhCEb3cwfUXyG4I+aXm/Eid8kDLfYDQ5Kf/6S81cc4eQO9rqsfY8+V4snPeJq1TqzyUTMexEKoESfI7vLVyw1TevgkOW915gTNWXsUANDxAEdZLPbqHm3PhQwYh1sp6XZ/ANMXqZKvDE4HACnw8zJe3JZxR6f1vsttRfIoLRUSOMjPx5Y/C6KN9WPqh48SIg/fxCsSxL5MfMAzMXfUDvlpDAheRSO/SQ9g4a6IY+nXkYhOwMxYKKpspV4PTSWS83XTOHvIxpuJHElJtt3s3GqTDqx1hvbeMEH54Dj0TtVOtJvjWuvuop88mRiUWQqEs=;TZRTfCn6P8TvkRIinEkRXQ=="
 ---
 

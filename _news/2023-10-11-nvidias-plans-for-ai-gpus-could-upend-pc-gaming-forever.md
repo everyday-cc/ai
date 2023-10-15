@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-
 webUrl: "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever"
 type: article
 quality: 84
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/3/93768_904_ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions_full.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "AMD to acquire AI software startup in effort to catch Nvidia"
-    excerpt: "AMD said on Tuesday it plans to buy an artificial intelligence startup called Nod.ai as part of an effort to bolster its software capabilities. In its race to catch rival chipmaker Nvidia, Advanced Micro Devices plans to invest heavily in the critical software necessary for the company's advanced AI chips."
-    publishedDateTime: 2023-10-10T16:05:00Z
-    webUrl: "https://www.aol.com/news/amd-acquire-ai-software-startup-130506735.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/31373b5e3013825b16ce899b59d3f492"
-        width: 800
-        height: 553
         isCached: true
   - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
     excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"

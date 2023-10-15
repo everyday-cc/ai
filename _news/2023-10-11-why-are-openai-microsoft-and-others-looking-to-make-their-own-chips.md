@@ -44,6 +44,24 @@ related:
         width: 1306
         height: 900
         isCached: true
+  - title: "3 health systems adopt new Microsoft AI tools"
+    excerpt: "Microsoft unveils new healthcare data and AI tools to help healthcare organizations unlock insights and improve patient and clinician experiences."
+    publishedDateTime: 2023-10-10T17:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/3-health-systems-adopt-new-microsoft-ai-tools.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "Docgility Announces Integration With Microsoft Azure Openai Service To Provide Generative AI Suggestions To Contracts"
+    excerpt: "Microsoft Docgility announces Integration with Microsoft Azure OpenAI Service to Provide Attorneys with Generative AI-Assisted S"
+    publishedDateTime: 2023-10-10T19:36:00Z
+    webUrl: "https://menafn.com/1107220256/Docgility-Announces-Integration-With-Microsoft-Azure-Openai-Service-To-Provide-Generative-AI-Suggestions-To-Contracts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
     publishedDateTime: 2023-10-14T23:01:00Z

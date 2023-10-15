@@ -58,20 +58,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "The Proven Power of Robotics and AI in Logistics"
-    excerpt: "High-performance robots and a blend of unique innovations and sophisticated software are proving to be indispensable in order fulfillment spaces."
-    publishedDateTime: 2023-10-10T16:51:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/proven-power-robotics-ai-logistics"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 69
-    images:
-      - url: "https://www.automation.com/getmedia/333f6225-93bb-4e8e-b129-49f8bde16bc3/robotics-logistics-feature-oct-10-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "AI and Robotics Revolutionizing Recycling"
     excerpt: "The combination of artificial intelligence (AI) and robotics is making the recycling business much more profitable and practical than ever."
     publishedDateTime: 2023-10-12T17:51:00Z

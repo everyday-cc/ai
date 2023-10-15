@@ -54,6 +54,20 @@ related:
       name: The Age
       domain: theage.com.au
     quality: 36
+  - title: "Hurt ripples in wake of Indigenous Voice vote"
+    excerpt: "Some, like opposition leader Peter Dutton, have floated the idea of a second referendum that recognises Indigenous people in the constitution, but doesn't create an advisory body. Others have suggested the government could create the Voice through legislation - but Mr Albanese has ruled that out."
+    publishedDateTime: 2023-10-15T09:21:00Z
+    webUrl: "https://www.aol.com/hurt-ripples-wake-indigenous-voice-062103540.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b255efb383bed8b84910d038d132eb98"
+        width: 976
+        height: 549
+        isCached: true
 
 secured: "7xiZquczDDe0GpyMUSHkn5p7yJznr8LMKw5AeGESYwTNZFiK9nc66Uy1bKtQtMulV7grj/kmeoM4xPhvKcaW+IlHSOZ3L2uVcl/5ubZkqZSstSe0m074vRAs+O6FGjVIg8g9/d3hUAyU/LSdG0xEDqDjD3OP4m0N/Dd9UdE9dZmlhuwRsTA0Qlc8fagTd9imc+ZdUKDqxhY3rbQ+pbTFwIH60ahNvnWrWNZSlWkGmLD8nFAXKbs0RMmuzc73Ax5GXRw4xmsHggis1YcRmBLvP0kSgLElbTnI/nDBWSHAl2lvh4u+eQHZPQzIy4rR8JLI6vHQVzY+1tBoPKdzagzsFqihYAV9l3GMH7ZF3BIQxII=;pUh/7hUVyRFOYNK+2v3Ctw=="
 ---

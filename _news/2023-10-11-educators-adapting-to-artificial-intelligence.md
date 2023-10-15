@@ -24,43 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-10-13T10:48:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
+  - title: "AI Startup Aims to Give Voice Actors a Digital Twin"
+    excerpt: "Morpheme is entering an increasingly crowded market. In 2022, investors poured $378.6 million into voice-related AI startups across 47 deals, according to data from PitchBook. Some are using AI to clone voices, alter voices and generate audio from text."
+    publishedDateTime: 2023-10-14T16:09:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/14/1600x900/Artificial-Intelligence_1696699324463_1697299539048.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "State Artificial Intelligence Task Force Created"
-    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
-    publishedDateTime: 2023-10-11T18:20:00Z
-    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
-    type: article
-    provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 37
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
-        width: 775
-        height: 500
-        isCached: true
-  - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
-    excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
-    publishedDateTime: 2023-10-13T19:16:00Z
-    webUrl: "https://www.laprensalatina.com/u-s-investor-tim-draper-rejects-regulating-artificial-intelligence-for-now/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 15
 
 secured: "nLytVKAWE+S0yDOyjlSnn5iZi61jbpvahPipCVnZcRBttuBTw3ZdWY689ErMFgH3hac92+ZUfKOgg61o5F5lRVgZRCR7DRe130BvAiKDN00/S/kudA+cNdrmWorJkkk/7EF3bbe0xKIKZs0mcfYKrbBFn5HB0JxHBxdZAehp9BzXZ3+6EnMr4/rHyh1ieAA+OCy2P80MtyD3VepBgqovolOEZmPMyzsn4aiFDmC3Ve0KNP3XkoCkWEfRTqZxqUJH3z4nbw5ffvse5RA+aKyDUSMR7xubgWCzc6CKpvOCNYXFSaJKP3Yq72y0ZvUOW2ghgmzueYmXBvUEc9+Vof+9azAeGz+cKobg/3UcEu35Tth+PeG7PKPeCXKAoauMoaMR4I8BLxxnm+PxTHVRIYa7A5TzAdVt7UXWqcMBW3BoAwpNQRldLrW3gi7v9ieYAChf1rS1HqywiNA0e8PuN1uEd9xa+rJ/qg6eGcodpKMyAqNNWlOpdQjnl+TJUVKMMQdWRa/2vbfXwwusSYZXt4sang==;51ZLfSgJT9phvv3tnFa+SA=="
 ---

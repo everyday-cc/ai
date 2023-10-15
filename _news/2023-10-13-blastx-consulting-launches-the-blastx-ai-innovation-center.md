@@ -81,20 +81,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 51
-  - title: "Sunrise and sunset industries in the age of AI"
-    excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
-    publishedDateTime: 2023-10-10T16:50:00Z
-    webUrl: "https://www.manilatimes.net/2023/10/11/tmt-anniversary/sunrise-and-sunset-industries-in-the-age-of-ai/1913954"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/10/09/251404.jpg"
-        width: 1200
-        height: 806
-        isCached: true
   - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
     excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
     publishedDateTime: 2023-10-12T01:36:00Z

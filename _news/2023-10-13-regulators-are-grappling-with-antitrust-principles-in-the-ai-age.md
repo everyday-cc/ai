@@ -40,36 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Adobe Firefly’s generative AI models can now create vector graphics in Illustrator"
-    excerpt: "Illustrator is Adobe's vector graphics tool for graphic artists and it's about to join the generative AI era with the launch of the Firefly Vector Model"
-    publishedDateTime: 2023-10-10T16:00:00Z
-    webUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/"
-    ampWebUrl: "https://techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/10/adobe-brings-its-firefly-generative-ai-models-to-vector-graphics-in-illustrator/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Adobe is upgrading Photoshop’s generative AI model — and releasing more for Illustrator and Express"
-    excerpt: "Adobe is going all in on AI, announcing three new generative AI models today that add powerful features to Illustrator and Adobe Express and vastly improve Photoshop’s text-to-image capabilities. During the company’s Adobe Max even t on Tuesday,"
-    publishedDateTime: 2023-10-10T16:12:00Z
-    webUrl: "https://www.theverge.com/2023/10/10/23911114/adobe-max-firefly-generative-ai-model-photoshop-illustrator-express"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 53
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/juSDWZIdLoDoZd2JCtjzRmsChtw=/0x0:2660x1500/1200x628/filters:focal(1330x750:1331x751)/cdn.vox-cdn.com/uploads/chorus_asset/file/24991431/Adobe_Max.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google now lets you generate AI images by searching – here’s how to do it"
     excerpt: "Google added two new features to its Search Generative Experience today, one of which allows users to create AI images on the fly."
     publishedDateTime: 2023-10-12T22:48:00Z

@@ -77,20 +77,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Sunrise and sunset industries in the age of AI"
-    excerpt: "The age of artificial intelligence (AI) has ushered in an era of profound disruptions across various industries. While some sectors are flourishing and embracing AI as 'sunrise industries,' others face significant challenges and are termed sunset industries."
-    publishedDateTime: 2023-10-10T16:50:00Z
-    webUrl: "https://www.manilatimes.net/2023/10/11/tmt-anniversary/sunrise-and-sunset-industries-in-the-age-of-ai/1913954"
-    type: article
-    provider:
-      name: manilatimes
-      domain: manilatimes.net
-    quality: 39
-    images:
-      - url: "https://www.manilatimes.net/manilatimes/uploads/images/2023/10/09/251404.jpg"
-        width: 1200
-        height: 806
-        isCached: true
   - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
     excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
     publishedDateTime: 2023-10-12T21:00:00Z

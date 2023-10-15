@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel launches Arc A580 GPU at a cheap price - but you'd still be foolish to buy it right now"
-    excerpt: "Mainly because at the time of writing, the Arc A750 has been cut in price so it's only a touch more expensive - and it gives you a bit of extra pep."
-    publishedDateTime: 2023-10-10T15:50:00Z
-    webUrl: "https://www.tweaktown.com/news/93696/intel-launches-arc-a580-gpu-at-cheap-price-but-youd-still-be-foolish-to-buy-it-right-now/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 28
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93696_01_intel-launches-arc-a580-gpu-at-cheap-price-but-youd-still-be-foolish-to-buy-it-right-now_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
 
 secured: "IcOgXiLFkp8CjRViuavwF48MJ8aBbzsM0ofNRh4KbqDSCm3hXOLwUysq76fMJtOtTLmQnEsy00mVp8BtA2cYT7Z/tE7Y+vp/Gs90utqOz2BqgaA64vN8Nns+I7Lfq8tnH3r+9OrBNgGv0MOH0IiIhqSU+NGeG/xPKHGbPSglavsyN+VTdGko3fcen0BiZMJWhkMfl+pci/cSfrtwKdX+4sf/PDOE7LBYqmvqRMQvOm39EnnEVQZviaZSBfNTjwk2p62jHID5Cpw2+iRozo2g8q+z4JbIfwTgfw7927u73ED7PN+R/fm4B35UfUARGu5u1SggdZC3erqDqLfZssRrN+QZTvy+nudhJQEMVxLIKsBa8vzX8YYn8L4cU3KjoE951RpNSlchHGlvqHjRSKYLYNBQyK0X0NH0K0fffZzU5XSbH/FhXOUCMhcNC/OtQsJ55bv/pmXx2lkZnxClnqfKcfBozwc2dXtQMQbVvhHj/iOsdrR9XuVJkHFaATDsT2N19oEfwx1qUOhgQtrjarM9Cg==;+4aPBdSqX5UNClIYabvyLg=="
 ---

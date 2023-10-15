@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-to
 webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,43 +28,75 @@ images:
     isCached: true
 
 related:
-  - title: "Educators Adapting to Artificial Intelligence"
-    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
-    publishedDateTime: 2023-10-11T15:29:00Z
-    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
+  - title: "Europe And Japan Are Leading The Race To Build AI Rules"
+    excerpt: "As the EU builds its case against Musk, the incident raises the issue of the role of Europe in regulating AI and the behaviour of the entrepreneurs leading AI."
+    publishedDateTime: 2023-10-14T15:03:00Z
+    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/"
+    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
     type: article
     provider:
-      name: Erie News Now
-      domain: erienewsnow.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652aacd49cafb2eabf0453e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 420
+        height: 554
+        isCached: true
+  - title: "Entrepreneurship In The AI Era: Spearheading Transformation And The Essential Route To An MVP"
+    excerpt: "For businesses looking to navigate the surging tide of AI, they'll need to map out their journey from the inception of an idea to the creation of an MVP."
+    publishedDateTime: 2023-10-12T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62a396a0ec5f519b6147255f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1339
+        height: 893
+        isCached: true
+  - title: "Europe eyes strict rules for artificial intelligence"
+    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
+    publishedDateTime: 2023-10-11T23:25:00Z
+    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 41
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A European Approach To Artificial Intelligence"
+    excerpt: "RDI Inspector General Angeline van Dijk made the call as she delivered a speech on“A European Approach to Artificial Intelligence,” at the 2023 World Summit AI (WSAI), an annual event launched in 2017 for tech leaders to discuss the latest global AI developments. The theme of this year's WSAI is“AI on the Brink: Shaping the Future of Humanity.”"
+    publishedDateTime: 2023-10-13T08:29:00Z
+    webUrl: "https://menafn.com/1107236341/A-European-Approach-To-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
-        width: 1280
-        height: 720
+      - url: "https://menafn.com/updates/pr/2023-10/13/FG_1b7cfimage_story.jpeg"
+        width: 678
+        height: 381
         isCached: true
-  - title: "State Artificial Intelligence Task Force Created"
-    excerpt: "Gov. Phil Murphy announced the establishment of an Artificial Intelligence Task Force charged with studying emerging artificial intelligence"
-    publishedDateTime: 2023-10-11T18:20:00Z
-    webUrl: "https://njbmagazine.com/njb-news-now/state-artificial-intelligence-task-force-created/"
+  - title: "Tonix Pharmaceuticals Announces Oral Presentation at the World Vaccine Congress Europe"
+    excerpt: "Zembrace SymTouch and Tosymra are registered trademarks of Tonix Medicines. Intravail is a registered trademark of Aegis Therapeutics, LLC, a wholly owned subsidiary of Neurelis, Inc. All other marks are property of their respective owners."
+    publishedDateTime: 2023-10-11T11:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tonix-pharmaceuticals-announces-oral-presentation-at-the-world-vaccine-congress-europe-1032696045"
     type: article
     provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 37
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2023/02/CPA_775x500.jpg"
-        width: 775
-        height: 500
-        isCached: true
-  - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
-    excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
-    publishedDateTime: 2023-10-13T19:16:00Z
-    webUrl: "https://www.laprensalatina.com/u-s-investor-tim-draper-rejects-regulating-artificial-intelligence-for-now/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 15
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 26
 
 secured: "VIIR1VDecngVWZtUaCsLBbEizRDUU5OnZM/u+QlVLhLSwyYtMW9Txg0QvlOExWXgrBjd4wgA0Dq1pyIAxV4kbj11PjaNzGLG0wLG3DWiKHbHo+dn5Qs/EkCVBlbnXU4JGMWXCndJuB3Hh60oFzY2KcPRJJ5GluLSjv4KlKN700TbPC9amdkeWzdXTE1t5xi57sJ0xKHq7Atd3ParE/TD62tPKN/tBIhTLK4x+Cco6P3i2gMAs+j7U3HHsl4Uk8Z3tJsgRsowMG8aNNS2Vz+j2ueexshHpuQttoRrcf8shz06O3eJOdNdCdGD3RG60KfH/HpPx85fIPbPtZgSDzSBE+qYC6LaCIE7Gi4AGdT8et0SPUp0NydL0kEKzLI36qzGD/yoWWxxaPXuna8wMlTC4iMYBqCzFUQvgVHiGrHWqDMD2Euisf3nYnCPm7pwV91k20acre94DEXczJpMe+nJhvZ2Z1QnjeUH8unkS+ixQHg+AW9ek5RSDBGrX0092O+pYN8u6oksMhFKEpDYkEM22g==;w2qt5AvSUJUHMJ5av7VrEg=="
 ---

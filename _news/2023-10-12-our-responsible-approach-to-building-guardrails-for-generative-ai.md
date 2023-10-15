@@ -47,15 +47,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "IBM watsonx Assistant: Driving generative AI innovation with Conversational Search"
-    excerpt: "We can now build compelling conversational experiences, transforming the search bar into a compelling and knowledgeable AI assistant.\nThe post IBM watsonx Assistant: Driving generative AI innovation with Conversational Search appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-10T15:18:39Z
-    webUrl: "https://www.ibm.com/blog/ibm-watsonx-assistant-driving-generative-ai-innovation-with-conversational-search/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 108
   - title: "How Adobe is leveraging generative AI in customer experience upgrades"
     excerpt: "They start to build a map of your brand's benefit to their lives ... Also: Adobe Generative Expand adds to Photoshop's AI arsenal Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual ..."
     publishedDateTime: 2023-10-12T15:17:00Z
@@ -181,22 +172,6 @@ related:
     quality: 85
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-search-labs-SGE-1.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Adobe unveils three new generative AI models, including the next generation of Firefly"
-    excerpt: "On Tuesday, Adobe kicked off its annual Adobe MAX Creativity Conference by announcing its latest innovations, which included three new generative AI models: Firefly Image 2 Model, Firefly Vector Model, and Firefly Design Model. Also: Open source isn't ready for generative AI. How stakeholders are changing this light bulb together"
-    publishedDateTime: 2023-10-10T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobe-unveils-three-new-generative-ai-models-including-the-next-generation-of-its-firefly-text-to-image-generator/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/fe2a0f5a77a3e0c533d1125f7616a6e7207daab5/2023/10/09/00d83395-45f0-4272-966b-fabc49c199e8/d78c1416-e941-4d8b-b680-82f990e651de.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true

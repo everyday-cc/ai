@@ -51,6 +51,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "3 health systems adopt new Microsoft AI tools"
+    excerpt: "Microsoft unveils new healthcare data and AI tools to help healthcare organizations unlock insights and improve patient and clinician experiences."
+    publishedDateTime: 2023-10-10T17:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/3-health-systems-adopt-new-microsoft-ai-tools.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
+  - title: "Docgility Announces Integration With Microsoft Azure Openai Service To Provide Generative AI Suggestions To Contracts"
+    excerpt: "Microsoft Docgility announces Integration with Microsoft Azure OpenAI Service to Provide Attorneys with Generative AI-Assisted S"
+    publishedDateTime: 2023-10-10T19:36:00Z
+    webUrl: "https://menafn.com/1107220256/Docgility-Announces-Integration-With-Microsoft-Azure-Openai-Service-To-Provide-Generative-AI-Suggestions-To-Contracts"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 26
 
 secured: "/gDDz7/LNHHjQYA5IGrUIyrF1mPj9v8bG0gq6Ae1XstvI41S95+9aVTaDzwLPf8ctts6cJ3y4kC6ws3jkTttuC2hhlixV3O+mEZ7BGZg0kPigTNpCOc655uLKh1jSjPyPWOfLDO+PLIunNTciQFyRTiLTDFS7gBpWEpcu9YUaB8qPFEHWGy+IaJluSRVO1f2IUWSwmN4T7ZusVdP7BPF1CHR+JXflIwFrZ5/ZaEke2R/3QQkj3riruNVdgGAt5yYjbnTbuJRxxs1FUenhZkLmW3SjPu1rTKTCAzkSUZlGEVDdTUh+2CD8GdKuYmCxCWQjUGavVBK8c5InEzo/mvTSGdO5INOHCq1VHcv5zoOveA=;X2LmKLHJuhUx9K2ZKCMLmw=="
 ---

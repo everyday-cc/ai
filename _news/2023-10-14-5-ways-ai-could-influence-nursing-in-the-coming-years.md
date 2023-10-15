@@ -9,8 +9,8 @@ ampWebUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-th
 cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: WGNO
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 AI Stocks to Watch for Big Gains in the Next Five Years"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Picking AI stocks that can make big gains in the next five years can seem like"
-    publishedDateTime: 2023-10-10T15:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-watch-for-big-gains-in-the-next-five-years-1032693285"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "The AI revolution is coming. Invest in $10,000 handbags"
     excerpt: "Analysis shows LVMH, Dior, Hermès and Gucci owner Kering have consistently outperformed Amazon, Google and Apple"
     publishedDateTime: 2023-10-11T10:18:00Z

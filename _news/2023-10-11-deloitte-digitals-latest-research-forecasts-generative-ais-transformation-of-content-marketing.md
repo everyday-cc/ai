@@ -24,20 +24,6 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Deloitte: Many Organizations Don’t Know If They Have Ethical Standards for Using Generative AI"
-    excerpt: "According to this 2023 State of Ethics and Trust in Technology report, 57% of respondents think cognitive technologies are most likely to pose a serious ethical risk."
-    publishedDateTime: 2023-10-10T16:28:00Z
-    webUrl: "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 76
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2020/10/artificial-intelligence-cheat-sheet.jpeg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "How creative marketing giant WPP is preparing for generative AI"
     excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
     publishedDateTime: 2023-10-13T10:56:00Z
@@ -54,15 +40,34 @@ related:
         width: 2062
         height: 1366
         isCached: true
-  - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
-    excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
-    publishedDateTime: 2023-10-10T18:00:00Z
-    webUrl: "https://www.datanami.com/this-just-in/new-deloitte-report-emphasizes-the-gap-between-generative-ai-adoption-and-ethical-awareness-among-organizations/"
+  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
+    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
+    publishedDateTime: 2023-10-11T17:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 14
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "SiFive launches RISC-V HPC solutions for Generative AI and deep learning"
+    excerpt: "SiFive, Inc., a pioneering force in RISC-V computing, has unveiled a pair of groundbreaking products to cater to the ever-growing demands of high-performance computing. The new SiFive PerformanceTM P870 and SiFive IntelligenceTM X390 are poised to revolutionize low-power,"
+    publishedDateTime: 2023-10-12T02:22:00Z
+    webUrl: "https://www.digitimes.com/news/a20231011PR201/sifive-hpc-chip-risc-v.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 53
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231011pr201_files/6_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "2vy3hk6COpOhlmMhoAzNXwuJP61Fg4Cdjat3JsUAv8kvaYMo5nFz+e8+4/OkqX6v0mN1WomgQvTvtc1OGyCxOcEREkEqkltm2VY+Dr/LLKb1uDHHVDxK8eR03GeB8c/pbB4VADzBKr1c/Ks7xpgow7Lk4/V1HCHFIbkRpMhkONlS0D/+dtBz6sVvi3xhLfKDX8zXMAlBhfB499eEayqLUzpKF4lIeiixnB6T/d9u0JyI7fy+GmX7t7JC82xE/hb9PyfY/SDoIJzm51JvvX6IhiE0lHTCjomkD3L2FllXhby9xWNZiptMaB4yfgnVm/0G8fF6B5UN97ScJLu4rKvui78tP2mXyJU8R6kNwHxW4bC6L8NLOBqlFQFIX/I7UnWfucmfK2fUUeKgj04rGXCp649voLKahqoOSsZfaxXDPB+bq8bKH23azvJZjod2rPDcigwgE6v1vjGcgMK6rsSL/vYqAYCKw31RB/Gz9rdIf47Ew6WoVfCA6SC1G2AW0cA5hU4YQrFUbolpWaY+VQN36Q==;8NgJwEe+LWtiaLbTpdGgWw=="
 ---

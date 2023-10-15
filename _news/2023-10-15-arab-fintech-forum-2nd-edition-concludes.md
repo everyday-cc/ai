@@ -1,25 +1,25 @@
 ---
 category: news
-title: "Arab Fintech Forum 2nd edition concludes"
-excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two day summit, offering a deep dive into the future of"
-publishedDateTime: 2023-10-15T07:05:00Z
-originalUrl: "https://thepeninsulaqatar.com/article/15/10/2023/arab-fintech-forum-2nd-edition-concludes"
-webUrl: "https://thepeninsulaqatar.com/article/15/10/2023/arab-fintech-forum-2nd-edition-concludes"
+title: "Arab Fintech Forum 2Nd Edition Concludes"
+excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two-day summit, offering a deep d"
+publishedDateTime: 2023-10-15T09:27:00Z
+originalUrl: "https://menafn.com/1107242133/Arab-Fintech-Forum-2Nd-Edition-Concludes"
+webUrl: "https://menafn.com/1107242133/Arab-Fintech-Forum-2Nd-Edition-Concludes"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Peninsula
-  domain: thepeninsulaqatar.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://thepeninsulaqatar.com/get/maximage/20231015_1697353617-928.jpeg?1697353618"
+  - url: "https://menafn.com/updates/pr/2023-10/15/TP_e45b5image_story.jpg"
     width: 1200
     height: 832
     isCached: true
@@ -95,6 +95,6 @@ related:
         height: 567
         isCached: true
 
-secured: "XaqQ30FO2BSqa6MVXkCgxGJJ4vSEnCNgAyoCdwb/Q17NIaIteGyRYx5RVMDDT2WrXRacCHvictSh4/cmd+p1Kqia+m1V/9eu14PlIU8I40xsETkLjG9Ix7RonQFs1fr95KEuBPrG5cOvgjZj2rNCyePGbdVp0uM1nx2BHfHUcaTfqia0q3BL0NRSiJBJ/xWI0Wg91DllQvhAWlqyxuxImZM9QcBj6NrDgW745dJAQjbElH2OeqifZQIECiYrfgjZhnTf2nqhHImrJvv2740yZk5Q9IswOJuPdfLdjj9/rCdBX8BtrNd0SAHjAbueMmw1EQ5dDZZbYWxOkICjXh1A1DR2G+LgxDztRyAu7AijedY=;5bO3o0xLUqCOzPQ78bBwXQ=="
+secured: "dM0lvv18KYXc2R/wbsv7ZESJx+Sm3tI1fg/iQ53oH/CeY/hcO7QPSI4mHYPkW6ddLzjptJpXkTZE6jl/8AC7jEYwIAGCTi5WhnwJDvk+xUgUMwXk8wRrQX4u/8HK9lu+H68eagh5FBuyzhhIVHsK2OvWB4WXHQrVy+DPKn2pxmvbgh4kXKTs6caRzsulGv60T/5k0qSJzMqReBhvBdSDskl5nYmagZZGIanmo3P8H2nbbLY+U9kK8+I2nwlEvPUop30BQMv5S9kZa3SwEB6XO1ZfYaCMOrVrs9qTKbETUAMcoEZmhseYbo+hXj1SDB0o1npDfR98S0RX7MADZZE9ofb/WSSFyLuqwpj29HmoGA8=;5xMZOw8Sfrc/1RYDcytySw=="
 ---
 

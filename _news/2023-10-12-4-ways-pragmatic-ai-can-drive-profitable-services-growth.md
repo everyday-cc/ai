@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/4-ways-pragmatic-ai-can-drive-pro
 webUrl: "https://venturebeat.com/business/4-ways-pragmatic-ai-can-drive-profitable-services-growth/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "So far, AI hasn’t been profitable for Big Tech"
-    excerpt: "Big tech companies like Microsoft and Google are grappling with the challenge of turning AI products like ChatGPT into a profitable enterprise, reports The Wall Street Journal. While companies are heavily investing in AI tech that can generate business memos or code,"
-    publishedDateTime: 2023-10-10T16:28:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 89
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_chips_money-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "EdgZm6ByOs8egf8Tj1T687mpPuGoQtUWHKxNIUHWzc0bFcP6ydef/sgMn/9lqxvVtW4/mGoBCQrpc78WWYBX2WdBKYJtHYeeSfSseexPWAchsTp+IW3mqgH9LV2CKfVDM3xRcwZRnG7SxZ26iBe6AR5KfCnpVY6Q58FUof8C9XL/lQIjzo1SKzpvk7gNYMl4Cbi5BdFQQzOVsSLYV80d6HMnoyHaxacLtcdUjxNPovctMyrlaUaKnUYm6FQgxmteElWF+vhnclmnFFWDr9/jAI+MvfsA7NEjo4lYDrrL3yFHCHW/wxD2EXXjQYAAk5/e81DRX57ETZ3fORtsmjHmTHNY5Jv1UEDZ9WfeDnTH0WXMx8DzjptawRWdKcblOYH3phjScrCi/581kTnK0X7W2T0oPyhfipdeDOLxr9TGJC61toXc/bOU4nnXVs+mGahm+l4bSoylGaq5zGfSATZruboLluIYxfK1RE085zKEEqjRzAkSlxWJt+lnF8dE/M9oBDAbS6l9iBlx3rxN6cSFBA==;U6Ufaho4pgusrBbTIVXC9w=="
 ---

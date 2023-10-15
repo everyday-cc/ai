@@ -24,54 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Microsoft Targets Healthcare with New Cloud-Based Data & AI Solutions"
-    excerpt: "Microsoft introduces cloud-based health care analytics platform, healthcare-focused AI models, and AI-driven tools to simplify the clinician experience."
-    publishedDateTime: 2023-10-10T16:28:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/10/microsoft-targets-healthcare-with-new-cloud-based-data--ai-solutions/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65257b0646d71b3ec7eeeaa0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1352
-        height: 900
-        isCached: true
-  - title: "Microsoft Launches New AI Solutions To Help Unlock The Power Of Healthcare Data"
-    excerpt: "Earlier this year, the company announced Microsoft Fabric, “an end-to-end, unified analytics platform” which integrates multiple technologies (e.g., Azure Data Factory, Power BI) to enable organizations to unlock the potential of their data."
-    publishedDateTime: 2023-10-10T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2023/10/10/microsoft-launches-new-ai-solutions-to-help-unlock-the-power-of-healthcare-data/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2023/10/10/microsoft-launches-new-ai-solutions-to-help-unlock-the-power-of-healthcare-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2023/10/10/microsoft-launches-new-ai-solutions-to-help-unlock-the-power-of-healthcare-data/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 117
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fa74183c7cb8abdab3af/0x0.jpg?format=jpg&crop=2824,1992,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1276
-        height: 900
-        isCached: true
-  - title: "Microsoft Introduces Generative AI Tools To Boost Creativity"
-    excerpt: "VP and Principal Analyst, Modern Work and financial services, Melody Brue, looks at some of the creative elements that Microsoft debuted at Microsoft's September event."
-    publishedDateTime: 2023-10-10T16:14:00Z
-    webUrl: "https://www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/"
-    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/10/10/microsoft-introduces-generative-ai-tools-to-boost-creativity/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652577426e83e29fecffd856/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 480
-        height: 320
-        isCached: true
   - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
     excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
     publishedDateTime: 2023-10-11T09:10:00Z
@@ -102,15 +54,6 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "Microsoft empowers health organizations with generative AI and actionable data insights"
-    excerpt: "We’re making several exciting announcements about new capabilities in Microsoft Cloud for Healthcare that will be introduced across Azure to help health organizations improve patient experience, gain new insights with machine learning and AI, and handle health information securely.\nThe post Microsoft"
-    publishedDateTime: 2023-10-10T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/microsoft-empowers-health-organizations-with-generative-ai-and-actionable-data-insights/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 76
   - title: "Microsoft announces new AI chatbot, features for doctors, pathologists"
     excerpt: "Microsoft has unveiled new healthcare tools in Azure AI, including a generative AI chatbot, Text Analytics for health, and three new models within Azu"
     publishedDateTime: 2023-10-11T06:10:00Z
@@ -164,20 +107,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft unveils new generative AI products for health systems"
-    excerpt: "The launches tie in with Microsoft’s ethos of developing high-impact but low-risk use cases for AI in healthcare, according to Microsoft’s VP of healthcare."
-    publishedDateTime: 2023-10-10T16:47:00Z
-    webUrl: "https://www.healthcaredive.com/news/microsoft-generative-ai-healthcare-hlth-launch/695930/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/imgproxy/mswlRq327pxjnvWL1K8wl1y84vfbQrgjFoMsnTaAiyw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL01pY3Jvc28uanBn.jpg"
-        width: 770
-        height: 435
-        isCached: true
   - title: "Microsoft will pay you up to $15,000 to bait AI-powered Bing"
     excerpt: "Microsoft cordially invites you to have a crack at tipping its new AI-powered Bing search tools into existential meltdown. And it will pay you up to $15,000 for your trouble. Well, it will if you manage to bait AI Bing in just the right way."
     publishedDateTime: 2023-10-13T10:47:00Z
@@ -215,24 +144,24 @@ related:
         width: 1091
         height: 618
         isCached: true
-  - title: "3 health systems adopt new Microsoft AI tools"
-    excerpt: "Microsoft unveils new healthcare data and AI tools to help healthcare organizations unlock insights and improve patient and clinician experiences."
-    publishedDateTime: 2023-10-10T17:27:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/3-health-systems-adopt-new-microsoft-ai-tools.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-  - title: "Docgility Announces Integration With Microsoft Azure Openai Service To Provide Generative AI Suggestions To Contracts"
-    excerpt: "Microsoft Docgility announces Integration with Microsoft Azure OpenAI Service to Provide Attorneys with Generative AI-Assisted S"
-    publishedDateTime: 2023-10-10T19:36:00Z
-    webUrl: "https://menafn.com/1107220256/Docgility-Announces-Integration-With-Microsoft-Azure-Openai-Service-To-Provide-Generative-AI-Suggestions-To-Contracts"
+  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
+    excerpt: "“Bringing our latest platform technologies to Microsoft Azure enables more customers and teams within organizations to harness our industry-leading AI, analytics, and automation capabilities to modernize cloud operations, expedite releases of high ..."
+    publishedDateTime: 2023-10-12T13:09:00Z
+    webUrl: "https://menafn.com/1107232134/Latest-Dynatrace-Platform-Innovations-Available-to-Customers-on-Microsoft-Azure"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 26
+    quality: 45
+  - title: "Omega Healthcare Launches Technology-Enabled Solutions to Improve Revenue Cycle Outcomes as Healthcare Organizations Face Mounting Financial Pressures"
+    excerpt: "Boca Raton (Florida) [US], October 10: Omega Healthcare announced today the launch of its Omega Digital Platform (ODP), designed to help healthcare organizations reduce administrative burdens while improving financial performance."
+    publishedDateTime: 2023-10-10T17:44:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20231010/4127631.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "Fc8QkOJtoJFR91A7zEjiIu8lPYipFUxFXcltl9OH8fPIiLbDtwjdAZlADqQmJJDz52TU6zyrK8MYJ+aKu9Aju+q/AXKjCmmNtEGFmytxJApxVkETqw1QakYOpIetU5homHSqKCji/p2A6Bw+SdtTokzNB+fmArFDpRd4h1VZxk5ACTbq9aEvb38o24Y00DY7L1mNEwrjRC7A6PykH+5WWIV+8tpa42+QktbwWde3Lwy/YS8UOVTurIbDp8XAT34cjhp2BmvTQ5pYhC9BZubECqeo7OpD2RD2emKHAZXMmjdO8/eldWpthbIfDtwWQVQ4wSKJplLqJej/p0BOLtNhB+X2/JwxKl2ZREfcgR3ZSa6NNi/jWc8jFxcCQOPRYuhTir6KAi8czNkxaL75Ump9I2wZSIKDhPteX5NwdK6oT3Uexrh1bd57Ms6ag1enur2Rd1vUilxtuh6X/BJaLSn9lPzpqzGKnlxpSwf7N3VKPNV2Fp4qcBWRBTfvL6WyJYTDlAE7RA6pXj1A3WDAJR9o9Q==;RrHccExMd35ck2g0K95ySQ=="
 ---

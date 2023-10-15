@@ -85,20 +85,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AMD Makes Second AI Software Acquisition In Less Than Two Months"
-    excerpt: "AMD revealed it has acquired Nod.ai to boost its open AI software capabilities, making it the company's second AI software acquisition in less than two months."
-    publishedDateTime: 2023-10-10T15:20:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/amd-makes-second-ai-software-acquisition-in-less-than-two-months"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/027e-1746893681da-1a8cfce8ad03-1000/amd-sign.jpeg"
-        width: 609
-        height: 458
-        isCached: true
   - title: "AMD to acquire AI software company Nod.ai to take on Nvidia"
     excerpt: "Nod.ai delivers optimised AI solutions to top hyperscalers, enterprises and startups, and AMD has been striving to increase its market share against GPU giant Nvidia."
     publishedDateTime: 2023-10-11T05:06:00Z
@@ -126,20 +112,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/10/what-is-crypto-malware-1.jpg"
         width: 1940
         height: 1282
-        isCached: true
-  - title: "AMD is buying an AI software startup Nod.AI"
-    excerpt: "AMD did not reveal what it's spending on buying Nod.AI or Nod Labs. Nod.AI will help expand the multinational's footprint in AI software."
-    publishedDateTime: 2023-10-10T17:02:00Z
-    webUrl: "https://invezz.com/news/2023/10/10/amd-is-buying-ai-software-startup-nod-ai/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 37
-    images:
-      - url: "https://invezz.com/wp-content/uploads/2023/01/vladimir-malyutin-sw8-yizppms-unsplash-1024x645.jpg"
-        width: 1024
-        height: 645
         isCached: true
   - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
     excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"

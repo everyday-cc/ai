@@ -9,7 +9,7 @@ ampWebUrl: "https://propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally
 cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2023/10/11/intel-arc-a580-gaming-gpu-finally-launched-for-only-179/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
     quality: 36
     images:
       - url: "https://static.tweaktown.com/news/9/3/93725_02_intel-arc-a580-launches-new-budget-gpu-with-an-affordable-179-price-point_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "Intel launches Arc A580 GPU at a cheap price - but you'd still be foolish to buy it right now"
-    excerpt: "Mainly because at the time of writing, the Arc A750 has been cut in price so it's only a touch more expensive - and it gives you a bit of extra pep."
-    publishedDateTime: 2023-10-10T15:50:00Z
-    webUrl: "https://www.tweaktown.com/news/93696/intel-launches-arc-a580-gpu-at-cheap-price-but-youd-still-be-foolish-to-buy-it-right-now/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 28
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93696_01_intel-launches-arc-a580-gpu-at-cheap-price-but-youd-still-be-foolish-to-buy-it-right-now_full.jpg"
         width: 1500
         height: 843
         isCached: true
