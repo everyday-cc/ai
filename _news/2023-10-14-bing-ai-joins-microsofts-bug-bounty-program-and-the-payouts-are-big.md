@@ -61,15 +61,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft's AI Alignment Boosts Investor Confidence According to Morgan Stanley"
-    excerpt: "Weiss highlights that the MS 3Q23 CIO survey suggests stabilization in IT spending growth in the near term, with expectations for 2023 holding at +2.7% YoY sequentially and early reads offering modest acceleration in 2024 at +3.4% (+64 bps YoY)."
-    publishedDateTime: 2023-10-10T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-alignment-boosts-investor-confidence-according-to-morgan-stanley-1032693688"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
   - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
     excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
     publishedDateTime: 2023-10-11T16:29:00Z
@@ -153,15 +144,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-  - title: "Omega Healthcare Launches Technology-Enabled Solutions to Improve Revenue Cycle Outcomes as Healthcare Organizations Face Mounting Financial Pressures"
-    excerpt: "Boca Raton (Florida) [US], October 10: Omega Healthcare announced today the launch of its Omega Digital Platform (ODP), designed to help healthcare organizations reduce administrative burdens while improving financial performance."
-    publishedDateTime: 2023-10-10T17:44:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20231010/4127631.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "qy+4V4pa1FArMx364RHXP48nMiAKT21F/p7GjYi7sbBljceze9Rjp7kh8Sc5Tk6wWn2O912z5mNY0tBMAmNy3umVBMw6HEZ1zXjYRK5//torzk8JjWStOl22PSgIL6tZw4Y8nSFQVjr/Gyhd0tJKh1sC9xYuId3BgDjuj2H8LARzQXxhhOP6WtArGhM01B0cu/erXh/B+FIalnfxTPo2MgTY6iPENChp0B+Smf7rLIgUMnqM0OsnjlKzwQ3hcRR4cE0NmRCkmchTCvyo+8+kkgbbyjf26IQTk50TUu2Tx8U/KCGEQ6WNl2q4jdddEb95xbXv4LBccTKGbCaM9PT7tRr3sIfEBbVhEetUmAoERvk=;IAkLUT9itkLQfzIxbkok0Q=="
 ---

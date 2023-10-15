@@ -68,15 +68,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "New Google AI initiatives will forecast floods, shorten your time at red lights, and more"
-    excerpt: "Since 2018, Google has been using an AI-powered flood forecasting tool to predict local flooding. The tool processes publicly available data and sends out warnings to local governments and aid organizations up to seven days before a flooding event occurs."
-    publishedDateTime: 2023-10-10T18:13:00Z
-    webUrl: "https://www.zdnet.com/article/new-google-ai-initiatives-will-forecast-floods-shorten-your-time-at-red-lights-and-more/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 38
 
 secured: "Uo4w0Q3tS0QVqK4M4n9SzvCJnCn11BL54UZ2Rv5LaSe8CLfdO96Qu9hQGlIDiDMLC1cEzI/NGDhK4RE31NgIf2ISwd2/NloGw8Pby9SLwCS/WiBjOkrHVc2wVSknW5rjWPTZzVgbzF4wpXKlGyPqEZbpZYsnC9wnTvfRRBF9g3HcBMJehbW5rTErAkH634+LX8t91fvwZqOBLGJK8I910v+G3A7sAa5puUQMs/bPiQ9WxR/7x2bKw3jW+F17tMJTc73WjkOr3Mhp6kHN1lh/9Jwha9L/tK3NQjJf7WffKUglmbAekp53HhYantwPe2xP4mUPUMcb9Y5Ub1ZoDjSJ4qsZBkWKgwk79JVKQWqgpsY=;cEBChTMrcJku9blgzjuuaQ=="
 ---

@@ -46,22 +46,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Adobe’s All In On AI: Debuts New Firefly AI Models For Creatives"
-    excerpt: "The centerpiece is Adobe’s release of three new AI models under its Firefly generative AI brand - Firefly Image 2, Firefly Vector and Firefly Design."
-    publishedDateTime: 2023-10-10T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fe4913877b0bbf06f748/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1453
-        height: 900
-        isCached: true
   - title: "Techno-plasticity in the Age of Artificial Intelligence"
     excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
     publishedDateTime: 2023-10-14T18:10:00Z

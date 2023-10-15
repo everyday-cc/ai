@@ -46,15 +46,6 @@ related:
         width: 2062
         height: 1366
         isCached: true
-  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
-    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
-    publishedDateTime: 2023-10-10T17:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "SiFive launches RISC-V HPC solutions for Generative AI and deep learning"
     excerpt: "SiFive, Inc., a pioneering force in RISC-V computing, has unveiled a pair of groundbreaking products to cater to the ever-growing demands of high-performance computing. The new SiFive PerformanceTM P870 and SiFive IntelligenceTM X390 are poised to revolutionize low-power,"
     publishedDateTime: 2023-10-12T02:22:00Z

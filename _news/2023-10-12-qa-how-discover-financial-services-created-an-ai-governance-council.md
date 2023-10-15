@@ -55,15 +55,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "New Google AI initiatives will forecast floods, shorten your time at red lights, and more"
-    excerpt: "Since 2018, Google has been using an AI-powered flood forecasting tool to predict local flooding. The tool processes publicly available data and sends out warnings to local governments and aid organizations up to seven days before a flooding event occurs."
-    publishedDateTime: 2023-10-10T18:13:00Z
-    webUrl: "https://www.zdnet.com/article/new-google-ai-initiatives-will-forecast-floods-shorten-your-time-at-red-lights-and-more/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 38
   - title: "The impact of generative AI on the AV industry"
     excerpt: "Electrical also has a chronic shortage of skilled workers. This is where the employment picture becomes more nuanced and less gloomy. Electrical contractors and design firms are using generative AI not because they want to reduce staff but rather because they can’t find enough qualified people in the first place. Sound familiar?"
     publishedDateTime: 2023-10-11T09:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-count
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "AI May Soon Gobble Up as Much Power as Sweden Each Year"
-    excerpt: "By 2027, he says, AI power consumption will increase by as much as 134 TWh, meaning these systems will be consuming as much energy as countries like Argentina, the Netherlands, and Sweden each year."
-    publishedDateTime: 2023-10-10T18:16:00Z
-    webUrl: "https://www.thedailybeast.com/ai-may-soon-gobble-up-as-much-power-as-sweden-each-year"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
 
 secured: "EMim6GzP4oOLShTfNU9bCHw2BUCZoVFDmQ2ljqcnzx9mZE9dtpX0ZUbY5PhMMWMEjoPBUrZxxD6KcNmICvyB53Aq6JCu4gHNj9du0OlAyz02V5VX23izXznakwC9RO37MeqgiyQ/CPEdq85TYgWQk3LuCJZqjmRa0pqX1feTplwtYXYnY9NBrePCRFxMEAfCgkla0zbusoYu+o3cUCxS3UEcxWI6WJHVWLYpM2iT4sPPFgSk139Ge1PWivSnAgDkD7K1RgEY8eyc/lhHruAjn8bdZdTip7RUyANAdb7TdaTFpy3xpmfPyoAyS2ss63pgMd71OMzZWK7lJNlSYBH1I5h+T2uHDkAqYVwoA3wAkeAQWyO3H/3EOZFCwzBpAsCfstO7UapjHj7mHbJiDZyka+8Z1y/NRgnRXRT2BsapxxoHNXegYyLFV8gzxtJCVRWePmFSxhTjnq3ore/0CIhiWHt5cFVsTHJex9emkIS8ol2yD1X0lw/t11kXJ03xDqxxlIwVVwU7sxixP9u6nYBWOw==;ZZiN2mWt8bQYkuKy7OHkjA=="
 ---

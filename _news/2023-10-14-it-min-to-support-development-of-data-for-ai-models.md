@@ -104,15 +104,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "AMD acquires open-source AI software developer Nod.ai"
-    excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
-    publishedDateTime: 2023-10-10T18:19:00Z
-    webUrl: "https://siliconangle.com/2023/10/10/amd-acquires-open-source-ai-software-developer-nod-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "bRkD7UPwCvn8+PCvuJVqu2IQ7dHYoFlREFGwueAP1iGaHCim2k4Nwn3hQcV12ItHuRaaTd7GpmQtPMR1SUttqvPPoE/vHtt2lMf0OuOU8pyrtVi2OF8jYcnTR5MCRvKF/bYeJpxLzfo7zGkFzfaJkWG0VSET6Yuhvzkpb7VXXF2USvj26PrFWqjJC8WfJP6++9mjuwqhTDZ5qpklYxTuxVM8bHk65bcl6Kw09xBSlAo1IPQXNLiqmekM/a4xEzg9mg+83mExYbdpZJfngG2BX94U9t/fPZURfvjn/5oq4AxAn7pzCWviAqRsSM/XTx392HD/JdVUVjY5HSZE6sUoQPPPTHyK7ZUVVRnKlT9BIGSlXtf3EP1JP3HwwevbxGTnxZKtQnmOW6YqzMRNszDs4RcwHwIMJaZd5rfIG+kvaaX64uH/swGvXZ4UqAelpzlZ86T2ouYn1edPYkfwcxlKWuiDfs4gO6OAET/d/ynfx8MXcrf5zt5hM70uzcVes5UyjnqlvgMer1STqgHeSz0o3Q==;EjLnaO/Nsr8ZdxM6yIV53A=="
 ---

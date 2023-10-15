@@ -37,15 +37,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "AvePoint Launches AI-Powered Information Lifecycle Solution"
-    excerpt: "It's a cloud-based solution that helps organizations manage their information lifecycle, from creation and classification to retention and disposal, with advanced AI and automation."
-    publishedDateTime: 2023-10-10T18:36:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/10/10/avepoint-opus.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 19
 
 secured: "EZDJi1XWbndP0pxYxN3xvG9duN6DU462EeaHgQGODkoXiorhJ8IHiWFcZXeX2jgaJZlXajcQKqahXoe6LfrPT22YIQLxRHpeauki17W/tXE6I8UNWnOFxsae82UyW4GDMD7C4y8uIOr+JgF4No1/zJd6j5O9tA1i3dqvYES7w9zi/bw+Xf4l4oIEztyUsDs3LQW57CjHXWmdNcbE3gGCXhJvIQWSIKwby8KbQ3MBG1OeRlcIfY8Kt2I2lseYHvnUAgEt/HV0P6GM896uapNbONyTiX0FE9SMvPRBh8xSMjEC28YUoS/Kl5YosQi8nD51Prpd0i1EhkPUAfV1byjUiEIemFNEnzEQ6AVIXTW8lgc=;SBmI7x0poRBI01wV3apJRg=="
 ---

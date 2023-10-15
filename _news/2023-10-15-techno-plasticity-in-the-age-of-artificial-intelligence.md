@@ -44,22 +44,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Adobe’s All In On AI: Debuts New Firefly AI Models For Creatives"
-    excerpt: "The centerpiece is Adobe’s release of three new AI models under its Firefly generative AI brand - Firefly Image 2, Firefly Vector and Firefly Design."
-    publishedDateTime: 2023-10-10T17:12:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/10/10/adobes-all-in-on-ai-debuts-new-firefly-ai-models-for-creatives/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6524fe4913877b0bbf06f748/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1453
-        height: 900
-        isCached: true
   - title: "Why Medium is opting out of AI"
     excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
     publishedDateTime: 2023-10-11T14:05:00Z

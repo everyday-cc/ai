@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart"
-    excerpt: "Today, we’re excited to announce that the OpenAI Whisper foundation model is available for customers using&nbsp;Amazon SageMaker JumpStart. Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680 thousand hours of labelled data, Whisper models demonstrate"
-    publishedDateTime: 2023-10-10T17:09:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 111
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/ML-15311-image001-1225x630.jpg"
-        width: 1225
-        height: 630
-        isCached: true
-  - title: "New – No-code generative AI capabilities now available in Amazon SageMaker Canvas"
-    excerpt: "Launched in 2021, Amazon SageMaker Canvas is a visual, point-and-click service that allows business analysts and citizen data scientists to use ready-to-use machine learning (ML) models and build custom ML models to generate accurate predictions without the need to write any code. Ready-to-use models"
-    publishedDateTime: 2023-10-10T17:20:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-no-code-generative-ai-capabilities-now-available-in-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/l-ml-15314-image001-881x630.png"
-        width: 881
-        height: 630
-        isCached: true
-  - title: "Improve performance of Falcon models with Amazon SageMaker"
-    excerpt: "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements"
-    publishedDateTime: 2023-10-11T16:28:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg"
-        width: 1257
-        height: 630
-        isCached: true
   - title: "Achronix Announces FPGA-Powered Automatic Speech Recognition Solution"
     excerpt: "Achronix Semiconductor Corporation, maker of FPGAs and embedded FPGA (eFPGA) IP, announcedin partnership with Myrtle.ai an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA."
     publishedDateTime: 2023-10-11T18:49:00Z
@@ -81,6 +39,15 @@ related:
         width: 669
         height: 334
         isCached: true
+  - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
+    excerpt: "Join us on October 24 th at 8:30am PST for a LinkedIn Live webinar, moderated by EE Times' Sr. Reporter, Sally Ward-Foxton, that unveils the power of Achronix FP"
+    publishedDateTime: 2023-10-11T16:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "LsQ/X+Sxp/tHIC1q786HFbBHxJ+bxvF+86/StYqoubhbf+EnVNuD2CTIyJflbfBanpcbxX8TwJGdu581wU9IRtANQVgrqbtMGdVWKhzENa3au0ALcOzA541QaXtL5+EVBIUv0Xd0cDpNAeVWMGzYayAU/wLkzXJp6byjcfT+sdXYPpyFsE+ho5SDTNoomrQN563BST+0CXW23sNzB6O97cYtPBRhhV5dgafummJiMocoztLtO20MJxNYHEP7sChX5v4tn/0TdRLM6GHgK4tvQDPZxDKcEGIfMIxNdr2XkkvLaEMnxX1Do6PG/CZUJ6+DbaJ+KN3FdKMdln6Nqz2hy7pC7n9iE6F83m3dfqpO5Rpq3RZ5y/JTvr5mZDPMdkiJ8QpZYbxjFObdOQsytyNpP3EgfHUTzJhnUgxYqNTlbLYaIe19o92qAkDUIzzikPhtrzbA41nS68orEIgJL4K1TJjmMYcYEWNiowpwKBz2rxttGZdCNRb47VsZaZamEuiOVSWb80YdnTo0Y7YJZaiTlw==;rmfN2AQ898uomVaI9xRXnQ=="
 ---

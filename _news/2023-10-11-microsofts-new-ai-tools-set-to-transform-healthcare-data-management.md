@@ -66,15 +66,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft's AI Alignment Boosts Investor Confidence According to Morgan Stanley"
-    excerpt: "Weiss highlights that the MS 3Q23 CIO survey suggests stabilization in IT spending growth in the near term, with expectations for 2023 holding at +2.7% YoY sequentially and early reads offering modest acceleration in 2024 at +3.4% (+64 bps YoY)."
-    publishedDateTime: 2023-10-10T18:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-ai-alignment-boosts-investor-confidence-according-to-morgan-stanley-1032693688"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
   - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
     excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
     publishedDateTime: 2023-10-11T16:29:00Z
@@ -149,15 +140,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 16
-  - title: "Omega Healthcare Launches Technology-Enabled Solutions to Improve Revenue Cycle Outcomes as Healthcare Organizations Face Mounting Financial Pressures"
-    excerpt: "Boca Raton (Florida) [US], October 10: Omega Healthcare announced today the launch of its Omega Digital Platform (ODP), designed to help healthcare organizations reduce administrative burdens while improving financial performance."
-    publishedDateTime: 2023-10-10T17:44:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20231010/4127631.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "BBkT/Bw1fQ1YgJ/m0cXJIK9fxijpKf8icLa/oMYVz+7Ea3wLXGdq+r5F39+OGtOQF2/rzUa/aJbwV/Tde/BPneoHrAmxniCjgXYko+ucBmdQbrEsm8e+0/mukIn8DTWXI5l2k0TLcPp7ulK2nhEZTlVyDkCf33NODzCAMXTCjZ8qpjOoyPu8SkmEH2obKFSXREqvDTsetIEhTSU4VXFJA1slXQCMAidwBOYdRcZ47qWWFIXyIlNIOx8/qdfeZ2Zc+khK7ls1U6I0Ot78hyhrnJVp45ia9tLOGbgudcLqdLgjzFQAGJUajq/LbcC73IBFuBv8ZsZqKnOXyy7Oo/0uNLm2dcIkrUr8BpgmoxlOqZBIdqBs5DgxLTzT6D3u5B4CDapvEZE9zHoZoUA1uoodf0XgZIRJqdZBfw3j72NP3c2pZAwCAZvvUIsimBBDHY6+VCKU0FH1dhAPLU/BJAuwwPZ3RBy4vgyvGoe04W6fSBfd6WvI7KH0BWLZ1X8wl5vNUpOfQwsWYjJVDpdOaxtbXw==;MAu8xLd3ezOM2gCYDlDKzA=="
 ---

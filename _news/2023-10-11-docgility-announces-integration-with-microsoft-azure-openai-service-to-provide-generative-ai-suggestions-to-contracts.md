@@ -35,31 +35,6 @@ related:
         width: 1306
         height: 900
         isCached: true
-  - title: "Why are OpenAI, Microsoft and others looking to make their own chips?"
-    excerpt: "As demand for generative AI technology grows, chip shortages are not the main reason behind developing custom silicon, experts say."
-    publishedDateTime: 2023-10-10T17:40:00Z
-    webUrl: "https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708215/why-are-openai-microsoft-and-others-looking-to-make-their-own-chips.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 91
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/ai-chip-100946969-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 health systems adopt new Microsoft AI tools"
-    excerpt: "Microsoft unveils new healthcare data and AI tools to help healthcare organizations unlock insights and improve patient and clinician experiences."
-    publishedDateTime: 2023-10-10T17:27:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/3-health-systems-adopt-new-microsoft-ai-tools.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
     publishedDateTime: 2023-10-14T23:01:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/improve-performance-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: AWS
@@ -27,64 +27,6 @@ images:
     width: 1257
     height: 630
     isCached: true
-
-related:
-  - title: "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart"
-    excerpt: "Today, we’re excited to announce that the OpenAI Whisper foundation model is available for customers using&nbsp;Amazon SageMaker JumpStart. Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680 thousand hours of labelled data, Whisper models demonstrate"
-    publishedDateTime: 2023-10-10T17:09:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 111
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/ML-15311-image001-1225x630.jpg"
-        width: 1225
-        height: 630
-        isCached: true
-  - title: "New – No-code generative AI capabilities now available in Amazon SageMaker Canvas"
-    excerpt: "Launched in 2021, Amazon SageMaker Canvas is a visual, point-and-click service that allows business analysts and citizen data scientists to use ready-to-use machine learning (ML) models and build custom ML models to generate accurate predictions without the need to write any code. Ready-to-use models"
-    publishedDateTime: 2023-10-10T17:20:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-no-code-generative-ai-capabilities-now-available-in-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/l-ml-15314-image001-881x630.png"
-        width: 881
-        height: 630
-        isCached: true
-  - title: "Achronix Announces FPGA-Powered Automatic Speech Recognition Solution"
-    excerpt: "Achronix Semiconductor Corporation, maker of FPGAs and embedded FPGA (eFPGA) IP, announcedin partnership with Myrtle.ai an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA."
-    publishedDateTime: 2023-10-11T18:49:00Z
-    webUrl: "https://insidehpc.com/2023/10/achronix-announces-fpga-powered-automatic-speech-recognition-solution/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Achronix-logo-2-1-1023.png"
-        width: 669
-        height: 334
-        isCached: true
-  - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
-    excerpt: "is proud to announce its latest innovation in partnership with Myrtle.ai — an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA. This transformative solution converts spoken language to text in over 1,000 concurrent ..."
-    publishedDateTime: 2023-10-12T07:31:00Z
-    webUrl: "https://www.design-reuse.com/news/54994/achronix-fpga-powered-accelerated-automatic-speech-recognition.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
-    images:
-      - url: "https://static.designandreuse.com/news_img2/homepage54994/achronix-fpga-powered-accelerated-ASR-solution.png"
-        width: 764
-        height: 400
-        isCached: true
 
 secured: "A08X6/wVnsrh0zdLQ9JZONzzZu3RAnMbvDRpCwXz9ldzoHL9Vdqbcr0pMpDKflv0O5bQ3vR3BV77O0pZThMnxY2aRhaZOzEIJpICaBFgZWt79YKyP/xIK1KfUkHoBtwIDNe339WzTVCFlK6NRoW0Y5MdQ/QNlE85WhIvZ/w+5JVCAJ+yzTlc8se9xt5HrEqa4V72tw+hJg9GnXGmuBK5mF12P4Wy3M5agX9XhkKI/U5CtgHSUyELx0Kv5Vi1Rj50czSR0hz0LlgvwrHi8jmhjA2LcUSoC4UAGInv4djyG/Kd4aH15GXs0HLDo1J/JMFbNa3kyYd5TLU1mk9qe/ypX0Ae0X0uGUc9V4hVgVPkYWM=;SxIu1SxNhZ/wKD3yrxgtNA=="
 ---

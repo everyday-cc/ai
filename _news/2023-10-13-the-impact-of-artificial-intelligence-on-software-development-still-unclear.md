@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "AMD acquires open-source AI software developer Nod.ai"
-    excerpt: "Advanced Micro Devices Inc. has acquired Nod.ai, a startup that develops open-source software for speeding up artificial intelligence models. AMD announced the deal today without disclosing the financial terms. Nod.ai, officially Nod Inc., is the developer ..."
-    publishedDateTime: 2023-10-10T18:19:00Z
-    webUrl: "https://siliconangle.com/2023/10/10/amd-acquires-open-source-ai-software-developer-nod-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "uKMePYE4kp3zGdyp8lIoishTG3kDCjqzKxlRltXIHQ/bZNOLTrTB+0B+DfkBhbhrKTwDD2Yx1X3cs9xmI7Ync13sDn7mzcE7ZrBWaPa7x03SSfYOXQSqv/j6RIH/sJqr+I8YYOwErpGdhAcUpUa4UlVMA4mxVkjMmwNoknxDBimSiD97brqYbcqqCWS4ARINX/CJ9TC1/SxeW6xpSgNJN9+/1R5F9FVTi5vgBIPvjEVX6kPuDf6xhW5VQHkEQg5kK7D9MvmRloZ32/P57WQSNFTRhFEEGxyifXFrYKMs5wiyoTY9cgB+GTjF1bW0z1flFUG1rf+u3TMilQIn7Z0sRrSGAJYpJDxlrbomqSp2eADeovUmA40M7RubkjVg17IELYim1gMqFLwOVSjQHkZO4cLK9kfRIm1TDpWrCjy/f+RJJKnHYYWvxzYlJsb9ZUq8+mk/Wc/y7VO7Vn+JVJm3+pXIkqmH0h34Ydsy7qn1R/lfqWhzTA/VYYDVo14Wdk9w6gJHOt1k8mAZ+Pds4N4MCQ==;fu14TQCggJzwatXRcN+aog=="
 ---

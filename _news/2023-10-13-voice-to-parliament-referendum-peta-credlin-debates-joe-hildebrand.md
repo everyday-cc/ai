@@ -41,6 +41,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 15
+  - title: "Voice referendum: Truth-telling for Albanese as voters deliver defeat"
+    excerpt: "Anthony Albanese will reaffirm Labor’s commitment to advance reconciliation while pursuing ­treaty and truth-telling and reset the government’s focus on cost-of-living pressures and national ­security,"
+    publishedDateTime: 2023-10-15T11:26:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-truthtelling-for-albanese-as-voters-deliver-defeat/news-story/e570b805b3753d8b27a304304ab1a353"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
   - title: "Voice leaders special message to undecided voters ahead of history-making referendum"
     excerpt: "Leading Yes campaigners are issuing their final pleas to undecided voters less than two days before the referendum."
     publishedDateTime: 2023-10-12T11:30:00Z

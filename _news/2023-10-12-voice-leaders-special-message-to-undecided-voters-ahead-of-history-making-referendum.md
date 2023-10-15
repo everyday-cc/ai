@@ -50,6 +50,15 @@ related:
       name: The Toowoomba Chronicle
       domain: thechronicle.com.au
     quality: 4
+  - title: "Voice referendum: Truth-telling for Albanese as voters deliver defeat"
+    excerpt: "Anthony Albanese will reaffirm Labor’s commitment to advance reconciliation while pursuing ­treaty and truth-telling and reset the government’s focus on cost-of-living pressures and national ­security,"
+    publishedDateTime: 2023-10-15T11:26:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-truthtelling-for-albanese-as-voters-deliver-defeat/news-story/e570b805b3753d8b27a304304ab1a353"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "tn96JIf7oFJBn4P1vE9uRfzeD0VeM21S7w5B9aiiF1SQecixPfYyuTi3te9kflvnIs8OrPfdAdVtp00JQnlfjDmhllr0qibBjDVcmJelk91EFzU0OKbbswT/FtY4K4xyXwQPoexMmgbUw/nyTzQlZTb/dhNnb1xBtPfey5KmExE0mE9ic90OiTU1iamD9dQ0I4OKEzzud+05VrTH+4CgPQ7gA/aitqACplpMGAhW/doScZ24V+0+t7w9VEfKp3B5rF8eWhpu9X4Zxv9TcSi4R1ymfFQcRElRbz52CNgs2eGI+8eHCcr/yCRypYIuj2k1I8pKaKwEsuZAzw/r6rKUL0hdkN73Adkdv24QapG1tFpV5QppWLIKru56klkEYQ1aJi4yzi/++aflr1jQfn4+69NKvIx3oWv3uD1ArmSnAtlp6oRcmp/AR0MWpR+91W59W8cXfY4R+1Q3Uf2q0JisJb/9V/zdJdjMYcX6p+ocjrNiKiVA6FFDitLluF/kCdQmMjoZi5hR9on/vw3SKYaAKw==;xhQw/e1LHCrtW+WfLjejWw=="
 ---

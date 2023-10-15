@@ -55,16 +55,7 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Deloitte Digital's Latest Research Forecasts Generative AI's Transformation of Content Marketing"
-    excerpt: "Early Generative AI adopters see a 12% return on Generative AI investmentsNEW YORK, Oct. 10, 2023 /PRNewswire/ -- Deloitte Digital's new research"
-    publishedDateTime: 2023-10-10T17:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deloitte-digital-s-latest-research-forecasts-generative-ai-s-transformation-of-content-marketing-1032693570"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
 
-secured: "AwZ9GTI6afuNfRYC1ythC6Q9jznTXELXSDXZfCXM1KL1emkj4Re5rpyeRPrVvBpfzVqFsuNrtlWVmJvs33eg/kPfoFqWUBMM8ZCZ1d1748G19jPKPNdONR7qufolOyWlxclJ/c/f3tYD22g9JIVWDQEKYU7T22Yw+WW9TclGH6g69ascrf0Xr/IObezXB4whVAT96rJTK+I/uXNF0hvuQnnAXn00OnfBtRbbbK/kwlO/EbyoEGrpqDDG1e2eIpQyd30F9tvMtqDCPDgVvmwOVVO6fkKPkYeEyKHfhPLJlY8wSfp2EFIL825lcNtmmAgFM7Tt0DDG9SRhr/YgXzLvjAkcTQFgM+Zoggp0XS00xlo=;keiVpUk+jMAgr/nbTqFBmg=="
+secured: "lK+u8IKo5T+pEryO4hluLNJKEsMey1k7MbyyhAmCiV1AVWvqVTkrRCjklDK3CFuLYWy46ii50K5QSnOUZFshpkGWhKUVQi7XU6UAjXPYAz/FEY0J/D+71TGMGbPUlNodx5km2pkUQaOTWkEGmNsLuQO4DBhoe1AFR8JBzdbxY4a44otIHNEkXjfDYUK+Si1dzwstNzmj+2yofX33/3TonG4J1o+q0Ap9hGcAl/YgdnxR4xX/jXSgvJYPpVQIuFqtLqEePinXsuVmt0AfatvSv/gDyXtJTj3+1ZldDQr6NyGo+XeMP5c23gwGIGyr16oWF7eVh/02VpYQJu1dVQ8hVSVDq49jfYRizqUKXQmZxPhlV1uKcGPGTgCHI1iqt9mVLs0aawNO+h9nn9dmdyo/orYp35VDh0hOBNSsZgSR3mUN2jQ7Z5W7OUjHXzFza1DD8BNfwlYH5sB0winuzIAL6ICq8+vLfOhZe5ZM88XAmTs4uczIIVDZXV7Oq0GWHZNHHI97nLjthecmI3tntVRWQQ==;AHC9ry0XOpABAbu3AgjVXA=="
 ---
 

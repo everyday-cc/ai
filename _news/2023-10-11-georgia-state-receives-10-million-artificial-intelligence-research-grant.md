@@ -3,23 +3,23 @@ category: news
 title: "Georgia State receives $10 million artificial intelligence research grant"
 excerpt: "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial"
 publishedDateTime: 2023-10-10T20:09:00Z
-originalUrl: "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html"
-webUrl: "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html"
+originalUrl: "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html"
+webUrl: "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Albany Herald
-  domain: albanyherald.com
+  name: Rome News-Tribune
+  domain: northwestgeorgianews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/e/d2/ed26ad10-67a9-11ee-aab4-4bdaf1c2cfd2/6525b12a16f0b.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/f/ce/fce0efed-7e2c-5fb3-941b-255887ed7b4e/6525bb6020bdd.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize"
     width: 800
     height: 420
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 615
         isCached: true
 
-secured: "pY8YVtOJhnKiVL8UVunICIQhPSx0EtQV/fdzKMG29pXh3xT95mMaCDHvyvJ6FKHjss1QeTmMLYyRovwSNWJmiGYGmQAx3VP5ImCgZIQxVHJRxq70fhvZAvxWlTJEhWfAFY+XfdvoA1QLpy0Mgq+m2AtCsqgeqXHyA3ruDTiGed3TPgISQnBjTQVd6dCvI1UFpAcobdDeaHMCgtpv4yY8Q1QMLk1/eCd4JgOtbrYwH5unM9BxJ1t7htKuo5Fz+7OzaAF6drZLpCgTVrPPer+HckM0Eoyq5VfEPRp8tWFxGEbxK3IUEzZ7HiXWDqGNUfdDS1RfXV6uPcinFy5/LXlfVDkdIhlDRLNs2UaagPkMgB9RVVKS/ShZ1CwsvMu/omw7uzlifE393EdzMTfka+YoFEQhXZwcAyVPZyMwWrLw/827+PnEFZrpPG5Ze3ZGLh5l6JVRI3Cv2OJNs/kWZoQULJGj5iX9h+P+H+9sLgWi4D7ONTPAiCV92UAQ8zCpCm5kudXE2m9JuD9470t2+MaM8A==;f8V+gqCSE+xZO9Ulsuo2lg=="
+secured: "IfawKsgLC3JecC+drJp/MZz9MVvPMFxpE8MNq2fPhQUWewNauldWQsLMiB+W0uB7W1e+nwNc3/lUb3OjBVpVI393ghUriWMMRjnSwkXGgbMqAh+pjvcIeXNt/LV9XblbJkXXxCrgbdwLregCis8rKNbXE/CeE+fJ9ML92BudjTzjKweXCJtmaG5+DqP6DFx88aWZrnSN74uAky4a04DXZkCIi/j/Gn/JVXB7wIlX4fsFlfc6SYcMg9DjqQe2p6XhHv29dlJnbffqZbGs47GQilkb9Oq5bBCuLLcqCNQ1bUrZuQlrVgXSaUXms2+v6dsEpVGAx7dYTSArQfUlm9tRQHQzIiYWjgFlst/caGo2FjE=;sJfDWGlM06iUm1ahqXZk2g=="
 ---
 

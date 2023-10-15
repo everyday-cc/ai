@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-s
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768"
 type: article
 quality: 96
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 41
-  - title: "Q&A: Writer CEO May Habib on competing with ChatGPT, AI opportunities, and regulation"
-    excerpt: "AI startup Writer is looking to win in what's probably the most obvious place to make money in artificial intelligence right now: enterprise. The generative AI company made headlines in September when, in a still-slow VC environment, it raised $100 million ..."
-    publishedDateTime: 2023-10-10T17:33:00Z
-    webUrl: "https://www.aol.com/finance/q-writer-ceo-may-habib-171507396.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/W_Do_5PWiBu38Gzb7B2hpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/4ede2313e5b8746831fe43a2ad274ff8"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI and ChatGPT are transforming how we learn and work"
     excerpt: "The acronym stands for chat generative pre-trained transformer. Walker says ChatGPT is one of an expanding number of publicly available artificial intelligence (AI) text generators that rely upon algorithms to scan the web for answers to user-generated questions."
     publishedDateTime: 2023-10-12T12:55:00Z

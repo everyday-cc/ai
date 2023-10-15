@@ -9,7 +9,7 @@ ampWebUrl: "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-f
 cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/08/80897eea-69dd-11ee-9a36-13e52a140747/652962b0064a1.image.jpg?crop=1035%2C543%2C0%2C75&resize=1035%2C543&order=crop%2Cresize"
         width: 1035
         height: 543
+        isCached: true
+  - title: "The Tens Of Millions Of Faces Training Facial Recognition; You’ll Soon Be Able To Search For Yourself"
+    excerpt: "In a stiflingly hot lecture tent at CCCamp on Friday, Adam Harvey took to the stage to discuss the huge data sets being used by groups around the world to train facial recognition software."
+    publishedDateTime: 2023-10-14T00:00:00Z
+    webUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-training-facial-recognition-youll-soon-be-able-to-search-for-yourself/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2019/08/Andrew-Harvey-PegaPixels-facial-recognition-CCCamp2019-featured.jpg"
+        width: 2951
+        height: 1660
         isCached: true
 
 secured: "GCmVNjkMZbFSqsmGuFoLb3piEuYlEswPW8fUqGQKTCqXztqHgQjaM53RKORpztCEJC92BJAmfd/VO+kdyjTBuarO5CLLYcsrTNyoMJH+vnrOfbLimLlWS9aof0EAmPXHRtRykmL0r9DLQ6I1uO5IwrbLBvOzCA1pDCV8qxr2TxbnYdqVO+wdy7+gaoQqllUJ+TiEh1Nkybr8M+ZEdZGgNNz7Em8nTs3hBo1zT1KHSVTL99JJ/DPpFCuTIQVQuSEFztTf/aJPXxXpI/JGZQEgljPaDDRTekk+WBDWOLdnDSoHZsrx5JuPJZoO4Fk19/IDqZjAnXLtYy+LVZjxj+ryU9GYLKWYJW1p8SR8lY3Gk6OKT6yx76uuVZRJQprZyIzPj4hBA76NnljAVD3o3WI4ZdneNxIFX+xJeU1pJjDZXxVbAejXYRH20xV8V43uS8gZy6XCOh1Uc6bP4pILPeOIcRgFU5OhGFcct+/OgKnH+/WZwmKlSAj7fcL3EjHrsIBMvP1Km+ZPGTAEZAbj8MxYEA==;iBmTSwKUZCr0FWLQkQ7dog=="

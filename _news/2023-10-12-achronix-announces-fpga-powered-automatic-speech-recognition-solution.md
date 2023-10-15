@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/10/achronix-announces-fpga-powered-auto
 webUrl: "https://insidehpc.com/2023/10/achronix-announces-fpga-powered-automatic-speech-recognition-solution/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Whisper models for automatic speech recognition now available in Amazon SageMaker JumpStart"
-    excerpt: "Today, we’re excited to announce that the OpenAI Whisper foundation model is available for customers using&nbsp;Amazon SageMaker JumpStart. Whisper is a pre-trained model for automatic speech recognition (ASR) and speech translation. Trained on 680 thousand hours of labelled data, Whisper models demonstrate"
-    publishedDateTime: 2023-10-10T17:09:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/whisper-models-for-automatic-speech-recognition-now-available-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 111
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/02/ML-15311-image001-1225x630.jpg"
-        width: 1225
-        height: 630
-        isCached: true
-  - title: "New – No-code generative AI capabilities now available in Amazon SageMaker Canvas"
-    excerpt: "Launched in 2021, Amazon SageMaker Canvas is a visual, point-and-click service that allows business analysts and citizen data scientists to use ready-to-use machine learning (ML) models and build custom ML models to generate accurate predictions without the need to write any code. Ready-to-use models"
-    publishedDateTime: 2023-10-10T17:20:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/new-no-code-generative-ai-capabilities-now-available-in-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/09/l-ml-15314-image001-881x630.png"
-        width: 881
-        height: 630
-        isCached: true
-  - title: "Improve performance of Falcon models with Amazon SageMaker"
-    excerpt: "What is the optimal framework and configuration for hosting large language models (LLMs) for text-generating generative AI applications? Despite the abundance of options for serving LLMs, this is a hard question to answer due to the size of the models, varying model architectures, performance requirements"
-    publishedDateTime: 2023-10-11T16:28:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-performance-of-falcon-models-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/improve-falcon-performance-1257x630.jpg"
-        width: 1257
-        height: 630
-        isCached: true
   - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
     excerpt: "is proud to announce its latest innovation in partnership with Myrtle.ai — an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA. This transformative solution converts spoken language to text in over 1,000 concurrent ..."
     publishedDateTime: 2023-10-12T07:31:00Z
@@ -81,6 +39,15 @@ related:
         width: 764
         height: 400
         isCached: true
+  - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
+    excerpt: "Join us on October 24 th at 8:30am PST for a LinkedIn Live webinar, moderated by EE Times' Sr. Reporter, Sally Ward-Foxton, that unveils the power of Achronix FP"
+    publishedDateTime: 2023-10-11T16:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "CrNAgtt/W+1x+X3L2/e5PGqMyZX2H0vKxAfaO/W93FmTg4ei8aTNXBOXiMyTSFwyA1NI4oQnXItCc8XF4wwjVofdmhPSEI7eNPUzkt14aVO6pPY56hhX5aIBkrPSGJUzaaSCU+vWkYE8KDGKjWPQ0dPKyNiT6LMcpgLWQBGbX1iLFDEKMj4wAvW7stKl1XTbJhHBelbmZt1b6ge6dowShaR25XbsAk880lcRVUIIaGdPdjpgOQ7FZ2hXa9A/nI2g86ziNpu7X2xEhdaMttyXuipWkdI8p0P+F/eOEM69bW5BnWahLUoGtssj2IAL3Af8pIBy+YnxEHlT3DjPdV8tlVsgTJQmhmtzJyWc4HCTwIvOC7MaLWmEqohxN4lwlzljfoKcHbFwXOM06p17/i1C/HV2x71LHTFT647HTYsGI8LX+bU51AbkhCQyXgVyCOTHuY5LFrt94/NR9O57cMetuEtRUuoT/WtztGWuXlJxA+gj2YDswx589HN3yoCSI2gx3IYhVG4+ECtxksLciSnZkw==;ruHQlTqUo/coT0pNxCQXBw=="
 ---

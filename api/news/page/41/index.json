@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2023-09-13-is-ai-the-key-to-improving-mental-healthcare-accessibility.md",
+      "title": "Is AI the Key to Improving Mental Healthcare Accessibility?",
+      "excerpt": "AI can improve mental health diagnosis, therapy, and treatment, increasing access and personalizing care. AI automation can help address therapist shortages, extend care to more people, and reduce costs. AI can assist people struggling with autism or PTSD, while mitigating biases and enhancing mental healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-09/pexels-shvets-production-7203955.jpg?itok=IbqNoX8t",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/motivate/202309/is-ai-the-key-to-improving-mental-healthcare-accessibility?amp",
+      "publishedDateTime": "2023-09-13T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-businesses-need-pricing-clarity-as-generative-ai-services-hit-the-market.md",
       "title": "Businesses need pricing clarity as generative AI services hit the market",
       "excerpt": "Transparency around how exactly services are charged will be essential as organizations look to avoid bill shock from consuming generative artificial intelligence tools.",
@@ -1159,58 +1202,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning.md",
-      "title": "Private Equity Recruits Data-Science Talent as Industry Tackles Machine Learning",
-      "excerpt": "More firms are adding chief data officers and other data-science and engineering talent as they incorporate machine learning into their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning-7f6dcba7",
-      "originalUrl": "https://www.wsj.com/articles/private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning-7f6dcba7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-850853/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
-  - title: "AvePoint Launches AI-Powered Information Lifecycle Solution"
-    excerpt: "It's a cloud-based solution that helps organizations manage their information lifecycle, from creation and classification to retention and disposal, with advanced AI and automation."
-    publishedDateTime: 2023-10-10T18:36:00Z
-    webUrl: "https://virtualizationreview.com/articles/2023/10/10/avepoint-opus.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 19
 
 secured: "pz4ePwb4Pxxcd8Zvwt0jeK6a6FLcxITm3eAJdf70vu0gB07n80fUdC82vZ8OeQ5Sa5/3b9ZUI9tj7oyGOjTYGWUNIs5xQE5H4/NqqLtJ5xGZg+uqNQUUBN+rVsnJtOGAaGcr722EgRyMwY7h+R5uJQRQOx7/tpRzXJnbyLomUMvXS8jNWb0BYhl0Oebi0r5VMFGMrV44BZhNohnFAxcjLkszJ460/nO2ZWALOdFn7BqMhcfZq78+y7Vkph8vqVM4qmC58nCgKgnfIeGO5TO3DRCv/VffuqPPq/mm2sU7X5hUaPXwiphODTvtCIMc+DALu0Rlc9bc+I+vQQJc96IxvgnLugDTX6VEHlIS152P8CI=;CWJIdFPPBGoA3o1xZ8YHnQ=="
 ---

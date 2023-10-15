@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 146
 published: true
 
 provider:
