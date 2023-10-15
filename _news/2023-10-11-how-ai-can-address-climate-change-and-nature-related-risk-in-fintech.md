@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How International FinTech company Collect & Pay Aims to Reshape Digital Finance"
-    excerpt: "The financial sector’s terrain is rapidly evolving. Led by fast-growing neo-banks such as Revolut, banking services are becoming more efficient and accessible than ever before. At the same time, new technologies like blockchain and cryptocurrencies are fundamentally redefining how we manage our finances."
-    publishedDateTime: 2023-10-12T08:42:00Z
-    webUrl: "https://techbullion.com/how-international-fintech-company-collect-pay-aims-to-reshape-digital-finance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/IMG_20231005_124245_556-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "EDOMx taps FinTech finbotsAI for credit risk management"
     excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
     publishedDateTime: 2023-10-11T07:04:00Z
@@ -46,6 +32,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
         width: 300
         height: 250
+        isCached: true
+  - title: "Fintech founder says bottom line remains top priority for SMBs"
+    excerpt: "Mark Hartley, founder and CEO of Bankifi, pointed out that while these subjects may be important to megabanks and their multinational customers, they’re not as important to his smaller financial institution customers and their small to medium-sized business  (SMB) customers in turn. What this group cares about most, he said, is “getting paid.”"
+    publishedDateTime: 2023-10-12T15:37:00Z
+    webUrl: "https://www.finextra.com/the-long-read/824/fintech-founder-says-bottom-line-remains-top-priority-for-smbs"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/824.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Fintech launches new AI-driven compliance platform"
     excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
@@ -61,20 +61,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "7 Hot Fintech Startups in Indonesia to Watch"
-    excerpt: "We look today at some of Indonesia's hottest startups. For this list, we’ve selected fastest-growing fintech companies that headquartered in Indonesia, compiling a selection of both early-stage and later-stage startups that have been making waves,"
-    publishedDateTime: 2023-10-11T00:07:00Z
-    webUrl: "https://fintechnews.sg/78633/indonesia/7-hot-fintech-startups-in-indonesia-to-watch/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/10/7-Hot-Fintech-Startups-in-Indonesia-to-Watch.jpg?x41783"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Arab Fintech Forum kicks off in Doha"
     excerpt: "The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz Carlton Doha with a number of industry experts"
     publishedDateTime: 2023-10-11T05:38:00Z
@@ -88,20 +74,6 @@ related:
       - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697004417-305.JPG?1697004417"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Genesis Global Named to CB Insights’ Fintech 100"
-    excerpt: "Genesis Global, the low-code application development platform purpose-built for financial markets organizations, announced it was named to the CB Insights Fintech 100, a ranking of the most promising private fintech companies of 2023."
-    publishedDateTime: 2023-10-11T15:36:00Z
-    webUrl: "https://financialit.net/news/infrastructure/genesis-global-named-cb-insights-fintech-100"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/genesis_19.png"
-        width: 1366
-        height: 768
         isCached: true
   - title: "Industry experts spotlight future of fintech in MENA"
     excerpt: "During a panel dialogue held yesterday at the second edition of the Arab Fintech Forum, officials of leading firms accentuated the"
@@ -117,15 +89,20 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
-    excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
-    publishedDateTime: 2023-10-11T11:26:00Z
-    webUrl: "https://techbullion.com/texas-in-focus-the-intersection-of-real-estate-and-fintech/"
+  - title: "Orion, FinTaar Technologies & bizAmica Software team to spearhead financial growth in India"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-10-12T05:29:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/orion-fintaar-technologies-bizamica-software-team-to-spearhead-financial-growth-in-india/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 14
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Arab Fintech Forum Kicks Off In Doha"
     excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
     publishedDateTime: 2023-10-11T18:44:00Z
@@ -144,24 +121,20 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "Fintech Partnerships Revolutionizing Loan Approvals: Visa Sets the Stage"
-    excerpt: "The future of financial services, including loan approvals, will be significantly shaped by AI technologies. This move is a leading indicator for other financial institutions exploring or already involved in partnerships with fintech companies."
-    publishedDateTime: 2023-10-12T15:20:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/fintech-partnerships-revolutionizing-loan-approvals-visa-sets-the-stage-81103"
+  - title: "EDOMx Selects Singapore Fintech finbotsAI to Scale Faraja BNPL Business & Drive Financial Inclusion with High Accuracy AI-Powered Credit Decisioning"
+    excerpt: "Renowned for its Mobile Money Buy Now Pay Later (BNPL) service FARAJA, which is offered to M-PESA customers and businesses in partnership with Safaricom, EDOMx becomes a pioneering adopter of cutting-edge AI-based credit risk solutions a key pillar of its business."
+    publishedDateTime: 2023-10-11T01:27:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=2903"
     type: article
     provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 3
-  - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
-    excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
-    publishedDateTime: 2023-10-13T03:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214226-fintech-carefull-secures-16-5m-to-scale-financial-safety-platform-for-older-adults/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
+      name: Digi Times
+      domain: digitimes.com
     quality: 0
+    images:
+      - url: "https://img.digitimes.com/ad/en_20230821_scs1114_bigbutton.jpg"
+        width: 336
+        height: 281
+        isCached: true
 
 secured: "1O1nXLIDfTM6pA7IuDeuCdDlrZ+3BraauaPFABDzDoW10fhg9s3me/qCcnXq/c/Vqdv6wMAdEYm3ogAqLQSTJPBZrYLskmcIl7vdknSUbDcU4zcaNRJcdKqzinSBWej8ZsrW06ygfu4RbBq1lPcWTI4c16LNMzWGDydiaczR8Mb+EDo7n9Vur8oTM2itQOz0suLSoG2SwJhvVNoPrssJIfFW63XDkq9LFNk/Lbri0xCGgRNNFTkM5SWx9903LzsnCL2YDZE062m3PplSTHu+IeoXardaw8bE+VcsFUeIsqixojBD7CTNSWXM7T5sbJowfxBndQkKEcEUTTe2Lfh441tIbS8PCGcCwL5DpdAxFoM=;bX4dmGRJ6bVOrLgOYN/7UA=="
 ---

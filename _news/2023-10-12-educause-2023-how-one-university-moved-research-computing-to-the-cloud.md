@@ -7,7 +7,7 @@ originalUrl: "https://edtechmagazine.com/higher/article/2023/10/educause-2023-ho
 webUrl: "https://edtechmagazine.com/higher/article/2023/10/educause-2023-how-one-university-moved-research-computing-cloud"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Educause '23: Teaching About AI Must Include Limits, Biases"
-    excerpt: "As teachers integrate generative artificial intelligence into lesson plans and subjects, doing so responsibly will mean teaching about the limitations and biases of such tools, and discouraging over-reliance on them."
-    publishedDateTime: 2023-10-10T23:38:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases"
-    ampWebUrl: "https://www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/educause-23-teaching-about-ai-must-include-limits-biases?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/6d18f42/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F86%2Fa811e8c84774bf6df6cc36762e23%2Fcloud-ai.jpg"
-        width: 840
-        height: 438
-        isCached: true
 
 secured: "McdBL7nnS5T8Zq61ubhuDEnFuFbncc/3gpigFgP5zRsl3+quXwCzjjotf5jp0D9NgEYQd2LO1iFHJ6I5vwgmd2aKEx8AH/tB9FD1UbbQZkF1VZWvxzfthZaCRJY0bEChOS3OMuYnv26NlQkdc6XWw9QSmaGbfXrMNSeA3zVYb4sCgxPHPkQQZA5Vue3awDTKhzk1TpZApYxhayYuiB2/UE9CCJ2oytBi9s1tmQ74eghcz1CXwxntsm/JN31drKcUGm+7Quri5pdI4H+HfiHcdyy5p9oXXqUrYrDdy+BdOkGGHq7TBHJS4k3RTxmfjwMBEEa34vVYAY1uh1FCdS1FysBNQGOTZPrBo9Qvz8RziiJY7yODtq8PsplalyurjBhwz1IfQ1ScGL1/ZHv8X8sZpD9CIHYixN1AXy8qDLWmBTc4CFchYCdfT6CP1otNLiAnPXcojbP5vwoFHNz879+DQmln+5sdw7EcxLgK6ytesZDzSaCJYqjUIlGI5+PlH1Jn1IHzZYHDhiNvVRQ9OVglUw==;dQvLUkxnKd9q0Bi2IKl1LA=="
 ---

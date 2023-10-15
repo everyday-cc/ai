@@ -43,6 +43,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "An Example Of How AI Is Changing Marketing"
+    excerpt: "To learn more about how AI is impacting marketing, I talked with Ryan Coyne, CEO of Starboard, who has particularly rich insight on customization and marketing."
+    publishedDateTime: 2023-10-15T17:34:00Z
+    webUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652c20fe84b2025b759668c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1352
+        height: 900
+        isCached: true
 
 secured: "1Fn6sRFslrC0ksucrmGB/bFZW4pwmI05NRO8mJ3wWAWLwPjF6jwDFbo7N6v5D4U9BC7dVRoVHlQqyKd5seq5yr9mv1q4OMyKzQtX3ATcw/IoHM46486ZVwAVeb0FkSE/iI3Z0dOKvzm9v18ctTu6bXW6D9/goOrAkC6LttNDqsY3VfdpCHxG9YM9Iq3bwusmShzyGaseTJCJn4O6UGJ/3+UvMFSLMkCQE8wdDzuCC+g2sl62lHETVo/Vfr+nn/QszCfk1rImBtw2DFYrA5VUlTMdRyHyFBlaLlwZpYqyq4gpjzEKPVh2DnhKAaMtD/RzrVTbKHxaXvy1IZ1Z+PPyTtQuCogqnvQQiP/8Fm9F+5I=;9X8LVM1enE1jv4f1KJVgCg=="
 ---

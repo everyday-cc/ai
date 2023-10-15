@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI Computing and Decentralized GPU Power"
-    excerpt: "This democratization of AI and ML capabilities presents a game-changing opportunity for various industries. The Io.net test network sources GPU computing power from data centers, cryptocurrency miners, and decentralized storage providers. This pooling of ..."
-    publishedDateTime: 2023-10-11T00:00:00Z
-    webUrl: "https://www.dmnews.com/ai-computing-and-decentralized-gpu-power/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Decentralized-AI-Computing.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Government Working Groups Recommend Setting Up Three-Tier Compute Infrastructure for Artificial Intelligence"
     excerpt: "The working groups have recommended setting up a three-tier compute infrastructure comprising 24,500 graphics processing units. This will provide a 15 times increase in capacity over the highest capacity installed at present."
     publishedDateTime: 2023-10-13T17:21:00Z

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Qualcomm to Take on Apple Silicon Chips With Snapdragon X Series for PCs"
-    excerpt: "Qualcomm today outlined its plans for its next-generation chips designed for PCs. The Snapdragon X series is set to come out in 2024, and"
-    publishedDateTime: 2023-10-10T23:49:00Z
-    webUrl: "https://www.macrumors.com/2023/10/10/qualcomm-snapdragon-x/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 38
-    images:
-      - url: "https://images.macrumors.com/t/XfjbDbh58JkSDni03xB4z54vDAg=/1790x/article-new/2023/10/qualcomm-snapdragon-x.jpg"
-        width: 1790
-        height: 1007
-        isCached: true
   - title: "Qualcomm unveils new AI-ready chips with “Snapdragon X”"
     excerpt: "Qualcomm has introduced a future line of PC processors with the Snapdragon X chips. These chips will be geared towards generative AI."
     publishedDateTime: 2023-10-11T12:33:00Z

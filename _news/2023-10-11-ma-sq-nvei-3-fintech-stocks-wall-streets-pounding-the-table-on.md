@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-finte
 webUrl: "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-fintech-stocks-wall-street-s-pounding-the-table-on-1032694209"
 type: article
 quality: 54
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -44,34 +44,6 @@ related:
       - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Chukwuemeka-Ujam.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Fintech Surge To Unleash Financial Innovation"
-    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
-    publishedDateTime: 2023-10-11T20:05:00Z
-    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
-        width: 340
-        height: 250
-        isCached: true
-  - title: "Arab Fintech Forum 2Nd Edition Concludes"
-    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two-day summit, offering a deep d"
-    publishedDateTime: 2023-10-15T09:27:00Z
-    webUrl: "https://menafn.com/1107242133/Arab-Fintech-Forum-2Nd-Edition-Concludes"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/15/TP_e45b5image_story.jpg"
-        width: 1200
-        height: 832
         isCached: true
   - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
     excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."

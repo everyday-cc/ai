@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/how-international-fintech-company-collect-
 webUrl: "https://techbullion.com/how-international-fintech-company-collect-pay-aims-to-reshape-digital-finance/"
 type: article
 quality: 50
-heat: 170
-published: true
+heat: -1
+published: false
 
 provider:
   name: Impacts
@@ -25,144 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "EDOMx taps FinTech finbotsAI for credit risk management"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-11T07:04:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/edomx-taps-fintech-finbotsai-for-credit-risk-management/"
+  - title: "Braid shuts down, Stash marches toward an IPO and what happens when a fintech relationship fizzles out"
+    excerpt: "As reported by Aisha Malik: Last week, Klarna introduced a suite of new features, including an AI-powered image-search tool called Shopping lens. The Swedish fintech giant is also launching shoppable videos in Europe, in-store product scanning, a new ..."
+    publishedDateTime: 2023-10-15T14:34:00Z
+    webUrl: "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/"
+    ampWebUrl: "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 73
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-522212886.jpg?resize=1200,873"
+        width: 1200
+        height: 873
+        isCached: true
+  - title: "Fintech Surge To Unleash Financial Innovation"
+    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
+    publishedDateTime: 2023-10-11T20:05:00Z
+    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
+        width: 340
         height: 250
         isCached: true
-  - title: "Fintech launches new AI-driven compliance platform"
-    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
-    publishedDateTime: 2023-10-12T11:22:00Z
-    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "7 Hot Fintech Startups in Indonesia to Watch"
-    excerpt: "We look today at some of Indonesia's hottest startups. For this list, we’ve selected fastest-growing fintech companies that headquartered in Indonesia, compiling a selection of both early-stage and later-stage startups that have been making waves,"
-    publishedDateTime: 2023-10-11T00:07:00Z
-    webUrl: "https://fintechnews.sg/78633/indonesia/7-hot-fintech-startups-in-indonesia-to-watch/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/10/7-Hot-Fintech-Startups-in-Indonesia-to-Watch.jpg?x41783"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Arab Fintech Forum kicks off in Doha"
-    excerpt: "The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz Carlton Doha with a number of industry experts"
-    publishedDateTime: 2023-10-11T05:38:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/arab-fintech-forum-kicks-off-in-doha"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697004417-305.JPG?1697004417"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Genesis Global Named to CB Insights’ Fintech 100"
-    excerpt: "Genesis Global, the low-code application development platform purpose-built for financial markets organizations, announced it was named to the CB Insights Fintech 100, a ranking of the most promising private fintech companies of 2023."
-    publishedDateTime: 2023-10-11T15:36:00Z
-    webUrl: "https://financialit.net/news/infrastructure/genesis-global-named-cb-insights-fintech-100"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/genesis_19.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Industry experts spotlight future of fintech in MENA"
-    excerpt: "During a panel dialogue held yesterday at the second edition of the Arab Fintech Forum, officials of leading firms accentuated the"
-    publishedDateTime: 2023-10-11T06:16:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/industry-experts-spotlight-future-of-fintech-in-mena"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697005211-158.JPG?1697005212"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "How AI can address climate change and nature-related risk in fintech"
-    excerpt: "As companies undergo digital transformation and embrace cloud platforms which dial-in sustainable and ESG efforts to the frameworks of a business, artificial intelligence (AI) is the next grand frontier for which financial institutions are embarking on ..."
-    publishedDateTime: 2023-10-11T15:47:00Z
-    webUrl: "https://www.finextra.com/the-long-read/818/how-ai-can-address-climate-change-and-nature-related-risk-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
-    excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
-    publishedDateTime: 2023-10-11T11:26:00Z
-    webUrl: "https://techbullion.com/texas-in-focus-the-intersection-of-real-estate-and-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
-  - title: "Arab Fintech Forum Kicks Off In Doha"
-    excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227403/Arab-Fintech-Forum-Kicks-Off-In-Doha"
+  - title: "Arab Fintech Forum 2Nd Edition Concludes"
+    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two-day summit, offering a deep d"
+    publishedDateTime: 2023-10-15T09:27:00Z
+    webUrl: "https://menafn.com/1107242133/Arab-Fintech-Forum-2Nd-Edition-Concludes"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 4
-  - title: "Industry Experts Spotlight Future Of Fintech In MENA"
-    excerpt: "Fadi Saab outlined that there is a“dramatic growth” in the industry during the past decade. He said:“ In May last year, it was calculated that the world has 27,050 firms. Financial investments in the fintech amounted to $150bn."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227400/Industry-Experts-Spotlight-Future-Of-Fintech-In-MENA"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "Fintech Partnerships Revolutionizing Loan Approvals: Visa Sets the Stage"
-    excerpt: "The future of financial services, including loan approvals, will be significantly shaped by AI technologies. This move is a leading indicator for other financial institutions exploring or already involved in partnerships with fintech companies."
-    publishedDateTime: 2023-10-12T15:20:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/fintech-partnerships-revolutionizing-loan-approvals-visa-sets-the-stage-81103"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 3
-  - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
-    excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
-    publishedDateTime: 2023-10-13T03:25:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214226-fintech-carefull-secures-16-5m-to-scale-financial-safety-platform-for-older-adults/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/15/TP_e45b5image_story.jpg"
+        width: 1200
+        height: 832
+        isCached: true
 
 secured: "MkAoSYHk3wd5zJotwsmQUeGgygiEVbHgKwhSS9INXBAjkXeoRjITwa1StpJQEGiVhp+mW/XUY1vLXFhMpKCK+Y6TXhcDlcccj2QfPHiFPo0MgBAczqv6yzwfYn9yaPu/MrBeXrFTPB3wR0O1kB9pUXkBHIfFR3hn7jbGVjAhcf3LeVpixZPLFi3NDkuPLCGNTVg3OY1gKURU2AJbFcXbn4nW8wnQVSiCa+quUBVnykWxvHe56tdrYhVmbHa/Lp5DPuz+Rnk4dHh15k7414ryHMfzeSWzYTxvWZYJY87FzwBVRYichua1BaQlZBFkt2DdOVdkRMNegBeamcUgrkNn7orZx6IY6F45Jt5zWno/J8ZWGxnsFfikV8WBqSDoR0zFa6ZO8W6tUP7bVFMRw2MWOxHwVvqK4oPZHIHEeVXli4eB8MxNezc2b3lCrUxqe8aQdvXi9ZDDeYy9vI287BwSIPUG0NT1YYuZO4i/wAfiCIbGLUPnZU9MxiE6OiYnxiCO6HanHO2G8f204zEhZZpHgA==;CQzKGojn5iyFVedfN+FKSQ=="
 ---

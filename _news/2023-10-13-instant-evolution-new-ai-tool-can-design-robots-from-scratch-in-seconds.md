@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-desig
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1"
 type: article
 quality: 72
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -25,26 +25,6 @@ images:
     width: 1200
     height: 738
     isCached: true
-
-related:
-  - title: "Leading In The AI Revolution: The Case For A Chief Artificial Intelligence Officer"
-    excerpt: "As AI becomes more sophisticated and pervasive, many firms are considering whether to appoint a ... [+] chief artificial intelligence officer (CAIO). The potential of Artificial intelligence (AI) is undeniable. It's no longer a futuristic concept but fast ..."
-    publishedDateTime: 2023-10-12T17:59:00Z
-    webUrl: "https://www.forbes.com/sites/davidhenkin/2023/10/12/leading-in-the-ai-revolution-the-case-for-a-chief-artificial-intelligence-officer/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
-  - title: "Which Countries Are Positioned to Benefit From the AI Revolution?"
-    excerpt: "Which countries are best positioned to benefit from deploying artificial intelligence (AI) over the next decade?"
-    publishedDateTime: 2023-10-13T07:21:00Z
-    webUrl: "https://www.techopedia.com/which-countries-are-positioned-to-benefit-from-the-ai-revolution"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 17
 
 secured: "7+YZe16TjccwEkD7jEZLU4RKNWDKedHBdCdoNqt2hj2fGnQTAh+EasP3lv4Rl3I9BYJKKYvMiVoG3YrG3nVPfkyA/MPg+jL0A9J9DlTjqPKofc/QcsSfsIelcPp9lkYtxH0c/fC2URxhvReaPT2Pf4SQcFw4LZtSwv0R8FLH2e6T+kdeGdqVbdrUxaQd9mI8Cb2uoGb12Xm9rZBUh1LqbDPKKWSSUiOv4M0RQhgtRIPXch1YMCoHatE9ReqqvkEnjW5fVZ5SGBUcFnc8Yin/jFN2WqjCHGXsNBAOuQxU4muk3QuO1Y1XXS6yO9vLiJE+uM36EM711+cZyP6FcTJwTvjUlu0MOlCOkQx4TUNUasA=;B5qFt6PuIj1lhoKvtUPtUg=="
 ---

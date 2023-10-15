@@ -39,34 +39,6 @@ related:
         width: 1050
         height: 613
         isCached: true
-  - title: "Mosti code of ethics, governance for AI expected in 2024, says minister"
-    excerpt: "The Science, Technology and Innovation Ministry's code of ethics and governance for artificial intelligence (AI) is expected to be ready by 2024, says Science, Technology and Innovation Minister Chang Lih Kang."
-    publishedDateTime: 2023-10-11T01:06:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2023/10/11/mosti-code-of-ethics-governance-for-ai-expected-in-2024-says-minister"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/11/2329591.jpg"
-        width: 1240
-        height: 829
-        isCached: true
-  - title: "Mosti developing code of ethics, governance for AI, expected to be ready by 2024, says minister"
-    excerpt: "The Ministry of Science, Technology and Innovation (Mosti), in collaboration with Universiti Teknologi Malaysia, representatives of government"
-    publishedDateTime: 2023-10-11T00:18:00Z
-    webUrl: "https://www.malaymail.com/news/malaysia/2023/10/11/mosti-developing-code-of-ethics-governance-for-ai-expected-to-be-ready-by-2024-says-minister/95573"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 42
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/11/thumbs/400x400/153776.jpg"
-        width: 400
-        height: 271
-        isCached: true
 
 secured: "ToU0oEDoriWp/+Lm4tov7m6aXld6iz1kN4xsN+1SbsfWuqVSYERa9r4CPj7M+JM6B36BVsvPRgoeCmHs/XItuEzavnh+KV/dTRAt7izfLXjdQygMCqNDBYNtHA5iODXTla+BWIwc1vFpDltBxFY+CiJw+zGT8RarwjOURKN/NSW5NWt4puBGV7UbLA44oO15o8S3UG5DZwfyB4/5zAJX0lind5GhLMacQQtfwdeDYSzjHHXTSj9zm0b73K0ESagmw4U1CD6q90FzGPVPpLT5GDK/dP4aj6oRBCZp+rRkPSNUy7RRfNeTHUrlnmGLPZIL88totczSJYQRFFbJt4ot/w6JxQt4YasNir/0qcjS02DlM61jlAETKOhciT2aEy3hvipkPIMWcEUvBCz13ZN6ZSwrUrWKwgBLJO3eyueQOKWOnF7OTe6KS05dW3bjb0rUNXPHraUHFINMiQGFG7XK9f0Aj8Xo+JDMU8Cdtd+A90C9/ySSsJ3BXYJayOgqXcgtnyZcFHTpB3uAAOViD7Smtg==;Tv+j1fyIg81/U4+ZQPwOBQ=="
 ---

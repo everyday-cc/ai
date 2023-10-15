@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-
 webUrl: "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever"
 type: article
 quality: 84
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       - url: "https://images.barrons.com/im-554588/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Nvidia Overcomes Rumors: Dominating AI Chip Market"
-    excerpt: "Nvidia, a leading company in the AI GPU chip industry, recently experienced a drop in its stocks due to speculation that OpenAI, a prominent artificial intelligence research lab, might switch its chip supplier. This potential shift in OpenAI’s alliance ..."
-    publishedDateTime: 2023-10-11T00:00:00Z
-    webUrl: "https://www.dmnews.com/nvidia-overcomes-rumors-dominating-ai-chip-market/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Nvidia-Dominates-AI.jpg"
-        width: 1000
-        height: 523
         isCached: true
   - title: "ZTE's first 'flagship GPU server' for China has NVIDIA H800 AI GPUs, works around US sanctions"
     excerpt: "ZTE has just unveiled its very first \"flagship GPU server\" for the Chinese market, powered by Intel Xeon Scalable processors and NVIDIA H800 AI GPUs. Check it out:"

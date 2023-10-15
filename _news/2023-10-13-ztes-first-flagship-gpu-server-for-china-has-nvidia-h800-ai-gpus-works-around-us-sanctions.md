@@ -108,20 +108,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Overcomes Rumors: Dominating AI Chip Market"
-    excerpt: "Nvidia, a leading company in the AI GPU chip industry, recently experienced a drop in its stocks due to speculation that OpenAI, a prominent artificial intelligence research lab, might switch its chip supplier. This potential shift in OpenAI’s alliance ..."
-    publishedDateTime: 2023-10-11T00:00:00Z
-    webUrl: "https://www.dmnews.com/nvidia-overcomes-rumors-dominating-ai-chip-market/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Nvidia-Dominates-AI.jpg"
-        width: 1000
-        height: 523
-        isCached: true
   - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
     excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
     publishedDateTime: 2023-10-11T20:45:00Z

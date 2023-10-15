@@ -40,8 +40,8 @@ related:
         height: 765
         isCached: true
   - title: "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions"
-    excerpt: "SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in which a key shareholder, China's Full Truck Alliance (FTA), will focus on the China unit, Plus said on Wednesday."
-    publishedDateTime: 2023-10-11T04:03:00Z
+    excerpt: "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ..."
+    publishedDateTime: 2023-10-11T04:20:00Z
     webUrl: "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions"
     type: article
     provider:

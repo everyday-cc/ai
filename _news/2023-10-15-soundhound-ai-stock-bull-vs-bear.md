@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Better AI Stock: Tesla vs. Alphabet"
+    excerpt: "Tesla also has an opportunity in AI with its Dojo proprietary supercomputer, which it says will significantly lower the cost of training AI models. It will also allow Tesla to sell cloud infrastructure services, putting it in direct competition with cloud titans like Amazon, Microsoft, and Alphabet."
+    publishedDateTime: 2023-10-15T17:45:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/15/better-ai-stock-tesla-vs-alphabet/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/750833/artificial-intelligence-robotics-ai-touchscreen.jpg"
+        width: 7680
+        height: 4320
+        isCached: true
   - title: "BigBear.ai (NYSE:BBAI) Stock: Will this Penny Stock Go Up from Here?"
     excerpt: "Shares of BigBear.ai Holdings (NYSE:BBAI) have corrected quite a lot, losing nearly 78% of its value from the 52-week high. However, analysts"
     publishedDateTime: 2023-10-11T11:21:00Z

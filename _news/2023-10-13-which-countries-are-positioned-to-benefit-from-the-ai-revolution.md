@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "\"Instant Evolution\": New AI Tool Can Design Robots From Scratch In Seconds"
-    excerpt: "\"We discovered a very fast AI-driven design algorithm that bypasses the traffic jams of evolution, without falling back on the bias of human designers,\" Northwestern University's Sam Kriegman, who led the work, was quoted as saying by university's website."
-    publishedDateTime: 2023-10-13T05:39:00Z
-    webUrl: "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014"
-    ampWebUrl: "https://www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/instant-evolution-new-ai-tool-can-design-robots-from-scratch-in-seconds-4477014/amp/1"
+  - title: "The company powering the AI revolution is quite happy to let staff keep WFH"
+    excerpt: "Nvidia, which makes chips used for AI software like ChatGPT, says flexible work helps attract and retain staff and lets them balance their \"personal and work obligations.\""
+    publishedDateTime: 2023-10-15T16:15:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 72
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://c.ndtvimg.com/2023-10/ac1j7bo8_ai-developed-robot-1200_625x300_13_October_23.jpg"
+      - url: "https://i.insider.com/64d4e13b48a88f001968b063?width=1200&format=jpeg"
         width: 1200
-        height: 738
+        height: 600
         isCached: true
   - title: "Leading In The AI Revolution: The Case For A Chief Artificial Intelligence Officer"
     excerpt: "As AI becomes more sophisticated and pervasive, many firms are considering whether to appoint a ... [+] chief artificial intelligence officer (CAIO). The potential of Artificial intelligence (AI) is undeniable. It's no longer a futuristic concept but fast ..."
@@ -43,6 +43,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
+  - title: "The AI revolution is coming. Invest in $10,000 handbags"
+    excerpt: "Analysis shows LVMH, Dior, Hermès and Gucci owner Kering have consistently outperformed Amazon, Google and Apple"
+    publishedDateTime: 2023-10-11T10:18:00Z
+    webUrl: "https://www.theguardian.com/business/nils-pratley-on-finance/2023/oct/11/ai-revolution-is-coming-invest-handbags-lvmh-dior"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "ejwAJjlq3XYjXHh1wSb8FNPFtOcmU8vwKZr4BfzmBBy+T+mEYkOXYqs/C4lAWWr3SRUwk8nAFxzIbhREmcNYY1lOrx5jp1Zzkc4CvsQUnea8zfQaWnz5xqxsys4YR4hPPiUGAXc1KtO0V2MfMxBzcToFqnnF4O4qs/zdL7HykxO4YddXC7ewDTyH3yCPrrRCJ1CH1rIuQgt98vlfSQ8VrgM80McMQ2HbkOq8ecaxiswW/2raQ3VB2hfv4rfdbUSlFf7HGUb+euLT+69DQUJYP15vpIhPjB2TkwEQCk/UXcBh8YDf1+hqNQdZG40h1Wpf7pjTRvnuKJEnqd3UEUZDKGgizD5GZedzNuyhXUZu7gdbU4agaUWrs2e7EjAn591Br8QkJe75tt8Djf78eZszvqdKtWhwInOcGcPTGS23Kie5o0ufF6FvYZgZrJYJ0p3Q35AXByoJlXMm5v+9RsBBmvsSFm6+BNnduWNJGtavKbByIBDlRQfDyh1Payk73Llv5Qlxxip98j/Nv5OM5As1nQ==;6FIMoRSIRBIPCC5PkbjJQA=="
 ---
