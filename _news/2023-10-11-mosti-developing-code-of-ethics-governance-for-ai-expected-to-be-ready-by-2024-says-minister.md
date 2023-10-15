@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "MOSTI DEVELOPING CODE OF ETHICS, GOVERNANCE FOR AI, EXPECTED TO BE READY BY 2024 - CHANG"
+    excerpt: "Minister of Science, Technology and Innovation Chang Lih Kang in a Facebook post said the code of ethics and governance would form the basis of AI regulation in the country and was expected to be ready by next year. He said at the same time, MOSTI was ..."
+    publishedDateTime: 2023-10-10T16:58:00Z
+    webUrl: "https://www.bernama.com/en/general/news.php?id=2233633"
+    type: article
+    provider:
+      name: bernama
+      domain: bernama.com
+    quality: 45
+    images:
+      - url: "https://www.bernama.com/storage/photos/fdf2df98576466acffaa0e6aff4cfb7a6525824a659e5"
+        width: 1110
+        height: 694
+        isCached: true
 
 secured: "+Xq4DRnFG/tbH7fQpTziQEMW3VCtJdI/hFexO9efiE7HTzH7whTw94Q7JkhOS3dgqhlkH63ZNHTqgIKSO/zN7bY9W75EZYLL2M0HxUZ5mV6lF8nKr1Z/xkLjNVA4sjSwHhVhiCD4BTOmsPQeJmG65UDCsg0i0ddXABpxxlpMYU7Zo2pMvW6F8sp52RZlpYw9kk1BKPH1BNbQ1V5WKfbHdSfiNVpOj6y505O/5wKSa/18uqM8ERCc+DD+/6E9bnvdG14x2V5YiYmEeOwTvWZ/WTt+6SKWE95dL9082FU6Nkg/jTyyTbzw33wbG8mvoFbOoDytwv5PK0nVS7/2Q/u9ylAJsSFag+z6v0ybIWN9nYtDUgZCl8wSnwZnESdwSs76NOOzMrD3571f/rpXjUyb9rNdH8DrplKFAJfPkPjPc77MbvFVsjdRdK9r+1T1peUtZv0n0Ifo51N29MFSt81fTFekrJzf1ln72QF8wJ1UVtxLkeXV9bg4Ze+fS8RvPYeSjRhfmgUPkCn4AcLnBcS7zg==;YTgJ/XBxyZ62TK0Ks5mWmw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/hollywood-actors-remain-on-strike-over-
 webUrl: "https://venturebeat.com/ai/hollywood-actors-remain-on-strike-over-ai-endorse-no-fakes-act/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: VentureBeat
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "The Rise of AI on the Silver Screen: How Hollywood Portrays Artificial Intelligence in Movies"
-    excerpt: "Welcome to the future of cinema, where a world once confined to our imagination is now brought to life on the silver screen. From visionary filmmakers to cutting-edge visual effects, Hollywood has always pushed the boundaries of storytelling."
-    publishedDateTime: 2023-10-10T14:14:00Z
-    webUrl: "https://techbullion.com/the-rise-of-ai-on-the-silver-screen-how-hollywood-portrays-artificial-intelligence-in-movies/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 45
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/The-rise-of-Artificial-intelligence-in-movies.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "6BiXlnULUuEt6HJDLpvwpTizrdd/ORNA+rAckFD8Zl2rNYT7M+L520yobQ0Y9La/e1lyOVSpng6ud9BTMSBsIqWlruBGiq3sR4PNhTdkOsFQ6ZCsD0QdQUiJOwNPv+orgVQnM72b5g7+pEJPWMBKFTZo9riiX+Mk1hK6Gf82FqpSL+pI9xCaTk4jea3g8zpgJYxe+SUmBJa1KrzjsGlbh5C9veSJml+zmr8pzOm6p0KEdWlZ2B6ZlX+YyiMpda9ezNvRUcSmkwfD4smaUQYz2Gprk7YCoSQhGhzQm/w3iAOvWw23rALa/l9JA+3n2a38LXT+th/tv/US7gXqQ/T5VV8wyFr+vvaE/vPh40JpU5h4FXDkD8ctSSJvvupdj75dWrLqimna/s+uLlKtKCQWQiH0U5IdhqfFxJr+/GJYmteEWhPYKArOLIBzHEDJzGWtP/doTUIO5+/f6RUkSyNvwnDNoThSnmtOiTg7BNblD3te+P2KRTqAPPlYKAKTQC0KEY2261dMz0tsFyfFeyxQoQ==;V+DC//aIrOCD9AjPdcxUlw=="
 ---

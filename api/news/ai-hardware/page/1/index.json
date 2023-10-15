@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-13-nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole.md",
-      "title": "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole",
-      "excerpt": "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
-      "originalUrl": "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Markets/Equities/Industries/Semiconductors/pic-man-repairing-semiconductors-637435354060707899_Small.jpg",
-          "width": 320,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451",
-      "publishedDateTime": "2023-10-13T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-13-chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos.md",
       "title": "Chips for AI to be developed under public-private partnerships: IT MoS",
       "excerpt": "These clusters would be made available to Indian start-ups and researchers ... Also read:Is the current regulatory system equipped to deal with AI? “While robotics is a multidisciplinary technology that has the potential to transform and disrupt ...",
@@ -586,7 +543,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -638,7 +595,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/bank-of-america-identifies-6-global-ai-stocks-as-hidden-gems-with-great-potential-1032695221",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1416,6 +1373,49 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-european-commission-to-keep-track-of-ai-and-semiconductor-chips.md",
+      "title": "European Commission to keep track of AI and semiconductor chips",
+      "excerpt": "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
+      "publishedDateTime": "2023-10-04T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

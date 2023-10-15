@@ -23,17 +23,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Sanofi adds an­oth­er AI al­liance, this time for bi­o­log­ics with Baidu CEO’s start­up"
-    excerpt: "Sanofi has teamed up on artificial intelligence once again. This time, it's partnering with BioMap, a startup chaired by the CEO of Baidu, a Chinese internet giant that previously inked its own AI-based mRNA deal with the French Big Pharma."
-    publishedDateTime: 2023-10-10T13:50:00Z
-    webUrl: "https://endpts.com/sanofi-adds-another-ai-alliance-this-time-for-biologics-with-baidu-ceos-startup/"
-    type: article
-    provider:
-      name: ENDPOINTS NEWS
-      domain: endpts.com
-    quality: 8
-
 secured: "n5P2tFfXFzz7AEKLd5tMcgl4GTbwjIo0iIfDHNa2GREVu9HpdL4HPfJdMZX9NP3OHvdFZJpQQ11uuVqRaFCZfRYbbKDxfk1u7FSKu6oRyiNSfGz/smbUa+Q43W4DiUqAKK8K4LqEEF0ngVpsapj4xecKjvFI2vq4hLoQNLMgHZSTDschgxsxrplR91YIV8853KVvS0pg2VtxUSDVmiixYXnyveJusxDatyZkqao2teWlB+y0wASuCbnizPO4HJq5Mofx94f+js+Ps9DPrzZskVK0YPYVuVhZgotSGwUZDzwLK8vyWDT6JvRYzgxG7KuoeEH0Dt33CuGr0QQWvVPgL2SZv/TFtsplC7yByGDJ0R0=;JzV9f8GEidweNtzcKeOrVA=="
 ---
 

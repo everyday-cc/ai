@@ -55,6 +55,20 @@ related:
         width: 340
         height: 250
         isCached: true
+  - title: "Arab Fintech Forum 2nd edition concludes"
+    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two day summit, offering a deep dive into the future of"
+    publishedDateTime: 2023-10-15T07:05:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/15/10/2023/arab-fintech-forum-2nd-edition-concludes"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20231015_1697353617-928.jpeg?1697353618"
+        width: 1200
+        height: 832
+        isCached: true
   - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
     excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
     publishedDateTime: 2023-10-11T08:59:00Z

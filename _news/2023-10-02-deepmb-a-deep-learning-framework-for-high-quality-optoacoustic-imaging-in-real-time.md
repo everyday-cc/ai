@@ -1,28 +1,20 @@
 ---
 category: news
-title: "DeepMB: A deep learning framework for high-quality optoacoustic imaging in real-time"
-excerpt: "A team of researchers from the Bioengineering Center and the Computational Health Center at Helmholtz Munich and the Technical University of Munich have developed a deep-learning framework (DeepMB) allowing clinicians to obtain high-quality optoacoustic ..."
-publishedDateTime: 2023-10-02T15:40:00Z
-originalUrl: "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html"
-webUrl: "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.html"
-ampWebUrl: "https://medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-deepmb-deep-framework-high-quality-optoacoustic.amp"
+title: "DeepMB: a deep learning framework for high-quality optoacoustic imaging in real-time"
+excerpt: "Researchers at Helmholtz Munich and the Technical University of Munich have made significant progress in advancing high-resolution optoacoustic imaging for clinical use. Their innovative deep-learning framework,"
+publishedDateTime: 2023-10-02T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/1003410"
+webUrl: "https://www.eurekalert.org/news-releases/1003410"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/deepmb-a-deep-learning.jpg"
-    width: 1595
-    height: 868
-    isCached: true
-
-secured: "TlHDzDRN9tWTZIEql2j81L1tNb55djS5oax+L+wSh+Q4uCSJuHcifjKIUGblUY+DshJUX9fyIZbUVMa5vHbEykQVLwGdzlp6iANeet7ho38x732ghk4/JENmvnr4ZPHeAhecuH1h1yiz5cKpnYgqmg68I1HH9tCrrZfYBKlqCazM0s6kXHllDhtxLJsC4hmdy4et3Z2VahXwNFS4Q9Ia3644m0IULecGFPl1H0cPybcRuo1YbQhogKe5G2c9xfqgBWp/OR/80em9t2pCLjX6vKpOAvzpY9g8ZwM0bdyOKhPNlQ2C1T35UCW3pehsl9/+CgM3JAYNt8RVIBlMSLK15Yx1rtDtX5fCYekSd/2HykU=;61By4vijSLfw8/n/7WVTxg=="
+secured: "vPoAUXX2sdpUGxxesY2/5UFsz72VwRLBB+CctfAfgTArOXpFTmONGzCmIEgN6fGaIb771k6L+pklSwXXLwQLZlYDgkvb/WU5E2IpbIwIyx7EkCWJR2bTue82Y9nt7Q442H6/QP97TKhJE6re5LhB74f+pEogHJQjBbErf1tA0PAxdZJ6DYcFgn5hdndLoCyyXQVVKDsYjUmCiZS5A9ylEH9T97A5B1a4UD2Uob3JxkuNkWfQu36wt+BlzqGckC37maNF3QiHUayCsirUvicvKYwwwBO8m179O1QvoIxgsBP5pMN7wGiI2+HKNN1xfNIxHMnnaEhdn3Pa3/8G/L0dOTSOJlj4JQf0b17RS9RyLz8=;quyBgKG53ENpheJj0p6vyg=="
 ---
 

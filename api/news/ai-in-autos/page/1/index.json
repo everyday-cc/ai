@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-14-5-ways-ai-could-influence-nursing-in-the-coming-years.md",
+      "title": "5 ways AI could influence nursing in the coming years",
+      "excerpt": "Health care is one field where AI is rapidly innovating the nature of work-related tasks. In fact, health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work,",
+      "sourceUrl": null,
+      "webUrl": "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/",
+      "originalUrl": "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgno.com/wp-content/uploads/sites/2/2023/10/Screenshot-2023-10-13-085439.png?w=1280",
+          "width": 763,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/",
+      "cdnAmpWebUrl": "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/",
+      "publishedDateTime": "2023-10-14T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGNO",
+        "domain": "wgno.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-artificial-intelligence-helps-to-read-ancient-burned-scroll.md",
       "title": "Artificial intelligence helps to read ancient burned scroll",
       "excerpt": "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence.",
@@ -1318,50 +1361,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-30-artificial-intelligence-ai-faqs.md",
-      "title": "Artificial intelligence (AI) – FAQs",
-      "excerpt": "Q: What was the need of artificial intelligence? A: Out of millions of human beings, only Newton wondered why the apple falls to the ground. Rest of the population was busy blaming each other for ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/04/GSB-pic.jpg",
-          "width": 687,
-          "height": 989,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/jocularly-serious/artificial-intelligence-ai-faqs/",
-      "publishedDateTime": "2023-09-30T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

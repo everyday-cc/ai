@@ -51,20 +51,6 @@ related:
         width: 1600
         height: 1291
         isCached: true
-  - title: "Razorpay launches AI-powered payments routing system 'Optimizer'"
-    excerpt: "Razorpay launches AI-powered payments routing system 'Optimizer' - Full-stack fintech platform Razorpay launched a payment infrastructure, ‘Optimizer’, an"
-    publishedDateTime: 2023-10-10T14:16:00Z
-    webUrl: "https://www.siliconindia.com/news/general/razorpay-launches-aipowered-payments-routing-system-optimizer-nid-225821-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/67mShJ4U.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Fintech Unicorn Razorpay Unveils 'Optimizer': AI-Powered Payment Routing System"
     excerpt: "In a strategic move to safeguard businesses from financial losses arising from transaction failures, Razorpay, a prominent fintech unicorn, has unveiled ‘Optimizer’ – a state-of-the-art AI-powered payment routing system."
     publishedDateTime: 2023-10-11T23:31:00Z

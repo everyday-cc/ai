@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-count
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Warning AI industry could use as much energy as the Netherlands"
-    excerpt: "The artificial intelligence (AI) industry could consume as much energy as a country the size of the Netherlands by 2027, a new study warns. Big tech firms have scrambled to add AI-powered services since ChatGPT burst onto the scene last year. They use far more power than conventional applications, making going online much more energy-intensive."
-    publishedDateTime: 2023-10-10T15:00:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67053139"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67053139.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67053139.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/BD90/production/_131382584_gettyimages-1392697388copy.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "AI May Soon Gobble Up as Much Power as Sweden Each Year"
     excerpt: "By 2027, he says, AI power consumption will increase by as much as 134 TWh, meaning these systems will be consuming as much energy as countries like Argentina, the Netherlands, and Sweden each year."
     publishedDateTime: 2023-10-10T18:16:00Z

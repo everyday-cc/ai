@@ -27,14 +27,14 @@ related:
   - title: "Georgia State receives $10 million artificial intelligence research grant"
     excerpt: "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial"
     publishedDateTime: 2023-10-10T20:09:00Z
-    webUrl: "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html"
+    webUrl: "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html"
     type: article
     provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
+      name: Albany Herald
+      domain: albanyherald.com
     quality: 38
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/f/ce/fce0efed-7e2c-5fb3-941b-255887ed7b4e/6525bb6020bdd.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/e/d2/ed26ad10-67a9-11ee-aab4-4bdaf1c2cfd2/6525b12a16f0b.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize"
         width: 800
         height: 420
         isCached: true

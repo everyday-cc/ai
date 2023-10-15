@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Radiology researchers test large language model that preserves patient privacy"
-    excerpt: "Locally run large language models (LLMs) may be a feasible option for extracting data from text-based radiology reports while preserving patient privacy, according to a new study from the National Institutes of Health Clinical Center (NIH CC) published in Radiology."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://medicalxpress.com/news/2023-10-radiology-large-language-patient-privacy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-10-radiology-large-language-patient-privacy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-radiology-large-language-patient-privacy.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 40
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/chatgpt-7.jpg"
-        width: 2880
-        height: 1623
-        isCached: true
   - title: "Privacy-preserving large language models may be a feasible option for extracting data from radiology reports"
     excerpt: "Locally run large language models (LLMs) may be a feasible option for extracting data from text-based radiology reports while preserving patient privacy, according to a new study from the National Institutes of Health Clinical Center (NIH CC) published in Radiology,"
     publishedDateTime: 2023-10-11T13:35:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Koree-a-Cameroonia
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Koree-a-Cameroonian-Fintech-emerges-as-winner-of-the-2023-Ecobank-Fintech-Challenge-1861001"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Cameroonian Fintech Emerges as Winner of 2023 Ecobank Challenge"
-    excerpt: "Koree from Cameroon is the Ecobank Fintech Challenge competition’s first ever female-led fintech winner having beaten eight other finalists"
-    publishedDateTime: 2023-10-10T14:12:00Z
-    webUrl: "https://www.itnewsafrica.com/2023/10/cameroonian-fintech-emerges-as-winner-of-2023-ecobank-challenge/"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 19
 
 secured: "Jr8t0Lov5E6LNYNnCuS3/lD3KCvHTF8qmsfpiI5x+EASVS7K2i79scXWyI8lxJeyV7NyPjVFZu8yiBXIfA61PaxYpGphpBJgtSRCuqR23z0Wndb1Nk2RHjfE+xiaiu8oigA+/8Q2P9CsAEYqjNnD8EGgXv83SeB/mG8LgnT1xt/4Zi38Lf60kQhq3968E3l0hGduc02eGp+Kd2F4AOou4x4Qy0/iN9m7foJzYfCRbB0BeL2j//CBCvFpN1ZTtklSVYY3WsNU58X8KL+HcdnYarWM7MhasczjfMU/Mgrl29opiJR5sAZxbMx2PLGDIFpmqMKG9yJKRgx6/JejV57zkJxrNUxHaYsk0KRP6wSdLVypNipuVyFZUwSt8dP0WTl53eeGxcLOrvHDX+gduU8wUyikq1tAv0yNwqXex7YXPh9Ne+PYWmYWgeCuaX+rSVShz3cuvpG8NxGQeaFhLJjd8zFuhkv7MNtMR3to4hOZCYJ9zkOUuclrR7Hg7JPoE4XZJr4Ycb69towzMHXbMu8K0Q==;VHV4NrfZe3rZI0ZTVLeA9w=="
 ---

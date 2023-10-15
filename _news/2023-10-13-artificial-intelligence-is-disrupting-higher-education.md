@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "QATAR FOUNDATION'S WISE SEEKS TO REVOLUTIONIZE EDUCATION IN THE AI AGE"
-    excerpt: "WISE Summit will explore the challenges and opportunities AI presents in educationDOHA, Qatar, Oct. 10, 2023 /PRNewswire/ --"
-    publishedDateTime: 2023-10-10T13:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/qatar-foundation-s-wise-seeks-to-revolutionize-education-in-the-ai-age-1032692613"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Delightful disruption: Austin’s tech trailblazers prep for the AI revolution — Table of Experts"
     excerpt: "The Austin Business Journal recently assembled a panel of experts in tech to discuss this dawning of a new era, and its implications for the business world."
     publishedDateTime: 2023-10-13T11:00:00Z

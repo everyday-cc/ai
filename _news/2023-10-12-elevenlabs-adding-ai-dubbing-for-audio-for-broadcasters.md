@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ElevenLabs introduces AI Dubbing, translating video and audio into 20 languages"
-    excerpt: "ElevenLabs' AI Dubbing tool can translate speech into more than 20 languages while retaining the original speaker's voice."
-    publishedDateTime: 2023-10-10T13:41:00Z
-    webUrl: "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 65
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_representation_of_podcast_host_speaking_and_wo_6da3a358-8a00-4735-b154-11c2544fd1c5.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "AI video dubbing and audio translation using ElevenLabs"
     excerpt: "The explosion of artificial intelligence (AI) over the past few years is transforming everything it touches  and one such area is the field of AI video"
     publishedDateTime: 2023-10-11T08:53:00Z

@@ -265,15 +265,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "The Power Of Fine-Tuning In Generative AI"
-    excerpt: "As you're here, it's quite likely that you're already well-informed about the wonders of Generative AI possibly through tools like ChatGPT, DALL-E or Azure OpenAI. If you've been surprised by the capabilities of this technology and wondered, \"Hey ..."
-    publishedDateTime: 2023-10-10T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/the-power-of-fine-tuning-in-generative-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Google promises to back generative AI users against copyright claims"
     excerpt: "Let's say you're a graphic designer and decide to use Duet AI to generate images when you're creating an eye-catching presentation for a client. Later on, an illustrator claims one of the images on the slide is eerily similar to one they've created and ..."
     publishedDateTime: 2023-10-13T18:58:00Z

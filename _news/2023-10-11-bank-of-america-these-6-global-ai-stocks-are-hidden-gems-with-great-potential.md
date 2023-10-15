@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "The Cloud Can Solve America’s AI Problems"
-    excerpt: "These shifts in the semiconductor industry won’t happen overnight, but the United States needs a strategy for governing AI hardware that is sustainable over the long term. And current export controls are too leaky to be a reliable method for slowing the proliferation of future high-risk AI systems."
-    publishedDateTime: 2023-10-10T14:24:00Z
-    webUrl: "https://www.cnas.org/publications/commentary/the-cloud-can-solve-americas-ai-problems"
-    type: article
-    provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 39
-    images:
-      - url: "https://www.cnas.org/assets/images/return-top-white.png"
-        width: 532
-        height: 461
-        isCached: true
 
 secured: "1/eONAHvciHPmWtvKc5TmtkOZBkTi3U8pbM9d6QjyoXxntYXF8q2xabejL3CdGDODS28tvBuHS7jntir/NQwui+L/nrHFfPuPPlX9oZgRs5B9dDkfqES2djaRN6BGYPZdnIdhjIS4Wd3pUo0JmRiOpr8r9Z9777YkF4TfyMr50YNTyAHBiupn7Irni1xB7aFH9MlqfuX/FIqdFN07GkUPCxbp6cu8GYALxf9cMHZnSlED7N8lVKI5imInNbkChfcU4u83BEFqOPFa+RreljDnbqSJQvnCmoy9cuP5523WYpYt5VTQN1YfO2+kge+e4zYmzhpl3OxLkwA7mFccbhGyrK8DZWK2QcbUoizt+KwYo8oL9t2sAojLyYxaQJIKiofS4F2BaINhR3pevkoHFDSda2dgpaxTpKvUSFM9noL7JtI83zQoQL5xESvKRed1pmg5VN4kxbgCcPXB3TQcQHumpccMfPgCM238jnGR/Lxas7F1lDMIUjNCwKjDvGsNo1r0I59gmIqncC45+ve5uT0mQ==;weAZQfRdFfybw0Q+kPgduQ=="
 ---

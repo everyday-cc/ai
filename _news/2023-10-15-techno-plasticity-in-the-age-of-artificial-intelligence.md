@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techn
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
@@ -42,22 +43,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Embracing AI In The Workplace"
-    excerpt: "The potential proliferation of human job creation from AI will continue to generate as the technology advances."
-    publishedDateTime: 2023-10-10T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/10/embracing-ai-in-the-workplace/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6520493ec6ade69b5cd94942/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1246
-        height: 830
         isCached: true
   - title: "Adobe’s All In On AI: Debuts New Firefly AI Models For Creatives"
     excerpt: "The centerpiece is Adobe’s release of three new AI models under its Firefly generative AI brand - Firefly Image 2, Firefly Vector and Firefly Design."
@@ -106,6 +91,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/AE1CFA10-BB53-41CF-9D9F713DA1BA26B4.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Why AI Is Forcing Startups To Chase a Mirage"
+    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
+    publishedDateTime: 2023-10-15T07:46:00Z
+    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "The Increasing Impact of Artificial Intelligence on Energy"
     excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."

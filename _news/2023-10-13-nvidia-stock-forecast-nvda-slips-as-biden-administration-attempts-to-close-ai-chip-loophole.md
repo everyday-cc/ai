@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-a
 cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: FXStreet
@@ -25,22 +25,6 @@ images:
     width: 320
     height: 229
     isCached: true
-
-related:
-  - title: "AMD to acquire AI software start-up in bid to catch Nvidia"
-    excerpt: "In its race to catch rival chip-maker Nvidia, AMD plans to invest heavily in the critical software necessary for the company’s advanced AI chips. Through more than a decade of work, Nvidia has built a powerful advantage in the AI chip market through the software it makes, and the software developer ecosystem."
-    publishedDateTime: 2023-10-10T14:01:00Z
-    webUrl: "https://techcentral.co.za/amd-to-acquire-nod-ai-bid-to-catch-nvidia/233163/"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 37
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2022/04/amd-1500-800.jpg"
-        width: 1500
-        height: 800
-        isCached: true
 
 secured: "8hav0104V92gkaY/i49IIMHOJb6Or/f4fjuiFN9D0tCp803Q5mZdqm1qdJCmxn/2mm2nETPSqUVA/TZhMohp1fNpsgrSI3kY4u37nt/Hx8WGsDg89CdHPeMQsMm8OKc2uLYp20KhGwqGY8ivzRQQlCEe26NtUAEwo+dAryU3dHMavrbw/FUqBeZtzd1fvFzA9+I3/Y3AmA3C32x87VC47mm1Om1Qn1mPDh9lEANKnXRLqogUPMhQ3ih/vCE7tOXSf9BrxOK9qBzG4wodIsMkC7v2DeBOj7zbCXKdFx/15t4wqCm02T/STvNl91nCbJzkIqagr0sc0l+bvXwi91lgl0rvHwmUwndrxNksysE9VYk=;nldGq9yWblt+NnebMAwqrA=="
 ---

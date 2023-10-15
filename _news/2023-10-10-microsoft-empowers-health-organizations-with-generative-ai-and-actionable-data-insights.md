@@ -101,15 +101,6 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "Get Inspired: Five Microsoft partners using generative AI to enhance productivity"
-    excerpt: "Generative AI has become a critical tool for businesses seeking to streamline tasks and enhance productivity. Today, generative AI can generate everything from written content and music to product designs and programming code, paving the way for unprecedented levels of automation.\nThe post Get Inspired:"
-    publishedDateTime: 2023-10-10T15:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/get-inspired-five-microsoft-partners-using-generative-ai-to-enhance-productivity/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 79
   - title: "Microsoft announces new AI chatbot, features for doctors, pathologists"
     excerpt: "Microsoft has unveiled new healthcare tools in Azure AI, including a generative AI chatbot, Text Analytics for health, and three new models within Azu"
     publishedDateTime: 2023-10-11T06:10:00Z
@@ -190,22 +181,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Wolters Kluwer Health Language Platform to Maximize the Value of Health Data for Organizations Using Microsoft Azure"
-    excerpt: "Wolters Kluwer Health Language Platform, a FHIR Terminology Server, enables interoperability to ensure quality healthcare data is leveraged across health plans, providers, and HIT vendors for analytic"
-    publishedDateTime: 2023-10-10T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35162745/wolters-kluwer-health-language-platform-to-maximize-the-value-of-health-data-for-organizations-usi"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35162745"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35162745"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 51
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
         isCached: true
   - title: "Microsoft's New AI Tools Set to Transform Healthcare Data Management"
     excerpt: "Microsoft Corp MSFT showcased new data and AI tools designed to assist healthcare organizations in efficiently managing and analyzing the vast amounts of data they collect."

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-wat
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-watch-for-big-gains-in-the-next-five-years-1032693285"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,15 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "5 AI Stocks Rising Faster Than the S&P 500"
-    excerpt: "Artificial intelligence has been one of the top buzzwords in the stock market over the past year. Companies that merely mention AI seem to get a boost of investment support, while those that are"
-    publishedDateTime: 2023-10-12T13:00:00Z
-    webUrl: "https://www.aol.com/finance/5-ai-stocks-rising-faster-130029637.html"
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Health care is one field where AI is rapidly innovating the nature of work-related tasks. In fact, health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work,"
+    publishedDateTime: 2023-10-14T15:59:00Z
+    webUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    ampWebUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
+      name: WGNO
+      domain: wgno.com
+    quality: 59
+    images:
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2023/10/Screenshot-2023-10-13-085439.png?w=1280"
+        width: 763
+        height: 540
+        isCached: true
+  - title: "The AI revolution is coming. Invest in $10,000 handbags"
+    excerpt: "Analysis shows LVMH, Dior, Hermès and Gucci owner Kering have consistently outperformed Amazon, Google and Apple"
+    publishedDateTime: 2023-10-11T10:18:00Z
+    webUrl: "https://www.theguardian.com/business/nils-pratley-on-finance/2023/oct/11/ai-revolution-is-coming-invest-handbags-lvmh-dior"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
 
 secured: "lgmIwE1nT32Nc0nRrgc7A4ly5OoEFUfPAq6vcAaDT+w39heXIJNT4wygnM8dAAffWDi/9F1fmVxmdBLvU+WQjzNv8OuYtHJfizVaQ2HyZhsuDBWlUvntyycpyc8NOIo1hK1dI9rWgLLMKFl7R2PWXLkHfNCX02Upa6dGnGc6wJ4NjCCgqYsF8F2rAjLvURDhag0ycINACG80mPvVY/0J6htUhQSXVgMzsr25cqLRdlPIVSg34w99ObHGmznplzyE1yi07/3f7x6Kvv3Qa53kHzMt436+ScHfsULsgSnsQpTpEYpVu2+00Be3abP+z0FXeiV6VM6oB59hq+wjtw9fiUTopSN81vboVSnF/9yduRHHPek61pXc3p4vI724rWE7ZhE//UTnhadJN2apVcOudUKlplflVqyWXyv4754Yw0JqA4cXAfjEff0gk4r7zVTTYC/K1kOh+xKhg0A1vR574uzfAK0xpUTUoL4gLKLY/7+d0p2DFN3DKSVrPbCTU5CeL6DJf0GEYQJ2fXFcj8qMyw==;blSV9jFWZkTU/PLidyzRUA=="
 ---

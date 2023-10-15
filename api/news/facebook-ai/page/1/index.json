@@ -204,49 +204,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-11-reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia.md",
-      "title": "Reasearch finds AI language models can be helpful in diagnosing schizophrenia",
-      "excerpt": "Researchers at University College London have developed AI language models that can help diagnose schizophrenia by analyzing subtle signatures in patients' speech. The models, including Facebook AI Research's fastText,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/articleshow/104331053.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/articleshow/104331053.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-65656,msid-104331148/the-ai-tools-were-more-successful-in-predicting-the-responses-of-the-control-group-than-those-of-the-schizophrenic-patients.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/reasearch-finds-ai-language-models-can-be-helpful-in-diagnosing-schizophrenia/amp_articleshow/104331053.cms",
-      "publishedDateTime": "2023-10-10T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-10-deloitte-many-organizations-dont-know-if-they-have-ethical-standards-for-using-generative-ai.md",
       "title": "Deloitte: Many Organizations Don’t Know If They Have Ethical Standards for Using Generative AI",
       "excerpt": "According to this 2023 State of Ethics and Trust in Technology report, 57% of respondents think cognitive technologies are most likely to pose a serious ethical risk.",
@@ -255,7 +212,7 @@
       "originalUrl": "https://www.techrepublic.com/article/deloitte-report-ethics-trust-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1408,6 +1365,40 @@
         "Facebook AI",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-new-research-reveals-weakness-in-facebooks-fake-news-policies.md",
+      "title": "New research reveals weakness in Facebook’s fake news policies",
+      "excerpt": "Facebook's design makes it unable to control ... “There is significant attention given to social media platforms and artificial intelligence governance today. \"However, this discussion largely ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guampdn.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_472d6aa9-a269-52b7-a1ae-7f0564ccf0b9.html",
+      "originalUrl": "https://www.guampdn.com/news/national/new-research-reveals-weakness-in-facebook-s-fake-news-policies/article_472d6aa9-a269-52b7-a1ae-7f0564ccf0b9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pacific Daily News",
+        "domain": "guampdn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
       ]
     }
   ],

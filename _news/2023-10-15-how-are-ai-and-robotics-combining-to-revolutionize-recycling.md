@@ -7,7 +7,7 @@ originalUrl: "https://augustafreepress.com/news/how-are-ai-and-robotics-combinin
 webUrl: "https://augustafreepress.com/news/how-are-ai-and-robotics-combining-to-revolutionize-recycling/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -34,15 +34,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 46
-  - title: "Artificial Intelligence Revolutionizes Gaming and Online Casino Experiences"
-    excerpt: "Explore the revolutionizing impact of AI in industries with a focus on gaming and online casinos, offering a thrilling, optimized user experience."
-    publishedDateTime: 2023-10-10T14:20:00Z
-    webUrl: "https://www.westislandblog.com/artificial-intelligence-revolutionizes-gaming-and-online-casino-experiences/"
-    type: article
-    provider:
-      name: West
-      domain: westislandblog.com
-    quality: 17
 
 secured: "g6pWO4xyirQAlA7CvSeh+o6ydJUEFG1MkR8YiwHGgFBeKgSvSKyU1gX+h1dj//c7hv3mBmqCG0y/DPPZ+lRAArb66IN4zB8BsgFonYg2S+rRsFtwWXDcRRKQ+3WVWOFuO0MMxsQqDKGHFDpiKeGBns9a7toomMT8wibsOKO02uTH8i95WwifxfgdL2bEeTpOPLx7zORiCOsuIZTmX10r5TFRbJs2CXk6o6y1kgihuTo7DvcQM7zuRwU6i4RpI9hePPoGFLywqv0z8I2RkBBVULETw3QIU7ATPYNu9l+J5IP4skIMiA9XOCZI/V7sqv960/+FlosCFNQKpeIR94fzt0SkE/hm61qirIYgTs/upiE=;I0DNHtDjbDJh47wKMAPRPQ=="
 ---

@@ -54,22 +54,6 @@ related:
         width: 2062
         height: 1366
         isCached: true
-  - title: "Generative AI deployment: Strategies for smooth scaling"
-    excerpt: "To gauge the thinking of business decision-makers at this crossroads, MIT Technology Review Insights polled 1,000 executives about their current and expected generative AI use cas"
-    publishedDateTime: 2023-10-10T14:12:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081117/generative-ai-deployment-strategies-for-smooth-scaling/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/V2-MIT_Fig3_GenAI_100523.png?w=3000"
-        width: 2999
-        height: 1785
-        isCached: true
   - title: "New Deloitte Report Emphasizes the Gap Between Generative AI Adoption and Ethical Awareness Among Organizations"
     excerpt: "Many companies are beginning to test or use Generative AI, yet more than half (56%) of respondents don't know or are unsure if"
     publishedDateTime: 2023-10-10T18:00:00Z

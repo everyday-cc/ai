@@ -65,6 +65,20 @@ related:
         width: 340
         height: 250
         isCached: true
+  - title: "Arab Fintech Forum 2nd edition concludes"
+    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two day summit, offering a deep dive into the future of"
+    publishedDateTime: 2023-10-15T07:05:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/15/10/2023/arab-fintech-forum-2nd-edition-concludes"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 24
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20231015_1697353617-928.jpeg?1697353618"
+        width: 1200
+        height: 832
+        isCached: true
   - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
     excerpt: "Hong Kong Fintech Week and Singapore Fintech Festival just around the corner, we look today at the key highlights of this year’s events, focusing on their main themes, what participants can expect, and why these events are critical to attend for fintech companies aiming to thrive in the industry."
     publishedDateTime: 2023-10-12T08:03:00Z

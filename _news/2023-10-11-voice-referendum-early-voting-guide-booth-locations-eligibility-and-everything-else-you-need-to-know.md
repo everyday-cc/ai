@@ -74,19 +74,33 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "If There Is To Be Any Healing After The Voice Referendum, It Will Be A Long Journey"
-    excerpt: "The result of the Voice referendum on Saturday was unexceptional if considered in light of the constitutional history of this country. Wi"
-    publishedDateTime: 2023-10-15T05:36:00Z
-    webUrl: "https://menafn.com/1107241596/If-There-Is-To-Be-Any-Healing-After-The-Voice-Referendum-It-Will-Be-A-Long-Journey"
+  - title: "All or nothing Voice defeat compounds the national tragedy"
+    excerpt: "Alex Ellinghausen In January, when support for the Voice was sitting at about 60 per cent, The Australian Financial Review maintained that most Australians would endorse constitutional recognition of the First Australians’ 65,000-year-old occupation of t ..."
+    publishedDateTime: 2023-10-15T07:33:00Z
+    webUrl: "https://www.afr.com/politics/federal/all-or-nothing-voice-defeat-compounds-the-national-tragedy-20231012-p5ebup"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.2027%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/dd7a48d51c21e4a0a68179fcdbd0144aa30d2974"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "If there is to be any healing after the Voice referendum, it will be a long journey"
+    excerpt: "In the end, the “yes” case failed to answer two basic questions: what was the problem to be solved, and how would the Voice help solve it?"
+    publishedDateTime: 2023-10-15T05:09:00Z
+    webUrl: "https://theconversation.com/if-there-is-to-be-any-healing-after-the-voice-referendum-it-will-be-a-long-journey-214370"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
     quality: 18
     images:
-      - url: "https://menafn.com/updates/pr/2023-10/15/TC_62082image_story.jpg"
-        width: 960
-        height: 640
+      - url: "https://images.theconversation.com/files/553800/original/file-20231015-23-6um2so.jpg?ixlib=rb-1.1.0&rect=11%2C502%2C3964%2C1982&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Voice to Parliament referendum 2023: Everything you need to know"
     excerpt: "Saturday’s referendum day will mark the close of a long-winded chapter of polarised debate over Indigenous rights in Australia."
