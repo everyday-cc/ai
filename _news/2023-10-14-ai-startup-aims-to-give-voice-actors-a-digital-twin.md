@@ -8,8 +8,8 @@ webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-aims-to-give-voice
 ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.hindustantimes.com/tech/img/2023/10/14/1600x900/Artificial-Intelligence_1696699324463_1697299539048.jpg"
@@ -25,6 +26,6 @@ images:
     height: 900
     isCached: true
 
-secured: "X2u3ve4p14EA4GxtU0eGhgCRaqqrxqTsJUCcLmwxxVh5xz1fgO/3zFu7yoUfXuLF9mSLt8YtH10B13MAp7uOLsq874P9l4mRUoVXRkHPQy9tIhMmmNptwMwr7ge8ENui+On9nhq1E1hR66gcWsHNxAMz6I3yvCWXHm15XdRnNGGw7Tf3OARoQzRqyZkx+wzbF8mLK4zqvTnkOdxhVrIFqfEQyLdPzPw/K8zbKpEM+ChjtnFijK/hUHf1944MFV3Vv57AsbwcwNhQKdThYd0/ILAcbrW9dLGWlXVjsOACxSQDapyQRXo8E0I+WFYawd2z/j+X85SA5PaSsYdjZg3lBvTa5IKOqmu2CDbyfIt5iUE=;JAFLGweiBERCIcdQcIB3qA=="
+secured: "EVGcIF13AFK2h8mb9ro3iDeqwywOPJViVPOkCbYDOlxQvL+2XU1NAQmX3FvJen0WiPSt8QJaSI17IXQRGWQvFztFB5FrOosieGJWGriWoiPD4pz+nBkSjv3sYVMUvGtQzf1GUpW3oBG2Me4NMk3nJmPv9xVb1OtbIG3iS/0KpTBFofJKURoHDliiz26WlwTOHReaKVa7BuYSKMoHX9kdZ2STbRTt1yG0DfePK0wqHnvmrlru3Gi1or6t1o54rKjtrKkNbbheBzLOIp1JP4Xni3G07QYRaJqX/0u2/lepb/MaknUEoywEMTBQ7pfYq6qSxck7FtKpcA1grYTes+Z/x7bZE/J619iEkmf7PwKrUQj+Lk/xbHg9LXFAdSq+4LjUqWSMp6Mct8f9kLPiwCs/L9icza6sP4Cg6O5I+FbGdJUI/+37rcgwKFUbdY4gmEuIKqyaJ0gZsI2TF/l2qujebCqOsVSp8PuOMR9YxsO/ApgoKgZQmFxSf42LN1GlCw9BNb0pgPPXss4R4wrr+11KLQ==;QblwFEl8Wg6wxvo9597cEA=="
 ---
 

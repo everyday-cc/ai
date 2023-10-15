@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Leveraging Fintech And Blockchain Innovations In Finance"
-    excerpt: "When harnessed strategically, fintech and blockchain present a chance to transform services, bolster capabilities and delight customers."
-    publishedDateTime: 2023-10-10T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/10/leveraging-fintech-and-blockchain-innovations-in-finance/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/648c692be04ec815a53b363e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How International FinTech company Collect & Pay Aims to Reshape Digital Finance"
     excerpt: "The financial sector’s terrain is rapidly evolving. Led by fast-growing neo-banks such as Revolut, banking services are becoming more efficient and accessible than ever before. At the same time, new technologies like blockchain and cryptocurrencies are fundamentally redefining how we manage our finances."
     publishedDateTime: 2023-10-12T08:42:00Z
@@ -47,22 +31,6 @@ related:
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/IMG_20231005_124245_556-1000x600.jpg"
         width: 1000
-        height: 600
-        isCached: true
-  - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
-    excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
-    publishedDateTime: 2023-10-13T20:51:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Chukwuemeka-Ujam.jpg"
-        width: 800
         height: 600
         isCached: true
   - title: "EDOMx taps FinTech finbotsAI for credit risk management"
@@ -78,6 +46,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
         width: 300
         height: 250
+        isCached: true
+  - title: "Fintech launches new AI-driven compliance platform"
+    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
+    publishedDateTime: 2023-10-12T11:22:00Z
+    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "7 Hot Fintech Startups in Indonesia to Watch"
     excerpt: "We look today at some of Indonesia's hottest startups. For this list, we’ve selected fastest-growing fintech companies that headquartered in Indonesia, compiling a selection of both early-stage and later-stage startups that have been making waves,"
@@ -107,6 +89,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Genesis Global Named to CB Insights’ Fintech 100"
+    excerpt: "Genesis Global, the low-code application development platform purpose-built for financial markets organizations, announced it was named to the CB Insights Fintech 100, a ranking of the most promising private fintech companies of 2023."
+    publishedDateTime: 2023-10-11T15:36:00Z
+    webUrl: "https://financialit.net/news/infrastructure/genesis-global-named-cb-insights-fintech-100"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/genesis_19.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Industry experts spotlight future of fintech in MENA"
     excerpt: "During a panel dialogue held yesterday at the second edition of the Arab Fintech Forum, officials of leading firms accentuated the"
     publishedDateTime: 2023-10-11T06:16:00Z
@@ -121,20 +117,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Fintech Surge To Unleash Financial Innovation"
-    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
-    publishedDateTime: 2023-10-11T20:05:00Z
-    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
-        width: 340
-        height: 250
-        isCached: true
   - title: "How AI can address climate change and nature-related risk in fintech"
     excerpt: "As companies undergo digital transformation and embrace cloud platforms which dial-in sustainable and ESG efforts to the frameworks of a business, artificial intelligence (AI) is the next grand frontier for which financial institutions are embarking on ..."
     publishedDateTime: 2023-10-11T15:47:00Z
@@ -144,54 +126,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
-    excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
-    publishedDateTime: 2023-10-12T13:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214238-global-fintech-klarna-leverages-ai-for-human-shopping-experience/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-  - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
-    excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
-    publishedDateTime: 2023-10-11T08:59:00Z
-    webUrl: "https://www.business-standard.com/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 14
-  - title: "Origintrail's 1St DKG Conference Brings Together Internet, Artificial Intelligence And Blockchain Pioneers To Harness Trusted AI Across Industries"
-    excerpt: "DKGcon 2023: Fireside chat with Dr. Bob Metcalfe, Internet pioneer and Ethernet inventor, and Branimir Rakic, Co-Founder of the OriginTrail ecosystem, moderated by Ivan On Tech, Founder of Moralis Academy."
-    publishedDateTime: 2023-10-13T17:34:00Z
-    webUrl: "https://menafn.com/1107238252/Origintrails-1St-DKG-Conference-Brings-Together-Internet-Artificial-Intelligence-And-Blockchain-Pioneers-To-Harness-Trusted-AI-Across-Industries"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?285694"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
-    excerpt: "Hong Kong Fintech Week and Singapore Fintech Festival just around the corner, we look today at the key highlights of this year’s events, focusing on their main themes, what participants can expect, and why these events are critical to attend for fintech companies aiming to thrive in the industry."
-    publishedDateTime: 2023-10-12T08:03:00Z
-    webUrl: "https://fintechnews.ch/events/why-swiss-fintechs-should-attend-2023s-hong-kong-fintech-week-and-singapore-fintech-festival/63945/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 13
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/10/Why-Swiss-Fintechs-Should-Attend-2023s-Hong-Kong-Fintech-Week-and-Singapore-Fintech-Festival.jpg?x81825"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
     excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
     publishedDateTime: 2023-10-11T11:26:00Z
@@ -210,14 +144,32 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 4
-  - title: "OriginTrail's 1st DKG Conference brings together Internet, Artificial Intelligence and Blockchain pioneers to harness trusted AI across industries"
-    excerpt: "Ljubljana, Slovenia, Oct. 13, 2023 (GLOBE NEWSWIRE) -- The international DKGcon - Decentralized Knowledge Graph Conference gathered pioneers in Internet and blockchain technologies, as well as Artificial Intelligence (AI), in Ljubljana, Slovenia ..."
-    publishedDateTime: 2023-10-13T16:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35244109/origintrails-1st-dkg-conference-brings-together-internet-artificial-intelligence-and-blockchain-pi"
+  - title: "Fintech Partnerships Revolutionizing Loan Approvals: Visa Sets the Stage"
+    excerpt: "The future of financial services, including loan approvals, will be significantly shaped by AI technologies. This move is a leading indicator for other financial institutions exploring or already involved in partnerships with fintech companies."
+    publishedDateTime: 2023-10-12T15:20:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/fintech-partnerships-revolutionizing-loan-approvals-visa-sets-the-stage-81103"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 3
+  - title: "Saudi Arabia's Appetite For Fintech & Saving Platforms On The Rise As Figures Demonstrate Growing Need For Financial Education"
+    excerpt: "As Saudi looks to lead from the forefront of Fintech, next-gen digital savings platform and accessible money mentor app MALY is ready to give use"
+    publishedDateTime: 2023-10-10T13:06:00Z
+    webUrl: "https://menafn.com/1107219779/Saudi-Arabias-Appetite-For-Fintech-Saving-Platforms-On-The-Rise-As-Figures-Demonstrate-Growing-Need-For-Financial-Education"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
+  - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
+    excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
+    publishedDateTime: 2023-10-13T03:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214226-fintech-carefull-secures-16-5m-to-scale-financial-safety-platform-for-older-adults/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 0
 
 secured: "czNhrlLkbVmfyb4zyRgVcoNslE+p4y6CmJPqevqDMOIQVJdAp1+MW1UhOLmAKIiYjJw8ft9JH0+KlE4X66Vz/uh0RCAqIczwukcoFMQgCx/SqGfLT8zAIF7Oj6vMGQPwpRedORBARIS36p3BmbddHi0zzJkBe3ymTfmxokcbX060zOBgf3UdjCykgB3pIz5Iuamy+fmuC4wpLDQ6Rbjaf1xuLGEBsoCsbqipjo/bPj6gn6LyAODorpmLhLUJmWpFXFtSOcGpoiIt+eHhe6YreiDhJAcK11ZyOKCA3OaMnDqDoWJ7qEteVHu/s9OMGGyUxRqnT6an2hbbT1mLLV3KR3v/PM/wruggNteILJzPNKHVXqZKQdVNS70KDh4OSAnRCQmmbeWxF8WMu+GNt+XPz03u3wpHaK0joX7Ro0M+Br7UFDOrx0yOlGDyJINKiMEHRVu6ot+UfGhcX+woyrkcnj+HEQJ7mYvP5Ghl0w3+cA+IVJl/XrhR2tuuX1Ghaj3hS+B3LYPucRPwNPnfnLuOUg==;eM7GiMtUn0MWXQafimuaDg=="

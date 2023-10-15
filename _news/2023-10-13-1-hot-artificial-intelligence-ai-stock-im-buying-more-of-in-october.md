@@ -36,7 +36,12 @@ related:
     provider:
       name: Island
       domain: island.lk
-    quality: 34
+    quality: 56
+    images:
+      - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "x6qvzeEXA+v6/65CHRDStxePX+pyAn5fwXgFHNWdtRcROoDlihf1bekgw2GRwqeS8wCrrYk4tdgi1v61YjwfPsVGO13lLB7pHFRDQ3ccMZZz1VO60YMo8p4GLNQtTAqMqdea9uFn2Y9CT1DyWXNwleWfZlwPLB7t0V9w1yreF0o7HxPqDW7m8DYUwC5nbpgKPGZwQWrAtEBD0OsBFT09o0v+ecN+mpGeHisDhBRBvoCOK3HKhN8sDAfyutk81WQNO6cxler128GRJ9RPV1muEOAU8kb8gM28Gd4fQmB6L0tEV7DUm+UfMJ/9Ap0lkXNp0qxYJM1XJqFxnf0qbCOZgc6HFMQUGCs4FatZaVskcls=;lWvj/ztT+AJ/I0M8yDJ2Ng=="
 ---

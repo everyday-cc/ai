@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-15T00:35:00Z
 originalUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
 webUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
 type: article
-quality: 34
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
+
+images:
+  - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
+    width: 700
+    height: 467
+    isCached: true
 
 related:
   - title: "1 Hot Artificial Intelligence (AI) Stock I'm Buying More of in October"
@@ -34,6 +41,6 @@ related:
         height: 1299
         isCached: true
 
-secured: "BYtUt/Y3IwVq0RyXRHtrlcjSxNh1llTdwXgsmYfHvBDlSOZbUzt8k/EOXtwndjoN9rMMPTOXhjyFDqE8alYMe9obQMEcUiYNcfDXEE1+KZbyr0EilVRdJLHXGCm4cYzcycVUs2JpkA3+yD54ofhON3pQp++46OPeaV3c2sGJ5d1ahaSDY5TI4UQlWUPMrO+X3qHrgr0Ism5H5ZsQdY57aSCKKnUlrQzJKVYja2EehLK8FgegrOU1lD+Z+3ltDsgAiPyco0qQqrZfKHokYyp+1JFuBMGU/fsB833RL665j/J2C79i9di0Rc+3ulUziDESOnLCxvfjXU7kLT9n2l5BMeqqd54FdB3LMqDOO92IgiH/P1w0SNAFZQG+qW24ZAIC4cQVEeq4XYFYEav6DPVmLhLoGvnsIyIn5HH1IaTT98PPgAMbK8kh0fWDIpiI0lLDFoITYrgZJFiJ/NYsr6yPxvQWn/X8YPJREWUhdpO64zuo2BQPvorhSn6rF6yGldtpmCCMxXn8wA8DMj4TIuKuiQ==;pNwP+9CBPFG9ST00hVT5/Q=="
+secured: "9Okrz5+KngpPr6rte29zAzmH4bP6P4LMeCdaFBSCU7GYDhBq5ngpJ5MROV+924pxcD8ceM5GeYkNeVVBeBn2kbGNfHy7+EF13ktj5+2NNd+cFhGnrw9QD58RvDmMMFIfTFlufDcIL12EfkNpMNOalfSB3ycubho6LF7wlB5cuQPQpqrbbd/bZhsj5YPVBsj/Uz67hkQ5Cb7QiZa+a6FY4FURslDyfjdyhlkyx6C6e1geGnMzvDedFsWyMuJr6K4jy4klgLapBS54TQiZhZJHsl9vzk0Bb507q2eVjhY+L3lPyHAc4fpFmyhezqW05xWGHgI6hL3WinNbX4yPz6SLl0XIxL0cSWQjR+7Qb+z/XXs=;J3XPE4W58kpLjyBQC/N3Mg=="
 ---
 

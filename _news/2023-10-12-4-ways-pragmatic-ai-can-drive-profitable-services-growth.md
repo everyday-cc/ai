@@ -38,20 +38,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "How invisible tech and AI are working for Domino's"
-    excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
-    publishedDateTime: 2023-10-10T10:03:00Z
-    webUrl: "https://www.nrn.com/first-bite/how-invisible-tech-and-ai-are-working-dominos"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 39
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/dominos-plans-grow_9.gif"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "EdgZm6ByOs8egf8Tj1T687mpPuGoQtUWHKxNIUHWzc0bFcP6ydef/sgMn/9lqxvVtW4/mGoBCQrpc78WWYBX2WdBKYJtHYeeSfSseexPWAchsTp+IW3mqgH9LV2CKfVDM3xRcwZRnG7SxZ26iBe6AR5KfCnpVY6Q58FUof8C9XL/lQIjzo1SKzpvk7gNYMl4Cbi5BdFQQzOVsSLYV80d6HMnoyHaxacLtcdUjxNPovctMyrlaUaKnUYm6FQgxmteElWF+vhnclmnFFWDr9/jAI+MvfsA7NEjo4lYDrrL3yFHCHW/wxD2EXXjQYAAk5/e81DRX57ETZ3fORtsmjHmTHNY5Jv1UEDZ9WfeDnTH0WXMx8DzjptawRWdKcblOYH3phjScrCi/581kTnK0X7W2T0oPyhfipdeDOLxr9TGJC61toXc/bOU4nnXVs+mGahm+l4bSoylGaq5zGfSATZruboLluIYxfK1RE085zKEEqjRzAkSlxWJt+lnF8dE/M9oBDAbS6l9iBlx3rxN6cSFBA==;U6Ufaho4pgusrBbTIVXC9w=="
 ---

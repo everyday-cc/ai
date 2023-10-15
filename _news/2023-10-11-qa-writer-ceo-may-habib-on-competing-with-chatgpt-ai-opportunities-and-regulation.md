@@ -62,20 +62,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 41
-  - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
-    excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
-    publishedDateTime: 2023-10-10T11:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03144-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03144-w/d41586-023-03144-w_26135186.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "How AI and ChatGPT are transforming how we learn and work"
     excerpt: "The acronym stands for chat generative pre-trained transformer. Walker says ChatGPT is one of an expanding number of publicly available artificial intelligence (AI) text generators that rely upon algorithms to scan the web for answers to user-generated questions."
     publishedDateTime: 2023-10-12T12:55:00Z

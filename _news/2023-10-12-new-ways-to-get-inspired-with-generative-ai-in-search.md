@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-octo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
 type: article
 quality: 109
-heat: 359
+heat: 349
 published: true
 
 provider:
@@ -227,22 +227,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_magnifying_glass_over_a_drawing_742f94ef-3a3d-48da-9120-276e833303ff.png?w=1200&strip=all"
         width: 1200
         height: 672
-        isCached: true
-  - title: "Dubai Assembly for Generative AI kicks off tomorrow"
-    excerpt: "The Dubai Assembly for Generative AI supports Dubai's vision to become a global center for testing emerging technologies and taking advantage of their opportunities. The assembly complements Dubai's efforts to collaborate with decision-makers and industry leaders from around the world in order to address challenges and create new opportunities."
-    publishedDateTime: 2023-10-10T10:20:00Z
-    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe"
-    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/dubai-assembly-for-generative-ai-kicks-off-tomorrow-iqih3koe?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NmM4ZGEtZTlmMi00/0/ai-47983dd3-29de-4feb-895e-c31ba2de9ab0_.jpeg?f=3%3A2"
-        width: 636
-        height: 424
         isCached: true
   - title: "Here are some of the ways Apple might use generative AI"
     excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."

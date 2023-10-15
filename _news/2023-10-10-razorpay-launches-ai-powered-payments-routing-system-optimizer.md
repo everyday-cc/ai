@@ -57,22 +57,6 @@ related:
         width: 1600
         height: 1291
         isCached: true
-  - title: "Razorpay Launches Optimizer — An AI Powered Payments System To Cut Transaction Failure Cost"
-    excerpt: "To protect businesses from losses incurred amid transaction failures, fintech unicorn Razorpay has launched ‘Optimizer’ — an AI-Powered payments routing system."
-    publishedDateTime: 2023-10-10T09:10:00Z
-    webUrl: "https://inc42.com/buzz/razorpay-launches-optimizer-an-ai-powered-payments-system-to-cut-transaction-failure-cost/"
-    ampWebUrl: "https://inc42.com/buzz/razorpay-launches-optimizer-an-ai-powered-payments-system-to-cut-transaction-failure-cost/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/razorpay-launches-optimizer-an-ai-powered-payments-system-to-cut-transaction-failure-cost/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 49
-    images:
-      - url: "https://cdn.inc42.com/wp-content/uploads/2023/10/Razorpay-Social-1.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Fintech Unicorn Razorpay Unveils 'Optimizer': AI-Powered Payment Routing System"
     excerpt: "In a strategic move to safeguard businesses from financial losses arising from transaction failures, Razorpay, a prominent fintech unicorn, has unveiled ‘Optimizer’ – a state-of-the-art AI-powered payment routing system."
     publishedDateTime: 2023-10-11T23:31:00Z

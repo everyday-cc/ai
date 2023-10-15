@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Techno-plasticity in the Age of Artificial Intelligence"
-excerpt: "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ..."
-publishedDateTime: 2023-10-14T18:10:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
+publishedDateTime: 2023-10-14T18:13:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
 type: article
 quality: 59
 heat: -1
@@ -17,7 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Machine Learning
+  - AI in Healthcare
   - AI
 
 images:
@@ -131,6 +131,6 @@ related:
       domain: tech-ish.com
     quality: 19
 
-secured: "56aBiTnL5fnAKwAnEneh0JN50/jbEz1sAXg9OMQfm1qd6LQPZ6vm9TASsjzvBGepoqDjqhE+ydMoq+tKEvRNL+CsqB3fSIir2EShANBLJunADO+HrVB8QaeELs/j5OLeHwSd8pfOYX2FfreoUhsc+VpzVfophcVciXQvWpU7GkKuOMVWcOeXQk487TGIbJR0P+i8+RAVo67565OeiKXkuZXeniNPj1sak0MV9ZmSaR2Bin4zP4ci/bxxTfrulIf4jiOzeRLlJKqt0Sa13lW9h+lJh05E0LxWqL0sOMYlj940vwLZdD31KPLsSgSWDGoyfmTDvWmKyJxvH4defbom0z0RNhU+JrvaXTsPYBrQjgo=;hAZXm89YnzyR3JJxAbZ6iQ=="
+secured: "OynjkFsmfha3xo1BOHbwRR6UU1dFdRv7aA+n/yRp1PF6GXPy9VsN9hrQp+GLxGzOcUijtKFxVrGyLhrNy6qRaQHKheYr+vlBVvvtma9cExr/9BeFo+K+XT6uxsY3612KB+Eo6onFIKssv7tpoif0eqcV4u17PesOyypPPniqfZxEzgqFbbDorrIVVa7nd7K4CPXEznQoIWAbOzJg3Ltrkvb4odBqWcK0RkSz5NTQFn9HIPbRgrnoOGIAPqqQPn0Zmh2F8hxD3Qu53IeCYxgZGLZluOBcioWavRClDvJX9vhyyhetKRK9UBnegfkj/oXWadH518AnPfDPP1oCQsnws2gZ72rymL8BMiPR0c39vTw=;aP+IplcUiWWX2+W7V0Eqew=="
 ---
 

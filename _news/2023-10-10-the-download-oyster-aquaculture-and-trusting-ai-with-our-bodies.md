@@ -7,7 +7,7 @@ originalUrl: "https://www.technologyreview.com/2023/10/10/1081364/the-download-o
 webUrl: "https://www.technologyreview.com/2023/10/10/1081364/the-download-oyster-aquaculture-and-trusting-ai-with-our-bodies/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Are we ready to trust AI with our bodies?"
-    excerpt: "Over the next few years, artificial intelligence is going to have a bigger and bigger effect on us and the way we live."
-    publishedDateTime: 2023-10-10T09:53:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/10/1081351/are-we-ready-to-trust-ai-with-our-bodies/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/10/1081351/are-we-ready-to-trust-ai-with-our-bodies/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/10/1081351/are-we-ready-to-trust-ai-with-our-bodies/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/ai-wellness2b.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "o73ijDOOF09AmTMuJBGw8223TJK9I0eubxIrsYin9nfoYTpsR2yNPbyiIA2wn0aabjVxMlCimDwKCU0madfCpgzcZScCrbiewAnlKVrEjquO9aAg1+bwrg2uqUGWBZUmLR512nlh644IFqXqTuYSIA9OLY/EmthOA87Hajrv/lLuKSZfWOYc8YKsTNT7r44daZXzmg2RLYPLmVOhQfcqQxa6OeKWQzEM1ZA/dO3+Vu+nq1HxHcHSo4rEh/B8dAudddBsb0OtO7UPhh1jY1UYIKKSqqtjcuJkW/YBdavEqISawjHfvsAAXnV1YgQEMtOm5pfDLcXrrSXWq1D9bWOYy0/acUeU0iJHluoN6OrASyhayLv2mUlNywF+eQ/Y6dPxttYXqnm/6PaycSrg9ziqj3Qy4loWz07sAKLAokj6x2BzKyD/2dywwEOsktvfLRxBnjV1fqEJRz+RtW6W/Vx/8tOkSrZ7dA0CBjryjTVc1MDrEz7bk9pC0eq4Vz0/M5PYC5krcoiPgAAG3E60tOr06A==;RcmOyXkuFT6vxx1xTCSjhQ=="
 ---

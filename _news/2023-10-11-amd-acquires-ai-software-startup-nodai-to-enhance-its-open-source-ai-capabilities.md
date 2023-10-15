@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-sta
 webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
 type: article
 quality: 61
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/10/10/amd-to-acquire-nodai-open-source-ai-software-startup_feature.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AMD focuses on AI chips in new acquisition bid"
+    excerpt: "AMD has entered an agreement to acquire software start-up Nod.ai, as the semiconductor giant makes a push into the AI chips market."
+    publishedDateTime: 2023-10-11T13:55:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/amd-nod-ai-acquisition-semiconductors-chips"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/AdobeStock_627078046_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "AMD acquires open-source AI software pioneer Nod.ai to fortify AI capabilities"
     excerpt: "The purchase of Nod.ai, founded just three years ago, shows that AMD is serious about staking a claim in the rapidly growing AI chip market, which is expected to reach $383.7 billion by 2032,  according to industry analysts."

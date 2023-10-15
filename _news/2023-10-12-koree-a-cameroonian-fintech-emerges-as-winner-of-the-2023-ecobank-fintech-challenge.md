@@ -28,15 +28,6 @@ related:
       name: IT News Africa
       domain: itnewsafrica.com
     quality: 19
-  - title: "Cameroon’s Koree wins Ecobank Fintech Challenge"
-    excerpt: "Koree, a fintech company based in Cameroon, has been declared the overall winner of the 2023 Ecobank Fintech Challenge at the competition’s grande finale held at the bank’s headquarters in Lome, Togo."
-    publishedDateTime: 2023-10-10T09:22:00Z
-    webUrl: "https://it-online.co.za/2023/10/10/cameroons-koree-wins-ecobank-fintech-challenge/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Koree, a Cameroonian Fintech Emerges as Winner of the 2023 Ecobank Fintech Challenge"
     excerpt: "Koree from Cameroon is the competition’s first ever female-led fintech winner having beaten eight other finalists to claim the top"
     publishedDateTime: 2023-10-10T12:20:00Z

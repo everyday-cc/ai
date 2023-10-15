@@ -40,15 +40,6 @@ related:
         width: 2918
         height: 1855
         isCached: true
-  - title: "Demand more from social with AI-powered ads"
-    excerpt: "Learn how Demand Gen campaigns can help you drive better results across YouTube and Google. See new case studies, videos, tips, and more."
-    publishedDateTime: 2023-10-10T10:00:00Z
-    webUrl: "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "OpenAI-Specific Code Nixed from Semantic Kernel AI SDK"
     excerpt: "Officially the company's \"What is Semantic Kernel?\" documentation says: \"Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python."
     publishedDateTime: 2023-10-13T19:07:00Z

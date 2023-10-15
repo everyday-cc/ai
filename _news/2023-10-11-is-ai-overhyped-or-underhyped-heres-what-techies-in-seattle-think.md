@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI is overhyped, Warren Buffett's right-hand man Charlie Munger says"
-    excerpt: "Berkshire Hathaway's vice chairman Charlie Munger is skeptical about the AI hype and previously said: \"Artificial Intelligence won't cure cancer.\""
-    publishedDateTime: 2023-10-10T09:08:00Z
-    webUrl: "https://www.businessinsider.com/berkshire-hathaway-charlie-munger-on-ai-being-overhyped-warren-buffett-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/berkshire-hathaway-charlie-munger-on-ai-being-overhyped-warren-buffett-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/berkshire-hathaway-charlie-munger-on-ai-being-overhyped-warren-buffett-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
-    images:
-      - url: "https://i.insider.com/645bfa7665275b0018b7e7a3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Charlie Munger Thinks That Artificial Intelligence (AI) Is Overhyped. Is He Right?"
     excerpt: "Last week, Munger spoke at Zoom Video Communications ' Zoomtopia conference in San Jose, California. He stated at the conference that he thinks artificial intelligence (AI) is overhyped. Is Munger right?"
     publishedDateTime: 2023-10-11T09:53:00Z

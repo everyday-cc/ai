@@ -55,20 +55,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 41
-  - title: "How ChatGPT and other AI tools could disrupt scientific publishing"
-    excerpt: "A world of AI-assisted writing and reviewing might transform the nature of the scientific paper."
-    publishedDateTime: 2023-10-10T11:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03144-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03144-w/d41586-023-03144-w_26135186.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Q&A: Writer CEO May Habib on competing with ChatGPT, AI opportunities, and regulation"
     excerpt: "AI startup Writer is looking to win in what's probably the most obvious place to make money in artificial intelligence right now: enterprise. The generative AI company made headlines in September when, in a still-slow VC environment, it raised $100 million ..."
     publishedDateTime: 2023-10-10T17:33:00Z

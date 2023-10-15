@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/startup/saas-start-up-superopsai-closes-ser
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/startup/saas-start-up-superopsai-closes-series-b-funding-at-124-million-will-invest-in-ai-and-market-expansion-18011221.htm/amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1019
     height: 573
     isCached: true
-
-related:
-  - title: "SuperOps.ai Returns To Its Backers To Raise Another $12 Million"
-    excerpt: "SuperOps.ai aims to build a one-stop-shop for managed services providers looking for tools to run their customers' IT"
-    publishedDateTime: 2023-10-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/"
-    ampWebUrl: "https://www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2023/10/10/superopsai-returns-to-its-backers-to-raise-another-12-million/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65251ad6393acaba72a9bd20/0x0.jpg?format=jpg&crop=2512,1176,x421,y1059,safe&width=1200"
-        width: 1200
-        height: 562
-        isCached: true
 
 secured: "10epi8Suz5cwFSI0SWMxlci4YI1EDNcMn+YFrbxtPKnpPu0qREwVSMmR+z6ZFyctbxE+sTkq13cbkZcucASX/nJLoekMWOlmw9qCk5GM7YFt+XwlEC774Tluoiy849ovnTC2bw9a1p2D/Uj444UbNImPBAb59rSzKuqI3PW4Uzpd3AvjEvi9u523iKebUkmTmKN5DDPsAIjKIJr+XI6imbdgn/0gMQ/9vKGhKVNFmZNqdzeVpMAJ1GZ0rg9pghxze7f7pO8llACzabf691pQ1syh/00Zpjro3npLW06PP+WCs0VzZfxQIj46+qT0t3kuPx1V+7viOoK8O9F5dq9uQS/KVpooDLNXFxJBCuPJfeW6dtbGXBtpMUXoFHUXzrjOEledtbIUQwRvfbqHaSij9rNbkCXZiw2mDDG1z60sojLlPFwEBQEbR7b7Tb49gUxLlebVTNb3EbfEksskpxq0dhnOgl/ZdhQwfmizNUAUqPMyfCBcFFqwAZzUvOpvYwxvt5OUv50O1QcMML23LOjQQA==;LyYUIRxnBwhN2SxUJg5Z9w=="
 ---

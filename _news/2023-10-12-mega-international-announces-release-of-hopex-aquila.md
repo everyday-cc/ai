@@ -7,7 +7,7 @@ originalUrl: "https://www.securityinfowatch.com/cybersecurity/press-release/5307
 webUrl: "https://www.securityinfowatch.com/cybersecurity/press-release/53075022/mega-international-announces-release-of-hopex-aquila"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "MEGA International Announces Udpated AI-driven Enterprise Architecture Platform"
+    excerpt: "MEGA International, an enterprise architecture SaaS software company, announces the launch of HOPEX Aquila, an AI-driven solution for digital transformation. Leveraging a partnership with Microsoft, HOPEX Aquila includes the launch of the new HOPEX AI Assistant."
+    publishedDateTime: 2023-10-12T20:31:00Z
+    webUrl: "https://insidehpc.com/2023/10/mega-international-announces-udpated-ai-driven-enterprise-architecture-platform/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 35
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/12/Generic-data-algorithm-shutterstock_768710794.jpg"
+        width: 500
+        height: 270
+        isCached: true
 
 secured: "GYhMN8kVYIoXLkrUyrQadlVwntZ6oC3YdjnkpXUKixEyA3DFm9nBTdXSnCAR03O6FyRfzLgId9s2l6kUU5lyNiXviSglkkaxnLOYSCVNowaZPEEHf1Dv9BzMQl6+ZJOGE3Gs7nY6xtjR2qnHMqTOrLFe5OgvXNt4sxBAk/Pz6hzTAQRkytQ0dkyh9vdveCgDu8AwhmHeRSPN+uDZ943LRBgXguT+NlZGZ0dAd2tuto7lduV6lB+fa0wveKWJEw9qusOpqn5WBbhcN/4HgRJzQlqbsSxA/8HMb4bX7kDiW136lb6QU8aBR6n4xOH2mxLpF/QAUstxtb1yw23RqMZcKbnfi6AC1VbluAK6nGF/G32rIHvGxML+TW+V5KSGFUUo8UIsvq1qFqa8KrGoq1wqSPHWd8Z3CZrmTQpPn+dLnSSyvgIlay4Guo3llTXH4Ktd5VMEjWDtQUlBEk3xKsQkmA00IRR/ezmdRf8bOX0GgPKi6hg4xB8JVxc/R47urlktNx7ps5J3dl7CmyNVuqK8aA==;2w1m7edsDwj/gPGbMnOH8Q=="
 ---

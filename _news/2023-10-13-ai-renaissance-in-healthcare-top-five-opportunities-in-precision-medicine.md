@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaiss
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
 type: article
 quality: 102
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Google encourages entry of AI into healthcare: Here’s all you need to know"
-    excerpt: "a good starting point to discuss the responsibility and liability of AI?... RBI Deputy Governor Rabi Shankar called for self-regulation in the fintech sector, but here's why we disagree with his stance. Both the IT Minister and the IT Minister of State ..."
-    publishedDateTime: 2023-10-10T10:55:00Z
-    webUrl: "https://www.medianama.com/2023/10/223-google-ai-healthcare-all-you-need-to-know/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 34
   - title: "AI in Healthcare: Patients' Comfort Tied to Familiarity"
     excerpt: "Utilizing artificial intelligence must address concerns spanning across generations, making it crucial to ensure that AI adoption benefits people of all age groups."
     publishedDateTime: 2023-10-10T19:37:00Z

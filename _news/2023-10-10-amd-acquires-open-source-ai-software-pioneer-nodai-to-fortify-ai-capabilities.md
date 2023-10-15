@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AMD focuses on AI chips in new acquisition bid"
+    excerpt: "AMD has entered an agreement to acquire software start-up Nod.ai, as the semiconductor giant makes a push into the AI chips market."
+    publishedDateTime: 2023-10-11T13:55:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/amd-nod-ai-acquisition-semiconductors-chips"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/AdobeStock_627078046_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AMD Makes Second AI Software Acquisition In Less Than Two Months"
     excerpt: "AMD revealed it has acquired Nod.ai to boost its open AI software capabilities, making it the company's second AI software acquisition in less than two months."
     publishedDateTime: 2023-10-10T15:20:00Z

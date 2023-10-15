@@ -149,6 +149,22 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "News live: Australia reacts to voice referendum results; thousands gather for pro-Palestine rallies"
+    excerpt: "Follow the latest news and updates today after the results of the 2023 Australian Indigenous voice to parliament poll Government ... it’s a referendum on a particular model of constitutional recognition. Secondly, I think we need to reflect on what ..."
+    publishedDateTime: 2023-10-15T03:51:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls?page=with:block-652b60a28f080e3e7b6d7e3b"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 30
+    images:
+      - url: "https://i.guim.co.uk/img/media/c9a0472a3fa382a05074147d005944ea08b21306/0_587_8256_4953/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=6288935b2381e698949c9b272635ecb4"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened"
     excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
     publishedDateTime: 2023-10-14T23:23:00Z
@@ -236,6 +252,20 @@ related:
       - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "‘Lies fuel racism’: how the global media covered Australia’s Voice to Parliament referendum"
+    excerpt: "Could the vote affect the way the world views Australia and potentially have an impact on Australia’s international relations?"
+    publishedDateTime: 2023-10-15T03:32:00Z
+    webUrl: "https://theconversation.com/lies-fuel-racism-how-the-global-media-covered-australias-voice-to-parliament-referendum-215665"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 14
+    images:
+      - url: "https://images.theconversation.com/files/553809/original/file-20231015-21-omw9es.jpg?ixlib=rb-1.1.0&rect=24%2C370%2C8218%2C4103&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
     excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."

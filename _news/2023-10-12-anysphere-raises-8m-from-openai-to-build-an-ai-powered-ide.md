@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Demand more from social with AI-powered ads"
-    excerpt: "Learn how Demand Gen campaigns can help you drive better results across YouTube and Google. See new case studies, videos, tips, and more."
-    publishedDateTime: 2023-10-10T10:00:00Z
-    webUrl: "https://blog.google/products/ads-commerce/demand-more-from-social-with-ai-powered-ads/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
   - title: "Vercel announces the beta of v0, its AI-powered tool for front-end web development"
     excerpt: "Front-end application development platform startup Vercel Inc. today announced the beta launch ... to adopt frameworks and tools that improve product experience that use AI chat interfaces. The company helped this along by offering a software development ..."
     publishedDateTime: 2023-10-11T17:05:00Z

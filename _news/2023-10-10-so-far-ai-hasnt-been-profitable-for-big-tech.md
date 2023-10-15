@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2023/10/so-far-ai-has
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/so-far-ai-hasnt-been-profitable-for-big-tech/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
-  - title: "How invisible tech and AI are working for Domino's"
-    excerpt: "Domino’s Pizza announced last week that the company is partnering with Microsoft Cloud and Azure OpenAI Service to create generative AI"
-    publishedDateTime: 2023-10-10T10:03:00Z
-    webUrl: "https://www.nrn.com/first-bite/how-invisible-tech-and-ai-are-working-dominos"
-    type: article
-    provider:
-      name: Nation's Restaurant News
-      domain: nrn.com
-    quality: 39
-    images:
-      - url: "https://www.nrn.com/sites/nrn.com/files/dominos-plans-grow_9.gif"
-        width: 1540
-        height: 800
-        isCached: true
 
 secured: "JHEm/WQxNgbShccG1JdWOEIXkTx0MJ/pQn9Dp/TxAS9MkFktgcfKRvkCSU377bBVVyv3W7JlsinRmHVD5B1MgSYlB1wzZP+Te9vezpLjo4tc6J2ZbcGBTFknD0HpmmG9PuRRX59Ee/TxWWQie8QwXdoU25lPgCccoFZSnzoeh1O7dIWztzu8oTBnw1GT6qTaWLVi93Nba7Y3csX8sWx4XChsW7LKJLxXzmzW/yw+PpV1nBFTMwMjKzmHJe2m9zrF0+ujP1ryJQjdWXEwYNFbHL8OKKOT4ZTq76xzJdVHkmgJqJ81p/Z38IscCwynZC4osDYkJbVWu9I1/6Y+5wi08HuolnhCI8la2mtSkOgDnxmNMRJMKtWY6dfwqjVuiurwwqIwKCzoTClNpwwGhMRS+eoH+6T97+/P/bPMlLRyUV12UHwmxdjWz7bMgsqw35cF/X/KH1F6zjQ8JIZsCtvM3sBxkzqovm+uHmkrfoUhe8RXm/qSMUPmYJv95oFzyXqkERD0C/mXqYDAAhINc5s+Ig==;FE7atqh+ZczfFjLPYAjJ2g=="
 ---

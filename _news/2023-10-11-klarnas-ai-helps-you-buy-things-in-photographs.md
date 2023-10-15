@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-phot
 webUrl: "https://www.pcmag.com/news/klarnas-ai-helps-you-buy-things-in-photographs"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
+    excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
+    publishedDateTime: 2023-10-12T13:08:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214238-global-fintech-klarna-leverages-ai-for-human-shopping-experience/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
 
 secured: "yd8ucJtNvoFW87kAzDMCb/UeQIlLdnEKo+5o4altEDlFdKeM7Rbw71GRxK1GRLxmKrow+y5woOUtJuprRWphvXT9cp7N+fTbSBMwRB36mKXnVsWpri6Mi6BMKu9OSbM7VVuo0AvCmYRZDbxiMjCMbXEFT6X5r9MbQkXh1rcPNxJXINDlj5FjzssZeXDVBJWoDctPtw0fKqy5v7Q3yTtGsj4k+CTblzbkBV7k8Aq3BNnCdKeho6Ssc5rthBmbM8HaaVMIZPeB8QQNe3zRLMlteBBZHWK896VfPdnjznXSBsmcj/0Ct8HErFas7LFsF/Zmlt9jmKoIRyyNcLwAdOG1/kdegmgaLnX2I6jFWK38+JR3mSZct9iUiKyXE41yRsnbNHvOcB5I36JCK0xrqIvUV0DX548wx/vGciUnWNqHk7MAaqsf3ZQb+712jZDqQHtm8adlkqslFcl2i0KOSG8PZk7ha92R7ZdgkzFAq6GhPeySFbELcZlsb5sOsU/UzpNIC/LJmGGFs4Q/KxySPpiSUA==;CHW5YtOP/DTC2djsPEnKPw=="
 ---
