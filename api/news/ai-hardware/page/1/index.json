@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-16-better-ai-stock-tesla-vs-alphabet.md",
-      "title": "Better AI Stock: Tesla vs. Alphabet",
-      "excerpt": "Tesla also has an opportunity in AI with its Dojo proprietary supercomputer, which it says will significantly lower the cost of training AI models. It will also allow Tesla to sell cloud infrastructure services, putting it in direct competition with cloud titans like Amazon, Microsoft, and Alphabet.",
+      "path": "_news/2023-10-16-new-us-rules-on-ai-chip-exports-aim-to-stop-workarounds-on-china-sales-says-us-official.md",
+      "title": "New US rules on AI chip exports aim to stop workarounds on China sales, says US official",
+      "excerpt": "The US will take steps to prevent American chip makers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s coming actions to effectively block more AI chip exports. The new ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/15/better-ai-stock-tesla-vs-alphabet/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/15/better-ai-stock-tesla-vs-alphabet/",
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3238039/new-us-rules-ai-chip-exports-aim-stop-workarounds-china-sales-says-us-official",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3238039/new-us-rules-ai-chip-exports-aim-stop-workarounds-china-sales-says-us-official",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 222,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/750833/artificial-intelligence-robotics-ai-touchscreen.jpg",
-          "width": 7680,
-          "height": 4320,
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/16/b428d567-43fb-45a5-9713-019ffa468cbc_9a8df794.jpg?itok=259H5_Fa&v=1697408479",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T10:45:00-07:00",
+      "publishedDateTime": "2023-10-15T15:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "scmp.com",
+        "domain": "scmp.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,7 +51,7 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Autos"
+        "AI in Sales"
       ]
     },
     {
@@ -249,21 +249,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-13-china-says-it-will-closely-follow-proposed-us-move-on-ai-chip-curbs.md",
-      "title": "China says it will closely follow proposed US move on AI chip curbs",
-      "excerpt": "China's foreign ministry said on Friday the country will closely follow possible moves by the United States to close a loophole that gives Chinese companies access to American artificial intelligence chips through units located overseas.",
+      "path": "_news/2023-10-13-exclusive-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad.md",
+      "title": "Exclusive: Biden eyes adding AI chip curbs to Chinese companies abroad",
+      "excerpt": "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C",
-      "originalUrl": "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C",
+      "webUrl": "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/",
+      "originalUrl": "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "url": "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -273,7 +273,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T23:35:00-07:00",
+      "publishedDateTime": "2023-10-13T02:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -499,49 +499,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-rule-curbing-ai-chip-exports-to-china-under-final-review.md",
-      "title": "Rule Curbing AI Chip Exports to China Under Final Review",
-      "excerpt": "(Reuters) - A U.S. rule that restricts shipments of certain advanced chips to China has been revised and is under final review, according to a government posting, suggesting that further curbs on chips that can be used for artificial intelligence are coming soon.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1411,6 +1368,58 @@
       "ampWebUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
       "publishedDateTime": "2023-10-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-04-pixel-8-pro-runs-googles-generative-ai-models-on-device.md",
+      "title": "Pixel 8 Pro runs Google’s generative AI models on-device",
+      "excerpt": "The newly announced Pixel 8 Pro will be the first hardware to run some of Google's generative AI models on-device.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
+      "originalUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Pixel-8-Pro-Camera-1.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/pixel-8-pro-runs-googles-generative-ai-models-on-device/amp/",
+      "publishedDateTime": "2023-10-04T08:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",

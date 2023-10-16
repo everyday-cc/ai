@@ -2,19 +2,19 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-10-13-china-says-it-will-closely-follow-proposed-us-move-on-ai-chip-curbs.md",
-      "title": "China says it will closely follow proposed US move on AI chip curbs",
-      "excerpt": "China's foreign ministry said on Friday the country will closely follow possible moves by the United States to close a loophole that gives Chinese companies access to American artificial intelligence chips through units located overseas.",
+      "path": "_news/2023-10-13-ultra-efficient-machine-learning-transistor-cuts-ai-energy-use-by-99.md",
+      "title": "Ultra-efficient machine learning transistor cuts AI energy use by 99%",
+      "excerpt": "AI machine learning uses so much computing power and energy that it's typically done in the cloud. But a new microtransistor, 100X more efficient than the current tech, promises to bring new levels of intelligence to mobile and wearable devices.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C",
-      "originalUrl": "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C",
+      "webUrl": "https://newatlas.com/technology/ai-machine-learning-transistor/",
+      "originalUrl": "https://newatlas.com/technology/ai-machine-learning-transistor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 98,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+          "url": "https://assets.newatlas.com/dims4/default/e99a0d4/2147483647/strip/true/crop/970x509+0+70/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F30%2Ff5%2Fc1888d57472eb8eff918fddb0623%2Fhersam970-fitmaxwzk3mcw2ntbd.jpg&na.image_optimisation=0",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T23:35:00-07:00",
+      "publishedDateTime": "2023-10-12T23:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "New Atlas",
+        "domain": "newatlas.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Machine Learning",
         "AI"
       ]
     },

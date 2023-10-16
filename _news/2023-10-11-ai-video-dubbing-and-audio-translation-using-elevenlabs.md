@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Video editing startup Captions launches a dubbing app with support for 28 languages"
+    excerpt: "Using translation and AI-dubbing to reach a wider audience is a growing trend. In June, YouTube announced that it is testing an AI-powered tool to let users automatically dub their videos in other languages. The company said it is even working on better ..."
+    publishedDateTime: 2023-10-11T13:27:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/video-editing-startup-captions-launches-a-dubbing-app-with-support-for-28-languages/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 28
   - title: "ElevenLabs Adding AI Dubbing For Audio For Broadcasters"
     excerpt: "Voice cloning startup ElevenLabs has introduced AI Dubbing, a product aimed at translating speech into over 20 languages."
     publishedDateTime: 2023-10-11T17:07:00Z

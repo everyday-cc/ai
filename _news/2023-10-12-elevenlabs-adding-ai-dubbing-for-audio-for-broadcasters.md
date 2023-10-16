@@ -33,6 +33,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Video editing startup Captions launches a dubbing app with support for 28 languages"
+    excerpt: "Using translation and AI-dubbing to reach a wider audience is a growing trend. In June, YouTube announced that it is testing an AI-powered tool to let users automatically dub their videos in other languages. The company said it is even working on better ..."
+    publishedDateTime: 2023-10-11T13:27:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/video-editing-startup-captions-launches-a-dubbing-app-with-support-for-28-languages/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 28
 
 secured: "Oz6ID0laZZAj9if15+UkTzQ+DmvgbhXHEVOXYZjAG/kMEMIBv0+FBb/y13UvsOakjZxupaAKmSgSC9Cp4LVrWNpPlmbNKxjkGqzk2S0AHGBpp/2AXbqKVdi9K2lqG97y4Xlboh4ChCFkm1NK+MF9ZlMpxMWwdgs8cShSl2ArpTmP3NztGXdORkzHXoLGEE0DyCJYSSY27GPVZhlE9CHERK8yLazl7RZnAG26s5NbAPZty30ZHWXCOGJ10v/tEVofJUbnXnrxCn9Eu/yg58ikZBxa+A98YIEMHkRVhT5Ly6xEYu2vRKdHtnBLRZrSzTJQag6XMTaNX+Vlpk8i3RTD3tfOBDAerr+WCxTwXswXWH+a4LZtzJabZF8PZbAdTEHOp0QvPYTrkWZE3TnjEpbmT4eRJPL9dNeM6OVy8gTHf6stAFU1Dm/cYpzVuqgwoZ75nnpqvhlFbew0U1z6FxaRrsTLIY+NQn+X7+FXTKJ8da1f0/YdduKbO0B+/bPehTI0BAeEL1nTTaDDRJu+ORzNfw==;YiZ97qZiVeTE3H5Fp51wAA=="
 ---

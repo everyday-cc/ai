@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-jap
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:

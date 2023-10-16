@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 1004
         isCached: true
-  - title: "AMD focuses on AI chips in new acquisition bid"
-    excerpt: "AMD has entered an agreement to acquire software start-up Nod.ai, as the semiconductor giant makes a push into the AI chips market."
-    publishedDateTime: 2023-10-11T13:55:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/amd-nod-ai-acquisition-semiconductors-chips"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/AdobeStock_627078046_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AMD Aims to Bolster Software Capabilities with Nod.ai Acquisition"
     excerpt: "Advanced Micro Devices (AMD) is strategically moving to rival chipmaker Nvidia. It plans to acquire an artificial intelligence startup"
     publishedDateTime: 2023-10-11T20:58:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/10/what-is-crypto-malware-1.jpg"
         width: 1940
         height: 1282
-        isCached: true
-  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
-    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
-    publishedDateTime: 2023-10-11T07:05:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 36
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
-        width: 1000
-        height: 600
         isCached: true
   - title: "AMD’s Strategic Play: Acquisition of Nod.ai to Challenge Nvidia’s Dominance"
     excerpt: "As the AI industry continues its exponential growth, the competition for dominance in the hardware sector intensifies. AMD, a pivotal player in the microprocessor and graphics processor market, has taken a significant step towards bolstering its position against the industry titan,"

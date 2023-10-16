@@ -88,22 +88,6 @@ related:
         height: 576
         isCached: true
   - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
-    excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-    publishedDateTime: 2023-10-14T12:06:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 47
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
     excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
     publishedDateTime: 2023-10-14T17:07:00Z
     webUrl: "https://www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/"
@@ -194,6 +178,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/c9a0472a3fa382a05074147d005944ea08b21306/0_587_8256_4953/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=6288935b2381e698949c9b272635ecb4"
         width: 620
         height: 372
+        isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T11:27:00Z
+    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://dims.apnews.com/dims4/default/1c0fdaf/2147483647/strip/true/crop/7700x4331+0+401/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F82%2F5612b341fff34b16478effe5688e%2F60302059f3c845c4b99d810132b81e3e"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened"
     excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
@@ -353,6 +351,6 @@ related:
       domain: houstonchronicle.com
     quality: 0
 
-secured: "JKEBoZyHkwe7ud+9iPNpOk5p8SfABsP/8MvBJMqq4YxuBuEvxKyNaAa7VmY07IubSS+IEgveWDL5xo+5+YXmYGHjMHOq0vGba3LqMdvBbTmOyWrmAAM3RwDax3CIzivCBqOn0zAIpiAyHpk2HTb4dxNeT3Z5MjGvfQ0BEM57IdSZcEDSZ/uFDP3aG2D5Zd8WxnrYiSHZGCCNgAUq2LO40TLuRJ4pdiQBAZdRZHiUQ7FLUgX5mHspyFowJOtTv739gL7ueulADP0GEGttXJtT4Cjd627gI0D/Q30NI4rAdqaYPTT37QEk8FGMfpWc4mzKVxaGgsM0G2ZhmwhY22WGMAP09/dQJRMsgB+DBTnj0rg=;pxAB7GZ+krUUm1oGzJA7hA=="
+secured: "lfU0141hfZhTILEfYCzUaVG7LPkeLdY4dc68xhcNWrL35iaxeSAasXjkG/cyE7mPfXuRLAtcq885siRK6S4/NYIQBW22+C3GJCaWSkNTeVVQl0Gw3dBrffMTaENKlTi22EiX/EYMumcjCzA/09WoQo/DvYHoMsXuqJ0Ze0rNNlIx3XVPUf7QFs0xMD4KEGRwseGfH1Itv+wjH9DrHPMJMfoUl+Jsu4DuIBAXVjdSA0LRbnSMWKTPx4l2iixpTjQsuiGWCYjtNy0v0Y9ma9utZYs0wp1aCTJYQq+0Y8wzjygO/3OuCt37P2Uy2IF+rJUKADJf7gxZkHz+5v9/Ev5pfHfqGLM8tS7pdTn+Fo6ez1ah7yYNPTqzVDkOS3QtO8sU1p0RxH/4yqaUmZvIB2bGlqZDzm/+qiLHm0kbLWSR7nFoAEKyQjWsCdxM9+25oRm2EvMaou0ZynZD9czU9jNYSnLciQtyjr7kDsdFFoeRWu+oWSsh04hENHo1gae/b6vaK2UKz7dEAY4TIkG/8gi3rw==;Hw6RuE+U4RlonkdoWJ0wgA=="
 ---
 

@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 1004
         isCached: true
-  - title: "AMD focuses on AI chips in new acquisition bid"
-    excerpt: "AMD has entered an agreement to acquire software start-up Nod.ai, as the semiconductor giant makes a push into the AI chips market."
-    publishedDateTime: 2023-10-11T13:55:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/amd-nod-ai-acquisition-semiconductors-chips"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/AdobeStock_627078046_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
     excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
     publishedDateTime: 2023-10-11T08:58:00Z
@@ -95,20 +81,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2023/10/what-is-crypto-malware-1.jpg"
         width: 1940
         height: 1282
-        isCached: true
-  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
-    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
-    publishedDateTime: 2023-10-11T07:05:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 36
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
-        width: 1000
-        height: 600
         isCached: true
   - title: "AMD to finalise acquisition of software startup Nod.ai"
     excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."

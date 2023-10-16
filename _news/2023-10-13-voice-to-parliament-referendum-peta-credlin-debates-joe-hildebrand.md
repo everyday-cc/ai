@@ -41,6 +41,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 15
+  - title: "Voice referendum: Double trouble for the Yes camp"
+    excerpt: "Yes campaigners in Queensland and Western Australia are ­bracing for a bruising defeat at Saturday’s referendum, despite a flurry of volunteer-driven last-minute action in the outlying states."
+    publishedDateTime: 2023-10-13T09:09:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/voice-referendum-double-trouble-for-the-yes-camp/news-story/17cd73129567b5d7f502792461b9eec8"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
   - title: "Voice referendum: Truth-telling for Albanese as voters deliver defeat"
     excerpt: "Anthony Albanese will reaffirm Labor’s commitment to advance reconciliation while pursuing ­treaty and truth-telling and reset the government’s focus on cost-of-living pressures and national ­security,"
     publishedDateTime: 2023-10-15T11:26:00Z

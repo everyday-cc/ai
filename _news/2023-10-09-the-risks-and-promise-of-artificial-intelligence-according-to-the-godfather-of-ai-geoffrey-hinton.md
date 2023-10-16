@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/05/a6fb9af0-edd5-4ccb-9a88-32f5c8966561/thumbnail/1200x630/5e0c9474ae073fd720ef4f91379fcc0e/walk-2.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
@@ -44,6 +45,6 @@ related:
         height: 213
         isCached: true
 
-secured: "7cQG7evZvGReph0LVrLJJWmi8mgtqWFuG7fEtqj80PtXtMh21hrMI62ybg9xQAsVu6D/MpWFyG4KGMf9SNmc5rIBdKCQYKTgA+RWsilnKKTlreNZwnOheaKCz0tjebEtOoVxpkVjQ//ZWiYpLmGPHASuZk4vYPcHy37cAfD3uja8YFoyaT0pAm92ZaCI4TuU1wPfH1fR3tj4IsVrwcFI+5ox54Jp/31txTfv/QjntERGvEqvOD5LZqBjGNXbxND46uMaj5mARsdnYSkigYp/ve6tXuqt1fWAm4bxBjb1+OmIEfv2gW5pvBfYJZuWMCMomyPnqaj/CEY9+J8xE33/pECJ7m83/U0upfHwpq3J8sk=;FCEPyZClY5D04cAEnnJGGw=="
+secured: "sp3kvZmEVkRj2OVBPYynpxofZsIpdftvwv2sNG1U8mFcTNh3PMlSyKhQQnuqGx3zfeQQXeKDJf+NsejFVwtZaRliQ1FWtAbDg2sNR4dPbYmIGx1x7pvhieQR4QPBLLLcxrLuLqkleRnK8BPRBs0PiCTxMxgQ3j8Nc9yaXcZoQCaMt9npJp67pgSqa+2RnJ4frtwdQf7pViF1kUx37w7S1Q8nwqB7p4/jk+nhZ/5xpK+yaAD0FZGiWbcuE8Ep7Nk+JIL3Wbj0GiHoSUXtutQpmLCaQTYnCfLgKnfOwwtAVeREr0fHseYF9dRqTLW85DlwxDLjcfUoCvKW/l8xLtFCOVllUx8bWWHRo90lXHLwu2dWRw3h5Lo2b/l2Rwj+L1T+Lo8WrUH434e4vghInY1U9faQq7WXmVQ3VI3elASoli/rChaMSzlPvpIoD5/UbYe3ZMRxV9babY8TitxAikJngxWbbqK3r2N8ILs/WZKFNOnMcMTwkpOjDIQvSUvrHQkU/E6E7LrrHN9qz5W98OzPAg==;vV+3NRP8o5OMgwLgCuVSag=="
 ---
 

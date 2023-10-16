@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/gen-z-how-to-write-email-outlook-ai-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gen-z-how-to-write-email-outlook-ai-could-help-2023-10?amp"
 type: article
 quality: 81
-heat: 82
+heat: 81
 published: true
 
 provider:

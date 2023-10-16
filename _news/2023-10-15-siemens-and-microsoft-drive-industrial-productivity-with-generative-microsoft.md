@@ -33,22 +33,6 @@ related:
         width: 1600
         height: 901
         isCached: true
-  - title: "Microsoft announces new AI chatbot, features for doctors, pathologists"
-    excerpt: "Microsoft has unveiled new healthcare tools in Azure AI, including a generative AI chatbot, Text Analytics for health, and three new models within Azu"
-    publishedDateTime: 2023-10-11T06:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/articleshow/104334034.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/amp_articleshow/104334034.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsoft-announces-new-ai-chatbot-features-for-doctors-pathologists/amp_articleshow/104334034.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-104334034,width-1280,height-720,resizemode-4/104334034.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
     excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
     publishedDateTime: 2023-10-15T18:30:00Z
@@ -123,19 +107,19 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
-  - title: "Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences"
-    excerpt: "Every industry depends on unique insights to achieve their goals, and unlocking the power of data is the key to an organization’s success. This is especially true in healthcare, where data has the potential to do so much good – from improving health outcomes and enhancing patient and clinician experiences to driving better organizational"
-    publishedDateTime: 2023-10-11T05:38:00Z
-    webUrl: "https://blogs.microsoft.com/blog/2023/10/10/microsoft-introduces-new-data-and-ai-solutions-to-help-healthcare-organizations-unlock-insights-and-improve-patient-and-clinician-experiences/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 16
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
     publishedDateTime: 2023-10-14T23:01:00Z
     webUrl: "https://www.inferse.com/753875/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 15
+  - title: "BHP unleashes the power of digital at world's largest copper mine … – Microsoft"
+    excerpt: "By Microsoft News Center 30 May, 2023 BHP and Microsoft have today announced a first-of-its-kind partnership to improve copper recovery at the global"
+    publishedDateTime: 2023-10-15T21:58:00Z
+    webUrl: "https://www.inferse.com/756137/bhp-unleashes-the-power-of-digital-at-worlds-largest-copper-mine-microsoft/"
     type: article
     provider:
       name: Inferse

@@ -68,6 +68,20 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Days after Voice vote, Peter Dutton waters down Indigenous recognition commitment"
+    excerpt: "Coalition leader Peter Dutton has talked down his commitment to recognise Indigenous Australians in the constitution just days after the Indigenous Voice to Parliament referendum, saying Australians are \"probably over the referendum process for some time\"."
+    publishedDateTime: 2023-10-15T23:56:00Z
+    webUrl: "https://www.sbs.com.au/news/article/days-after-voice-vote-peter-dutton-waters-down-indigenous-recognition-commitment/t5or4hzpz"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 19
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/f1b9642/2147483647/strip/true/crop/4703x2645+0+245/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5e%2F9e%2F917dd67541cbb9c54d32815d25f3%2F20231011001851029261-original.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "l2K3ZlaAaUjxA/P3M80yXzcftky4mOh4t0JhhKcXN1n2xXC2PrUvSAxUvPrCsdnXIbyYDnZYoA/WEmIcTrGmJss0NqUX7zBMYY63Bx+rkHPiHd8bmgNhc34hVS5RZhMHz37WNXie0daU+n3vJZXRAKc49LUddrYhu4u2FdLgwOw2ZNWKVda/qvwlLr4tNT62mdliOxKi+qWkyVnRIST3MTVUYEXfSWROwuRssl0istEq4xsLBYXpIY7I6UiI94AEvaznt6X6pln0L0PWj0UmRZJMNm5YYCu0X9alEt5Yv5XBLc45ujk1i8DHdiycAp5gMg1nQXA4TWLwo0H5XDdAB/1L7OKyVp3snKbNL/PyjG0=;78PnbZtfJcKJ5IlIW64wqA=="
 ---

@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Better AI Stock: Tesla vs. Alphabet"
-    excerpt: "Tesla also has an opportunity in AI with its Dojo proprietary supercomputer, which it says will significantly lower the cost of training AI models. It will also allow Tesla to sell cloud infrastructure services, putting it in direct competition with cloud titans like Amazon, Microsoft, and Alphabet."
-    publishedDateTime: 2023-10-15T17:45:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/15/better-ai-stock-tesla-vs-alphabet/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/750833/artificial-intelligence-robotics-ai-touchscreen.jpg"
-        width: 7680
-        height: 4320
-        isCached: true
   - title: "BigBear.ai (NYSE:BBAI) Stock: Will this Penny Stock Go Up from Here?"
     excerpt: "Shares of BigBear.ai Holdings (NYSE:BBAI) have corrected quite a lot, losing nearly 78% of its value from the 52-week high. However, analysts"
     publishedDateTime: 2023-10-11T11:21:00Z
@@ -50,6 +36,15 @@ related:
         width: 913
         height: 307
         isCached: true
+  - title: "Better AI Stock: Tesla vs. Alphabet"
+    excerpt: "Among the dozens of companies jockeying to lead the next artificial intelligence (AI) revolution, Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Tesla (NASDAQ: TSLA) are two of the clear leaders. Though Alphabet might have ceded the initial first-mover advantage in generative AI to OpenAI's ChatGPT and its partner Microsoft,"
+    publishedDateTime: 2023-10-15T17:45:00Z
+    webUrl: "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabet"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
 
 secured: "H2QoVLHuGeXsM+uqrqUdDLcuwDvuTDVk7AvBnCmfHN+PL9QgWYHWays5H34UK9M845lSNsz7RYa8aUvzNxP5KVh/C2lrcorWZTb0q5P8vhsNeMgJbTZ/yCp3+5uuZTHLTZqddrNOMaA7V71UmMg/Ou2uKHZEsnU7qrm8zBogqDSQ7hL1e3AZcuh/2/zIvwEdEgRrWipArTG1QKb7niSwDZjpjHg/yL0QLFIVe46vBS8dG22dL2Dm5RRuBBcxPNDvKJ83IBdy0Xth/jnG990OHcpfKZxhYLW/16lNNiYi79ZuxJrDe4FRlQPCGXkcZk/RffjEZABVZDuL0OOX+527OutGw0ylIehxqANGuJrt4qQPTn49yguvZPKdZIPXJ+4EmAgpppa1H3lhqZD1azemF+qqrruxAk5778HX8hjNtAfoniW+yf2pNzAICytk0xg90oCPvN28EeI4886BQ9mAtvwuIzeF102+ugtXINd4w4DhyJA3sqcMVohcmdgNNzgifVIoaioCVxJPvmZO6IhWjA==;ftwrLRHH1HxNtcrffkKwVQ=="
 ---

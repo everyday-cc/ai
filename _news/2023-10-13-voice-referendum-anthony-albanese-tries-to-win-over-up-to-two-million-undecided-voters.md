@@ -32,6 +32,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 15
+  - title: "Voice referendum: Double trouble for the Yes camp"
+    excerpt: "Yes campaigners in Queensland and Western Australia are ­bracing for a bruising defeat at Saturday’s referendum, despite a flurry of volunteer-driven last-minute action in the outlying states."
+    publishedDateTime: 2023-10-13T09:09:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/voice-referendum-double-trouble-for-the-yes-camp/news-story/17cd73129567b5d7f502792461b9eec8"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
   - title: "Voice to Parliament referendum: Peta Credlin debates Joe Hildebrand"
     excerpt: "Peta Credlin and Joe Hildebrand have faced off before Australia goes to the polls to answer the burning questions about the Voice referendum."
     publishedDateTime: 2023-10-12T19:00:00Z

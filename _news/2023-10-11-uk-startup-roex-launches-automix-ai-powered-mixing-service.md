@@ -7,7 +7,7 @@ originalUrl: "https://musically.com/2023/10/11/uk-startup-roex-launches-automix-
 webUrl: "https://musically.com/2023/10/11/uk-startup-roex-launches-automix-ai-powered-mixing-service/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,31 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Logic Design Launches New AI-Assisted Article Writing Service For UK Businesses"
-    excerpt: "Award-winning website design and digital marketing agency Logic Design has launched ArticleStack, a new AI writing service.Ipswich, England,"
-    publishedDateTime: 2023-10-11T06:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/logic-design-launches-new-ai-assisted-article-writing-service-for-uk-businesses-1032694182"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/KzBywcHSlXNdwbffq9CuqiWMA6E3/1696937870123-0.jpeg"
-        width: 650
-        height: 413
-        isCached: true
-  - title: "Adobe releases new AI models aimed at improved graphic design"
-    excerpt: "The new edition of Adobe's AI model was trained on about 70% more images to improve the system's ability to create photo-realistic images."
-    publishedDateTime: 2023-10-12T19:29:00Z
-    webUrl: "https://www.seattletimes.com/business/adobe-releases-new-ai-models-aimed-at-improved-graphic-design/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "28JelJFnS8njWu/+hYIZWBZ1CRaajzzzC9SCK0uZ8wiffVnK4VBbiuC9Zu5LjeUKtgb12NulUG3rcWB0sflzJx5AgkdIymEb+0WvMlbCwzAxJExKKOmlF85sc4uHtCGgZmFqvNPNVPAGGLcQj8ms7JO6YhEC53P6PJVLRejWiC7C9EF6uZOQcgp8uSyijbBLHgAo0huZAKKcE6tSMjvqURSg3XdgNg29h65tOlowI9byzFowAETqKVLmcborlHR/hF9xPqRiSksGgJMKOnx/35DdNCptEMs4FvQh2VaSN2yc5GdatXKvZF2V+c6y/oDb9Kggp/yI4SLb1CiQhiL/LpIDnBZSw+wEic46w2PZ5FDnAXYLSoRlMDBXotdYM+IuyzmGyoIh1kwMn9wxMu3VKFfWyTGaTmqqn4P/p+Xnh6hpPTKX3oTs0ymqucJUitfWyGrYRGcHM8y4gnHNsBTzCMFmmlqPTlERLsKTNjfNEAXa4fqkrrGEy2McAqc2Lxn4TAe6FmkhqQfB/3SLXmwJrw==;NSGupYYM3mGN83YmiLO2yQ=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "EDOMx taps FinTech finbotsAI for credit risk management"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-11T07:04:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/edomx-taps-fintech-finbotsai-for-credit-risk-management/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Fintech founder says bottom line remains top priority for SMBs"
     excerpt: "Mark Hartley, founder and CEO of Bankifi, pointed out that while these subjects may be important to megabanks and their multinational customers, they’re not as important to his smaller financial institution customers and their small to medium-sized business  (SMB) customers in turn. What this group cares about most, he said, is “getting paid.”"
     publishedDateTime: 2023-10-12T15:37:00Z
@@ -77,20 +63,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Arab Fintech Forum kicks off in Doha"
-    excerpt: "The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz Carlton Doha with a number of industry experts"
-    publishedDateTime: 2023-10-11T05:38:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/arab-fintech-forum-kicks-off-in-doha"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697004417-305.JPG?1697004417"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Genesis Global Named to CB Insights’ Fintech 100"
     excerpt: "Genesis Global, the low-code application development platform purpose-built for financial markets organizations, announced it was named to the CB Insights Fintech 100, a ranking of the most promising private fintech companies of 2023."
     publishedDateTime: 2023-10-11T15:36:00Z
@@ -104,20 +76,6 @@ related:
       - url: "https://financialit.net/sites/default/files/genesis_19.png"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Industry experts spotlight future of fintech in MENA"
-    excerpt: "During a panel dialogue held yesterday at the second edition of the Arab Fintech Forum, officials of leading firms accentuated the"
-    publishedDateTime: 2023-10-11T06:16:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/11/10/2023/industry-experts-spotlight-future-of-fintech-in-mena"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20231011_1697005211-158.JPG?1697005212"
-        width: 1200
-        height: 900
         isCached: true
   - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
     excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."

@@ -25,101 +25,172 @@ images:
     isCached: true
 
 related:
-  - title: "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities"
-    excerpt: "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,"
-    publishedDateTime: 2023-10-11T07:29:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
+  - title: "New US rules on AI chip exports aim to stop workarounds on China sales, says US official"
+    excerpt: "The US will take steps to prevent American chip makers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s coming actions to effectively block more AI chip exports. The new ..."
+    publishedDateTime: 2023-10-15T22:55:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3238039/new-us-rules-ai-chip-exports-aim-stop-workarounds-china-sales-says-us-official"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
+      name: scmp.com
+      domain: scmp.com
+    quality: 92
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
-    excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
-    publishedDateTime: 2023-10-11T11:14:00Z
-    webUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/16/b428d567-43fb-45a5-9713-019ffa468cbc_9a8df794.jpg?itok=259H5_Fa&v=1697408479"
         width: 1200
-        height: 1004
+        height: 630
         isCached: true
-  - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
-    excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
-    publishedDateTime: 2023-10-11T08:58:00Z
-    webUrl: "https://www.econotimes.com/AMD-to-Acquire-Software-StartupNodai-in-Boost-to-AI-Chip-Software-Capabilities-1664133"
+  - title: "China says it will closely follow proposed US move on AI chip curbs"
+    excerpt: "China's foreign ministry said on Friday the country will closely follow possible moves by the United States to close a loophole that gives Chinese companies access to American artificial intelligence chips through units located overseas."
+    publishedDateTime: 2023-10-13T06:35:00Z
+    webUrl: "https://www.reuters.com/article/china-usa-ai-chips-idUSK7N32A01C"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
-      - url: "https://f1.econotimes.com/2023/10/f872o4iabc_th_1024x0.jpeg"
-        width: 1024
-        height: 614
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AMD Aims to Bolster Software Capabilities with Nod.ai Acquisition"
-    excerpt: "Advanced Micro Devices (AMD) is strategically moving to rival chipmaker Nvidia. It plans to acquire an artificial intelligence startup"
-    publishedDateTime: 2023-10-11T20:58:00Z
-    webUrl: "https://techreport.com/news/amd-aims-to-bolster-software-capabilities-with-nod-ai-acquisition/"
+  - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
+    excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."
+    publishedDateTime: 2023-10-13T05:23:00Z
+    webUrl: "https://www.scmp.com/tech/tech-war/article/3237797/tech-war-us-eyes-more-ai-chip-curbs-chinese-companies-abroad-close-loophole"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/13/1c9895fb-b779-43e2-b4bb-93d360312dbb_0b7b6e10.jpg?itok=y2hRJcln&v=1697174526"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden eyes adding AI chip curbs to Chinese companies abroad"
+    excerpt: "The United States last year shook relations with Beijing when it unveiled new restrictions on shipments of AI chips and chipmaking tools to China, seeking to thwart its military advances."
+    publishedDateTime: 2023-10-13T01:25:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/Joe-Biden_AFP-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rule Curbing AI Chip Exports to China Under Final Review"
+    excerpt: "(Reuters) - A U.S. rule that restricts shipments of certain advanced chips to China has been revised and is under final review, according to a government posting, suggesting that further curbs on chips that can be used for artificial intelligence are coming soon."
+    publishedDateTime: 2023-10-11T15:29:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-11/rule-curbing-ai-chip-exports-to-china-under-final-review"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
+  - title: "US rule restricting AI chip shipments to China under final review"
+    excerpt: "According to a US government posting a rule restricting shipments of specific advanced chips to China has been revised and is under final review"
+    publishedDateTime: 2023-10-14T22:06:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273999490/us-rule-restricting-ai-chip-shipments-to-china-under-final-review"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697170671828.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Upcoming US rules on AI chip exports aim to stop workarounds: US official"
+    excerpt: "Find out more about subscription packages here. THE US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s upcoming actions to ..."
+    publishedDateTime: 2023-10-15T22:15:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us"
+    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/telcos-media-tech/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us?amp"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 53
+  - title: "Upcoming US rules on AI chip exports aim to stop workarounds, says US official"
+    excerpt: "The US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part"
+    publishedDateTime: 2023-10-15T23:08:00Z
+    webUrl: "https://www.malaymail.com/news/money/2023/10/16/upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds-says-us-official/96492"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 50
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/16/thumbs/400x400/155157.jpg"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "VA’s new artificial intelligence centers will focus on iteration in AI testing process, agency official says"
+    excerpt: "National AI Institute Director Gil Alterovitz said having the new AI centers in different locations will ensure that AI iteration is baked “into the whole process and system.”"
+    publishedDateTime: 2023-10-12T20:37:00Z
+    webUrl: "https://fedscoop.com/vas-new-artificial-intelligence-centers-will-focus-on-iteration-in-ai-testing-process-agency-official-says/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 35
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2022/04/Department_of_Veterans_Affairs_Medical_Center_Ann_Arbor_Michigan.jpg"
+        width: 1600
+        height: 1078
+        isCached: true
+  - title: "US targets Chinese AI chip firms abroad in bid to close loopholes"
+    excerpt: "WASHINGTON: The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
+    publishedDateTime: 2023-10-13T03:59:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/13/us-targets-chinese-ai-chip-firms-abroad-in-bid-to-close-loopholes/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
+  - title: "China opposes US politicizing, instrumentalizing trade measures: FM responds to reported tightened AI chip rules"
+    excerpt: "China opposes US politicizing, instrumentalizing and weaponizing trade and tech issues, Chinese Foreign Ministry spokesperson Wang Wenbin said on Friday in response to reports that the Biden administration is considering tightening rules on chips to China."
+    publishedDateTime: 2023-10-13T15:49:00Z
+    webUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-10-13/108ab00c-2d2e-44dc-839f-b90173b0775a.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "China opposes US politicizing, instrumentalizing trade measures: FM responds to reported tightened AI chip rules"
+    excerpt: "According to a Reuters report, the Biden administration is considering closing a so-called loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, citing four people familiar with the matter."
+    publishedDateTime: 2023-10-13T23:08:00Z
+    webUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml?ref=lite.improvethenews.org"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-10-13/108ab00c-2d2e-44dc-839f-b90173b0775a.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
+  - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
+    excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
+    publishedDateTime: 2023-10-13T18:33:00Z
+    webUrl: "https://techreport.com/news/biden-administration-considers-tightening-ai-chip-curbs-on-chinese-companies-abroad/"
     type: article
     provider:
       name: The Tech Report
       domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2023/10/what-is-crypto-malware-1.jpg"
-        width: 1940
-        height: 1282
-        isCached: true
-  - title: "AMD Acquiring Indians Founded Nod.ai, An Open-Source AI Software Startup"
-    excerpt: "AMD has signed a definitive agreement to acquire Nod.ai to expand the company’s open AI software capabilities. The addition of Nod.ai will bring an ex"
-    publishedDateTime: 2023-10-11T07:05:00Z
-    webUrl: "https://www.indianweb2.com/2023/10/amd-acquiring-indians-founded-nodai.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 36
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-C73gfvaAW85Pw3cs-MA_BpmcA1sHbGHC7o8VF9tUqxbdLYN3GUgeJAjb4nXIb-JLJo1aqdewLKyEf4nvZ_TDMBEak83PmO-5IN4cTdX2br53H8ah0sba9WH13XWunrtheri3n-WNnLVV3rvwLQiQcWeh3ic5-cLUxGaNlpMkUhDyHmDh7mZee-TYAGE/s16000/amd_acquire_nod.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "AMD’s Strategic Play: Acquisition of Nod.ai to Challenge Nvidia’s Dominance"
-    excerpt: "As the AI industry continues its exponential growth, the competition for dominance in the hardware sector intensifies. AMD, a pivotal player in the microprocessor and graphics processor market, has taken a significant step towards bolstering its position against the industry titan,"
-    publishedDateTime: 2023-10-11T17:44:00Z
-    webUrl: "https://www.unite.ai/amds-strategic-play-acquisition-of-nod-ai-to-challenge-nvidias-dominance/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 35
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Alex_Mc_2_AI_chips_next_to_each_other._One_is_green_and_white_a_0243e714-aca4-4895-aa15-bb29f3fc9966-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "AMD to finalise acquisition of software startup Nod.ai"
-    excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."
-    publishedDateTime: 2023-10-11T12:36:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/amd-to-finalise-acquisition-of-software-startup-nod-ai/articleshow/104346348.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 17
+    quality: 28
 
 secured: "4TSC/khLSEy47vsuYqyQCphGaXMg5Rg3REnZnfcMZgn5q06c/eMpQ00inCnfHkl3iLXqQOb70/k6OR42bmj41cnuwn1kJOv/KXEwB1E4H04LFlHO5/fox0OXIjYMAK7TxUKmu+xwWqZQ12YwZniwlvaUtST1PMQ6hSJCTphrq1XjMyyLJVVAil1E+mJFn5HKzx8x8NVjpaiNF7OCG7yJTHG8KQtgZdvZfgxDNGoSgmpmzY/qKdhfR4wfwkRZYLWb16OS5UKYgjVWdItgFlfyJUHEPCyEe+l+GMyBSxOfpq76fEpe8tw+ixTdj8M0mak9ihwxUsEnq/WsB/YRWL80klTP4u8wT3BqWCoI/kijVnk=;bW3J25Zf4m16711566LY8w=="
 ---
