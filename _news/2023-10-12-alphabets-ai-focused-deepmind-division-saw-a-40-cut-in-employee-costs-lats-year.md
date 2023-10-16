@@ -55,6 +55,22 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "co-founder of DeepMind AI"
+    excerpt: "A comprehensive report recently undertook an extensive analysis of 100 American executives to recognise and rank their intelligence, aiming to identify the brightest minds in the business world."
+    publishedDateTime: 2023-10-16T10:38:00Z
+    webUrl: "https://www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
+    ampWebUrl: "https://www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 74
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_10/story_70171/assets/17.jpeg?time=1697452527"
+        width: 732
+        height: 977
+        isCached: true
   - title: "Alphabet’s AI Lab DeepMind Cut Employee Costs by 39% in 2022, Reported Decline in Profit"
     excerpt: "DeepMind, Alphabet Inc's AI division reduced employee expenses by 39% last year within its cost-cutting strategy."
     publishedDateTime: 2023-10-12T09:08:00Z

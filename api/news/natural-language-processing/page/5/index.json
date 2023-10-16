@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-31-cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions.md",
+      "title": "CMU & Tsinghua U’s Prompt2Model Generates Deployable Models Following Natural Language Instructions",
+      "excerpt": "Large language models (LLMs) have dominated the natural language processing (NLP) field. But building an NLP system in traditional way however requires substantial efforts. To address this issue, researchers and practitioners start to explore how to prototype NLP systems rapidly via “prompting” technique.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/",
+      "originalUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2023/08/image-79.png?resize=950%2C484&ssl=1",
+          "width": 950,
+          "height": 484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2023/08/31/cmu-tsinghua-us-prompt2model-generates-deployable-models-following-natural-language-instructions/amp/",
+      "publishedDateTime": "2023-08-30T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of.md",
       "title": "Meta uses your Facebook data to train its AI. Here's how to opt out (sort of)",
       "excerpt": "Meta will use your personal data in its large language model Llama 2. But you can fine-tune what data it can access.",
@@ -1301,58 +1344,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-ibm-taps-ai-to-translate-cobol-code-to-java.md",
-      "title": "IBM taps AI to translate COBOL code to Java",
-      "excerpt": "IBM's new product offering, Code Assistant for IBM Z, leverages a generative AI model to translate COBOL code to Java.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/",
-      "originalUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/IBM-z16.jpg?resize=1200,888",
-          "width": 1200,
-          "height": 888,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-taps-ai-to-translate-cobol-code-to-java/amp/",
-      "publishedDateTime": "2023-08-23T13:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

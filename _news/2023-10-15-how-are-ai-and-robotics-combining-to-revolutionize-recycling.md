@@ -7,7 +7,7 @@ originalUrl: "https://augustafreepress.com/news/how-are-ai-and-robotics-combinin
 webUrl: "https://augustafreepress.com/news/how-are-ai-and-robotics-combining-to-revolutionize-recycling/"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:

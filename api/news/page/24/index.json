@@ -2,6 +2,135 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-09-26-postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws.md",
+      "title": "Postcards from the edge | Cloud-to-edge consistency is everything, says AWS",
+      "excerpt": "How do you divvy-up 5G workloads across the edge and cloud? AWS argues for consistency across the whole lot, unsurprisingly; but its response is also measured.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20230926/industry-4-0/postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws",
+      "originalUrl": "https://www.rcrwireless.com/20230926/industry-4-0/postcards-from-the-edge-cloud-to-edge-consistency-is-everything-says-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/09/Critical-Edge-again.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-infosys-partnerss-with-microsoft-for-generative-ai.md",
+      "title": "Infosys Partnerss With Microsoft For Generative AI",
+      "excerpt": "This collaboration leverages Infosys Topaz and Microsoft's AI services to advance the shift to AI from digital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/gbecbkr9n2sevi4j_1695737847.jpeg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/business-news/india-business/infosys-partnerss-with-microsoft-for-generative-ai-articleshow.html",
+      "publishedDateTime": "2023-09-26T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-eot-aws-partner-to-deliver-ai-optimized-industrial-assets.md",
+      "title": "EOT, AWS Partner to Deliver AI-Optimized Industrial Assets",
+      "excerpt": "EOT and AWS’ agreement calls for deploying the next generation of predictive maintenance by combining generative AI with edge computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/exclusives/eot-aws-partner-deliver-ai-optimized-industrial-assets-206583",
+      "originalUrl": "https://www.hartenergy.com/exclusives/eot-aws-partner-deliver-ai-optimized-industrial-assets-206583",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/sites/default/files/styles/max_650x650/public/image/2023/09/eot-aws-partner-deliver-ai-optimized-industrial-assets.jpg?itok=1gGQKnUt",
+          "width": 650,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-on-generative-ai.md",
       "title": "Infosys collaborates with Microsoft on generative AI",
       "excerpt": "Infosys and Microsoft collaborate to develop AI-enabled solutions leveraging Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services. Solutions will help businesses increase productivity, drive new revenue growth and transition from digital to AI.",
@@ -928,117 +1057,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-collaborates-with-microsoft-to-accelerate-and-democratize-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft to accelerate and democratize industry-wide adoption of generative AI",
-      "excerpt": "Both companies will help enterprises take an AI-first approach to scale next-generation AI solutions to improve operational efficiencies, drive revenue growth, and enable business transformation Infosys (NSE,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infosys.com/newsroom/press-releases/2023/collaborates-accelerate-democratize-generative-ai.html",
-      "originalUrl": "https://www.infosys.com/newsroom/press-releases/2023/collaborates-accelerate-democratize-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.infosys.com/content/dam/infosys-web/en/global-resource/images/calendar.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Infosys",
-        "domain": "infosys.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-beating-the-books-how-deep-learning-can-improve-your-nhl-bets.md",
-      "title": "Beating the Books: How Deep Learning Can Improve Your NHL Bets",
-      "excerpt": "The emergence of AI has allowed for machine learning models to become more powerful. Here's how to use it to your advantage to measure NHL player performance and place wagers on various NHL games.",
-      "sourceUrl": null,
-      "webUrl": "https://thehockeynews.com/betting/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
-      "originalUrl": "https://thehockeynews.com/betting/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehockeynews.com/betting/.amp/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
-      "cdnAmpWebUrl": "https://thehockeynews-com.cdn.ampproject.org/c/s/thehockeynews.com/betting/.amp/learn-to-bet/beating-the-books-how-deep-learning-can-improve-your-nhl-bets",
-      "publishedDateTime": "2023-09-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hockey News",
-        "domain": "thehockeynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-image-recognition-market-size-to-hit-usd-11756-bn-by-2029-at-a-cagr-175-percent-says-maximize-market-research.md",
-      "title": "Image Recognition Market Size To Hit USD 117.56 Bn By 2029 At A CAGR 17.5 Percent Says Maximize Market Research",
-      "excerpt": "It encompasses a wide range of applications, which includes facial recognition, object detection, autonomous vehicles, medical imaging analysis and others. The top companies in healthcare, automotive, e-commerce, retail and advertising are increasingly ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
-      "originalUrl": "https://menafn.com/1107141650/Image-Recognition-Market-Size-To-Hit-USD-11756-Bn-By-2029-At-A-CAGR-175-Percent-Says-Maximize-Market-Research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

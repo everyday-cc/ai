@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,16 @@ related:
         width: 1000
         height: 523
         isCached: true
+  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
+    publishedDateTime: 2023-10-16T11:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "1DlOmWFin2V5O+/Zrf217Rzy3cvRngfEAutGXxTcL2g0XSq9j4zy4rWpqlMxeMVjzvbhUjbgcRJ7zemJ2sIj+HdTeGLqW22UHcy91CDmqLlTtYp1irHUmHJGMxho90BpiZ2x4ZxCixmJV1/L63NndM+5FLz+s7rV1EAu7YF1kV7vqU6VPkB6JE0aVowuvyj+Ft2zl5fv2is7AZUrTHL5kKBScWKGCNDow8wzK7qBPC7WJR+HKgRCYm8ppVLsIMVWLvZQ/chNfAtGRsmNzr3zn/VKZRMMTBJRRJaBHVJLHiP1j9ynxiP8dtqD0H1MPq9U8fO5HqzNaN4F1+97GXfWeD/jSjQ9Wff+dQPwioxh1KM=;rqV1/S+Dm5bNT7UM+IrxkQ=="
+secured: "MSRLO/mqPZX2p6NDwtfBHwc5q6PFA0khDCPWqrJ8hmva+kjuQgAisulWSoQo2Fv1h0xONAsL7t7yP6WUQc8xLREgkDDYlcO1sPyC3DaM9E7TMhrcBVFDJaYz9pG9rhmLAzu9MgJWhbpqp45K/goyTOriRsw2b8pYY0Tq53sCobTurHpRKv4b9pQV9OvoRoA6OrH+CAWXvaaiTyAWdW/Gd4mLQUsFoba8ugFRbInshRRMjv/3AdSDgKXXK97KGFX//1QtvSCbQVNjth4V9LwX/m0z2M3Sd+xjc3FWfqaZLAhns1WLHKTGu6ojLxkfFNUy0cJ4ZQMMJIAo1ojJUeZpE8nh2KT6dW1a308CUGptxqwqOcGSSEVm/J6yJusniXi2tnGf4zP6yTA2O9hWRkkRauJqPaR1OFSfu1iJwHTycN9vMJReQoTojRrgAn7Q25M4W87jvffTsXeebK6t3VHm+viO0aEWKc+gI57Is1TVHGV2fzlB7FwvQzdpV2iGPHHFIH3sMSrFQTP96NAXIGQtvA==;h+vAOVP5fp6ZXDXj50zvNw=="
 ---
 

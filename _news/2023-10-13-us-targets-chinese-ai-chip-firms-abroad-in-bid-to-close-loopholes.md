@@ -362,6 +362,20 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Exclusive-Upcoming US rules on AI chip exports aim to stop workarounds – US official"
+    excerpt: "The U.S. will take steps to prevent American chipmakers from selling products to China that circumvent government"
+    publishedDateTime: 2023-10-15T21:48:00Z
+    webUrl: "https://wsau.com/2023/10/15/exclusive-upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds-us-official/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 47
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-10/15/2023-10-15T213953Z_1_LYNXMPEJ9E0C3_RTROPTP_3_USA-CHINA-CHIPS.JPG"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
     excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
     publishedDateTime: 2023-10-13T18:33:00Z

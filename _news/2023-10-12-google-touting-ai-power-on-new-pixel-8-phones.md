@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Google Pixel 8 is an excellent $700 phone with impressive AI smarts"
-    excerpt: "The Google Pixel 8 is an excellent Android phone for those looking to spend $800 or less, sporting good performance, solid battery life and great cameras with lots of unique AI features."
-    publishedDateTime: 2023-10-11T17:52:00Z
-    webUrl: "https://www.cnn.com/cnn-underscored/reviews/google-pixel-8"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 49
   - title: "The Google Pixel 8's Ability to Perfect Photos Shows AI's Promise and Peril"
     excerpt: "Commentary: The Pixel 8's new AI-powered photo tools make image editing easy, but also raise ethical and social concerns about the credibility of digital images."
     publishedDateTime: 2023-10-14T12:00:00Z

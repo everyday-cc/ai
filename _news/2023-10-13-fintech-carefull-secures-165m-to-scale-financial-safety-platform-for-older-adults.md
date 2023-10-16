@@ -86,24 +86,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 19
-  - title: "Arab Fintech Forum Kicks Off In Doha"
-    excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227403/Arab-Fintech-Forum-Kicks-Off-In-Doha"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "Industry Experts Spotlight Future Of Fintech In MENA"
-    excerpt: "Fadi Saab outlined that there is a“dramatic growth” in the industry during the past decade. He said:“ In May last year, it was calculated that the world has 27,050 firms. Financial investments in the fintech amounted to $150bn."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227400/Industry-Experts-Spotlight-Future-Of-Fintech-In-MENA"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
 
 secured: "BOFOguLIkg2N+EVe9JVcSTAK04f7oVEeIvLkYQj5EIVNymzBXQclIaBZvCNP3cm/9MGllNN9PMc78KLh2WbBELpio4pbGIh2mZtoRWlukhDNi1wHQW9Ei785zJcfd2C5L2r0XE8lYylHUU9WhiLcxkXTpsbGU535fR577KU1/zRUoBnksrJA1Hh2uL/x6SuPiZipueTvCy+jp7NPlQ9umNTKRklVT8LBHXDUFf4XmCPsZoJ2YxS0tJ5sHHGxcoKlx5hLO9RhCZ1NUba+FhlWkXQwWg4kyo71jN/BnFbAucSSFs9Ku9c40VIeP9LKl2/IbJlZX8Xf+/B1LXfChMYXnTx98fvi3ZShqyW4qPpONVr0Q9lZaAAXaXSqslZ/zxEzOoPqOb3c6CIVD6bcgItD+bp6/AjGqNKXHFYeRAdMu6Fi7lzFja9sfAfAriepsInG8jJ71fJrFw/YS8JbT8NRlGBWgqGEp/35jNrtDeqUtLBy3F2+gkvcPLo0M05BfvetYH4yPOJHnAjeWdLjAOKcKQ==;D01yOewUhiFyIK+5N/bBsg=="
 ---

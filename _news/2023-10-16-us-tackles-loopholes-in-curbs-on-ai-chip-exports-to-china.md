@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html"
 type: article
 quality: 104
-heat: 354
+heat: 364
 published: true
 
 provider:
@@ -358,6 +358,20 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Exclusive-Upcoming US rules on AI chip exports aim to stop workarounds – US official"
+    excerpt: "The U.S. will take steps to prevent American chipmakers from selling products to China that circumvent government"
+    publishedDateTime: 2023-10-15T21:48:00Z
+    webUrl: "https://wsau.com/2023/10/15/exclusive-upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds-us-official/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 47
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-10/15/2023-10-15T213953Z_1_LYNXMPEJ9E0C3_RTROPTP_3_USA-CHINA-CHIPS.JPG"
+        width: 800
+        height: 533
+        isCached: true
   - title: "US targets Chinese AI chip firms abroad in bid to close loopholes"
     excerpt: "WASHINGTON: The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
     publishedDateTime: 2023-10-13T03:59:00Z
@@ -377,6 +391,6 @@ related:
       domain: techreport.com
     quality: 28
 
-secured: "FIXAzBA2aryiQ6OK0zPbRXHGVpJBF9Ijen+MPjenCSrsUOKtRWdE56fBRF+elGFygvLQIaS/3Qxscux+JujavjHxa7tqUhb96pdUlKXdUFlxe4FO/YxmlMSU1MiXXcJ5cWLarGCJCOmlOjPi/rH9nm4se6zJFIbrj1/NxvF7W8aen9x2aVosZpfqpw0gBytWx1PpHgl9tpScLqRx3U6MafDZ9U+2eNAja1fZlD0GrlQEdQBS4zWLV7GN92HuVOX5mHI0MQYL3vKC8bP/IKjswqDhK8N2hHDcNrLxyCKvI3wfZP8o4WY7ZJQFR2do4h0kVawdWHMuh9NtsXoKFPvPbCVhGULEEXCAJwt1j7eUrIc=;W185Vu0BnfDxt+/RQ04eWg=="
+secured: "MR5L6JykdNfl2v9oiHFGShvyGodjH3t3PL/c0qfB28K8B+JO4ua62acH8qa9k+ZOWnC+ZQ/bqp1hB0sEmvpuYZEuyQe9Z5DlGqwQzH6d+qlFHSnCtXkIavHSAYrOIOfidExdTDwULPKGipuBF65P5bQ5L+X+YVLxKSYSVLIZJ6gK8bSHmmu1hgafAy6dHP5OrGIFnOXg1ZPpBReHdLUB95XYmqrr1OMrjasJDTg8d1gD4iNaXMcQ7iTJMBdwtNi7Hc3oBg17BoJ/fowZ97/GLnjZyadBvroj57PLoh2nLg1noBypa89C109PM4Mcem3gbiJiPriuURhwyiLBiCrlQu6YxgeN6NxJw19b5QU6yAZoPjbxBN1Fcgw75hdm9AYFSgwL6KszZ6loyQES/Pg1BnzwvTrJGiQ2oxs19wt1CF+F6eqaOr3IKb3Ag+gpoWAE5CHR7oy86tkr2UufLqwE0+9njEIeWOZ+pPlPfmFPoFk9JddFPbAOOoeZIcysTgwFVm8xzrtZCP3hRubwMLA5Hg==;DaX7FEejh27JM2nTTpDYgg=="
 ---
 

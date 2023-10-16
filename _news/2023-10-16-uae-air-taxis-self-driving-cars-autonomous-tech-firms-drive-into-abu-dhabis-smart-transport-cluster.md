@@ -26,26 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Abu Dhabi To Develop Self-Driving Vehicles Across Land, Sea, Air As Part Of New Cluster"
-    excerpt: "The establishment of the SAVI cluster will grow Abu Dhabi's position as a global hub for the development of smart and autonomous vehicles - building on the strength of the emirate's aviation and aerospace industries, and supported by its advanced technology infrastructure and thriving R&D ecosystem."
-    publishedDateTime: 2023-10-11T19:05:00Z
-    webUrl: "https://menafn.com/1107227462/Abu-Dhabi-To-Develop-Self-Driving-Vehicles-Across-Land-Sea-Air-As-Part-Of-New-Cluster"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 11
-  - title: "Abu Dhabi's Ambitious Plan Paves Way For Self-Driving Vehicles Across Land, Sea And Air; Targets 50,000 Jobs"
-    excerpt: "Abu Dhabi:<br />A<br />proposal was authorised to create a unique cluster in Abu Dhabi to work on the development of smart, self-driving vehicles for"
-    publishedDateTime: 2023-10-11T18:45:00Z
-    webUrl: "https://menafn.com/1107226703/Abu-Dhabis-Ambitious-Plan-Paves-Way-For-Self-Driving-Vehicles-Across-Land-Sea-And-Air-Targets-50000-Jobs"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 0
-
 secured: "z083jsKhvttXcfKA6DGd2bp7Y9aG7NevoYEqIn76HURdpXrd4Xhu7MM+2o+5sT/RhwWMH/0BFyt6eXJxQ7OY/QAEWkSM3LhYNrS1qBr5A1b+2t0tEbETw4KH+B63n8D9hW99MD3d/qWBNN4o9u/mpFjOKaJMFjGRkVda9hi9tRY9fAyD6zPBs0CRAj3ii7EUXMsba71qUsbyyLQ563RmmsCNfdtmyHzv3ZQBIfYKP0ifI0SxbkdZsLU/sVCwREPd5ozRrTBM/yW9sdWLTlX0YoN8uzl8G+ruswuy0i57bTiP5eQy55c7zgkqey5xngOfdRWFJJtN0YdxyJD+8oaRPtGEj8QOhL9hhfrEcy9WF0c=;g0UMOVzNUXt3KL1HB3ylsg=="
 ---
 

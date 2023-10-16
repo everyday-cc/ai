@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107236341/A-European-Approach-To-Artificial-In
 webUrl: "https://menafn.com/1107236341/A-European-Approach-To-Artificial-Intelligence"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,54 +22,6 @@ images:
     width: 678
     height: 381
     isCached: true
-
-related:
-  - title: "Europe And Japan Are Leading The Race To Build AI Rules"
-    excerpt: "As the EU builds its case against Musk, the incident raises the issue of the role of Europe in regulating AI and the behaviour of the entrepreneurs leading AI."
-    publishedDateTime: 2023-10-14T15:03:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652aacd49cafb2eabf0453e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 420
-        height: 554
-        isCached: true
-  - title: "Entrepreneurship In The AI Era: Spearheading Transformation And The Essential Route To An MVP"
-    excerpt: "For businesses looking to navigate the surging tide of AI, they'll need to map out their journey from the inception of an idea to the creation of an MVP."
-    publishedDateTime: 2023-10-12T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a396a0ec5f519b6147255f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1339
-        height: 893
-        isCached: true
-  - title: "Europe eyes strict rules for artificial intelligence"
-    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
-    publishedDateTime: 2023-10-11T23:25:00Z
-    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 41
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "x5rW53npc14yQG3vn534+uM898Nd4MXIpHCETheTTtgEojpJvtdIOvCZxijP628dzty1ZffjnE4N86ygFJR3439HfvWDJXR9XdV3ZZsXGbdD7JwOtTFDjzYY5bBhM3jq2JaXJ54uA0FghrkiQyYk/WubCv1ACNCU3PZ9co+Lof+/S5KbLSma3UfLUw1wB+vt+YLAsHDbI7pbewMknv5xAIZVVRx5hHa6n9GVzZAyOOv3QokcTZ7lXSbat1GvvBnGyN+RRFRmyvq+lEGnSwWSpAyan2UYm0w9FLAlG6Fvie4e6yEty6PU5/QRAFY4jRsugMwglShZhppWeyfLUuuVymWIKEzG67HheMnmI4yivEo=;b5ZPIa1AL2I7CuZUaE3+iQ=="
 ---

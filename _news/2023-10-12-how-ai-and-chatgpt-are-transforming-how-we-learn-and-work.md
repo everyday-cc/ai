@@ -32,20 +32,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "ChatGPT-owner OpenAI planning to manufacture own AI chips"
-    excerpt: "ChatGPT developer OpenAI plans to manufacture its own artificial intelligence AI chips and is even assessing a potential acquisition target"
-    publishedDateTime: 2023-10-11T17:29:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273996207/chatgpt-owner-openai-planning-to-manufacture-own-ai-chips"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 54
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1696824895583.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "While ChatGPT stokes fears of mass layoffs, new jobs are being spawned to review AI"
     excerpt: "Mesh AI, a digital transformation-focused consulting firm, says that human feedback can help AI models learn mistakes they make through trial and error. “With this approach organizations can automate analysis and tracking of their regulatory commitments,” Michael Chalmers, CEO at Mesh AI, told CNBC via email."
     publishedDateTime: 2023-10-12T13:09:00Z

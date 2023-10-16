@@ -78,24 +78,6 @@ related:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
     quality: 19
-  - title: "Arab Fintech Forum Kicks Off In Doha"
-    excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227403/Arab-Fintech-Forum-Kicks-Off-In-Doha"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
-  - title: "Industry Experts Spotlight Future Of Fintech In MENA"
-    excerpt: "Fadi Saab outlined that there is a“dramatic growth” in the industry during the past decade. He said:“ In May last year, it was calculated that the world has 27,050 firms. Financial investments in the fintech amounted to $150bn."
-    publishedDateTime: 2023-10-11T18:44:00Z
-    webUrl: "https://menafn.com/1107227400/Industry-Experts-Spotlight-Future-Of-Fintech-In-MENA"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 4
   - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
     excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
     publishedDateTime: 2023-10-13T03:25:00Z

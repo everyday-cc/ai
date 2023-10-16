@@ -50,6 +50,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
+    excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
+    publishedDateTime: 2023-10-16T11:27:00Z
+    webUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1720247/fintech.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Fintech Surge To Unleash Financial Innovation"
     excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
     publishedDateTime: 2023-10-11T20:05:00Z

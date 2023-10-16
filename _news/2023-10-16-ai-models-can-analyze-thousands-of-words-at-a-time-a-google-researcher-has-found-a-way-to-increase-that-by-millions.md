@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-mil
 ampWebUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
 type: article
-quality: 64
-heat: 74
+quality: 66
+heat: 76
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/6529e12468f1d46f52b1d4a7?width=1200&format=jpeg"
@@ -45,6 +46,6 @@ related:
         height: 720
         isCached: true
 
-secured: "BXhclM41yTzpRun9wn7Lb2clPN40/idELug/hhL6qI7yQR77h9F63KlumjFvsqafs1xW0A0IvR4JzvCKCou5WFhX1xzIRwdVkjD4FGIpP5/Ym6SrR+2GpUEu050BQdcksPtnzmW5PDQElTWn0ExHcre2+dkQ00V2t701hoDCsIH1b3MicK7109PN/2OJgjj1aqw5GbHzO3OkO+MvY7fdAlMfnN75Qmfu7hrv+dMt4wp3GUOzDY/v/wSy8OmSSL9oLNvMF3y6bufKqMlub6oexwjkOSX/x9EksptqEw2vo4iTgsCZ4ptElox6T0sdRrRE6p+YDn2ojvsFsFbOCmYpfgcvdBqB21s7112iHeh6Wso=;ktd2C4zXHFwvQTBVMjJGrQ=="
+secured: "a00qOHJE5aMyc2GyueMtWYeTBWbu1WnmePuasR1QFAU3Hcy/N3Fr6U3Ex0omFUvc7qaH0OxNBjCROX6QnNWolLv+LLLbihm+WtM7hcrjCL4Bxn+9/JWECQzzF0J+d55F1jv++VVt7Gnd8qmg4v8NVKCOk3Vzhb02/krSUIC17L80hzDBbjZjaNjdHrCxHedJeKDDNY33rHzTSF13A2aOGao2AnndGFKdHOa95N41r/JCL3VbYOkhh/0GmyKLe/nkTy5KPeDTrho9dxnobWlONEnfGIoMfcPNqbAYYTFMLZAFu3+VDwpvX9BOzs3TUpAeMSaP6L/ry72cppZjCtL/KdUFtn7jGALK9kA85wLJ6SdHEMfWGFARl6PnZYL329wpLlFeoQk4jEGrQwJVj/etWt9Eu6YvGC1n6fyCXAVVeUaqnoEfXBvNgHen6kQhMrLtfyPXEjjjjKKgphasX8da/LqBsxIk3m18H+FY3Ge+Xzu0VEmdGr/ISV9r/FEUAkKI3jWmD9WMrGBpShslUBlhLw==;A2NS1flz/Rf5B0qGmBCfgw=="
 ---
 

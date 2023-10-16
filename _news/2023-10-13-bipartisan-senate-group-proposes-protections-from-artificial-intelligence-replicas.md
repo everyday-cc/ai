@@ -38,6 +38,17 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Sen. Blackburn helps draft NO FAKES bill protecting likeness, voice from generative AI replicas"
+    excerpt: "Sen. Marsha Blackburn and others have drafted a bill, NO FAKES, to address issues around generative AI replications."
+    publishedDateTime: 2023-10-16T10:45:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2023/10/16/sen-blackburn-helps-draft-no-fakes-bill-protecting.html"
+    ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/10/16/sen-blackburn-helps-draft-no-fakes-bill-protecting.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/10/16/sen-blackburn-helps-draft-no-fakes-bill-protecting.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 27
 
 secured: "vw4Qjd1xyWn2L3598ScRSZHJRGeQs5vStYKtZhEpqQDEBH8bS1ODFltM2BJBx+opyyHU+0qPAvQqkeUhw6Fp7gbV0I1LSkMDQgnp2tJ+n1Zs1qk5MhOURtTgR5RaJsYOI4rVfug8hvStDKmWGw4B07ulENrHq8nJYUoxnzKP3vY0bMT/w6nj2sJDf2xuWIypgFW10MEiPvCx3NNnFNjTtvwD6JP/lRI/8qVzjaR/MM+EhyLekwQoFnQ6QTzZEgFRktObBXIyGC2rw2YrWe6vxySBiSsEYa4HaerowF0Iem7AF4LfAYB8RPa/oh5/tWRzyD76MJuaLiDOF9J+46jjFPYVHC3Xo99a7lC4M289GK14qnHVDLHPMKempaj1E9Jc7o5HUM4MzL7S/+GIiIUSmirqmxbKNbGGqSohTlVsXS8nn3hgDLCZIUSUEiR1cZxe0HpcxL65azvcJVmM9SHqK5o+aTZuWQiM1WlZ5EYjPtpVAgFC1CSr30Vb/DfloICjSmJ1FBxHrxswLrwV6saedA==;imL+b9J99NRF5MYcpy87lw=="
 ---

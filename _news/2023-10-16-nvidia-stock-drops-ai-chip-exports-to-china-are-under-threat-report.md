@@ -354,6 +354,20 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "Exclusive-Upcoming US rules on AI chip exports aim to stop workarounds – US official"
+    excerpt: "The U.S. will take steps to prevent American chipmakers from selling products to China that circumvent government"
+    publishedDateTime: 2023-10-15T21:48:00Z
+    webUrl: "https://wsau.com/2023/10/15/exclusive-upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds-us-official/"
+    type: article
+    provider:
+      name: WSAY
+      domain: wsau.com
+    quality: 47
+    images:
+      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-10/15/2023-10-15T213953Z_1_LYNXMPEJ9E0C3_RTROPTP_3_USA-CHINA-CHIPS.JPG"
+        width: 800
+        height: 533
+        isCached: true
   - title: "US targets Chinese AI chip firms abroad in bid to close loopholes"
     excerpt: "WASHINGTON: The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
     publishedDateTime: 2023-10-13T03:59:00Z
@@ -373,6 +387,6 @@ related:
       domain: techreport.com
     quality: 28
 
-secured: "6KBA0jtYoeQgtfAfuHZ7T00v+Uol/G0GTX245n3RsCGtwMwujpoLB/AOmw8PJKcsgqc+Zjqne9AtIqmsqZkawnp0lzecAkrPqjZ8QdnxEn9z34i40hF+aj01e0P8BDSi4CXPLua7J6bBPc6blmNAvEHuN12bJEeZS1aDW3Ren8irwJKe5zoCnwYFGBB+3hOi6acs4BrFipODOUr03dBCCUCFINNRv2HaV5oJe6xwqfcljNuo37dvHPuzTbFZ1NN0pk+FX3mDdQKr/1ITQShcrKY/hGSQ/77Zd4Rl+uwcv0YtSQT0Djhja2VPqm6ivJ2NbSrHuUCh0B2hPu5bq6H2pwuSgat6gKrSwJgI5qN9dcQ=;uUKt7CYTmP4t3XS13olbsg=="
+secured: "Yc0eX1OyiSK7aKQ/t9q9lXKJt2N40KftZ5iViiA7WmeI/8sRz02XCuvd+k05/1UXJBddAcGgzwGYMUHdVWwBl6XsAk9IqL6N7miVkl9dW1v4MQmrgPEBCvJWRVpS7vUv9xwTZyKawWqc1jsxKPhAe5votLs7KtOZpFJq+gQjPTjkaAxzqbmZirF9PNpYLx3N8/rn4ptplEiUsy994Cc7wjUsLxCA3oNNDkBf2p96oj7Iis2wzarKYcWPBlTw8X6MoOp44ZcCpyCPjVP17/i7RhAfp/CXRvrGuIS6NSmdk68bb0mh47JbE5gX4rub6UqZAJYAwTMjRaORBknjuWtPbIqQBo96tJabwIF4p7AOnMOnlARROHYk7cPtrrLqRqWaFB44Rejvm4NCitRri8X24rGnPOhYnk54257nNVIr6aouabeir55lWGHdyPRtKsKnq7QzR1ugevVVSX+qLSsu6udIX37dAnLMG50DhKcJQALtC2V+Xjr5xb8IR7TK5o512R+9jYXdkjtajrfBoV1xHA==;WStbzqoWOyBb+fNkvZe3Eg=="
 ---
 

@@ -257,20 +257,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "UiPath drives generative AI apps with Amazon Bedrock"
-    excerpt: "Earlier this year, UiPath also announced that data science teams using Amazon SageMaker, an end-to-end machine learning (ML) service, can now connect Amazon SageMaker-hosted ML models into UiPath business processes without the need for coding and manual ..."
-    publishedDateTime: 2023-10-11T18:37:00Z
-    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/UiPath-drives-generative-AI-apps-with-Amazon-Bedrock"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-101023-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "3 critical considerations for generative AI on campus"
     excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
     publishedDateTime: 2023-10-12T09:00:00Z
@@ -279,15 +265,6 @@ related:
     provider:
       name: ecampusnews.com
       domain: ecampusnews.com
-    quality: 19
-  - title: "3D Generative AI for Every Creator"
-    excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
-    publishedDateTime: 2023-10-11T18:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35200875/3d-generative-ai-for-every-creator"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
     quality: 19
   - title: "Your Generative AI strategy could use a startup’s touch"
     excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."

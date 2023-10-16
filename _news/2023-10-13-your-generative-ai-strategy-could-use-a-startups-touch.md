@@ -263,20 +263,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
-  - title: "UiPath drives generative AI apps with Amazon Bedrock"
-    excerpt: "Earlier this year, UiPath also announced that data science teams using Amazon SageMaker, an end-to-end machine learning (ML) service, can now connect Amazon SageMaker-hosted ML models into UiPath business processes without the need for coding and manual ..."
-    publishedDateTime: 2023-10-11T18:37:00Z
-    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/UiPath-drives-generative-AI-apps-with-Amazon-Bedrock"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-101023-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
   - title: "3 critical considerations for generative AI on campus"
     excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
     publishedDateTime: 2023-10-12T09:00:00Z
@@ -285,15 +271,6 @@ related:
     provider:
       name: ecampusnews.com
       domain: ecampusnews.com
-    quality: 19
-  - title: "3D Generative AI for Every Creator"
-    excerpt: "D\" playground designed for rapid exploration & prototyping - built in collaboration with NVIDIA. Click here for video SAN FRANCISCO, Oct. /PRNewswire/"
-    publishedDateTime: 2023-10-11T18:06:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/n35200875/3d-generative-ai-for-every-creator"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
     quality: 19
 
 secured: "MFXmvEAIpFp2eOV1OmwfkZ1UfYLluSduiUXPjVANoVlKS76gnp1H8tSYVcrF3h515sLi1rCXH8TxVaTiropMN3g5DPRblaWZhyPfujahQz4U57FVIx41dT2RhXrfvpX8r3bXTblnQxkK306+7dWxLH0kRs9eR7Nq2P5VK7xIdgILAtR7xtkHDEjTkLscQ5AwpV23eKx0RYTfUmWl+wdV+sAfF19ANxVNZbO53YSzK0BsGTSto3JejIYwM31y1hwdYFIdeBd3rQuo/VPbnw/Q8EGxC+kbFxZSB9/hTlLqqAKOohtU2X3LGmLc2RvsYZ2pUx9BkorJEXesasCBIlNyCZVjhh9GyOn+ziPucSCoNHipo2ulEjRHZI4/CuvAQ0gBwgG/zW78AK1KabEe3C00zx71CDkioc0W7YjM0XFTiNMdIXi2u6Xd9xWJipVeIabh20TqxM39iXdRNXQiNm31GBa4SrhSQsHctKpmCd7/O++QUGvgifHdNxtLo7V0EhSCSM0r+RYLkLW2i3iyguaxHQ==;3xP+G2lVAE/O78Cn2N2NrA=="

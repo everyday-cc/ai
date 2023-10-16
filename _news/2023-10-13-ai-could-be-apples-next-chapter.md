@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apple
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/24/w600X390/Climatic_Disaster_Photos_2020_AP.jpg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Could AI communicate with aliens better than we could?"
-    excerpt: "Machine-learning algorithms being used to better understand the communication of dolphins could form the basis for understanding aliens  —  if we ever find them."
-    publishedDateTime: 2023-10-11T19:00:00Z
-    webUrl: "https://www.space.com/ai-artificial-intelligence-communicate-with-aliens-better-than-us"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DPVxJe4EPPcPb2GGtziSqJ-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "How AI could supercharge battery research"
     excerpt: "Aionics is working to use AI tools to help researchers find better battery chemistries faster. The company is primarily focusing on electrolyte, the material that shuttles charge around in batteries. “This is a huge opportunity for us to accelerate this whole industry,” Sendek says."

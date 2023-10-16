@@ -7,7 +7,7 @@ originalUrl: "https://www.cnet.com/tech/mobile/the-google-pixel-8s-ability-to-pe
 webUrl: "https://www.cnet.com/tech/mobile/the-google-pixel-8s-ability-to-perfect-photos-shows-ais-promise-and-peril/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "The Google Pixel 8 is an excellent $700 phone with impressive AI smarts"
-    excerpt: "The Google Pixel 8 is an excellent Android phone for those looking to spend $800 or less, sporting good performance, solid battery life and great cameras with lots of unique AI features."
-    publishedDateTime: 2023-10-11T17:52:00Z
-    webUrl: "https://www.cnn.com/cnn-underscored/reviews/google-pixel-8"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 49
   - title: "Google touting AI power on new Pixel 8 phones"
     excerpt: "Google is leaning into artificial intelligence with its new Pixel 8 and Pixel 8 Pro releases. Lisa Eadicicco, a senior mobile editor for CNET, joined CBS News to discuss some of the features on the new products."
     publishedDateTime: 2023-10-12T14:04:00Z

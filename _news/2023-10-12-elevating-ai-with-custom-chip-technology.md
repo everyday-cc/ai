@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
+    publishedDateTime: 2023-10-16T11:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "NbSH+vTS2KxMNF6pKhaUTIQnEa8odVsktz0GqTvgFcPhxaO3wjODSE8D9FWawgusWSjbSUiUXQNaaLHP+fC2xtDuR8tCuGNNRB4+JIS+PPkTNaT9wtTfv+s9mstf1AAkI94HNq67iosTm6+aAAcL+OCAyr7gEsTISIOW+f1mjqWV/PxF3kebAHCymL9kUkpt9LvbxlwIFivHlO0ZkW6qjyul3QNc/x5AuGvrvPvzamiFBv/1KrzIxCgb/CP53PuK2LBI2VFiIUOs0QbIkXwBArT/bBUc1u58yxHH26t5RQMx8XkTQ2HzmgvJNE8VbQNjIttUhNmWy/JbAWIAU1XBzO1biCYat4TGtsA11EPaHO/J2r8dKh0TO0pAoC5BG49iwtCbSWsWYv2H73rXlchHurbBqhtzum7IUDFWDYe6KmIYU/06Hapd5dsWd1PoQYPPZmXqYYq066Q2fxMa52CGI3Y4od7jGRvyuu04x7U4VSKKvHxcjCtqbhzGDLza24hNV66ubzQdsNCF0RSIAYiRCQ==;nr+fDxZ8IoT1PX1ZdUrWPQ=="
 ---
