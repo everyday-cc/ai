@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-ou
 cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
-    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-16T01:07:00Z
-    webUrl: "https://thethaiger.com/world/news/560427/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 22
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
     excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
     publishedDateTime: 2023-10-15T20:30:00Z

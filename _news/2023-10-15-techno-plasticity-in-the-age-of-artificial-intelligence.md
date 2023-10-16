@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Techno-plasticity in the Age of Artificial Intelligence"
+    excerpt: "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ..."
+    publishedDateTime: 2023-10-16T06:17:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "iu3iWXSHIjBcwQMy3Ehl09zCJqcUoeyO52q2Tuu72ymaIhP1Y4tN3Rn5jzPOGqLa+QuarnohDmxC5UGuTZ+Cj5jnaPgbw5k2w3h5aYGScDQ41ejGviGCNHO2ofupPdnW2a8poygvJwUt96j3KLayMI9c1xLneaOo3A5+OLH9q6ry0i6auxi0KQLyIhjQc2uxPa2ROr+AKbPBLHy1Fsu+tQFEJdUZ5yskFrevGQmqXotM8oSxgnEaZ+KYQIQI6DIkNGzWq7wdWi/7h5giPheCaNoPxglFi4LSnjX5bUFcAMByo7N+Hr19Cx800s5P7X4fAEAvnpiznOFIP6VqUT09dQd9Y+suEgoA8lGQqk7IVco=;XJUxKz3e5K+ZhduTw2NTPA=="
 ---

@@ -69,20 +69,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Genesis Global Named to CB Insights’ Fintech 100"
-    excerpt: "Genesis Global, the low-code application development platform purpose-built for financial markets organizations, announced it was named to the CB Insights Fintech 100, a ranking of the most promising private fintech companies of 2023."
-    publishedDateTime: 2023-10-11T15:36:00Z
-    webUrl: "https://financialit.net/news/infrastructure/genesis-global-named-cb-insights-fintech-100"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/genesis_19.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
     excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
     publishedDateTime: 2023-10-12T13:08:00Z
@@ -120,6 +106,6 @@ related:
       domain: crowdfundinsider.com
     quality: 0
 
-secured: "qp6fsC6d57yWjeuxJvWvGH+0dlI9n85lwnr/HnSfgi2tAnqiqNDy4Eqhjhusvf8kf6VQ9Ct1Zvsm+lUCUo9spDFcmNN7e3Ubft2egHjBACesTLsSwTvtrXZ2NMc/f6tMRbjlcUTs7AXdZVw/6dqroCfvXXXMz2eYE09COJA+HQhTctOgftH6c0J41m17enLLbfiWpr1h9Tl77GgjPUdFzO/tP1ajLOcFW+DHeUa4t6dEho6H9zRRowwqFLDxmTioICLTPE/8ByoL7jrqR+u+8Y32xJ9u1uE81JvTkfDjOk6i42WnzRBsWSLSa/m2818WiH6YYYnN5asD4QlRLA7MzqdHaV9fIdcjYxfkDfHGPcA=;zzlYvxWUQsnFEMvcSpdhLw=="
+secured: "zBlDcVFAAthW/Q2xsv5lQzx6egZ1lDWLxozuEUsgn03VGmCFQ6JOpTt+VTNMP66iC1+Q00/s3gj7B2JdwLQ79mAHN2kvwFWgS0qlIbBOPp0nQQQeobtcd0Z56zXsLARylqlI7ysFLRUrYiCxQuSeuQVw+3aSRLQ+neWOwhBmPkattUZRZJcrMAIAKzzoP/iUD4Nupi5KFpjlFqRvvq/gS3sR822c5O+j3on4HT767syCMOmRmrJmXrSSdsu3nwY63/bobRLf/d2xqCZljAURB5w6yfLKuhgQ8AxsMaKfwTXCfEroqAgN+6QdRyadiazRH8yydJN3L3qolW6eHMRQiyq3OiIGFA1if5LME7Ths9u2EH3XQFlEJwvEptplQz7L7BGL3EhFGG3xrJqFobBukZ4wmRpuvl+mgH5998kAKNAfb3Py3KLYwpeCo+mgMoRBlm6AQga5+J0AuUH7KGqrhUQxOr1C/da31296bY+6g0BN0ZBzzIiju6Uf2NXwaO1GwbIAr6UGostgFylfErJtwA==;04zAhwTkzOngbRJLSoJIAw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-up
 webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 154
+published: true
 
 provider:
   name: The Motley Fool
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s plans for AI GPUs could upend PC gaming forever"
-    excerpt: "not in the overall GPU picture – well, Nvidia will just stop making them. Or that’s how it feels like things could pan out, given the focus on AI, with a yearly release cadence – if it ..."
-    publishedDateTime: 2023-10-11T16:38:00Z
-    webUrl: "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZqEx6xXrMoLaCqGQs2YgJN-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
     excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
     publishedDateTime: 2023-10-13T16:03:00Z
@@ -68,34 +54,45 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 64
-  - title: "ZTE's first 'flagship GPU server' for China has NVIDIA H800 AI GPUs, works around US sanctions"
-    excerpt: "ZTE has just unveiled its very first \"flagship GPU server\" for the Chinese market, powered by Intel Xeon Scalable processors and NVIDIA H800 AI GPUs. Check it out:"
-    publishedDateTime: 2023-10-13T00:19:00Z
-    webUrl: "https://www.tweaktown.com/news/93768/ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions/index.html"
+  - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
+    excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
+    publishedDateTime: 2023-10-13T14:56:00Z
+    webUrl: "https://www.fxstreet.com/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
+    ampWebUrl: "https://www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/news/nvidia-stock-forecast-nvda-slips-as-biden-administration-attempts-to-close-ai-chip-loophole-202310131451"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 63
     images:
-      - url: "https://static.tweaktown.com/news/9/3/93768_904_ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions_full.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://editorial.fxstreet.com/images/Markets/Equities/Industries/Semiconductors/pic-man-repairing-semiconductors-637435354060707899_Small.jpg"
+        width: 320
+        height: 229
         isCached: true
-  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
-    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
-    publishedDateTime: 2023-10-11T20:45:00Z
-    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
+  - title: "A dip into Artificial Intelligence (AI)"
+    excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
+    publishedDateTime: 2023-10-15T00:35:00Z
+    webUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 39
+      name: Island
+      domain: island.lk
+    quality: 56
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
-        width: 708
-        height: 398
+      - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
+        width: 700
+        height: 467
         isCached: true
+  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
+    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
+    publishedDateTime: 2023-10-13T19:47:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Why NVIDIA Isn't My Favorite AI Stock"
     excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
     publishedDateTime: 2023-10-13T15:55:00Z

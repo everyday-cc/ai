@@ -56,20 +56,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Indian-American teen's AI startup valued at Rs 100 cr"
-    excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"
-    publishedDateTime: 2023-10-11T16:38:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19232/indian-american-teen-s-ai-startup-valued-at-rs-100-cr.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 37
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/6ab22df3358ea8e39d1d7cdfc7f3b6fd.jpg"
-        width: 800
-        height: 580
-        isCached: true
   - title: "India's AI programme to be kinetic enabler to achieve USD 1 trillion digital economy: Chandrasekhar"
     excerpt: "The government on Friday unveiled a report on the countrys artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
     publishedDateTime: 2023-10-13T10:56:00Z

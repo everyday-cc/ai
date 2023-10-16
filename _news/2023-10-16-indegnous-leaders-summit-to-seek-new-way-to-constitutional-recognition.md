@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
-    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-16T01:07:00Z
-    webUrl: "https://thethaiger.com/world/news/560427/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 22
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
     excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
     publishedDateTime: 2023-10-14T09:28:00Z

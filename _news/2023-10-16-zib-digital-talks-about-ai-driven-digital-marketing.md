@@ -144,20 +144,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Educators Adapting to Artificial Intelligence"
-    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
-    publishedDateTime: 2023-10-11T15:29:00Z
-    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 37
-    images:
-      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "You Can Now Chat With One of Meta’s Horrifying AI Personas"
     excerpt: "There are also non-celebrity AI chatbots you can chat with as well:"
     publishedDateTime: 2023-10-14T00:00:00Z
@@ -173,6 +159,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zQUScPxLZtPjjv2/pKDl4leXdjxPRVk1xh1YdbQczhSrBnG1+2bxSBcdbAAcrJ6AmZCTPDX7LiJCGtVAkkjZMPMZjUrmLVvMWKj/GWee5BfZ5NVhgC7oW3H/sGVE8/J1fdknKPJZMc87H2y4CvwMuy/M7fT/jmUvrcBf7XewoQnmm0z8P3iCmROud0DWwIZyND1CKEESYF7KOw3i4r1gKWFr15TDcsLazkiy9LFiVHfgPIxbcM16uCn1RzrfB2hcDzatUhPkJK5FzIOiR1cXgp2gxSImhhNCauFxYYe6z+ITfiXPwEY1LvJqOnvOHsWyGs9Y1bYKJlK8E2zaYG+n2LRsVOOOsX8GeF3bRmZAIdQ=;rvPA6CMEA9N5eWy8yiszKQ=="
+secured: "PzAl2cipiRyoOS+ijD9Tw0pmaFFsrYmMj5Nb4yCMjBwOjcFiBqvUVBmUd83AWpTsObcxFLURvNwBbjpmKrFaPDlt8HtazX2nSnjgRFcq+fvn/yQ9VPn0WQvktkobZxtST6NbK5PSjT2yXqUnKVsuq27Txut69B1aXKd7BCQPMl0YONsiA94wE40/MQ5q/IWwAVkKBPUndE6uuETCRcYmphr2IyqnaIgBKKJ75xhAJ656hxt0gygTbY12tNS/zriZAMPY+RGDdo2JQTown7D05ZeuiOUDHhIqrtfsP5t5DM/V2fy8O8/1HrRQZajTfyGzL0PWr+ELqBhZX1+zarKLPxNZN3Atq1QJJRFWoXu4DFLjqpKanzbYH7JQCnRrZIQHSAwUtDZn9fwEd1JZLj7hTI9KY1oQolHZxUA1XgTmLJ2VojxfBn73sbAhXAP2QXUIt7G5xn8BMekZShZOhcZxQJLzZ1EKB4E+VQKCQVgyCminVC1GCcwrsub6+QhvDt7DaDqqZWzy9dVewSNHnKt25A==;sNf66la/NSBBt4UMAjDmuA=="
 ---
 

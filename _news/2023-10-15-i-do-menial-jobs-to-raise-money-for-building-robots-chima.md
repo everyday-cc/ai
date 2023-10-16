@@ -9,7 +9,7 @@ ampWebUrl: "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-rob
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

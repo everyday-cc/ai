@@ -7,8 +7,8 @@ originalUrl: "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-
 webUrl: "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Irish Times
@@ -39,20 +39,6 @@ related:
       - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/6801cf17-fb43-4b54-a0a2-5152f049a135/5adf064a-38a2-4e61-a23a-1ce012253de7/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         width: 1024
         height: 512
-        isCached: true
-  - title: "AI Guardrails Are Urgently Needed, but That’s Just a Start"
-    excerpt: "By convention, people who are not law-abiding do not pay attention to the law. Consequently, guardrails for and regulation of AI development must not only cover law-abiding corporations, individuals, and all other groups, but also provide protection from bad actors."
-    publishedDateTime: 2023-10-11T16:30:00Z
-    webUrl: "https://www.cigionline.org/articles/ai-guardrails-are-urgently-needed-but-thats-just-a-start/"
-    type: article
-    provider:
-      name: Centre for International Governance Innovation
-      domain: cigionline.org
-    quality: 37
-    images:
-      - url: "https://www.cigionline.org/static/images/AIeye.2e16d0ba.fill-1600x900.png"
-        width: 567
-        height: 320
         isCached: true
 
 secured: "30q0b+wAXMiICnoFREBZ9SOw9zZ4KYZljuh9PxAj9WYMusVjCpmCDZ8MNlBCAMIKWFfZELGG6G5kg7vOdLzJMzjhrxnbD0eNqhDd5oKf2UcFG9Zwwp0VzMoxFRHx6ZLGldsYRjwZ6gMZF43o055QqVaxBa27pR34zAQxL4AwsS1ShfCBq30XUCHsUOxl+M/u8fvREU3oBLXoqHvr+SydRtVyqkE9fA4ASy6lwkA4sGnBAPFLXx0xWUwBWIkjDA5JNQoXj+bpxIVqIuiIFTpfxxoIY8W51DRJDwfjDaIXvR9mWJqioWaWdvIbnpiwG9bAJ3EzNa0PxJkMWpjUcS3rr1/MCuJ0Jkrt9M7gYDwJ7IM=;B+96DYvR2cZBO8fk3AUmiQ=="

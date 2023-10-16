@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.goodreturns.in/img/2023/10/GR-Default-image-2-ft-20231013225136.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "China opposes US politicizing, instrumentalizing trade measures: FM responds to reported tightened AI chip rules"
+    excerpt: "According to a Reuters report, the Biden administration is considering closing a so-called loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, citing four people familiar with the matter."
+    publishedDateTime: 2023-10-13T23:08:00Z
+    webUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml?ref=lite.improvethenews.org"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 33
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-10-13/108ab00c-2d2e-44dc-839f-b90173b0775a.jpeg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "gxyqQTYlCJXmLl1iJcUdT8DxQRasXMKE9z4aqx0kYHVxXuSrqVgrLfaXAVKuXLYzMnR6VZO9KCFNy8adC9NSVoFDBPSLsjk1jRKsMmhFdjX8vNNdJ50eHY53Q2KiM4G1ygRrpQzbaC9Iu2Ar3IChntcGXlFC+BQxWtj6VTgrHTO0uRtmedXGZD00qkFPbZLdxLx6ZN02JGiyCrhfGiHDELCM2VHMdUUOFTkbC4yBrdnjwlgTj47F6vpeFOsNOaloJD14AKyllqdIvRVLfU50F/0y4zk/kqIyH6i7cyCNeU9aYvPVsQpQ+NDoV6l6hoC8fa8B1BTPMr/JKuQuL4xUkl0ZO1wuDZm9RbDvmsiEuljMpXWJ3bYxqu7cX3P5oyq6NhCSubP/BrrOuosPnKJO1Erch3HkOJlY145LiaJMdv8Wpi71wBbz/jqi6ZPH8O/+k8EX0giduQtfelrnTqgb8VuaFLLh4KXC85DYj0OIdhA9V+DyTszlsjXMPT4zTfEE8exdkfQGiZ6M/sYibSp5Mw==;k4RWD3XOmrwqHnrgGwEo0g=="

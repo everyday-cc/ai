@@ -42,20 +42,6 @@ related:
         width: 2918
         height: 1855
         isCached: true
-  - title: "Vercel announces the beta of v0, its AI-powered tool for front-end web development"
-    excerpt: "Front-end application development platform startup Vercel Inc. today announced the beta launch ... to adopt frameworks and tools that improve product experience that use AI chat interfaces. The company helped this along by offering a software development ..."
-    publishedDateTime: 2023-10-11T17:05:00Z
-    webUrl: "https://siliconangle.com/2023/10/11/vercel-announces-beta-v0-ai-powered-tool-front-end-web-dev/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/vercel-v0-screenshot.png"
-        width: 1518
-        height: 1012
-        isCached: true
   - title: "OpenAI-Specific Code Nixed from Semantic Kernel AI SDK"
     excerpt: "Officially the company's \"What is Semantic Kernel?\" documentation says: \"Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python."
     publishedDateTime: 2023-10-13T19:07:00Z

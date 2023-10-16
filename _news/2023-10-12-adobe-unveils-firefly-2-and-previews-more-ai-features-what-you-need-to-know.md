@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Firefly Image 2 creates incredible AI photos you need to see to believe"
-    excerpt: "But Adobe has to start somewhere, and hopefully, these requirements will prevent Generative Match abuse. The bigger protection against AI-generated fake imagery is the new Content Credentials feature. It’s an open standard driven by the Content ..."
-    publishedDateTime: 2023-10-11T15:39:00Z
-    webUrl: "https://bgr.com/tech/adobe-firefly-image-2-creates-incredible-ai-photos-you-need-to-see-to-believe/"
+  - title: "Adobe Firefly AI image and video editing features from Max 2023"
+    excerpt: "This guide provides an insight into the new Adobe Firefly AI features this month unveiled at Adobe Max 2023. Learn how to edit videos, images"
+    publishedDateTime: 2023-10-16T08:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/adobe-firefly-ai-features/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 34
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/10/adobe-max-content-credentials-feature.jpg?quality=82&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Adobe-firefly.jpg"
+        width: 700
+        height: 483
         isCached: true
 
 secured: "3buNkwXo8suN980+eY1tJViGBZ3DXZhv849a/l3uy9sflMacuB5TJvGS0+VXM+eTEScSLAsU+STEVfp8KBH17tWwcC+fkvc3j9ZtjQIv6jjY4bpVwBwzi3fBEa9Aqx+sXj1rOhhE6per6UvsF2O+ALmNhEPnUR+6GxF5TVsQDbq8IXnX2CmIGZfpeW49Q4IlZxmB4uI/Z09YWXwh78eMQ60weMdv3uT6CPbvICxU9a09gcBatpUCO2iUToj7UnvyOetG5TO7EzCaXfsW4yRqAJ8M1ttLDXjXNahJa5DBM2RZUmqQXdLgOaj5A+fDJtGp5pnm5QnL0LxCplQP8dgqUbwlKg+qYYTm17ajhH5avuiuhlYBoMabX4GTbIjy46rQZXoq2DFPWpWMNahzIM0olWKWtPyZZKxcd/HKI3NawHnfO/+GuQo+eenmEmuswtjm8k6CrIYSSRH5F52141xax1gZJZtJvBIQmE/FR04pUhFP6qSRLCiAbYEp2ldGqbDR3EppyZY4DuKwwpZfwlVVeA==;g0gB8CggHmIs/QmWncSljQ=="

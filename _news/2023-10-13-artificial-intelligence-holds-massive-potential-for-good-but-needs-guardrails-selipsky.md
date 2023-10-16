@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Guardrails Are Urgently Needed, but That’s Just a Start"
-    excerpt: "By convention, people who are not law-abiding do not pay attention to the law. Consequently, guardrails for and regulation of AI development must not only cover law-abiding corporations, individuals, and all other groups, but also provide protection from bad actors."
-    publishedDateTime: 2023-10-11T16:30:00Z
-    webUrl: "https://www.cigionline.org/articles/ai-guardrails-are-urgently-needed-but-thats-just-a-start/"
-    type: article
-    provider:
-      name: Centre for International Governance Innovation
-      domain: cigionline.org
-    quality: 37
-    images:
-      - url: "https://www.cigionline.org/static/images/AIeye.2e16d0ba.fill-1600x900.png"
-        width: 567
-        height: 320
-        isCached: true
 
 secured: "pxs7LY2DMImMZVuVOqrXM5XBiKymNrPMbYlR92h/4AqOxgECnaifq32yXxHoGQAz8ki12vDc1jvfeIf9PU6nideR5b8o46+0cA/0E7BAAwAQJnpzV73thZTlYkzh27kf6bkBM6z9bJIqX/zYJlFX4KiQRgcPK0tifJeXTPQkv2YFxgbpEBEUNJNyfb/fU97iYxEYlOtylQ/0dJ7syGjFHrlMJ8nufeNXCFptpH3rUA4VB+b/0hWf1f/SgZSsgyOZOJAj+T7lZA/o6x/C7oMZrvKpSYUzw8fyMvbAz12focwIOMRj5ONmtI9qNCrwMH4Fkb64GJTHc3c/567hPQxdtwDVPm6cTwrFQF0V98lQL9JgWAEd3pfzvresLeG14kHVvqG8nHF4ZSnZhy4UbYjnWLk9HKCe4QY5rSyx8Nol3sCKqTTJFAEpxhzfCE4wbKk7l6y3W3yqyYcmOQASCO/sHXyac9GPBmV1CgQGu3PcPNRhlw3q5PNfkFlpKweyx19vIkcrkRbx4OSBfsql1roEoA==;+hN2BON16PcJgFV+5m0TKw=="
 ---

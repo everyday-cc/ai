@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelli
 webUrl: "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 2309
     height: 1299
     isCached: true
-
-related:
-  - title: "A dip into Artificial Intelligence (AI)"
-    excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
-    publishedDateTime: 2023-10-15T00:35:00Z
-    webUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 56
-    images:
-      - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "x6qvzeEXA+v6/65CHRDStxePX+pyAn5fwXgFHNWdtRcROoDlihf1bekgw2GRwqeS8wCrrYk4tdgi1v61YjwfPsVGO13lLB7pHFRDQ3ccMZZz1VO60YMo8p4GLNQtTAqMqdea9uFn2Y9CT1DyWXNwleWfZlwPLB7t0V9w1yreF0o7HxPqDW7m8DYUwC5nbpgKPGZwQWrAtEBD0OsBFT09o0v+ecN+mpGeHisDhBRBvoCOK3HKhN8sDAfyutk81WQNO6cxler128GRJ9RPV1muEOAU8kb8gM28Gd4fQmB6L0tEV7DUm+UfMJ/9Ap0lkXNp0qxYJM1XJqFxnf0qbCOZgc6HFMQUGCs4FatZaVskcls=;lWvj/ztT+AJ/I0M8yDJ2Ng=="
 ---

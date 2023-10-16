@@ -142,20 +142,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Educators Adapting to Artificial Intelligence"
-    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
-    publishedDateTime: 2023-10-11T15:29:00Z
-    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 37
-    images:
-      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "You Can Now Chat With One of Meta’s Horrifying AI Personas"
     excerpt: "There are also non-celebrity AI chatbots you can chat with as well:"
     publishedDateTime: 2023-10-14T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/sme-explained-the-dynamic-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-explained-the-dynamic-indian-fintech-lending-landscape-and-changing-consumer-behaviour-3273399/lite/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How AI can address climate change and nature-related risk in fintech"
-    excerpt: "As companies undergo digital transformation and embrace cloud platforms which dial-in sustainable and ESG efforts to the frameworks of a business, artificial intelligence (AI) is the next grand frontier for which financial institutions are embarking on ..."
-    publishedDateTime: 2023-10-11T15:47:00Z
-    webUrl: "https://www.finextra.com/the-long-read/818/how-ai-can-address-climate-change-and-nature-related-risk-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "uZA0qVhiL3XrR6Luf+3NXqxmJOGa2AP+EGj1PcLBzK5z6fc0vaWP9ouNHzjB2uTycas7oF7qCMz0B449FtYM0tbL1hrxbd4ygoBiiuY3ia6NzD0SzD0SPCYdKHkhDwU+y/zwDwMMgzrWA/2MmDuHp5nd4tEhUEkd4bpqCoMh18+v2vypQY3Z33z+m+1kjRi7z3JewYPXQb+W6Ht9B0x0RPsmHK73lqyNExM8w9+EXtIWpHslOmstQRVzbvbxX3v5sTZ1vnKTL1BbI0VdYS1KsKaOq1Mt3ldRsuCdfnk9EwnjsWZtQNAU0l7DTu57QvfACHJkk5LdRuudF5b0R+fWDcSAuflixQky5epjv5fas1A=;qqTFNSlzRZsjRuR/+evoSA=="
 ---

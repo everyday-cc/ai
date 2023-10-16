@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "HIX.AI Launches HIX Bypass, A Powerful AI Detection Bypass Technology"
-    excerpt: "Users simply input their AI-generated text into the tool and can start the humanization process with one click. After the process is complete, users will have completely undetectable AI writing. Moreover, HIX Bypass helps bypass AI detection while still ..."
-    publishedDateTime: 2023-10-13T17:20:00Z
-    webUrl: "https://www.mankatofreepress.com/news/state_national_news/hix-ai-launches-hix-bypass-a-powerful-ai-detection-bypass-technology/article_01d5c692-3524-5fa2-9214-78cfa6219985.html"
-    ampWebUrl: "https://www.mankatofreepress.com/news/state_national_news/hix-ai-launches-hix-bypass-a-powerful-ai-detection-bypass-technology/article_01d5c692-3524-5fa2-9214-78cfa6219985.amp.html"
-    cdnAmpWebUrl: "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/state_national_news/hix-ai-launches-hix-bypass-a-powerful-ai-detection-bypass-technology/article_01d5c692-3524-5fa2-9214-78cfa6219985.amp.html"
+  - title: "Democratizing AI with digital adoption platforms"
+    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
+    publishedDateTime: 2023-10-16T09:07:00Z
+    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
     type: article
     provider:
-      name: Mankato Free Press
-      domain: mankatofreepress.com
-    quality: 57
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/a/51/a51ec30c-d0f8-5a85-b63e-8ea9e34cb6f9/652979843c52a.image.jpg"
-        width: 800
-        height: 600
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "NbSH+vTS2KxMNF6pKhaUTIQnEa8odVsktz0GqTvgFcPhxaO3wjODSE8D9FWawgusWSjbSUiUXQNaaLHP+fC2xtDuR8tCuGNNRB4+JIS+PPkTNaT9wtTfv+s9mstf1AAkI94HNq67iosTm6+aAAcL+OCAyr7gEsTISIOW+f1mjqWV/PxF3kebAHCymL9kUkpt9LvbxlwIFivHlO0ZkW6qjyul3QNc/x5AuGvrvPvzamiFBv/1KrzIxCgb/CP53PuK2LBI2VFiIUOs0QbIkXwBArT/bBUc1u58yxHH26t5RQMx8XkTQ2HzmgvJNE8VbQNjIttUhNmWy/JbAWIAU1XBzO1biCYat4TGtsA11EPaHO/J2r8dKh0TO0pAoC5BG49iwtCbSWsWYv2H73rXlchHurbBqhtzum7IUDFWDYe6KmIYU/06Hapd5dsWd1PoQYPPZmXqYYq066Q2fxMa52CGI3Y4od7jGRvyuu04x7U4VSKKvHxcjCtqbhzGDLza24hNV66ubzQdsNCF0RSIAYiRCQ==;nr+fDxZ8IoT1PX1ZdUrWPQ=="

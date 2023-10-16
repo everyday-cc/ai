@@ -71,22 +71,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
-    excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
-    publishedDateTime: 2023-10-11T17:02:00Z
-    webUrl: "https://www.nbcchicago.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/"
-    ampWebUrl: "https://www.nbcchicago.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/?amp=1"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 61
-    images:
-      - url: "https://media.nbcchicago.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "QnsZRssYDphOnS8aiTySODWvBpxt2WAzf/QQNU+itGwoLMVWo922eX4jZiBvxtzigUtjBXXAnWsXL08R+xxx2nnSG53yJiBjacFLoPyxK9TGdV/j2uZpM9DrJhZ1yi9BWX/33wVaY0wu2zvGKzBlwGs9vdkmQrPpXgTuwZfHUmjo3JWSY1L6kFOo+VJ/rTblrmh4PXKkH04fXxHgevWer72EzuwpQcCC8E3wfkgUc2VgvikNom1MGIz9qbCHMJ7/A5h2X3G7YK4qrl3iY+o+vpXXwzSCL6UanSO7+0IF9B1MGm1HmBU7u9FxqmRFzvfvxJ366KmhjlXhsV4R9G4YL3KzoSclmaKSPS1dXS7B7NA=;CbW/yd8+q5vH3YtemWZZiQ=="
 ---

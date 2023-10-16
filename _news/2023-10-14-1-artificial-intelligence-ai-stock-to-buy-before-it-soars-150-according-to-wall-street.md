@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-ai-stock-to-buy-before-i/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 2899
     height: 2077
     isCached: true
+
+related:
+  - title: "Why Wall Street Thinks This Artificial Intelligence (AI) Stock Could Skyrocket 140% Over the Next 12 Months"
+    excerpt: "However, don't automatically jump to the conclusion that the joyride is completely over. Here's why Wall Street thinks one AI stock could skyrocket 140% over the next 12 months."
+    publishedDateTime: 2023-10-16T09:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/16/wall-street-artificial-intelligence-ai-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/750127/ai-icons-hand.jpg"
+        width: 2188
+        height: 1369
+        isCached: true
 
 secured: "AHgsxjfviQk50I3BnwxG/2NQnDGVzXdmQYFcjnl4DY0+XPlByobdZg06YqExEih56PfoFDG+pezL2cWGLqli4E8HMj2/IQWJJ7y5b7ipT3Fb2d9bzGweF2mJL/iGB7rPJbCDnituxTzdZJ31ls0Nb/UiJFe0ciNKGSsC2rqrmF43JHtqaCmRFhLlZ4J+VZON1fRtw+74T5cbrZ1hQLG/UxICoJMQTAp+KL6LGiUna4xtmtBdOKVuONsHca/W7Ntw8trRa+aIb8D4Vy2tteI/mt+SSABZP3shFdJ8HM8GgsK7M/wbmcBNNe4DsWhkkMAZE662P/8+ovmp74Juzw4ElR67YXzJK3T92+tkXobiCd7Em/QQP+A0+Pki/4oB3wRyGetOQVCME2ddGvGMvGfGJLcvM03h0c3Lkd8GlW4MLm6EvcBuFDo3kQOOdptvwa9V1gukCAWz27ZFHJJR0H/LwGwcgZlWgX68VPrRldVSYZRxDn2ZlEa00ZdoLMJYO5Bu/NJgF5vDClI2IRevSbMZdQ==;dawksY85EcSPkj/G/XfrRg=="
 ---

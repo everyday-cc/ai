@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
-    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
-    publishedDateTime: 2023-10-13T19:47:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
+  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
+    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
+    publishedDateTime: 2023-10-11T20:45:00Z
+    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "19qsD6suOMHWlM6s4yJaVDwKY/zIheXB4/v9dtkXyOvRCp2DqqB+LCW7oJ8CGVbRO+JW35yB2KER+1bxQ5okO91tOa4euS7yA6/vK1dIdYOeXcli5P1t12Slb7Dyu0ZNoWv+kYyEUXO4zTFqy7z4k+aCyINgYjHwOsQGX5bYxCZdEiBthVb0ygxoJWYnfBAn9nL+kIdhxj4XSuBgdAvpI4LjfJxQ78qnCb/fXvZDebvd0I0Y/NZ3VQgPgS9OorMuUyH+6oWyjausKMpibL/Qpq6VN0ClUK9Zmb3jv7SExylZ9+FhFwsDt2EcFrzXybblKt9uR5byVD2p2vU6+vjiDOAg1H6UMzOO4LJgPTr9HBs=;IzRCOlmt7nrCMrxbMS+I9Q=="
 ---

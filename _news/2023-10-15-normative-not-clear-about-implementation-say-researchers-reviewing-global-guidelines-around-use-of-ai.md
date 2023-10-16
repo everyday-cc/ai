@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Challenges in implementing 'normative' AI guidelines, say researchers"
+    excerpt: "Reviewing global guidelines around the use of AI, researchers found that while most of the guidelines valued privacy, transparency, and accountability, very few valued truthfulness, intellectual property, or children's rights."
+    publishedDateTime: 2023-10-16T08:47:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/AI-Artificial-intelligence-machine-learning-neural-networks-IOT-automation-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "Global AI guidelines 'normative', unclear about implementation, say researchers"
     excerpt: "To determine if a global consensus existed regarding the use of artificial intelligence (AI), the researchers identified and analysed 200 documents related to AI ethics and governance published between 2014 and 2022 from 37 countries and six continents and written or translated into five different languages - English,"
     publishedDateTime: 2023-10-15T05:47:00Z

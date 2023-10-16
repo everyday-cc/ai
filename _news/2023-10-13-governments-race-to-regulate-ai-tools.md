@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Logitech unveils Zone Wireless 2 AI-powered headset for hybrid workers"
+    excerpt: "Logitech unveiled the Zone Wireless 2, an AI-powered headset aimed at hybrid workers."
+    publishedDateTime: 2023-10-16T07:01:00Z
+    webUrl: "https://venturebeat.com/games/logitech-unveils-zone-wireless-2-ai-powered-headset-for-hybrid-workers/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/High_Resolution_PNG-Zone-Wireless-2-Zone-950-LIFE-Side-Profile-Graphite-01.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Join Us to Discuss Artificial Intelligence’s Impact on DFW Healthcare"
     excerpt: "Along with nearly every industry, healthcare is in the throes of dealing with artificial intelligence and ChatGPT software that threatens to change the practice of medicine. The question, though, is whether that change will be one that will save society or ..."
     publishedDateTime: 2023-10-12T19:00:00Z
@@ -73,20 +87,6 @@ related:
       - url: "https://assets.dmagstatic.com/wp-content/uploads/2023/10/DCEO_HealthcareBreakfast22_Q4_BlogPostHeader.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Revolutionizing Healthcare: The Power of Artificial Intelligence"
-    excerpt: "Artificial Intelligence (AI) has rapidly transformed various industries, and healthcare is no exception. In recent years, AI has taken center stage in revolutionizing the healthcare industry, bringing with it promises of improved patient outcomes,"
-    publishedDateTime: 2023-10-11T15:19:00Z
-    webUrl: "https://techbullion.com/revolutionizing-healthcare-the-power-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 54
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/HEALTH-TECH-4.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "Unlocking AI’s Potential in Healthcare"
     excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."

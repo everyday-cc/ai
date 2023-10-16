@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/global-ai-guidelines-nor
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-ai-guidelines-normative-unclear-about-implementation-say-researchers/amp_articleshow/104437209.cms"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Challenges in implementing 'normative' AI guidelines, say researchers"
+    excerpt: "Reviewing global guidelines around the use of AI, researchers found that while most of the guidelines valued privacy, transparency, and accountability, very few valued truthfulness, intellectual property, or children's rights."
+    publishedDateTime: 2023-10-16T08:47:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/AI-Artificial-intelligence-machine-learning-neural-networks-IOT-automation-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "\"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI"
     excerpt: "Read more about \"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI on Devdiscourse"
     publishedDateTime: 2023-10-15T04:50:00Z

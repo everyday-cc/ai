@@ -7,7 +7,7 @@ originalUrl: "https://thethaiger.com/world/news/560427/"
 webUrl: "https://thethaiger.com/world/news/560427/"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,26 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
-    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
-    publishedDateTime: 2023-10-14T09:28:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+  - title: "PM baulks at treaty, Dutton dumps recognition vow"
+    excerpt: "Anthony Albanese refused to discuss a treaty while Peter Dutton dumped his plan to push for recognition after the resounding defeat of the Voice to parliament."
+    publishedDateTime: 2023-10-16T08:03:00Z
+    webUrl: "https://www.afr.com/politics/federal/pm-baulks-at-treaty-dutton-dumps-recognition-vow-20231016-p5echl"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 18
-  - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
-    excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
-    publishedDateTime: 2023-10-15T20:30:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/indegnous-leaders-summit-to-seek-new-way-to-constitutional-recognition/news-story/3d85ead548dcb1fefef43640ee8553c6"
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 24
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.1659%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2b28ef16f10945285e0b509d7534e98a524b551a"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Dutton accuses Labor of trying to be 'tricky' with wording of referendum question to 'cloak' Voice in constitutional recognition"
+    excerpt: "Opposition Leader Peter Dutton has accused Labor of being \"tricky\" with the wording of the referendum question because it \"knew there was support for recognition but not for the Voice\"."
+    publishedDateTime: 2023-10-16T08:56:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e?amp"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 15
+    images:
+      - url: "https://content.api.news/v3/images/bin/0fb85e99d5fba0e62e9c47a182f23e6a"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "M8zmkHd6NxUJv1IB+S2c3Nv9CT7c9lU81sR07GrjiFJoo1qto4/8dgdSogQ9dswhvfqa98eO+QKFOzs9tzFbco9s6siYVXxGSYMBmVL7Mh6LdgsKATfILpUgJpRs2F3Z4kmSnPBSqlngCDtFmo0bf7W9xuFjdDbVCfBZirL+szIyCJTfpXLs+maAYIHLiByRfEfj8KGSu7V2tUnd4bBBhq1MWOrMfEndV+VDXPSwdcUKCQnY0osXUnuP4GVzcxtHGsKkKXkeLl379axEpChZYbB/keteDjDUaU64OtTmNS1j3EdAPbSQzq3Zq/exwsWTJwl0iyUCkdUqplY/xGXSaTkRus7WeUSBKm6yqkH5CZM=;dEdC38hfPcRvU4SO56FAag=="
 ---

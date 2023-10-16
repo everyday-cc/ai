@@ -69,20 +69,6 @@ related:
         width: 1000
         height: 663
         isCached: true
-  - title: "Genesis Global Named to CB Insights’ Fintech 100"
-    excerpt: "Genesis Global, the low-code application development platform purpose-built for financial markets organizations, announced it was named to the CB Insights Fintech 100, a ranking of the most promising private fintech companies of 2023."
-    publishedDateTime: 2023-10-11T15:36:00Z
-    webUrl: "https://financialit.net/news/infrastructure/genesis-global-named-cb-insights-fintech-100"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/genesis_19.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
     excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
     publishedDateTime: 2023-10-12T13:08:00Z

@@ -39,15 +39,20 @@ related:
         width: 669
         height: 334
         isCached: true
-  - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
-    excerpt: "Join us on October 24 th at 8:30am PST for a LinkedIn Live webinar, moderated by EE Times' Sr. Reporter, Sally Ward-Foxton, that unveils the power of Achronix FP"
-    publishedDateTime: 2023-10-11T16:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm"
+  - title: "Achronix unveils FPGA-powered automatic speech recognition solution"
+    excerpt: "Achronix, in partnership with Myrtle.ai, has developed an accelerated automatic speech recognition (ASR) solution based on the company’s Speedster7t FPGA."
+    publishedDateTime: 2023-10-16T09:02:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/achronix-unveils-fpga-powered-automatic-speech-recognition-solution"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/hjbbjtgj/achronix.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LsQ/X+Sxp/tHIC1q786HFbBHxJ+bxvF+86/StYqoubhbf+EnVNuD2CTIyJflbfBanpcbxX8TwJGdu581wU9IRtANQVgrqbtMGdVWKhzENa3au0ALcOzA541QaXtL5+EVBIUv0Xd0cDpNAeVWMGzYayAU/wLkzXJp6byjcfT+sdXYPpyFsE+ho5SDTNoomrQN563BST+0CXW23sNzB6O97cYtPBRhhV5dgafummJiMocoztLtO20MJxNYHEP7sChX5v4tn/0TdRLM6GHgK4tvQDPZxDKcEGIfMIxNdr2XkkvLaEMnxX1Do6PG/CZUJ6+DbaJ+KN3FdKMdln6Nqz2hy7pC7n9iE6F83m3dfqpO5Rpq3RZ5y/JTvr5mZDPMdkiJ8QpZYbxjFObdOQsytyNpP3EgfHUTzJhnUgxYqNTlbLYaIe19o92qAkDUIzzikPhtrzbA41nS68orEIgJL4K1TJjmMYcYEWNiowpwKBz2rxttGZdCNRb47VsZaZamEuiOVSWb80YdnTo0Y7YJZaiTlw==;rmfN2AQ898uomVaI9xRXnQ=="
 ---

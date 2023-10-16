@@ -27,90 +27,91 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive: Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
-    publishedDateTime: 2023-10-13T09:13:00Z
-    webUrl: "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/"
+  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
+    excerpt: "Nvidia's soaring, but many other AI players might just be flying under your radar. These three top-quality tech stocks offer more bang for your buck."
+    publishedDateTime: 2023-10-13T11:37:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 84
     images:
-      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
-        width: 1200
-        height: 628
+      - url: "https://g.foolcdn.com/editorial/images/750812/ai-robot-hand-building-coin-stacks.jpg"
+        width: 2121
+        height: 1414
         isCached: true
-  - title: "Exclusive: Southeast Asia eyes hands-off AI rules, defying EU ambitions"
-    excerpt: "Reuters reviewed a confidential draft of the 10-member Association of Southeast Asian Nations' (ASEAN) \"guide to AI ethics and governance,\" whose content has not previously been reported."
-    publishedDateTime: 2023-10-11T21:11:00Z
-    webUrl: "https://www.reuters.com/technology/southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions-2023-10-11/"
+  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
+    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
+    publishedDateTime: 2023-10-13T16:03:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Barron's
+      domain: barrons.com
+    quality: 74
     images:
-      - url: "https://www.reuters.com/resizer/SDQ2HUsDG5vlzMGFzk2ALGhylu4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3CNAQYVM5MQJM2WG55A3MK5SA.jpg"
-        width: 1200
-        height: 628
+      - url: "https://images.barrons.com/im-91984761/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Biden considers tightening AI chip controls to China via third parties"
-    excerpt: "Sources close to the matter said the additional rules are expected to surface later this month and that the government is also working out ways to limit Chinese access to U.S. cloud computing services."
-    publishedDateTime: 2023-10-13T09:39:00Z
-    webUrl: "https://cointelegraph.com/news/biden-tightening-ai-chip-controls-china-third-parties"
+  - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
+    excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."
+    publishedDateTime: 2023-10-12T13:46:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/12/1-artificial-intelligence-ai-stock-to-buy-now-that/"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/0374f4b9-57b1-4876-bfa9-83c169310593.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
-    publishedDateTime: 2023-10-13T06:08:00Z
-    webUrl: "https://www.asiaone.com/world/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad"
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+  - title: "A dip into Artificial Intelligence (AI)"
+    excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
+    publishedDateTime: 2023-10-15T00:35:00Z
+    webUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 54
+      name: Island
+      domain: island.lk
+    quality: 56
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/Semiconductor%20chips.jpg?h=0429cc9e&itok=Ao0OC8Y9"
-        width: 600
-        height: 316
+      - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
+        width: 700
+        height: 467
         isCached: true
-  - title: "US eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "China’s AI capability depends on its access to US chips. CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies Nvidia, Xilinx, Intel, and Microsemi."
-    publishedDateTime: 2023-10-13T01:45:00Z
-    webUrl: "https://www.straitstimes.com/business/us-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad"
+  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
+    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
+    publishedDateTime: 2023-10-13T19:47:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/13/2023-10-11T152528Z580120646RC2EQ3ADKR74RTRMADP3USA-CHINA-CHIPS.JPG"
-        width: 860
-        height: 573
-        isCached: true
-  - title: "U.S. Considers Closing AI Chip Access Loophole for Chinese Companies Abroad"
-    excerpt: "In a move that could significantly impact the global AI chip landscape, the Biden administration is actively considering closing a loophole that grants Chinese companies access to American artificial intelligence (AI) chips via their overseas subsidiaries."
-    publishedDateTime: 2023-10-13T02:37:00Z
-    webUrl: "https://www.cryptopolitan.com/u-s-closing-ai-chip-access-chinese-abroad/"
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Why NVIDIA Isn't My Favorite AI Stock"
+    excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
+    publishedDateTime: 2023-10-13T15:55:00Z
+    webUrl: "https://moneymorning.com/investing/why-nvidia-isnt-my-favorite-ai-stock/"
     type: article
     provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 52
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 39
     images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_2023-10-01_16-10-59.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/10/ibm-chart.jpg"
+        width: 624
+        height: 276
         isCached: true
+  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
+    excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
+    publishedDateTime: 2023-10-13T19:49:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21085117/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 32
 
 secured: "8hav0104V92gkaY/i49IIMHOJb6Or/f4fjuiFN9D0tCp803Q5mZdqm1qdJCmxn/2mm2nETPSqUVA/TZhMohp1fNpsgrSI3kY4u37nt/Hx8WGsDg89CdHPeMQsMm8OKc2uLYp20KhGwqGY8ivzRQQlCEe26NtUAEwo+dAryU3dHMavrbw/FUqBeZtzd1fvFzA9+I3/Y3AmA3C32x87VC47mm1Om1Qn1mPDh9lEANKnXRLqogUPMhQ3ih/vCE7tOXSf9BrxOK9qBzG4wodIsMkC7v2DeBOj7zbCXKdFx/15t4wqCm02T/STvNl91nCbJzkIqagr0sc0l+bvXwi91lgl0rvHwmUwndrxNksysE9VYk=;nldGq9yWblt+NnebMAwqrA=="
 ---

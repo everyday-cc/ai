@@ -42,20 +42,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Indian-American teen's AI startup valued at Rs 100 cr"
-    excerpt: "At just 16 years old, Pranjali Awasthi, an Indian prodigy, has entered the tech arena with her startup, Delv.AI. Her venture, dedicated to streamlining the process of data extraction for research purposes,"
-    publishedDateTime: 2023-10-11T16:38:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/19232/indian-american-teen-s-ai-startup-valued-at-rs-100-cr.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 37
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2023/6ab22df3358ea8e39d1d7cdfc7f3b6fd.jpg"
-        width: 800
-        height: 580
-        isCached: true
   - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
     excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
     publishedDateTime: 2023-10-12T04:37:00Z

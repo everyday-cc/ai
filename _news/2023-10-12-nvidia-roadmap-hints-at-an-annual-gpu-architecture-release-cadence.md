@@ -25,96 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia’s plans for AI GPUs could upend PC gaming forever"
-    excerpt: "not in the overall GPU picture – well, Nvidia will just stop making them. Or that’s how it feels like things could pan out, given the focus on AI, with a yearly release cadence – if it ..."
-    publishedDateTime: 2023-10-11T16:38:00Z
-    webUrl: "https://www.techradar.com/computing/gpu/nvidias-plans-for-ai-gpus-could-upend-pc-gaming-forever"
+  - title: "NVIDIA unveils its next-gen Data center & AI Roadmap"
+    excerpt: "The next-generation GB200 and GX200 Data Center & AI GPU accelerators from NVIDIA have been formally confirmed for release in 2024 and 2025, respectively."
+    publishedDateTime: 2023-10-13T15:54:00Z
+    webUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/"
+    ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ZqEx6xXrMoLaCqGQs2YgJN-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/10/NVIDIA-MLPerf-Inference-v3.1-Hopper-H100-Grace-Hopper-GH200-L4-GPU-Performance-_W-_2-g-standard-scale-4_00x-Custom-728x406-1.png"
+        width: 728
+        height: 406
         isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
-    excerpt: "Nvidia's soaring, but many other AI players might just be flying under your radar. These three top-quality tech stocks offer more bang for your buck."
-    publishedDateTime: 2023-10-13T11:37:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/750812/ai-robot-hand-building-coin-stacks.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
-    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
-    publishedDateTime: 2023-10-13T16:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-91984761/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
-    excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."
-    publishedDateTime: 2023-10-12T13:46:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/12/1-artificial-intelligence-ai-stock-to-buy-now-that/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
-  - title: "ZTE's first 'flagship GPU server' for China has NVIDIA H800 AI GPUs, works around US sanctions"
-    excerpt: "ZTE has just unveiled its very first \"flagship GPU server\" for the Chinese market, powered by Intel Xeon Scalable processors and NVIDIA H800 AI GPUs. Check it out:"
-    publishedDateTime: 2023-10-13T00:19:00Z
-    webUrl: "https://www.tweaktown.com/news/93768/ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93768_904_ztes-first-flagship-gpu-server-for-china-has-nvidia-h800-ai-gpus-works-around-us-sanctions_full.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Why NVIDIA Isn't My Favorite AI Stock"
-    excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
-    publishedDateTime: 2023-10-13T15:55:00Z
-    webUrl: "https://moneymorning.com/investing/why-nvidia-isnt-my-favorite-ai-stock/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 39
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/10/ibm-chart.jpg"
-        width: 624
-        height: 276
-        isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
-    excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
-    publishedDateTime: 2023-10-13T19:49:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21085117/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
 
 secured: "pz5TpBT8ZswavRTMomzGd329MhaETNUUqez6aSte+08aMOi3jprBlDy2CBHRcCk/FscSjvTGWHLcpbM1YuFzAXWB9pBCsAzF0of+lN0cMvk4Is5088V37QnD3GvDnkjg8dKO3TwWosILmhuThnASAqHNcAo+tgFuR4kVx7rE50T7mvayKm9aWnJXkClbC72OLi8xFLB8OtT2K2EWObYz6/BQ4M6ocfR3tcXS2PxaAxZc7nBeS03NlNtmgKzKyGYICO5gIJJfJ6GLn1cM58UPE5N3ON9tZ14jlYfRSMBkYorjYrWMXgK25AOtziHF0ReKkKo+zRQsPXSDbrlmWPxTMEdRoeObCNrR3uUd1DDJMctEcTmt09Dw0671IZ4aozS6L/E7ZYgETuduzxP3wD9oQMiEAk0NQylbMBcjz6tDMIow4veNhi2WaO3GJ2Mseb6MeZZ5ycGlyGEz+tjlXVW+PykI39YHXQc8t/GV/ui/i1yjZYR6SRCPmeGR9v8wwj9qzZVUJOjXmn5FlAKbKFLipw==;2b8JUVCj7HJj1J0n2DRLjQ=="
 ---

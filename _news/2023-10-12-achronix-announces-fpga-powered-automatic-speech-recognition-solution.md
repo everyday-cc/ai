@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Achronix unveils FPGA-powered automatic speech recognition solution"
+    excerpt: "Achronix, in partnership with Myrtle.ai, has developed an accelerated automatic speech recognition (ASR) solution based on the company’s Speedster7t FPGA."
+    publishedDateTime: 2023-10-16T09:02:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/achronix-unveils-fpga-powered-automatic-speech-recognition-solution"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/hjbbjtgj/achronix.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
     excerpt: "is proud to announce its latest innovation in partnership with Myrtle.ai — an accelerated automatic speech recognition (ASR) solution based on the Speedster7t FPGA. This transformative solution converts spoken language to text in over 1,000 concurrent ..."
     publishedDateTime: 2023-10-12T07:31:00Z
@@ -39,15 +53,6 @@ related:
         width: 764
         height: 400
         isCached: true
-  - title: "Achronix Announces FPGA-Powered Accelerated Automatic Speech Recognition Solution"
-    excerpt: "Join us on October 24 th at 8:30am PST for a LinkedIn Live webinar, moderated by EE Times' Sr. Reporter, Sally Ward-Foxton, that unveils the power of Achronix FP"
-    publishedDateTime: 2023-10-11T16:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9897068.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "CrNAgtt/W+1x+X3L2/e5PGqMyZX2H0vKxAfaO/W93FmTg4ei8aTNXBOXiMyTSFwyA1NI4oQnXItCc8XF4wwjVofdmhPSEI7eNPUzkt14aVO6pPY56hhX5aIBkrPSGJUzaaSCU+vWkYE8KDGKjWPQ0dPKyNiT6LMcpgLWQBGbX1iLFDEKMj4wAvW7stKl1XTbJhHBelbmZt1b6ge6dowShaR25XbsAk880lcRVUIIaGdPdjpgOQ7FZ2hXa9A/nI2g86ziNpu7X2xEhdaMttyXuipWkdI8p0P+F/eOEM69bW5BnWahLUoGtssj2IAL3Af8pIBy+YnxEHlT3DjPdV8tlVsgTJQmhmtzJyWc4HCTwIvOC7MaLWmEqohxN4lwlzljfoKcHbFwXOM06p17/i1C/HV2x71LHTFT647HTYsGI8LX+bU51AbkhCQyXgVyCOTHuY5LFrt94/NR9O57cMetuEtRUuoT/WtztGWuXlJxA+gj2YDswx589HN3yoCSI2gx3IYhVG4+ECtxksLciSnZkw==;ruHQlTqUo/coT0pNxCQXBw=="
 ---

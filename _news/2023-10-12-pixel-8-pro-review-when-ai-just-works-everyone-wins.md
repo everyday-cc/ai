@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 99
 published: true
 
 provider:
@@ -31,36 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Pixel 8 Pro review: the best Pixel I’ve ever used"
-    excerpt: "The Google Pixel 8 Pro is an important phone for Google. It has upgraded specs, a refined design, and a higher price. And it's worth every single penny."
-    publishedDateTime: 2023-10-11T17:00:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/google-pixel-8-pro-review/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/google-pixel-8-pro-review/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/google-pixel-8-pro-review/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 74
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/google-pixel-8-pro-colorful-background-close.jpeg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Google Pixel 8 Review: Smaller, Lighter, Brighter and More AI-ier"
-    excerpt: "A refined design, a upgraded display, main camera improvements and new AI features make the Pixel 8 a solid choice for most people."
-    publishedDateTime: 2023-10-11T17:00:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/google-pixel-8-review-smaller-lighter-brighter-and-more-ai-ier/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 69
-    images:
-      - url: "https://www.cnet.com/a/img/resize/4e94d6d5e59e0be8a90f32c41032f84f46a6ecda/hub/2023/10/10/51733acf-e708-4bae-bb59-178aaf3dd391/google-pixel-8-3463.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Pixel 8 Pro Review: AI Enhances Google’s New Flagship Phone"
     excerpt: "Google's Pixel 8 Pro is the most powerful phone built by Google thanks to the company's AI integrations. Read the review to see why."
     publishedDateTime: 2023-10-11T17:15:00Z
@@ -70,20 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Google Pixel 8 Pro review: Google’s future is AI"
-    excerpt: "The Google Pixel 8 Pro adds a better camera and display, plus a range of new AI features. But is it worth the added cost?"
-    publishedDateTime: 2023-10-11T17:00:00Z
-    webUrl: "https://bgr.com/reviews/google-pixel-8-pro-review/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 37
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/10/google-pixel-8-pro-1.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "Su/Gt7sGbO/AXR63ZVviaASQwoAysJmdgOBCjfr7K9Ue2BaojdaJnZKP6HbW/Nv0ujIvoh3g8VXknHC/din07I0qIzsSwmAVToT8RU87jVBToAK38aGEz7cdtaZJ1p/FXAmtC7z7tBffditIeLkYIwBDuZv00TYqXIk++PRLeci+3xU8E0oXrERWbMZauEI5dVnqpS6yfaXiog/jsFJxyKl+sy9vkZ1vhd2HhIN7682voQAyIDf/eV3AR/t01pYoJ1bBwnnzCTIMhsHcJ8R9BqWd2qam84ino1JTpS7Jl8/L+LjoiMbLmAKBV/3/Whsdj13yoV3UQ+NWx5W8+3aumQIZu8M+FYyMbpdheAxvYpmmmr/jCa4Tu0S+khJinTyM5Osp5uy2iPP5w0Gz4w1mKZTb0xf0zB50sp6plP0eDAXMibWS0Pg/1Hi0JnfAj6sKEGvVgu34Sx0+CzSp+FJzcDtw2PdxZN4SLNPDt7FHgp3aZXzG3BgJuTlIQy1RppdEctJdWDM+AQuYFs8bfmdd4Q==;K7eny/ygXBdlVWX+CTAErQ=="
 ---

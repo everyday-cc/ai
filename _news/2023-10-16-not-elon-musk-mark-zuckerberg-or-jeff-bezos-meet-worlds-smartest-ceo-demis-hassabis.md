@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Who's the smartest CEO? How Bezos, Buffett, Musk and Zuckerberg rank"
-    excerpt: "A new language study by Preply examined dialogue and speech to understand leaders with the most intelligence, emotional intelligence, and more. (Sorry, Elon!)"
-    publishedDateTime: 2023-10-11T16:56:00Z
-    webUrl: "https://www.benefitnews.com/list/whos-the-smartest-ceo-how-bezos-buffet-musk-and-zuckerberg-rank"
-    type: article
-    provider:
-      name: Employee Benefit News
-      domain: benefitnews.com
-    quality: 24
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/4f9d141/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fff%2Fbb%2F1da9cc1f44dc95c7907687611d14%2Fbuffett.Warren.Bloomberg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "NCOYgE+tDuUDMN6b3L0LFDh+0UeJMOYpA0sVtLxCYekwc9uEWEpUoa4xLICnMa/4ZBY6ZaNB/Ntmb0HkbTQIG/WwZ9uMx3p0DzjwI90RXEe3Vl32Pphc8v9wRIYMrsXABHyPx93kKur/L1FOWLVyi0qN+V1UBMDfVfGz010uNRcye8MWKZCNGyHEP0L8sczU7HxB1L7KAcFzDTH5VLGJ6ZSzHzSlLI4UUknFJighBPAJplQf4orgaJcKBBhtGJGmh3K7vuoIplDctdn7SMalRXiZ1LezLqvTbzF8GdM3aBF/64bbh7lr+SgSKX+VxC+lhnIMG05rQGfsDopAua+bIXNHFxaoQD8K9QH6lgnN24rAKNchmPvJQZQfp807RoAlzDXE4qI2eZ+n1bcJ3KEKa4APB3XBpqlUwMkIu5jMWBeIghB3b69HgHnurZOlCfbZ3o8zKkwH2ngLlipKYMTF1guEq+jvjLQbwXreXPM7p+4VGZ0glgIE+OVJL38aRHGnYIEVssnk7rvj1HcX00YOqQ==;nSSz5UThu2+Bu12P81KpjA=="
 ---

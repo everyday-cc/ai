@@ -59,20 +59,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
-    excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
-    publishedDateTime: 2023-10-11T16:29:00Z
-    webUrl: "https://www.technologyrecord.com/article/microsoft-creates-new-data-and-ai-powered-capabilities-for-microsoft-fabric-and-azure-ai-insights"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 56
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/4643/MicrosoftHealth_web.jpg"
-        width: 975
-        height: 548
-        isCached: true
   - title: "Microsoft Debuts AI Bug-Bounty Program, Offers $15K"
     excerpt: "Should a participant be a public sector employee, the bounty award must go to the public sector organization and be signed by an attorney or executive responsible for its ethics policies. The scope of the bounty program extends to AI-powered Bing on bing ..."
     publishedDateTime: 2023-10-13T17:20:00Z
@@ -100,6 +86,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
+    excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."
+    publishedDateTime: 2023-10-16T09:26:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98381/trade-ledger-embeds-working-capital-options-within-microsoft-azure-and-teams"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 51
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
     excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"
@@ -161,6 +161,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "4b/n1BKYFxurt+20t0kKSCHxiLPEifKYq9M0pjPjtNKhHtewAPRobZW5hyXSwujP2DtxF8IpwKSW9oDXZ/DgLJimRQEEIvikhCOFwito/IRDICrh6ncD1l/qEU9tJLJXcSwUkHg7KVGewztG2BQxVhGstqngFY/EJIcj/siKhTL5XGYBMCB1A4Y6iFnr3JcrSF5V92/oaNq24X4jFymdnNNaiMcD0hoYO8DOrtormVHDlcN3OqD+33jmL+MLCnUmL0fxTqD3SHyoofMPnKIJ2HpXuNQ25AJUeYdwMcOpAorUZOanGyhWO/4RpSE8gOHLt75PioZO+G0aNeP6Xgg2iTFtcFPr03b7sc8udMvR+ww=;y3SGh5juQgnA5U1kzaMeCg=="
+secured: "0SMi0Y3O09ALC+3YqzdOWkfw3eZMl5U3ggd/Wtw/3LRZkaHET0vao3tDwr7/Dd1Tz3HTwFiPxhyfx4x3aVLsTXoma9zETJgtJSNl6nTuJ9nrNp8/1pKvAUQeldPkiO6ey3wWbG8tMElvlserkEcPNAWA3CmLHXK+o5doRFIadW4R3sRqcuZJyRIf9IaRtB+I4MPDFwbBXrOqgt/BIEB+1f+OTnVtYMWPksafW+ywuy3ZndcT7YZzDYvKO9vn8kxnpLRyWF4y+8UKalEfLpSdyTP5M29ho0A1Zb0B6NaF9aULIABQVxPLJKrudfAyJrXkZaqnoZ72BBEOizU2qFMkM6js9g9ORdRIYVd6h5CqafHVzC8aYxZjr+4FgCpvu7sJ/03e1EGk/RzE/N7liOiXq+HX6WhV62WHYz//ymCHJE5z8uDLut1Sz9/XWSerxmM606sophJ1WkacOOKJQvqb/cFOszfCPC+ZXMavBS+x5ZX2TvJwM5ybAfwLb6az/xuC76FYdwV4rm6IT2Z9yphTyA==;V+Tj7sEcQovLWE+K4pdLXw=="
 ---
 

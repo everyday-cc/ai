@@ -57,22 +57,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
-    excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
-    publishedDateTime: 2023-10-11T17:02:00Z
-    webUrl: "https://www.nbcchicago.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/"
-    ampWebUrl: "https://www.nbcchicago.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/?amp=1"
-    type: article
-    provider:
-      name: NBC Chicago
-      domain: nbcchicago.com
-    quality: 61
-    images:
-      - url: "https://media.nbcchicago.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Alphabet's AI-focused DeepMind division saw a 40% cut in employee costs lats year"
     excerpt: "DeepMind, the AI lab owned by Google-parent Alphabet Inc (NASDAQ:GOOG), cut its employee costs by nearly 40% last year, according to a recent filing with a UK government agency. In the company’s 2022 fiscal year, staff costs and related expenses were ..."
     publishedDateTime: 2023-10-11T22:36:00Z
