@@ -50,6 +50,15 @@ related:
       name: Skift
       domain: skift.com
     quality: 71
+  - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
+    excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
+    publishedDateTime: 2023-10-15T18:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-15/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Microsoft Debuts AI Bug-Bounty Program, Offers $15K"
     excerpt: "Should a participant be a public sector employee, the bounty award must go to the public sector organization and be signed by an attorney or executive responsible for its ethics policies. The scope of the bounty program extends to AI-powered Bing on bing ..."
     publishedDateTime: 2023-10-13T17:20:00Z
@@ -77,20 +86,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "TCS seeks to use Microsoft AI partnership to improve margins"
-    excerpt: "Asia’s biggest outsourcer has deepened its collaboration with Azure OpenAI, the association between Microsoft and Sam Altman-led OpenAI. It’s also using cloud-based AI tool GitHub Copilot to offer solutions such as fraud detection to financial services clients or personalized customer services to retailers."
-    publishedDateTime: 2023-10-16T02:51:00Z
-    webUrl: "https://www.deccanherald.com/business/companies/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins-2728124"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 54
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F3e9f7a41-1d70-475d-a86e-5e66ea3fb5db%2Ffile7scn49gf1ad19z30j33w.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
     excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"

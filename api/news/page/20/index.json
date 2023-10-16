@@ -2,6 +2,92 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2023-09-28-duality-technologies-joins-aws-partner-network-and-launches-solution-for-secure-data-collaboration-in-aws-marketplace.md",
+      "title": "Duality Technologies Joins AWS Partner Network and Launches Solution for Secure Data Collaboration in AWS Marketplace",
+      "excerpt": "Duality Technologies, the leader in secure data collaboration for enterprises and government agencies, today announced it has joined the Amazon Web Services (AWS) Partner Network (APN) and launched its secure data collaboration platform in AWS Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2223693/Secure_AI_and_ML_Model_Development_for_Modern_Data_Strategies.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models.md",
+      "title": "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models",
+      "excerpt": "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-biden-teases-forthcoming-executive-order-on-ai.md",
       "title": "Biden teases forthcoming executive order on AI",
       "excerpt": "The White House plans to introduce a highly anticipated executive order in the coming weeks dealing with artificial intelligence, President Joe Biden said Wednesday. “This fall, I’m going to ...",
@@ -1017,102 +1103,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the-future-of-work.md",
-      "title": "Workday Unveils New AI and ML Services to Enhance the Developer Experience and Power the Future of Work",
-      "excerpt": "Amazon Rekognition, Amazon Textract, and Amazon Translate. With these services planned to be available within Workday Extend, developers can gain deeper insight within text – including sentiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
-      "originalUrl": "https://www.news-journal.com/workday-unveils-new-ai-and-ml-services-to-enhance-the-developer-experience-and-power-the/article_5b708390-d06e-54e6-848b-4ab3393638f3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/3/1a/31a15d53-d44b-5049-82ca-eff582957079/6363b7f2d36e1.image.jpg?crop=1107%2C581%2C167%2C0&resize=1107%2C581&order=crop%2Cresize",
-          "width": 1107,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-mark-zuckerberg-takes-the-stage-later-today-for-metas-annual-conference-get-ready-for-new-ai-chatbots.md",
-      "title": "Mark Zuckerberg takes the stage later today for Meta's annual conference. Get ready for new AI chatbots.",
-      "excerpt": "Meta released the next generation of its AI large language model and made the technology, known as Llama 2, free for research and commercial use. Much like tech peers Google and Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9",
-      "originalUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65144396eee46600193b980e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-connect-developer-conference-quest-3-2023-9?amp",
-      "publishedDateTime": "2023-09-27T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

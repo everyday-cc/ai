@@ -2,6 +2,40 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-10-05-the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023.md",
+      "title": "The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023",
+      "excerpt": "The post The 3 Best Artificial Intelligence (AI) Mutual Funds to Buy in 2023 appeared first on InvestorPlace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-artificial-intelligence-ai-mutual-funds-to-buy-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-new-technique-based-on-18th-century-mathematics-shows-simpler-ai-models-dont-need-deep-learning.md",
       "title": "New technique based on 18th-century mathematics shows simpler AI models don't need deep learning",
       "excerpt": "Researchers from the University of Jyväskylä were able to simplify the most popular technique of artificial intelligence, deep learning, using 18th-century mathematics. They also found that classical training algorithms that date back 50 years work better than the more recently popular techniques.",
@@ -1141,57 +1175,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far.md",
-      "title": "Arc browser is offering the most truly helpful spin on AI I've seen so far",
-      "excerpt": "Arc browser decided it was time to throw its hat into the AI ring but opted to go a much different route than most browsers and it should pay off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "originalUrl": "https://www.zdnet.com/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4a7643cbe6ce5794abb138e6ad77042c891efc74/2023/10/04/0f7f87bc-106f-4f18-aa27-c04b19bd5404/gettyimages-1333147307.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arc-browser-is-offering-the-most-truly-helpful-spin-on-ai-ive-seen-so-far/",
-      "publishedDateTime": "2023-10-04T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

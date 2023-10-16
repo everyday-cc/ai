@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai’s RTA unveils facial recognition for Nol cards at GITEX Global 2023"
+    excerpt: "Facial recognition for Metro Nol cards. One of the highlights of RTA‘s showcase is a smart gate that allows commuters to pay for public transport fares using facial recognition"
+    publishedDateTime: 2023-10-16T04:36:00Z
+    webUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 53
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/RTA-GDMO5-P01-15-10-23.jpg"
+        width: 931
+        height: 622
+        isCached: true
   - title: "Respond.io to Showcase New Artificial Intelligence (AI)-powered Solutions at GITEX Global 2023"
     excerpt: "including healthcare, IT and SaaS, logistics, e-commerce and education. Concurrently, respond.io will also participate in Expand North Star Dubai, the world's largest global startup event, held at Dubai Harbour in conjunction with GITEX Global 2023."
     publishedDateTime: 2023-10-12T11:08:00Z
@@ -39,6 +53,15 @@ related:
         width: 852
         height: 528
         isCached: true
+  - title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
+    excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
+    publishedDateTime: 2023-10-15T19:21:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/10/15/public-transport-fares-can-be-paid-via-facial-recognition-in-dubai"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 30
 
 secured: "IuU9s4r9W1FW7vx5kinODo065lW7peSiS5fZRk8NOKBYLKHCsZGKu5gaG/0bZ4ntI2eeDwJIQYXMPonZVQUDQu8TUUEy3dVI1Ce9bfKY4uXIuUzHFBnwBIie7cdUERGUeFZALUPRHZRJtL1//HL+zpEyaq+yFn5D0ueU2O+YNwN5CFFWFQAjacyeSvlgtbcsmbbnQFEHd1PZ67VIlUD2qG8SIIjHPWizg/WgkBiRHO7KoLqL9so4WhFO/1kXEti62Lron2JekKij0AHvje2IzWMx+tWU6SrjDm8p0UuEqL3fKaobVLcwtvq4B7YAuicSCsTaOZjiqXnDNQdzV4Ua5Yy3/CIiQAl28IzCQ8ojZ6h+wwQAkYjCnRIiBhRioTBDAQnl5DSeWRoh0Y3GHlYvuHZ1Y2hha2u0+aqwzQGPCykqNR6lzvrRYDKkBN/3xuF/lGVCsLH5BJwj8JpyCYZlK4vlQ21g91I8NFexhrgW0hfbAEUZVNxIu2/gB8g4Dmlm5dLVvfbJBAyiSiz6XPQBWQ==;QPknqaX2oNbXHGTzr/YYyw=="
 ---

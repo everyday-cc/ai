@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-ge
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Diginomica
@@ -28,33 +28,148 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas"
-    excerpt: "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive."
-    publishedDateTime: 2023-10-11T17:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
+  - title: "An Example Of How AI Is Changing Marketing"
+    excerpt: "To learn more about how AI is impacting marketing, I talked with Ryan Coyne, CEO of Starboard, who has particularly rich insight on customization and marketing."
+    publishedDateTime: 2023-10-15T17:34:00Z
+    webUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/"
+    ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg"
-        width: 1024
-        height: 768
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652c20fe84b2025b759668c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1352
+        height: 900
         isCached: true
-  - title: "SiFive launches RISC-V HPC solutions for Generative AI and deep learning"
-    excerpt: "SiFive, Inc., a pioneering force in RISC-V computing, has unveiled a pair of groundbreaking products to cater to the ever-growing demands of high-performance computing. The new SiFive PerformanceTM P870 and SiFive IntelligenceTM X390 are poised to revolutionize low-power,"
-    publishedDateTime: 2023-10-12T02:22:00Z
-    webUrl: "https://www.digitimes.com/news/a20231011PR201/sifive-hpc-chip-risc-v.html"
+  - title: "Why Medium is opting out of AI"
+    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
+    publishedDateTime: 2023-10-11T14:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://img.digitimes.com/newsshow/20231011pr201_files/6_2b.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Implementing AI into software engineering? Here's everything you need to know"
+    excerpt: "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project."
+    publishedDateTime: 2023-10-12T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b621a19a7a8a179ac4529d95cbf983989647197f/2023/09/20/4a2888a9-76ee-4157-8690-00d1c67fae23/eyeglasses-codegettyimages-1442975239.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Responding in real time to changing market dynamics"
+    excerpt: "Implementing more aware, dynamic and automated inventory management systems create a competitive advantage to increase market share.\nThe post Responding in real time to changing market dynamics appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-13T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
+  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
+    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
+    publishedDateTime: 2023-10-14T21:13:00Z
+    webUrl: "https://thethaiger.com/ph/news/555161/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 72
+    images:
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
+        isCached: true
+  - title: "How to Launch a Game-Changing Artificial Intelligence Pilot"
+    excerpt: "Agencies looking to launch an AI pilot need to think strategically about the various use cases that would benefit their organization. CDW offers what it calls exploration services, bringing in a digital strategist and technical expert to identify the different personas that interact internally and externally with a particular agency."
+    publishedDateTime: 2023-10-13T20:47:00Z
+    webUrl: "https://fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot"
+    ampWebUrl: "https://fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot?amp"
+    type: article
+    provider:
+      name: https//fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 57
+    images:
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1469706255.jpg?itok=8KKnL_wC"
+        width: 1440
+        height: 500
+        isCached: true
+  - title: "How AI And Machine Learning Are Transforming Payroll Processing"
+    excerpt: "Enter the realm of AI and Machine Learning. The Dawn of the AI Era in Payroll In the last couple of years, we've witnessed the transformative power of AI. It's like watching a story unfold, where the protagonist (AI) overcomes challenges, learns from ..."
+    publishedDateTime: 2023-10-13T18:47:00Z
+    webUrl: "https://menafn.com/1107238517/How-AI-And-Machine-Learning-Are-Transforming-Payroll-Processing"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/13/R&AN_fc90aimage_story.jpg"
+        width: 800
+        height: 461
+        isCached: true
+  - title: "Why AI Is Forcing Startups To Chase a Mirage"
+    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
+    publishedDateTime: 2023-10-15T07:46:00Z
+    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Educators Adapting to Artificial Intelligence"
+    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
+    publishedDateTime: 2023-10-11T15:29:00Z
+    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
         width: 1280
-        height: 853
+        height: 720
+        isCached: true
+  - title: "You Can Now Chat With One of Meta’s Horrifying AI Personas"
+    excerpt: "There are also non-celebrity AI chatbots you can chat with as well:"
+    publishedDateTime: 2023-10-14T00:00:00Z
+    webUrl: "https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 37
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/64df1d11aa6505d9f0918ba02039e253.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "35g+DZPYRvKx1VpEI9GtPIM5TGFDxW9NJo4omI5JusxQJnO1Q+0vVfI3HPfH9muO4H6q6ILjO+bP07MJcQGfw6qIiWg9SN+Bb0yR5dAnjvyMWT5tBKjXprNdaVrW25VK+7mpnfPXgOf5/2kulscc/TnKYAj0901yeYbzb58hfTC8dHYpeE8fYm5nVlAlnDLjpf8JRLsKAaBgd8qLEDulBueKZ+vnv3U8hy5o8o/NB7s4Rv4bmq6X4q3jjmKp4bGuq9+860POzlZH+H1FoH+LkJfVJl37aTI1klIrIelJSbngCLilYamtusZH5K5O34PtuV/U54heS21geVdN/7I3V4ja4/K/iEu3Md6PlT2w66W4wSOEcvEarzDoKPhfN96MUVY4Cw0FUc5jkGVBR/4ZT2d2ez62aApdfkwZDluNmMiweIDywATo8O3nEiB4e+vPYT1GPMzWDbiIQ/ecZ5fNqZ/2DD2A0wO3vC7Ok2Cl5oCaomlCTpleDFMshBOBBen/ZP40kP5Q4kiEsULztNqHOg==;2U9S3SU+YBZtAfhMrJ0pkA=="

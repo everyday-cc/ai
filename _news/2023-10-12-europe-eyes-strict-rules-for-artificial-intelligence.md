@@ -72,15 +72,6 @@ related:
         width: 678
         height: 381
         isCached: true
-  - title: "Tonix Pharmaceuticals Announces Oral Presentation at the World Vaccine Congress Europe"
-    excerpt: "Zembrace SymTouch and Tosymra are registered trademarks of Tonix Medicines. Intravail is a registered trademark of Aegis Therapeutics, LLC, a wholly owned subsidiary of Neurelis, Inc. All other marks are property of their respective owners."
-    publishedDateTime: 2023-10-11T11:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tonix-pharmaceuticals-announces-oral-presentation-at-the-world-vaccine-congress-europe-1032696045"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
 
 secured: "0Dp8jKiaNyHkO8/vsMMUJ/HC7tlihZie++mRYeAziH735190RDmOTaeH2B4Qp5Eq0lEUUdQCIUjNcSYZwpb8AWIeRbC4e+ZQibVqYC6rISuiJ33Hq5lQzKSd/7qnWaRCdB75663SH0uYzLrc/Or5sTl0+5PZ5y/ZLFpLE1YQEOiZvRjfsgIZ6ZjsAoeU9hGL3VVbbIWxFbE0xLRdiwPMVhks8LUT7fx6EkqJOmCdKXS6Zyhqm9O03Ps9NbPXmXl38HL68bdJrxG2MbvrNYr7o/GJh7GV8zfYPKU97qAo1RSA0DDOX1mtYU9OtpxEA8RlfA65Aq+fTXrlKX0fXiIlqFL+Xa/kUEyzvm2I1mDOfMg=;fZhYSk1GRC5iHUJSrB0rGg=="
 ---

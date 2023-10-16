@@ -7,8 +7,8 @@ originalUrl: "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabe
 webUrl: "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabet"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "BigBear.ai (NYSE:BBAI) Stock: Will this Penny Stock Go Up from Here?"
-    excerpt: "Shares of BigBear.ai Holdings (NYSE:BBAI) have corrected quite a lot, losing nearly 78% of its value from the 52-week high. However, analysts"
-    publishedDateTime: 2023-10-11T11:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bigbear-ai-nyse-bbai-stock-will-this-penny-stock-go-up-from-here-1032696111"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://blog.tipranks.com/wp-content/uploads/2023/10/BBAI.png?utm_source=markets.businessinsider.com&utm_medium=referral"
-        width: 913
-        height: 307
-        isCached: true
   - title: "SoundHound AI Stock: Bull vs. Bear"
     excerpt: "Is SoundHound AI a future market darling or a risky bet? Our experts weigh in on the bull and bear sides of the debate."
     publishedDateTime: 2023-10-15T13:43:00Z

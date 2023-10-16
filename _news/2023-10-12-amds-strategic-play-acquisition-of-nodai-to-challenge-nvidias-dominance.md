@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
-    excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
-    publishedDateTime: 2023-10-11T11:14:00Z
-    webUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 1004
-        isCached: true
   - title: "AMD Aims to Bolster Software Capabilities with Nod.ai Acquisition"
     excerpt: "Advanced Micro Devices (AMD) is strategically moving to rival chipmaker Nvidia. It plans to acquire an artificial intelligence startup"
     publishedDateTime: 2023-10-11T20:58:00Z
@@ -54,15 +38,6 @@ related:
         width: 1940
         height: 1282
         isCached: true
-  - title: "AMD to finalise acquisition of software startup Nod.ai"
-    excerpt: "AMD has acquired Nod.ai to enhance its AI software capabilities. Nod.ai's expertise in software technology will help accelerate the deployment of AI solutions optimized for AMD hardware. The acquisition will also advance open-source compiler technology and enable high-performance AI solutions across AMD's product portfolio."
-    publishedDateTime: 2023-10-11T12:36:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/amd-to-finalise-acquisition-of-software-startup-nod-ai/articleshow/104346348.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 17
 
 secured: "HRbXBUfiNiI9wW38JS/1c8Vs7mmzL3XrC8lme9hJ33YUWSgEL6jmIdKqnGhtuiYFCpHGXrL95PjrEq5y5NAvzPh+QQ053A2nfm0PbPI8HdL4DZWPgv+FhI0A57rcstaQLOcN+Cu6DdUkghBMbkeE0KpGblBDw5WTzgjAme3B2xTy2WmT8mCu/2/TpY6pO2STnHB429xf5CuD74rHnYxsl+xXrZqUBMBxZfaJQEYB4kzKz/1lo8QNlGP577NPnGBP+9x2gtJC8mAZTKKnius5uxEHNGa4ilUda79Tg5PFyrE6W79ai4leiHq/9UmdjyjH2ypzTR18pe+UdKXYDZMucYUqjsqhy+33Tyk5bne+3QQ=;QqczkU5qJ+rH5q8h8jdhnA=="
 ---

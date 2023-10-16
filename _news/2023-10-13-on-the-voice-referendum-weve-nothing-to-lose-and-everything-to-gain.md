@@ -67,6 +67,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Your ultimate guide to the Voice ahead of polling day – everything you need to know"
+    excerpt: "The Yes campaign says a Voice to Parliament will provide better outcomes for Indigenous people as well as giving them formal recognition. It argues that the Voice needs to be constitutionally enshrined to make a “powerful statement” to recognise the ..."
+    publishedDateTime: 2023-10-13T03:27:00Z
+    webUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52"
+    ampWebUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 18
   - title: "If there is to be any healing after the Voice referendum, it will be a long journey"
     excerpt: "In the end, the “yes” case failed to answer two basic questions: what was the problem to be solved, and how would the Voice help solve it?"
     publishedDateTime: 2023-10-15T05:09:00Z
@@ -90,15 +101,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Coming to terms with the past is more important than ever. The Voice referendum is a vital first step"
-    excerpt: "Voice supporters are not looking for division, but rather a desire to play a role in the future of a nation that accepts it’s our country, too."
-    publishedDateTime: 2023-10-12T19:02:00Z
-    webUrl: "https://theconversation.com/coming-to-terms-with-the-past-is-more-important-than-ever-the-voice-referendum-is-a-vital-first-step-215152"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 0
 
 secured: "i468XowxHiaaW/Qh+mCryXe/15r8jqSWQEn3NahBoyKlOqgtOPxixVIAhgntUfyvRhS/hofC+arla9QOh75KyOsNWx/VieyGnGg5xcuB0n8O7tmXOPuP/9VwaS4PL20Hv3sxErxj3BRoictJxvxiwy6rwdZXKjM2bmrUFkclUt3MQ1D7fxFpN5iI9WYV4z4Q6u5QLmOqKJ20cJGAgLWwQEwK3oKPd0e4lrZtzdltVTO51CzSm7Kd+ft4NIf/hrj1pSvYpKVGGKs/N2jMzrbUl2UH/P669FiVGKd5AeSyUaHBx+17BkKtB0EDczGg/A6p5SMVQNqYXPQ8+PtYKJCGAMZFAHIB2aXswuv9UHSJ/zikj7863CKOx2t4rGc1OhbXP0W2mBzFHdH8oyU6/NM22a9M104mH7U/SRmNWctsaIc2InASU8Q5PtwBXB2fafIA9qwDjlfpu4BsjKgEna3sU8B4D2I5vy21m21DJmOkoXlwM+6IgcA2Srh7I1/7nzDQy/X2xA1AwyMVAwLEHxnBWA==;KZ/8IGLux/0bUtjabJ51oA=="
 ---

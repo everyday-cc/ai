@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-14-new-ai-tools-offer-path-to-early-alzheimers-diagnosis.md",
+      "title": "New AI Tools Offer Path to Early Alzheimer's Diagnosis",
+      "excerpt": "Is the eye the window to Alzheimer’s? WSJ reporter Vipal Monga joins host Zoe Thomas to discuss some of the AI tools that are in the works to help detect signs",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/new-ai-tools-offer-path-to-early-alzheimer-diagnosis/B366C1D0-07C5-4AE3-8D71-69DDD4B38F6B",
+      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/new-ai-tools-offer-path-to-early-alzheimer-diagnosis/B366C1D0-07C5-4AE3-8D71-69DDD4B38F6B",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://images.wsj.net/im-868546?width=1280&height=720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-14-centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.md",
+      "title": "Centre comes out with strategy on robotics to make India global leader in the field by 2030",
+      "excerpt": "India has outlined its ambitious roadmap for its artificial intelligence (AI) and robotics sectors, envisaging it as a pivotal enabler to help take the country’s digital economy hit one trillion dollars in valuation and position India as a global leader in the field of robotics by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.html",
+      "originalUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2018/january/robot-robotics-intelligence-3d-rendering-ai-robot-think-computer.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html",
+      "publishedDateTime": "2023-10-13T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think.md",
+      "title": "Google finally adds AI text-to-image generation, but it's not where you think",
+      "excerpt": "Although Google is not new to AI image generation, announcing its own Imagen text-to-image model as early as March 2022, it has yet to release an image-generator to the public -- until now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "originalUrl": "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/120b3978ed55499a5a10827d5f9f87a08f6ff836/2023/10/13/c7129b29-4f66-4724-bba8-512efdf39f76/gettyimages-1406057094.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
+      "publishedDateTime": "2023-10-13T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-gen-z-doesnt-know-how-to-write-emails-ai-is-coming-to-outlook-so-it-might-help.md",
       "title": "Gen Z doesn't know how to write emails. AI is coming to Outlook, so it might help.",
       "excerpt": "Microsoft's AI assistant could come to the rescue of soft skills-challenged Gen Z workers",
@@ -485,7 +630,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -621,48 +766,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-responding-in-real-time-to-changing-market-dynamics.md",
-      "title": "Responding in real time to changing market dynamics",
-      "excerpt": "Implementing more aware, dynamic and automated inventory management systems create a competitive advantage to increase market share.\nThe post Responding in real time to changing market dynamics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/",
-      "originalUrl": "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     },
     {
@@ -828,7 +931,7 @@
       "originalUrl": "https://www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -868,50 +971,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-how-creative-marketing-giant-wpp-is-preparing-for-generative-ai.md",
-      "title": "How creative marketing giant WPP is preparing for generative AI",
-      "excerpt": "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai",
-      "originalUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg",
-          "width": 2062,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp",
-      "publishedDateTime": "2023-10-13T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
       ]
     },
     {
@@ -1161,58 +1220,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-the-impact-of-artificial-intelligence-on-software-development-still-unclear.md",
-      "title": "The impact of artificial intelligence on software development? Still unclear",
-      "excerpt": "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "originalUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
-      "publishedDateTime": "2023-10-13T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

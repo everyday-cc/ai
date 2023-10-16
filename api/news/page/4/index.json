@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-12-anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide.md",
+      "title": "Anysphere raises $8M from OpenAI to build an AI-powered IDE",
+      "excerpt": "Anysphere, a startup building what it describes as an \"AI-native\" software development environment, called Cursor, today announced that it raised $8",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
+      "originalUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/27253e8e-2d70-41e0-99f1-f9e5a684f1a3_2918x1855.jpg",
+          "width": 2918,
+          "height": 1855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
+      "publishedDateTime": "2023-10-11T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails.md",
       "title": "Can AI be taught to stop straying from its ethical guardrails?",
       "excerpt": "Google, OpenAI and Anthropic want technology such as chatbots to learn from a ‘constitution’ to keep them from generating toxic content",
@@ -106,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -302,7 +353,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -478,6 +529,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
+      "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
+      "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1127,109 +1231,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce.md",
-      "title": "People And AI: ADP Is Hot In Automations For Payroll And Workforce",
-      "excerpt": "We've talked a lot about this and related topics, and looked at AI's effect on the business world from any number of angles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65033b85fb3035d47a2250b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-why-medium-is-opting-out-of-ai.md",
-      "title": "Why Medium is opting out of AI",
-      "excerpt": "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/",
-      "originalUrl": "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/",
-      "publishedDateTime": "2023-10-11T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

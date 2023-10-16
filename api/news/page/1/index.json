@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-16-expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship.md",
+      "title": "Expand North Star kicks off to showcase robotics, AI, and entrepreneurship",
+      "excerpt": "Expand North Star, a global event for startups and investors has kicked off at Dubai Harbour.  It will feature the latest innovations in robotics, AI, and entrepreneurship.  The four-day event brings together 1800 startups from 100 countries and over 1,",
+      "sourceUrl": null,
+      "webUrl": "https://campaignme.com/expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship/",
+      "originalUrl": "https://campaignme.com/expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://campaignme.com/wp-content/uploads/2023/10/ARTEMIS-the-fastest-robot-developed-by-UCLA-min.jpg",
+          "width": 1228,
+          "height": 997,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campaign Middle East",
+        "domain": "campaignme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-dubais-rta-unveils-facial-recognition-for-nol-cards-at-gitex-global-2023.md",
+      "title": "Dubai’s RTA unveils facial recognition for Nol cards at GITEX Global 2023",
+      "excerpt": "Facial recognition for Metro Nol cards. One of the highlights of RTA‘s showcase is a smart gate that allows commuters to pay for public transport fares using facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/",
+      "originalUrl": "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2023/10/RTA-GDMO5-P01-15-10-23.jpg",
+          "width": 931,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-generative-ai-revolutionising-banking-sector-fintech-surge-2023.md",
       "title": "Generative AI revolutionising banking sector: Fintech Surge 2023",
       "excerpt": "Gen AI will be a huge added value for the banking sector as it will detect many kinds of issues and improve accuracy of advanced services to the clients",
@@ -97,7 +183,7 @@
       "originalUrl": "https://www.scmp.com/tech/tech-war/article/3238039/new-us-rules-ai-chip-exports-aim-stop-workarounds-china-sales-says-us-official",
       "featuredContent": null,
       "highlight": null,
-      "heat": 312,
+      "heat": 322,
       "tags": null,
       "images": [
         {
@@ -142,35 +228,26 @@
       ]
     },
     {
-      "path": "_news/2023-10-16-what-are-metas-ai-personas-and-how-do-you-chat-with-them.md",
-      "title": "What are Meta's AI Personas, and how do you chat with them?",
-      "excerpt": "Meta's AI Personas are here, and the reviews are in: They're strange. Quite strange. But maybe right now you're confused, and, to be honest, I wouldn't blame you. Who has time to keep up with every company's latest AI project these days? Here are the basics of what you should know about Meta's latest offering.",
+      "path": "_news/2023-10-16-better-ai-stock-tesla-vs-alphabet.md",
+      "title": "Better AI Stock: Tesla vs. Alphabet",
+      "excerpt": "Among the dozens of companies jockeying to lead the next artificial intelligence (AI) revolution, Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Tesla (NASDAQ: TSLA) are two of the clear leaders. Though Alphabet might have ceded the initial first-mover advantage in generative AI to OpenAI's ChatGPT and its partner Microsoft,",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/meta-ai-personas-explained",
-      "originalUrl": "https://mashable.com/article/meta-ai-personas-explained",
+      "webUrl": "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabet",
+      "originalUrl": "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 74,
       "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/017S0ZktgJYDr2ZhrZ9HjCq/hero-image.fill.size_1200x675.v1697390053.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T10:35:00-07:00",
+      "publishedDateTime": "2023-10-15T10:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -180,7 +257,60 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-an-example-of-how-ai-is-changing-marketing.md",
+      "title": "An Example Of How AI Is Changing Marketing",
+      "excerpt": "To learn more about how AI is impacting marketing, I talked with Ryan Coyne, CEO of Starboard, who has particularly rich insight on customization and marketing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652c20fe84b2025b759668c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1352,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/",
+      "publishedDateTime": "2023-10-15T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -296,7 +426,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -590,7 +720,7 @@
       "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1052,151 +1182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-new-ai-tools-offer-path-to-early-alzheimers-diagnosis.md",
-      "title": "New AI Tools Offer Path to Early Alzheimer's Diagnosis",
-      "excerpt": "Is the eye the window to Alzheimer’s? WSJ reporter Vipal Monga joins host Zoe Thomas to discuss some of the AI tools that are in the works to help detect signs",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/tech-news-briefing/new-ai-tools-offer-path-to-early-alzheimer-diagnosis/B366C1D0-07C5-4AE3-8D71-69DDD4B38F6B",
-      "originalUrl": "https://www.wsj.com/video/series/tech-news-briefing/new-ai-tools-offer-path-to-early-alzheimer-diagnosis/B366C1D0-07C5-4AE3-8D71-69DDD4B38F6B",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.wsj.net/im-868546?width=1280&height=720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.md",
-      "title": "Centre comes out with strategy on robotics to make India global leader in the field by 2030",
-      "excerpt": "India has outlined its ambitious roadmap for its artificial intelligence (AI) and robotics sectors, envisaging it as a pivotal enabler to help take the country’s digital economy hit one trillion dollars in valuation and position India as a global leader in the field of robotics by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.html",
-      "originalUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2018/january/robot-robotics-intelligence-3d-rendering-ai-robot-think-computer.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html",
-      "publishedDateTime": "2023-10-13T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think.md",
-      "title": "Google finally adds AI text-to-image generation, but it's not where you think",
-      "excerpt": "Although Google is not new to AI image generation, announcing its own Imagen text-to-image model as early as March 2022, it has yet to release an image-generator to the public -- until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
-      "originalUrl": "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/120b3978ed55499a5a10827d5f9f87a08f6ff836/2023/10/13/c7129b29-4f66-4724-bba8-512efdf39f76/gettyimages-1406057094.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/",
-      "publishedDateTime": "2023-10-13T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

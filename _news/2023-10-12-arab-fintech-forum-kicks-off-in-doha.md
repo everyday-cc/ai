@@ -77,15 +77,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
-    excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
-    publishedDateTime: 2023-10-11T11:26:00Z
-    webUrl: "https://techbullion.com/texas-in-focus-the-intersection-of-real-estate-and-fintech/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 4
   - title: "Industry Experts Spotlight Future Of Fintech In MENA"
     excerpt: "Fadi Saab outlined that there is a“dramatic growth” in the industry during the past decade. He said:“ In May last year, it was calculated that the world has 27,050 firms. Financial investments in the fintech amounted to $150bn."
     publishedDateTime: 2023-10-11T18:44:00Z

@@ -82,6 +82,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Your ultimate guide to the Voice ahead of polling day – everything you need to know"
+    excerpt: "The Yes campaign says a Voice to Parliament will provide better outcomes for Indigenous people as well as giving them formal recognition. It argues that the Voice needs to be constitutionally enshrined to make a “powerful statement” to recognise the ..."
+    publishedDateTime: 2023-10-13T03:27:00Z
+    webUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52"
+    ampWebUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 18
   - title: "Voice to Parliament referendum 2023: Everything you need to know"
     excerpt: "Saturday’s referendum day will mark the close of a long-winded chapter of polarised debate over Indigenous rights in Australia."
     publishedDateTime: 2023-10-12T14:45:00Z
@@ -91,15 +102,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Coming to terms with the past is more important than ever. The Voice referendum is a vital first step"
-    excerpt: "Voice supporters are not looking for division, but rather a desire to play a role in the future of a nation that accepts it’s our country, too."
-    publishedDateTime: 2023-10-12T19:02:00Z
-    webUrl: "https://theconversation.com/coming-to-terms-with-the-past-is-more-important-than-ever-the-voice-referendum-is-a-vital-first-step-215152"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 0
 
 secured: "2andk79pRXvXUVpt0KLaTGEDjz2c7tYY94+FL+TrZH6ZJk2uWoSTfMIafPvRzq4YXDOiUvatFou6Bh0y6fYpYKYWGH6KBmt7vX3wsJzFE0M3Fa+qKbEExjyrzQb9IX2fiaw/P6ea7erBru4GfLyUION5oGcDSoSATYYT98EBGj7CyBmRswMC3Rq22u9HMulLxLneGN4IknjZ1Sy135jCJk5tjPXd/DsNrbaVfyMX6l14MIvut7SBwkw6FiBve/TWAb/F2oTt0NOj54zaAufBnU7LkKdjZLsrhn8ikqe/lruVHe6COejlnBIkj6TGCTPmUVeQ9YiNbQbP2Ce3HM+7PK7GiwYQf+NMPZ6DP7FevWuhc4uG1zWHDzT7607rFlD92QElv3aISeQsguS+lNGNru9hGohOyjhTR0hcHuxcczXddxSqSyrm1l7AkQky45yhswbA0FXgV2J7PYjTbbDe8eXj1i4fRTvlTleRp6F7YtbyXWNi18wMkyW7XO+MyBrFKw1KuLS+VM9Vn2tTsevpxg==;9yw5GeRWXYtQ+Dg30p3uUw=="
 ---

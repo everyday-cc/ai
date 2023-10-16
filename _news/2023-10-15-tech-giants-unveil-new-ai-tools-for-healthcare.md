@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 156
 published: true
 
 provider:

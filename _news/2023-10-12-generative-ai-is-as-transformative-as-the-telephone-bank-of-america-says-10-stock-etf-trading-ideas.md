@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-a
 webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Business Insider
@@ -30,36 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "How creative marketing giant WPP is preparing for generative AI"
-    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
-    publishedDateTime: 2023-10-13T10:56:00Z
-    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
-    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
+  - title: "AI Pioneer Sai Nitisha Tadiboina Has a Transformative Impact on Healthcare Technology"
+    excerpt: "Sai Nitisha Tadiboina's journey exemplifies the dynamic synergy between AI and healthcare, where her vision and dedication are shaping a brighter future for medical technologies. Through her work, she envisions a healthcare ecosystem where AI-driven technologies optimize diagnostics, treatment, and patient outcomes."
+    publishedDateTime: 2023-10-11T19:42:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/273996297/ai-pioneer-sai-nitisha-tadiboina-has-a-transformative-impact-on-healthcare-technology"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 76
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
-        width: 2062
-        height: 1366
-        isCached: true
-  - title: "SiFive launches RISC-V HPC solutions for Generative AI and deep learning"
-    excerpt: "SiFive, Inc., a pioneering force in RISC-V computing, has unveiled a pair of groundbreaking products to cater to the ever-growing demands of high-performance computing. The new SiFive PerformanceTM P870 and SiFive IntelligenceTM X390 are poised to revolutionize low-power,"
-    publishedDateTime: 2023-10-12T02:22:00Z
-    webUrl: "https://www.digitimes.com/news/a20231011PR201/sifive-hpc-chip-risc-v.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 53
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231011pr201_files/6_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 27
 
 secured: "mC2qzzv9Qbr5w+gP5yjdMkVbqAcX+Rr3W23QpszrFwlLFXRLSAhL92e6PcnjptYfklAbAdpqJJF20JFTmccaQ6jipqUOwxCdIRHgAYv0yvz0OYmM+b5uRFG8fpBLEMG62dxXnA+ld1ViYRmfEX8S5cR8qO+nhp10m4VlyulwVrIObr0hBTGbrh0yjxlejZyZ6lIDZ5tQMrGQoRkG0eGjmoJaNuIDFaFhy6kdfGae2tDqBzqdvri9NCe3Qn5XNWgFDzbmmY4wqLrRr6sDgPvPyB+nNVxXvwwX8745BzjjY8rPLTLlODl6yhZLHTtYHkQYiJsrvKERq6K51cGM2MXqyTHYXk7GCSrQDqJ0+cPvPW+rV2ZFGBSx2iyiB6sLYd2qH6r4ZMN3rTFy2N6mEbEei27VobVmqvmwwW84Du0CvrUlA70UcZKZ8SYjfnun4+3hUP1RMR5sxkRmzFO0f10uQbPkgwK1j+z0Xvrlq94F2N5zX/4LsPt/n6nzllweATQWFa9DL+UEizfU6WB0Ronh4g==;MYOsnGLCnQwmktC8Q1FA4w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-e
 webUrl: "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
         width: 1024
         height: 677
         isCached: true
-  - title: "AI advances concerning IT decision makers as survey highlights worries over Deepfake attacks"
-    excerpt: "Integrity360, has today announced findings from independent research into AI's impact on cyber security, the risks and advantages."
-    publishedDateTime: 2023-10-11T13:06:00Z
-    webUrl: "https://enterprisetalk.com/news/ai-advances-concerning-it-decision-makers-as-survey-highlights-worries-over-deepfake-attacks/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 6
 
 secured: "YgmIFXpgKfkH0uqmSU1nXgf3qCfr//TvYxhDzSZw3NGmZ2bLS883EB9lV1z287PS1n5eBenyJIWkYJzNLwf/pkO3SbL4WWLGl1Ug0VWBXFHX1aaxhGsDIytyfndWdkNRvUMG9bEWfObWHFKMadpEPcmXrq7rx1CDTzIZCjt94cjPjvxehUg0zpzeY/9gL47DEBtinpx/lMVE+xUaUpGzdzGT4mDqUSHJQqatpz7NE1Y44lwd35vKJiJydCv1+0G0QOQjZ06kU2XTTuzibSymydZF7ApTWjPOHKc76FBaUuxDHlnuNdBdna4+zU79qZ9rmFOtIulCNUti7KEazLNNU9WvBjxDKcdd5Ykx0ki5WfY=;5IyG745QiPm078D2tyM9Gw=="
 ---

@@ -2,6 +2,101 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2023-08-08-aws-to-support-korean-startups-with-generative-ai-accelerator.md",
+      "title": "AWS to support Korean startups with Generative AI Accelerator",
+      "excerpt": "Amazon Web Services (AWS) will help Korean AI startups grow with its Generative AI Accelerator, a program that combines powerful AI tools with business, technical mentors and experts, the global-leading cloud computing service provider said Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/08/133_356593.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202308/01fe39d3e3a946b0bdd3a186fae09566.jpg",
+          "width": 980,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=356593",
+      "publishedDateTime": "2023-08-07T23:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-08-china-releases-plans-to-restrict-facial-recognition-technology.md",
+      "title": "China releases plans to restrict facial recognition technology",
+      "excerpt": "China is planning to restrict businesses' use of facial recognition technology in favor of non-biometric methods, according to the Cyberspace Administration. If facial recognition is used ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107283043-1691456149025-gettyimages-1359517707-vcg111361963637.jpeg?v=1691467558",
+          "width": 5476,
+          "height": 3651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/08/china-releases-plans-to-restrict-facial-recognition-technology.html",
+      "publishedDateTime": "2023-08-07T21:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-chinas-draft-measures-demand-individual-consent-for-facial-recognition-use.md",
       "title": "China’s draft measures demand ‘individual consent’ for facial recognition use",
       "excerpt": "The pervasive use of facial recognition technology across all facets of life in China has elicited both praise for its convenience and backlash around privacy concerns. The widespread adoption has also fueled the exponential growth of valuations in companies specializing in the field,",
@@ -1113,93 +1208,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones.md",
-      "title": "Machine Learning In Your Pocket: Unleashing The Full Potential Of Smartphones",
-      "excerpt": "On the consumer side, smartphone-based personal AI assistants capable of learning from their users' habits might someday be the big selling points of flagship devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cd5b440a5f09082a364b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/07/machine-learning-in-your-pocket-unleashing-the-full-potential-of-smartphones/amp/",
-      "publishedDateTime": "2023-08-07T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-san-francisco-drives-tech-will-it-drive-away-robot-taxis.md",
-      "title": "San Francisco drives tech; will it drive away robot taxis?",
-      "excerpt": "SAN FRANCISCO (Reuters) -San Francisco may be the symbolic capital of the tech industry, and the hub of next-generation services like artificial intelligence ... Inc’s Waymo and General Motors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.co.uk/news/san-francisco-drives-tech-drive-101320740.html",
-      "originalUrl": "https://www.aol.co.uk/news/san-francisco-drives-tech-drive-101320740.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-07T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL.co.uk",
-        "domain": "aol.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

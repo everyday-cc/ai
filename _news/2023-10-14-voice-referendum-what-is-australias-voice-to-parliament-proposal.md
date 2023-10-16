@@ -76,6 +76,36 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
+  - title: "The Voice referendum LIVE updates: PM laments Yes vote loss as Australia rejects constitutional change; every state votes No"
+    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
+    publishedDateTime: 2023-10-14T00:55:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 17
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Constitutional recognition for Indigenous Australians seems ‘dead’ for possibly decades"
+    excerpt: "Opposition Leader Peter Dutton’s promise of a second referendum for constitutional recognition of Aboriginal people if the first one failed seems now “off the table”, says Sky News Political Editor Andrew Clennell."
+    publishedDateTime: 2023-10-16T05:26:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/constitutional-recognition-for-indigenous-australians-seems-dead-for-possibly-decades/video/fcf0decd4925d874398d6a5532469112"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 16
+    images:
+      - url: "https://content.api.news/v3/images/bin/57897da0ac0f748a56379f6fc38d4aa7"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
     excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
     publishedDateTime: 2023-10-15T20:30:00Z

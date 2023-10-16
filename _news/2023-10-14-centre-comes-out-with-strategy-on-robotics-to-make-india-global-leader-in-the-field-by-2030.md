@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-wit
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/10/13/centre-comes-out-with-strategy-on-robotics-to-make-india-global-leader-in-the-field-by-2030.amp.html"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: India TV
       domain: indiatvnews.com
     quality: 41
-  - title: "Artificial Intelligence Key to Future India-UK Trade, Says Indian Cabinet Minister"
-    excerpt: "Investors have been urged to support a new state of the art artificial intelligence park which is being built in Maharashtra, India."
-    publishedDateTime: 2023-10-11T11:27:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14366"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 31
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14366_1697023153857708.jpg"
-        width: 752
-        height: 502
-        isCached: true
 
 secured: "BrEbsBgnjfXpiJ6zohr13VIgMOvkHUrRgxQrk5OJu//ycyPQzN9NXc+qjSf03QkBj5pU4v7bPVs0G+zG6avQ8w4ajyUPYV53Xtu/2W9IABDOZuVYCaQp8CYNV68MyaPtMR+t8tHrk8ZA7PGJ1C3nNP78Zjd0PBG5E57+/QcWqm6BMSoFNxzYP42GCRAraLRuuzpWUCGpRjxVbglCHGGijPsGJfzYlD9JLFoADXaqNqEF8YNH9yIr5et/oDQKL9y2lRtXivA/BMDJ+gRW1T8BPPR6vOZbRo3zyOqdQzTaRMc0WvCTQxoOJB42eKk/7B/zz1b9LTiJXOOWGIPJY2I1CD6qj0rm5MrVRPOsJDEKhOM=;Lcw+kZvcevnAK0YmcRaxYQ=="
 ---

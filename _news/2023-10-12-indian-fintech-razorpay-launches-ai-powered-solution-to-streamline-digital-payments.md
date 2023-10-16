@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razor
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
 type: article
 quality: 53
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 31
+  - title: "Hitachi Payment Services launches HPX, a FinTech startups program"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-10-16T04:53:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/hitachi-payment-services-launches-hpx-a-fintech-startups-program/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "QeoDzL5nWseuPbOBOfTBdLm/85b1pjrInSlxPghYVFJeUhj4CyemOV+DEt4Wty9esaOCwWhad+DIEQtavT1f13xUTwlPNt/NZG/u/M294oAWiCuJqHoLTK/qHTJqzqL8VFbNnETQg+JIxSHmRpWY9puLS1kc8tLmXGdQAxEXQj2sm1xBMd3n5KmceB40Vtl5d2YfOugO0yxBgoUCQa/TtxbF9ArSxWrK5EQFA5xD86zMAotZyJsJlI1HeqbI450rhjS5ImsSfPlsXAcV1gt2KvxNrmwOljYDFCEiMZylL6S5RKpqDa8IKNdCeEKHWGBFrF5ONgZbb87kzw5VK6ahMXo7fPHKmpLCXkOPLduGQeSI7+KSYDVS1wgHT+F6hRGsIwUJxU/nuJQJp9SesB4An0N9cp0ktvEiTziC4YxGXucWgx/OF99iyIJ/xPE9XOwAbu+8Od+zBqFFw9yFLohmBJGQO3pYDlhYYpar8+HTGLupz+lu4LEeBQYo4wq04FDYWVk1ALke1JP8gi6vvRQkFA==;O4/XUvIYc5UpifFb27JbxQ=="
 ---

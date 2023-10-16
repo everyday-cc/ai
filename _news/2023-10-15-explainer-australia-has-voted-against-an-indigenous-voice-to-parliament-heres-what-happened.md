@@ -88,22 +88,6 @@ related:
         height: 576
         isCached: true
   - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
-    excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-    publishedDateTime: 2023-10-14T12:06:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 47
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
     excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
     publishedDateTime: 2023-10-14T17:07:00Z
     webUrl: "https://www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/"
@@ -194,6 +178,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/c9a0472a3fa382a05074147d005944ea08b21306/0_587_8256_4953/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=6288935b2381e698949c9b272635ecb4"
         width: 620
         height: 372
+        isCached: true
+  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
+    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+    publishedDateTime: 2023-10-14T11:27:00Z
+    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://dims.apnews.com/dims4/default/1c0fdaf/2147483647/strip/true/crop/7700x4331+0+401/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F82%2F5612b341fff34b16478effe5688e%2F60302059f3c845c4b99d810132b81e3e"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "When announcing his plan to hold a referendum in March, Mr Albanese said the Voice would enshrine \"recognition\" that Australians \"share this great island continent with the world's oldest continuous culture\". \"Our nation's birth certificate should ..."

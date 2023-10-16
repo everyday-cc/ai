@@ -66,6 +66,20 @@ related:
       name: inc42
       domain: inc42.com
     quality: 31
+  - title: "Hitachi Payment Services launches HPX, a FinTech startups program"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-10-16T04:53:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/hitachi-payment-services-launches-hpx-a-fintech-startups-program/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "PzuDjmO6+EMmicI1WPZoPbWVw1H4Bh6GCFf/lU83VPykujMj90OR/N4J0DiuYOqXdshat3NBnQ7+2gHfutv2EYdJ7hVhRE4S/Ak1Ef+rJAoE1fQxZiGF/Bly9abuvCaF1quEBoMS2KSLNIzZ8RkUxDuO47x6kfIEwdcPxKoPcNdYcn2bhGozdc2x3kMnRquUdzi4cK1JpWew5zfnbdrim09Y26bPjzKKNaFbIQPLMgA6LuOpcLfmyhDhRYLonf4tWH8JjTKzfz/WRt8M3OeDfdSOVHGcSoKbTRZ1SgBlxL7m1MeRxER3pQ8k3QaFNDpIFpe5/y35tPcecvyJvSBoZyQpopaFqBOhs9yAtA8fdTx6KtIpdp6+O2exwfvvavXgx9KC4ppWcw2aNKK8M4jw83zvb14i1xFhavth1pkUQcdHYmd8Vudw7EjLjABhBrjaOV7sw1X1gj6mgNVFMFCS8rhXr62kWyDKo6k8fJ9CzNYuA1KqRRaSyGEm4WYfXIHp2vz0xaM+gNCMJEge6LqfJg==;gHI6SZenGO0iOBBclFwkUg=="
 ---

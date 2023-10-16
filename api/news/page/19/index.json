@@ -2,6 +2,92 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-09-29-trends-in-ai-ethics-before-and-after-chatgpt.md",
+      "title": "Trends in AI ethics before and after ChatGPT",
+      "excerpt": "Magnifi, an AI investing platform, analyzed ethics complaints collected by AIAAIC regarding artificial intelligence dating back to 2012 to see how concerns about AI have grown over the last decade.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
+      "originalUrl": "https://localnews8.com/stacker-money/2023/09/27/trends-in-ai-ethics-before-and-after-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2023/09/croppedshutterstock20594733174Y47jpg_0-scaled.jpeg",
+          "width": 1200,
+          "height": 855,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-29-meta-used-public-instagram-facebook-posts-to-train-its-new-ai-assistant.md",
+      "title": "Meta Used Public Instagram, Facebook Posts to Train Its New AI Assistant",
+      "excerpt": "Meta Platforms used public Facebook and Instagram posts to train parts of its new Meta AI virtual assistant, but excluded private posts shared only with family and friends in an effort to respect consumers' privacy, the company's top policy executive told Reuters in an interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949",
+      "originalUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/meta_ai_reuters_1695979644451.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/social-networking/news/meta-ai-virtual-assistant-training-public-facebook-instagram-posts-4434949/amp",
+      "publishedDateTime": "2023-09-29T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-deepmind-rolls-out-human-style-encouragement-to-enhance-ai-math-abilities.md",
       "title": "DeepMind rolls out human-style encouragement to enhance AI math abilities",
       "excerpt": "Google DeepMind researchers have developed a new technique to improve the math ability of AI language models by using human-style encouragement. The technique, called Optimization by PROmpting ...",
@@ -942,92 +1028,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-duality-technologies-joins-aws-partner-network-and-launches-solution-for-secure-data-collaboration-in-aws-marketplace.md",
-      "title": "Duality Technologies Joins AWS Partner Network and Launches Solution for Secure Data Collaboration in AWS Marketplace",
-      "excerpt": "Duality Technologies, the leader in secure data collaboration for enterprises and government agencies, today announced it has joined the Amazon Web Services (AWS) Partner Network (APN) and launched its secure data collaboration platform in AWS Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-duality-technologies-joins-aws-partner-network-launches-solution-/2023/09/28/9889217.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2223693/Secure_AI_and_ML_Model_Development_for_Modern_Data_Strategies.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-models.md",
-      "title": "IBM Announces Availability of watsonx Granite Model Series, Client Protections for IBM watsonx Models",
-      "excerpt": "28, 2023 /CNW/ -- Today, IBM IBM announced the general availability of the first models in the watsonx Granite model series — a collection of generative AI models to advance the infusion of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34968073/ibm-announces-availability-of-watsonx-granite-model-series-client-protections-for-ibm-watsonx-mode",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

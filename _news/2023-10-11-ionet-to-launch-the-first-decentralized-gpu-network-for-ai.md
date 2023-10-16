@@ -7,7 +7,7 @@ originalUrl: "https://invezz.com/news/2023/10/11/io-net-to-launch-the-first-dece
 webUrl: "https://invezz.com/news/2023/10/11/io-net-to-launch-the-first-decentralized-gpu-network-for-ai/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Startup demos upcoming decentralized GPU infrastructure network to OpenAI, Uber"
-    excerpt: "Io.net has developed a decentralized physical infrastructure network that will source GPU computing power from data centers and cryptocurrency mining operations for AI and machine learning."
-    publishedDateTime: 2023-10-11T13:00:00Z
-    webUrl: "https://cointelegraph.com/news/startup-builds-decentralized-gpu-sourcing-network-for-ai"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 30
 
 secured: "Aw+qUi/Uoz5QgY3RU4H9cItEYBy2MUNfpSADm4avvcwo0dCA5bTIonObWahKweO1Z8EyUC+DlKVxw524maI/s4KJUFFhL01YRjVAsIXdiaudx7YYcYP1qQJNbvmNg2bGIX7pMrQwhyOS8QsXUVUb6tc3fCBbgL9a0DhgS7448AuF58xo4hAsbvzy27rNmAQo2tMr+q+HX8pkvmRLgmsZSSc5jemyCVGvjpqhUBR3aYA67u0x2etR2qMBtfdcVXcgtruUE25Zu0pXBnMbBv/SyGw7b7cDdq5O3h3XWk208Kb9/nxt3sIIJWYhoUaCjGxzIom5VVgHLK9i2D4sD5zXG+hQm2Om+OQPu3LmgZSvYcRdsUGqXSGL8/1+FrFo9ZdyyiXYVorqRSIjdOKyxhm8aR63YWuuucCs6Zfbsza+mLKOXTXYAoNZQ/Wj3QhTZ06f+HHcA1uxSXVUlAhX00xYxM8bjoZ6ITwaT9FRG/3H1aktHbDgtxpSagViPuFgSr//Ha3Crd0ruw93HSghuP+QaQ==;pPRRnEG03FHls8LI2QCHgA=="
 ---

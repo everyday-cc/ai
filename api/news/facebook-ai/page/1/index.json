@@ -46,50 +46,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-13-how-creative-marketing-giant-wpp-is-preparing-for-generative-ai.md",
-      "title": "How creative marketing giant WPP is preparing for generative AI",
-      "excerpt": "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai",
-      "originalUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg",
-          "width": 2062,
-          "height": 1366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp",
-      "publishedDateTime": "2023-10-13T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2023-10-13-elon-musk-unveils-xai-a-game-changer-for-investors.md",
       "title": "Elon Musk Unveils X.ai: A Game-Changer For Investors",
       "excerpt": "Elon Musk held a Twitter Spaces event in early July to reveal X.ai, his newest AI business. X.ai researchers will focus on science, while also building applications for enterprises and consumers. To participate, investors should continue to buy Arista Networks ANET +0.6% (ANET).",
@@ -183,6 +139,59 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
+      "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
+      "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -534,6 +543,49 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace.md",
+      "title": "ContentEngine (CE) ResearchHub Accelerates Research Report Acquisition with AI Automation and the power of Amazon Marketplace",
+      "excerpt": "MIAMI, Oct. 2, 2023 /PRNewswire/ -- ContentEngine (CE), industry leader in market research report aggregation, is pleased to announce AI Automation to take the heavy lifting out of the research ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-02T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1356,50 +1408,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-16-2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide.md",
-      "title": "2030, Artificial Intelligence (AI) for Security Market Research Report | Booming Worldwide",
-      "excerpt": "The Artificial Intelligence (AI) for Security market research report and industry analysis ... The Juniper Network, Inc, Cisco Systems Inc, Facebook Inc, Broadcom Inc. (Symantec Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34651058/2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34651058/2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34651058",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34651058",
-      "publishedDateTime": "2023-09-16T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

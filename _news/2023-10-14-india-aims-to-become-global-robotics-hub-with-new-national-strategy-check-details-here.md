@@ -35,20 +35,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Artificial Intelligence Key to Future India-UK Trade, Says Indian Cabinet Minister"
-    excerpt: "Investors have been urged to support a new state of the art artificial intelligence park which is being built in Maharashtra, India."
-    publishedDateTime: 2023-10-11T11:27:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14366"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 31
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14366_1697023153857708.jpg"
-        width: 752
-        height: 502
-        isCached: true
 
 secured: "7gLCxlMIZ3zEZZre8R1yhWLjd1tM90Qw3Hx0Jv53ba3mAw8z8QF2fpwQSSW3iSJeues/BwXgFBxmO12QOg0uqG4ueWrDXpEwBedyD7eh6hpOjMeE/X+E/d83WbImgcgS366KMRYp5T3fKcwUCG4rJe1167qj5wCsnZh3EJzsKYOi2xk3MQ5xHU3yHGOf1flW1UhrHcMw38jc1xEFT+7ggZfqUaQxHuuOsg6oO/a002NXaGORHY0RdsXcVP7RAwILwGy9meBCFZfymcFeuf55RWAheOzQyP9arJ4NfT1/BbFgCbOvOWpp8sT3if4vKvs2AbCOOEZhlSjL2vSDbtxXqX6LNNubkvAqDiFKBXozrK/QLu2yqvJPFcgu74f4/hqHnw0XOQzmQuPa5OTTEL+7mRsOpUvxqPSdaS6SLs7HtvPUbbQsAIMPEtNxrIyW16913Oi8Tys65hN7elwcbulnfhNALRSSKD6XhsErJnViPhfzS6JhrBOQ4KB5eMavc1VtrsnCe/g8EzrYtWGSH+elfw==;EVTUVDcZCu+Nj94nOHeJVA=="
 ---

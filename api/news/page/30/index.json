@@ -2,6 +2,102 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-09-21-optimize-generative-ai-workloads-for-environmental-sustainability.md",
+      "title": "Optimize generative AI workloads for environmental sustainability",
+      "excerpt": "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png",
+          "width": 906,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T09:48:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards.md",
+      "title": "Retinal Imaging And Machine Learning Honored In The 2023 Lasker Awards",
+      "excerpt": "The Lasker Foundation’s annual awards for medical research honor the inventors of optical coherence tomography, DeepMind’s AlphaFold program and a legendary Dutch cancer researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2023/09/21/retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2023/09/21/retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-next-major-windows-update-is-available-september-26-with-new-ai-and-not-ai-features.md",
       "title": "Next major Windows update is available September 26, with new AI (and not-AI) features",
       "excerpt": "NEW YORK—Microsoft will be releasing its next major Windows update with \"over 150 new features\" later this month, the company announced in a presentation today. The update furthers Microsoft's crusade to tuck generative AI into all of its products, though as usual, it makes a ton of smaller iterative changes to the OS and its apps.",
@@ -1079,101 +1175,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-kypai-raises-187m-from-europes-leading-deeptech-vcs.md",
-      "title": "KYP.ai raises $18.7M from Europe’s leading deeptech VCs",
-      "excerpt": "KYP.ai's tools identify blockages and inefficiencies that could be solved through automator tools, and suggests them to the client.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/kyp-ai-raises-18-7m-from-europes-leading-deeptech-vcs/",
-      "originalUrl": "https://venturebeat.com/automation/kyp-ai-raises-18-7m-from-europes-leading-deeptech-vcs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_abstract_painting_of_job_recruitment_45debb26-70b9-4261-b63e-2cb09a6c9fc5.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-exhibition-of-ai-ml-blockchain-robotics-today-at-galadari.md",
-      "title": "Exhibition of AI, ML, blockchain, robotics today at Galadari",
-      "excerpt": "The Global CEO Forum will today present a unique event—an exhibition showcasing the latest in AI, ML, blockchain, IoT for agriculture, industry 4.0 applications, robotics, and network management, all developed by Sri Lankan universities and start-ups from 1:00 a.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.lk/business/Exhibition-of-AI-ML-blockchain-roboticstoday-at-Galadari/34-753223",
-      "originalUrl": "https://www.ft.lk/business/Exhibition-of-AI-ML-blockchain-roboticstoday-at-Galadari/34-753223",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.lk/assets/images/img/ft_logo.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FT",
-        "domain": "www.ft.lk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

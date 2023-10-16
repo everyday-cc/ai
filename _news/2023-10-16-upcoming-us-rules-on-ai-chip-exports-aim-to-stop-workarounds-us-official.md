@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Team Biden Moves to Close Loopholes In AI Chip Export Regulations To China"
+    excerpt: "President Joe Biden-led administration is preparing to crack down on the export of AI chips to China, targeting loopholes that allow circumvention of government restrictions. This move is part of the Biden administration’s upcoming actions to limit more AI chip exports."
+    publishedDateTime: 2023-10-16T05:13:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35258403/team-biden-moves-to-close-loopholes-in-ai-chip-export-regulations-to-china"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35258403"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35258403"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 72
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/us_china_microchip_shutter_2.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
   - title: "US tackles loopholes in curbs on AI chip exports to China, says US official"
     excerpt: "The US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part"
     publishedDateTime: 2023-10-16T00:35:00Z

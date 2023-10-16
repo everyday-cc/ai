@@ -2,6 +2,101 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-09-07-keralas-sastra-robotics-to-export-150-robots-to-britain.md",
+      "title": "Kerala’s Sastra Robotics to export 150 robots to Britain",
+      "excerpt": "Kochi: Sastra Robotics, a startup incubating under Kerala Startup Mission (KSUM), will export 150 robots to Britain following an agreement with one of the top IT companies in the United Kingdom (UK).",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
+      "originalUrl": "https://www.indiablooms.com/finance-details/19074/kerala-s-sastra-robotics-to-export-150-robots-to-britain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.indiablooms.com/finance_pic/2023/bb0283f1eb0d7b4a044b3297683116e3.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Blooms",
+        "domain": "indiablooms.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-microsoft-to-reveal-ai-plans-for-onedrive-in-october-event.md",
+      "title": "Microsoft to reveal AI plans for OneDrive in October event",
+      "excerpt": "Mark your calendar if you want a \"sneak peek\" at how AI will fuel new search, sharing, and queries for your OneDrive files.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/52621c88ff4f85caa000cfcdc623220ec0f8ea17/2023/09/07/3d33de39-0d04-4ce2-9326-cfb83bf94a84/onedrive-event.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-reveal-ai-plans-for-onedrive-in-october-event/",
+      "publishedDateTime": "2023-09-07T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
       "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
       "excerpt": "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ...",
@@ -1105,93 +1200,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions.md",
-      "title": "Cloudera collaborates with AWS to deliver enterprise generative AI-based solutions",
-      "excerpt": "According to an official release, Cloudera has chosen AWS to run components of the CDP, including data in motion, data lake house, data warehouse, operational database, AI/machine learning, master data management and end-to-end security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-07T125734.136.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-cloudera-collaborates-with-aws-to-deliver-enterprise-generative-ai-based-solutions-3235922/lite/",
-      "publishedDateTime": "2023-09-07T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
-      "title": "AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
-      "excerpt": "Microsoft: Nvidia's dominant position in the AI chip market due to a powerful combination of hardware and software has scared off potential investors in some startups, according to sources Reuters interviewed.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-103460231,imgsize-1539213,width-1200,height=765,overlay-etbrandequity/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft/103460231",
-      "publishedDateTime": "2023-09-07T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

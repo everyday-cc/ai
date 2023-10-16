@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-11-people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce.md",
+      "title": "People And AI: ADP Is Hot In Automations For Payroll And Workforce",
+      "excerpt": "We've talked a lot about this and related topics, and looked at AI's effect on the business world from any number of angles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65033b85fb3035d47a2250b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
       "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
       "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
@@ -1175,58 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-rogue-ai-will-learn-to-manipulate-people-to-stop-it-from-being-switched-off-predicts-british-godfather-of-ai.md",
-      "title": "Rogue AI will learn to ‘manipulate people’ to stop it from being switched off, predicts British ‘Godfather of AI’",
-      "excerpt": "Geoffrey Hinton, a former AI engineer at Google, told 60 Minutes he expected artificial intelligence to become self ... He also set the foundations for the growth of AI through his pioneering neural network, which helped him win a prestigious Turing ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/",
-      "originalUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1260013883-e1696933068802.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
-      "publishedDateTime": "2023-10-10T20:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

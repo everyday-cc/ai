@@ -2,26 +2,26 @@
 category: news
 title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
 excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
-publishedDateTime: 2023-10-11T17:07:00Z
-originalUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
-webUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
-ampWebUrl: "https://www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
-cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
+publishedDateTime: 2023-10-11T17:02:00Z
+originalUrl: "https://www.nbcchicago.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/"
+webUrl: "https://www.nbcchicago.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/"
+ampWebUrl: "https://www.nbcchicago.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/?amp=1"
+cdnAmpWebUrl: "https://www-nbcchicago-com.cdn.ampproject.org/c/s/www.nbcchicago.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3248113/?amp=1"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: NECN
-  domain: necn.com
+  name: NBC Chicago
+  domain: nbcchicago.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.necn.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcchicago.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6NdCF6Z8gO5BRIAZIpUpHk+N9wlDh1vMDqFupAghldUuazIBXOyjvmvmuSHXOfZp9E9fR9sqaOgE627Fz+ra59WgetW2acvqDURYofhzdubBL/mk2kd1JsmQlUXPJj9aeLVZTz2NTxMx2AOaUGu6brYY4InPqbnLrGFXzyXtIlpH1g4UDce5LWyqq7Jek2/mXKICackKiYXEQC8zStPA4NVXM+Nkfkb84fq+wVKoEnu5EkMWSQNH+y1O/F2vsWty+R6ftvb6s4eNNrcLg3xV0X/I9F+POwisLjHlhdwHRe6wM8dgQ4a/j+ubf2+4UWh76iYgUGD+p+wlG5uld8jLpDrEaLr4J+CizU6SgwrRcfI=;BzTDyag110tmeGJ807vl6g=="
+secured: "tIfrzVoZH92EUoQKJ8zdxYi7MLgVLEoCKjpGDr1Fh9h2hqW14/Q8sokELGpIvE4pPuJzDiXdqGDK3MB/1vlY20It1xJiUZLe8Lsw/3lTV/eldSEAed+mV8E8TsjwcGFIvxBca+7A9icswrDePiRgOAIsHQ0ESRRw7qdNjeGZheoAkaVObmsb+NwNwXMN/LvrG45TummJMHwXI/ygPX1Z5zmSFfnVjZADkDIsN36NVyPNfYlgwHT+uM9J/hdXaUqZS+b1IigOD7Mqyc2vr+fsWR+givOL2vXv4tmuocygIt09eK7BM8xgHbpto+l7icCO0uuZhK9q0iyK5ELeMPgsur3HixJ3hwPF4ZmUBqGkjek=;+O0Qmggq0Hyn3Yd/L55v6A=="
 ---
 

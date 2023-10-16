@@ -24,75 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Why Medium is opting out of AI"
-    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
-    publishedDateTime: 2023-10-11T14:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
+  - title: "Applications, Cloud, Silicon: The AI Trifecta And Its Impact On Winning In The AI Era"
+    excerpt: "There’s no way around it—committing to AI is committing to a big vision and a big disruption in the way that your company operates, at least to some degree."
+    publishedDateTime: 2023-10-13T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/applications-cloud-silicon-the-ai-trifecta-and-its-impact-on-winning-in-the-ai-era/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 80
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/637390ed1b7646a9e461196b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Artificial intelligence is disrupting higher education"
-    excerpt: "Traditional contact universities need to adapt faster and find creative ways of exploring and exploiting AI, or lose their dominant position."
-    publishedDateTime: 2023-10-13T07:29:00Z
-    webUrl: "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 76
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2023/09/Rennie-Naidoo-2023.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why AI Is Forcing Startups To Chase a Mirage"
-    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
-    publishedDateTime: 2023-10-15T07:46:00Z
-    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Educators Adapting to Artificial Intelligence"
-    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
-    publishedDateTime: 2023-10-11T15:29:00Z
-    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
-    type: article
-    provider:
-      name: Erie News Now
-      domain: erienewsnow.com
-    quality: 37
-    images:
-      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Why the Gaming Industry is perfect for AI Training"
-    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
-    publishedDateTime: 2023-10-14T16:01:00Z
-    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
-    type: article
-    provider:
-      name: tech-ish.com
-      domain: tech-ish.com
-    quality: 19
 
 secured: "MjQN6sT+Nzj0X6D+xvfCe25GI652tqT/0MQJjlPQ+ki6vyos7CqUC+c/VPAomZ2EVpvrXwSQDXk7IprmGEek+S1LMRgwRIMNsuBE4ywK9asNhY3IR7W4Cjx50LKaBEg1F1SO6SppblNZAjFyA6riXojIQlkjtabdPCxtecySaZqp3mbSdT/di4Dywrvj42JqAk9XjzHWetKEBlk91dKm8Y+mg1i2lgQKCfQDN2N0Ni6hB1szrFH/8BTPtmWy//zKVJl5bUvAdFNFcqwkHFbtY4S08p3q97YN8FOVhrGGZCXFDXdAigXyCSCEcKZhP7k5kBRflTzJL0YT+LOhnEr/rFKqFrsUXV4jCaRP5B81J30=;Uc4FdJbdrT4i21/yzHfOwA=="
 ---

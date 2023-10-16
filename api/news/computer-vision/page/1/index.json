@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-16-dubais-rta-unveils-facial-recognition-for-nol-cards-at-gitex-global-2023.md",
+      "title": "Dubai’s RTA unveils facial recognition for Nol cards at GITEX Global 2023",
+      "excerpt": "Facial recognition for Metro Nol cards. One of the highlights of RTA‘s showcase is a smart gate that allows commuters to pay for public transport fares using facial recognition",
+      "sourceUrl": null,
+      "webUrl": "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/",
+      "originalUrl": "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gulfbusiness.com/wp-content/uploads/2023/10/RTA-GDMO5-P01-15-10-23.jpg",
+          "width": 931,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf Business",
+        "domain": "gulfbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-as-airports-and-cruises-embrace-facial-recognition-experts-worry-about-privacy-risks.md",
       "title": "As Airports and Cruises Embrace Facial Recognition, Experts Worry About Privacy Risks",
       "excerpt": "The technology is being used at airports, theme parks, hotels, and more. And while that may add some convenience to the often-stressful travel experience, it’s also bringing up concerns about security and privacy, The New York Times reported on Friday.",
@@ -333,19 +376,19 @@
     {
       "path": "_news/2023-10-06-ai-facial-recognition-campaigners-and-mps-call-for-ban.md",
       "title": "AI facial recognition: Campaigners and MPs call for ban",
-      "excerpt": "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human rights, potential for discrimination and \"the lack of a democratic mandate\".",
+      "excerpt": "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ...",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html",
-      "originalUrl": "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html",
+      "webUrl": "https://www.bbc.com/news/technology-67022005",
+      "originalUrl": "https://www.bbc.com/news/technology-67022005",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/656ea96363e253c179d5d40cd8be9320",
-          "width": 976,
-          "height": 549,
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,14 +396,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T19:01:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/technology-67022005.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp",
+      "publishedDateTime": "2023-10-05T18:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1260,49 +1312,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar.md",
-      "title": "A Glimpse into Data Scarce Environments: An Interview with Computer Vision Expert, Sumedh Datar",
-      "excerpt": "In the realm of Artificial Intelligence, particularly Deep Learning, data is the lifeblood that powers predictive solutions. But what happen..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Sep/26/big_thumb/1_6512460ee8565.jpg",
-          "width": 743,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/a-glimpse-into-data-scarce-environments-an-interview-with-computer-vision-expert-sumedh-datar-sc71-nu318-ta318-1298730-1.html",
-      "publishedDateTime": "2023-09-25T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

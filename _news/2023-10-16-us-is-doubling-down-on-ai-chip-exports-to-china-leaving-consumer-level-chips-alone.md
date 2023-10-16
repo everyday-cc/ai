@@ -87,6 +87,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Team Biden Moves to Close Loopholes In AI Chip Export Regulations To China"
+    excerpt: "President Joe Biden-led administration is preparing to crack down on the export of AI chips to China, targeting loopholes that allow circumvention of government restrictions. This move is part of the Biden administration’s upcoming actions to limit more AI chip exports."
+    publishedDateTime: 2023-10-16T05:13:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35258403/team-biden-moves-to-close-loopholes-in-ai-chip-export-regulations-to-china"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35258403"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35258403"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 72
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/us_china_microchip_shutter_2.jpeg?width=1200&height=800&fit=crop"
+        width: 830
+        height: 553
+        isCached: true
   - title: "US tackles loopholes in curbs on AI chip exports to China, says US official"
     excerpt: "The US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part"
     publishedDateTime: 2023-10-16T00:35:00Z
@@ -324,6 +340,6 @@ related:
       domain: techreport.com
     quality: 28
 
-secured: "DgidNj2Fokf2HzPXEOZ6yXLhqSWz1TyRjgDhXF82swV+qH2TPupAsmi6NHojOQUgDG9CqsWDeHiHwRM09sYigO0cH1tBy4+Dq+iWsTOu14KpFr9y9gVIUZCrJEJT0oIk7eU8F3CQR4gKMDRJyT0hFZwnsa0H6U/qFC+SL6FFUIZD4rXKbhCpeaEiKmSvIgwnDsogLPLqojyNGFUM+/7TntbwxszufZLHwavSKq+fbNOKH10B6/KEbV5sUIGlByuME5mHQPtZPa0KjJBk0vgrL5GzL+klPJgvvrdycm8QM2GXrghfIr29iMshGEnbLYJoOXD3TuyoSdgSt8X8W2Cn08Rv+BFkxIvDKTmxenzPgl4=;cxabKLslvyoAV5q0vfo58w=="
+secured: "zBQGMa2LWQj35Ew871sypD9PRZj0Eq7DZBUufZ+SNUPqHGKYjnOOjF39J1mGz59FLzQ8PCgEUrgGEZNJUKGCg/PrzyFQnLoafF/efOyBXNsyMnDjvuRpoktpb9jACXIQ7wFuvXdbQlq/qB4J85b0+HkBIJpln/bmydE+EKGoUgkV8pImkmQG43I/FWCQ79ywVzXVQLXQp5ngUS+ikNzbA0NFfgADI7iPHUivOyHo8BftCaSFWI9Di44+rUw3sOiC2A5AZL9U3LnewDkxmxLltmHJNdhKwCchmxaeOK4IOXCGw+bIXPgGltSOqOvSMc/fq//YS/BsjKp2H+n1QeRyyQCtwCNRFvqTdyjxPc+iJ7wYqRrFhLn2nyEpc5+TfgBFrJkmGF2Y1H9IvvVvLuawO5CGKLbQYocPCth3hHlDmM+SzlK0Iv2yuDGkSF9fFUOF3HLlsIh4jr+rjDQoohRxMU+QR5DXzg2955BrmbAzhnASqvpcE6HcmUVf44xLiMIFs11xRgL9OQZjOSXSCBwuwQ==;h5KlBWWZ5JZJJlu632F8FA=="
 ---
 

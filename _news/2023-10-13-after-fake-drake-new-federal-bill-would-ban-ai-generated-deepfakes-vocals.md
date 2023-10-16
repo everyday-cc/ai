@@ -61,15 +61,6 @@ related:
         width: 1024
         height: 677
         isCached: true
-  - title: "AI advances concerning IT decision makers as survey highlights worries over Deepfake attacks"
-    excerpt: "Integrity360, has today announced findings from independent research into AI's impact on cyber security, the risks and advantages."
-    publishedDateTime: 2023-10-11T13:06:00Z
-    webUrl: "https://enterprisetalk.com/news/ai-advances-concerning-it-decision-makers-as-survey-highlights-worries-over-deepfake-attacks/"
-    type: article
-    provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 6
 
 secured: "dtpWeskmw7+f52xn1OQfSrGWqCG7AIR4rwE5qcCiyNBU1yjcpkfMhNeEwC5xQP9WRQnV2/I1XOKMumOsID/pT2KKW94wTvpykmLPnp2lYX+YUhQCaA/ROwi0QyzIfEaV5QUt1GfIio2IA0j4l16BnXCNK7PEC9+z72w6qKfc4vpreqgomK6EtiD2+tvv3c0AAGWOZJ5GxuBluHhGWJmYYQyY10Lz4v0swwfYXVPE/UhqOyiE5mTbPi49lfdrvMAzgwNVXLdI8RKBXK7Qp7YDdWElwwoOaufI+NmmL3bnfoY0DOBF7Gq/F5vj1yh+xMrtatnxQYoNYYWGpSy2ogQ1hHHCkTarW2QmC4NAgwzr+0s=;euhLmpjkNe6BKByBXRCelA=="
 ---

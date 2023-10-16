@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2023-08-30-unveiling-global-warmings-impact-on-daily-precipitation-with-deep-learning.md",
-      "title": "Unveiling global warming's impact on daily precipitation with deep learning",
-      "excerpt": "A collaborative international research team led by Professor Yoo-Geun Ham from Chonnam National University and Professor Seung-Ki Min from Pohang University of Science and Technology (POSTECH) has made a discovery on the impact of global warming on global daily precipitation.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "originalUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/unveiling-global-warmi.jpg",
-          "width": 1280,
-          "height": 1057,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-unveiling-global-impact-daily-precipitation.amp",
-      "publishedDateTime": "2023-08-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-30-ai-and-ml-are-playing-defining-role-in-driving-fintech-automation-says-stx-next.md",
       "title": "AI and ML are Playing Defining Role in Driving Fintech Automation, Says STX Next",
       "excerpt": "AI and ML algorithms that can process large quantities of data are delivering increased efficiency, scalability and accuracy for fintechs pioneering the technology Artificial intelligence (AI) and machine learning (ML) adoption is increasing across virtually every industry,",
@@ -1387,6 +1344,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-qlik-named-to-constellation-shortlist-for-both-artificial-intelligence-and-machine-learning-best-of-breed-platforms-and-augmented-bi-analytics.md",
+      "title": "Qlik Named to Constellation ShortList™ for Both Artificial Intelligence and Machine Learning Best-of-Breed Platforms and Augmented BI & Analytics",
+      "excerpt": "Qlik ® today announced that the company has been recognized by Constellation Research on two of their Q3 2023 Constellation ShortLists - The Artificial Intelligence and Machine Learning Best-of-Breed Platforms ShortList for Qlik AutoML™,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/16/9865651.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/16/9865651.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

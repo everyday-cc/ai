@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
-excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
-publishedDateTime: 2023-10-14T12:06:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
+publishedDateTime: 2023-10-14T11:27:00Z
+originalUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://dims.apnews.com/dims4/default/1c0fdaf/2147483647/strip/true/crop/7700x4331+0+401/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F82%2F5612b341fff34b16478effe5688e%2F60302059f3c845c4b99d810132b81e3e"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
@@ -378,6 +376,6 @@ related:
       domain: houstonchronicle.com
     quality: 0
 
-secured: "tP/mNvRcqLF8eq7lY9kAn5Ln7XZOs52aFDKUKizIDbaNoMUtm3TzT5lIUrdUzaiG1O28GZy45dRyMCaJnn7KBO7R2L+gIsQS7Pz0PWpQ/poQn4r3QrS7tfmUinhoT4IWw+JmB4QARw1SeHpEONH6XO1HuO+LFBK0lVvi/PsbF4FIegh1nimeJKwXuwUQmnUuHN4R4Pca3CAkxPbkwhXTzwE0NQK2ImJ0P7H6Otst3Y31dCxi5XAHPvlmQnZJAp9yC1uCSUMUsFDy5bb/4+rYoiNHgbZ3Eg9w+hb/baUJAKpAL9PiVHenyolJDMOjuVbXsMDIds7PLdmx4aSvAikJWZEMyCR8Y8NTu8kLFQd2U/g=;JAJV1f+vMViFwy4Ok4t8qA=="
+secured: "mRwtMu0OGHw27T0AWy7M3Z4KpIWAcSqEuM1eFXnEKivTGEAdybUY3YfHiscwE4geqgQHV9ABim0v4PAmyjvYUVif7VSSQbvKjm9ZQKQ/1eq81x5hez5ku+MauoEiLMd+sVwnDUHCV2HFUw9Aa4oPMSVJHXaazpX6nN9pl++OeaIhKTn2hnTCPGMTZlM+/CM5KTYaMYRuzVNVOiXkZ19oZFtfyKV+Fh4SZPKcCvqctIVC4uevJJhtzcVGzxWhhW2PcT+u35uv5KU9ekq7KG8+Y2OxzE4hrrgW3ugZd5MCGEdFxwCTvm+LnvaH5ndcPkKYmreDTstaMgqNqnlDyqDRrtQLplnIagIbr8bBJmhKPUQ=;fVSP3/MiebmG5//xKxfSDQ=="
 ---
 

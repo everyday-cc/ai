@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-13-the-impact-of-artificial-intelligence-on-software-development-still-unclear.md",
+      "title": "The impact of artificial intelligence on software development? Still unclear",
+      "excerpt": "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "originalUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "publishedDateTime": "2023-10-13T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-meity-discloses-the-draft-national-strategy-on-robotics.md",
       "title": "MeitY discloses the Draft National Strategy on Robotics",
       "excerpt": "According to the draft, the Indian government’s ‘India AI’ is an umbrella program that takes into account current AI initiatives",
@@ -42,6 +94,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-artificial-intelligence-is-disrupting-higher-education.md",
+      "title": "Artificial intelligence is disrupting higher education",
+      "excerpt": "Traditional contact universities need to adapt faster and find creative ways of exploring and exploiting AI, or lose their dominant position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m",
+      "originalUrl": "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2023/09/Rennie-Naidoo-2023.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m",
+      "publishedDateTime": "2023-10-13T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
       ]
     },
     {
@@ -590,58 +686,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-12-implementing-ai-into-software-engineering-heres-everything-you-need-to-know.md",
-      "title": "Implementing AI into software engineering? Here's everything you need to know",
-      "excerpt": "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/",
-      "originalUrl": "https://www.zdnet.com/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b621a19a7a8a179ac4529d95cbf983989647197f/2023/09/20/4a2888a9-76ee-4157-8690-00d1c67fae23/eyeglasses-codegettyimages-1442975239.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/",
-      "publishedDateTime": "2023-10-12T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-12-aws-ceo-generative-ai-will-pretty-much-change-every-application-consumers-interact-with.md",
       "title": "AWS CEO: Generative AI will 'pretty much change' every application consumers interact with",
       "excerpt": "Amazon Web Services CEO Adam Selipsky joins 'Squawk on the Street' to discuss how artificial intelligence has internally changed AWS' business, how the new technology may have changed the tech company's workforce deployment,",
@@ -986,7 +1030,7 @@
       "originalUrl": "https://www.forbes.com/sites/alexandralevine/2023/10/12/in-a-new-era-of-deepfakes-ai-makes-real-news-anchors-report-fake-stories/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1218,6 @@
         "AI",
         "AI in Marketing",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide.md",
-      "title": "Anysphere raises $8M from OpenAI to build an AI-powered IDE",
-      "excerpt": "Anysphere, a startup building what it describes as an \"AI-native\" software development environment, called Cursor, today announced that it raised $8",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
-      "originalUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/27253e8e-2d70-41e0-99f1-f9e5a684f1a3_2918x1855.jpg",
-          "width": 2918,
-          "height": 1855,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/",
-      "publishedDateTime": "2023-10-11T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

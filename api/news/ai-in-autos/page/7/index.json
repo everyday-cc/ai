@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-18-driverless-rideshare-company-tests-cars-in-charlotte.md",
+      "title": "Driverless rideshare company tests cars in Charlotte",
+      "excerpt": "Cruise, an all-electric, driverless car company ... The sensors send that data to the artificial intelligence that runs the cars, allowing it to make “real-time predictions on what’s happening ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
+      "originalUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/fJgu43u2hruEwJutewQz0DqyqNU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/E6BUORQT6REBLLD37GP76BO7JE.jpeg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
+      "publishedDateTime": "2023-08-17T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSOC-TV",
+        "domain": "wsoctv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-17-house-democrats-launch-working-group-on-artificial-intelligence.md",
       "title": "House Democrats launch 'working group' on artificial intelligence",
       "excerpt": "House Democrats are launching a working group aimed at crafting artificial intelligence policy, the latest attempt by federal lawmakers to wrap their heads around legislating the rapidly-advancing ...",
@@ -1272,58 +1315,6 @@
         "name": "Wyoming News",
         "domain": "wyomingnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-pope-issues-warning-on-artificial-intelligence-fears-logic-of-violence.md",
-      "title": "Pope issues warning on artificial intelligence, fears ‘logic of violence’",
-      "excerpt": "Pope Francis issued a warning on artificial intelligence Tuesday, urging those behind the technology to \"be vigilant\" during their work. The Pope made the statement in his message marking New Year ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence",
-      "originalUrl": "https://www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c49c55e-a09f-4f2c-9e7b-2a43273b3ba1/6c4c1b27-cf9f-4259-a835-00b1473bd394/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/pope-issues-warning-artificial-intelligence-fears-logic-violence.amp",
-      "publishedDateTime": "2023-08-08T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

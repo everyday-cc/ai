@@ -2,6 +2,110 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2023-09-07-5-neat-ai-startups-from-y-combinators-winter-2023-batch.md",
+      "title": "5 neat AI startups from Y Combinator’s Winter 2023 batch",
+      "excerpt": "Another intriguing Y Combinator startup tackling challenges in AI operations is Ceralyze, founded by ex-Peloton AI engineer Sarang Zambare. Ceralyze is Zambare’s second YC go-around after leading the AI team at cashier-less retail startup Caper.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
+      "originalUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/y-combinator-gears1.png?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/06/5-neat-ai-startups-from-y-combinators-winter-2023-batch/amp/",
+      "publishedDateTime": "2023-09-06T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-intelligently-search-adobe-experience-manager-content-using-amazon-kendra.md",
+      "title": "Intelligently search Adobe Experience Manager content using Amazon Kendra",
+      "excerpt": "This post shows you how to configure the Amazon Kendra AEM connector to index your content and search your AEM assets and pages. The connector also ingests the access control list (ACL) information for each document. The ACL information is used to show search results filtered by what a user has access",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-adobe-experience-manager-content-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/06/featured-images-ML-13597-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T10:28:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-fine-tune-llama-2-for-text-generation-on-amazon-sagemaker-jumpstart.md",
       "title": "Fine-tune Llama 2 for text generation on Amazon SageMaker JumpStart",
       "excerpt": "Today, we are excited to announce the capability to fine-tune Llama 2 models by Meta using Amazon SageMaker JumpStart. The Llama 2 family of large language models (LLMs) is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters. Fine-tuned",
@@ -1067,93 +1171,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-nvidia-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy.md",
-      "title": "Nvidia: Why This Phenomenal Artificial Intelligence (AI) Stalwart Is Still a Screaming Buy",
-      "excerpt": "According to the Financial Times (via Tom's Hardware), Nvidia could ship 550,000 of its H100 data center graphics processing units (GPUs) for AI workloads in 2023. Given that the cheapest version of this GPU is sold for around $30,000, Nvidia could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia:-why-this-phenomenal-artificial-intelligence-ai-stalwart-is-still-a-screaming-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-exclusive-ai-chip-startup-d-matrix-raises-110-mln-with-backing-from-microsoft.md",
-      "title": "Exclusive: AI chip startup d-Matrix raises $110 mln with backing from Microsoft",
-      "excerpt": "Silicon Valley-based artificial intelligence chip startup d-Matrix has raised $110 million from investors that include Microsoft Corp at a time when many chip companies are struggling to raise cash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/",
-      "originalUrl": "https://www.reuters.com/technology/ai-chip-startup-d-matrix-raises-110-mln-with-backing-microsoft-2023-09-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/wGOVN9VOmABurktWbqvXa9yCre8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VP35N4V2DRKPDFZB2DP2TS7BQY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

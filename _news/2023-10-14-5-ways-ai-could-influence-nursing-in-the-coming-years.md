@@ -9,7 +9,7 @@ ampWebUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-th
 cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 763
     height: 540
     isCached: true
+
+related:
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
+    type: article
+    provider:
+      name: tech-ish.com
+      domain: tech-ish.com
+    quality: 19
 
 secured: "KT8gKAekgU27dci+8M2fNDwW4UTVMx26D+Qs4fMC4C1KzuSOdbEYPrpHatEmMdyo7ob3j4opqRwGgv43SB2vfIohvewS9JwOvPFpp2Ls47bWoFUwMlWBZifZklVJCvySowPRQguy1F/l0xijASya3JQP17C0ryvQYTXd+o37Cf0Uh/3Wk7kb0L3DV8iV1uRSwgnKo+qmDSK1boaJobdI98jR9vUkHfrKwhjuCbvLFOUwglwnMIsSAxgewrIoSdvY5VrdxM1ttYexDdLr6Z97Kis+LYTu48psig8DkGMrhQJ63e/le1maZnNxAl9Y+esiiwmWv0qYOtYek+w1iA3njkqHCNrgW6V4sM5To1qhixI=;T+OPYKCst4sofnPqv5P47w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-jap
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 117
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 678
         height: 381
         isCached: true
-  - title: "Tonix Pharmaceuticals Announces Oral Presentation at the World Vaccine Congress Europe"
-    excerpt: "Zembrace SymTouch and Tosymra are registered trademarks of Tonix Medicines. Intravail is a registered trademark of Aegis Therapeutics, LLC, a wholly owned subsidiary of Neurelis, Inc. All other marks are property of their respective owners."
-    publishedDateTime: 2023-10-11T11:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tonix-pharmaceuticals-announces-oral-presentation-at-the-world-vaccine-congress-europe-1032696045"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 26
 
 secured: "pktVrgCGyBWVAmDEwpk/mt7C613v05bZjJe1+K5xo3hCVkwC/jXcWN4sVs4OnXp997lNJYoi35IFp8Qc65vB4J+pP3tZ16Glhsu+vOiXK3vfKH3rk/fYO4XS1uyBc/uHofdTFvt00lOKGlMv/swuv/L8UFDK7VzolVepipPmKLvyuauDWSiTQNxBVLunvPnlNjRJ+IZwMpNbl4pTEwPLpMjPJnZQiCp1ALVN8SftaXA3q5XhCis9V/8kuzbONDnTgHCa546DmSB2/rjVr9WgcQg15o2MfE2u70FDdqAM5IeQgB8j25kQQgI3Wozx5Cq83lmm4N1SLpkYA/SbhHJaEuTsnGRRBsQaSImrK165oOcd7B18freyABpGfOGAQbZyD8v62Bn8tWn2SSy+phT6ncRNXbkEvGm3J6+YzyouG/HhBc5aXev7DkTP4wHvELxAStFssDP5dkHvBCparEcqfDNguoqaUKONPrcGcVhW6cmJIhUgCEN5aCYuxVBhmiCTrJDGeX/byz4V+yVs4UiCug==;tz6YN7n1K/Q2RAsCFcu1PQ=="
 ---
