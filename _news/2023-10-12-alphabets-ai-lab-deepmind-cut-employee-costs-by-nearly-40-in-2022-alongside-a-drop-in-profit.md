@@ -2,26 +2,26 @@
 category: news
 title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
 excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
-publishedDateTime: 2023-10-11T17:02:00Z
-originalUrl: "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/"
-webUrl: "https://www.nbcmiami.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/"
-ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1"
-cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3130673/?amp=1"
+publishedDateTime: 2023-10-11T17:07:00Z
+originalUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
+webUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
+ampWebUrl: "https://www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
+cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: NBC 6 South Florida
-  domain: nbcmiami.com
+  name: NECN
+  domain: necn.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.nbcmiami.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.necn.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -88,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hwFOJ0cPMOtOmJqhcrbZGCw5FrscPzRl5rTlDigH4EssGn9p01FM2yXFFx+TLUzmjci8vLT9vcKJrGDJ4wSQ/xBn9nawnxN0TbOoLYcXoTTDRp0Nu9opspVyXPiqb4C1UfV7c+RDKsxvAhABZTuRd1rIwEsdCc3IANvxF0nhCYxO0dHrfGe95JJT2EomdoeJiPcwxz6a4yMQfLCgZExInFNGHDYIFyzqTuaSZjoSEU7Yf3XUTdgNXf4v8CgjS1Xvel7YGBAY7VP9EcBqDsHA165CvjMSEwgGJD9Ia2op6i6NOI+o/bO4+vAlbncCkge1BE5Aj2qqlrgSaxOxmeMf1mDx52iyI6g2RoL4Q20Ky44=;Ey52rzDIV78JAlN16rgTIA=="
+secured: "gT/daVlQck98nVi4y5Cz4RgF4xEVx0POYYDOSrwNVniqEJUs5RmFrSomuvbn5qMvzlMh0JT2JAz0w3xKxDAHDipDR1EtCQWzsBbslfYgft8egcUUSCEecSaW5eLYvKUwdPdmTEhJwiTmgrSXC3EmktRtnkpCLcJNFMBQGUon6KL+uRL5S2rfdfRpcjSHTubJ9xQKR0gd+bVz/EGVh4t2r/86gTymviYQtKh45xd4QnANKd/uMb7PToNrdP9+8KZkAE7K2bvvnRBty7HbBnb71R6Om8LKIIKL7G3jJBSe4f7N5sAfvOZ8e+0OpJ7j8o2UwmArDMChQ8Qqs2+1/uj9zbQQgELJ8uXU/WuU9+H1Cy4=;ZMPoqpRA8KqHM/SMoARJJg=="
 ---
 

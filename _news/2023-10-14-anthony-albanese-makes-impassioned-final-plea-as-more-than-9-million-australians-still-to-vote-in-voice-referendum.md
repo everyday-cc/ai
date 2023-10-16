@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/102976642"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -27,88 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "The Aboriginal Australians Campaigning Against Constitutional Recognition"
-    excerpt: "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-11T09:01:00Z
-    webUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 68
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/10/multimedia/00OZ-INDIGENOUS-vwfp/00OZ-INDIGENOUS-vwfp-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "F5 Warns Australian IT of Social Engineering Risk Escalation Due to Generative AI"
-    excerpt: "F5 says Australian IT teams could be soon caught between generative AI-toting bad actors and enterprises guarding data with AI."
-    publishedDateTime: 2023-10-11T09:32:00Z
-    webUrl: "https://www.techrepublic.com/article/f5-generative-ai-cybersecurity-interview/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 62
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2020/02/securityrisk.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Australia holds constitutional referendum on recognition of First Nations"
-    excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
-    publishedDateTime: 2023-10-13T23:16:00Z
-    webUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/"
-    ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 43
-    images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
-        width: 1024
-        height: 800
-        isCached: true
-  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
-    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
-    publishedDateTime: 2023-10-14T09:28:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+  - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
+    excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
+    publishedDateTime: 2023-10-13T08:15:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 18
-  - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
-    excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
-    publishedDateTime: 2023-10-11T14:38:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/pat-dodson-addresses-national-press-club-in-final-days-of-voice-to-parliament-campaign/news-story/581586f8bacec7e239354f295b86c76a"
+    quality: 16
+  - title: "Anthony Albanese lashes out when questioned about the Voice as Aussies head to the polls"
+    excerpt: "Prime Minister Anthony Albanese has fired up during a press conference, lashing out at “the media” after being asked a question about the Uluru Statement from the Heart.“You made a promise to implement the Uluru Statement from the Heart."
+    publishedDateTime: 2023-10-14T03:13:00Z
+    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1"
+    ampWebUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 15
+  - title: "Voice referendum: Truth-telling for Albanese as voters deliver defeat"
+    excerpt: "Anthony Albanese will reaffirm Labor’s commitment to advance reconciliation while pursuing ­treaty and truth-telling and reset the government’s focus on cost-of-living pressures and national ­security,"
+    publishedDateTime: 2023-10-15T11:26:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-truthtelling-for-albanese-as-voters-deliver-defeat/news-story/e570b805b3753d8b27a304304ab1a353"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 11
-  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
-    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
-    publishedDateTime: 2023-10-12T13:53:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
-  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
-    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
-    publishedDateTime: 2023-10-12T12:05:00Z
-    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
+    quality: 4
 
 secured: "UvwNs4H1etGeG5rEG6DjRn6ROV7YO97HS6HlnqF0yV0EqzCnFXlZC1XP1zxsPIz7/PM5e/pRBQOXmH2/ls1RGqW8CDhPe8Q3UOSFWU9Gi9/9DrfwJvF7lSDKLu+OEWJv8shfH7G+0HLQFy3ydAAUhO0l9rkOhCBUojapH8L+7BviLhH0Ryob8wqVnnZ6zK/6yo2/r7F0mwY5c1PLitZ7Kd65/a5vMvJQ+uyLtxRV4vvgA6aQsQe0UxrshFu2hNqwB1ZKBaigh0+FHsBofXJ+pO/coccbQPLBCFzQn1IMOQ6jh+5Szb4cVh/rqzTCjA245N2r2icWtAQjpn2CEWqT+5uckLAQxSACB2LQZbcFUt4=;+WJaSKoctQ8co83cFuzxLA=="
 ---

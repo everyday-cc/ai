@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/f5-generative-ai-cybersecurit
 webUrl: "https://www.techrepublic.com/article/f5-generative-ai-cybersecurity-interview/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: TechRepublic
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Aboriginal Australians Campaigning Against Constitutional Recognition"
-    excerpt: "Two female Aboriginal lawmakers with drastically different political philosophies have emerged as prominent opponents of the proposed Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-11T09:01:00Z
-    webUrl: "https://www.nytimes.com/2023/10/11/world/australia/australia-price-thorpe-voice-aboriginal.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 68
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/10/multimedia/00OZ-INDIGENOUS-vwfp/00OZ-INDIGENOUS-vwfp-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Australia holds constitutional referendum on recognition of First Nations"
     excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
     publishedDateTime: 2023-10-13T23:16:00Z
@@ -58,51 +44,6 @@ related:
         width: 1024
         height: 800
         isCached: true
-  - title: "Anthony Albanese makes impassioned final plea as more than 9 million Australians still to vote in Voice referendum"
-    excerpt: "The prime minister delivers his most fervent plea yet for the Yes campaign, as more than 9 million people head to the polls to vote in the Voice to Parliament referendum."
-    publishedDateTime: 2023-10-14T00:45:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-14/nine-million-australians-still-to-vote-in-voice-referendum/102976642"
-    ampWebUrl: "https://amp.abc.net.au/article/102976642"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 22
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/d7684ea097300836ad54963dd334f97a?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
-        width: 862
-        height: 575
-        isCached: true
-  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
-    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
-    publishedDateTime: 2023-10-14T09:28:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 18
-  - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
-    excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
-    publishedDateTime: 2023-10-11T14:38:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/pat-dodson-addresses-national-press-club-in-final-days-of-voice-to-parliament-campaign/news-story/581586f8bacec7e239354f295b86c76a"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 11
-  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
-    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
-    publishedDateTime: 2023-10-12T13:53:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
   - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
     excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
     publishedDateTime: 2023-10-12T12:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI considering designing its own AI chips"
+    excerpt: "OpenAI, is reportedly considering the development of custom AI chips to address its ongoing struggle with GPU supply. Microsoft Athena AI"
+    publishedDateTime: 2023-10-13T05:36:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
+        width: 700
+        height: 465
+        isCached: true
   - title: "Vercel announces the beta of v0, its AI-powered tool for front-end web development"
     excerpt: "Front-end application development platform startup Vercel Inc. today announced the beta launch ... to adopt frameworks and tools that improve product experience that use AI chat interfaces. The company helped this along by offering a software development ..."
     publishedDateTime: 2023-10-11T17:05:00Z

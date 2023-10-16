@@ -9,8 +9,8 @@ ampWebUrl: "https://www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-t
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708310/amd-to-acquire-nod-ai-to-boost-open-source-ai-software-capabilities.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Network World
@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities"
-    excerpt: "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,"
-    publishedDateTime: 2023-10-11T07:29:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
-    excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
-    publishedDateTime: 2023-10-11T08:58:00Z
-    webUrl: "https://www.econotimes.com/AMD-to-Acquire-Software-StartupNodai-in-Boost-to-AI-Chip-Software-Capabilities-1664133"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://f1.econotimes.com/2023/10/f872o4iabc_th_1024x0.jpeg"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "AMD Aims to Bolster Software Capabilities with Nod.ai Acquisition"
     excerpt: "Advanced Micro Devices (AMD) is strategically moving to rival chipmaker Nvidia. It plans to acquire an artificial intelligence startup"
     publishedDateTime: 2023-10-11T20:58:00Z

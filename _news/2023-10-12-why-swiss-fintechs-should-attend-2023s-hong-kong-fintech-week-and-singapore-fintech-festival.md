@@ -92,17 +92,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
-    excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
-    publishedDateTime: 2023-10-11T08:59:00Z
-    webUrl: "https://www.business-standard.com/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 14
   - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
     excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
     publishedDateTime: 2023-10-11T11:26:00Z

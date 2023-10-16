@@ -21,6 +21,20 @@ topics:
 
 related:
   - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
+    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
+    publishedDateTime: 2023-10-16T01:30:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3396194"
+    type: article
+    provider:
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 54
+    images:
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/05-ยามาฮ่า-สานโครงการ-Road-To-The-World-Class-ส่ง-กฤตภัทร-ร่วมบิดโมโตทรี-ศึกไทยแลนด์-กรังด์ปรีซ์-ป-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
+  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
     excerpt: "The model has been developed to exponentially enhance clinical decision-making and increase access to synthesized medical knowledge for healthcare professionals, patients, and medical researchers through to regulators."
     publishedDateTime: 2023-10-12T17:39:00Z
     webUrl: "https://www.macaubusiness.com/m42-announces-new-clinical-llm-to-transform-the-future-of-ai-in-healthcare/"

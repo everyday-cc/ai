@@ -28,6 +28,15 @@ related:
       name: The Mercury
       domain: themercury.com.au
     quality: 18
+  - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
+    excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
+    publishedDateTime: 2023-10-11T14:38:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/pat-dodson-addresses-national-press-club-in-final-days-of-voice-to-parliament-campaign/news-story/581586f8bacec7e239354f295b86c76a"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 11
 
 secured: "vNZGkjxitOXPbflHyRqHctjV0ivIi2LuxL6P6qBPO1HItukd3WLLTXLSetbgNJDC4V4BV6hQebGuUVv9C2nGYG5Rjnts4ebULU0GSfXicVvL4lvORl7TBVYmel/za5ew2INWD0DJTGQxDT7YT+U4Z4Xgs8Xxs7sfVBHZ1tnjbmmPD1MmMQsfY6EcwVbIWEYnvOEiCa7CnSGH099pbGY/dMwKcLq42hVSzkDKtmFm6jW5sOe0WtuCTgdkwY3H2CVH5m1tJf304Irxlkz6OmN5yNkPo9DqrzMzfN+Rx7RnbUTdQI2yJ/iJP5YGVSAMHrql/uqxvxzhMXxxm0AsclGQVG9Wwzto5kKumyaHEQB7sNOqN+ygjXPUg2eoSde/A5SWE9H5eRIogJKYXbghL2VVUN8zAuY12+wjTCtNQ8+HliqxIOfptidTfzagBnNwIs9f3hYnUqhiyxYB0Lgv8IuU/orlU1T4+Joq/0923WA4pDH8Tamig9v5PnDKFgbvV27RJpsY6WWLIL32/iNDKdvh5g==;JogMX25Ly0PyPflgQOW6vQ=="
 ---

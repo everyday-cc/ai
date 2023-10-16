@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1420424/bing-ai-microsoft-bug-bounty-pro
 webUrl: "https://www.slashgear.com/1420424/bing-ai-microsoft-bug-bounty-program/"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Meta, Microsoft, AWS: Big Tech Reveals Travel-Related AI Projects"
+    excerpt: "There has been a travel component to many big product releases related to generative AI this year, and it's happening more frequently."
+    publishedDateTime: 2023-10-12T17:40:00Z
+    webUrl: "https://skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/"
+    ampWebUrl: "https://skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 71
   - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
     excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
     publishedDateTime: 2023-10-15T18:30:00Z

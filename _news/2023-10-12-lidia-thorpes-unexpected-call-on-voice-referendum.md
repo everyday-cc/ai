@@ -64,6 +64,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
+  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
+    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
+    publishedDateTime: 2023-10-12T13:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
 
 secured: "/GuDG12vJEZ8uVKrOBKKZnjkLqVHpyTvE9yJyBd7HpA5xbeoIik8KdthSG9/oTI1aq7DasUB3fiLJ5QxOiPr27yrc9KXFSQBquCH0e1dY4C/85SdqkEsOGDO+H8HXjTI7VYZV5Q1vtV1ATdzqplZRSCMID09n+A9SunXB2SDuEbxDV7T8IdoqFVTOFMT33H50drfEFrKrztZcDXNS85h+/WMeEJ7D8FAm+R6AceLDDupw/ijat8bedtzMzUPIvoJ3M9IkAyOfxiS8xBlec7oNc2CYaCzrH/iPqzCtKl/VPYCQXXQ7VxYGTJYrq+TklT4vktsREM6nV2DOVUn8MYzYlM60hfwKjNj6EZn8cvaiqO+1G21pbFzNl2wada3O6ZzMXwz2ic13HM0UUH37IgaW7/Gsk/WcArZkUy2gr+D05/wZdOOL5J4vG3w+QdgcjrvD44C/sXmdBQf+EnDtYAjr9RE661/wLafHnpZQ44qtyN9jA8WqeQ0vyh5lSgUpBwP97Rh61W6fj630elkoaRHOQ==;VmoHH/gbdsix0aTgyn5GrQ=="
 ---

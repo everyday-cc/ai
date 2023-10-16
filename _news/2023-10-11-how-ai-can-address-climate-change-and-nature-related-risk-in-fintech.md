@@ -77,17 +77,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "How our Fintech is making a mark in the densely competitive US financial services industry."
-    excerpt: "Sriram Natarajan, President, Quinte Financial Technologies (Quinte) shares his journey of success in an international market and what makes his brand stand out."
-    publishedDateTime: 2023-10-11T08:59:00Z
-    webUrl: "https://www.business-standard.com/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/specials/charting-the-course-u-s-dominance-in-financial-services-and-fintech-innovation-123100900853_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 14
   - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
     excerpt: "Hong Kong Fintech Week and Singapore Fintech Festival just around the corner, we look today at the key highlights of this year’s events, focusing on their main themes, what participants can expect, and why these events are critical to attend for fintech companies aiming to thrive in the industry."
     publishedDateTime: 2023-10-12T08:03:00Z

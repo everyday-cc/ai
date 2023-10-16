@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD acquires AI software startup Nod.AI to enhance its Open-Source AI Capabilities"
-    excerpt: "Advanced Micro Devices (AMD) locked its second AI software acquisition deal to compete against Nvidia’s AI prowess. The company quired Nod.AI which develop AI solution to optimize compiler-based automation software for startups,"
-    publishedDateTime: 2023-10-11T07:29:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/11/amd-acquires-ai-software-startup-nod-ai-to-enhance-its-open-source-ai-capabilities/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amd-logo-Large.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AMD to acquire Nod.ai to boost open source AI software capabilities"
     excerpt: "“The acquisition of Nod.ai is expected to significantly enhance our ability to provide AI customers with open software that allows them to easily deploy highly performant AI models tuned for AMD hardware,” Vamsi Boppana, senior vice president of Artificial Intelligence Group at AMD, said in a statement."
     publishedDateTime: 2023-10-11T11:14:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/01/amd-ces-stage_1-2-100936569-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 1004
-        isCached: true
-  - title: "AMD Sets Sights on Nvidia with Acquisition of AI Startup Nod.ai"
-    excerpt: "Advanced Micro Devices (AMD) has revealed its strategic move to acquire artificial intelligence (AI) startup Nod.ai, highlighting a shift in its software-centric approach to challenge leading chipmaker Nvidia."
-    publishedDateTime: 2023-10-11T08:58:00Z
-    webUrl: "https://www.econotimes.com/AMD-to-Acquire-Software-StartupNodai-in-Boost-to-AI-Chip-Software-Capabilities-1664133"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://f1.econotimes.com/2023/10/f872o4iabc_th_1024x0.jpeg"
-        width: 1024
-        height: 614
         isCached: true
   - title: "AMD’s Strategic Play: Acquisition of Nod.ai to Challenge Nvidia’s Dominance"
     excerpt: "As the AI industry continues its exponential growth, the competition for dominance in the hardware sector intensifies. AMD, a pivotal player in the microprocessor and graphics processor market, has taken a significant step towards bolstering its position against the industry titan,"

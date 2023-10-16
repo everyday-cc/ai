@@ -66,15 +66,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 31
-  - title: "Razorpay Launches AI-Powered ‘Optimizer’ to Mitigate Transaction Failures"
-    excerpt: "RazorPay the leading full-stack fintech platform has made a significant move with the launch of 'Optimizer'. This advanced AI-powered payments"
-    publishedDateTime: 2023-10-11T07:43:00Z
-    webUrl: "https://www.dqindia.com/razorpay-launches-ai-powered-optimizer-to-mitigate-transaction-failures/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 18
 
 secured: "PzuDjmO6+EMmicI1WPZoPbWVw1H4Bh6GCFf/lU83VPykujMj90OR/N4J0DiuYOqXdshat3NBnQ7+2gHfutv2EYdJ7hVhRE4S/Ak1Ef+rJAoE1fQxZiGF/Bly9abuvCaF1quEBoMS2KSLNIzZ8RkUxDuO47x6kfIEwdcPxKoPcNdYcn2bhGozdc2x3kMnRquUdzi4cK1JpWew5zfnbdrim09Y26bPjzKKNaFbIQPLMgA6LuOpcLfmyhDhRYLonf4tWH8JjTKzfz/WRt8M3OeDfdSOVHGcSoKbTRZ1SgBlxL7m1MeRxER3pQ8k3QaFNDpIFpe5/y35tPcecvyJvSBoZyQpopaFqBOhs9yAtA8fdTx6KtIpdp6+O2exwfvvavXgx9KC4ppWcw2aNKK8M4jw83zvb14i1xFhavth1pkUQcdHYmd8Vudw7EjLjABhBrjaOV7sw1X1gj6mgNVFMFCS8rhXr62kWyDKo6k8fJ9CzNYuA1KqRRaSyGEm4WYfXIHp2vz0xaM+gNCMJEge6LqfJg==;gHI6SZenGO0iOBBclFwkUg=="
 ---

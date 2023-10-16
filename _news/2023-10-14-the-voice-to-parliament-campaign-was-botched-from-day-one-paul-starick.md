@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
+    excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
+    publishedDateTime: 2023-10-11T14:38:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/pat-dodson-addresses-national-press-club-in-final-days-of-voice-to-parliament-campaign/news-story/581586f8bacec7e239354f295b86c76a"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 11
   - title: "Indigenous voice to parliament: it’s time to embrace this chance for good of the nation"
     excerpt: "Indigenous elders and leaders gathered at Uluru after the most extensive consultations with First Nations people this country has ever seen."
     publishedDateTime: 2023-10-12T12:23:00Z

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Techno-plasticity in the Age of Artificial Intelligence"
-excerpt: "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ..."
-publishedDateTime: 2023-10-14T18:10:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
+publishedDateTime: 2023-10-14T18:13:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -113,6 +112,6 @@ related:
       domain: tech-ish.com
     quality: 19
 
-secured: "cxaMtrzEcSziLS7yVGMjrbMkYeVf4czKfcNzKc+cuJkIobbCMYTro4plTy8PJ9tFewdGXZFw6VT7i9cQCtcvvEKTl6xsnvtYsAW1CGcoGALtxbw3rlsMYVArxLkd6h4JShdAOJEkpoxaCfTPuuKAImdP8TbUEWs8YXeXMvaLcqAnc1chxH+tIR6m1FJL78LMWf7pwA6Y0/N7uvay3NcOBkogFiE6/kCue0oo4vXkdpidiKlwW4eLYpCTcY6H93TbRQnlZBIPFv70fjYJQUc3mJGY8mPPUzNkHC7jhR9pRoWKowQjma5hVXFhCjUMnxL2zhUQ/f6e7xCphQdm4be2IS4Ey4Cjp+cUD2f2qZBCcMA=;4RK2ZNlZdiFYqmmSSc7b+Q=="
+secured: "PXpar3p2M9KJVjoX0v4MatA209ajqYW3S/ALExNv6iRd0LcpBtuAJgBQ99vvYAltBLwh/xszW5nYF0PqmRmlkiT6t49MMk9jjG3jKtZ+stZ8fa8s8z8uI4JzHSwq6MpAaZ03xvOq3xYBJIoPuEjZlq019SOl8RDcjdzWnvjh1q7h4Pzln982hwLrCMpGrlhEhUKPskdREiOz7z2j6xGpeVy4Ndav0i2Du418nVm4ssTLtizYW6ACFvOewEvbjBzwi5uEj6wkBuJc6t/KCMY+hdlhYj27/+nPXSfI2Yx37rwNhqmylkyjSH6Le/1nW2+HWukI9pl1H956biosrlyA1jn8ADInnl0uQf0qWzvosp0=;rX5Tao8FZcpDUo+x+XCKFw=="
 ---
 

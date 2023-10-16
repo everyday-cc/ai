@@ -37,6 +37,17 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Meta, Microsoft, AWS: Big Tech Reveals Travel-Related AI Projects"
+    excerpt: "There has been a travel component to many big product releases related to generative AI this year, and it's happening more frequently."
+    publishedDateTime: 2023-10-12T17:40:00Z
+    webUrl: "https://skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/"
+    ampWebUrl: "https://skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 71
   - title: "Microsoft creates new data and AI-powered capabilities for Microsoft Fabric and Azure AI Insights"
     excerpt: "Microsoft has introduced the first industry-specific data and artificial intelligence features for Microsoft Fabric to help healthcare providers lower costs, deliver services more efficiently and improve both clinician and patient experiences."
     publishedDateTime: 2023-10-11T16:29:00Z

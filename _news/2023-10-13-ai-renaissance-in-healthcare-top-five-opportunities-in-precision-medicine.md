@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaiss
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 40
-  - title: "Adaptability and promising potential of synthetic information in healthcare"
-    excerpt: "Data-based decision-making underlies predictive analytics and innovation in clinical research and public health. In banking and economics, synthetic information has demonstrated promising potential for improving algorithm development, risk assessment, and portfolio optimization."
-    publishedDateTime: 2023-10-11T08:40:00Z
-    webUrl: "https://www.news-medical.net/news/20231011/Adaptability-and-promising-potential-of-synthetic-information-in-healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761327_16970134611824691.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
     excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
     publishedDateTime: 2023-10-14T13:06:00Z

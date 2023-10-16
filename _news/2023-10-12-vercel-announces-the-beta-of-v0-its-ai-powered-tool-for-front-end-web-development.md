@@ -40,6 +40,20 @@ related:
         width: 2918
         height: 1855
         isCached: true
+  - title: "OpenAI considering designing its own AI chips"
+    excerpt: "OpenAI, is reportedly considering the development of custom AI chips to address its ongoing struggle with GPU supply. Microsoft Athena AI"
+    publishedDateTime: 2023-10-13T05:36:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
+        width: 700
+        height: 465
+        isCached: true
   - title: "OpenAI-Specific Code Nixed from Semantic Kernel AI SDK"
     excerpt: "Officially the company's \"What is Semantic Kernel?\" documentation says: \"Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python."
     publishedDateTime: 2023-10-13T19:07:00Z
