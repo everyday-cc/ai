@@ -73,20 +73,6 @@ related:
         width: 732
         height: 977
         isCached: true
-  - title: "Alphabet's AI-focused DeepMind division saw a 40% cut in employee costs lats year"
-    excerpt: "DeepMind, the AI lab owned by Google-parent Alphabet Inc (NASDAQ:GOOG), cut its employee costs by nearly 40% last year, according to a recent filing with a UK government agency. In the company’s 2022 fiscal year, staff costs and related expenses were ..."
-    publishedDateTime: 2023-10-11T22:36:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1029472/alphabet-s-ai-focused-deepmind-division-saw-a-40-cut-in-employee-costs-lats-year-1029472.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 49
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC8yMDIwLTEyLTAxLTE1LTA1LTAyLWMwMTI4NWJjOTA5OWQxZmViOGQ4OTA5ZWJiY2I2MzJiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "SArKuRMlcZZfZqKodcT63rVDSPytQkSQvkRnLRedeMkZF0uRZq1YSDsl8FWr5nr2AB/2tfiUg/mNxAvaAw6siBzdZlKwdmqvakoc+blMWhwUOwt7N1XwUZFJIytjm7p1S9ME51qxsgpYFCvbmcsKB/C9YSlLecIlfdparouUELqs7YRFY7CAc6YzrxV2rLJQEtB3A3Q1IZXnC/uVIMZSwujmMU1kRaFPrROibqdb6GciQ+4/giSsOKE+RioRg9wxp0bSqzckv3M7VZ4PPvZd3y4xXpV/MomEpxt8GOSyvJbz1tWesvJau0nXaRi1LLwOE1U4sS4MgMGgwiGE3s7+uxhR83nMh80aYpkb547D1Co=;dHIzfCuR/P2B5Y2FmsKu2w=="
 ---

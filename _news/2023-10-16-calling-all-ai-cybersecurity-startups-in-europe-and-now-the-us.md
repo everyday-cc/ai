@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/google-for-st
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 420
         height: 554
         isCached: true
+  - title: "The Cyber AI Dilemma—And What It Means For The Cybersecurity Industry"
+    excerpt: "As we can see, AI significantly impacts cybersecurity—in ways both good and bad. It is our role as cyber leaders to make sure that new technologies are implemented quickly and leveraged to prevent more sophisticated cyber attacks from happening."
+    publishedDateTime: 2023-10-16T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/the-cyber-ai-dilemma-and-what-it-means-for-the-cybersecurity-industry/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Europe eyes strict rules for artificial intelligence"
     excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
     publishedDateTime: 2023-10-11T23:25:00Z

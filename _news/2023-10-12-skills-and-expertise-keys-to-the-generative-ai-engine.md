@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generati
 webUrl: "https://www.ibm.com/blog/skills-and-expertise-keys-to-the-generative-ai-engine/"
 type: article
 quality: 99
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "Psychiatry Expert: Projecting Autonomy and The Human Fascination with AI Minds"
+    excerpt: "The human inclination to anthropomorphize AI and project autonomy onto it is a multifaceted phenomenon driven by a complex interplay of psychological and cognitive factors."
+    publishedDateTime: 2023-10-16T13:00:00Z
+    webUrl: "https://www.newsweek.com/psychiatry-expert-projecting-autonomy-human-fascination-ai-minds-1834589"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 45
 
 secured: "Q+7X5R4mog7xSNHhnApo2COmphayI+GQIZl/XfCUcnyUYXR/WlEntPCvJoeCoQcvLQVNObADboQ4pjHcAdJJzcNTlJBQOShyed2ObhgAMOC6+F8YK44kQWx/cx8uob1fYKfR3LAt+nT8LO9hg3GrBA2YFupuB6KZXdi/MZHMdcnHOaPxZAVLyzdIwJoSbuicZuqBiVgzYMeMl/i3rNlfRwt2BHYeQBlC76bRJgr4PRnsHlJddvY8qZgud/cIDx+aHHYaM9QNWDAuLIoKFHWLYABq5cUY12VRLb2LICNb61HTOVHGaf5vv7jCnfWkRHlgZVd5TzhYld8lMWDwyygnHlCE3pa5rn1HywfkxRarrKc=;xt9RizXbGzXrp54dAwm/ig=="
 ---

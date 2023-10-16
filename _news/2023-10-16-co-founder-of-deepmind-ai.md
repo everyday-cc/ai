@@ -73,21 +73,7 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Alphabet's AI-focused DeepMind division saw a 40% cut in employee costs lats year"
-    excerpt: "DeepMind, the AI lab owned by Google-parent Alphabet Inc (NASDAQ:GOOG), cut its employee costs by nearly 40% last year, according to a recent filing with a UK government agency. In the company’s 2022 fiscal year, staff costs and related expenses were ..."
-    publishedDateTime: 2023-10-11T22:36:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1029472/alphabet-s-ai-focused-deepmind-division-saw-a-40-cut-in-employee-costs-lats-year-1029472.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 49
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC8yMDIwLTEyLTAxLTE1LTA1LTAyLWMwMTI4NWJjOTA5OWQxZmViOGQ4OTA5ZWJiY2I2MzJiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "KlmOdN82h+ymr5jIX5tw62ddzVGe5oPj9aen0KRLv1kT1ih+L62UIY3GUo3b/7ZAYZGXKrmOaqmeyVbCqwpZJ2meBenfefSzPlug4ojqA4uc4LJZ03YviPVuugIKyNZuMKvZNI10DMivs+WKARxHCEnxswUYAOzDDyqNqgIriJtzhKn5xtGXrW/2C5oicWc8n2CHMrYQnOgqd3yZ86PvRZZWXt/Paopl3QtY6cG0OsZCrwow/WuWppO75SZPG0/i3OGiZnHQG/OvS+k1dgALeXdl2i4sE3BHcywdWZyRAIwSd/xoVG7Y2PiqwodgDfE1PRCYT4Guf94VETqQEuqmETReTFQtD1jkncHetf+SxH8=;UK4bVtJZ184iEse9pkJFwQ=="
+secured: "e6IbF579Pr17cu9f1qb2tDH5cZiDfHNRDZVqmo5HpuAt0wDGR0g7N2bRpKU7Mz6ic357nlkmZE1eedkmRmr7JazXZ7jajEKYnvk/kFYPY5vLLWqENAnteko2fvZGjiURDiyG0gtsXPaD/qWdii15vK18l73tBf9wLxeE8Elx/oTaDYm80EbCbtpDGvCk4MDtkkqwDtGOKU6XO0y/OQxqxjIYRrOi0pt5+7ZcRomEqU/5jwPVKZ8dY3uxQJHCBqjIb1T/WdxZuYYFQcRLHtaWQ79BuHNYlJ9vkTF52C98d4h6H0hdS7QHhwaxQ1bx3CrWS2hzPnwCp4BhgKHuUOpT48Gtbf/Ig6bsPqCuQRt3VNGbsHbVyD4b5Q90azY7r9+BZ4804kmGl1xChHfhg8Koj/krx/TxLWAZMEERIYR5mbSufh6+xf5yfRr4MtXqcIuESUFLzaGilTpAzbVFAB8nCeURfSBLJ/xESysN3spMIXF9zCTMPQfnFTZU3u8BA9HvP5BubzXgI/DAKpXihNyiEA==;i/EXvX9YrxOoAnvzhqf4Og=="
 ---
 

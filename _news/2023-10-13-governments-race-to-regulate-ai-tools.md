@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-to
 webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Reuters
@@ -28,80 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Giants Unveil New AI Tools For Healthcare"
-    excerpt: "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage."
-    publishedDateTime: 2023-10-15T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
+  - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
+    excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
+    publishedDateTime: 2023-10-13T19:16:00Z
+    webUrl: "https://www.laprensalatina.com/u-s-investor-tim-draper-rejects-regulating-artificial-intelligence-for-now/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652beefb8a28700db0fff333/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1565
-        height: 900
-        isCached: true
-  - title: "Logitech Unveils Zone Wireless 2 AI-Powered Headset"
-    excerpt: "Swiss computer accessory giant Logitech has announced its next-generation Zone Wireless 2 headset in a move that underscores the company’s commitment to the burgeoning business-to-business market. Whether staff are working from home, office or a combination of the two, those workers need the right tools for Zoom meetings and phone calls."
-    publishedDateTime: 2023-10-16T07:00:00Z
-    webUrl: "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/"
-    ampWebUrl: "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295de0a0b6a0930e9b9f0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Logitech unveils Zone Wireless 2 AI-powered headset for hybrid workers"
-    excerpt: "Logitech unveiled the Zone Wireless 2, an AI-powered headset aimed at hybrid workers."
-    publishedDateTime: 2023-10-16T07:01:00Z
-    webUrl: "https://venturebeat.com/games/logitech-unveils-zone-wireless-2-ai-powered-headset-for-hybrid-workers/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/High_Resolution_PNG-Zone-Wireless-2-Zone-950-LIFE-Side-Profile-Graphite-01.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Join Us to Discuss Artificial Intelligence’s Impact on DFW Healthcare"
-    excerpt: "Along with nearly every industry, healthcare is in the throes of dealing with artificial intelligence and ChatGPT software that threatens to change the practice of medicine. The question, though, is whether that change will be one that will save society or ..."
-    publishedDateTime: 2023-10-12T19:00:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2023/10/join-us-to-discuss-artificial-intelligences-impact-on-dfw-healthcare/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 56
-    images:
-      - url: "https://assets.dmagstatic.com/wp-content/uploads/2023/10/DCEO_HealthcareBreakfast22_Q4_BlogPostHeader.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Unlocking AI’s Potential in Healthcare"
-    excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
-    publishedDateTime: 2023-10-13T14:35:00Z
-    webUrl: "https://www.unite.ai/unlocking-ai-potential-in-healthcare/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/knowledge-ai-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 15
 
 secured: "VIIR1VDecngVWZtUaCsLBbEizRDUU5OnZM/u+QlVLhLSwyYtMW9Txg0QvlOExWXgrBjd4wgA0Dq1pyIAxV4kbj11PjaNzGLG0wLG3DWiKHbHo+dn5Qs/EkCVBlbnXU4JGMWXCndJuB3Hh60oFzY2KcPRJJ5GluLSjv4KlKN700TbPC9amdkeWzdXTE1t5xi57sJ0xKHq7Atd3ParE/TD62tPKN/tBIhTLK4x+Cco6P3i2gMAs+j7U3HHsl4Uk8Z3tJsgRsowMG8aNNS2Vz+j2ueexshHpuQttoRrcf8shz06O3eJOdNdCdGD3RG60KfH/HpPx85fIPbPtZgSDzSBE+qYC6LaCIE7Gi4AGdT8et0SPUp0NydL0kEKzLI36qzGD/yoWWxxaPXuna8wMlTC4iMYBqCzFUQvgVHiGrHWqDMD2Euisf3nYnCPm7pwV91k20acre94DEXczJpMe+nJhvZ2Z1QnjeUH8unkS+ixQHg+AW9ek5RSDBGrX0092O+pYN8u6oksMhFKEpDYkEM22g==;w2qt5AvSUJUHMJ5av7VrEg=="
 ---

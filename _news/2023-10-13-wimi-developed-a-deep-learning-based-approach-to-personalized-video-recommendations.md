@@ -24,6 +24,17 @@ images:
     height: 316
     isCached: true
 
+related:
+  - title: "WiMi Developed Multi-modal EEG-Based Hybrid BCI System with Visual Servo Module"
+    excerpt: "In WiMi's multi-modal EEG-based hybrid BCI system with visual servo module, the generation of control commands is the core part of the whole system. Control command generation involves parsing the recognized EEG signals and mapping them to the corresponding robot actions."
+    publishedDateTime: 2023-10-16T12:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-developed-multi-modal-eeg-based-hybrid-bci-system-with-visual-servo-module-1032708157"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+
 secured: "GRPpo4EZYjCO4X3InJR8B8PC9aq3X+FfSu1yghBhD6E8T8DoP5xSNb0Om7HI2Lp5vfl01/gNxGjr2PyYp8zJHY6nbASLOUmcA50zzEFg5kH71blmScVWQ/jOHh00YfO9A6OqdjZFPkBdkG0oomum9P8Gdm1woXcnDlwcciBvRp0WjQ4uuNpHtknlmTYTTKAIQqEQTsmlcQB4UTUqt5mreV7D2wIayqLn4ONrbTg9tckiCEUSnNtE+UjsekLZi5au/0pTQnr9qqpLrkho31gUJfBefuZp9E7daS/mu3I9Le72h810MP8doU3OHWan+dMvDJL1F3B2bu81pPQzcCavfEIHMHRnfas8KLfI5SnfWPN504LPeU19dzhW+qiMNC4P46CStCPWHOPkjkuJ0TmfKUH8ebRE0x+EDw0aqUYTrCdmWt7cFaeXeLyc0n7U3X6ZeD2w2KCwqpcqedC2XbSaGCl9B1jHP1BXYqMKn3xoy0kqT6KfTkVwEc4V28IBCaoZSRodeuK63hfZUQGzMbcppg==;ah2x0VLcWDnXJM8IoneXKw=="
 ---
 

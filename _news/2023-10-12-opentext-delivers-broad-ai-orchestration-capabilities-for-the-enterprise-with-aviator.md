@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-deliv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/11/opentext-delivers-broad-ai-orchestration-capabilities-for-the-enterprise-with-aviator/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1351
     height: 900
     isCached: true
-
-related:
-  - title: "OpenText Aviator lets AI fly across expansive enterprise software portfolio"
-    excerpt: "The new OpenText Aviator effort is launching today as a set of AI capabilities in the OpenText Cloud Editions (CE) 23.4 release."
-    publishedDateTime: 2023-10-11T21:45:00Z
-    webUrl: "https://venturebeat.com/ai/opentext-aviator-lets-ai-fly-across-expansive-enterprise-software-portfolio/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/opentext-ai-8-780x470-1.jpg?w=1200&strip=all"
-        width: 780
-        height: 470
-        isCached: true
 
 secured: "bHkUP9kUPTzDOTaHulldGBlHcnQR2Zv0dK1S1LJn3+ttvifcxkK1YzZ8uTQ7DLDOSQ1HdtptB+sM24isLaS8osVYKFh4kpJDrzL3xoCzduWugg+efULo5jfiPBMUgQeRzBXbV/tb2F+Qtt60DdgR2aolWAJIauiaYcw0q5ffdBg9wG52IeQ7x8AE4dJmht9Ukf7Ta/xabkoxooyRmg+RupsmVy0QyUjc4j68lemOTuH2F8+3dsgKKZD/OlOgjjpSUiQC71QuDsOWWSsH+s6ecTC98l6AqoSX04ewvIeHNS1MpDtOODNCBUj+8UM+GsPwJQz5zJwGdBM5siLDwCj0+MqfoYG41jq/bvC8ELqwXlqUejHBRBeqCuAEEckTDscYdku1Q3GWlvqLcBUmqiactsCYtjRE57wjnwv/anFzBQrDua4tFRxcn1VC8tN15KkMWsf+IX7GtXIrffHKtS3KZdMOGzHGSvjNdO1ZIUCRc4RFUWw3HUPUk/HBkEjp8Nvgwj2NPhhf2OoCildv+GGs4g==;GRV1XTF3OdFYZsVOczMu1A=="
 ---

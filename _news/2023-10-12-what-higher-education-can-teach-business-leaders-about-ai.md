@@ -55,6 +55,20 @@ related:
         width: 1233
         height: 850
         isCached: true
+  - title: "How Small and Medium-Sized Businesses Can Thrive in the Digital Age Using AI"
+    excerpt: "What if we told you that AI is also effectively transforming small and medium-sized enterprises in this digital age?"
+    publishedDateTime: 2023-10-16T15:04:00Z
+    webUrl: "https://www.talk-business.co.uk/2023/10/16/how-small-and-medium-sized-businesses-can-thrive-in-the-digital-age-using-ai/"
+    type: article
+    provider:
+      name: talk-business.co.uk
+      domain: talk-business.co.uk
+    quality: 36
+    images:
+      - url: "https://www.talk-business.co.uk/wp-content/uploads/2023/10/shutterstock_2252763175.jpg"
+        width: 1000
+        height: 510
+        isCached: true
   - title: "Will AI reinvent the real estate business?"
     excerpt: "Join The Real Deal for TRD.AI, the only event bringing together real estate and artificial intelligence, in Miami on Nov. 10."
     publishedDateTime: 2023-10-13T14:30:00Z

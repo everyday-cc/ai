@@ -119,22 +119,6 @@ related:
         width: 1024
         height: 800
         isCached: true
-  - title: "Why the Indigenous 'Voice' is vital in Australia's constitution: Noel Pearson"
-    excerpt: "Australia faces a referendum on a new representative body: the Indigenous Voice to Parliament. Indigenous lawyer and academic Noel Pearson lays out the backstory, and his view of what’s to come, in his Boyer Lectures."
-    publishedDateTime: 2023-10-11T23:16:00Z
-    webUrl: "https://www.cbc.ca/radio/ideas/boyer-lectures-noel-pearson-australia-indigenous-voice-1.6991711"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6991711"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6991711"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 41
-    images:
-      - url: "https://i.cbc.ca/1.6991891.1697066507!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/1595108848.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
     excerpt: "Standing there reading the panels, Debbie May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice."
     publishedDateTime: 2023-10-12T07:54:00Z
@@ -194,22 +178,6 @@ related:
       - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Australia news live: Lidia Thorpe backs legislating voice to parliament if referendum is defeated"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-10-11T20:55:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine?topics=ORG%3ARN+Breakfast"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 31
-    images:
-      - url: "https://i.guim.co.uk/img/media/8bc342afb222fde07285f84bb5d286a8c71a9891/0_62_2032_1220/master/2032.jpg?width=620&quality=85&auto=format&fit=max&s=1d98309bde9475c6895a4be406bb063e"
-        width: 620
-        height: 372
         isCached: true
   - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
     excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
@@ -285,6 +253,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Australia Says ‘No’ to Indigenous Voice"
+    excerpt: "Australia’s Voice to Parliament Referendum went down in flames in the October 14 vote. An overwhelming majority of Australians voted “no” to the proposal to “alter the Constitution to recognize the First Peoples of Australia by establishing an Aboriginal and Torres Strait Islander Voice.”"
+    publishedDateTime: 2023-10-16T14:39:00Z
+    webUrl: "https://thediplomat.com/2023/10/australia-says-no-to-indigenous-voice/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 26
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2023/10/sizes/td-story-s-2/thediplomat_2023-10-16-134915.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "When announcing his plan to hold a referendum in March, Mr Albanese said the Voice would enshrine \"recognition\" that Australians \"share this great island continent with the world's oldest continuous culture\". \"Our nation's birth certificate should ..."
     publishedDateTime: 2023-10-12T15:44:00Z
@@ -326,6 +308,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b255efb383bed8b84910d038d132eb98"
         width: 976
         height: 549
+        isCached: true
+  - title: "Australia Rejects Constitutional Recognition for First Nations Peoples"
+    excerpt: "Law firms in Australia said they remain committed to reconciliation with the country’s First Nations peoples, despite Australians overwhelmingly rejecting a referendum that would have granted them constitutional recognition and greater political rights."
+    publishedDateTime: 2023-10-16T14:54:00Z
+    webUrl: "https://www.law.com/international-edition/2023/10/16/australia-rejects-constitutional-recognition-for-first-nations-peoples/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2022/02/AdobeStock_247166374-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
   - title: "What happened in the Voice and where to next for Australia?"
     excerpt: "EXPLAINED: A majority of Australian voters rejected the proposal to establish an Aboriginal and Torres Strait Islander Voice to Parliament."

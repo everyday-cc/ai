@@ -38,15 +38,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Yepic fail: This startup promised not to make deepfakes without consent, but did anyway"
-    excerpt: "U.K.-based startup Yepic AI claims to use “deepfakes for good” and promises to “never reenact someone without their consent.” But the company did exactly what it claimed it never would. In an unsolicited email pitch to a TechCrunch reporter ..."
-    publishedDateTime: 2023-10-11T19:33:00Z
-    webUrl: "https://techcrunch.com/2023/10/11/yepic-ai-deepfakes-without-consent/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 39
   - title: "After Fake Drake, New Federal Bill Would Ban AI-Generated Deepfakes Vocals"
     excerpt: "The draft bill – labelled the “Nurture Originals, Foster Art, and Keep Entertainment Safe Act, or NO FAKES Act — would create a federal right for artists, actors and others to sue those who create “digital replicas” of their image, voice, or visual likeness without permission."
     publishedDateTime: 2023-10-12T20:58:00Z

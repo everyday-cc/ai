@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35251830"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35251830"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "Surgical Robotics Market is projected to witness lucrative growth by reaching up to USD 19.9 billion by 2030"
-    excerpt: "Because of the prevalence of technology like artificial intelligence and cloud computing, which will help to improve performance and reduce the burden for humans, these robotics innovations will be innovative. Thus, the benefits of surgery are known to ..."
-    publishedDateTime: 2023-10-11T23:24:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35207759/surgical-robotics-market-is-projected-to-witness-lucrative-growth-by-reaching-up-to-usd-19-9-bill"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35207759"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35207759"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 55
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
 
 secured: "JIogHC3AxI7xsBl59fEgrSp+oK4Kwmn8mdz635HpdQ6PAGRsMomMBhi121hjbZVFGqURQ9cKpSkcZzWCMdCc5iQ2HjtvV2kaW3PbSEuNBfJ8IKUNc5I2ru+CMgba/SkFpwoeemjeKY+NG2CWn0H69IOy5yylcDjeHaInp2BbhPGLh6DrW9Xot+YuxB2PFdWdZUsEFWgs5GFnyWbzhSZqAOlcMy0pKhqrR/xLoOkmfY1TVaMLsnHybL0FZQhPYTkZQia1I+iF6ZMViEJU/JqopnYkoUrGEckFIKui8D5YykQAY1pV1xkF8JOLQEt2MI5PksYru1PA2OomHp1K1ijVplsFlBqM8RgrExGc2i15gH8=;hdhmdXau9o0kBFk+5mDAmw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-t
 webUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-deepmind-cut-employee-2022.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Alphabet's AI-focused DeepMind division saw a 40% cut in employee costs lats year"
-    excerpt: "DeepMind, the AI lab owned by Google-parent Alphabet Inc (NASDAQ:GOOG), cut its employee costs by nearly 40% last year, according to a recent filing with a UK government agency. In the company’s 2022 fiscal year, staff costs and related expenses were ..."
-    publishedDateTime: 2023-10-11T22:36:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/1029472/alphabet-s-ai-focused-deepmind-division-saw-a-40-cut-in-employee-costs-lats-year-1029472.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 49
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC8yMDIwLTEyLTAxLTE1LTA1LTAyLWMwMTI4NWJjOTA5OWQxZmViOGQ4OTA5ZWJiY2I2MzJiLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "22ZgW0mFr+oeKarBV5pEX4KNlXNULmlMYjUt9inBEuljSg4GvX0W7Ac3CLtZrO7/FuOzjDh9VYYUXUxScAfmEzQ4qpN8QKmxBGsiYtT5IF312zyXEsZdNXZY4tKhKc7Gbc7YtXjMtje1hF9ANY7g7sFwHhPzr5wAQ8hFCywvOZ9J/LFrmlJLoHFu3B25B9kvHFLWIqxSNg09kiLtJnLAU8tk12P5lFgXH48oCf7gV87ZVr+NEbE4q1+puCYQ8M2MHcMMSoQ27xhgClAu/1LB/k3MD/Ks7+1XV6IIJXEeyDduzheT7AMCEnW8YYKP+V35EqaoHmXu1vQd+6Vm+LUuYzDMCtha1XAgVEbmbrGJRMQ=;VzbfAJ8w0g1KfU0Qy3em7Q=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.albanyherald.com/features/georgia-lawmakers-to-study-p
 webUrl: "https://www.albanyherald.com/features/georgia-lawmakers-to-study-promise-threats-of-artificial-intelligence/article_1aac5e48-6aa1-11ee-b0e3-3b2eaaa297b3.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1171
     height: 615
     isCached: true
+
+related:
+  - title: "Georgia lawmakers to study promise, threats of artificial intelligence"
+    excerpt: "Georgia lawmakers on both sides of the state Capitol are taking their first serious look this fall at how rapidly evolving artificial intelligence tec"
+    publishedDateTime: 2023-10-16T12:55:00Z
+    webUrl: "https://wgxa.tv/news/state-news/georgia-lawmakers-to-study-promise-threats-of-artificial-intelligence"
+    ampWebUrl: "https://wgxa.tv/amp/news/state-news/georgia-lawmakers-to-study-promise-threats-of-artificial-intelligence"
+    cdnAmpWebUrl: "https://wgxa-tv.cdn.ampproject.org/c/s/wgxa.tv/amp/news/state-news/georgia-lawmakers-to-study-promise-threats-of-artificial-intelligence"
+    type: article
+    provider:
+      name: WGXA
+      domain: wgxa.tv
+    quality: 59
+    images:
+      - url: "https://wgxa.tv/resources/media/10196994-fc3b-4ba1-a506-7a9249712ca2-large16x9_AP23263030938241.jpg"
+        width: 986
+        height: 555
+        isCached: true
 
 secured: "nTTs+XKLN2xIVsqCsW2PokLKOq5EYi1Wk2LqlqowwP/3Zy6yQHtuqgZxm79NdSPQ3WkTsEfyYa/sbagjQiIUItkB/vnawwnfPKOUuiDuLZBtY8TrqjZhmDF8zaYk3iRNjXZqhe+Rju0oWpchyq7q8Ob7RXcvoyyuu7677okHUUw5Ho9kSmlMB0u4F3aao6ZT/NWnvK0b3qPfanSSSWGRmbEbzGj4IvbVrvBdCoZkio3GRb1cg1gdZPJUovVIUg9J4C7x6QsiBp8ku2lUmtTB2qoq3VbEy4qRKmBuPfy9qMSA54il9QgYekKuxovlQLUiVANJwQphbfvH+llILriRLk8nTHugYPIrYJy2y8gRxRg=;Ss431rKdG7PN5zu3nZxIpw=="
 ---

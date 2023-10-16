@@ -59,6 +59,20 @@ related:
         width: 1233
         height: 850
         isCached: true
+  - title: "How Small and Medium-Sized Businesses Can Thrive in the Digital Age Using AI"
+    excerpt: "What if we told you that AI is also effectively transforming small and medium-sized enterprises in this digital age?"
+    publishedDateTime: 2023-10-16T15:04:00Z
+    webUrl: "https://www.talk-business.co.uk/2023/10/16/how-small-and-medium-sized-businesses-can-thrive-in-the-digital-age-using-ai/"
+    type: article
+    provider:
+      name: talk-business.co.uk
+      domain: talk-business.co.uk
+    quality: 36
+    images:
+      - url: "https://www.talk-business.co.uk/wp-content/uploads/2023/10/shutterstock_2252763175.jpg"
+        width: 1000
+        height: 510
+        isCached: true
 
 secured: "TJGuYJUq2AdbP3RgAc/+wtQvnhhse8E0neIyFNwH5976/hIwYDFICNT0lxOyhwpAUIS2h7fIboOlQMq2QzlfXkbjp58Sjb//a5QTyc4masv2R+wpVR7OMEGD1+vI1MtFmW2pXcG5GTEFY1SzkKwC6hKamd8wdODnEmSyglbABDSCDduzCI6RhLULf7mm7eWgQVZ9NMqk4lWyubJT7hTY16+DgixQc2yNcL5uOEqHJLDyWSSGvkBqGmkeQDJfdrg3sgvY85PgYw/N7L1rv/rahP7gGBtuzP5ZvbyLwjuQOFmwILN3Ipt+1Psz12/VaOTFRqlObKvEBDtdTSCi+sVfcDlit69ckRZUryh4hE95XX0h106sj7DX+N07Tv/zQqh7man+mTH0St3cEPdTdzw/TiBNpozrAWoqcQnfZbgTESVj0dWDIwUbuW4bWGjJ/QP2BsnhS+H18trTg89CK9G6436N4N60yFb6NZUuRvQFkS8uHLQq0a5sngoT3czyyTW0Ej1Mtg55tFscPfJKNt8W0Q==;5BNoB/+uk110CHmqV20QUw=="
 ---

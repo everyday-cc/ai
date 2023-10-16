@@ -41,6 +41,15 @@ related:
         width: 1352
         height: 900
         isCached: true
+  - title: "Shedding light on AI bias with real world examples"
+    excerpt: "Examples of AI bias from real life provide organizations with useful insights on how to identify and address bias.\nThe post Shedding light on AI bias with real world examples appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-16T15:55:01Z
+    webUrl: "https://www.ibm.com/blog/shedding-light-on-ai-bias-with-real-world-examples/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Implementing AI into software engineering? Here's everything you need to know"
     excerpt: "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project."
     publishedDateTime: 2023-10-12T14:15:00Z

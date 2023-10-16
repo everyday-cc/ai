@@ -55,6 +55,36 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "AI aims to predict and fix developer coding errors before disaster strikes"
+    excerpt: "Generative AI can be combined with more traditional forms of artificial intelligence to predict how computer systems may fail before applications are put into production, according to Dynatrace's CTO."
+    publishedDateTime: 2023-10-16T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/28c0ea6042453b2f6bfc7502d541a0b7af992ccb/2023/09/28/9f3e672d-0f1e-4228-9b7e-d339c4f26f05/aifire.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The ABCD of AI: Automation, big data, computer vision and deep learning"
+    excerpt: "Artificial intelligence (AI) is a revolution that is changing how individuals live and work; it’s not just a technological development. There are fundamental building blocks for AI that outline ..."
+    publishedDateTime: 2023-10-13T03:41:00Z
+    webUrl: "https://cointelegraph.com/learn/ai-automation-big-data-computer-vision-deep-learning"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 71
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/e0a17850b2b64fca883a454693dc8b08.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
     excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
     publishedDateTime: 2023-10-12T18:08:00Z

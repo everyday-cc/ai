@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft unveils extensions to Fabric, Azure for healthcare AI"
+    excerpt: "These new offerings seek to bring together multiple modalities of medical data for greater analysis, and also bring large language models to clinicians' side as medical copilots."
+    publishedDateTime: 2023-10-16T14:02:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 116
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/7b1085eb32224a532e4765a7998aee76e2402275/2023/10/16/e136bcb6-5b44-493b-bcf2-05ee2ec78ae0/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tech Giants Unveil New AI Tools For Healthcare"
+    excerpt: "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage."
+    publishedDateTime: 2023-10-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652beefb8a28700db0fff333/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1565
+        height: 900
+        isCached: true
   - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
     excerpt: "Microsoft's Bing AI launched a new bug bounty program designed to find important and critical flaws in the chatbot. If you find one, the reward is pretty big."
     publishedDateTime: 2023-10-13T21:48:00Z
@@ -87,6 +117,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
+    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
+    publishedDateTime: 2023-10-16T03:06:00Z
+    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 52
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
     excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."
     publishedDateTime: 2023-10-16T09:26:00Z
@@ -115,6 +159,24 @@ related:
         width: 1091
         height: 618
         isCached: true
+  - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
+    excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"
+    publishedDateTime: 2023-10-16T15:18:00Z
+    webUrl: "https://www.inferse.com/757542/announcing-general-availability-of-azure-data-manager-for-energy-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 46
+  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
+    excerpt: "“Bringing our latest platform technologies to Microsoft Azure enables more customers and teams within organizations to harness our industry-leading AI, analytics, and automation capabilities to modernize cloud operations, expedite releases of high ..."
+    publishedDateTime: 2023-10-12T13:09:00Z
+    webUrl: "https://menafn.com/1107232134/Latest-Dynatrace-Platform-Innovations-Available-to-Customers-on-Microsoft-Azure"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 45
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
     publishedDateTime: 2023-10-15T21:18:00Z
@@ -142,24 +204,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 15
-  - title: "BHP unleashes the power of digital at world's largest copper mine … – Microsoft"
-    excerpt: "By Microsoft News Center 30 May, 2023 BHP and Microsoft have today announced a first-of-its-kind partnership to improve copper recovery at the global"
-    publishedDateTime: 2023-10-15T21:58:00Z
-    webUrl: "https://www.inferse.com/756137/bhp-unleashes-the-power-of-digital-at-worlds-largest-copper-mine-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 15
-  - title: "Siemens and Microsoft drive industrial productivity with generative … – Microsoft"
-    excerpt: "April 2023 Siemens and Microsoft are harnessing the collaborative power of generative artificial intelligence (AI) to help industrial companies drive"
-    publishedDateTime: 2023-10-14T23:14:00Z
-    webUrl: "https://www.inferse.com/753901/siemens-and-microsoft-drive-industrial-productivity-with-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 14
 
 secured: "0SMi0Y3O09ALC+3YqzdOWkfw3eZMl5U3ggd/Wtw/3LRZkaHET0vao3tDwr7/Dd1Tz3HTwFiPxhyfx4x3aVLsTXoma9zETJgtJSNl6nTuJ9nrNp8/1pKvAUQeldPkiO6ey3wWbG8tMElvlserkEcPNAWA3CmLHXK+o5doRFIadW4R3sRqcuZJyRIf9IaRtB+I4MPDFwbBXrOqgt/BIEB+1f+OTnVtYMWPksafW+ywuy3ZndcT7YZzDYvKO9vn8kxnpLRyWF4y+8UKalEfLpSdyTP5M29ho0A1Zb0B6NaF9aULIABQVxPLJKrudfAyJrXkZaqnoZ72BBEOizU2qFMkM6js9g9ORdRIYVd6h5CqafHVzC8aYxZjr+4FgCpvu7sJ/03e1EGk/RzE/N7liOiXq+HX6WhV62WHYz//ymCHJE5z8uDLut1Sz9/XWSerxmM606sophJ1WkacOOKJQvqb/cFOszfCPC+ZXMavBS+x5ZX2TvJwM5ybAfwLb6az/xuC76FYdwV4rm6IT2Z9yphTyA==;V+Tj7sEcQovLWE+K4pdLXw=="
 ---

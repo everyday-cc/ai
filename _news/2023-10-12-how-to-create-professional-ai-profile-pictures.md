@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Could an AI-created profile picture help you get a job?"
-    excerpt: "Filters and Photoshop move over, artificial intelligence (AI) is the new trend for creating online profile pictures. Over the summer a video went viral on TikTok. It was captioned \"using this trend to get a new LinkedIn headshot\"."
-    publishedDateTime: 2023-10-11T23:10:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-67054382"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-67054382.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67054382.amp"
+  - title: "4 ways pragmatic AI can drive profitable services growth"
+    excerpt: "Pragmatic AI targets real-world, current business problems with measurable outcomes rather than aspirational or flashy use cases."
+    publishedDateTime: 2023-10-12T12:40:00Z
+    webUrl: "https://venturebeat.com/business/4-ways-pragmatic-ai-can-drive-profitable-services-growth/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/F2F5/production/_131379126_molly.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "kSyfmvfn3HvyncU4KUzhPlnBIn86dmZGtoiUgcxM5v6POzzXfroFG2sil/xnn04In97+tEn1868W8x1cIOEsFDIjEFBamB/i6eNbzdQRx1ty7WixOU5OhbnIbypX5qE+BgmjVavHZHECjv/fmT6p0EZvXso11HqZ1L3o9hJs4q48QcMHJ9rMMRv/t4vB0xM7OICI19tOzQK35vZbBEcVHlp0SyeSWQ866kh39H8qCQ06WyppDbXupUMUeXWTnT7CsFS+aT7S3IhSK7OIiAdkGr6Coy1V8lPpe/TNfQSOMePa/HJ5D4UGuQ5PMm863dzZ356cIf8yl0d/KqsArXko0V+P5nj81R8ruz4GSNtH600=;UvK0YgSNNWUPly0IcqtFeQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
+    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
+    publishedDateTime: 2023-10-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
     excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
     publishedDateTime: 2023-10-16T11:27:00Z
@@ -64,18 +73,18 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 26
-  - title: "Fintech Surge To Unleash Financial Innovation"
-    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
-    publishedDateTime: 2023-10-11T20:05:00Z
-    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
+  - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
+    excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
+    publishedDateTime: 2023-10-16T10:50:00Z
+    webUrl: "https://menafn.com/1107246479/Fintech-Surge-2023-Concludes-Day-One-Of-Global-Gathering"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
-        width: 340
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997739"
+        width: 421
         height: 250
         isCached: true
   - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
@@ -101,6 +110,15 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 3
+  - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
+    excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
+    publishedDateTime: 2023-10-16T13:12:00Z
+    webUrl: "https://techbullion.com/date-fintech-show-scripting-a-new-chapter-in-saudi-arabias-fintech-revolution/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "MkAoSYHk3wd5zJotwsmQUeGgygiEVbHgKwhSS9INXBAjkXeoRjITwa1StpJQEGiVhp+mW/XUY1vLXFhMpKCK+Y6TXhcDlcccj2QfPHiFPo0MgBAczqv6yzwfYn9yaPu/MrBeXrFTPB3wR0O1kB9pUXkBHIfFR3hn7jbGVjAhcf3LeVpixZPLFi3NDkuPLCGNTVg3OY1gKURU2AJbFcXbn4nW8wnQVSiCa+quUBVnykWxvHe56tdrYhVmbHa/Lp5DPuz+Rnk4dHh15k7414ryHMfzeSWzYTxvWZYJY87FzwBVRYichua1BaQlZBFkt2DdOVdkRMNegBeamcUgrkNn7orZx6IY6F45Jt5zWno/J8ZWGxnsFfikV8WBqSDoR0zFa6ZO8W6tUP7bVFMRw2MWOxHwVvqK4oPZHIHEeVXli4eB8MxNezc2b3lCrUxqe8aQdvXi9ZDDeYy9vI287BwSIPUG0NT1YYuZO4i/wAfiCIbGLUPnZU9MxiE6OiYnxiCO6HanHO2G8f204zEhZZpHgA==;CQzKGojn5iyFVedfN+FKSQ=="
 ---

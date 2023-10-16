@@ -49,6 +49,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Fintech launches new AI-driven compliance platform"
+    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
+    publishedDateTime: 2023-10-12T11:22:00Z
+    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Irish fintech Alt21 raises $21m to expand hedging platform"
     excerpt: "The fintech said this business generated more than €8m in operating ... The company also plans to invest in AI and machine learning in the future to bolster its products. Pritesh Ruparel, the ALT21 CEO, said the company’s goal is to “make things ..."
     publishedDateTime: 2023-10-13T08:41:00Z

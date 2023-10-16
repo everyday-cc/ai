@@ -55,6 +55,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
+    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
+    publishedDateTime: 2023-10-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Revolutionising Risk Management: The Impact Of AI And ML In The Financial Services Industry"
     excerpt: "Computing advancements and data aggregation have led to Industry 4.0, which changes the way we think, interact, and work. Technology affects every i"
     publishedDateTime: 2023-10-12T18:50:00Z
@@ -64,18 +73,18 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 26
-  - title: "Fintech Surge To Unleash Financial Innovation"
-    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
-    publishedDateTime: 2023-10-11T20:05:00Z
-    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
+  - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
+    excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
+    publishedDateTime: 2023-10-16T10:50:00Z
+    webUrl: "https://menafn.com/1107246479/Fintech-Surge-2023-Concludes-Day-One-Of-Global-Gathering"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
     quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
-        width: 340
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997739"
+        width: 421
         height: 250
         isCached: true
   - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
@@ -101,7 +110,16 @@ related:
       name: infotechlead
       domain: infotechlead.com
     quality: 3
+  - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
+    excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
+    publishedDateTime: 2023-10-16T13:12:00Z
+    webUrl: "https://techbullion.com/date-fintech-show-scripting-a-new-chapter-in-saudi-arabias-fintech-revolution/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
-secured: "yiOFfSpwaFrA5x3+jA/JRXS1ocXrRQGlvEDPaR1BMvPrlyrh7tArJcul6paaFSXwRwcJSN7wuV/D0gctPaEz5uO8RanzOFe181PHQgkoyRhYef8o6EwVOwyZYnnsmfoNQ8UPvx8Sp+014+2lbIDSfz2DRcc7GMOX5xKyAorRKH9Aj6/uqkguuFUpdIZbimS9mz3ffNGf/h5xWUv0rgL+qFs8C1KPpW/NRU+VR8bqCoFjqbpoMYAsN5F0nfQ/WhuNMRkonN8JR5rf7y9MmSncFXKa07PFmDg/6+hqvXYr+Jeb9b9WDOEFN0Z61skMz9qqtxNCFUmQZJb4LhxkIPEtPPmpP25lbES1aCJZ6xz5h1k=;zNvH26V1O+MlOukg0qxc4A=="
+secured: "F01F8vHqyK1Sb39+BCmdLhop2ilTzMVoYWkkPDqnbTE+IBXxLKfSRcoh9xkq7QYIxLa0S2Mn+AIZk2Cw8iUmah5B6DYldzIuz5vT/SQ7ldhIjZJXEqrzVF8myl9DV4rKbCyrgeKHVy8t+jqntlNOJZoxwRWp+Okrto4fosgS2BOEF65AAxiUGw5JNjcQJ8Trcqw+MeXlKwvXilSngex7RwLLXzBujFxOmZsBlh6jPsGKXUoom7OdBw10BC2bpOt2P7RglUTSxYMI6k6D8/ZvgaPSJUVbjJ+fBNOe8YQ7yuhq9POgQ3Gl+eWeYKzz6/IpbnTiuH6IMTPRquWwPnZw2XLgGJTdwK/hFZZwOlj96Q7MKBzanF9pQh1TvQTYRFpGPRhn5N+1lxvZdko/jc+5lbxlleD0x0xw+KGs5EZy/cOfkR7A/Pzh/T/5Ph2n7ewMYV4G6F9eWiDHfxePW06Zmkn2OoOz5DM7ht0wnzKUccAWC1B41xI2Orl+IywUpl7+0/QLxI1NelWZUX5oeD+5lA==;hF5dVEM+5crYULtmbyDZ3Q=="
 ---
 

@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-16-mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily.md",
+      "title": "Mac users are embracing AI apps, study finds, with 42% using AI apps daily",
+      "excerpt": "AI adoption among Mac app users is booming, according to a new report from app subscription service Setapp that found that 42% of Mac users today report",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/",
+      "originalUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/16/mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily/amp/",
+      "publishedDateTime": "2023-10-16T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-ai-models-can-analyze-thousands-of-words-at-a-time-a-google-researcher-has-found-a-way-to-increase-that-by-millions.md",
+      "title": "AI models can analyze thousands of words at a time. A Google researcher has found a way to increase that by millions.",
+      "excerpt": "Ring Attention' is a new technique that massively expands the context window of AI models, according to researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10",
+      "originalUrl": "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6529e12468f1d46f52b1d4a7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp",
+      "publishedDateTime": "2023-10-16T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
       "title": "U.S. tackles loopholes in curbs on AI chip exports to China",
       "excerpt": "The new rules will be added to sweeping U.S. restrictions on shipments of advanced chips and chipmaking equipment to China unveiled last October.",
@@ -10,7 +115,7 @@
       "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 394,
       "tags": null,
       "images": [
         {
@@ -62,7 +167,7 @@
       "originalUrl": "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -210,7 +315,7 @@
       "originalUrl": "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1330,101 +1435,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-european-commission-to-keep-track-of-ai-and-semiconductor-chips.md",
-      "title": "European Commission to keep track of AI and semiconductor chips",
-      "excerpt": "Sources revealed that on October 3, 2023, European Union officials mentioned that they have identified four areas that need assessment regarding technology risk and risk of technology leakage. The areas are believed to include AI, advanced semiconductor technologies, quantum technologies and biotechnologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/chip.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-european-commission-to-keep-track-of-ai-and-semiconductor-chips-3263450/lite/",
-      "publishedDateTime": "2023-10-04T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models.md",
-      "title": "Lemurian Labs is building a new compute paradigm to reduce cost of running AI models",
-      "excerpt": "Lemurian Labs is an early stage startup with a big ambition to build a software and chip solution to make processing LLMs more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
-      "originalUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1312904817.jpg?resize=1200,848",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/04/lemurian-labs-is-building-a-new-compute-paradigm-to-reduce-cost-of-running-ai-models/amp/",
-      "publishedDateTime": "2023-10-04T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -48,6 +48,15 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 17
+  - title: "The Quantum Leap: How Quantum Computing Will Revolutionize Artificial Intelligence Applications"
+    excerpt: "Introduction In the ever-evolving landscape of technology, two groundbreaking fields have been making significant strides: quantum computing and artificial intelligence (AI). As these fields continue to advance,"
+    publishedDateTime: 2023-10-16T10:23:00Z
+    webUrl: "https://techbullion.com/the-quantum-leap-how-quantum-computing-will-revolutionize-artificial-intelligence-applications/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 7
 
 secured: "Uuc43r3ax4onyrxHd++ggRz/9DkRHFYF6XJgccFjSjNibMpwzvUyxFFaH3Ub6Br0qIHsaVSlQp1gprA2hflpy4BJEB1mHa9WKPNTIFnSq/rD24qnpH0JY6a7iK7s3K4IKBdfS2RzK7iYHbAXHncl1LZuG1Gy9sZ1ZBun6l2xrx+2fqo0i4VN++F0x+9uTUjryiU2iT9fknq4EmFPPra1xEU7hRsL3/4KV46iNDsnaoN4MUub+CXUBqe8JACoKNYyzs8wwHMgsd/c1DfB2hUNWZg1J6EofBsCvJwpZEhzpnssDl4jDChAf3tOVdEjiYkoz7m2ig8vPLr9tkeeonpwcxHWP7ud68L+3/CG1rFEum/NKGaEi2rvO+JVop3bZe7wGhGqBm5oy0hsTON+vwNfMUjVQWFtgraGxo/436aBXsN/xJiNHytJ09L2T3YevwV9E20tX5BFcv91Sai69zrIjlpfNgeP9rLH3FavTpPHiuYaG9YsVT4gXExwx+yFOvumMyS1Pskf8vdWzdbsnAEGQg==;0kpT93qKFg9wrgWdbrG2Rw=="
 ---

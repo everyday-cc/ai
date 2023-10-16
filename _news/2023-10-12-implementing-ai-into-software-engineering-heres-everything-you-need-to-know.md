@@ -47,6 +47,15 @@ related:
         width: 1352
         height: 900
         isCached: true
+  - title: "Shedding light on AI bias with real world examples"
+    excerpt: "Examples of AI bias from real life provide organizations with useful insights on how to identify and address bias.\nThe post Shedding light on AI bias with real world examples appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-16T15:55:01Z
+    webUrl: "https://www.ibm.com/blog/shedding-light-on-ai-bias-with-real-world-examples/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Zib Digital Talks About AI-Driven Digital Marketing"
     excerpt: "AI driven technology is having a profound impact on various aspects of digital marketing, from content creation to personalisation,"
     publishedDateTime: 2023-10-16T07:48:00Z

@@ -35,6 +35,15 @@ related:
         width: 763
         height: 540
         isCached: true
+  - title: "The 12 Worst Examples of Meta's Dystopian AI Influencers"
+    excerpt: "Tom Brady, Kendall Jenner, Roy Choi, and Charli D'Amelio all throw their hats in the ring to put faces to Meta's chatbots on Instagram, Messenger, and WhatApp."
+    publishedDateTime: 2023-10-16T13:25:00Z
+    webUrl: "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 49
 
 secured: "QqezWHG774K1IWxf+kBzxuV2VKiHhBAXzwICmXvYis17CdH3I0M3PnjUNhwVZ2nLFvL+a3QF7PTCsGEE9/2lICBYAy2lV/x5uiwZxWnFIG5h7HntILrcXOj2U8tFKKTcq0x2eHQOlG+JbKXmao6rv5g1T6dQgFEDdFFiJBpE2YHMvLemofxF3mBql5NUlGLYQgj5zihjWTDBT2+oNbrV4knWvGjeYDa3MNHlxvisohjGqUQoPPmrQnc4jxliAbT/aaq45/gl7YxZEj3SmLlX2tsb8v4BbTBWGbSEEm6524zywqiRUHUQUCHS2kcdhnGElvtCWNvrr62U07e0KNQ3aig0Gal29bYO5i4j+FMH6yg5bAQzM+1msfPbAWs3jr/qrK2S1EHB7xbhRPHmYAvxGWFhPIEgb71L+3JY+KZv4d72w6lfG5WhEdIMq5AOckOYEkzjxUZdiT0Fb+aUj9W09+UawvZROKVbZusKLpsrNe6FQPSjoNPs9vBA3DcQdaCaZqsNjA4Ly+tgjPIWr16fNA==;oR0xF8SMyA2Qb+G5Fw178Q=="
 ---

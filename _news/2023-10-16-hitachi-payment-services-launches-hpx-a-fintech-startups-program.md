@@ -25,61 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments"
-    excerpt: "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer."
-    publishedDateTime: 2023-10-11T22:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
+  - title: "Fintech startups: Hitachi Payment Services launches HPX"
+    excerpt: "Hitachi Payment Services, a payments and commerce solutions provider, on Friday announced the launch of its HPX initiative."
+    publishedDateTime: 2023-10-14T01:21:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/19246/fintech-startups-hitachi-payment-services-launches-hpx.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 24
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg"
-        width: 1600
-        height: 1291
+      - url: "https://www.indiablooms.com/finance_pic/2023/b6c96920f48120ca097dca99687adb7f.jpg"
+        width: 800
+        height: 500
         isCached: true
-  - title: "Fintech launches new AI-driven compliance platform"
-    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
-    publishedDateTime: 2023-10-12T11:22:00Z
-    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
-    type: article
-    provider:
-      name: InvestmentNews
-      domain: investmentnews.com
-    quality: 39
-    images:
-      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Fintech Unicorn Razorpay Unveils 'Optimizer': AI-Powered Payment Routing System"
-    excerpt: "In a strategic move to safeguard businesses from financial losses arising from transaction failures, Razorpay, a prominent fintech unicorn, has unveiled ‘Optimizer’ – a state-of-the-art AI-powered payment routing system."
-    publishedDateTime: 2023-10-11T23:31:00Z
-    webUrl: "https://trak.in/stories/fintech-unicorn-razorpay-unveils-optimizer-ai-powered-payment-routing-system/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 35
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/10/RazorPay-Payment-Gateway-UPI-Integration-1280x720-1024x576-1.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "NPCI To Integrate AI-Powered Bhashini To Offer Conversational Payments In 22 Languages"
-    excerpt: "NPCI will integrate Bhashini, an AI-powered translation platform, to allow users make conversational payments in Indian languages."
-    publishedDateTime: 2023-10-13T09:43:00Z
-    webUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/"
-    ampWebUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 31
 
 secured: "BqFegfJXYY3YKWEgJyK7H5Wa/RT7LmVPlxBSA6T5u8zsRbaDLOTFVYoiYwSuVEYBSmVcgBs2bP3Wn2KMgscZd2E6ezCITZR3SYmgfJEDPfMbQsVmW1l5rMmy7GQJ8B+yw/phWh7xQBodO0B0O9T6bl7qQWKTEdGhyeAZPtIowvLeGNt9z88FcZpsl/TimR7JNa47JeFuXLNuv25YkFBadHcHAjl/NJVXy0InF0x4GC5r4kS1FzZT5qlSsbSfkjMZWRWdewvDucQPNOnoKSu7t6H1Vp/r4XxcWDYrnwkPhCFGtxBiYJ/ByuM4R29X0/aud2mJrCjVq/0vN1tI0L7tlzmomg1aUq4ZrT89vAmsAhp89WrZZjP5d+3vbRoqd305bHMDqorDUM0TriIx2Jgz1dAnBnFeikqM5i7MzFgVldvbNa162gjtvy5MkoDZf4AaZmX+wiTszwqQjwMqmMSidTasg2vRdEoE/p0zxkYsOmhzgeZwgYmp7iwWN87HIWqX4dYCQVLzdYOj5b4ChF8qjQ==;pLnU4YTAxNJBB3c3Nur7xw=="
 ---

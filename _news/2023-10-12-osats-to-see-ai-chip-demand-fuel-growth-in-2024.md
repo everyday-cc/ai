@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
+    excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
+    publishedDateTime: 2023-10-16T09:52:00Z
+    webUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
     excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."
     publishedDateTime: 2023-10-13T05:23:00Z
@@ -175,6 +189,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Nvidia H800 faces potential China export ban as US strengthens rules on AI chip shipments"
+    excerpt: "The Nvidia A800 GPU The new rules will block some AI chips that fall under the current technical parameters while demanding companies report shipments of others. It's speculated that the interconnect speed limit could be reduced. An official stated that ..."
+    publishedDateTime: 2023-10-16T12:17:00Z
+    webUrl: "https://www.techspot.com/news/100499-nvidia-h800-faces-potential-china-export-ban-us.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
   - title: "Biden considers tightening AI chip controls to China via third parties"
     excerpt: "Sources close to the matter said the additional rules are expected to surface later this month and that the government is also working out ways to limit Chinese access to U.S. cloud computing services."
     publishedDateTime: 2023-10-13T09:39:00Z
@@ -386,6 +409,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 28
+  - title: "U.S. to tighten curbs on China's access to advanced chip tech"
+    excerpt: "The US plans to prevent its geopolitical rival from obtaining cutting-edge technologies that could give it a military edge."
+    publishedDateTime: 2023-10-16T15:43:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/10/16/u-s-to-tighten-curbs-on-chinas-access-to-advanced-chip-tech/71204336007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "XJHJNXqqQaRBDF7+eCBbOkkzC07kTIuPv/ehP8gXVjgiYAqfswZUtgcwDeylYZrbf5/wz2ynTOe3EoI1ibMf2BMVA+hb4ema/zKFgbagdbABd9AsNHnc0SYJLaqCXMNMw04F098vQenwm7inFIoh+l9tSDSfzOFFjBUSpN81lcZYtvzrWkjPOwoEvgsALvSc1Pnp8T6V0/cU6phV8u48E9vFBJQdO7UnvFJrVMbSbCOokTFS7qoiny9lHDVEu9h7gp1noO+pKFNdMQBiK1ccUw8gCNXVnBsQXa+14BJ+C+la1PrEGMfsrfFO2hlkIeZbBmGRVX/fuxzmXB5sdeXiOKA3VwxtNM6YLO8IGm/MiahTTo+8vccQuav+SP3JHONtHygqisVVvji9GPIila6h6dmUNv7UYVX5e1AMqYumkmZumgz4/8WroJd3kjZ1TIl0LA2UnQGFxb8VnHGw9wdZt1ID3X0uS4Ihc+gzpU5MCwLld3gEyoSFTZYGL1FVpbxIj/v7Rxoza/rzKCehHHEkMA==;DCO369dTcbS4oSEx5SxD4w=="
 ---

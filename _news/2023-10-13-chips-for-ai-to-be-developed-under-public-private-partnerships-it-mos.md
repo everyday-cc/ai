@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece/amp/"
 type: article
 quality: 78
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Chip Industry Talent Shortage Drives Academic Partnerships"
+    excerpt: "Companies, governments, and universities are forming broad partnerships to update skills and foster innovation in chips, security, AI, and related fields."
+    publishedDateTime: 2023-10-16T12:43:00Z
+    webUrl: "https://semiengineering.com/chip-industry-talent-shortage-drives-academic-partnerships/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 19
 
 secured: "7VGMqonrkDGkRVYnL46sovBd4P8oC8WN0ZxgHS7HKADjLWvgqcpq6ObckZnRxtdsIVBbcpjO4ze72AP4xwbKZz+eMoMNPi+hpkMD52v8pwnKrSJj5zHYHMa5I32z6ECVAUhXukT5AjjulOkldYZL7l3HxwV/Wr4+mMbX+5AfOsk+WGFOVKHL6aLj8ZUYzmMqtWIhnMb+1T9iZSndWUvGcnkaA5SjIwWLpC5XImVcy4aotQXQ0jJLZQXdOzBZXcgxvv3egx4Qwape2WWly+WxdiG5wrPLJT5XP36nkhkt+v+534cwzBUezfllQTKDcHuZmR/pX330Uq/RfnTi91kOQ0tQ9JG+awX6BE/ZVL2Vkug=;RzsN17A4kxL89FZZ5HOcng=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "Elevating AI with Custom Chip Technology"
     excerpt: "As AI technology continues to grow, there has been a shift in focus from traditional processors like GPUs to custom chips."
     publishedDateTime: 2023-10-12T00:33:00Z

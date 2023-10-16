@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-up
 webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -116,6 +116,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 32
+  - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
+    excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
+    publishedDateTime: 2023-10-16T12:50:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/10/35266164/the-ai-story-is-more-than-nvidia-companies-like-amesite-are-leveraging-ai-to-transform-e-lea"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "IkduJD7/wK/7DLySu6VgkKwmJCLNWfMPdtfOK3VIo78KW+KRE4w57hhWo23f79bAz3TYkc0YfWVA4gIzThgMW0O31fdvHKobxfG/4V8AQVz0ipijidFDPJXxmGNuUUtgyrGeWXPiQBZIt1wn9V2REEGHJYg5loHcCvViCgPq03vvvWEyOA/2WXwwnZVJhuvLHbguxu+Wfy9e0tzxeM2htLrkKZgNZ2P8CAjaxtNEo5QnkXbdFpdrovmv3nj0yE9IU4HXd7YEhCkKHhor3OWWJycMSjhI9WnLhcIfhl7qGSZdHtnwVHB/ttXj1BUreW4TfIXpra/pSQ2VBXThjgLHFF9p81xztxdDZAECV/BGjN8=;tvzDdHGlxuo8UH2fMFzJgw=="
 ---

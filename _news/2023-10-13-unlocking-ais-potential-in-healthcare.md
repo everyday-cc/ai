@@ -25,80 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Giants Unveil New AI Tools For Healthcare"
-    excerpt: "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage."
-    publishedDateTime: 2023-10-15T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
+  - title: "AI Renaissance In Healthcare: Top Five Opportunities In Precision Medicine"
+    excerpt: "As data democratization and technological convergence continue, we're set to experience a healthcare renaissance where patient-centricity and proactive intervention will be the norm. Here are some of the most promising use cases where generative AI could help deliver the promise of precision medicine."
+    publishedDateTime: 2023-10-13T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 102
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652beefb8a28700db0fff333/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1565
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6515e926f782f3662889eec0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Logitech Unveils Zone Wireless 2 AI-Powered Headset"
-    excerpt: "Swiss computer accessory giant Logitech has announced its next-generation Zone Wireless 2 headset in a move that underscores the company’s commitment to the burgeoning business-to-business market. Whether staff are working from home, office or a combination of the two, those workers need the right tools for Zoom meetings and phone calls."
-    publishedDateTime: 2023-10-16T07:00:00Z
-    webUrl: "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/"
-    ampWebUrl: "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/"
+  - title: "Top 3 generative AI uses, per healthcare CIOs"
+    excerpt: "Explore the results of a survey of IT leaders on the adoption of generative AI in healthcare. Learn why healthcare is embracing the technology slower than other industries."
+    publishedDateTime: 2023-10-16T14:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/top-3-generative-ai-uses-per-healthcare-cios.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295de0a0b6a0930e9b9f0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1200
-        height: 800
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Governments race to regulate AI tools"
-    excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
-    publishedDateTime: 2023-10-13T10:48:00Z
-    webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
+  - title: "Carta Healthcare survey results indicate that education around AI may improve consumer trust"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Carta Healthcare®, a company whose mission is to improve patient care by harnessing the value of clinical data, today announced the results of a survey measuring American perception and trust of artificial intelligence (AI ..."
+    publishedDateTime: 2023-10-12T13:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231012647360/en/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/resizer/EqVujEAwDTH__rAL3dKCIl0vKFg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJ7VVLBOAZNETDZF34KQ7NPIJ4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Logitech unveils Zone Wireless 2 AI-powered headset for hybrid workers"
-    excerpt: "Logitech unveiled the Zone Wireless 2, an AI-powered headset aimed at hybrid workers."
-    publishedDateTime: 2023-10-16T07:01:00Z
-    webUrl: "https://venturebeat.com/games/logitech-unveils-zone-wireless-2-ai-powered-headset-for-hybrid-workers/"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 40
+  - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
+    excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
+    publishedDateTime: 2023-10-14T13:06:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/High_Resolution_PNG-Zone-Wireless-2-Zone-950-LIFE-Side-Profile-Graphite-01.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Join Us to Discuss Artificial Intelligence’s Impact on DFW Healthcare"
-    excerpt: "Along with nearly every industry, healthcare is in the throes of dealing with artificial intelligence and ChatGPT software that threatens to change the practice of medicine. The question, though, is whether that change will be one that will save society or ..."
-    publishedDateTime: 2023-10-12T19:00:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2023/10/join-us-to-discuss-artificial-intelligences-impact-on-dfw-healthcare/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 56
-    images:
-      - url: "https://assets.dmagstatic.com/wp-content/uploads/2023/10/DCEO_HealthcareBreakfast22_Q4_BlogPostHeader.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 28
 
 secured: "hKLtrVEgOJ/s4SG+a3XvBx1g54yZaowuz2uSltnSwZb6HaB+jmTSvyUKLKZS48tJeN/ZZ37VqWml/IBf78Lnr81riBn24E/pjdCieWAs61rpPGS0cDfuE6l/eQbXvSd8+mPJnJ8jLe2hylbJfzktB0BnJosEkYxF7KXAZpDsneA8ab3DoKVH5obZk2iIzAd8UfxzPA9ypNYLaGP8i16ydNgWG0yjCaqMX0XphGJ3fi6t/2Tvv9Fr3WCfo9z3LxE+4SS8qUXW0ndpmOUehEXnpf+ROJ5eC2dPIEbhiTrSNMRQ+Lswguf0b0tjRFCnKW1IPSRb+QRHw4k1C7Eai1o9VNQURzfk2B0/QnIZf9TYIcQ=;LSTdlUkx4sVrZoGt7zKYjg=="
 ---

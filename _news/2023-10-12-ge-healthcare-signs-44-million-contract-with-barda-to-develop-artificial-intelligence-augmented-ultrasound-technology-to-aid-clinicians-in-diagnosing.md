@@ -47,6 +47,15 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "GE HealthCare wins $44M AI ultrasound deal with HHS"
+    excerpt: "GE HealthCare signed a $44 million contract with BARDA to develop and obtain clearance for new AI-powered ultrasound technology designed to quickly diagnose tra"
+    publishedDateTime: 2023-10-16T12:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/disruptors/ge-healthcare-wins-44m-ai-ultrasound-deal-with-hhs.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "GE HealthCare gets $44 million federal contract to develop rapid ultrasound tech"
     excerpt: "As part of the collaboration with BARDA, GE says it will develop a system that uses novel AI technology to make getting and interpreting ultrasound exams faster and easier."
     publishedDateTime: 2023-10-12T19:31:00Z

@@ -55,6 +55,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Fintech launches new AI-driven compliance platform"
+    excerpt: "A fintech company has announced a flagship AI-driven production that will help financial firms with compliance."
+    publishedDateTime: 2023-10-12T11:22:00Z
+    webUrl: "https://www.investmentnews.com/fintech-launches-new-ai-driven-compliance-platform-244423"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/10/Regtech-compliance-900x.jpg.optimal.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AI In Fintech Market Unleashes a 16.5% CAGR Surge to US$ 54 Billion"
     excerpt: "The size of the worldwide AI in fintech market was estimated at US$ 10.1 billion in 2021 and is predicted to increase by 16.4% year over year to US$ 11.76 billion in 2022. Demand is anticipated to increase from 2022 to 2032 at a (CAGR) of 16."
     publishedDateTime: 2023-10-16T05:57:00Z

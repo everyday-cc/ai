@@ -7,7 +7,7 @@ originalUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gi
 webUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/"
 type: article
 quality: 53
-heat: 83
+heat: 103
 published: true
 
 provider:
@@ -53,6 +53,29 @@ related:
         width: 369
         height: 250
         isCached: true
+  - title: "A self-driving super racing car unveiled at GITEX in Dubai"
+    excerpt: "The driverless Formula car runs on artificial intelligence algorithms and software will be doing its first trial at Yas Circuit in Abu Dhabi in April 2024."
+    publishedDateTime: 2023-10-16T15:01:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/10/16/a-self-driving-super-racing-car-unveiled-at-gitex-in-dubai"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/auto-race-uae.ashx?h=500&w=750&hash=DF409452C0FA6B0C951865D40DB100AD"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
+    excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
+    publishedDateTime: 2023-10-16T14:02:00Z
+    webUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 36
   - title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
     excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
     publishedDateTime: 2023-10-15T19:21:00Z

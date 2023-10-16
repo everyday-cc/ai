@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entreprene
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1228
         height: 997
         isCached: true
+  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
+    publishedDateTime: 2023-10-16T12:17:00Z
+    webUrl: "https://www.asiaone.com/business/profet-ai-achieves-significant-milestone-southeast-asian-expansion-macrovention-and-ampos"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
 
 secured: "nmR8CmqtkRcSZKbSQ2GZAdro77j3EEGiwxNwuy5rrQcszdaX8sVZHOfR/BlmOgyki9/DtersNr+8w45cvxIs3JBh7dMCyEE6M8sOjXVy1EwkLRd6YOb/4qK7P1lE/i0H08BW99zfMPZMwlv8nJEVuoe/whxGUXcsNOWY742WxVELf0DTy375oJ/YDoAZ74YlVE8gwUGSZxUAWm7qxmYymmz8bLi0bn+vKr3TDCPQy2clU7SlhQCQ5OLRf7b8+O2LTOzYuo34LY0ACkVW1yA0oXaNo+yVuuOa8vxUMRZhZdM7ZAXuEYzdQAkVlVWmLiMYJW3/aiiFS2onLu3efc60LPmBKHkZFcdaKWLIOsyCS6U=;fv0ycJtZhB/p90KhyLqUfg=="
 ---

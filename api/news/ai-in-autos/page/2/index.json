@@ -2,6 +2,94 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-03-self-driving-truck-market-share-size-2023-industry-overview-comprehensive-research-study-competitive-landscape-2023-2030.md",
+      "title": "Self-Driving Truck Market Share, Size 2023 Industry Overview, Comprehensive Research Study, Competitive Landscape 2023-2030",
+      "excerpt": "[126 Pages Updated Report] Business Growth Reports has a Latest Research report on Self-Driving Truck Market into its extensive repository. This research report is a compilation of information and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35056664/self-driving-truck-market-share-size-2023-industry-overview-comprehensive-research-study-competitiv",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35056664/self-driving-truck-market-share-size-2023-industry-overview-comprehensive-research-study-competitiv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-nsa-announces-new-artificial-intelligence-security-center-desperately-needed.md",
+      "title": "NSA announces new artificial intelligence security center: 'Desperately needed'",
+      "excerpt": "The National Security Agency (NSA) will launch a new artificial intelligence security center to both protect U.S. AI systems and defend against external threats. The new security center launches ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed",
+      "originalUrl": "https://www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/nsa-announces-new-artificial-intelligence-security-center-desperately-needed.amp",
+      "publishedDateTime": "2023-10-03T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag.md",
       "title": "Shares in Aurrigo Rise After Agreement on Self-Driving Vehicle Trial With IAG",
       "excerpt": "Shares in Aurrigo International rose after it said it has agreed on a partnership with International Consolidated Airlines Group aimed at deploying its self-driving baggage and air-freight vehicles in the U.K. Shares at 0730 GMT were up 20 pence ...",
@@ -1270,93 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.md",
-      "title": "Elon Musk showcases Tesla humanoid robot performing Yoga, Namaste",
-      "excerpt": "Elon Musk showcased the Tesla humanoid robot named 'Optimus' in a video where it performed yoga postures and greeted followers with a 'Namaste'. Optimus has the ability to self-calibrate its arms and legs and can locate its limbs in space using vision and joint position encoders.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/articleshow/103921976.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46754,msid-103922095/musk-showcases-tesla-humanoid-robot-performing-yoga-namaste.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/elon-musk-showcases-tesla-humanoid-robot-performing-yoga-namaste/amp_articleshow/103921976.cms",
-      "publishedDateTime": "2023-09-24T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-beijing-at-forefront-of-smart-vehicle-industry.md",
-      "title": "Beijing at forefront of smart vehicle industry",
-      "excerpt": "In April 2022, Beijing became the first Chinese city to greenlight the pilot commercial operation of self-driving passenger vehicles without anyone in the driver's seat and Baidu's autonomous driving arm, Apollo Go, was among the first to offer fully autonomous driving services in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202309/25/WS6510ce27a310d2dce4bb78bd.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202309/25/WS6510ce27a310d2dce4bb78bd.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202309/25/6510ce27a310d2dc6d286e45.jpeg",
-          "width": 720,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-24T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
         "publishers": null,
         "authors": null
       },

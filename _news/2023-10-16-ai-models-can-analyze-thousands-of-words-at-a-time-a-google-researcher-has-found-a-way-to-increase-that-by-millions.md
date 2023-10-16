@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-mil
 ampWebUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
 type: article
-quality: 66
-heat: 76
+quality: 68
+heat: 78
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI Hardware
 
 images:
   - url: "https://i.insider.com/6529e12468f1d46f52b1d4a7?width=1200&format=jpeg"

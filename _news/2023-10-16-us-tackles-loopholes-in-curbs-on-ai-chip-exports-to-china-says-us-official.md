@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
+    excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
+    publishedDateTime: 2023-10-16T09:52:00Z
+    webUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
     excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."
     publishedDateTime: 2023-10-13T05:23:00Z
@@ -161,6 +175,15 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Nvidia H800 faces potential China export ban as US strengthens rules on AI chip shipments"
+    excerpt: "The Nvidia A800 GPU The new rules will block some AI chips that fall under the current technical parameters while demanding companies report shipments of others. It's speculated that the interconnect speed limit could be reduced. An official stated that ..."
+    publishedDateTime: 2023-10-16T12:17:00Z
+    webUrl: "https://www.techspot.com/news/100499-nvidia-h800-faces-potential-china-export-ban-us.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
   - title: "OSATs to see AI chip demand fuel growth in 2024"
     excerpt: "Although major Taiwan-based OSATs experienced a decline in total revenue for 2023 through September, market sources state that they are gearing up for an anticipated rise in demand for AI and HPC chips,"
     publishedDateTime: 2023-10-12T01:26:00Z
@@ -386,6 +409,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 28
+  - title: "U.S. to tighten curbs on China's access to advanced chip tech"
+    excerpt: "The US plans to prevent its geopolitical rival from obtaining cutting-edge technologies that could give it a military edge."
+    publishedDateTime: 2023-10-16T15:43:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/10/16/u-s-to-tighten-curbs-on-chinas-access-to-advanced-chip-tech/71204336007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "8cGJL62DR0IqrMfTeIokN6O5xLgBLNCiRs0PI8mB7A+SqW9TRbYDc+l2YHks6d5r6lvDvb8iWtn3K2VtGNPtCx7peu5yqpynr9n4Jl50q/dEFPR2dl0ZvRCHCk4BGTiam933R+V5TE/m8Exo7Rlv0duWOAUsLmIpPyy3qCa+Ki9G+LPanCQBZpWbTq7ZBQP3Y2OUk4NPg2FDINwnRjVe7WPvNISbwc/L7LBGdTsZH6PINTUn/Bofvwv0HukC/TP5b6E8OWpsffw+9ArpjSEKdGRZlNn/vZpE8U5Eaj1ZwXI0uuNAFVhRcsz99TxBoMVYRM35ugX5i2cD85WOdElWUJdwAir5jC6Zd5ojGtpbOOk=;EbjmdJ7G0Py8OeXDvBtLlw=="
 ---

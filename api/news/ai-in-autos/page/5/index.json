@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-07-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications.md",
+      "title": "The road ahead for self-driving vehicles is littered with complications",
+      "excerpt": "Recent developments in San Francisco highlight some of the controversies over self-driving cars. The California Public Utilities Commission authorized a 24/7 test deployment of 200 self-driving taxis.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/",
+      "originalUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/amp/",
+      "publishedDateTime": "2023-09-07T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-artificial-intelligence-could-help-build-pollen-jigsaw-of-present-and-ancient-flora.md",
+      "title": "Artificial intelligence could help build pollen jigsaw of present and ancient flora",
+      "excerpt": "Artificial intelligence could help build pollen jigsaw of present and ancient flora. ScienceDaily . Retrieved September 10, 2023 from www.sciencedaily.com / releases / 2023 / 09 / 230907205947.htm",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230907205947.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230907205947.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-waymo-is-using-insurance-data-about-self-driving-cars-to-bolster-its-safety-case.md",
       "title": "Waymo is using insurance data about self-driving cars to bolster its safety case",
       "excerpt": "Waymo is using insurance data to make the case that its self-driving cars are safer than human drivers. The report, a result of the collaboration first announced last year between the Alphabet ...",
@@ -1291,92 +1368,6 @@
       "provider": {
         "name": "BBC",
         "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
-      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
-      "excerpt": "When asked about Taiwan, a self-ruling island that China claims as its territory ... it has also looked to grow its cloud computing business and develop autonomous driving technology. Baidu shares were up 3.2 percent in Hong Kong at around 0430 GMT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "publishedDateTime": "2023-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-self-driving-cars-are-booming-in-san-francisco-is-it-really-a-loss-for-boston.md",
-      "title": "Self-driving cars are booming in San Francisco. Is it really a loss for Boston?",
-      "excerpt": "“They’re flooding the streets now,” McCuan said. She figures every fifth car she sees in San Francisco lately is self-driving. It’s quite different here in Boston. Waymo autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2023/08/29/business/san-francisco-vs-boston-self-driving-cars/",
-      "originalUrl": "https://www.bostonglobe.com/2023/08/29/business/san-francisco-vs-boston-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/IXrHFemj_ODoBVw6-nPcvYAth68=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/DCI2Q7ASH6CPFIJBGIFD5KDSGA.jpg",
-          "width": 506,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

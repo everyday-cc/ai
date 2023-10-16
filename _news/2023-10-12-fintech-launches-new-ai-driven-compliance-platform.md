@@ -25,61 +25,82 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments"
-    excerpt: "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer."
-    publishedDateTime: 2023-10-11T22:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/"
+  - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
+    excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
+    publishedDateTime: 2023-10-13T20:51:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Chukwuemeka-Ujam.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Fintech founder says bottom line remains top priority for SMBs"
+    excerpt: "Mark Hartley, founder and CEO of Bankifi, pointed out that while these subjects may be important to megabanks and their multinational customers, they’re not as important to his smaller financial institution customers and their small to medium-sized business  (SMB) customers in turn. What this group cares about most, he said, is “getting paid.”"
+    publishedDateTime: 2023-10-12T15:37:00Z
+    webUrl: "https://www.finextra.com/the-long-read/824/fintech-founder-says-bottom-line-remains-top-priority-for-smbs"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/824.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Irish fintech Alt21 raises $21m to expand hedging platform"
+    excerpt: "The fintech said this business generated more than €8m in operating ... The company also plans to invest in AI and machine learning in the future to bolster its products. Pritesh Ruparel, the ALT21 CEO, said the company’s goal is to “make things ..."
+    publishedDateTime: 2023-10-13T08:41:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/alt21-assure-hedge-funding-series-a-fintech-hedging"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/ALT21-London-team.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI In Fintech Market Unleashes a 16.5% CAGR Surge to US$ 54 Billion"
+    excerpt: "The size of the worldwide AI in fintech market was estimated at US$ 10.1 billion in 2021 and is predicted to increase by 16.4% year over year to US$ 11.76 billion in 2022. Demand is anticipated to increase from 2022 to 2032 at a (CAGR) of 16."
+    publishedDateTime: 2023-10-16T05:57:00Z
+    webUrl: "https://www.fmiblog.com/2023/10/16/ai-in-fintech-market-unleashes-a-16-5-cagr-surge-to-us-54-billion/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 39
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/AI-In-Fintech-Market.jpg"
+        width: 1000
+        height: 663
+        isCached: true
+  - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
+    excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
+    publishedDateTime: 2023-10-12T13:08:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214238-global-fintech-klarna-leverages-ai-for-human-shopping-experience/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg"
-        width: 1600
-        height: 1291
-        isCached: true
-  - title: "Fintech Unicorn Razorpay Unveils 'Optimizer': AI-Powered Payment Routing System"
-    excerpt: "In a strategic move to safeguard businesses from financial losses arising from transaction failures, Razorpay, a prominent fintech unicorn, has unveiled ‘Optimizer’ – a state-of-the-art AI-powered payment routing system."
-    publishedDateTime: 2023-10-11T23:31:00Z
-    webUrl: "https://trak.in/stories/fintech-unicorn-razorpay-unveils-optimizer-ai-powered-payment-routing-system/"
+    quality: 19
+  - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
+    excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
+    publishedDateTime: 2023-10-13T03:25:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214226-fintech-carefull-secures-16-5m-to-scale-financial-safety-platform-for-older-adults/"
     type: article
     provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 35
-    images:
-      - url: "https://trak.in/stories/wp-content/uploads/2023/10/RazorPay-Payment-Gateway-UPI-Integration-1280x720-1024x576-1.jpeg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "NPCI To Integrate AI-Powered Bhashini To Offer Conversational Payments In 22 Languages"
-    excerpt: "NPCI will integrate Bhashini, an AI-powered translation platform, to allow users make conversational payments in Indian languages."
-    publishedDateTime: 2023-10-13T09:43:00Z
-    webUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/"
-    ampWebUrl: "https://inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/npci-to-integrate-ai-powered-bhashini-to-offer-conversational-payments-in-22-languages/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 31
-  - title: "Hitachi Payment Services launches HPX, a FinTech startups program"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-16T04:53:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/hitachi-payment-services-launches-hpx-a-fintech-startups-program/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
-        height: 250
-        isCached: true
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "PzuDjmO6+EMmicI1WPZoPbWVw1H4Bh6GCFf/lU83VPykujMj90OR/N4J0DiuYOqXdshat3NBnQ7+2gHfutv2EYdJ7hVhRE4S/Ak1Ef+rJAoE1fQxZiGF/Bly9abuvCaF1quEBoMS2KSLNIzZ8RkUxDuO47x6kfIEwdcPxKoPcNdYcn2bhGozdc2x3kMnRquUdzi4cK1JpWew5zfnbdrim09Y26bPjzKKNaFbIQPLMgA6LuOpcLfmyhDhRYLonf4tWH8JjTKzfz/WRt8M3OeDfdSOVHGcSoKbTRZ1SgBlxL7m1MeRxER3pQ8k3QaFNDpIFpe5/y35tPcecvyJvSBoZyQpopaFqBOhs9yAtA8fdTx6KtIpdp6+O2exwfvvavXgx9KC4ppWcw2aNKK8M4jw83zvb14i1xFhavth1pkUQcdHYmd8Vudw7EjLjABhBrjaOV7sw1X1gj6mgNVFMFCS8rhXr62kWyDKo6k8fJ9CzNYuA1KqRRaSyGEm4WYfXIHp2vz0xaM+gNCMJEge6LqfJg==;gHI6SZenGO0iOBBclFwkUg=="
 ---

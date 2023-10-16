@@ -9,8 +9,8 @@ ampWebUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-th
 cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WGNO
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "The 12 Worst Examples of Meta's Dystopian AI Influencers"
+    excerpt: "Tom Brady, Kendall Jenner, Roy Choi, and Charli D'Amelio all throw their hats in the ring to put faces to Meta's chatbots on Instagram, Messenger, and WhatApp."
+    publishedDateTime: 2023-10-16T13:25:00Z
+    webUrl: "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 49
   - title: "Why the Gaming Industry is perfect for AI Training"
     excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
     publishedDateTime: 2023-10-14T16:01:00Z

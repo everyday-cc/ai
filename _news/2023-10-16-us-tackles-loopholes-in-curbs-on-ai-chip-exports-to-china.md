@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html"
 type: article
 quality: 104
-heat: 364
+heat: 394
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
     excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
     publishedDateTime: 2023-10-13T09:13:00Z
     webUrl: "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
+    excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
+    publishedDateTime: 2023-10-16T09:52:00Z
+    webUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4"
     type: article
     provider:
       name: Reuters
@@ -165,6 +179,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Nvidia H800 faces potential China export ban as US strengthens rules on AI chip shipments"
+    excerpt: "The Nvidia A800 GPU The new rules will block some AI chips that fall under the current technical parameters while demanding companies report shipments of others. It's speculated that the interconnect speed limit could be reduced. An official stated that ..."
+    publishedDateTime: 2023-10-16T12:17:00Z
+    webUrl: "https://www.techspot.com/news/100499-nvidia-h800-faces-potential-china-export-ban-us.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 55
   - title: "OSATs to see AI chip demand fuel growth in 2024"
     excerpt: "Although major Taiwan-based OSATs experienced a decline in total revenue for 2023 through September, market sources state that they are gearing up for an anticipated rise in demand for AI and HPC chips,"
     publishedDateTime: 2023-10-12T01:26:00Z
@@ -390,6 +413,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 28
+  - title: "U.S. to tighten curbs on China's access to advanced chip tech"
+    excerpt: "The US plans to prevent its geopolitical rival from obtaining cutting-edge technologies that could give it a military edge."
+    publishedDateTime: 2023-10-16T15:43:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/10/16/u-s-to-tighten-curbs-on-chinas-access-to-advanced-chip-tech/71204336007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "MR5L6JykdNfl2v9oiHFGShvyGodjH3t3PL/c0qfB28K8B+JO4ua62acH8qa9k+ZOWnC+ZQ/bqp1hB0sEmvpuYZEuyQe9Z5DlGqwQzH6d+qlFHSnCtXkIavHSAYrOIOfidExdTDwULPKGipuBF65P5bQ5L+X+YVLxKSYSVLIZJ6gK8bSHmmu1hgafAy6dHP5OrGIFnOXg1ZPpBReHdLUB95XYmqrr1OMrjasJDTg8d1gD4iNaXMcQ7iTJMBdwtNi7Hc3oBg17BoJ/fowZ97/GLnjZyadBvroj57PLoh2nLg1noBypa89C109PM4Mcem3gbiJiPriuURhwyiLBiCrlQu6YxgeN6NxJw19b5QU6yAZoPjbxBN1Fcgw75hdm9AYFSgwL6KszZ6loyQES/Pg1BnzwvTrJGiQ2oxs19wt1CF+F6eqaOr3IKb3Ag+gpoWAE5CHR7oy86tkr2UufLqwE0+9njEIeWOZ+pPlPfmFPoFk9JddFPbAOOoeZIcysTgwFVm8xzrtZCP3hRubwMLA5Hg==;DaX7FEejh27JM2nTTpDYgg=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CIOB artificial intelligence conference: register today"
+    excerpt: "The virtual event will take place on 14 December and registration is now open. The CIOB said: “Undoubtedly, we are moving towards a pro-innovation era and AI is rapidly edging its way into the built environment."
+    publishedDateTime: 2023-10-16T11:43:00Z
+    webUrl: "https://www.globalconstructionreview.com/ciob-artificial-intelligence-conference-register-today/"
+    type: article
+    provider:
+      name: globalconstructionreview
+      domain: globalconstructionreview.com
+    quality: 37
+    images:
+      - url: "https://www.globalconstructionreview.com/wp-content/uploads/2023/10/dreamstime_m_111718023.jpg"
+        width: 880
+        height: 560
+        isCached: true
   - title: "No clear winner in AI in health care yet, say experts at this year's HLTH conference"
     excerpt: "This year, artificial intelligence (AI) was the topic on investors' minds as they search for the next big bet in digital health. But it's unclear what use-case for AI in health care will ultimately win. That thought was top of mind for Prateesh Maheshwari ..."
     publishedDateTime: 2023-10-13T19:42:00Z

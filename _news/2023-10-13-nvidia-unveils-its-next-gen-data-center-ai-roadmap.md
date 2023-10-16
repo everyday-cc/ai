@@ -9,7 +9,7 @@ ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-ro
 cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 728
     height: 406
     isCached: true
-
-related:
-  - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
-    excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
-    publishedDateTime: 2023-10-11T20:45:00Z
-    webUrl: "https://hothardware.com/news/nvidia-roadmap-hints-annual-gpu-cadence"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 39
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/62784/content/hero-hopper-die-nvidia.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "19qsD6suOMHWlM6s4yJaVDwKY/zIheXB4/v9dtkXyOvRCp2DqqB+LCW7oJ8CGVbRO+JW35yB2KER+1bxQ5okO91tOa4euS7yA6/vK1dIdYOeXcli5P1t12Slb7Dyu0ZNoWv+kYyEUXO4zTFqy7z4k+aCyINgYjHwOsQGX5bYxCZdEiBthVb0ygxoJWYnfBAn9nL+kIdhxj4XSuBgdAvpI4LjfJxQ78qnCb/fXvZDebvd0I0Y/NZ3VQgPgS9OorMuUyH+6oWyjausKMpibL/Qpq6VN0ClUK9Zmb3jv7SExylZ9+FhFwsDt2EcFrzXybblKt9uR5byVD2p2vU6+vjiDOAg1H6UMzOO4LJgPTr9HBs=;IzRCOlmt7nrCMrxbMS+I9Q=="
 ---

@@ -112,6 +112,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 32
+  - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
+    excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
+    publishedDateTime: 2023-10-16T12:50:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/10/35266164/the-ai-story-is-more-than-nvidia-companies-like-amesite-are-leveraging-ai-to-transform-e-lea"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
 
 secured: "ehC/Rh2T9bdoNRUyI0C552CYUzvC7hrIXL6yP2mB/4GiwLiFpcS1RYSx+JiDZJZkN3wyVyfz2/av4JL5Y7TldJN/f4/5NjnETXIlWSp0AYtcNaeg9r/mSsPmKeGbaJglZoya45CnfPZ7D7Saqz0WxcKaS0GomKhJ862e4v4g0duH02TVc6N+l7DJEpAn1Vb2NgWY+oas/Bho7AeGfFa21LncnUSXK7pvxE+ieLGl5ZC6pNMRAL8F9BhPFCJodKelSsKQ6d2ijOkCM4x5XgiFIP16U9InEZHpZWRcYJJ3CF3ElV+pWYljQr8bPjqI7hTxtsck5ozB+Wn4fFoxsIYQO7PERZ/gxd+nVYf01fIEsnH0fSh3aGkRgbmSZsE0XUxwjXmOyaywNPouZJA1LZQclui257Dgmex6UWZep+ABIUZcSKogjeWRYOXI+LXua6VbKttgstY5Ew7j0eloCVi6ANprWaO5cUcvRAuYGcdaume9lwPS6+Q3drtNT2L3fg/WeLiMCvtrmqCugtKwnJbugw==;WhVQv9Ekybd+zt0shFbu9g=="
 ---

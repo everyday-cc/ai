@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaiss
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -31,18 +31,32 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-10-16T03:06:00Z
-    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
+  - title: "Unlocking AI’s Potential in Healthcare"
+    excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
+    publishedDateTime: 2023-10-13T14:35:00Z
+    webUrl: "https://www.unite.ai/unlocking-ai-potential-in-healthcare/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
+      name: unite
+      domain: unite.ai
+    quality: 54
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
-        width: 900
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/knowledge-ai-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
+  - title: "Top 3 generative AI uses, per healthcare CIOs"
+    excerpt: "Explore the results of a survey of IT leaders on the adoption of generative AI in healthcare. Learn why healthcare is embracing the technology slower than other industries."
+    publishedDateTime: 2023-10-16T14:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/top-3-generative-ai-uses-per-healthcare-cios.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
         height: 600
         isCached: true
   - title: "Carta Healthcare survey results indicate that education around AI may improve consumer trust"

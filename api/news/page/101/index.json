@@ -2,6 +2,461 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-08-04-this-cybersecurity-startup-uses-ai-to-counter-emerging-threats.md",
+      "title": "This Cybersecurity Startup Uses AI To Counter Emerging Threats",
+      "excerpt": "The startup aims to leverage AI to combat increasingly sophisticated phishing attacks resulting from advances in generative technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cc492a2329e18539716307/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/03/this-cybersecurity-startup-uses-ai-to-counter-emerging-threats/amp/",
+      "publishedDateTime": "2023-08-03T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th.md",
+      "title": "This Week In XR: Capital For Inworld AI, Omni VR Treadmill, Hologate VR, Siggraph’s 50th",
+      "excerpt": "This Week in XR is also a podcast hosted by the author of this column, Ted Schilowitz, Futurist, Paramount Global, and Rony Abovitz, founder of Magic Leap. This week our guest is Zak Penn, filmmaker and screenwriter of Ready Player One and, soon, Ready Player Two . We can be found on Spotify, iTunes, and YouTube.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cc435e995b76bb73960eaa/0x0.jpg?format=jpg&crop=1443,811,x301,y95,safe&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/08/03/this-week-in-xr-capital-for-inworld-ai-omni-vr-treadmill-hologate-vr-siggraphs-50th/amp/",
+      "publishedDateTime": "2023-08-03T17:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung.md",
+      "title": "AI chip startup Tenstorrent lands $100M investment from Hyundai and Samsung",
+      "excerpt": "Case in point, Tenstorrent, the AI hardware startup helmed by engineering luminary Jim Keller ... for future mobility vehicles and robots. Samsung Catalyst and other VC funds, including Fidelity Ventures, Eclipse Ventures, Epiq Capital and Maverick ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/",
+      "originalUrl": "https://techcrunch.com/2023/08/04/ai-chip-startup-tenstorrent-lands-100m-investment-from-hyundai-and-samsung/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-lazr-stock-alert-luminars-ai-push-will-revolutionize-self-driving-cars.md",
+      "title": "LAZR Stock Alert: Luminar’s AI Push Will Revolutionize Self-Driving Cars",
+      "excerpt": "Fennimore told InvestorPlace that his company is in a unique position to make self-driving cars a part of everyday reality. The key is artificial intelligence. Luminar’s history with AI is long.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/lazr-stock-alert%3A-luminars-ai-push-will-revolutionize-self-driving-cars",
+      "originalUrl": "https://www.nasdaq.com/articles/lazr-stock-alert%3A-luminars-ai-push-will-revolutionize-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-salesforce-einstein-studio-lets-you-bring-your-own-model-starting-with-amazon-sagemaker.md",
+      "title": "Salesforce Einstein Studio lets you bring your own model, starting with Amazon SageMaker",
+      "excerpt": "The solution is really aimed at folks who have fairly sophisticated data teams and have been building models in other places like SageMaker. These companies want to put those models they’ve ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/04/salesforce-einstein-studio-lets-you-bring-your-own-model-starting-with-amazon-sagemaker/",
+      "originalUrl": "https://techcrunch.com/2023/08/04/salesforce-einstein-studio-lets-you-bring-your-own-model-starting-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-voice-recognition-and-medical-transcription.md",
+      "title": "Voice Recognition and Medical Transcription",
+      "excerpt": "A speech-recognition engine simply replaces the keyboard and mouse. To realize the potential benefits of a local, PC-based voice-recognition system (as in Figures 1 and 2), you probably have to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/487524_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/487524_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement.md",
+      "title": "New Microsoft Azure AD CTS feature can be abused for lateral movement",
+      "excerpt": "Microsoft's new Azure Active Directory Cross-Tenant Synchronization (CTS) feature, introduced in June 2023, has created a new potential attack surface that might allow threat actors to more easily spread laterally to other Azure tenants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2022/04/28/microsoft-azure-headpic.jpg",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/amp/",
+      "publishedDateTime": "2023-08-03T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-cloud-data-systems-and-edge-ai-make-a-major-impact-on-todays-data-science.md",
+      "title": "Cloud Data Systems and Edge AI Make a Major Impact on Today’s Data Science",
+      "excerpt": "Gartner outlines the top trends in machine learning and data science, including the impact of generative AI. Learn more about the top trends with our article.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr-gartner-machine-learning-data-science-trends.jpg",
+          "width": 1400,
+          "height": 931,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-these-cmu-robotics-research-projects-are-tackling-lanternflies-and-av-safety.md",
+      "title": "These CMU robotics research projects are tackling lanternflies and AV safety",
+      "excerpt": "Carnegie Mellon roboticists have spent the summer collecting data and fine-tuning their work. Check out three new discoveries.",
+      "sourceUrl": null,
+      "webUrl": "https://technical.ly/software-development/cmu-robotics-research-tartanpest-tartandrive/",
+      "originalUrl": "https://technical.ly/software-development/cmu-robotics-research-tartanpest-tartandrive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technical.ly/wp-content/uploads/2023/08/computer-vision2000x1000.png-e1691097228918.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technical",
+        "domain": "technical.ly",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-enhancing-aws-intelligent-document-processing-with-generative-ai.md",
+      "title": "Enhancing AWS intelligent document processing with generative AI",
+      "excerpt": "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhancing-aws-intelligent-document-processing-with-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/26/How-to-get-started.png",
+          "width": 936,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T14:03:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-04-amazon-web-services-aws-revenue-topped-22-billion-q2-2023.md",
       "title": "Amazon Web Services (AWS) revenue topped $22 billion Q2 2023",
       "excerpt": "Amazon (AMZN) reported its Q2 2023 earnings results on Thursday evening, within which the company revealed that its Amazon Web Services (AWS) revenue topped $22 billion despite the AWS segment making less profit than the prior year.",
@@ -707,469 +1162,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-bringing-the-power-of-watsonx-to-our-clients-with-ibm-consulting.md",
-      "title": "Bringing the power of watsonx to our clients with IBM Consulting",
-      "excerpt": "Talent, customer service and application modernization are three of the most high-impact use cases for generative AI that matter for business.\nThe post Bringing the power of watsonx to our clients with IBM Consulting appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/bringing-the-power-of-watsonx-to-our-clients-with-ibm-consulting/",
-      "originalUrl": "https://www.ibm.com/blog/bringing-the-power-of-watsonx-to-our-clients-with-ibm-consulting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-whats-under-the-hood-of-this-ai-revolution.md",
-      "title": "What’s Under The Hood Of This AI Revolution?",
-      "excerpt": "AI users interact with one side of the tech’s story, but the enablers—the ones building the backstage infrastructure technology and hardware—are equally valuable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f33fae78e26add3d640245e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/03/whats-under-the-hood-of-this-ai-revolution/amp/",
-      "publishedDateTime": "2023-08-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-good-bot-bad-boss-skills-data-ai-and-the-employee-trust-gap.md",
-      "title": "Good Bot, Bad Boss: Skills Data, AI, And The Employee Trust Gap",
-      "excerpt": "Lack of trust between employees and employers will undermine any effort to gather useful skills data. Here's what to do about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/allisondulinsalisbury/2023/08/03/good-bot-bad-boss-skills-data-ai-and-the-employee-trust-gap/",
-      "originalUrl": "https://www.forbes.com/sites/allisondulinsalisbury/2023/08/03/good-bot-bad-boss-skills-data-ai-and-the-employee-trust-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64cb9334a25f362dc0c6f9a3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/allisondulinsalisbury/2023/08/03/good-bot-bad-boss-skills-data-ai-and-the-employee-trust-gap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/allisondulinsalisbury/2023/08/03/good-bot-bad-boss-skills-data-ai-and-the-employee-trust-gap/amp/",
-      "publishedDateTime": "2023-08-03T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai.md",
-      "title": "Sanjeev Mansotra on revolutionizing education sector of Africa with the power of AI",
-      "excerpt": "African education might undergo a revolution with the aid of artificial intelligence (AI), which can solve major problems and generate game-changing chances for growth and learning. A lack of finances,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/",
-      "originalUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230803104707.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/?amp",
-      "publishedDateTime": "2023-08-03T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-biotech-companies-are-ripe-for-machine-learning-adoption.md",
-      "title": "Biotech Companies Are Ripe For Machine Learning Adoption",
-      "excerpt": "The ability for machine learning to study fundamental aspects of biotechnology data and bring to life new concepts is where its power and advantage sits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca698bfa66b94eb249769f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/biotech-companies-are-ripe-for-machine-learning-adoption/amp/",
-      "publishedDateTime": "2023-08-03T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-vsbltys-ai-technology-protects-one-of-americas-largest-synagogues.md",
-      "title": "VSBLTY'S AI TECHNOLOGY PROTECTS ONE OF AMERICA'S LARGEST SYNAGOGUES",
-      "excerpt": "Intelligent Perimeter Security Shield Deployed Around the SynagoguePHILADELPHIA, Aug. 3, 2023 /PRNewswire/ -- VSBLTY Groupe Technologies Corp.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vsblty-s-ai-technology-protects-one-of-america-s-largest-synagogues-1032512087",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/817114/VSBLTY_Logo.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence.md",
-      "title": "Eight MarTech Services To Prepare Your Company For Competition In The Age Of Artificial Intelligence",
-      "excerpt": "To be truly effective, MarTech must create memorable customer experiences that drive engagement and loyalty. MarTech experts can work closely with your in-house or agency experience designers to help, with assistance from AI, define your user personas, understand their needs and preferences and then deliver experiences of value—and even delight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca9c18a28ed4c8c9a5d57e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-08-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models.md",
-      "title": "The Secret Sauce Of AI Companies: The Importance Of Human-Annotated Data In High-Performing Machine Learning Models",
-      "excerpt": "A critical component in the data annotation process is quality assurance. Despite the advances in machine learning and AI, the human touch in reviewing and verifying data remains paramount. The complex nuances, context understanding and creative interpretations that human intelligence brings to the table can't be entirely replicated by machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/612cd9b4f42bed4cf122c801/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
-      "publishedDateTime": "2023-08-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung.md",
-      "title": "AI chip maker Tenstorrent raises $100 million from Hyundai and Samsung",
-      "excerpt": "Tenstorrent closes $100M up-round led by Hyundai Motor Group and Samsung Catalyst Fund to accelerate AI chip and ML software development. Funding will help the company design and develop AI chiplets and strengthen Hyundai Motor Group's capabilities in AI tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/",
-      "publishedDateTime": "2023-08-03T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-facebook-launches-ai-powered-music-generator.md",
-      "title": "Facebook launches AI-powered music generator",
-      "excerpt": "Facebook-owner Meta Platforms has launched AudioCraft — an artificial intelligence (AI) powered music generator — offering realistic audio and music from text. The generator is based on three ...",
-      "sourceUrl": null,
-      "webUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
-      "originalUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
-      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/software/502996-facebook-launches-ai-powered-music-generator.html/amp",
-      "publishedDateTime": "2023-08-03T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyBroadband",
-        "domain": "mybroadband.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
