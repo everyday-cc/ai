@@ -1,10 +1,10 @@
 ---
 category: news
 title: "US is Doubling Down on AI Chip Exports to China, Leaving Consumer-Level Chips Alone"
-excerpt: "The U.S. is back at it again, this time tightening the screws on AI chip exports to China. According to insiders, new rules are on the horizon, aimed at stopping American chip companies from sidestepping existing export controls. What makes this ..."
-publishedDateTime: 2023-10-16T01:41:00Z
-originalUrl: "https://www.gizmochina.com/2023/10/16/us-is-doubling-down-on-ai-chip-exports-to-china-leaving-consumer-level-chips-alone/"
-webUrl: "https://www.gizmochina.com/2023/10/16/us-is-doubling-down-on-ai-chip-exports-to-china-leaving-consumer-level-chips-alone/"
+excerpt: "The added regulations could either safeguard U.S. technological advancements or add another layer of complexity to U.S.-China relations."
+publishedDateTime: 2023-10-16T01:37:00Z
+originalUrl: "https://www.gizmochina.com/2023/10/16/us-china-ai-chip-exports-scene/"
+webUrl: "https://www.gizmochina.com/2023/10/16/us-china-ai-chip-exports-scene/"
 type: article
 quality: 78
 heat: -1
@@ -134,6 +134,20 @@ related:
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697170671828.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "US rule to restrict AI chip shipments to China in final review"
+    excerpt: "According to a U.S. government posting, a rule restricting shipments of specific advanced chips to China has been revised and is under final review"
+    publishedDateTime: 2023-10-14T21:33:00Z
+    webUrl: "https://www.malaysiasun.com/news/273999490/us-rule-to-restrict-ai-chip-shipments-to-china-in-final-review"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
     quality: 54
     images:
       - url: "https://cdn.bignewsnetwork.com/cus1697170671828.jpg"
@@ -310,6 +324,6 @@ related:
       domain: techreport.com
     quality: 28
 
-secured: "0e26NMio7hhj7JkdQqAGTTE4c2cn/9QhfkB8ukXmxozOJBOBLJwZJ26N91JzDXqU6Nzoto1QuCdJ2V8bTnWjke/0WHxboZaWR0gsGqfbPh/8qpFk4HmZGL4mzv773JR9DXcrP0BEp/HM/6DXqw43ipZmnLSO9Mfw1vHBVRpXECb7F/kw9Hxato6/YdGnQgo6Whxrqv+YgcV1q1Cir/mG1d1g+KcFEVBQBPete3giDs+5QckdP+TXEkK6z7pPbgxChSZRxItsulmwlFoUfE50ytwxgKusZus1qd/tzYva6ld5bm4T2KD4rgwv0wDOM/SY2HdLUfQxm14U05GdZHLwCHtM4sbuBCNDNRFkRZcuh0w=;UarHkKTCdtctopGCK2P25g=="
+secured: "DgidNj2Fokf2HzPXEOZ6yXLhqSWz1TyRjgDhXF82swV+qH2TPupAsmi6NHojOQUgDG9CqsWDeHiHwRM09sYigO0cH1tBy4+Dq+iWsTOu14KpFr9y9gVIUZCrJEJT0oIk7eU8F3CQR4gKMDRJyT0hFZwnsa0H6U/qFC+SL6FFUIZD4rXKbhCpeaEiKmSvIgwnDsogLPLqojyNGFUM+/7TntbwxszufZLHwavSKq+fbNOKH10B6/KEbV5sUIGlByuME5mHQPtZPa0KjJBk0vgrL5GzL+klPJgvvrdycm8QM2GXrghfIr29iMshGEnbLYJoOXD3TuyoSdgSt8X8W2Cn08Rv+BFkxIvDKTmxenzPgl4=;cxabKLslvyoAV5q0vfo58w=="
 ---
 

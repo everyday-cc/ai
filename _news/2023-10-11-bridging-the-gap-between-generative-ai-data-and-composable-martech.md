@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Stability AI Introduces Stable Audio: A New Artificial Intelligence Model That Can Generate Audio Clips From Text Prompts – MarkTechPost"
+    excerpt: "Stability AI has unveiled a groundbreaking technology, Stable Audio, marking a significant stride in audio generation. This innovative solution addresses the"
+    publishedDateTime: 2023-10-16T02:55:00Z
+    webUrl: "https://www.inferse.com/756537/stability-ai-introduces-stable-audio-a-new-artificial-intelligence-model-that-can-generate-audio-clips-from-text-prompts-marktechpost/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 19
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9812.png"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "00cATcFPQTjtEOLKpw1DBVQ8VfIjnrH8F5N2/h8elBxH5Qy5W65YItCFyqzsoH+rUzDMvLvf8gZxiMh0oDRV1/VkAcYO8spGegd9ToFkA0tA6mEv5zSB83OcjFmdH5FPTz86WT75JddVcctaTFRnVfAV+68LBNnNmvPYaAqb8h/3ROYQMuFtuORAGHZzCGevCvUHSY6nz+S7L5b9M49N6OmjcunEItRGRxKfWMDnVuuA1ZibQOT4B+5rBCfuACj4l9dByMgavuCyUuotL91LOIPw0T5IjSnMhAojnnR+IVbMtXTlVUxBPk9LqyFP+VHCqvLo4Jt/Y9AMsPD/PpMVyebKg5u9kxc0srCuqMKsEbc=;3GBtopQLkCxekRUGxS14yg=="
 ---

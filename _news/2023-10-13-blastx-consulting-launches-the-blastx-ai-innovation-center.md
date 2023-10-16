@@ -63,15 +63,6 @@ related:
         width: 999
         height: 1000
         isCached: true
-  - title: "These 7 Stocks Are Leading the AI Pack"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
-    publishedDateTime: 2023-10-11T10:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/these-7-stocks-are-leading-the-ai-pack-1032695805"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
     excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
     publishedDateTime: 2023-10-12T18:08:00Z

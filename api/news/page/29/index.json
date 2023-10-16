@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-09-22-artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030.md",
+      "title": "Artificial Intelligence Robotics Market Size, Growth & Trends Report [2023-2030]",
+      "excerpt": "The Global Artificial Intelligence Robotics Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34815315/artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34815315/artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-how-ai-can-help-boost-inclusion-across-the-fintech-industry.md",
       "title": "How AI Can Help Boost Inclusion Across The Fintech Industry?",
       "excerpt": "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ...",
@@ -1132,57 +1175,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-next-major-windows-update-is-available-september-26-with-new-ai-and-not-ai-features.md",
-      "title": "Next major Windows update is available September 26, with new AI (and not-AI) features",
-      "excerpt": "NEW YORK—Microsoft will be releasing its next major Windows update with \"over 150 new features\" later this month, the company announced in a presentation today. The update furthers Microsoft's crusade to tuck generative AI into all of its products, though as usual, it makes a ton of smaller iterative changes to the OS and its apps.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/paint_cocreator_print-980x613.jpeg",
-          "width": 980,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/",
-      "publishedDateTime": "2023-09-21T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

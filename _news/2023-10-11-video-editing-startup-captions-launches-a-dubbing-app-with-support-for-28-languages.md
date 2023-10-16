@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2023/10/11/video-editing-startup-captions-l
 webUrl: "https://techcrunch.com/2023/10/11/video-editing-startup-captions-launches-a-dubbing-app-with-support-for-28-languages/"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "UK startup RoEx launches Automix AI-powered mixing service"
-    excerpt: "AI mastering has been around for a while, but the AI mixing market is heating up now too. The latest example comes from British startup RoEx and is called Automix. It’s aimed at musicians,"
-    publishedDateTime: 2023-10-11T09:18:00Z
-    webUrl: "https://musically.com/2023/10/11/uk-startup-roex-launches-automix-ai-powered-mixing-service/"
+  - title: "A London StartUp Launches an AI Tool that Replaces the Traditional Way of Putting Bids Together"
+    excerpt: "The London – based startup AutogenAI built an AI assistant that helps businesses to write compelling proposals and tenders in minutes, replacing the traditional way of putting bids together and saving time and headcount."
+    publishedDateTime: 2023-10-13T05:04:00Z
+    webUrl: "https://iblnews.org/a-london-startup-launches-an-ai-tool-that-replaces-the-traditional-way-of-putting-bids-together/"
     type: article
     provider:
-      name: Music Ally
-      domain: musically.com
-    quality: 37
+      name: IBL News
+      domain: iblnews.org
+    quality: 25
     images:
-      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2023/10/RoEx-Automix.jpg?fit=1200%2C675&#038;ssl=1"
-        width: 1200
-        height: 675
+      - url: "https://iblnews.org/wp-content/uploads/2023/08/autogenAI-696x381.jpg"
+        width: 696
+        height: 381
         isCached: true
 
 secured: "dYv3wA/9g2XqHrllrRP+ovroxF35IcS0POFfYyfyjq6rV/9NGLHirhB1V1bke/wquiQUiN6X1L7WjezJRNuVTz9yoG1tupVLyN9rkvg2W1oiCgMYPX4QpntX9+x/OAXxRJSMwZSCNU92g8WXcqA1gJ8l6KY0ByhfhbvJnJEnyeHCD2xbMcuaDQf+jF/CyYbyk5zRTVDMb0Q0k9Ny1m4QWBteEChm7GXsBzVgOZc3o+ddiD5Q/xt6MdKCEyXpqs/4RH85P/CXsgJHspcNSo6qAsJKRXQYSFUdlbz5/oD1H4dp/B/hooUYxmlJzuPjNmnwmNkz39LonU438RATUBCOYOG+yg/zAyTT1txkA/mbsO0=;gRQwMkcbeRaW2iz/ndq89A=="

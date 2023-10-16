@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-s
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,93 +24,6 @@ images:
     width: 790
     height: 496
     isCached: true
-
-related:
-  - title: "Edge AI: The AI No One Is Talking About"
-    excerpt: "Edge AI isn’t a type of algorithm in and of itself, but it's about where AI happens, regardless of the algorithm in question."
-    publishedDateTime: 2023-10-11T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Why Medium is opting out of AI"
-    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
-    publishedDateTime: 2023-10-11T14:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Techno-plasticity in the Age of Artificial Intelligence"
-    excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
-    publishedDateTime: 2023-10-14T18:13:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Why AI Is Forcing Startups To Chase a Mirage"
-    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
-    publishedDateTime: 2023-10-15T07:46:00Z
-    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The Increasing Impact of Artificial Intelligence on Energy"
-    excerpt: "Artificial intelligence (AI) has the potential to speed up coding, make driving safer, and reduce the time required for routine operations."
-    publishedDateTime: 2023-10-11T15:19:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14367"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 37
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14367_16970374611364076.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Why the Gaming Industry is perfect for AI Training"
-    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
-    publishedDateTime: 2023-10-14T16:01:00Z
-    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
-    type: article
-    provider:
-      name: tech-ish.com
-      domain: tech-ish.com
-    quality: 19
 
 secured: "wJg7sNcyx0SOIyZYmO25j6sTah5KG+kb8YXXwsSD6ZJa21uaEwBnrmgeMZUw7iaw58CIa5Xj5+950pTXtxMy8U0YQMcswlNhEcyTmaMIg3qw8BHKc4OFjbRlxvLIUWHcRDgSSKHVBPeB9Q9MwMrTpYiAfYRGUpYkq5X3WY2XF37Ch27pje/U1fIefP0XMswq7TZd/d0+TtAk4Q1oONjde/WrR+xcPsEZrFhkxIZCz8tHbCcFGR97uTD5cjnlG1wJx7w1frG96NZSR+/KWtVmcIuBWVdNnCej9NlkI872wDB5mh4tRh6wtkli6AlHIPnpsHHRazz2/aGgYoddzYGcgd7bV55sKE1R2W2hthOlVC5WkdotfhpFfMOxqNU2x5fj0DAgZMXjirIZ531RyvWImi9Dn56Ex7D4HZoheSwFEPLOUvWB6Ko44evCpmwOzQRsIZa0McFHzYspYZ8bUHdVOwj//ZbnVHJTjmI0rnMIONLL4ajx/Wms7FIUXBelv0Zx7t29mFe9YUt3HIrASXY5YQ==;GIoUPZZDDwduzcG31qK7Kw=="
 ---

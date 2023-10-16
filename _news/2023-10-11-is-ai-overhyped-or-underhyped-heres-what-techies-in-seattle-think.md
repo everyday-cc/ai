@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2023/is-ai-overhyped-or-underhyped-heres-
 webUrl: "https://www.geekwire.com/2023/is-ai-overhyped-or-underhyped-heres-what-techies-in-seattle-think/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1204
     height: 1208
     isCached: true
-
-related:
-  - title: "Charlie Munger Thinks That Artificial Intelligence (AI) Is Overhyped. Is He Right?"
-    excerpt: "Last week, Munger spoke at Zoom Video Communications ' Zoomtopia conference in San Jose, California. He stated at the conference that he thinks artificial intelligence (AI) is overhyped. Is Munger right?"
-    publishedDateTime: 2023-10-11T09:53:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/11/charlie-munger-artificial-intelligence-ai-overhype/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 76
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/750359/ai-robot-business-people.jpg"
-        width: 2119
-        height: 1414
-        isCached: true
 
 secured: "VMNki1XVi+axOBVymKxTWpyFNw6fyLxMXJas9s3t8QO4rhisDIWWVi9J9SL/pzcLWp5Jyb1O66pfnsQmFkGHArAHzolmxqab839cosPzRumihloh4dyJwhi7iLD2zqDQiCPCaFOPZfcMdN5essMUyq04ObupI1wTZIRbb275f/uz7bMWraMnvUv+GAB6Gsn5kqXGd3MrfL901gPSV7QM4wKnQ2khc1HTynpo8g25nf5A95301h+4f02mcoqsQZT+lDzs2IaDVsTxQwH4jGyHRLAbZe1SaLd9zwmuBBE6XeMnvlbG4QjxMHHxjNH6SOqPVjJfXRtzCIKKGzZVJIUgG0OQnSmEffGoxll4N6TEmaw=;cifDLhz3r6mj5TjZj8EXGw=="
 ---

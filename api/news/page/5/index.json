@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
+      "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
+      "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
+      "originalUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
+      "publishedDateTime": "2023-10-11T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-arangographml-simplifying-the-power-of-graph-machine-learning.md",
       "title": "ArangoGraphML: Simplifying the Power of Graph Machine Learning",
       "excerpt": "Next-generation graph data and analytics platform now with machine learning and data science features to accelerate innovationSAN FRANCISCO, Oct.",
@@ -147,7 +199,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/bridging-the-gap-between-generative-ai-data-and-composable-martech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1175,58 +1227,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
-      "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
-      "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6525d31e5fc01b0602309957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1306,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
-      "publishedDateTime": "2023-10-10T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

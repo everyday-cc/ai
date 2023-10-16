@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaiss
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
+    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
+    publishedDateTime: 2023-10-16T03:06:00Z
+    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 52
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Carta Healthcare survey results indicate that education around AI may improve consumer trust"
     excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Carta Healthcare®, a company whose mission is to improve patient care by harnessing the value of clinical data, today announced the results of a survey measuring American perception and trust of artificial intelligence (AI ..."
     publishedDateTime: 2023-10-12T13:42:00Z

@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2023-09-19-netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence.md",
+      "title": "Netanyahu talks to Elon Musk in California about antisemitism on X and artificial intelligence",
+      "excerpt": "Israeli Prime Minister Benjamin Netanyahu kicked off a U.S. trip in California to talk to billionaire businessman Elon Musk about antisemitism on his social media platform X — while Musk",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/partners/ap/business/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/article_a6e09cad-6926-5e5d-921f-5a03e748fac9.html",
+      "originalUrl": "https://omaha.com/partners/ap/business/netanyahu-talks-to-elon-musk-in-california-about-antisemitism-on-x-and-artificial-intelligence/article_a6e09cad-6926-5e5d-921f-5a03e748fac9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/3/11/3119cde9-8a22-5ecf-b424-46b7a1a0784f/6509d3f080366.image.jpg?crop=1921%2C1009%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-18T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-natwest-issues-four-year-message-to-anybody-with-an-account-and-says-it-starts-today.md",
       "title": "NatWest issues four-year message to anybody with an account and says it starts today",
       "excerpt": "The high street bank says it is expanding its collaboration with Amazon Web Services, Inc. (AWS) to accelerate the use of artificial intelligence (AI). Natwest is improving its security measures ...",
@@ -1137,50 +1180,6 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-facial-recognition-scanners-in-supermarkets-security-measure-or-privacy-invasion.md",
-      "title": "Facial Recognition Scanners in Supermarkets: Security Measure or Privacy Invasion?",
-      "excerpt": "Major supermarkets such as John Lewis, Co-op, Waitrose, Next, Tesco, and Sainsbury's are joining forces with the police in a new data-sharing initiative called Project Pegasus. These retailers are collectively contributing £600,",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "originalUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2023/09/thom-bradley-Vi7qXASPu4g-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/facial-recognition-supermarkets-security-measure-privacy-invasion/amp/",
-      "publishedDateTime": "2023-09-18T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

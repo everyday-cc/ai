@@ -60,15 +60,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 4
-  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
-    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
-    publishedDateTime: 2023-10-14T11:42:00Z
-    webUrl: "https://www.aol.com/voice-referendum-australias-voice-parliament-150649043.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
   - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
     excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
     publishedDateTime: 2023-10-12T13:53:00Z

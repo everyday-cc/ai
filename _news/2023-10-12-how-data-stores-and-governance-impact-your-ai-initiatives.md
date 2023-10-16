@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-you
 webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_1739491604-100947060-large.jpg?auto=webp&quality=85,70"
         width: 1199
         height: 622
-        isCached: true
-  - title: "The impact of generative AI on the AV industry"
-    excerpt: "Electrical also has a chronic shortage of skilled workers. This is where the employment picture becomes more nuanced and less gloomy. Electrical contractors and design firms are using generative AI not because they want to reduce staff but rather because they can’t find enough qualified people in the first place. Sound familiar?"
-    publishedDateTime: 2023-10-11T09:43:00Z
-    webUrl: "https://www.inavateonthenet.net/features/article/the-impact-of-generative-ai-on-the-av-industry"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_1024,c_scale/c_crop,g_custom/w_1024,c_scale/v1697017458/widgetdocs/shutterstock_2309557517_jp4lut.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "EeQQTsL5D1muWMGBPEInhHNZ+PgWy4+IIiMxNaALokWSC5ZfwzYnPYJVim9oyY3x+mAWRamLU0DxDb31B8lqU+H2FboeA6dbTvUjRVL3gHv4wMksYbGS72+45EEr5Xb8R4BbqePLBruDHuRG2g3Pnj0+P7leQWb9X2AIFqzrURwiwegASZb7stbvdjaP9MMCiHqYRfXC5nm+ElREH8LFldHXZVpBnrwDo1Jt605UULJJkTuAqUzEaxN+wq7UtbT5sUJx3kLWoFF3KPaNsxs1pFOgkr1UM7mmP39Ti2kw4k59k4ob4h29rLFxsIvtoT2d7c8XJNdWKgANZ0dSD7V5bh+nhflgJRGoFoXEvLNLkkU=;SePaOgvd9ygWxKEMm8ytlg=="

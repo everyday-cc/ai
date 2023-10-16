@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
+      "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
+      "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6525d31e5fc01b0602309957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1306,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "publishedDateTime": "2023-10-10T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review.md",
       "title": "Sony brings AI to InZone gaming headset and ear buds — review",
       "excerpt": "Sony has added AI smarts to its latest generation of InZone H5 gaming wireless headset and its new InZone Buds.",
@@ -1137,40 +1189,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ai-animation-art-therapy-and-the-importance-of-childlike-creativity.md",
-      "title": "AI animation, art therapy and the importance of childlike creativity",
-      "excerpt": "Do you think the future looks bleak? As our lives advance - along with our technology - will we become less creative? Ari Kuschnir, Founder and Managing Partner at m ss ng p eces, thinks not. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://shots.net/news/view/ai-animation-art-therapy-and-the-importance-of-childlike-creativity",
-      "originalUrl": "https://shots.net/news/view/ai-animation-art-therapy-and-the-importance-of-childlike-creativity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "shots",
-        "domain": "shots.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

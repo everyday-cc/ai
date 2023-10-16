@@ -64,15 +64,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 4
-  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
-    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
-    publishedDateTime: 2023-10-14T11:42:00Z
-    webUrl: "https://www.aol.com/voice-referendum-australias-voice-parliament-150649043.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "FGddye+qv5Ffa/jeLTlmhLPcgbnkSxcl6ZH5MmbtRsZXT/GohZPIrH31Dm9oYCjGoioWb6C9bhqrFOD5SXIhs2qWycw3BYFuwS4d5/wkBgRln1zSeul0t84Kf6tPWiypX6hoCtbLdLp4tWWBwdVOZNBh1RvZTC9AMCFJfeHpDLaWIAYlI8tMZTa6806Or7UOfhA73MXckNe7n2Of6aTkWYGL81lxYXL/XJ+uBGJ9SoGzWsz9DUrbIFiDT6D5X/F6r2f1VkzpS6R30Qhh5p1cC/vLyUdlYBR2qsny8901/ZU3pNk4RSIUbV5DYLUN7FEg1QxFUov/lV7e15tBpUktguCUJFsSvSKzdMdhhPzKzxOHVVrKK1hPjak7F9xy4MyfzFQ7mhpqsUoNI8Ti/MKcibT10H63algRNZ+LuqXDU+ZUlSdH7fWdA6t24Ebl4DttMWqbCdq3UH+p296NDdgZY2zKMku5o22TAxREFVwFP+ChBaI7YcffeEdkbds6zrc2yFtWwxmcl2YJnzkwmCKQGQ==;rwSjnACmaNPGeKbuEkvSbQ=="
 ---

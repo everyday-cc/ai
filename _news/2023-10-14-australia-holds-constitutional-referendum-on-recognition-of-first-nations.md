@@ -9,7 +9,7 @@ ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-refere
 cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,29 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "F5 Warns Australian IT of Social Engineering Risk Escalation Due to Generative AI"
-    excerpt: "F5 says Australian IT teams could be soon caught between generative AI-toting bad actors and enterprises guarding data with AI."
-    publishedDateTime: 2023-10-11T09:32:00Z
-    webUrl: "https://www.techrepublic.com/article/f5-generative-ai-cybersecurity-interview/"
+  - title: "Anthony Albanese makes impassioned final plea as more than 9 million Australians still to vote in Voice referendum"
+    excerpt: "The prime minister delivers his most fervent plea yet for the Yes campaign, as more than 9 million people head to the polls to vote in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-14T00:45:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-14/nine-million-australians-still-to-vote-in-voice-referendum/102976642"
+    ampWebUrl: "https://amp.abc.net.au/article/102976642"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 62
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 22
     images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2020/02/securityrisk.jpg"
-        width: 1200
-        height: 800
+      - url: "https://live-production.wcms.abc-cdn.net.au/d7684ea097300836ad54963dd334f97a?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
         isCached: true
-  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
-    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
-    publishedDateTime: 2023-10-12T12:05:00Z
-    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
+  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
+    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-16T01:07:00Z
+    webUrl: "https://thethaiger.com/world/news/560427/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 22
+    images:
+      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
+    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
+    publishedDateTime: 2023-10-14T09:28:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 18
+  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
+    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
+    publishedDateTime: 2023-10-14T11:42:00Z
+    webUrl: "https://www.aol.com/voice-referendum-australias-voice-parliament-150649043.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
+    excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
+    publishedDateTime: 2023-10-15T20:30:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indegnous-leaders-summit-to-seek-new-way-to-constitutional-recognition/news-story/3d85ead548dcb1fefef43640ee8553c6"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "vwSALPL8+CGHbsk9zeVJH4igXcUc0d3T9LCec6Qdtst9NHopeIB85VDG47H6PUIGVa8m/OaunoV6KrSXjhJOOWM6trnB+77pT0uqwBNc8hiWfrLYAn9xWkHl6REeUwa9d2zELL1yQJnBfke3NIB/Tjlm43GE0wqkxrRAlJL7nmjMHHAn9Ihrufd/Br9o1HpNJ4y3EN6UYIrV+cSiVwJatSqPkzrjIL4XuIJFXz+fKBD2UQ7b2IzG27RpN77VVRA7KcC+JPTXWzY6YVnabo320XFtq9P/4+cAyrvVQytMtq9Zzdhb9GaDVp+LhUjshf5tzFrlGEvWFkXR+WR+1DGO9wFtkzVryLdnR+nvdb30wVgIx0EuHhsvCV5Xcc/1vbEKhdvQH3C9zI0qI73eCN3JMURYCxvn1Gn1LXqQcEFkYPY9NRzUxx9cFKJRWPQGolpJZoZ0BWnCpe2OhUCh0STzLSWaj8nRPEv5HCo0qi2e+eN8ayB9Ki87M6CLsNkAaffEJjTclWo+Fv5Ix0PYY2SGfA==;aNEc5bygkjOqMDSwbn5Vyg=="
 ---

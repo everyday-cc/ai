@@ -68,9 +68,9 @@ related:
         height: 630
         isCached: true
   - title: "US is Doubling Down on AI Chip Exports to China, Leaving Consumer-Level Chips Alone"
-    excerpt: "The U.S. is back at it again, this time tightening the screws on AI chip exports to China. According to insiders, new rules are on the horizon, aimed at stopping American chip companies from sidestepping existing export controls. What makes this ..."
-    publishedDateTime: 2023-10-16T01:41:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/16/us-is-doubling-down-on-ai-chip-exports-to-china-leaving-consumer-level-chips-alone/"
+    excerpt: "The added regulations could either safeguard U.S. technological advancements or add another layer of complexity to U.S.-China relations."
+    publishedDateTime: 2023-10-16T01:37:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/16/us-china-ai-chip-exports-scene/"
     type: article
     provider:
       name: Gizmochina
@@ -135,6 +135,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/AdobeStock_627078046_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "US rule to restrict AI chip shipments to China in final review"
+    excerpt: "According to a U.S. government posting, a rule restricting shipments of specific advanced chips to China has been revised and is under final review"
+    publishedDateTime: 2023-10-14T21:33:00Z
+    webUrl: "https://www.malaysiasun.com/news/273999490/us-rule-to-restrict-ai-chip-shipments-to-china-in-final-review"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697170671828.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "US aims to block AI chip export workarounds to China, official say"
     excerpt: "The United States will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration's upcoming actions to effectively block more AI chip exports."

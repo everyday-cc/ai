@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honeywell to showcase the latest 5g, machine learning and sensing innovations at Gitex 2023"
-    excerpt: "During the event, Honeywell will demonstrate solutions for retail, transportation & logistics, healthcare, oil & gas"
-    publishedDateTime: 2023-10-11T09:29:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 49
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NWYyMzctYjcwYS00/0/taylorsmith_honeywellsps_image-jpeg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Respond.io to Showcase New Artificial Intelligence (AI)-powered Solutions at GITEX Global 2023"
     excerpt: "including healthcare, IT and SaaS, logistics, e-commerce and education. Concurrently, respond.io will also participate in Expand North Star Dubai, the world's largest global startup event, held at Dubai Harbour in conjunction with GITEX Global 2023."
     publishedDateTime: 2023-10-12T11:08:00Z

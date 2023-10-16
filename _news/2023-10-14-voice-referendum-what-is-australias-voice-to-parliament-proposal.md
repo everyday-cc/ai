@@ -19,60 +19,72 @@ topics:
   - AI
 
 related:
-  - title: "Australia news live: Lidia Thorpe backs legislating voice to parliament if referendum is defeated"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-10-11T20:55:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine?topics=ORG%3ARN+Breakfast"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
+  - title: "Australia holds constitutional referendum on recognition of First Nations"
+    excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
+    publishedDateTime: 2023-10-13T23:16:00Z
+    webUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/"
+    ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 31
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 43
     images:
-      - url: "https://i.guim.co.uk/img/media/8bc342afb222fde07285f84bb5d286a8c71a9891/0_62_2032_1220/master/2032.jpg?width=620&quality=85&auto=format&fit=max&s=1d98309bde9475c6895a4be406bb063e"
-        width: 620
-        height: 372
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
+        width: 1024
+        height: 800
         isCached: true
-  - title: "Lidia Thorpe’s movement mobilising against Peter Dutton’s referendum without an Indigenous voice to parliament"
-    excerpt: "Outspoken independent senator Lidia Thorpe has revealed the Black Sovereign Movement is already mobilising against a Peter Dutton-led second referendum solely on constitutional recognition, as she calls for a South ­African-style truth and reconciliation commission to progress truth and treaty if Saturday’s voice referendum fails."
-    publishedDateTime: 2023-10-12T09:08:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
+  - title: "Anthony Albanese makes impassioned final plea as more than 9 million Australians still to vote in Voice referendum"
+    excerpt: "The prime minister delivers his most fervent plea yet for the Yes campaign, as more than 9 million people head to the polls to vote in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-14T00:45:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-14/nine-million-australians-still-to-vote-in-voice-referendum/102976642"
+    ampWebUrl: "https://amp.abc.net.au/article/102976642"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 22
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/d7684ea097300836ad54963dd334f97a?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
+  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
+    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-16T01:07:00Z
+    webUrl: "https://thethaiger.com/world/news/560427/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 22
+    images:
+      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
+    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
+    publishedDateTime: 2023-10-14T09:28:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 19
-  - title: "Lidia Thorpe walks back unexpected call on Voice referendum"
-    excerpt: "Lidia Thorpe says she’d support a legislated Voice to Parliament despite being one of the referendum’s most outspoken opponents."
-    publishedDateTime: 2023-10-12T15:39:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/lidia-thorpes-unexpected-call-on-voice-referendum/news-story/f4610e9d47fd7f3020d70325984a8fdc"
+    quality: 18
+  - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
+    excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
+    publishedDateTime: 2023-10-15T20:30:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indegnous-leaders-summit-to-seek-new-way-to-constitutional-recognition/news-story/3d85ead548dcb1fefef43640ee8553c6"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Lidia Thorpe’s unexpected call on Voice referendum"
-    excerpt: "Lidia Thorpe says she’d support a legislated Voice to Parliament despite being one of the referendum’s most outspoken opponents."
-    publishedDateTime: 2023-10-11T22:36:00Z
-    webUrl: "https://www.news.com.au/finance/work/leaders/lidia-thorpes-unexpected-call-on-voice-referendum/news-story/f4610e9d47fd7f3020d70325984a8fdc"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 4
-  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
-    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
-    publishedDateTime: 2023-10-12T13:53:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
 
 secured: "7PyROVinPVIjHNWF7fkUYFoVu39r2azMbyPtCW6+mqrDZjF6cSn6jkYgdTYgAwHpyq/vadEI+3l2JeSexcMS+tVx97QMty12tzvCXkN+QCYCPhhd6gOhhkCR40GgN+e4ZWSlXI5Rl5r9mzNxMSfjM3YzFHUoq1htQQPqWy3NehNKO/8g+ngdBHCaiu+Xcyd1HHF3nr971jvKFht4H6vXZfNHIKMaIpIZNoVhCf3yFICyhcHahQKLv6MTG0tv9rWVKOihCDbehgMFVtx63wuB9D59xzluJEXQHzRDiXTiJAB8aQZ9QFd/a0NMM1lCD0fP/vKHO4UJCz1PlDMgAJ7CHDDadEU24oM7uKRsj1xGBGM5ghRNJ87WwKFE1Crc79aIMgIZMLxvf0Cpqhmr4Z2DLuCeP993Lk+1Wf4xPfA/0nW2rZAVaNRBDlW+1+7+EySBBmuf8VpBE9YFGIh9Rhx8xrZuIiOHIsOOEvqZeM+1fRePpQpyX79L85USwVQthpkcNbA1Yi5hEAKiN+qP80+GrQ==;ErJmEYMroRDVXvtfrwtP0w=="
 ---

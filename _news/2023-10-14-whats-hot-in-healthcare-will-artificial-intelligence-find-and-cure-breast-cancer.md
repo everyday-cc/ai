@@ -35,6 +35,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
+    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
+    publishedDateTime: 2023-10-16T03:06:00Z
+    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 52
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Carta Healthcare survey results indicate that education around AI may improve consumer trust"
     excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Carta Healthcare®, a company whose mission is to improve patient care by harnessing the value of clinical data, today announced the results of a survey measuring American perception and trust of artificial intelligence (AI ..."
     publishedDateTime: 2023-10-12T13:42:00Z

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI: The AI No One Is Talking About"
-    excerpt: "Edge AI isn’t a type of algorithm in and of itself, but it's about where AI happens, regardless of the algorithm in question."
-    publishedDateTime: 2023-10-11T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Why Medium is opting out of AI"
     excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
     publishedDateTime: 2023-10-11T14:05:00Z
@@ -56,37 +40,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The AI Boom Could Use a Shocking Amount of Electricity"
-    excerpt: "Powering artificial intelligence models takes a lot of energy. A new analysis demonstrates just how big the problem could become"
-    publishedDateTime: 2023-10-13T11:11:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/"
-    ampWebUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
+  - title: "Artificial intelligence is disrupting higher education"
+    excerpt: "Traditional contact universities need to adapt faster and find creative ways of exploring and exploiting AI, or lose their dominant position."
+    publishedDateTime: 2023-10-13T07:29:00Z
+    webUrl: "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
     type: article
     provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 76
     images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/AE1CFA10-BB53-41CF-9D9F713DA1BA26B4.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "Techno-plasticity in the Age of Artificial Intelligence"
-    excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
-    publishedDateTime: 2023-10-14T18:13:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
-        width: 1528
-        height: 800
+      - url: "https://www.itweb.co.za/static/pictures/2023/09/Rennie-Naidoo-2023.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Why AI Is Forcing Startups To Chase a Mirage"
     excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
@@ -101,6 +69,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Educators Adapting to Artificial Intelligence"
+    excerpt: "A growing number of people are expressing concerns about the role artificial intelligence is playing in daily life. As students use this technology to complete their assignments, it poses a major chal"
+    publishedDateTime: 2023-10-11T15:29:00Z
+    webUrl: "https://www.erienewsnow.com/story/49816305/educators-adapting-to-artificial-intelligence"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 37
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25280886_G.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Why the Gaming Industry is perfect for AI Training"
     excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."

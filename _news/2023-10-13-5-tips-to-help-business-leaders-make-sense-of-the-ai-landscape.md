@@ -68,15 +68,6 @@ related:
         width: 999
         height: 1000
         isCached: true
-  - title: "These 7 Stocks Are Leading the AI Pack"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The hype surrounding generative artificial intelligence may have cooled from"
-    publishedDateTime: 2023-10-11T10:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/these-7-stocks-are-leading-the-ai-pack-1032695805"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
     excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
     publishedDateTime: 2023-10-12T21:00:00Z

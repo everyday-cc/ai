@@ -1,26 +1,28 @@
 ---
 category: news
-title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
-excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
-publishedDateTime: 2023-10-15T18:30:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2023-10-15/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins"
-webUrl: "https://www.bloomberg.com/news/articles/2023-10-15/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins"
+title: "TCS seeks to use Microsoft AI partnership to improve margins"
+excerpt: "Asia’s biggest outsourcer has deepened its collaboration with Azure OpenAI, the association between Microsoft and Sam Altman-led OpenAI. It’s also using cloud-based AI tool GitHub Copilot to offer solutions such as fraud detection to financial services clients or personalized customer services to retailers."
+publishedDateTime: 2023-10-16T02:51:00Z
+originalUrl: "https://www.deccanherald.com/business/companies/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins-2728124"
+webUrl: "https://www.deccanherald.com/business/companies/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins-2728124"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Deccan Herald
+  domain: deccanherald.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F3e9f7a41-1d70-475d-a86e-5e66ea3fb5db%2Ffile7scn49gf1ad19z30j33w.jpg?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
@@ -141,6 +143,6 @@ related:
       domain: inferse.com
     quality: 14
 
-secured: "bZ3VQJV0nNsmAjPWGIUMx205OQuY98bx6e8c0QUEK0ibRLaRxCDQkdCwvvkFGHcsG2dAGvq1NWmYFm61TbK/FwTR2idcogl4BeJf1H78jaOCCMMoPsnYPLeltEXf5wmvuuAXTXx2FjrNhBTi2ftxd3CROvwys/z7oWQZkbkDy7X0DlYlJjiS48fnf5LxdAcHmX3DyLvH5wqVnt/39hdlwiblMFp4bxCp2+qsF/eBDaPWDEEffpLZOSI/ISjiAvoYjxfkwQe8nRMUKQt9srrhUIn/UPKZJh0ArJbCbTxdtTiinRslXN28S6QSekgOT4F9NjrrGQVTRmBbcbwp6eNNi6iPCI6oCbw7lw1s/+lyHMravKvwNPZQknRaZavJcD073yiMqSBWuSITD0rDNGU3txes2t4KrdPC3bJM5+tLkQDLgdOAzaahMDTufe/2RJzJyEWQBflpjDrV6X3MAZl1C1xzopNHy2lojyO1Uhc8zgLi8WkMsjl19Xu5ngVQC6ly2+0TeWW6pDM3ne4qKiEtAw==;JabjUzhBacDibqVTy0Xxvw=="
+secured: "M7XiMqTQRqLQd6mERyNKGN+9AGjbO/7wJnT6h+Drydix3lfmpMIUa95QfH+qs8aElmKUprAOrtVVOr5t1uFWy+vmJ9zEA+J0bRcbyNkbwkjAvJd2WsJjT+MpqFgKRP2OvqhKFluUOLwYs3fYhhNpwtK0U8Bcp947raXcnYfUaCOlwCB3fIHuBVKHLXiAcXGk5s44R4/TDggyEKjg0ifj4U4+AVXv+fvJS8JfwVyv7M5TN9lEh5bxNgkUWi9hmu8St8Cmj7YFrGKgOl7PyxztJiS0i/Q7qdtV6CTymE4Io+D4546m6YEFr8G5kpw+esieVJNsmwWAwLCGFmF8MkIPnY6tf2pu4MLmDQZ3iJNEvHw=;ac4eCmwPyZbU9kU6Den3Ww=="
 ---
 

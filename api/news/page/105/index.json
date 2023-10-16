@@ -2,6 +2,49 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-08-01-flapmax-partners-intel-driving-ai-innovation-in-africa.md",
+      "title": "Flapmax Partners Intel: Driving AI Innovation in Africa",
+      "excerpt": "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "originalUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2023/08/resizedgg.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
+      "publishedDateTime": "2023-08-01T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-01-uber-driver-in-first-ever-deadly-self-driving-crash-pleads-guilty.md",
       "title": "Uber driver in first-ever deadly self-driving crash pleads guilty",
       "excerpt": "The backup driver in the self-driving Uber vehicle that killed a 49-year-old woman in Tempe, Arizona, in 2018 pled guilty to one count of endangerment and was sentenced to three years’ probation ...",
@@ -1157,58 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-uber-driver-behind-the-wheel-in-fatal-self-driving-vehicle-crash-pleads-guilty.md",
-      "title": "Uber driver behind the wheel in fatal self-driving vehicle crash pleads guilty",
-      "excerpt": "The Uber driver behind the wheel during the first reported fatal collision involving a fully autonomous vehicle pleaded guilty to endangerment on Friday, and was sentenced to three years of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty",
-      "originalUrl": "https://www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/12/06/1200/675/694940094001_5976076808001_5976063722001-vs.jpg?pubId=694940094001?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/uber-driver-behind-wheel-fatal-self-driving-vehicle-crash-pleads-guilty.amp",
-      "publishedDateTime": "2023-07-31T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

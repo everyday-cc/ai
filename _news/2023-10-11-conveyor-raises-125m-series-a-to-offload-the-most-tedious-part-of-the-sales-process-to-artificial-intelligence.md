@@ -36,6 +36,15 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Intento Unveils Enterprise Language Hub"
+    excerpt: "Intento, a leading machine translation and multilingual generative AI platform, unveils the latest upgrade, Enterprise Language Hub."
+    publishedDateTime: 2023-10-16T01:53:00Z
+    webUrl: "https://slator.com/intento-unveils-enterprise-language-hub/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "DMPOupF5zIbnP3qusFVOHoXLuU/1xxY+wl1JdGz8t8tzRYRh62oVbl6dOMdvwCkmCp9xtQkYNGpoGGpwmf3WXkdg12bDzBwb3PIjotLQ20bCFTNnhB/47HlB/H+mF7nskZhbvqB6g2O6oxLR+bICRzkBOL2xye+f1dSwFJHmB+Qrvkzp0fvG2a57H1Em1cQzX3uE4e+wQByGyS1mrNhq8XWIrZXL/orXjgbQaS14NgNVkklEgi9xpt6wB2UfsiBx0ZKpzj8akCKPWl7mg5Ec3eGzUeBi2vF/pVA5UMro19G99N2JGcrQWmSHf+5/owgEEbpvofpOPLQAwXQWTV+EOeSRAyu4AnRQB+YZcG6weNI=;xg4XvlL4pKtgxzF9/pE7Ug=="
 ---

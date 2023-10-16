@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Launches New AI Tools to Assist Healthcare Organizations"
-    excerpt: "Microsoft has introduced a line of new AI products aimed at helping healthcare organizations. The new AI tools have been developed in Fabric."
-    publishedDateTime: 2023-10-11T09:10:00Z
-    webUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/"
-    ampWebUrl: "https://www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/microsoft-ai-tools-healthcare/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 91
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/microsoft-ai-tools-healthcare.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Governments race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
     publishedDateTime: 2023-10-13T10:48:00Z

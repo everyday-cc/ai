@@ -2,6 +2,49 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2023-08-14-face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-application-2030.md",
+      "title": "Face Recognition Systems Market Research Report | Analyzes The Segments Data by Type and by Application 2030",
+      "excerpt": "Global Face Recognition Systems Market research report in order to help businesses understand the state of the market by different trends, research reports compile analyses and data from a variety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33845037",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33845037",
+      "publishedDateTime": "2023-08-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-florida-high-schools-to-teach-ai-courses-developed-by-uf.md",
       "title": "Florida High Schools to Teach AI Courses Developed by UF",
       "excerpt": "It said some students who participated in Osceola County last year received certification for Microsoft Azure AI, which is typically held by engineering and computer-science students and professional adults. Nancy Ruzycki, a professor at UF’s Herbert ...",
@@ -1102,57 +1145,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-is-generative-ai-destroying-the-internet.md",
-      "title": "Is Generative AI Destroying The Internet?",
-      "excerpt": "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
-      "publishedDateTime": "2023-08-13T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

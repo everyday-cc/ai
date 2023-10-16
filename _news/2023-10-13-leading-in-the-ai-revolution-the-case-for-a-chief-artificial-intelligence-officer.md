@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The AI revolution is coming. Invest in $10,000 handbags"
-    excerpt: "Analysis shows LVMH, Dior, Hermès and Gucci owner Kering have consistently outperformed Amazon, Google and Apple"
-    publishedDateTime: 2023-10-11T10:18:00Z
-    webUrl: "https://www.theguardian.com/business/nils-pratley-on-finance/2023/oct/11/ai-revolution-is-coming-invest-handbags-lvmh-dior"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
   - title: "Which Countries Are Positioned to Benefit From the AI Revolution?"
     excerpt: "Which countries are best positioned to benefit from deploying artificial intelligence (AI) over the next decade?"
     publishedDateTime: 2023-10-13T07:21:00Z

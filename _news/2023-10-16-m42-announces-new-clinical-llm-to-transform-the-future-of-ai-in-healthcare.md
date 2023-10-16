@@ -20,7 +20,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://www.thaipr.net/wp-content/uploads/2023/10/05-ยามาฮ่า-สานโครงการ-Road-To-The-World-Class-ส่ง-กฤตภัทร-ร่วมบิดโมโตทรี-ศึกไทยแลนด์-กรังด์ปรีซ์-ป-768x512.jpg"
+  - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
     width: 768
     height: 512
     isCached: true
@@ -50,6 +50,6 @@ related:
       domain: tmcnet.com
     quality: 34
 
-secured: "9uC0x4Wdc+tNtz3f06gaMlnH76y4Luk6iQiViu4Smi5suxCWYL62w8mfrbQCx71u/YGEGiayxTOEtUYwnWOu8kG99vva6vOEg7JGQuySH7fDP9DDfkFE2ci4s7+23B96IxsLBsmyE+5yHnfqWAVJxBgU7eluI3xfilKuuL0isRoKUIjHF8yUISCJlXgXw+dU4UBsEednLWMnYBs9cuWZoP4h0sVsnWtzk0L1w9ZzbKNffr5/2TZHSSRkXwYjtKhOscm/mEvuHl8QnCNIFLUp44AZIgFOchc1n+SxswhTPhvJJ7kGlal3Vt4WzQXMDnNuiGWJeaQe8jrKLZagySq0z1/GHvxHErDyhIxCWNc8MFU=;QNzXnjXpq1bVEwrkKEisMg=="
+secured: "AnfrMmnp76oMUC33/rnHzMQL2JHbfZvf3UYSPe/P6WJQH/ZKMIso5kncLqnidAhlnx2bSsl5wVct5HHuZcFaOhshDPPcEZn8vl9B9G2xYyRgvYSFXHCyAsfKFNBP+y1Y+V2hweMQ0m4WEHOMP5uN08k79Q5WqfwEjqIDAmfYxO/hN/9n5zTOHTlnoPxrC5udTyY+EFMVgMeKtJ0jcNhucdKblCrGi6YJZsKcgckG5nvmv0fcvQRl6ayDMeyvpCg5rZWeK7V2OC+RSU0M3jOLxzQ8r80WOL4GwneH9oq6HDqNKkOPcwj8CmybVieV+6pJd9aGtMJ3uJxnJOM1wu3degc7pL/jpbTRXbUvGYnVHRY=;KyJKs6Eu57Fw5FL0pTQ2Qw=="
 ---
 

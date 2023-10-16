@@ -2,6 +2,60 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-09-26-a-primer-on-artificial-intelligence-and-cybersecurity.md",
+      "title": "A Primer On Artificial Intelligence And Cybersecurity",
+      "excerpt": "Digital generated image of artificial intelligence robot touching projected screens with data ... [+] against black background. The topic of artificial intelligence's rising involvement in our digital world and its associated opportunities and challenges ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65136c483c1ec607ff1b2d66/0x0.jpg?format=jpg&width=1200",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/09/26/a-primer-on-artificial-intelligence-and-cybersecurity/amp/",
+      "publishedDateTime": "2023-09-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-artificial-intelligence-promises-to-change-the-way-health-care-works.md",
       "title": "Artificial intelligence promises to change the way health care works",
       "excerpt": "They are also foundations of artificial intelligence ... algorithms and other forms of AI in order to assist health-care providers with decision making and, crucially, to predict who is ...",
@@ -1013,49 +1067,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-machine-learning-unravels-mysteries-of-atomic-geometry.md",
-      "title": "Machine learning unravels mysteries of atomic geometry",
-      "excerpt": "New research has used machine learning to find the properties of atomic pieces of geometry, in pioneering work that could drive the development of new results in mathematics.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
-      "originalUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/machine-learning-unrav.jpg",
-          "width": 1350,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-unravels-mysteries-atomic-geometry.amp",
-      "publishedDateTime": "2023-09-25T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

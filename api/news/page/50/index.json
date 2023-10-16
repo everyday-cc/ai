@@ -2,6 +2,48 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-09-08-politics-and-ai-google-to-require-artificial-intelligence-disclosures-on-ads.md",
+      "title": "Politics and AI: Google to require artificial intelligence disclosures on ads",
+      "excerpt": "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/",
+      "originalUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp",
+      "publishedDateTime": "2023-09-07T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIRO-TV",
+        "domain": "kiro7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-artificial-neural-networks-market-size-2023-booming-worldwide-by-2031.md",
       "title": "Artificial Neural Networks Market Size 2023 Booming Worldwide by 2031",
       "excerpt": "Global Artificial Neural Networks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.Ask for ...",
@@ -1133,58 +1175,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
-      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-      "excerpt": "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "originalUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
-      "publishedDateTime": "2023-09-07T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

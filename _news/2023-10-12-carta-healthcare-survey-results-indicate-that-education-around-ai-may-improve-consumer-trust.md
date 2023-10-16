@@ -36,6 +36,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
+    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
+    publishedDateTime: 2023-10-16T03:06:00Z
+    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 52
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
     excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
     publishedDateTime: 2023-10-14T13:06:00Z

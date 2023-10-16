@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-10-06-daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics.md",
-      "title": "Daniel Theobald on funding early startups and the future for ag robotics",
-      "excerpt": "On this episode, we catch up with mobile robotics veteran Daniel Theobald and talk about his latest adventures with ag robotics and startup consulting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics/",
-      "originalUrl": "https://www.therobotreport.com/daniel-theobald-on-funding-early-startups-and-the-future-for-ag-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/Daniel-theobald-farm-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-05-3-unstoppable-robotics-stocks-that-will-make-early-investors-rich.md",
       "title": "3 Unstoppable Robotics Stocks That Will Make Early Investors Rich",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics does not necessarily have to look like in the movies, where you have",
@@ -1390,6 +1347,59 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-navigating-the-evolving-landscape-of-robotics-ai-and-self-driving-cars.md",
+      "title": "Navigating the Evolving Landscape of Robotics, AI and Self-Driving Cars",
+      "excerpt": "What’s happening in robotics, artificial intelligence and autonomous navigation? In this session at TechCrunch Disrupt 2023, experts provided context and insights on a variety of fronts, including pure-play L4 and ADAS-first approaches for self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/helm-ai-company/navigating-the-evolving-landscape-of-robotics-ai-and-self-driving-cars/",
+      "originalUrl": "https://techcrunch.com/sponsor/helm-ai-company/navigating-the-evolving-landscape-of-robotics-ai-and-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/helm-ai-large.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

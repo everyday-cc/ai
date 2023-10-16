@@ -2,6 +2,59 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2023-10-03-linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai.md",
+      "title": "LinkedIn goes big on new AI tools for learning, recruitment, marketing and sales, powered by OpenAI",
+      "excerpt": "Given that AI sales of this kind are well established in the world at large — I’ve even heard VCs complain that they can’t consider “yet another AI sales startup” — this seems somewhat overdue for LinkedIn to add.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/",
+      "originalUrl": "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/03/linkedin-goes-big-on-new-ai-tools-for-learning-recruitment-marketing-and-sales-powered-by-openai/amp/",
+      "publishedDateTime": "2023-10-03T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-current-risks-involved-in-adopting-generative-ai-technology.md",
       "title": "Current Risks Involved In Adopting Generative AI Technology",
       "excerpt": "we became convinced that Gen AI would unleash a wave of technology of tech services spending. Furthermore, we estimated that this wave would start hitting the market in earnest in the fourth quarter of 2023. In an effort to size this wave, we estimated ...",
@@ -1111,49 +1164,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report.md",
-      "title": "Facial Recognition Market 2023-2030 with In-Depth Analysis of the Research Report",
-      "excerpt": "Ask for Sample Report The global Facial Recognition market size was valued at USD 4491.54 million in 2022 and is expected to expand at a CAGR of 14.8 Percent during the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35050319/facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35050319/facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35050319",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35050319",
-      "publishedDateTime": "2023-10-03T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

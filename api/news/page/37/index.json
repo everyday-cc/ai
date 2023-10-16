@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2023-09-17-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "Artificial intelligence (AI) is already beginning to ... on its online marketplace and to enhance its Amazon Cloud Services (AWS) business. Not only is Amazon continuing down the AI path, but ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/17/artificial-intelligence-ai-stocks-buy-and-hold/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/17/artificial-intelligence-ai-stocks-buy-and-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/747663/gettyimages-1284372450.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-image-recognition-market-research-report-2023-2030.md",
       "title": "Image Recognition Market Research Report 2023-2030",
       "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition, Optical Character Recognition) and expected to grow annually by magnificent (CAGR 2023 - 2030). Image Recognition market report focuses ...",
@@ -1049,57 +1101,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai.md",
-      "title": "Why B2C Brands Should Leverage Predictive AI Alongside Generative AI",
-      "excerpt": "But generative AI is suitable for only a select number of B2C business use cases, such as summarizing and extracting information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65038164df7c18f7edfdab53/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/15/why-b2c-brands-should-leverage-predictive-ai-alongside-generative-ai/amp/",
-      "publishedDateTime": "2023-09-15T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

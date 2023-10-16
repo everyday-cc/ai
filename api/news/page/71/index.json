@@ -2,6 +2,58 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2023-08-24-advantages-of-artificial-intelligence-ai-in-2023.md",
+      "title": "Advantages Of Artificial Intelligence (AI) In 2023",
+      "excerpt": "And hence, eventually the significance of artificial intelligence comes into the picture which plays a very vital role in segregating these huge datasets into useful and accurate pieces of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
+      "originalUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/pexels-cottonbro-studio-6153354.png",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning.md",
       "title": "Autism Therapy: Cannformatics Targets Metabolic Imbalances Using Machine Learning",
       "excerpt": "Cannformatics, an early-stage biotechnology company, has unveiled a groundbreaking advancement in the field of medical cannabis treatment for Autism Spectrum Disorder (ASD).",
@@ -1090,49 +1142,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-breakthrough-ai-implants-let-paralyzed-woman-talk-for-first-time-in-years.md",
-      "title": "Breakthrough AI implants let paralyzed woman ‘talk’ for first time in years",
-      "excerpt": "A digital avatar is able to speak what she is thinking, using a copy of her voice recorded during a toast she gave at her own wedding.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "originalUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000026650278.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/08/23/paralyzed-woman-unable-to-speak-for-years-talks-again-with-ai-breakthrough/amp/",
-      "publishedDateTime": "2023-08-23T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

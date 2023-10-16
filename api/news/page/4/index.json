@@ -1000,7 +1000,7 @@
       "originalUrl": "https://www.bbc.com/news/world-australia-67076216",
       "featuredContent": null,
       "highlight": null,
-      "heat": 319,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -1198,21 +1198,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
-      "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
-      "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
+      "path": "_news/2023-10-11-why-medium-is-opting-out-of-ai.md",
+      "title": "Why Medium is opting out of AI",
+      "excerpt": "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
+      "webUrl": "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/",
+      "originalUrl": "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200",
           "width": 1200,
-          "height": 600,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1220,16 +1220,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
-      "publishedDateTime": "2023-10-11T06:54:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/",
+      "publishedDateTime": "2023-10-11T07:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1245,8 +1245,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     }
   ],

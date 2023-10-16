@@ -7,7 +7,7 @@ originalUrl: "https://www.myjoyonline.com/respond-io-to-showcase-new-artificial-
 webUrl: "https://www.myjoyonline.com/respond-io-to-showcase-new-artificial-intelligence-ai-powered-solutions-at-gitex-global-2023/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honeywell to showcase the latest 5g, machine learning and sensing innovations at Gitex 2023"
-    excerpt: "During the event, Honeywell will demonstrate solutions for retail, transportation & logistics, healthcare, oil & gas"
-    publishedDateTime: 2023-10-11T09:29:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/honeywell-to-showcase-the-latest-5g-machine-learning-and-sensing-innovations-at-gitex-2023-e7a24zit?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 49
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MTg1NWYyMzctYjcwYS00/0/taylorsmith_honeywellsps_image-jpeg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
     excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
     publishedDateTime: 2023-10-12T17:20:00Z

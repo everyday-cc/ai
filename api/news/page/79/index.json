@@ -2,6 +2,51 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-08-18-microsoft-open-sources-onnx-script-for-python-machine-learning-models.md",
+      "title": "Microsoft Open Sources 'ONNX Script' for Python Machine Learning Models",
+      "excerpt": "defining a common set of the building blocks of machine learning and deep learning models, called operators, along with a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes and compilers. The ONNX Script ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_McCaffery.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-elemental-cognition-headed-by-the-former-ceo-of-ibm-watson-raises-usd-60m.md",
       "title": "Elemental Cognition, headed by the former CEO of IBM Watson, raises USD 60M",
       "excerpt": "David Ferrucci, the former leader of the team that developed IBM Watson, founded the artificial intelligence startup Elemental Cognition Inc.",
@@ -1132,58 +1177,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-18-machine-learning-can-make-x-rays-more-valuable-to-doctors.md",
-      "title": "Machine Learning Can Make X-Rays More Valuable To Doctors",
-      "excerpt": "Polina Golland is a prominent professor at MIT in Electrical Engineering and CSAIL. Her research centers on pioneering algorithms for medical image analysis, uncovering anatomical patterns in diseases from expansive image collections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/",
-      "originalUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/08/17/6333942109112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/amp/",
-      "publishedDateTime": "2023-08-17T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

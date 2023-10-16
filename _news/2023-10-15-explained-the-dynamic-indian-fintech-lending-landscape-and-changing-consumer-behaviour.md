@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/sme-explained-the-dynamic-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-explained-the-dynamic-indian-fintech-lending-landscape-and-changing-consumer-behaviour-3273399/lite/"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning explained: Unraveling the magic behind neural networks"
-    excerpt: "Explained: Are we alone in the universe? Explained: Why are mathematicians obsessed with prime numbers? Dive into the world of deep learning and discover the inner workings of neural networks, the driving force behind modern AI and machine learning."
-    publishedDateTime: 2023-10-11T09:34:00Z
-    webUrl: "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/articleshow/103929376.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/education/learning-with-toi/deep-learning-explained-unraveling-the-magic-behind-neural-networks/amp_articleshow/103929376.cms"
+  - title: "How AI can address climate change and nature-related risk in fintech"
+    excerpt: "As companies undergo digital transformation and embrace cloud platforms which dial-in sustainable and ESG efforts to the frameworks of a business, artificial intelligence (AI) is the next grand frontier for which financial institutions are embarking on ..."
+    publishedDateTime: 2023-10-11T15:47:00Z
+    webUrl: "https://www.finextra.com/the-long-read/818/how-ai-can-address-climate-change-and-nature-related-risk-in-fintech"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 89
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-103929347,width-1280,height-720,resizemode-4/103929347.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
 secured: "uZA0qVhiL3XrR6Luf+3NXqxmJOGa2AP+EGj1PcLBzK5z6fc0vaWP9ouNHzjB2uTycas7oF7qCMz0B449FtYM0tbL1hrxbd4ygoBiiuY3ia6NzD0SzD0SPCYdKHkhDwU+y/zwDwMMgzrWA/2MmDuHp5nd4tEhUEkd4bpqCoMh18+v2vypQY3Z33z+m+1kjRi7z3JewYPXQb+W6Ht9B0x0RPsmHK73lqyNExM8w9+EXtIWpHslOmstQRVzbvbxX3v5sTZ1vnKTL1BbI0VdYS1KsKaOq1Mt3ldRsuCdfnk9EwnjsWZtQNAU0l7DTu57QvfACHJkk5LdRuudF5b0R+fWDcSAuflixQky5epjv5fas1A=;qqTFNSlzRZsjRuR/+evoSA=="
 ---

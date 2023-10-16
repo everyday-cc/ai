@@ -41,34 +41,6 @@ related:
         width: 1200
         height: 873
         isCached: true
-  - title: "How International FinTech company Collect & Pay Aims to Reshape Digital Finance"
-    excerpt: "The financial sector’s terrain is rapidly evolving. Led by fast-growing neo-banks such as Revolut, banking services are becoming more efficient and accessible than ever before. At the same time, new technologies like blockchain and cryptocurrencies are fundamentally redefining how we manage our finances."
-    publishedDateTime: 2023-10-12T08:42:00Z
-    webUrl: "https://techbullion.com/how-international-fintech-company-collect-pay-aims-to-reshape-digital-finance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/IMG_20231005_124245_556-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Fintech Surge To Unleash Financial Innovation"
-    excerpt: "Fintech Surge to Unleash Financial Innovation Global gathering to capitalise on Dubai's pioneering status as a leading fintech hub Dubai, United"
-    publishedDateTime: 2023-10-11T20:05:00Z
-    webUrl: "https://menafn.com/1107227576/Fintech-Surge-To-Unleash-Financial-Innovation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?767298"
-        width: 340
-        height: 250
-        isCached: true
 
 secured: "i6AXIGosb0x2EIewoEwJBewo9tiixYfORbPpYaxWpQbgR9Be5iaAcF2yp7KgBgwIRTF1cbyyU0eEOZH5w1v5T98/8ahPwItP8qmdzMtIoPf+v3ddmmoy5+YdRK363+Jrboo5+H4CUVK65bb6aOZLhkY8mD5W2FL4e/OaOCOrEu3w3keXkosdBRkFA+md2NI/lk4B0uUT02iMAyVTTzeJ7Gx7LA6qNIgExBcOM1ba3qa9H1YwVhdcUlGD9A+/oy0zlsATmIt371NB7BgjkoQOFs0z4FnCu+1/gRjCH1JNXBxXWZQ2EMsi1fqqQXB+gmuPxYgIG7o/w6zNIf5wPabOR4oP2fnxdBf7LcVBekehn74WKfletavQ8fg2P87ct6Nu3ZfykK7lEKM1Vayt52GZw17oAT4GlQ3SgonZrV+Q8Wp3b0aPFlKs3PA9CX54CcWol6lY1xFTC2R4dvgBoX9TujNGkQtk8uZk1ew0Vkgq4q+56/ptoba8qXeoB9xIY9BCvxM+cQ4b1Gauoe0fzezVjg==;fYPPEchpV0OQqmlFq0tbeg=="
 ---

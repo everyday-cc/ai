@@ -30,7 +30,7 @@ related:
       domain: thaipr.net
     quality: 54
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/05-ยามาฮ่า-สานโครงการ-Road-To-The-World-Class-ส่ง-กฤตภัทร-ร่วมบิดโมโตทรี-ศึกไทยแลนด์-กรังด์ปรีซ์-ป-768x512.jpg"
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
         width: 768
         height: 512
         isCached: true

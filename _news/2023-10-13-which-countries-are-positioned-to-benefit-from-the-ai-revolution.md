@@ -43,15 +43,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 58
-  - title: "The AI revolution is coming. Invest in $10,000 handbags"
-    excerpt: "Analysis shows LVMH, Dior, Hermès and Gucci owner Kering have consistently outperformed Amazon, Google and Apple"
-    publishedDateTime: 2023-10-11T10:18:00Z
-    webUrl: "https://www.theguardian.com/business/nils-pratley-on-finance/2023/oct/11/ai-revolution-is-coming-invest-handbags-lvmh-dior"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 17
 
 secured: "ejwAJjlq3XYjXHh1wSb8FNPFtOcmU8vwKZr4BfzmBBy+T+mEYkOXYqs/C4lAWWr3SRUwk8nAFxzIbhREmcNYY1lOrx5jp1Zzkc4CvsQUnea8zfQaWnz5xqxsys4YR4hPPiUGAXc1KtO0V2MfMxBzcToFqnnF4O4qs/zdL7HykxO4YddXC7ewDTyH3yCPrrRCJ1CH1rIuQgt98vlfSQ8VrgM80McMQ2HbkOq8ecaxiswW/2raQ3VB2hfv4rfdbUSlFf7HGUb+euLT+69DQUJYP15vpIhPjB2TkwEQCk/UXcBh8YDf1+hqNQdZG40h1Wpf7pjTRvnuKJEnqd3UEUZDKGgizD5GZedzNuyhXUZu7gdbU4agaUWrs2e7EjAn591Br8QkJe75tt8Djf78eZszvqdKtWhwInOcGcPTGS23Kie5o0ufF6FvYZgZrJYJ0p3Q35AXByoJlXMm5v+9RsBBmvsSFm6+BNnduWNJGtavKbByIBDlRQfDyh1Payk73Llv5Qlxxip98j/Nv5OM5As1nQ==;6FIMoRSIRBIPCC5PkbjJQA=="
 ---

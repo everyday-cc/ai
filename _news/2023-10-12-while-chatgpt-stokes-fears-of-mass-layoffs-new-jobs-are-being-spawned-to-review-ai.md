@@ -50,6 +50,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "How to upload images to ChatGPT for analysis"
+    excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
+    publishedDateTime: 2023-10-15T13:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-upload-images-to-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Uploading-images-to-ChatGPT-in-prompts.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "How AI and ChatGPT are transforming how we learn and work"
     excerpt: "The acronym stands for chat generative pre-trained transformer. Walker says ChatGPT is one of an expanding number of publicly available artificial intelligence (AI) text generators that rely upon algorithms to scan the web for answers to user-generated questions."
     publishedDateTime: 2023-10-12T12:55:00Z

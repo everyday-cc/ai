@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-aw
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-awareness-in-the-age-of-ai-metaverse-and-quantum-computing/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1600
     height: 899
     isCached: true
+
+related:
+  - title: "Techno-plasticity in the Age of Artificial Intelligence"
+    excerpt: "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ..."
+    publishedDateTime: 2023-10-14T18:10:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "gr1GwR5kySHbTtVxit8dVlzEQC9Wc0TN1Ovzpd2xkRWn6C3TRqKuO8ijHRYcxXSYMF3kqX4RXX6C7Nf4+nCZnS1tMfSTSFXNn6ogbGUH2DNck6RENelLLZ+cFREjirYGyGz5XC3PbplKcdu+g7x2hX89Y4fz3RUqs5Q1dsop2BQ738QeFaeHMJUrzmbcRtN4xMHKRO3ROOPoa0PeBANhSt7fAfXhvN5L0TXy5t2jO7MKVsAVmRVKHntcSNmEadGjTnYxHR7qOlQrRn7//OUrBJhrUjNE3luyqdIotBuPpQJ/q5OGjRXGqyC8h9JTCRTHQ4znunpjhPhp2VTWYO0pUsWxRQGEjnlT+RUWL9HXFJQrnovmwEBzvSHHuJr/LbeOizpFpuV3FKWhTqwsGpJvJrclUQ8X35yMiCuKSJUYwqVcMIjNelJDBu+JYQ1LC+2zP5ukNXIezR36qpSBvuXbc37dYAZKbIAp0mOTdd5oVH3vH/AVaXGkEAkEmJxeCjBAwkYrfuHEDaULiTF9py28BQ==;1luLOAwcCh6VLz4Tx8mZOw=="
 ---

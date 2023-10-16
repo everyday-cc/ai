@@ -69,29 +69,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "How AI can address climate change and nature-related risk in fintech"
-    excerpt: "As companies undergo digital transformation and embrace cloud platforms which dial-in sustainable and ESG efforts to the frameworks of a business, artificial intelligence (AI) is the next grand frontier for which financial institutions are embarking on ..."
-    publishedDateTime: 2023-10-11T15:47:00Z
-    webUrl: "https://www.finextra.com/the-long-read/818/how-ai-can-address-climate-change-and-nature-related-risk-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-  - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
-    excerpt: "Hong Kong Fintech Week and Singapore Fintech Festival just around the corner, we look today at the key highlights of this year’s events, focusing on their main themes, what participants can expect, and why these events are critical to attend for fintech companies aiming to thrive in the industry."
-    publishedDateTime: 2023-10-12T08:03:00Z
-    webUrl: "https://fintechnews.ch/events/why-swiss-fintechs-should-attend-2023s-hong-kong-fintech-week-and-singapore-fintech-festival/63945/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 13
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/10/Why-Swiss-Fintechs-Should-Attend-2023s-Hong-Kong-Fintech-Week-and-Singapore-Fintech-Festival.jpg?x81825"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Texas in Focus: The Intersection of Real Estate and FinTech"
     excerpt: "The Texas real estate market is booming, with over $328 billion in sales last year alone. Some of these transactions even involve scenarios like selling a house with a lien. As the industry continues to grow and evolve,"
     publishedDateTime: 2023-10-11T11:26:00Z

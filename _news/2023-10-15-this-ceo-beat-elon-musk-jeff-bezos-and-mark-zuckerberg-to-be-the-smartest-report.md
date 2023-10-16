@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Not Elon Musk, Mark Zuckerberg or Jeff Bezos: Meet world's smartest CEO, Demis Hassabis"
+    excerpt: "Demis Hassabis is the CEO of Google's backed DeepMind and ranks higher than Elon Musk, Mark Zuckerberg and Warren Buffett, according to a recent report."
+    publishedDateTime: 2023-10-16T03:44:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/not-elon-musk-mark-zuckerberg-or-jeff-bezos-meet-worlds-smartest-ceo-demis-hassabis-11697424590139.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/not-elon-musk-mark-zuckerberg-or-jeff-bezos-meet-worlds-smartest-ceo-demis-hassabis/amp-11697424590139.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/not-elon-musk-mark-zuckerberg-or-jeff-bezos-meet-worlds-smartest-ceo-demis-hassabis/amp-11697424590139.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/16/1600x900/z7XZUARB_400x400_1697427761515_1697427768656.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Who's the smartest CEO? How Bezos, Buffett, Musk and Zuckerberg rank"
     excerpt: "A new language study by Preply examined dialogue and speech to understand leaders with the most intelligence, emotional intelligence, and more. (Sorry, Elon!)"
     publishedDateTime: 2023-10-11T16:56:00Z

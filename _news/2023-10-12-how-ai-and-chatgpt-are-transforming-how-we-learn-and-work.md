@@ -55,6 +55,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 41
+  - title: "How to upload images to ChatGPT for analysis"
+    excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
+    publishedDateTime: 2023-10-15T13:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-upload-images-to-chatgpt/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Uploading-images-to-ChatGPT-in-prompts.jpg"
+        width: 700
+        height: 466
+        isCached: true
   - title: "Ada Introduces Generative Actions, Enabling AI-Powered Customer Service Chatbots to Actually Resolve Customer's Issues Without Human Intervention"
     excerpt: "Ada's Generative Actions technology can pull data from trusted business systems such as a CRM or order management system, for example, to personalize its response and take action to assist the customer. In fact, with Generative Actions, Ada anticipates chatbots will outperform a human agent in terms of speed and accuracy."
     publishedDateTime: 2023-10-11T14:16:00Z

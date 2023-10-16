@@ -2,6 +2,57 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2023-08-14-is-generative-ai-destroying-the-internet.md",
+      "title": "Is Generative AI Destroying The Internet?",
+      "excerpt": "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
+      "publishedDateTime": "2023-08-13T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-ai-facial-recognition-led-to-8-month-pregnant-womans-wrongful-carjacking-arrest-in-front-of-kids-lawsuit.md",
       "title": "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit",
       "excerpt": "An eight-month pregnant woman, Porcha Woodruff, was arrested by Detroit police for a carjacking that she did not commit based on faulty AI-powered facial recognition.",
@@ -1073,49 +1124,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-2023-artificial-intelligence-robotics-market-size-exclusive-data-report-forecast-2030.md",
-      "title": "2023 | Artificial Intelligence Robotics Market Size, Exclusive Data Report Forecast 2030",
-      "excerpt": "Artificial Intelligence Robotics Market | Outlook 2023-2028 | Pre and Post-COVID Research is Covered, Report Information | Newest 86 Pages Report The extent and overview of the various commercial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33772824/2023-artificial-intelligence-robotics-market-size-exclusive-data-report-forecast-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33772824/2023-artificial-intelligence-robotics-market-size-exclusive-data-report-forecast-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33772824",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33772824",
-      "publishedDateTime": "2023-08-11T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

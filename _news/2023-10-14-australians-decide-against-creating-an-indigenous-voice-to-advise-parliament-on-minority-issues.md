@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
-excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
-publishedDateTime: 2023-10-14T11:27:00Z
-originalUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
-webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
+excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives"
+publishedDateTime: 2023-10-14T12:06:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+webUrl: "https://abcnews.go.com/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-decided-indigenous-voice-needed-advise-parliament-minority-103976813"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://dims.apnews.com/dims4/default/1c0fdaf/2147483647/strip/true/crop/7700x4331+0+401/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F82%2F5612b341fff34b16478effe5688e%2F60302059f3c845c4b99d810132b81e3e"
-    width: 1440
-    height: 810
+  - url: "https://s.abcnews.com/images/International/wirestory_6e9a9a7916a6024479d9e985f28e2d5e_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -249,6 +251,20 @@ related:
         width: 768
         height: 502
         isCached: true
+  - title: "What happened in the Voice and where to next for Australia?"
+    excerpt: "EXPLAINED: A majority of Australian voters rejected the proposal to establish an Aboriginal and Torres Strait Islander Voice to Parliament."
+    publishedDateTime: 2023-10-16T03:17:00Z
+    webUrl: "https://www.stuff.co.nz/world/australia/300990237/what-happened-in-the-voice-and-where-to-next-for-australia"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 24
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/7/9/j/o/image.related.StuffLandscapeSixteenByNine.1420x800.4z79jx.png/1697428680023.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Australia news live: Dutton spread ‘fear and division’ over voice, Ken Wyatt says; Perth flight from Singapore turned around"
     excerpt: "She urged Australians who are yet to cast their vote in the referendum to “please remember that voice recognition is inclusion and listening to Indigenous peoples on matters that affect us”: We’ve got decades of evidence of that policy made without ..."
     publishedDateTime: 2023-10-12T21:55:00Z
@@ -295,6 +311,17 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
+    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
+    publishedDateTime: 2023-10-15T14:45:00Z
+    webUrl: "https://www.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
+    ampWebUrl: "https://amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    type: article
+    provider:
+      name: The Age
+      domain: theage.com.au
+    quality: 15
   - title: "‘Lies fuel racism’: how the global media covered Australia’s Voice to Parliament referendum"
     excerpt: "Could the vote affect the way the world views Australia and potentially have an impact on Australia’s international relations?"
     publishedDateTime: 2023-10-15T03:32:00Z
@@ -351,6 +378,6 @@ related:
       domain: houstonchronicle.com
     quality: 0
 
-secured: "vTt70/jCuBJttvZ1pGtvHyuBMbb6qhqDj9c1eE+o63LKamE/yU2at5f9ns4HoYk+54tz59/jUaNPItLL52Q1ueQr4xGAVsd2arlJxBYKr/C8HauZFaqOLafi6V6NJjYns2U0AL6CWTbwfT2fPVWsiHGHC07I7IZB1Rg8NevEj4O5o9oGBd5ZaZZsYtpAnPs2SXG5QQAtqx3zvkK6WObWtgR+7WINFXUYalbwgVld/BlB7uiSYw26MKjyTu6GdIv9d3QEp0wrisMjcjnlD7F/r16SUws/JO4ucJxZDZNTyn3rf31Gvu2yEvcz6qiokVs9VlKLXLF9kBcqRrg6Znkf5CCvF72g4hKJ5K8d5mMA/iFUJvxG05qms4Bmdl3I7iRd8meo6yUZQGm6ndzkI1kIvD8ubPPTkLMD5GamvAO+hUKuSbzbrjS7w/LLpQnHDA5OFt5xpMqibTrfqMLEZXL8mFk4k8MlmJt97UWGMyrUCioKiXALEWyhZq2S58tQkhBc2TGw3kaPsWNSMHBLA0elAw==;KfllRBZp8rjejIsMxAFLAg=="
+secured: "tP/mNvRcqLF8eq7lY9kAn5Ln7XZOs52aFDKUKizIDbaNoMUtm3TzT5lIUrdUzaiG1O28GZy45dRyMCaJnn7KBO7R2L+gIsQS7Pz0PWpQ/poQn4r3QrS7tfmUinhoT4IWw+JmB4QARw1SeHpEONH6XO1HuO+LFBK0lVvi/PsbF4FIegh1nimeJKwXuwUQmnUuHN4R4Pca3CAkxPbkwhXTzwE0NQK2ImJ0P7H6Otst3Y31dCxi5XAHPvlmQnZJAp9yC1uCSUMUsFDy5bb/4+rYoiNHgbZ3Eg9w+hb/baUJAKpAL9PiVHenyolJDMOjuVbXsMDIds7PLdmx4aSvAikJWZEMyCR8Y8NTu8kLFQd2U/g=;JAJV1f+vMViFwy4Ok4t8qA=="
 ---
 

@@ -294,6 +294,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-05-using-artificial-intelligence-scientists-develop-self-driving-microscopy-technique.md",
+      "title": "Using artificial intelligence, scientists develop self-driving microscopy technique",
+      "excerpt": "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html",
+      "originalUrl": "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel-4.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp",
+      "publishedDateTime": "2023-10-05T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-atropos-health-leverages-ai-to-democratize-access-to-real-world-evidence-in-healthcare.md",
       "title": "Atropos Health leverages AI to democratize access to real-world evidence in healthcare",
       "excerpt": "Atropos Health, the Palo Alto, Calif.-based healthcare startup, unveiled today a new artificial intelligence (AI) system that could revolutionize how evidence is produced to inform medical decisions and research.",
@@ -1149,49 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-digital-strain-preventive-measures-to-reduce-the-risk-of-computer-vision-syndrome-in-children-and-adults.md",
-      "title": "Digital strain: Preventive measures to reduce the risk of Computer Vision Syndrome in children and adults",
-      "excerpt": "Follow these simple preventive measures to significantly reduce the risk of Computer Vision Syndrome in kids and promote healthier digital habits for all ages Digital strain: Preventive measures ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/lifestyle/health/digital-strain-preventive-measures-to-reduce-the-risk-of-computer-vision-syndrome-in-children-and-adults-101696429828411.html",
-      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/digital-strain-preventive-measures-to-reduce-the-risk-of-computer-vision-syndrome-in-children-and-adults-101696429828411.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/10/04/1600x900/ludovic-toinel-nGwyaWKFRVI-unsplash_1696430059447_1696430080881.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/digital-strain-preventive-measures-to-reduce-the-risk-of-computer-vision-syndrome-in-children-and-adults-101696429828411-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/digital-strain-preventive-measures-to-reduce-the-risk-of-computer-vision-syndrome-in-children-and-adults-101696429828411-amp.html",
-      "publishedDateTime": "2023-10-04T13:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

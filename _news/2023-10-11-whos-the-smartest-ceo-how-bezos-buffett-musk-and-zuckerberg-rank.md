@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Not Elon Musk, Mark Zuckerberg or Jeff Bezos: Meet world's smartest CEO, Demis Hassabis"
+    excerpt: "Demis Hassabis is the CEO of Google's backed DeepMind and ranks higher than Elon Musk, Mark Zuckerberg and Warren Buffett, according to a recent report."
+    publishedDateTime: 2023-10-16T03:44:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/not-elon-musk-mark-zuckerberg-or-jeff-bezos-meet-worlds-smartest-ceo-demis-hassabis-11697424590139.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/not-elon-musk-mark-zuckerberg-or-jeff-bezos-meet-worlds-smartest-ceo-demis-hassabis/amp-11697424590139.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/not-elon-musk-mark-zuckerberg-or-jeff-bezos-meet-worlds-smartest-ceo-demis-hassabis/amp-11697424590139.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/16/1600x900/z7XZUARB_400x400_1697427761515_1697427768656.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "6nAuTGbRaGggQapcLZSFwPaHd3RvOIOWutd5m7ce9x/PMIoEi6eqc3uha3W9qccBEBPwjF8LFAN3opw1/Skb6o8Ia5l/KwuyPB2uU6N8YeCCSC+Vmt4rlDQyz6sNmJjO5Rd4mp8hfeeuEg/25EPvAuXTYkSZiJRaji86TefrvA5ylqGhFqJlxV3UAK3ghLTimAJCUlA19eEL8dhxVzF3G/7DHwK3LcYSq2rBE4jqBEfOUtLl/X3XoS4PmiN4glKi5W6Hyj1tWd+o8xiAxEvSeDxbzkXEMzHmd6nZAfNu5s8aNdWQRGByfvFRa1mSffkl+zl59HqxbHaSNle7Fzu52t7Ne0dfIFdrOHlIaAr6E8tSdKuR4xI5OjLuNAddZ1Tj/sIhPoF3dB+PTt3Dxn4YGkmDwvaF+WM9q7scR46StFQH1qadyRtCJZQQXggFIqo2ZLEydkerWm12Twd2xWIluGqYEopue6AOtMtdrqgasy7JAKlDEr6LK3OfEX3xvPD2GDsNVRX0p/nU06K8ll4mag==;l0p9pK1gygJ+AcTvkUuqOQ=="
 ---

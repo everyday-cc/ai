@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/102976642"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -27,32 +27,60 @@ images:
     isCached: true
 
 related:
-  - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
-    excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
-    publishedDateTime: 2023-10-13T08:15:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+  - title: "Australia holds constitutional referendum on recognition of First Nations"
+    excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
+    publishedDateTime: 2023-10-13T23:16:00Z
+    webUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/"
+    ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 43
+    images:
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
+        width: 1024
+        height: 800
+        isCached: true
+  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
+    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-16T01:07:00Z
+    webUrl: "https://thethaiger.com/world/news/560427/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 22
+    images:
+      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
+        width: 390
+        height: 220
+        isCached: true
+  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
+    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
+    publishedDateTime: 2023-10-14T09:28:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 16
-  - title: "Anthony Albanese lashes out when questioned about the Voice as Aussies head to the polls"
-    excerpt: "Prime Minister Anthony Albanese has fired up during a press conference, lashing out at “the media” after being asked a question about the Uluru Statement from the Heart.“You made a promise to implement the Uluru Statement from the Heart."
-    publishedDateTime: 2023-10-14T03:13:00Z
-    webUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1"
-    ampWebUrl: "https://www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/anthony-albanese-lashes-out-when-questioned-about-the-voice-as-aussies-head-to-the-polls/news-story/26ca1401b3ccf7e4685323488f3588a1?amp"
+    quality: 18
+  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
+    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
+    publishedDateTime: 2023-10-14T11:42:00Z
+    webUrl: "https://www.aol.com/voice-referendum-australias-voice-parliament-150649043.html"
     type: article
     provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 15
-  - title: "Voice referendum: Truth-telling for Albanese as voters deliver defeat"
-    excerpt: "Anthony Albanese will reaffirm Labor’s commitment to advance reconciliation while pursuing ­treaty and truth-telling and reset the government’s focus on cost-of-living pressures and national ­security,"
-    publishedDateTime: 2023-10-15T11:26:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-truthtelling-for-albanese-as-voters-deliver-defeat/news-story/e570b805b3753d8b27a304304ab1a353"
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
+    excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
+    publishedDateTime: 2023-10-15T20:30:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indegnous-leaders-summit-to-seek-new-way-to-constitutional-recognition/news-story/3d85ead548dcb1fefef43640ee8553c6"
     type: article
     provider:
       name: The Australian

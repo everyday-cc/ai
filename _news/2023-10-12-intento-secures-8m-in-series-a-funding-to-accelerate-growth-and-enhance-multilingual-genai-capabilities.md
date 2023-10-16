@@ -36,6 +36,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 30
+  - title: "Intento Unveils Enterprise Language Hub"
+    excerpt: "Intento, a leading machine translation and multilingual generative AI platform, unveils the latest upgrade, Enterprise Language Hub."
+    publishedDateTime: 2023-10-16T01:53:00Z
+    webUrl: "https://slator.com/intento-unveils-enterprise-language-hub/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "3QnKczYCFeTQex9oO3/0ONJyPqnYHrgPfN8GtA74Oz6QHLD9cr8BGbdgUxV1QW/CuVLgwiZjXp7LzRicCqTY7Sdq4yNvetN1RRaLOjA7jtzmI52TFeKy9sjXy0jqaoz++GHVfwW3mYHVIXGD8Lt8E5PeV9xrjCUtFIXpV1xhGNQ2H1oDQVA2PGxlytUWRLHbIu4UVy794SumQdkr5JmJGznQa28iowXJoUqqjKzoEnS9cWrioo6pzlyuA2NogMwveOGko4qT61ON5VFl+h+tIDJPmcaaSjwJmdgqwMT0CkUwjyQPaO15vVx46ro04IWvd8rkuCrbvWXfPR+tU+EEIbakUorr55v8OWa17m3eH8A=;z340T8hPZkg/MNWYXfdNtw=="
 ---
