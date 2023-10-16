@@ -2,6 +2,307 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
+      "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
+      "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "originalUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png",
+          "width": 1020,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "publishedDateTime": "2023-10-10T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-ma-sq-nvei-3-fintech-stocks-wall-streets-pounding-the-table-on.md",
+      "title": "MA, SQ, NVEI: 3 Fintech Stocks Wall Street’s Pounding the Table On",
+      "excerpt": "Though technology stocks have been through rough times in recent years, it’s still worth revisiting some of the market’s top",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-fintech-stocks-wall-street-s-pounding-the-table-on-1032694209",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ma-sq-nvei-3-fintech-stocks-wall-street-s-pounding-the-table-on-1032694209",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2023/10/image-253-1024x348.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 1024,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T20:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-replit-brings-open-source-ai-developer-tools-to-all-users.md",
+      "title": "Replit brings open source AI developer tools to all users",
+      "excerpt": "Replit is directly integrating GhostWriter into its core platform and making the generative AI code completion tool available to all of its users.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/replit-brings-open-source-ai-developer-tools-to-all-users/",
+      "originalUrl": "https://venturebeat.com/programming-development/replit-brings-open-source-ai-developer-tools-to-all-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_expressionist_computer_surrounded_by_colorful__1d651b7d-8339-4e7e-9f57-30b3b08326f3.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-rogue-ai-will-learn-to-manipulate-people-to-stop-it-from-being-switched-off-predicts-british-godfather-of-ai.md",
+      "title": "Rogue AI will learn to ‘manipulate people’ to stop it from being switched off, predicts British ‘Godfather of AI’",
+      "excerpt": "Geoffrey Hinton, a former AI engineer at Google, told 60 Minutes he expected artificial intelligence to become self ... He also set the foundations for the growth of AI through his pioneering neural network, which helped him win a prestigious Turing ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/",
+      "originalUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2023/10/GettyImages-1260013883-e1696933068802.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/10/rogue-artificial-intelligence-manipulate-people-british-godfather-ai-geoffrey-hinton/amp/",
+      "publishedDateTime": "2023-10-10T20:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-microsoft-should-acquire-openai-hcl-bcg-other-technology-service-strategic-partners.md",
+      "title": "Microsoft Should Acquire OpenAI, HCL, BCG & Other Technology, Service & Strategic Partners",
+      "excerpt": "Those who argue there are huge differences among applications and platforms are fully committed to their ongoing investments and the difficulty of \"switching\" from",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6525d31e5fc01b0602309957/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1306,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2023/10/10/microsoft-should-acquire-openai-hcl-bcg--other-technology-service--strategic-partners/amp/",
+      "publishedDateTime": "2023-10-10T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review.md",
+      "title": "Sony brings AI to InZone gaming headset and ear buds — review",
+      "excerpt": "Sony has added AI smarts to its latest generation of InZone H5 gaming wireless headset and its new InZone Buds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review/",
+      "originalUrl": "https://venturebeat.com/games/sony-brings-ai-to-inzone-gaming-headset-and-ear-buds-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/inzone-9.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-new-jersey-establishes-artificial-intelligence-task-force.md",
       "title": "New Jersey Establishes Artificial Intelligence Task Force",
       "excerpt": "Gov. Phil Murphy signed an executive order Tuesday charging the task force with studying artificial intelligence and recommending government actions to support ethical use of the rapidly evolving technology.",
@@ -281,15 +582,15 @@
       "title": "Georgia State receives $10 million artificial intelligence research grant",
       "excerpt": "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial",
       "sourceUrl": null,
-      "webUrl": "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html",
-      "originalUrl": "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html",
+      "webUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
+      "originalUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/f/ce/fce0efed-7e2c-5fb3-941b-255887ed7b4e/6525bb6020bdd.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/e/d2/ed26ad10-67a9-11ee-aab4-4bdaf1c2cfd2/6525b12a16f0b.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize",
           "width": 800,
           "height": 420,
           "title": null,
@@ -304,8 +605,8 @@
       "publishedDateTime": "2023-10-10T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Rome News-Tribune",
-        "domain": "northwestgeorgianews.com",
+        "name": "Albany Herald",
+        "domain": "albanyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -713,40 +1014,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-10-artificial-intelligence-in-healthcare-market-size-worth-usd-2013-billion-globally-by-2030-at-455-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence In Healthcare Market size worth USD 201.3 Billion, Globally, by 2030 at 45.5% CAGR: Verified Market Research®",
-      "excerpt": "The \"Global Artificial Intelligence In Healthcare Market Size By Offering, By Algorithm, By Application, By End-Use Industry, By Geographic Scope And Forecast\" report has been published by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60328537-artificial-intelligence-in-healthcare-market-size-worth-usd-201-3-billion-globally-by-2030-at-45-5-cagr-verified-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60328537-artificial-intelligence-in-healthcare-market-size-worth-usd-201-3-billion-globally-by-2030-at-45-5-cagr-verified-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-10-adobe-unveils-firefly-image-2-ai-at-max-conference.md",
       "title": "Adobe Unveils Firefly Image 2 AI at Max Conference",
       "excerpt": "New generative AI for vector images, AI template design, lens blur in Lightroom, direct social publishing in Premiere Pro, and the GenStudio enterprise workflow solution were also covered.",
@@ -940,219 +1207,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-how-ai-is-changing-the-future-of-digital-experience.md",
-      "title": "How AI Is Changing The Future Of Digital Experience",
-      "excerpt": "The broader challenge concerning AI is that many individuals lack a comprehensive understanding of just how effectively it can be implemented in their daily workflows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6521cc82c147479a3609f703/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/10/how-ai-is-changing-the-future-of-digital-experience/amp/",
-      "publishedDateTime": "2023-10-10T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages.md",
-      "title": "ElevenLabs introduces AI Dubbing, translating video and audio into 20 languages",
-      "excerpt": "ElevenLabs' AI Dubbing tool can translate speech into more than 20 languages while retaining the original speaker's voice.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/",
-      "originalUrl": "https://venturebeat.com/ai/elevenlabs-introduces-ai-dubbing-translating-video-and-audio-into-20-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_representation_of_podcast_host_speaking_and_wo_6da3a358-8a00-4735-b154-11c2544fd1c5.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-retransmission-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc.md",
-      "title": "RETRANSMISSION: HIVE Digital Provides Update on GPU Infrastructure for AI and HPC",
-      "excerpt": "HIVE President and CEO Aydin Kilic stated, \"We're on track to have 3,200 GPUs, mostly powerful Nvidia A40s, up and running in the AI/HPC space by the end of October.\" Mr. Kilic continued ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/retransmission%3A-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc",
-      "originalUrl": "https://www.nasdaq.com/press-release/retransmission%3A-hive-digital-provides-update-on-gpu-infrastructure-for-ai-and-hpc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops.md",
-      "title": "Deploying applications built in external CI through IBM Cloud DevSecOps",
-      "excerpt": "What is IBM Cloud DevSecOps and how can it be used to guarantee secure and compliant applications?\nThe post Deploying applications built in external CI through IBM Cloud DevSecOps appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops/",
-      "originalUrl": "https://www.ibm.com/blog/deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T05:44:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ai-animation-art-therapy-and-the-importance-of-childlike-creativity.md",
-      "title": "AI animation, art therapy and the importance of childlike creativity",
-      "excerpt": "Do you think the future looks bleak? As our lives advance - along with our technology - will we become less creative? Ari Kuschnir, Founder and Managing Partner at m ss ng p eces, thinks not. Instead,",
-      "sourceUrl": null,
-      "webUrl": "https://shots.net/news/view/ai-animation-art-therapy-and-the-importance-of-childlike-creativity",
-      "originalUrl": "https://shots.net/news/view/ai-animation-art-therapy-and-the-importance-of-childlike-creativity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "shots",
-        "domain": "shots.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

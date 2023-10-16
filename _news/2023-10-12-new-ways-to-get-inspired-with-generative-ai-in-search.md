@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-octo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
 type: article
 quality: 109
-heat: 289
+heat: 309
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6526d079a8afc579c64e54c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Generative AI spending to reach $143 billion in 2027, says IDC"
+    excerpt: "The forecasted growth of generative AI investments is more than twice the growth rate in overall AI spending and 13 times greater than the CAGR for worldwide IT spending over the same period, according to IDC."
+    publishedDateTime: 2023-10-16T17:38:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d1bba84c8b787a0280e54344fc26e3fde14fa950/2023/10/16/4b345a15-0f92-47bb-9747-c066f61c3e35/gettyimages-1466480060.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Generative AI could help low code evolve into no code - but with a twist"
     excerpt: "Generative AI tools can handle many low-level tasks, but professionals need to be careful how they use the technology for coding."
@@ -260,6 +276,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 47
+  - title: "How to Capitalize on Generative AI"
+    excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
+    publishedDateTime: 2023-10-16T16:00:00Z
+    webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23061_MYERS.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "3 critical considerations for generative AI on campus"
     excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
     publishedDateTime: 2023-10-12T09:00:00Z

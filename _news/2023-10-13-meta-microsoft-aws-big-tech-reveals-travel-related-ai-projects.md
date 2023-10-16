@@ -66,6 +66,22 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "TCS bets on Microsoft AI partnership to fuel growth"
+    excerpt: "Tata Consultancy Services (TCS) is expanding its partnership with Microsoft to develop AI-based software services for clients. The collaboration with Microsoft's Azure OpenAI and the use of cloud-based AI tool GitHub Copilot will allow TCS to offer ..."
+    publishedDateTime: 2023-10-16T17:25:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/articleshow/104476578.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-104476569,width-1280,height-720,resizemode-4/104476569.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
     excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
     publishedDateTime: 2023-10-15T18:30:00Z
@@ -190,6 +206,15 @@ related:
     excerpt: "By Microsoft News Center The data auditing platform Datatrue announces today the launch of a patented data validation and personal"
     publishedDateTime: 2023-10-16T07:26:00Z
     webUrl: "https://www.inferse.com/756889/datatrue-launches-privacy-leak-detection-supported-by-microsoft-ai-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
+  - title: "Microsoft and Epic expand AI collaboration to accelerate generative … – Microsoft"
+    excerpt: "Eric Boyd, Corporate Vice President, AI Platform, Microsoft Today, the promise of technology to help us solve some of the biggest challenges we"
+    publishedDateTime: 2023-10-16T16:11:00Z
+    webUrl: "https://www.inferse.com/757622/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-microsoft/"
     type: article
     provider:
       name: Inferse

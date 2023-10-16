@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-18-riding-the-ai-tsunami-the-next-wave-of-generative-intelligence.md",
+      "title": "Riding the AI tsunami: The next wave of generative intelligence",
+      "excerpt": "With an AI tsunami seemingly inevitable, we all must be rugged and flexible, adaptive and embracing of generative AI and other new tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/riding-the-ai-tsunami-the-next-wave-of-generative-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/shutterstock_279476240-e1694623197350.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-17T18:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide.md",
       "title": "2030, Artificial Intelligence (AI) for Security Market Research Report | Booming Worldwide",
       "excerpt": "The Artificial Intelligence (AI) for Security market research report and industry analysis ... The Juniper Network, Inc, Cisco Systems Inc, Facebook Inc, Broadcom Inc. (Symantec Corporation ...",
@@ -1372,58 +1424,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-06T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-ive-made-27-million-in-revenue-in-the-last-6-months-by-selling-ai-courses-and-using-ai-tools-to-cut-costs-heres-how.md",
-      "title": "I've made $2.7 million in revenue in the last 6 months by selling AI courses and using AI tools to cut costs. Here's how.",
-      "excerpt": "I started sharing what I was learning in late 2022 on Facebook and via email with ... People wanted to learn about generative AI but already felt behind Talking with my audience via direct messages and market-research calls, I found that business owners ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9",
-      "originalUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64f07bcbf8c86200196140eb?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-sell-ai-products-made-millions-2023-9?amp",
-      "publishedDateTime": "2023-09-05T04:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

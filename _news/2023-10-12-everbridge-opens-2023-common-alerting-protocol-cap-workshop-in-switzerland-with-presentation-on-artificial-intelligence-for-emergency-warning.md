@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/10/12/9897445.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/12/9897445.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Natural Language Processing - Switzerland"
+    excerpt: "The market size in the Natural Language Processing market is projected to reach US$409.80m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 16.04% ..."
+    publishedDateTime: 2023-10-12T07:52:00Z
+    webUrl: "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/switzerland"
+    type: article
+    provider:
+      name: Statista
+      domain: statista.com
+    quality: 39
+    images:
+      - url: "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hzdF1Kl0oFE2xc+TshY1qmbeQRAQs5Zi1erYLIfZ0FFkwukpUb2md3zrQZK+O7GOldzgaC/T5uMtGUhitSoKBz6KJTqodjWke3dqxBEQj8C0Tf3MPecrUMZwswRwG9mNFortZNHN8te5v0lXV1if64RD//bOeV0j27CYoz2IQNQUT/axPM5fjFIMtqmtR0JDrFarT7ehn0EFAzpHhjWgCxMQIoya2dAWYrTxjjhZYNAc2IIv0xCilngM3udCYJRXu3TkuOeyYoGmHJbprG5ZRaOzHqxKofl6UF2rzBHVZjEjw2ugjBWCSNIBwcoB4DDPJAQjU+ZOsVITF7mHdz5XPLk6UUq0jL1Ig7VyZ9xlYNdSyf+7AQwd6gUzsJQ4Di58V+WYp6S6+mQoL9zzMHPMGXhrTnHOjzk0J5NKzfGT9V8IR5ok0nkdWWh943WgEE8CwVHo8Lhu0zwL+M8nApcQeLasspqf8/vLN01+2T1Q+4DfPnpDU3toLHFXkZqlyLFKfr6wpqIK8i4Sx9SWJ3Yahw==;GPCi3ws7I0JE20zqKmcU/Q=="
 ---

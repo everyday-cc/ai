@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-16-ai-models-are-powerful-but-are-they-biologically-plausible.md",
+      "title": "AI models are powerful, but are they biologically plausible?",
+      "excerpt": "Artificial neural networks, ubiquitous machine-learning models that can be trained to complete many tasks, are so called because their architecture is inspired by the way biological neurons process information in the human brain.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.html",
+      "originalUrl": "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/ai-models-are-powerful.jpg",
+          "width": 2880,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-08-ai-powerful-biologically-plausible.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-powerful-biologically-plausible.amp",
+      "publishedDateTime": "2023-08-15T12:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-15-suzhou-universal-chain-technologys-digital-reshaping-with-ibm-hybrid-cloud-and-ai-software.md",
       "title": "Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software",
       "excerpt": "A look at the development of Suzhou Universal Chain’s enterprise application integration platform and business process automation management platform.\nThe post Suzhou Universal Chain Technology’s digital reshaping with IBM hybrid cloud and AI software appeared first on IBM Blog.\n",
@@ -1254,58 +1298,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face.md",
-      "title": "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face",
-      "excerpt": "As part of a Space Act Agreement with NASA, IBM set out earlier this year to build an AI foundation model for geospatial data. And now, by making a geospatial foundation model available via ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face-1032509425",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face-1032509425",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

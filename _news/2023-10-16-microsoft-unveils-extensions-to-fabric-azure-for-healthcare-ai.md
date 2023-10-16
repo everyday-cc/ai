@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 266
+heat: 286
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://www.slashgear.com/img/gallery/bing-ai-joins-microsofts-bug-bounty-program-and-the-payouts-are-big/l-intro-1697233282.jpg"
         width: 1600
         height: 901
+        isCached: true
+  - title: "TCS bets on Microsoft AI partnership to fuel growth"
+    excerpt: "Tata Consultancy Services (TCS) is expanding its partnership with Microsoft to develop AI-based software services for clients. The collaboration with Microsoft's Azure OpenAI and the use of cloud-based AI tool GitHub Copilot will allow TCS to offer ..."
+    publishedDateTime: 2023-10-16T17:25:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/articleshow/104476578.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-104476569,width-1280,height-720,resizemode-4/104476569.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Meta, Microsoft, AWS: Big Tech Reveals Travel-Related AI Projects"
     excerpt: "There has been a travel component to many big product releases related to generative AI this year, and it's happening more frequently."
@@ -200,6 +216,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
+  - title: "Microsoft and Epic expand AI collaboration to accelerate generative … – Microsoft"
+    excerpt: "Eric Boyd, Corporate Vice President, AI Platform, Microsoft Today, the promise of technology to help us solve some of the biggest challenges we"
+    publishedDateTime: 2023-10-16T16:11:00Z
+    webUrl: "https://www.inferse.com/757622/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
     publishedDateTime: 2023-10-14T23:01:00Z
@@ -210,6 +235,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "LtxSf+Aq54bghNRk7d6EfGMc3TgGoJl/QfuN8Yql5QWBg7dJP47TBgWozA7tGT21RrMKYnoj/PVGswA9AioKeo6yXUSLnEmTRSqK8gFIC2kVaBs1mkrCr0bvz0WQvw1r/dTxP+6Z2oMzoKeItaj5VE6bv5TivCid2ZEbZ2KI+CrvmvwV3HAbdYk8kAWVNCX9CuDEi1e7wJdLwMSnZVsUSFhAmZSl1BC8SVEdvaQ+yJM75q0wzTEAvPRXbp9s5iS0nHNxUXdApGHrE9M1lNUtbRnPNiwG9IzWgtLAtqm3+8z+ak9wwpC4uHZM00sm4TrOIHK7NkqLo1DLlr9DwwoWfcqKQIv67nBBsGXcrjV4jPU=;+M2FfXFw0Cu0Aa5V4qqDwQ=="
+secured: "CjiRGkeR7hOJtirzd8SqsKWRT6T4R+kZm+mGy07o4/U4kCP1+NLpkhylnILpiFMT1NfwZFJ99wd18DJv1U//bYQeE8FpiErEfE09PZzQovhT5HLBrATLoQP6UW3tzjaAtHmj62ghsouHTFsgSVyOQcZean4KBaT+rDE6Qx2oqazjfe3fQHlYF48pEhEZH5BwIsTaJAUdyrsUZ2o23lRqE9klbHH5LvR1nx4EfE3raqPpWPU7BshUEfNlqYqlGg0cPM+00AzNv7jyndq+baPoEujTgxwV72aFbN1PbFzzN8ATKCwNlZpBcWtNQ8tc+Tuwxwj2lSC5s042VNsMosmLcAi7E79Ir0se7HDm1/qg8o5JMqQwKAiHw5KFZC43R/BOkn6nUAKEsZtEfsa1esWEAKKwLnAxXI+9MACrFUFzWP+53L2oy6iMyV2PWj4rq+odIOcAaP77HAqx4tOBno2pyBLu9gr0QVvXQHR1mER/fHHRJKHbx9oA8ZQfu1bJyQGx4GJx0XJMsGhKCiDrF4z3lg==;rfxLvT/tiimZpeEGk13oMg=="
 ---
 

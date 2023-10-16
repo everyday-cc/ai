@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/tag/ai-as-a-service/"
 webUrl: "https://insidehpc.com/tag/ai-as-a-service/"
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 74
+published: true
 
 provider:
   name: insideHPC
@@ -23,6 +23,36 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Pocket AI RTX A500 palm sized GPU accelerator"
+    excerpt: "The ADLINK Pocket AI, a portable GPU accelerator, is a unique device that is set to transform the way we work with artificial intelligence (AI). Powered by an NVIDIA RTX A500, this compact device is about the size of a pack of playing cards, making it a ..."
+    publishedDateTime: 2023-10-16T14:28:00Z
+    webUrl: "https://www.geeky-gadgets.com/portable-gpu-accelerator/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Pocket-AI-RTX-A500-2023.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "HIVE Digital Technologies is Building Green Infrastructure for the AI Revolution"
+    excerpt: "Kilic is the president and CEO of HIVE Digital Technologies Ltd., a Vancouver-based digital infrastructure firm. HIVE got its start in 2017 as HIVE Blockchain Technologies—the world’s first publicly traded cryptocurrency mining company, with listings on the Toronto Stock Exchange, Frankfurt Stock Exchange and Nasdaq."
+    publishedDateTime: 2023-10-16T17:17:00Z
+    webUrl: "https://www.bcbusiness.ca/HIVE-Digital-Technologies-is-Building-Green-Infrastructure-for-the-AI-Revolution"
+    type: article
+    provider:
+      name: BCBusiness
+      domain: bcbusiness.ca
+    quality: 34
+    images:
+      - url: "https://www.bcbusiness.ca/CDN/20/image/hive-digital-header.jpg"
+        width: 1282
+        height: 611
+        isCached: true
 
 secured: "lIiVMrqh09bpLQ8gmc7OrtDHcOkcILn1BmqAL/BfNsUVD+iuJ7IgaX9rmZh2lHVHA0aXVt1SkMmNtlbmx4bVlNaexpyFleynif5h99PDS6TRnxoIApOc82dxAbiM8kYakNb9lMaUV7FyPOzxKr0MWkf3N4DLapEfzs+iVVK8EWKeQhfYwVGI2a7ChJRr+nrVFRVbzj0dyUR3lkkF1gPZ9617MaCVo/Swpb83LUDdbVw7FbjWYPUmEBybLjGS+9iYSYdD9Oxv5fAHzylEnpeQe3AKq9OhTcnfei9gALtUxqU8xfzZooiILVTYyff8aDmRIu5FEoL/DLhxepJjzv06gpPN5Z5GRqmNl85SG8c6GHA=;VOxwX/dZsaBQGMHwJKPUXg=="
 ---

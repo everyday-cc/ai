@@ -54,19 +54,19 @@ related:
         width: 420
         height: 554
         isCached: true
-  - title: "Europe eyes strict rules for artificial intelligence"
-    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
-    publishedDateTime: 2023-10-11T23:25:00Z
-    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
+  - title: "BlackBerry Announces Generative AI Powered Cybersecurity Assistant"
+    excerpt: "The solution, which will be available to BlackBerry's Cylance® AI customers, predicts customer needs to proactively provide information rather than requiring users to manually ask questions and compresses research hours into seconds. Fully integrated in ..."
+    publishedDateTime: 2023-10-16T16:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blackberry-announces-generative-ai-powered-cybersecurity-assistant-1032708155"
     type: article
     provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 41
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/2247444/Gen_AI_V5.jpg"
+        width: 400
+        height: 209
         isCached: true
   - title: "The state of federal cybersecurity, AI governance, and cloud strategy"
     excerpt: "Federal cybersecurity professionals agree—federal agencies need cloud skills and AI governance for proactive security and improved incident response."

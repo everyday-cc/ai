@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 webUrl: "https://www.techradar.com/amazon-prime-day/new-prime-day-deals"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Amazon gift card deals, offers & coupons 2023: Get $325+ free"
-    excerpt: "The big news is that there are some Amazon gift card deals that anyone and everyone should take advantage of immediately. Altogether, there’s more than $325 in free Amazon credit and discounts ..."
-    publishedDateTime: 2023-10-12T00:00:00Z
-    webUrl: "https://bgr.com/deals/amazon-gift-card-promotion-2021-how-to-get-10-free-right-now/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/01/amazon-gift-card-deals.png"
-        width: 3560
-        height: 1800
         isCached: true
 
 secured: "XqyU3vjTJhBFjhPt2IsyqlgSnVHEQRUhJ1LiP0tvMK5IxoEF1Y+akiLGCWIspTu088s/sfQhUgPf16ndHF9fZ0B8+ZsEFbroZSS7pFG/fI6ml+FUw3sKTdijsnUL7idlSJFnuQ4JGeXRXElHgz9i3gbAo8uB+UEuI1/BIWpvSL1GGfg9lgHs8yVsg5H4mD0Ih0CHe/pgRr5FVCMXZlWOAjEDZeMdm/KhXy5ETnMpIe9WCghqBc67QIcWu45iEVIMezdyVtxSWPundpUe2p3ImcVwXbeI1OsyFBq0w2SATavvOWmYvzAbSPvzerXwA2ATjLFOlH5HZH1mQ8yfFc9enY6RjE4vxro00NSiyJZP9Pg=;o7V9T82lfpGIRO22zqLJQg=="

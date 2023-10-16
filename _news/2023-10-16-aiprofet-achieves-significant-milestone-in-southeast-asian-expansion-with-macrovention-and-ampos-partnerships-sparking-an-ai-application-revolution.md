@@ -44,20 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Elevating AI with Custom Chip Technology"
-    excerpt: "As AI technology continues to grow, there has been a shift in focus from traditional processors like GPUs to custom chips."
-    publishedDateTime: 2023-10-12T00:33:00Z
-    webUrl: "https://www.dmnews.com/elevating-ai-with-custom-chip-technology/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Custom-Chip.jpg"
-        width: 1000
-        height: 523
-        isCached: true
 
 secured: "Kh6FWQc0DQbN5k+0oS3BpOUTWxU0U0dN5K9G8lLECq9R6W6Le4djHgbVbPIll51lRGBOQtVWqbjpnyIFSXHfG8+bR4N3Hy0qj2B2nBGWMTonqRjYPV6Nb+sFTfFrf7ndRGIydpKXgMi2XwTmG34G1/INH0AwthaWhkWk2ZUu9BOllVqYLpCx6nTI6YM7hmWwF7wW28osn4nso4xbTaJJ9LrFdTcmgEIO7suBp3swrWT+f/pV6GmLkDG25T7v1gpQpAWAW/fwVd2hBiT8tYiLWAta3BsboBYJluUcdFRC5cELF64mz9cJdIkMFFTHxcAyTZ5mtIyIVPKWmiTnOkb2nb8haY903byATVTQ0cUiyBk=;+0IhQU1+cpAmArQOpo6hbw=="
 ---

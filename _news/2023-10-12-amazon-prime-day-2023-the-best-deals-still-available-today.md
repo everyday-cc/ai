@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Amazon gift card deals, offers & coupons 2023: Get $325+ free"
-    excerpt: "The big news is that there are some Amazon gift card deals that anyone and everyone should take advantage of immediately. Altogether, there’s more than $325 in free Amazon credit and discounts ..."
-    publishedDateTime: 2023-10-12T00:00:00Z
-    webUrl: "https://bgr.com/deals/amazon-gift-card-promotion-2021-how-to-get-10-free-right-now/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 24
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/01/amazon-gift-card-deals.png"
-        width: 3560
-        height: 1800
-        isCached: true
 
 secured: "XHaW/GwhZz/rgGym+4uGagEwASoqhinZH2M9tGkNjPEiZrQrwQwVIsIBbY9UdX39GEuWfF7AQytin/faXRab/ewLW+V3d9oaOI66Qvbj4/0jZBdrR6uHuNNz8vihm6r26JVx9HLuzE+g0gCQhX9I3AYOnOav+b1w0fEFnxCaaqTajbHi9GeH0n3MuqItgR+bHPLJ4dqFNDpa8ZtTnZZsb5VzvT0GQcAECbS2A4vV5HvClxH5b4dqyJfkh7lWsQaZsoE9A1xfffGzEbeS5k+MPoJNOG//ulz+0MSrz0ltPBQjRfsu7Eo6woMPldJ7kYbuRNlnIIVNEC61itv5tUY6Ifj81v4ggKWiFBxtK0NRVnQ=;KC9mKbPz6AYjT9POWujsaA=="
 ---

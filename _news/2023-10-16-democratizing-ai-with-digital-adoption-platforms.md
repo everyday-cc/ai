@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Elevating AI with Custom Chip Technology"
-    excerpt: "As AI technology continues to grow, there has been a shift in focus from traditional processors like GPUs to custom chips."
-    publishedDateTime: 2023-10-12T00:33:00Z
-    webUrl: "https://www.dmnews.com/elevating-ai-with-custom-chip-technology/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 54
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/AI-Custom-Chip.jpg"
-        width: 1000
-        height: 523
-        isCached: true
   - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
     publishedDateTime: 2023-10-16T11:51:00Z

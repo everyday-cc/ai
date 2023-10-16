@@ -58,6 +58,22 @@ related:
         width: 790
         height: 496
         isCached: true
+  - title: "AI could prove energy hog that uses more electricity per year than some small countries: study"
+    excerpt: "The growth of artificial intelligence could put a strain on energy resources globally, with AI tech depending on powerful servers that hog electricity."
+    publishedDateTime: 2023-10-16T15:43:00Z
+    webUrl: "https://www.wogx.com/news/ai-could-energy-hog-more-electricity-study"
+    ampWebUrl: "https://www.wogx.com/news/ai-could-energy-hog-more-electricity-study.amp"
+    cdnAmpWebUrl: "https://www-wogx-com.cdn.ampproject.org/c/s/www.wogx.com/news/ai-could-energy-hog-more-electricity-study.amp"
+    type: article
+    provider:
+      name: WOGX
+      domain: wogx.com
+    quality: 45
+    images:
+      - url: "https://images.foxtv.com/static.wogx.com/www.wogx.com/content/uploads/2023/10/932/470/Open-AI-illustration.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "Na9wlxS8KxEhRZ8HB8AblWVaIkK4sGFSuDPjz+vx3VwZeFVQ/e36fgiJeEIMefjsVJ4KaLy9+L156KuuQCrkpjdAqzzua11HR3Wgv3r2b0tLs6h0QVpB+mB8cQik4TnYL0PwwrwIWng2OARa99i1rUGQOB0Se818lw8oaCItCsLeuHOsuNw4yalOP1YyzfGbZ3NW2xjlm9qUt5WP6qpLYZku4rUOVsU+KT8FpuISk/Aje289XPyr6IGztiwgEot3wobn7l/B5/pnnupkNT/XGYIyCoBF0U9snIzEaOhM+HWW2/1zQGKWTbLEFIY/e56itQGxyGO6AridcFPhZDUfqj03wOs245nN4fBDfEGpcceB0mdHoref2AUJNWeIIpVkmVob36djlW25LVF8vngxyP7UBF7OUzH/7U+NZJinJxIy0yyL1icojr0wow0cgyA3lCD3HBD2jy6spmN9xlLjY8Ost4GynEZLbGvYkFwF9iFJhjcE2JadyPaoBytFK5H8V+Yisr7/pINkoudeB8XdxQ==;YXGhmukmyqWBMQCTJWcSVA=="
 ---

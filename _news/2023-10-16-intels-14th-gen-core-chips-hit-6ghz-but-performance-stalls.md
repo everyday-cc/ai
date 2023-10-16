@@ -22,6 +22,22 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Intel’s Latest i9 Chip Has Speeds up to 6GHz"
+    excerpt: "It’s official: Intel has announced the 14th generation of its Intel Core desktop chip, introducing six unlocked desktop CPUs for “enthusiasts” to the lineup: the i9-14900K/KF, i7-14700K/KF and i5-14600K/KF."
+    publishedDateTime: 2023-10-16T17:00:00Z
+    webUrl: "https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 39
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4c91e9b273a00b03e6a51968471fb51a.png"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "SVWuGueJLey98EXM9DuTOj8L5caScArgZfnXKtE4z1wxPbqs+oAwJC7Swwh8Yj4NvmSv8vBRc34jkvZf33cyc48J4EvYIGyT29e1GsewZqPnDX33G+C5UUPzKaOMrXwoNh2lzygDr22YXkwHr1BCdT6129kWzVxqJwCe13l7jQYmB5Ukc2v01VPF5m+8xkmBoYArrZqAY4e7z6NKnacguxSEGst7iCZe70g2c8o9dDAIiHLNC3XhQU0BxrfGvZyggEcE9HQlnDdjG8i6bwHlosXgIvdcjfTAhSekgGjal6ibdOuMLRA63B7ZY0k3BLHEfhomsiS1X8yvEX0mDIE2Hq2g3VjfHmQbXfWUfyaxrHZhi4U2/cZThtMFMBe4IC43pKkba5zHRxtcRgG5JDc0WKSwQs/d3duW1RHRfEkzOScww244UKBI9MABlqSF/TwITP0Q8lIXye6vYL32aQUQt0yemAxYvgXkEkaSPR+cNru3rNgFnwlr6lmgZAqhsbkhLM0z2+wFfWulrGcLcZEbBw==;SBq7InVQsi4sXzm2Z0AlYQ=="
 ---
 

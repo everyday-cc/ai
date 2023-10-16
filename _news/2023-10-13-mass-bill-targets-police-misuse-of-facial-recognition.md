@@ -9,7 +9,7 @@ ampWebUrl: "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-f
 cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "BBC uses facial recognition to identify terrorist as police officer"
-    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
-    publishedDateTime: 2023-10-12T00:21:00Z
-    webUrl: "https://www.biometricupdate.com/202310/bbc-uses-facial-recognition-to-identify-terrorist-as-police-officer"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
-  - title: "News outlet uses facial recognition to identify terrorist as police officer"
-    excerpt: "In the aftermath of a series of terrorist attacks against people in Israel, one media outlet attempted to identify perpetrators with facial recognition."
-    publishedDateTime: 2023-10-12T00:09:00Z
-    webUrl: "https://www.biometricupdate.com/202310/news-outlet-uses-facial-recognition-to-identify-terrorist-as-police-officer"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "Bill targets police misuse of facial recognition"
     excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that’s meant to crack down on racial disparities among ..."
     publishedDateTime: 2023-10-13T07:31:00Z

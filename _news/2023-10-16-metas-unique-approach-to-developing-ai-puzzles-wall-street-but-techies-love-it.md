@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzle
 ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
 type: article
-quality: 82
-heat: 82
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - Microsoft AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201"
@@ -29,6 +31,6 @@ images:
     height: 1376
     isCached: true
 
-secured: "Ya5kadOLZ2V0icF14VQmm6QJLckwHY/JUpNFUY1XvVFI7E/mmXHyrWzZwFryjq8HllkUDbs1Mdo8nklg2wmvs60zzX0a9OFORIhDGUiFIE1vYYOhomExJsqmmcTmHV4d6SjnuuDCUTBx7ZL3qQ5gsbjqrN2vL7KkkULkWasXPVbSlfM5lc8CoqNy9dJ7S0Ey/rXT62FRXk90Rz6uQl/O6TuN3/xvjgThko/kTR1cl75i/FL0L/Nw/Itfr7CUvnu7KSeiH8ZltU75TJTZHGC+fga94qfqCN7sIMUFTt8UJCu/LnECt+yGnQvWtp6J51RIvdtOERweZhQh8cF/IGPWd+dyywtHDWaaLDLCkOlg0/I=;3jMD5FpRmORf3B1hpdiuqg=="
+secured: "NUYJQtPHtW9QSpK2o+EmqztPnMx5AyGt2UNSs0z9qhM1Iv79Vz4zV7pWrxAkY+GwA4fEvr1onIdbE8/V2L9/M9HVHHbBWFwC+6LlgQWAgQKm8DAslWwDLoCfk6OJi8aOryO8HnQpXaI4f3pbXL30OhksDbdurZXP78RagbUGB6BPUtuGGHYKRhi79jkgHmyi+c+fJmp9zX8Dgg7SndgLPbnzdO/LiJgNK/QjVi6CH46+NVq8PsnEnz2I4vXp/P2/34W1AaPNqVspq5uj2L1b7cgOZAcp/yHx0kADFxtS9jReoHbB50THeVTggnXinZAib9QZN+2QntaxS4zCCQ7LbtA/ZLvJ2GY9Z3fL1qX615Q8OV+iIGA2Q8XLLkw3Qo5mgAoJS8qo908z9e3MmUBCoEhN7KotvSUdkA8QpTVR1OxrbI0oxQ7u7/XQcubmqBh7F5C5dTZ6qgVpCBqApeB7CCFXx0KP2tVoNitHhRO0RwDyPzqy8pXWBHEKS25Cp36KSJZvyN9he95mf9tvTbIcCQ==;dP2IAlnzMn3rgv28/m6Ojg=="
 ---
 

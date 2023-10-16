@@ -1,23 +1,31 @@
 ---
 category: news
 title: "AI Meme (AIM) Presents a New Way to Integrate Memes and AI"
-excerpt: "With an ambitious web3 roadmap, AIM aims to become a significant player in the emerging sectors of memes and AI. The project's team will use funds effectively for its development and success, with transparency and community involvement at the forefront."
-publishedDateTime: 2023-10-16T12:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898742.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898742.htm"
+excerpt: "AI Meme (AIM) unveils a unique roadmap to achieve this innovative goal. AIM promises a revolutionary interaction with memes fueled by AI advancements. With an ambitious"
+publishedDateTime: 2023-10-16T11:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/23/10/g35262845/ai-meme-aim-presents-a-new-way-to-integrate-memes-and-ai"
+webUrl: "https://www.benzinga.com/pressreleases/23/10/g35262845/ai-meme-aim-presents-a-new-way-to-integrate-memes-and-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/35262845"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35262845"
 type: article
-quality: 19
-heat: 19
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "dELTdS4BYZbEFDrPQ8R62y/ACVg2XnIqFPqlozRabX2+lgfpX48xv8PD0nma4eLUeXV46bH8czAmBDgvpwNp0auQGWowGdOVj5eHRKI78lQuQqYUVJPEfklhDfC85XE6brw+6+rBzgVScM4u+jhq215Z/jCeQ2cqP7bxB24mKuRM+ySUXrXTvV7ZooqUMVHG1Dv+tTiceAbMwXSCH+rsq1R9SzqPHJBBaYD0EtF1iVgqNFLOGKFFD41KTa/ulwmYu1PNsILmBGwVOnSImw+gk5iJBxx2XpBXyA7v9A/dg6MWr8tSpzOPYvYLnQNUh6J7Z49V03AFbc9eBb3NJcBhnWnadNP6Dpd0IOclLC1Px0u5CrAAauuYqkhNI3XSHeMwPG5OOx2F67C0/NFMaAGJoiUJKpbDM7Q8k+mq42tLieQeWPaXW1AkvpdBRNsA17iBMa6nW/lFkJjNWR6t1zgBSZF6mof6qNPKx50bcYFMPOJjzhKugbFe69Zui57EHxXu18trZgBKWmaUVNCYG2QzcA==;Su6wgXyHU5vNH9rd9aQK9g=="
+images:
+  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+    width: 1043
+    height: 1043
+    isCached: true
+
+secured: "ZhYScCqB5/R0yY73WAvgMIbKJ2F15urm64djx8aROn5NbKCK4sbJMwrs6eP/Fd8xdsqrpNf8TvN+BXkZBJTgEgBaoEt4fCKoiWlEpXbQjl+5wVg0b8BlfCbO3Qed+WDUFl+ZeRjqneA99+q97bMRBqjKq9ri6+aGkNV6bm7Pkrl4fT+svggtRPOrrgJT9bh5d5WDGjmECHS5rQ9EUwaSPJ5RYmaGGO3vLd2zt4AEixJvXWeJJ/eB5gkSyUH5IC3xrDXZANT6sp9xUfr0NXFW6cUEsSXdPSKaMK80u+V46GUBZEJUAr2UwhFIlqtzJlUQDPnfqBAyMKTBrW2Dtxf5+Ff8rVEt6qB7P8Vc8+ZoZOI=;tLeg01leWihF2iFfXMAUtQ=="
 ---
 

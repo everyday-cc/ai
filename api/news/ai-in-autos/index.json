@@ -174,6 +174,59 @@
       ]
     },
     {
+      "path": "_news/2023-10-13-the-impact-of-artificial-intelligence-on-software-development-still-unclear.md",
+      "title": "The impact of artificial intelligence on software development? Still unclear",
+      "excerpt": "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "originalUrl": "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/",
+      "publishedDateTime": "2023-10-13T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-is-artificial-intelligence-right-for-your-business.md",
       "title": "Is Artificial Intelligence Right For Your Business?",
       "excerpt": "Artificial intelligence (AI) has evolved to become a cornerstone of the business landscape, driving transformational changes across industries. As a business leader, you will find yourself at a crossroads, contemplating whether to embrace AI and if so ...",
@@ -318,15 +371,15 @@
       "title": "Georgia State receives $10 million artificial intelligence research grant",
       "excerpt": "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial",
       "sourceUrl": null,
-      "webUrl": "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html",
-      "originalUrl": "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html",
+      "webUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
+      "originalUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/assets/v3/editorial/f/ce/fce0efed-7e2c-5fb3-941b-255887ed7b4e/6525bb6020bdd.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize",
+          "url": "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/e/d2/ed26ad10-67a9-11ee-aab4-4bdaf1c2cfd2/6525b12a16f0b.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize",
           "width": 800,
           "height": 420,
           "title": null,
@@ -341,8 +394,8 @@
       "publishedDateTime": "2023-10-10T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Rome News-Tribune",
-        "domain": "northwestgeorgianews.com",
+        "name": "Albany Herald",
+        "domain": "albanyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1279,50 +1332,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai.md",
-      "title": "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI",
-      "excerpt": "So we posed a similar challenge to Google’s new artificial-intelligence engine, Bard, with a few tweaks: “Please write a 550 word editorial in third person explaining why Florida newspapers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
-      "originalUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/wp-content/uploads/2023/10/NYTimes_ROOSE-COLUMN.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

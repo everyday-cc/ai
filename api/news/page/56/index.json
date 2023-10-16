@@ -2,6 +2,375 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-09-06-georgia-can-resume-enforcing-ban-on-hormone-replacement-therapy-for-transgender-youth-judge-says.md",
+      "title": "Georgia can resume enforcing ban on hormone replacement therapy for transgender youth, judge says",
+      "excerpt": "Georgia can resume enforcing a ban on hormone replacement therapy for transgender people under 18, a judge ruled Tuesday, putting her",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3927778/judge-allows-georgia-to-resume-enforcing-ban-on-hormone-replacement-therapy-for-transgender-youth/",
+      "originalUrl": "https://mynorthwest.com/3927778/judge-allows-georgia-to-resume-enforcing-ban-on-hormone-replacement-therapy-for-transgender-youth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg",
+          "width": 452,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-kindo-raises-7m-for-ai-productivity-platform-for-businesses.md",
+      "title": "Kindo raises $7M for AI productivity platform for businesses",
+      "excerpt": "Kindo has successfully raised $7 million in seed funding for the launch of its secure AI productivity platform for businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
+      "originalUrl": "https://venturebeat.com/ai/kindo-raises-7m-for-ai-productivity-platform-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/kindo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher.md",
+      "title": "1 Top Chip Stock Ready to Ride Nvidia's AI Tailwinds Higher",
+      "excerpt": "(up more than 232%) since the beginning of the year. For the most recent quarter, Nvidia racked up $13.51 billion in revenue, more than doubling last year's figure and setting a new second-quarter company record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
+      "originalUrl": "https://www.nasdaq.com/articles/1-top-chip-stock-ready-to-ride-nvidias-ai-tailwinds-higher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-thanks-to-ai-hearing-aids-offer-translation-other-high-tech-features.md",
+      "title": "Thanks to AI, hearing aids offer translation, other high-tech features",
+      "excerpt": "Sawalich says, \"If somebody falls, it'll text up to three people.\" They can also translate foreign languages. These AI hearing aids recalibrate up to 80 million times an hour, allowing them to act ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtkr.com/with-ai-future-of-hearing-aids-might-include-language-translation",
+      "originalUrl": "https://www.wtkr.com/with-ai-future-of-hearing-aids-might-include-language-translation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/76e0068/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1693937408_zqbECF.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTKR",
+        "domain": "wtkr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker.md",
+      "title": "How Carrier predicts HVAC faults using AWS Glue and Amazon SageMaker",
+      "excerpt": "In this post, we show how the Carrier and AWS teams applied ML to predict faults across large fleets of equipment using a single model. We first highlight how we use AWS Glue for highly parallel data processing. We then discuss how Amazon SageMaker helps us with feature engineering and building a scalable",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-carrier-predicts-hvac-faults-using-aws-glue-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/05/featured-images-ML-12208-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-05T10:25:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-inside-googles-image-qa-on-android-and-using-ai-for-all.md",
+      "title": "Inside Google’s Image Q&A On Android And Using AI For All",
+      "excerpt": "In a post published on its Keyword blog, Google on Tuesday announced a slew of new features for Android designed to \"stay productive and connected.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f75a941512b57015b0157e/0x0.jpg?format=jpg&width=1200",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/09/05/inside-googles-image-qa-on-android-and-using-ai-for-all/amp/",
+      "publishedDateTime": "2023-09-05T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-06-microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services.md",
+      "title": "Microsoft unveils new features coming to Outlook and other Microsoft 365 services",
+      "excerpt": "There are a ton of Teams features, but other Microsoft 365 services are getting updates as well. Outlook is getting some improvements, as you'd probably expect. Bookings is getting a new UI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2019/01/1547572242_ms365-5_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-new-features-coming-to-outlook-and-other-microsoft-365-services/",
+      "publishedDateTime": "2023-09-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-05-jim-cramer-highlights-chip-designer-arms-ties-to-ai-king-nvidia-why-he-expects-ipo-fireworks.md",
+      "title": "Jim Cramer Highlights Chip Designer Arm's Ties To AI 'King' Nvidia: Why He Expects IPO Fireworks",
+      "excerpt": "Softbank's Arm is slated to go public next week in what is expected to be the biggest IPO of the year. Jim Cramer slapped his seal of approval on the name Tuesday morning and suggested demand for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/09/34241529/jim-cramer-highlights-chip-designer-arms-ties-to-ai-king-nvidia-why-he-expects-ipo-fireworks",
+      "originalUrl": "https://www.benzinga.com/news/23/09/34241529/jim-cramer-highlights-chip-designer-arms-ties-to-ai-king-nvidia-why-he-expects-ipo-fireworks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/09/05/cramer_fireworks.png?width=1200&height=800&fit=crop",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34241529",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34241529",
+      "publishedDateTime": "2023-09-05T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-c3ai-reports-earnings-wednesday-what-to-watch-from-artificial-intelligence-stock.md",
       "title": "C3.ai Reports Earnings Wednesday: What To Watch From Artificial Intelligence Stock",
       "excerpt": "Artificial intelligence (AI) stock C3.ai Inc (NYSE:AI) is set to issue fourth-quarter earnings on Wednesday after the closing bell. Here's what you need to know about the print. By The Numbers: Traders pushed C3.ai more than 300% higher during the first half of the year.",
@@ -811,360 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks.md",
-      "title": "Riding the Wave of Artificial Intelligence: A Comprehensive Look at AI Stocks",
-      "excerpt": "Erica Fluer Artificial Intelligence (AI) isn't merely a buzzword, or a futuristic concept confined to science fiction novels; it's an integral part of the modern world that is shaping the future in unprecedented ways.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34225651/riding-the-wave-of-artificial-intelligence-a-comprehensive-look-at-ai-stocks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34225651",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34225651",
-      "publishedDateTime": "2023-09-05T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-how-704-billion-money-manager-alliancebernstein-uses-ai-across-everything-from-research-to-operations-to-save-hundreds-of-thousands.md",
-      "title": "How $704 billion money manager AllianceBernstein uses AI across everything from research to operations to save hundreds of thousands",
-      "excerpt": "Seven years ago, the massive money manager AllianceBernstein set out on a mission to transform itself with AI and data science ... and head of quantitative research, told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/alliancebernstein-ai-and-data-science-strategy-2023-8",
-      "originalUrl": "https://www.businessinsider.com/alliancebernstein-ai-and-data-science-strategy-2023-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5de7f36ffd9db23def540d73?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery.md",
-      "title": "Fintech Outsourcing India: Crafting the Future of Global Finance with Tech Mastery",
-      "excerpt": "Emerging fintech trends, like AI-driven financial analysis, blockchain in banking, and automation of complex financial processes, further solidify India's reputation",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/",
-      "originalUrl": "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2023/09/Untitled-design-6-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/theprint-valuead-initiative/fintech-outsourcing-india-crafting-the-future-of-global-finance-with-tech-mastery/1747072/?amp",
-      "publishedDateTime": "2023-09-05T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence.md",
-      "title": "USM tapped to develop ethics training in age of artificial intelligence",
-      "excerpt": "The University of Southern Maine has received a federal grant to develop an ethics training program for scientists, engineers and students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
-      "originalUrl": "https://www.pressherald.com/2023/09/05/usm-tapped-to-develop-ethics-training-in-age-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2023/09/37214095_20230829_USMethics1944-1693877941.jpg?w=1024",
-          "width": 1024,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-05T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-civo-adds-speech-to-text-to-greener-cloud.md",
-      "title": "Civo Adds Speech-To-Text To Greener Cloud",
-      "excerpt": "Using a ‘digital boiler’, the system immerses computers in mineral oil to capture the generated heat, this is then passed through a heat exchanger to heat the water.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f2f48d3b7f168d7417ee9d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/09/05/civo-adds-speech-to-text-to-greener-cloud/amp/",
-      "publishedDateTime": "2023-09-05T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival.md",
-      "title": "Expo City Dubai launches region’s first Artificial Intelligence Film Festival",
-      "excerpt": "The event establishes Expo City Dubai as the epicentre of AI innovation, a future-focused community and a global platform for collaboration on big ideas",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/17/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/expo-city-dubai-launches-regions-first-artificial-intelligence-film-festival-buhpqsni?amp=1",
-      "publishedDateTime": "2023-09-05T00:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management.md",
-      "title": "iTechGenic teams up with Microsoft Azure, G7 CR for AI-enhanced Engineering management",
-      "excerpt": "The primary objective of this partnership is to empower engineering teams with a 360-degree perspective by harnessing insights from various DevOps tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
-      "originalUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/image-2023-09-05T113656.774.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/jobs-career/education/itechgenic-teams-up-with-microsoft-azure-g7-cr-for-ai-enhanced-engineering-management/3233431/lite/",
-      "publishedDateTime": "2023-09-04T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-05-aws-hints-at-partner-program-changes-for-ai-and-partner-engagement.md",
-      "title": "AWS hints at partner program changes for AI and partner engagement",
-      "excerpt": "AWS is set to shake up its current partner programs, hinting towards changes regarding genAI and partner-to-partner engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/",
-      "originalUrl": "https://www.arnnet.com.au/article/708622/aws-hints-partner-program-changes-ai-partner-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-04T22:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

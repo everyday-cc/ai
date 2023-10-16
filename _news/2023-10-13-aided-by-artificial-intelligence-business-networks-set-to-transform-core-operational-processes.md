@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Business AI will change the way businesses are run"
+    excerpt: "Then, we created our AI Ethics Policy that defines a company-wide ethical minimum standard for the development, deployment, use, and sale of SAP’s AI-powered systems. Since 2018 we have also had ..."
+    publishedDateTime: 2023-10-13T19:00:00Z
+    webUrl: "https://www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html"
+    ampWebUrl: "https://www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/10/iStock-1468025006.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Using data, AI, and cloud to transform real estate"
     excerpt: "AI can enable business transformation to deliver positive outcomes for clients and propel sustainability goals, according to Sandeep Davé, chief digital and technology officer at CBRE."
     publishedDateTime: 2023-10-16T15:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.socaltech.com/vistry_rolls_out_generate_ai_chatbot_for
 webUrl: "https://www.socaltech.com/vistry_rolls_out_generate_ai_chatbot_for_online_ordering/s-0083682.html"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Mayor Adams: New AI chatbot makes it easier for small business owners to access information"
+    excerpt: "Mayor Adams says the new plan will be a one-stop shop for small business owners in the city looking to access information and resources faster."
+    publishedDateTime: 2023-10-16T17:31:00Z
+    webUrl: "https://bronx.news12.com/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
+    ampWebUrl: "https://bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
+    cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 27
   - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
     excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
     publishedDateTime: 2023-10-16T13:00:00Z

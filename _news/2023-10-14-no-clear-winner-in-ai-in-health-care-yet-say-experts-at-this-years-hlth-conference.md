@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CIOB artificial intelligence conference: register today"
-    excerpt: "The virtual event will take place on 14 December and registration is now open. The CIOB said: “Undoubtedly, we are moving towards a pro-innovation era and AI is rapidly edging its way into the built environment."
-    publishedDateTime: 2023-10-16T11:43:00Z
-    webUrl: "https://www.globalconstructionreview.com/ciob-artificial-intelligence-conference-register-today/"
-    type: article
-    provider:
-      name: globalconstructionreview
-      domain: globalconstructionreview.com
-    quality: 37
-    images:
-      - url: "https://www.globalconstructionreview.com/wp-content/uploads/2023/10/dreamstime_m_111718023.jpg"
-        width: 880
-        height: 560
-        isCached: true
 
 secured: "qneKSjETg3LVJ5KfKTvUp97LpbAr1w3PIQr6YO2nRoLSXeUr42trap2xH+DLHh4k0KoaawQNZkEca0hloCg4F6wVh4ISfq4Fg1mPRvAv9v+sp48eu9DaWaR1cJjqyooIBNZwuxv9HCFwcTemikfptW7McMPA8yIecTGNwNwSCgShf7vuZEzRDEz6rB2BO4JqZZRKuyuYc0chUYZ8RosoEFOBg+WiOP5ojvAFTLPCmDUnXix1aLPLtgtU+FzTOvlgrg/TPlW9U0ROVPEZaa6ZxjyCYNW+FJP/xyDrDneFt3eqspwZSCAtRnE+mwqpE7+iC2Q9ISOi+NZ2dMymUFfhD0YPllra02cOlv5seOkt6Xj4D2SYUyiKAuwWwTcjs3cJDge2uaW+V80ODb9Nl0Vc4oJqrLMNyS6gOB6v9+hPCZh7Mu36fencpncy7PH6x2yuV/8Iyg7v1D4KDHs6wjBC3+ZC0xoGowqhCIG+dnhEMaLOCbgojnDXUOXFRbTIl1Yfk7Icn5xBwtBIDr6OeaXUNQ==;dElHX7JceP7V2606pf/HZg=="
 ---

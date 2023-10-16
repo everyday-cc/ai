@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece/amp/"
 type: article
 quality: 78
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -29,15 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Industry Talent Shortage Drives Academic Partnerships"
-    excerpt: "Companies, governments, and universities are forming broad partnerships to update skills and foster innovation in chips, security, AI, and related fields."
-    publishedDateTime: 2023-10-16T12:43:00Z
-    webUrl: "https://semiengineering.com/chip-industry-talent-shortage-drives-academic-partnerships/"
+  - title: "Confluent Introduces Data Streaming for AI + New Partnerships"
+    excerpt: "Confluent announced its Data Streaming for AI initiative to aid organizations in developing real-time AI applications. The company also introduced new AI-enabled tools."
+    publishedDateTime: 2023-10-16T16:35:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652d658ad6d40c26aab6163b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "7VGMqonrkDGkRVYnL46sovBd4P8oC8WN0ZxgHS7HKADjLWvgqcpq6ObckZnRxtdsIVBbcpjO4ze72AP4xwbKZz+eMoMNPi+hpkMD52v8pwnKrSJj5zHYHMa5I32z6ECVAUhXukT5AjjulOkldYZL7l3HxwV/Wr4+mMbX+5AfOsk+WGFOVKHL6aLj8ZUYzmMqtWIhnMb+1T9iZSndWUvGcnkaA5SjIwWLpC5XImVcy4aotQXQ0jJLZQXdOzBZXcgxvv3egx4Qwape2WWly+WxdiG5wrPLJT5XP36nkhkt+v+534cwzBUezfllQTKDcHuZmR/pX330Uq/RfnTi91kOQ0tQ9JG+awX6BE/ZVL2Vkug=;RzsN17A4kxL89FZZ5HOcng=="
 ---

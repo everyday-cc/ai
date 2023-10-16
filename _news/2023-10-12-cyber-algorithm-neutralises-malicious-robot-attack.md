@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence bolsters growth of cyber-attacks, audacity of cybercriminals"
+    excerpt: "These cyberattacks include AI-powered botnets (a network of hijacked computers) and enhanced social engineering and phishing campaigns which are increasingly easier for employees to fall for.October 16,"
+    publishedDateTime: 2023-10-16T16:00:00Z
+    webUrl: "https://rbj.net/2023/10/16/artificial-intelligence-bolsters-growth-of-cyber-attacks-audacity-of-cybercriminals/"
+    type: article
+    provider:
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 10
 
 secured: "beNBVyUwTcM93AnkGRfzpJMePlb0ZNEn6XQ+rD5Jv4K5LvIyl62TQJnaU+Zk9OwqqY4jKL23YuIucjw/2PgcpYw+osMWv1PN4HajYDiwrQVo/JGOaPvLrTdWx9zBo3XAS6iw+pKzG3uWZdxhcqT9cdg5jZF7v3mfxEbUxUqsqjat053sdM2oIiy8aTHBI7mgMLNYQS0SH1AZGk5WpvXzS1wxqEmnstynwOxEHIawJhlYhYVjXFAb/6bzJC9+sAOrmL7CA8Ajr4dYuxtJFvjlky47WbCGQxWfy/n7I24Hua6kHRhtzhYDuqQSQ8HkLMcoO8FRlybtsMjch96ASw8ip8qu+YjJBlvy/IRLBQsFjehmo0ZHaD7O/5JH56ZTbxpS6/Zt9Z2F+vr5BW6vG8hpDNhjiEszxADBpcCF4QXNXhNCNdZd+/msnEjrDzZnvPn1thlRpr1KZi+FRKkWUbZUQRvLQcxyDuWWpmfCzzrDY1nXVnwTvP4KEKths2AT57DOYU+RiqV/ff0010YfE7K55w==;f4ujDHj79tTj6AQe8I2QZw=="
 ---

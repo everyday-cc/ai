@@ -42,7 +42,23 @@ related:
         width: 1576
         height: 900
         isCached: true
+  - title: "Business AI will change the way businesses are run"
+    excerpt: "Then, we created our AI Ethics Policy that defines a company-wide ethical minimum standard for the development, deployment, use, and sale of SAP’s AI-powered systems. Since 2018 we have also had ..."
+    publishedDateTime: 2023-10-13T19:00:00Z
+    webUrl: "https://www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html"
+    ampWebUrl: "https://www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/655669/business-ai-will-change-the-way-businesses-are-run.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/10/iStock-1468025006.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
-secured: "raPCAEcJsL5HdsbCfQr/N9FfnIfvjVn6Yf7d68gPTM7eczYNi0AbIAyjTshTjya+71mSPdNQGAwicrxX8caLviZTJJzXyi+TbareJkhEEy7fBiEX1pXm078tTVPI7I746eky09sbKlPGUva519FpeNVAQcoeHeNSQE4+21QdqOn+/Uq1rMCMbcLNx0BiEN6vFIjgV3lzm17j44JNtnHPki+tvi307oVltERbG92YwHdqclIYlF+ctczi1gOG4isZb0CVJcHGsY4NCsMvEoC1V4A77sZ+QbNzmbRXi41kOGr0lUPAmabTG2SaUDvygUGaa+pe1S4nJ5x6xlpmRBKpduHanS5z5GudiX456hLSLlg=;qEswE9ORS0ORoAcdPGySyw=="
+secured: "rhUrsIRlmvwxxyW69pVJZfrwD9CrJNkTgdyRvWOEXZOU1km5qj6EdJzjzPGdL7IZhQFPHvGT3nh+LuZfZQBgYzz0+YhmMWMcRRyJlS03qxxbJiKxdXWVYMpY9l2CnNJBSgsNfC07Eb5QF+9dNQmu4fDoi0Nod7rmnH0mHVO+4JzfVTk1DRp219sOlTpW2oaeXR7MvDrqRtIKpoJPWBBvrxGxlrAFX2w4nmWx+3P3f5+M20MoMEz6W//PMGhmoTKiW3u57nYqjsG7Bxs1hcyNG1akenezpeLaePpEfvERFg5OuLLbh7UotAI6WXLgZ8w/kKLzs9Bj4G+llKQjH3hSMRU8VsbhFPQYpPbbbBCA4sl3zHvJpn8/ZPZB1UDBLzeBEfyfEEDeOGDw/I+LL+0sITiAxqsNiP6r26u+OwfS31XupZeurHqcf6HdEm8Hfyp1WVkH7Vkze8xVGwuJ67luzyStqhLPsVFPiYSy/ipKeSfI00ciA2CF67Y3/HM1bw5h0J/AecDMRE9RazlkaikfAg==;4bnnzLbPNpXB2XaVbuZ0NQ=="
 ---
 

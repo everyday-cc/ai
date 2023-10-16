@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Jim Jordan’s rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
-excerpt: "Rep. Jim Jordan becoming House speaker would help cement the far right’s takeover of the Republican Party and trigger conflict with Democrats over the size and scope of government. A Jordan"
-publishedDateTime: 2023-10-16T15:36:00Z
-originalUrl: "https://www.sun-sentinel.com/2023/10/16/jim-jordans-rapid-rise-has-been-cheered-by-trump-and-the-far-right-could-it-soon-make-him-speaker/"
-webUrl: "https://www.sun-sentinel.com/2023/10/16/jim-jordans-rapid-rise-has-been-cheered-by-trump-and-the-far-right-could-it-soon-make-him-speaker/"
+title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
+excerpt: "Rep. Jim Jordan becoming House speaker would help cement the far right’s takeover of the Republican Party and trigger conflict with Democrats over the size and scope of government"
+publishedDateTime: 2023-10-16T14:21:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
+webUrl: "https://abcnews.go.com/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
 type: article
-quality: 9
-heat: 9
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Sun Sentinel
-  domain: sun-sentinel.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.sun-sentinel.com/wp-content/uploads/2023/10/AP23288820883426.jpg?w=1024&#038;h=682"
-    width: 1024
-    height: 682
+  - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+    width: 834
+    height: 308
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: floridapolitics.com
     quality: 0
 
-secured: "PxnPFsbf4NNpP7Nz6x9ODeDxRjjQJq2j0fejqttziupi5vrGuFl4ajt2WXAlY0En/L8v+L0L8rE3jkn/zKdBGuCGOs7UKpjovcAjH5jWwfNRSB7yZWPUaqiVE0jVfdAwcml8Npwkb7xR85J5+w/lrGxhmg4ZndSvGeZLeJHwIgrW7yIn66ifWJm4xrrIH07XRQBgQNtenJaTeH+Xfjgm2jml55MIhNm8efZAA3ghaGchGtxW61qOmpNh9Lml+0l+rykuDND1eNUZXeJVtKFvTmBuf1CD5rucV+ufVKY/JtJduvboKyBLb9IGW/zC/hTY2tA8s1SSuWS/fo2EeHnFFMtIU+vpxJqjBz6EtivnJRI=;3xNLgjqbE2tKHYZNeUuCgg=="
+secured: "DwPxwFX+r7bM8AhprSSBntaPmFRzCWwpFlQX+ovRDwDlsNJP1SYqNa7kAdpW4xz1t+YNpJMz34nbjsbViVYwsvp8o6ar5WcowCBly1sjiNzG1seCcgMAHUYrZL04om8ggsvfgFnc5+PWp60V+h9BwJtdHi4ZyNST9JAy+DEG3SLE97DnFDKHLy4v/0T3z8sa/Ve/jrrFKTGkDsgiJXdByD5THbdLE5db87R0sD2hxQWmjfxEg3MosMEdE2fLybWrUu/yyWIvL+5Ow878WMPlwuRGUJv14knyvy8Sr+iMtLxLMlR0ICTgqCCnYbS+3o1vySldeepH5E+p1YeTla1yM4ZK4dDhAcsXAGxauJ+4RVo=;+jCvkLBmHR2egf/UZdixIg=="
 ---
 

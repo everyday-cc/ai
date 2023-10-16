@@ -24,30 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Health care: No clear AI winner yet, say experts at HLTH conference"
-    excerpt: "But it's unclear what use-case for AI in health care will ultimately win."
-    publishedDateTime: 2023-10-13T22:31:00Z
-    webUrl: "https://www.aol.com/finance/no-clear-winner-ai-health-193147987.html"
+  - title: "Meta's AI Focus Steals the Show at Annual Connect Conference"
+    excerpt: "Meta Platforms Inc (NASDAQ: META), formerly known as Facebook, recently showcased its commitment to the metaverse at its annual Connect conference."
+    publishedDateTime: 2023-10-16T17:05:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35269234/metas-ai-focus-steals-the-show-at-annual-connect-conference"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35269234"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35269234"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/zg4AU8QWL1VndDmjkoSDMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/07dc62bc93c939824192660160ec8319"
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/16/meta.png?width=1200&height=800&fit=crop"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "No clear winner in AI in health care yet, say experts at this year's HLTH conference"
-    excerpt: "This year, artificial intelligence (AI) was the topic on investors' minds as they search for the next big bet in digital health. But it's unclear what use-case for AI in health care will ultimately win. That thought was top of mind for Prateesh Maheshwari ..."
-    publishedDateTime: 2023-10-13T19:42:00Z
-    webUrl: "https://www.aol.com/no-clear-winner-ai-health-193147987.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 12
 
-secured: "ClvRxiQJVpbgY8tDciqZI8c8L8EFTdWogFUUYtDgpSr/7L7ncXDhxxQc+r8PX1hNDWvCH6bnfPNodAvjKxcrQS2QWH10kW53lOSmVosGxHmdpwHiYWurZKSrQ4NrcAdwVCrV+0sgVXR6tzwQYe8lrH+OqF+ySeMwSly7RPZwNd02M8InQzmz+lsDSLMn5cO4HcktP39OzEjUG3BJRjlcqCRD5eaO6KtIa3ZbFIiXX+fiORVsywcTe3f9xWLbBWsnr5SJuSyQGklg7iFLN2+OxisCihavfAVFT5o42At9pebXnSXQHyAmstFd787JB0zO8bMY/NxmOyKLmVS5CViQESrSLHkNorMgNrxDXl8aFF0=;t1cGJP0mzaj25IeIJ18aVw=="
+secured: "AFFKrh86k5z9RiVkCF6h83vFsEVI34dxARN37WQ6yPuHuGjEkHdDqrpzvdqNosuulAvyG4kfC5KzsdpbT2GvnUZpCMAETRc/9rvHePE3/nt2HovPnuHO0vdnVGBwdkzs5lWVkaYIVLfLfvGXgaI8PTpw0+95kJAXEw7QLfPOw9UlCYVYHjvjm2xLUGW00mLYgkBmweepvmwF8ZJcqQeMbKi6y2cSVw7vFF4EWOjN9WEyLpVFmwMsdO0R2XWkGuyB2AiT+V/gLVijLG4x5vW5Y51gLmUc40AwT6aDJp+OBygVXSXsgnpcgosz6wQIhDm3THJywNVPlbCSpq36Y2FtUBEPy/U2DPZ98RFULBd4jS5lSPVKuM+yDRNxbnETjJ7+j1Y73rF3/h+RbeMWYptZkaKRGQ3nLwkSEaWOcE5eWVx+dQ6KfRJMnHm/JdsbitIMBXVKNq95aU/mX8ux8bEzGyJ8va9zAQ9Ko4R1US2T73CznJc5QwvnFmN3D4qq/gRzJ8n09n35/h5VaQaoamklUg==;/X/hUMCCI7STn+judC9E0g=="
 ---
 

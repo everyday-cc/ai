@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-18-barbie-and-the-dark-side-of-generative-artificial-intelligence.md",
+      "title": "Barbie and the dark side of generative artificial intelligence",
+      "excerpt": "Many are excited about the ways in which AI might enhance our lives. Any development that gives people the ability to express themselves in a new way is a thrilling one, and the speed at which AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2023/08/17/barbie-and-the-dark-side-of-generative-artificial-intelligence/",
+      "originalUrl": "https://www.salon.com/2023/08/17/barbie-and-the-dark-side-of-generative-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2023/08/barbie_artificial_intelligence_code_172215601_84768690.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-fantasy-football-meets-artificial-intelligence-as-gridiron-ais-technology-helps-fans-quarterback-their-team.md",
       "title": "Fantasy football meets artificial intelligence as Gridiron AI’s technology helps fans quarterback their team",
       "excerpt": "The company builds predictive and uses artificial intelligence to provide football fans with fantasy rankings. Relying on data creates more consistent predictions by greatly reducing human biases.",
@@ -1311,49 +1354,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars.md",
-      "title": "Researchers use AI to determine drivers health and mental state in self-driving cars",
-      "excerpt": "Researchers at Western University are partnering with Mitacs Globalink to advance technology in self-driving cars by using artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://london.ctvnews.ca/researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars-1.6514170",
-      "originalUrl": "https://london.ctvnews.ca/researchers-use-ai-to-determine-drivers-health-and-mental-state-in-self-driving-cars-1.6514170",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/london/2023/8/10/1_6514170.amp.html",
-      "publishedDateTime": "2023-08-10T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

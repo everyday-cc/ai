@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-ai-stock-to-buy-before-i/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 2188
         height: 1369
         isCached: true
+  - title: "5 Under-The-Radar Growth Stocks to Buy Immediately, According to AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
+    publishedDateTime: 2023-10-16T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-under-the-radar-growth-stocks-to-buy-immediately-according-to-ai-1032709474"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "AHgsxjfviQk50I3BnwxG/2NQnDGVzXdmQYFcjnl4DY0+XPlByobdZg06YqExEih56PfoFDG+pezL2cWGLqli4E8HMj2/IQWJJ7y5b7ipT3Fb2d9bzGweF2mJL/iGB7rPJbCDnituxTzdZJ31ls0Nb/UiJFe0ciNKGSsC2rqrmF43JHtqaCmRFhLlZ4J+VZON1fRtw+74T5cbrZ1hQLG/UxICoJMQTAp+KL6LGiUna4xtmtBdOKVuONsHca/W7Ntw8trRa+aIb8D4Vy2tteI/mt+SSABZP3shFdJ8HM8GgsK7M/wbmcBNNe4DsWhkkMAZE662P/8+ovmp74Juzw4ElR67YXzJK3T92+tkXobiCd7Em/QQP+A0+Pki/4oB3wRyGetOQVCME2ddGvGMvGfGJLcvM03h0c3Lkd8GlW4MLm6EvcBuFDo3kQOOdptvwa9V1gukCAWz27ZFHJJR0H/LwGwcgZlWgX68VPrRldVSYZRxDn2ZlEa00ZdoLMJYO5Bu/NJgF5vDClI2IRevSbMZdQ==;dawksY85EcSPkj/G/XfrRg=="
 ---

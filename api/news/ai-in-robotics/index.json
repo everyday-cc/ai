@@ -321,21 +321,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-13-chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos.md",
-      "title": "Chips for AI to be developed under public-private partnerships: IT MoS",
-      "excerpt": "These clusters would be made available to Indian start-ups and researchers ... Also read:Is the current regulatory system equipped to deal with AI? “While robotics is a multidisciplinary technology that has the potential to transform and disrupt ...",
+      "path": "_news/2023-10-13-new-ai-algorithm-promises-defense-against-cyberattacks-on-robots.md",
+      "title": "New AI algorithm promises defense against cyberattacks on robots",
+      "excerpt": "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece",
+      "webUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
+      "originalUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://th-i.thgim.com/public/incoming/v0mjd7/article67262583.ece/alternates/FREE_1200/G20-DIA_11.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -343,13 +343,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece/amp/",
-      "publishedDateTime": "2023-10-13T07:38:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T05:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -361,8 +361,7 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Finance",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
@@ -652,7 +651,7 @@
       "originalUrl": "https://www.scientificamerican.com/article/ai-can-design-an-autonomous-robot-in-30-seconds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -683,7 +682,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

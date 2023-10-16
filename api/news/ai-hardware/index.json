@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-16-federated-gpu-infrastructure-for-ai-workflows.md",
+      "title": "Federated GPU Infrastructure for AI Workflows",
+      "excerpt": "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service” model ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/tag/ai-as-a-service/",
+      "originalUrl": "https://insidehpc.com/tag/ai-as-a-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023-1024x512.png",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T03:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-ai-models-can-analyze-thousands-of-words-at-a-time-a-google-researcher-has-found-a-way-to-increase-that-by-millions.md",
       "title": "AI models can analyze thousands of words at a time. A Google researcher has found a way to increase that by millions.",
       "excerpt": "Ring Attention' is a new technique that massively expands the context window of AI models, according to researchers.",
@@ -219,7 +262,7 @@
       "originalUrl": "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -303,51 +346,6 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos.md",
-      "title": "Chips for AI to be developed under public-private partnerships: IT MoS",
-      "excerpt": "These clusters would be made available to Indian start-ups and researchers ... Also read:Is the current regulatory system equipped to deal with AI? “While robotics is a multidisciplinary technology that has the potential to transform and disrupt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/v0mjd7/article67262583.ece/alternates/FREE_1200/G20-DIA_11.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/chips-for-ai-to-be-developed-under-public-private-partnerships-it-mos/article67416573.ece/amp/",
-      "publishedDateTime": "2023-10-13T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance",
         "AI Hardware"
       ]
     },

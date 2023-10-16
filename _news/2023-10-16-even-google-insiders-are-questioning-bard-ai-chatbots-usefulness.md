@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Mayor Adams: New AI chatbot makes it easier for small business owners to access information"
+    excerpt: "Mayor Adams says the new plan will be a one-stop shop for small business owners in the city looking to access information and resources faster."
+    publishedDateTime: 2023-10-16T17:31:00Z
+    webUrl: "https://bronx.news12.com/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
+    ampWebUrl: "https://bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
+    cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
+    type: article
+    provider:
+      name: News 12 Networks
+      domain: news12.com
+    quality: 27
   - title: "Vistry Rolls Out Generate AI Chatbot For Online Ordering"
     excerpt: "San Diego-based startup Vistry says it has launched a new, \"conversational AI platform for food commerce\", which provides a chatbot which can take online food orders. According to the company, its AI Customer Assistant chatbot is called LumoChat,"
     publishedDateTime: 2023-10-12T13:55:00Z

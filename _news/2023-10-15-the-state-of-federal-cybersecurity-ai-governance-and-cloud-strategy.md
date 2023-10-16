@@ -55,6 +55,20 @@ related:
         width: 420
         height: 554
         isCached: true
+  - title: "BlackBerry Announces Generative AI Powered Cybersecurity Assistant"
+    excerpt: "The solution, which will be available to BlackBerry's Cylance® AI customers, predicts customer needs to proactively provide information rather than requiring users to manually ask questions and compresses research hours into seconds. Fully integrated in ..."
+    publishedDateTime: 2023-10-16T16:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/blackberry-announces-generative-ai-powered-cybersecurity-assistant-1032708155"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/2247444/Gen_AI_V5.jpg"
+        width: 400
+        height: 209
+        isCached: true
   - title: "The Cyber AI Dilemma—And What It Means For The Cybersecurity Industry"
     excerpt: "As we can see, AI significantly impacts cybersecurity—in ways both good and bad. It is our role as cyber leaders to make sure that new technologies are implemented quickly and leveraged to prevent more sophisticated cyber attacks from happening."
     publishedDateTime: 2023-10-16T12:45:00Z
@@ -64,20 +78,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Europe eyes strict rules for artificial intelligence"
-    excerpt: "No HAL 9000s or Ultrons on this continent, thank you very much. The European Union wants to avoid the worst of what artificial intelligence can do — think creepy facial recognition tech and many, many Black Mirror episodes — while still trying to boost ..."
-    publishedDateTime: 2023-10-11T23:25:00Z
-    webUrl: "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/"
-    type: article
-    provider:
-      name: Politico Europe
-      domain: politico.eu
-    quality: 41
-    images:
-      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/04/14/iStock-1058701042-scaled.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ho1ohGWZGeNqJEL9JJTruXR4Y2pxrvWdkwIO1d2bRlzjiHxD21wxyqxCow1XWrM8C1RdFrJi7vB/Mvyen58lqxJl7fx3V0YJRlAjESj7PyJMP812yMcnthoBk1N/AWIHQoJnA+oGCCpLYIVdItWJyBc7c9x+/nBaUusAnyvI4Zy/g879eC/aRlIwoi9DU2es/IZAOMbQmqX/fx2oOQiP261eETweAqSo6FYKn/+9s7YTBQ1bzXranWUsIyXTnlp6bZLWnkGoC/vmbr+KXO1CT8ZI5GTYWtr6D/oYjmfsCaC47TF+BFJtAMmTjFAgnCaWiEk/AZyO56caIQPCYKczEX+yRdwFgZfe0nFrMy6zyIc=;HqVG1nAtcYgfeF4Vlxr44A=="
 ---
