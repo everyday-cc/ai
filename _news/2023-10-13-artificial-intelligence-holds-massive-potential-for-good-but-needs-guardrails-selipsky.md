@@ -7,7 +7,7 @@ originalUrl: "https://www.foxbusiness.com/video/6338955294112"
 webUrl: "https://www.foxbusiness.com/video/6338955294112"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Can AI be taught to stop straying from its ethical guardrails?"
-    excerpt: "Google, OpenAI and Anthropic want technology such as chatbots to learn from a ‘constitution’ to keep them from generating toxic content"
-    publishedDateTime: 2023-10-12T04:00:00Z
-    webUrl: "https://www.irishtimes.com/technology/2023/10/12/can-ai-be-taught-to-stop-straying-from-its-ethical-guardrails/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 56
-    images:
-      - url: "https://www.irishtimes.com/resizer/z5f5z19tZhCvBxpQzfo7MQBM7aY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/OD7XZHMFM5PL6B2UHHS4G6YTKQ.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pxs7LY2DMImMZVuVOqrXM5XBiKymNrPMbYlR92h/4AqOxgECnaifq32yXxHoGQAz8ki12vDc1jvfeIf9PU6nideR5b8o46+0cA/0E7BAAwAQJnpzV73thZTlYkzh27kf6bkBM6z9bJIqX/zYJlFX4KiQRgcPK0tifJeXTPQkv2YFxgbpEBEUNJNyfb/fU97iYxEYlOtylQ/0dJ7syGjFHrlMJ8nufeNXCFptpH3rUA4VB+b/0hWf1f/SgZSsgyOZOJAj+T7lZA/o6x/C7oMZrvKpSYUzw8fyMvbAz12focwIOMRj5ONmtI9qNCrwMH4Fkb64GJTHc3c/567hPQxdtwDVPm6cTwrFQF0V98lQL9JgWAEd3pfzvresLeG14kHVvqG8nHF4ZSnZhy4UbYjnWLk9HKCe4QY5rSyx8Nol3sCKqTTJFAEpxhzfCE4wbKk7l6y3W3yqyYcmOQASCO/sHXyac9GPBmV1CgQGu3PcPNRhlw3q5PNfkFlpKweyx19vIkcrkRbx4OSBfsql1roEoA==;+hN2BON16PcJgFV+5m0TKw=="
 ---

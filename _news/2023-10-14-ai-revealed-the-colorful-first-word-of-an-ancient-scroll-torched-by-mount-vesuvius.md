@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence helps to read ancient burned scroll"
-    excerpt: "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence."
-    publishedDateTime: 2023-10-13T14:58:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/67103053"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/67103053.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Researchers use AI to read word on ancient scroll burned by Vesuvius"
     excerpt: "University of Kentucky challenged computer scientists to reveal contents of carbonised papyrus, a ‘potential treasure trove for historians’"
     publishedDateTime: 2023-10-12T15:38:00Z
@@ -57,20 +41,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/57bdd0ea22f5385d6e516a2c069bc07910a4a8fe/100_0_1200_720/master/1200.jpg?width=620&quality=85&auto=format&fit=max&s=5969f838d24953eb3f344c9b0bd51b7e"
         width: 620
         height: 372
-        isCached: true
-  - title: "AI reads text from ancient Herculaneum scroll for the first time"
-    excerpt: "Charred scrolls from Herculaneum can’t be opened easily, but X-ray scanning can reveal their contents. Credit: UK Photo A 21-year-old computer-science student has won a global contest to read the first text inside a carbonized scroll from the ancient Roman city of Herculaneum,"
-    publishedDateTime: 2023-10-12T20:41:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03212-1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03212-1/d41586-023-03212-1_26151284.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "BEICFMuy83zv0mReQu6EZcDiyse6ff72K7QjY55elMWOHzY10gupo8LilXbu/3cJf1FhrJ4XYkGfYoSMx68gaPU1ZrZ0IHr1VLzMDzMxtLtyD6aiZjAIS3CWyGgkIboNuNd8WbBFAv5o/FA7sm3qZRb+eQmyJGn/yFBmAcyPH42U8+H2OUH53IxZIdki9mOQ09SCRQTyGxRVII51K2z3TS6XRhSWYwcr/uAgCq7o/vHjG4X7I3HLXwZvngE95gx/buxgYqflLD02H5kAaszXAifJXmbPojvUIGkuUAqEXjQYCncLl+iMg9LFdGdnjHVv51z8JAwyvJaEzh+tqtk/xTTai1pcbXhAv9OiUQ6FzFkvisQSgurNaC+g7Qy65HqBAGcLjEuuVqXzRxOd/tF41SD0aldancCbCkEp9MGuWyNu/OzGSZvQM1ibHgsCgT4UvnaAr5/v4Qaos29zNiWk6E5aCtNbMyL9zQizHbVhia1gLJ9mWHLoJ0lxLoRK4xsGZw5dqI1qinBECiXAj1a5ng==;FUtOVHnqf2aSiseFAU42pQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-you
 webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "How to use foundation models and trusted governance to manage AI workflow risk"
+    excerpt: "An AI governance framework ensures the ethical, responsible and transparent use of AI and machine learning\nThe post How to use foundation models and trusted governance to manage AI workflow risk appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-16T20:00:59Z
+    webUrl: "https://www.ibm.com/blog/how-to-use-foundation-models-and-trusted-governance-to-manage-ai-workflow-risk/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 95
   - title: "Q&A: How Discover Financial Services created an AI governance council"
     excerpt: "Discover is exploring how it can use AI to create efficiencies, but in a heavily regulated industry, protecting sensitive customer data always comes first. Here's how the firm worked to ensure AI's safe but productive use."
     publishedDateTime: 2023-10-12T07:00:00Z

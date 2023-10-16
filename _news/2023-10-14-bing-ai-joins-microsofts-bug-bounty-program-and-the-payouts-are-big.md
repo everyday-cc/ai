@@ -137,6 +137,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Microsoft’s New AI Bug Bounty Program Has Rewards Up To $15K"
+    excerpt: "Microsoft's new AI bug bounty program offers rewards up to $15,000 for finding vulnerabilities in Bing's AI features,"
+    publishedDateTime: 2023-10-16T20:55:00Z
+    webUrl: "https://www.searchenginejournal.com/microsofts-new-ai-bug-bounty-program-has-rewards-up-to-15k/498579/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 54
+    images:
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/10/img_2023-10-16-165317-652da2f35a463-sej.jpeg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-10-16T03:06:00Z

@@ -76,6 +76,15 @@ related:
       name: E–The Environmental Magazine
       domain: emagazine.com
     quality: 49
+  - title: "Nearly 9 out of 10 grocery workers are worried about AI, robotics"
+    excerpt: "Although they’re concerned about being replaced by technological innovations, 87% of associates believe it will help them to do their jobs"
+    publishedDateTime: 2023-10-16T17:53:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/nearly-9-out-10-grocery-workers-are-worried-about-ai-robotics"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 49
 
 secured: "7+mKpDNRDXcCD1T+WgA0OpSAkD/O1RuMSIsNookcl8qsbROpgZEChmBE9MsGmygg7jfUJ1KEZUqu4i+7isLbIraYkv0+JE9ARm4nuD78Xl+bpm04wpCc6IF26SsQppcXul7nBF05iZXj7uIfPVAATS/XzSxv6Pvzu/NIqBMMci2Qahx28BptBOyrtIgSzPQcbHVzQlaB4gNrrq5HG85Z/AqY0S/BaU4uNfPLGZvyaAi9QtGtkoqrjWT7YcuyWIRcfeo6kzpAXoyBilFvZBTGo8muAI3ruvhAHYFvVW6zTcHMf3t8u67toGq2zbW+jOGN7sTV7LX6RG18bg2gudyviPSAxHWDnO4s1iFULXdoTnI=;5c1QpOT20OzzMxHCoRk+SA=="
 ---

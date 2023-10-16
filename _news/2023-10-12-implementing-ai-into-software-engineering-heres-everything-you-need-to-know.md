@@ -56,6 +56,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "How AI Is Transforming Contingent Workforce Management"
+    excerpt: "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working."
+    publishedDateTime: 2023-10-16T19:44:00Z
+    webUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Zib Digital Talks About AI-Driven Digital Marketing"
     excerpt: "AI driven technology is having a profound impact on various aspects of digital marketing, from content creation to personalisation,"
     publishedDateTime: 2023-10-16T07:48:00Z
@@ -167,6 +183,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Confronting the long-term risks of Artificial Intelligence"
+    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
+    publishedDateTime: 2023-10-16T18:38:00Z
+    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 17
 
 secured: "jLEVbb61nz29TYGa5s/MJ6kHRwHePenv503pkJ5e5iHX+qlpzwnrAdEb8kyA73Xo794K3Y+kiLuUJKOanxnWJRN3k6Nh56SgPKlK+vRE0F+aD/x13uK55nZ9c0XfzdUpxusONwiRv5whOQdP3Tf5l/5EgbRgUtHFY3qSJBVuo2P3O1MCTFNsfka4bSUV7QpwYogmq3wwfoLFcXQHTm3grKRam7b8+NZcbDLRl6HaLZPXguVc6vgFEAfkuV/WrUG2uDphZ/g4o5xoy54omSvWSeJUob26ItLygkiS36WL1GYtOeOnjao4STHM32UwupVKCsMVvRceXLZV4KFfQMHp4PoCJoilDN9lwJOIju0wQ0ICrtOHFZk0LwZHQkzvPnfzadcTxN7woaBbx+UFE4TLRiPqVkOwBdODy2gTkEMv5PyAfzJ4SC1qc/8IWeWKtgChvIwIRPjClv26onZB7qQq1c+ZmdthW/rLdiV/8u4gn97xC3HQQ/0mELpwllo/MWrgnE3bFc0Q/9TmsTDpKphbpw==;g24mvzpKeGXplVuZf2u/Xg=="
 ---

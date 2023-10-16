@@ -493,20 +493,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Australia’s Voice referendum, the record of ATSIC, and the emergence of the Aboriginal elite"
-    excerpt: "ATSIC’s record underscores the fact that such advisory bodies have done nothing to resolve the enormous social crisis afflicting ordinary Aborigines, as well as how such organisations work to elevate and enrich a narrow layer of the indigenous elite."
-    publishedDateTime: 2023-10-12T03:38:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/10/12/uzku-o12.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 13
-    images:
-      - url: "https://www.wsws.org/asset/db6252e2-fab1-4b7c-aa96-ed23a8cc05a6?rendition=1600x900"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Australia indigenous voice referendum fails as ‘no’ votes prevail amongst citizens"
     excerpt: "Australia's 45th referendum failed Saturday as polling results revealed a 60 percent majority of Australians rejected the proposal to recognise the country's First Nation people within Australia's"
     publishedDateTime: 2023-10-15T12:04:00Z
@@ -516,6 +502,17 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 13
+  - title: "Malarndirri McCarthy: First Nations people ‘deeply disappointed’ in fellow Australians after Voice result"
+    excerpt: "An Indigenous senator says the outcome of the Voice to Parliament referendum is “deeply disappointing” and grieving Aboriginal and Torres Strait Islanders need time to mourn."
+    publishedDateTime: 2023-10-16T21:34:00Z
+    webUrl: "https://www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d"
+    ampWebUrl: "https://www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 7
   - title: "The Voice: Australians vote No in historic referendum"
     excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
     publishedDateTime: 2023-10-14T13:13:00Z

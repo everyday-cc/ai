@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
+    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
+    publishedDateTime: 2023-10-16T18:24:00Z
+    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
   - title: "'Normative', not clear on implementation: Researchers reviewing global guidelines on use of AI"
     excerpt: "Reviewing global guidelines around the use of AI, researchers found that while most of the guidelines valued privacy, transparency, and accountability, very few valued truthfulness, intellectual property, or children's rights. Further, most of these ..."
     publishedDateTime: 2023-10-15T06:44:00Z

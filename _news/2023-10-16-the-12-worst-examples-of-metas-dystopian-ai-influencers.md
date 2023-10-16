@@ -6,9 +6,9 @@ publishedDateTime: 2023-10-16T13:25:00Z
 originalUrl: "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709"
 webUrl: "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Gizmodo
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e374caedbec70276644c92b6534ca98e.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "5 ways AI could influence nursing in the coming years"
@@ -39,16 +45,7 @@ related:
         width: 763
         height: 540
         isCached: true
-  - title: "Why the Gaming Industry is perfect for AI Training"
-    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
-    publishedDateTime: 2023-10-14T16:01:00Z
-    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
-    type: article
-    provider:
-      name: tech-ish.com
-      domain: tech-ish.com
-    quality: 19
 
-secured: "A1U001nges6WBOkP65iJ3wZLrgUcbczzrSPhstF/zEzTgVe8Bx67AKmxrt5VdQTrmez+d6iU/OQVtgJkJC9+x5IMTY1ww8KqCieUGq/3seOlt4aJPaC9T0XuuQQG7Elyhf1i9DRj5+ZmpwVW2brtcw8Gih1oxZAWrqGUOE4b4HGW8SdufjSjlYejGGVu7XiA2UNOHt0QmuO0+P60OIlYlp7FogjHIj5nbswV7YDvOIdwJS29xlueFB86FbFBQGu4Q7dt9DY84p0fIwWfga/OZ57Jpnb+acKERwX04OWT2eP/6zc27TzIFV60YuVB8gLf3UMNlyC0aLzJgoMsP5yZzy5nPvEk80X2jQmBBLasNFQ=;wVH3dqZTQDdduK77P1Gnpg=="
+secured: "tWzq5T5p/HCMe47bahbUfYBjPTS7oawoVmztvb8WKHG/tknTPZrdUUWk1g/CzyUmAeygayoXaL1y1jguk2sYTnoxeRNeL+WU2xSDNw/lBSCuh0TI6eC3TbuG3VxGCGcGTMxEmmPlpVI/xhU2ouHQVF/yES3mh09/O/z94WsrVVe7TB8yTb0ningfOFkUf/xb549UvKrYj12gLAN/0BMpefAG6JHPy+ARCtlV9c4Uj5wT5XbBh6AXGtXOd99Q2NjuoOKcICUaQCs9LHkq+Xc8mJtHt6OQT9fc5y/oat2Z6o5k1IzhU0q9ug8QU0pVLNLs3tnupCAbHgqnTaTMkBhc0U+ns3znmTvsWOylfs72LPM=;MumGgBLatggBdti1X+WJxQ=="
 ---
 

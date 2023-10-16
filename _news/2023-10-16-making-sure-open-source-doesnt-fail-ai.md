@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3708734/making-sure-open-source-do
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708734/making-sure-open-source-doesn-t-fail-ai.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

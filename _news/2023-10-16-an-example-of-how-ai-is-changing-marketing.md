@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "How AI Is Transforming Contingent Workforce Management"
+    excerpt: "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working."
+    publishedDateTime: 2023-10-16T19:44:00Z
+    webUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Implementing AI into software engineering? Here's everything you need to know"
     excerpt: "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project."
     publishedDateTime: 2023-10-12T14:15:00Z
@@ -167,6 +183,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Confronting the long-term risks of Artificial Intelligence"
+    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
+    publishedDateTime: 2023-10-16T18:38:00Z
+    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 17
 
 secured: "b/5+Q71+gbeYdXYug/56EdNb/cZhWLDqDyGWVhP6P/bdYJJoPEmV6edriPDaI+sefgfwb67VQHB22lXJ5YdA8oDzevA6GAOaSkBMsqYaOFmP88/AcZxI4P+zsDstY540ec5FOzqzOb8AfYamrYZK+w0h1w4+NvY8SaPCguVaHJfvM7xZQxZQn1Oeoc2wiZFKPelUeC9ErL7Fxsv1cff/p6e4/kbEjWTfO/N7qIE7jLnL/8ehqECLt/hJS4IJWfbi3NhDeXWB/vn4F5wU1U3+ypI1ztIyAEkr1OdPSIrbproMXeEFdxEY+RGQ2phVRly4Nz0y2s/zLWE0vVPfYz56+2GupiI9Nn0PEvXn6kPYRg4JWqmQHWJ/7rVGiX7EvVRcJjI1wws4LDPyOZBAQELbUpKeUeFQGuDDpw5cNbO3kKS9b3B6VVsNhJqe7RS/jktswZ00Qtle9d4eVm+hateWwA9En0NfzssmHY0nHeQo7B192gMieepc1V3Zo+iQBnT4WOrOPOVJkdvzgbbwsU7A9w==;eKozEKFsGJsjEDrMqWmEpw=="
 ---

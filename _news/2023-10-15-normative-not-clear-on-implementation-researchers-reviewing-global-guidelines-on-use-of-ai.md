@@ -34,6 +34,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
+  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
+    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
+    publishedDateTime: 2023-10-16T18:24:00Z
+    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
 
 secured: "Nj/MDzVH6inxSiKfP6HlaDXfQpJjZduASTvoVlcxIVA04SJc5Ks5Y2+jFgkU22dKJzk5GbvRU7zo+lriKJXgHnBWb2O2fRn0I605ZfpTVp8t2Bmpu+pKjkFrzlpoA4BVExHeH1AStptOv5Pqlm+W/nrSgihe3WnNHEIKBPgUzBfnvioB75bBtHdn4hP38AgNGG/tuLMVmSfoAe8x+netuVsKNI8/paRGuYRRunPrHcc4FFNZqw5WqHQxHc8QQAy37AyVCxJNPELlc0AKGiNW5JnYjQe5lw5MIpKHPWJSNLPN+284yxUoWy0FueSgp8Gmd5fVKyb9BzjxlJCSeYNLg/t2bNRFonJ4fnvJBKJ4ju0=;T3GpWbwf5LsYjzdPUWVmaA=="
 ---

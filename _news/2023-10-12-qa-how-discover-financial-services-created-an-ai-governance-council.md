@@ -41,6 +41,15 @@ related:
         width: 630
         height: 329
         isCached: true
+  - title: "How to use foundation models and trusted governance to manage AI workflow risk"
+    excerpt: "An AI governance framework ensures the ethical, responsible and transparent use of AI and machine learning\nThe post How to use foundation models and trusted governance to manage AI workflow risk appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-16T20:00:59Z
+    webUrl: "https://www.ibm.com/blog/how-to-use-foundation-models-and-trusted-governance-to-manage-ai-workflow-risk/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 95
 
 secured: "VJOgasnLMMRfDcJn3sUS1lnEVv4fJ2aChRVoj+jbg8x/q3i+C6kTBZD/FhrLcU2K0p2PpUEThdzsngNnsdsBH1sm7+IM26q1NpleJOT+zmUxJoxngEj0qPK6JSNwdkkFBZ27yBAYCONVGITDS8ATdH0J9pS+6ar+HsP1oYgzxLIl55RqP9Gq2TcCzcZkPk0KUYrFFhb0Qp0JeY+vpIdrGMZXCuOAvgDsUXUvSlUFAG09Cf5JAXz42+8BaDJZVya30HDxHMzUpzCtqCP4ZYZQ+c5ScO9tk93oo+oZF5CfUltyBbqg3YmZ3rC4ZbRRu2/3A8SNAUeXSddEmQEOW64OfPvh86w6vG4g78xEDIcMq2tJgt76OZhFIJjHYGOfh8qJkEOujlXG9IimRSqVKOjO9tzJ+Fllz9UwroyGAgoTAZUfn0pl2BzHH9Ao4dw5zD/2lbBJBHk/847dkWYUKeBvqsqqaGqZ0T2AhLbaXvCEcbxAA9NMAnqPfHGILaKRbEUd57PSMnAn2D53a01X0R3e3g==;o75tkHii9SS+nXOVVjHCOA=="
 ---

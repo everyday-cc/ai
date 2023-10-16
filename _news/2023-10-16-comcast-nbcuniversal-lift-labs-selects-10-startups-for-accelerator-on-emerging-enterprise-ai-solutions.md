@@ -32,6 +32,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Comcast NBCUniversal LIFT Labs Selects 10 Startups for Accelerator on Emerging Enterprise AI Solutions"
+    excerpt: "Comcast NBCUniversal LIFT Labs announced the launch of its Enterprise AI Accelerator, where ten selected startups will spend the next six weeks"
+    publishedDateTime: 2023-10-16T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231016606856/en/Comcast-NBCUniversal-LIFT-Labs-Selects-10-Startups-for-Accelerator-on-Emerging-Enterprise-AI-Solutions/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
 
 secured: "w0JeCzpign4357MkIcrmZh6d66szF/+GQR4CbxDCcs1duKJ+RiKgPoGNYBAdyqF81Xax3OOe5NWyePdPA5bkFZj6FUhiCboaCZqTxlrT7P4W/CVCEcYJOS3D1i39j5U1BhIt3BwLKfqcw2oxaQWqALY/Bgzeb+tUDh85jC3gO/Tz2358dBU90ZGFQoL1ggrj6IOGoPIUO4f+McwXD741i/TFpRC/lk24HoPDZSsb628hQAgmrDKw3A6hO/jXZXRa7QpD2FdM5fnFyS55G9DSesQHcwjsHaJ2FQWXSAhO1TOweRoUG5emO2CMbpfA/yP1mu0KZSiRhlHTsFMgsXqJlDsF4ig7ue/4Z723+WQrf5w=;uwSzysfJHlYqkQV3vSdMjg=="
 ---

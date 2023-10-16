@@ -9,8 +9,8 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indi
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: Deccan Chronicle
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet the 16-year-old Indian girl whose AI startup is valued at Rs 100 crore"
-    excerpt: "A 16-year-old Indian girl is making her mark in the world of AI with her startup, Delv.AI. According to Business Today, Pranjali Awasthi established Delv.AI in 2022. It is already valued at Rs 100 crore ($12 million) and recently impressed attendees of the Miami Tech Week. At 16, Awasthi has a team of 10 people working under her."
-    publishedDateTime: 2023-10-12T02:49:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Collage-Maker-12-Oct-2023-08-12-AM-9755.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
-    excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
-    publishedDateTime: 2023-10-12T04:37:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-founded-by-a-16yearold-indian-prodigy-is-now-valued-at-100-crore-nid-225863-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 34
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/cRAfb40B.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "India's AI programme to be kinetic enabler to achieve USD 1 trillion digital economy: Chandrasekhar"
     excerpt: "The government on Friday unveiled a report on the countrys artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
     publishedDateTime: 2023-10-13T10:56:00Z

@@ -33,7 +33,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "Comcast NBCUniversal LIFT Labs Selects 10 Startups for Accelerator on Emerging Enterprise AI Solutions"
+    excerpt: "Comcast NBCUniversal LIFT Labs announced the launch of its Enterprise AI Accelerator, where ten selected startups will spend the next six weeks"
+    publishedDateTime: 2023-10-16T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231016606856/en/Comcast-NBCUniversal-LIFT-Labs-Selects-10-Startups-for-Accelerator-on-Emerging-Enterprise-AI-Solutions/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
 
-secured: "+MAxUL0I81E2Tsya4WRnJBI2QLF3baiUjwT4/CfjivBjscQZHoFlYkiktgLqYtBy6uZRUxDfZrV2HHNiD/IDPD+Mv7+Vfww5bkOgVf/BqMOGIJTdXVzqCZo+gWULuILQV0mJ923APGMhz8ISXXc/476O8T9VjTNYLdlitYcMMv25hQGnOFTgL6uQfGd9d42xP7LqLXDvjQeDavuacWXPjt6HqarmP5MHGps2MLKmQFjshRpPOnjVb25pnbtzRwt1qYDWzKddj0kTEHSZ6SvZvGlDweqFG5/0o/DTrBcU0neTvjMh0S9WZ6A4xWNt6alLL3CCl1nd2QxULMp8g4Cv9tGdqdPgey+53B9QZC6626g=;aFQsji5AEzEiVIXsC8KPCQ=="
+secured: "niiNbNMBU+il7tANtYzMAabg+zTlVn22pRYTYz8aJWtPVDzP/sfqa1iqMJPI4aKZrCtP9OL5PMLbq5yc7DzsZTVV5Jiq1efBDtz64olCtFIek7aNogfY4TBP4k9DkUFC9IkzKQ90/r6NqGtXkV9aHK5x+gYDc3jYGdKPfuF6WHhv/f1d5tM2oK/pY5Xt0Q5vBGxy1uiuJ99OsfVJkxnJQpnLRCQlU9bG516gMXpEK3FTa4+oGQA24qfjZxom+9+AMWKvZ/TjcZGq9eFtmyRwloPZzTU6r4Xpuz1Wi+ySqMdGxAv+FW5FtQVy4i5bKp06lnNgPMfRJy6SDAoeCrhmpwcOpzXB9BLmNMdVt8kNHNvZtHXr8s+lQ/DSGh1MsL7P6jUSKXnNaz7RZAKH7MgbH4foXeQnsWZ2yf/OPmLwx3V5qMg14hrlIVHJYLbjFZsGoN6leBVdfTPsui9SehLdzSs72VEDvyKAjlItwXSI/ZJ5B55Nou9EAOFqIGTGawLpsGgJ8/1xkHeT99Jg9V/Wow==;5q3oWxKSNAa7RgMq42JLHA=="
 ---
 

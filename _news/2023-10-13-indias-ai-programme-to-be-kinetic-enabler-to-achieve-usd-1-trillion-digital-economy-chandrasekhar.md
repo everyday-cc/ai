@@ -37,36 +37,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Meet the 16-year-old Indian girl whose AI startup is valued at Rs 100 crore"
-    excerpt: "A 16-year-old Indian girl is making her mark in the world of AI with her startup, Delv.AI. According to Business Today, Pranjali Awasthi established Delv.AI in 2022. It is already valued at Rs 100 crore ($12 million) and recently impressed attendees of the Miami Tech Week. At 16, Awasthi has a team of 10 people working under her."
-    publishedDateTime: 2023-10-12T02:49:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/pranjali-awasthi-16-year-old-founder-of-an-ai-startup-delv-ai-valued-at-rs-100-crore-11518671.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 55
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Collage-Maker-12-Oct-2023-08-12-AM-9755.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore"
-    excerpt: "AI startup founded by a 16-year-old Indian prodigy is now valued at 100 Crore - Indian prodigy Pranjali Awasthi , 16, has entered the technology world with her startup, Delv.AI, which"
-    publishedDateTime: 2023-10-12T04:37:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/ai-startup-founded-by-a-16yearold-indian-prodigy-is-now-valued-at-100-crore-nid-225863-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 34
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/cRAfb40B.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "Lv/6Pg3oxzlMo3Pu7MLtRjnI/cm2rjxL5e2SuNf4HY9OmuFZ+Gg/e5KmH9iv2+DVnp87o4LGB3kL9Z3TnOGyzF4JvQgTJUyyTqPK4bsMY+GIFkaFk2fn0GZDS7U0wE2fm28l0jTgDVby3MuKfSLIW5b2AUl+M8wNHyMAt+wyh2wdzbSTQUmx2IvwCMaREWsCLtkVr91Agua5F2VZhhAUtXbcWgZFpaNjWekvx+g+mIkov+LdoY0Q/HKjnGwE73RtGsoNjPNQnLkVru7o4haQFuiM8ch+16JnYn24JkPEjxmb8BQHPlSJme3QJezbwJXzwUI07UZqFqzqzmGS0yjiT1TFl0b1Q+u7fcmdYqb/O022EtzIeBcEf/J2TSFx5NgRmeN2+FdJUCMhAFkRttpqi3KLaWbDcwKwgCrYH2P90PdQx9XLg4kCSnZBefsyj6k3wtSwzOqp4zIVGOA0REqGlbuJclkWXrOntA1U/JCIFAn7xoeew9If0/tlTMKmxDEGqfG/kcXpr3iEbfDuQQi2Lw==;UljGx66NqtITTbE8TRF6uQ=="
 ---

@@ -111,20 +111,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
-    excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
-    publishedDateTime: 2023-10-12T01:36:00Z
-    webUrl: "https://menafn.com/1107228825/Some-States-Already-Have-Indigenous-Advisory-Bodies-What-Are-They-And-How-Would-The-Voice-Be-Different"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/11/TC_e8554image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "HYKtt5sf8AHAdrYRnZcvtSzRa4uW7mJXlCvlZjfMsWFutiMd+Jz9d+VxW99xVhzIH/1IovExyYyNVJTcugHOvprDYbgZGNpwwz3hk8rTz2LtRmfsSc79KKEG38vPnOrVq3AqmC6YpfCkkXtc/RyWOXek2k6vczpIoBa2bElAFT82u/hV4Jo9YImQ6FioYXTRRoGbc1d/ER+AeOwVPe5i9VErVn6feZfwsDdp7GNEbhl47MEnEEoyiz8z/gywOjZKf945i3ApFhCEKsNkscmLXn4ce2+qZ7gNTFi/hcxZ+ducwhBsUTMmfyxnROXKLj75RS4kSLW8/XrVTAiMoFNhzBufDdN8d59P92yUaR9cYPM=;/YKa8Qr7QPu/Pic8QouqVg=="
 ---

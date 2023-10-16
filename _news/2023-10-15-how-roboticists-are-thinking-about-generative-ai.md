@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
 type: article
 quality: 104
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
+    quality: 49
+  - title: "Nearly 9 out of 10 grocery workers are worried about AI, robotics"
+    excerpt: "Although they’re concerned about being replaced by technological innovations, 87% of associates believe it will help them to do their jobs"
+    publishedDateTime: 2023-10-16T17:53:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/nearly-9-out-10-grocery-workers-are-worried-about-ai-robotics"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
     quality: 49
 
 secured: "H/ERw9KKeTKvNi6QFAVW97h2RmL7E7ljfkb/iadfRCJSLaEut5XRQy5AsbyQvMlmUWVuuzC9ITqR52ijG59aVYVMnnx3Hsp/izTikSiAcgBgzXrVE7eOBGeE9YJnfmycIb7IHcxqOzRPJKK4KRR30LNJwCt+tRGckZPnMJlGlDJZWYfVCmWIWPDON9Oycx4MD9Hwy11iEC34iWD8n1ST/2vWQPyBT8YrbUfbaJXyLz3d2KGg6BOWx+2asrSrhpP/pbYfWp2oTqXClCWJgsWgetqKg5yQSzB7e04zmW5qNysi+7AwZ5V0JpSz1dXsfkfWRGxcdeDq4dfRZwvwh26cEiAYRuZl21ZDjWmuZdBAbOE=;tScwTI8s0uJQ6GD0sxLWwg=="

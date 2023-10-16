@@ -39,6 +39,22 @@ related:
         width: 1352
         height: 900
         isCached: true
+  - title: "How AI Is Transforming Contingent Workforce Management"
+    excerpt: "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working."
+    publishedDateTime: 2023-10-16T19:44:00Z
+    webUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Implementing AI into software engineering? Here's everything you need to know"
     excerpt: "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project."
     publishedDateTime: 2023-10-12T14:15:00Z
@@ -166,6 +182,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Confronting the long-term risks of Artificial Intelligence"
+    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
+    publishedDateTime: 2023-10-16T18:38:00Z
+    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 17
 
 secured: "7nxUu7RDMzqaOspjmhrgyZKKwf+mkRMY712uEF4aOhnek053RX1+yk8aOLlGqS/kSrbacVoLY5KGnPfKp2ZGQmGf7Bvd5yiiAGfa0dQfnyIxARJvBVjABP2dgb7fRW+E0nZIPQCj12jPKBdbw+NaPHBr4r4n/UNycAUEMXl8abvqTR5Xt/GhUuIHLXmo/vkaL2GeH30FMqcXi4IRdj3Awpcd5k9tA+pOhLUsXXs0hcpCMzGSAKElUnaz78Kd7UQ0SX+bRh+hi2Cx8UXbUk18T2XwOtgGogGrWp7cYrkhLkjAsesmO/3OW9gxymVyY79AXlnI0Elas5IOGbC2afhlfbvmeumCYo3ESUsj88QPnWs=;+gt7C27I7itTrSenPKHb8A=="
 ---

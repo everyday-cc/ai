@@ -9,7 +9,7 @@ ampWebUrl: "https://robbreport.com/travel/destinations/facial-recognition-travel
 cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 34
+  - title: "What Educators Should Know About Facial-Recognition Tech"
+    excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
+    publishedDateTime: 2023-10-16T18:41:00Z
+    webUrl: "https://www.govtech.com/education/k-12/what-educators-should-know-about-facial-recognition-tech"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 4
 
 secured: "Bk/hdmxheiW9ezc8/a75ksNbzbXZxKpDv+qRMtLGLYYzX8+kWaNvrySlRaCaRFIswjKYd7LwP5nTDw+EkJ3+dygRm9IabvK2Fsz1GZifx4GajhUJxW680NcPwVnnQsC6BTvkFrxwyeDPr5AAkyhi3Um/jGFdK6kog6/f94Yq4kTGB48GLkusawVyD/dIEDQ9iZdnxoNhrw3qfur7JVScnBQDgafFkGIK4WchuPXD/Lb4G4aklayynx/mbls7tos6qdXDSxrYf2eKxt3ozxkFo6BTbbRwe51+PGVvxGBi+Dci0gdl2uNuFNCJfXXpWkz68kGyjlHpfK214qMP1jLkt4UHgbtektzZQINKREOjBqs=;FGB2I6FKZomnxoWMMcjyUg=="
 ---

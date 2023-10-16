@@ -102,20 +102,6 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 51
-  - title: "Some States Already Have Indigenous Advisory Bodies. What Are They, And How Would The Voice Be Different?"
-    excerpt: "Australia will vote on the enshrinement in the Constitution of the Voice to Parliament. The“no” campaign has expressed many"
-    publishedDateTime: 2023-10-12T01:36:00Z
-    webUrl: "https://menafn.com/1107228825/Some-States-Already-Have-Indigenous-Advisory-Bodies-What-Are-They-And-How-Would-The-Voice-Be-Different"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 7
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/11/TC_e8554image_story.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "From ancient Jewish texts to androids to AI, a just-right sequence of numbers or letters turns matter into meaning"
     excerpt: "Integral to Kabbalah is the notion that Hebrew letters are the building blocks of the cosmos. According to mystical interpretations of the creation story in the Book of Genesis, God brought the world into being by creating the alphabet, then assembled the earth and sky by recombining letters."
     publishedDateTime: 2023-10-13T17:03:00Z

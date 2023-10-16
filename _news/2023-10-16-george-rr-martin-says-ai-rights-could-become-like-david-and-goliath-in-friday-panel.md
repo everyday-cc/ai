@@ -18,6 +18,17 @@ topics:
   - AI in Autos
   - AI
 
+related:
+  - title: "'Game of Thrones' creator George R.R. Martin: AI rights could become like 'David and Goliath'"
+    excerpt: "George R.R. Martin, the acclaimed author of the 'Game of Thrones' series of fantasy novels, recently said that the benefits of using artificial intelligence could become a 'David and Goliath' type of contest between small creators and large corporations."
+    publishedDateTime: 2023-10-16T17:40:00Z
+    webUrl: "https://www.bizjournals.com/memphis/inno/stories/news/2023/10/16/ai-creative-economy-george-rr-martin-copyright.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 8
+
 secured: "ra0QBbZyu+mkkgel3Gu7vWehOa7n5aaXWIWOGjiMICN7C6HBW7OyaRwz3KER97XSpcARdluK065dasfWbxDhlxdgcnS98BpX4w7Fg/4fHEGPHd+f0xuNYvnUHatghoL0FGuRMrRHr718I8d4MOru1q3o3bxtzVKqMNzwFeJtrBrVpFzXAgXsIVwSZGOcS/BO7PmK6rnpk3YNw/J6uHzHcL4y5bG/f3v+szxJLgQta9xilJQS56IcU+SSi+sZxyZmKelGpcetXteEuy0mD2wVfb8cd38BNGkw0DkEoWMYHuSaxmdhR+AhdAL5+Ny5v2bfygefPGhc3GfPApFccKbAvA4lLaJTHME+x13sievAc872Rt9BwZBy7YpY5GXIOAXWu9D/sCXdWJLBsMnYiu5IaRy8Q+pa5F2D0b4f92cEtEDxvBzZprO7H8lXHMFc+oa5tRVdIGTCqazhZFR69qMex0UokRcsUNQ6W5Z+mdEiOtzKOlbHXoZS/AK/c2RrjL/gr2I20PcUafnOqJbVeMEfSw==;rcHrH8b9T1CcPeKUGwm/dg=="
 ---
 

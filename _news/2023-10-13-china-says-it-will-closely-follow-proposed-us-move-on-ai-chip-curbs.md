@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
+    excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
+    publishedDateTime: 2023-10-16T17:49:00Z
+    webUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4&mc_eid=6811b078ef"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
     excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."
     publishedDateTime: 2023-10-13T05:23:00Z
@@ -188,20 +202,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 55
-  - title: "OSATs to see AI chip demand fuel growth in 2024"
-    excerpt: "Although major Taiwan-based OSATs experienced a decline in total revenue for 2023 through September, market sources state that they are gearing up for an anticipated rise in demand for AI and HPC chips,"
-    publishedDateTime: 2023-10-12T01:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20231011PD226/ai-ic-manufacturing-osat-hpc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231011pd226_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Biden considers tightening AI chip controls to China via third parties"
     excerpt: "Sources close to the matter said the additional rules are expected to surface later this month and that the government is also working out ways to limit Chinese access to U.S. cloud computing services."
     publishedDateTime: 2023-10-13T09:39:00Z
@@ -421,6 +421,15 @@ related:
     provider:
       name: Detroit News
       domain: detroitnews.com
+    quality: 19
+  - title: "U.S. to tighten curbs on China’s access to advanced chip tech"
+    excerpt: "The U.S. also extended waivers for South Korea firms Samsung Electronics Co. and SK Hynix Inc., plus Taiwanese chip giant Taiwan Semiconductor Manufacturing Co., to continue shipping some restricted chipmaking technology to their facilities in China."
+    publishedDateTime: 2023-10-16T18:37:00Z
+    webUrl: "https://www.spokesman.com/stories/2023/oct/16/us-to-tighten-curbs-on-chinas-access-to-advanced-c/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
     quality: 19
 
 secured: "INbU6XUCokYF3DpIQZweLHlUMTMfuL9PRTiiR+Fg4/LMxU5D59eOR/89BzAPh2ia4d/AAJT4zV9aRuXUTHS1HrCeuh5CoW33YcB7qJkPsvSkHTaSpVDFzPjQ3ivNCkrUkCqSqbpg0aCK/bxdNwcvmG6Cd/iRsy4m/tTqugZ2X/B0CZumSy5NUKtkq+a0rXjvXQBP1YjcU72DJOIVfGgmUGn813j8qM132QDBgVNPs0O/642nqG0PWjWiJQsPovqK9A2Ggiurmc1qYrNB0NhIWZOOulJsnXsYP2aarpcO7QwJozSAkdDGxINulDsn3lJFETktSIajnMMqbKsSF8qyLyf7M6y6bKgixM+Fa1C1Mro=;T7BXjpG6qVKJn0a2nqjlwg=="

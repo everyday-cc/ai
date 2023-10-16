@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/05/a6fb9af0-edd5-4ccb-9a88-32f5c8966561/thumbnail/1200x630/5e0c9474ae073fd720ef4f91379fcc0e/walk-2.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"

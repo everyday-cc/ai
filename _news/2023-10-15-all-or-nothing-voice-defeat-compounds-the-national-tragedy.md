@@ -52,20 +52,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Voting on the Voice: what you can and can't do at polling places"
-    excerpt: "Australian election officials have detailed the ground rules for the Indigenous Voice to Parliament referendum on Saturday. It comes as opinion polling continues to suggest defeat for the question in Saturday's vote."
-    publishedDateTime: 2023-10-12T04:59:00Z
-    webUrl: "https://www.sbs.com.au/news/podcast-episode/voting-on-the-voice-what-you-can-and-cant-do-at-polling-places/1ecj8w9bq"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/0c7f34a/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F35%2F33%2F0985e796457980b6d162f8ca124e%2Fr2r-podcast-gfx-voting-4-sand.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Your ultimate guide to the Voice ahead of polling day – everything you need to know"
     excerpt: "The Yes campaign says a Voice to Parliament will provide better outcomes for Indigenous people as well as giving them formal recognition. It argues that the Voice needs to be constitutionally enshrined to make a “powerful statement” to recognise the ..."
     publishedDateTime: 2023-10-13T03:27:00Z

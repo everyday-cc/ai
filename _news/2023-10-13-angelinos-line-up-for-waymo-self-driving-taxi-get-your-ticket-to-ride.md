@@ -30,11 +30,11 @@ related:
   - title: "US: Waymo Launches Self-Driving Taxi In Santa Monica, California"
     excerpt: "Waymo, a subsidiary of Alphabet Inc., an American autonomous driving technology company, launched Waymo One, a 24/7 self-driving robotaxi service, taking a tour around Los Angeles on Wednesday, October 11,"
     publishedDateTime: 2023-10-14T02:58:00Z
-    webUrl: "https://www.djournal.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_84a18a41-d887-56e4-bbc6-692f1e495c80.html"
+    webUrl: "https://www.wyomingnews.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_026eccc2-9269-5467-9e89-2a559bb749e9.html"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
+      name: Wyoming News
+      domain: wyomingnews.com
     quality: 19
 
 secured: "+AtmyieoN3LTinQChgquX858QiMA9zefosv4e6uoWup7LVs+tNIM5nQeQlNqiaUsmNE461u5k5FpoZydcFKNmIOcz4X7BDmdfTbiIYmt8U/lQQZ+Sh1xuFhP6yqxTIU9aMzsw1AYMRu53gGHkT8ai8vIPufKR1LwvbRp/hvBAViacOvuyfZxTvT+Vn9/xGUK5Wqe68QVgPSg9iMD6zI/K7WTTgxzpUCEXoTDh1fBeJrxSaEqwpK5Y2IG71b0mLjr86yPtNho0AlhCtYuNf7OXPIueRPG+3c9v3U8BRlnZSMsY95Gicr2gFh/JPMfQ7V+LRA61/4O5dFFWhr3L2Ta7h4rRYAh2lAtDk71WNAYtrM=;y6vmpvzZlRknMq98MkgGYw=="

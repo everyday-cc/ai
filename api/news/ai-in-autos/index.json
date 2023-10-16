@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-17-why-cathie-wood-picks-tesla-over-nvidia-as-top-ai-play-for-next-5-years.md",
+      "title": "Why Cathie Wood Picks Tesla Over Nvidia As Top AI Play For Next 5 Years",
+      "excerpt": "Shares of technology giant Nvidia Corporation (NASDAQ: NVDA) are up over 220% year-to-date in 2023, a move that has helped propel the company into the one-t",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/why-cathie-wood-picks-tesla-over-nvidia-as-top-ai-play-for-next-5-years-1032709777",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/why-cathie-wood-picks-tesla-over-nvidia-as-top-ai-play-for-next-5-years-1032709777",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-better-ai-stock-tesla-vs-alphabet.md",
       "title": "Better AI Stock: Tesla vs. Alphabet",
       "excerpt": "Among the dozens of companies jockeying to lead the next artificial intelligence (AI) revolution, Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Tesla (NASDAQ: TSLA) are two of the clear leaders. Though Alphabet might have ceded the initial first-mover advantage in generative AI to OpenAI's ChatGPT and its partner Microsoft,",
@@ -33,92 +77,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-5-ways-ai-could-influence-nursing-in-the-coming-years.md",
-      "title": "5 ways AI could influence nursing in the coming years",
-      "excerpt": "Health care is one field where AI is rapidly innovating the nature of work-related tasks. In fact, health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work,",
-      "sourceUrl": null,
-      "webUrl": "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/",
-      "originalUrl": "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgno.com/wp-content/uploads/sites/2/2023/10/Screenshot-2023-10-13-085439.png?w=1280",
-          "width": 763,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/",
-      "cdnAmpWebUrl": "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/",
-      "publishedDateTime": "2023-10-14T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGNO",
-        "domain": "wgno.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-artificial-intelligence-helps-to-read-ancient-burned-scroll.md",
-      "title": "Artificial intelligence helps to read ancient burned scroll",
-      "excerpt": "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/newsround/67103053",
-      "originalUrl": "https://www.bbc.co.uk/newsround/67103053",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/newsround/67103053.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp",
-      "publishedDateTime": "2023-10-13T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -371,22 +329,13 @@
       "title": "Georgia State receives $10 million artificial intelligence research grant",
       "excerpt": "Jonathan Shihao Ji, a computer science professor at Georgia State University, has received a $10 million grant from the Department of Defense to address critical problems in artificial",
       "sourceUrl": null,
-      "webUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
-      "originalUrl": "https://www.albanyherald.com/news/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_da39c0c6-67a8-11ee-a6be-031c478965b6.html",
+      "webUrl": "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html",
+      "originalUrl": "https://www.northwestgeorgianews.com/plus/georgia-state-receives-10-million-artificial-intelligence-research-grant/article_b2b05dae-0704-5452-a8b4-61ec7f1881ab.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/e/d2/ed26ad10-67a9-11ee-aab4-4bdaf1c2cfd2/6525b12a16f0b.image.jpg?crop=800%2C420%2C0%2C90&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -394,8 +343,8 @@
       "publishedDateTime": "2023-10-10T13:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Albany Herald",
-        "domain": "albanyherald.com",
+        "name": "Rome News-Tribune",
+        "domain": "northwestgeorgianews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1332,6 +1281,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai.md",
+      "title": "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI",
+      "excerpt": "So we posed a similar challenge to Google’s new artificial-intelligence engine, Bard, with a few tweaks: “Please write a 550 word editorial in third person explaining why Florida newspapers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
+      "originalUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/wp-content/uploads/2023/10/NYTimes_ROOSE-COLUMN.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

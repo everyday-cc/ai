@@ -80,6 +80,15 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 49
+  - title: "Nearly 9 out of 10 grocery workers are worried about AI, robotics"
+    excerpt: "Although they’re concerned about being replaced by technological innovations, 87% of associates believe it will help them to do their jobs"
+    publishedDateTime: 2023-10-16T17:53:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/nearly-9-out-10-grocery-workers-are-worried-about-ai-robotics"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 49
 
 secured: "P0xzlG/hHep0tn2doTbdv7/8u26E4lMAn9EV1XOJTJMOtcHxKXCXsazopHCCxixdKiEgTrktssDTAgVbatENkbmYYaognSqRL2GbesFM3ZLEfc7gjr/1zwt2EaUGNOGI2hwkPHp1Be5L08bLve93dcBXsvmOrlOJjuBhnh9EPB4xLYvj/OhtVTCZsGt+IDjJKmXKZPlA4F71Iq7EymJ5uAJvEigwG40Fpro6xPwFmslQxpa/hkIg0JmVkFw3waeoqIpargUIiuCNKuqtdEaSiya3OtOcKp+AxSlLRZMqOa1S+HMR0Kb4p42iHh8TPh63TuFuhjr6QFJTVIsUfXN3sVex3DXuqkGBmRU0UYzrJrM=;gvfi0f2tDKfPo/85NULEQA=="
 ---
