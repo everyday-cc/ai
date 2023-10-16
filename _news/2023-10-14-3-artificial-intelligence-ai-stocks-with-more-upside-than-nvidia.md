@@ -71,22 +71,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 64
-  - title: "4 Chip Stocks to Consider for Earnings Season. Yes, Nvidia Is One."
-    excerpt: "Semiconductor companies are heading into earnings season with artificial intelligence at the top of the agenda. Investors will be watching Nvidia, the market’s AI chip favorite, but they should also be thinking about Monolithic Power Systems, Marvell Technology, and Broadcom, according to Oppenheimer’s Rick Schafer."
-    publishedDateTime: 2023-10-11T14:30:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-554588/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "ZTE's first 'flagship GPU server' for China has NVIDIA H800 AI GPUs, works around US sanctions"
     excerpt: "ZTE has just unveiled its very first \"flagship GPU server\" for the Chinese market, powered by Intel Xeon Scalable processors and NVIDIA H800 AI GPUs. Check it out:"
     publishedDateTime: 2023-10-13T00:19:00Z

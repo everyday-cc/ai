@@ -376,19 +376,19 @@
     {
       "path": "_news/2023-10-06-ai-facial-recognition-campaigners-and-mps-call-for-ban.md",
       "title": "AI facial recognition: Campaigners and MPs call for ban",
-      "excerpt": "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ...",
+      "excerpt": "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human rights, potential for discrimination and \"the lack of a democratic mandate\".",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-67022005",
-      "originalUrl": "https://www.bbc.com/news/technology-67022005",
+      "webUrl": "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html",
+      "originalUrl": "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/656ea96363e253c179d5d40cd8be9320",
+          "width": 976,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -396,23 +396,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-67022005.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp",
-      "publishedDateTime": "2023-10-05T18:05:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T19:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

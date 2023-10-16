@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-28-alibaba-cloud-launches-sustainability-web-application-and-virtual-sign-language-interpreter-for-the-hangzhou-asian-games.md",
+      "title": "Alibaba Cloud Launches Sustainability Web Application And Virtual Sign Language Interpreter For The Hangzhou Asian Games",
+      "excerpt": "HANGZHOU, CHINA - Media OutReach - 28 September 2023 - In an effort to promote the sustainability and inclusiveness of the Asian Games and the Asian",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107157254/Alibaba-Cloud-Launches-Sustainability-Web-Application-And-Virtual-Sign-Language-Interpreter-For-The-Hangzhou-Asian-Games",
+      "originalUrl": "https://menafn.com/1107157254/Alibaba-Cloud-Launches-Sustainability-Web-Application-And-Virtual-Sign-Language-Interpreter-For-The-Hangzhou-Asian-Games",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2023-09/28/MON_5ffc4image_story.png",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-delivery-on-time-to-99-while-significantly-reducing-turnaround-times.md",
       "title": "Breaking language barriers: thebigword's AI workflows enhance translation delivery on time to 99% while significantly reducing turnaround times",
       "excerpt": "With the ever-growing demand for rapid and high-quality translations, thebigword has taken numerous steps, including the ability to create and implement self-driving AI workflows, to ensure their clients are receiving the highest quality of translation and customer service.",
@@ -1302,59 +1345,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-fairly-ai-wants-to-help-companies-better-understand-their-ai-risk.md",
-      "title": "Fairly AI wants to help companies better understand their AI risk",
-      "excerpt": "David Van Bruwaene was pursuing his Ph.D. in philosophy at Cornell when he developed a passion for linguistics and natural language processing, the subfield of AI concerned with allowing ... “Our technology allows us to translate compliance requirements ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/",
-      "originalUrl": "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1394730671.jpg?resize=1200,738",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/19/fairly-ai-wants-to-help-companies-better-understand-their-ai-risk/amp/",
-      "publishedDateTime": "2023-09-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -41,6 +41,22 @@ related:
         width: 1565
         height: 900
         isCached: true
+  - title: "Logitech Unveils Zone Wireless 2 AI-Powered Headset"
+    excerpt: "Swiss computer accessory giant Logitech has announced its next-generation Zone Wireless 2 headset in a move that underscores the company’s commitment to the burgeoning business-to-business market. Whether staff are working from home, office or a combination of the two, those workers need the right tools for Zoom meetings and phone calls."
+    publishedDateTime: 2023-10-16T07:00:00Z
+    webUrl: "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/"
+    ampWebUrl: "https://www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2023/10/16/logitech-unveils-zone-wireless-2-ai-powered-headset/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65295de0a0b6a0930e9b9f0f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Governments race to regulate AI tools"
     excerpt: "Rapid advances in artificial intelligence (AI) such as Microsoft-backed OpenAI's ChatGPT are complicating governments' efforts to agree laws governing the use of the technology."
     publishedDateTime: 2023-10-13T10:48:00Z
@@ -82,22 +98,6 @@ related:
       - url: "https://www.unite.ai/wp-content/uploads/2023/10/knowledge-ai-400x240.jpg"
         width: 400
         height: 240
-        isCached: true
-  - title: "Dropbox unveils video app, updates AI tools and web interface for new era of work"
-    excerpt: "Highlighting a new era of distributed, virtual work, Dropbox has announced a host of updates to its platform — including a number of new capabilities for its previously launched generative AI tools — as well as new subscription plans."
-    publishedDateTime: 2023-10-11T14:36:00Z
-    webUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708311/dropbox-unveils-video-app-updates-ai-tools-and-web-interface-for-new-era-of-work.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 52
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/15/15/puff-7-100944726-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "MtE7kaMPmNskTTwAUkjdEV06EJdUodLO/czhWBQPizuE7Cie+EQWKPCtrv1972piI5DeW4HnqNnR84wk/fPVFurWnx0UFTOmK6gNL2JYcwtoum8RTsHt0vpZwUhTZ/sxejq3ApP9eSgdjPbZPyyC7lumH6CLfmAYB4S+tPZLJlnADYFKkyNzV3lKenKclv9bez0TTEP8oX7Jlt+JBjlG5dl/1xFvwZUxninSEx0c0Q2jLOt9LZFg1qEVLhzGcoL291ZxpoXLx34XrGqaMHc4/kSS7Rf6HFCqJ2/zhLUOE1xd7R+quSVARcOj/Rjj/xTd3T7cUwEjdrXt8uIXEzDh9C/xhpijd6hKaEnlVhlQC4JIdvkLGP9nk7ywTNJVnRlB5jLfUZoJJqB+jTIzVhM7TtVN+YllBn0j5L0bK3UA3DRvLNo3dsflon0uIHSFFzWlyyWztaloG7Dyc5XmYNhefgYGEoyPiD/6PdTj8a8kxeHfgpck0UD2YNhGO3K9uHfGJxJBkHaMimseQD/xrRO1eA==;D6AqFoGQXINwwf6yPdSEwg=="

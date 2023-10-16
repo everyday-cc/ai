@@ -39,17 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Indigenous voice to parliament or not, the real work is still to be done"
-    excerpt: "History will be made on Saturday, one way or the other. And no matter whether the referendum succeeds or fails, this history will test the values, processes and mettle of our political class and our country."
-    publishedDateTime: 2023-10-13T23:29:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 23
 
 secured: "+bsFjEATx7cEveid+UvoyvbZPbLFvfSZdJ8WIbX8Kuvj6VFZzEUT4hRTBdPqcOZXdTgX9Ds87axSfFc/z6xcIBPM2zOcFqFLpSZQuPNI4Xu0QxZdS5/Nnf0ynlEFGcXOW4sgoPcKoeatv4aEkDwuk6RkmrOpIwtqeMR90qGnhzQb15v3gX9XJ+mMKgcRzQUpGs2lhTGzaMUDLS62F8VylgINKSYFp0qJkxJOBo28loIGFeZg0tVOIWfYRsz4QwxMkxINnPUsgEzMu7khCRodXbhE0xrrNVkFIcac5GBmFLc0WIURf1m70/PQT3SNyuQbukkxudbHQYjn6iBLRIzU2mEztY2BypFleTdkUe/KwegGy1lsBW0IYgAslE7pWUN5CYjJJk4wZ+9P/AxBeMTKVobYEsAf40uCKgcClA6f25hoZ28+vTwSaC85oFKWxPvg2yiCq7cw3TSwq7igFIGaSmhLFeo1d3sA8tHnp8vWIVgRgi0aQ13U4An3FK3y8CAPEqq1mEadUkPyx8IlfCoGfw==;fAO5Y1nZEM81M4AfWl7a3A=="
 ---

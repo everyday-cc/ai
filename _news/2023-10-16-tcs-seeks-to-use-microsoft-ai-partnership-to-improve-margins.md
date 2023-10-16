@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "TCS Seeks a Boost in AI Partnership with Microsoft"
+    excerpt: "The collaboration with Azure OpenAI, formed by Microsoft and OpenAI, involves using the cloud-based AI tool GitHub Copilot."
+    publishedDateTime: 2023-10-16T07:00:00Z
+    webUrl: "https://analyticsindiamag.com/tcs-seeks-a-boost-in-ai-partnership-with-microsoft/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
     excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"
     publishedDateTime: 2023-10-13T06:56:00Z
@@ -113,6 +127,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
+  - title: "DataTrue launches privacy leak detection supported by Microsoft AI … – Microsoft"
+    excerpt: "By Microsoft News Center The data auditing platform Datatrue announces today the launch of a patented data validation and personal"
+    publishedDateTime: 2023-10-16T07:26:00Z
+    webUrl: "https://www.inferse.com/756889/datatrue-launches-privacy-leak-detection-supported-by-microsoft-ai-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
   - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
     excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
     publishedDateTime: 2023-10-14T23:01:00Z

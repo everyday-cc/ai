@@ -18,26 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Pat Dodson addresses National Press Club in final days of Voice to Parliament campaign"
-    excerpt: "Pat Dodson, known as the “father of reconciliation”, has pleaded with Australians to give First Nations peoples “the key to the car” and vote Yes in the Voice to Parliament."
-    publishedDateTime: 2023-10-11T14:38:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/pat-dodson-addresses-national-press-club-in-final-days-of-voice-to-parliament-campaign/news-story/581586f8bacec7e239354f295b86c76a"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 11
-  - title: "Indigenous voice to parliament: it’s time to embrace this chance for good of the nation"
-    excerpt: "Indigenous elders and leaders gathered at Uluru after the most extensive consultations with First Nations people this country has ever seen."
-    publishedDateTime: 2023-10-12T12:23:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-its-time-to-embrace-this-chance-for-good-of-the-nation/news-story/f299814f9ab4ef6a8423b33ea2186ba8"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
-
 secured: "gPA25JoDDdGG4DbuuDg0P+EJijze6ho7h4u015Pcn5qfIzky+l0FAPIiVD2t33yhdwKcW95p4ZJD0ZxtLH0T3WgyTfCFcQHPeoSEIawNCOkM5fKXwgRnvV8QDsJ71Ur7d4yWo39rRkDfTwty4KaqtYppM7hbnnE6U2ZTuODuXs36fXQdM4JeDcpSSiNNYdkLMms0F0CXG4ZUvYETuQshgyKmR2wB0vvtj80l2mG9oeqL7Bd5WYy/uNNgmQoyp+/xAqUskQtjj4PJb49MLDNJOfDLtc/0DxP9AvMllziZIFh1JB+n4ERqlfeeVvz3n9zGXGjLIs3pYI/Kt1zGcYU70zU76OjPfy4lzIoEucJCymz9yvls86G8bPPgokbC/3GPtsT95mhMUeNO5uiAKDY2boZCOfHiipCiFCj3XzTG3lDUkaT2j3pvqwsnJGFydQ8a+Cs4gq87ku49++fCsk+mAnNWv2ME/zXo0O5B1KxBHIdlWvIATP0p+dITaHwEHTtMKGMh3n/gh2RCMwnBnRqzAQ==;oXt0mq0SxhPXNpl0Myj44w=="
 ---
 

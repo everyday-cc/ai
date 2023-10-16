@@ -63,6 +63,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "AI In Fintech Market Unleashes a 16.5% CAGR Surge to US$ 54 Billion"
+    excerpt: "The size of the worldwide AI in fintech market was estimated at US$ 10.1 billion in 2021 and is predicted to increase by 16.4% year over year to US$ 11.76 billion in 2022. Demand is anticipated to increase from 2022 to 2032 at a (CAGR) of 16."
+    publishedDateTime: 2023-10-16T05:57:00Z
+    webUrl: "https://www.fmiblog.com/2023/10/16/ai-in-fintech-market-unleashes-a-16-5-cagr-surge-to-us-54-billion/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 39
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/AI-In-Fintech-Market.jpg"
+        width: 1000
+        height: 663
+        isCached: true
   - title: "Genesis Global Named to CB Insights’ Fintech 100"
     excerpt: "Genesis Global, the low-code application development platform purpose-built for financial markets organizations, announced it was named to the CB Insights Fintech 100, a ranking of the most promising private fintech companies of 2023."
     publishedDateTime: 2023-10-11T15:36:00Z
@@ -77,6 +91,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
+    excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
+    publishedDateTime: 2023-10-12T13:08:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214238-global-fintech-klarna-leverages-ai-for-human-shopping-experience/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
   - title: "Arab Fintech Forum Kicks Off In Doha"
     excerpt: "Doha, Qatar: The second edition of the Arab Fintech Forum was inaugurated yesterday at The Ritz-Carlton Doha with a number of industry experts emphasising the fintech market in the region and the opportunities that lie ahead."
     publishedDateTime: 2023-10-11T18:44:00Z

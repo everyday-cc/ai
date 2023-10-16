@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-s
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-esque-ai-sales-marketing-platform-for-websites-customer-lead-generation-1032679768"
 type: article
 quality: 96
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
-  - title: "Ada Introduces Generative Actions, Enabling AI-Powered Customer Service Chatbots to Actually Resolve Customer's Issues Without Human Intervention"
-    excerpt: "Ada's Generative Actions technology can pull data from trusted business systems such as a CRM or order management system, for example, to personalize its response and take action to assist the customer. In fact, with Generative Actions, Ada anticipates chatbots will outperform a human agent in terms of speed and accuracy."
-    publishedDateTime: 2023-10-11T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "++cLGgTaEVxqMvrZV/wDAs0dFGZFAA1wa3eW3EHQvTvPDES8x4YsFwiUX/tgvmcxhcPLfk+B8Aqm94JF9lVKnXaElPlAIn/x3QRR5hbKqUpNAFthxrtyX5Yee69YRAywY7b7mpn57mK3xrz8dJbU9LkPV4qwY9DSZDOjyOMPBLyF6V71mRGwHOkWwM5yRbgmuAvqaGQ0gvN+2mxG/QiKLjDKtoyPXFEciXdY21/8gTDyfelNKAkO+wSMIRdM0yCNIzCB7kaFyWKSsdBvNJ3nk0QT790OB9z4ksr/DV/kwYM8NhuJ7zKfo4YjkgcJw5VObEViOZZFXWU/YmfBwRRQe9PtO6WPwm9QzVUmb4Yajk0=;ALnwITFE9eLm/t9fPJeTUw=="
 ---

@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "io.net to launch first GPU-enabled decentralized computing network for AI"
-    excerpt: "io.net intends to address the scarcity of GPUs for AI processing by procuring one million units from independent computing power sources. During the course of its development, it will establish the first decentralized cloud environment specifically designed for machine learning, according to the latest information shared with Finbold on October 11."
-    publishedDateTime: 2023-10-11T13:30:00Z
-    webUrl: "https://finbold.com/io-net-to-launch-first-gpu-enabled-decentralized-computing-network-for-ai/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 33
 
 secured: "SVikyjkuDpdnThzGefNfJTafayNQ/pxz70qbrzO3s+8hk3AKCwfuawa001mrKdsUOnwQXbnu1AR20H/9yIkdBltKu0kX3qtM+o9dh90ypvsZ30p+Hm0yYw7iYBEOldmL3w10tSelVaGZGo3i4T0yWvM4yLxwfODzj4oQXMD6xmNP/Q0nAuPbkTPHhSBIq600/NjYqmISuLybtQc4dBc/+XEFzt5/RXDFbgVitpF/4yRjbIiNY4D8ozHWruNF4MG1gegBerMCqdT63msAjjAQLNUa0DnDAxJdq53+6D7iZTLBYQdL4pLIwFMcz17vUqZRfeorZi5oz6V/zbyJqC8pB/95OWylfypP8AJp4RkwxHs=;VVfvpgLRI/t9VwBJeN6A/Q=="
 ---

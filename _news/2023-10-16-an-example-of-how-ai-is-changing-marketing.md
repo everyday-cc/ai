@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Medium is opting out of AI"
-    excerpt: "This week on Equity, we're joined by Tony Stubblebine, the CEO of publishing platform Medium.com. We're digging into the business of the written word, Medium's stance on AI and what its posture says about how the company views the value of writing."
-    publishedDateTime: 2023-10-11T14:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/"
-    ampWebUrl: "https://techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/why-medium-is-opting-out-of-ai/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/medium-mastodon-logo.png?w=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Implementing AI into software engineering? Here's everything you need to know"
     excerpt: "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project."
     publishedDateTime: 2023-10-12T14:15:00Z
@@ -62,6 +46,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/b621a19a7a8a179ac4529d95cbf983989647197f/2023/09/20/4a2888a9-76ee-4157-8690-00d1c67fae23/eyeglasses-codegettyimages-1442975239.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Zib Digital Talks About AI-Driven Digital Marketing"
+    excerpt: "AI driven technology is having a profound impact on various aspects of digital marketing, from content creation to personalisation,"
+    publishedDateTime: 2023-10-16T07:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/zib-digital-talks-about-ai-driven-digital-marketing-1032706168"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/JrhKakX8mhdHWEedVM3ddoCfgoG3/89110425-1697426395-1.jpg"
+        width: 800
+        height: 267
         isCached: true
   - title: "Responding in real time to changing market dynamics"
     excerpt: "Implementing more aware, dynamic and automated inventory management systems create a competitive advantage to increase market share.\nThe post Responding in real time to changing market dynamics appeared first on IBM Blog.\n"

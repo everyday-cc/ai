@@ -9,7 +9,7 @@ ampWebUrl: "https://7news.com.au/politics/federal-politics/how-the-voice-to-parl
 cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/politics/federal-politics/how-the-voice-to-parliament-compares-to-other-countries-indigenous-recognition-c-12137249.amp"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,63 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Confusion, distrust impact Indigenous Voice vote"
-    excerpt: "She is however a supporter of constitutional recognition – “but not this way, which includes Voice”. No one from the official Yes campaign wished to comment on this week’s polling figures – perhaps understandable given the desire to keep a ..."
-    publishedDateTime: 2023-10-13T23:08:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 44
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Months old Yes poll sparks claims Indigenous Voice support claim is outdated"
-    excerpt: "Outdated polling showing overwhelming Indigenous support for the Voice has sparked a late-stage brawl over ... by Dean Parkin from Australians for Indigenous Constitutional Recognition. A Yes23 spokesperson said the 80 per cent figure was based on multiple ..."
-    publishedDateTime: 2023-10-14T01:11:00Z
-    webUrl: "https://www.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
-    ampWebUrl: "https://amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 36
-  - title: "Hurt ripples in wake of Indigenous Voice vote"
-    excerpt: "Some, like opposition leader Peter Dutton, have floated the idea of a second referendum that recognises Indigenous people in the constitution, but doesn't create an advisory body. Others have suggested the government could create the Voice through legislation - but Mr Albanese has ruled that out."
-    publishedDateTime: 2023-10-15T09:21:00Z
-    webUrl: "https://www.aol.com/hurt-ripples-wake-indigenous-voice-062103540.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b255efb383bed8b84910d038d132eb98"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Days after Voice vote, Peter Dutton waters down Indigenous recognition commitment"
-    excerpt: "Coalition leader Peter Dutton has talked down his commitment to recognise Indigenous Australians in the constitution just days after the Indigenous Voice to Parliament referendum, saying Australians are \"probably over the referendum process for some time\"."
-    publishedDateTime: 2023-10-15T23:56:00Z
-    webUrl: "https://www.sbs.com.au/news/article/days-after-voice-vote-peter-dutton-waters-down-indigenous-recognition-commitment/t5or4hzpz"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 19
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/f1b9642/2147483647/strip/true/crop/4703x2645+0+245/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5e%2F9e%2F917dd67541cbb9c54d32815d25f3%2F20231011001851029261-original.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "7xiZquczDDe0GpyMUSHkn5p7yJznr8LMKw5AeGESYwTNZFiK9nc66Uy1bKtQtMulV7grj/kmeoM4xPhvKcaW+IlHSOZ3L2uVcl/5ubZkqZSstSe0m074vRAs+O6FGjVIg8g9/d3hUAyU/LSdG0xEDqDjD3OP4m0N/Dd9UdE9dZmlhuwRsTA0Qlc8fagTd9imc+ZdUKDqxhY3rbQ+pbTFwIH60ahNvnWrWNZSlWkGmLD8nFAXKbs0RMmuzc73Ax5GXRw4xmsHggis1YcRmBLvP0kSgLElbTnI/nDBWSHAl2lvh4u+eQHZPQzIy4rR8JLI6vHQVzY+1tBoPKdzagzsFqihYAV9l3GMH7ZF3BIQxII=;pUh/7hUVyRFOYNK+2v3Ctw=="
 ---

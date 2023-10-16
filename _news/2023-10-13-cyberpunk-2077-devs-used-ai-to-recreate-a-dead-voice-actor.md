@@ -44,6 +44,22 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "KT launches high-performance cloud specialized for AI service"
+    excerpt: "KT Cloud launched a powerful cloud computing service designed for AI service development, which will help boost its AI infrastructure business, the cloud subsidiary of KT said on Monday."
+    publishedDateTime: 2023-10-16T07:09:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/133_361230.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361230"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361230"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/d1276185860f4178bf94a03c378896f9.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "AI Used to Resurrect Video Game Voice Actor in ‘Cyberpunk 2077’ Universe"
     excerpt: "The Polish video game developer CD Projekt SA has used artificial intelligence to replicate the voice of the late Polish actor Miłogost Reczek."
     publishedDateTime: 2023-10-12T23:18:00Z

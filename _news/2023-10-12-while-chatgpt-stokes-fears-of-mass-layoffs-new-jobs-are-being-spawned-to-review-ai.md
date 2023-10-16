@@ -73,15 +73,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
-  - title: "Ada Introduces Generative Actions, Enabling AI-Powered Customer Service Chatbots to Actually Resolve Customer's Issues Without Human Intervention"
-    excerpt: "Ada's Generative Actions technology can pull data from trusted business systems such as a CRM or order management system, for example, to personalize its response and take action to assist the customer. In fact, with Generative Actions, Ada anticipates chatbots will outperform a human agent in terms of speed and accuracy."
-    publishedDateTime: 2023-10-11T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "5zxqTj5PB1W8JS5HQRUZ5fE8OJkFnsRkBNy1bz9xt3UT/mBTecJHRSyPx8dlFzFUxWrui0GzoHRVjEc2e5RuU6mNoOQ00bqNHS9Wrv8iPZyu9w8jvWZNdTE4LDZEvd+T047hWOTpnMAcS6MGKT5XBpXYGV7ZeZc2lK5i2t2zlDYorDyq4Xv8wA2385FDyM/3WMRfbJUFLxzSeui61mNhHsRhYFlW2f23zr3T1JnpwlO71PnxLxxSrGRUNoOSVa2sksddQTXF0RMiv8laO+Qc9+qMXh/liHUIm9HNcNTUkufqo46fri1AI6gN7q9SxnmCVNZ7fL19bnFV/0pRPKG1qhp1L9gdSmpJPYFJzDPmGZJt8dRzxnDDBXNJ0JczRHpwRVG3DFZ8+NZRhv2jFlDAp1DTZpWIcrxHPbPzQGLqUxmhMiaetqs0/OOfkRMtgBlPRbEJxwfR7vE4MtKsSvH2q5WgYcmDyDF1j5f/AiAXvb5S75ECByIiTol31tezNk5o58LCGBnkoW1+rDFReRh+yw==;T29mg+i9aLTVBa/C/0Xxdg=="
 ---

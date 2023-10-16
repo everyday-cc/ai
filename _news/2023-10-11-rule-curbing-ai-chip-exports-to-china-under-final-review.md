@@ -127,19 +127,21 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "AMD focuses on AI chips in new acquisition bid"
-    excerpt: "AMD has entered an agreement to acquire software start-up Nod.ai, as the semiconductor giant makes a push into the AI chips market."
-    publishedDateTime: 2023-10-11T13:55:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/amd-nod-ai-acquisition-semiconductors-chips"
+  - title: "US-China tech 'war': New rules coming to stop American companies from exporting AI chips"
+    excerpt: "The US is set to introduce new rules that will make it harder for US companies, like Nvidia, to sell products to China. These export controls are expe"
+    publishedDateTime: 2023-10-16T07:35:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/us-china-tech-war-new-rules-coming-to-stop-american-companies-from-exporting-ai-chips/articleshow/104461251.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/us-china-tech-war-new-rules-coming-to-stop-american-companies-from-exporting-ai-chips/amp_articleshow/104461251.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/us-china-tech-war-new-rules-coming-to-stop-american-companies-from-exporting-ai-chips/amp_articleshow/104461251.cms"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 65
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/AdobeStock_627078046_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
+      - url: "https://static.toiimg.com/thumb/msid-104461251,width-1280,height-720,resizemode-4/104461251.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "US rule restricting AI chip shipments to China under final review"
     excerpt: "According to a US government posting a rule restricting shipments of specific advanced chips to China has been revised and is under final review"

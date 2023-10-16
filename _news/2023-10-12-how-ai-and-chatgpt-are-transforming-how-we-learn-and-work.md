@@ -69,15 +69,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Ada Introduces Generative Actions, Enabling AI-Powered Customer Service Chatbots to Actually Resolve Customer's Issues Without Human Intervention"
-    excerpt: "Ada's Generative Actions technology can pull data from trusted business systems such as a CRM or order management system, for example, to personalize its response and take action to assist the customer. In fact, with Generative Actions, Ada anticipates chatbots will outperform a human agent in terms of speed and accuracy."
-    publishedDateTime: 2023-10-11T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896926.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "YSLcLzaoQkELwTAZLEa4TywKlruvyc7oJzzQcYqVKqf2HaSghm8GXD4MnYjbNVqQNkucIrgv/V7HTJ6EKwf3Qd6QNwTJaoyqghuJLDb9xh7fgbb9FCipdi0RdV1XJc4Lxv8wykCusZwTSyUPz1MpOG5iJ56Yt1W38f3GUK8akaOKswUTuVuTV24l45E7BdW6jMqWoTVqlX8+wJCjjYh1uQI6i1inN1H5ADHNGp6IklPtalHQrSwImupM3H7bj82FZ258ZJWYV+SVJ4NhIDMdpe0uutQ/FKkCtEy2jphtvZoDeV1K4c/UMVoqB8vvSEipc9uSTZ5iwqcLr5LmyXiVtTB28+zHG2ol016Fl6E9Ov/ck5KiYFzrk/wn5A+HZAz4gZQqC+K/1SPL8PpbcHoVud6AsZxV058KjSJRFCzwMhA2Vf0XhW1yIUXsffeNChIW4bZZHS6lKcPgNJgeFfUQDA/Wu1udgheUQcUz8fFdUyh8ex1qSBa712KZJPZOkpjGGqgeNCvJz4F9hdkCtO3tfg==;UA9S7h7jlBbxzhzZtVIEgw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb7
 webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa"
 type: article
 quality: 64
-heat: 74
+heat: 76
 published: true
 
 provider:

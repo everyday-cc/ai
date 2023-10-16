@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-22-intel-fills-the-gap-in-chinas-ai-chip-market-amid-us-export-restrictions.md",
+      "title": "Intel Fills the Gap in China’s AI Chip Market Amid US Export Restrictions",
+      "excerpt": "Intel, which last year made 27% of its total revenue in China, seems to have strategically positioned its Gaudi2 processors",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/",
+      "originalUrl": "https://www.gizmochina.com/2023/09/22/intel-china-ai-chip-us-export-restrictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/08/Intel-CPUs.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-ai-gpu-demand-remains-strong-says-aws.md",
       "title": "AI GPU demand remains strong, says AWS",
       "excerpt": "AI GPU demand remains strong and the chip shortage has yet to have a significant impact on Amazon Web Services (AWS), according to Robert Wang, managing director of AWS in Taiwan and Hong Kong.",
@@ -1346,58 +1398,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-siri-and-apples-ai-moves.md",
-      "title": "Siri and Apple’s AI Moves",
-      "excerpt": "We’re midway through Apple’s new Watch Series 9 introduction and we’ve heard how Siri has gotten better. The assistant now processes info right on the device and you can ask it about your health data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY",
-      "originalUrl": "https://www.wsj.com/livecoverage/apple-iphone-event-2023/card/siri-and-apple-s-ai-moves-MptPFrA2JGuuCuS9RDvY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-850656/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

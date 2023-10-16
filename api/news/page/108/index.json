@@ -2,6 +2,289 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-07-30-entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.md",
+      "title": "Entertainment companies hiring AI specialists amid Hollywood strike",
+      "excerpt": "Actors have expressed fears about AI being used to replicate an actor’s image and likeness without the actor’s consent, while writers have pushed for limits on the use of AI to write or rewrite scripts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike",
+      "originalUrl": "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2023/07/932/470/GettyImages-1552190291.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp",
+      "cdnAmpWebUrl": "https://www-foxla-com.cdn.ampproject.org/c/s/www.foxla.com/news/entertainment-companies-hiring-ai-specialists-amid-hollywood-strike.amp",
+      "publishedDateTime": "2023-07-29T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTTV",
+        "domain": "foxla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.md",
+      "title": "From robot waiters to DNA-based menus: How AI is changing the food industry",
+      "excerpt": "This technology can optimize processes in a kitchen and transform the way restaurants operate. For customers, it could mean targeted menus and pricing changes in real time",
+      "sourceUrl": null,
+      "webUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
+      "originalUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.english.elpais.com/resizer/MikA5DG10cupeGKdb7L3Tpv6wns=/1200x0/filters:focal(3158x1571:3168x1581)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/U6CGZ3DPCFFFXB5X6NB22RSCUI.jpg",
+          "width": 1200,
+          "height": 888,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
+      "cdnAmpWebUrl": "https://english-elpais-com.cdn.ampproject.org/c/s/english.elpais.com/culture/2023-07-29/from-robot-waiters-to-dna-based-menus-how-ai-is-changing-the-food-industry.html?outputType=amp",
+      "publishedDateTime": "2023-07-29T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "El País in English",
+        "domain": "elpais.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-30-uber-self-driving-car-test-driver-pleads-guilty-to-endangerment-in-pedestrian-death-case.md",
+      "title": "Uber self-driving car test driver pleads guilty to endangerment in pedestrian death case",
+      "excerpt": "The Uber test driver behind the wheel of one of the company’s self-driving cars, when it hit and killed a pedestrian in 2018, pleaded guilty to endangerment and was sentenced to three years of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html",
+      "originalUrl": "https://www.cnn.com/2023/07/29/business/uber-self-driving-car-death-guilty/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-29T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-executives-need-to-be-careful-before-diving-into-the-world-of-ai.md",
+      "title": "Executives Need To Be Careful Before Diving Into The World Of AI",
+      "excerpt": "With AI continuing to make headlines, organizations feel under pressure to adopt the new technology. But many questions remain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c54268c990bbf4f1ade19b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2023/07/29/executives-need-to-be-careful-before-diving-into-the-world-of-ai/amp/",
+      "publishedDateTime": "2023-07-29T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-warning-programming-and-learning-can-be-complementary.md",
+      "title": "Warning! Programming And Learning Can Be Complementary!",
+      "excerpt": "Starting with ‘why we like programming,’ Solar-Lezama pointed out the value of generalization, modularity and encapsulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53d940536c203b1ade19b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/29/warning-programming-and-learning-can-be-complementary/amp/",
+      "publishedDateTime": "2023-07-29T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-29-norway-endless-beauty-and-endless-ai-leadership.md",
+      "title": "Norway Endless Beauty And Endless AI Leadership",
+      "excerpt": "I am researching in Norway & its beauty is endless & breathtaking. Highlights of this country & its AI leadership; a leader on the AI scene that deserves recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c53fb73e9ca5472f03e6f9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/07/29/norway-endless-beauty-and-endless-ai-leadership/amp/",
+      "publishedDateTime": "2023-07-29T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-29-that-sports-broadcaster-you-hear-could-be-ai.md",
       "title": "That sports broadcaster you hear could be AI",
       "excerpt": "AI commentary was introduced in at least three major sports tournaments, including the Masters golf and Wimbledon tennis tournaments, for the first time this year.",
@@ -875,310 +1158,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-intel-ceo-get-ready-for-the-ai-pc.md",
-      "title": "Intel CEO: Get Ready for the 'AI PC'",
-      "excerpt": "As Intel faces more competition than ever, the chip maker is betting that AI-capable PCs will help drive the company’s growth. Intel CEO Pat Gelsinger mentioned the “AI PC” push in an earnings call on Thursday as the company projects the PC market ...",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
-      "originalUrl": "https://au.pcmag.com/laptops/101022/intel-ceo-get-ready-for-the-ai-pc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/i/intel-ceo-/intel-ceo-get-ready-for-the-ai-pc_2nqv.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking.md",
-      "title": "HackerOne: How Artificial Intelligence Is Changing Cyber Threats and Ethical Hacking",
-      "excerpt": "Security experts from HackerOne and beyond weigh in on malicious prompt engineering and other attacks that could strike through LLMs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking/",
-      "originalUrl": "https://www.techrepublic.com/article/hackerone-how-artificial-intelligence-is-changing-cyber-threats-and-ethical-hacking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2022/09/tr-data-migration-vs-data-integration.jpeg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-can-self-driving-go-mainstream-within-10-years-watch-this-debate.md",
-      "title": "Can Self-Driving Go Mainstream Within 10 Years? Watch This Debate",
-      "excerpt": "CMU Professor Raj Rajkumar, of the DARPA challenge winning team faces off with Brad Templeton on the core question",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fe40baadccff017f1dbcbd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2023/07/28/can-self-driving-go-mainstream-within-10-years-watch-this-debate/amp/",
-      "publishedDateTime": "2023-07-28T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-heres-why-this-ai-chipmaker-continues-to-outflank-the-competition.md",
-      "title": "Here's why this AI chipmaker continues to outflank the competition",
-      "excerpt": "Intel (INTC) may have jumped over Wall Street's low bar, but the embattled chipmaker's results further highlight rival Nvidia (NVDA) as the firm to beat.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
-      "originalUrl": "https://www.cnbc.com/2023/07/28/heres-why-this-ai-chipmaker-continues-to-outflank-the-competition-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-29-perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics-allbi-is-on-board.md",
-      "title": "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board",
-      "excerpt": "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/0Qs0EITqVZabcNzobJLcG7NxPF53/1690518197013-0.jpg",
-          "width": 800,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-should-we-fear-artificial-intelligence-connor-leahy-touches-on-human-skepticism-of-ai.md",
-      "title": "Should we fear artificial intelligence? Connor Leahy touches on human skepticism of AI",
-      "excerpt": "Connor Leahy advises whether humans should be fearful of artificial intelligence or not and where AI is expected to be in the future",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/video/6332012077112",
-      "originalUrl": "https://www.foxnews.com/video/6332012077112",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/67966eca-b940-449d-954a-d45c32b77f10/f2388e83-5696-4028-a187-6917e4ba26e7/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-28T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

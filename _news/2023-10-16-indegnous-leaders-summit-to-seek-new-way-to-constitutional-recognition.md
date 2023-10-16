@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Australia holds constitutional referendum on recognition of First Nations"
-    excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
-    publishedDateTime: 2023-10-13T23:16:00Z
-    webUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/"
-    ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 43
-    images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
-        width: 1024
-        height: 800
-        isCached: true
-  - title: "Anthony Albanese makes impassioned final plea as more than 9 million Australians still to vote in Voice referendum"
-    excerpt: "The prime minister delivers his most fervent plea yet for the Yes campaign, as more than 9 million people head to the polls to vote in the Voice to Parliament referendum."
-    publishedDateTime: 2023-10-14T00:45:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-14/nine-million-australians-still-to-vote-in-voice-referendum/102976642"
-    ampWebUrl: "https://amp.abc.net.au/article/102976642"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 22
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/d7684ea097300836ad54963dd334f97a?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
-        width: 862
-        height: 575
-        isCached: true
   - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
     excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
     publishedDateTime: 2023-10-16T01:07:00Z
@@ -76,45 +44,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 18
-  - title: "The Voice referendum LIVE updates: PM laments Yes vote loss as Australia rejects constitutional change; every state votes No"
-    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
-    publishedDateTime: 2023-10-14T00:55:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 17
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Constitutional recognition for Indigenous Australians seems ‘dead’ for possibly decades"
-    excerpt: "Opposition Leader Peter Dutton’s promise of a second referendum for constitutional recognition of Aboriginal people if the first one failed seems now “off the table”, says Sky News Political Editor Andrew Clennell."
-    publishedDateTime: 2023-10-16T05:26:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/constitutional-recognition-for-indigenous-australians-seems-dead-for-possibly-decades/video/fcf0decd4925d874398d6a5532469112"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 16
-    images:
-      - url: "https://content.api.news/v3/images/bin/57897da0ac0f748a56379f6fc38d4aa7"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
-    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
-    publishedDateTime: 2023-10-14T11:42:00Z
-    webUrl: "https://www.aol.com/voice-referendum-australias-voice-parliament-150649043.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "lzyB2uedvVFMLwoSDa/ikpgQHRD1CwD+AmWHCHp2n9ZGS8vWYqFJHeLSoKZbvyV37LOP0Zb0Eu/p0ili+KElopE3E3/XEXtDYl2mr3kAIpAxyAg1boBkfNhTWjnenecLq7b8Y6nEBmHwTOdub3tz9wnSx5x5Gf3P0z06eZe63wssFKKf3yDqP/e/0P+L0VEupHlnMWFEog3bIuekNRJ/mGe50caWLbBwdMSaF6ydyaUkToao+EB50WPozwJrmcRw1z64sKlp1qlR9BVCmn+PSQJUFIPKK+O8VllmrK3o21OL6HZUqg1g/Sg66vDMRMLLDaZhdTG3XigzYifYG5OOZUoueLu5k3Fp+oxX1qwPwk8K5ZM2NRoadOAYxV+DzXUcLQgb539OPz7n4Nx1tACqpnduOjpNvxMco75Eb7ErhOzEEfTz/uNmLNWXz6i6GAqKhlJ6hwabD5Ab9//9bexZWYSH3HclQp3g5QuOE/0O5njlCgYuN6vDK6NR7EV7MfyPgBPh6Ry32EaR29IWtRezbQ==;4uDw/Lg8RHPBWesAgabqgw=="
 ---

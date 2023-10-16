@@ -78,22 +78,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 64
-  - title: "4 Chip Stocks to Consider for Earnings Season. Yes, Nvidia Is One."
-    excerpt: "Semiconductor companies are heading into earnings season with artificial intelligence at the top of the agenda. Investors will be watching Nvidia, the market’s AI chip favorite, but they should also be thinking about Monolithic Power Systems, Marvell Technology, and Broadcom, according to Oppenheimer’s Rick Schafer."
-    publishedDateTime: 2023-10-11T14:30:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chips-semiconductors-edd3fbcd"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-554588/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "NVIDIA Roadmap Hints At An Annual GPU Architecture Release Cadence"
     excerpt: "Folks who have been around the hardware scene for a while will likely recall that NVIDIA used to release new GPUs every year, even if they weren't necessarily a new architecture. This went on for quite some time,"
     publishedDateTime: 2023-10-11T20:45:00Z

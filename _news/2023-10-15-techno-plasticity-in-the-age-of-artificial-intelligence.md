@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Techno-plasticity in the Age of Artificial Intelligence"
-excerpt: "It grants us the agility to learn new languages, empathize with others, and recover from brain injuries. But as artificial intelligence (AI) technology advances (or evolves), are we nearing a shift in which machine intelligence mirrors human plasticity?"
-publishedDateTime: 2023-10-14T18:13:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+excerpt: "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ..."
+publishedDateTime: 2023-10-14T18:10:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
 type: article
 quality: 59
 heat: -1
@@ -17,7 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
+  - Machine Learning
   - AI
 
 images:
@@ -44,6 +44,6 @@ related:
         height: 899
         isCached: true
 
-secured: "XsVxxAWVV/41k1u/7Roxkn3FiNUpWE5P5XdzP1osc/XddEXq0/eddj/Q8L9zPulXKVpsffXBpon+5kdORIXOa6PM5MZWHyqBHL3e1NaOwArFX28HJZnAhZKHOi4uV+cYwIwn0l/dAIrEcdcvG41qafF0GI3zLvoNOhxD/h8gjNGLtFvKf0Qsb6dNJ2Blc7vw3bnRkr0I/GABeyaCzBNXuycJgDd3pPSYjD9v2qASpXA5mcxgwm+/V+9j3mBqG8ClTlrdt3wm4hB3TCQs5M6E9Ch3RVDg/jy59FnI8oPkac9BbSvXsZzDW+dmhsPlIOaLLVXcaVS2Vs+OCNAiZkx1gN7SUpwcjH1FKb2CYEeg4lI=;NtEdYHaPounwaWnfTQF/fw=="
+secured: "iu3iWXSHIjBcwQMy3Ehl09zCJqcUoeyO52q2Tuu72ymaIhP1Y4tN3Rn5jzPOGqLa+QuarnohDmxC5UGuTZ+Cj5jnaPgbw5k2w3h5aYGScDQ41ejGviGCNHO2ofupPdnW2a8poygvJwUt96j3KLayMI9c1xLneaOo3A5+OLH9q6ry0i6auxi0KQLyIhjQc2uxPa2ROr+AKbPBLHy1Fsu+tQFEJdUZ5yskFrevGQmqXotM8oSxgnEaZ+KYQIQI6DIkNGzWq7wdWi/7h5giPheCaNoPxglFi4LSnjX5bUFcAMByo7N+Hr19Cx800s5P7X4fAEAvnpiznOFIP6VqUT09dQd9Y+suEgoA8lGQqk7IVco=;XJUxKz3e5K+ZhduTw2NTPA=="
 ---
 

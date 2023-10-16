@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "KT launches high-performance cloud specialized for AI service"
+    excerpt: "KT Cloud launched a powerful cloud computing service designed for AI service development, which will help boost its AI infrastructure business, the cloud subsidiary of KT said on Monday."
+    publishedDateTime: 2023-10-16T07:09:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/133_361230.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361230"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361230"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/d1276185860f4178bf94a03c378896f9.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "yFRDpKfm3ZNoF11DJUKLrnkx33l/wKUOliyaUJDV+bcEXFjzBS4aVrbyLXy9WBuHw1SPA6Wj3jyTiycx8OAXz27M5iFEAPRxkvK4gMIbK79X/DP1Otvkz4v/xNY1bkS82jWZKvH9Qsf6CRdZmoSgdSbPbnQk12R7Ng++G0XRhQpTXwwgokvZWAqHrAUYn4+0iZfwbnlYxfS4wrjRJI78FSIJqhNBRKZChJUHn99R5xTVgeHRTFhNwuydiQLZ8VT77Nwiat5z9pzcLZFExWyZxHG6RniJpO7wxBlqLNx16a05Yh92z/kN99JAFnFLpnd5erAi+rAaE1eOaoW0Jh1L4SM0qS8rKkaOenobs7S4OHqXnvNjypkUawp47gylPoSZ97gZKJDlTKCszrphr+vaEkhwx2yo3oDY8TK/PqjLfTJOiuIF7K2OXH3ynsJ70agy0ViKuqbimtswgGGQt6MXyEWxnZRppaDAJ14UH9o7N7Csw+UpA7z8lvyiUqq2P7EuCXMrF4mRdilpWjNy5OfYeg==;S/BrenU/A5zuGGQNXnruQw=="
 ---

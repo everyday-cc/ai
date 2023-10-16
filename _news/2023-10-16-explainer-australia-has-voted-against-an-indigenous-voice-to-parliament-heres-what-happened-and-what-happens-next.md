@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
-    excerpt: "Standing there reading the panels, Debby May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice."
-    publishedDateTime: 2023-10-11T15:00:00Z
-    webUrl: "https://www.bbc.com/news/world-australia-67076216"
-    ampWebUrl: "https://www.bbc.com/news/world-australia-67076216.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-australia-67076216.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/6EB3/production/_131393382_waitangigirl-gettyimages-1300569525.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Australians look set to vote against Indigenous voice in parliament"
     excerpt: "The yes campaign has also been battered by the Blak sovereignty movement, which has led the progressive no case, arguing the voice would be powerless while pushing for truth and treaty to come ahead of constitutional recognition. The no campaign has leaned ..."
     publishedDateTime: 2023-10-12T09:55:00Z
@@ -103,6 +87,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Confusion, distrust impact Indigenous Voice vote"
+    excerpt: "She is however a supporter of constitutional recognition – “but not this way, which includes Voice”. No one from the official Yes campaign wished to comment on this week’s polling figures – perhaps understandable given the desire to keep a ..."
+    publishedDateTime: 2023-10-13T23:08:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 44
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Australia holds constitutional referendum on recognition of First Nations"
+    excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
+    publishedDateTime: 2023-10-13T23:16:00Z
+    webUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/"
+    ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
+    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
+    type: article
+    provider:
+      name: La Prensa Latina
+      domain: laprensalatina.com
+    quality: 43
+    images:
+      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
+        width: 1024
+        height: 800
+        isCached: true
   - title: "Why the Indigenous 'Voice' is vital in Australia's constitution: Noel Pearson"
     excerpt: "Australia faces a referendum on a new representative body: the Indigenous Voice to Parliament. Indigenous lawyer and academic Noel Pearson lays out the backstory, and his view of what’s to come, in his Boyer Lectures."
     publishedDateTime: 2023-10-11T23:16:00Z
@@ -133,6 +149,22 @@ related:
         width: 976
         height: 549
         isCached: true
+  - title: "Voice to Parliament No leader Warren Mundine heckled by Yes campaigners while casting his vote at polling centre"
+    excerpt: "Prominent No campaigner Warren Mundine has been caught up in heated scenes at a polling centre in Sydney as he cast his vote for the Indigenous Voice to Parliament referendum."
+    publishedDateTime: 2023-10-13T03:08:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/leading-no-advocate-warren-mundine-heckled-by-yes-campaigners-while-casting-his-vote-at-polling-centre/news-story/932cd170d52e6297f049ea0f42a3c159"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/leading-no-advocate-warren-mundine-heckled-by-yes-campaigners-while-casting-his-vote-at-polling-centre/news-story/932cd170d52e6297f049ea0f42a3c159?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/leading-no-advocate-warren-mundine-heckled-by-yes-campaigners-while-casting-his-vote-at-polling-centre/news-story/932cd170d52e6297f049ea0f42a3c159?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 38
+    images:
+      - url: "https://content.api.news/v3/images/bin/2b489a9e643330236b7f3e9a962449f7"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Australia’s Voice campaigners make final push ahead of indigenous referendum"
     excerpt: "“This is a once-in-a-generation opportunity for recognition.” [ Brianna Parkins: Voice referendum in Australia asks a simple question with no simple answer ] [ Australia sets date for referendum on First Nations people ] Noel Pearson, a leading ..."
     publishedDateTime: 2023-10-13T15:04:00Z
@@ -146,6 +178,38 @@ related:
       - url: "https://www.irishtimes.com/resizer/hkA1d7j3ULvWSefZrs9af4PZG0E=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6PONLCKATY74BLPJUE4QA6IFHA.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
+    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
+    publishedDateTime: 2023-10-15T18:24:00Z
+    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 35
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Australia news live: Lidia Thorpe backs legislating voice to parliament if referendum is defeated"
+    excerpt: "Follow live"
+    publishedDateTime: 2023-10-11T20:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine?topics=ORG%3ARN+Breakfast"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 31
+    images:
+      - url: "https://i.guim.co.uk/img/media/8bc342afb222fde07285f84bb5d286a8c71a9891/0_62_2032_1220/master/2032.jpg?width=620&quality=85&auto=format&fit=max&s=1d98309bde9475c6895a4be406bb063e"
+        width: 620
+        height: 372
         isCached: true
   - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
     excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
@@ -207,6 +271,20 @@ related:
         width: 1356
         height: 668
         isCached: true
+  - title: "Explainer: Australia Has Voted Against An Indigenous Voice To Parliament. Here’s What Happened"
+    excerpt: "The Voice was proposed as a means of recognising Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia in the Constitution."
+    publishedDateTime: 2023-10-16T06:36:00Z
+    webUrl: "https://www.outlookindia.com/international/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-here-s-what-happened-news-324797"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 27
+    images:
+      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1697288745.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
     excerpt: "When announcing his plan to hold a referendum in March, Mr Albanese said the Voice would enshrine \"recognition\" that Australians \"share this great island continent with the world's oldest continuous culture\". \"Our nation's birth certificate should ..."
     publishedDateTime: 2023-10-12T15:44:00Z
@@ -221,20 +299,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Voting on the Voice: what you can and can't do at polling places"
-    excerpt: "Australian election officials have detailed the ground rules for the Indigenous Voice to Parliament referendum on Saturday. It comes as opinion polling continues to suggest defeat for the question in Saturday's vote."
-    publishedDateTime: 2023-10-12T04:59:00Z
-    webUrl: "https://www.sbs.com.au/news/podcast-episode/voting-on-the-voice-what-you-can-and-cant-do-at-polling-places/1ecj8w9bq"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 24
-    images:
-      - url: "https://images.sbs.com.au/dims4/default/0c7f34a/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F35%2F33%2F0985e796457980b6d162f8ca124e%2Fr2r-podcast-gfx-voting-4-sand.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Australians Vote on a Voice for First Nations Peoples"
     excerpt: "Although the referendum’s suggested change would be small, the campaign against it has grown on the back of misinformation, lies, and a deep well of racism. Supporters are preparing for it to fail."
     publishedDateTime: 2023-10-13T15:57:00Z
@@ -248,6 +312,20 @@ related:
       - url: "https://thediplomat.com/wp-content/uploads/2023/10/sizes/td-story-s-2/thediplomat_2023-10-13-140439.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Hurt ripples in wake of Indigenous Voice vote"
+    excerpt: "Some, like opposition leader Peter Dutton, have floated the idea of a second referendum that recognises Indigenous people in the constitution, but doesn't create an advisory body. Others have suggested the government could create the Voice through legislation - but Mr Albanese has ruled that out."
+    publishedDateTime: 2023-10-15T09:21:00Z
+    webUrl: "https://www.aol.com/hurt-ripples-wake-indigenous-voice-062103540.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b255efb383bed8b84910d038d132eb98"
+        width: 976
+        height: 549
         isCached: true
   - title: "Op-Ed: Australia votes No to Aboriginal Voice in a messy referendum"
     excerpt: "The proponents of the Yes vote had a problem, too. The Aboriginal Voice to Parliament was to be an advisory body “without binding powers”. Try explaining that to a suburban middle-class country."
@@ -277,21 +355,84 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Australia news live: Dutton spread ‘fear and division’ over voice, Ken Wyatt says; Perth flight from Singapore turned around"
-    excerpt: "She urged Australians who are yet to cast their vote in the referendum to “please remember that voice recognition is inclusion and listening to Indigenous peoples on matters that affect us”: We’ve got decades of evidence of that policy made without ..."
-    publishedDateTime: 2023-10-12T21:55:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally?filterKeyEvents=false&page=with:block-652858df8f0889b52d8c324f"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/13/australia-news-live-prime-minister-anthony-albanese-indigenous-voice-to-parliament-referendum-israel-palestine-protest-rally"
+  - title: "Indigenous voice to parliament or not, the real work is still to be done"
+    excerpt: "History will be made on Saturday, one way or the other. And no matter whether the referendum succeeds or fails, this history will test the values, processes and mettle of our political class and our country."
+    publishedDateTime: 2023-10-13T23:29:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 23
+  - title: "Anthony Albanese makes impassioned final plea as more than 9 million Australians still to vote in Voice referendum"
+    excerpt: "The prime minister delivers his most fervent plea yet for the Yes campaign, as more than 9 million people head to the polls to vote in the Voice to Parliament referendum."
+    publishedDateTime: 2023-10-14T00:45:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-14/nine-million-australians-still-to-vote-in-voice-referendum/102976642"
+    ampWebUrl: "https://amp.abc.net.au/article/102976642"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 22
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/d7684ea097300836ad54963dd334f97a?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
+  - title: "Indigenous voice to parliament: referendum for change brought low by hubris"
+    excerpt: "The Yes campaign for the voice doesn’t like the No campaign’s slogan “If you don’t know, vote No”. Unfortunately for those advocating change, the slogan appears to have worked. Saturday’s referendum would need to usher in the biggest polling turnaround in Australian history to get up."
+    publishedDateTime: 2023-10-13T23:29:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7"
+    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 22
+  - title: "Lidia Thorpe’s movement mobilising against Peter Dutton’s referendum without an Indigenous voice to parliament"
+    excerpt: "Outspoken independent senator Lidia Thorpe has revealed the Black Sovereign Movement is already mobilising against a Peter Dutton-led second referendum solely on constitutional recognition, as she calls for a South ­African-style truth and reconciliation commission to progress truth and treaty if Saturday’s voice referendum fails."
+    publishedDateTime: 2023-10-12T09:08:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 19
+  - title: "Days after Voice vote, Peter Dutton waters down Indigenous recognition commitment"
+    excerpt: "Coalition leader Peter Dutton has talked down his commitment to recognise Indigenous Australians in the constitution just days after the Indigenous Voice to Parliament referendum, saying Australians are \"probably over the referendum process for some time\"."
+    publishedDateTime: 2023-10-15T23:56:00Z
+    webUrl: "https://www.sbs.com.au/news/article/days-after-voice-vote-peter-dutton-waters-down-indigenous-recognition-commitment/t5or4hzpz"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 19
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/f1b9642/2147483647/strip/true/crop/4703x2645+0+245/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5e%2F9e%2F917dd67541cbb9c54d32815d25f3%2F20231011001851029261-original.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Voice referendum LIVE updates: PM laments Yes vote loss as Australia rejects constitutional change; every state votes No"
+    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
+    publishedDateTime: 2023-10-14T00:55:00Z
+    webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    ampWebUrl: "https://amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
     quality: 17
     images:
-      - url: "https://i.guim.co.uk/img/media/1ee33dfe437480971d0226d6cd2502acd0e020a3/241_234_7194_4318/master/7194.jpg?width=620&quality=85&auto=format&fit=max&s=51346a4b376d80f514b6acd093fc3d76"
-        width: 620
-        height: 372
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
     excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
@@ -308,6 +449,20 @@ related:
       - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Constitutional recognition for Indigenous Australians seems ‘dead’ for possibly decades"
+    excerpt: "Opposition Leader Peter Dutton’s promise of a second referendum for constitutional recognition of Aboriginal people if the first one failed seems now “off the table”, says Sky News Political Editor Andrew Clennell."
+    publishedDateTime: 2023-10-16T05:26:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/constitutional-recognition-for-indigenous-australians-seems-dead-for-possibly-decades/video/fcf0decd4925d874398d6a5532469112"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 16
+    images:
+      - url: "https://content.api.news/v3/images/bin/57897da0ac0f748a56379f6fc38d4aa7"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
@@ -366,6 +521,60 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
+  - title: "The Yes and No cases for the Voice to Parliament"
+    excerpt: "Their proposal for both recognition and respect is an enshrined Voice, meaning a permanent body that can't be removed without another referendum. The Yes camp says the Voice is a way of combining the symbolism of recognition with tangible action in the ..."
+    publishedDateTime: 2023-10-13T19:27:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-14/the-yes-and-no-cases-for-the-voice/102972172"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 4
+  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
+    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
+    publishedDateTime: 2023-10-14T11:42:00Z
+    webUrl: "https://www.aol.com/voice-referendum-australias-voice-parliament-150649043.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "Indigenous voice to parliament: it’s time to embrace this chance for good of the nation"
+    excerpt: "Indigenous elders and leaders gathered at Uluru after the most extensive consultations with First Nations people this country has ever seen."
+    publishedDateTime: 2023-10-12T12:23:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-its-time-to-embrace-this-chance-for-good-of-the-nation/news-story/f299814f9ab4ef6a8423b33ea2186ba8"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
+  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
+    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
+    publishedDateTime: 2023-10-12T13:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 0
+  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
+    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
+    publishedDateTime: 2023-10-12T12:05:00Z
+    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 0
+  - title: "Indigenous voice to parliament: Don’t slam door on children, says Noel Pearson"
+    excerpt: "Indigenous leader and leading Yes campaigner Noel Pearson has delivered his final pitch ahead of Saturday’s referendum, urging undecided people to consider the futures of young Indigenous children when they vote."
+    publishedDateTime: 2023-10-12T19:32:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-dont-slam-door-on-children-says-noel-pearson/news-story/f3a696ef1bfb6333b4a5520530540dc4"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
   - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
     excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
     publishedDateTime: 2023-10-14T09:50:00Z

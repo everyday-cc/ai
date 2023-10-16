@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-16-master-machine-learning-in-your-workplace-without-draining-your-human-batteries.md",
+      "title": "Master Machine Learning In Your Workplace (without Draining Your Human Batteries)",
+      "excerpt": "Despite the fear-driven media headlines, business leaders and workers can indeed win from a harmonious collaboration between humans and machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
+      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652ce36684b2025b759668cc/0x0.jpg?format=jpg&crop=5000,2812,x0,y148,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
+      "publishedDateTime": "2023-10-16T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-college-student-uses-machine-learning-to-decipher-word-in-ancient-roman-scroll.md",
       "title": "College Student Uses Machine Learning to Decipher Word in Ancient Roman Scroll",
       "excerpt": "Researchers have been itching to see what's written on ancient Roman scrolls recovered from the lost cities of Herculaneum and Pompeii. But they were too delicate to unroll, until now.",
@@ -537,10 +589,10 @@
     {
       "path": "_news/2023-10-06-3-machine-learning-stocks-ready-to-make-a-move-higher.md",
       "title": "3 Machine Learning Stocks Ready to Make a Move Higher",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In recent weeks, there have been many discussions about artificial",
+      "excerpt": "The post 3 Machine Learning Stocks Ready to Make a Move Higher appeared first on InvestorPlace.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-ready-to-make-a-move-higher-1032685200",
+      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
+      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -553,18 +605,9 @@
       "publishedDateTime": "2023-10-06T08:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -573,9 +616,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {
@@ -1265,49 +1308,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-how-ai-and-machine-learning-are-transforming-liver-disease-diagnosis-and-treatment.md",
-      "title": "How AI and Machine Learning Are Transforming Liver Disease Diagnosis and Treatment",
-      "excerpt": "It is based on algorithms or arrays of mathematical formulae that make up specific computational learning methods. Machine learning (ML) and deep learning (DL) use algorithms in more complex ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
-      "originalUrl": "https://www.news-medical.net/health/How-AI-and-Machine-Learning-Are-Transforming-Liver-Disease-Diagnosis-and-Treatment.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/Article_Images/ImageForArticle_23870_16958047458637908.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null

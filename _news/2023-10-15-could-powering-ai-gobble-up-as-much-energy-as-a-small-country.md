@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds"
-    excerpt: "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found."
-    publishedDateTime: 2023-10-11T13:54:00Z
-    webUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp"
+  - title: "AI could consume as much energy as Argentina annually by 2027"
+    excerpt: "AI-related electricity consumption could top 134 TWh annually by 2027, comparable to the annual consumption of Argentina or Sweden."
+    publishedDateTime: 2023-10-12T17:00:00Z
+    webUrl: "https://www.popsci.com/technology/ai-energy-use-study/"
+    ampWebUrl: "https://www.popsci.com/technology/ai-energy-use-study/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-energy-use-study/?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
     images:
-      - url: "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.popsci.com/uploads/2023/10/12/Depositphotos_68505127_L.jpg?auto=webp"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "The AI Boom Could Use a Shocking Amount of Electricity"
+    excerpt: "Powering artificial intelligence models takes a lot of energy. A new analysis demonstrates just how big the problem could become"
+    publishedDateTime: 2023-10-13T11:11:00Z
+    webUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/"
+    ampWebUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 57
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/AE1CFA10-BB53-41CF-9D9F713DA1BA26B4.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "JhmAXgO/3PpT6nJz1p3B6pCbqta0/IdY7RjS+CnWwC8i87Rq2p1vzkn84xhhWkJ/UEa9xxb4Ylb1qa+7S/+3mwo0WKuE6T9y+9GaLzN+HDeGbOGiZf0i+CtpUqqy6eoRDTN9hTBRX4LlhoWffS/lf2R8W4WSfUf205UmP4eyihGNXYo7b0C7HHkq6i1VHVKjga7B0AZ2nRepcQ0gvwFuddADbrFRyp0Ek/ux2tjogWRRvhLTzi8gB6HiFu/T33klZcnUsiKaMT7jfEGA1aNhCDSZhnC9GApe/p/aTpACrKWyNxQ0yGq0F4/ScyDMtncKvcb1icp0hTqNSou7Mn5L9PUwKcRfUA/gJVCjZFBXCeM=;rOuQIRrGu6Qy9RKHC6wHYQ=="

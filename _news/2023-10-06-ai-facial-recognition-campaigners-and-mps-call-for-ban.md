@@ -1,32 +1,26 @@
 ---
 category: news
 title: "AI facial recognition: Campaigners and MPs call for ban"
-excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human ..."
-publishedDateTime: 2023-10-06T01:05:00Z
-originalUrl: "https://www.bbc.com/news/technology-67022005"
-webUrl: "https://www.bbc.com/news/technology-67022005"
-ampWebUrl: "https://www.bbc.com/news/technology-67022005.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67022005.amp"
+excerpt: "Police and private companies should \"immediately stop\" the use of facial recognition surveillance, says a group of politicians and privacy campaigners. They have raised concerns around human rights, potential for discrimination and \"the lack of a democratic mandate\"."
+publishedDateTime: 2023-10-06T02:01:00Z
+originalUrl: "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html"
+webUrl: "https://www.aol.com/ai-facial-recognition-campaigners-mps-230159524.html"
 type: article
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/4B7C/production/_131342391_gettyimages-1258873866.jpg"
-    width: 1024
-    height: 576
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/656ea96363e253c179d5d40cd8be9320"
+    width: 976
+    height: 549
     isCached: true
 
-secured: "Q+3ttZZzs8LctJ8b1KgPyTGXTVIUGJL+EuyrVLNLtGXz/rhQevBHMaTihuZWG6SgSErwpNQkA6pw95zBcePfqf90DTnNFNy/B4CtS5n6OZ9/H5yCCG404MmvikBQZqJySIy5yuslOZpFM53AnJ1FDVq+jNzkltKgw3TVadqUM9TATWWzpf2N5cAZzgd9gwqym1vNtSFis1WtLdjNcdJGlWyQyNJUjgZ7Jv2LSzzyfozovy4XixlhPqfaVpNJhD2wNsYLIk7Uh7sWe5JNCrQ0ID25TSt66+ed3bB5XCyLkzi6DehFjnznnBFlgJ9N3A14BWA2MKD6DFwj55ftRNKzpq+P5BMhm/KTtfuzdKdVUA4=;4ibPjgy7IfLXVlC3W1JnQQ=="
+secured: "3gA7G/1yo31QKQ6+539243646nw2BbXn0QmwhvJnm5aFh0lDSFO+B5lH6xggblhwZVT2AiSI7IWf2qr+Tnku5SpTPAuQZYz/629Ldka4PitpHn6xcoTq3ohv5EDoccoKcWqXAI+8aze+sAfzdGU8nU9ARP/OUWD/LqxqCwTBt/b6XLourhL/W9f1xYoGz4dyEuDvwCJfImSncLsxE4BDTNPX10EUqrbRmVoRLK4mgyPg1FQh1YmcLXm4r+PiHRxzZSh3AfbCAkjBuHnAVlL4jyYDUKS/Nfcx1ErfF1gjkt8dkJ5JkklXNF6Y9dFeiPQWhqg+Mu/2PvwvEYYTR6Mshnx/ZNbfmiS02PrR9oYcxYQ=;gWG2yp4I31AXmDu2Zly0eg=="
 ---
 

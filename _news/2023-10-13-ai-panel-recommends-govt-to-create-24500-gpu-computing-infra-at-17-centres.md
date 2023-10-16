@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "io.net to launch first GPU-enabled decentralized computing network for AI"
-    excerpt: "io.net intends to address the scarcity of GPUs for AI processing by procuring one million units from independent computing power sources. During the course of its development, it will establish the first decentralized cloud environment specifically designed for machine learning, according to the latest information shared with Finbold on October 11."
-    publishedDateTime: 2023-10-11T13:30:00Z
-    webUrl: "https://finbold.com/io-net-to-launch-first-gpu-enabled-decentralized-computing-network-for-ai/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 33
 
 secured: "gxyqQTYlCJXmLl1iJcUdT8DxQRasXMKE9z4aqx0kYHVxXuSrqVgrLfaXAVKuXLYzMnR6VZO9KCFNy8adC9NSVoFDBPSLsjk1jRKsMmhFdjX8vNNdJ50eHY53Q2KiM4G1ygRrpQzbaC9Iu2Ar3IChntcGXlFC+BQxWtj6VTgrHTO0uRtmedXGZD00qkFPbZLdxLx6ZN02JGiyCrhfGiHDELCM2VHMdUUOFTkbC4yBrdnjwlgTj47F6vpeFOsNOaloJD14AKyllqdIvRVLfU50F/0y4zk/kqIyH6i7cyCNeU9aYvPVsQpQ+NDoV6l6hoC8fa8B1BTPMr/JKuQuL4xUkl0ZO1wuDZm9RbDvmsiEuljMpXWJ3bYxqu7cX3P5oyq6NhCSubP/BrrOuosPnKJO1Erch3HkOJlY145LiaJMdv8Wpi71wBbz/jqi6ZPH8O/+k8EX0giduQtfelrnTqgb8VuaFLLh4KXC85DYj0OIdhA9V+DyTszlsjXMPT4zTfEE8exdkfQGiZ6M/sYibSp5Mw==;k4RWD3XOmrwqHnrgGwEo0g=="
 ---

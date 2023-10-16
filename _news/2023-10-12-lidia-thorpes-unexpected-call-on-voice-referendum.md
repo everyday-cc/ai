@@ -19,33 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Australia news live: Lidia Thorpe backs legislating voice to parliament if referendum is defeated"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-10-11T20:55:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine?topics=ORG%3ARN+Breakfast"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/12/australia-news-live-julian-leeser-indigenous-voice-to-parliament-anthony-albanese-peter-dutton-gaza-israel-protests-rally-palestine"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 31
-    images:
-      - url: "https://i.guim.co.uk/img/media/8bc342afb222fde07285f84bb5d286a8c71a9891/0_62_2032_1220/master/2032.jpg?width=620&quality=85&auto=format&fit=max&s=1d98309bde9475c6895a4be406bb063e"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "Lidia Thorpe’s movement mobilising against Peter Dutton’s referendum without an Indigenous voice to parliament"
-    excerpt: "Outspoken independent senator Lidia Thorpe has revealed the Black Sovereign Movement is already mobilising against a Peter Dutton-led second referendum solely on constitutional recognition, as she calls for a South ­African-style truth and reconciliation commission to progress truth and treaty if Saturday’s voice referendum fails."
-    publishedDateTime: 2023-10-12T09:08:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/indigenous/lidia-thorpes-movement-mobilising-against-peter-duttons-referendum-without-an-indigenous-voice-to-parliament/news-story/81fd333712d43c2136459c1fc2f81ab5?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Lidia Thorpe walks back unexpected call on Voice referendum"
     excerpt: "Lidia Thorpe says she’d support a legislated Voice to Parliament despite being one of the referendum’s most outspoken opponents."
     publishedDateTime: 2023-10-12T15:39:00Z
@@ -55,15 +28,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
-    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
-    publishedDateTime: 2023-10-12T13:53:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
 
 secured: "/GuDG12vJEZ8uVKrOBKKZnjkLqVHpyTvE9yJyBd7HpA5xbeoIik8KdthSG9/oTI1aq7DasUB3fiLJ5QxOiPr27yrc9KXFSQBquCH0e1dY4C/85SdqkEsOGDO+H8HXjTI7VYZV5Q1vtV1ATdzqplZRSCMID09n+A9SunXB2SDuEbxDV7T8IdoqFVTOFMT33H50drfEFrKrztZcDXNS85h+/WMeEJ7D8FAm+R6AceLDDupw/ijat8bedtzMzUPIvoJ3M9IkAyOfxiS8xBlec7oNc2CYaCzrH/iPqzCtKl/VPYCQXXQ7VxYGTJYrq+TklT4vktsREM6nV2DOVUn8MYzYlM60hfwKjNj6EZn8cvaiqO+1G21pbFzNl2wada3O6ZzMXwz2ic13HM0UUH37IgaW7/Gsk/WcArZkUy2gr+D05/wZdOOL5J4vG3w+QdgcjrvD44C/sXmdBQf+EnDtYAjr9RE661/wLafHnpZQ44qtyN9jA8WqeQ0vyh5lSgUpBwP97Rh61W6fj630elkoaRHOQ==;VmoHH/gbdsix0aTgyn5GrQ=="
 ---

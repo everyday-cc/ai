@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-16-singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group.md",
+      "title": "Singapore and US sync up on AI governance and set up joint group",
+      "excerpt": "Both nations have mapped their respective AI governance frameworks to ease compliance and they will also establish a group to exchange insights on responsible innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ebd9803869329e487c3c2d34f267e836ca4f73ba/2023/10/13/356ca46e-a25e-4006-b1be-a6047c10dd86/gettyimages-1436010616.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-and-us-sync-up-on-ai-governance-and-set-up-joint-group/",
+      "publishedDateTime": "2023-10-16T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-16-master-machine-learning-in-your-workplace-without-draining-your-human-batteries.md",
+      "title": "Master Machine Learning In Your Workplace (without Draining Your Human Batteries)",
+      "excerpt": "Despite the fear-driven media headlines, business leaders and workers can indeed win from a harmonious collaboration between humans and machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
+      "originalUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652ce36684b2025b759668cc/0x0.jpg?format=jpg&crop=5000,2812,x0,y148,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/esmtberlin/2023/10/16/master-machine-learning-in-your-workplace-without-draining-your-human-batteries/amp/",
+      "publishedDateTime": "2023-10-16T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship.md",
       "title": "Expand North Star kicks off to showcase robotics, AI, and entrepreneurship",
       "excerpt": "Expand North Star, a global event for startups and investors has kicked off at Dubai Harbour.  It will feature the latest innovations in robotics, AI, and entrepreneurship.  The four-day event brings together 1800 startups from 100 countries and over 1,",
@@ -418,6 +521,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-15-could-powering-ai-gobble-up-as-much-energy-as-a-small-country.md",
+      "title": "Could Powering AI Gobble Up as Much Energy as a Small Country?",
+      "excerpt": "A new analysis suggests AI could match the energy budgets of entire countries, but the estimates come with some notable caveats.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/",
+      "originalUrl": "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/06/electric-grid-renewables-transmission-lines-power-energy.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1",
+      "publishedDateTime": "2023-10-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-15-tech-giants-unveil-new-ai-tools-for-healthcare.md",
       "title": "Tech Giants Unveil New AI Tools For Healthcare",
       "excerpt": "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage.",
@@ -478,7 +624,7 @@
       "originalUrl": "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -624,7 +770,7 @@
       "originalUrl": "https://augustafreepress.com/news/how-are-ai-and-robotics-combining-to-revolutionize-recycling/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -908,7 +1054,7 @@
       "originalUrl": "https://www.slashgear.com/1420424/bing-ai-microsoft-bug-bounty-program/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1043,160 +1189,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-1-artificial-intelligence-ai-stock-to-buy-before-it-soars-150-according-to-wall-street.md",
-      "title": "1 Artificial Intelligence (AI) Stock to Buy Before It Soars 150%, According to Wall Street",
-      "excerpt": "SoundHound AI stock has crashed a whopping 87% since going public. The company's impressive growth and its artificial intelligence (AI) credentials haven't been enough to give the stock a boost, which may seem a bit surprising as AI stocks have been in hot demand this year. However, analysts remain upbeat about SoundHound's prospects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-ai-stock-to-buy-before-i/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-ai-stock-to-buy-before-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750563/hand-drawing-chart-stock-return.jpg",
-          "width": 2899,
-          "height": 2077,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-college-student-uses-machine-learning-to-decipher-word-in-ancient-roman-scroll.md",
-      "title": "College Student Uses Machine Learning to Decipher Word in Ancient Roman Scroll",
-      "excerpt": "Researchers have been itching to see what's written on ancient Roman scrolls recovered from the lost cities of Herculaneum and Pompeii. But they were too delicate to unroll, until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/college-student-uses-machine-learning-to-decipher-word-in-ancient-roman",
-      "originalUrl": "https://www.pcmag.com/news/college-student-uses-machine-learning-to-decipher-word-in-ancient-roman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05phQg9Uhjq60XchehfgiD5-1.fit_lim.size_1200x630.v1697231190.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-vivek-ramaswamy-outlines-real-danger-of-ai-in-conversation-with-voters.md",
-      "title": "Vivek Ramaswamy Outlines 'Real Danger of AI' in Conversation With Voters",
-      "excerpt": "\"I think AI can have a lot of good uses in this country. But there are also real risks,\" Vivek Ramaswamy said during a recent discussion with voters in Iowa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679",
-      "originalUrl": "https://www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2294499/vivek-ramaswamy.jpg",
-          "width": 3000,
-          "height": 1973,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679?amp=1",
-      "publishedDateTime": "2023-10-13T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

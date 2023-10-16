@@ -53,6 +53,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Voting on the Voice: what you can and can't do at polling places"
+    excerpt: "Australian election officials have detailed the ground rules for the Indigenous Voice to Parliament referendum on Saturday. It comes as opinion polling continues to suggest defeat for the question in Saturday's vote."
+    publishedDateTime: 2023-10-12T04:59:00Z
+    webUrl: "https://www.sbs.com.au/news/podcast-episode/voting-on-the-voice-what-you-can-and-cant-do-at-polling-places/1ecj8w9bq"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 24
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/0c7f34a/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F35%2F33%2F0985e796457980b6d162f8ca124e%2Fr2r-podcast-gfx-voting-4-sand.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "All or nothing Voice defeat compounds the national tragedy"
     excerpt: "Alex Ellinghausen In January, when support for the Voice was sitting at about 60 per cent, The Australian Financial Review maintained that most Australians would endorse constitutional recognition of the First Australians’ 65,000-year-old occupation of t ..."
     publishedDateTime: 2023-10-15T07:33:00Z
