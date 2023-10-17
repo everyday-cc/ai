@@ -2,6 +2,57 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2023-09-17-have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care.md",
+      "title": "Have A Heart! We All Do, Actually…And AI Might Improve Cardio Care",
+      "excerpt": "Collin Stultz READY TO POST Back to AI in healthcare – we’ve looked at this from a number of angles, but here in this talk we get sort of a good balance between some",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6505e4d1b29838747b28ff0d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/09/16/have-a-heart-we-all-do-actuallyand-ai-might-improve-cardio-care/amp/",
+      "publishedDateTime": "2023-09-16T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-2030-artificial-intelligence-ai-for-security-market-research-report-booming-worldwide.md",
       "title": "2030, Artificial Intelligence (AI) for Security Market Research Report | Booming Worldwide",
       "excerpt": "The Artificial Intelligence (AI) for Security market research report and industry analysis ... The Juniper Network, Inc, Cisco Systems Inc, Facebook Inc, Broadcom Inc. (Symantec Corporation ...",
@@ -1058,49 +1109,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-15T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-face-recognition-technology-market-research-report-on-regional-size-and-status-2023-2030.md",
-      "title": "Face Recognition Technology Market Research Report on Regional Size and Status 2023-2030",
-      "excerpt": "The Face Recognition Technology Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34628446/face-recognition-technology-market-research-report-on-regional-size-and-status-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34628446/face-recognition-technology-market-research-report-on-regional-size-and-status-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34628446",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34628446",
-      "publishedDateTime": "2023-09-15T08:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

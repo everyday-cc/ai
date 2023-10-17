@@ -36,6 +36,22 @@ related:
         height: 641
         isCached: true
   - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
+    excerpt: "Rep. Jim Jordan becoming House speaker would help cement the far right’s takeover of the Republican Party and trigger conflict with Democrats over the size and scope of government"
+    publishedDateTime: 2023-10-16T18:38:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 29
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
     excerpt: "Rep_ Jim Jordan has such a reputation as a political brawler that former House Speaker John Boehner once said he’d never met someone “who spent more time tearing things apart.”"
     publishedDateTime: 2023-10-16T06:30:00Z
     webUrl: "https://abcnews.go.com/Politics/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002791"

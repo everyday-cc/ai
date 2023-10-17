@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-13-aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes.md",
+      "title": "Aided By Artificial Intelligence, Business Networks Set To Transform Core Operational Processes",
+      "excerpt": "Recent advances in artificial intelligence (AI) are accelerating the value that businesses reap from the digital networks through which they engage in commerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652530fe25d8611d5c51d74d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1576,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/amp/",
+      "publishedDateTime": "2023-10-13T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-navigating-ethical-ai-and-the-future-of-automation.md",
       "title": "Navigating Ethical AI And The Future Of Automation",
       "excerpt": "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -363,7 +414,7 @@
       "originalUrl": "https://www.itweb.co.za/content/Pero37Z3eoOMQb6m",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -932,58 +983,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-12-amazon-prime-day-2023-the-best-deals-still-available-right-now.md",
-      "title": "Amazon Prime Day 2023: the best deals still available right now",
-      "excerpt": "The best last-minute offers from the Prime Big Deal Days sale It's done. Amazon's first-ever Prime Big Deal Days sale is over for the year. We went in expecting something similar to an Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "originalUrl": "https://www.techradar.com/amazon-prime-day/new-prime-day-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hqWyzQqnXU4QiLmTPhfVVQ-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-12T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {

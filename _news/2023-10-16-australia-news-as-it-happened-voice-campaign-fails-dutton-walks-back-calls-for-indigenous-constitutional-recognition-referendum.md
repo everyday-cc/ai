@@ -479,15 +479,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Indigenous voice to parliament: it’s time to embrace this chance for good of the nation"
-    excerpt: "Indigenous elders and leaders gathered at Uluru after the most extensive consultations with First Nations people this country has ever seen."
-    publishedDateTime: 2023-10-12T12:23:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-its-time-to-embrace-this-chance-for-good-of-the-nation/news-story/f299814f9ab4ef6a8423b33ea2186ba8"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
     excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
     publishedDateTime: 2023-10-12T13:53:00Z
@@ -496,15 +487,6 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 0
-  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
-    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
-    publishedDateTime: 2023-10-12T12:05:00Z
-    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
     quality: 0
   - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
     excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
@@ -516,6 +498,6 @@ related:
       domain: houstonchronicle.com
     quality: 0
 
-secured: "cmcZwH73r3Fe9xlGcjJujUk7GQ7jKR1HoQrbO0TQm7enHDBkdcN3+eXrEL7RDYl97Lu5aMEcN4wIjF7COJFqTIPOJT1nvxboKV3wJrjsp/GPwOpu1s2O2WLcVvJ0uoBRv+cwbI8hqYX6jZ5aJE1PoP8heNl3ui8gbrRc/HC5sLWEGLZCS6qSogN4IMCs0nb/YTrxaVj22qWOqmy8qaRoq6QzBpNkSQ3LE5RtssETU6QOyIBeddPlKAqa4NGENt/kPYc0lIGnIEmrDpxjG2NrS0QRTu72kGJ/C7FYEmMf43bdeaTMhxTxx1b04aWB8W4RfjNfkEs35Ld5mY3h0eucfXWZrV1TseQqInMs2T+lD5c=;lsha9UuLQKTzanlvBdEDUw=="
+secured: "C1bMaMxzEzYUzspiequD+O8CNlJ7VPGdebzqcj4jjZ6kZvIUjRn5EZyLpy3l3IQlH65v7F+p766PmrzqVmJN4ceA5cejS//58L+bUp5cA7ASwVOLkUd0NFOSbQ7A3Q3UwVbm0MyuACLVKTLn5YX7Uu/EKXUMJxur7ohdFx6p7RNpkHWAUy16G9MV+aq5eLX5tof8wo1sNy1ZdYslaN5zgwDCBvrnjcOYFR7F2IT9NqPm9VsoNlkkQF+L3JJmyfAre7ttAO+wTzuGVwRVgZ8zVTfjOd6U88AHVizSribHLz6l6tgY8NDWx4l6+r0lG7W0bT3obLufqGxMu1wKVLdsvS19hGmROQzohpml1TsH6q0c7y7OIWMnskhPfM8n1n/vOh9XxIYPl4oZAkNtpvcFWroodxM9m/Nugv+pA1x6DdN9gbh4ZE9FMGm98jgbgAthO/0rbshvrEoFtGC0iEj8xXxGSrwqViyjuksbEEiRY2HomCMpmSIX6Gu268NGh9vyzt5H1408ZZgVVJDzjUG8iw==;PeYZ3DBM36d/KTr+9wpsQg=="
 ---
 

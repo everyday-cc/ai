@@ -487,15 +487,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Indigenous voice to parliament: it’s time to embrace this chance for good of the nation"
-    excerpt: "Indigenous elders and leaders gathered at Uluru after the most extensive consultations with First Nations people this country has ever seen."
-    publishedDateTime: 2023-10-12T12:23:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-its-time-to-embrace-this-chance-for-good-of-the-nation/news-story/f299814f9ab4ef6a8423b33ea2186ba8"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
     excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
     publishedDateTime: 2023-10-12T13:53:00Z
@@ -504,15 +495,6 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 0
-  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
-    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
-    publishedDateTime: 2023-10-12T12:05:00Z
-    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
     quality: 0
 
 secured: "GrEC4MA4043JE2UY7tfoQKJhLR/hnTgx5hmRkZfFbch7Gv/9h5KQZPt6EfxARiJSMxIc2ochTuEY0scc6QOjAp4tscrNCsP7m2nIz1ulOVOm2y7VwjtettH6SNDYPweo2w/b0BHwx7X0d2B9Wz/8OY5nOABu+hvf3SF8m8grBzBI1QlxFQ2DWtZAdxoLHz/P9Dog5mgxMO3D4fAvua1RLQEXGGHZW1t4Uw/i6wX3zbuMLJbecQ/OFuLGkuAWr6+zWTY8ybBITz8ThhuK3eVBrNhF7BwizkAPcSncHoqXkouWmms3dexlVV/g9XYhyTpxah8kAd5+EKN/J62G5NNpMUCgpEDJjFsvi/nLG21BkJ7/7J7br/JRp8EhFvFclCjzs+04AI6iYSc3TZ99U2voWWLj32gyAz6y4NyTFA964C/JrurBACP/vl7QQg4+0v7YzX1CANrabT//N0eInNnQ0o/UM9xaDY5t54hN1oBiG/3Tz1dTexaI5qNzKmFOtB8oFlgMwV/mkeCt2wpPXs+YEQ==;bpjrYnHyNEAIeaShB4bSVQ=="

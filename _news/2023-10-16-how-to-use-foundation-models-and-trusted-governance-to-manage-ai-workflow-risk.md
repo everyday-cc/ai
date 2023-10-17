@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/how-to-use-foundation-models-and-trusted-
 webUrl: "https://www.ibm.com/blog/how-to-use-foundation-models-and-trusted-governance-to-manage-ai-workflow-risk/"
 type: article
 quality: 95
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: IBM
@@ -21,22 +21,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "How data stores and governance impact your AI initiatives"
-    excerpt: "Organizations with fit-for-purpose data stores and AI governance are better prepared to maximize AI efforts and business benefits.\nThe post How data stores and governance impact your AI initiatives appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-12T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/10/data-stores-and-governance.png"
-        width: 630
-        height: 329
-        isCached: true
 
 secured: "ee0EqoqIHeKsn86PRXUqN9H4JE/xMwnkSWgd0OIkn+MBN3jRrJgDrwXuY0Zu0l9UE550H3F4p91u4wNytDY8jyokbU3H94g5x01d0l2NGcmslqeCmsPunkbFf3AC4wU+viUMMgdKUTcrxpiebVQIiL6yMS/tN0OoJMteSWX+mbbobRUvDWcEzLjfKLIxEUJoX83B9JrmfdXW3NfkdywldXQGV9EabXK+0+IwVW13qef6GEf34ttr+3pMfoBsTCgpxjRni2tlLPrYMQe56Yq3ewvSOO92WlyMwftJ7aWeYOsLLhUMAHbqv96mN9xb9p6eo68zMbUZ4n37WMrv94Tvq4nhOGV7XgSD9IpsAM5gJiY=;q1XSzHZMHj3UqYFpPQeIWA=="
 ---

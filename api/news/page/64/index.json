@@ -2,6 +2,57 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2023-08-31-ai21-labs-raises-155m-to-accelerate-generative-ai-for-enterprises.md",
+      "title": "AI21 Labs raises $155M to accelerate generative AI for enterprises",
+      "excerpt": "Israel-based large language model leader AI21 Labs confirmed with VentureBeat that is has closed $155 million in series C funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai21-labs-raises-155m-to-accelerate-genai-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/ai/ai21-labs-raises-155m-to-accelerate-genai-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/Roei-Shor-Photography-AI21-labs-4-1.jpg?fit=750%2C500&#038;strip=all",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T20:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-ais-impact-on-healthcare-potential-and-ethical-challenges.md",
       "title": "AI's impact on healthcare: Potential and ethical challenges",
       "excerpt": "The global spread of autonomous vehicles has increased the familiarity of the word \"AI\" (Artificial Intelligence). Nevertheless, this understanding may not apply to all industries or situations, such as healthcare,",
@@ -1166,57 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-watch-out-grammarly-google-docs-gets-ai-proofreading.md",
-      "title": "Watch out, Grammarly — Google Docs gets AI proofreading",
-      "excerpt": "For the $30 monthly fee, enterprise users get advanced AI features in many Workspace apps, including Google Docs, Sheets, Slides, Gmail, Meet, and more. After a slow start, Google is moving quickly with its AI rollout. Google Duet with Proofread launched ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/",
-      "originalUrl": "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/05/google-docs-smart-features-2.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/google-docs-gets-ai-proofreading-via-duet/?amp",
-      "publishedDateTime": "2023-08-30T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

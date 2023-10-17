@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2023-10-04-fintech-startup-dpdzero-raises-325-million-in-seed-funding-led-by-blume-ventures.md",
+      "title": "Fintech startup DPDzero raises $3.25 million in seed funding led by Blume Ventures",
+      "excerpt": "Established in 2022 by Ananth Shroff and Ranjith Ramachandra, DPDzero works towards delayed repayments and risk management by using Artificial Intelligence to solve patterns and predict and prevent defaults.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
+      "originalUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-22T084458.946.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-fintech-startup-dpdzero-raises-3-25-million-in-seed-funding-led-by-blume-ventures-3262481/lite/",
+      "publishedDateTime": "2023-10-03T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-the-amazing-ways-chinese-tech-giant-alibaba-uses-generative-artificial-intelligence.md",
       "title": "The Amazing Ways Chinese Tech Giant Alibaba Uses Generative Artificial Intelligence",
       "excerpt": "Not to be outdone in the generative artificial intelligence (AI) race, China-based tech giant Alibaba has recently unveiled a number of its own tools and models. Its flagship is its ChatGPT challenging large language model (LLM) called Tongyi Qianwen ...",
@@ -1152,41 +1195,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-companies-ibm-microsoft-enlitic.md",
-      "title": "Artificial Intelligence In Healthcare Service Market 2023-2030 Shows Unbelievable Growth | Top Companies - IBM, Microsoft, Enlitic",
-      "excerpt": "The market forSmart Waste Management System is anticipated to increase at a CAGR of 37.5% between 2023 and 2030, The Artificial Intelligence in Healthcare Service market is witnessing exponential ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35060129/artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-compan",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35060129/artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-compan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

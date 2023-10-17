@@ -478,15 +478,6 @@ related:
       name: Australian Broadcasting Corporation
       domain: abc.net.au
     quality: 4
-  - title: "Indigenous voice to parliament: it’s time to embrace this chance for good of the nation"
-    excerpt: "Indigenous elders and leaders gathered at Uluru after the most extensive consultations with First Nations people this country has ever seen."
-    publishedDateTime: 2023-10-12T12:23:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-to-parliament-its-time-to-embrace-this-chance-for-good-of-the-nation/news-story/f299814f9ab4ef6a8423b33ea2186ba8"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
     excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
     publishedDateTime: 2023-10-12T13:53:00Z
@@ -495,15 +486,6 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 0
-  - title: "One-to-many face matching may be one risk too many for Australians considering digital ID"
-    excerpt: "Laws allowing authorities to use one-to-many face biometric matching techniques could put a chill on digital ID adoption in Australia."
-    publishedDateTime: 2023-10-12T12:05:00Z
-    webUrl: "https://www.biometricupdate.com/202310/one-to-many-face-matching-may-be-one-risk-too-many-for-australians-considering-digital-id"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
     quality: 0
   - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
     excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."

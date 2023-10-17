@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unl
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         height: 360
         isCached: true
   - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
+    publishedDateTime: 2023-10-16T12:17:00Z
+    webUrl: "https://www.asiaone.com/business/profet-ai-achieves-significant-milestone-southeast-asian-expansion-macrovention-and-ampos"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
+  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "Jonathan Yu, Global General Sales Manager of Profet AI, expressed, \"Profet AI has been committed to providing innovative AI solutions for global manufacturing customers, aimed at enhancing production efficiency and reducing costs."
     publishedDateTime: 2023-10-17T02:42:00Z
     webUrl: "https://www.newswit.com/en/ifixepk8qnlv5zjg3yhsclyoz5x9fl7y"
@@ -51,6 +60,6 @@ related:
       domain: newswit.com
     quality: 0
 
-secured: "3TvmcZXMXywXZ2hgf7JAjR0YXDiGS+4Z065QFASq7bT1LU3k6okkTyr0lNzmXzRC0J+gku6Yde4fTgepO4c8Ovx7XCbV0wCdO6QN2jPJ4iv5QEz7dA8BijL+wyaQvAAF8VNBkDPtp9uA+utxuL9sa6eORAv07xYgrnjHELMoDtmfIJAV4w4PVdj+5nclw8jGSxbQkqcuacR/wFw7Nntezc/kMcNzgLXkq1oRBntsASaOrJZRL0lox2pU9E4twQ1jJSunbl/2xzAvgDWJNTzhSy3fdoFdwSZKTjpXmzJTDGwyspfXPw5YMI3GiXqDr6Jjo3stvWCTFCIWItzZGO/SCKOWQGregMjZGpDGG1fUoiQ=;tYC2Vlj/3Y/z4gJYtWRJMg=="
+secured: "RJmoEDGLDvimYEK0eEvL5QBjJxivSJschKc/aCcYnt/IbTEEJoAuZN8wDGJ8emNtKG354k0B5ECpq353jGoaSjdS/UhtX9sOJ2WURFRxZ+JRkjJq58wETywnLR0YL9UaRjmb9M7v4lSR71rAbWUQfDs9A5NrkkqyLiJOjfv4J8ioxGFp6AbJ8PC4is3zX7i6rbDK6DAyoPp1PD7EuGP4clcwJ9zQWFmSf/aOIi8bZj9PvtvQEn2JHQJk5WQEbFAwfmdFENHeRqKFsnWdKG6dU1HS35sjlS2azz87mXP1nbTe/EDA0dKGLXLMhm1DkvS/vEXGVn8XpO3f+MgkB/OO9Ghtja+3jM32hYvUB8FRxJMKwJOhU1SbsjKlVLwzwj7mrxA20BhoREoZB48501xuJpyLdk34uTmY5lLC1RSSp9dZtmvSkwIal98awKQuJ7CBoEriKNC2rbhYiz8nMhFmvsnKQ9qALPn4jkxPn0HXq8ZLuyag6vhlP7RtHsCXHItwoc0JzyU2c0cyF5eMMGCSNQ==;NGSiwwVpb2PnEAv5zcjKcA=="
 ---
 

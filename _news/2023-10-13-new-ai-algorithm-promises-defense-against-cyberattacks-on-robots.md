@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/new-ai-algorithm-pro
 webUrl: "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Interesting Engineering
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cyber algorithm neutralises malicious robot attack"
-    excerpt: "Australian researchers have unveiled a groundbreaking cyber algorithm designed to thwart man-in-the-middle (MitM) attacks on military robots"
-    publishedDateTime: 2023-10-12T11:09:00Z
-    webUrl: "https://www.openaccessgovernment.org/cyber-algorithm-neutralises-malicious-robot-attack/168090/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2023/10/iStock-1224500457-scaled.jpg"
-        width: 2000
-        height: 1477
-        isCached: true
   - title: "Artificial Intelligence bolsters growth of cyber-attacks, audacity of cybercriminals"
     excerpt: "These cyberattacks include AI-powered botnets (a network of hijacked computers) and enhanced social engineering and phishing campaigns which are increasingly easier for employees to fall for.October 16,"
     publishedDateTime: 2023-10-16T16:00:00Z

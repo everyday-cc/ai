@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/chatgpt-introduces-p
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/chatgpt-introduces-polymathic-ai-revolutionizing-scientific-discovery-with-artificial-intelligence-2023-10-16-898055"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 360
     height: 202
     isCached: true
-
-related:
-  - title: "How AI and ChatGPT are transforming how we learn and work"
-    excerpt: "The acronym stands for chat generative pre-trained transformer. Walker says ChatGPT is one of an expanding number of publicly available artificial intelligence (AI) text generators that rely upon algorithms to scan the web for answers to user-generated questions."
-    publishedDateTime: 2023-10-12T12:55:00Z
-    webUrl: "https://www.seattletimes.com/sponsored/how-ai-and-chatgpt-are-transforming-how-we-learn-and-work/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "SCvhq9ROUR1LwUYmF75/q4YtFaF/NWPiN5xNh3qhRGRrfhqALcjmZVwJuRY1A0lM5YOgKtmWj/uIrC1SnLxv6ZeVbJowCuVR1hXzx61kR4nwz3pC9XtQPe6nTdI4OdOwU7CeRdoi80cXxetnYO5gRpdMOG0txxFZCuVJzdLjXxk3JtURZ2q7E4YTDdXH/J34iAZ+UCpcP/5em838jsrbX497356mGIZwNICQTKdjtEJrM2UnKMw8BcW3Fv2+etTB29ZgndhSSGOPgej69bJnKlTmur+menC7Nwet7u8EsPRJLVmCzs7Jfh4YqZh4GLHagTOc7l1/0VCsHabrN/Wqz7IjMRqNmW9sxLvU4AaX3rg=;W610+vdfyh6iRuRdo9YEJA=="
 ---

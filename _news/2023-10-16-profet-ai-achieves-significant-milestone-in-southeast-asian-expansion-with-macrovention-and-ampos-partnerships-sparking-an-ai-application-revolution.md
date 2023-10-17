@@ -19,36 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Entrepreneurship In The AI Era: Spearheading Transformation And The Essential Route To An MVP"
-    excerpt: "For businesses looking to navigate the surging tide of AI, they'll need to map out their journey from the inception of an idea to the creation of an MVP."
-    publishedDateTime: 2023-10-12T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/12/entrepreneurship-in-the-ai-era-spearheading-transformation-and-the-essential-route-to-an-mvp/amp/"
+  - title: "Unlocking the Animal Kingdom: AI's Potential for Conversations with Wildlife"
+    excerpt: "Discover how Artificial Intelligence (AI) is transforming our understanding of animal communication and paving the way for meaningful conversations with wildlife. From deciphering animal languages to advancing conservation efforts,"
+    publishedDateTime: 2023-10-17T01:23:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 56
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62a396a0ec5f519b6147255f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1339
-        height: 893
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_10_2023_15_32_54_4822987.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Expand North Star kicks off to showcase robotics, AI, and entrepreneurship"
-    excerpt: "Expand North Star, a global event for startups and investors has kicked off at Dubai Harbour.  It will feature the latest innovations in robotics, AI, and entrepreneurship.  The four-day event brings together 1800 startups from 100 countries and over 1,"
-    publishedDateTime: 2023-10-16T04:37:00Z
-    webUrl: "https://campaignme.com/expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship/"
+  - title: "In Real Life: Meet The People Dating AI"
+    excerpt: "In terms of having a Replika AI companion, its intelligence is centered on how it converses with humans. It is made to reciprocate the user’s energy. There are paid tiers to the app and several types of relationships—including friend, romantic partner, sibling, or mentor."
+    publishedDateTime: 2023-10-16T00:00:00Z
+    webUrl: "https://www.aol.com/real-life-meet-people-dating-000000514.html"
     type: article
     provider:
-      name: Campaign Middle East
-      domain: campaignme.com
-    quality: 67
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://campaignme.com/wp-content/uploads/2023/10/ARTEMIS-the-fastest-robot-developed-by-UCLA-min.jpg"
-        width: 1228
-        height: 997
+      - url: "https://media.zenfs.com/en/aol_newsy_441/544105fb664cae66199a85def60b4bef"
+        width: 640
+        height: 360
         isCached: true
+  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "Jonathan Yu, Global General Sales Manager of Profet AI, expressed, \"Profet AI has been committed to providing innovative AI solutions for global manufacturing customers, aimed at enhancing production efficiency and reducing costs."
+    publishedDateTime: 2023-10-17T02:42:00Z
+    webUrl: "https://www.newswit.com/en/ifixepk8qnlv5zjg3yhsclyoz5x9fl7y"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 0
 
 secured: "xJ7a9LRDYwdtGWMG53B0tsfycDUeizrISzL5Yv58kUi6DiOGooh+HIwIcrRiWqiXHZoQwLa0DtS5dXyK78bZbVBUoWm8BuxJlF5wOjn7HZ58jqIVUZrAIYA347NhJS3ohxremVddWchzTVC3aVCQMozV9WWDkbx0zVXrI7RF0ZsCTnrawfTIda4RrBPHWLdYZRWLerenLC1ZAhKlLXViFhT+FWRZ/SAZRA3FoVKk4cGhObwk5uIDuWlewzo6X4zycZWBsTYJXlxn6FjSYpFwgs6zPdx/mA9LAUAPWbLfo+21xkwu3lT0XZc14g+hACNHEIe0wyrXP6YzZ2wRNuPr21PGOGHHNzUZVghD4d2QFNTHYIsxv6UStguE6sbMkT8IpRk85r6wAXwaBW4xg3po1AAAeDtw3IhA+tY8IIGgcIxgC1ysde9aFigvAUME99XfxJ+qsD4PJIdcn3c7FiaGq52EHwfyVBN6i+U/fmu152Xsl17MdzQghQcv1SVvDv4vz53u1aXzr3DxmeIJx53L0A==;ilo32J3Wu62i+8omOWRsmw=="
 ---

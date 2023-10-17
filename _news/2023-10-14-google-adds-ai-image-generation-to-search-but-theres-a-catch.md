@@ -204,19 +204,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "US Space Force Bans Use of Generative AI"
-    excerpt: "Outside of work, Space Force employees will find it increasingly difficult to avoid using AI. Google recently announced that Assistant is getting a Bard generative AI upgrade, Microsoft is adding generative AI to the Windows 11 experience, and Amazon is investing billions in AI to improve the customer experience for all its services."
-    publishedDateTime: 2023-10-12T11:40:00Z
-    webUrl: "https://www.pcmag.com/news/us-space-force-bans-use-of-generative-ai"
+  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
+    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
+    publishedDateTime: 2023-10-16T23:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05eR2BHqfTmXbAUOwc8o0x8-1.fit_lim.size_1200x630.v1697110351.jpg"
-        width: 1120
-        height: 630
+      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Here are some of the ways Apple might use generative AI"
     excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."

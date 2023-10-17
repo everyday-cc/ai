@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-09-20-google-deepminds-ai-tool-could-pinpoint-our-genetic-faults.md",
+      "title": "Google DeepMind’s AI Tool Could Pinpoint Our Genetic Faults",
+      "excerpt": "Case in point: new work by Alphabet’s AI subsidiary, Google DeepMind, that promises to help winnow down the genetic causes of disease. Get a curated selection of 10 of our best stories in your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2023/09/20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults/2e7785e8-57c7-11ee-bf64-cd88fe7adc71_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/2023/09/20/google-deepmind-s-ai-tool-could-pinpoint-our-genetic-faults/2e7785e8-57c7-11ee-bf64-cd88fe7adc71_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-20T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-big-data-analytics-and-the-future-of-financial-services.md",
       "title": "Big Data Analytics and the Future of Financial Services",
       "excerpt": "In an era marked by exponential growth in data generation, the financial services industry stands on the brink of a transformative revolution. Big Data Analytics, with its immense potential to extract valuable insights from vast datasets,",
@@ -1090,49 +1133,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-bears-qb-justin-fields-clarifies-robotic-comments-im-not-blaming-anything-on-the-coaches.md",
-      "title": "Bears QB Justin Fields clarifies 'robotic' comments: 'I'm not blaming anything on the coaches'",
-      "excerpt": "The Bears quarterback didn't wait long to attempt to control whatever minor damage his quotes might have caused. After saying his coaching staff might be feeding him too much information in attempting to explain his \"robotic\" feeling on the field through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
-      "originalUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/szkaquehqxkntny1wotd",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NFL",
-        "domain": "nfl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

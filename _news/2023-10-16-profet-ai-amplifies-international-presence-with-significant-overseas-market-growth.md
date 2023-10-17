@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35258118"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35258118"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1043
     height: 1043
     isCached: true
-
-related:
-  - title: "How to create professional AI profile pictures"
-    excerpt: "You might be interested to know that you can create professional personalized portraits using Stability AI’s Stable Diffusion AI generator. If you’re not so comfortable using Stable Diffusion there also other services and apps available such as Remini ..."
-    publishedDateTime: 2023-10-12T11:48:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-profile-picture/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/How-to-create-professional-AI-profile-pictures.jpg"
-        width: 700
-        height: 451
-        isCached: true
 
 secured: "MyhfFD0pSXYjdwo/gn/Q3RzqaXml0P5KFmVuZ2clq7eczWsn50HTEjKsyIoAmmF3grdfA60cA4qBlhl+4LxaSbSupKqKFFbLYUb1CEb/2empDwjrjw2+KF54rYuCj4k1dglITi8gfnmEDmzNs2k+jgv/CT1Jfhdr6MlqaXLBljTVrHTsNIwZ6DWStCWyIGXAo3nyX6Tbn4JpidL01L3TrcqthbBeF9eNPZ4kHsKdags3BL2IyxWjqwcHdT0ckASPq/UZioZVnyRSSpaDcEX7XtZMs5TdArZC/LucNZPjCjtzx2S0Tn1+TrLGoTG5CoI8xNDOdHwYsGjWysV1+M2RZuTHtG6tA98plIKnGBTtUS8=;XXC/3bWJl898UXbnkOrCIw=="
 ---

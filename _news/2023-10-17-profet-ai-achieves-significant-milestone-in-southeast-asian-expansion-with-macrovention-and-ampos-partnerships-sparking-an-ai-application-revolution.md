@@ -49,6 +49,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
+    publishedDateTime: 2023-10-16T12:17:00Z
+    webUrl: "https://www.asiaone.com/business/profet-ai-achieves-significant-milestone-southeast-asian-expansion-macrovention-and-ampos"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
 
 secured: "+/bhu0v2eopZFHUUlrnuWjvf8recYSRvKe29VkO72cBsYWd2IRX7VnzbffbYlX2UvCFsg+e55cNokFcHOd/Y1iG0tcJROJgNGlLrMGSft5omgqHrHbKvwrzqP1M/8lUY00fQw3A5goth8KUF/JYALAUHY2p6hEZrlM4h8FRILh+50KDug7T080dfg+QWdAUhtT/inq72/WY54K6ER6R9W73lB1RC7wmGBlZTqttyddbArs9QRM5cYmsJLAY+Ebeb2td2j5ySP8IIGd97ipd9LJwMDLdi5AEm+ETKDHQh5tm2vRL/9IO9JY8ZXhWPdfnzyHe8/jvuLMhpOIyRN7YYpWnXBpni4LAjQqahxkp61MQ=;fu9sDuB01uKzkxka/mEg0A=="
 ---

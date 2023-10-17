@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Generative AI Can Aid Some Creatives, But Tools Need Controllability"
-    excerpt: "Gen AI tools can help some artists perform tasks, but AI tools aren't always production-ready substitutes without greater control over output."
-    publishedDateTime: 2023-10-12T13:00:00Z
-    webUrl: "https://variety.com/vip/generative-ai-can-aid-creatives-now-but-tools-need-more-controllability-to-be-production-ready-1235752627/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 17
-
 secured: "7UH1L0SWA8JPK+YkFCDEH0cGjyGqjNaH8Pq18InR96Ct2ubQP/ccVCe9hxPn4O4iRsMgMPCHxWccheBtN8Ro02vdO6+sT4OnobyceILWZOCtddayclVbaFmiu5AqeC8SnGeGY9Fgcwhdw/jQDLSfF7TcDVErr1nrPoo/UaClzUbQkKyYs9deMAJITeqU03mwxcOPz4h1iNkR+CMeGF4jSTzC5/ZwUiNaeflkcA8IY0FbbbWK+rAN+pBKzEQX2FA6g2Sjx85R6/3uTHA7s0LhYiJFN5lWDL/gK+cPQw6H92qsWcTTqmNELtuZ6RiHwT1fHyCDPhtda9+HjQ1XWHs30t95FX+gs0JSmyaLHSgV1rE=;8/Pn1d48Qkpgg71Hy+d00A=="
 ---
 

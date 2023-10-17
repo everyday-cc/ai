@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-09-20-bears-qb-justin-fields-clarifies-robotic-comments-im-not-blaming-anything-on-the-coaches.md",
+      "title": "Bears QB Justin Fields clarifies 'robotic' comments: 'I'm not blaming anything on the coaches'",
+      "excerpt": "The Bears quarterback didn't wait long to attempt to control whatever minor damage his quotes might have caused. After saying his coaching staff might be feeding him too much information in attempting to explain his \"robotic\" feeling on the field through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
+      "originalUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/szkaquehqxkntny1wotd",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NFL",
+        "domain": "nfl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested.md",
       "title": "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested",
       "excerpt": "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would",
@@ -1150,49 +1193,6 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-deepminds-new-ai-can-predict-genetic-diseases.md",
-      "title": "DeepMind’s New AI Can Predict Genetic Diseases",
-      "excerpt": "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/6508b2210178e37fb4a68568/16:9/w_1280,c_limit/digitized-dna-helix-science-GettyImages-85757934.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

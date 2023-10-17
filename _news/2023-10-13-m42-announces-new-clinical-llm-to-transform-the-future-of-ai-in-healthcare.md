@@ -115,6 +115,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Opinion: Let’s build an ethical AI culture for all"
+    excerpt: "Building inclusive, fair artificial intelligence systems requires intentional work at all phases of development and use."
+    publishedDateTime: 2023-10-17T04:26:00Z
+    webUrl: "https://www.ajc.com/opinion/opinion-lets-build-an-ethical-ai-culture-for-all/2WSUJSEJUBBNLHE7CPRHG3A4B4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/IlT2nFs-FjFwMrls5_8HOY3Vh_M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ORKY32J2M3N66YZY6O5OYGISYA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
     excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
     publishedDateTime: 2023-10-16T12:30:00Z

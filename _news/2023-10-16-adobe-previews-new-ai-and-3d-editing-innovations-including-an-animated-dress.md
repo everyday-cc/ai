@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
 type: article
 quality: 83
-heat: 93
+heat: 94
 published: true
 
 provider:

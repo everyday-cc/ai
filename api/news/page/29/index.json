@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-09-25-openai-gives-chatgpt-a-voice-for-verbal-conversations.md",
+      "title": "OpenAI gives ChatGPT a voice for verbal conversations",
+      "excerpt": "with its open source Whisper speech recognition system used to transcribe verbal utterances into text. Spotify was also unveiled as a launch partner, with the music-streaming giant introducing a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/",
+      "originalUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/25/openai-chatgpt-voice/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/25/openai-chatgpt-voice/amp/",
+      "publishedDateTime": "2023-09-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-24-major-brexit-export-win-british-made-driverless-shuttles-appear-in-prague.md",
       "title": "'Major Brexit export win': British-made driverless shuttles appear in Prague",
       "excerpt": "EXCLUSIVE: Coventry-based Aurrigo International has deployed its futuristic Auto-Shuttle in Prague - a major worldwide tourist destination.",
@@ -1132,40 +1184,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-developments-112-pages.md",
-      "title": "AI in Computer Vision Market Analysis 2023 | Size with Share in Report by Top Key Players, Future Developments | 112 Pages",
-      "excerpt": "2023 AI in Computer Vision Market Overview: Insights on [ Automotive, Sports and Entertainment, Consumer, Robotics and Machine Vision, Healthcare, Security and Surveillance, Agriculture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34835521/ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-deve",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34835521/ai-in-computer-vision-market-analysis-2023-size-with-share-in-report-by-top-key-players-future-deve",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

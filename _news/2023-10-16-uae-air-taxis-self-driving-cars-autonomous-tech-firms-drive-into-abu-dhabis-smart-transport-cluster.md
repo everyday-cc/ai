@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "UAE: Air Taxis, Self-Driving Cars, Autonomous Tech Firms Drive Into Abu Dhabi's Smart Transport Cluster"
+    excerpt: "WeRide is a leading commercial-stage company that develops Level 4 autonomous driving technologies. In July, the UAE cabinet granted WeRide the first national licence for self-driving vehicles to run on the country's roads."
+    publishedDateTime: 2023-10-17T04:25:00Z
+    webUrl: "https://menafn.com/1107252629/UAE-Air-Taxis-Self-Driving-Cars-Autonomous-Tech-Firms-Drive-Into-Abu-Dhabis-Smart-Transport-Cluster"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/16/KT_4c629image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "z083jsKhvttXcfKA6DGd2bp7Y9aG7NevoYEqIn76HURdpXrd4Xhu7MM+2o+5sT/RhwWMH/0BFyt6eXJxQ7OY/QAEWkSM3LhYNrS1qBr5A1b+2t0tEbETw4KH+B63n8D9hW99MD3d/qWBNN4o9u/mpFjOKaJMFjGRkVda9hi9tRY9fAyD6zPBs0CRAj3ii7EUXMsba71qUsbyyLQ563RmmsCNfdtmyHzv3ZQBIfYKP0ifI0SxbkdZsLU/sVCwREPd5ozRrTBM/yW9sdWLTlX0YoN8uzl8G+ruswuy0i57bTiP5eQy55c7zgkqey5xngOfdRWFJJtN0YdxyJD+8oaRPtGEj8QOhL9hhfrEcy9WF0c=;g0UMOVzNUXt3KL1HB3ylsg=="
 ---
 

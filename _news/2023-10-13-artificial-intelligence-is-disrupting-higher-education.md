@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/Pero37Z3eoOMQb6m"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Higher Education Can Teach Business Leaders About AI"
-    excerpt: "While AI tools are incredible resources, they can’t replace the value of investing in the people on your team."
-    publishedDateTime: 2023-10-12T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/what-higher-education-can-teach-business-leaders-about-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Delightful disruption: Austin’s tech trailblazers prep for the AI revolution — Table of Experts"
     excerpt: "The Austin Business Journal recently assembled a panel of experts in tech to discuss this dawning of a new era, and its implications for the business world."
     publishedDateTime: 2023-10-13T11:00:00Z

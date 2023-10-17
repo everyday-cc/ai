@@ -24,17 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Voice campaign has failed to heed lessons of history"
-    excerpt: "We want greater reconciliation and constitutional recognition of Indigenous Australians and for them to have a greater voice in decision-making on matters that affect them. These principles are essential for the long-run social and political compact of the ..."
-    publishedDateTime: 2023-10-12T13:02:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/editorials/voice-campaign-has-failed-to-heed-lessons-of-history/news-story/7b2e3b3cc16ce93617d2fe2bff668f10"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
-
 secured: "z8NIQGc0pTyJucAFWNUwQraaY7xRqb92g0hAgf5qNd3LqisnYMilG7ezPX0asNwg6dHWG4FbJB7A981PRwU/Gy5RVJGerIZWuBLLRtarybqsvL0Qg9fKrqO1GjmLiM3mRyhQ75Rt0ZQ9jyGU39kEukG3pyRpAJUlqK/eRG9yoLW+vcxwy2QH9g39HkSBgApuY1MA4MKG++Itj6D2KqoGOaqeUpl85D4mQqUQ8+HvUEQzfDx1/SgyxvLqPW6cQUgahzUePodM2kGcBEVl7noQjv92afrAGdNVCqL+eUU2zkRp+cdkCgqUVYX+do/fNdx71/Fv+Gwq0Y3oJ/woHForFAz6lWZkXKYQv97dnHJte0g=;i++rgsZjgjqtQRh5DsiZtw=="
 ---
 

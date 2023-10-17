@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-16-metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it.md",
+      "title": "Meta's unique approach to developing AI puzzles Wall Street, but techies love it",
+      "excerpt": "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry’s “workhorse” computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201",
+          "width": 2237,
+          "height": 1376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
+      "publishedDateTime": "2023-10-16T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-ai-wont-replace-bartenders-but-its-already-influencing-craft-culture.md",
       "title": "AI Won’t Replace Bartenders But It’s Already Influencing Craft Culture",
       "excerpt": "AI is starting to influence how people find cocktail recipes, develop recipes and which breweries and bars they visit.",
@@ -594,6 +647,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-16-expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship.md",
+      "title": "Expand North Star kicks off to showcase robotics, AI, and entrepreneurship",
+      "excerpt": "Expand North Star, a global event for startups and investors has kicked off at Dubai Harbour.  It will feature the latest innovations in robotics, AI, and entrepreneurship.  The four-day event brings together 1800 startups from 100 countries and over 1,",
+      "sourceUrl": null,
+      "webUrl": "https://campaignme.com/expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship/",
+      "originalUrl": "https://campaignme.com/expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://campaignme.com/wp-content/uploads/2023/10/ARTEMIS-the-fastest-robot-developed-by-UCLA-min.jpg",
+          "width": 1228,
+          "height": 997,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campaign Middle East",
+        "domain": "campaignme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-dubais-rta-unveils-facial-recognition-for-nol-cards-at-gitex-global-2023.md",
       "title": "Dubai’s RTA unveils facial recognition for Nol cards at GITEX Global 2023",
       "excerpt": "Facial recognition for Metro Nol cards. One of the highlights of RTA‘s showcase is a smart gate that allows commuters to pay for public transport fares using facial recognition",
@@ -1099,102 +1195,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan.md",
-      "title": "A chat about AI’s role in networking and the edge with Intel’s Pallavi Mahajan",
-      "excerpt": "GamesBeat Next unites gaming industry leaders for exceptional content, networking, and deal-making opportunities. Join us on Oct 23-24 in San Francisco.  Register Now The edge of the network isn’t always where you find the most powerful computers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan/",
-      "originalUrl": "https://venturebeat.com/games/a-chat-about-ais-role-in-networking-and-the-edge-with-intels-pallavi-mahajan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/intel-glass-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-14T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-australians-decide-against-creating-an-indigenous-voice-to-advise-parliament.md",
-      "title": "Australians decide against creating an Indigenous Voice to advise Parliament",
-      "excerpt": "CANBERRA, Australia >> Australians voted in a referendum today against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/",
-      "originalUrl": "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 426,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/10/web1_14305175-60302059f3c845c4b99d810132b81e3e.jpg",
-          "width": 760,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/",
-      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/",
-      "publishedDateTime": "2023-10-14T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Honolulu Star-Advertiser",
-        "domain": "staradvertiser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

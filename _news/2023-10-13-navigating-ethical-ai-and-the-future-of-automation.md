@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/16/P_65462image_story.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Opinion: Let’s build an ethical AI culture for all"
+    excerpt: "Building inclusive, fair artificial intelligence systems requires intentional work at all phases of development and use."
+    publishedDateTime: 2023-10-17T04:26:00Z
+    webUrl: "https://www.ajc.com/opinion/opinion-lets-build-an-ethical-ai-culture-for-all/2WSUJSEJUBBNLHE7CPRHG3A4B4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/IlT2nFs-FjFwMrls5_8HOY3Vh_M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ORKY32J2M3N66YZY6O5OYGISYA.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
     excerpt: "The model has been developed to exponentially enhance clinical decision-making and increase access to synthesized medical knowledge for healthcare professionals, patients, and medical researchers through to regulators."

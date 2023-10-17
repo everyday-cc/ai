@@ -56,15 +56,6 @@ related:
       name: Crain's Chicago Business
       domain: chicagobusiness.com
     quality: 14
-  - title: "GE HealthCare Signs $44 Million Contract with BARDA to Develop Artificial Intelligence-Augmented Ultrasound Technology to Aid Clinicians in Diagnosing and Treating Traumatic ..."
-    excerpt: "within the U.S. Department of Health and Human Services (HHS)—to develop and obtain regulatory clearance for next-generation advanced point-of-care ultrasound technology with new artificial intelligence (AI) applications. Technology resulting from this ..."
-    publishedDateTime: 2023-10-12T13:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231011642569/en/GE-HealthCare-Signs-44-Million-Contract-with-BARDA-to-Develop-Artificial-Intelligence-Augmented-Ultrasound-Technology-to-Aid-Clinicians-in-Diagnosing-and-Treating-Traumatic-Injury-and-Enhance-National-Preparedness-for-Mass-Casualty-Incidents"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "BJ1a4SmZVeJlltzBVNF6jPuouqgl1/k8n7Snqf8a/SqfwXxXWEPjDXVNrF56FhzHKVI2edO/3tTt0WUGBv6YDEUN01A8IuqJM2K4m3iq9rcNZJnk7up6hWhWjml3dv0dKZXOb+6ffKq5BpL04Z1tNrmRu+uLp6oru1MtjBki+89FzX/mnQy6kXP8/lT+fQCX+YmqORSx3xAWaK2HLsO4fgjuiMpvesE9gz6file9GTilDHqtZ6n9ioqf4h2xWOHTCeStgo8nF0da+kcFXIzIQBZc8m2P1IGTmfNRbfgOonXNDTRzARdx3HzJyKCql6zihqWgnJgqAgxzGC96jJ/QyYcbDNwaiW476PrX18CqEU0=;tP8aS4GLIgXWuYElb1BRYA=="
 ---
