@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Leading In The AI Revolution: The Case For A Chief Artificial Intelligence Officer"
-    excerpt: "As AI becomes more sophisticated and pervasive, many firms are considering whether to appoint a ... [+] chief artificial intelligence officer (CAIO). The potential of Artificial intelligence (AI) is undeniable. It's no longer a futuristic concept but fast ..."
-    publishedDateTime: 2023-10-12T17:59:00Z
-    webUrl: "https://www.forbes.com/sites/davidhenkin/2023/10/12/leading-in-the-ai-revolution-the-case-for-a-chief-artificial-intelligence-officer/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 58
   - title: "The Quantum Leap: How Quantum Computing Will Revolutionize Artificial Intelligence Applications"
     excerpt: "Introduction In the ever-evolving landscape of technology, two groundbreaking fields have been making significant strides: quantum computing and artificial intelligence (AI). As these fields continue to advance,"
     publishedDateTime: 2023-10-16T10:23:00Z

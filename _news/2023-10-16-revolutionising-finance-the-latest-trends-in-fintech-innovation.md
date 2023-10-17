@@ -55,15 +55,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Revolutionising Risk Management: The Impact Of AI And ML In The Financial Services Industry"
-    excerpt: "Computing advancements and data aggregation have led to Industry 4.0, which changes the way we think, interact, and work. Technology affects every i"
-    publishedDateTime: 2023-10-12T18:50:00Z
-    webUrl: "https://menafn.com/1107233690/Revolutionising-Risk-Management-The-Impact-Of-AI-And-ML-In-The-Financial-Services-Industry"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
   - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
     excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
     publishedDateTime: 2023-10-16T10:50:00Z

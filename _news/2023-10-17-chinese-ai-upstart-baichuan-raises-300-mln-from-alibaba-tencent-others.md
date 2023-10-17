@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-rai
 webUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-raises-300-mln-alibaba-tencent-others-2023-10-17/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Chinese AI startup Baichuan raises US$300 million from Alibaba, Tencent, others"
+    excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised US$300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early US$50 million angel round."
+    publishedDateTime: 2023-10-17T10:45:00Z
+    webUrl: "https://www.todayonline.com/world/chinese-ai-startup-baichuan-raises-us300-million-alibaba-tencent-others-2283821"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 33
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--mCqdsPQ6--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/02/01/default-section-og-image_0_1.png?itok=yEDAjBZG"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "bW1rurjPwz6LGre7poseHG5pKHrC+PekEqCnK2H2FdXHmyjGxwQM1NKD7mWN+YG3BBxBL6ny+lMseEPSw71HGG21hvKUd8XO9UHJLw4Tn48O48TtvPgyLPT05Wy4h3MBRJOTqKZdJXkuPMK481q2ouZYHicWJ3tslfmrhqQ6DV2WX2d0oB+wAVLZWdaCbaW7wq30NAZ6ztW8/0clb2xu84Vzxiqby1zIAowtWW6SqlzKTEypIkzohdEiz69RDmNlTJrirl4xHKv2KJF4cnPiGvXb8i7Ky/wgGnxn1CyCZduiGPmMsmDg22GFRScvYCxJTGCvTlDJqTOHQgvnZGUbbGT7zkD21e14V2kW+EtD2ho=;XVVW9dMY49CbBIrQg+eleg=="

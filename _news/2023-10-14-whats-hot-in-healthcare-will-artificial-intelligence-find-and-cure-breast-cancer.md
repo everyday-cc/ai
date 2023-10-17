@@ -77,6 +77,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Home healthcare tapping AI to speed processes, close gaps in care"
+    excerpt: "Providers are turning to the technology to try to maximize caregiver-patient compatibility and make administrative work more seamless."
+    publishedDateTime: 2023-10-17T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/providers/home-healthcare-ai-staffing-gaps-hospice-hospital-at-home"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "RyqorJvijib8DFJnTRljrVwV5WrfEhIjSCLpJNUOv4xv2Af7Ibn2J2t+pROC2Mu95N1v+jho0Z4/qSJ9+mSNJ90ilSDSMQGa8AybhHaTnIg4NeZvSzBnyZzkoIreiNbWUzxDUCs0gweaELT+h92JpoKNqg6/4tyPpBy+hbEIXGYUBs3Ifb5Jmjf3vpXF1QPAdH7SYs77fRH2EMU2p5ElbaIyiJwHJlnA0XJ7B18hcEnaDI6ZmKJlm3xb8rXauTNfqm4PDOceYEDZpmXERIvN31lMoqjZ38XU4WrlLed/Q4MMOzyUO/uP64GowlJp627esZ5W1j6IG4JhlDaup4t3rPoEnFBoqhp6XzU/My/O6fgTdsHG1zYQZgp9lfOoGAcCsB4cn2KEk9fuld8jBEVB7lQoeDv39NgMQWl/cQ+WpGVOfrrFOCH7hThtF7Y1x3v1Oc4rJgVjemBPADpw1m4BWSNFktApCQEYmqfs3CJbeUkqggSsTCC0hPYfL6d4B/FuMPwM19A8r9eB895/YoV8WA==;J6gbAATaBN7zTM5L67zLug=="
 ---

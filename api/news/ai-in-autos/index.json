@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-17-cruise-self-driving-cars-investigated-after-two-accidents.md",
+      "title": "Cruise self-driving cars investigated after two accidents",
+      "excerpt": "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA).",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-67133409",
+      "originalUrl": "https://www.bbc.com/news/technology-67133409",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-67133409.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67133409.amp",
+      "publishedDateTime": "2023-10-17T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts.md",
       "title": "Dubai Police to deploy driverless patrol cars with AI smarts",
       "excerpt": "Dubai Police is planning to deploy fully electric, driverless patrol cars with AI smarts capable of spotting suspicious behavior.",
@@ -245,6 +297,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-12-tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco.md",
+      "title": "Tens of Thousands of People Can Now Order a Waymo Robotaxi Anywhere in San Francisco",
+      "excerpt": "Waymo announced on X that it's expanding its city-wide, fully autonomous robotaxi service to thousands more riders in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/",
+      "originalUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/10/waymo-self-driving-car-jaguar-IPACE_3.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
+      "publishedDateTime": "2023-10-11T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions.md",
       "title": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions",
       "excerpt": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ...",
@@ -354,6 +449,58 @@
         "name": "Rome News-Tribune",
         "domain": "northwestgeorgianews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-10-waymo-expands-robotaxi-service-area-in-san-francisco.md",
+      "title": "Waymo expands robotaxi service area in San Francisco",
+      "excerpt": "Robotaxi leader Waymo is expanding its ridesharing service area in San Francisco. The Alphabet-owned company announced move on Monday in a message on X, the social media platform formerly known as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/waymo-expands-robotaxi-service-into-larger-part-of-san-francisco/",
+      "originalUrl": "https://www.digitaltrends.com/cars/waymo-expands-robotaxi-service-into-larger-part-of-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/12/waymo_geely_zeekr-1.jpeg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/waymo-expands-robotaxi-service-into-larger-part-of-san-francisco/",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymo-expands-robotaxi-service-into-larger-part-of-san-francisco/",
+      "publishedDateTime": "2023-10-09T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -707,6 +854,40 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-07-4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip.md",
+      "title": "4 Second-to-None Growth Stocks You'll Regret Not Buying in the Wake of the Nasdaq Bear Market Dip",
+      "excerpt": "But in spite of this sizable outperformance through the first nine months and change of 2023, the Nasdaq Composite still sits nearly 18% below its all-time high, set in November 2021. Though this drop might be disappointing for short-term traders,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear",
+      "originalUrl": "https://www.nasdaq.com/articles/4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-07T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1151,188 +1332,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-chinese-tech-startups-are-testing-self-driving-cars-on-california-roads.md",
-      "title": "Chinese tech startups are testing self-driving cars on California roads",
-      "excerpt": "Tony Peng, a spokesperson for Baidu’s Apollo ... of stealing proprietary information about self-driving technology while applying to a “China-based autonomous vehicle company,” which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "originalUrl": "https://www.aol.com/chinese-tech-startups-testing-self-180000843.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/XoyhSfVQzxd3pw.SehMd0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/aba6c86ae36cb91b02dbe453d626ca89",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/chinese-tech-startups-testing-self-180000843.html",
-      "publishedDateTime": "2023-10-03T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-self-driving-vehicle-runs-over-pins-woman-in-san-francisco-operator-claims-human-hit-her-first.md",
-      "title": "Self-driving vehicle runs over, pins woman in San Francisco; operator claims human hit her first",
-      "excerpt": "A woman in San Francisco was found with life-threatening injuries late Monday after being run over and trapped under a self-driving car, authorities said. First responders arrived at 5th and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first",
-      "originalUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/1200/675/Cruise-driverless-car-SF-collision-2.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/self-driving-car-runs-over-pins-woman-san-francisco-operator-claims-human-hit-her-first.amp",
-      "publishedDateTime": "2023-10-03T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-san-francisco-self-driving-car-involved-in-serious-accident.md",
-      "title": "San Francisco self-driving car involved in serious accident",
-      "excerpt": "A self-driving car operated by US company Cruise ran over a woman after she was first knocked in front of it by a hit-and-run driver in San Francisco late Monday, video showed.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/chevrolet-cruise-auton.jpg",
-          "width": 1280,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-san-francisco-self-driving-car-involved.amp",
-      "publishedDateTime": "2023-10-03T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai.md",
-      "title": "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI",
-      "excerpt": "So we posed a similar challenge to Google’s new artificial-intelligence engine, Bard, with a few tweaks: “Please write a 550 word editorial in third person explaining why Florida newspapers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
-      "originalUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/wp-content/uploads/2023/10/NYTimes_ROOSE-COLUMN.jpg?w=1024&#038;h=683",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

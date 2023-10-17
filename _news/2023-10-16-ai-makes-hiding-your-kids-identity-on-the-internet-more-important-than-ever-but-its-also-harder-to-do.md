@@ -26,17 +26,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "Coming to terms with the past is more important than ever. The Voice referendum is a vital first step"
-    excerpt: "Voice supporters are not looking for division, but rather a desire to play a role in the future of a nation that accepts it’s our country, too."
-    publishedDateTime: 2023-10-12T19:02:00Z
-    webUrl: "https://theconversation.com/coming-to-terms-with-the-past-is-more-important-than-ever-the-voice-referendum-is-a-vital-first-step-215152"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 0
-
 secured: "1nyg57H1qluRHaHhFu+6okgdUTIKAhXclFDB0KBD/GwirIRiO2ZUV4cOJxWapjHW/J+lkyRWF76aHizaSK7slsxF8B+vgHtnCvcQmEwbu2ECT+DB1UcmicCGj48PhfGK5RiX9jzcvOCXbZNhff/1lXgN/QPALSgwBj5EOxe6ePvv2GOat2G+rQUt+eAcpFZ0NS0pZsuE96HV91RKZJzovkl79r6CV++U1QCTFjmM9ZIwDwpQB0s+eIe4fQY9eLqaqPv9WSOAgfAJ7vws75dCB9xObeZrWKYcOVirfNCjAWiOHP4J2mmh+x+i3c5+S6EdiQlNzAXPC/bp5yeC0sw++L3h85jClHQCm6261YCmK7X5OCmEirYCcN3Bx6hvlEzZ8wZ6QrqRkCdDbNxpG8exj2JH/D/2Z9VWifsD/HrTdMhRT9pH9c7jhbGIOwSZhXe8B52Q3hU+XqYBnouRQ7sstMqJeqENRPIT/9McEAfgNt/za4fv2Sirf0vTBFQY4m0Ev3bMRO+U5eBOkqsTAee/dA==;9cASROv1OjN+2Ok+bxoN3Q=="
 ---
 

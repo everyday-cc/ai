@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-07-compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression.md",
+      "title": "Compass Pathways Explores AI-Powered Predictive Model On Psilocybin Therapy For Depression",
+      "excerpt": "COMPASS Pathways plc (NASDAQ: CMPS) shared the results from research on the potential of its novel AI technologies to support its proprietary COM",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/compass-pathways-explores-ai-powered-predictive-model-on-psilocybin-therapy-for-depression-1032610657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/09/06/advanced_technology_clinic_dmt_psilocybin_mdma_bacsica_aiyoshi597_gisele_yashar_and_metamorworks_on_shutterstock.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-06-only-four-per-cent-of-businesses-in-canada-report-using-artificial-intelligence-ai-tmu-study.md",
       "title": "Only four per cent of businesses in Canada report using artificial intelligence (AI): TMU study",
       "excerpt": "Across Canada, 4 per cent of businesses report that they are using AI in any way in their business. Québec leads in Canada at a five per cent adoption rate. Ontario, BC, and Saskatchewan follow closely at four per cent. Alberta businesses follow at three per cent. Manitoba, and the combined Atlantic & Territories region trail at two per cent.",
@@ -1461,50 +1514,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-dont-expect-quick-fixes-in-red-teaming-of-ai-models-security-was-an-afterthought.md",
-      "title": "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought",
-      "excerpt": "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "originalUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/97zyX45bgwivL9P6BPDsEf0Vnig=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5CIOSRXO6BFQVE3WVW55F4TXYU.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "publishedDateTime": "2023-08-13T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOWT.com",
-        "domain": "wowt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

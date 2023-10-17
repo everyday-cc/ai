@@ -38,6 +38,20 @@ related:
         width: 7642
         height: 5097
         isCached: true
+  - title: "Chinese AI startup Baichuan raises US$300 million from Alibaba, Tencent, others"
+    excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised US$300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early US$50 million angel round."
+    publishedDateTime: 2023-10-17T10:45:00Z
+    webUrl: "https://www.todayonline.com/world/chinese-ai-startup-baichuan-raises-us300-million-alibaba-tencent-others-2283821"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 33
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--mCqdsPQ6--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/02/01/default-section-og-image_0_1.png?itok=yEDAjBZG"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "i9ujAuQ9t3LLtUVoDYmPCke/6Jvkg9AL0HmqkHiqG1hqtW8ontZNiAWDnSxo+JMLzH8gjnjXdHRX1RLLldTPafZb2WzPQ3ewC6YfX+fvUmKzbyFoS7C0NPV469HFfAoUn0QuSwrmOhEetMYq5xGRehmZVp/XuTupH9XzLDD1qlk+8vPkxwqITd5wik+daYgabox0sdDh/68fcnIwAAVhDCm9ySOelBe+jENydLin1dH+zC75QYLKeRhb+6syrzHz7nv16DysdqiXCuY3yZs+tGzX85lKMrA8xyqYhLfgaS09IuM1yfTpME4yFDxNOgS6k1PZeBw0ON7vg1B52MkJcfvo3+raRwRno2Sm0Ny7cO8=;3mk5EulRGYaZgJDZCJ9Xuw=="
 ---

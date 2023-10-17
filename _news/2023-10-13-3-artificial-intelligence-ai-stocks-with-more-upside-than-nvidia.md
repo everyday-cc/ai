@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-up
 webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
 type: article
 quality: 84
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "1 Artificial Intelligence (AI) Stock to Buy and Hold Forever"
+    excerpt: "Chipmaker Nvidia ( NVDA 1.40%) has become a Wall Street darling. It's soared by a whopping 215% year to date as it takes advantage of the opportunity in artificial intelligence (AI), which boosts demand for its cutting-edge hardware."
+    publishedDateTime: 2023-10-17T10:30:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/751095/gettyimages-1433587895.jpg"
+        width: 1878
+        height: 1596
+        isCached: true
   - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
     excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
     publishedDateTime: 2023-10-13T16:03:00Z

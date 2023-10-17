@@ -41,6 +41,20 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "1 Artificial Intelligence (AI) Stock to Buy and Hold Forever"
+    excerpt: "Chipmaker Nvidia ( NVDA 1.40%) has become a Wall Street darling. It's soared by a whopping 215% year to date as it takes advantage of the opportunity in artificial intelligence (AI), which boosts demand for its cutting-edge hardware."
+    publishedDateTime: 2023-10-17T10:30:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/751095/gettyimages-1433587895.jpg"
+        width: 1878
+        height: 1596
+        isCached: true
   - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
     excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
     publishedDateTime: 2023-10-13T14:56:00Z

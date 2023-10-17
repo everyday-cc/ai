@@ -42,6 +42,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
+    excerpt: "If it seems like artificial intelligence (AI) is everywhere lately, it is, but AI has been powering our everyday experiences for some time. When you ask Alexa"
+    publishedDateTime: 2023-10-17T10:02:00Z
+    webUrl: "https://www.inferse.com/758989/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 51
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-10963.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "XMBQzk3Lgnx4ptzB1R9UmDljQiBcmh0cMOZ/GGJb6ANnYHd0Gev5Vr86irY9gb4pw2se9Tp40l7kVq7EzqG9IvrvxxAF35eHYc4lzYhpfV5YOGJaSiUZYMzYMBRRtfww9T94mcGvEg8584vZk/GBxCrI7yjNOr/O+ABfoRnOjXN2cTbHCKanoWSoPe3NGgCiAo82+eDRAoXPgSOyZeNP/E83oeVgizPa+cE/qWgo0Be+i2bVf9pHzPNAd2msiMfRoiiFV6u/aqkGXuPoRkmGRo0b81Bn1NG+g+9VHZQ5d+LwkO7jzLgHhBMmgUuYExWax/uisP1l292OHMPto4wVDAa66YDfmSSYYlpXwfc5kue39CO9ZW33DHnKYAwZD11UeRQbCvf8Jilqz7kWgQ1pHRv6vfvzmokcdrr5oZBkF2dXoNGv/WmBPt0oLT1sFWu1fYp5Dlv63ZREQmdwylbHCU75nn8ZctjzYyrdsiTuPZhCqThdRFucBtagG7NNogx8eO34oPd0VmV+uG+GzsVuig==;UgXzqkfKTGllIp1j0wgh0Q=="
 ---

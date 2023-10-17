@@ -7,8 +7,8 @@ originalUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gi
 webUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Gulf Business
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
-    excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
-    publishedDateTime: 2023-10-12T17:20:00Z
-    webUrl: "https://menafn.com/1107232402/RespondIo-To-Showcase-New-Artificial-Intelligence-AI-Powered-Solutions-At-GITEX-Global-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?236858"
-        width: 369
-        height: 250
-        isCached: true
   - title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
     excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
     publishedDateTime: 2023-10-15T19:21:00Z

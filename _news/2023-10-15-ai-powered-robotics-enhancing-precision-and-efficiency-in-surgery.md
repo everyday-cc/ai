@@ -67,15 +67,6 @@ related:
         width: 1920
         height: 1285
         isCached: true
-  - title: "AI and Robotics Revolutionizing Recycling"
-    excerpt: "The combination of artificial intelligence (AI) and robotics is making the recycling business much more profitable and practical than ever."
-    publishedDateTime: 2023-10-12T17:51:00Z
-    webUrl: "https://emagazine.com/ai-and-robotics-revolutionizing-recycling/"
-    type: article
-    provider:
-      name: E–The Environmental Magazine
-      domain: emagazine.com
-    quality: 49
   - title: "Nearly 9 out of 10 grocery workers are worried about AI, robotics"
     excerpt: "Although they’re concerned about being replaced by technological innovations, 87% of associates believe it will help them to do their jobs"
     publishedDateTime: 2023-10-16T17:53:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-ai-stock-to-buy-before-i/"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Bull Market Is Coming: 2 AI Stock-Split Stocks to Buy Right Now"
+    excerpt: "Now, here's some more good news: Bear markets also are temporary, and historically, in the U.S., they've always been followed by bull markets. We may be on the way to that next bull, as indexes have rallied since the start of the year. And all of this means now is a great time to start planning for growth ahead."
+    publishedDateTime: 2023-10-17T09:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/17/bull-market-coming-ai-stock-split-stocks-to-buy/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/751048/gettyimages-1172040755.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "Why Wall Street Thinks This Artificial Intelligence (AI) Stock Could Skyrocket 140% Over the Next 12 Months"
     excerpt: "However, don't automatically jump to the conclusion that the joyride is completely over. Here's why Wall Street thinks one AI stock could skyrocket 140% over the next 12 months."
     publishedDateTime: 2023-10-16T09:50:00Z

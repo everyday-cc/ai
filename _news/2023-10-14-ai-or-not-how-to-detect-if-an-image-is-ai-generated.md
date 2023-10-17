@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_magnifying_glass_over_a_drawing_742f94ef-3a3d-48da-9120-276e833303ff.png?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "PwC Partners with OpenAI to Offer AI-Generated Advice to Clients"
+    excerpt: "One of the Big Four auditing firms, PwC has partnered with OpenAI to integrate AI generated advisory service for clients"
+    publishedDateTime: 2023-10-17T09:22:00Z
+    webUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/"
+    ampWebUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 57
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/pwc-openai-ai-generated-advice.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Google now lets you generate AI images by searching – here’s how to do it"
     excerpt: "Google added two new features to its Search Generative Experience today, one of which allows users to create AI images on the fly."

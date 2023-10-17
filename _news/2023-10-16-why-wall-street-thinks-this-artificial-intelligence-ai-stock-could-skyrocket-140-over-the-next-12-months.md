@@ -42,6 +42,20 @@ related:
         width: 2899
         height: 2077
         isCached: true
+  - title: "A Bull Market Is Coming: 2 AI Stock-Split Stocks to Buy Right Now"
+    excerpt: "Now, here's some more good news: Bear markets also are temporary, and historically, in the U.S., they've always been followed by bull markets. We may be on the way to that next bull, as indexes have rallied since the start of the year. And all of this means now is a great time to start planning for growth ahead."
+    publishedDateTime: 2023-10-17T09:00:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/17/bull-market-coming-ai-stock-split-stocks-to-buy/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/751048/gettyimages-1172040755.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "5 Under-The-Radar Growth Stocks to Buy Immediately, According to AI"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get"
     publishedDateTime: 2023-10-16T16:13:00Z

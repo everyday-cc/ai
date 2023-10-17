@@ -69,15 +69,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Revolutionising Risk Management: The Impact Of AI And ML In The Financial Services Industry"
-    excerpt: "Computing advancements and data aggregation have led to Industry 4.0, which changes the way we think, interact, and work. Technology affects every i"
-    publishedDateTime: 2023-10-12T18:50:00Z
-    webUrl: "https://menafn.com/1107233690/Revolutionising-Risk-Management-The-Impact-Of-AI-And-ML-In-The-Financial-Services-Industry"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
   - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
     excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
     publishedDateTime: 2023-10-16T13:12:00Z

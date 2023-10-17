@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
 type: article
 quality: 83
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
+    excerpt: "If it seems like artificial intelligence (AI) is everywhere lately, it is, but AI has been powering our everyday experiences for some time. When you ask Alexa"
+    publishedDateTime: 2023-10-17T10:02:00Z
+    webUrl: "https://www.inferse.com/758989/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 51
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-10963.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Adobe Firefly AI image and video editing features from Max 2023"
     excerpt: "This guide provides an insight into the new Adobe Firefly AI features this month unveiled at Adobe Max 2023. Learn how to edit videos, images"
     publishedDateTime: 2023-10-16T08:46:00Z

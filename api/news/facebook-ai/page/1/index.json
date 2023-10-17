@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-17-ai-chatbots-can-guess-your-personal-information-from-what-you-type.md",
+      "title": "AI Chatbots Can Guess Your Personal Information From What You Type",
+      "excerpt": "The AI models behind chatbots like ChatGPT can accurately guess a user's personal information from innocuous chats. Researchers say the troubling ability could be used by scammers or to target ads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/",
+      "originalUrl": "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6529f6866ad33062ca7713a1/191:100/w_1280,c_limit/AI-Chatbots-Infer-Private-Info-Business-1465764755.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-new-york-city-unveiled-a-new-plan-to-use-ai-to-make-its-government-work-better.md",
       "title": "New York City unveiled a new plan to use AI to make its government work better",
       "excerpt": "New York City released its Artificial Intelligence Action Plan on Monday setting policies to avoid bias and improve government services.",
@@ -1373,59 +1425,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-which-top-artificial-intelligence-ai-stock-could-make-investors-the-most-money-this-decade-heres-why-it-just-might-be-google.md",
-      "title": "Which Top Artificial Intelligence (AI) Stock Could Make Investors the Most Money This Decade? Here's Why It Just Might Be Google.",
-      "excerpt": "The company is reportedly close to releasing its Gemini generative AI tool. Semiconductor research company SemiAnalysis ... development and spokeswoman for Facebook and sister to Meta Platforms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
-      "originalUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/747869/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
-          "width": 2359,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-23T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

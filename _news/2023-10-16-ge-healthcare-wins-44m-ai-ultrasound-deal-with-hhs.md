@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/disruptors/ge-healthcare-win
 webUrl: "https://www.beckershospitalreview.com/disruptors/ge-healthcare-wins-44m-ai-ultrasound-deal-with-hhs.html"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "GE Healthcare Marks $44M Deal with BARDA"
-    excerpt: "The company and administration plan to develop and obtain the technology to expedite trauma diagnosis and treatment."
-    publishedDateTime: 2023-10-12T17:36:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ge-healthcare-marks-44m-deal-barda"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Human%20Factors%20Guidance%20in%20Combination%20Medical%20Devices%2040.png"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "GE Healthcare Signs $44M Deal with BARDA"
-    excerpt: "The company and administration plan to develop and obtain the technology to expedite trauma diagnosis and treatment."
-    publishedDateTime: 2023-10-12T18:25:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/ge-healthcare-signs-44m-deal-barda"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Human%20Factors%20Guidance%20in%20Combination%20Medical%20Devices%2040.png"
-        width: 770
-        height: 400
-        isCached: true
   - title: "GE HealthCare gets $44 million federal contract to develop rapid ultrasound tech"
     excerpt: "As part of the collaboration with BARDA, GE says it will develop a system that uses novel AI technology to make getting and interpreting ultrasound exams faster and easier."
     publishedDateTime: 2023-10-12T19:31:00Z

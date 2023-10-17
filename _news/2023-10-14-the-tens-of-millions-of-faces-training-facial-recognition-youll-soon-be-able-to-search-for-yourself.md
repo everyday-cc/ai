@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mass. bill targets police misuse of facial recognition"
-    excerpt: "Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that’s meant to crack down on racial disparities among people of color wrongfully suspected of crimes."
-    publishedDateTime: 2023-10-12T18:32:00Z
-    webUrl: "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/"
-    ampWebUrl: "https://www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/local/mass-bill-targets-police-misuse-of-facial-recognition/3066273/?amp=1"
-    type: article
-    provider:
-      name: NECN
-      domain: necn.com
-    quality: 59
-    images:
-      - url: "https://media.necn.com/2019/09/GettyImages-826000302.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Bill targets police misuse of facial recognition"
     excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that’s meant to crack down on racial disparities among ..."
     publishedDateTime: 2023-10-13T07:31:00Z

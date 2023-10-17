@@ -69,6 +69,15 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Home healthcare tapping AI to speed processes, close gaps in care"
+    excerpt: "Providers are turning to the technology to try to maximize caregiver-patient compatibility and make administrative work more seamless."
+    publishedDateTime: 2023-10-17T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/providers/home-healthcare-ai-staffing-gaps-hospice-hospital-at-home"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
   - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
     excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
     publishedDateTime: 2023-10-14T13:06:00Z

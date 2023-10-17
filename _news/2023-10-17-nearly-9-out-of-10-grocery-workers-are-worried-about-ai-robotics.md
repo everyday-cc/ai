@@ -67,15 +67,6 @@ related:
         width: 1920
         height: 1285
         isCached: true
-  - title: "AI and Robotics Revolutionizing Recycling"
-    excerpt: "The combination of artificial intelligence (AI) and robotics is making the recycling business much more profitable and practical than ever."
-    publishedDateTime: 2023-10-12T17:51:00Z
-    webUrl: "https://emagazine.com/ai-and-robotics-revolutionizing-recycling/"
-    type: article
-    provider:
-      name: E–The Environmental Magazine
-      domain: emagazine.com
-    quality: 49
   - title: "AI-Powered Robotics: Enhancing Precision and Efficiency in Surgery"
     excerpt: "In a world where AI technology continues to push boundaries, there’s one groundbreaking innovation that is revolutionizing the operating room: AI-powered robotics. Imagine a scenario where surgical precision meets unparalleled efficiency,"
     publishedDateTime: 2023-10-14T18:15:00Z

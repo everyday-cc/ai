@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 244
 published: true
 
 provider:
@@ -149,20 +149,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "The model has been developed to exponentially enhance clinical decision-making and increase access to synthesized medical knowledge for healthcare professionals, patients, and medical researchers through to regulators."
-    publishedDateTime: 2023-10-12T17:39:00Z
-    webUrl: "https://www.macaubusiness.com/m42-announces-new-clinical-llm-to-transform-the-future-of-ai-in-healthcare/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 52
-    images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/09/Event_MGM-Oktoberfest-2023_media_v1_Macau-Business-Still-pop-up-banner_800-x-480.jpg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
     excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
     publishedDateTime: 2023-10-16T12:30:00Z
@@ -190,15 +176,6 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 34
-  - title: "The Future of Investing: Artificial Intelligence in Stock Trading"
-    excerpt: "In the fast-paced world of finance, staying ahead of the game is crucial. With advancements in technology, the landscape of stock trading has undergone a significant transformation. One of the most groundbreaking developments in recent years has been the integration of artificial intelligence (AI) into stock trading practices."
-    publishedDateTime: 2023-10-12T17:53:00Z
-    webUrl: "https://techbullion.com/the-future-of-investing-artificial-intelligence-in-stock-trading/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
   - title: "Confronting the long-term risks of Artificial Intelligence"
     excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
     publishedDateTime: 2023-10-16T18:38:00Z

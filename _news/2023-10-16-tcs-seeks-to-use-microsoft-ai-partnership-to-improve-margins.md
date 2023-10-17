@@ -83,17 +83,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta, Microsoft, AWS: Big Tech Reveals Travel-Related AI Projects"
-    excerpt: "There has been a travel component to many big product releases related to generative AI this year, and it's happening more frequently."
-    publishedDateTime: 2023-10-12T17:40:00Z
-    webUrl: "https://skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/"
-    ampWebUrl: "https://skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/10/12/meta-microsoft-aws-big-tech-reveals-travel-related-ai-projects/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 71
   - title: "Microsoft’s Healthcare AI Efforts Holds Huge Promise for Patients"
     excerpt: "Microsoft’s ambient AI is great for physicians in that it automates the creation of the clinical note. But it’s also great for patients used to doctors turning away from them to type into the health system’s electronic health record to record the doctor-patient encounter. You have your doctor’s full attention and a screen is not in the way."
     publishedDateTime: 2023-10-17T01:33:00Z
