@@ -25,43 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai’s RTA unveils facial recognition for Nol cards at GITEX Global 2023"
-    excerpt: "Facial recognition for Metro Nol cards. One of the highlights of RTA‘s showcase is a smart gate that allows commuters to pay for public transport fares using facial recognition"
-    publishedDateTime: 2023-10-16T04:36:00Z
-    webUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/"
+  - title: "Dubai: How Gitex staff proves robots still can't beat humans in customer service"
+    excerpt: "Ask me’ and ‘How can I help?’. They carry poles and give directions. They distribute flyers, lanyards, and help prin.."
+    publishedDateTime: 2023-10-17T08:46:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service"
+    ampWebUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 53
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 69
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/RTA-GDMO5-P01-15-10-23.jpg"
-        width: 931
-        height: 622
+      - url: "https://image.khaleejtimes.com?uuid=7369784b-8957-56ea-9085-f4375311d565&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.97868&x=0&y=0&width=1200&height=675.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
-    excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
-    publishedDateTime: 2023-10-12T17:20:00Z
-    webUrl: "https://menafn.com/1107232402/RespondIo-To-Showcase-New-Artificial-Intelligence-AI-Powered-Solutions-At-GITEX-Global-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?236858"
-        width: 369
-        height: 250
-        isCached: true
-  - title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
-    excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
-    publishedDateTime: 2023-10-15T19:21:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/10/15/public-transport-fares-can-be-paid-via-facial-recognition-in-dubai"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 30
 
 secured: "RKhqbYcpptLlRwNC0iaMRTuLP8jfwp+GAOppF5QijX4dwWMT1TKNqafT1+hZFOqssESdd2kCCVS3hp1ii3+3JVzFm59KHeZtSvgaafTLLzN6mGyrwypLKEMwdlzwaqQ5OaHj6u0qrwrC1TuW2gHfowWWkqHZbBpASJ5JpXrXHcxrdtAiSLO8ZBW/HEFUnVJj9HZEgZQFkFFhbJkWBmJFdECNqsIm3S6OPs9fhibOV8P6Izg0wGYnOh/gfF/dhQVgs8J92Uv/TSY0x/qBiTO6S7rmehRVmzvICnKBYQgbUWscdvVWXIbKmG6WsAyZP9rRzD/vQEPZ6i7xrEl/EJvAXtIzbD49Ml8/3yf7Mfwubpnymj8viqA4Wex+FYj32M6ZBoo9SlvzI9fmc1pKkm7aZIPk+ZiBkkif4L0mvDloSzbmUAqPUOkV9EJ9HW69InPe2DJrFMPAi+Y9Xwe9AXe0junH1pTCWNYTW0DJ8v5asztm2fYl1dWQsAPh5AVo7D/DH0xEXKqWE1wl3A7VKHkMXg==;76XssocVhnFdtLEyhrStuQ=="
 ---

@@ -248,6 +248,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
+  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
+    excerpt: "By Chris Barry, Microsoft Canada PresidentMore than one billion people worldwide live with a disability – this includes over 6.2 million"
+    publishedDateTime: 2023-10-17T03:20:00Z
+    webUrl: "https://www.inferse.com/758516/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 30
   - title: "DataTrue launches privacy leak detection supported by Microsoft AI … – Microsoft"
     excerpt: "By Microsoft News Center The data auditing platform Datatrue announces today the launch of a patented data validation and personal"
     publishedDateTime: 2023-10-16T07:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2023/10/214226-fintech-carefull-s
 webUrl: "https://www.crowdfundinsider.com/2023/10/214226-fintech-carefull-secures-16-5m-to-scale-financial-safety-platform-for-older-adults/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,66 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
-    excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
-    publishedDateTime: 2023-10-13T20:51:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Chukwuemeka-Ujam.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Fintech founder says bottom line remains top priority for SMBs"
-    excerpt: "Mark Hartley, founder and CEO of Bankifi, pointed out that while these subjects may be important to megabanks and their multinational customers, they’re not as important to his smaller financial institution customers and their small to medium-sized business  (SMB) customers in turn. What this group cares about most, he said, is “getting paid.”"
-    publishedDateTime: 2023-10-12T15:37:00Z
-    webUrl: "https://www.finextra.com/the-long-read/824/fintech-founder-says-bottom-line-remains-top-priority-for-smbs"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/824.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Irish fintech Alt21 raises $21m to expand hedging platform"
-    excerpt: "The fintech said this business generated more than €8m in operating ... The company also plans to invest in AI and machine learning in the future to bolster its products. Pritesh Ruparel, the ALT21 CEO, said the company’s goal is to “make things ..."
-    publishedDateTime: 2023-10-13T08:41:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/alt21-assure-hedge-funding-series-a-fintech-hedging"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2023/10/ALT21-London-team.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "AI In Fintech Market Unleashes a 16.5% CAGR Surge to US$ 54 Billion"
-    excerpt: "The size of the worldwide AI in fintech market was estimated at US$ 10.1 billion in 2021 and is predicted to increase by 16.4% year over year to US$ 11.76 billion in 2022. Demand is anticipated to increase from 2022 to 2032 at a (CAGR) of 16."
-    publishedDateTime: 2023-10-16T05:57:00Z
-    webUrl: "https://www.fmiblog.com/2023/10/16/ai-in-fintech-market-unleashes-a-16-5-cagr-surge-to-us-54-billion/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 39
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/AI-In-Fintech-Market.jpg"
-        width: 1000
-        height: 663
-        isCached: true
 
 secured: "BOFOguLIkg2N+EVe9JVcSTAK04f7oVEeIvLkYQj5EIVNymzBXQclIaBZvCNP3cm/9MGllNN9PMc78KLh2WbBELpio4pbGIh2mZtoRWlukhDNi1wHQW9Ei785zJcfd2C5L2r0XE8lYylHUU9WhiLcxkXTpsbGU535fR577KU1/zRUoBnksrJA1Hh2uL/x6SuPiZipueTvCy+jp7NPlQ9umNTKRklVT8LBHXDUFf4XmCPsZoJ2YxS0tJ5sHHGxcoKlx5hLO9RhCZ1NUba+FhlWkXQwWg4kyo71jN/BnFbAucSSFs9Ku9c40VIeP9LKl2/IbJlZX8Xf+/B1LXfChMYXnTx98fvi3ZShqyW4qPpONVr0Q9lZaAAXaXSqslZ/zxEzOoPqOb3c6CIVD6bcgItD+bp6/AjGqNKXHFYeRAdMu6Fi7lzFja9sfAfAriepsInG8jJ71fJrFw/YS8JbT8NRlGBWgqGEp/35jNrtDeqUtLBy3F2+gkvcPLo0M05BfvetYH4yPOJHnAjeWdLjAOKcKQ==;D01yOewUhiFyIK+5N/bBsg=="
 ---

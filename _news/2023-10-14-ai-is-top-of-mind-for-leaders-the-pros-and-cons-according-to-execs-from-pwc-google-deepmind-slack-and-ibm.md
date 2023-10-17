@@ -9,8 +9,8 @@ ampWebUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Fortune
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind Looks at Ways to Make AI Training Less of a Power Drain"
-    excerpt: "Learn More DeepMind wants to trim the fat. Google's AI arm filed a patent application in recent months for a system to allocate computing resources... For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter."
-    publishedDateTime: 2023-10-12T16:01:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/750756/featured-daily-upside-image.png"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "co-founder of DeepMind AI"
     excerpt: "A comprehensive report recently undertook an extensive analysis of 100 American executives to recognise and rank their intelligence, aiming to identify the brightest minds in the business world."
     publishedDateTime: 2023-10-16T10:38:00Z

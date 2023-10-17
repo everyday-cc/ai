@@ -224,20 +224,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
-    excerpt: "When announcing his plan to hold a referendum in March, Mr Albanese said the Voice would enshrine \"recognition\" that Australians \"share this great island continent with the world's oldest continuous culture\". \"Our nation's birth certificate should ..."
-    publishedDateTime: 2023-10-12T15:44:00Z
-    webUrl: "https://www.aol.com/news/voice-referendum-australias-voice-parliament-150649043.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/0f9a98c041f5fc27109c8cb19dfb70e2"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Australians Vote on a Voice for First Nations Peoples"
     excerpt: "Although the referendum’s suggested change would be small, the campaign against it has grown on the back of misinformation, lies, and a deep well of racism. Supporters are preparing for it to fail."
     publishedDateTime: 2023-10-13T15:57:00Z

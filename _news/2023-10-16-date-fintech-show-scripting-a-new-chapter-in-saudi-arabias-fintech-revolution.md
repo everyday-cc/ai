@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Fintech chiefs raise AI regulatory fears in Parliament"
+    excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
+    publishedDateTime: 2023-10-17T08:27:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43132/fintech-chiefs-raise-ai-regulatory-fears-in-parliament"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/parliament.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Revolutionising Risk Management: The Impact Of AI And ML In The Financial Services Industry"
     excerpt: "Computing advancements and data aggregation have led to Industry 4.0, which changes the way we think, interact, and work. Technology affects every i"
     publishedDateTime: 2023-10-12T18:50:00Z
@@ -72,15 +86,6 @@ related:
         width: 421
         height: 250
         isCached: true
-  - title: "Fintech Partnerships Revolutionizing Loan Approvals: Visa Sets the Stage"
-    excerpt: "The future of financial services, including loan approvals, will be significantly shaped by AI technologies. This move is a leading indicator for other financial institutions exploring or already involved in partnerships with fintech companies."
-    publishedDateTime: 2023-10-12T15:20:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/fintech-partnerships-revolutionizing-loan-approvals-visa-sets-the-stage-81103"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 3
 
 secured: "sqWw5va/x/BFpQqUTlb56bozlcKm17YN7Ta6emPvpnG+lHIwHBxNac1QSnAr4aAgspvEzx2zkBQwMJVA4HitZZeZyrqnd7nPHTz2ydaBjVNTOvnKKCuZBctldp2R7ooAUlsGhZdubqNQM3+yPhhASv5vnRdGbvzsfJxV/TZK9Hu5wdap6JApptI+rITPDrvpUC7XfJFch2sRfsJYPpHVDpLdNNB8sNzAQMGEo3GWVCdaw+lZXeBgJHKp9IPczF2cTHUkZK60uR8k/yf8mXdUtiA/+SwlS3DQXX6khmjdVh0XrZkp2VL9H64Sj+G2gD+Brnw1jAX2xfk3xxChJPP/HxAsfhI/EQu8HXhB2rvCmWd27T+oD2pBOAFYwZLjtsxTIidsxT+8cr/8MP3iKliwy9vRtDntDXwXj3rG3HmL4+/2zLo10rxjOIZ216g3B46ztvW1NP/lNzN7CSki7xLBguzgSgKFRQ42gCs2ohDa/Q+klucOl+m3oAbChMfw5sLQk65OqWyT4ojVH3w3wZFs2w==;WIyuvkrp8wORHbs4MWPUJQ=="
 ---

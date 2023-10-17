@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Coming soon: AI-powered driverless police patrol cars in Dubai"
+    excerpt: "Dubai Police has unveiled a self-driving security patrol car that is designed for residential areas. The car is equipped with advanced cameras, artifi"
+    publishedDateTime: 2023-10-17T07:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/articleshow/104490987.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-104490987,width-1280,height-720,resizemode-4/104490987.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dubai announces self-driving taxi tests"
     excerpt: "Dubai’s RTA has started tests of self-driving taxis in Jumeirah 1. The Roads and Transport Authority (RTA) and Cruise, a self-driving technology company, began supervised testing of Chevrolet Bolt-based autonomous vehicles in Jumeirah 1 area of Dubai."
     publishedDateTime: 2023-10-12T20:26:00Z
@@ -75,6 +91,6 @@ related:
       domain: jerseyeveningpost.com
     quality: 19
 
-secured: "/OoZXrISpPvVBdoB5BiVLAOOt9uS/ea1yNwUOmhWsuFf3gdaY00eRxhVG3LRfdS8vq7sY/bprqvkjDQS/JIYPzyqhN8MOu3IFXTR92lpWCnhNPczwDR2oXnVkJvSu0ptkRYx5Or5mQQ3HslEhPHqF0toHCb8RUApZta8MPJwFjGEDx+E+Hjok8NITV/514XUAI6esgYmnt72ovA7Be9GqdO+8ecZ4kUm9KTsxd9Eph5/qnDYxfegy6NeXGsTmeeOKj68wbZG/99nX5ofGoywdXJdy5ILHH79MIIDSZf3uYn5l1A9TR05pbosxFInBCUpwFTEBfWd+sAruxafzHyk/qyaZfM53XSrc/ZNISTLUfo=;HilvuKEzR3+DTVQMa70EYw=="
+secured: "UKrmTmu+vLGEZU+08VmcIN4jI/RI4Dfsu+xmnLcx7NxI/vrQikMl9dXHyIwnYSclkB618eYqFDPUGfw/wZpNTKHlxf8iQFC+JGGsebHC4kTwn1uxsSCPik4Tz+fhBNO5LcUkQZ23HgBAikD9N989HZTQizPo1w9TleSUYBsSKJS2YA4Ys9zu6xxuWp7sjRU3bzcEhzbwLkWrdHg6pVHMB2uAdhfDdzh/ggYiKacOSf9MURvkHValnAwrxU5paTYKjjKuAgppd5XG3T8aBKm2uZaFeR5/xqK+tgKqYv8HYE++/LN68OTCLtGylqgmBj9l7vB6m5lNkgcOz4ML6vQZyWnjvBETt7xRW/dN2K0FqpvPXyAP1Kz68L63LuuHo1qLn8xNsPJ6nwrIpC0bj7rczJ1c/MXqhvstPYjvRiCdGPGSfs0CVvz3m1PKQk2fmzWFN3E6G52Kr0lxNYJmkA+LnTsKO2gTRMc2S5q8lgitGRcJuXgBCWWOSfqbXOoN8es4SoBxe3prjO3E6NJCTzyCGQ==;7CleSCkD/O+QUCH5hdK5Qg=="
 ---
 

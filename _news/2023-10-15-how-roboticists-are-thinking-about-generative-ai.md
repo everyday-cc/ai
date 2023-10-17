@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Here are some of the ways Apple might use generative AI"
+    excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."
+    publishedDateTime: 2023-10-13T12:58:00Z
+    webUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/11/gift-guide-for-fitness-enthusiasts-100868109-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Dumbing down or wising up: How will generative AI change the way we think?"
     excerpt: "But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking."
     publishedDateTime: 2023-10-13T15:31:00Z
@@ -74,6 +90,20 @@ related:
       name: Winsight Grocery Business
       domain: winsightgrocerybusiness.com
     quality: 49
+  - title: "How to Capitalize on Generative AI"
+    excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
+    publishedDateTime: 2023-10-16T16:00:00Z
+    webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23061_MYERS.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "H/ERw9KKeTKvNi6QFAVW97h2RmL7E7ljfkb/iadfRCJSLaEut5XRQy5AsbyQvMlmUWVuuzC9ITqR52ijG59aVYVMnnx3Hsp/izTikSiAcgBgzXrVE7eOBGeE9YJnfmycIb7IHcxqOzRPJKK4KRR30LNJwCt+tRGckZPnMJlGlDJZWYfVCmWIWPDON9Oycx4MD9Hwy11iEC34iWD8n1ST/2vWQPyBT8YrbUfbaJXyLz3d2KGg6BOWx+2asrSrhpP/pbYfWp2oTqXClCWJgsWgetqKg5yQSzB7e04zmW5qNysi+7AwZ5V0JpSz1dXsfkfWRGxcdeDq4dfRZwvwh26cEiAYRuZl21ZDjWmuZdBAbOE=;tScwTI8s0uJQ6GD0sxLWwg=="
 ---

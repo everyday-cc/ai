@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI could consume as much energy as Argentina annually by 2027"
-    excerpt: "AI-related electricity consumption could top 134 TWh annually by 2027, comparable to the annual consumption of Argentina or Sweden."
-    publishedDateTime: 2023-10-12T17:00:00Z
-    webUrl: "https://www.popsci.com/technology/ai-energy-use-study/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-energy-use-study/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-energy-use-study/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2023/10/12/Depositphotos_68505127_L.jpg?auto=webp"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "The AI Boom Could Use a Shocking Amount of Electricity"
     excerpt: "Powering artificial intelligence models takes a lot of energy. A new analysis demonstrates just how big the problem could become"
     publishedDateTime: 2023-10-13T11:11:00Z

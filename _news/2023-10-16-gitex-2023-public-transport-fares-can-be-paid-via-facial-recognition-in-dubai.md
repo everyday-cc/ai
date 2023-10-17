@@ -47,20 +47,6 @@ related:
         width: 369
         height: 250
         isCached: true
-  - title: "A self-driving super racing car unveiled at GITEX in Dubai"
-    excerpt: "The driverless Formula car runs on artificial intelligence algorithms and software will be doing its first trial at Yas Circuit in Abu Dhabi in April 2024."
-    publishedDateTime: 2023-10-16T15:01:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/10/16/a-self-driving-super-racing-car-unveiled-at-gitex-in-dubai"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/auto-race-uae.ashx?h=500&w=750&hash=DF409452C0FA6B0C951865D40DB100AD"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "KKLYyDK1Kz3cuzb0NaYAY/v03j++8NmAbFawRUMArKlq/8+DvY3kgIzvX5PHHov5loB1r1rU8Jn8RPgT9qXdq2s+TuiRyGcmp4GURTl2qqnrxG1DT/LIj0JJ0fPQkwFwzUz9vtrVIunVA8WnCN0AE727ZSTjBRMYQ7y7MIC26ULaZu5BKL2KUIDOW19gu2ZZJn7Hqaoo2efBtXd9KsgwU1L9VQabunfDcf4FMWOdULDNx1BVMIodr8BdxAephNRBOEqmz176HznDfOTm3g3BJdhkLfbh7GEiWhL/5Mz6bFRZ4l6J1XdcVKOJimKFMwJfqcHaXD7z121J7Ty86UEo7gow3Hsw+TbJ/njRnDpZnQ/wWTv+qPOhtznOSMh7vflg0qxzTDK+deItZIJOwHVuJsudgJKUyi9lKA7WtxUHuKHZ+LHDvZ2tHl31Xk5u6ojGvt16TdGFfJLMe5NM8p4kjx2KDBP6kpbFXpqLtqEITo2IapIykqVkECxHxK3pIO4V9/mHHcVNLZmMv7VWJ93dlw==;fVhYce5nFchmRKyOSfx5jQ=="
 ---

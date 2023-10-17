@@ -27,31 +27,48 @@ images:
     isCached: true
 
 related:
-  - title: "Addressing Ethical Issues in Integrating AI Systems: Expert Opinion of Intetics CEO and President"
-    excerpt: "In the new article, Intetics CEO and President examines the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and the conflicts that may arise from them are ..."
-    publishedDateTime: 2023-10-12T16:12:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35224314/addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35224314"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35224314"
+  - title: "Federated GPU Infrastructure for AI Workflows"
+    excerpt: "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service” model ..."
+    publishedDateTime: 2023-10-16T10:34:00Z
+    webUrl: "https://insidehpc.com/tag/ai-as-a-service/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023-1024x512.png"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
-    excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
-    publishedDateTime: 2023-10-12T21:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231012406923/en/BlastX-Consulting-Launches-the-BlastX-AI-Innovation-Center"
+  - title: "Pocket AI RTX A500 palm sized GPU accelerator"
+    excerpt: "The ADLINK Pocket AI, a portable GPU accelerator, is a unique device that is set to transform the way we work with artificial intelligence (AI). Powered by an NVIDIA RTX A500, this compact device is about the size of a pack of playing cards, making it a ..."
+    publishedDateTime: 2023-10-16T14:28:00Z
+    webUrl: "https://www.geeky-gadgets.com/portable-gpu-accelerator/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Pocket-AI-RTX-A500-2023.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "HIVE Digital Technologies is Building Green Infrastructure for the AI Revolution"
+    excerpt: "Kilic is the president and CEO of HIVE Digital Technologies Ltd., a Vancouver-based digital infrastructure firm. HIVE got its start in 2017 as HIVE Blockchain Technologies—the world’s first publicly traded cryptocurrency mining company, with listings on the Toronto Stock Exchange, Frankfurt Stock Exchange and Nasdaq."
+    publishedDateTime: 2023-10-16T17:17:00Z
+    webUrl: "https://www.bcbusiness.ca/HIVE-Digital-Technologies-is-Building-Green-Infrastructure-for-the-AI-Revolution"
+    type: article
+    provider:
+      name: BCBusiness
+      domain: bcbusiness.ca
+    quality: 34
+    images:
+      - url: "https://www.bcbusiness.ca/CDN/20/image/hive-digital-header.jpg"
+        width: 1282
+        height: 611
+        isCached: true
 
 secured: "R401BrHQSKiL93OxG25bOjRowMS5x9Lp6YcI8yvRmc6bUkf1hPwo4n9VeMot8XHL3tQY8rnU9Ceomx/oNNvDZtiJ1vNsFdt6sN+lPj3blFrVEjjW5c9iOSv+WK38ss5vOOWtCprdwGkq2Wdeuf6IsE0caiwWPyQDEXACrEBPrTisepN7tqpJ3y2GWwktMPV5x+1taMcE5UgD1wOzuMmB8R8XVRMpQv5DiMroVn45Z7YJPEq8k5KwxwK9b013MqHBreBOzw4mcJV+nxWgE1I1YvOKg89AdDbq0IncdpySxRMhnWGb7MBxDWPL5iN1x/27sXxRxjFSnoIzYIxGdtpJR4Gij7lrKIm7yriY3vBkZCzkB7i3QAe/wbVkBSByvGFrMK7Wtmh9A5XTHQs7CRTa/iJwqgrDHZDg77SK4YDpIpBzCKlYJ4Pt+8xs6qtQ0FrIWa1PvHir3lhm65zKrvNfdPI6RnvRVMocVpx+G0m9ru9eTOabze/o04M257yliBFKNfioEdOwnh04W5DJDUbvtA==;E08Bgos9huXDuk/yhmojKQ=="
 ---

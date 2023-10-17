@@ -42,6 +42,22 @@ related:
         width: 1600
         height: 800
         isCached: true
+  - title: "Generative AI and migrations to the public cloud"
+    excerpt: "GenAI can analyze application dependencies, network configurations, and security risks, but it will mostly help lazy companies that aren't doing this anyway."
+    publishedDateTime: 2023-10-13T09:05:00Z
+    webUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.html"
+    ampWebUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2016/01/thinkstockphotos-511283035-100638943-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
     excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
     publishedDateTime: 2023-10-14T21:13:00Z
@@ -69,6 +85,20 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/e0a17850b2b64fca883a454693dc8b08.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
+    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
+    publishedDateTime: 2023-10-17T04:51:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Researchers measure global consensus over the ethical use of AI"
     excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"

@@ -41,6 +41,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Fintech chiefs raise AI regulatory fears in Parliament"
+    excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
+    publishedDateTime: 2023-10-17T08:27:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43132/fintech-chiefs-raise-ai-regulatory-fears-in-parliament"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/parliament.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Revolutionising Risk Management: The Impact Of AI And ML In The Financial Services Industry"
     excerpt: "Computing advancements and data aggregation have led to Industry 4.0, which changes the way we think, interact, and work. Technology affects every i"
     publishedDateTime: 2023-10-12T18:50:00Z
@@ -64,15 +78,6 @@ related:
         width: 421
         height: 250
         isCached: true
-  - title: "Fintech Partnerships Revolutionizing Loan Approvals: Visa Sets the Stage"
-    excerpt: "The future of financial services, including loan approvals, will be significantly shaped by AI technologies. This move is a leading indicator for other financial institutions exploring or already involved in partnerships with fintech companies."
-    publishedDateTime: 2023-10-12T15:20:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/fintech-partnerships-revolutionizing-loan-approvals-visa-sets-the-stage-81103"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 3
   - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
     excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
     publishedDateTime: 2023-10-16T13:12:00Z

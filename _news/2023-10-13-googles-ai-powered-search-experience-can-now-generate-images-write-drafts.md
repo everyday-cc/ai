@@ -30,70 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "New ways to get inspired with generative AI in Search"
-    excerpt: "We’re testing new ways to get started on something you need to do — like creating an image that can bring an idea to life, or a written draft when you need a starting po…"
-    publishedDateTime: 2023-10-12T16:00:00Z
-    webUrl: "https://blog.google/products/search/google-search-generative-ai-october-update/"
-    ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-october-update/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Hero_Image_Nb4hNLE.width-1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "Our responsible approach to building guardrails for generative AI"
-    excerpt: "We’re sharing some of the ways we’re building guardrails for generative AI."
-    publishedDateTime: 2023-10-12T16:00:00Z
-    webUrl: "https://blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/"
-    ampWebUrl: "https://blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/our-responsible-approach-to-building-guardrails-for-generative-ai/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
-        width: 1000
-        height: 1000
-        isCached: true
-  - title: "Generative AI and migrations to the public cloud"
-    excerpt: "GenAI can analyze application dependencies, network configurations, and security risks, but it will mostly help lazy companies that aren't doing this anyway."
-    publishedDateTime: 2023-10-13T09:05:00Z
-    webUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.html"
-    ampWebUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.techhive.com/images/article/2016/01/thinkstockphotos-511283035-100638943-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "What Generative AI Can Mean For Enterprises"
-    excerpt: "In order for these outcomes to be achieved, however, GenAI will need to evolve with more standardization, safety, bias mitigation, security, economy and governance. Once it does, GenAI plays a more active role in governing enterprise GenAI through continuous learning of policies, spending and governing patterns."
-    publishedDateTime: 2023-10-13T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/1180038568/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AI Or Not? How To Detect If An Image Is AI-Generated"
     excerpt: "Discover the telltale signs that reveal whether an image has been created by AI or whether it's a genuine photograph"
     publishedDateTime: 2023-10-14T10:01:00Z
@@ -110,68 +46,36 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Adobe Shares Rising On New Generative AI Services"
-    excerpt: "Adobe plans to share with analysts how much Generative AI will expand its TAM at its next analyst meeting, Chakravarthy said."
-    publishedDateTime: 2023-10-14T17:11:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6526d079a8afc579c64e54c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Generative AI spending to reach $143 billion in 2027, says IDC"
-    excerpt: "The forecasted growth of generative AI investments is more than twice the growth rate in overall AI spending and 13 times greater than the CAGR for worldwide IT spending over the same period, according to IDC."
-    publishedDateTime: 2023-10-16T17:38:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/"
+  - title: "Google finally adds AI text-to-image generation, but it's not where you think"
+    excerpt: "Although Google is not new to AI image generation, announcing its own Imagen text-to-image model as early as March 2022, it has yet to release an image-generator to the public -- until now."
+    publishedDateTime: 2023-10-13T16:27:00Z
+    webUrl: "https://www.zdnet.com/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-finally-adds-ai-text-to-image-generation-but-its-not-where-you-think/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 84
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d1bba84c8b787a0280e54344fc26e3fde14fa950/2023/10/16/4b345a15-0f92-47bb-9747-c066f61c3e35/gettyimages-1466480060.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/120b3978ed55499a5a10827d5f9f87a08f6ff836/2023/10/13/c7129b29-4f66-4724-bba8-512efdf39f76/gettyimages-1406057094.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Generative AI could help low code evolve into no code - but with a twist"
-    excerpt: "Generative AI tools can handle many low-level tasks, but professionals need to be careful how they use the technology for coding."
-    publishedDateTime: 2023-10-13T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-could-help-low-code-evolve-into-no-code-but-with-a-twist/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-could-help-low-code-evolve-into-no-code-but-with-a-twist/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-could-help-low-code-evolve-into-no-code-but-with-a-twist/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/39793e76a3a7acf1a8064110167245799e9fb6a6/2023/09/21/5e523a3e-501b-47ba-99ea-b6c8b4829bfd/gettyimages-1412645344.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
-    excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
-    publishedDateTime: 2023-10-13T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+  - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
+    excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
+    publishedDateTime: 2023-10-16T17:45:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f846bb05c4c0b7790b99b3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1348
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652d75e99e2bb23a6a7baa43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
   - title: "Google adds AI image generation to Search — but there’s a catch"
@@ -188,105 +92,34 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
-    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
-    publishedDateTime: 2023-10-16T23:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
+  - title: "Google now lets you generate AI images by searching – here’s how to do it"
+    excerpt: "Google added two new features to its Search Generative Experience today, one of which allows users to create AI images on the fly."
+    publishedDateTime: 2023-10-12T22:48:00Z
+    webUrl: "https://bgr.com/tech/google-now-lets-you-generate-ai-images-by-searching-heres-how-to-do-it/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: BGR
+      domain: bgr.com
+    quality: 38
     images:
-      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
-        width: 400
-        height: 225
+      - url: "https://bgr.com/wp-content/uploads/2023/10/Google-SGE.jpg?quality=82&strip=all"
+        width: 1790
+        height: 968
         isCached: true
-  - title: "Here are some of the ways Apple might use generative AI"
-    excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."
-    publishedDateTime: 2023-10-13T12:58:00Z
-    webUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+  - title: "The Path to AI Arms Control"
+    excerpt: "Will AI undermine nations’ monopoly on the means of mass violence? Will AI enable individuals or small groups to produce viruses capable of killing on a scale that was previously the preserve of great powers?"
+    publishedDateTime: 2023-10-13T04:42:00Z
+    webUrl: "https://www.foreignaffairs.com/united-states/path-ai-arms-control"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/11/gift-guide-for-fitness-enthusiasts-100868109-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "China Targets Generative AI Data Security With Fresh Regulatory Proposals"
-    excerpt: "Data security is paramount, especially in fields as influential as artificial intelligence (AI). Recognizing this, China has put forth new draft regulations, a move that underscores the criticality of data security in AI model training processes."
-    publishedDateTime: 2023-10-13T11:59:00Z
-    webUrl: "https://www.unite.ai/china-targets-generative-ai-data-security-with-fresh-regulatory-proposals/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 55
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/Alex_Mc_map_of_china_and_red_neural_networks_5651cf4b-4433-474e-8c0b-41f3cfc554a1-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Google promises to back generative AI users against copyright claims"
-    excerpt: "Let's say you're a graphic designer and decide to use Duet AI to generate images when you're creating an eye-catching presentation for a client. Later on, an illustrator claims one of the images on the slide is eerily similar to one they've created and ..."
-    publishedDateTime: 2023-10-13T18:58:00Z
-    webUrl: "https://www.zdnet.com/article/google-promises-to-back-generative-ai-users-against-copyright-claims/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
-  - title: "Adobe's new generative AI tool is a game-changer for video editing"
-    excerpt: "Adobe's editing applications, such as Photoshop, Lightroom, and Premiere, have been the cornerstone of many creatives' everyday workflows. Since the rise of generative AI, Adobe has been developing ways to optimize those workflows, and this one will be a huge help for video editors."
-    publishedDateTime: 2023-10-13T18:55:00Z
-    webUrl: "https://www.zdnet.com/article/adobes-new-generative-ai-tool-is-a-game-changer-for-video-editing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
-  - title: "How to Capitalize on Generative AI"
-    excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
-    publishedDateTime: 2023-10-16T16:00:00Z
-    webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
+      name: Foreign Affairs
+      domain: foreignaffairs.com
     quality: 37
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23061_MYERS.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
-  - title: "Regulation hasn’t caught up to generative AI"
-    excerpt: "AI-based compliance review (50%), AI-based anomaly detection ... senior sales manager of housing finance at Amazon Web Services, said. “How do I start using it with other data sources we have? That is where the true value is in competitive advantage ..."
-    publishedDateTime: 2023-10-16T23:27:00Z
-    webUrl: "https://www.housingwire.com/articles/regulation-hasnt-caught-up-to-generative-ai/"
-    type: article
-    provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 37
-    images:
-      - url: "https://www.housingwire.com/wp-content/uploads/2022/10/Digi-House-e1693233806805.jpeg"
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/RTSL4MO6.JPG?itok=AsEJKXqd"
         width: 1200
-        height: 700
+        height: 630
         isCached: true
-  - title: "Your Generative AI strategy could use a startup’s touch"
-    excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
-    publishedDateTime: 2023-10-12T19:29:00Z
-    webUrl: "https://www.cio.com/article/655535/your-generative-ai-strategy-could-use-a-startups-touch.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
 
 secured: "60D1orV8887dkV/zNLRWP9mt3K4UloO8vfsRPm6Pb/XET2/PjUrY0FN2Xmlq5AeeP5wpSq1ipEa9IlTUBoTlhrAEt0zT8giyyhqhOJIRnZUJUUcfCXWxj3hzHQWO78/QL2B0/eZ/r6ESAC43QYW1pu2on0vJySHZkGYPabfI8cfOlRLhcHxYBxOxzxu5+lIkUfOcS/UtdOQKujZ/orNU5xiOc5l1ATWcmv8et+sxFz3NiGbcKozNGfYDJoBCSUGlejsBSwl2e0hGbFqIctcjkInYCYj98a0CDFLRcLzlqkacSXhpWFC9BmBSGHdhxhcdQkWS075zmI60Q7tBMiRYNueq3yN86dwyR7BPZKzaYfTGbEp8l04L/+LBFPGdu4j/C71/KJtcTRyzCWzBM9dAgP8fkTkdXCucYTsqbShzG2FXvfxAs3KWay6xV2ga4Uq0dc4hYN+i+O/+DxvjAivP3ocyZsWRqZTFl1EpQ1Hv347Aes+vptOSSNQ4YHm07CfRN1mSYPhs6+I1prZPSkYwdQ==;l0V8cnxfHgjHwzwvmuk1Gw=="
 ---

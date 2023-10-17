@@ -252,6 +252,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
+  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
+    excerpt: "By Chris Barry, Microsoft Canada PresidentMore than one billion people worldwide live with a disability – this includes over 6.2 million"
+    publishedDateTime: 2023-10-17T03:20:00Z
+    webUrl: "https://www.inferse.com/758516/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 30
   - title: "Microsoft and Epic expand AI collaboration to accelerate generative … – Microsoft"
     excerpt: "Eric Boyd, Corporate Vice President, AI Platform, Microsoft Today, the promise of technology to help us solve some of the biggest challenges we"
     publishedDateTime: 2023-10-16T16:11:00Z

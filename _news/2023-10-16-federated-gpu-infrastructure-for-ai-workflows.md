@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/tag/ai-as-a-service/"
 webUrl: "https://insidehpc.com/tag/ai-as-a-service/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Pocket-AI-RTX-A500-2023.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "AI model training rekindles interest in on-premises infrastructure"
+    excerpt: "AI is remaking the server market. Dell’Oro Group Inc. predicts that by 2027, half of server sales will be accelerated models connected by data center-scale fabrics needed for training and inferencing. “We’re moving toward more high-density GPU ..."
+    publishedDateTime: 2023-10-17T00:31:00Z
+    webUrl: "https://siliconangle.com/2023/10/16/ai-model-training-rekindles-interest-premises-infrastructure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/1.png"
+        width: 1080
+        height: 1080
         isCached: true
   - title: "HIVE Digital Technologies is Building Green Infrastructure for the AI Revolution"
     excerpt: "Kilic is the president and CEO of HIVE Digital Technologies Ltd., a Vancouver-based digital infrastructure firm. HIVE got its start in 2017 as HIVE Blockchain Technologies—the world’s first publicly traded cryptocurrency mining company, with listings on the Toronto Stock Exchange, Frankfurt Stock Exchange and Nasdaq."

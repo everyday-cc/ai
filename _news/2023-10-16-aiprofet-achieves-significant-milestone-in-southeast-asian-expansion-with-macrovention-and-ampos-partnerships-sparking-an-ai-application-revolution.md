@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
+    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
+    publishedDateTime: 2023-10-17T09:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Kh6FWQc0DQbN5k+0oS3BpOUTWxU0U0dN5K9G8lLECq9R6W6Le4djHgbVbPIll51lRGBOQtVWqbjpnyIFSXHfG8+bR4N3Hy0qj2B2nBGWMTonqRjYPV6Nb+sFTfFrf7ndRGIydpKXgMi2XwTmG34G1/INH0AwthaWhkWk2ZUu9BOllVqYLpCx6nTI6YM7hmWwF7wW28osn4nso4xbTaJJ9LrFdTcmgEIO7suBp3swrWT+f/pV6GmLkDG25T7v1gpQpAWAW/fwVd2hBiT8tYiLWAta3BsboBYJluUcdFRC5cELF64mz9cJdIkMFFTHxcAyTZ5mtIyIVPKWmiTnOkb2nb8haY903byATVTQ0cUiyBk=;+0IhQU1+cpAmArQOpo6hbw=="
 ---

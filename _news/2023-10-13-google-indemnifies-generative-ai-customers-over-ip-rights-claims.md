@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3708631/google-indemnifies-generat
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708631/google-indemnifies-generative-ai-customers-over-ip-rights-claims.amp.html"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Google promises to back generative AI users against copyright claims"
+    excerpt: "Let's say you're a graphic designer and decide to use Duet AI to generate images when you're creating an eye-catching presentation for a client. Later on, an illustrator claims one of the images on the slide is eerily similar to one they've created and ..."
+    publishedDateTime: 2023-10-13T18:58:00Z
+    webUrl: "https://www.zdnet.com/article/google-promises-to-back-generative-ai-users-against-copyright-claims/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "voyOkAmUd4OPbp8t3WNC2+LSMQEEfsklJnGbXEyqSan2CV5koIV0Tz+9xfODANRzRURQNz0hZmxUgbvstgJQUzibAln5UCI0rNRhq5xH1pbbg2ygQcbcyAph6I3j4W8/2nCJNjO0f+QpaT80+WuZkmbXDI5X8nQd/VJotnxMsZMeMgbY2jEZJOPlQ4FCprzbQq1fsCsy9TCUAUGfi3SCK932s0NI4N9Vw3fIqOlrYsS4im0OYHR4ldBm2mViuAaHsU9K8YQR12xAowxH6dYZavI8cEYxNGzLWZ5Mh0iKOB0EkTbJMOBgqsX+NcSKHj0oNHBQUNAlPfV+KqDrxDtrQz3WUpe40bLtTxcx0J655X6Ehe65pc75ZCoJYH153uusmXhEaoEuaVngKHgll5sFa+XkB7xQxuqUBsAuaXf45IPv8GSiOaMQhqIr4X9KbfRjEmlh2ubU9x1XHYOzdiYGQPKNb2mAILY+gjO99OO9qPVsQcufYo3B1HscMD7Ebuu5hgmSr4aMC8U8TeVgba6kQQ==;8JZJzGA3uaGHcHYMSJNzGw=="
 ---

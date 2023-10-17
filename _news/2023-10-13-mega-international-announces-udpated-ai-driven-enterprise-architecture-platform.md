@@ -24,22 +24,6 @@ images:
     height: 270
     isCached: true
 
-related:
-  - title: "MEGA International announces release of HOPEX Aquila"
-    excerpt: "HOPEX Aquila includes the launch of the new HOPEX AI Assistant, a conversational chatbot created on OpenAI LLM model, securely deployed on Azure, and trained with user and"
-    publishedDateTime: 2023-10-12T16:18:00Z
-    webUrl: "https://www.securityinfowatch.com/cybersecurity/press-release/53075022/mega-international-announces-release-of-hopex-aquila"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 24
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2023/10/Picture2.65281891b6907.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "m9Qc1viWogsSNeRQ2FbDQshqyu4hxgeCnmf8yV8u5goOZkiTex1J4KWMIOwxYfLRw3174ziIaRS5uXuGGvSR8SJIyzpBNYmD0awOCep+SL4hSHQpEidS7yfSXFORTb+CDWDGZDWOmvKU9cQNQTNNohPGJNYLPsIhG31ivGiBiu12xK2A4Eytp7OGjuzOS5fuEzKwxNz6gOHYpuVeR8lO+JwBnYFbqqbM4czOAcFLFm0ZJ0CML7J5PQ9+rMQquuHrfdmh+gBkqAKL4ZkYsupR5ABCmCrnIN660ZqGkcoJjV3or/bFVBl76KMeImYsQ8vSitvMu/s3j64RmaPi4QC6FT6tYE+GfTpAZ3xzJ6SXq2BE16/aPkrdBd5CVrgVmvAHdKN9al+bQhZCb3oxdXT2JPZBCunfWfmxUaPjvMYjTZ2HJuv4k+maNfmDyh7IdJtJxD7X2PkROgyeUWV9DmDgqhiVriscRwppA80RpZDXHZqEfBcFf95aQabXMI8uR8/UkzmpGUT28a6JjyXxMvsrkQ==;Jw+pYJ/uxB/HpyYIXRYNUw=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 714
         isCached: true
+  - title: "Here are some of the ways Apple might use generative AI"
+    excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."
+    publishedDateTime: 2023-10-13T12:58:00Z
+    webUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/11/gift-guide-for-fitness-enthusiasts-100868109-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI and Robotics Revolutionizing Recycling"
     excerpt: "The combination of artificial intelligence (AI) and robotics is making the recycling business much more profitable and practical than ever."
     publishedDateTime: 2023-10-12T17:51:00Z
@@ -69,6 +85,20 @@ related:
       name: Winsight Grocery Business
       domain: winsightgrocerybusiness.com
     quality: 49
+  - title: "How to Capitalize on Generative AI"
+    excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
+    publishedDateTime: 2023-10-16T16:00:00Z
+    webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23061_MYERS.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "t2ZAwXkqzgdNmGpN1+n53FyjdNO/wVxRO3AdBaYQqZUs3MqTYMNdTzp/5pRCLgI40h3pbJParg0H8TNk0bXFe7eQEEwqeqho1P+xYyDyhRwt3yEXQEbj3KtR/cv/abHGPvPC0OV7MJGyL/V5qQtqXWqiS2cqNlO2/3vBsVfYqGs3GaGF2CJ4ZgrabrcOrSWikF8RH5LXjfZZn3BZfE6G4x9z8VPxMqiijU9yHPe8QLYs1gAdrlMO1lZCA/SY+5v0upKQeUR4APMtwJ04vtI4//2LQWrXQPxwZfWc7f34Y1X4JHSoud2YDqExaZJHQaWKVBPNdfgeC02YmriT0PVzQHFGSOSwmANhMspVxjQHI/c=;v1znCkWdE4PvEeTBX84tOA=="
 ---
