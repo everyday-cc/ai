@@ -108,20 +108,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
-    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
-    publishedDateTime: 2023-10-14T21:13:00Z
-    webUrl: "https://thethaiger.com/ph/news/555161/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 72
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "How to Launch a Game-Changing Artificial Intelligence Pilot"
     excerpt: "Agencies looking to launch an AI pilot need to think strategically about the various use cases that would benefit their organization. CDW offers what it calls exploration services, bringing in a digital strategist and technical expert to identify the different personas that interact internally and externally with a particular agency."
     publishedDateTime: 2023-10-13T20:47:00Z
@@ -180,15 +166,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
 
 secured: "35g+DZPYRvKx1VpEI9GtPIM5TGFDxW9NJo4omI5JusxQJnO1Q+0vVfI3HPfH9muO4H6q6ILjO+bP07MJcQGfw6qIiWg9SN+Bb0yR5dAnjvyMWT5tBKjXprNdaVrW25VK+7mpnfPXgOf5/2kulscc/TnKYAj0901yeYbzb58hfTC8dHYpeE8fYm5nVlAlnDLjpf8JRLsKAaBgd8qLEDulBueKZ+vnv3U8hy5o8o/NB7s4Rv4bmq6X4q3jjmKp4bGuq9+860POzlZH+H1FoH+LkJfVJl37aTI1klIrIelJSbngCLilYamtusZH5K5O34PtuV/U54heS21geVdN/7I3V4ja4/K/iEu3Md6PlT2w66W4wSOEcvEarzDoKPhfN96MUVY4Cw0FUc5jkGVBR/4ZT2d2ez62aApdfkwZDluNmMiweIDywATo8O3nEiB4e+vPYT1GPMzWDbiIQ/ecZ5fNqZ/2DD2A0wO3vC7Ok2Cl5oCaomlCTpleDFMshBOBBen/ZP40kP5Q4kiEsULztNqHOg==;2U9S3SU+YBZtAfhMrJ0pkA=="
 ---

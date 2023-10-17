@@ -55,6 +55,15 @@ related:
         width: 1233
         height: 850
         isCached: true
+  - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
+    excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
+    publishedDateTime: 2023-10-12T18:08:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/5-tips-to-help-business-leaders-make-sense-of-the-ai/463286"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
   - title: "How Small and Medium-Sized Businesses Can Thrive in the Digital Age Using AI"
     excerpt: "What if we told you that AI is also effectively transforming small and medium-sized enterprises in this digital age?"
     publishedDateTime: 2023-10-16T15:04:00Z

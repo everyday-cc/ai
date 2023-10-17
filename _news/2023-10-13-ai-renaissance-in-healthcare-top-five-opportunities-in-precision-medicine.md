@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaiss
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
 type: article
 quality: 102
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sharp Healthcare creates AI assistant"
+    excerpt: "Sharp Healthcare, based in San Diego, has created its own AI assistant, SharpAI, to support operational staff."
+    publishedDateTime: 2023-10-16T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Unlocking AI’s Potential in Healthcare"
     excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
     publishedDateTime: 2023-10-13T14:35:00Z

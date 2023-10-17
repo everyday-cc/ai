@@ -66,6 +66,15 @@ related:
         width: 1233
         height: 850
         isCached: true
+  - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
+    excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
+    publishedDateTime: 2023-10-12T18:08:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/5-tips-to-help-business-leaders-make-sense-of-the-ai/463286"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 51
   - title: "Will AI reinvent the real estate business?"
     excerpt: "Join The Real Deal for TRD.AI, the only event bringing together real estate and artificial intelligence, in Miami on Nov. 10."
     publishedDateTime: 2023-10-13T14:30:00Z

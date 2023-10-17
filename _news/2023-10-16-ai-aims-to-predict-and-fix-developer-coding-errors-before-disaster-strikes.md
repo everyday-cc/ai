@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: ZDNet
@@ -30,77 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding the different types and kinds of Artificial Intelligence"
-    excerpt: "Early iterations of the AI applications we interact with most today were built on traditional machine learning models. These models rely on learning algorithms that are developed and maintained by data scientists. In other words, traditional machine learning models need human intervention to process"
-    publishedDateTime: 2023-10-12T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/10/Understanding-the-different-types-and-kinds-of-Artificial-Intelligence.png"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "Navigating Ethical AI And The Future Of Automation"
-    excerpt: "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles."
-    publishedDateTime: 2023-10-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+  - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
+    excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
+    publishedDateTime: 2023-10-16T17:45:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 83
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65281e618a11dedf60f87672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652d75e99e2bb23a6a7baa43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
-        height: 800
+        height: 900
         isCached: true
-  - title: "The ABCD of AI: Automation, big data, computer vision and deep learning"
-    excerpt: "Artificial intelligence (AI) is a revolution that is changing how individuals live and work; it’s not just a technological development. There are fundamental building blocks for AI that outline ..."
-    publishedDateTime: 2023-10-13T03:41:00Z
-    webUrl: "https://cointelegraph.com/learn/ai-automation-big-data-computer-vision-deep-learning"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 71
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/e0a17850b2b64fca883a454693dc8b08.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
-    excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
-    publishedDateTime: 2023-10-12T18:08:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/5-tips-to-help-business-leaders-make-sense-of-the-ai/463286"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
-  - title: "BlastX Consulting Launches the BlastX AI Innovation Center"
-    excerpt: "BlastX Consulting today announced the creation of the BlastX AI Innovation Center, an initiative where internal experts are teaming up with external partners to convert AI-enabled technologies into real-world customer experience (CX) value and impact."
-    publishedDateTime: 2023-10-12T21:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231012406923/en/BlastX-Consulting-Launches-the-BlastX-AI-Innovation-Center"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-  - title: "From ancient Jewish texts to androids to AI, a just-right sequence of numbers or letters turns matter into meaning"
-    excerpt: "Integral to Kabbalah is the notion that Hebrew letters are the building blocks of the cosmos. According to mystical interpretations of the creation story in the Book of Genesis, God brought the world into being by creating the alphabet, then assembled the earth and sky by recombining letters."
-    publishedDateTime: 2023-10-13T17:03:00Z
-    webUrl: "https://www.chron.com/news/article/from-ancient-jewish-texts-to-androids-to-ai-a-18423870.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 0
 
 secured: "wosIrJ9tnjcpo8HSow7bEorEjhoAEMScFIoEVi/KY45Oww/tldNbEWORuYWQUUKV4y12A/Qex+sTrkyt48hvC1mIgRF0Kxw3k766hXABYa3ExD1/i5aUHpdx8+/CMPdvbkbZU2NfgLi+o1VkRq2x0Vn5KAXeUflqEVxqkEMhS8b6E08dPoysSQd9SCYiGyQ7qucF4pq9eSKZclJ9+bLSt/KAZ0RbojYiFvQSUne7k1YIdzXkMC7EUzY2vMyP7tb8P7C3bP+LSLs1qtWxAPhSfeoHe+VJh1ubAuXVwi6oswqgl1eMgURKEMKU6wCaZDVkS20JlsvW+NLbtcTvEVwhg7OBgSHfaOxrmVadxsxQjhw=;v2VZDElVjvDptEa0G2ePQw=="
 ---

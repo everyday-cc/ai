@@ -69,6 +69,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Security Must Empower AI Developers Now"
+    excerpt: "Enterprises need to create a secure structure for tracking, assessing, and monitoring their growing stable of AI business apps."
+    publishedDateTime: 2023-10-16T23:52:00Z
+    webUrl: "https://www.darkreading.com/edge/security-must-empower-ai-developers-now"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt424a3e3a22da2f74/652da2afd37ee545f3a727a5/inventory-Kittipong_Jirasukhanont-alamy.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Cyber AI Dilemma—And What It Means For The Cybersecurity Industry"
     excerpt: "As we can see, AI significantly impacts cybersecurity—in ways both good and bad. It is our role as cyber leaders to make sure that new technologies are implemented quickly and leveraged to prevent more sophisticated cyber attacks from happening."
     publishedDateTime: 2023-10-16T12:45:00Z

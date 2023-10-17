@@ -41,6 +41,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Sharp Healthcare creates AI assistant"
+    excerpt: "Sharp Healthcare, based in San Diego, has created its own AI assistant, SharpAI, to support operational staff."
+    publishedDateTime: 2023-10-16T21:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Top 3 generative AI uses, per healthcare CIOs"
     excerpt: "Explore the results of a survey of IT leaders on the adoption of generative AI in healthcare. Learn why healthcare is embracing the technology slower than other industries."
     publishedDateTime: 2023-10-16T14:48:00Z

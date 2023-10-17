@@ -1,0 +1,94 @@
+---
+category: news
+title: "Sharp Healthcare creates AI assistant"
+excerpt: "Sharp Healthcare, based in San Diego, has created its own AI assistant, SharpAI, to support operational staff."
+publishedDateTime: 2023-10-16T21:34:00Z
+originalUrl: "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html"
+webUrl: "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html"
+type: article
+quality: 56
+heat: -1
+published: false
+
+provider:
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
+
+topics:
+  - AI in Healthcare
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+    width: 800
+    height: 600
+    isCached: true
+
+related:
+  - title: "AI Renaissance In Healthcare: Top Five Opportunities In Precision Medicine"
+    excerpt: "As data democratization and technological convergence continue, we're set to experience a healthcare renaissance where patient-centricity and proactive intervention will be the norm. Here are some of the most promising use cases where generative AI could help deliver the promise of precision medicine."
+    publishedDateTime: 2023-10-13T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 102
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6515e926f782f3662889eec0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Unlocking AI’s Potential in Healthcare"
+    excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
+    publishedDateTime: 2023-10-13T14:35:00Z
+    webUrl: "https://www.unite.ai/unlocking-ai-potential-in-healthcare/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/knowledge-ai-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
+  - title: "Top 3 generative AI uses, per healthcare CIOs"
+    excerpt: "Explore the results of a survey of IT leaders on the adoption of generative AI in healthcare. Learn why healthcare is embracing the technology slower than other industries."
+    publishedDateTime: 2023-10-16T14:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/top-3-generative-ai-uses-per-healthcare-cios.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Carta Healthcare survey results indicate that education around AI may improve consumer trust"
+    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Carta Healthcare®, a company whose mission is to improve patient care by harnessing the value of clinical data, today announced the results of a survey measuring American perception and trust of artificial intelligence (AI ..."
+    publishedDateTime: 2023-10-12T13:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231012647360/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 40
+  - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
+    excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
+    publishedDateTime: 2023-10-14T13:06:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 28
+
+secured: "PPDa8vQjbbNIG0TFoM5wZsCijeQUHbiRC/F/eDA1TtMRiFM7KyfK3PscNwZpmKuOLwc05fxVi+1kRCLS0Xk6sFWMBFL8KbtOSkhKd0pknKztJhGd6VIsdCc1sHRBizn7rLGZJ2YHhEFmEH3Gwo4+GECPJ6BBGuS0iBOQ7L+SuPHjs3aVcGQp0yUqxcfaJVUKBoWU9tPDv6wEcMc042yiy99f+GUttuM3z9udiadxPMXzokZBXt1r3r0pHETGlwqRj7JewPfh8QggPdssvNK6wlHlmUVrTlJZqqUthkIY6ve2xE8M2e3GNL3cF/0jF3hImqI+kqFh7thqMStXLdF3dE9EvXNUDqLtZKpPwB8fnAg=;5xMWaxU2brB9Vnzdly4R+w=="
+---
+

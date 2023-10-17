@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 296
+heat: 306
 published: true
 
 provider:
@@ -212,6 +212,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 45
+  - title: "AI Explained – Stories – Microsoft"
+    excerpt: "Microsoft News Center AI basics Large AI Models Researchers at Microsoft and elsewhere are making progress on developing large AI systems that"
+    publishedDateTime: 2023-10-16T21:54:00Z
+    webUrl: "https://www.inferse.com/758099/ai-explained-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 34
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
     publishedDateTime: 2023-10-15T21:18:00Z

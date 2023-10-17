@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Nokē Migrates to AWS to Enhance Cloud-Based, Digital Customer Experience"
-excerpt: "Janus International's Nokē is Now Powered by Amazon Web Services Janus International Group, Inc (NYSE:JBI) (\"Janus\"), a leading provider of cutting-edge access control technologies and building produc"
-publishedDateTime: 2023-10-11T14:32:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/23/10/b35195176/nok-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience"
-webUrl: "https://www.benzinga.com/pressreleases/23/10/b35195176/nok-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience"
-ampWebUrl: "https://www.benzinga.com/amp/content/35195176"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35195176"
+title: "Noke Migrates to AWS to Enhance Cloud-Based, Digital Customer Experience"
+excerpt: "Janus International Group, Inc (NYSE: JBI) (\"Janus\"), a leading provider of cutting-edge access control technologies and building product solutions for the self-storage, commercial, and industrial sectors,"
+publishedDateTime: 2023-10-11T14:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/11/9896964.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-    width: 1043
-    height: 1043
-    isCached: true
-
-secured: "trvlRRels9DUVIgXLldXbFpFFkZj6m24uLmYXnb8WjtgMcGKDl65q5GY3mv09xpnbCK+hlEegF7KeMhMEMqBr1pJqVM/HaVrdGQtOccslZ57naTOz/EdmHMAK1Kd1n3whkB7KgPX25sxTKZmLQFbYYKtTxFBbV6j9WC/wXK+QU11FghVeUrBXGZIVmjFzjlUGIMMxuGZXmLoAG9gHxExoVpzrFChJicaskapU6VYYvTDNzne6gFraDKVkMqDMMgBFALEwLX5vrh9QkJL81drnY567SURk16Y0vvf9cLDBlDeQd7oog9FswAIdJuSDAvDeLp7my5KjrOOQGASD7wiLOVsk9T4PLjsEJyybgALWnE=;6og72sWOnG9zsIg5qv69cQ=="
+secured: "EeEvt+wiGRcxya/aqJ40D0DFlh3ZVPK7zxEoPGiyju/8XuxFIvDofNgEnoks5f2LP7/vTGP9noJsiL/3C0efAAFwXWoonNgfyCgOMmKLiTjR9bqVK/OuQQIuij+HLrarb7V+dClLcpotvwVYLB6X/F8jgZ+LLdB3TckcRx++ZAlrACN6ZtOYFXyJ7Jgi7hWZesiOaU7iTBilyQhXzdxPTkmiYP3hOVfgPZCtp0hs/yy3/gDtcywJmoaeiCaMFj8S/z9xiw1/gXORsq6x7B1BWwnRx4hEj5unqqE36WtNLhfXpsEFWpR1Rc/3KbUMq9GRDq9Zld7q8pxLdD2U7lzaoUv92eRHxiTK0BZH/WHhkYo=;4Gq0DMhmlJIRHG9gSvUmyw=="
 ---
 

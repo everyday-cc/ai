@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/search/google-search-generative-ai-octo
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-generative-ai-october-update/amp/"
 type: article
 quality: 109
-heat: 319
+heat: 309
 published: true
 
 provider:
@@ -304,15 +304,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "3 critical considerations for generative AI on campus"
-    excerpt: "Generative AI on campus was everywhere at EDUCAUSE--and with it, concerns about its place in classrooms and university processes."
-    publishedDateTime: 2023-10-12T09:00:00Z
-    webUrl: "https://www.ecampusnews.com/teaching-learning/2023/10/12/critical-considerations-generative-ai-campus/"
-    type: article
-    provider:
-      name: ecampusnews.com
-      domain: ecampusnews.com
-    quality: 19
   - title: "Your Generative AI strategy could use a startup’s touch"
     excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
     publishedDateTime: 2023-10-12T19:29:00Z

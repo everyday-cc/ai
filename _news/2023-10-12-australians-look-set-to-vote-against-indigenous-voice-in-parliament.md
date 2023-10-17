@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/12/australians-l
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/12/australians-look-set-to-vote-against-indigenous-voice-in-parliament"
 type: article
 quality: 59
-heat: 479
+heat: 469
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
         width: 1024
         height: 800
-        isCached: true
-  - title: "The Voice: Why Australia trails New Zealand on Indigenous journey"
-    excerpt: "Standing there reading the panels, Debbie May, 65, turned to her friend Wan, a 25-year-old Chinese immigrant to New Zealand, and explained that neighbouring Australia had a referendum on Indigenous people coming up, called the Voice."
-    publishedDateTime: 2023-10-12T07:54:00Z
-    webUrl: "https://www.aol.com/voice-why-australia-trails-zealand-145945223.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/5ebb6862fb4dc0d012e27a30708d817a"
-        width: 976
-        height: 549
         isCached: true
   - title: "Voice to Parliament No leader Warren Mundine heckled by Yes campaigners while casting his vote at polling centre"
     excerpt: "Prominent No campaigner Warren Mundine has been caught up in heated scenes at a polling centre in Sydney as he cast his vote for the Indigenous Voice to Parliament referendum."

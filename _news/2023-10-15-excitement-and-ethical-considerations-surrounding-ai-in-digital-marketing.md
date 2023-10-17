@@ -27,160 +27,141 @@ images:
     isCached: true
 
 related:
-  - title: "An Example Of How AI Is Changing Marketing"
-    excerpt: "To learn more about how AI is impacting marketing, I talked with Ryan Coyne, CEO of Starboard, who has particularly rich insight on customization and marketing."
-    publishedDateTime: 2023-10-15T17:34:00Z
-    webUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
+  - title: "Navigating Ethical AI And The Future Of Automation"
+    excerpt: "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles."
+    publishedDateTime: 2023-10-13T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652c20fe84b2025b759668c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1352
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65281e618a11dedf60f87672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 800
         isCached: true
-  - title: "Shedding light on AI bias with real world examples"
-    excerpt: "Examples of AI bias from real life provide organizations with useful insights on how to identify and address bias.\nThe post Shedding light on AI bias with real world examples appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-16T15:55:01Z
-    webUrl: "https://www.ibm.com/blog/shedding-light-on-ai-bias-with-real-world-examples/"
+  - title: "The ABCD of AI: Automation, big data, computer vision and deep learning"
+    excerpt: "Artificial intelligence (AI) is a revolution that is changing how individuals live and work; it’s not just a technological development. There are fundamental building blocks for AI that outline ..."
+    publishedDateTime: 2023-10-13T03:41:00Z
+    webUrl: "https://cointelegraph.com/learn/ai-automation-big-data-computer-vision-deep-learning"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How AI Is Transforming Contingent Workforce Management"
-    excerpt: "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working."
-    publishedDateTime: 2023-10-16T19:44:00Z
-    webUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/"
-    ampWebUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 71
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/e0a17850b2b64fca883a454693dc8b08.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Researchers measure global consensus over the ethical use of AI"
+    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
+    publishedDateTime: 2023-10-14T01:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Implementing AI into software engineering? Here's everything you need to know"
-    excerpt: "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project."
-    publishedDateTime: 2023-10-12T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
+    quality: 64
+  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
+    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
+    publishedDateTime: 2023-10-16T01:30:00Z
+    webUrl: "https://www.thaipr.net/en/it_en/3396194"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: thaipr.net
+      domain: thaipr.net
+    quality: 54
     images:
-      - url: "https://www.zdnet.com/a/img/resize/b621a19a7a8a179ac4529d95cbf983989647197f/2023/09/20/4a2888a9-76ee-4157-8690-00d1c67fae23/eyeglasses-codegettyimages-1442975239.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
+        width: 768
+        height: 512
         isCached: true
-  - title: "Zib Digital Talks About AI-Driven Digital Marketing"
-    excerpt: "AI driven technology is having a profound impact on various aspects of digital marketing, from content creation to personalisation,"
-    publishedDateTime: 2023-10-16T07:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/zib-digital-talks-about-ai-driven-digital-marketing-1032706168"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/JrhKakX8mhdHWEedVM3ddoCfgoG3/89110425-1697426395-1.jpg"
-        width: 800
-        height: 267
-        isCached: true
-  - title: "Responding in real time to changing market dynamics"
-    excerpt: "Implementing more aware, dynamic and automated inventory management systems create a competitive advantage to increase market share.\nThe post Responding in real time to changing market dynamics appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-13T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
-  - title: "How creative marketing giant WPP is preparing for generative AI"
-    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
-    publishedDateTime: 2023-10-13T10:56:00Z
-    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
-    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 76
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
-        width: 2062
-        height: 1366
-        isCached: true
-  - title: "How to Launch a Game-Changing Artificial Intelligence Pilot"
-    excerpt: "Agencies looking to launch an AI pilot need to think strategically about the various use cases that would benefit their organization. CDW offers what it calls exploration services, bringing in a digital strategist and technical expert to identify the different personas that interact internally and externally with a particular agency."
-    publishedDateTime: 2023-10-13T20:47:00Z
-    webUrl: "https://fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot"
-    ampWebUrl: "https://fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot?amp"
-    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2023/10/how-launch-game-changing-artificial-intelligence-pilot?amp"
-    type: article
-    provider:
-      name: https//fedtechmagazine.com
-      domain: fedtechmagazine.com
-    quality: 57
-    images:
-      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1469706255.jpg?itok=8KKnL_wC"
-        width: 1440
-        height: 500
-        isCached: true
-  - title: "How AI And Machine Learning Are Transforming Payroll Processing"
-    excerpt: "Enter the realm of AI and Machine Learning. The Dawn of the AI Era in Payroll In the last couple of years, we've witnessed the transformative power of AI. It's like watching a story unfold, where the protagonist (AI) overcomes challenges, learns from ..."
-    publishedDateTime: 2023-10-13T18:47:00Z
-    webUrl: "https://menafn.com/1107238517/How-AI-And-Machine-Learning-Are-Transforming-Payroll-Processing"
+  - title: "ICCO Ratifies Principles For Ethical Use Of AI In Public Relations"
+    excerpt: "has ratified its principles for the ethical use of AI in public relations during the 2023 ICCO Global Summit. Christina Forsgaard, founder of Netprofile Finland and ICCO's ethics chair, spearheaded the authoring of the principles, launched at the two-day ..."
+    publishedDateTime: 2023-10-16T23:41:00Z
+    webUrl: "https://menafn.com/1107251398/ICCO-Ratifies-Principles-For-Ethical-Use-Of-AI-In-Public-Relations"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
     quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2023-10/13/R&AN_fc90aimage_story.jpg"
+      - url: "https://menafn.com/updates/pr/2023-10/16/P_65462image_story.jpg"
         width: 800
-        height: 461
+        height: 600
         isCached: true
-  - title: "Why AI Is Forcing Startups To Chase a Mirage"
-    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
-    publishedDateTime: 2023-10-15T07:46:00Z
-    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
+  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
+    excerpt: "The model has been developed to exponentially enhance clinical decision-making and increase access to synthesized medical knowledge for healthcare professionals, patients, and medical researchers through to regulators."
+    publishedDateTime: 2023-10-12T17:39:00Z
+    webUrl: "https://www.macaubusiness.com/m42-announces-new-clinical-llm-to-transform-the-future-of-ai-in-healthcare/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
+      name: Macau Business
+      domain: macaubusiness.com
+    quality: 52
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
-        width: 1024
-        height: 576
+      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2023/09/Event_MGM-Oktoberfest-2023_media_v1_Macau-Business-Still-pop-up-banner_800-x-480.jpg"
+        width: 800
+        height: 480
         isCached: true
-  - title: "You Can Now Chat With One of Meta’s Horrifying AI Personas"
-    excerpt: "There are also non-celebrity AI chatbots you can chat with as well:"
-    publishedDateTime: 2023-10-14T00:00:00Z
-    webUrl: "https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959"
+  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
+    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
+    publishedDateTime: 2023-10-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
     type: article
     provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/64df1d11aa6505d9f0918ba02039e253.png"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Psychiatry Expert: Projecting Autonomy and The Human Fascination with AI Minds"
+    excerpt: "The human inclination to anthropomorphize AI and project autonomy onto it is a multifaceted phenomenon driven by a complex interplay of psychological and cognitive factors."
+    publishedDateTime: 2023-10-16T13:00:00Z
+    webUrl: "https://www.newsweek.com/psychiatry-expert-projecting-autonomy-human-fascination-ai-minds-1834589"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 45
+  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
+    excerpt: "M42, a global tech-enabled healthcare network, has unveiled an impactful advancement in healthcare technology with the launch of Med42, a new open-access Clinical Large Language Model (LLM). The 70 billion parameter,"
+    publishedDateTime: 2023-10-12T15:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/12/9897878.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
+    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
+    publishedDateTime: 2023-10-16T18:24:00Z
+    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
+  - title: "The Future of Investing: Artificial Intelligence in Stock Trading"
+    excerpt: "In the fast-paced world of finance, staying ahead of the game is crucial. With advancements in technology, the landscape of stock trading has undergone a significant transformation. One of the most groundbreaking developments in recent years has been the integration of artificial intelligence (AI) into stock trading practices."
+    publishedDateTime: 2023-10-12T17:53:00Z
+    webUrl: "https://techbullion.com/the-future-of-investing-artificial-intelligence-in-stock-trading/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
   - title: "Confronting the long-term risks of Artificial Intelligence"
     excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
     publishedDateTime: 2023-10-16T18:38:00Z
@@ -190,6 +171,15 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 17
+  - title: "Celestica Launches its Next Generation 800G Switch, Powering Artificial Intelligence and Advancing Data Center Connectivity for the Future"
+    excerpt: "Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, hardware platform and supply chain solutions for the world’s most innovative companies, today launched its DS5000 high-performance 800GbE switch,"
+    publishedDateTime: 2023-10-16T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/celestica-launches-its-next-generation-800g-switch-powering-artificial-intelligence-and-advancing-data-center-connectivity-for-the-future-1032708341"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "1Fn6sRFslrC0ksucrmGB/bFZW4pwmI05NRO8mJ3wWAWLwPjF6jwDFbo7N6v5D4U9BC7dVRoVHlQqyKd5seq5yr9mv1q4OMyKzQtX3ATcw/IoHM46486ZVwAVeb0FkSE/iI3Z0dOKvzm9v18ctTu6bXW6D9/goOrAkC6LttNDqsY3VfdpCHxG9YM9Iq3bwusmShzyGaseTJCJn4O6UGJ/3+UvMFSLMkCQE8wdDzuCC+g2sl62lHETVo/Vfr+nn/QszCfk1rImBtw2DFYrA5VUlTMdRyHyFBlaLlwZpYqyq4gpjzEKPVh2DnhKAaMtD/RzrVTbKHxaXvy1IZ1Z+PPyTtQuCogqnvQQiP/8Fm9F+5I=;9X8LVM1enE1jv4f1KJVgCg=="
 ---

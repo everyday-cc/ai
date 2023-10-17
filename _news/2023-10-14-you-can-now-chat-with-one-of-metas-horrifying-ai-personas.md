@@ -120,20 +120,6 @@ related:
         width: 2062
         height: 1366
         isCached: true
-  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
-    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
-    publishedDateTime: 2023-10-14T21:13:00Z
-    webUrl: "https://thethaiger.com/ph/news/555161/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 72
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "How to Launch a Game-Changing Artificial Intelligence Pilot"
     excerpt: "Agencies looking to launch an AI pilot need to think strategically about the various use cases that would benefit their organization. CDW offers what it calls exploration services, bringing in a digital strategist and technical expert to identify the different personas that interact internally and externally with a particular agency."
     publishedDateTime: 2023-10-13T20:47:00Z
@@ -178,15 +164,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
 
 secured: "wxCuYlGJ+iWORaeJTVwPD+QRtcBpccazYeqfmgUzlmZAgvLGG2fYffD7ZhgiOCCwrDmQaHFwxFYbeQWKpn7meoGw2+VCfuEuQUrbDaFINxogfIwAuPV/3WJYxKa/FyltDKtngHlNbHFRrBEpmuhN/SbYysOzryxIDnB3uqUwCoRBZfXklOp9Sux5gZPo9d1x2gLkLhZ5DmTr4u0q+VtlEUh5dUInnSHYo0hm73LLaOIxj5XcU0e7yYEE7tuwrPlUo0857lFL+998l3tXbwBNLQ2v6uFe4Kw6vOVz3Q7i/SrGRF8DySudMGpS65b0Dr0WER8w6AcIZMLUK4YV3LvHDsNBQBoYkxQ6CH8L+2hwrqA=;0d+crTX9AH5/YyAbcrlxrA=="
 ---

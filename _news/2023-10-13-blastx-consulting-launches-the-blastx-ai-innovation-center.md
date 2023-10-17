@@ -19,84 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Understanding the different types and kinds of Artificial Intelligence"
-    excerpt: "Early iterations of the AI applications we interact with most today were built on traditional machine learning models. These models rely on learning algorithms that are developed and maintained by data scientists. In other words, traditional machine learning models need human intervention to process"
-    publishedDateTime: 2023-10-12T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/"
+  - title: "Addressing Ethical Issues in Integrating AI Systems: Expert Opinion of Intetics CEO and President"
+    excerpt: "In the new article, Intetics CEO and President examines the consequences of the integration of AI and ethics. By referring to Isaac Asimov's Three Laws of Robotics, the importance of ethical concerns in AI and the conflicts that may arise from them are ..."
+    publishedDateTime: 2023-10-12T16:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35224314/addressing-ethical-issues-in-integrating-ai-systems-expert-opinion-of-intetics-ceo-and-president"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35224314"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35224314"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 119
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/10/Understanding-the-different-types-and-kinds-of-Artificial-Intelligence.png"
-        width: 2400
-        height: 1260
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Navigating Ethical AI And The Future Of Automation"
-    excerpt: "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles."
-    publishedDateTime: 2023-10-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+  - title: "AI model training rekindles interest in on-premises infrastructure"
+    excerpt: "AI is remaking the server market. Dell’Oro Group Inc. predicts that by 2027, half of server sales will be accelerated models connected by data center-scale fabrics needed for training and inferencing. “We’re moving toward more high-density GPU ..."
+    publishedDateTime: 2023-10-17T00:31:00Z
+    webUrl: "https://siliconangle.com/2023/10/16/ai-model-training-rekindles-interest-premises-infrastructure/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65281e618a11dedf60f87672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 800
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/1.png"
+        width: 1080
+        height: 1080
         isCached: true
-  - title: "AI aims to predict and fix developer coding errors before disaster strikes"
-    excerpt: "Generative AI can be combined with more traditional forms of artificial intelligence to predict how computer systems may fail before applications are put into production, according to Dynatrace's CTO."
-    publishedDateTime: 2023-10-16T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/28c0ea6042453b2f6bfc7502d541a0b7af992ccb/2023/09/28/9f3e672d-0f1e-4228-9b7e-d339c4f26f05/aifire.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The ABCD of AI: Automation, big data, computer vision and deep learning"
-    excerpt: "Artificial intelligence (AI) is a revolution that is changing how individuals live and work; it’s not just a technological development. There are fundamental building blocks for AI that outline ..."
-    publishedDateTime: 2023-10-13T03:41:00Z
-    webUrl: "https://cointelegraph.com/learn/ai-automation-big-data-computer-vision-deep-learning"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 71
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/e0a17850b2b64fca883a454693dc8b08.jpg"
-        width: 1200
-        height: 799
-        isCached: true
-  - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
-    excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
-    publishedDateTime: 2023-10-12T18:08:00Z
-    webUrl: "https://www.entrepreneur.com/science-technology/5-tips-to-help-business-leaders-make-sense-of-the-ai/463286"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 51
-  - title: "From ancient Jewish texts to androids to AI, a just-right sequence of numbers or letters turns matter into meaning"
-    excerpt: "Integral to Kabbalah is the notion that Hebrew letters are the building blocks of the cosmos. According to mystical interpretations of the creation story in the Book of Genesis, God brought the world into being by creating the alphabet, then assembled the earth and sky by recombining letters."
-    publishedDateTime: 2023-10-13T17:03:00Z
-    webUrl: "https://www.chron.com/news/article/from-ancient-jewish-texts-to-androids-to-ai-a-18423870.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 0
 
 secured: "7ym7lGP9FnYceHDz5Y10QT5A692cGXT4ikiAGT1Cf3WVlmBCXafJoGtSZC2xl/v5kBzk5zrikCdOtmKbCdB4LB3wMdqQXF/gzd9jyrJN/tb+YuV/bf3C5byFrEOG/1q9bKq8l1qGk1fL+ZMqkyaRa4ylYHLLKMF6FVkyDFPwIG00OT1DYMqO/U3R3bESI5EUYjtC1kGAOJh01ysrfuD3A+neb3jemHw7f9gbpHf3/cZUJ5p8hizROa5euKDGIT3xj/6GZWaUN2R+VoLJ1/tPHddTCfSI52udzXgKF/mFYz0sYLmX0B/ftdEJHpkQgvl7PK2R0DVKAxoDSyb1yJ/8zsskClyIOuJzW26nGG05tBljySVYtyYqsSXhj5J/TrPbt/sG8tTPRN4Xb1GZ/FSj9eddMxU5CbC+AiE1YbQzwuczF9LNgTEocBCN4Pp1pwJ2FG6jnseX1Iwdmv7OwrE+P3TvEHF4uYacnxgVLeyD3zs6pjIZrZiB5lmzcwIkdFAcazLlq4/Rh5v4whQUYiVQ+A==;T3yEY7PeUYMAjs4uIxeUuw=="
 ---

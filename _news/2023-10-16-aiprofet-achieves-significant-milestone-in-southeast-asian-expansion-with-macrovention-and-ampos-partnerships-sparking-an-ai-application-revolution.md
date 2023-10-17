@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
 
 secured: "Kh6FWQc0DQbN5k+0oS3BpOUTWxU0U0dN5K9G8lLECq9R6W6Le4djHgbVbPIll51lRGBOQtVWqbjpnyIFSXHfG8+bR4N3Hy0qj2B2nBGWMTonqRjYPV6Nb+sFTfFrf7ndRGIydpKXgMi2XwTmG34G1/INH0AwthaWhkWk2ZUu9BOllVqYLpCx6nTI6YM7hmWwF7wW28osn4nso4xbTaJJ9LrFdTcmgEIO7suBp3swrWT+f/pV6GmLkDG25T7v1gpQpAWAW/fwVd2hBiT8tYiLWAta3BsboBYJluUcdFRC5cELF64mz9cJdIkMFFTHxcAyTZ5mtIyIVPKWmiTnOkb2nb8haY903byATVTQ0cUiyBk=;+0IhQU1+cpAmArQOpo6hbw=="
 ---

@@ -215,6 +215,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 45
+  - title: "AI Explained – Stories – Microsoft"
+    excerpt: "Microsoft News Center AI basics Large AI Models Researchers at Microsoft and elsewhere are making progress on developing large AI systems that"
+    publishedDateTime: 2023-10-16T21:54:00Z
+    webUrl: "https://www.inferse.com/758099/ai-explained-stories-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 34
   - title: "DataTrue launches privacy leak detection supported by Microsoft AI … – Microsoft"
     excerpt: "By Microsoft News Center The data auditing platform Datatrue announces today the launch of a patented data validation and personal"
     publishedDateTime: 2023-10-16T07:26:00Z

@@ -41,29 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "How International FinTech company Collect & Pay Aims to Reshape Digital Finance"
-    excerpt: "The financial sector’s terrain is rapidly evolving. Led by fast-growing neo-banks such as Revolut, banking services are becoming more efficient and accessible than ever before. At the same time, new technologies like blockchain and cryptocurrencies are fundamentally redefining how we manage our finances."
-    publishedDateTime: 2023-10-12T08:42:00Z
-    webUrl: "https://techbullion.com/how-international-fintech-company-collect-pay-aims-to-reshape-digital-finance/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/IMG_20231005_124245_556-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
-    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
-    publishedDateTime: 2023-10-16T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
     excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
     publishedDateTime: 2023-10-16T11:27:00Z
@@ -87,20 +64,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 26
-  - title: "Why Swiss Fintechs Should Attend 2023’s Hong Kong Fintech Week and Singapore Fintech Festival"
-    excerpt: "Hong Kong Fintech Week and Singapore Fintech Festival just around the corner, we look today at the key highlights of this year’s events, focusing on their main themes, what participants can expect, and why these events are critical to attend for fintech companies aiming to thrive in the industry."
-    publishedDateTime: 2023-10-12T08:03:00Z
-    webUrl: "https://fintechnews.ch/events/why-swiss-fintechs-should-attend-2023s-hong-kong-fintech-week-and-singapore-fintech-festival/63945/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 13
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2023/10/Why-Swiss-Fintechs-Should-Attend-2023s-Hong-Kong-Fintech-Week-and-Singapore-Fintech-Festival.jpg?x81825"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Fintech Partnerships Revolutionizing Loan Approvals: Visa Sets the Stage"
     excerpt: "The future of financial services, including loan approvals, will be significantly shaped by AI technologies. This move is a leading indicator for other financial institutions exploring or already involved in partnerships with fintech companies."
     publishedDateTime: 2023-10-12T15:20:00Z
