@@ -69,15 +69,6 @@ related:
         width: 1000
         height: 663
         isCached: true
-  - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
-    excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
-    publishedDateTime: 2023-10-12T13:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214238-global-fintech-klarna-leverages-ai-for-human-shopping-experience/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
   - title: "Fintech Carefull Secures $16.5M to Scale Financial Safety Platform for Older Adults"
     excerpt: "Carefull, an AI-powered financial safety platform, recently announced that it has closed its Series A round with $16.5 million in funding."
     publishedDateTime: 2023-10-13T03:25:00Z

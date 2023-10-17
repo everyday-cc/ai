@@ -148,15 +148,6 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 45
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "M42, a global tech-enabled healthcare network, has unveiled an impactful advancement in healthcare technology with the launch of Med42, a new open-access Clinical Large Language Model (LLM). The 70 billion parameter,"
-    publishedDateTime: 2023-10-12T15:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/12/9897878.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
     excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
     publishedDateTime: 2023-10-16T18:24:00Z

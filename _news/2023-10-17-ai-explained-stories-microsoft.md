@@ -113,6 +113,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Microsoft Stock Fueled By Artificial Intelligence In Office Apps – Investor's Business Daily"
+    excerpt: "ARTIFICIAL INTELLIGENCE: Will Microsoft’s High-Stakes Bet On AI Pay Off?"
+    publishedDateTime: 2023-10-17T01:04:00Z
+    webUrl: "https://www.inferse.com/758345/microsoft-stock-fueled-by-artificial-intelligence-in-office-apps-investors-business-daily/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 58
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-10658.png"
+        width: 1000
+        height: 511
+        isCached: true
   - title: "Microsoft Debuts AI Bug-Bounty Program, Offers $15K"
     excerpt: "Should a participant be a public sector employee, the bounty award must go to the public sector organization and be signed by an attorney or executive responsible for its ethics policies. The scope of the bounty program extends to AI-powered Bing on bing ..."
     publishedDateTime: 2023-10-13T17:20:00Z
@@ -220,15 +234,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 46
-  - title: "Latest Dynatrace Platform Innovations Available to Customers on Microsoft Azure"
-    excerpt: "“Bringing our latest platform technologies to Microsoft Azure enables more customers and teams within organizations to harness our industry-leading AI, analytics, and automation capabilities to modernize cloud operations, expedite releases of high ..."
-    publishedDateTime: 2023-10-12T13:09:00Z
-    webUrl: "https://menafn.com/1107232134/Latest-Dynatrace-Platform-Innovations-Available-to-Customers-on-Microsoft-Azure"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 45
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
     publishedDateTime: 2023-10-15T21:18:00Z

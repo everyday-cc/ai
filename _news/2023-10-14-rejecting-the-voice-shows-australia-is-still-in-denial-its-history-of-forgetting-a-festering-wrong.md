@@ -483,15 +483,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Lidia Thorpe has campaigned against the Voice to Parliament for months. Now, two days before every Australian goes to a vote, she says she's 'absolutely' in favour of a type of ..."
-    excerpt: "I oppose the Voice because the voice is window dressing for constitutional recognition. And that's what we have opposed for over a decade,' she said. Mr Albanese has categorically ruled out considering legislating a Voice should to referendum fail ..."
-    publishedDateTime: 2023-10-12T13:53:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-12621065/Lidia-Thorpe-campaigned-against-Voice-Parliament-months-two-days-Australian-goes-vote-says-shes-absolutely-favour-type-Voice.html?ns_c"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 0
   - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
     excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
     publishedDateTime: 2023-10-14T09:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/googles-ai-can-now-create-images-from-s
 webUrl: "https://www.pcmag.com/news/googles-ai-can-now-create-images-from-search-google-images"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Google touting AI power on new Pixel 8 phones"
-    excerpt: "Google is leaning into artificial intelligence with its new Pixel 8 and Pixel 8 Pro releases. Lisa Eadicicco, a senior mobile editor for CNET, joined CBS News to discuss some of the features on the new products."
-    publishedDateTime: 2023-10-12T14:04:00Z
-    webUrl: "https://www.cbsnews.com/video/google-touting-ai-power-on-new-pixel-8-phones/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/12/0ea2fce4-3714-49f1-af9a-84173784a4f9/thumbnail/1200x630/0f1dbe5bbfcb6ff97f940409745281ed/cbsn-fusion-google-touting-ai-power-on-new-pixel-8-phones-thumbnail-2365747-640x360.jpg?v=69c515fc2d8624858c50a235751c5acf"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Two RIT students earn Google Ph.D. Fellowships for AI computing research"
     excerpt: "RIT students Emily Kuang and Allahsera Auguste Tapo have both earned a Google Ph.D. Fellowship for their computing research in artificial intelligence."
     publishedDateTime: 2023-10-16T18:50:00Z

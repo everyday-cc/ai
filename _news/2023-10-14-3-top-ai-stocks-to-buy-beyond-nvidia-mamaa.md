@@ -53,15 +53,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
-    excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."
-    publishedDateTime: 2023-10-12T13:46:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/12/1-artificial-intelligence-ai-stock-to-buy-now-that/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
   - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
     excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
     publishedDateTime: 2023-10-13T14:56:00Z

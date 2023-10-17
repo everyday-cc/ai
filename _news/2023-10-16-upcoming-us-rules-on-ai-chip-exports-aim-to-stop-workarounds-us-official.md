@@ -348,6 +348,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "US To Deepen Chokehold On China's AI Chip Access"
+    excerpt: "The United States is expected to announce a new set of rules that aim to prevent Chinese firms from sourcing American-made high-end artificial intel"
+    publishedDateTime: 2023-10-17T07:18:00Z
+    webUrl: "https://menafn.com/1107253503/US-To-Deepen-Chokehold-On-Chinas-AI-Chip-Access"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/17/AT_709b3image_story.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Considers Closing AI Chip Access Loophole for Chinese Companies Abroad"
     excerpt: "In a move that could significantly impact the global AI chip landscape, the Biden administration is actively considering closing a loophole that grants Chinese companies access to American artificial intelligence (AI) chips via their overseas subsidiaries."
     publishedDateTime: 2023-10-13T02:37:00Z

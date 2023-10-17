@@ -61,22 +61,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "How Adobe is leveraging generative AI in customer experience upgrades"
-    excerpt: "They start to build a map of your brand's benefit to their lives ... Also: Adobe Generative Expand adds to Photoshop's AI arsenal Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual ..."
-    publishedDateTime: 2023-10-12T15:17:00Z
-    webUrl: "https://www.zdnet.com/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1cece709d5fe4df7d14b8770ec21f19b19242067/2023/03/21/b3d81f07-31e0-455d-b67c-87c27c0bd51d/gettyimages-600781912.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI and migrations to the public cloud"
     excerpt: "GenAI can analyze application dependencies, network configurations, and security risks, but it will mostly help lazy companies that aren't doing this anyway."
     publishedDateTime: 2023-10-13T09:05:00Z
@@ -258,15 +242,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Generative AI In Industrials"
-    excerpt: "Those in the industrial sector that are fully cogent in their generative AI investments have an opportunity to gain a real advantage."
-    publishedDateTime: 2023-10-12T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/generative-ai-in-industrials/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Adobe's new generative AI tool is a game-changer for video editing"
     excerpt: "Adobe's editing applications, such as Photoshop, Lightroom, and Premiere, have been the cornerstone of many creatives' everyday workflows. Since the rise of generative AI, Adobe has been developing ways to optimize those workflows, and this one will be a huge help for video editors."
     publishedDateTime: 2023-10-13T18:55:00Z
@@ -314,6 +289,6 @@ related:
       domain: cio.com
     quality: 17
 
-secured: "iP9vRPhzQd1mfy6jhE3lc1G0wlDX7Xvw7LxkW3HwGN54GLvT9SvYuDcBzs5t5oENpM5vrlaFR60xcP+v2tdovPkuPGQmxzdQEdHSMf92ae5b6URRdGMjVaqCI0Mcy66h3u4l/SAq2ykUlBNhj5LxueASAaukrFFWd8CAeXIw9FwI7jSvlV5x2kw7hAihzsyTsU2roijg4x/fDhYxMCCwudNAGvja4b15Q1tKLIaY24DJ+QDx3Utgjon3u0PQg0pifsdlfpJ7RI507/Y8UQiVx1eLX/m1uuYfoET4MyCcMxGmxeiU6bWwSXjWOO0qPFoa9DUrXxNRRCOj31Ue5HEALYWN9+XXHqjS6dVD0ouN4As=;EvHlCdRHYi3ISACK1rFIvg=="
+secured: "d6JtXrv2Yr3WE8M9vpn/Q3aoGuB/r7d2dPa/dGzlg71WtZ4pk4zOV2HBX0tkR2DYsZvaMKg/AmW+Gu4min0yOzEhfhtR4IbjAOuxtyJ8luiFENDMavgrSzVKWGD7N76ZFKVwzBEle5jdpuXseiT3cZgvk7+L/lnKDvavbgf+hyBxmWOvaK8DAYd2c8NomLqjzPB1OzRzH46yaxJdHxY1r4riqkUKxnW+qZx9mIeubBAiSkmsPguROxKx6cXyi4/Lt1CZ8xHR3gNZQBcdv6jFQxaYYoKwnKkQaVrsSHt79OqEmnePFr4S6U0Livd1tchUaAnoYqVOPCDcX9r9vuuC9fUqKrlP5wzLkp7QSsPkgvBQ477Spmyq0B97V6tPLMlx4FiEthxPICYOqTr5Al8SnplFbXywBkYMTucHLT44EXfW9B6v8MiDaseDhTnHpyKFxUNQ782ehIsBEgVUMC5piCXjGSl/NUF8L38HkhP9IlrKOnNjfpfyYHxomYpuwPDrqm+xLK5I0ilb7cyaL49Itg==;Hw9A9pYSfEFjbxcM09LXCg=="
 ---
 

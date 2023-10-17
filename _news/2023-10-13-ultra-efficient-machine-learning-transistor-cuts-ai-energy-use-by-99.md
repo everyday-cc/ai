@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/technology/ai-machine-learning-transistor/"
 webUrl: "https://newatlas.com/technology/ai-machine-learning-transistor/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Energy-efficient transistor could allow smartwatches to use AI"
-    excerpt: "A prototype transistor built from molybdenum disulphide and carbon nanotubes rather than silicon could allow power-hungry AIs to run on smartwatches without rapidly draining the battery"
-    publishedDateTime: 2023-10-12T15:01:00Z
-    webUrl: "https://www.newscientist.com/article/2397235-energy-efficient-transistor-could-allow-smartwatches-to-use-ai/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/12150459/SEI_175692455.jpg"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "mrQBy1EbSflRqFPex37UWvsUVtb1hTp1nm3ubkcnJaxGyw9Uls7SF8BtXh4XT2NJs4g4bDKFMwMkBrPupxtM/beQKkFOqsFFXP69Q2mOzn+Ukw3LAYYfRWg2/8WpGrlykRbQH16cJBldvYfH1DSjLzCv44cpGYhJoZJAfB68LcQCmn5sPpXdStZx0uwc5iSUVwy7t30hDXehKT18Bh8TEAJ795fIHGrUhJWTTATHHIZJgT2uIxLR9RwaK/jaBs4uo8KNUfXzkDVAKFCaJchZ77VefXkhaohIIuRC7ooJ5B2dtyVXfKPiFMxeUdNOCyigonMNJbhdcp2iNZ6qcrjUup5mnfYeRZAc+vX9LYrwJL5I3VQX/FPlqk6HxDZTCw2Ls3104MoYzdb54EzkWaaarX2l64QR76e35xiInMvbJlCPnJZhbmoFBDvdhl8NZV2KQ7YEuVCwoRSdkSTxbzxImHpRm0rfQwVRSQshYaBJ+3Beifwvr20jpkiFGb8LLM1RZDrrkHgqj7WoOMZTBTHyuw==;lZt79M9uL+VYlHJxG2pM5Q=="
 ---

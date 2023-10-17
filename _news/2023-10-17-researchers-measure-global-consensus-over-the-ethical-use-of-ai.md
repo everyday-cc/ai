@@ -155,15 +155,6 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 45
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "M42, a global tech-enabled healthcare network, has unveiled an impactful advancement in healthcare technology with the launch of Med42, a new open-access Clinical Large Language Model (LLM). The 70 billion parameter,"
-    publishedDateTime: 2023-10-12T15:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/12/9897878.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "The Future of Investing: Artificial Intelligence in Stock Trading"
     excerpt: "In the fast-paced world of finance, staying ahead of the game is crucial. With advancements in technology, the landscape of stock trading has undergone a significant transformation. One of the most groundbreaking developments in recent years has been the integration of artificial intelligence (AI) into stock trading practices."
     publishedDateTime: 2023-10-12T17:53:00Z

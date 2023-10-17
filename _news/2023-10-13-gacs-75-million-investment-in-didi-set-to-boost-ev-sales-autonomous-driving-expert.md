@@ -54,6 +54,20 @@ related:
         width: 560
         height: 373
         isCached: true
+  - title: "Didi’s Self-Driving Freight Business KargoBot to Operate Independently After USD62 Million Investment"
+    excerpt: "(Yicai) Oct. 17 -- KargoBot, the autonomous driving freight business of Chinese ride-hailing giant Didi Chuxing, will begin to operate independently after receiving a CNY450 million (USD61.5 million) investment from Inner Mongolia Ordos Investment Holding Group."
+    publishedDateTime: 2023-10-17T07:43:00Z
+    webUrl: "https://www.yicaiglobal.com/news/didis-self-driving-freight-business-kargobot-to-operate-independently-after-usd62-million-investment"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 9
+    images:
+      - url: "http://img.yicaiglobal.com/src/image/2023/10/36378493599429.jpg"
+        width: 770
+        height: 510
+        isCached: true
 
 secured: "vlVbtSFMcclt65piakJPpbTP18Ex/Edbbmkh6nbheqmYhALrHZJ6dQ23zC26imDuaYv7XoodSul0NsupMVK2m+ZRmxi2MOXmqep/2Wjb/XcZxF2aySnTwV7O8CvMIcyu4E10Dv+4Tz0dQpsU5NubuF/kgTnESrLD3IhV/rTkg4xm8l4mHKiNeZWhd62DyXowpyEPceNpyejdYtktiwjMY/bGZGRPzzo83ZJESJj2DcAYACRRLBK9WhJThJNxC1aWl65vD35t7zAcLtjGpcZ6tKG6cVFDdILHkJ3l+yoI3+hDKKjx+lVnSHp15tSev09I2oshJrjaUHgXfnYDM3nKFF/31BrVFdfd0AI24wwbVmA=;iUv0QEhP7VB7RmAkTanDGQ=="
 ---

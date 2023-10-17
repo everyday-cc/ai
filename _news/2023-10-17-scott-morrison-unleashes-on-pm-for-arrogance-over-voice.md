@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Scott Morrison unleashes on PM for ‘arrogance’ over Voice"
-excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the ..."
-publishedDateTime: 2023-10-16T23:20:00Z
-originalUrl: "https://www.couriermail.com.au/news/national/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
-webUrl: "https://www.couriermail.com.au/news/national/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
+excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the Prime Minister\" and slammed Mr Albanese's \"arrogance\"."
+publishedDateTime: 2023-10-17T07:04:00Z
+originalUrl: "https://www.theaustralian.com.au/news/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
+webUrl: "https://www.theaustralian.com.au/news/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: The Courier-Mail
-  domain: couriermail.com.au
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
   - Natural Language Processing
@@ -46,17 +46,22 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 28
-  - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
-    excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
-    publishedDateTime: 2023-10-13T08:15:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+  - title: "'More flip-flops than a thong factory this bloke': Anthony Albanese hits back at Peter Dutton's Indigenous recognition backflip"
+    excerpt: "Anthony Albanese has taken aim at Peter Dutton’s consistency over party policy after the Leader of the Opposition backflipped on his pledge for a second referendum."
+    publishedDateTime: 2023-10-17T06:14:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/more-flipflops-than-a-thong-factory-this-bloke-anthony-albanese-hits-back-at-peter-duttons-indigenous-recognition-backflip/news-story/f7103edc49340fe7b8eeef529e49e437"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/more-flipflops-than-a-thong-factory-this-bloke-anthony-albanese-hits-back-at-peter-duttons-indigenous-recognition-backflip/news-story/f7103edc49340fe7b8eeef529e49e437?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/more-flipflops-than-a-thong-factory-this-bloke-anthony-albanese-hits-back-at-peter-duttons-indigenous-recognition-backflip/news-story/f7103edc49340fe7b8eeef529e49e437?amp"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
+      name: Sky News Australia
+      domain: skynews.com.au
     quality: 16
+    images:
+      - url: "https://content.api.news/v3/images/bin/2f9529e09f8dfde73b2f2d3dfee2ac10"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dutton walks back offer of a second referendum on Indigenous recognition"
     excerpt: "Opposition Leader Peter Dutton has walked back his offer to symbolically recognise Indigenous Australians in the constitution, declaring the public is “over” referendums following the Voice’s defeat."
     publishedDateTime: 2023-10-16T19:36:00Z
@@ -67,6 +72,6 @@ related:
       domain: skynews.com.au
     quality: 3
 
-secured: "xN7JquKJYRy871yHo4DmvLl5pQDLU8zQf2ngh8zM5IP272BmSU/qQl5nV6EuSyIkvA7ZJPNrUyTTJD+NIXWzTJ37xjwVjWAk3ih60vZyCQzpbKKcDPWT6GdrGTH+QKXjbCu+LOZO27qFnxMD/VoqIsoJZ/I2FaAx3YixOLXUKQORMLH1Tt4m7rEFpQaLGsd7Sf7bhMlQTQz6AqMIvToPQpkGjvaeuC4d+CVOLvVmefKewRbS1M2dSbgfIdDjijaa7AJ8ff7jWLZ5MeglbXP5+e+xK3G56P2ZyQCyqGcrcjLxMufII0g6fWgAoDpd40qHuHTz/IByZ7LDI9H+d5zZFL/ExZb1YTy1kuq71QK2PByx739jZtokznkcXGLFfPkiemScE6TC6MZZwSVu/9wyzejitl/IGr9Y5rh4JfLcDorEk5Anz5Y4FofMx+GeKXikmkDH7o/MugxWEa4ObCUO1EAFT0Jl9ID21JO+v0rjVD6JA2/VVFLZ3DVvPzkm1Rp0UpHzlBb0yZsambJLpRJV1g==;+YY89kw4aF1Gyvr4giVSUA=="
+secured: "hS8+IhQTSX5+3YSaGXOdiJZFbX/WwPg+FrDFyTfxnkmyc1iGnuvdp4tUiOBD1JopXJUIiRB6LsmDE1Y5UxIlYphRcpM4hgknR2pVYT29QP3DJ3G/eoRQaJ4VIOQgEzJyvbMCpTXyZz3p2Mrq+JvHbGHgdET1pvzm3k1/VRLrmTOv3CeoWrcJM/lA9RczimRIqRUb/siMP7Jly1BFGQeyRI+8ktE6H8pK932EGsQrEio/e3iiwMuIA3Ae0N8V+xfEiqX7XESWD7SCdkME+cM7aVJaLbvj8Epv4swlFF85Fa2IJDCFK3dzvHCW+LdjkjwVmlLiAYCJnu/alevxokcV0XD5NHq+wCfP8nlik0waFZwWCeKOgRvOEISH6LaMQIynTlP86m9DdApAwjNTpd8Hn42qhmnJoeN08ZBnsDBN0S41Ni1Q2K48OWaoZkul7R4FUv0FTffeq1PyGepC87rXqiMZpytOkx1qLIa3Oq6rfOvueus/11P+tJhJlfUaAVEgxYzzw4P+FEr3EuA0Abfl1w==;xkgko5+Opd1iZjS3c2R7Jg=="
 ---
 

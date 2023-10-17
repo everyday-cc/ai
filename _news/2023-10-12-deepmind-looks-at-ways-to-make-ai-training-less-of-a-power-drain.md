@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-t
 webUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_10/story_70171/assets/17.jpeg?time=1697452527"
         width: 732
         height: 977
+        isCached: true
+  - title: "LeapMind looks to deliver cost-effective AI computing"
+    excerpt: "LeapMind has announced that it is developing a new more cost-effective AI chip to accelerate the training and inference of large-scale AI models."
+    publishedDateTime: 2023-10-17T07:16:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/leapmind-looks-to-deliver-cost-effective-ai-computing"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/jgdh1uic/leapmind.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "22ZgW0mFr+oeKarBV5pEX4KNlXNULmlMYjUt9inBEuljSg4GvX0W7Ac3CLtZrO7/FuOzjDh9VYYUXUxScAfmEzQ4qpN8QKmxBGsiYtT5IF312zyXEsZdNXZY4tKhKc7Gbc7YtXjMtje1hF9ANY7g7sFwHhPzr5wAQ8hFCywvOZ9J/LFrmlJLoHFu3B25B9kvHFLWIqxSNg09kiLtJnLAU8tk12P5lFgXH48oCf7gV87ZVr+NEbE4q1+puCYQ8M2MHcMMSoQ27xhgClAu/1LB/k3MD/Ks7+1XV6IIJXEeyDduzheT7AMCEnW8YYKP+V35EqaoHmXu1vQd+6Vm+LUuYzDMCtha1XAgVEbmbrGJRMQ=;VzbfAJ8w0g1KfU0Qy3em7Q=="

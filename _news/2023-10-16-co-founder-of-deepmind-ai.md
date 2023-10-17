@@ -57,6 +57,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "LeapMind looks to deliver cost-effective AI computing"
+    excerpt: "LeapMind has announced that it is developing a new more cost-effective AI chip to accelerate the training and inference of large-scale AI models."
+    publishedDateTime: 2023-10-17T07:16:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/leapmind-looks-to-deliver-cost-effective-ai-computing"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/media/jgdh1uic/leapmind.jpg?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "e6IbF579Pr17cu9f1qb2tDH5cZiDfHNRDZVqmo5HpuAt0wDGR0g7N2bRpKU7Mz6ic357nlkmZE1eedkmRmr7JazXZ7jajEKYnvk/kFYPY5vLLWqENAnteko2fvZGjiURDiyG0gtsXPaD/qWdii15vK18l73tBf9wLxeE8Elx/oTaDYm80EbCbtpDGvCk4MDtkkqwDtGOKU6XO0y/OQxqxjIYRrOi0pt5+7ZcRomEqU/5jwPVKZ8dY3uxQJHCBqjIb1T/WdxZuYYFQcRLHtaWQ79BuHNYlJ9vkTF52C98d4h6H0hdS7QHhwaxQ1bx3CrWS2hzPnwCp4BhgKHuUOpT48Gtbf/Ig6bsPqCuQRt3VNGbsHbVyD4b5Q90azY7r9+BZ4804kmGl1xChHfhg8Koj/krx/TxLWAZMEERIYR5mbSufh6+xf5yfRr4MtXqcIuESUFLzaGilTpAzbVFAB8nCeURfSBLJ/xESysN3spMIXF9zCTMPQfnFTZU3u8BA9HvP5BubzXgI/DAKpXihNyiEA==;i/EXvX9YrxOoAnvzhqf4Og=="
 ---

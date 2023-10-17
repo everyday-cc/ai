@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-17T05:16:00Z
 originalUrl: "https://www.thehrdirector.com/business-news/learning-and-development/possibilities-endless-generative-artificial-intelligence-ld/"
 webUrl: "https://www.thehrdirector.com/business-news/learning-and-development/possibilities-endless-generative-artificial-intelligence-ld/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.thehrdirector.com/wp-content/uploads/2023/10/Artificial_Intelligence25-scaled.jpg"

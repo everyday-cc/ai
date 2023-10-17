@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Dubai Police unveil self-driving vehicle to enhance security"
+    excerpt: "The Dubai Police unveiled its self-driving security patrol aimed at enhancing safety in residential areas at the Gitex Global 2023 in Dubai. Lieutenant Rashid Bin Haidar from the Dubai Police’s General Department of Administrative Affairs introduced the eco-friendly, fully electric patrol vehicle to the exhibition visitors."
+    publishedDateTime: 2023-10-17T07:04:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/10/17/dubai-police-unveil-self-driving-vehicle-to-enhance-security"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 56
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/10/17/self-driving.ashx?h=450&w=750&hash=9DA6A5243767EAD054A3133A38616D3E"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Dubai announces self-driving taxi tests"
     excerpt: "Dubai’s RTA has started tests of self-driving taxis in Jumeirah 1. The Roads and Transport Authority (RTA) and Cruise, a self-driving technology company, began supervised testing of Chevrolet Bolt-based autonomous vehicles in Jumeirah 1 area of Dubai."
     publishedDateTime: 2023-10-12T20:26:00Z

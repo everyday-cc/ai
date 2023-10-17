@@ -46,25 +46,30 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 28
-  - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
-    excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
-    publishedDateTime: 2023-10-13T08:15:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+  - title: "'More flip-flops than a thong factory this bloke': Anthony Albanese hits back at Peter Dutton's Indigenous recognition backflip"
+    excerpt: "Anthony Albanese has taken aim at Peter Dutton’s consistency over party policy after the Leader of the Opposition backflipped on his pledge for a second referendum."
+    publishedDateTime: 2023-10-17T06:14:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/more-flipflops-than-a-thong-factory-this-bloke-anthony-albanese-hits-back-at-peter-duttons-indigenous-recognition-backflip/news-story/f7103edc49340fe7b8eeef529e49e437"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/more-flipflops-than-a-thong-factory-this-bloke-anthony-albanese-hits-back-at-peter-duttons-indigenous-recognition-backflip/news-story/f7103edc49340fe7b8eeef529e49e437?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/more-flipflops-than-a-thong-factory-this-bloke-anthony-albanese-hits-back-at-peter-duttons-indigenous-recognition-backflip/news-story/f7103edc49340fe7b8eeef529e49e437?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 16
+    images:
+      - url: "https://content.api.news/v3/images/bin/2f9529e09f8dfde73b2f2d3dfee2ac10"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Scott Morrison unleashes on PM for ‘arrogance’ over Voice"
+    excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the Prime Minister\" and slammed Mr Albanese's \"arrogance\"."
+    publishedDateTime: 2023-10-17T07:04:00Z
+    webUrl: "https://www.theaustralian.com.au/news/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 16
-  - title: "Scott Morrison unleashes on PM for ‘arrogance’ over Voice"
-    excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the ..."
-    publishedDateTime: 2023-10-16T23:20:00Z
-    webUrl: "https://www.couriermail.com.au/news/national/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
-    type: article
-    provider:
-      name: The Courier-Mail
-      domain: couriermail.com.au
     quality: 4
 
 secured: "TcOx5+3KtUORH7yYXWGK82Q3bw95Yb7JUw3zSQdJLNquoxmzrQnBXixVHta/7azN1X84AKKyztEawNGCqytYafTPoi6nkXDMM9Ly96ftazBfKDB5sTQ2O8UIKYbG/W8ECJyxA8UaKBlq7lKpx4KK2FB9bcwc502RqiWZ28Ub93MlRHHGNbC4hoDWuuxuqQmqhBSz+oROeqCw2i9TVP04+VAvMPmCjwM9V0msc/1WOrzfv9CwnQBmBFLLZ5FbH0wk2on7uxPh55Bz1cdgyKAJ2aUXUaJFikkC44MmPYH95uvm0DaY5LEvqYPm8WbuwyQebOdbJdSLxkZKfEsj6Ft9hMjCCgGKjFx3qX78PNbHIooX9McRAMHHK6WErcx1dKH8e+vYqrzAbps+2mFDcXHnr5l0CWB6BdwIZ1s965iNey/gmTmyK3pQ1RIbR6CGak6Q+MaBfqcfCkLZPd/4XxlnQ/dZRprxwrFOvASP6kgvXljRf0HGzyQxgVarPQODiOTSGFxBziQUmC823/S1jG4ZhQ==;uP+y4UCePvUPZ39dbcgTjQ=="

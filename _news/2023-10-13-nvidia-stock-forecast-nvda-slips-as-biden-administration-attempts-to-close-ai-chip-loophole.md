@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "1 Artificial Intelligence (AI) Stock to Buy Now That Could Soar Like Nvidia"
-    excerpt: "Analysts at Bloomberg Intelligence believe the generative artificial intelligence (AI) market could grow at a 10-year compound annual growth rate (CAGR) of 42% to $1.3 trillion as companies implement the tech in automation, product creation, and different types of software."
-    publishedDateTime: 2023-10-12T13:46:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/12/1-artificial-intelligence-ai-stock-to-buy-now-that/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
   - title: "A dip into Artificial Intelligence (AI)"
     excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
     publishedDateTime: 2023-10-15T00:35:00Z

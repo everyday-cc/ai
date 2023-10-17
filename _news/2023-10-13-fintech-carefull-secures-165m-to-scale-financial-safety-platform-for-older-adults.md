@@ -77,15 +77,6 @@ related:
         width: 1000
         height: 663
         isCached: true
-  - title: "Global Fintech Klarna Leverages AI for Human Shopping Experience"
-    excerpt: "Klarna, the AI-powered global payments network and shopping assistant has unveiled a treasure-trove of 13 new products as part of its Spotlight Fall launch."
-    publishedDateTime: 2023-10-12T13:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2023/10/214238-global-fintech-klarna-leverages-ai-for-human-shopping-experience/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
 
 secured: "BOFOguLIkg2N+EVe9JVcSTAK04f7oVEeIvLkYQj5EIVNymzBXQclIaBZvCNP3cm/9MGllNN9PMc78KLh2WbBELpio4pbGIh2mZtoRWlukhDNi1wHQW9Ei785zJcfd2C5L2r0XE8lYylHUU9WhiLcxkXTpsbGU535fR577KU1/zRUoBnksrJA1Hh2uL/x6SuPiZipueTvCy+jp7NPlQ9umNTKRklVT8LBHXDUFf4XmCPsZoJ2YxS0tJ5sHHGxcoKlx5hLO9RhCZ1NUba+FhlWkXQwWg4kyo71jN/BnFbAucSSFs9Ku9c40VIeP9LKl2/IbJlZX8Xf+/B1LXfChMYXnTx98fvi3ZShqyW4qPpONVr0Q9lZaAAXaXSqslZ/zxEzOoPqOb3c6CIVD6bcgItD+bp6/AjGqNKXHFYeRAdMu6Fi7lzFja9sfAfAriepsInG8jJ71fJrFw/YS8JbT8NRlGBWgqGEp/35jNrtDeqUtLBy3F2+gkvcPLo0M05BfvetYH4yPOJHnAjeWdLjAOKcKQ==;D01yOewUhiFyIK+5N/bBsg=="
 ---

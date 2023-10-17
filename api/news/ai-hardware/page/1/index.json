@@ -193,59 +193,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-16-ai-models-can-analyze-thousands-of-words-at-a-time-a-google-researcher-has-found-a-way-to-increase-that-by-millions.md",
-      "title": "AI models can analyze thousands of words at a time. A Google researcher has found a way to increase that by millions.",
-      "excerpt": "Ring Attention' is a new technique that massively expands the context window of AI models, according to researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10",
-      "originalUrl": "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6529e12468f1d46f52b1d4a7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp",
-      "publishedDateTime": "2023-10-16T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-10-16-us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.md",
       "title": "U.S. tackles loopholes in curbs on AI chip exports to China",
       "excerpt": "The new rules will be added to sweeping U.S. restrictions on shipments of advanced chips and chipmaking equipment to China unveiled last October.",
@@ -254,7 +201,7 @@
       "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 404,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -1413,6 +1360,49 @@
       "provider": {
         "name": "GSM Arena",
         "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-samsung-accelerates-efforts-to-lead-ai-chip-market.md",
+      "title": "Samsung accelerates efforts to lead AI chip market",
+      "excerpt": "Samsung Electronics made a series of announcements demonstrating its competitiveness in semiconductor production, as the chip industry expands alongside artificial intelligence (AI) and the emergence of ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_360591.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_360591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/650e6dcfcaf843ed9e89b114ca28d647.jpg",
+          "width": 750,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591",
+      "publishedDateTime": "2023-10-05T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
         "images": null,
         "publishers": null,
         "authors": null

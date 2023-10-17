@@ -69,15 +69,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Carta Healthcare survey results indicate that education around AI may improve consumer trust"
-    excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Carta Healthcare®, a company whose mission is to improve patient care by harnessing the value of clinical data, today announced the results of a survey measuring American perception and trust of artificial intelligence (AI ..."
-    publishedDateTime: 2023-10-12T13:42:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231012647360/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 40
   - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
     excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
     publishedDateTime: 2023-10-14T13:06:00Z

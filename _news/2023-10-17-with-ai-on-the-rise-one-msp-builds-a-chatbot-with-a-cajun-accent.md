@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vistry Rolls Out Generate AI Chatbot For Online Ordering"
-    excerpt: "San Diego-based startup Vistry says it has launched a new, \"conversational AI platform for food commerce\", which provides a chatbot which can take online food orders. According to the company, its AI Customer Assistant chatbot is called LumoChat,"
-    publishedDateTime: 2023-10-12T13:55:00Z
-    webUrl: "https://www.socaltech.com/vistry_rolls_out_generate_ai_chatbot_for_online_ordering/s-0083682.html"
-    type: article
-    provider:
-      name: Incubators
-      domain: socaltech.com
-    quality: 17
   - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
     excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
     publishedDateTime: 2023-10-16T13:00:00Z

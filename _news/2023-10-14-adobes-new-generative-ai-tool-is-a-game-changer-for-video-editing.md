@@ -54,22 +54,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "How Adobe is leveraging generative AI in customer experience upgrades"
-    excerpt: "They start to build a map of your brand's benefit to their lives ... Also: Adobe Generative Expand adds to Photoshop's AI arsenal Companies that maximize the perceived pre-benefit bring in more fresh opportunities. Companies that maximize the actual ..."
-    publishedDateTime: 2023-10-12T15:17:00Z
-    webUrl: "https://www.zdnet.com/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-adobe-is-leveraging-generative-ai-in-customer-experience-upgrades/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/1cece709d5fe4df7d14b8770ec21f19b19242067/2023/03/21/b3d81f07-31e0-455d-b67c-87c27c0bd51d/gettyimages-600781912.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI and migrations to the public cloud"
     excerpt: "GenAI can analyze application dependencies, network configurations, and security risks, but it will mostly help lazy companies that aren't doing this anyway."
     publishedDateTime: 2023-10-13T09:05:00Z
@@ -265,15 +249,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 49
-  - title: "Generative AI In Industrials"
-    excerpt: "Those in the industrial sector that are fully cogent in their generative AI investments have an opportunity to gain a real advantage."
-    publishedDateTime: 2023-10-12T13:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/12/generative-ai-in-industrials/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "How to Capitalize on Generative AI"
     excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
     publishedDateTime: 2023-10-16T16:00:00Z

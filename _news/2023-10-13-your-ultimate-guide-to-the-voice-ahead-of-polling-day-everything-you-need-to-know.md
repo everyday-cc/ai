@@ -76,15 +76,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "Voice to Parliament referendum 2023: Everything you need to know"
-    excerpt: "Saturday’s referendum day will mark the close of a long-winded chapter of polarised debate over Indigenous rights in Australia."
-    publishedDateTime: 2023-10-12T14:45:00Z
-    webUrl: "https://www.theaustralian.com.au/breaking-news/voice-to-parliament-referendum-2023-everything-you-need-to-know/news-story/d89ed36b0eba1bd9a457936d638466a3"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "DCBo2Y3djXHPwPRJZxRk38aQubs3qjGJim/W4bBL6phFvsGqg7hx9lhT3mo9ilDYjy9zsPynxuQHirlGfh3JtCI2LRIvykBT9dQjSdL5X1a7eRIRzLfhGoCTyFQ2cuVZUQSD68kh2IYh1jmNyET738Qhem+fRDlSf1FOVXPxC83noreFoGdxmyDFEb4sRj5vmGdqpsaosLyTVwkc55e/dg5vkgloyJ0p595VgzJFWoajWZ27RH8TBZu/WARzG8glt2OEHYNlYwSDPX57pQqUMded6Y4S2u4SqyYJExvn8I5/QIrZvkCQUmDilQLPmkM/R9WhSYJAIMaz9ZheSARgA1jU0tiw93rTRyi1rYjiusa5Olyjs2TJkQEUxdCzWtqzfFFBDR7SnsJhihpeW67y4tP1dEzdLODnwPICmtuMhP7jpHvhcIbBwLocjaN+7mY+HrtBzKV7FJHe6SJZxdNETXuiyaavNH1BpoOc3de9ho5gyC7TbNanyP3z0UYlv6Qe7MHon5z2mfK+L3VouKStMA==;ZI1LIL0SMK51EXZqrEuAwQ=="
 ---

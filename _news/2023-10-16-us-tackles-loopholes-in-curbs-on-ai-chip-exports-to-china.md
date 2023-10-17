@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html"
 type: article
 quality: 104
-heat: 404
+heat: 414
 published: true
 
 provider:
@@ -341,6 +341,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--CjoCHHF5--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-15t231302z_2_lynxmpej9e0c3_rtroptp_3_usa-china-chips.jpg?itok=xnT-OAkR"
         width: 1200
         height: 676
+        isCached: true
+  - title: "US To Deepen Chokehold On China's AI Chip Access"
+    excerpt: "The United States is expected to announce a new set of rules that aim to prevent Chinese firms from sourcing American-made high-end artificial intel"
+    publishedDateTime: 2023-10-17T07:18:00Z
+    webUrl: "https://menafn.com/1107253503/US-To-Deepen-Chokehold-On-Chinas-AI-Chip-Access"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/17/AT_709b3image_story.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Upcoming US rules on AI chip exports aim to stop workarounds: US official"
     excerpt: "Find out more about subscription packages here. THE US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s upcoming actions to ..."

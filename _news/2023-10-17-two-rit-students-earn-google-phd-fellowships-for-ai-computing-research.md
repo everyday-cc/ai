@@ -42,20 +42,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "Google touting AI power on new Pixel 8 phones"
-    excerpt: "Google is leaning into artificial intelligence with its new Pixel 8 and Pixel 8 Pro releases. Lisa Eadicicco, a senior mobile editor for CNET, joined CBS News to discuss some of the features on the new products."
-    publishedDateTime: 2023-10-12T14:04:00Z
-    webUrl: "https://www.cbsnews.com/video/google-touting-ai-power-on-new-pixel-8-phones/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/12/0ea2fce4-3714-49f1-af9a-84173784a4f9/thumbnail/1200x630/0f1dbe5bbfcb6ff97f940409745281ed/cbsn-fusion-google-touting-ai-power-on-new-pixel-8-phones-thumbnail-2365747-640x360.jpg?v=69c515fc2d8624858c50a235751c5acf"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hPgC3VwiTGEQg78G/3iLzenVsClOUJaY0cDKt+eY2i1192ONLScACaJffqwx0oVZgp4ZElRvihgjHcdJh15pjBd06gBthvFtTjTAkL6ypfdEvx3OB+i4VPxvthFmuHH2U2lUiItyXDxg7tRXvt2bnFlBfqGvsIBr2GKOc6V//uGkNjMHSRvF7Ec4SoxLQNqMaHR0IMh1gdGfWdBsyxzRuQsCZGzDK4NRXDFz32DoSETa0MQedB6lHl0h/PI311Fzw8mlFnFjVVg6oqZFU90ZePFY3qfeO39mSyhRvPl0EOLy+YHGakGUf2Go9mX1aYGkMbEnLc8Iu1Rqnd18Jw0cn+qJ3lMdD36lp3BMkmA33EdQLpXR/N2xwzWAPCc2OTrdHyWzBVvbrDZpFcEaUOPXPbthPJTif4/uz0ka141EU7Csch/GM43KNTeqzFpTmGxbJIzMyQi7XfuGFM070BjHWoYgiaOmAftQ1mwqS7sEATBzpNj5xawuCn7U4sHWjX+6jZ5yZ37CwY+Hw23hOIo//A==;5XKO1TeNx9+u62vds9WYVw=="
 ---

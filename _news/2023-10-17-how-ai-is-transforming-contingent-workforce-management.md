@@ -55,22 +55,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Implementing AI into software engineering? Here's everything you need to know"
-    excerpt: "In a journey rife with opportunity and risk, how can developers confidently navigate AI's inherent unpredictability? Our resource guide gives you tips and tools for a head start on your next AI-enhanced programming project."
-    publishedDateTime: 2023-10-12T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/implementing-ai-into-software-engineering-heres-everything-you-need-to-know/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b621a19a7a8a179ac4529d95cbf983989647197f/2023/09/20/4a2888a9-76ee-4157-8690-00d1c67fae23/eyeglasses-codegettyimages-1442975239.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Zib Digital Talks About AI-Driven Digital Marketing"
     excerpt: "AI driven technology is having a profound impact on various aspects of digital marketing, from content creation to personalisation,"
     publishedDateTime: 2023-10-16T07:48:00Z
