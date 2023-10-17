@@ -39,6 +39,22 @@ related:
         width: 390
         height: 220
         isCached: true
+  - title: "Peter Dutton accused of 'playing politics' after backflipping on pledge for second referendum on constitutional recognition"
+    excerpt: "Deputy Prime Minister Richard Marles has accused Opposition Leader Peter Dutton of playing politics after backflipping on his pledge to hold a second referendum."
+    publishedDateTime: 2023-10-17T02:22:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-accused-of-playing-politics-after-backflipping-on-pledge-for-second-referendum-on-constitutional-recognition/news-story/66be5048931bc1498c7cb578974b2dca"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-accused-of-playing-politics-after-backflipping-on-pledge-for-second-referendum-on-constitutional-recognition/news-story/66be5048931bc1498c7cb578974b2dca?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/peter-dutton-accused-of-playing-politics-after-backflipping-on-pledge-for-second-referendum-on-constitutional-recognition/news-story/66be5048931bc1498c7cb578974b2dca?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
+    images:
+      - url: "https://content.api.news/v3/images/bin/0405f6e031a2cf0917d095b9a18dadea"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dutton accuses Labor of trying to be 'tricky' with wording of referendum question to 'cloak' Voice in constitutional recognition"
     excerpt: "Opposition Leader Peter Dutton has accused Labor of being \"tricky\" with the wording of the referendum question because it \"knew there was support for recognition but not for the Voice\"."
     publishedDateTime: 2023-10-16T08:56:00Z

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Education
+  - IBM AI
 
 images:
   - url: "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg"

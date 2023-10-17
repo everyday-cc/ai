@@ -37,6 +37,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Referendum on Indigenous recognition wrecked by poor Yes campaign and No camp misinformation"
+    excerpt: "The defeat of the referendum to recognise Indigenous Australians in the Constitution is a tragedy for Australia. Indigenous people voting in remote and regional areas overwhelmingly voted Yes while the nation overall voted No."
+    publishedDateTime: 2023-10-16T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 28
   - title: "Scott Morrison unleashes on PM for ‘arrogance’ over Voice"
     excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the ..."
     publishedDateTime: 2023-10-16T23:20:00Z

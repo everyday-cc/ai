@@ -21,22 +21,51 @@ topics:
   - AI
 
 related:
-  - title: "How the Voice to Parliament compares to other countries’ Indigenous recognition"
-    excerpt: "In a referendum campaign defined by its division, the 'yes' and 'no' camps wholeheartedly agree on one aspect of the proposed Indigenous voice."
-    publishedDateTime: 2023-10-13T18:37:00Z
-    webUrl: "https://7news.com.au/politics/federal-politics/how-the-voice-to-parliament-compares-to-other-countries-indigenous-recognition-c-12137249"
-    ampWebUrl: "https://7news.com.au/politics/federal-politics/how-the-voice-to-parliament-compares-to-other-countries-indigenous-recognition-c-12137249.amp"
-    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/politics/federal-politics/how-the-voice-to-parliament-compares-to-other-countries-indigenous-recognition-c-12137249.amp"
+  - title: "Scott Morrison slams Anthony Albanese 'falsehood' and claims failed referendum has set recognition back 'many years'"
+    excerpt: "Former prime minister Scott Morrison has rejected suggestions that Labor ever supported a bipartisan effort on constitutional recognition for Indigenous Australians if it did not include the Voice to Parliament."
+    publishedDateTime: 2023-10-16T08:03:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/scott-morrison-slams-anthony-albanese-falsehood-and-claims-failed-referendum-has-set-recognition-back-many-years/news-story/84df2415866dea87d55b509cdf8dcf98"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/scott-morrison-slams-anthony-albanese-falsehood-and-claims-failed-referendum-has-set-recognition-back-many-years/news-story/84df2415866dea87d55b509cdf8dcf98?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/scott-morrison-slams-anthony-albanese-falsehood-and-claims-failed-referendum-has-set-recognition-back-many-years/news-story/84df2415866dea87d55b509cdf8dcf98?amp"
     type: article
     provider:
-      name: 7NEWS
-      domain: 7news.com.au
-    quality: 40
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 36
     images:
-      - url: "https://images.7news.com.au/publication/C-12137249/f13b2738c1cb960cdab760aec0becd8f6d0cec23-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
+      - url: "https://content.api.news/v3/images/bin/ec787146c8a8d372e3034ceabb1a3bbf"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
+    excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
+    publishedDateTime: 2023-10-13T08:15:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812"
+    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 16
+  - title: "Scott Morrison unleashes on PM for ‘arrogance’ over Voice"
+    excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the ..."
+    publishedDateTime: 2023-10-16T23:20:00Z
+    webUrl: "https://www.couriermail.com.au/news/national/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
+  - title: "Dutton walks back offer of a second referendum on Indigenous recognition"
+    excerpt: "Opposition Leader Peter Dutton has walked back his offer to symbolically recognise Indigenous Australians in the constitution, declaring the public is “over” referendums following the Voice’s defeat."
+    publishedDateTime: 2023-10-16T19:36:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/dutton-walks-back-offer-of-a-second-referendum-on-indigenous-recognition/video/f2529455238a2a643effb82710da9ea6"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 3
 
 secured: "UiwV1fYCfpG2nkvPPQsAUmjxEg7bXfAhWS3uvsux6DeNT616g2J2OcScKtXTFOzRdl4itBE/fH9+7XGRHlHgjJKBuzrKQPAbLCsd9d78csyiay5ZekYqJMHCYysYwglBcphgLNdii3PXGRoYPhNEtETAKzEPxbz0eErxq9hXFkQZDjaKvRW4UkKfoPF5l5vymbvm427AN6gVWahMAl6Z2wF1YM38VsQ6HccQwzw0V7f1vBjyONWIwixZdyG+xEN8qmsMG9riivUvcKBTwYv7af5mIMlpE3C6AZia7h77x3zQxVFlbWiiVbsTPv6+WAPZdbxF24Ng6hZJGrCxUDv3CANTnTyI+4sG/5k2aDUW0S82IqaEDobE2FcvKG3x4HTVwqFZn1EMnwsoW63vIZq/6k5HXC/zdJTT7b+H0r8eCk5LyJASx9maMs2aDDKTsOrhag7gACfJjOc8ChuyQ9/ZNyZV6mgUsj/UGx6Gj4jfxkDOItKThPmzWt6TTTlKRxpCE4F7GVH7BAZD4/r6HCU6Fg==;23wGQ82kFqBSvYPeY4Ra4w=="
 ---

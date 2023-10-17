@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apple
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2023/10/13/ai-could-be-apples-next-chapter/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "How AI could supercharge battery research"
-    excerpt: "Aionics is working to use AI tools to help researchers find better battery chemistries faster. The company is primarily focusing on electrolyte, the material that shuttles charge around in batteries. “This is a huge opportunity for us to accelerate this whole industry,” Sendek says."
-    publishedDateTime: 2023-10-12T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/12/1081502/ai-battery-research/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/12/1081502/ai-battery-research/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/12/1081502/ai-battery-research/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
 
 secured: "0mUGiPY0+e2Ab2mTbTnRemSgu4czeKXpQSbEJmHvJINW+QkWNJymK8Ry2jCWzyiNvY058w0y6fPqgL4lH1j0M/Vm9D/r095HPh1jdaIjsrmoRgu5tDja/WF7pRuwE3XFf/I1zg1fOjF5JJnvPCM/Bb1GIKbZzd8KZJbz3A2crZJTRJ22B/ixzOuIw+lbdGosXCkMHyM3/I8E+K9JKjgdLb+j606/Syxz/AB98swQY0jIyYBeBjwCUzTXk2wRq1nlmGkEge0ng0887Myi02RRy53iLP6NstFee8yvU6jgsf/Pwwg4QyZ9g7LMSTAHsS2unc1LeK163ySiMuDqtCXjPtxLSvXzSfYHNVV6/dBgfCA=;IVw/hxPotuikQGCMHGQZtw=="
 ---

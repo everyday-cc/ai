@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-aw
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/digital-awareness-in-the-age-of-ai-metaverse-and-quantum-computing/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
         width: 1528
         height: 800
+        isCached: true
+  - title: "How Small and Medium-Sized Businesses Can Thrive in the Digital Age Using AI"
+    excerpt: "What if we told you that AI is also effectively transforming small and medium-sized enterprises in this digital age?"
+    publishedDateTime: 2023-10-16T15:04:00Z
+    webUrl: "https://www.talk-business.co.uk/2023/10/16/how-small-and-medium-sized-businesses-can-thrive-in-the-digital-age-using-ai/"
+    type: article
+    provider:
+      name: talk-business.co.uk
+      domain: talk-business.co.uk
+    quality: 36
+    images:
+      - url: "https://www.talk-business.co.uk/wp-content/uploads/2023/10/shutterstock_2252763175.jpg"
+        width: 1000
+        height: 510
         isCached: true
 
 secured: "gr1GwR5kySHbTtVxit8dVlzEQC9Wc0TN1Ovzpd2xkRWn6C3TRqKuO8ijHRYcxXSYMF3kqX4RXX6C7Nf4+nCZnS1tMfSTSFXNn6ogbGUH2DNck6RENelLLZ+cFREjirYGyGz5XC3PbplKcdu+g7x2hX89Y4fz3RUqs5Q1dsop2BQ738QeFaeHMJUrzmbcRtN4xMHKRO3ROOPoa0PeBANhSt7fAfXhvN5L0TXy5t2jO7MKVsAVmRVKHntcSNmEadGjTnYxHR7qOlQrRn7//OUrBJhrUjNE3luyqdIotBuPpQJ/q5OGjRXGqyC8h9JTCRTHQ4znunpjhPhp2VTWYO0pUsWxRQGEjnlT+RUWL9HXFJQrnovmwEBzvSHHuJr/LbeOizpFpuV3FKWhTqwsGpJvJrclUQ8X35yMiCuKSJUYwqVcMIjNelJDBu+JYQ1LC+2zP5ukNXIezR36qpSBvuXbc37dYAZKbIAp0mOTdd5oVH3vH/AVaXGkEAkEmJxeCjBAwkYrfuHEDaULiTF9py28BQ==;1luLOAwcCh6VLz4Tx8mZOw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-t
 webUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_10/story_70171/assets/17.jpeg?time=1697452527"
         width: 732
         height: 977
-        isCached: true
-  - title: "Alphabet’s AI Lab DeepMind Cut Employee Costs by 39% in 2022, Reported Decline in Profit"
-    excerpt: "DeepMind, Alphabet Inc's AI division reduced employee expenses by 39% last year within its cost-cutting strategy."
-    publishedDateTime: 2023-10-12T09:08:00Z
-    webUrl: "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/"
-    ampWebUrl: "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 65
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-deepmind-cut-employee-2022.jpg"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "22ZgW0mFr+oeKarBV5pEX4KNlXNULmlMYjUt9inBEuljSg4GvX0W7Ac3CLtZrO7/FuOzjDh9VYYUXUxScAfmEzQ4qpN8QKmxBGsiYtT5IF312zyXEsZdNXZY4tKhKc7Gbc7YtXjMtje1hF9ANY7g7sFwHhPzr5wAQ8hFCywvOZ9J/LFrmlJLoHFu3B25B9kvHFLWIqxSNg09kiLtJnLAU8tk12P5lFgXH48oCf7gV87ZVr+NEbE4q1+puCYQ8M2MHcMMSoQ27xhgClAu/1LB/k3MD/Ks7+1XV6IIJXEeyDduzheT7AMCEnW8YYKP+V35EqaoHmXu1vQd+6Vm+LUuYzDMCtha1XAgVEbmbrGJRMQ=;VzbfAJ8w0g1KfU0Qy3em7Q=="

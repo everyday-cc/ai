@@ -86,6 +86,20 @@ related:
       name: Skift
       domain: skift.com
     quality: 71
+  - title: "Microsoft’s Healthcare AI Efforts Holds Huge Promise for Patients"
+    excerpt: "Microsoft’s ambient AI is great for physicians in that it automates the creation of the clinical note. But it’s also great for patients used to doctors turning away from them to type into the health system’s electronic health record to record the doctor-patient encounter. You have your doctor’s full attention and a screen is not in the way."
+    publishedDateTime: 2023-10-17T01:33:00Z
+    webUrl: "https://medcitynews.com/2023/10/microsofts-healthcare-ai-efforts-holds-huge-promise-for-patients/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 71
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
     excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
     publishedDateTime: 2023-10-15T18:30:00Z

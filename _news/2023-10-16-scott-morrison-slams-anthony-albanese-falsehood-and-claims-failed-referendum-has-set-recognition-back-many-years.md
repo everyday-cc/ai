@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Referendum on Indigenous recognition wrecked by poor Yes campaign and No camp misinformation"
+    excerpt: "The defeat of the referendum to recognise Indigenous Australians in the Constitution is a tragedy for Australia. Indigenous people voting in remote and regional areas overwhelmingly voted Yes while the nation overall voted No."
+    publishedDateTime: 2023-10-16T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 28
   - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
     excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
     publishedDateTime: 2023-10-13T08:15:00Z

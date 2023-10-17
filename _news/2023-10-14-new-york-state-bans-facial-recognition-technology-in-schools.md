@@ -44,15 +44,6 @@ related:
         width: 942
         height: 630
         isCached: true
-  - title: "State of New York Makes Moratorium on Facial Recognition Technology in Schools Permanent"
-    excerpt: "A temporary moratorium on the use of facial recognition technology in state schools is now a matter of law in New York, following the conclusion of a study that found that potential rights violations outweighed the safety benefit."
-    publishedDateTime: 2023-10-12T11:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/state-of-new-york-makes-moratorium-on-facial-recognition-technology-in-schools-permanent/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 10
 
 secured: "EdJDGqKGLcvI5ANWi1bwN5NqjmnZZr4ZwTSv15d8Tal1/IqcR0aKueNw7zl2YaqXPJXG1RpeSm3IRXRnd0qd9osi8R7+d3iT0E/V5vmU7EVo+0xIBRLY0AdmCVn9zk1lBoB8vEZCweeOOgxUIIY0DkWdU3++yOeiiGmoQqd1b064PI0sSK+6QiE/ociBhqNz+CvmhpQlWdEglQZfFebTqClnRwZb3WIQnrkDSg0LtbOKTyHImrC8s0bEKPk3SkEloXv1a8ZMZk7Zf1q+YtZpHUlScaFzV15FIVHpaHkg8Jntr6jGPzX5j662h9nW/xZqbXPq3PX+Bme+hLcR3IzZZtP4jtGkPHMlEYRwXYT7lf9MhG5GaA/BQg8QzcJCV/CN7LK7cXy5MHRkq8P7VpAGycuKVsnWFbqU9oVzRbTsUMSUj/sTev6VVclGMaSAZ8CPkbeEJpyX9d1YQ6N/1fhw0ggtmnmNEJWt1MoVj5Xq7lU4D1lmXjk/mL1ECCABLmMWYxTvLqJf0hDbMItOVQE5kA==;3GBJXF5zQpXabcvqZDk8cQ=="
 ---

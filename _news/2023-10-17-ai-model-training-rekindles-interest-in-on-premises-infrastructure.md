@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-17T00:31:00Z
 originalUrl: "https://siliconangle.com/2023/10/16/ai-model-training-rekindles-interest-premises-infrastructure/"
 webUrl: "https://siliconangle.com/2023/10/16/ai-model-training-rekindles-interest-premises-infrastructure/"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/1.png"
@@ -52,6 +53,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "CtWD6b/1spe/DFxO6ewYkaPVKpTs8Cl+J250RdNc5vexY7bqm6Nbrncjx5OS6xu2PdTzaZG2+tV1DxgKCRwe0ajDjJHeOHYMjH23oEtd8JC/6/TyTDodITw/pvEjDfjnlaZrkf3t5ms2nHMBoZilrtj1jgfrZ76nc+4yGj0t2ZrxPofqif6piaPZhm1N815fd7MCkphwlacNaHDeP+P6M9CzBQdJ2y2pF1EbDFmdTfobDoMQTu6s/mmEXIZBDIosShLjjB/JTFh/bcnmX4NPnZ9YXVKo1OdDJ2Ft3n3o1X13j+D5+Wgy9JUXfzqLQmvlnEgLLynprRY6q8l1UU/wg5YDzi0XFukLt5xecWolZZ0=;EfNEilz2WAVCvRMNR5lylQ=="
+secured: "R401BrHQSKiL93OxG25bOjRowMS5x9Lp6YcI8yvRmc6bUkf1hPwo4n9VeMot8XHL3tQY8rnU9Ceomx/oNNvDZtiJ1vNsFdt6sN+lPj3blFrVEjjW5c9iOSv+WK38ss5vOOWtCprdwGkq2Wdeuf6IsE0caiwWPyQDEXACrEBPrTisepN7tqpJ3y2GWwktMPV5x+1taMcE5UgD1wOzuMmB8R8XVRMpQv5DiMroVn45Z7YJPEq8k5KwxwK9b013MqHBreBOzw4mcJV+nxWgE1I1YvOKg89AdDbq0IncdpySxRMhnWGb7MBxDWPL5iN1x/27sXxRxjFSnoIzYIxGdtpJR4Gij7lrKIm7yriY3vBkZCzkB7i3QAe/wbVkBSByvGFrMK7Wtmh9A5XTHQs7CRTa/iJwqgrDHZDg77SK4YDpIpBzCKlYJ4Pt+8xs6qtQ0FrIWa1PvHir3lhm65zKrvNfdPI6RnvRVMocVpx+G0m9ru9eTOabze/o04M257yliBFKNfioEdOwnh04W5DJDUbvtA==;E08Bgos9huXDuk/yhmojKQ=="
 ---
 

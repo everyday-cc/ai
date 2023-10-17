@@ -19,15 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Cruise driverless rideshare debuts in select Houston neighborhoods"
-    excerpt: "After months of testing in Houston, Cruise autonomous vehicles became available Thursday to the public for rides from 9 p.m. to 6 a.m. in downtown, Midtown, East Downtown, Montrose, Hyde Park and River Oaks. Anyone can sign up to ride on its website."
-    publishedDateTime: 2023-10-13T20:07:00Z
-    webUrl: "https://www.houstonchronicle.com/news/houston-texas/trending/article/cruise-autonomous-vehicles-18423907.php"
+  - title: "Dubai Police to deploy driverless patrol cars with AI smarts"
+    excerpt: "Dubai Police is planning to deploy fully electric, driverless patrol cars with AI smarts capable of spotting suspicious behavior."
+    publishedDateTime: 2023-10-17T01:45:00Z
+    webUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 19
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 104
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/dubai-police-robocop-car.jpeg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Dubai announces self-driving taxi tests"
+    excerpt: "Dubai’s RTA has started tests of self-driving taxis in Jumeirah 1. The Roads and Transport Authority (RTA) and Cruise, a self-driving technology company, began supervised testing of Chevrolet Bolt-based autonomous vehicles in Jumeirah 1 area of Dubai."
+    publishedDateTime: 2023-10-12T20:26:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-self-driving-taxi-tests"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 39
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/10/12/dubai-self-driving-taxi.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
+    excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
+    publishedDateTime: 2023-10-16T14:02:00Z
+    webUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 36
 
 secured: "0sjbj1jddSaUgqStFIMPKjhgJuxYYnv8+4LAbWQTZ8NdXrmpxUAQFh8AwtZitvLQSjczteUnGGf8GgPWnAu7rKhqGolNJ43hn6dz5W3ZMSfwWbcD4siUE2g9Y/sxgVlB3DPfVYlwuwXmUkGiFgBoZApOdooe/l8edgI3BIJKuTKt2FHy6juevhy37khzJcCzL8ElUBsFL1SHRlSUG+CfAiJ5/pwmpLrmbTN6GkOdFsDeOc9shcMKghAuIftfHvDanVbIJKiEXdXjr5Fc02mT4/lcm5yTA3H2yGP6BlJcDeb7d3JtDaqT6xWYfON/+ExgkRWXQLgg5wBvCa5kRuEW1OGEdQ2ERdxbJAtGBqXbkQBBS/3qjrgY5edTJMdWUQGYv7NJ3/EX+997DgL3OSfx0vFCayvAK/CyFyNT+1ZAUZUyGstBprUp585UhDgSfnESzUwp6pplLaApPOJ9Smf61Tmcf2g7lvL6XHr4B3FTDnXZVn+fL3LpdTA/b/aCVNZ1u4zdpVKm7Gp/6Dn+LOWPTw==;nqtmIML3luFGtgyymc0BKA=="
 ---

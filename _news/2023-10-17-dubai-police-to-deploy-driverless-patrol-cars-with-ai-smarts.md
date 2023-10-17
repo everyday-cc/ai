@@ -1,0 +1,69 @@
+---
+category: news
+title: "Dubai Police to deploy driverless patrol cars with AI smarts"
+excerpt: "Dubai Police is planning to deploy fully electric, driverless patrol cars with AI smarts capable of spotting suspicious behavior."
+publishedDateTime: 2023-10-17T01:45:00Z
+originalUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/"
+webUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/"
+ampWebUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
+type: article
+quality: 104
+heat: 134
+published: true
+
+provider:
+  name: Digital Trends
+  domain: digitaltrends.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/dubai-police-robocop-car.jpeg?resize=1200%2C630&p=1"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Dubai announces self-driving taxi tests"
+    excerpt: "Dubai’s RTA has started tests of self-driving taxis in Jumeirah 1. The Roads and Transport Authority (RTA) and Cruise, a self-driving technology company, began supervised testing of Chevrolet Bolt-based autonomous vehicles in Jumeirah 1 area of Dubai."
+    publishedDateTime: 2023-10-12T20:26:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-self-driving-taxi-tests"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 39
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/10/12/dubai-self-driving-taxi.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
+    excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
+    publishedDateTime: 2023-10-16T14:02:00Z
+    webUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 36
+  - title: "Research into new laws for driverless cars in Jersey is under way"
+    excerpt: "RESEARCH into the law changes needed if driverless cars were to be introduced in Jersey is being carried out by the government.The news has been welcomed by Digital Jersey chief executive Tony Moretta,"
+    publishedDateTime: 2023-10-15T13:44:00Z
+    webUrl: "https://jerseyeveningpost.com/news/2023/10/15/research-into-new-laws-for-driverless-cars-in-jersey-is-under-way/"
+    type: article
+    provider:
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 19
+
+secured: "i03sKpQocw864J2K/Ym3K8FobzySpsT/WIFQgcspTvztpRXbJvl14ByQBtkUS5S4ZhCJ6HStWBJhQIqNlMI8ru+mHv/k6x9geSCYJCDfox36euYAUkA6nVFLPZUZWWaARakm7SwuN7yfl4xjbDmTtBnprvS3e5koeMh1izWST4dtNNzVhG8KMOaqmuoEKGH2zRileNga2OFUOeXJh8kLUMZM+rn5pGbQ4x3jYV409mrxACyAMU6bDThx9LlExF7v2jGm+4X2ycHdE+0sPZbhLdiQ/A68UDRzNOL/LuG96OkDzIa4c20c+xd9MhBN0T4gEYqA2HJ9m7nHCpoia/qVK3y8ZjKZ1DVB6G7skz+es5c=;HLNZ2WC/itw2PohfbAd0kg=="
+---
+

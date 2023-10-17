@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "UK workers turn to AI seeking better work-life balance"
+    excerpt: "Staff are increasingly turning to artificial intelligence to free up more time away from work, research shows."
+    publishedDateTime: 2023-10-17T03:51:00Z
+    webUrl: "https://www.dailymaverick.co.za/article/2023-10-17-uk-workers-turn-to-ai-seeking-better-work-life-balance/"
+    type: article
+    provider:
+      name: Daily Maverick
+      domain: dailymaverick.co.za
+    quality: 39
+    images:
+      - url: "https://www.dailymaverick.co.za/wp-content/uploads/2023/09/iStock-1493060486-copy.jpg?w=1280"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "8dFoN6+0j7UsVFzEd+Ian8on5xc/TcdbyoqW7YHR59pxXGiucrRjLgmglPAdFujuzjQzwGLdw8qFpTPdlSre79n/kRTZhcAOslwfmsNvVHFxeICApFPz3l9a/bvcJ6mmKGpvS52cEs5NHXkDSztuyY4vRBicOSZJf9AC82zk7DUv7guFZc1L7g73mmUph04ZIKVIh3ulSPvWlnVFIMO4xuYIEU2slSKmPI56BD0vFkNkTvA+Bx5+OH2H9Vj8NGXggMzS+IBr+IAe60i++maUZkNA++xEHzvw3tEG9sTSoQ4ItREYS/DaJYQxjg47kIuRhbW6H0YFDFsQEROwl4El8AreUNIsHXyRZQfgZ+7JrVBAc3H3WQgDmpR4dKnC+41wDW2TfA7RWPjj+dOQVLQpTNA8g4oJFQ81tzp0T13ZIHNlgSrWMGUwHmaeIrfECRQI93xTrJoqFfNywYUoKUVCluHqRLPDmDcG8d03pQf8o6LoLqmDiEP1uUcUP8idOrMf7q1BjJucyOl1QPPxBUbABw==;qBBbixJtkskY3wrhj8uCCg=="
 ---

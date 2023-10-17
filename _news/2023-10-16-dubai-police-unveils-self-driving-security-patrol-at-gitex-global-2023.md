@@ -20,71 +20,45 @@ topics:
   - AI in Security
 
 related:
-  - title: "Dubai’s RTA unveils facial recognition for Nol cards at GITEX Global 2023"
-    excerpt: "Facial recognition for Metro Nol cards. One of the highlights of RTA‘s showcase is a smart gate that allows commuters to pay for public transport fares using facial recognition"
-    publishedDateTime: 2023-10-16T04:36:00Z
-    webUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/"
+  - title: "Dubai Police to deploy driverless patrol cars with AI smarts"
+    excerpt: "Dubai Police is planning to deploy fully electric, driverless patrol cars with AI smarts capable of spotting suspicious behavior."
+    publishedDateTime: 2023-10-17T01:45:00Z
+    webUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/"
+    ampWebUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 53
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 104
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/RTA-GDMO5-P01-15-10-23.jpg"
-        width: 931
-        height: 622
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/dubai-police-robocop-car.jpeg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Respond.io to Showcase New Artificial Intelligence (AI)-powered Solutions at GITEX Global 2023"
-    excerpt: "including healthcare, IT and SaaS, logistics, e-commerce and education. Concurrently, respond.io will also participate in Expand North Star Dubai, the world's largest global startup event, held at Dubai Harbour in conjunction with GITEX Global 2023."
-    publishedDateTime: 2023-10-12T11:08:00Z
-    webUrl: "https://www.myjoyonline.com/respond-io-to-showcase-new-artificial-intelligence-ai-powered-solutions-at-gitex-global-2023/"
+  - title: "Dubai announces self-driving taxi tests"
+    excerpt: "Dubai’s RTA has started tests of self-driving taxis in Jumeirah 1. The Roads and Transport Authority (RTA) and Cruise, a self-driving technology company, began supervised testing of Chevrolet Bolt-based autonomous vehicles in Jumeirah 1 area of Dubai."
+    publishedDateTime: 2023-10-12T20:26:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-self-driving-taxi-tests"
     type: article
     provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 42
-    images:
-      - url: "https://www.myjoyonline.com/wp-content/uploads/2023/10/2e5cbf410480375-70dfwn.png"
-        width: 852
-        height: 528
-        isCached: true
-  - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
-    excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
-    publishedDateTime: 2023-10-12T17:20:00Z
-    webUrl: "https://menafn.com/1107232402/RespondIo-To-Showcase-New-Artificial-Intelligence-AI-Powered-Solutions-At-GITEX-Global-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?236858"
-        width: 369
-        height: 250
-        isCached: true
-  - title: "A self-driving super racing car unveiled at GITEX in Dubai"
-    excerpt: "The driverless Formula car runs on artificial intelligence algorithms and software will be doing its first trial at Yas Circuit in Abu Dhabi in April 2024."
-    publishedDateTime: 2023-10-16T15:01:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/10/16/a-self-driving-super-racing-car-unveiled-at-gitex-in-dubai"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
+      name: Arabian Business
+      domain: arabianbusiness.com
     quality: 39
     images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/auto-race-uae.ashx?h=500&w=750&hash=DF409452C0FA6B0C951865D40DB100AD"
-        width: 750
-        height: 500
+      - url: "https://www.arabianbusiness.com/cloud/2023/10/12/dubai-self-driving-taxi.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
-    excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
-    publishedDateTime: 2023-10-15T19:21:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/10/15/public-transport-fares-can-be-paid-via-facial-recognition-in-dubai"
+  - title: "Research into new laws for driverless cars in Jersey is under way"
+    excerpt: "RESEARCH into the law changes needed if driverless cars were to be introduced in Jersey is being carried out by the government.The news has been welcomed by Digital Jersey chief executive Tony Moretta,"
+    publishedDateTime: 2023-10-15T13:44:00Z
+    webUrl: "https://jerseyeveningpost.com/news/2023/10/15/research-into-new-laws-for-driverless-cars-in-jersey-is-under-way/"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 30
+      name: Jersey Evening Post
+      domain: jerseyeveningpost.com
+    quality: 19
 
 secured: "e3lFcJN5ndprtw9N9BDbRzbLuatAuk5pZcD1CPz1VpofA9zx6dkb//Gy6ze5i/GoTgwcOczUHiw9ilkl6FckK6AlhDcvvqrl4MC/tpTt8k/LQQ6dBHb1JdEplCPhbARsyN5FoK4ZaDYxLRCn1Da/5CKE8EeQKHOEApKju8QhDpytOLPZW4GqVnaWeXbRCULT0mtjHbwR+je9um/P002kiXGKVf6UcY9NKVexWxkqYCyXXEVlkjSInqP4MrysieoRJBhFp5+5rbp/bQPg09yHMBma+L1dMdN5jUu4NIhe9zl9rwCPUDcP4hrfC9MUtNewuw0IbjdCtoKLOK2arFbpKr3HCRV2f22J0prKL7s/fc0=;cAJIGIlDWMvC0JXacXzW2g=="
 ---

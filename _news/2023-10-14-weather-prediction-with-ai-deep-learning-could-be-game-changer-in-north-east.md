@@ -43,17 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How AI could supercharge battery research"
-    excerpt: "Aionics is working to use AI tools to help researchers find better battery chemistries faster. The company is primarily focusing on electrolyte, the material that shuttles charge around in batteries. “This is a huge opportunity for us to accelerate this whole industry,” Sendek says."
-    publishedDateTime: 2023-10-12T10:00:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/12/1081502/ai-battery-research/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/12/1081502/ai-battery-research/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/12/1081502/ai-battery-research/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 37
 
 secured: "VAkTrhFuva5bX3hAqpNaMjdwlV/j9dIv49+v9W7nbQKn93jw5EaN5BQjPzWCRxjPjACzxkAzYaU/96fCcGFkqXVlYrkTmW3XC/WVZPYlyMktnkFNU5a7n/RWdyhVIqNb/CyksZ+5ywojfMn5NxRFM+UFfJ7+gE3EZFN59WnXtYJq9sVcrRrYRRaoDDk3h7s4sqZKA/m0eIXtdDIcs5eDvZf6VW/zvsaafGbYlQlki/BfXSEiBFKc/hePCVWP73qR97TNG2Z+6IpyoHkw08AI6+VgN35V0j/6R4DjYOIxQ1N45ftL6eBM7e2smSCNZGZm4XLGjnYsAavwPY7kW//uwBjh26gryrptVwy2ZG/tJfFtCRidBzPkYNBs3G8hmn7DahftbRSYPXDV1yFwTRaio12qaXKhq1Yngcq1mu5HsqXZwpvg+qSRmrwTWBPJDbXkLvdi2DsRaCBBhNUr20TqdOfUvbdeuHk/HjYd+gJpu22aLE4JZKbADajsF69lblBSU73X4wRDXt14yZPrIWEuRg==;t/emgBxPY2bhnBU0j1SNLQ=="
 ---

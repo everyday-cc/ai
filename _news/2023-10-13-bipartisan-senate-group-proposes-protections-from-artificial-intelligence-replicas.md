@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "After Fake Drake, New Federal Bill Would Ban AI-Generated Deepfakes Vocals"
+    excerpt: "The draft bill – labelled the “Nurture Originals, Foster Art, and Keep Entertainment Safe Act, or NO FAKES Act — would create a federal right for artists, actors and others to sue those who create “digital replicas” of their image, voice, or visual likeness without permission."
+    publishedDateTime: 2023-10-12T20:58:00Z
+    webUrl: "https://www.billboard.com/pro/ai-generated-deepfakes-vocals-banned-federal-bill/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 35
+    images:
+      - url: "https://www.billboard.com/wp-content/uploads/2023/04/Drake-and-The-Weeknd-2018-billboard-1548-1.jpg?w=1024"
+        width: 1024
+        height: 677
+        isCached: true
   - title: "Sen. Blackburn helps draft NO FAKES bill protecting likeness, voice from generative AI replicas"
     excerpt: "Sen. Marsha Blackburn and others have drafted a bill, NO FAKES, to address issues around generative AI replications."
     publishedDateTime: 2023-10-16T10:45:00Z

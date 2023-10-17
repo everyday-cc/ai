@@ -39,20 +39,6 @@ related:
         width: 931
         height: 622
         isCached: true
-  - title: "Respond.io to Showcase New Artificial Intelligence (AI)-powered Solutions at GITEX Global 2023"
-    excerpt: "including healthcare, IT and SaaS, logistics, e-commerce and education. Concurrently, respond.io will also participate in Expand North Star Dubai, the world's largest global startup event, held at Dubai Harbour in conjunction with GITEX Global 2023."
-    publishedDateTime: 2023-10-12T11:08:00Z
-    webUrl: "https://www.myjoyonline.com/respond-io-to-showcase-new-artificial-intelligence-ai-powered-solutions-at-gitex-global-2023/"
-    type: article
-    provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 42
-    images:
-      - url: "https://www.myjoyonline.com/wp-content/uploads/2023/10/2e5cbf410480375-70dfwn.png"
-        width: 852
-        height: 528
-        isCached: true
   - title: "Respond.Io To Showcase New Artificial Intelligence (AI)-Powered Solutions At GITEX Global 2023"
     excerpt: "Respond ( ) a pioneering customer conversation management provider, is set to showcase its new AI-powered solution at GITEX Global 2023 ( hosted"
     publishedDateTime: 2023-10-12T17:20:00Z
@@ -67,15 +53,6 @@ related:
         width: 369
         height: 250
         isCached: true
-  - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
-    excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
-    publishedDateTime: 2023-10-16T14:02:00Z
-    webUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 36
   - title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
     excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
     publishedDateTime: 2023-10-15T19:21:00Z

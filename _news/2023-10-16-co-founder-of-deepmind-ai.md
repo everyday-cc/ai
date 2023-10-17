@@ -57,22 +57,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "Alphabet’s AI Lab DeepMind Cut Employee Costs by 39% in 2022, Reported Decline in Profit"
-    excerpt: "DeepMind, Alphabet Inc's AI division reduced employee expenses by 39% last year within its cost-cutting strategy."
-    publishedDateTime: 2023-10-12T09:08:00Z
-    webUrl: "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/"
-    ampWebUrl: "https://www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-deepmind-cut-employee-2022/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 65
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-deepmind-cut-employee-2022.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "e6IbF579Pr17cu9f1qb2tDH5cZiDfHNRDZVqmo5HpuAt0wDGR0g7N2bRpKU7Mz6ic357nlkmZE1eedkmRmr7JazXZ7jajEKYnvk/kFYPY5vLLWqENAnteko2fvZGjiURDiyG0gtsXPaD/qWdii15vK18l73tBf9wLxeE8Elx/oTaDYm80EbCbtpDGvCk4MDtkkqwDtGOKU6XO0y/OQxqxjIYRrOi0pt5+7ZcRomEqU/5jwPVKZ8dY3uxQJHCBqjIb1T/WdxZuYYFQcRLHtaWQ79BuHNYlJ9vkTF52C98d4h6H0hdS7QHhwaxQ1bx3CrWS2hzPnwCp4BhgKHuUOpT48Gtbf/Ig6bsPqCuQRt3VNGbsHbVyD4b5Q90azY7r9+BZ4804kmGl1xChHfhg8Koj/krx/TxLWAZMEERIYR5mbSufh6+xf5yfRr4MtXqcIuESUFLzaGilTpAzbVFAB8nCeURfSBLJ/xESysN3spMIXF9zCTMPQfnFTZU3u8BA9HvP5BubzXgI/DAKpXihNyiEA==;i/EXvX9YrxOoAnvzhqf4Og=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "‘Digital obsolescence’ & jobs: What the rise of artificial intelligence really means"
 excerpt: "The world knows, and math and analytics prove that technology advancement creates at least 50% of economic growth. I retain faith that AI will create numerous new jobs, even as it eliminates others. Here's why."
-publishedDateTime: 2023-10-16T11:24:00Z
-originalUrl: "https://wraltechwire.com/2023/10/16/draft-tom-10-16-23/"
-webUrl: "https://wraltechwire.com/2023/10/16/draft-tom-10-16-23/"
-ampWebUrl: "https://wraltechwire.com/2023/10/16/draft-tom-10-16-23/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/16/draft-tom-10-16-23/?amp=1"
+publishedDateTime: 2023-10-16T14:46:00Z
+originalUrl: "https://wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/"
+webUrl: "https://wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/"
+ampWebUrl: "https://wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/?amp=1"
+cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/?amp=1"
 type: article
 quality: 50
 heat: 50
@@ -25,6 +25,6 @@ images:
     height: 710
     isCached: true
 
-secured: "H+1PUfs5M8IoaHAvmHaS5rXaAs4kkgds+oXJ6GkWHm/hshWB1gw9h8cHbGlf5waTT1ROTJ20/z9qLSkUhAOTnywMErKWA/tGBMOty8II5Ovigr7dFdlXZ975v3rS7/nvmYx4DGm0ZaqoTE7Gt+7UxpvZJ7J6Q/UyQ1EEwolAlPbyCLg94G0o/N2tJU5TwU9wwcczjZ54ANneJ/r6g4GGvVdi9WrKzPccdr8zayPYe2mIeJdcw2sXDqgP4n9gb872iDAlBytCIS16zTrdWgvSyT4qXe1QKg+Ju4XrMUVhgG5/+JZZEfU12SvVNoGBYz59FEknXMXd4dk1u6gQHSst9Z6rVx6GpiOaCFUjv0kN4pKtIKrO8eSCjaybsv36zO5eptf0rZZSvVI1Wmap74Yxv/8go7Xt4hTUxlm5RSTEjhMrcafiDrpOd5yqstbMuBROg6HhlxPcFQ9VOb5Oz0mvQfCSuNWejq/SqjmRLwfFEgPVxf7TJvNDnN4Z9y9BEUrG0j5rPgt4Exc3kHYcr+C25A==;ljxFhy9ClV4LiAGRXUcYsg=="
+secured: "v1qZgpBeYgqaB8jhh/HHTB5fEq70wYPugJ1s2VSY5MRC/TWSFXVbL2d3ci7HM1J/3XVe8kbf7icOcygb6dPhr5VvwdQx+nytsZ3o5qwchWguEgjlwsRtJw4mvChggeTLml5CknhsLT+RRfqJVWiR76yaZaA+gZ1Mu8nyDwbDKgd/iJ0Kv2+zmGQdFZ+0zdJO84oYVfeE/UIK39y0qPic9eVFvO/+oYgxiea6SxY3FIZs6A3Ep/fwSY0vetn4sSf4ILYvBhELCYr+bvKa39O2QgCgqLHE4b4WqJ+ee4VeU9qRccZUy/jmSqQOg1fkHcJbc9cAUajFGBkvWhJd0muLrWDm6ZCcoHn0rk0yVel1c/c=;3ReiOUCJs4ISTIRVCxdMaw=="
 ---
 
