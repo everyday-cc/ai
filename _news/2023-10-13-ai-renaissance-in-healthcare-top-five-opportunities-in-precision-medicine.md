@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaiss
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
       name: Orlando Sentinel
       domain: orlandosentinel.com
     quality: 28
+  - title: "New report unveils groundbreaking opportunities for U.S. health care transformation"
+    excerpt: "The Future of Health” — a forward-looking report jointly released today by the Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo and the Jacobs Institute — heralds massive potential for improving health care in the United States."
+    publishedDateTime: 2023-10-17T18:32:00Z
+    webUrl: "https://www.buffalo.edu/news/releases/2023/10/UB-JI-Future-of-Health-report.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 0
 
 secured: "UTJviL9RtOu+R+6IiaHGJ0HWit/yvUnNsu0qsXI76GBH8msD1lQ97tMGMO51oMikEiIy2s3rO+r3ipa1/7XvMuSg0KqoF6Xsop0m58nz0Sa4eJGujX//iDep5yKi9Sli3AWA+oeDkOPtRGTVxb7mi0xPgk2Li59cMF6gnNFoQzae3PabCgYCJM+3bQrltskbHC3uY+tIq84ijXGv9v4fFzMyly/CwerVJKg4undTEMkKBbdeI8ZKO+r2xFXNQoDBkqJk5PanOzTmq+TY2QkReJjSk6t2RZIfSWwG1lr67GxkyZAnl6OegFVzifze3ofa6ezLeL1/E1Yto4veipCdA4Bp93e376WXatL0YFgfP/VsMjMGi0BNDVHnBFDD5iAQcmvqR9otWAp1hCLAlEiTYvPx8gnCwdibYh0HWyULTmAEDQBmOgsxAdVAVcwZCqbjqNmH6CR4PibR5olc95JWc9vQttMlP8G0qwK1VxycjujVsRAWyhmDrODkS4gO596vuaQbAh/t21OLBhf9WetoaA==;KT9Q8EqMyGpA05sv+6AYLA=="
 ---

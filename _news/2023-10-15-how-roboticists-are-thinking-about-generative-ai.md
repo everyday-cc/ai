@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Collaborating with AI and Robots: Busting Common Myths"
+    excerpt: "The number of AI companies in the UK has increased by 688% over the past decade, and while the advancements in this technology are exciting for many, several myths have popped up that have generated job-related worry among many workers."
+    publishedDateTime: 2023-10-17T18:52:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 34
 
 secured: "H/ERw9KKeTKvNi6QFAVW97h2RmL7E7ljfkb/iadfRCJSLaEut5XRQy5AsbyQvMlmUWVuuzC9ITqR52ijG59aVYVMnnx3Hsp/izTikSiAcgBgzXrVE7eOBGeE9YJnfmycIb7IHcxqOzRPJKK4KRR30LNJwCt+tRGckZPnMJlGlDJZWYfVCmWIWPDON9Oycx4MD9Hwy11iEC34iWD8n1ST/2vWQPyBT8YrbUfbaJXyLz3d2KGg6BOWx+2asrSrhpP/pbYfWp2oTqXClCWJgsWgetqKg5yQSzB7e04zmW5qNysi+7AwZ5V0JpSz1dXsfkfWRGxcdeDq4dfRZwvwh26cEiAYRuZl21ZDjWmuZdBAbOE=;tScwTI8s0uJQ6GD0sxLWwg=="
 ---

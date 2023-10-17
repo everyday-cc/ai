@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "The ABCD of AI: Automation, big data, computer vision and deep learning"
-    excerpt: "Artificial intelligence (AI) is a revolution that is changing how individuals live and work; it’s not just a technological development. There are fundamental building blocks for AI that outline ..."
-    publishedDateTime: 2023-10-13T03:41:00Z
-    webUrl: "https://cointelegraph.com/learn/ai-automation-big-data-computer-vision-deep-learning"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 71
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/e0a17850b2b64fca883a454693dc8b08.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "How Generative AI Will Revolutionize The Future of Your Brand"
     excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
     publishedDateTime: 2023-10-17T04:51:00Z

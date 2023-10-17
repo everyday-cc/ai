@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/transactional/convicted-fugees-rappe
 webUrl: "https://www.reuters.com/legal/transactional/convicted-fugees-rapper-says-ex-lawyer-bungled-defense-with-ai-closing-argument-2023-10-17/"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Reuters
@@ -26,6 +26,17 @@ images:
     width: 728
     height: 381
     isCached: true
+
+related:
+  - title: "Fugees Rapper Pras Says His Lawyer Botched Trial By Using Unreliable AI Tech"
+    excerpt: "Demanding a new trial after conviction, the rapper claims his ex-lawyer used untested AI tools because he has an “undisclosed financial stake” in the company that sells them."
+    publishedDateTime: 2023-10-17T19:38:00Z
+    webUrl: "https://www.billboard.com/business/legal/fugees-rapper-pras-lawyer-botched-case-ai-tech-1235445269/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 14
 
 secured: "A4Dbdz0TUllmF4kV7dH3lUrKTrJqi1vQI2rY9F5jQiCAK8SIx7LyFtzWu91PEH94x5W5Oo7q7UqK2BfPNgJ4Xpg2GIblLUX3iWPfVR+7D8nFWPi30FJU6E3mttzVQu0CuOXekqh3F3nFN30aV1N8Po853yj8VZlSpPLJkJfTow0J+k/pduJj24AFY6eiy+p790i78SYl8FY+SArcz2aYojkq0U4k379lrOmBm7q8SfFNsd0m2HL390jBPmt10OaEVEVTybfKdVJWvKydNVZmvqV2RJfrWyDBl6+QDXiYEMFak9G95h3Cdb9if7NywWZq/M4F3J7LsICQOPbtUy97IU488WJzqycFw/wFAfTZYQM=;w9S3VvcmrwhYMr8QMfvdJQ=="
 ---

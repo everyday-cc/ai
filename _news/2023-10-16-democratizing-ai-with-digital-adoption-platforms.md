@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
+    excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
+    publishedDateTime: 2023-10-17T13:25:00Z
+    webUrl: "https://www.fiercepharma.com/manufacturing/leucine-reaps-7m-series-money-fund-ai-digital-twin-platform-manufacturing"
+    type: article
+    provider:
+      name: FiercePharma
+      domain: fiercepharma.com
+    quality: 4
   - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
     publishedDateTime: 2023-10-16T11:51:00Z

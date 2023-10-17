@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-22-chip-designer-arm-looks-to-ride-the-ai-boom-with-the-biggest-us-ipo-since-2021.md",
+      "title": "Chip designer Arm looks to ride the AI boom with the biggest US IPO since 2021",
+      "excerpt": "Arm's planned IPO, which hopes to raise up to $10 billion, is set to be the largest US listing since Rivian fetched over $12 billion in October 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arm-semiconductor-chip-markets-rides-ai-boom-biggest-us-ipo-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64e4811fbd98a600197ba266?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-tesla-investor-says-ev-giant-and-nvidias-ai-gpu-fusion-is-the-future-now-its-all-coming-together.md",
       "title": "Tesla Investor Says EV Giant And Nvidia's AI-GPU Fusion Is The 'Future' Now: 'It's All Coming Together'",
       "excerpt": "Tesla Inc TSLA investor Ross Gerber highlighted the synergy between Nvidia Corp NVDA and Tesla, emphasizing the convergence of AI autonomy and GPU technology. The tweet came amid the combined market value of the two companies matched the entire value of ...",
@@ -1365,58 +1417,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-chatgpt-the-latest-news-controversies-and-tips-you-need-to-know.md",
-      "title": "ChatGPT: the latest news, controversies, and tips you need to know",
-      "excerpt": "ChatGPT has continued to dazzle the internet with AI-generated content, morphing from a novel chatbot into a piece of technology that is driving the next era of innovation. No tech product in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/05/chatgpt-iphone-app-hands-on.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "publishedDateTime": "2023-08-11T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -3,25 +3,19 @@ category: news
 title: "Artificial Intelligence - Soon a Key Helper in the Operating Room"
 excerpt: "Within a few years, by 2026, artificial intelligence systems may be found in the operating room alongside trained neurosurgeons to help them operate safely and more efficiently. Harolding this new"
 publishedDateTime: 2023-10-17T17:30:00Z
-originalUrl: "https://greensboro.com/news/nation-world/science/artificial-intelligence---soon-a-key-helper-in-the-operating-room/video_28de4fce-2805-5975-bce1-d130e166effc.html"
-webUrl: "https://greensboro.com/news/nation-world/science/artificial-intelligence---soon-a-key-helper-in-the-operating-room/video_28de4fce-2805-5975-bce1-d130e166effc.html"
+originalUrl: "https://richmond.com/news/nation-world/artificial-intelligence---soon-a-key-helper-in-the-operating-room/video_0d743bd8-4d38-5504-abc6-032659a9dcf1.html"
+webUrl: "https://richmond.com/news/nation-world/artificial-intelligence---soon-a-key-helper-in-the-operating-room/video_0d743bd8-4d38-5504-abc6-032659a9dcf1.html"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: -1
 published: false
 
 provider:
-  name: News & Record
-  domain: greensboro.com
+  name: Richmond
+  domain: richmond.com
 
 topics:
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/2/8d/28de4fce-2805-5975-bce1-d130e166effc/652eb3223f1ab.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial Intelligence - Soon a Key Helper in the Operating Room"
@@ -34,6 +28,6 @@ related:
       domain: themercury.com
     quality: 17
 
-secured: "YD/v22Y3+ERK03uaIUXSpiTgwJQwynLx6TiRS6PKqc6Nry0tAhA/u1S181Rc75MmXOVpCZicvELb4apCFr/7YM3s4B58T9m9vgDnjPhaq6tc3zya7KbnVkfmoMCsHMyncILPbKcSzql1MemqJyFEZJZBSl/oa0+hN+eGe/MTW4HFrStbp5ZVAsV6aX+ZQiZGLUDcy/EHz7WohVCR2MCwMkZCJsloi3zaf3nxBVsBjFLrNl1dzlwnYPh3d8t7VoQItRXa+qHHkbOixaKyYxuanFHjyYSRsX7SYtkfPLeoE5F9kuLNJlqXbcIKJk54+lZeBS5IFATh6/kwjajUETvIi6eago71HTxyT8OFVsMZwg4=;P5p6IWYclRFumf24z5rzKg=="
+secured: "3ZIggPlVPDJUBU254uTk+Fky8XaqdpzqzmXiZ/1Ducmrk/JIX23Nhsg4dBiIY/FiQ/Pc3klzIvS6lFlhXKFrUtdGrATrw57u1sl3szuNt8AUBUFapT9+ShPvqkgcW46At5Ndzpez2MkawfoTBEd2mIh7u4Q32Bgkk03iDRCMX6hGXJr0KNBfR4l28jCT8hg/Llmm/n+QcnirZqBZteLMbvvKMURk/12orrSlUZTv0hMmQEsMw0EqJgMkZNLtXyw4BN3W7roNjjSEkB/CPsQoWILF12qKzDO99K2u6CcRYpDTcv9/8n7oTPtKgAtK4y2B/EhqWPthZ7joS5PLI715x57iTFilLqnmdLAy+LdgPkg=;qZVrLcYD4QbuftIiiXiaPA=="
 ---
 

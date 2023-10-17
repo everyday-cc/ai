@@ -106,6 +106,15 @@ related:
         width: 2062
         height: 1366
         isCached: true
+  - title: "Keeping an eye on your cattle using AI technology"
+    excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
+    publishedDateTime: 2023-10-17T19:40:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/keeping-an-eye-on-your-cattle-using-ai-technology/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
   - title: "How AI And Machine Learning Are Transforming Payroll Processing"
     excerpt: "Enter the realm of AI and Machine Learning. The Dawn of the AI Era in Payroll In the last couple of years, we've witnessed the transformative power of AI. It's like watching a story unfold, where the protagonist (AI) overcomes challenges, learns from ..."
     publishedDateTime: 2023-10-13T18:47:00Z

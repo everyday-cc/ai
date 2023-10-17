@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Your ultimate guide to the Voice ahead of polling day – everything you need to know"
-    excerpt: "The Yes campaign says a Voice to Parliament will provide better outcomes for Indigenous people as well as giving them formal recognition. It argues that the Voice needs to be constitutionally enshrined to make a “powerful statement” to recognise the ..."
-    publishedDateTime: 2023-10-13T03:27:00Z
-    webUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52"
-    ampWebUrl: "https://www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/your-ultimate-guide-to-the-voice-ahead-of-polling-day-everything-you-need-to-know/news-story/88d1825694c8e6d89e15b1ad3a60df52?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 18
   - title: "If there is to be any healing after the Voice referendum, it will be a long journey"
     excerpt: "In the end, the “yes” case failed to answer two basic questions: what was the problem to be solved, and how would the Voice help solve it?"
     publishedDateTime: 2023-10-15T05:09:00Z

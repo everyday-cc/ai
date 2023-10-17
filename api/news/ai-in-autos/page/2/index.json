@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-05-china-leads-way-with-self-driving-vehicle-tech.md",
+      "title": "China leads way with self-driving vehicle tech",
+      "excerpt": "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202310/05/WS651e1664a310d2dce4bb90b4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202310/05/651e1663a310d2dc6d28eefc.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-softbank-ceo-says-artificial-general-intelligence-will-come-within-10-years.md",
       "title": "SoftBank CEO says artificial general intelligence will come within 10 years",
       "excerpt": "SoftBank CEO Masayoshi Son said he believes artificial general intelligence (AGI), artificial intelligence that surpasses human intelligence in almost all areas, will be realized within 10 years.",
@@ -1342,49 +1385,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-autonomous-or-driverless-cars-market-growth-prospects-by-size-and-share-2023-value-chain-analysis-and-forecast-to-2030-with-112-pages.md",
-      "title": "Autonomous or Driverless Cars Market Growth Prospects by Size and Share 2023 | Value Chain Analysis and Forecast to 2030 | with 112 Pages",
-      "excerpt": "Autonomous/Driverless Cars is a vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to travel between destinations without any human effort. Define ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34889943/autonomous-or-driverless-cars-market-growth-prospects-by-size-and-share-2023-value-chain-analysis-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34889943/autonomous-or-driverless-cars-market-growth-prospects-by-size-and-share-2023-value-chain-analysis-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34889943",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34889943",
-      "publishedDateTime": "2023-09-25T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

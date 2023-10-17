@@ -37,16 +37,16 @@ related:
         height: 484
         isCached: true
   - title: "Baidu unveils latest version of LLM, Ernie 4.0"
-    excerpt: "Chinese tech heavyweight Baidu Inc unveils the latest version of its large language model, Ernie 4.0. [Photo provided to chinadaily.com.cn] On Tuesday, Chinese tech heavyweight Ba"
+    excerpt: "Visitors look at Ernie applications at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
     publishedDateTime: 2023-10-17T06:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7.html"
+    webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_7.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202310/17/652e21f0a3109068cafe3f79.png"
+      - url: "https://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png"
         width: 564
         height: 376
         isCached: true
@@ -59,6 +59,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 37
+  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
+    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
+    publishedDateTime: 2023-10-17T18:00:00Z
+    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
 secured: "3zD7liQu/x36VB8yO4XMmMEYXzya0NkSCuORS72zui8wFbnE7W+aUyPwGXIdZhbAzw7jYNuDHlhPrPDlt+sVzVCTRlKzb/euprXHXYj2XUKVUWfBynI0JW1EHo6BTwdn4XfjMu9BuSMqwipA6L20IS2HKDvYjjm4fbTXjqThrm8w7d8x/qeYlrbM8HfsXsODzNHCOKk3EYzGTxjhxdZPLX/wTyahGn+795cfSJXfk0b0KQff++aAWqRfYCtQhFGgBLrHKI+2DvAb5y5jeIEuG30UYUisJzh23aEGlHCNlOK2uWEiuFbm5BhBeRHBsedeMBQwntv22IsnHTKjDB3B7mBk1DeCcxD2u2M3fk2dPg4QNCGYXu4F360RKocYptol+8FMdYE3jcZcULp+scCQSUYnZ0/DJ5CeAwpSv4Hes4nUJveqUOd9wYrf9xwzYQiwV6u0a91vcS+inNQQgTpognCMa0JstI1qdhnU4ZL0I3MAHKERkXKUI3oO4Hc8DMEStf3okLq9TS7glqwCdIOW0A==;kAHdPS+gob6Pi5WcW3jQCA=="
 ---

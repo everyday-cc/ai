@@ -111,6 +111,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Morgan Stanley On Microsoft Ahead Of Q1: Optimistic on AI Future Despite Early Innovation Cycle"
+    excerpt: "Morgan Stanley analyst Keith Weiss remained Overweight on Microsoft Corp (NASDAQ:MSFT) with a price target of $415. The analyst holds firm conviction in the significant opportunity ahead of Microsoft within Generative AI and the company's strong positioning to execute that opportunity."
+    publishedDateTime: 2023-10-17T16:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/morgan-stanley-on-microsoft-ahead-of-q1-optimistic-on-ai-future-despite-early-innovation-cycle-1032713516"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/17/azure-rainer_stropek_via_flickr.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft’s Healthcare AI Efforts Holds Huge Promise for Patients"
     excerpt: "Microsoft’s ambient AI is great for physicians in that it automates the creation of the clinical note. But it’s also great for patients used to doctors turning away from them to type into the health system’s electronic health record to record the doctor-patient encounter. You have your doctor’s full attention and a screen is not in the way."
     publishedDateTime: 2023-10-17T01:33:00Z
@@ -278,10 +292,28 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 34
+  - title: "Microsoft wants to make AI safer, and it just unveiled a service to help"
+    excerpt: "Microsoft recently shipped Azure AI Content Safety to broad availability. It's an AI-powered platform designed to create a safer online environment for users. Azure AI Content Safety allows businesses to establish more control by allowing them to tailor policies,"
+    publishedDateTime: 2023-10-17T18:11:00Z
+    webUrl: "https://www.windowscentral.com/software-apps/microsoft-wants-to-make-ai-safer-and-it-just-unveiled-a-service-to-help"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 33
   - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
     excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
     publishedDateTime: 2023-10-15T21:18:00Z
     webUrl: "https://www.inferse.com/756076/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 31
+  - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
+    excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
+    publishedDateTime: 2023-10-17T08:43:00Z
+    webUrl: "https://www.inferse.com/758898/how-ai-is-helping-to-shrink-waiting-times-for-nhs-cancer-patients-microsoft/"
     type: article
     provider:
       name: Inferse

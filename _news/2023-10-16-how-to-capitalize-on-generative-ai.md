@@ -90,6 +90,15 @@ related:
       name: Winsight Grocery Business
       domain: winsightgrocerybusiness.com
     quality: 49
+  - title: "Collaborating with AI and Robots: Busting Common Myths"
+    excerpt: "The number of AI companies in the UK has increased by 688% over the past decade, and while the advancements in this technology are exciting for many, several myths have popped up that have generated job-related worry among many workers."
+    publishedDateTime: 2023-10-17T18:52:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 34
 
 secured: "gF2FXAYCsO38GmchBla3g+NRkOgdbd1ctCfRoLCXX4b5MID+T1V/0Sp5Rm+gHCknxqpVqZZvA2cLuAzmGRndKy1jLN6uzKz3SrSjJf9ENtElhZGzcxO8lfc4BIJGhFsz0uT6uEYVjn+dRrj2XKh35PTSRwmstUNgBYix4Bz7MHViH46b3JA0UykoQyz2pNg9n3nXE6KYMSHMlyiA2yzsqeTn8kqgv3osDKiyIE2DI6iAfR7lxgUKxv+3hX2xzgp0w/00BUKSgMlebivWw6ek2b4fz5SyvPHyDaR4e0U6Cnm2wWLoBNd/bD/zhgfKum65XglcybGjKgQc3mDGH3th3oFrliOmY2M92V797p97/csmJYqdYxlUwP3S5N0vHOhIq8aKqx4MYy0HNiw3/zKXN8d5alx7yi+QCYadoa1uXWp2DQ1qrzIniANi6sjcQS8hqGAJi1XIVcvi462e8lgzcdJ1D8Pl52butm0tGuheCYGZkq+cd2XDAYskgyJ+C1mWEKBMBQTJ3TOw03t5ZytC8g==;7LFdADoO+qdmn9VmqAJlqA=="
 ---

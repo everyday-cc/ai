@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Airbyte Announces Additional Vector Database Connectors, Making Hundreds of Data Sources Available for Artificial Intelligence Applications"
+    excerpt: "Airbyte, creators of the fastest-growing open-source data movement platform, today made available additional connectors for the Milvus, Qdrant and Weaviate vector databases as the destination for moving data from hundreds of data sources,"
+    publishedDateTime: 2023-10-17T20:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231017608302/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "dLFY2N8kkaMyVSIcigIAgj5tx7izQYuAsfR9ZhbfB61X0sexBMZ5rqlq9a8dSa3RlmmlmT8+Ts4nIGDv6F2rwVfu+Fjj6PIyIpTQvBqKbdohoh/GyhpFIb47IJNgGVo/NQuVtHO60aGfgwbrVb43C3HnBjqcgCdMZGtNz3RacvkCgjM4waW4AMCzrSpsLu3NtT2+DwU93UbZur6vT+NF+TFwIidUVNnrOUowP8vfQTYcAT0sd7WYhSwpgXC2DdUVujK5DiKmWYiubH21zsYB5qGBFEDbIsgMpfkTvHwllo0MCXHl0X8l01VJHLrMERjPaWIZ3w5sL/sHJfYi95Vc321VczcF52mOQSfbfVZ+Blc=;wKXwsCTz7nZsa92clG627g=="
 ---
 

@@ -163,22 +163,6 @@ related:
         width: 832
         height: 614
         isCached: true
-  - title: "Joe Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "The United States last year shook relations with Beijing when it unveiled new restrictions on shipments of AI chips and chipmaking tools to China, seeking to thwart its military advances."
-    publishedDateTime: 2023-10-13T01:25:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/joe-biden-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad-11524021.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/06/Joe-Biden_AFP-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Nvidia Stock Drops. AI Chip Exports to China Are Under Threat: Report"
     excerpt: "Nvidia stock was falling early Monday following a report the chip maker could face further restrictions on exports of its artificial-intelligence chips to China."
     publishedDateTime: 2023-10-16T09:41:00Z
@@ -243,6 +227,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Nvidia shares dip after U.S. announces new curbs on AI chip exports to China. How to play the stock"
+    excerpt: "Pros on CNBC discussed Nvidia. Shares slumped Tuesday following an announcement that the U.S. plans to curb the export of AI chips to China."
+    publishedDateTime: 2023-10-17T19:19:00Z
+    webUrl: "https://www.cnbc.com/2023/10/17/nvidia-shares-dip-after-us-announces-new-curbs-on-ai-chip-exports-to-china-how-to-play-the-stock.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 70
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107318724-NVIDIA_THUMB.png?v=1697577296&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "U.S. Tightens China’s Access to Advanced Chips for Artificial Intelligence"
     excerpt: "The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said."
     publishedDateTime: 2023-10-17T12:54:00Z
@@ -266,6 +264,15 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 58
+  - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel"
+    excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
+    publishedDateTime: 2023-10-17T16:31:00Z
+    webUrl: "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df?mod=tech_trendingnow_article_pos3"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 57
   - title: "Nvidia H800 faces potential China export ban as US strengthens rules on AI chip shipments"
     excerpt: "The Nvidia A800 GPU The new rules will block some AI chips that fall under the current technical parameters while demanding companies report shipments of others. It's speculated that the interconnect speed limit could be reduced. An official stated that ..."
     publishedDateTime: 2023-10-16T12:17:00Z
@@ -302,20 +309,6 @@ related:
       - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/Semiconductor%20chips.jpg?h=0429cc9e&itok=Ao0OC8Y9"
         width: 600
         height: 316
-        isCached: true
-  - title: "US eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "China’s AI capability depends on its access to US chips. CSET found in a June 2022 report that out of 97 individual AI chips procured via Chinese military tenders over an 8-month period in 2020, nearly all of them were designed by U.S.-based companies Nvidia, Xilinx, Intel, and Microsemi."
-    publishedDateTime: 2023-10-13T01:45:00Z
-    webUrl: "https://www.straitstimes.com/business/us-eyes-adding-ai-chip-curbs-to-chinese-companies-abroad"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 54
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/10/13/2023-10-11T152528Z580120646RC2EQ3ADKR74RTRMADP3USA-CHINA-CHIPS.JPG"
-        width: 860
-        height: 573
         isCached: true
   - title: "US rule restricting AI chip shipments to China under final review"
     excerpt: "According to a US government posting a rule restricting shipments of specific advanced chips to China has been revised and is under final review"
@@ -429,6 +422,62 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden administration restricts more AI chip exports to China"
+    excerpt: "The Biden administration announced new restrictions on the sale of artificial intelligence (AI) chips to China on Tuesday in an effort to crack down on attempts to circumvent earlier export controls."
+    publishedDateTime: 2023-10-17T21:39:00Z
+    webUrl: "https://www.aol.com/biden-administration-restricts-more-ai-183936601.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/6ffd607eb7dcd05d953ac474a8f27d0f"
+        width: 900
+        height: 505
+        isCached: true
+  - title: "Factbox-How the US will cut off China from more AI chips"
+    excerpt: "The Biden administration on Tuesday issued a sweeping update to restrictions on exporting advanced artificial intelligence to China and other countries. The measures are designed to prevent China from acquiring the cutting-edge chips needed to develop AI technologies such as large language models,"
+    publishedDateTime: 2023-10-17T21:56:00Z
+    webUrl: "https://www.aol.com/factbox-us-cut-off-china-185630836.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/2da87f0cc6e89fc2957c715bceb6d799"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "US Curbs Export of More AI Chips to China"
+    excerpt: "US Curbs Export , of More AI Chips to China. On Oct. 17, the U.S. Department of Commerce said it intends to prevent China from buying more of America's advanced"
+    publishedDateTime: 2023-10-17T21:02:00Z
+    webUrl: "https://www.wyomingnews.com/lifestyles/entertainment/us-curbs-export-of-more-ai-chips-to-china/video_b3c1ea3d-73e8-5dd9-b045-37710c1e3b39.html"
+    type: article
+    provider:
+      name: Wyoming News
+      domain: wyomingnews.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/b/3c/b3c1ea3d-73e8-5dd9-b045-37710c1e3b39/652efd6b979a8.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US expands export controls for AI semiconductor chips to China"
+    excerpt: "Officials said the expansion of the controls provide an additional measure of national security and as a response to the concern of China’s “military-civil fusion.”"
+    publishedDateTime: 2023-10-17T20:11:00Z
+    webUrl: "https://cointelegraph.com/news/us-expands-export-controls-ai-chips-china"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/e5f40b4a-dbc6-4d8a-8167-aa3f1c1b8f27.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Upcoming US rules on AI chip exports aim to stop workarounds: US official"
     excerpt: "Find out more about subscription packages here. THE US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s upcoming actions to ..."
     publishedDateTime: 2023-10-15T22:15:00Z
@@ -440,20 +489,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 53
-  - title: "U.S. Considers Closing AI Chip Access Loophole for Chinese Companies Abroad"
-    excerpt: "In a move that could significantly impact the global AI chip landscape, the Biden administration is actively considering closing a loophole that grants Chinese companies access to American artificial intelligence (AI) chips via their overseas subsidiaries."
-    publishedDateTime: 2023-10-13T02:37:00Z
-    webUrl: "https://www.cryptopolitan.com/u-s-closing-ai-chip-access-chinese-abroad/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 52
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_2023-10-01_16-10-59.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
     publishedDateTime: 2023-10-17T12:45:00Z
@@ -491,14 +526,14 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "US targets Chinese AI chip firms abroad in bid to close loopholes"
-    excerpt: "WASHINGTON: The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
-    publishedDateTime: 2023-10-13T03:59:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/13/us-targets-chinese-ai-chip-firms-abroad-in-bid-to-close-loopholes/"
+  - title: "US eyes AI chip curbs for Chinese units"
+    excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
+    publishedDateTime: 2023-10-16T07:52:00Z
+    webUrl: "https://www.semiconductorpackagingnews.com/news/83632.html"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
+      name: Semiconductor Packaging News
+      domain: semiconductorpackagingnews.com
     quality: 34
   - title: "Biden administration set to halt shipment of AI chips to China"
     excerpt: "WASHINGTON: The Biden administration said today that it plans to halt shipments to China of more advanced artificial intelligence chips designed by Nvidia and others, part of a suite of measures aimed at stopping Beijing from getting cutting-edge US technologies to strengthen its military."
@@ -509,6 +544,24 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "US places new restrictions on AI chip exports to China"
+    excerpt: "The rules expand upon an existing set of chip-focused export controls that were implemented last year. Under the expanded regulation, more types of AI chips are subject to export restrictions. As part of the move, the Commerce Department is also tightening the rules that regulate the sale of chipmaking equipment."
+    publishedDateTime: 2023-10-17T17:58:00Z
+    webUrl: "https://siliconangle.com/2023/10/17/us-places-new-restrictions-ai-chip-exports-china/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+  - title: "Nvidia's shares tumble after the Biden administration announced new restrictions on AI chips sales to China"
+    excerpt: "Nvidia won't be able to sell to China the chips it designed specifically to get around the White House's last set of export controls."
+    publishedDateTime: 2023-10-17T19:05:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/17/nvidia-stock-hit-by-bidens-new-export-controls.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
   - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
     excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
     publishedDateTime: 2023-10-13T18:33:00Z

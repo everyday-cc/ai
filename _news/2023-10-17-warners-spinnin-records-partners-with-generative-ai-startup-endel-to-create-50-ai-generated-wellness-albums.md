@@ -102,20 +102,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "The Path to AI Arms Control"
-    excerpt: "Will AI undermine nations’ monopoly on the means of mass violence? Will AI enable individuals or small groups to produce viruses capable of killing on a scale that was previously the preserve of great powers?"
-    publishedDateTime: 2023-10-13T04:42:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/path-ai-arms-control"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/RTSL4MO6.JPG?itok=AsEJKXqd"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New tool can detect AI-generated content"
     excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
     publishedDateTime: 2023-10-17T15:42:00Z

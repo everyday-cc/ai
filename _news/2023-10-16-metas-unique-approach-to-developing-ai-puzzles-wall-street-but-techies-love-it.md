@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzle
 ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - Facebook AI
   - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201"

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-to
 webUrl: "https://www.reuters.com/technology/governments-race-regulate-ai-tools-2023-10-13/"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     isCached: true
 
 related:
+  - title: "US: Congress must regulate artificial intelligence to protect rights"
+    excerpt: "Human Rights Watch joins 86 human rights and civil rights organizations in urging Congress to take action on the significant human rights and societal risks created and enabled by artificial intelligence (AI) technologies,"
+    publishedDateTime: 2023-10-17T16:00:00Z
+    webUrl: "https://www.hrw.org/news/2023/10/17/us-congress-must-regulate-artificial-intelligence-protect-rights"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 17
+  - title: "Michigan looks to regulate artificial intelligence use in political ads"
+    excerpt: "Deepfakes and other AI-generated campaign ad content would need clear disclaimers under a bipartisan bill package advancing in the House."
+    publishedDateTime: 2023-10-17T18:48:00Z
+    webUrl: "https://www.mlive.com/politics/2023/10/michigan-looks-to-regulate-artificial-intelligence-use-in-political-ads.html"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 17
   - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
     excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
     publishedDateTime: 2023-10-13T19:16:00Z

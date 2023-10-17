@@ -6,9 +6,6 @@ publishedDateTime: 2023-10-10T14:19:00Z
 originalUrl: "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the"
 webUrl: "https://www.nasdaq.com/press-release/ageagle-named-top-20-artificial-intelligence-and-robotics-companies-transforming-the"
 type: article
-quality: 63
-heat: 63
-published: false
 
 provider:
   name: Nasdaq
@@ -18,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "MHRrikrqMcHLSh4VoPPzqHe0lflkqvYUeEVx1yNt4195QgA2RF7/J1yW1xQZCDrltXdestGvHrEHTtN0uJuQdIYn0KOVaJ9FXYitjrwURBuIhtJ7Ub+DR/du7BfItjr4cnKukmdDPodAzdAF4A7lBaMqWBRSh4idcdxs2bf4rDiEthFytWLHjQd2vKF7ZCnTlwvTheQPTsiXnRMIwnaNY1B5LIMY55FO2H1hLpgkfI+5ad8G9bAValwqkoZKGBh+wzoc4rHTNHbet1Rtw7EhsTjOxiITiZR/ZJQQyMbcw42tymGHqWd4VLXQ7O9ohLJ99/czVaws7NtBSqv7qd0YsGN4eHv3P8I9ybDvm/AjYdc=;L2OiKkPcwAvvC0XFJ0lW2A=="
+secured: "xBwMFTi7uRPcXRcywAs0AuH3+ANekGAAafGKikfs/Z2uXsYVcv+x+v++Sisa8Z16f1RXsJand4lLszHG9k9KXJ4bRcSJd09BFtIhqu1XWyPUmZkNRt/6hBPzEvU0ePiKr/LOz3so3aQi9GlHyTVulfurAMO6hcg6BM2i3/94ZgHYRVTDpLua4WjwGlTDs+7T5xvXhd3bO6soeqyUNAJkmLz8XwEE4l/TW/wM6bt3rvAPdz446fhyI3S2+lsSdq1WGy08Nbl7o3H1eV+cuda2Ba9lAeikYmtZZNFCsAZC7XoHp89A6pvX7A4Mq5Uk0SohAIVAd3IReFVjis3u2RA/CY97WO8smFacehuEj4F462M=;/V6t4LMYukguIHcG3f/K0g=="
 ---
 

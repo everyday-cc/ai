@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-27-the-future-of-ai-is-wide-deep-and-large.md",
+      "title": "The Future of AI Is Wide, Deep, and Large",
+      "excerpt": "ChatGPT has fascinated the public as we begin to explore how generative artificial intelligence (AI) can be useful in our everyday lives. On the back end, scientists are continually advancing AI for potential applications so vast that it may change life as we know it by accelerating scientific and technological developments.",
+      "sourceUrl": null,
+      "webUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
+      "originalUrl": "https://news.rpi.edu/content/2023/09/27/future-ai-wide-deep-and-large",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RPI News",
+        "domain": "rpi.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-vijayawada-stress-on-creating-strong-artificial-intelligence.md",
       "title": "Vijayawada: Stress on creating strong Artificial Intelligence",
       "excerpt": "An cultural fest was organised on INNOVURA-2023 by the Department of Artificial intelligence of Andhra Loyola College Assistant professor at VIT-AP Dr Kandala NVPS Rajesh attends the programme",
@@ -1180,49 +1214,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-machine-learning-models-can-produce-reliable-results-even-with-limited-training-data.md",
-      "title": "Machine learning models can produce reliable results even with limited training data",
-      "excerpt": "Researchers have determined how to build reliable machine learning models that can understand complex equations in real-world situations while using far less training data than is normally expected.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-machine-reliable-results-limited.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-machine-reliable-results-limited.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-model-11.jpg",
-          "width": 1280,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-machine-reliable-results-limited.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-machine-reliable-results-limited.amp",
-      "publishedDateTime": "2023-09-19T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

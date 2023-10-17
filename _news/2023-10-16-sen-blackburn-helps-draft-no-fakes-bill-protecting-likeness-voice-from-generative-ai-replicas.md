@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bizjournals.com/nashville/news/2023/10/16/sen-blackburn-
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/nashville/news/2023/10/16/sen-blackburn-helps-draft-no-fakes-bill-protecting.amp.html"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "US senators draft NO FAKES bill to ban unauthorized AI copycats"
-    excerpt: "The proposed act came just hours after talks broke down between actors and Hollywood studios, with AI replicas a major friction point in negotiations. Unauthorized artificial intelligence-powered recreations of people’s voices and images would be banned ..."
-    publishedDateTime: 2023-10-13T01:46:00Z
-    webUrl: "https://cointelegraph.com/news/us-senators-no-fakes-bill-ban-ai-replicas"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 37
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/2fc2e280-2fe5-4fd7-bed6-7a2286e49fdc.jpg"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "9whlu9jq3rmV5gmARxLHGg+xVa1B1ngOzcp3kNPs6Li5BeTQfBrqoPf+nqflvAmmOgNFLnXU+6QG8vgOo44lNLAJBm84M6ImPiy5FqakrJ6ZplZc3eTRJjASVlXYT7FRcjW49R7+O7fPPTuWX93Ss5ulbPXnlSaDBAwkoquGT50T/QNJJYpEiwOEhU2Ta0sBwzc4ZbYuCcV8SpYwtI5f2ODgn2qY0RXSjXlwBFjWXEx+JKFAt/qBvgRjAOJrqJ4obUTTOeRfGrbpyOZSjkkUTHvfBfK1qeewZc3XHNzQfac02EgPDTNVR0SaiZJzVYIm8aJe4Sh7x40M0vhbRUJGlbSuHcFfiL7QtKFe5KWQoDM+d0wUwKA21DI6L0JyGf7eYOZSg0ejP/g6FIFXMW7RnHgG7Z7Ab8FPWsBlAgsN9lCEqwm4llNasChpn8GVx/sJfbNHSxA4SyiNwZ6kj6jd+kUbfADzw36ITjltxrRn+DWETmBpBl0VqrAzbDDF/PZxHGpsX9wwbdseDvEnon9PPg==;XbrJOACe2shGC5Ewl3KEFQ=="
 ---

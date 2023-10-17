@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-07-29-perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics-allbi-is-on-board.md",
+      "title": "Perfect software with perfect hardware! Blockchain, artificial intelligence, robotics - ALLBI is on board",
+      "excerpt": "ALLBI is a consumer-oriented cryptocurrency project launched in the U.K. by LEX PARTNERS LTD, which focuses on environmental care, clean",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/perfect-software-with-perfect-hardware-blockchain-artificial-intelligence-robotics---allbi-is-on-board-1032489622",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/0Qs0EITqVZabcNzobJLcG7NxPF53/1690518197013-0.jpg",
+          "width": 800,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions.md",
+      "title": "Google Unveils AI Robot: RT-2 Translates Vision and Language into Robotic Actions",
+      "excerpt": "Google this Friday disclosed its new artificial intelligence model that translates vision and language into robotic actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
+      "originalUrl": "https://www.benzinga.com/news/23/07/33444703/google-unveils-ai-robot-rt-2-translates-vision-and-language-into-robotic-actions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/07/28/google_ai.png?width=1200&height=800&fit=crop",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33444703",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33444703",
+      "publishedDateTime": "2023-07-28T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-automatic-for-the-people-how-robotics-is-transforming-life-sciences-research.md",
       "title": "Automatic for the people - how robotics is transforming life sciences research",
       "excerpt": "But in life sciences, lab hardware tends to be standardized: a test tube, bench, pipette, and other specialist equipment will, broadly, be the same in every lab. This means that repetitive processes can be automated and replicated, opening up a global market – and to solve global problems.",

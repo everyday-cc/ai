@@ -125,6 +125,15 @@ related:
         width: 624
         height: 276
         isCached: true
+  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
+    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
+    publishedDateTime: 2023-10-17T19:36:00Z
+    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
   - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
     excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
     publishedDateTime: 2023-10-13T19:49:00Z
@@ -134,6 +143,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 32
+  - title: "Why Nvidia, Intel, Broadcom, and Other Artificial Intelligence (AI) Semiconductor Stocks Crumbled Tuesday Morning"
+    excerpt: "Danny Vena has positions in Nvidia. The Motley Fool has positions in and recommends ASML, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy."
+    publishedDateTime: 2023-10-17T19:47:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21184338/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 11
 
 secured: "Etab8qoQ8C2NS+EHAuAjVGO1DX3LUHEcDBHOIZQ7HrRy863yUb1PeR7wF/zOqPuT1j9Fiz9+fQtz29SfMtoX2wvpFtNqsJExkdT6lZmihKdA8gUg7dmCQVzzOJYBmrvd4rWwcnjjAirRxoTUK3R9S+OA5Kr6h4ZPMd3mC52ReNpGQ/kKNaFHD8/a7nVG0ZPGiZ+LmwlImmeIOL1JxRX2ADLv+8bOLqCaog6IpCeY8SlU1wu8obMblxspY/D/Ru+ic90s1/aVEBa/3VscbNMqUWk2li6tV3m4UqYbzuA76LhAFyDCHY2+nVUax13oYRaHi8kOoScpPEYtsYA/J77sfHJuaniqKXsgYw63oeg1ICYEZQW+WMK025CpWRyqnH3IZQGiHS5O0+Dtb6f/TYKSDqTg2p50wj32AJ7DTqrnFJK4HOENyDfAUWLKUXsZykUfxcFwyidGuebUhj7VhKJWiNKLhE11LaHxIhj6jlLZpK/5gJyymyNSWXCNGx288qR5/Qf9BzX1l/1ueTs7rLHi3Q==;Q3JeTY5kkV9GgUkqB+Iu3Q=="
 ---

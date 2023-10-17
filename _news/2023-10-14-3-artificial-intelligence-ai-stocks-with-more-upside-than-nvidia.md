@@ -124,6 +124,24 @@ related:
         width: 624
         height: 276
         isCached: true
+  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
+    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
+    publishedDateTime: 2023-10-17T19:36:00Z
+    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
+  - title: "Why Nvidia, Intel, Broadcom, and Other Artificial Intelligence (AI) Semiconductor Stocks Crumbled Tuesday Morning"
+    excerpt: "Danny Vena has positions in Nvidia. The Motley Fool has positions in and recommends ASML, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy."
+    publishedDateTime: 2023-10-17T19:47:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21184338/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 11
   - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
     excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
     publishedDateTime: 2023-10-16T12:50:00Z

@@ -63,6 +63,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
+    excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
+    publishedDateTime: 2023-10-17T13:25:00Z
+    webUrl: "https://www.fiercepharma.com/manufacturing/leucine-reaps-7m-series-money-fund-ai-digital-twin-platform-manufacturing"
+    type: article
+    provider:
+      name: FiercePharma
+      domain: fiercepharma.com
+    quality: 4
 
 secured: "Kh6FWQc0DQbN5k+0oS3BpOUTWxU0U0dN5K9G8lLECq9R6W6Le4djHgbVbPIll51lRGBOQtVWqbjpnyIFSXHfG8+bR4N3Hy0qj2B2nBGWMTonqRjYPV6Nb+sFTfFrf7ndRGIydpKXgMi2XwTmG34G1/INH0AwthaWhkWk2ZUu9BOllVqYLpCx6nTI6YM7hmWwF7wW28osn4nso4xbTaJJ9LrFdTcmgEIO7suBp3swrWT+f/pV6GmLkDG25T7v1gpQpAWAW/fwVd2hBiT8tYiLWAta3BsboBYJluUcdFRC5cELF64mz9cJdIkMFFTHxcAyTZ5mtIyIVPKWmiTnOkb2nb8haY903byATVTQ0cUiyBk=;+0IhQU1+cpAmArQOpo6hbw=="
 ---

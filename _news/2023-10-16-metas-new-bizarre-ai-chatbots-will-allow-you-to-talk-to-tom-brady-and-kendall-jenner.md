@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Chatbots Can Guess Your Personal Information From What You Type"
-    excerpt: "The AI models behind chatbots like ChatGPT can accurately guess a user's personal information from innocuous chats. Researchers say the troubling ability could be used by scammers or to target ads."
-    publishedDateTime: 2023-10-17T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/6529f6866ad33062ca7713a1/191:100/w_1280,c_limit/AI-Chatbots-Infer-Private-Info-Business-1465764755.jpg"
-        width: 1280
-        height: 670
-        isCached: true
 
 secured: "ci2S+GGxQ9JdbXzI7O+dg+6xEPa0pxYQrP0szJULYG00ukwOveFLNoxLX4wEA+g5OCZu7MHxNs55Sdea7MyJAVaL86KEFZ5SyO4zb+OmPZtPixttja0wMGPD5JsCuM+RjsabcmmBdady7mRUepf+0vGgY2v7ktjRGsCP5s79Q3OH9frZwe6rcZGizju6h4b+l6eEzNi49o0GsYiJWIoAIe4Sjg8Z0lGf8dr3s2tZQ/jgqQMiBq8nJGir2ATyObbYw+1p128Du5uqPix3M3sgFn5c6bt3NLIBUZ+T18y4AQJjnGRACxtqR9nJ+Au1Nfvg1PBufN/KbjxMwVo8rBnx4pyRD3Pff4fLIrQFmSaizTk=;HFziI5Awd8Wi334QMSh+4w=="
 ---

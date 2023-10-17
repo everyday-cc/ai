@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/new-ai-algorithm-pro
 webUrl: "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Interesting Engineering
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence bolsters growth of cyberattacks, audacity of cybercriminals"
+    excerpt: "A year out from generative AI’s widespread release to the public, cybercriminals continue to finesse AI tools to bolster the scale, speed, scope, and stealth of their activities. “AI-driven cybersecur"
+    publishedDateTime: 2023-10-17T18:15:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-bolsters-growth-of-cyberattacks-audacity-of-cybercriminals/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 11
   - title: "Artificial Intelligence bolsters growth of cyber-attacks, audacity of cybercriminals"
     excerpt: "These cyberattacks include AI-powered botnets (a network of hijacked computers) and enhanced social engineering and phishing campaigns which are increasingly easier for employees to fall for.October 16,"
     publishedDateTime: 2023-10-16T16:00:00Z

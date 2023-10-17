@@ -102,20 +102,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "The Path to AI Arms Control"
-    excerpt: "Will AI undermine nations’ monopoly on the means of mass violence? Will AI enable individuals or small groups to produce viruses capable of killing on a scale that was previously the preserve of great powers?"
-    publishedDateTime: 2023-10-13T04:42:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/path-ai-arms-control"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2023/10/12/RTSL4MO6.JPG?itok=AsEJKXqd"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
     excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
     publishedDateTime: 2023-10-17T15:18:00Z

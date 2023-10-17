@@ -80,6 +80,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
+    excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early $50 million angel round."
+    publishedDateTime: 2023-10-17T20:56:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chinese-ai-startup-baichuan-raises-300-million-alibaba-tencent-others-3852046"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "AI Startup Baichuan Secures $300 mn in Funding Round Led by Alibaba and Tencent"
+    excerpt: "Chinese artificial intelligence (AI) startup Baichuan announced it successfully raised an impressive $300 million in funding. The VC funding round saw participation from major Chinese tech giants, Alibaba and Tencent, affirming the industry’s growing ..."
+    publishedDateTime: 2023-10-17T16:45:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/ai-startup-baichuan-secures-300-mn-in-funding-round-led-by-alibaba-and-tencent-81180"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 13
 
 secured: "C6tdY4YuOICakn7VJDEWYv9ovU9omZLZ1+/8nF7SozZRFJz7uPdklvtsz+4ZYEz7Q2SLvRWnLb1qxMgw/VVWmwWu0ZNZYnVcJdJxrk3ayBEeDeVnPhyM1AaH+d2Jv0uvHAhRJMHKCwyJy3bqtMBClNODgItLBe6sr3xVamA6F0IzbQ7buLcTOvDs7h/5B/mTtEv9JpBlWsi/6MbpJf6Hf3kgLn0waJ1L0IFGuz52DZOmTtpmww/crN4wUiG94uQBlHVfxMSysxxgAOhqwr2wWe5o7sxdqI4Mu1y4Z2NbDXOxu4SDIj8aMjANT/nUhQd3QQVqUZnfHBE+GTWliYFy3MKaopXJptN+c43u6VlJIx8=;rXm3gIIIJIH6QDHYdPd6vw=="
 ---

@@ -32,6 +32,24 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "US: Congress must regulate artificial intelligence to protect rights"
+    excerpt: "Human Rights Watch joins 86 human rights and civil rights organizations in urging Congress to take action on the significant human rights and societal risks created and enabled by artificial intelligence (AI) technologies,"
+    publishedDateTime: 2023-10-17T16:00:00Z
+    webUrl: "https://www.hrw.org/news/2023/10/17/us-congress-must-regulate-artificial-intelligence-protect-rights"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 17
+  - title: "Michigan looks to regulate artificial intelligence use in political ads"
+    excerpt: "Deepfakes and other AI-generated campaign ad content would need clear disclaimers under a bipartisan bill package advancing in the House."
+    publishedDateTime: 2023-10-17T18:48:00Z
+    webUrl: "https://www.mlive.com/politics/2023/10/michigan-looks-to-regulate-artificial-intelligence-use-in-political-ads.html"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 17
 
 secured: "6329L1a4AqjZfPin4HTsZmdDAJa5lCjBxeey8b8T2OXdGfpfGLs+pWLxdj/ZxSWlMglKJfRd2wd60ltIMWRcMgc9ZJpnpSC2rn/S4CHaGhSCyjWwpxNy1cbpuVNGqTFx5DdU6flBvK+2xtblJjpJnebBmBDwDvog9nAXROt8OpvqbNQ/x/Q+6Fape0lKCSMEiZniyCPTIWpoS0aCkYXkZ+NLZ/c7Jc2lUrD59iK0Sew4WbLDM6Lx6IE7NDM7THSvaWvxkp+V8IDVgbudrXWAMqgDLn5TlghZ6r4bLPlNdkv7MuQJ6qsct2R6KVk2W0A4GjmX6s9vMRV9HCRyjj9bdJPgmuhPlb6SG7MkcNVFeIxPYztTlWvuwxh6h/a/JtYoPrr3gBMjpWHjhwqLvuuoth1RLMPG4WGMqkt8N0VNtzEiUDjbKJJMNncoDdZdTLMC2dI9poVhniVnj/tSJxZ8nAsiD5QSzpwFnQJ02UgwG+n+CiflJk5jJVUvBli+urW+G+clPwLS7N6f2taGkmBmtA==;Taf1o+wovjYepFutVv2S2g=="
 ---

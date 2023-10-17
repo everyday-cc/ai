@@ -86,6 +86,15 @@ related:
       name: Orlando Sentinel
       domain: orlandosentinel.com
     quality: 28
+  - title: "New report unveils groundbreaking opportunities for U.S. health care transformation"
+    excerpt: "The Future of Health” — a forward-looking report jointly released today by the Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo and the Jacobs Institute — heralds massive potential for improving health care in the United States."
+    publishedDateTime: 2023-10-17T18:32:00Z
+    webUrl: "https://www.buffalo.edu/news/releases/2023/10/UB-JI-Future-of-Health-report.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 0
 
 secured: "t0GOvXFqWbNJGr6dveKSxHWAToLcwYV7CdL9op5Uc4xGQEA0ka0b64t16TaedP6nWXCf0OdrkmQj5h/EiLCfZ16vfkMOTY4UrwvyLp2Z8ax1C18enq2vweAkKCjPJSdAkmfNsEibPqpLS7nf20MNJtpPQerEFFq3GnOx7gZnLHABbSeTaVjHMeISi9L51c5lvYSyQQxT6tSKXOf6TqCEQvDh6bHcbYWJ3YI1SQiQXzSnYzEQbxFtQKgYiEf20H/hmjr7Swpmi73fIy4EWQhwwie0vTTjE/1uIuF298z9NX8+xUiD1wz1yS9kdGcQtNnhXu5K7gDb3n1ya0ITczzpPJL8cxayvgeHWmAeC2f7slo=;hhu5qzsObFHN0qTJWSVIzQ=="
 ---

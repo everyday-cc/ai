@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-16-exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai.md",
+      "title": "Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI",
+      "excerpt": "Direct usage of chatbots in an enterprise presents risks and challenges. Learn how to mitigate these risks and establish trustworthy AI.\nThe post Exploring the risks and alternatives of ChatGPT: Paving a path to trustworthy AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
+      "originalUrl": "https://www.ibm.com/blog/exploring-the-risks-and-alternatives-of-chatgpt-paving-a-path-to-trustworthy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:15:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-6-considerations-to-take-when-approximating-cloud-spend.md",
       "title": "6 considerations to take when approximating cloud spend",
       "excerpt": "Six ways organizations can improve their cloud cost management, increase cloud cost optimization and drive as much value from their cloud budgets as possible.\nThe post 6 considerations to take when approximating cloud spend appeared first on IBM Blog.\n",
@@ -1254,48 +1297,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach.md",
-      "title": "Streamlining compliance with IBM Cloud Infrastructure as Code and a shift-left approach",
-      "excerpt": "How IBM Cloud's IaC and shift-left compliance practices can help organizations enhance their cloud infrastructure and maintain a strong focus on compliance.\nThe post Streamlining compliance with IBM Cloud Infrastructure as Code and a shift-left approach appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach/",
-      "originalUrl": "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T06:10:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

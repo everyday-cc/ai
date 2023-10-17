@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-18-uk-ai-startup-funding-alan-turing-institute-identifies-huge-gender-disparity.md",
+      "title": "UK AI Startup Funding: Alan Turing Institute Identifies Huge Gender Disparity",
+      "excerpt": "Female-founded AI startups in the U.K. received six times less funding than their male counterparts between 2012 and 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gender-disparity-venture-capital-uk/",
+      "originalUrl": "https://www.techrepublic.com/article/gender-disparity-venture-capital-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/10/tr_20231017-gender-disparity-venture-capital-uk.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-software-supply-chain-security-attacks-up-200-new-sonatype-research.md",
       "title": "Software Supply Chain Security Attacks Up 200%: New Sonatype Research",
       "excerpt": "State of the Software Supply Chain also covers regulations and how AI could help developers protect organizations from security risks.",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -116,7 +168,7 @@
       "originalUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -157,7 +209,8 @@
       "topics": [
         "AI",
         "Facebook AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1373,59 +1426,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization.md",
-      "title": "How To Approach AI Adoption Ethically And Responsibly Within Your Organization",
-      "excerpt": "The widespread integration of artificial intelligence technology has raised ethics questions. To avoid the challenges companies like Facebook and Google face, leaders must ensure responsible AI adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/",
-      "originalUrl": "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650c4a5e9f2d2805042a51c5/0x0.jpg?format=jpg&crop=2179,1226,x0,y200,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2023/09/24/how-to-approach-ai-adoption-ethically-and-responsibly-within-your-organization/amp/",
-      "publishedDateTime": "2023-09-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

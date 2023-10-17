@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu unveils latest version of LLM, Ernie 4.0"
-excerpt: "Chinese tech heavyweight Baidu Inc unveils the latest version of its large language model, Ernie 4.0. [Photo provided to chinadaily.com.cn] On Tuesday, Chinese tech heavyweight Ba"
+excerpt: "Visitors look at Ernie applications at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
 publishedDateTime: 2023-10-17T06:45:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7.html"
-webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_7.html"
+webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_7.html"
 type: article
 quality: 39
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img2.chinadaily.com.cn/images/202310/17/652e21f0a3109068cafe3f79.png"
+  - url: "https://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png"
     width: 564
     height: 376
     isCached: true
@@ -57,7 +57,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 37
+  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
+    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
+    publishedDateTime: 2023-10-17T18:00:00Z
+    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
-secured: "sjySp2EboPFaN+9SH+sMHU5VeQE+b32pHZIsjVSrW7g5ABqdqVQfgCuLOnMPVldOCrTXQ2QqDIzq4bMDH9cJJLABJ2/18liY9leUWsOVjNHlT5mSG+u0l2cZ40FVP0EAXim9NM5f7nOa4cXHqkCZmA9NRgN+N/HbqXDMH70np2lJ3AHpaqz1UXtN5IezpskUhomwODIc1P2lFa8cdZ6otTaVFMMDNgyHbltLDsPv3JXMr7FJ+DhhoDeCbqjR21OAv0kfVaGuDJrbwiIPYmX9yn3GhCcNGYr+S3Srg3vYzh7o86pBEfJsE9khLP1F/DKsgsnN/gVA1dSHp6Cuk3BJyiAEImK7KNI+QMR/amkCic4=;zQdpsqEziL2Ly2eV+6I+2w=="
+secured: "lm5X6H9U6Y23Av7t7Fxagwt9NgkMNjFkwbGekhVdNi4DdenpoTISjuliFN6kS1wYkQTFXRSkCIGAk2d/+fQbicBWPAK9PbLkZZvYECCHbKhRzNbAdqMdqAEzIMLFrq11LiRXVJ/I7y/YANx2Ng4FALZ2vNTBAFpuvnIfKcJwMeNs0PVcAnLow9yxXk89R1M2xdDsWNma5o1SweUg/F+NaCIPv5e2Z78opjJV8nA3scVXGlGfUHk9x5h0vx2KSi68G6lQoe3Ult6gQv13HfvoLpRWljXn2o2f+Fzl25ju2TeBxwX6FrAotkK6Z+kHlxif5Ctd8oL8KcDySKJXqCX7yItJ3lEjT/7kFT83yhzzaxc=;pVcRATH612bIApaQydsGgg=="
 ---
 

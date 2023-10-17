@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dubai: How Gitex Staff Proves Robots Still Can't Beat Humans In Customer Service"
+    excerpt: "At an international event where robots, technology, and AI (artificial intelligence) are the highlight – the human touch reigns supreme. It's still the human staff and volunteers who understand the needs of the thousands of visitors and can instantly connect with them, be it by providing directions or answering any question in real time."
+    publishedDateTime: 2023-10-17T18:52:00Z
+    webUrl: "https://menafn.com/1107259790/Dubai-How-Gitex-Staff-Proves-Robots-Still-Cant-Beat-Humans-In-Customer-Service"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
 
 secured: "RKhqbYcpptLlRwNC0iaMRTuLP8jfwp+GAOppF5QijX4dwWMT1TKNqafT1+hZFOqssESdd2kCCVS3hp1ii3+3JVzFm59KHeZtSvgaafTLLzN6mGyrwypLKEMwdlzwaqQ5OaHj6u0qrwrC1TuW2gHfowWWkqHZbBpASJ5JpXrXHcxrdtAiSLO8ZBW/HEFUnVJj9HZEgZQFkFFhbJkWBmJFdECNqsIm3S6OPs9fhibOV8P6Izg0wGYnOh/gfF/dhQVgs8J92Uv/TSY0x/qBiTO6S7rmehRVmzvICnKBYQgbUWscdvVWXIbKmG6WsAyZP9rRzD/vQEPZ6i7xrEl/EJvAXtIzbD49Ml8/3yf7Mfwubpnymj8viqA4Wex+FYj32M6ZBoo9SlvzI9fmc1pKkm7aZIPk+ZiBkkif4L0mvDloSzbmUAqPUOkV9EJ9HW69InPe2DJrFMPAi+Y9Xwe9AXe0junH1pTCWNYTW0DJ8v5asztm2fYl1dWQsAPh5AVo7D/DH0xEXKqWE1wl3A7VKHkMXg==;76XssocVhnFdtLEyhrStuQ=="
 ---

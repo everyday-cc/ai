@@ -86,6 +86,15 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
+  - title: "New report unveils groundbreaking opportunities for U.S. health care transformation"
+    excerpt: "The Future of Health” — a forward-looking report jointly released today by the Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo and the Jacobs Institute — heralds massive potential for improving health care in the United States."
+    publishedDateTime: 2023-10-17T18:32:00Z
+    webUrl: "https://www.buffalo.edu/news/releases/2023/10/UB-JI-Future-of-Health-report.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 0
 
 secured: "RyqorJvijib8DFJnTRljrVwV5WrfEhIjSCLpJNUOv4xv2Af7Ibn2J2t+pROC2Mu95N1v+jho0Z4/qSJ9+mSNJ90ilSDSMQGa8AybhHaTnIg4NeZvSzBnyZzkoIreiNbWUzxDUCs0gweaELT+h92JpoKNqg6/4tyPpBy+hbEIXGYUBs3Ifb5Jmjf3vpXF1QPAdH7SYs77fRH2EMU2p5ElbaIyiJwHJlnA0XJ7B18hcEnaDI6ZmKJlm3xb8rXauTNfqm4PDOceYEDZpmXERIvN31lMoqjZ38XU4WrlLed/Q4MMOzyUO/uP64GowlJp627esZ5W1j6IG4JhlDaup4t3rPoEnFBoqhp6XzU/My/O6fgTdsHG1zYQZgp9lfOoGAcCsB4cn2KEk9fuld8jBEVB7lQoeDv39NgMQWl/cQ+WpGVOfrrFOCH7hThtF7Y1x3v1Oc4rJgVjemBPADpw1m4BWSNFktApCQEYmqfs3CJbeUkqggSsTCC0hPYfL6d4B/FuMPwM19A8r9eB895/YoV8WA==;J6gbAATaBN7zTM5L67zLug=="
 ---

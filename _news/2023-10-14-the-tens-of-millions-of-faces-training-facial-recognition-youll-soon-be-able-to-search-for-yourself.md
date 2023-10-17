@@ -53,6 +53,15 @@ related:
         width: 1035
         height: 543
         isCached: true
+  - title: "How often should police use facial recognition technology? Mass. considering strict limits"
+    excerpt: "BOSTON — One New Jersey man spent 11 days in jail when he was mistakenly identified as a suspect in an assault through the use of facial recognition technology. A Detroit father was arrested at ..."
+    publishedDateTime: 2023-10-14T07:32:00Z
+    webUrl: "https://www.telegram.com/story/news/state/2023/10/13/massachusetts-police-facial-recognition-limits-proposed/71159918007/"
+    type: article
+    provider:
+      name: Telegram
+      domain: telegram.com
+    quality: 9
 
 secured: "WRKsHvk8k8kXv5lVAoa4+DfLOvjQcS6IoK1hBxiHkgmOzi9BZK4LJM4PuhmT3kbHQ9xqn/9DgEl+cVIiSJIT6/+T220txpnMZh+QPW7jXbfmQl30ipSLiy9pJyoq2cUEJxP6HS+RQ4br8p649Jlv3CaOWfoBMUBO8z6VjGOG/sdN/t87EG/CAX8dKDoZaMgsm0MUuWbmXb7+QOVMojzYyZBp4sPvxUMfBGCNfarv0Z3PtWSKbyuOS+lOOJ549K0GQx9XqZWmyYQdJioJj/0Eg5NeM30uz1dK2pW20/IVgAgUoqEEpAdfBoGbUU3a6dwl8YZvn6quCJmDVlYWBZfGTTEAud+KcItPb580qwCVvxs=;H1LP0JsJHgvGf1ZhEkfKjw=="
 ---

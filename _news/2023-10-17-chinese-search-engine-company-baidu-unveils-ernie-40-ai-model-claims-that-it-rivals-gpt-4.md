@@ -46,19 +46,28 @@ related:
         height: 484
         isCached: true
   - title: "Baidu unveils latest version of LLM, Ernie 4.0"
-    excerpt: "Chinese tech heavyweight Baidu Inc unveils the latest version of its large language model, Ernie 4.0. [Photo provided to chinadaily.com.cn] On Tuesday, Chinese tech heavyweight Ba"
+    excerpt: "Visitors look at Ernie applications at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
     publishedDateTime: 2023-10-17T06:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7.html"
+    webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_7.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 39
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202310/17/652e21f0a3109068cafe3f79.png"
+      - url: "https://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png"
         width: 564
         height: 376
         isCached: true
+  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
+    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
+    publishedDateTime: 2023-10-17T18:00:00Z
+    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
 secured: "jx+Svs08NBM/3IDzBZbUAPupi1VfgXZf5xPS4KzSitJXcTQXkE89eeP4n1EG+OLAGkkKH/gvNChYzJzs8BYgX2s75549lpUVETk/MeAb9xOcr0xFKOKv/Wg+eQ6NpEhLKOFqOn/+5WtuyhSNq/opCYo1me+DA14AJ5gr32ELOiAg/7+dFXQ8ucF5ly/8slU5lrOKpi5sBzN1xP2Huxqwt1su6mTibcmsJ9rDI3J9hinbBYUJIfZ2nRxZySq+4V41kauoJVmYPftZnE1qQWUt7PK/CleL7qIRIv26szxJvFdO1hwCEzT1NNIf/mvl86u1kQT5uHpxP6eHcZVDslMbBH4KSO9WR3RAmW/TUk2dCASAdsltkokebB2CAAKcSrg24pFFpE8xL2I2pjfUDTjVILZZ8iH6kq+M9NlxHs+gO+4j8uOSNpbAY1LD8byvy5g7TL1eQ/y7aHlIRsgMw4R5VY3bC92/i445LDN8TFourP4H+T9EDi7R0mw1+VSw3RgXdAne00lqTrqzn94RV3wJdA==;8OFzpil8VNPA4/PV6fmEKQ=="
 ---

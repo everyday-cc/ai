@@ -7,7 +7,7 @@ originalUrl: "https://www.crainsdetroit.com/technology/u-m-gpt-ai-tools-being-ad
 webUrl: "https://www.crainsdetroit.com/technology/u-m-gpt-ai-tools-being-adopted-students-professors"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Michigan tries to curb political ‘deepfakes,’ artificial intelligence ads"
+    excerpt: "Michigan would require disclaimers on political ‘deepfakes’ and campaign ads generated using artificial intelligence under bills approved Tuesday by the House Elections Committee."
+    publishedDateTime: 2023-10-17T18:32:00Z
+    webUrl: "https://www.bridgemi.com/michigan-government/michigan-tries-curb-political-deepfakes-artificial-intelligence-ads"
+    type: article
+    provider:
+      name: Bridge Magazine
+      domain: bridgemi.com
+    quality: 16
 
 secured: "kMtA/hgceYsjWYQFhGOL/FpQAlgXh4bGWi3gLlfghYuYtFF2HmScX8SxBKwgdhB1qBQtKki7/8MFafF62ddUQuzzyY+k1Z8cOae5Ks0SscLvDWK4ZVcMuW4I6AA8/2/x0NJcByBE3eaPy1kf5/diJ0uKcXAU2+rRC4d9NLKf/Mz2wzxfx77brQavXe6WjmLaC+/Pz1nVmJTsGPkKV3QHbM1GqHTbYRScSe9Wb0Z6PIAxsIIYbHnARxREFnLqD+lMrQE4dFLlLFqqVwwFT5TsA2RMrUnMm3AUk/wJN69SztDC14VsT4vbBWUxzqGjhngIQgQ72rAf1nZgo1ZJU3DUDcHDIxKhCiZkqnuOqv49CEs=;+61dyFbo/mS7ZeE3lqBaJQ=="
 ---

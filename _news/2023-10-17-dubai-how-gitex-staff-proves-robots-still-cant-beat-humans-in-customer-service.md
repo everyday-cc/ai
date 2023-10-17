@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-pro
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Dubai: How Gitex Staff Proves Robots Still Can't Beat Humans In Customer Service"
+    excerpt: "At an international event where robots, technology, and AI (artificial intelligence) are the highlight – the human touch reigns supreme. It's still the human staff and volunteers who understand the needs of the thousands of visitors and can instantly connect with them, be it by providing directions or answering any question in real time."
+    publishedDateTime: 2023-10-17T18:52:00Z
+    webUrl: "https://menafn.com/1107259790/Dubai-How-Gitex-Staff-Proves-Robots-Still-Cant-Beat-Humans-In-Customer-Service"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
 
 secured: "yCfiT3GXIM+yQ0nccr6gRDoueaqSWYxLjy8Uq1VJqayCPJG1frOFLuJ4+eL5dVamUh2IkU0C353MSI6PxmJz+CbdPOqrBtXpbt0hYPsLhVcYUdS1z/fXlCE9CD8S1I5jhngRberLZ1mGyjSuvVujNvxfGoE9GLmZhMClvsQOeqJntmOrXl/oUdIYkhPK+hn8hYziADNtc8YwlhjV2Y3FT1mcylPzyluWc1E8vmEFYcywyZB1WJ9PrC+rlh87RLVoXAi1c7sSD1a8lQQDth0CC62c7rG3EGTGtWw0QJ/nJrCRq4R0gx7zAeL5RDOl5HlATeauZJqRRPTdiMl3dkFmUCq04hqiziTvq0N23Saz3Dk=;pr5LaL9bS7oyBy51RzxOKQ=="
 ---

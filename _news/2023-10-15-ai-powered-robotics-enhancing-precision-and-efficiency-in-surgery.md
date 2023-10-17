@@ -90,6 +90,15 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "Collaborating with AI and Robots: Busting Common Myths"
+    excerpt: "The number of AI companies in the UK has increased by 688% over the past decade, and while the advancements in this technology are exciting for many, several myths have popped up that have generated job-related worry among many workers."
+    publishedDateTime: 2023-10-17T18:52:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 34
 
 secured: "7+mKpDNRDXcCD1T+WgA0OpSAkD/O1RuMSIsNookcl8qsbROpgZEChmBE9MsGmygg7jfUJ1KEZUqu4i+7isLbIraYkv0+JE9ARm4nuD78Xl+bpm04wpCc6IF26SsQppcXul7nBF05iZXj7uIfPVAATS/XzSxv6Pvzu/NIqBMMci2Qahx28BptBOyrtIgSzPQcbHVzQlaB4gNrrq5HG85Z/AqY0S/BaU4uNfPLGZvyaAi9QtGtkoqrjWT7YcuyWIRcfeo6kzpAXoyBilFvZBTGo8muAI3ruvhAHYFvVW6zTcHMf3t8u67toGq2zbW+jOGN7sTV7LX6RG18bg2gudyviPSAxHWDnO4s1iFULXdoTnI=;5c1QpOT20OzzMxHCoRk+SA=="
 ---

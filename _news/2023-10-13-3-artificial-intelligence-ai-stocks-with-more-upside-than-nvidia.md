@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-up
 webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
 type: article
 quality: 84
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -121,6 +121,15 @@ related:
         width: 624
         height: 276
         isCached: true
+  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
+    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
+    publishedDateTime: 2023-10-17T19:36:00Z
+    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
   - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
     excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
     publishedDateTime: 2023-10-13T19:49:00Z
@@ -130,6 +139,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 32
+  - title: "Why Nvidia, Intel, Broadcom, and Other Artificial Intelligence (AI) Semiconductor Stocks Crumbled Tuesday Morning"
+    excerpt: "Danny Vena has positions in Nvidia. The Motley Fool has positions in and recommends ASML, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy."
+    publishedDateTime: 2023-10-17T19:47:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21184338/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 11
   - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
     excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
     publishedDateTime: 2023-10-16T12:50:00Z

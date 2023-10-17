@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-rai
 webUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-raises-300-mln-alibaba-tencent-others-2023-10-17/"
 type: article
 quality: 66
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
+    excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early $50 million angel round."
+    publishedDateTime: 2023-10-17T20:56:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chinese-ai-startup-baichuan-raises-300-million-alibaba-tencent-others-3852046"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Chinese AI startup Baichuan raises US$300 million from Alibaba, Tencent, others"
     excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised US$300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early US$50 million angel round."
     publishedDateTime: 2023-10-17T10:45:00Z
@@ -84,6 +98,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI Startup Baichuan Secures $300 mn in Funding Round Led by Alibaba and Tencent"
+    excerpt: "Chinese artificial intelligence (AI) startup Baichuan announced it successfully raised an impressive $300 million in funding. The VC funding round saw participation from major Chinese tech giants, Alibaba and Tencent, affirming the industry’s growing ..."
+    publishedDateTime: 2023-10-17T16:45:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/ai-startup-baichuan-secures-300-mn-in-funding-round-led-by-alibaba-and-tencent-81180"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 13
 
 secured: "bW1rurjPwz6LGre7poseHG5pKHrC+PekEqCnK2H2FdXHmyjGxwQM1NKD7mWN+YG3BBxBL6ny+lMseEPSw71HGG21hvKUd8XO9UHJLw4Tn48O48TtvPgyLPT05Wy4h3MBRJOTqKZdJXkuPMK481q2ouZYHicWJ3tslfmrhqQ6DV2WX2d0oB+wAVLZWdaCbaW7wq30NAZ6ztW8/0clb2xu84Vzxiqby1zIAowtWW6SqlzKTEypIkzohdEiz69RDmNlTJrirl4xHKv2KJF4cnPiGvXb8i7Ky/wgGnxn1CyCZduiGPmMsmDg22GFRScvYCxJTGCvTlDJqTOHQgvnZGUbbGT7zkD21e14V2kW+EtD2ho=;XVVW9dMY49CbBIrQg+eleg=="
 ---

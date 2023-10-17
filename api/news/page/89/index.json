@@ -2,6 +2,456 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2023-08-14-more-than-half-the-complexity-of-robots-is-in-the-hands.md",
+      "title": "More Than Half The Complexity Of Robots Is In The Hands",
+      "excerpt": "Phoenix has 75 degrees of freedom when you count up how the machine can move in all its jointed components. 44 of those 75 are in the hands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64da5be1a42e7a818e88000e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 945,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2023/08/14/more-than-half-the-complexity-of-robots-is-in-the-hands/amp/",
+      "publishedDateTime": "2023-08-14T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-st-louis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "St. Louis Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
+      "excerpt": "ST. LOUIS, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in St. Louis. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/st-louis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552172",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/st-louis-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032552172",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-application-2030.md",
+      "title": "Face Recognition Systems Market Research Report | Analyzes The Segments Data by Type and by Application 2030",
+      "excerpt": "Global Face Recognition Systems Market research report in order to help businesses understand the state of the market by different trends, research reports compile analyses and data from a variety ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33845037/face-recognition-systems-market-research-report-analyzes-the-segments-data-by-type-and-by-applicati",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33845037",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33845037",
+      "publishedDateTime": "2023-08-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-florida-high-schools-to-teach-ai-courses-developed-by-uf.md",
+      "title": "Florida High Schools to Teach AI Courses Developed by UF",
+      "excerpt": "It said some students who participated in Osceola County last year received certification for Microsoft Azure AI, which is typically held by engineering and computer-science students and professional adults. Nancy Ruzycki, a professor at UF’s Herbert ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
+      "originalUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/c2c658f/2147483647/strip/true/crop/1000x521+0+57/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F13%2Fde%2F9774c61147bfbe8c3f04129ada9c%2Funiversity-of-florida.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/florida-high-schools-to-teach-ai-courses-developed-by-uf?_amp=true",
+      "publishedDateTime": "2023-08-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain.md",
+      "title": "IBM unveils an analog AI chip that works like a human brain",
+      "excerpt": "IBM Research has unveiled an analog AI chip that demonstrates remarkable efficiency and accuracy in performing complex computations.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
+      "originalUrl": "https://interestingengineering.com/innovation/ibm-unveils-an-analog-ai-chip-that-works-like-a-human-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/14/image/jpeg/8bavDaKXnvuBKxvdvcYxixoxwiNrWZhWOittTvOQ.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-the-new-york-times-prohibits-ai-vendors-from-devouring-its-content.md",
+      "title": "The New York Times prohibits AI vendors from devouring its content",
+      "excerpt": "The New York Times updated its terms of service (TOS) to prohibit scraping its articles and images for AI training, reports Adweek. The move comes at a time when tech companies have continued to monetize AI language apps such as ChatGPT and Google Bard,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/android_newspaper_hero2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/the-new-york-times-prohibits-ai-vendors-from-devouring-its-content/amp/",
+      "publishedDateTime": "2023-08-14T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-aws-cloud-migration-with-ibm-turbonomic.md",
+      "title": "AWS cloud migration with IBM Turbonomic",
+      "excerpt": "Explore how to efficiently migrate to AWS and learn how organizations can better navigate this complex process with IBM Turbonomic. \nThe post AWS cloud migration with IBM Turbonomic appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
+      "originalUrl": "https://www.ibm.com/blog/aws-cloud-migration-with-ibm-turbonomic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/Screenshot-2023-08-11-at-2.20.20-PM.png",
+          "width": 2312,
+          "height": 1076,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T09:12:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market Size, industry Report and Forecast to 2030",
+      "excerpt": "The global Artificial Intelligence (AI) in Fintech market size was valued at USD 10204.78 million in 2022 and is expected to expand at a CAGR of 28.6 Percentage during the forecast period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33843456/artificial-intelligence-ai-in-fintech-market-size-industry-report-and-forecast-to-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33843456",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33843456",
+      "publishedDateTime": "2023-08-14T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech.md",
+      "title": "With facial recognition CCTVs and anti-drone systems, R-Day security goes hi-tech",
+      "excerpt": "Delhi has been wrapped in a security blanket for Tuesday's 77th Independence Day celebrations, with more than 10,000 personnel manning the area in and around the Red Fort from where Prime Minister Narendra Modi will address the nation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "originalUrl": "https://www.rediff.com/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im.rediff.com/345-230/news/2023/aug/14president-murmu-addresses-the-nation.jpg",
+          "width": 345,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "cdnAmpWebUrl": "https://m-rediff-com.cdn.ampproject.org/c/s/m.rediff.com/amp/news/report/with-facial-recognition-cctvs-and-anti-drone-systems-r-day-security-goes-hi-tech/20230814.htm",
+      "publishedDateTime": "2023-08-14T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "rediff.com",
+        "domain": "rediff.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-14-detroit-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Detroit Selected as Host Site for Artificial Intelligence Bootcamp - APPLICATIONS CLOSING SOON!",
+      "excerpt": "DETROIT, Aug. 14, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Perficient, the leading global digital consultancy, taking place in Detroit. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/14/9864047.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/14/9864047.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-14T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-ai-startup-anthropic-gets-100m-to-build-custom-llm-for-telecom-industry.md",
       "title": "AI startup Anthropic gets $100M to build custom LLM for telecom industry",
       "excerpt": "AI startup Anthropic with its \"constitutional AI\" approach has raised $100 million from Korean telecom major SK Telecom to build custom LLMs.",
@@ -695,455 +1145,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom.md",
-      "title": "AI startup Anthropic raises $100M from Korean telco giant SK Telecom",
-      "excerpt": "Most recently, the Google-backed generative AI startup has released its updated version, Claude Instant 1.2, which incorporates the strengths of Claude 2, its second-generation AI chatbot. Claude’s use cases for the telco industry will include ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "originalUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/Anthropic_logo_art.png?w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/14/ai-startup-anthropic-raises-100m-from-korean-telco-giant-sk-telecom/amp/",
-      "publishedDateTime": "2023-08-14T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ump-introduces-artificial-intelligence-technology-for-enhanced-chest-x-ray-analysis-efficiency.md",
-      "title": "UMP Introduces Artificial Intelligence Technology for Enhanced Chest X-Ray Analysis Efficiency",
-      "excerpt": "UMP Healthcare Holdings Limited (\"UMP \" or the \"Group\", stock code: 722.HK) is pleased to announce the signing of a memorandum of understanding (MOU) with Imsight Technology Company Limited, specialised in providing artificial intelligence (AI) medical imaging analysis solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency",
-      "originalUrl": "https://www.asiaone.com/business/ump-introduces-artificial-intelligence-technology-enhanced-chest-x-ray-analysis-efficiency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2023/Group_photo.jpg?h=252f27fa&itok=YgGwlpBJ",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-14T00:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-is-generative-ai-destroying-the-internet.md",
-      "title": "Is Generative AI Destroying The Internet?",
-      "excerpt": "Explore the astonishing capabilities of generative AI as it blurs the lines between reality and digital deception, and discover the urgent race to safeguard the truth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d9c7c62d69c2f7f6635ebe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/08/14/is-generative-ai-destroying-the-internet/amp/",
-      "publishedDateTime": "2023-08-13T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-facial-recognition-led-to-8-month-pregnant-womans-wrongful-carjacking-arrest-in-front-of-kids-lawsuit.md",
-      "title": "AI facial recognition led to 8-month pregnant woman's wrongful carjacking arrest in front of kids: lawsuit",
-      "excerpt": "An eight-month pregnant woman, Porcha Woodruff, was arrested by Detroit police for a carjacking that she did not commit based on faulty AI-powered facial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
-      "originalUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/07/340/340/Chris-Eberhart-Headshot-1.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-facial-recognition-led-8-month-pregnant-womans-wrongful-carjacking-arrest-front-kids-lawsuit.amp",
-      "publishedDateTime": "2023-08-13T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off.md",
-      "title": "This expert-led Python bootcamp bundle is on sale for 82% off",
-      "excerpt": "TL;DR: The 2023 Complete Python Certification Boot Camp Bundle is on sale for £11.80, saving you 82% on list price.",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/online-learning/26043/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off",
-      "originalUrl": "https://sea.mashable.com/online-learning/26043/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/deal/t/this-exper/this-expert-led-python-bootcamp-bundle-is-on-sale-for-82-off_7bv3.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "sea.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-amazons-facial-recognition-system-flags-dozens-of-california-lawmakers-as-criminals.md",
-      "title": "Amazon’s facial recognition system flags dozens of California lawmakers as criminals",
-      "excerpt": "Amazon’s facial scanning software, called Rekognition, won’t unlock your phone, but it is currently being used by some law enforcement agencies to identify criminals based on their mugshots.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
-      "originalUrl": "https://bgr.com/science/rekognition-test-amazon-facial-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030.md",
-      "title": "Natural Language Processing (NLP) Software Market Scope and Business revenue Insight, 2030",
-      "excerpt": "Natural Language Processing (NLP) Software Market | Outlook 2023-2028 | Tables and Figures with Pre and Post-COVID Research is Covered, Report Information | Updated 115 Pages Report The extent and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33815537/natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33815537/natural-language-processing-nlp-software-market-scope-and-business-revenue-insight-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33815537",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33815537",
-      "publishedDateTime": "2023-08-13T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-dont-expect-quick-fixes-in-red-teaming-of-ai-models-security-was-an-afterthought.md",
-      "title": "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought",
-      "excerpt": "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "originalUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/97zyX45bgwivL9P6BPDsEf0Vnig=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5CIOSRXO6BFQVE3WVW55F4TXYU.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
-      "publishedDateTime": "2023-08-13T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WOWT.com",
-        "domain": "wowt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-industrial-robotics-lithuania.md",
-      "title": "AI Industrial Robotics - Lithuania",
-      "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$6m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.75%, resulting in a market volume of US$17m ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/lithuania",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/lithuania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-14-ai-service-robotics-lithuania.md",
-      "title": "AI Service Robotics - Lithuania",
-      "excerpt": "Value in the AI Service Robotics market is projected to reach US$4m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.68%, resulting in a market volume of US$11m by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/lithuania",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/lithuania",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-13T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

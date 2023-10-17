@@ -2,6 +2,446 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2023-08-06-my-top-ai-stock-to-buy-right-now.md",
+      "title": "My Top AI Stock to Buy Right Now",
+      "excerpt": "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
+      "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-06T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-the-big-bottleneck-for-ai-a-shortage-of-powerful-chips.md",
+      "title": "The big bottleneck for AI: a shortage of powerful chips",
+      "excerpt": "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models. The continuing chip crunch has affected businesses large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/08/06/tech/ai-chips-supply-chain/index.html",
+      "originalUrl": "https://www.cnn.com/2023/08/06/tech/ai-chips-supply-chain/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230804123750-nvidia-ai-graphics-processing-unit-gpu-0602-restricted.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/06/tech/ai-chips-supply-chain/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/06/tech/ai-chips-supply-chain/index.html",
+      "publishedDateTime": "2023-08-06T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology.md",
+      "title": "Artificial Intelligence and Machine Learning: Unveiling the Future of Technology",
+      "excerpt": "Welcome to the realm of Artificial Intelligence and Machine Learning, where algorithms breathe life into machines, transforming them into in..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/artificial-intelligence-and-machine-learning-unveiling-the-future-of-technology-emc-sc71-nu384-ta384-1290421-1.html",
+      "publishedDateTime": "2023-08-06T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-chatbots-sometimes-make-things-up-is-ais-hallucination-problem-fixable.md",
+      "title": "Chatbots sometimes make things up. Is AI’s hallucination problem fixable?",
+      "excerpt": "Spend enough time with ChatGPT and other artificial intelligence chatbots and it doesn’t take long for them to spout falsehoods. Described as hallucination, confabulation or just plain making things up,",
+      "sourceUrl": null,
+      "webUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html",
+      "originalUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/normantranscript.com/content/tncms/assets/v3/editorial/c/d8/cd8e6d4c-1029-53a9-a446-cd5951db10f6/64c8cb7facd53.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html",
+      "cdnAmpWebUrl": "https://www-normantranscript-com.cdn.ampproject.org/c/s/www.normantranscript.com/region/chatbots-sometimes-make-things-up-is-ai-s-hallucination-problem-fixable/article_82c06a94-3093-11ee-9ddb-9f57440b2f69.amp.html",
+      "publishedDateTime": "2023-08-05T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Norman Transcript",
+        "domain": "normantranscript.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-recognition-is-essential-now-more-than-ever.md",
+      "title": "Recognition Is Essential, Now More Than Ever",
+      "excerpt": "VP Recognition at CSI STARS. It's all about people. I have the best job in the world encouraging people to recognize others - more often. I originally planned to write an article on Employee ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/26/recognition-is-essential-now-more-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/26/recognition-is-essential-now-more-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/blogs-images/forbescommunicationscouncil/files/2020/03/a-45.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-performance-metrics-for-convolutional-neural-network-accelerators.md",
+      "title": "Performance Metrics For Convolutional Neural Network Accelerators",
+      "excerpt": "Attempts at a standardized microbenchmarking suite for convolutional kernels and other common neural network operations have not resulted in widespread adoption. Macrobenchmarks, or benchmarks of full models, are better indicators for system-level ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/performance-metrics-for-convolutional-neural-network-accelerators/",
+      "originalUrl": "https://semiengineering.com/performance-metrics-for-convolutional-neural-network-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/Flex-Logix_performance-metrics-CNN-table1-lg.png?fit=1313%2C804&ssl=1",
+          "width": 1313,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-artificial-intelligence-gains-state-lawmakers-attention.md",
+      "title": "Artificial intelligence gains state lawmakers’ attention",
+      "excerpt": "HARTFORD, Conn. >> As state lawmakers rush to get a handle on fast-evolving artificial intelligence technology, they’re often focusing first on their own state governments before imposing restrictions on the private sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/",
+      "originalUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2023/08/web1_14071682-e35665bc86274e58855471163d80553f.jpg",
+          "width": 760,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/08/05/breaking-news/artificial-intelligence-gains-state-lawmakers-attention/amp/",
+      "publishedDateTime": "2023-08-05T14:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-06-self-driving-shuttles-headed-to-detroit-select-residents-will-qualify-for-free-rides.md",
+      "title": "Self-driving shuttles headed to Detroit; select residents will qualify for free rides",
+      "excerpt": "A number of Detroit’s older residents and those with disabilities who don’t qualify for paratransit services could have a chance beginning next year to use self-driving shuttles to get to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
+      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit Free Press",
+        "domain": "freep.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-jp-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin.md",
+      "title": "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN",
+      "excerpt": "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "originalUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33585861",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861",
+      "publishedDateTime": "2023-08-05T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan.md",
+      "title": "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan",
+      "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3917315/recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan/",
+      "originalUrl": "https://mynorthwest.com/3917315/recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg",
+          "width": 452,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-05T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-2-semiconductor-stocks-set-for-next-level-growth-thanks-to-ai.md",
       "title": "2 Semiconductor Stocks Set for Next-Level Growth Thanks to AI",
       "excerpt": "Nvidia will benefit from AI, to be sure, but that's no secret to stock market investors. Advanced AI chips wouldn't be possible without ASML's lithography machines. Artificial intelligence (AI) has been powering strong gains for the stock market this ...",
@@ -721,455 +1161,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-new-yorkers-treat-these-remote-controlled-robot-garbage-bins-like-people-say-researchers.md",
-      "title": "New Yorkers treat these remote-controlled 'robot' garbage bins like people, say researchers",
-      "excerpt": "A waste bin and a recycling bin, both perched on top of robotic wheeled disks, roll between tables in Brooklyn's Albee Square. They've helped make throwing away trash more convenient for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/asithappens/waste-bins-studying-human-interaction-1.6927338",
-      "originalUrl": "https://www.cbc.ca/radio/asithappens/waste-bins-studying-human-interaction-1.6927338",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6927380.1691178245!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/child-uses-robo-bin.JPG",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6927338",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6927338",
-      "publishedDateTime": "2023-08-04T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-thanks-to-ai-elvis-likes-big-butts-and-he-cannot-lieheres-how-its-possible.md",
-      "title": "Thanks to AI, “Elvis” likes big butts and he cannot lie—here’s how it’s possible",
-      "excerpt": "To get more insight into the musical voice cloning process with so-vits-svc-fork (an altered version of the original so-vits-svc), we tracked down Michael van Voorst, the creator of the Elvis voice AI model that Ballard used in his \"Baby Got Back\" video. He walked us through the steps necessary to create an AI mash-up.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/rockstar_hero_6-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/hear-elvis-sing-baby-got-back-using-ai-and-learn-how-it-was-made/amp/",
-      "publishedDateTime": "2023-08-04T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler.md",
-      "title": "Optimize data preparation with new features in AWS SageMaker Data Wrangler",
-      "excerpt": "Data preparation is a critical step in any data-driven project, and having the right tools can greatly enhance operational efficiency. Amazon SageMaker Data Wrangler reduces the time it takes to aggregate and prepare tabular and image data for machine learning (ML) from weeks to minutes. With SageMaker",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-data-preparation-with-new-features-in-aws-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/optimize-data-prepration.jpg",
-          "width": 1016,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T08:25:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-index-your-alfresco-content-using-the-new-amazon-kendra-alfresco-connector.md",
-      "title": "Index your Alfresco content using the new Amazon Kendra Alfresco connector",
-      "excerpt": "Amazon Kendra is a highly accurate and simple-to-use intelligent search service powered by machine learning (ML). Amazon Kendra offers a suite of data source connectors to simplify the process of ingesting and indexing your content, wherever it resides. Valuable data in organizations is stored in both",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-alfresco-content-using-the-new-amazon-kendra-alfresco-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/index-your-alfresco-content-using-the-new-amazon-kendra-alfresco-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/04/index-alfresco-kendra.jpg",
-          "width": 1021,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T08:22:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-apple-patent-says-siri-could-be-trained-to-read-your-lips.md",
-      "title": "Apple Patent Says Siri Could Be Trained to Read Your Lips",
-      "excerpt": "After all, Apple has so far eschewed talking much about modern AI systems. Why would the voice recognition service also want to be staring at me like HAL 9000 from 2001: A Space Odyssey?",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/apple-patent-siri-read-lips-1850704698",
-      "originalUrl": "https://gizmodo.com/apple-patent-siri-read-lips-1850704698",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-the-ai-boom-could-create-a-new-crypto-style-gpu-shortage.md",
-      "title": "The AI boom could create a new crypto-style GPU shortage",
-      "excerpt": "Fortunately that’s died down and GPU prices have normalized ... bootstrapping consumer-grade graphics cards to make new AI services, and larger companies taking up all the manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/2020375/the-ai-boom-could-create-a-new-gpu-shortage.html",
-      "originalUrl": "https://www.pcworld.com/article/2020375/the-ai-boom-could-create-a-new-gpu-shortage.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2023/08/nvidia-rtx-dual-graphics-card.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-toyota-companies-ponyai-partner-to-advance-production-of-driverless-robotaxis.md",
-      "title": "Toyota companies, Pony.ai partner to advance production of driverless robotaxis",
-      "excerpt": "WHAT IS ARTIFICIAL INTELLIGENCE (AI)? They will run on Pony.ai’s robotaxi network platform, PonyPilot+. \"The joint venture combines Pony.ai's world-class autonomous driving technology and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis",
-      "originalUrl": "https://www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/cd282e2b-89bc-4ef6-acdc-d616ea7c9d90/40696e12-42cf-43da-809a-a40e73dd2660/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/toyota-companies-ponyai-partner-advance-production-driverless-robotaxis.amp",
-      "publishedDateTime": "2023-08-04T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-ai-and-ml-the-two-biggest-trends-in-robotics-today.md",
-      "title": "AI and ML: The two biggest trends in robotics today",
-      "excerpt": "AI and ML applications for packaging robotics are growing rapidly, helping robots perform tasks more efficiently and eliminating the need for manual programming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2023/08/DLR_Packaging_Robotics.64caac0985d15.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-artificial-intelligence-is-changing-the-way-mercy-delivers-care.md",
-      "title": "Artificial intelligence is changing the way Mercy delivers care",
-      "excerpt": "Together with the Mayo Clinic and three recently announced health care organizations in Israel, Brazil, and Canada, Mercy has entered into a partnership in which it will use artificial intelligence and de-identified patient data to try to improve outcomes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
-      "originalUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Best BBQ in St. Louis",
-        "domain": "stlmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-crocker-park-deploys-innovative-security-measure-with-knightscope-robot-sam.md",
-      "title": "Crocker Park Deploys Innovative Security Measure with Knightscope Robot S.A.M.",
-      "excerpt": "Nasdaq: KSCP] (“Knightscope” or the “Company”), a leading developer of autonomous security robots and blue light emergency communication systems, today announced that Crocker Park – a lifestyle center for shopping,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20230804839195/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20230804839195/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

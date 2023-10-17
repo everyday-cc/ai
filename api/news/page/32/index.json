@@ -2,6 +2,469 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-09-22-grand-theft-auto-holds-the-key-to-self-driving-revolution-in-five-years.md",
+      "title": "Grand Theft Auto holds the key to self-driving revolution in five years",
+      "excerpt": "A Scots scientist behind the project says cars, taxis and buses could be ditched for self-driving machines using artificial intelligence by 2023. While US companies such as Tesla are developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
+      "originalUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.heraldscotland.com/resources/images/7329226/?type=og-image",
+          "width": 752,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "heraldscotland",
+        "domain": "heraldscotland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-face-recognition-systems-industry-2023-market-research-with-size-growth-key-players-segments-and-forecast-till-2030.md",
+      "title": "Face Recognition Systems Industry - 2023 Market Research with Size, Growth, Key-Players, Segments and Forecast Till 2030",
+      "excerpt": "Global Face Recognition Systems Market (2023-2030) research report helps to recognize the market challenges and opportunities. Global Face Recognition Systems Market report contains the recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34814975/face-recognition-systems-industry-2023-market-research-with-size-growth-key-players-segments-and-fo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34814975/face-recognition-systems-industry-2023-market-research-with-size-growth-key-players-segments-and-fo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34814975",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34814975",
+      "publishedDateTime": "2023-09-22T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030.md",
+      "title": "Artificial Intelligence Robotics Market Size, Growth & Trends Report [2023-2030]",
+      "excerpt": "The Global Artificial Intelligence Robotics Market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2031. In 2021, the market is growing at a steady rate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34815315/artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34815315/artificial-intelligence-robotics-market-size-growth-trends-report-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-22T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-how-ai-can-help-boost-inclusion-across-the-fintech-industry.md",
+      "title": "How AI Can Help Boost Inclusion Across The Fintech Industry?",
+      "excerpt": "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
+      "originalUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65075b0b97c64f7db601661d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
+      "publishedDateTime": "2023-09-22T00:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-ozzy-osbournes-son-jack-has-concerns-about-ai-its-a-bit-of-a-pandoras-box.md",
+      "title": "Ozzy Osbourne's son Jack has concerns about AI: 'It's a bit of a Pandora's box'",
+      "excerpt": "\"The Osbournes\" alum Jack Osbourne, Ozzy Osbourne's son, shares what he likes and dislikes about the proliferation of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i",
+      "originalUrl": "https://www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1200/675/JackOsbourne.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i.amp",
+      "publishedDateTime": "2023-09-22T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-computer-vision-market-forecast-2023key-factors-considered-2031.md",
+      "title": "Computer Vision Market Forecast 2023|Key Factors Considered 2031",
+      "excerpt": "Global |107 Pages| Report on \"Computer Vision Market\" offers a detailed Research In-Depth Analysis (2023-2031)which is expected to witness remarkable growth in the coming years. The implementation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34813029/computer-vision-market-forecast-2023-key-factors-considered-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34813029/computer-vision-market-forecast-2023-key-factors-considered-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34813029",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34813029",
+      "publishedDateTime": "2023-09-21T23:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-gpus-transformed-ai-now-theyre-here-for-quantum.md",
+      "title": "GPUs Transformed AI. Now They’re Here For Quantum.",
+      "excerpt": "While quantum hardware remains immature, companies say they found another way to put complex quantum algorithms to work: running them on the same chips used for powering artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
+      "originalUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum-11695320621317.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/09/21/600x338/im-854571_1695320625458_1695320666858.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gpus-transformed-ai-now-they-re-here-for-quantum/amp-11695320621317.html",
+      "publishedDateTime": "2023-09-21T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-generative-ai-is-breathing-new-life-into-classic-computer-games.md",
+      "title": "Generative AI Is Breathing New Life Into Classic Computer Games",
+      "excerpt": "Generative AI has the potential to revolutionize every creative industry ... Stroll through a forest in even a very recent video game, and if you pay attention, you might start to notice that there’s only a small number of individual tree models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650d264d7512de65ddc7771f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/22/generative-ai-is-breathing-new-life-into-classic-computer-games/amp/",
+      "publishedDateTime": "2023-09-21T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-artificial-intelligence-in-healthcare-service-market-2023-is-set-to-fly-high-in-upcoming-year.md",
+      "title": "Artificial Intelligence In Healthcare Service Market 2023 Is Set To Fly High In Upcoming Year",
+      "excerpt": "Artificial Intelligence In Healthcare Service Market [ 127 Report Pages] Insights 2023 by Types (Software Solutions, Hardware, Services) , Applications (Robot-Assisted Surgery, Virtual Assistants ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107117111/Artificial-Intelligence-In-Healthcare-Service-Market-2023-Is-Set-To-Fly-High-In-Upcoming-Year",
+      "originalUrl": "https://menafn.com/1107117111/Artificial-Intelligence-In-Healthcare-Service-Market-2023-Is-Set-To-Fly-High-In-Upcoming-Year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?65708",
+          "width": 437,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-22-ai-means-new-rules-of-advancement-for-aspiring-managers.md",
+      "title": "AI Means New Rules Of Advancement For Aspiring Managers",
+      "excerpt": "Artificial intelligence is upending the tried-and-true rules of management — with a surprisingly non-technical bent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new-rules-of-advancement-for-aspiring-managers/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/09/21/ai-means-new-rules-of-advancement-for-aspiring-managers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650cf64b3ec8dccf3ecef3be/0x0.jpg?format=jpg&width=1200",
+          "width": 1051,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-22-intel-fills-the-gap-in-chinas-ai-chip-market-amid-us-export-restrictions.md",
       "title": "Intel Fills the Gap in China’s AI Chip Market Amid US Export Restrictions",
       "excerpt": "Intel, which last year made 27% of its total revenue in China, seems to have strategically positioned its Gaudi2 processors",
@@ -702,504 +1165,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-optimize-generative-ai-workloads-for-environmental-sustainability.md",
-      "title": "Optimize generative AI workloads for environmental sustainability",
-      "excerpt": "To add to our guidance for optimizing deep learning workloads for sustainability on AWS, this post provides recommendations that are specific to generative AI workloads. In particular, we provide practical best practices for different customization scenarios, including training models from scratch, fine-tuning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimize-generative-ai-workloads-for-environmental-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/11/Optimize_generative_AI_workloads_for_Sustainabilit_11092023_1-1.png",
-          "width": 906,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T09:48:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards.md",
-      "title": "Retinal Imaging And Machine Learning Honored In The 2023 Lasker Awards",
-      "excerpt": "The Lasker Foundation’s annual awards for medical research honor the inventors of optical coherence tomography, DeepMind’s AlphaFold program and a legendary Dutch cancer researcher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2023/09/21/retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2023/09/21/retinal-imaging-and-machine-learning-honored-in-the-2023-lasker-awards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-next-major-windows-update-is-available-september-26-with-new-ai-and-not-ai-features.md",
-      "title": "Next major Windows update is available September 26, with new AI (and not-AI) features",
-      "excerpt": "NEW YORK—Microsoft will be releasing its next major Windows update with \"over 150 new features\" later this month, the company announced in a presentation today. The update furthers Microsoft's crusade to tuck generative AI into all of its products, though as usual, it makes a ton of smaller iterative changes to the OS and its apps.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
-      "originalUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/paint_cocreator_print-980x613.jpeg",
-          "width": 980,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/09/next-major-windows-update-is-available-september-26th-with-new-ai-and-not-ai-features/amp/",
-      "publishedDateTime": "2023-09-21T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation.md",
-      "title": "IBM TechXchange underscores the importance of AI skilling and partner innovation",
-      "excerpt": "As organizations race to adopt AI for business, the importance of a global ecosystem of partners with industry expertise is growing.\nThe post IBM TechXchange underscores the importance of AI skilling and partner innovation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-techxchange-underscores-the-importance-of-ai-skilling-and-partner-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/techxchange-2.jpg",
-          "width": 1280,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge.md",
-      "title": "Stablecoin Issuer Tether Ventures Into AI With Northern Data in $427M Nvidia Chip Splurge",
-      "excerpt": "Damoon, a Tether subsidiary in which Northern Group acquired a stake earlier this year, has purchased $427 million of Nvidia chips for generative AI cloud computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/",
-      "originalUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/p-ft34p_th1_v-XElMpKfCIQhRc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7CGGKFEVYBAZTIY5PS32RW6AYA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2023/09/21/stablecoin-issuer-tether-ventures-into-ai-with-northern-data-in-427m-nvidia-chip-splurge/?outputType=amp",
-      "publishedDateTime": "2023-09-21T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-musicians-are-eyeing-a-legal-shortcut-to-fight-ai-voice-clones.md",
-      "title": "Musicians are eyeing a legal shortcut to fight AI voice clones",
-      "excerpt": "As the debate around AI regulations rages on, creative industries are taking notice. Music is one of the biggest. In the past year alone, we’ve had AI covering popular songs or faking new releases, Grimes letting people use her voice for their creations, YouTube partnering with record labels to monetize AI music, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-voice-likeness-regulation",
-      "originalUrl": "https://www.theverge.com/2023/9/21/23836337/music-generative-ai-voice-likeness-regulation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/KextqryeSw6CO8DgNHUhqLlH7ZA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16125019/acastro_190416_1777_music_ai_0001.0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-pennsylvania-state-government-operations-to-start-using-artificial-intelligence.md",
-      "title": "Pennsylvania state government operations to start using artificial intelligence",
-      "excerpt": "The state of Pennsylvania, which plans to use artificial intelligence for its operations, is convening an AI governing board and developing training programs for state employees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f0a9906-43a7-48d5-a658-dbd6fd0bea08/b77c794b-84ab-46d3-a579-637681c78046/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-state-government-operations-start-using-artificial-intelligence.amp",
-      "publishedDateTime": "2023-09-21T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.md",
-      "title": "OpenAI beefs up its image generating AI tool with DALL-E 3",
-      "excerpt": "DALL-E 3 promises to generate more accurate images by grasping the details and nuances in your descriptions. See for yourself!",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "originalUrl": "https://www.zdnet.com/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1270bd3a49125fea74b18cbb566b75e0415c55c5/2023/09/21/7a5804cc-4aa2-4589-9137-2bc19f13f543/figure-top-openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-beefs-up-its-image-generating-ai-tool-with-dall-e-3/",
-      "publishedDateTime": "2023-09-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-with-a-little-help-from-my-bot-joining-forces-with-ai.md",
-      "title": "With A Little Help From My Bot: Joining Forces With AI",
-      "excerpt": "Here are some ways in which workers across roles and industries will feel the benefits of generative AI in their jobs, professional development and career trajectories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d54262188e017c56d9d11b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/21/with-a-little-help-from-my-bot-joining-forces-with-ai/amp/",
-      "publishedDateTime": "2023-09-21T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-21-broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier.md",
-      "title": "Broadcom Shares Fall on Report Google Looks to Drop It as AI Chip Supplier",
-      "excerpt": "By Colin Kellaher Shares of Broadcom moved lower in premarket trading Thursday following a published report that Alphabet's Google unit is looking to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
-      "originalUrl": "https://www.marketwatch.com/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-shares-fall-on-report-google-looks-to-drop-it-as-ai-chip-supplier-f1d21a67",
-      "publishedDateTime": "2023-09-21T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

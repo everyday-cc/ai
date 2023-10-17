@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-02-new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers.md",
+      "title": "New police intelligence tool speedily sending information on risk to frontline officers",
+      "excerpt": "using IBM Watson AI and so-called i2 visual tech spun off from IBM. It provides “dramatically more useful” intelligence, especially about firearm threats, the papers said. This is disclosed in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
+      "originalUrl": "https://www.nzherald.co.nz/nz/new-police-intelligence-tool-speedily-sending-information-on-risk-to-frontline-officers/WEHYMECHMJEAHDE2YKTA676JVE/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/lG4iwT4o0_nv5-b1l_S9aLPpo2Y=/1200x675/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/O34OTTPSBBANLDKXXNGHTA7LCY.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-01T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-01-how-general-ai-will-eventually-reshape-everything.md",
       "title": "How General AI Will Eventually Reshape Everything",
       "excerpt": "This article discusses General AI and highlights how the AI industry is unfolding advancing efforts to develop General AI.",
@@ -1258,48 +1301,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have.md",
-      "title": "IBM Cloud for Payments is an imperative, not a nice-to-have",
-      "excerpt": "The ability to settle payments real-time and provide frictionless customer experience is critical to remaining competitive.\nThe post IBM Cloud for Payments is an imperative, not a nice-to-have appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-for-payments-is-an-imperative-not-a-nice-to-have/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T05:47:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
