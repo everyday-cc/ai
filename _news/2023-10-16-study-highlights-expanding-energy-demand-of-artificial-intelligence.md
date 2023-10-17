@@ -24,6 +24,17 @@ images:
     height: 586
     isCached: true
 
+related:
+  - title: "Qlik Highlights the Importance of Data Fabric in Boosting Generative AI Outcomes"
+    excerpt: "Recent research by Qlik shows that enterprises are planning significant investments in technologies that enhance data"
+    publishedDateTime: 2023-10-17T17:14:00Z
+    webUrl: "https://www.datanami.com/this-just-in/qlik-highlights-the-importance-of-data-fabric-in-boosting-generative-ai-outcomes/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 14
+
 secured: "xPE2Kh9uaCrsI/PWBJXJkZocrnE+8MMh+Ped3kdo1z8TkN44eqF9usLVneV/b4Boagn3F09ZM5h12ZeSJuiRgGzZlQk5eIhTukjWVWOEbZQVcsiyZnTTBPTi23PbAqp+uwTjfW5uzFknzepYsRJU3MDNfXYtOHjEhChQ63N8vBBlxv7lk++cPYlhxvvYc6oOPkeyhghxHeY1GucW9M9adr5hJ0TPTifbYFsop24NNY2ykr4mtgdTK4ZFFS0E1lLen9v/zVawvbE7/JTko8SzrORvLkM7N1CJ0kj0EdE80DxMZFA894WrMeW6Kpb/E55VCoab6KMqVXSnn1gnVdcy2KnWsT35idxVgMbCwkR/uR8MWWnYEZxTMgQSmyqlasJO/+ALS+7F/z5VM5juZx/IMwQE7gHR8FQ3rvn5HURr8/EL6/jrcfEPnDg13AMZSLMuDpEb/+s3PIKk/5Kc8tTs9EMiRdW/gRTC8tsgH05Y3Dc7BGkG78+1534q4fq1yM+rokR1MCmnjCHR8/k4Lc70Kw==;2VVi7d9yTU4+VbvBg5mqPg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-rai
 webUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-raises-300-mln-alibaba-tencent-others-2023-10-17/"
 type: article
 quality: 66
-heat: 86
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese AI startup Baichuan raises $300M from Alibaba, Tencent and Xiaomi"
+    excerpt: "The Beijing-based artificial intelligence startup Baichuan Intelligent Technology announced ... Baichuan stands out as one of the foremost AI developers in China working on generative AI and large language models and competing with Microsoft Corp. and ..."
+    publishedDateTime: 2023-10-17T16:22:00Z
+    webUrl: "https://siliconangle.com/2023/10/17/chinese-ai-startup-baichuan-raises-300m-alibaba-tencent-xiaomi/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
+    excerpt: "HONG KONG/BEIJING (Reuters) -Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. China's craze over generative AI has triggered a flurry of product and fundraising announcements from startups and tech giants,"
+    publishedDateTime: 2023-10-17T13:44:00Z
+    webUrl: "https://www.aol.com/chinese-ai-upstart-baichuan-raises-085601942.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Chinese AI upstart Baichuan raises $300 million from Alibaba, Tencent, others"
     excerpt: "Chinese artificial intelligence (AI) startup Baichuan said on Tuesday it has raised $300 million from investors including Chinese tech giants Alibaba and Tencent. The investors include smartphone maker Xiaomi and other investment firms,"
     publishedDateTime: 2023-10-17T08:56:00Z

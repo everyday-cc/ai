@@ -60,22 +60,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "AI Used to Resurrect Video Game Voice Actor in ‘Cyberpunk 2077’ Universe"
-    excerpt: "The Polish video game developer CD Projekt SA has used artificial intelligence to replicate the voice of the late Polish actor Miłogost Reczek."
-    publishedDateTime: 2023-10-12T23:18:00Z
-    webUrl: "https://variety.com/2023/gaming/news/ai-resurrect-video-game-voice-actor-cyberpunk-2077-phantom-liberty-1235754459/"
-    ampWebUrl: "https://variety.com/2023/gaming/news/ai-resurrect-video-game-voice-actor-cyberpunk-2077-phantom-liberty-1235754459/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/gaming/news/ai-resurrect-video-game-voice-actor-cyberpunk-2077-phantom-liberty-1235754459/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 56
-    images:
-      - url: "https://variety.com/wp-content/uploads/2023/10/phantomliberty.jpg?w=845&h=475&crop=1"
-        width: 845
-        height: 475
-        isCached: true
 
 secured: "P8eeJyPMKw0PSOKV2utnJjDgjPB/1UkCkddMypDDWgwickxXT9WmASaSXhBsuGofYPuYFUmbsg1H27Pv+ssTf2LyPlekemMUHp2M1ZSOmjyoU7mOWZDhKFaqRQ8F4MkDeGyaExv8PIDkdJnmVdj8lwD5nnQfgoZSen5h/FxwgcFGShWEITYg4zaXvYcM3mMV7Lc9xtpWxO4D4G4ZfHsePnNj3c9+UwZO+wYDPrMa5nxTQ1EFbZe2EkkMFNFBX/uJHvlk8Y1QI6b0BH5dkj5VL25SZhiTCAq2TaqYWccYQXuvDzs1wwv4vwgo6FCtUqMH25YV4ocK8lMg3R9t388TYcDq2MpWbPy/xm5lzTA/AfrDzdZ/qXWOojPdx9zOIMq8ezbZhnikYamIqfz0RKIC3YsxQAbMTJo9FAMWZ0xrWC1teInIcbCPlONmNKKy7HaPeRs1XU8+Fvx8x/2B7rRGLVcKxo9tWedkyrL9MQNnuvhGl1qzxGQOSFyMYo5sDzGnwFhZ3RBPkk5vEK5OI2gYpg==;8bFrOUzYnFwLbLezNDsV+Q=="
 ---

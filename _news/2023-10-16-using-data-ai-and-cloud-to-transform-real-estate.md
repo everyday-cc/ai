@@ -58,6 +58,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Cohere Taps NetSuite to Scale Business Processes and Meet Global AI Demand"
+    excerpt: "NetSuite announces that leading enterprise AI startup will leverage its unified cloud business suite to increase productivity and provide a foundation for future growth. LAS VEGAS"
+    publishedDateTime: 2023-10-17T16:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900390.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "rhUrsIRlmvwxxyW69pVJZfrwD9CrJNkTgdyRvWOEXZOU1km5qj6EdJzjzPGdL7IZhQFPHvGT3nh+LuZfZQBgYzz0+YhmMWMcRRyJlS03qxxbJiKxdXWVYMpY9l2CnNJBSgsNfC07Eb5QF+9dNQmu4fDoi0Nod7rmnH0mHVO+4JzfVTk1DRp219sOlTpW2oaeXR7MvDrqRtIKpoJPWBBvrxGxlrAFX2w4nmWx+3P3f5+M20MoMEz6W//PMGhmoTKiW3u57nYqjsG7Bxs1hcyNG1akenezpeLaePpEfvERFg5OuLLbh7UotAI6WXLgZ8w/kKLzs9Bj4G+llKQjH3hSMRU8VsbhFPQYpPbbbBCA4sl3zHvJpn8/ZPZB1UDBLzeBEfyfEEDeOGDw/I+LL+0sITiAxqsNiP6r26u+OwfS31XupZeurHqcf6HdEm8Hfyp1WVkH7Vkze8xVGwuJ67luzyStqhLPsVFPiYSy/ipKeSfI00ciA2CF67Y3/HM1bw5h0J/AecDMRE9RazlkaikfAg==;4bnnzLbPNpXB2XaVbuZ0NQ=="
 ---

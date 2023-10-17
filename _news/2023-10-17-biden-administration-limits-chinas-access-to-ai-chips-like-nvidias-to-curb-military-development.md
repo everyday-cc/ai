@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administrat
 ampWebUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
 type: article
-quality: 74
+quality: 91
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/652ea9d899bb17c095f8c369/0x0.jpg?format=jpg&crop=2913,1639,x0,y151,safe&height=900&width=1600&fit=bounds"
@@ -115,6 +116,20 @@ related:
       - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "US Moves to Close Loopholes China Is Exploiting to Secure AI Chips"
+    excerpt: "The stricter rules are intended to prevent Chinese companies from obtaining large numbers of smaller chips and combining them to form a powerful data center."
+    publishedDateTime: 2023-10-17T15:55:00Z
+    webUrl: "https://www.pcmag.com/news/us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05wqDEjdDEkzyQnBECxr9tG-1.fit_lim.size_1200x630.v1697554685.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Tech war: US eyes more AI chip curbs on Chinese companies abroad to close loophole"
     excerpt: "US rules restricting shipments of AI chips and chipmaking tools to China are set to be tightened in the coming days, sources say."

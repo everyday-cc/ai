@@ -116,6 +116,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
+    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
+    publishedDateTime: 2023-10-17T15:18:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 18
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
+        width: 1358
+        height: 768
+        isCached: true
 
 secured: "Rn1Vm3bspyrFgNc0SxcWpjKNEQcUCfcPjq5rTsTIEA4C/VR6WCckvTUqShJRq1++s/9J0PBhxeWbAjYaBnrL0YqxxszcLAONLovtXAeZPy0+c4CgVveAfrkYlMVIK3+/AXJsqp4NFQM8aYjP74iYewDE+1EFiE9VzUMTffBRxOwyJaGPckQGb0a9b6ks33w+tpeyHT7WF3TP11Puax0nx3cFweS4O/Dz3v63dlkDzh9YGlaVOQchO0zgSc5vGSJMMizYC63J6Mwh/hGtys2WDFqo5yA5qo4rlA4awX9iDqvXCqw5Ks21vWo4zuJk4seWmbN/+2x+fXWXV6TfbWNPXqiIWl/McRrFt5AwZ74TxSc=;X2BNrMCSiAOUuYq6922ARw=="
 ---

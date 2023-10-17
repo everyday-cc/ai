@@ -70,6 +70,38 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Microsoft launches AI content safety service"
+    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
+    publishedDateTime: 2023-10-17T13:54:00Z
+    webUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/worried-alarmed-concerned-user-100947306-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Preparing for the Future of AI in Healthcare"
+    excerpt: "It’s crucial that healthcare organizations stay level-headed when it comes to questions around AI. It’s easy to get distracted by the latest, greatest new tool, but if it doesn’t align with an organization’s overall mission,"
+    publishedDateTime: 2023-10-17T16:19:00Z
+    webUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare"
+    ampWebUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
+    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 74
+    images:
+      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1321590983.jpg?itok=obw9Q3RC"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "TCS bets on Microsoft AI partnership to fuel growth"
     excerpt: "Tata Consultancy Services (TCS) is expanding its partnership with Microsoft to develop AI-based software services for clients. The collaboration with Microsoft's Azure OpenAI and the use of cloud-based AI tool GitHub Copilot will allow TCS to offer ..."
     publishedDateTime: 2023-10-16T17:25:00Z
@@ -95,6 +127,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Henson Group Achieves Microsoft Solutions Partner Designation For Azure Data & AI"
+    excerpt: "Designation allows Henson Group to offer best-in-class support for data-driven decisions and recommendations for clients MIAMI, FLO"
+    publishedDateTime: 2023-10-17T17:48:00Z
+    webUrl: "https://menafn.com/1107258983/Henson-Group-Achieves-Microsoft-Solutions-Partner-Designation-For-Azure-Data-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 64
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Microsoft Stock Fueled By Artificial Intelligence In Office Apps – Investor's Business Daily"
     excerpt: "ARTIFICIAL INTELLIGENCE: Will Microsoft’s High-Stakes Bet On AI Pay Off?"
     publishedDateTime: 2023-10-17T01:04:00Z

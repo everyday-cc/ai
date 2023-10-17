@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-new-york-cit
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/16/8b163f6f-428b-4519-ac8e-7bd86a821beb/thumbnail/1200x630/238d9578aed5a070c80fd3813f07e185/kramer-6p-pkg-adams-tec-wcbs86di-hi-res-still.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages"
+    excerpt: "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak"
+    publishedDateTime: 2023-10-17T17:26:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 44
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_30517885466994e5f1f54745c08691e0_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "UK workers turn to AI seeking better work-life balance"
     excerpt: "Staff are increasingly turning to artificial intelligence to free up more time away from work, research shows."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
+    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
+    publishedDateTime: 2023-10-17T15:18:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 18
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
+        width: 1358
+        height: 768
         isCached: true
 
 secured: "NeRpDRc5cRQi/f7l836A+zrenENrJwSUUPnM3SoLesbfi1kaZrCcPIXd8PNOd/eBS0qcw6RgR4yJlGB1bvKl358at+2l7J8T4xKDbkO5BXkUi33LL/dYP9K9HTnxIUx91m5Pd1lMfTjrsBLOzq8Bh1GyQZleAHIU1Kfco2fx1vc330am7uDO5gmVgnBryBeEJGKZLATKsKLaaZKlF3uC2OVxpGBCK9LzMOue5jyf+tyb9JGelHDBb+a0I6MeiLQYIHRE1uhS0lWIYuHaq9u+sWh7GrbX36tq+nSN7ZV7y3xpHhjlVpA5N3DSxBmWbTUKKwGkmMtpOAYN4Rt9GDTVdBoROPHjpdBUXcAOjCKyT/m+f9xEaGwPOh3kmzpKlaxCUXvy6grLqBxnOhrRtkKG8p3lVrV8tfnpwcbE5+RwC3olWSaBmDjR/APflmJO0lIppMSSDjH+WWco21imRP3veypxCWC/8NeR7rd06ah9y9xh1MrCx4DjWjS2BR1678Z2p/s3VeuhgGqucMv6nkuuuA==;vIJqMQJb6oiZFiYijwphhw=="

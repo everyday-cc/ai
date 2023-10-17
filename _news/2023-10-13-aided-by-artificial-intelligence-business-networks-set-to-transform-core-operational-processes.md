@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/10/13/aided-by-artificial-intelligence-business-networks-set-to-transform-core-operational-processes/amp/"
 type: article
 quality: 90
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 1200
         height: 671
         isCached: true
+  - title: "Cohere Taps NetSuite to Scale Business Processes and Meet Global AI Demand"
+    excerpt: "NetSuite announces that leading enterprise AI startup will leverage its unified cloud business suite to increase productivity and provide a foundation for future growth. LAS VEGAS"
+    publishedDateTime: 2023-10-17T16:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900390.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "0sFYMrRI3LqNJDuWOpasIz7q56QvifxPYg0awFiUz7zhgexJ/3hF/AM33oMviWomns5uj8KHjA3OOOKPDZu8XBqUdYq34ll99c1CWJTQfIUXuIo7AI19By2xwQ8KPxtGURYSQeVB441ercT0ToifEeFdCcm88nNWJJdjll7F3cqXyHhL8sVpY+AQluARfuJj05cLCLQiizmtRrixsSalzELhMXrJ5eIu4NnTMHghBOvUG9Zn760LTu4MKcnlH1afaLeZfuNCcWlAVDdmmiCawipL0/+kIQu29z7I4M3qfTaqOHqtXq4qkuUHWCADo6uFCw2MQgUP8o0w0CQ/pQPB2MpIw1OzYEVVSyH1AHKl7pN3dDCsMEYwQ0s6R1qTyeFp/yblWUYdw+wqkhUHQ+LsvhLuW7l1xtsSTWB3kyEQB37rcIJ586OPf1lTAUbzkTdmvQvkBM6JqZV6cWH11CECp1ZuZUJWorFqC9jGxesQdw9qJPFwmNCTZ+qVlhxTsi0UFg6PXPUpEcjttIPDZ6W6Hg==;rdaQt0R6N1MaCzqtC5iwKw=="
 ---

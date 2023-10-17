@@ -26,6 +26,24 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "Meet Tom Eck, Fiserv Senior VP Of Digital Transformation, At Benzinga's Fintech Deal Day"
+    excerpt: "Tom Eck boasts more than three decades of industry experience. The senior vice president of Digital Transformation at Fiserv Inc FISV is going to be a panelist at Benzinga’s Fin"
+    publishedDateTime: 2023-10-17T15:44:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/10/35277804/meet-tom-eck-fiserv-senior-vp-of-digital-transformation-at-benzingas-fintech-deal-day"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35277804"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35277804"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/17/tom_eck_fintech_deal_day.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "IYvEa20zUALh0LKjb9UUJKvflHGQa3XT/GEfGbqpegZGdnUcj+nyh13U5Rh3WWkPLGEQLW769K4/1K9FItAgmr+9aAp1qKAdEQk1RIXnuWRl+4oG5eOg4t1mdh71PZrnWwQFCLuXrn2c8es8hrS9xnSVEodGIL2rrY+YCRp7k+9tXSUNx1oWt3leivVoXwM4sNbbSk07xPKBdrOrIjiJxYYP88hh5mi+mIg/6ZSpnwjtGc7jihaAVJD07By2D+4R/Y/db+4/G8fYNn2lzhA7ft7XQRG9DRXuiEl43TEk8abAiJDCgTQorIt9Ehnh3NqqD+3pLc5AykF5/9Op5reYV4Pn+ebWZmtytu0HUrBJ/MjKz/4E7M/UTKE8KGa1FQzkc4HKcOs/SBz10xsL20fSB9u6rGC8JyTRd4s075YACXKQGMsP2Y2cW0B2nqs1PsJvb9czzxixqPkAyPbiwafJ8O2xZfNwXxBoh52eE9VaDdGnFqRC6Q8hgCaDF5c5CcJET4P/OULBthTRchJoULpCQg==;aJc4rcuytM8XoInBnDy3Rw=="
 ---
 

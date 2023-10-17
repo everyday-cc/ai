@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paultassi/2023/10/13/cyberpunk-2077-use
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2023/10/13/cyberpunk-2077-used-ai-for-a-dead-voice-actors-performance-with-permission/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/d1276185860f4178bf94a03c378896f9.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "AI Used to Resurrect Video Game Voice Actor in ‘Cyberpunk 2077’ Universe"
-    excerpt: "The Polish video game developer CD Projekt SA has used artificial intelligence to replicate the voice of the late Polish actor Miłogost Reczek."
-    publishedDateTime: 2023-10-12T23:18:00Z
-    webUrl: "https://variety.com/2023/gaming/news/ai-resurrect-video-game-voice-actor-cyberpunk-2077-phantom-liberty-1235754459/"
-    ampWebUrl: "https://variety.com/2023/gaming/news/ai-resurrect-video-game-voice-actor-cyberpunk-2077-phantom-liberty-1235754459/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/gaming/news/ai-resurrect-video-game-voice-actor-cyberpunk-2077-phantom-liberty-1235754459/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 56
-    images:
-      - url: "https://variety.com/wp-content/uploads/2023/10/phantomliberty.jpg?w=845&h=475&crop=1"
-        width: 845
-        height: 475
         isCached: true
 
 secured: "96YTCV9+WDCpsJTnHaqFPldR4OoLMBf90SWd19uzo3jKTVm09Vy2zn3bpR6WOBE+WxjJ1cI7PBG5zEkImLDLPIq6ntXs4RGuQKNZIzILqnP5VSJ2G0VJNQVkIiJ86MFWXBlDduaGiJitOj4wY6L/Pwiea+FlA2ObiNGF5lzeD2xLo/PRZS/P0cPFWv7anLRCDiYziExIu41z2UHFnCoWjAWF1e/+PQzXZlHYEi+/PPNQPV9A45Ltfh78EJAjgAGoXURkglCmukFxgY4Qcd0d119omT/mwAzDC8DCC19eGsME2qZnkEnhYEv0Vxw+NIrNwoIW3iTHjXvrOjLoOIsoVnQ2FTuLPjT15cxOorjmUBhW/1IIpF1zvXvzRL+XHia+2AuyVb7U65Ogq8M6iu5BnYgWDJeNgKNZ9ibUPwc8gOPgF11TtxitTtNgO7GmLYgIWwHUNHIxYI8sivfWod5/9JhxrWSRs2+9bESTCD2Vn0s6pxfMnfVrrGqP+4rCnQ4qhyo6dZUSGnyzjJvE23W1Qw==;S/1psPtKTGC7OAw3excotg=="

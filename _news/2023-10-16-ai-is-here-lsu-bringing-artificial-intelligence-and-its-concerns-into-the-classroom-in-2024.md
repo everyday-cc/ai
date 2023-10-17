@@ -7,7 +7,7 @@ originalUrl: "https://www.theadvocate.com/baton_rouge/news/education/lsu-college
 webUrl: "https://www.theadvocate.com/baton_rouge/news/education/lsu-college-bringing-ai-into-the-classroom-in-2024/article_b4817d4c-69e2-11ee-bc44-1f7ed22dc727.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "A Glimpse Into The Robotics Industry and Its Future in Education"
+    excerpt: "Welcome to the world of collaborative robotics, where cutting-edge technology meets hands-on learning, igniting the flames of curiosity and innovation in classrooms across the globe."
+    publishedDateTime: 2023-10-17T02:50:00Z
+    webUrl: "https://themontclarion.org/feature/a-glimpse-into-the-robotics-industry-and-its-future-in-education/"
+    type: article
+    provider:
+      name: Montclair
+      domain: themontclarion.org
+    quality: 71
+    images:
+      - url: "https://themontclarion.org/wp-content/uploads/2023/10/d07c4b40-5ef1-11ee-9992-afab94927870.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "wNbaMgoIGyp/gV7CQXVJ4xiLXhcplz8ddsNKSN6CbvQcClbBs0KyApAI8bxOeplwfM4aSatwlOYhUbvlwpDGrnxMdQPkYXNFppBLtmc1U9XfsZpN7nJlYq+/gMIETro8FtIjLtdl0hK7dYfm+9gORB3wNcjhXLM2pjMRQa/XghK1Tj9zYbWaQcalafUUFQXWPJF7wsTBOAcTPi1WRSEXsIVXsg1nKPY+1CuhuUGsAs9aEssy+64G2AlltGCEiyM/+/K6trr9B89jItPX5uqfqV69QRJk/WwAXxrTtS8GEflJ+G91Xl+o+jDnjxGDkA/5d8BPoazpAxzrxum5dk8QWpGwwF1fa7+5WCKG6b295Wfn3DPJlhpCAaqOY5gfGhn0y9gdConVpAzEtlMbItuNIAn7VMvUmhZ6cEVswtm2jHrM6S4HD5na9+W6ee60XHt8Y2RKtixx9OVWxzappa7E95djAxwGf5NnJjea0iBtfH9JsbgF9G3VvnAnklhHty4DvA4YfiyuY4fiagl1QbuG9A==;IfhfYIBDYYxy0l00g3DX1g=="
 ---

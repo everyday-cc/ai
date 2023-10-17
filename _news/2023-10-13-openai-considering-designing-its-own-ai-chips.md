@@ -42,6 +42,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Azure OpenAI Service enhances AI models with fine-tuning capabilities"
+    excerpt: "The recent update on the Azure OpenAI Service has introduced fine-tuning capabilities for several models, including GPT-3.5-Turbo, Babbage-002, and"
+    publishedDateTime: 2023-10-17T15:23:00Z
+    webUrl: "https://www.onmsft.com/news/azure-openai-service-enhances-ai-models-with-fine-tuning-capabilities/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "mFAC70iXefGEXZ7GawttRapaBOos8KmGD/z2qv7+pKl+RN7QfGITKDaaR7aTSuEqAPKADqBj+vX2PEAmM9zyJvex0pggKrp18fwMOhhFAkQ3OKHIcfH4iqHRI3YMxLy+Y2tROk4uM+lj+ObGPMGxG9iyZMINpctiJf2ztycI/8z+GsMw9Lpjcoy1dTYPvhSKn6U9QSfgQyCLSo8ksfjJz4CVVhu30PJKFWQapSODBw1QaU1/KM3Vutb5K4NtInVQ0UnVY06MuiDnt2YDsNyn5tVY3UQWmMQ2TrLYxvXgSGIs4HzyQGW3DEwNkxLnRnqCHYbeXA5bMNXxgBD/up/GJRNdipRgA/dPtGeyswMJYjjsJ66BCTAQRTCg7nihi3Ygolr+rxYQM0qfA6XaCIF3sBuEEeOI3lNWT5RMzxJpZTFIv1hJJ0h/fcOjCU46m2wxzM02Wbeuva1na6VXZbbpiTQ6RTALUYHVXeEkV8luy8OLKr3yVLt6gqLN5we+1P1lg1Jdgzdgt8VoXSdNB3jl0g==;7m3z8Cu+FDdfyijmSOHiaA=="
 ---

@@ -48,19 +48,33 @@ related:
         width: 931
         height: 622
         isCached: true
-  - title: "New Era of AI Grips World's Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
-    excerpt: "As the UAE hosts the world's largest tech and startup show, Dubai unleashed a new era of global AI dominance at GITEX GLOBAL 2023. The"
-    publishedDateTime: 2023-10-17T13:25:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/new-era-of-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-301959061.html"
+  - title: "New Era Of Artificial Intelligence (AI) Grips World's Imagination As GITEX Global 2023 Enters 2Nd Day"
+    excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al"
+    publishedDateTime: 2023-10-17T17:27:00Z
+    webUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "New Era of AI Grips World's Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
+    excerpt: "As the UAE hosts the world's largest tech and startup show, Dubai unleashed a new era of global AI dominance at GITEX GLOBAL 2023. The event, currently underway at Dubai World Trade Centre until October 20,"
+    publishedDateTime: 2023-10-17T13:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900167.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/2249594/His_Excellency_Omar_Sultan_Al_Olama.jpg?p=facebook"
-        width: 2000
-        height: 1047
+      - url: "https://mma.prnewswire.com/media/2249594/GITEX_GLOBAL_2023_Enters_2nd_Day.jpg"
+        width: 400
+        height: 353
         isCached: true
 
 secured: "HKrkgzVQnhGNzQshCvO6/bC4SXsjJ3QSW8EaKaidX/ut91hbf/OCINXIptEIyutShOlf+0WGtx++tGeOd+0/IeAPy+B1CtSMf2MhZh/hVSR9RzNPof25bDJfQfuNsACysItpWONSjBAR3C6NRD6Ji+cEygI/zzBAiErhZaFIOsUnfCrtv6aAA3mHlFO0s8B+xXqCS7wU2WynJUjDIL/9vNT1GSc/QSWkSmv5U1tRYOmAmoqwp/uzc5/bVssWt0ftwqiqaMH3fbhqyGoPyLynTGQOYxnXCQiAVuoNd4hyH97ah0VdW4lxseohospviBwwOoCAR7HqEQybayjLRR3J8gKSsf6xjgAmPruAgKmkbnhjpB+fNZAH9bpGXcJAYTRuYbDaXJWlE6Fy8fvTfgOCdNkHmgjQdNdAMdOqrUM2oMogjxr7Sot11EHygqsejULZik8okvFYuKqxE6j53ByxxgR6viD3uks4AdX6k0lK4MO/J1JELMFc8iFhFpNeAbzmEcHyjcNlOjJ1e+ko4xSsVQ==;RNtJeUPzusxTQ666wI4Jfg=="

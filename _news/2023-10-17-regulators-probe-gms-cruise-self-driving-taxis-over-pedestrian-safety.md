@@ -25,29 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai RTA begins testing self-driving taxis: Cruise AV spotted in Jumeirah"
-    excerpt: "Dubai’s Roads and Transport Authority (RTA) and Cruise, an autonomous vehicles technology company, are carrying out supervised testing of Chevrolet Bolt self-driving taxis in the Jumeirah 1 area."
-    publishedDateTime: 2023-10-13T07:36:00Z
-    webUrl: "https://gulfbusiness.com/dubai-rta-tests-self-driving-taxi-cruise-jumeirah/"
+  - title: "Federal regulators open investigation into GM self-driving car subsidiary Cruise"
+    excerpt: "This preliminary investigation will determine the scope and severity of the potential problem, the agency said, noting that it may include causal factors that may relate to the automated driving system’s driving policies and performance around pedestrians."
+    publishedDateTime: 2023-10-17T15:56:00Z
+    webUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/"
+    ampWebUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
     type: article
     provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 37
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 69
     images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Supervised-autonomous-testing-on-Dubai-roads.jpeg"
-        width: 930
-        height: 620
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/20210407_BaxTowner_Cruise_CamA_DOWNTOWN_706512.jpg?resize=1200,804"
+        width: 1200
+        height: 804
         isCached: true
-  - title: "US: Waymo Launches Self-Driving Taxi In Santa Monica, California"
-    excerpt: "Waymo, a subsidiary of Alphabet Inc., an American autonomous driving technology company, launched Waymo One, a 24/7 self-driving robotaxi service, taking a tour around Los Angeles on Wednesday, October 11,"
-    publishedDateTime: 2023-10-14T02:58:00Z
-    webUrl: "https://www.wyomingnews.com/news/national/us-waymo-launches-self-driving-taxi-in-santa-monica-california/video_026eccc2-9269-5467-9e89-2a559bb749e9.html"
+  - title: "Auto-Safety Regulators Investigate Cruise’s Self-Driving Cars Over Pedestrian Risks"
+    excerpt: "GM’s driverless-car unit is confronting a new safety investigation by regulators, after reports of its autonomous vehicles exhibiting risky behavior around pedestrians."
+    publishedDateTime: 2023-10-17T12:44:00Z
+    webUrl: "https://www.wsj.com/business/autos/auto-safety-regulators-investigate-cruises-self-driving-cars-over-pedestrian-risks-e888708c"
     type: article
     provider:
-      name: Wyoming News
-      domain: wyomingnews.com
-    quality: 19
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 28
+  - title: "Cruise self-driving cars investigated after two accidents"
+    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
+    publishedDateTime: 2023-10-17T13:46:00Z
+    webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
+  - title: "US regulators probe self-driving vehicles over fears for pedestrians"
+    excerpt: "The Office of Defects Investigation said that it has received two reports involving pedestrian injuries from Cruise vehicles."
+    publishedDateTime: 2023-10-17T13:18:00Z
+    webUrl: "https://guernseypress.com/news/world-news/2023/10/17/us-regulators-probe-self-driving-vehicles-over-fears-for-pedestrians/"
+    type: article
+    provider:
+      name: Guernsey Press
+      domain: guernseypress.com
+    quality: 4
 
 secured: "7qAz+5fA2JONB7M4AUScdSGcMRL+Wxa9f3kWs2s2iwcGHQy0GyspNLxAPvldDpn17OE3kzGVkUlAMXt94KC6DZeOlIyVsb7pQ5jyg8usUe8oICuPH0+QJwxdUfnlFW3dZAVxxdzAiAA285C/nfIgCb6SaBF2sqqTiwlYRvw5xdggksjNGEMt6ytVAfwcubWozl1QiCp9HPl6eacXH6ajWUUVYh+qqxkGvXW4kxO4RmpqHjFCxlXkIOg/qDFKmisVuDqNJhTNCVDqISFgarNVR4jSiWRtBjghN1SL2kYZnpM4GEOW7H/KCAKSGY10x1yr6KdOckD+c+6IzqxWEaN6hbn+Co3ge/30Al50cgA3yto=;67DJjOkezbJpqUG1X+1KYw=="
 ---

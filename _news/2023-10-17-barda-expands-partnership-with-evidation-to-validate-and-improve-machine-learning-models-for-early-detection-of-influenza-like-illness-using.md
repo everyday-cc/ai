@@ -1,23 +1,23 @@
 ---
 category: news
 title: "BARDA Expands Partnership With Evidation to Validate and Improve Machine Learning Models for Early Detection of Influenza-like Illness Using Wearables"
-excerpt: "The Detect & Protect Studies will support the development of machine learning models to detect respiratory viral infections with data collected from consumer-grade wearable devices. This research will take place during the 2023-24 cold and flu season and bring together new devices and data types,"
-publishedDateTime: 2023-10-17T14:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9899861.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9899861.htm"
+excerpt: "Evidation, the company creating new ways to measure and improve health in everyday life, today announced that it has been awarded a contract by the Bi"
+publishedDateTime: 2023-10-17T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231017686697/en/"
+webUrl: "https://www.businesswire.com/news/home/20231017686697/en/"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "EDAldbemYu4dlFFGtRgrQmuVMcaPC/QyVrF7HJu2EJ0irkymfpX+VWVVMXim/NCiWCvr1ChpgvA9lyP2IZfqK+WX3ouJBo7qZczhwgDOCXxnJmp/QqO2u+TpNXSaVkW97a0tpBzQDrckqmq3X2rSb/bgxUtG+wS3QO2gX7Q3on7Zj0NqokZt9Xbu83K8u6jNzzXPjOZgz7it6DM0R2blsrFH3aEWy/NLXKASYNj/qBp2MFSTMr1vBIua5OHZ+JSFQ87CisJrZcWrvd1n67ef9LVOMna8yYjibdcQmdG4ykDGfgfu7tYf3tNRSVlYjMtLnZlLcDMtVU6U1RiuyNz0SxSBhliyqzzSvYz2qFgfqSw=;p/xwb2twTeRKWjrJCdbCJQ=="
+secured: "f3Af3K63cMF/7VbZL0APKTHc44urFi7AagAWv0V/dEzvgyeGDvnbMW3i+X0HET3HKTjn2AClO/2DalxJTvFv2pqWLQeyKZP9LoKNWhdZn6cU9z2MoHtYckUR2mBnQUako2Cs7LmFWeAqj6RQxFbHlIltGl0EkOx7q203IS1+O2IbHDw3Yz5gbUlHFcPAUf0CclJLcoLK3vDMCvsvKY7JvAFpoAfVqMwUTi3GMeag0n2pKVeGsyCmjaAVEZobO/PjzcRJ06jo3JT10iYlg87YjSXSrNKBb9fMT+fU7u7RzkdV3giztKW6qsksAOGcqsplDHYOV7g209HySuykhhhlWAg3oyT87qLbKKTMa1qyXyg=;5qGG5EsHMEMmlpjf68KSxg=="
 ---
 

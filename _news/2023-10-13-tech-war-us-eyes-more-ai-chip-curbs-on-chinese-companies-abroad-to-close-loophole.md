@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden Administration Limits China’s Access To AI Chips Like Nvidia’s To Curb Military Development"
+    excerpt: "The Biden administration is limiting the shipment of advanced AI chips to China to slow the country’s technological developments."
+    publishedDateTime: 2023-10-17T15:44:00Z
+    webUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/"
+    ampWebUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652ea9d899bb17c095f8c369/0x0.jpg?format=jpg&crop=2913,1639,x0,y151,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "China says it will closely follow proposed US move on AI chip curbs"
     excerpt: "China's foreign ministry said on Friday the country will closely follow possible moves by the United States to close a loophole that gives Chinese companies access to American artificial intelligence chips through units located overseas."
     publishedDateTime: 2023-10-13T06:35:00Z
@@ -115,6 +131,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "US Moves to Close Loopholes China Is Exploiting to Secure AI Chips"
+    excerpt: "The stricter rules are intended to prevent Chinese companies from obtaining large numbers of smaller chips and combining them to form a powerful data center."
+    publishedDateTime: 2023-10-17T15:55:00Z
+    webUrl: "https://www.pcmag.com/news/us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05wqDEjdDEkzyQnBECxr9tG-1.fit_lim.size_1200x630.v1697554685.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "US is Doubling Down on AI Chip Exports to China, Leaving Consumer-Level Chips Alone"
     excerpt: "The added regulations could either safeguard U.S. technological advancements or add another layer of complexity to U.S.-China relations."
     publishedDateTime: 2023-10-16T01:37:00Z
@@ -160,22 +190,6 @@ related:
       - url: "https://images.barrons.com/im-436455/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Biden Administration Limits China’s Access To AI Chips Like Nvidia’s To Curb Military Development"
-    excerpt: "The Biden administration is limiting the shipment of advanced AI chips to China to slow the country’s technological developments."
-    publishedDateTime: 2023-10-17T15:44:00Z
-    webUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/"
-    ampWebUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652ea9d899bb17c095f8c369/0x0.jpg?format=jpg&crop=2913,1639,x0,y151,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
         isCached: true
   - title: "US restricts sale of more advanced AI chips to China"
     excerpt: "the us on tuesday unveiled plans to restrict the sale of more advanced ai chips to china to close loopholes in the measures announced last october nvidias a800 and h800 chips which were specifically d"
