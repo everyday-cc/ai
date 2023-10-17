@@ -2,6 +2,135 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-08-11-mlops-and-the-evolution-of-data-science.md",
+      "title": "MLOps and the evolution of data science",
+      "excerpt": "Machine learning (ML), a subset of artificial intelligence (AI), is an important piece of data-driven innovation.\nThe post MLOps and the evolution of data science appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "originalUrl": "https://www.ibm.com/blog/mlops-and-the-evolution-of-data-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T11:45:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Miami Dade College Will Once Again Host Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
+      "excerpt": "MIAMI, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by Miami Dade College in Miami. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032547651",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/miami-dade-college-will-once-again-host-artificial-intelligence-bootcamp-applications-closing-soon-1032547651",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
+      "title": "Richardson Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
+      "excerpt": "RICHARDSON, Texas, Aug. 11, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by The University of Texas at Dallas in Richardson. Applications for the no-cost bootcamp are closing soon!",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547646",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/richardson-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032547646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-nvidias-ai-driven-stock-surge-pushed-earnings-multiple-three-times-higher-than-teslas.md",
       "title": "Nvidia's AI-driven stock surge pushed earnings multiple three times higher than Tesla's",
       "excerpt": "Nvidia's graphics chips have proven to be the best for training artificial intelligence models, and clients can't get enough of them.",
@@ -1077,144 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce.md",
-      "title": "Can AI Bring Sales Out Of “The Paleolithic Age Of E-Commerce”?",
-      "excerpt": "Businesses want customers to increasingly use digital channels, but customers often crave personalized guidance. Can these two competing imperatives be reconciled?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/amp/",
-      "publishedDateTime": "2023-08-11T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-worldcoin-scans-eyeballs-and-offers-crypto-what-to-know-about-the-project-from-openais-ceo.md",
-      "title": "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO",
-      "excerpt": "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_9dc6a68590435b2f10fedaa0db58331b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "publishedDateTime": "2023-08-10T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-the-wall-street-journal-google-your-news-update.md",
-      "title": "The Wall Street Journal Google Your News Update",
-      "excerpt": "Plus driverless cars get a big boost in the Bay Area. And our look at Xi Jinping's goal of making China a global leader in AI and chips. Karen Hao: The US sanctions really leave China between a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/google-news-update/chinas-quest-for-ai-chip-supremacy/ee0d3af0-5cca-427c-9c6e-5e36b5e04fe8",
-      "originalUrl": "https://www.wsj.com/podcasts/google-news-update/chinas-quest-for-ai-chip-supremacy/ee0d3af0-5cca-427c-9c6e-5e36b5e04fe8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

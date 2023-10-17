@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Federated GPU Infrastructure for AI Workflows"
-    excerpt: "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service” model ..."
-    publishedDateTime: 2023-10-16T10:34:00Z
-    webUrl: "https://insidehpc.com/tag/ai-as-a-service/"
+    excerpt: "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service ..."
+    publishedDateTime: 2023-10-16T10:00:00Z
+    webUrl: "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-workflows/"
     type: article
     provider:
       name: insideHPC
       domain: insidehpc.com
     quality: 54
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023-1024x512.png"
-        width: 1024
-        height: 512
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
+        width: 623
+        height: 309
         isCached: true
   - title: "AI model training rekindles interest in on-premises infrastructure"
     excerpt: "AI is remaking the server market. Dell’Oro Group Inc. predicts that by 2027, half of server sales will be accelerated models connected by data center-scale fabrics needed for training and inferencing. “We’re moving toward more high-density GPU ..."

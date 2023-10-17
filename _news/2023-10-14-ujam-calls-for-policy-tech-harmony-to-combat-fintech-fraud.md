@@ -43,6 +43,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "E& life fintech business gained momentum to take a lead in the region within the next five years"
+    excerpt: "With the theme focused on ‘Accelerating Innovation’ it is about transforming the world of technology to create a better future"
+    publishedDateTime: 2023-10-17T14:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 46
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MGI1NWViZjUtMmEwNi00/0/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "tTtmdj1TX4w+orOE01cxjrPh5zc3vqjEh0EEMlSrEm/4FZHS4b4Iu+qeG2Ru2c1JOTqBrFMK9EPWJXRGjkjUXdtN5MWKjMQjx/pdZQU8wuT7f2eBHd8WKsRbGZdzpwCDUvBPBZMRR5/GiHVfsz9SWcH7NoLFjT7lF+4LNCiFKbXziMoOkPyfJcS/NlFBNpXXmA9BQou8S8XQiTuthMAYnCeE84QT8r/8MLO5wXCHb/WAZjCmdnv1EAEMI1iaU1rhoehJsTvzcdy8qoWNAvapRjaBT21xZ2HIaRptc8AxNzB+58oo4WYqLDG1crrAuNTMyZNodZKO6Z6Rd0Fq6Dh7u8zUFDoUJZvoWEaNhzItHQvObMU/CiS3DQ6RgL5xxASKWH2Nt/7ynso1migwLLwlKsTYj1kgXXtESwjDKQzOfElFq5zWV8YoxdrKnlYD44cy/+WS53HXuUBR/14eGjWxyniAxqBkeKzat/gXA6Hwqod8NEGpEckY0+Jbo13C2CnFdO0NlAsfC5OBa4+CqROksg==;/HXV/Ksudv6/9m/ZXJTqsQ=="
 ---

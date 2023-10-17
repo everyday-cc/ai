@@ -23,17 +23,6 @@ images:
     height: 611
     isCached: true
 
-related:
-  - title: "Why we need to focus AI on relationships"
-    excerpt: "We are increasingly using AI to create and maintain relationships with ... particularly at helping create and maintain customer relationships, as reported by IBM. IBM has previously disclosed that its Watson solution has significantly increased close ..."
-    publishedDateTime: 2023-10-12T19:37:00Z
-    webUrl: "https://www.computerworld.com/article/3708730/why-we-need-to-focus-ai-on-relationships.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 21
-
 secured: "YfswI3XGha2FM+UhiNizpdGNp9txsbk94+x8JhY4LHoz9b7dmFneX6BS1uKRrf6tnMTZG7yw9xcDg5wmKdNXJPTZ6YpgmHV2hn431YePRFu+wVWbOZ0bC4MZAav6SpzC2yk7x5E3UK6OqnxnGxbSWnF3nVuBm9VON1UoZ/WD1UTIBe1La1U4YKLk3b5Gc7sFHNZnr9+51cqV6b0PK/lwph8gZSyd0g5h7xESrYqVsc4Vzh7ZVqejnJxuHgy3GUdkKjzjJJam5RPVfaso4RuzrrlMd6bxh70mnViHO8OQ03JhyM995gr6zC0MOSYBUrLV0R7jk2j3v7kkxDRvGDbY7LR2j6aDx+1JNrpYz+7ODzQ=;efAHWu/JE7pFQxXhUQ/B3w=="
 ---
 

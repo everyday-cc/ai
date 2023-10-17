@@ -70,6 +70,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
+    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
+    publishedDateTime: 2023-10-17T13:00:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
     excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
     publishedDateTime: 2023-10-13T14:56:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Federated GPU Infrastructure for AI Workflows"
-excerpt: "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service” model ..."
-publishedDateTime: 2023-10-16T10:34:00Z
-originalUrl: "https://insidehpc.com/tag/ai-as-a-service/"
-webUrl: "https://insidehpc.com/tag/ai-as-a-service/"
+excerpt: "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service ..."
+publishedDateTime: 2023-10-16T10:00:00Z
+originalUrl: "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-workflows/"
+webUrl: "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-workflows/"
 type: article
 quality: 54
 heat: 84
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023-1024x512.png"
-    width: 1024
-    height: 512
+  - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
+    width: 623
+    height: 309
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 611
         isCached: true
 
-secured: "lIiVMrqh09bpLQ8gmc7OrtDHcOkcILn1BmqAL/BfNsUVD+iuJ7IgaX9rmZh2lHVHA0aXVt1SkMmNtlbmx4bVlNaexpyFleynif5h99PDS6TRnxoIApOc82dxAbiM8kYakNb9lMaUV7FyPOzxKr0MWkf3N4DLapEfzs+iVVK8EWKeQhfYwVGI2a7ChJRr+nrVFRVbzj0dyUR3lkkF1gPZ9617MaCVo/Swpb83LUDdbVw7FbjWYPUmEBybLjGS+9iYSYdD9Oxv5fAHzylEnpeQe3AKq9OhTcnfei9gALtUxqU8xfzZooiILVTYyff8aDmRIu5FEoL/DLhxepJjzv06gpPN5Z5GRqmNl85SG8c6GHA=;VOxwX/dZsaBQGMHwJKPUXg=="
+secured: "ozqdwI0jfutJcYQM0C3j6JMyVvNHQ3kiNH+QBZco07z39Xw3zth6lpjIUPwqsmkx5+2cemRD6ylPS/bwng6bw6VCzSG4D+fsQ1QsJ5bdyC0eGK5yV4MS9a/W+z9nfN6CYzjRh9m1rWvE3LtOBDcxfRidORPbWJ27KlSnYCz2TBP79PR9hqyFVCO73fqWyJUc+NsYw81MkHU4EUBOZCaLq420pnJBABjqFiMLXyY0XPnBTAKqpRcoJj2Vc6Wbv5Bl3fqnyUwn44AB1P6jOLpz/h+mpcBesZG/cGMB2W9wB4gi+Fx7i4kiI+uslJC/Z0WsByhcnRPLu6PY7FGM0TbKVPh5jWaTdw/iArF2sz6gvMc=;w9jBAe0+2qt8VLTSyDOGqA=="
 ---
 

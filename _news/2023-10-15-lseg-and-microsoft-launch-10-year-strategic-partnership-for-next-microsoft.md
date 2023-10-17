@@ -268,6 +268,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
+  - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
+    excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
+    publishedDateTime: 2023-10-17T11:58:00Z
+    webUrl: "https://www.inferse.com/759103/introducing-roybot-roy-hills-innovative-ai-tool-boosting-employee-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
 
 secured: "/gDDz7/LNHHjQYA5IGrUIyrF1mPj9v8bG0gq6Ae1XstvI41S95+9aVTaDzwLPf8ctts6cJ3y4kC6ws3jkTttuC2hhlixV3O+mEZ7BGZg0kPigTNpCOc655uLKh1jSjPyPWOfLDO+PLIunNTciQFyRTiLTDFS7gBpWEpcu9YUaB8qPFEHWGy+IaJluSRVO1f2IUWSwmN4T7ZusVdP7BPF1CHR+JXflIwFrZ5/ZaEke2R/3QQkj3riruNVdgGAt5yYjbnTbuJRxxs1FUenhZkLmW3SjPu1rTKTCAzkSUZlGEVDdTUh+2CD8GdKuYmCxCWQjUGavVBK8c5InEzo/mvTSGdO5INOHCq1VHcv5zoOveA=;X2LmKLHJuhUx9K2ZKCMLmw=="
 ---

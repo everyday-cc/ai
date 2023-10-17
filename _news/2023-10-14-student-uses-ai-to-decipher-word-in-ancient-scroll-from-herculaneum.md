@@ -73,20 +73,15 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "AI reads text from ancient Herculaneum scroll for the first time"
-    excerpt: "Charred scrolls from Herculaneum can’t be opened easily, but X-ray scanning can reveal their contents. Credit: UK Photo A 21-year-old computer-science student has won a global contest to read the first text inside a carbonized scroll from the ancient Roman city of Herculaneum,"
-    publishedDateTime: 2023-10-12T20:41:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03212-1"
+  - title: "Artificial intelligence helps to read ancient burned scroll"
+    excerpt: "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence."
+    publishedDateTime: 2023-10-15T06:01:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/67103053?at_medium=social&at_bbc_team=editorial&at_link_origin=BBC_News&at_campaign=Social_Flow&at_link_id=8EE17864-6B3E-11EE-8063-B42FD99D5CC3&at_ptr_name=facebook_page&at_format=link&at_link_type=web_link&at_campaign_type=owned"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03212-1/d41586-023-03212-1_26151284.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: BBC
+      domain: bbc.co.uk
+    quality: 17
 
 secured: "tMe+tmY/3OQn9GdU0GKsYfBFUp4ai590l5g3XcQ/uk0osxP2ijXVQOA44xE1PGPNsiDeNSyMNiKP9ww6u415N8wPZEmE/TleP16YHjThOc3iJoHxxikBwMTytCwSY0p/oVF8HuM5Go4Ji1iEvWvGAB+4HehwEF9arMnVrtCSwCZKeEWpnBK8tqTg7vtZFZNEuBZgEnCQENwsNNa5FCK87B1fHo5BOPZL5DDZF5iVzANu8Mv4/vMzfm/OpYNTuNDzQ/7j67e8BOdH1E1tzgSTrJQUUNtdS1r1xW2fD7H7/ZK+x1RvzoMgJFTCTf5zMzyL+R32w0npeXBo9hsGYgpEtkFUYC6CfFF5ZxMUdM+dweSc98s7RJYMjzcFDvDtYUhdMlRsBHTlOvejNJAmrGkL54XLV2yfmA49UhTx1G4D1NzseaMHP4gBUxee4srWY8mjjFueTbOixCtl1IF3oAdrGUKebr9pNytCGbAHpaz5htDgMnrFgFVDSVcGHfs/ODlYBPXTqr/W9c2MQ+3nwk76+Q==;Jlfxb7LKrrUaP5HML/Kdsg=="
 ---

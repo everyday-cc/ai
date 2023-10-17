@@ -58,6 +58,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
+    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
+    publishedDateTime: 2023-10-17T13:00:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
     excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
     publishedDateTime: 2023-10-13T14:56:00Z
@@ -130,6 +139,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "3m9Op+0PPAAlCrRcdvJI5vcVBpxcEujbBOyunFfY3WOLbO0JUlLInHIX62kuQ7uFG3EglxjDdVGCF7tEVCyN855pl7g+1V32EDhUtAqtKQtQHQdxUMhs4vRvOlYZpioQrgC4Utsp6zvFQcTNV8tnE978WmwkGoeUJClYxyRS41Gkwwvy4umGdaHiAfc0KTeh7UCK5kp89biqls5XF6hG55GDx9EHq9dmRWOmmASeQ/03HjavvjMMMtPm0oXhj4Ce8navKKwcF6JhDrC8NeXBEUEkhtZKHI/FkJ8uP62BbiJT3ab8dkLAYHnMLHuWIRFVg4IR1mznknKfJ+m9HB5yVoerfomPOklcXlNcf4ElGqc=;yK6sP7k8EU2rQDo/8Tzl9A=="
+secured: "oSq/Kkyxkx8xp+E/3Fioi+9uToAAKttl7mEkRYZG7xkeo51U7RttNz9gLOdBJWJlzgnZf1LFwRfg4g9v0EXN88kbWT2Giquu4LduSMEuoVGIwsW7SLkQ1ybDsOVpxyefSRGIko5Ob1GM0iOf3D+F5cDHfqt1IweCCkjowk9JSwgj6coI9fgVY3Pm5EabyvCIOE3HVXoQjys5hMgBAOd/T+G/B6pZk0bjKjTLRZTfpZEtyxm82W/dDUjjpVsn4qfWL7xyV4fAlkT27en7G4acIY3G6Qio1SIUg+r8rpsXswet/Sc5PHgcFmA98bOvqRxPSmkKFw+YcOTrVbfYFovXGUrHnnFGLyjR91H/0r0j2xhbhXcjwmmAW225QbLff/I2oV9Qw26YzL0reHlNgiOJbQkgMTeIlbBp4qS3ou7+IUBL0Wl9IKNQTy0yFoLw7TOx9Ae9NXlu/x9hyyuTxEVVtmSsoa/p5utQGEjIpM8QdGLkZMk0kCheSXa1ORfc2XwPbWJmD2Gq0P3Jx/UZ2oIEUQ==;vAkJeyXuqDwdi9NGuTL4qw=="
 ---
 

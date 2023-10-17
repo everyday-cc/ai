@@ -7,8 +7,8 @@ originalUrl: "https://campaignme.com/expand-north-star-kicks-off-to-showcase-rob
 webUrl: "https://campaignme.com/expand-north-star-kicks-off-to-showcase-robotics-ai-and-entrepreneurship/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Campaign Middle East
@@ -23,17 +23,6 @@ images:
     width: 1228
     height: 997
     isCached: true
-
-related:
-  - title: "10 Artificial Intelligence Startups That You Don't Want To Miss At Expand North Star 2023"
-    excerpt: "Nucleon uses artificial neural networks and behavioral analysis to detect and prevent cyberattacks like ransomware, phishing, and malware. 9. EM&AI (Vietnam) EM&AI is a Vietnamese AI startup that develops natural language generation solutions for content ..."
-    publishedDateTime: 2023-10-12T21:07:00Z
-    webUrl: "https://www.entrepreneur.com/en-ae/starting-a-business/10-artificial-intelligence-startups-that-you-dont-want-to/463481"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 40
 
 secured: "FEKElyDO+rcM3eQcmc5Q2K4U/TWlQLkBXWMi2m6UH2BzhQ8tv9kFrUR4Kxtmo5ymXBf+UOy22Cce2r6jbJp6WjdicwpNLdnrVsG3OswDXAOUZFbyHUNSFO73ZpfRxLbZth7L0V+ClO0klF3rxZbDNLCcVtKYhniJvZ1Wc4q7N3RWji79oepegNlS3tEQTw6YmSUyPKAEbwmpQExfgu4Ru7Kz+ym+8wjLh6tvON1/UE+KfBRs1FYV1A+2ujYwawxO4PtlGPydVVSRlBjR/V/7eaZxjt6jaIZwiRDXnOUyGj/e4BmogHGLy9ryDJ5xHentVaSRGQbufhB6ziwGu6szyoeeK5j1e6+3zwuPlHRBCPB4bVijo1+zVtxF93tir94od+KmBuntcRzn+DX0sZlizuuKKKat3A4TMScU768Q/hMAWgWp1hTsj4Af3BMGlB7BnTgVu0Hfg4oy69iPQ551YBfjPunfPmYGO78rK1GvAAsoFOWOU8k6xtUXXh17dyUeZV7hJ9hwL+UEINL9NEqiFA==;NBZ538C2gTMQm4zBD173OA=="
 ---

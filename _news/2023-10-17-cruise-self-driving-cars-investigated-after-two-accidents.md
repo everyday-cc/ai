@@ -2,34 +2,33 @@
 category: news
 title: "Cruise self-driving cars investigated after two accidents"
 excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
-publishedDateTime: 2023-10-17T10:47:00Z
-originalUrl: "https://www.bbc.com/news/technology-67133409"
-webUrl: "https://www.bbc.com/news/technology-67133409"
-ampWebUrl: "https://www.bbc.com/news/technology-67133409.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67133409.amp"
+publishedDateTime: 2023-10-17T13:46:00Z
+originalUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
+webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 4
+heat: -1
+published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg"
-    width: 1024
-    height: 576
-    isCached: true
+related:
+  - title: "Auto-Safety Regulators Investigate Cruise’s Self-Driving Cars Over Pedestrian Risks"
+    excerpt: "GM’s driverless-car unit is confronting a new safety investigation by regulators, after reports of its autonomous vehicles exhibiting risky behavior around pedestrians."
+    publishedDateTime: 2023-10-17T12:44:00Z
+    webUrl: "https://www.wsj.com/business/autos/auto-safety-regulators-investigate-cruises-self-driving-cars-over-pedestrian-risks-e888708c"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 28
 
-secured: "idP6V1swxEhjdejsgLyozKp+5RO6qhBxqHpcbUsxiDHrbXBrwfwoF6TwWN0lvip0OQRBw2Z5N0ajtG9nEmCey98zVsvBthufxzzgc6gBOPe3ajMvgLbf2So4GA/8yi6MKe3MTFRIB7Ox8W0fJFyWkOLyd6qGxg/BlXzPhvKITxgN6MQ4Y9mduHrAJF0KM2cBIw9SDBOfuGQC/9mn8+/XdlkaCaGncAHkMUN/lLvJnvtyZipIV+OP+vLeyEv/5ouhAxdaMW9/3Mkm96Wm5YBSV99DQTM8y2uxc/eCkFBWgNbrPL5PHZ4FyXs8p3WMYtpniSF6Mp4A8pDDRGJeYygZdWeq8SKn5+aLyWldaImFq94=;t924VbgDTC02/zysuFMZbg=="
+secured: "TU16UEsQO9Ld9vj1U8oa4Vyel2rBJp1WnZMajhTJDviX54z07KPwy8V+vREcyvY5sGfNvGBZbvB7lY3/Nwg+89e6EU5K16vFvyk4y7Jw0LfJbLlbEexL3b87+12OxZ38bqR4JtdyRmwT3Sx7T3vjKwHSsAFlbjYQ//jCWG7o1lmkL4+gCqvx4gunDHBtdqhRt7nR+2P+7t5WR0PoQaz1Bjw6tHTTvMG1t2DPzDL6YWhqYT0HKDnbWhFpdN0VTXv6eddm3aJmwPz3AgtJQM0zVwG0OM9KyTruOQFoAZedGxyEtVAkLAgfglDOmjqW6J+R3QaveWv21WCyn95kuiyVtT7/q7K0qKD7woEJax1GjSs=;3uNrJNXq+YiuGNyERYy8Lw=="
 ---
 

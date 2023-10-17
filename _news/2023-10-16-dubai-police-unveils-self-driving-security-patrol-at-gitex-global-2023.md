@@ -66,20 +66,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Dubai announces self-driving taxi tests"
-    excerpt: "Dubai’s RTA has started tests of self-driving taxis in Jumeirah 1. The Roads and Transport Authority (RTA) and Cruise, a self-driving technology company, began supervised testing of Chevrolet Bolt-based autonomous vehicles in Jumeirah 1 area of Dubai."
-    publishedDateTime: 2023-10-12T20:26:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-self-driving-taxi-tests"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/10/12/dubai-self-driving-taxi.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Research into new laws for driverless cars in Jersey is under way"
     excerpt: "RESEARCH into the law changes needed if driverless cars were to be introduced in Jersey is being carried out by the government.The news has been welcomed by Digital Jersey chief executive Tony Moretta,"
     publishedDateTime: 2023-10-15T13:44:00Z

@@ -35,6 +35,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 34
+  - title: "AI startup Leucine nets $7M to level up Pharma manufacturing compliance to keep pace with drug innovation"
+    excerpt: "Helping to make pharmaceutical manufacturing compliant, safer, and faster, tech startup Leucine is today announcing a $7M series A funding round led by Ecolab Inc., a strategic investor, to scale its Compliance Cloud platform globally."
+    publishedDateTime: 2023-10-17T13:11:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-10-17-2/ai-startup-leucine-nets-7m-to-level-up-pharma-manufacturing-compliance-to-keep-pace-with-drug-innovation"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 0
 
 secured: "9xvXey8CY61rxHfy/M6In78WSF1ZtYHRcWQ+pFJH3OeavhJSHD68R5P6yxfJQBCfD5LeQS26rXCnjxIZpXVtW0J5G9xAIAkVeTClFJwc6JDswOZfT6TbOf2Jb0vLfvQzKmK0uhNyGofyg+daDkhOtrcPIg8IN50ZZr/8PJO4CZvBJZv4wHR//Q18r5Bd6MfkRK2Z0YazG/IM+L/4RwtVUSfFlzIgrP7igHcv0KRiWjFWP1Hxt9DRbU0eAkzAmfjLHz5+aJ4a1uEUFAteG63JqM/OndfTeN1TryxUYzSbwvbgfwvCL0WbLujFo/GNX862OLkF03qfawmOpbd6WViT5iwVXadGC7Dx7mBOw+AAJg1c6RlChsV85eBiF5TyV/kigWsjJfP1jncOkeO6vRcyYSzW2Rie415+8elSgT0Jy3Yn5sGlCjNmQwg2Gy5vCMmQMjLmtW0YI3ZWwoLJXjDxezwNH+EouNUYMKcl3CEQEsb+L7P8IJb8iqfbWw4/zHE4nKXH1wPhyrn4SufRbQgxkQ==;CLaHtU2sHdac19r+oe5c9A=="
 ---

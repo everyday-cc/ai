@@ -169,6 +169,38 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden Administration Limits China’s Access To AI Chips Like Nvidia’s To Curb Military Development"
+    excerpt: "The Biden administration is limiting the shipment of advanced AI chips to China to slow the country’s technological developments."
+    publishedDateTime: 2023-10-17T15:44:00Z
+    webUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/"
+    ampWebUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652ea9d899bb17c095f8c369/0x0.jpg?format=jpg&crop=2913,1639,x0,y151,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "US restricts sale of more advanced AI chips to China"
+    excerpt: "the us on tuesday unveiled plans to restrict the sale of more advanced ai chips to china to close loopholes in the measures announced last october nvidias a800 and h800 chips which were specifically d"
+    publishedDateTime: 2023-10-17T14:56:00Z
+    webUrl: "https://inshorts.com/en/news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 74
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/17_tue/img_1697551554960_636.jpg?"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Team Biden Moves to Close Loopholes In AI Chip Export Regulations To China"
     excerpt: "President Joe Biden-led administration is preparing to crack down on the export of AI chips to China, targeting loopholes that allow circumvention of government restrictions. This move is part of the Biden administration’s upcoming actions to limit more AI chip exports."
     publishedDateTime: 2023-10-16T05:13:00Z
@@ -201,6 +233,29 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "U.S. Tightens China’s Access to Advanced Chips for Artificial Intelligence"
+    excerpt: "The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said."
+    publishedDateTime: 2023-10-17T12:54:00Z
+    webUrl: "https://www.nytimes.com/2023/10/17/business/economy/ai-chips-china-restrictions.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/16/multimedia/00dc-chipcontrols-cjpf/00dc-chipcontrols-cjpf-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With U.S. Businesses"
+    excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
+    publishedDateTime: 2023-10-17T11:44:00Z
+    webUrl: "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 58
   - title: "Biden considers tightening AI chip controls to China via third parties"
     excerpt: "Sources close to the matter said the additional rules are expected to surface later this month and that the government is also working out ways to limit Chinese access to U.S. cloud computing services."
     publishedDateTime: 2023-10-13T09:39:00Z
@@ -380,6 +435,15 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
+    excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
+    publishedDateTime: 2023-10-17T12:45:00Z
+    webUrl: "https://www.ft.com/content/be680102-5543-4867-9996-6fc071cb9212"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 51
   - title: "Upcoming US rules on AI chip exports aim to stop workarounds, says US official"
     excerpt: "The US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part"
     publishedDateTime: 2023-10-15T23:08:00Z
@@ -417,6 +481,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
+  - title: "Biden administration set to halt shipment of AI chips to China"
+    excerpt: "WASHINGTON: The Biden administration said today that it plans to halt shipments to China of more advanced artificial intelligence chips designed by Nvidia and others, part of a suite of measures aimed at stopping Beijing from getting cutting-edge US technologies to strengthen its military."
+    publishedDateTime: 2023-10-17T14:26:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/17/biden-administration-set-to-halt-shipment-of-ai-chips-to-china/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
     excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
     publishedDateTime: 2023-10-13T18:33:00Z
@@ -426,6 +499,15 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 28
+  - title: "Chip stocks fall as U.S. moves to close loopholes in effort to curb AI chip exports to China"
+    excerpt: "AMD (NASDAQ:AMD), and Intel (NASDAQ:INTC) fell in early trading Tuesday as new rules from the Biden administration will make it harder for China to buy AI and other advanced U.S. chips. The objective of the move is to address apparent weaknesses in export controls that were introduced a year ago."
+    publishedDateTime: 2023-10-17T13:12:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/chip-stocks-fall-as-us-moves-to-close-loopholes-in-effort-to-curb-ai-chip-exports-to-china-432SI-3140085"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 23
   - title: "U.S. to tighten curbs on China's access to advanced chip tech"
     excerpt: "The US plans to prevent its geopolitical rival from obtaining cutting-edge technologies that could give it a military edge."
     publishedDateTime: 2023-10-16T15:43:00Z
@@ -444,6 +526,15 @@ related:
       name: The Spokesman-Review
       domain: spokesman.com
     quality: 19
+  - title: "Commerce Department moves to cut key supply lines to China's AI industry"
+    excerpt: "Commerce Secretary Gina Raimondo said the rules were aimed at hobbling advances in China's military but will also have broader commercial impact."
+    publishedDateTime: 2023-10-17T15:01:00Z
+    webUrl: "https://www.detroitnews.com/story/business/2023/10/17/commerce-dept-moves-to-cut-key-supply-lines-to-chinas-ai-industry/71214206007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 18
 
 secured: "cT/8n5SLhUj4tjV6jeovSu2uyPequcoCAeuzwgaVNuRTA40DrVA3n7bIwTfARXaRkQgurHpFHI6yMD/8ICuW24yLJpg6/mV4vwokEqdpdwRe3KzBzHzp5d933wwWpso+qu+JG27B4tpNhb2+UEj7ZUx5W1LVC9ue23v9sOCJlC77velYzeJRl7qoLeGIaBRuyt928vAZRXSQ+mpot8bof09eZZz8kZdAWx4xUNxBB0to5ciokOQ5BsiS6LzESgA8PooLdBbCL/smuwXGxnIDcw42maIdMDBBtQJXfkQBKElTtG305XjApcoBFFBfDWys8ALan9pCxsJ5A9D0IbzT9InJCaRpfMQ2SpIENDv7cVkuxd9fmuSnpWmTeo91evN7WWOE6UeTlyf9rb0CtAiN0n00DUQWufrjoX89b1Alboqt2r5lYjgTUhRB5wjHK7/HJJiJui1NG0fWiAkL6YlgIRaAsw+9+LyIpbxs2i5HRyM8tX7ypvxpz9TXplicBsvJ8uk/TiliAiuHPDFOe0U4xw==;o/SpRz7I4hjIbI5NVB/AdA=="
 ---

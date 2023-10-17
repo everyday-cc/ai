@@ -9,7 +9,7 @@ ampWebUrl: "https://robbreport.com/travel/destinations/facial-recognition-travel
 cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/travel/destinations/facial-recognition-travel-concerns-1235338772/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PimEyes facial recognition tool raises privacy concerns"
-    excerpt: "A new facial recognition search engine called PimEyes is causing controversy for its potential to be used for surveillance and stalking. The website allows users to upload a photo of a person and search for other photos of that same person online."
-    publishedDateTime: 2023-10-12T19:43:00Z
-    webUrl: "https://www.itworldcanada.com/post/pimeyes-facial-recognition-tool-raises-privacy-concerns"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
   - title: "What Educators Should Know About Facial-Recognition Tech"
     excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
     publishedDateTime: 2023-10-16T18:41:00Z

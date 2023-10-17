@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "5 Companies With Israel Ties Make List Of Top 100 Fintech Firms"
+    excerpt: "Global business analytics company CB Insights has named five firms with an Israeli presence in its 2023 list of the most promising private fintech companies in the world. CB Insights says this year’s Fintech 100 includes companies from 24 nations at varying stages of development, who together have raised almost $22 billion since 2019."
+    publishedDateTime: 2023-10-17T11:10:00Z
+    webUrl: "https://nocamels.com/2023/10/5-companies-with-israel-ties-make-list-of-top-100-fintech-firms/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 4
+
 secured: "Uy90iTCoHb+zILpcmSXsW+qr8DQZ+rf5zW1D2StsW0QPL0QuSJoJLTJQNl4dCrdzh5lyvYcSo6XTS25QSFJbRpqyXGOBN/v8S19JfH4oCRBufoKGvcR5XGw1FjqaU80zUaDG67RNhIOQReQ8jc7HerJtqQ2H+sb7RdAK3TuzzKDFfvHOY+ulg3Tr6pkk+/40d9hFyRnv2Y+vlhzCtynSckCFX905TLgVDtzBRSMXqsYl0cenOjXMAKPK1flJZWDLgLwtCkrchK3hp2bMtj43fLx5vwNGwiRw4FBPjl/2b9ih5d5rcW+jEP+yn4pygGMcbgkXBNzcLrSJQjeGYFV3E8GwMmByTFb/sdMmRVQdq+4=;HHaZP9w3fOB4h5PG75q4+Q=="
 ---
 

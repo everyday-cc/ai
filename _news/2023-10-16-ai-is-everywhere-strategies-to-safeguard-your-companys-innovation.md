@@ -90,15 +90,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Your Generative AI strategy could use a startup’s touch"
-    excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
-    publishedDateTime: 2023-10-12T19:29:00Z
-    webUrl: "https://www.cio.com/article/655535/your-generative-ai-strategy-could-use-a-startups-touch.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
 
 secured: "hsMXgsTjn65ULpgsN6jClJu8OWZ5KdrXjvesPpkffRSqsJ3fOLP0abOSStBYdfesfy21ldPLvxtdtvpoDGTa55xZQeL4Nap8morMcXPeKqAO7IXfy59gBSeJ90cmk0ZRpyuNpL52JAgdhzNpmPO/io5sTDOC6LMZMQ+zxBWFZEIbnPATQfxghEQxdZOH0UqkSjHMlkMX1rTN9H7O02MQfoKmgn1kTlS1+bQaIkiROuJ/8zLXgMg+N3GliHhBrPMsDMlmNbFB5JANaTswn1WcG4AZVUnKew+YMAw0Ck2bje8M8JyGucVYd/gEU5esy6Pj2HyclgtjWSugihU7mKMwF/8M8mEcSkuBAXx0lPSybMXnoAvXFMt/qHEotWAjmkChQRrvVzltjs2tpiNSrsLp0qzA98QhyPpeZUoEVjFfJxHDl7+YoTSgr5qem9T8/ARcw0HLah+NNKMjUthDNaEJkKkPGTntX/D8L0kKW2f+zFlu/TK62tVSDwyNSAKDkf4bvgdvG/O3yGwLFThunE/sqA==;eqbUcC4tw6OUxqPq99RNqA=="
 ---

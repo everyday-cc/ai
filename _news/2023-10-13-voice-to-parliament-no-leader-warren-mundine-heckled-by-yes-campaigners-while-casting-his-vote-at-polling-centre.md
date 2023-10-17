@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indigenous voice to parliament: Don’t slam door on children, says Noel Pearson"
-    excerpt: "Indigenous leader and leading Yes campaigner Noel Pearson has delivered his final pitch ahead of Saturday’s referendum, urging undecided people to consider the futures of young Indigenous children when they vote."
-    publishedDateTime: 2023-10-12T19:32:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/indigenous-voice-to-parliament-dont-slam-door-on-children-says-noel-pearson/news-story/f3a696ef1bfb6333b4a5520530540dc4"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
   - title: "Indigenous Yes leaders call ‘week of silence’ after resounding defeat in Voice to Parliament"
     excerpt: "Indigenous Australians from across the country devastated by Saturday night’s referendum result have called a “week of silence” to grieve the outcome and “reflect on its meaning and significance”."
     publishedDateTime: 2023-10-14T21:55:00Z

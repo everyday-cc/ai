@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
+    excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
+    publishedDateTime: 2023-10-17T13:15:00Z
+    webUrl: "https://www.infoq.com/news/2023/10/deepmind-robot-transformer/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 36
 
 secured: "e6IbF579Pr17cu9f1qb2tDH5cZiDfHNRDZVqmo5HpuAt0wDGR0g7N2bRpKU7Mz6ic357nlkmZE1eedkmRmr7JazXZ7jajEKYnvk/kFYPY5vLLWqENAnteko2fvZGjiURDiyG0gtsXPaD/qWdii15vK18l73tBf9wLxeE8Elx/oTaDYm80EbCbtpDGvCk4MDtkkqwDtGOKU6XO0y/OQxqxjIYRrOi0pt5+7ZcRomEqU/5jwPVKZ8dY3uxQJHCBqjIb1T/WdxZuYYFQcRLHtaWQ79BuHNYlJ9vkTF52C98d4h6H0hdS7QHhwaxQ1bx3CrWS2hzPnwCp4BhgKHuUOpT48Gtbf/Ig6bsPqCuQRt3VNGbsHbVyD4b5Q90azY7r9+BZ4804kmGl1xChHfhg8Koj/krx/TxLWAZMEERIYR5mbSufh6+xf5yfRr4MtXqcIuESUFLzaGilTpAzbVFAB8nCeURfSBLJ/xESysN3spMIXF9zCTMPQfnFTZU3u8BA9HvP5BubzXgI/DAKpXihNyiEA==;i/EXvX9YrxOoAnvzhqf4Og=="
 ---

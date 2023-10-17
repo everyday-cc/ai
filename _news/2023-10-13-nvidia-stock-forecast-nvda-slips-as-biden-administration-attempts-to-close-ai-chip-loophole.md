@@ -71,6 +71,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
+    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
+    publishedDateTime: 2023-10-17T13:00:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
   - title: "A dip into Artificial Intelligence (AI)"
     excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
     publishedDateTime: 2023-10-15T00:35:00Z

@@ -2,6 +2,153 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2023-09-27-iisc-project-to-bridge-language-gap-to-tech-access.md",
+      "title": "IISc project to bridge language gap to tech access",
+      "excerpt": "REcognising SPeech in INdian languages (RESPIN) was conceived to address the issue of inadequate speech data in Indian languages and cater to the large majority of users who can communicate only through spoken languages and dialects. Launched in May 2021, RESPIN is set for completion by the end of 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/iisc-project-to-bridge-language-gap-to-tech-access-2702157",
+      "originalUrl": "https://www.deccanherald.com/india/karnataka/bengaluru/iisc-project-to-bridge-language-gap-to-tech-access-2702157",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.deccanherald.com/deccanherald%2F2023-09%2F9c101620-d1f6-4ebd-bfce-e36258305507%2FIISc_Bangalore_DH_1547756621.jpg?rect=0%2C20%2C1000%2C525&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Herald",
+        "domain": "deccanherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-oracles-transformation-is-clicking-cloudworld-recap.md",
+      "title": "Oracle’s Transformation Is Clicking: CloudWorld Recap",
+      "excerpt": "VP & Principal Analyst, Datacenter Compute, Matt Kimball, gives his insights on Oracle over the last couple of weeks including Oracle CloudWorld.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651352a8dcb01218dd83cd9e/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/26/oracles-transformation-is-clicking-cloudworld-recap/amp/",
+      "publishedDateTime": "2023-09-26T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-data-ai-how-financial-institutions-are-powering-true-hyper-personalization-at-scale.md",
+      "title": "Data & AI: How financial institutions are powering true hyper-personalization at scale",
+      "excerpt": "AI and analytics are powering innovative use cases for financial services with the potential for real ROI – if they’re executed right.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-ai-how-financial-institutions-are-powering-true-hyper-personalization-at-scale/",
+      "originalUrl": "https://venturebeat.com/ai/data-ai-how-financial-institutions-are-powering-true-hyper-personalization-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_591928495.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-the-future-of-artificial-intelligence-in-the-travel-industry.md",
       "title": "The Future of Artificial Intelligence in the Travel Industry",
       "excerpt": "Artificial intelligence (AI) is disrupting the travel industry by promoting speed, efficiency, safety and accuracy.",
@@ -890,127 +1037,6 @@
       "provider": {
         "name": "YNaija",
         "domain": "ynaija.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-to-2030-google-microsoft-facebook.md",
-      "title": "Artificial Intelligence Systems Spending Market Growing Trends and Demands Analysis Forecast 2023 to 2030 | Google, Microsoft, Facebook",
-      "excerpt": "The Market Research Report 2023-2030 ... Who are the Top key players in the Artificial Intelligence Systems Spending market? Google, Microsoft, Facebook, IBM, Apple, Amazon, Intel, Infosys ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34903899/artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-t",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34903899/artificial-intelligence-systems-spending-market-growing-trends-and-demands-analysis-forecast-2023-t",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34903899",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34903899",
-      "publishedDateTime": "2023-09-26T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-microsoft-partner-to-accelerate-adoption-of-generative-ai.md",
-      "title": "Infosys, Microsoft partner to accelerate adoption of generative AI",
-      "excerpt": "Infosys and Microsoft are expanding their partnership to develop cutting-edge AI solutions for businesses in various sectors",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsbytesapp.com/news/business/infosys-microsoft-expand-ai-partnership-to-democratize-data/story",
-      "originalUrl": "https://www.newsbytesapp.com/news/business/infosys-microsoft-expand-ai-partnership-to-democratize-data/story",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cdn.newsbytesapp.com/images/l48220230926180057.jpeg",
-          "width": 1920,
-          "height": 1079,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsbytesapp.com",
-        "domain": "newsbytesapp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-passur-completes-migration-to-aws.md",
-      "title": "PASSUR Completes Migration to AWS",
-      "excerpt": "Leveraging the power of AWS supports operational and global market expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-passur-completes-migration-aws-/2023/09/26/9887484.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-passur-completes-migration-aws-/2023/09/26/9887484.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

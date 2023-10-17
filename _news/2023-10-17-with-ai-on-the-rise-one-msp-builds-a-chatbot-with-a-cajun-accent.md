@@ -23,6 +23,17 @@ images:
     height: 458
     isCached: true
 
+related:
+  - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
+    excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
+    publishedDateTime: 2023-10-16T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/even-google-insiders-are-questioning-bard-ai-chatbots-usefulness/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+
 secured: "vhxRA7ltiuXM6/30S4dEdCRt0LPB491E7qu1QlN9jnOlozFoAWZB3FEmfJdMUUV/a4TcgySxvacM8HKRHLPJ0+DKRS739AIqqP3KbJtbV6+MYE6VpZ4/WZIX15CkmFjKGVbUDFY1etEJi04nEWlG0IUWpmGbiXWcaqnuou8PKJWUf62+8Fz6IOQWh0vILJoKor0dpPvofmmzEsL+3iBs6yQOaYzBhJ506avQFEzWAiShWbyGzZDGNu78MSs3c2HCXea6kUcesP/aIpSxqKBlrkvOdPUzoQGUb9GY86F5E3pWBtcqkqYUNGP36YP6wTFMOTHZvOOFtdlnKBF14ygIymd1WRah/ht4NAkyh4fIpW8=;LoWe6H7Nre1qxDt9ifcmQw=="
 ---
 

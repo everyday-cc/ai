@@ -70,20 +70,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "AI reads text from ancient Herculaneum scroll for the first time"
-    excerpt: "Charred scrolls from Herculaneum can’t be opened easily, but X-ray scanning can reveal their contents. Credit: UK Photo A 21-year-old computer-science student has won a global contest to read the first text inside a carbonized scroll from the ancient Roman city of Herculaneum,"
-    publishedDateTime: 2023-10-12T20:41:00Z
-    webUrl: "https://www.nature.com/articles/d41586-023-03212-1"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-03212-1/d41586-023-03212-1_26151284.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Student uses AI to decipher word in ancient scroll from Herculaneum"
     excerpt: "A computer science student has discovered the first decipherable word in unopened scrolls from Herculaneum, an ancient Roman town buried by the eruption of Mount Vesuvius"
     publishedDateTime: 2023-10-13T19:09:00Z
@@ -92,6 +78,15 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
+    quality: 17
+  - title: "Artificial intelligence helps to read ancient burned scroll"
+    excerpt: "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence."
+    publishedDateTime: 2023-10-15T06:01:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/67103053?at_medium=social&at_bbc_team=editorial&at_link_origin=BBC_News&at_campaign=Social_Flow&at_link_id=8EE17864-6B3E-11EE-8063-B42FD99D5CC3&at_ptr_name=facebook_page&at_format=link&at_link_type=web_link&at_campaign_type=owned"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 17
 
 secured: "MFJspslk1VFixzNdWCIyRD3iWlZeqw6VqJN1wkHPCNpJZKIFfuinHW7yDNpz3OBuMOK99+7i34qwf13JXCaoXel0UvCCbBx7nRKB3ggJJ2inBDHu3MgCg7otjrCrqs2R8+vRCje5dtdZG4YcA3vQsHtzy+fnon92ROKnWb1GqaP3i47eOeZhn7fox/Z19keM8VoB8jO5W3U/2QQnGiK4iOql4WFiKXuXGfZY8bfr4SjZTyWWQErUExOBmbigNpw4LI1fTgEbd8H9u3E5Wm7PXuPXNEA6so+yezmDg6PXNrs1jH40xOJhfqwcdiNNYidssiNVczQW0s41HZK7iCXF+MwPOgbJQ8Kc+2WQAQcaHAa5Tsbnw3r/sZN82BN5/oHMUNXSHVpmzMzwuIXS1H9CIAoZldJD9urUwuuqbHk828LgDp9OHmQS2+ExMtrjC/L5y9GI4G6zslhGN9diERsH1ViCsRC6qnHpbOQd0RAzo3ezG5EKgoFO4vPLdjyqORtwW28YxuXEOKc4PYninmSnQQ==;WlTADjvOeum8doCpHm1/ZA=="

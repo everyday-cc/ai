@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-become-top
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-become-top-hub-for-all-things-fintech-ylccedd2?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Zawya
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "E& life fintech business gained momentum to take a lead in the region within the next five years"
+    excerpt: "With the theme focused on ‘Accelerating Innovation’ it is about transforming the world of technology to create a better future"
+    publishedDateTime: 2023-10-17T14:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 46
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MGI1NWViZjUtMmEwNi00/0/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
     excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
     publishedDateTime: 2023-10-13T20:51:00Z

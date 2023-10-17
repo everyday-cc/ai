@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 316
+heat: 326
 published: true
 
 provider:
@@ -260,6 +260,15 @@ related:
     excerpt: "Eric Boyd, Corporate Vice President, AI Platform, Microsoft Today, the promise of technology to help us solve some of the biggest challenges we"
     publishedDateTime: 2023-10-16T16:11:00Z
     webUrl: "https://www.inferse.com/757622/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 29
+  - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
+    excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
+    publishedDateTime: 2023-10-17T11:58:00Z
+    webUrl: "https://www.inferse.com/759103/introducing-roybot-roy-hills-innovative-ai-tool-boosting-employee-microsoft/"
     type: article
     provider:
       name: Inferse

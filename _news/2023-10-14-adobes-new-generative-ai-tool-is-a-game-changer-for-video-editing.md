@@ -93,15 +93,6 @@ related:
       name: Crain's Cleveland Business
       domain: crainscleveland.com
     quality: 19
-  - title: "Your Generative AI strategy could use a startup’s touch"
-    excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
-    publishedDateTime: 2023-10-12T19:29:00Z
-    webUrl: "https://www.cio.com/article/655535/your-generative-ai-strategy-could-use-a-startups-touch.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
 
 secured: "idKSr3wVlqHeQmMQ9MIMSjzSPRYk1UEQJF+nODS/q05Lw1g7ZDGwodMe2/5L/Ix/lkuUAOzB1Jv3S8de+NkSzOL5CkPLM2nobrn1uXpV5VYSxCKA7en/e/bzxrFm3yfU3T5lkEXriXJPaXuP/cQOKz8Sq7BpSh8NwMVPjo3GU7UYhWvIZsuDT1n0L1LWZSTnTElxN9PB85oDYi620UEPCRwWpMPpGplLxChSex6SKKZ34VCHtG5ejczbjKFdKoh6Gzp4vWoW91eKeg4RqlsJvkzZVLVHBCGDiOANi9Li8NL4iklVQQcdA8hVkivR84NG/kI7s9gKqlzZ3dCVHqTal9xjiaebw+gbkTki7F+4d7xWvGyS+TMwXjN8ZvVO6XgOg3+D0gO+nIfpRbseMppMkcLNT44TpDxO/8+vNKHvFWaCR+JgwvZzyTncsy+cW0Y5CvUc63zyjDzB4iFkeldIeXE5E+0PerLoq1QSwhEjtgHEdd6w5N7bwRbtQeOlu/+8GpgW0GCye7oqhDc5alsUrw==;A4r1AlevgMYXtJxQPFnXgw=="
 ---

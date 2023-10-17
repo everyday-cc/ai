@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/sme-explained-the-dynamic-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-explained-the-dynamic-indian-fintech-lending-landscape-and-changing-consumer-behaviour-3273399/lite/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "From Loans To Soundbox: How Jio Financial Services Plans To Disrupt The Indian Fintech Market"
+    excerpt: "Reliance Group’s latest publicly listed entity Jio Financial Services (JFS) seems all set to disrupt India’s fintech market with"
+    publishedDateTime: 2023-10-17T13:55:00Z
+    webUrl: "https://inc42.com/buzz/from-loans-to-soundbox-how-jio-financial-services-plans-to-disrupt-the-indian-fintech-market/"
+    ampWebUrl: "https://inc42.com/buzz/from-loans-to-soundbox-how-jio-financial-services-plans-to-disrupt-the-indian-fintech-market/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/from-loans-to-soundbox-how-jio-financial-services-plans-to-disrupt-the-indian-fintech-market/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 13
 
 secured: "uZA0qVhiL3XrR6Luf+3NXqxmJOGa2AP+EGj1PcLBzK5z6fc0vaWP9ouNHzjB2uTycas7oF7qCMz0B449FtYM0tbL1hrxbd4ygoBiiuY3ia6NzD0SzD0SPCYdKHkhDwU+y/zwDwMMgzrWA/2MmDuHp5nd4tEhUEkd4bpqCoMh18+v2vypQY3Z33z+m+1kjRi7z3JewYPXQb+W6Ht9B0x0RPsmHK73lqyNExM8w9+EXtIWpHslOmstQRVzbvbxX3v5sTZ1vnKTL1BbI0VdYS1KsKaOq1Mt3ldRsuCdfnk9EwnjsWZtQNAU0l7DTu57QvfACHJkk5LdRuudF5b0R+fWDcSAuflixQky5epjv5fas1A=;qqTFNSlzRZsjRuR/+evoSA=="
 ---

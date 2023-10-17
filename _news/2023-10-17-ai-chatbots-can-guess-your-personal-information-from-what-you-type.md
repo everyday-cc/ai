@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-in
 webUrl: "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -29,26 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "Mayor Adams: New AI chatbot makes it easier for small business owners to access information"
-    excerpt: "Mayor Adams says the new plan will be a one-stop shop for small business owners in the city looking to access information and resources faster."
-    publishedDateTime: 2023-10-16T17:31:00Z
-    webUrl: "https://bronx.news12.com/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
-    ampWebUrl: "https://bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
-    cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
+  - title: "I tested Meta's Tom Brady and Kendall Jenner AI chatbots and it was weird"
+    excerpt: "Since Meta described his role as a \"Wisecracking sports debater who pulls no punches,\" I began the chat by chatting about the Jets' win last night. The first thing I noticed on the screen was the rectangle with Tom Brady's face in the upper right-hand corner, which resembled what you would see if you were on a FaceTime call with someone."
+    publishedDateTime: 2023-10-17T13:46:00Z
+    webUrl: "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/"
     type: article
     provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 27
-  - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
-    excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
-    publishedDateTime: 2023-10-16T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/even-google-insiders-are-questioning-bard-ai-chatbots-usefulness/"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/edaff8ebce2fd9ac8f07c965727a5c2811b22422/2023/10/16/8dd8ef3c-53c2-4da8-a5ac-fa83066e3850/2022-25.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Meta’s New “Bizarre” AI Chatbots Will Allow You To Talk To ‘Tom Brady’ And ‘Kendall Jenner’"
+    excerpt: "Cool, you can have a little tongue-wag with AI versions of celebrities now, you might be thinking. But that's where you're wrong."
+    publishedDateTime: 2023-10-16T08:31:00Z
+    webUrl: "https://www.2oceansvibe.com/2023/10/16/metas-new-bizarre-ai-chatbots-will-allow-you-to-talk-to-tom-brady-and-kendall-jenner/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
+      name: 2oceansvibe.com
+      domain: 2oceansvibe.com
+    quality: 29
+    images:
+      - url: "https://media.2oceansvibe.com/wp-content/uploads/2023/10/hero-image.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "rMWrw62aacNnbcl6ptcRt6LUhrTlT5ac5Hcw8Fii1qtd8K+YaW8kYSn+oAjG89ds0Liszrbv2WfSljNb/y6xN19b3PK2lxoh0pVZAt8svq4FsDdyE50Vtm4za+6EmqPj+WJ1AyAMC5se9PDH0gezt+ffxNhu+t/+Pofab3XB3HZdYiF4pjJk1ag56M5Q3Ubt6jlwFcWMXlhXuam69gq9w8gQIfRI5e9cUqC/paw8jInvQsgq/Pn65ax0voNdk8dKXFxjTRgE37nJtl+0myhowbfal+7okYGkzLU0WOJVeaLrnOXSziyMgAyvFQIEJEfTlUVRy4dXApxGnI8MbgS244UMusIlHu+/WRiVA0GWurw=;O5Ok5OoeY+3QHlkxvkW0Cg=="
 ---

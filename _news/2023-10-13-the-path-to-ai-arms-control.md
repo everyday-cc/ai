@@ -40,22 +40,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Google’s AI-powered search experience can now generate images, write drafts"
-    excerpt: "Google's AI-powered search feature, SGE (Search Generative Experience), is gaining some new skills, starting today. The AI feature, which introduces a"
-    publishedDateTime: 2023-10-12T21:22:00Z
-    webUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/"
-    ampWebUrl: "https://techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/12/googles-ai-powered-search-experience-can-now-generate-images-write-drafts/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-search-labs-SGE-1.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google finally adds AI text-to-image generation, but it's not where you think"
     excerpt: "Although Google is not new to AI image generation, announcing its own Imagen text-to-image model as early as March 2022, it has yet to release an image-generator to the public -- until now."
     publishedDateTime: 2023-10-13T16:27:00Z
@@ -118,19 +102,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Google now lets you generate AI images by searching – here’s how to do it"
-    excerpt: "Google added two new features to its Search Generative Experience today, one of which allows users to create AI images on the fly."
-    publishedDateTime: 2023-10-12T22:48:00Z
-    webUrl: "https://bgr.com/tech/google-now-lets-you-generate-ai-images-by-searching-heres-how-to-do-it/"
+  - title: "New tool can detect AI-generated content"
+    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
+    publishedDateTime: 2023-10-17T15:42:00Z
+    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 38
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/10/Google-SGE.jpg?quality=82&strip=all"
-        width: 1790
-        height: 968
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7UH1L0SWA8JPK+YkFCDEH0cGjyGqjNaH8Pq18InR96Ct2ubQP/ccVCe9hxPn4O4iRsMgMPCHxWccheBtN8Ro02vdO6+sT4OnobyceILWZOCtddayclVbaFmiu5AqeC8SnGeGY9Fgcwhdw/jQDLSfF7TcDVErr1nrPoo/UaClzUbQkKyYs9deMAJITeqU03mwxcOPz4h1iNkR+CMeGF4jSTzC5/ZwUiNaeflkcA8IY0FbbbWK+rAN+pBKzEQX2FA6g2Sjx85R6/3uTHA7s0LhYiJFN5lWDL/gK+cPQw6H92qsWcTTqmNELtuZ6RiHwT1fHyCDPhtda9+HjQ1XWHs30t95FX+gs0JSmyaLHSgV1rE=;8/Pn1d48Qkpgg71Hy+d00A=="

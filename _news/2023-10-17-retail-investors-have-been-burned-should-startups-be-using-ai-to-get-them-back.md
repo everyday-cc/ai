@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2023/10/16/retail-investors-have-be
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Intento Raises USD 8m in Series A as Investors Back Generative AI"
+    excerpt: "Intento, a machine translation and AI start-up, has announced that it has raised USD 8m in Series A funding. The company has now raised a total of USD 12.3m to date, with the latest funding representing its first major investment since its seed funding in 2020."
+    publishedDateTime: 2023-10-17T12:05:00Z
+    webUrl: "https://slator.com/intento-raises-usd-8m-in-series-a-as-investors-back-generative-ai/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
 
 secured: "zgm833+9s00RrVn7XlQqKpIkh0GLato/EF3z4zUDs/T9UyeoEeQ7uduj/bD+JTkAqKOFZqDUKWj9BiSlICBf+LGfTh0joXvnaOVX03UbFmlCD3MPcn4f7ltKkZey0QBPp9KCYwtdAqNDOBg+4yj+R6IJP9rKIn1U7Xml3Xkw5lrlFxjaoi/rm0UuMNVJNYKlYO/5npcZLbZndV/eq/WIOzJy0j5Fcw8uM4CIpXHikobUpGAg1XBbTtf2y3IRUV/C+CWEvo+JH1bTWLwnfey6PMVgONXoqy8DFWEFeoVthvlcLglNwo9JBH4Ugm8eTZgqGlyDFYlxARy02YxJHTUQHo/YMAFT94hTO9Q5qlhlPC0=;oC8xh7I+0vGqrnKS9hZ7PA=="
 ---

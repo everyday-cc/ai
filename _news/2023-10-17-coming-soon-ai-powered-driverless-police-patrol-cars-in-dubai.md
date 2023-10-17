@@ -57,20 +57,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Dubai announces self-driving taxi tests"
-    excerpt: "Dubai’s RTA has started tests of self-driving taxis in Jumeirah 1. The Roads and Transport Authority (RTA) and Cruise, a self-driving technology company, began supervised testing of Chevrolet Bolt-based autonomous vehicles in Jumeirah 1 area of Dubai."
-    publishedDateTime: 2023-10-12T20:26:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-announces-self-driving-taxi-tests"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 39
-    images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/10/12/dubai-self-driving-taxi.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
     excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
     publishedDateTime: 2023-10-16T14:02:00Z

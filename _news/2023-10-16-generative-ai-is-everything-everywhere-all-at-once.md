@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-everything
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
       name: Crain's Cleveland Business
       domain: crainscleveland.com
     quality: 19
-  - title: "Your Generative AI strategy could use a startup’s touch"
-    excerpt: "The new class of generative AI has the potential to unlock value for your business, but only if you adopt an agile approach."
-    publishedDateTime: 2023-10-12T19:29:00Z
-    webUrl: "https://www.cio.com/article/655535/your-generative-ai-strategy-could-use-a-startups-touch.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 17
 
 secured: "rXSCtN0lnroQ2ZL300ZtynnNjyhmqgmGQaB+9sn4dsWtIWBWerzIp9EGTyCv76Hk3lQXkzi61e7EvjJIdg4A8BKrCJd0vzlK6RwXOcB9tj5vn8Og2FiddS/+mSMvvmRs+MpfDR5+MWp5Jfz3HSbzb5sIxQZzzzyeLtRzu/ZxGkEO4GuWvrXi5BwyoInmKpjlhErUjUnXwRZ1hH1AtYakNeMGg/8E6WfyhA6NZYBRTqElmjNtVk6NfhzQeWeY7nYgKgo5e/4y+h4rLdR2qUH9LvP5TQhwWzc0ZxM0NjGZZx0vc0232Zq1YtW17TzQR0gIT8kv+DRTlKfpjM7PUiU6+Y8xLPhM3GEt6QNbwo0JV6xVCJNHnromwHUWleFZxGc/k1zb0YbO2BKyBpZuWBDdGPp6eaCzoCpF32ergWUN/O+gJCEtPmRZz1QOTkbaWIcmN4xnFbbueYogC4blF2r+O9mNW7YwDIHb5V1LLa76ntjApbm3qlsGwb+aN2qoZxtPoxsEaKv67kSGkzjoS+5+sw==;+R0WTwadw4Y/0SavzbhxSA=="
 ---

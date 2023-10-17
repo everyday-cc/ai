@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "After Fake Drake, New Federal Bill Would Ban AI-Generated Deepfakes Vocals"
-    excerpt: "The draft bill – labelled the “Nurture Originals, Foster Art, and Keep Entertainment Safe Act, or NO FAKES Act — would create a federal right for artists, actors and others to sue those who create “digital replicas” of their image, voice, or visual likeness without permission."
-    publishedDateTime: 2023-10-12T20:58:00Z
-    webUrl: "https://www.billboard.com/pro/ai-generated-deepfakes-vocals-banned-federal-bill/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 35
-    images:
-      - url: "https://www.billboard.com/wp-content/uploads/2023/04/Drake-and-The-Weeknd-2018-billboard-1548-1.jpg?w=1024"
-        width: 1024
-        height: 677
-        isCached: true
-  - title: "Bipartisan Senate group proposes protections from artificial intelligence replicas"
-    excerpt: "A bipartisan group of senators circulated draft legislation that would prevent unauthorized artificial intelligence replicas of personal images or likenesses, a policy that could offer protections to creative workers such as artists and actors."
-    publishedDateTime: 2023-10-12T21:23:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/senate-group-protections-artificial-intelligence"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 31
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/30ff52b/2147483647/strip/true/crop/1343x705+0+37/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fb0%2Fca%2Fa3e358fb40019045d50745cf8dc4%2Fistock-1488283230.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sen. Blackburn helps draft NO FAKES bill protecting likeness, voice from generative AI replicas"
     excerpt: "Sen. Marsha Blackburn and others have drafted a bill, NO FAKES, to address issues around generative AI replications."
     publishedDateTime: 2023-10-16T10:45:00Z

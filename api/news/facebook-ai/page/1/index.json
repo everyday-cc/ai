@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-17-ai-chatbots-can-guess-your-personal-information-from-what-you-type.md",
-      "title": "AI Chatbots Can Guess Your Personal Information From What You Type",
-      "excerpt": "The AI models behind chatbots like ChatGPT can accurately guess a user's personal information from innocuous chats. Researchers say the troubling ability could be used by scammers or to target ads.",
+      "path": "_news/2023-10-17-software-supply-chain-security-attacks-up-200-new-sonatype-research.md",
+      "title": "Software Supply Chain Security Attacks Up 200%: New Sonatype Research",
+      "excerpt": "State of the Software Supply Chain also covers regulations and how AI could help developers protect organizations from security risks.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/",
-      "originalUrl": "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/",
+      "webUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
+      "originalUrl": "https://www.techrepublic.com/article/sonatype-state-software-supply-chain-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/6529f6866ad33062ca7713a1/191:100/w_1280,c_limit/AI-Chatbots-Infer-Private-Info-Business-1465764755.jpg",
-          "width": 1280,
-          "height": 670,
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/03/tr-31423-edge-attack.jpeg",
+          "width": 1400,
+          "height": 863,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T04:00:00-07:00",
+      "publishedDateTime": "2023-10-17T08:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "AI in Security"
       ]
     },
     {

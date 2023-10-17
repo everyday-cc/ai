@@ -9,7 +9,7 @@ ampWebUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
+    excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
+    publishedDateTime: 2023-10-17T13:15:00Z
+    webUrl: "https://www.infoq.com/news/2023/10/deepmind-robot-transformer/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 36
 
 secured: "8a/VPAp6xCGJQPvzJEo9nLM8qTTLQkhOm5eU4xJ/3iw/3ALxMJm52B5FgQcFooj87o/cPc7A8aUf2e2uS6nQ3HPTdvBeg7+X4xqa+vO7hOQDOmSm6saHqarhqHLfHdP3DGoeQwZXifNmrEhp7Jz2saWPErKwyF0ru0yny/gN6swj/D8m/7ud8JQ7H70kZkws9Ga1+PWTWUoKa4pAYZCBY+WRZs2Bipo9TprfNovRrB2NeIhKa6p1+f5YSEKhg4coq8SaiihnfRR6wnDi9NWGY24Ep8u1KgPfAwRm5aHhKypfOIEb5/Hqpha69k2DwAivg3a+N30C04n7oL64jdX93M5oE8+6JjwhyfH8dQnpNLs=;Nj0PoaVL0BHnWJ+b8dYTIQ=="
 ---

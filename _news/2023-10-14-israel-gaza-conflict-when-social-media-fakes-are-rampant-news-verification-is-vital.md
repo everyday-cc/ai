@@ -26,6 +26,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Need to check fake posts on conflicts"
+    excerpt: "As news of Palestinian militant group Hamas launching a deadly attack on Israel and Israel’s threat of retaliation began to filter across news networks and social media platforms, a wave of misinformation and fake videos rose alongside."
+    publishedDateTime: 2023-10-14T20:56:00Z
+    webUrl: "https://www.thestatesman.com/opinion/need-to-check-fake-posts-on-conflicts-1503231487.html"
+    type: article
+    provider:
+      name: The Statesman
+      domain: thestatesman.com
+    quality: 4
+
 secured: "v2pvIQD7BiEN5lAFYxyzUMxEBnu9pBVs1kEHAq7u/3Wbw50geyagdz1XE2HbAEm+qO58hEGETP4KAiKfHNGd4xCxq/YdJAcizKsT5mXqL9+u/vqcjydRH3dOPuBZQS5ckWrqW9FCdOaOQPcH4VcPnXGsYwUVwQZ+h7NUQvrkq8dBdVolOjQvwYOEZVMuNOlyWqjmu0bacFRvVxY/CooT0CNTLmhPZvyy7AOMiez9vzHqcn938BqyPLDnhOS5vfN1VckogaMyqvRBc+TRcb8LYMegcbjYl8T7K6gG6BPdoz4m0zVoCHW5781d6VuVxsLZ7ORI+lLblPAWnvSlVjHItZTt3qphiAaiWzOFiCvxR34=;6d/dCRIHxrx5Bg8HCBeYgw=="
 ---
 
