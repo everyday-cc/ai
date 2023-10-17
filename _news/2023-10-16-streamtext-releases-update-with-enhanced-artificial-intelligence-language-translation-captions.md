@@ -22,6 +22,19 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Why Bailador reckons Straker is well positioned to capitalise on generative AI"
+    excerpt: "STG provides automated language translation services with expert human translators in the loop to check for accuracy. “The founder and CEO, Grant Straker, at the recent AGM started to demonstrate to the market how Straker is thinking about AI and how it ..."
+    publishedDateTime: 2023-10-16T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/business/stockhead/why-bailador-reckons-straker-is-well-positioned-to-capitalise-on-generative-ai/news-story/1ff262195700c0109ccb3afef56f9c68"
+    ampWebUrl: "https://www.theaustralian.com.au/business/stockhead/why-bailador-reckons-straker-is-well-positioned-to-capitalise-on-generative-ai/news-story/1ff262195700c0109ccb3afef56f9c68?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/stockhead/why-bailador-reckons-straker-is-well-positioned-to-capitalise-on-generative-ai/news-story/1ff262195700c0109ccb3afef56f9c68?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 35
+
 secured: "TbsxzNnXkC88jRz4URF9s4vTyjXzikjgg8v0phove5SXcca60U7ZBcWCXeivdbl7+04njuHzPZeoJYZnP85ZDh/rnihwvx/xR3/GrvhMYls4ljKJoR4nvoaIp4AdErh4qbsJzeinono9tPrrqem5gVBhrRo670p+5pKlvbOMMCyyoWf202yB8KAp6VJVsYhDzItefp4+niVql3u+05M3x8AAUQsrYg45kMGooHxn7Z8IHrqbn5JAMcyDezHUUDTAs+zKJDArNjk/rdP3cjkj6XdZkHKIivm9EiD5UEky7Na8FmZQR7xPshKYR1NUKXLse88FW+ZNF9VZPt0Ny83WMMPR43UTFpFdzbXnDTyDP+s=;P/VsbYSeDaRDfkcvHNOxKQ=="
 ---
 

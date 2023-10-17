@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Ethics in the age of AI"
-    excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
-    publishedDateTime: 2023-10-12T06:29:00Z
-    webUrl: "https://thepeninsulaqatar.com/opinion/12/10/2023/ethics-in-the-age-of-ai"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230920_1695204350-893.jpg?1695204350"
-        width: 999
-        height: 1000
-        isCached: true
   - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
     excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."
     publishedDateTime: 2023-10-12T18:08:00Z

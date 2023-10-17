@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Malarndirri McCarthy: First Nations people ‘deeply disappointed’ in fellow Australians after Voice result"
-excerpt: "An Indigenous senator says the outcome of the Voice to Parliament referendum is “deeply disappointing” and grieving Aboriginal and Torres Strait Islanders need time to mourn."
-publishedDateTime: 2023-10-16T21:34:00Z
-originalUrl: "https://www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d"
-webUrl: "https://www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d"
-ampWebUrl: "https://www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d?amp"
-cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d?amp"
+excerpt: "Mr Dutton has also watered down his commitment to a second referendum for constitutional recognition – without a Voice – that he pledged last month. He said it “remains” the Coalition’s policy but would not send “fatigued” Australians back to ..."
+publishedDateTime: 2023-10-16T23:23:00Z
+originalUrl: "https://www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200"
+webUrl: "https://www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200"
+ampWebUrl: "https://www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200.amp"
+cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200.amp"
 type: article
-quality: 7
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Couriermail
-  domain: news.com.au
+  name: Perth Now
+  domain: perthnow.com.au
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://images.perthnow.com.au/publication/C-12226200/82fbad2042c3b59887aa3ae8aa6f2b6f18bb3c0e-16x9-x0y745w1932h1087.jpg?imwidth=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Australians look set to vote against Indigenous voice in parliament"
@@ -577,6 +583,6 @@ related:
       domain: houstonchronicle.com
     quality: 0
 
-secured: "ISQSEIgUZuiRUsInycmBgdOJrTfdzrI3le+LTxvVNxLoUPSUnHjTGOsPVpiDqB93Lo1aw5wwtAKjiyuwucFnTWZ5QeYP7R0fqBfB7DLLkh3UzbFjQfQBtCmXsG+Q69QefONK6qNsROdSJFoLNloURw+VJStKFjl04JqzR+EVBPqraA3fRK4Q1pWCxBiRvb1qa8LnM/9XfPc99M1fTFWQ8Gdp73ihXjVnGI2k9TOkp599vTpRzia6sPZlUjS1eA6/F3gjAnuZIEDMTAvcwGF2Qm68BPkLIqxFF2ncxOAm3wKpXkwgHd8uGD68IzAq6FNKGC/Y7Z9FPeVkFLtfxN2DoHQoglxCdS6OsGh2NF047slpA9bGG+zL+1V9p/hb/Vkc2pzfF9UaH4qXA94gqDpyE0jLRNw8fMFNFeUO3RrcJ34cSOhJ0Bo5BCWpi6z4Ik3XlYE7qKqvZxFu04OHOa8Yq2Vg3Dufl5wQgL7mbExMWsas0nPA93K9Yf+291FktR75gwlpGHO+ozKVrjGlQdAHCw==;Z+zQRfCfUxsEUWbhvzPjdQ=="
+secured: "9UjzQJni2zR0yQnJY109oUHlT5b9OyFvEenSg/DizPDoJ8HJrk6h3bnu2NybOFkGagamaA/zoWDcMTx0Gg0tWxCieYrorx9Qb5pps5zyVTSvzwu8OQFB0teiSaqGbFCjkqLPvumxtEmF3w+MgHQh3l1TGq1Obz0a0brtwYWD7UC5DBuZ71qHyYr6QwoPFvkJQ0aZ0grc/LS+I0tdREDKR6n0tYGixyIU95P77W8MNDexEHoAjUU8LUVJ40YL7y+BUd2/x7eXVnNsMBboqkugizUsEKeiivSjg5xsSjZXVhUNay1TCy4uIh/SJLKlFIrC3bWboZDZHArao8p5ksBgOASp53r3rKJifhE5qpEUSrc=;ej+bMUpP1ywnDnxQr3QtCA=="
 ---
 

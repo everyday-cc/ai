@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Does Facial Recognition and Other Tech Make Schools Safer?"
+    excerpt: "The New York Department of Education has permanently banned the use of facial recognition technology in schools—the first state to do so. While it's too early to know if other states will follow New York's lead, the state's new policy should serve as a ..."
+    publishedDateTime: 2023-10-16T21:43:00Z
+    webUrl: "https://www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer"
+    ampWebUrl: "https://www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "Does Facial Recognition Technology Make Schools Safer? What Educators Need to Know"
     excerpt: "New York has banned facial recognition technology in schools. Here’s what experts say schools need to consider before using it."
     publishedDateTime: 2023-10-13T20:02:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kin
 webUrl: "https://www.ibm.com/blog/understanding-the-different-types-and-kinds-of-artificial-intelligence/"
 type: article
 quality: 119
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/storage/uploads/view/e0a17850b2b64fca883a454693dc8b08.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Ethics in the age of AI"
-    excerpt: "We can achieve this through a reflective AI on the dos and don’ts, which considers the law, but transcends its legislation whims to reach a flawless illustration of the right and wrong. When both laws and ethics align, AI sees our actions as a matter of ..."
-    publishedDateTime: 2023-10-12T06:29:00Z
-    webUrl: "https://thepeninsulaqatar.com/opinion/12/10/2023/ethics-in-the-age-of-ai"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 54
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20230920_1695204350-893.jpg?1695204350"
-        width: 999
-        height: 1000
         isCached: true
   - title: "5 Tips to Help Business Leaders Make Sense of the AI Landscape"
     excerpt: "Natural language processing (NLP): NLP is a type of AI that allows computers to understand and process human language. NLP algorithms can be used for tasks such as machine translation, text summarization and question answering. It is used to analyze ..."

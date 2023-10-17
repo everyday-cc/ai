@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Malarndirri McCarthy: First Nations people ‘deeply disappointed’ in fellow Australians after Voice result"
+    excerpt: "Mr Dutton has also watered down his commitment to a second referendum for constitutional recognition – without a Voice – that he pledged last month. He said it “remains” the Coalition’s policy but would not send “fatigued” Australians back to ..."
+    publishedDateTime: 2023-10-16T23:23:00Z
+    webUrl: "https://www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200"
+    ampWebUrl: "https://www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200.amp"
+    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200.amp"
+    type: article
+    provider:
+      name: Perth Now
+      domain: perthnow.com.au
+    quality: 27
+    images:
+      - url: "https://images.perthnow.com.au/publication/C-12226200/82fbad2042c3b59887aa3ae8aa6f2b6f18bb3c0e-16x9-x0y745w1932h1087.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Australia Says ‘No’ to Indigenous Voice"
     excerpt: "Australia’s Voice to Parliament Referendum went down in flames in the October 14 vote. An overwhelming majority of Australians voted “no” to the proposal to “alter the Constitution to recognize the First Peoples of Australia by establishing an Aboriginal and Torres Strait Islander Voice.”"
     publishedDateTime: 2023-10-16T14:39:00Z
@@ -494,17 +510,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 13
-  - title: "Malarndirri McCarthy: First Nations people ‘deeply disappointed’ in fellow Australians after Voice result"
-    excerpt: "An Indigenous senator says the outcome of the Voice to Parliament referendum is “deeply disappointing” and grieving Aboriginal and Torres Strait Islanders need time to mourn."
-    publishedDateTime: 2023-10-16T21:34:00Z
-    webUrl: "https://www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d"
-    ampWebUrl: "https://www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d?amp"
-    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/national/politics/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result/news-story/c144dbbd4151d2a4679c249818251a3d?amp"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 7
   - title: "The Voice: Australians vote No in historic referendum"
     excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
     publishedDateTime: 2023-10-14T13:13:00Z

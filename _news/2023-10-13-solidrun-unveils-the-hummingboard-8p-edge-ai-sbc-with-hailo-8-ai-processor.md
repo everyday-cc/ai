@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "SolidRun unveils Hummingboard 8P Edge AI SBC"
-    excerpt: "SolidRun, a supplier of high-performance System on Module (SOM) solutions and developer of embedded systems, has released the new Hummingboard 8P Edge AI single-board-computer (SBC)."
-    publishedDateTime: 2023-10-12T06:29:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/solidrun-unveils-hummingboard-8p-edge-ai-sbc-1"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/txhjhg4l/hummingboard-ai-back-front.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SolidRun Unveils the Hummingboard 8P Edge AI SBC with Hailo-8 AI Processor"
     excerpt: "image and object recognition, surveillance, smart cities, IoT, and more. This SBC kit features the flexibility to connect two cameras, supporting Basler MIPI-CSI cameras or USB 3.0 cameras for powerful computer vision applications, and can even support AI ..."
     publishedDateTime: 2023-10-12T15:43:00Z

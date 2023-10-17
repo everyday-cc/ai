@@ -26,31 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Anysphere raises $8M from OpenAI to build an AI-powered IDE"
-    excerpt: "Anysphere, a startup building what it describes as an \"AI-native\" software development environment, called Cursor, today announced that it raised $8"
-    publishedDateTime: 2023-10-12T06:38:00Z
-    webUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/"
-    ampWebUrl: "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/amp/"
+  - title: "Making sure open source doesn’t fail AI"
+    excerpt: "The lessons learned from cloud are spurring a proactive examination of what it means to be 'open source' in the rapidly evolving world of AI."
+    publishedDateTime: 2023-10-16T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3708734/making-sure-open-source-doesn-t-fail-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3708734/making-sure-open-source-doesn-t-fail-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708734/making-sure-open-source-doesn-t-fail-ai.amp.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/27253e8e-2d70-41e0-99f1-f9e5a684f1a3_2918x1855.jpg"
-        width: 2918
-        height: 1855
+      - url: "https://images.techhive.com/images/article/2016/11/six-big-projects-that-went-open-source-1-100692064-large.jpg?auto=webp&quality=85,70"
+        width: 700
+        height: 467
         isCached: true
-  - title: "OpenAI-Specific Code Nixed from Semantic Kernel AI SDK"
-    excerpt: "Officially the company's \"What is Semantic Kernel?\" documentation says: \"Semantic Kernel is an open-source SDK that lets you easily combine AI services like OpenAI, Azure OpenAI, and Hugging Face with conventional programming languages like C# and Python."
-    publishedDateTime: 2023-10-13T19:07:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2023/10/13/semantic-kernel-beta.aspx"
-    type: article
-    provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 19
 
 secured: "mFAC70iXefGEXZ7GawttRapaBOos8KmGD/z2qv7+pKl+RN7QfGITKDaaR7aTSuEqAPKADqBj+vX2PEAmM9zyJvex0pggKrp18fwMOhhFAkQ3OKHIcfH4iqHRI3YMxLy+Y2tROk4uM+lj+ObGPMGxG9iyZMINpctiJf2ztycI/8z+GsMw9Lpjcoy1dTYPvhSKn6U9QSfgQyCLSo8ksfjJz4CVVhu30PJKFWQapSODBw1QaU1/KM3Vutb5K4NtInVQ0UnVY06MuiDnt2YDsNyn5tVY3UQWmMQ2TrLYxvXgSGIs4HzyQGW3DEwNkxLnRnqCHYbeXA5bMNXxgBD/up/GJRNdipRgA/dPtGeyswMJYjjsJ66BCTAQRTCg7nihi3Ygolr+rxYQM0qfA6XaCIF3sBuEEeOI3lNWT5RMzxJpZTFIv1hJJ0h/fcOjCU46m2wxzM02Wbeuva1na6VXZbbpiTQ6RTALUYHVXeEkV8luy8OLKr3yVLt6gqLN5we+1P1lg1Jdgzdgt8VoXSdNB3jl0g==;7m3z8Cu+FDdfyijmSOHiaA=="
 ---

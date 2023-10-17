@@ -3,8 +3,8 @@ category: news
 title: "May Mobility is trying to solve self-driving — one shuttle at a time"
 excerpt: "Mobility, an Ann Arbor, Mich.-based autonomous ridesharing transit company, operates self-driving shuttles in locations including Ann Arbor and Grand Rapids, Mich., and even in Hiroshima, Japan."
 publishedDateTime: 2023-10-07T14:08:00Z
-originalUrl: "https://www.aol.com/may-mobility-trying-solve-self-140818157.html"
-webUrl: "https://www.aol.com/may-mobility-trying-solve-self-140818157.html"
+originalUrl: "https://www.aol.com/finance/may-mobility-trying-solve-self-140818157.html"
+webUrl: "https://www.aol.com/finance/may-mobility-trying-solve-self-140818157.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "h/BU6gfwYZHgroCcx6GajUg4fpUtq82lPeeXdlsPtLTDilxrIEnXbxtGIGtyrTkgYMy+OaBRzI6sCi11V8Le0yW9BvliWhUnLzWu0dkDs0qPUlCsZeTdj3NBPrCd/Eso03VR68M+umzYJQpTa0JlNkno0ewV8g6+Cb/zy25MW4hp9VYQPWIp/PL1pRT3VRLJnOmmHXwgxr6YcykXp+iCCBier7enl4wboO3ptMOFOOBskjgQXOH/9r4sZ8taXyQoBXTlrWcXXJj1TObIfN5U5ld/4evQ7yXNfP2zPMIeJpDsROkB3lbzWPOpHu7E1wPaH9CtXVTuXxDRRiJieXWI0PZ4b0EXIl/GjezkDFsTiww=;3muAx4mTELAJPNHtnmSX2A=="
+secured: "eNYpD1IKnb60HqO4T/EK3bVrCAYCV1UHf5dQkSkCMONUgBMs2QwyuqZuDz7Czp7wc9ZIGFyUSVgGbGMBXVdKWQyovTmJkub95IgtIglBWr6+e8laMkE5gHCFUPpP+GJ37ja1J8Wk2fqZ+u5oIm26EeDPZ4HDEZDUaMbE4IfhdT2n3PgHsHaWJ1Ahr4vmp/WJt3zThGDuOkN61iq45d05DwJplVsvVLa45+4TXqVdICPN1yif6IruytDQcd85amWlFwymTDL9lbm02HjuP3VZkojaIqd7/avqclkxWjR5zpTNbMN3ZvAoIHq3x+ccAZLubJiiP0xMeRKvpOvD3/exaB96sLG9qWTwUHL7BfWsHeE=;mpHlHGtWzHCciveRj+GQ3w=="
 ---
 

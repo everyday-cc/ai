@@ -46,6 +46,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 16
+  - title: "Scott Morrison unleashes on PM for ‘arrogance’ over Voice"
+    excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the ..."
+    publishedDateTime: 2023-10-16T23:20:00Z
+    webUrl: "https://www.couriermail.com.au/news/national/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
 
 secured: "TcOx5+3KtUORH7yYXWGK82Q3bw95Yb7JUw3zSQdJLNquoxmzrQnBXixVHta/7azN1X84AKKyztEawNGCqytYafTPoi6nkXDMM9Ly96ftazBfKDB5sTQ2O8UIKYbG/W8ECJyxA8UaKBlq7lKpx4KK2FB9bcwc502RqiWZ28Ub93MlRHHGNbC4hoDWuuxuqQmqhBSz+oROeqCw2i9TVP04+VAvMPmCjwM9V0msc/1WOrzfv9CwnQBmBFLLZ5FbH0wk2on7uxPh55Bz1cdgyKAJ2aUXUaJFikkC44MmPYH95uvm0DaY5LEvqYPm8WbuwyQebOdbJdSLxkZKfEsj6Ft9hMjCCgGKjFx3qX78PNbHIooX9McRAMHHK6WErcx1dKH8e+vYqrzAbps+2mFDcXHnr5l0CWB6BdwIZ1s965iNey/gmTmyK3pQ1RIbR6CGak6Q+MaBfqcfCkLZPd/4XxlnQ/dZRprxwrFOvASP6kgvXljRf0HGzyQxgVarPQODiOTSGFxBziQUmC823/S1jG4ZhQ==;uP+y4UCePvUPZ39dbcgTjQ=="
 ---

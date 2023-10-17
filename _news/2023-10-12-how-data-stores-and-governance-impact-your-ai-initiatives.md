@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-you
 webUrl: "https://www.ibm.com/blog/how-data-stores-and-governance-impact-your-ai-initiatives/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -38,22 +38,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 95
-  - title: "Q&A: How Discover Financial Services created an AI governance council"
-    excerpt: "Discover is exploring how it can use AI to create efficiencies, but in a heavily regulated industry, protecting sensitive customer data always comes first. Here's how the firm worked to ensure AI's safe but productive use."
-    publishedDateTime: 2023-10-12T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3708629/how-discover-financial-services-created-ai-governance-council.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708629/how-discover-financial-services-created-ai-governance-council.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708629/how-discover-financial-services-created-ai-governance-council.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_1739491604-100947060-large.jpg?auto=webp&quality=85,70"
-        width: 1199
-        height: 622
-        isCached: true
 
 secured: "EeQQTsL5D1muWMGBPEInhHNZ+PgWy4+IIiMxNaALokWSC5ZfwzYnPYJVim9oyY3x+mAWRamLU0DxDb31B8lqU+H2FboeA6dbTvUjRVL3gHv4wMksYbGS72+45EEr5Xb8R4BbqePLBruDHuRG2g3Pnj0+P7leQWb9X2AIFqzrURwiwegASZb7stbvdjaP9MMCiHqYRfXC5nm+ElREH8LFldHXZVpBnrwDo1Jt605UULJJkTuAqUzEaxN+wq7UtbT5sUJx3kLWoFF3KPaNsxs1pFOgkr1UM7mmP39Ti2kw4k59k4ob4h29rLFxsIvtoT2d7c8XJNdWKgANZ0dSD7V5bh+nhflgJRGoFoXEvLNLkkU=;SePaOgvd9ygWxKEMm8ytlg=="
 ---

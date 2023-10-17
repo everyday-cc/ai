@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Scott Morrison unleashes on PM for ‘arrogance’ over Voice"
+    excerpt: "Former prime minister Scott Morrison has criticised Anthony Albanese, claiming the failed Voice referendum has set recognition back many years. Talking to Sky News host Sharri Markson, Mr Morrison said Saturday's vote was an \"elitist indulgence by the ..."
+    publishedDateTime: 2023-10-16T23:20:00Z
+    webUrl: "https://www.couriermail.com.au/news/national/scott-morrison-unleashes-on-pm-for-arrogance-over-voice/video/5c2b8fdc73d8d6fbb7c17bfe9e4b538f"
+    type: article
+    provider:
+      name: The Courier-Mail
+      domain: couriermail.com.au
+    quality: 4
   - title: "Dutton walks back offer of a second referendum on Indigenous recognition"
     excerpt: "Opposition Leader Peter Dutton has walked back his offer to symbolically recognise Indigenous Australians in the constitution, declaring the public is “over” referendums following the Voice’s defeat."
     publishedDateTime: 2023-10-16T19:36:00Z

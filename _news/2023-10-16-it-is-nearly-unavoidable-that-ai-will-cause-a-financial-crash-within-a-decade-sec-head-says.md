@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-could-cause-financial-crash-withi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-could-cause-financial-crash-within-decade-sec-head-says-2023-10?amp"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:

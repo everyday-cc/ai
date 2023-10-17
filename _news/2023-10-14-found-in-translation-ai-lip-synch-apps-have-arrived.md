@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Generative AI-based Translation Technology from memoQ"
-    excerpt: "Q invites users to express their interest by signing up on the waitlist to try memoQ AGT, memoQ’s AI-based translation technology, with all the productivity benefits."
-    publishedDateTime: 2023-10-12T07:00:00Z
-    webUrl: "https://slator.com/generative-ai-based-translation-technology-from-memoq/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-
 secured: "BUYZRTRy5oFv2b//us6AR9pz9EgaCupvrS5qFqvKgFtYjok12yi1RKjMdtuAP+nhLPvcQ7DOc7T8nxbNVCfcSOASuHu3jLPlY+hGhCei/zMlot2Vh0nskdbkST8bnVab99wE280YLFFy/Uw+8AZ8dchgQIuasK+v4Qh1pC6xSxQiocF47glIYnl3dVUZWZKNrqqLxi2ZWAwNmGhh1wSTv/lvvum3j749PNAkIVcHkl7atyUZioNY5uvF9/VHNBes9C8ISNS9CLcJgIgGTfxFtclcP+DOqtRk75du3JvrzkQ9JPr5T9tmGDRQYYVuZox1a4rhae/LlXAyFKg4Y9n3jvDwhLmWZSuwuQPkZSKhI+dL+eSfO/x39cSrkyz0pgUgUZyLFwpUWQpawQCTgkfSgBMYfZBQsdm4u5eufLpZ6ubbQH0Ozf4NyvfMaXwUns8CUyVAeXM08bDrIroMgNPLT93IlI2sA5QUmd6WJYTs7Ns1NXNhHCWP/VlHz5IT0O1mXTTWw/zcFwB+EW89RLtP/Q==;FB7CLezn2zgNghmg4Cz8jg=="
 ---
 

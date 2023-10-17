@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/23/10/n35223515/solidrun-un
 webUrl: "https://www.benzinga.com/pressreleases/23/10/n35223515/solidrun-unveils-the-hummingboard-8p-edge-ai-sbc-with-hailo-8-ai-processor"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "SolidRun unveils Hummingboard 8P Edge AI SBC"
-    excerpt: "SolidRun, a supplier of high-performance System on Module (SOM) solutions and developer of embedded systems, has released the new Hummingboard 8P Edge AI single-board-computer (SBC)."
-    publishedDateTime: 2023-10-12T06:29:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/solidrun-unveils-hummingboard-8p-edge-ai-sbc-1"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/txhjhg4l/hummingboard-ai-back-front.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SolidRun Unveils the Hummingboard 8P Edge AI SBC with Hailo-8 AI Processor"
     excerpt: "SolidRun, a leading innovator in high-performance System on Module (SOM) solutions and developer of embedded systems, is proud to announce the release of its new Hummingboard 8P Edge AI single-board-computer (SBC)."
     publishedDateTime: 2023-10-12T17:25:00Z

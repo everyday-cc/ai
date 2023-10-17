@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Jordan’s rise cheered by political right. Could it make him speaker?"
-    excerpt: "Rep. Jim Jordan has such a reputation as a political brawler that former House Speaker John Boehner once said he’d never met someone “who spent more time tearing things apart.”"
-    publishedDateTime: 2023-10-16T20:22:00Z
-    webUrl: "https://www.limaohio.com/top-stories/2023/10/16/jordans-rise-cheered-by-political-right-could-it-make-him-speaker/"
+  - title: "GOP's Jim Jordan is shoring up support and peeling off detractors ahead of a House speaker vote"
+    excerpt: "In recognition of Jordan’s growing influence ... including Republican plans to object to the election's certification, according to call logs and testimony from Cassidy Hutchinson, an aide to Trump's chief of staff Mark Meadows. Jordan also called ..."
+    publishedDateTime: 2023-10-16T23:30:00Z
+    webUrl: "https://www.krem.com/article/news/nation-world/jim-jordan-house-speaker-election/507-3d1c8f58-3359-48b3-aadd-b03e180cf490"
+    ampWebUrl: "https://www.krem.com/amp/article/news/nation-world/jim-jordan-house-speaker-election/507-3d1c8f58-3359-48b3-aadd-b03e180cf490"
+    cdnAmpWebUrl: "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/nation-world/jim-jordan-house-speaker-election/507-3d1c8f58-3359-48b3-aadd-b03e180cf490"
     type: article
     provider:
-      name: The Lima News
-      domain: limaohio.com
-    quality: 24
+      name: KREM
+      domain: krem.com
+    quality: 32
     images:
-      - url: "https://www.limaohio.com/wp-content/uploads/2023/10/132126709_web1_AP23288820883426.jpg"
-        width: 1068
-        height: 712
+      - url: "https://media.krem.com/assets/WKYC/images/bfe5bb93-11b5-4c51-bf39-c18c3055fc87/bfe5bb93-11b5-4c51-bf39-c18c3055fc87_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Jim Jordan’s rapid rise has been cheered by Donald Trump and the far right. Could it soon make him Speaker?"
     excerpt: "Days after the election, Jordan traveled with fellow GOP Rep. Scott Perry to Pennsylvania to meet with the Republican state House Speaker, where the two congressmen “raised some questions regarding what I’ll call the legal process,” then-Speaker Bryan Cutler told investigators."

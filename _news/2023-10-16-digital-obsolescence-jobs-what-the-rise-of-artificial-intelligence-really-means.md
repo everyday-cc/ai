@@ -2,11 +2,11 @@
 category: news
 title: "‘Digital obsolescence’ & jobs: What the rise of artificial intelligence really means"
 excerpt: "The world knows, and math and analytics prove that technology advancement creates at least 50% of economic growth. I retain faith that AI will create numerous new jobs, even as it eliminates others. Here's why."
-publishedDateTime: 2023-10-16T14:46:00Z
-originalUrl: "https://wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/"
-webUrl: "https://wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/"
-ampWebUrl: "https://wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/16/digital-obsolescence-and-jobs-what-the-rise-of-artificial-intelligence-really-means/?amp=1"
+publishedDateTime: 2023-10-16T11:24:00Z
+originalUrl: "https://wraltechwire.com/2023/10/16/draft-tom-10-16-23/"
+webUrl: "https://wraltechwire.com/2023/10/16/draft-tom-10-16-23/"
+ampWebUrl: "https://wraltechwire.com/2023/10/16/draft-tom-10-16-23/?amp=1"
+cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/16/draft-tom-10-16-23/?amp=1"
 type: article
 quality: 50
 heat: 50
@@ -25,6 +25,6 @@ images:
     height: 710
     isCached: true
 
-secured: "CXM/he3YpeHE49btuN8UNlICiaw+LdhnWEtNV5HqzHLZKR44jQi5xXMqYl09hy/GBnF5wCSuHhxb+MIEPjxTlyhhJAxW8WXcFaU7cby0MbdGGktqMXFTMtXDAk9RBdUAitxm+cCSKvyHl26MPHMZYuKweS8exuHPStoXETbjV12RFkaz5zwyqsE1Dgi6QXM9w472KPoEii0BG5GAPufdkEDoz3ccmYXcke/Yt1Ms42Bi6sedYswdF8qD/48HuCG8MzguWXPqg2dCu2d8dTx8wHiogNZr781J+KvAvp1O9EowVOA3RItVHtuiclpGTWDGw74UezYsxlb6mqh/bydKn48wuwpTs2KdlbZ+swdPDDY=;oybZzConf8H1gmt8pqYkkA=="
+secured: "FstyBgHVLs1pHsNIG3sbfkSzGR6gE+tK81vtDK/AD0hqFXrQBZ4XmkmWKus6f3e+9qxoQ+wWR77ANxJ72liWqAylN2JJtLhg7zj5rHSOi+XepgfXUOFDsfI/D8VNYHBrHUa88L7ZUPSB/afDQ5F6DT+FUWFy5SOLic2lEmKdY/eNWDpsx/4CrU98nuk81XiMwkvaEaMx5WkJhoHSUIuDpRSWOncLazdmJ2m0dvVNBb0lhIW5RI5zjJbkknmXXkmmBBBGPpRiRDtLhPA82U7TDVEUvhmuoX1aRiJKZkdH/PFXemOQcJfzwTsVrXRMd2/Qmk9FFqDxYKprHhDK445+HT8ah6/rssHq3XbICRvb1Tw=;/SfL1iszm3SWcS7HHKYjJw=="
 ---
 

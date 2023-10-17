@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-new-york-cit
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -31,6 +31,24 @@ images:
     height: 512
     isCached: true
 
-secured: "nYvCNk8wCX6Ex+QlAurr3fLwrgQEpM1hFdNuycgD9okPZgTqstWHKRqW9YkYOhephWRkIoWR1+92Irdu9O5y7IF33VdknCT2jzJZ62Vh7Cl5oJ1QxLp8vUNF0D7kQFI6VSwNKmt0gVMp4rhqeaVvd+f76jTP7PM8MoKdI1XDwFjahiDsZAITfi8UKegtjCIynPkV85EXovW4AOj++6cXw80bxHk2OeswjflynQYA8yRq/LCipxTdz59CNTBZwL9rr+TiP9OFGcoBoC2NtW+R7xKQKfY9fU4sReH9OC8OMMcct0E6wiOo4VUOHWCiO5kq9crLtzUK26tFdRAyzzmkURMfdWk/Gnovo0MklywCMlc=;6pDmNa9pt6mHxh/KvQ7xfA=="
+related:
+  - title: "New York City plans to use artificial intelligence to improve access city services"
+    excerpt: "New York City to use artificial intelligence to help people access city services 02:34 Now he's moving on to the next step in making the city the most technologically advanced government in the nation. \"Our city had a real 8-track mindset in an iPhone age ..."
+    publishedDateTime: 2023-10-16T23:01:00Z
+    webUrl: "https://www.cbsnews.com/newyork/news/new-york-city-to-use-artificial-intelligence-help-new-yorkers-access-city-services/"
+    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/new-york-city-to-use-artificial-intelligence-help-new-yorkers-access-city-services/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/new-york-city-to-use-artificial-intelligence-help-new-yorkers-access-city-services/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 51
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/16/8b163f6f-428b-4519-ac8e-7bd86a821beb/thumbnail/1200x630/238d9578aed5a070c80fd3813f07e185/kramer-6p-pkg-adams-tec-wcbs86di-hi-res-still.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "y7AL4jQ9tDeDDiufOg3IXU3tlQvuMFsYtfW/Wpb/gSy3VgRXhRh8iI5wuVlfUi+Sz8TmNupv2z7U49ZtpUATs35Iv045YGontlPdLQCbbJXU/sLig/+EzlIzvZIFECV0y92IjqgJHxA6+dI0nHrj8+nROSdp/n44waz5A0JnvwP07TCMcY8d92e7dUarQlrrPxw3Eu1O5VHvGf0+aQYq5EaDHODqJP68kVs6pr64GnZ0P0o53EYLlbX0u2ua0L2CCgt/ePVsVfCmU/ZnX6V1rEnXRkvDpYPRb535MhcwWccuou8iNUsxwOrPomU+PEEpXlfhAYPLbsJXENIBSytHApNKCInbPrg5gV0UFyg0jCfIo0B9gBXGdDPDQclPF8s66eIWq0e1mbenbvrYxE6y4EYbhnfWy5QWwVmTDpZ+78ot0g670OdG+hTO4jJhgL09f1qLxWG9CeVH1151ZBOWZepIBbcVdLsrki9Wt2M7D+6hSrWUUGz8RtPk5GvMg1NDFunG18AWn7HmCnb8vXnyOA==;KIjg/VpqE91tY9NlPCngdA=="
 ---
 

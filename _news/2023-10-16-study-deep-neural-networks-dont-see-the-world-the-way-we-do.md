@@ -26,6 +26,17 @@ images:
     height: 859
     isCached: true
 
+related:
+  - title: "Deep neural networks don't see the world the way we do"
+    excerpt: "This approach was originally developed to combat another limitation of object recognition models, which is that introducing tiny, almost imperceptible changes to an image can cause the model to misrecognize it. The researchers found that adversarial ..."
+    publishedDateTime: 2023-10-16T22:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231016122902.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+
 secured: "DhzEQ2fEtqyjOmwTI9Bes9KBG6HGJeRzqvsq/Y7b0bEK70ueMXq5Ryfq+UIEbhORwEWc0uCbGctMLL5+pkQA0vPimRr6ClSr8d7zr4aHS6z7ajnQnzf4U95PuXeHFpPHkYik/4ZLCzU8jAtRxZZ3lBizNORMURmt0uf4Z/KAnhoa8BuMzenZxM/q4lIazQv7/mQgxKRp29qeyy8KRSjhl9TzYuE6XGC6s077fJbvz/7I9FXDXRcIF/GiyaFOSZ11YVsAX5/nYZcXK/2pWL4ulAashgzmyIlr9TWPNs+lhnVg2Pmm54/rPr7dNpNGhFkIPHkmJI9imOW5peLQAKgjuefn9+84mBQEmus7DHtokLE8eip8G2tZJ+9RKbJmrSGGag32QM1RLrGuaP8H3Ujey71OlKsCZdO+G9ms4KKBPF5/ORExqrfco36MxgB8PbJGuZ9AjKrhOSzdjHyor3f6YQPhg3QSCqDeHNR+Tf2oVZ+ldV5Ze+oszXZNfr0tmD1UjDrYqi8Z25HKHb2xcjqkpw==;IxubJsjo3xOTAapwx/R7Qg=="
 ---
 
