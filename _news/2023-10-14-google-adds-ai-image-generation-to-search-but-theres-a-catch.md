@@ -44,6 +44,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
+    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
+    publishedDateTime: 2023-10-17T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 900
+        height: 900
+        isCached: true
   - title: "Google finally adds AI text-to-image generation, but it's not where you think"
     excerpt: "Although Google is not new to AI image generation, announcing its own Imagen text-to-image model as early as March 2022, it has yet to release an image-generator to the public -- until now."
     publishedDateTime: 2023-10-13T16:27:00Z

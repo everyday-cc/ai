@@ -41,20 +41,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "OpenAI considering designing its own AI chips"
-    excerpt: "OpenAI, is reportedly considering the development of custom AI chips to address its ongoing struggle with GPU supply. Microsoft Athena AI"
-    publishedDateTime: 2023-10-13T05:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
-        width: 700
-        height: 465
-        isCached: true
 
 secured: "bD+HoPH5t0XjttvfFE7sh8sI6+zyl/EPv1gpHn3oGBaZkKBwhh6GQQk4q0xGEtDmM2uu4i40GmGemZ3L6OT2S4vP+E5MIshjL8nIUiX1tg0Zx3lps3oM6wthx5WFKaMRzqptscrHSfmAQaU/OnkRdmNOiyIAieAX8k02dS0+aGZcNoDlgH1/DnP5yJ0S5276jhvygDA3QZx7wYY0BmvP6qNWpbEwJrG9sziZGl/52k9tueNx5kMJlbVSfa5Sba62HNaKAs2SoByfGJ/nV2g/sCjg+O7lsgcPfg+nhXULpGl6I+l/yK5UcX3yk1+iNTuKDvqeAz/Mabhu9STvctj2Uv914hB/8GetmZ0PiHVryvE=;Qb7jIlZ19VLlVh2IA+iXQA=="
 ---

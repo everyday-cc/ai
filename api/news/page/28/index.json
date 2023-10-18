@@ -2,6 +2,238 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2023-09-26-llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find.md",
+      "title": "LLMs are surprisingly great at compressing images and audio, DeepMind researchers find",
+      "excerpt": "Despite being primarily trained on text, these models achieved remarkable compression rates on image and audio data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find/",
+      "originalUrl": "https://venturebeat.com/ai/llms-are-surprisingly-great-at-compressing-images-and-audio-deepmind-researchers-find/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_hydraulic_press_compresses_glowing_data_285eb276-fc95-4980-ba9f-750d354a3bad.png?w=1200&strip=all",
+          "width": 835,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-chatgpt-update-enables-its-ai-to-see-hear-and-speak-according-to-openai.md",
+      "title": "ChatGPT update enables its AI to “see, hear, and speak,“ according to OpenAI",
+      "excerpt": "when paired with its existing speech recognition features, will enable fully verbal conversations with the AI assistant, OpenAI says. OpenAI is planning to roll out these features in ChatGPT to ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/cyber_eyeball_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/chatgpt-goes-multimodal-with-image-recognition-and-speech-synthesis/amp/",
+      "publishedDateTime": "2023-09-25T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-fintech-trends-that-are-shaping-modern-finance-services.md",
+      "title": "Fintech Trends That Are Shaping Modern Finance Services",
+      "excerpt": "The fintech industry continues to evolve as many processes become increasingly digital. Each year, companies offer new solutions that transform many financial services, making them more secure and client-focused.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
+      "originalUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/09/pexels-ivan-samkov-7621142-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-amazon-is-investing-up-to-4-billion-in-ai-startup-anthropic-in-growing-tech-battle.md",
+      "title": "Amazon is investing up to $4 billion in AI startup Anthropic in growing tech battle",
+      "excerpt": "followed by another multibillion-dollar investment at the start of year. Amazon has been rolling out new services to keep up with the AI arms race, including an update for its popular assistant ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.abcnewsfe.com/a/3508f6a4-5e86-463c-8575-0878c74e7be2/wirestory_72d21e6c663d506dbf968f50628e7ded_16x9.jpg?w=992",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/US/wireStory/amazon-investing-4-billion-ai-startup-anthropic-growing-103459166",
+      "publishedDateTime": "2023-09-25T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance.md",
+      "title": "AWS at DTW23: Generative AI to Transform Telco CX, Network Operations and Business Performance",
+      "excerpt": "Amazon Web Services (AWS), a global cloud computing provider, showcased it's suite of solutions for the telecoms industry at DTW23's AWS Next Level balcony",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
+      "originalUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/1deb0eeb092a613d579a5b63b078edfa.jpg?t=20230926_033003",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T20:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-deep-learning-revolutionizes-ultra-low-field-brain-mri-for-quicker-clearer-scans.md",
       "title": "Deep learning revolutionizes ultra-low-field brain MRI for quicker, clearer scans",
       "excerpt": "Researchers develop a deep learning framework to accelerate ultra-low-field brain MRI, achieving faster scan times and enhanced image quality. The method shows promise in making MRI more accessible and reliable,",
@@ -861,221 +1093,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-to-2031.md",
-      "title": "Artificial Intelligence for Healthcare Applications Market Recent Trends | Global Forecast From 2024 To 2031",
-      "excerpt": "Global 116 Pages Updated Report of \"Artificial Intelligence for Healthcare Applications Market\" report also encompasses investment analysis and trend analysis of |Information Technology| category ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34870275/artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34870275/artificial-intelligence-for-healthcare-applications-market-recent-trends-global-forecast-from-2024-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34870275",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34870275",
-      "publishedDateTime": "2023-09-25T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-china-set-to-become-worldwide-leader-in-automated-driving-market-volume-by-2035.md",
-      "title": "China set to become worldwide leader in automated driving market volume by 2035",
-      "excerpt": "Amid a more tepid global outlook for autonomy, Chinese companies are emerging with the necessary formula to lead the world in market volume, according to S&P Global Mobility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/china-leads-markets-robotaxis-and-assisted-driving-systems",
-      "originalUrl": "https://www.autonews.com/mobility-report/china-leads-markets-robotaxis-and-assisted-driving-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-facial-recognition-technology-jailed-a-man-for-days-his-lawsuit-joins-others-from-black-plaintiffs.md",
-      "title": "Facial recognition technology jailed a man for days. His lawsuit joins others from Black plaintiffs",
-      "excerpt": "A Georgia man says authorities wrongly arrested him based on a match generated by facial recognition technology ATLANTA -- Randal Quran Reid was driving to his mother's home the day after ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "originalUrl": "https://abcnews.go.com/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_b613161c56472459df683f54320d08a7_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/facial-recognition-technology-jailed-man-days-lawsuit-joins-103456041",
-      "publishedDateTime": "2023-09-25T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-chatgpt-is-growing-eyes-and-ears-to-better-respond-to-your-human-whims.md",
-      "title": "ChatGPT Is Growing Eyes and Ears to Better Respond to Your Human Whims",
-      "excerpt": "We may earn a commission from links on this page. On Monday, ChatGPT-maker OpenAI announced it was starting to roll out voice and image recognition in ChatGPT. Essentially, the AI can recognize a ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977",
-      "originalUrl": "https://gizmodo.com/chatgpt-gains-the-ability-to-see-hear-and-speak-1850869977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9a67c4ba6c27a4e503c8bb8c35755246.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-ai-race-gets-hotter-as-amazon-to-invest-up-to-4b-in-startup-anthropic.md",
-      "title": "AI Race Gets Hotter As Amazon To Invest Up To $4B In Startup Anthropic",
-      "excerpt": "Amazon has agreed to invest up to $4 billion in AI startup Anthropic. The new investment gives the Seattle-based e-commerce and cloud titan a minority stake in the ChatGPT rival.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/ai-robotics/amzn-investment-startup-anthropic/",
-      "originalUrl": "https://news.crunchbase.com/ai-robotics/amzn-investment-startup-anthropic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.crunchbase.com/wp-content/uploads/Money_Scan.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

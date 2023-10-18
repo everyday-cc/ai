@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3708734/making-sure-open-source-do
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708734/making-sure-open-source-doesn-t-fail-ai.amp.html"
 type: article
 quality: 87
-heat: 108
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI considering designing its own AI chips"
-    excerpt: "OpenAI, is reportedly considering the development of custom AI chips to address its ongoing struggle with GPU supply. Microsoft Athena AI"
-    publishedDateTime: 2023-10-13T05:36:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-ai-chips/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/OpenAI-considering-designing-its-own-AI-chips.jpg"
-        width: 700
-        height: 465
-        isCached: true
   - title: "Azure OpenAI Service enhances AI models with fine-tuning capabilities"
     excerpt: "The recent update on the Azure OpenAI Service has introduced fine-tuning capabilities for several models, including GPT-3.5-Turbo, Babbage-002, and"
     publishedDateTime: 2023-10-17T15:23:00Z

@@ -46,6 +46,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
+    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
+    publishedDateTime: 2023-10-17T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 900
+        height: 900
+        isCached: true
   - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
     excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
     publishedDateTime: 2023-10-16T17:45:00Z

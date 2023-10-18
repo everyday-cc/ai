@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-18-updated-chip-restrictions-help-unify-ai-hype-and-china-hawkishness.md",
+      "title": "Updated Chip Restrictions Help Unify AI Hype And China Hawkishness",
+      "excerpt": "Earlier today, the Commerce Department’s Bureau of Industry and Security (BIS) released rules updating last year’s chip controls targeting China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652f1401acdb374749a42d38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/",
+      "publishedDateTime": "2023-10-17T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-dont-panic-but-gpu-prices-are-starting-to-rise-again.md",
       "title": "Don’t panic, but GPU prices are starting to rise again",
       "excerpt": "Is the rising price of Nvidia’s RTX 4090 an indication of trouble for the GPU market? Most likely not. The RTX 4090 is the only card of its kind and the best choice for those who want to ride the wave of the current AI boom. Other GPUs like the RTX 4080 ...",
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 554,
+      "heat": 544,
       "tags": null,
       "images": [
         {
@@ -1359,58 +1411,6 @@
         "name": "The Korea Times",
         "domain": "koreatimes.co.kr",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-us-poised-to-tighten-restrictions-on-chip-equipment-exports-to-china.md",
-      "title": "US poised to tighten restrictions on chip equipment exports to China",
-      "excerpt": "A rule aimed at restricting exports of U.S. chipmaking equipment to China is in the final stages of review, suggesting the Biden administration is tightening restrictions on Beijing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china",
-      "originalUrl": "https://www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5ff1dabb-f8ec-406c-972e-29251d2057db/f3ac9eb9-6f96-4c13-8122-59dfc62ad99a/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-poised-tighten-restrictions-chip-equipment-exports-china.amp",
-      "publishedDateTime": "2023-10-05T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

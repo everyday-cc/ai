@@ -49,17 +49,17 @@ related:
         height: 622
         isCached: true
   - title: "New Era Of Artificial Intelligence (AI) Grips World's Imagination As GITEX Global 2023 Enters 2Nd Day"
-    excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al"
+    excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Mini"
     publishedDateTime: 2023-10-17T17:27:00Z
-    webUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+    webUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 41
+    quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
-        width: 374
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?99704"
+        width: 375
         height: 250
         isCached: true
   - title: "New Era of AI Grips World's Imagination as GITEX GLOBAL 2023 Enters 2nd Day"

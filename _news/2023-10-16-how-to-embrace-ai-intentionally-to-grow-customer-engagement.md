@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

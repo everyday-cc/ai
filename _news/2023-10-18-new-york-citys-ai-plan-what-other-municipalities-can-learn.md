@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages"
-    excerpt: "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak"
-    publishedDateTime: 2023-10-17T17:26:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 44
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_30517885466994e5f1f54745c08691e0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "UK workers turn to AI seeking better work-life balance"
     excerpt: "Staff are increasingly turning to artificial intelligence to free up more time away from work, research shows."
     publishedDateTime: 2023-10-17T03:51:00Z
@@ -92,6 +76,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages"
+    excerpt: "- New York City Mayor Eric Adams speaks in New York's Times Square during a news conference, Dec. 30, 2022. Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn't actually speak,"
+    publishedDateTime: 2023-10-17T23:23:00Z
+    webUrl: "https://www.seattlepi.com/news/politics/article/can-new-york-s-mayor-speak-mandarin-no-but-with-18431217.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 6
 
 secured: "8W8BxyYUa5zmG8CjMVsFMmTMCDygtFvxM3xL1IZxDIdMBpw00Z7eAi3Lubec3OhWrL9SX6WYDGiHKQJMg1Bd6WRFpswq4eDKlOguFwqJ1vdEA5u+/YuW/DFj3cEnIeSrpQ/+BjXXIBolI1VFazWyBhFtBU35F6Fc82TDkk6H28Z4n4GJXihozULFixPNQal29vhJ3cJBAZvMIA72v4iAphJPrX4uqvEP6w3EPjbRxRa6+HtVkKHOl60jmp0N2amPdbsvO5MgfaL/09MJ7WWX1Ptf9ynnz7jUHl9yJfbOiKz+exEmnPmFwTNozJmwkTFCJtoa7KccwcH8J8dnvZ/JN86TBKU7U6nl/cwJWpTJzFI=;1V7P0JZd8iTK5YvIGm3NMQ=="
 ---

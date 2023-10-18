@@ -253,20 +253,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
-    excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"
-    publishedDateTime: 2023-10-13T06:56:00Z
-    webUrl: "https://www.inferse.com/751999/supercharge-brand-content-with-the-typeface-ai-app-for-microsoft-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 50
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-7711.png"
-        width: 1091
-        height: 618
-        isCached: true
   - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
     excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"
     publishedDateTime: 2023-10-16T15:18:00Z

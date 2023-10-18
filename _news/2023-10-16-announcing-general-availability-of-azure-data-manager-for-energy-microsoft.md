@@ -260,20 +260,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Supercharge brand content with the Typeface AI app for Microsoft … – Microsoft"
-    excerpt: "We are just starting to scratch the surface of what generative AI can do, and yet it’s already beginning to transform the marketing industry. An April 2023"
-    publishedDateTime: 2023-10-13T06:56:00Z
-    webUrl: "https://www.inferse.com/751999/supercharge-brand-content-with-the-typeface-ai-app-for-microsoft-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 50
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-7711.png"
-        width: 1091
-        height: 618
-        isCached: true
   - title: "AI Explained – Stories – Microsoft"
     excerpt: "Microsoft News Center AI basics Large AI Models Researchers at Microsoft and elsewhere are making progress on developing large AI systems that"
     publishedDateTime: 2023-10-16T21:54:00Z

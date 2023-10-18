@@ -64,6 +64,20 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "Federal regulators launch probe into Cruise self-driving cars"
+    excerpt: "Federal regulators on Tuesday opened an investigation into Cruise's autonomous vehicles following a string of injury crashes in The City."
+    publishedDateTime: 2023-10-17T22:45:00Z
+    webUrl: "https://www.sfexaminer.com/news/transit/cruise-car-accidents-in-sf-prompt-federal-investigation/article_f5672636-6d34-11ee-9d8f-1fa3c94a9f98.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/e/50/e50ca186-6d42-11ee-a10e-13f9c2d43abd/652f15494d4d5.image.jpg?crop=1500%2C788%2C0%2C81&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving cars investigated after two accidents"
     excerpt: "(Web Desk) - About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
     publishedDateTime: 2023-10-17T21:49:00Z

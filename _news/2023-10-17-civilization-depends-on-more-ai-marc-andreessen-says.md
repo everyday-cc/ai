@@ -7,7 +7,7 @@ originalUrl: "https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-tech
 webUrl: "https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-techno-optimist"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI Hardware
   - AI
   - AI Ethics
+
+related:
+  - title: "Andreessen warns any AI ‘deceleration’ will ‘cost lives’"
+    excerpt: "Silicon Valley venture capitalist Marc Andreessen warned “deceleration” of artificial intelligence (AI) development could “cost lives” Monday. “We believe any deceleration of AI will cost lives,” Andreessen said on a web page titled “The Techno-Optimist Manifesto” on the Andreessen Horowitz website."
+    publishedDateTime: 2023-10-17T23:35:00Z
+    webUrl: "https://www.aol.com/news/andreessen-warns-ai-deceleration-cost-203556242.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/b17eadc56101835e5f35c1c286ab2b3d"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "SNWfJxaYky7Ned+TeLcenUt2SfoRq7i40jUStZ6y8gW1+nO4uslTUN9E/5gmu9oFOjAee4Iec6Uqnb0rrR1CX1bYhNE2DnP9QupIaTZDtnnCKIOrx0NgF9fxcEdfooO/M9sT6340tnKY9CqzZrkvGvg9ObeZ84lb2VC+9csmY7KRblhi3v/WQl6mw4IrK+qOfinOMV6sPB0plaZVAfkTorYNVszsH8csftjaxa6rg5r+Fa2kueXpfkLZ6lRK4hk+PhPQqLOkdwV5KcJJA1kKh6p7t+sSFtTu6QbZJteCZJOJFOFFiqz1RTuEP2KCMS8TkNZydrsch+hLBeLNhptShvQ3C1pfmC7GZhL1jlelASI=;Vv7Vxs8O2kf5cKVnCV58Zw=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-16-uh-oh-now-ai-is-better-than-you-at-prompt-engineering.md",
+      "title": "Uh oh, now AI is better than you at prompt engineering",
+      "excerpt": "As they put it, \"Each optimization step in our work generates new prompts that aim to increase the test accuracy based on a trajectory of previously generated prompts, instead of editing one input prompt according to natural language feedback or requiring the new prompt to follow the same semantic meaning.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/",
+      "originalUrl": "https://www.zdnet.com/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/49e319eaf42408acb4fced89e8a5fdb0acb93884/2023/09/15/b313851f-5b91-46c9-b4f0-fc038679dd77/932743-a-computer-keyboard-as-big-as-a-football-field-wit-xl-1024-v1-0.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/uh-oh-now-ai-is-better-than-you-at-prompt-engineering/",
+      "publishedDateTime": "2023-09-15T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-data-commons-is-using-ai-to-make-the-worlds-public-data-more-accessible-and-helpful.md",
       "title": "Data Commons is using AI to make the world’s public data more accessible and helpful",
       "excerpt": "A look at Data Commons, Google’s initiative to make publicly available data more useful for people working on solutions to societal challenges.",
@@ -1383,58 +1435,6 @@
       "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
       "publishedDateTime": "2023-08-17T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-google-deepmind-testing-personal-life-coach-ai-tool.md",
-      "title": "Google DeepMind testing ‘personal life coach’ AI tool",
-      "excerpt": "AI experts cite ethical concerns over relationships humans may develop with such chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
-      "originalUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
-      "publishedDateTime": "2023-08-17T09:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",

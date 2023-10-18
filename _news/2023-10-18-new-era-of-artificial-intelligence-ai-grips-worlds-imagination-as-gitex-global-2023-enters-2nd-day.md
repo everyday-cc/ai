@@ -1,12 +1,12 @@
 ---
 category: news
 title: "New Era Of Artificial Intelligence (AI) Grips World's Imagination As GITEX Global 2023 Enters 2Nd Day"
-excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al"
+excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Mini"
 publishedDateTime: 2023-10-17T17:27:00Z
-originalUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
-webUrl: "https://menafn.com/1107258220/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+originalUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+webUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
@@ -17,11 +17,10 @@ provider:
 topics:
   - AI in Autos
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
-    width: 374
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?99704"
+    width: 375
     height: 250
     isCached: true
 
@@ -80,6 +79,6 @@ related:
       domain: menafn.com
     quality: 17
 
-secured: "o1ZcLlCNYglHW3r00GOKmy+zjSWN6s47bi0v6vkfgzwTjfw360wyene02gHkJ6Sl4PtyQyzfoNceEEsiEJdxjDHhegCjYrk/JbJU42kWvkXqu98Zv4OUfoM7dM0cUHSPNlClGpMjZri/iq2pgSnlqptKwafyOIPiI06ckbVPZOs+LqZ+aiGoaXVkOWl+Lp15ljbmL1oB5d5HES4i1by3ZYLMvAcNn1x0R1tkPGXCWDjOguhql1JOpdZhy+sYTRSCbXrfAUP2GJiRDVkZLJyzchuEg3dGpVAMazEfyjTU25ST5L+Zg8mq5vNJHyxBw6K3+z3vnisSJkauGiwwnPqi9nNq6Vq+AxiSsCmPNGco23g=;uVovAByjNkicMyH2MJFRFQ=="
+secured: "ztdhR/uJwCqGkQR0gxSL6NRI1dD4NlltoZ0x1RjbcNQmftr52AIRSyyUmnnDXYbyXP0me3CKB2tqge2FTy1rZN8UFnG6F0Y06Tt0vcYdtJ8tcfUv7uJbt79UYYNZb7JXvs/P2CksYXknLbaBPuHh6SS9wbLeRairUO3bVLZbUOHrl/hELD1NHa2VaGY+IVZ8zqFMzYvjBPmcw9jKwyHjHLD7ODFgsGggoYEUylLAMUfBlVhgItpt9JbZaRU9nUZuKvjfs7Mx1N3ryUinN0Y5qg5mUcHijd7BSUDxb+UURWqIVFqCijmthp6SjFpv6GaBkrQ5wYCG5L+a7ukQ4VgrSTqc7SkAF4k7QRF9u0DqZio=;UseIpipAKs/DRqzhkyKwkg=="
 ---
 

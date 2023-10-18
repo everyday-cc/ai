@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/3-reasons-why-business-and-data-analysts-
 webUrl: "https://www.ibm.com/blog/3-reasons-why-business-and-data-analysts-need-to-work-with-real-time-events/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:

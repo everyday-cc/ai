@@ -74,6 +74,15 @@ related:
       name: Arab Times
       domain: arabtimesonline.com
     quality: 36
+  - title: "Watch Out – Driverless Cars Are No Place To Relax"
+    excerpt: "Early data on activities that will be unsafe to undertake in automated vehicles has been released. From doing work to watching the world, from social media to resting – preliminary results are in. A s"
+    publishedDateTime: 2023-10-15T12:19:00Z
+    webUrl: "https://scitechdaily.com/watch-out-driverless-cars-are-no-place-to-relax/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 19
 
 secured: "0sjbj1jddSaUgqStFIMPKjhgJuxYYnv8+4LAbWQTZ8NdXrmpxUAQFh8AwtZitvLQSjczteUnGGf8GgPWnAu7rKhqGolNJ43hn6dz5W3ZMSfwWbcD4siUE2g9Y/sxgVlB3DPfVYlwuwXmUkGiFgBoZApOdooe/l8edgI3BIJKuTKt2FHy6juevhy37khzJcCzL8ElUBsFL1SHRlSUG+CfAiJ5/pwmpLrmbTN6GkOdFsDeOc9shcMKghAuIftfHvDanVbIJKiEXdXjr5Fc02mT4/lcm5yTA3H2yGP6BlJcDeb7d3JtDaqT6xWYfON/+ExgkRWXQLgg5wBvCa5kRuEW1OGEdQ2ERdxbJAtGBqXbkQBBS/3qjrgY5edTJMdWUQGYv7NJ3/EX+997DgL3OSfx0vFCayvAK/CyFyNT+1ZAUZUyGstBprUp585UhDgSfnESzUwp6pplLaApPOJ9Smf61Tmcf2g7lvL6XHr4B3FTDnXZVn+fL3LpdTA/b/aCVNZ1u4zdpVKm7Gp/6Dn+LOWPTw==;nqtmIML3luFGtgyymc0BKA=="
 ---

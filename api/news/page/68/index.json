@@ -2,6 +2,256 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-08-30-yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails.md",
+      "title": "Yahoo Mail adds AI to help you write and search for emails",
+      "excerpt": "The new AI can compose email drafts, assist you with searches, summarize incoming messages, and even find unused gift cards and discount codes among your emails.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails/",
+      "originalUrl": "https://www.zdnet.com/article/yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/18b6aa87601875a8dc0ee14f7c243be7b9cd384a/2023/08/29/da068dfc-cd3c-4af3-a853-910a4b197f34/yahoo-gettyimages-1175965954.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/yahoo-mail-adds-ai-to-help-you-write-and-search-for-emails/",
+      "publishedDateTime": "2023-08-29T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-a-disturbing-ai-phenomenon-could-completely-upend-the-internet-as-we-know-it.md",
+      "title": "A disturbing AI phenomenon could completely upend the internet as we know it",
+      "excerpt": "Researchers are worried that the deluge of AI content on the internet could throw is into the \"dark ages of public information.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8",
+      "originalUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64ee4af326dda200194d39e9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-model-collapse-threatens-to-break-internet-2023-8?amp",
+      "publishedDateTime": "2023-08-29T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-self-driving-cars-are-booming-in-san-francisco-is-it-really-a-loss-for-boston.md",
+      "title": "Self-driving cars are booming in San Francisco. Is it really a loss for Boston?",
+      "excerpt": "“They’re flooding the streets now,” McCuan said. She figures every fifth car she sees in San Francisco lately is self-driving. It’s quite different here in Boston. Waymo autonomous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2023/08/29/business/san-francisco-vs-boston-self-driving-cars/",
+      "originalUrl": "https://www.bostonglobe.com/2023/08/29/business/san-francisco-vs-boston-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/IXrHFemj_ODoBVw6-nPcvYAth68=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/DCI2Q7ASH6CPFIJBGIFD5KDSGA.jpg",
+          "width": 506,
+          "height": 322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-microsoft-officially-adds-bing-ai-chatbot-to-google-chrome.md",
+      "title": "Microsoft officially adds Bing AI chatbot to Google Chrome",
+      "excerpt": "Those of you who want to take Microsoft's Bing AI for a spin are no longer restricted to trying it in the Edge browser or the Bing mobile app. On Friday, Microsoft announced that the Bing Chat tools for individuals and enterprises are now officially available in the Google Chrome browser.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3ca57d3c4451be567909fd0dc6f1251ab149b621/2023/08/29/d522b23c-3b57-449e-9637-ae9d1d856ced/colors-gettyimages-161098253.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-officially-adds-bing-ai-chatbot-to-google-chrome/",
+      "publishedDateTime": "2023-08-29T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers.md",
+      "title": "TechCrunch+ Roundup: SaaS+ basics, Labor Day book picks, building trust with AI customers",
+      "excerpt": "Eight decades later, we’re once again rushing into a new technological era without first creating a framework for ethics, safety, trust, or a thousand other considerations. Since there are no industry standards or government agencies guiding AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/",
+      "originalUrl": "https://techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1565502025.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/29/techcrunch-roundup-saas-basics-labor-day-book-picks-building-trust-with-ai-customers/amp/",
+      "publishedDateTime": "2023-08-29T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-alphabet-moonshots-are-ready-for-launch.md",
       "title": "Alphabet moonshots are ready for launch",
       "excerpt": "Alphabet is poised to welcome the autumn harvest. Ruth Porat, the web search giant’s chief financial officer and a former technology investment banker at Morgan Stanley , will move into a new role next month that includes overseeing “other bets,",
@@ -946,229 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.md",
-      "title": "Microsoft, Amazon go head-to-head on genAI in the cloud — here’s who’ll win",
-      "excerpt": "Microsoft has a suite of AI cloud tools called Azure AI that allow companies to use their own data for AI and build their own machine-learning tools. Many companies, including the NBA, CarMax, H&R Block, and others, are already doing it. Even though we ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
-      "originalUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/01/rock-em-sock-em-robots_fight_battle_ai_csa-images_getty-100786545-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3705550/microsoft-amazon-go-head-to-head-on-genai-in-the-cloud-heres-wholl-win.amp.html",
-      "publishedDateTime": "2023-08-29T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-uncover-asias-fintech-pulse-with-5-reports-and-whitepapers.md",
-      "title": "Uncover Asia’s Fintech Pulse with 5 Reports and Whitepapers",
-      "excerpt": "Unlock strategic insights from leading fintech whitepapers for navigating disruptive trends and ensuring future financial resilience.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechnews.sg/77655/sponsoredpost/uncover-asias-fintech-pulse-with-5-reports-and-whitepapers/",
-      "originalUrl": "https://fintechnews.sg/77655/sponsoredpost/uncover-asias-fintech-pulse-with-5-reports-and-whitepapers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2023/08/Top-5-White-Papers-and-Reports.png?x97917",
-          "width": 1024,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fintech Singapore",
-        "domain": "fintechnews.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-celebrity-clone-startup-led-by-veteran-entrepreneurs-uses-ai-for-1-on-1-human-like-conversations.md",
-      "title": "Celebrity clone startup led by veteran entrepreneurs uses AI for 1-on-1 ‘human-like conversations’",
-      "excerpt": "This special series explores the evolving relationship between humans and machines, examining the ways that robots ... startup leaders with roots in Seattle, is rolling out a library of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/celebrity-clone-startup-led-by-veteran-entrepreneurs-uses-ai-for-1-on-1-human-like-conversations/",
-      "originalUrl": "https://www.geekwire.com/2023/celebrity-clone-startup-led-by-veteran-entrepreneurs-uses-ai-for-1-on-1-human-like-conversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/Untitled-design.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment.md",
-      "title": "LTIMindtree partners CAST AI to help businesses optimise cloud investment",
-      "excerpt": "The collaboration between LTIMindtree and CAST AI will strengthen the value proposition and help the organisations align their cloud usage strategies and achieve continuous cost savings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/",
-      "originalUrl": "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/1-250.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/defence-ltimindtree-partners-cast-ai-to-help-businesses-optimise-cloud-investment-3225967/lite/",
-      "publishedDateTime": "2023-08-28T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month.md",
-      "title": "Elon Musk, Mark Zuckerberg, Sundar Pichai to attend event on Artificial intelligence next month",
-      "excerpt": "US Senate Majority leader Chuck Schumer will host major tech leaders like Tesla CEO Elon Musk, Meta CEO Mark Zuckerberg, Alphabet CEO Sundar Pichai on September 13 for an artificial intelligence forum.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month-11693273253350.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month-11693273253350.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/08/29/600x338/TESLA-MUSK-SEC-0_1693287616853_1693287667704.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month/amp-11693273253350.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/elon-musk-mark-zuckerberg-sundar-pichai-to-attend-event-on-artificial-intelligence-next-month/amp-11693273253350.html",
-      "publishedDateTime": "2023-08-28T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

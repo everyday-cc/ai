@@ -2,6 +2,231 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-08-03-abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-departments-to-meet-surging-global-demand.md",
+      "title": "Abu Dhabi's artificial intelligence university establishes dedicated robotics and computer science departments to meet surging global demand",
+      "excerpt": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has established two new departments and four associated graduate programs dedicated to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/g33550168/abu-dhabis-artificial-intelligence-university-establishes-dedicated-robotics-and-computer-science-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33550168",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33550168",
+      "publishedDateTime": "2023-08-03T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-23b-loan.md",
+      "title": "CoreWeave, which provides cloud infrastructure for AI training, secures $2.3B loan",
+      "excerpt": "As organizations rush to embrace AI, it’s putting the cloud — or clouds, rather — under strain. Amazon Web Services, Microsoft, Google and Oracle, facing an unprecedented spike in demand for the server chips that train and run AI-powered software ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
+      "originalUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/07/tengyart-hR4JiEOZMS8-unsplash.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/coreweave-which-provides-cloud-infrastructure-for-ai-training-secures-2-3b-loan/amp/",
+      "publishedDateTime": "2023-08-03T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-the-ethical-and-legal-considerations-of-influencer-marketing-and-ai-photo-editing-tools.md",
+      "title": "The Ethical And Legal Considerations Of Influencer Marketing And AI Photo-Editing Tools",
+      "excerpt": "As AI continues to shape the digital landscape, social media influencers must balance leveraging its capabilities for creative expression and ensuring ethical practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach.md",
+      "title": "Streamlining compliance with IBM Cloud Infrastructure as Code and a shift-left approach",
+      "excerpt": "How IBM Cloud's IaC and shift-left compliance practices can help organizations enhance their cloud infrastructure and maintain a strong focus on compliance.\nThe post Streamlining compliance with IBM Cloud Infrastructure as Code and a shift-left approach appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach/",
+      "originalUrl": "https://www.ibm.com/blog/streamlining-compliance-with-ibm-cloud-infrastructure-as-code-and-a-shift-left-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T06:10:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-three-essential-steps-to-protecting-your-data-across-the-hybrid-cloud.md",
+      "title": "Three essential steps to protecting your data across the hybrid cloud",
+      "excerpt": "The 2023 Cost of a Data Breach report revealed 82% of breaches involved data stored in the cloud. IBM Security® can help organizations protect their data.\nThe post Three essential steps to protecting your data across the hybrid cloud appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/three-essential-steps-to-protecting-your-data-across-the-hybrid-cloud/",
+      "originalUrl": "https://www.ibm.com/blog/three-essential-steps-to-protecting-your-data-across-the-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T06:06:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-bringing-the-power-of-watsonx-to-our-clients-with-ibm-consulting.md",
       "title": "Bringing the power of watsonx to our clients with IBM Consulting",
       "excerpt": "Talent, customer service and application modernization are three of the most high-impact use cases for generative AI that matter for business.\nThe post Bringing the power of watsonx to our clients with IBM Consulting appeared first on IBM Blog.\n",
@@ -901,213 +1126,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china.md",
-      "title": "Xiao-I Unveils Powerful LLM and AI Ethics Principles to Drive Responsible AI Innovation in China",
-      "excerpt": "The Company has outlined three fundamental AI Ethics Principles that underpin its approach to AI development: Be Worthy of Trust: Trust is the bedrock of successful AI adoption, and Xiao-I places ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/accesswire/771818msn/xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china",
-      "originalUrl": "https://www.morningstar.com/news/accesswire/771818msn/xiao-i-unveils-powerful-llm-and-ai-ethics-principles-to-drive-responsible-ai-innovation-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T22:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-hyundai-motor-invests-50m-in-canadian-ai-chip-startup-tenstorrent.md",
-      "title": "Hyundai Motor invests $50m in Canadian AI chip startup Tenstorrent",
-      "excerpt": "Hyundai Motor Group said Thursday it has invested $50 million in Canadian artificial intelligence semiconductor startup Tenstorrent in a move to secure key technology for future mobility. Tenstorrent recently closed a $100 million strategic funding round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20230803000514",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20230803000514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F08%2F03%2F20230803000531_0.jpg",
-          "width": 630,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20230803000514",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20230803000514",
-      "publishedDateTime": "2023-08-02T21:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face.md",
-      "title": "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face",
-      "excerpt": "As part of a Space Act Agreement with NASA, IBM set out earlier this year to build an AI foundation model for geospatial data. And now, by making a geospatial foundation model available via ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face-1032509425",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-and-nasa-open-source-largest-geospatial-ai-foundation-model-on-hugging-face-1032509425",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2-earnings.md",
-      "title": "Artificial Intelligence, AWS: What Amazon Investors Are Watching For When E-Commerce Giant Reports Q2 Earnings",
-      "excerpt": "Several factors, including Amazon Web Services (AWS) and commentary on AI ... are focusing on the company’s efforts in artificial intelligence (AI) in light of this year’s AI boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/earnings/23/08/33529224/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2",
-      "originalUrl": "https://www.benzinga.com/news/earnings/23/08/33529224/artificial-intelligence-aws-what-amazon-investors-are-watching-for-when-e-commerce-giant-reports-q2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Moenchengladbach,,Germany,-,25,January,2019:,Amazon,Logo,At,The.jpeg?width=1200&height=800&fit=crop",
-          "width": 896,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33529224",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33529224",
-      "publishedDateTime": "2023-08-02T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-2-options-to-trade-the-hype-around-artificial-intelligence.md",
-      "title": "2 Options to Trade the Hype Around Artificial Intelligence",
-      "excerpt": "Either way, traders can consider playing the trend with the Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X ETF (UBOT). Global investment firms like Goldman Sachs are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-options-to-trade-the-hype-around-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/2-options-to-trade-the-hype-around-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

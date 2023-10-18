@@ -2,6 +2,238 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2023-08-31-ai-startup-speak-raises-16-mln-in-latest-funding-led-by-lachy-groom.md",
+      "title": "AI startup Speak raises $16 mln in latest funding led by Lachy Groom",
+      "excerpt": "Speak, an artificial intelligence (AI)-backed English language learning platform, said on Thursday that it has raised $16 million in fresh funding led by venture capitalist Lachy Groom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/",
+      "originalUrl": "https://www.reuters.com/business/ai-startup-speak-raises-16-mln-latest-funding-led-by-lachy-groom-2023-08-31/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/sMHeW__vJM8vdecztNpmluShMds=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/B22ZDAHJQBLZ5GP5F6RM4YU5ZQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-causalens-releases-open-source-framework-to-build-causal-ai-applications.md",
+      "title": "causaLens releases open-source framework to build causal AI applications",
+      "excerpt": "The London-based pioneer of Causal AI expands their offering by unveiling Dara, the first framework to build apps",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/causalens-releases-open-source-framework-to-build-causal-ai-applications/",
+      "originalUrl": "https://www.01net.it/causalens-releases-open-source-framework-to-build-causal-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T03:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-chip-innovations-key-to-the-future-of-aiml.md",
+      "title": "Chip innovations key to the future of AI/ML",
+      "excerpt": "Dramatic gains in hardware performance have spawned generative AI, and a rich pipeline of ideas for future speedups that will drive machine learning to new heights. This is the word from Bill Dally, Nvidia’s chief scientist and senior vice president of research,",
+      "sourceUrl": null,
+      "webUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
+      "originalUrl": "https://it-online.co.za/2023/08/31/chip-innovations-key-to-the-future-of-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://it-online.co.za/wp-content/uploads/2023/04/circuit-board.jpg",
+          "width": 1075,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT-Online",
+        "domain": "it-online.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-launch-into-satellite-applications-with-microsoft-azure.md",
+      "title": "Launch into satellite applications with Microsoft Azure",
+      "excerpt": "Microsoft’s Azure Space platform and Azure Orbital Space SDK are taking edge computing to the final frontier, starting with satellite image processing, geospatial, and communications applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
+      "originalUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/08/shutterstock_2291065933-100945245-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3705670/launch-into-satellite-applications-with-microsoft-azure.amp.html",
+      "publishedDateTime": "2023-08-31T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40.md",
+      "title": "Morgan Stanley downgrades this big AI winner, says stock can fall more than 40%",
+      "excerpt": "Difficulties monetizing around artificial intelligence could spell bad news for Palantir after its massive rally, Morgan Stanley warned. Analyst Keith Weiss downgraded the data analytics stock to underweight from equal weight while adding $1 to his price target to $9.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/31/morgan-stanley-downgrades-this-big-ai-winner-says-stock-can-fall-more-than-40percent.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106807440-1607372084669-gettyimages-1228810311-PALANTIR_NYSE.jpeg?v=1693476296&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-chinas-baidu-makes-ai-chatbot-ernie-bot-publicly-available.md",
       "title": "China's Baidu makes AI chatbot Ernie Bot publicly available",
       "excerpt": "Two other AI companies in China, Baichuan and Zhipu AI, also launched their AI language models Thursday.",
@@ -937,267 +1169,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle-east.md",
-      "title": "Nvidia Faces More Restrictions on AI Chip Sales, This Time in the Middle East",
-      "excerpt": "The US government notifies Nvidia it'll need a license to sell certain A100 and H100 GPUs to a larger range of customers outside of China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
-      "originalUrl": "https://www.pcmag.com/news/nvidia-faces-more-restrictions-on-ai-chip-sales-this-time-in-the-middle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 318,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/035zuqPRihn1GhHajRQJuiL-1.fit_lim.size_1200x630.v1693429053.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input.md",
-      "title": "“Rapid growth” of AI systems prompts US Copyright Office to seek public input",
-      "excerpt": "Specifically, the Office is interested in four main areas: the use of copyrighted materials to train AI models and whether this constitutes infringement; the extent to which AI-generated content should or could be copyrighted,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/homemade_robot_hero-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/rapid-growth-of-ai-systems-prompts-us-copyright-office-to-seek-public-input/amp/",
-      "publishedDateTime": "2023-08-30T14:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-5-reasons-why-you-should-bring-ai-to-your-data.md",
-      "title": "5 Reasons Why You Should Bring AI To Your Data",
-      "excerpt": "One thing that’s certain: the importance of data in the generative AI era. AI requires lots of high-quality data—and the emergence of generative AI has only reinforced this point. Unlocking generative AI’s full potential lies in an organization’s ability to use it alongside its own proprietary data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/",
-      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64efb13b9894ff252cdcb965/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/30/5-reasons-why-you-should-bring-ai-to-your-data/amp/",
-      "publishedDateTime": "2023-08-30T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-women-are-more-likely-to-be-forced-to-switch-occupations-because-of-ai.md",
-      "title": "Women Are More Likely To Be Forced to Switch Occupations Because of AI",
-      "excerpt": "A new McKinsey study has found not all workers are equally vulnerable to generative AI, and women are more likely to be forced to change jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/women-more-likely-forced-switch-occupations-because-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/01/tr1923-snap-packages-up-to-date.jpg",
-          "width": 1400,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of.md",
-      "title": "Meta uses your Facebook data to train its AI. Here's how to opt out (sort of)",
-      "excerpt": "Meta will use your personal data in its large language model Llama 2. But you can fine-tune what data it can access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "originalUrl": "https://www.zdnet.com/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/48c567f49e420edb1979845fbb456cb51687ad53/2023/08/30/90d378df-0391-438f-87d0-617e8a43591a/gettyimages-1581627315.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-uses-your-facebook-data-to-train-its-ai-heres-how-to-opt-out-sort-of/",
-      "publishedDateTime": "2023-08-30T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

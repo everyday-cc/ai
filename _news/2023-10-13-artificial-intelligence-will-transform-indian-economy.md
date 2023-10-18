@@ -9,8 +9,8 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indi
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 99
+published: true
 
 provider:
   name: Deccan Chronicle
@@ -27,6 +27,47 @@ images:
     isCached: true
 
 related:
+  - title: "India's AI programme to achieve $1 trillion digital economy: Chandrasekhar"
+    excerpt: "\"This is a deep, multi-year roadmap to make Indian AI work for being a kinetic enabler of the trillion dollar digital economy,\" Chandrasekhar said. The minister had earlier said the government plans to make India a USD 1-trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T11:13:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2022/12/3/31-Rajeev-Chandrasekhar.jpg"
+        width: 760
+        height: 443
+        isCached: true
+  - title: "AI programme will enable to achieve $1 trn digital economy: Chandrasekhar"
+    excerpt: "The government on Friday unveiled a report on the country's artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T11:05:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-programme-will-enable-to-achieve-1-trn-digital-economy-chandrasekhar-123101300733_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-programme-will-enable-to-achieve-1-trn-digital-economy-chandrasekhar-123101300733_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-programme-will-enable-to-achieve-1-trn-digital-economy-chandrasekhar-123101300733_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
+  - title: "India's AI programme to be kinetic enabler to achieve $1T digital economy: Chandrasekhar"
+    excerpt: "The Ministry of Electronics and IT has floated a consultation paper on the National Strategy on Robotics, which is open for public comments till October 31."
+    publishedDateTime: 2023-10-13T11:19:00Z
+    webUrl: "https://yourstory.com/2023/10/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1t-digital-economy-rajeev-chandrasekhar"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 30
+    images:
+      - url: "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/Imagekzi9-1697195509684.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "India's AI programme to be kinetic enabler to achieve USD 1 trillion digital economy: Chandrasekhar"
     excerpt: "The government on Friday unveiled a report on the countrys artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
     publishedDateTime: 2023-10-13T10:56:00Z

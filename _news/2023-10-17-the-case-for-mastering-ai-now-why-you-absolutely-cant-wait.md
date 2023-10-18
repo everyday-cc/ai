@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-master
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -2,6 +2,222 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2023-09-27-ai-chip-startup-kneron-secures-49m-investment.md",
+      "title": "AI chip startup Kneron secures $49M investment",
+      "excerpt": "Startup Kneron Inc., which develops artificial intelligence ... San Diego-based Kneron develops chips that can be used to equip smart cars, robots and other connected devices with AI features. Its chips are specifically optimized for inference, or the ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
+      "originalUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Kneron.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-spotify-using-ai-to-translate-podcasters-original-voices-to-additional-languages.md",
+      "title": "Spotify Using AI to Translate Podcasters' Original Voices to Additional Languages",
+      "excerpt": "Spotify this week announced an AI translation feature for podcasters that could give it an edge over Apple's podcasting platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
+      "originalUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/7-nfr3K2_BPQYeb0zBLJE8hdAb0=/2500x/article-new/2021/08/General-Spotify-Feature.jpg",
+          "width": 2500,
+          "height": 1407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-lightbits-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Lightbits Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Lightbits today announced the availability of the Lightbits Cloud Data Platform in the Microsoft Azure Marketplace, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-confluents-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.md",
+      "title": "Confluent’s Data Streaming for AI initiative aims to boost AI app development",
+      "excerpt": "The initiative is a result of the managed Apache Kafka service provider partnering with the likes of MongoDB, Pinecone, Rockset, Zilliz, Google Cloud, and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
+      "publishedDateTime": "2023-09-26T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-artificial-intelligence-promises-to-change-the-way-health-care-works.md",
+      "title": "Artificial intelligence promises to change the way health care works",
+      "excerpt": "From detecting serious illnesses early, to reducing the administrative burden on doctors, health experts say artificial intelligence promises to change the way medicine is practised.",
+      "sourceUrl": null,
+      "webUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471",
+      "originalUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/ottawasun/wp-content/uploads/2023/09/20220712010_em.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471/amp/",
+      "cdnAmpWebUrl": "https://ottawasun-com.cdn.ampproject.org/c/s/ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471/amp/",
+      "publishedDateTime": "2023-09-26T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ottawasun",
+        "domain": "ottawasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-springboard-launches-new-100-online-machine-learning-engineering-and-ai-bootcamp-for-university-partners.md",
       "title": "Springboard Launches New, 100% Online Machine Learning Engineering and AI Bootcamp for University Partners",
       "excerpt": "Springboard today announced the launch of a new course offering for university partners: a machine learning engineering and AI bootcamp.",
@@ -805,221 +1021,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-a-reinforcement-learning-based-method-to-plan-the-coverage-path-and-recharging-of-unmanned-aerial-vehicles.md",
-      "title": "A reinforcement learning-based method to plan the coverage path and recharging of unmanned aerial vehicles",
-      "excerpt": "Unmanned aerial vehicles (UAVs), commonly known as drones, have already proved invaluable for tackling a wide range of real-world problems. For instance, they can assist humans with deliveries, environmental monitoring,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-reinforcement-learni.jpg",
-          "width": 1280,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.amp",
-      "publishedDateTime": "2023-09-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners.md",
-      "title": "FIs of All Sizes Can Harness the Transformative Power of AI with the Help of FinTech Partners",
-      "excerpt": "For too long, smaller banks and credit unions have been challenged by unequal access to AI technology. From conference agendas to marketing materials, community financial institutions with less than $500 million of assets have been segregated and treated  differently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
-      "originalUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/2f40bf95-205d-4aa9-bb2d-f19476075c53.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-google-deepmind-alum-raises-14-million-for-new-ai-venture-firm.md",
-      "title": "Google DeepMind alum raises $14 million for new AI venture firm",
-      "excerpt": "Vishal Maini, a former DeepMind researcher, founded Mythos earlier this year and has raised $14 million from more than four dozen investors, according to a filing this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/09/Google-generic-unsplash-770x435.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html/amp",
-      "publishedDateTime": "2023-09-26T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-teams-up-microsoft-to-develop-enterprise-adoption-of-generative-ai.md",
-      "title": "Infosys teams up Microsoft to develop enterprise adoption of generative AI",
-      "excerpt": "Both companies will help enterprises take an AI-first approach to improve operational efficiencies, drive revenue growth, and enable business transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortuneindia.com/enterprise/infosys-teams-up-microsoft-to-develop-enterprise-adoption-of-generative-ai/114246",
-      "originalUrl": "https://www.fortuneindia.com/enterprise/infosys-teams-up-microsoft-to-develop-enterprise-adoption-of-generative-ai/114246",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/fortuneindia/2023-09/23f49c90-166d-44e4-909c-eb673e9d1d42/infosys__8_.jpg?w=700",
-          "width": 700,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune India",
-        "domain": "fortuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased.md",
-      "title": "The Download: Europe vs Chinese EVs, and making AI vision less biased",
-      "excerpt": "Two new papers by researchers at Sony and Meta propose new ways to measure biases in computer vision systems so as to more fully capture the rich diversity of humanity. Developers could use these tools to check the diversity of their data sets, helping lead to better, more diverse training data for AI. Read the full story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/VEDE0Q5PNefmgBvZ1rolKzsC2tATAsJRne3m8fJSGfCvztlFQPNYRPBaEypIv2Uz3iL12csg1QcthQTZL3tjPgwlUlZ3REOGuc3VOe9QDv5g_Xpk_-BSr1_Hfq1hBMlwd6Cm_I6e6tPkIODHwK1wiws",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
-      "publishedDateTime": "2023-09-26T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
