@@ -26,54 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The impact of artificial intelligence on software development? Still unclear"
-    excerpt: "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals."
-    publishedDateTime: 2023-10-13T07:54:00Z
-    webUrl: "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "IT min to support development of data for AI models"
-    excerpt: "Scope for growing AI datasets, monetization, and regulation of AI and related technologies will come under the ambit of upcoming Digital India Act"
-    publishedDateTime: 2023-10-13T17:26:00Z
-    webUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models-11697217531226.html"
-    ampWebUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/Union-minister-Rajeev-Chandrasekhar-highlighted-th_1684875176547_1697217740301.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "7 working groups submit final IndiaAI report on AI development"
-    excerpt: "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no"
-    publishedDateTime: 2023-10-14T05:25:00Z
-    webUrl: "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Government will assist the development of AI chips using the PPP model: MoS IT"
     excerpt: "Government will assist the development of AI chips using the PPP model: MoS IT - The government announced to support the development of artificial intelligence (AI) chips via a"
     publishedDateTime: 2023-10-13T10:03:00Z

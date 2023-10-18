@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI and migrations to the public cloud"
-    excerpt: "GenAI can analyze application dependencies, network configurations, and security risks, but it will mostly help lazy companies that aren't doing this anyway."
-    publishedDateTime: 2023-10-13T09:05:00Z
-    webUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.html"
-    ampWebUrl: "https://www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708728/generative-ai-and-migrations-to-the-public-cloud.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.techhive.com/images/article/2016/01/thinkstockphotos-511283035-100638943-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
     excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
     publishedDateTime: 2023-10-14T21:13:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-mo
 webUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://i.insider.com/6529e12468f1d46f52b1d4a7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "IT min to support development of data for AI models"
+    excerpt: "Scope for growing AI datasets, monetization, and regulation of AI and related technologies will come under the ambit of upcoming Digital India Act"
+    publishedDateTime: 2023-10-13T17:26:00Z
+    webUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models-11697217531226.html"
+    ampWebUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 61
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/Union-minister-Rajeev-Chandrasekhar-highlighted-th_1684875176547_1697217740301.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "AI Storytellers: How Generative Models Are Penning Bestselling Novels"
     excerpt: "Generative models, particularly those rooted in deep learning and natural language processing, have made remarkable advancements in recent years. These AI systems exhibit an astonishing capability to generate coherent and contextually relevant text."

@@ -438,6 +438,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "What to Know About the U.S. Curbs on AI Chip Exports to China"
+    excerpt: "The new rules aim to close loopholes that emerged from 2022 export control curbs, and to account for technological developments."
+    publishedDateTime: 2023-10-18T00:40:00Z
+    webUrl: "https://www.aol.com/news/know-u-curbs-ai-chip-214010915.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_time_773/8e51342dd6645c486b76a51ee152300b"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
     publishedDateTime: 2023-10-17T12:45:00Z

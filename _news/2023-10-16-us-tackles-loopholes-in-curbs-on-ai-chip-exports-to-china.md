@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html"
 type: article
 quality: 104
-heat: 544
+heat: 554
 published: true
 
 provider:
@@ -431,6 +431,20 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/e5f40b4a-dbc6-4d8a-8167-aa3f1c1b8f27.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "What to Know About the U.S. Curbs on AI Chip Exports to China"
+    excerpt: "The new rules aim to close loopholes that emerged from 2022 export control curbs, and to account for technological developments."
+    publishedDateTime: 2023-10-18T00:40:00Z
+    webUrl: "https://www.aol.com/news/know-u-curbs-ai-chip-214010915.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_time_773/8e51342dd6645c486b76a51ee152300b"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Upcoming US rules on AI chip exports aim to stop workarounds: US official"
     excerpt: "Find out more about subscription packages here. THE US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s upcoming actions to ..."

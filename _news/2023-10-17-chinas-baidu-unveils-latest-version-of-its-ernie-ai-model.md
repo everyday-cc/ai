@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/chinas
 webUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/chinas-baidu-unveils-latest-version-of-its-ernie-ai-model"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,24 +22,24 @@ topics:
   - AI
 
 related:
-  - title: "Baidu says its AI is in the same league as GPT-4"
-    excerpt: "Baidu ( BIDU) has been a frontrunner in China in the race to capitalize on the excitement around generative AI, the technology that underpins systems such as ChatGPT or its successor, GPT-4. The Beijing-based company unveiled ERNIE Bot in March, before launching it publicly in August."
-    publishedDateTime: 2023-10-17T06:22:00Z
-    webUrl: "https://keyt.com/news/money-and-business/cnn-business-consumer/2023/10/16/baidu-says-its-ai-is-in-the-same-league-as-gpt-4/"
+  - title: "Baidu launches new LLM ERNIE 4.0 that turns one person into ‘an AI marketing team’"
+    excerpt: "In live demos, Li showcased ERNIE Bot's prowess in understanding complicated and jumbled human requests and responding to them."
+    publishedDateTime: 2023-10-18T00:58:00Z
+    webUrl: "https://venturebeat.com/ai/baidu-launches-new-llm-ernie-4-0-that-turns-one-person-into-an-ai-marketing-team/"
     type: article
     provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
     images:
-      - url: "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg"
-        width: 860
-        height: 484
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_abstract_cartoonish_puppet_with_orange_skin_and_big_nos_bb118282-9446-43c9-824f-47321d0aadb1-1.png?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Baidu unveils latest version of LLM, Ernie 4.0"
-    excerpt: "Visitors look at Ernie applications at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
+    excerpt: "Visitors learn about robot products suitable for home application at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
     publishedDateTime: 2023-10-17T06:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_7.html"
+    webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
     type: article
     provider:
       name: 中国日报网

@@ -28,66 +28,75 @@ images:
     isCached: true
 
 related:
-  - title: "The impact of artificial intelligence on software development? Still unclear"
-    excerpt: "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals."
-    publishedDateTime: 2023-10-13T07:54:00Z
-    webUrl: "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
+  - title: "Millions of Workers Are Training AI Models for Pennies"
+    excerpt: "From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook, Google, and Microsoft."
+    publishedDateTime: 2023-10-16T06:00:00Z
+    webUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.wired.com/photos/6525d761419624284be05211/191:100/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "7 working groups submit final IndiaAI report on AI development"
-    excerpt: "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no"
-    publishedDateTime: 2023-10-14T05:25:00Z
-    webUrl: "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+  - title: "AI models can analyze thousands of words at a time. A Google researcher has found a way to increase that by millions."
+    excerpt: "Ring Attention' is a new technique that massively expands the context window of AI models, according to researchers."
+    publishedDateTime: 2023-10-16T09:00:00Z
+    webUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/6529e12468f1d46f52b1d4a7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI Storytellers: How Generative Models Are Penning Bestselling Novels"
+    excerpt: "Generative models, particularly those rooted in deep learning and natural language processing, have made remarkable advancements in recent years. These AI systems exhibit an astonishing capability to generate coherent and contextually relevant text."
+    publishedDateTime: 2023-10-17T07:30:00Z
+    webUrl: "https://www.timesnownews.com/education/ai-storytellers-how-generative-models-are-penning-bestselling-novels-article-104490175"
+    ampWebUrl: "https://www.timesnownews.com/education/ai-storytellers-how-generative-models-are-penning-bestselling-novels-article-104490175/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/ai-storytellers-how-generative-models-are-penning-bestselling-novels-article-104490175/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
     quality: 59
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Government will assist the development of AI chips using the PPP model: MoS IT"
-    excerpt: "Government will assist the development of AI chips using the PPP model: MoS IT - The government announced to support the development of artificial intelligence (AI) chips via a"
-    publishedDateTime: 2023-10-13T10:03:00Z
-    webUrl: "https://www.siliconindia.com/news/general/government-will-assist-the-development-of-ai-chips-using-the-ppp-model-mos-it-nid-225894-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 50
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/PBd5vT3H.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "IT Minister will support data development for AI models"
-    excerpt: "The India datasets platform will be one of the largest and most diverse collections of anonymized datasets to train multi-parameter AI models."
-    publishedDateTime: 2023-10-14T06:32:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/it-minister-will-support-data-development-for-ai-models-829756"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 41
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/14/1389165-rajeev-chandrasekhar.jpg"
-        width: 1200
+      - url: "https://static.tnn.in/thumb/msid-104490197,thumbsize-1055184,width-1280,height-720,resizemode-75/104490197.jpg"
+        width: 1280
         height: 720
         isCached: true
+  - title: "Millions of Workers Are Training AI Models for Pennies"
+    excerpt: "Her friend told her about Appen, an Australian data services company that was looking for crowdsourced workers to tag training data for artificial intelligence algorithms ... Appen’s clients have included Amazon, Facebook, Google, and Microsoft, and ..."
+    publishedDateTime: 2023-10-15T07:02:00Z
+    webUrl: "https://www.wired.co.uk/article/low-paid-workers-are-training-ai-models-for-tech-giants"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://media.wired.co.uk/photos/65241beec29457b1e5cf6b1a/16:9/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
+    type: article
+    provider:
+      name: tech-ish.com
+      domain: tech-ish.com
+    quality: 19
 
 secured: "bRkD7UPwCvn8+PCvuJVqu2IQ7dHYoFlREFGwueAP1iGaHCim2k4Nwn3hQcV12ItHuRaaTd7GpmQtPMR1SUttqvPPoE/vHtt2lMf0OuOU8pyrtVi2OF8jYcnTR5MCRvKF/bYeJpxLzfo7zGkFzfaJkWG0VSET6Yuhvzkpb7VXXF2USvj26PrFWqjJC8WfJP6++9mjuwqhTDZ5qpklYxTuxVM8bHk65bcl6Kw09xBSlAo1IPQXNLiqmekM/a4xEzg9mg+83mExYbdpZJfngG2BX94U9t/fPZURfvjn/5oq4AxAn7pzCWviAqRsSM/XTx392HD/JdVUVjY5HSZE6sUoQPPPTHyK7ZUVVRnKlT9BIGSlXtf3EP1JP3HwwevbxGTnxZKtQnmOW6YqzMRNszDs4RcwHwIMJaZd5rfIG+kvaaX64uH/swGvXZ4UqAelpzlZ86T2ouYn1edPYkfwcxlKWuiDfs4gO6OAET/d/ynfx8MXcrf5zt5hM70uzcVes5UyjnqlvgMer1STqgHeSz0o3Q==;EjLnaO/Nsr8ZdxM6yIV53A=="
 ---

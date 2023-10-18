@@ -39,20 +39,6 @@ related:
         width: 1627
         height: 1080
         isCached: true
-  - title: "Didi’s Self-Driving Unit Gets USD149 Million Investment From GAC Fund"
-    excerpt: "(Yicai) Oct. 13 -- The autonomous driving unit of Chinese ride-hailing giant Didi Chuxing said it has received a USD149 million investment from a yuan-denominated fund set up by carmaker GAC Group to boost research and development and the commercialization of its technologies."
-    publishedDateTime: 2023-10-13T08:54:00Z
-    webUrl: "https://www.yicaiglobal.com/news/didis-self-driving-unit-gets-usd149-million-from-gacs-investment-fund"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 24
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/10/36009913728709.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "Didi’s Self-Driving Unit to Receive $149 Million Investment From State-Linked Firms"
     excerpt: "What’s new: State-owned automaker Guangzhou Automobile Group Co. Ltd. (GAC) ( 601238.SH) has announced plans to partner with a local government-owned investment firm to invest up to $149 million in Didi Global Inc.’s autonomous driving unit, in an effort to develop a technology that could eventually allow drivers to be hands-free."
     publishedDateTime: 2023-10-13T12:27:00Z

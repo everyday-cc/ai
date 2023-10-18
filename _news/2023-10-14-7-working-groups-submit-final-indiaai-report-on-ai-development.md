@@ -27,66 +27,74 @@ images:
     isCached: true
 
 related:
-  - title: "The impact of artificial intelligence on software development? Still unclear"
-    excerpt: "It's too early to detect if AI boosts the productivity of software rollouts, a Google study finds. But other factors are making a huge difference to the success of IT professionals."
-    publishedDateTime: 2023-10-13T07:54:00Z
-    webUrl: "https://www.zdnet.com/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-impact-of-artificial-intelligence-on-software-development-still-unclear/"
+  - title: "Artificial Intelligence will transform Indian Economy"
+    excerpt: "New Delhi: The government is hopeful that India's artificial intelligence (AI) programme is likely to be a kinetic enabler for India to achieve the goal of a $1-trillion digital economy by 2026. Besides, the country’s AI programme will also focus on comprehensive skills in the country and building computer infrastructure among others."
+    publishedDateTime: 2023-10-13T10:01:00Z
+    webUrl: "https://www.deccanchronicle.com/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
+    ampWebUrl: "https://www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
+    cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/in-other-news/131023/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1-trillion-di.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
+      name: Deccan Chronicle
+      domain: deccanchronicle.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/d406d2108a1bcfe61b5c481844b297336a9be37d/2023/10/12/c9399b7b-61bf-42ba-adb3-7cc98d3feeca/gettyimages-1226866390.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-s40itrnobcarmt6el9q9g6sne2-20231007080411.Medi.jpeg"
+        width: 800
+        height: 448
         isCached: true
-  - title: "IT min to support development of data for AI models"
-    excerpt: "Scope for growing AI datasets, monetization, and regulation of AI and related technologies will come under the ambit of upcoming Digital India Act"
-    publishedDateTime: 2023-10-13T17:26:00Z
-    webUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models-11697217531226.html"
-    ampWebUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
+  - title: "India's AI programme to achieve $1 trillion digital economy: Chandrasekhar"
+    excerpt: "\"This is a deep, multi-year roadmap to make Indian AI work for being a kinetic enabler of the trillion dollar digital economy,\" Chandrasekhar said. The minister had earlier said the government plans to make India a USD 1-trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T11:13:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
+      name: The Week
+      domain: theweek.in
+    quality: 59
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/Union-minister-Rajeev-Chandrasekhar-highlighted-th_1684875176547_1697217740301.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2022/12/3/31-Rajeev-Chandrasekhar.jpg"
+        width: 760
+        height: 443
         isCached: true
-  - title: "Government will assist the development of AI chips using the PPP model: MoS IT"
-    excerpt: "Government will assist the development of AI chips using the PPP model: MoS IT - The government announced to support the development of artificial intelligence (AI) chips via a"
-    publishedDateTime: 2023-10-13T10:03:00Z
-    webUrl: "https://www.siliconindia.com/news/general/government-will-assist-the-development-of-ai-chips-using-the-ppp-model-mos-it-nid-225894-cid-1.html"
+  - title: "AI programme will enable to achieve $1 trn digital economy: Chandrasekhar"
+    excerpt: "The government on Friday unveiled a report on the country's artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T11:05:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/ai-programme-will-enable-to-achieve-1-trn-digital-economy-chandrasekhar-123101300733_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/ai-programme-will-enable-to-achieve-1-trn-digital-economy-chandrasekhar-123101300733_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/ai-programme-will-enable-to-achieve-1-trn-digital-economy-chandrasekhar-123101300733_1.html"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 50
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/PBd5vT3H.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "IT Minister will support data development for AI models"
-    excerpt: "The India datasets platform will be one of the largest and most diverse collections of anonymized datasets to train multi-parameter AI models."
-    publishedDateTime: 2023-10-14T06:32:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/it-minister-will-support-data-development-for-ai-models-829756"
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
+  - title: "India's AI programme to be kinetic enabler to achieve $1T digital economy: Chandrasekhar"
+    excerpt: "The Ministry of Electronics and IT has floated a consultation paper on the National Strategy on Robotics, which is open for public comments till October 31."
+    publishedDateTime: 2023-10-13T11:19:00Z
+    webUrl: "https://yourstory.com/2023/10/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1t-digital-economy-rajeev-chandrasekhar"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 41
+      name: Your Story
+      domain: yourstory.com
+    quality: 30
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2023/10/14/1389165-rajeev-chandrasekhar.jpg"
-        width: 1200
-        height: 720
+      - url: "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/Imagekzi9-1697195509684.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
+  - title: "India's AI programme to be kinetic enabler to achieve USD 1 trillion digital economy: Chandrasekhar"
+    excerpt: "The government on Friday unveiled a report on the countrys artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T10:56:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2628851-indias-ai-programme-to-be-kinetic-enabler-to-achieve-usd-1-trillion-digital-economy-chandrasekhar?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 25
 
 secured: "YlVYMRj8s1ovjyI1At8k8JhDMV7L2zGdPqrzGgxJ8vpdrkf6zPYiMz/kZISIILzUrOzYm4FfAWjvjRnvOjoNz5nHf7an57G/RtjpZP1tZ9zjUcjkCZsFSaMc9iHMMicm9rFQJgGFbt3/swsFPE4cnqhbdyl1Y63bvfD2O2TZ3NmopQR9v700qPgAhemhcZN26xs35boMk5lL3PDRamt/vCZicLDfnQxEdSp5Tnlw8QKQ9qHxsBa9FgjzLNzEBaDlSnUBcZ0/BslnvpsL4NH0kR75SP1UInMv48Mk6l3gSkZwpPxILdH6tYH1fYvcRvptYrZfpdruKobV8/QQdxk+n6h4eJHE04aLQ3eYegKI/vQ=;A5EVviwSn8U7rL/SJWlBgg=="
 ---

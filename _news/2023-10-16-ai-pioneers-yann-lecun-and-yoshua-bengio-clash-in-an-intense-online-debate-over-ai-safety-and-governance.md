@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ai-pioneers-yann-lecun-and-yoshua-bengi
 webUrl: "https://venturebeat.com/ai/ai-pioneers-yann-lecun-and-yoshua-bengio-clash-in-an-intense-online-debate-over-ai-safety-and-governance/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "‘AI Godfather’ Yoshua Bengio: We need a humanity defense organization"
-    excerpt: "In this interview, AI godfather Yoshua Bengio discusses attention-grabbing headlines about AI, taboos among AI researchers, and why top AI researchers may disagree about the risks AI may pose to humanity."
-    publishedDateTime: 2023-10-17T09:59:00Z
-    webUrl: "https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/"
-    ampWebUrl: "https://thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/amp/"
-    cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2023/10/ai-godfather-yoshua-bengio-we-need-a-humanity-defense-organization/amp/"
-    type: article
-    provider:
-      name: Bulletin of the Atomic Scientists
-      domain: thebulletin.org
-    quality: 59
-    images:
-      - url: "https://thebulletin.org/wp-content/uploads/2023/10/GettyImages-1554688009.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
 
 secured: "bJ9L7JF4Kcnpd11i/K7AkONo+bjhBpxpyOeUo5lq32VnhGsUkLzQuEW4V/iKaAYLq+OO2ObsyFQh6fGrv5kmmbuypaOZDVul3MtVzvpKrWfVzuwZkdSbqzrTpiZI9KMrNgyNWiC7BiqiFQBUwBY2VlSWtYvDKFX/pwY//k5KvNIiJS/upqSNXI/dzVgtmSWE6MzYPPdm+N6xhcGXNSmUv0/bgQjWtR15TAv+/qvfgCJjn6H5C74c4M/0Gv+oF4e9mwtkhUIupyyu1Embbx4Wvq1W7BnBBtdMrBjeK/DnNHFuOlKEwRFNtZL080yZBxX1+CqpLRUM7I9pyHVTSTrlnAQDT6QmBPSZKO8qHzGwgprKJDAhlDLYNOd96lgXz/zmJUQYA0sav3+9fTDbU1qDD1ZhkGJvlNep3tJUF6NkqD9A+pkOes74Pf4Mpo09UwWalOSM04ivIz2bnaNi1sjkSvXOqSAylUPwIJd1HvX/xpITG+gMdkkei9gIJ3O91+imLMbNvdI+RvI0fIYrZ2RXHQ==;Lz/fhCpAYTzNiiBTojjDHQ=="
 ---

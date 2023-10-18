@@ -22,19 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "How are AI and robotics combining to revolutionize recycling?"
-    excerpt: "A survey conducted by the Carton Council of North America in 2018 showed that 94 percent of Americans support recycling."
-    publishedDateTime: 2023-10-14T19:20:00Z
-    webUrl: "https://augustafreepress.com/news/how-are-ai-and-robotics-combining-to-revolutionize-recycling/"
+  - title: "Revolutionizing Web: Meta's AI Takeover"
+    excerpt: "Andreessen helped in 1993 to write Mosaic, the base code for the Netscape web browser. After Netscape was acquired in 1998 by AOL for $4.3 billion, Andreessen and his partner Ben Horowitz became noted angel investors in the San Francisco bay area. Their namesake venture capital firm was officially founded in 2009."
+    publishedDateTime: 2023-10-18T01:39:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/"
+    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/"
     type: article
     provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2023/06/recycling.jpg"
-        width: 555
-        height: 315
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1201
+        height: 900
         isCached: true
 
 secured: "Vsh++Lvkb7uaEu8NmJrA+Wfi+8xpX11nKA0Rrby+SktPHvu3/AnhHVWzU6hsM7ohW5bzVQWJAUsdBU9cYuV+vjcg8COQRJMqEjxm8UoTu9P6JJxvLVohFjMxLCcZzlmA7c2q3zsZXsYkZ4J5zVD7Ta6j1J6MXif8tGkNLO7y4wZ+rCinbkwLhlEZvWFLXYvQj60xLEFw03D8XQWHP5L5eFrkSU1IKPH3R+ALwgYJ9dGNX5npbIme0vLsN3lkmS2THn5u8W2hYsNnud7JIIrS5C63oT7P5DIzTm+9rtAJqetsVoU0s/99ATcUYmsP5gAf1xV3tKxYiQaAMKuVv4eIZZLB7ovj01WUVSNhfbY3qs/9oS9a3fhRNqrPZhsUdKKC9bgnd/JLUoA8XdC9Jzeg5X819wOFmAdPSXdqs9WtJAEdfo+8HsoflDf7UeLzUCYk6G4Ee7Z+8OvculsSpL0rOUo1UBGb8H0AGWf6Ji5d7IJhXcjsJW6ZYq3vCsD8ZJT9Grm4XJs6x5hADIRYxt6eaA==;G7OsCS4wdB7cDQ5zh7al+Q=="

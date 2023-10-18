@@ -39,20 +39,6 @@ related:
         width: 1627
         height: 1080
         isCached: true
-  - title: "Didi’s Self-Driving Unit Gets USD149 Million Investment From GAC Fund"
-    excerpt: "(Yicai) Oct. 13 -- The autonomous driving unit of Chinese ride-hailing giant Didi Chuxing said it has received a USD149 million investment from a yuan-denominated fund set up by carmaker GAC Group to boost research and development and the commercialization of its technologies."
-    publishedDateTime: 2023-10-13T08:54:00Z
-    webUrl: "https://www.yicaiglobal.com/news/didis-self-driving-unit-gets-usd149-million-from-gacs-investment-fund"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 24
-    images:
-      - url: "http://img.yicaiglobal.com/src/image/2023/10/36009913728709.jpg"
-        width: 770
-        height: 510
-        isCached: true
   - title: "Didi’s Self-Driving Freight Business KargoBot to Operate Independently After USD62 Million Investment"
     excerpt: "(Yicai) Oct. 17 -- KargoBot, the autonomous driving freight business of Chinese ride-hailing giant Didi Chuxing, will begin to operate independently after receiving a CNY450 million (USD61.5 million) investment from Inner Mongolia Ordos Investment Holding Group."
     publishedDateTime: 2023-10-17T07:43:00Z

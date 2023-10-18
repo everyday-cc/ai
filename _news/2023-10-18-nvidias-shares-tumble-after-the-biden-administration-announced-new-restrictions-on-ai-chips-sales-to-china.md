@@ -437,6 +437,20 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "What to Know About the U.S. Curbs on AI Chip Exports to China"
+    excerpt: "The new rules aim to close loopholes that emerged from 2022 export control curbs, and to account for technological developments."
+    publishedDateTime: 2023-10-18T00:40:00Z
+    webUrl: "https://www.aol.com/news/know-u-curbs-ai-chip-214010915.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://media.zenfs.com/en/aol_time_773/8e51342dd6645c486b76a51ee152300b"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Upcoming US rules on AI chip exports aim to stop workarounds: US official"
     excerpt: "Find out more about subscription packages here. THE US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s upcoming actions to ..."
     publishedDateTime: 2023-10-15T22:15:00Z

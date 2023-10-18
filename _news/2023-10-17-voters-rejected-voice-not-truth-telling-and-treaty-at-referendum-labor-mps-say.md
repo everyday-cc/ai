@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice referendum: Anthony Albanese tries to win over up to two million undecided voters"
-    excerpt: "The Weekend Australian understands Yes campaigners were preparing for the fallout of defeat on Saturday, with Indigenous leaders who have spent years fighting for constitutional recognition expected to be upset and angry if the voice goes down. No ..."
-    publishedDateTime: 2023-10-13T08:15:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/voice-referendum-anthony-albanese-tries-to-win-over-up-to-two-million-undecided-voters/news-story/5273d6f470d91000d1af876328c30812?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 16
   - title: "Voice referendum: Truth-telling for Albanese as voters deliver defeat"
     excerpt: "Anthony Albanese will reaffirm Labor’s commitment to advance reconciliation while pursuing ­treaty and truth-telling and reset the government’s focus on cost-of-living pressures and national ­security,"
     publishedDateTime: 2023-10-15T11:26:00Z

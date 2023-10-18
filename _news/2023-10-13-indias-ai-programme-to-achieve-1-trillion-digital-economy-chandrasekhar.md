@@ -44,6 +44,22 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "7 working groups submit final IndiaAI report on AI development"
+    excerpt: "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no"
+    publishedDateTime: 2023-10-14T05:25:00Z
+    webUrl: "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AI programme will enable to achieve $1 trn digital economy: Chandrasekhar"
     excerpt: "The government on Friday unveiled a report on the country's artificial intelligence programme, which it believes will be a kinetic enabler for India to achieve the goal of USD 1 trillion digital economy by 2026."
     publishedDateTime: 2023-10-13T11:05:00Z

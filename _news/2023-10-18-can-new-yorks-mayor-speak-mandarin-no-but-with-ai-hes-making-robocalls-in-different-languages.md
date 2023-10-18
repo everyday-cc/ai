@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages"
-excerpt: "- New York City Mayor Eric Adams speaks in New York's Times Square during a news conference, Dec. 30, 2022. Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn't actually speak,"
-publishedDateTime: 2023-10-17T23:23:00Z
-originalUrl: "https://www.seattlepi.com/news/politics/article/can-new-york-s-mayor-speak-mandarin-no-but-with-18431217.php"
-webUrl: "https://www.seattlepi.com/news/politics/article/can-new-york-s-mayor-speak-mandarin-no-but-with-18431217.php"
+excerpt: "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak"
+publishedDateTime: 2023-10-17T21:34:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
+webUrl: "https://abcnews.go.com/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
 type: article
-quality: 6
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/US/wirestory_30517885466994e5f1f54745c08691e0_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "New York City unveiled a new plan to use AI to make its government work better"
@@ -82,6 +90,6 @@ related:
         height: 640
         isCached: true
 
-secured: "xTF7QxCev7WryHKI/nF0km8kHyWwQYZTbtAYCIQBk9fdof/x/SEyHsnFYmMxRuPq3JPsM7k4a0nlgtiNGH0A8RF06aQEg3rIh8XZ5kRFqwvPC9aBuhBBhKohqxlurpTUQ2eB+pvfx9VL3x8CH3Gnmhz8z7YImpg1H3bEcM8wkwMhIaeOshfdY1tqKN/nts05GWDOp25YleKKdti1CpTAKQfUT7u8wAZxf1FTEeoTWY+23YaLSonbOSBlOqp81Bcar5/VHQZAC0rWKV0rwSXdiJ1HKpFn1cCKAsfP2lNWKMTST6VXQWtxoq7Ec3bN0rUwFwitRYbvT/JQpdrBByfu8gc5mBfkLw/JatnZoItL4+k=;YHeZszLxXDdPPwZ6BgovAg=="
+secured: "sYx35RG4Fu825yLBIy/F71T8CXzB9J0Ed+tok+bbot2DbTQQ8a5Uirni5CP0n33B4fV0KggiAek7UXgjt63Oq7A6KjUwkHBVHLbsL0F7DhlvJ7uIg072Y08ZVkBns3Xoibs+wDHkU2axJ928BZdPOWsSaM3AWN2yWXIlWlk0+M4bIGSTLzhLsfw5/3Do5TGaly+A80q6kciORBJckJOBYsf74vWHp3k1FhC0amX1X/Mr3f4niZ6QjadSKUYP6UiREe05QQQlUCV1i8NdcgIxBN3ltLvMKNSZKWiUD5vimheIVYtA1cIlRXe/X3XJltaqQKBYtFjwv93YRkSVcWkriMstnUr9FuKk2j+P6OmY+rs=;nmwGkD9bvVp5hh6hS2E0Eg=="
 ---
 

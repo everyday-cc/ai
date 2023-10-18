@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "Bill targets police misuse of facial recognition"
-    excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that’s meant to crack down on racial disparities among ..."
-    publishedDateTime: 2023-10-13T07:31:00Z
-    webUrl: "https://www.salemnews.com/news/bill-targets-police-misuse-of-facial-recognition/article_3eb84854-695e-11ee-8cfa-47db84c9402b.html"
-    type: article
-    provider:
-      name: The Salem News
-      domain: salemnews.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/salemnews.com/content/tncms/custom/image/29c67f80-6b81-11e5-9882-1ba0e94cc00f.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Bill targets police misuse of facial recognition"
     excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that'"
     publishedDateTime: 2023-10-14T15:29:00Z
     webUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-facial-recognition/article_35077526-69dd-11ee-a04e-6fe0fe7cd6d0.html"

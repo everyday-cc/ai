@@ -74,14 +74,21 @@ related:
         height: 630
         isCached: true
   - title: "Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages"
-    excerpt: "- New York City Mayor Eric Adams speaks in New York's Times Square during a news conference, Dec. 30, 2022. Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn't actually speak,"
-    publishedDateTime: 2023-10-17T23:23:00Z
-    webUrl: "https://www.seattlepi.com/news/politics/article/can-new-york-s-mayor-speak-mandarin-no-but-with-18431217.php"
+    excerpt: "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak"
+    publishedDateTime: 2023-10-17T21:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
     type: article
     provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 6
+      name: ABC
+      domain: abcnews.go.com
+    quality: 46
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_30517885466994e5f1f54745c08691e0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "XtAsnqhqLXtliV/rxdgNJ0JpFn0Lzyn3ixOAv78wa8nzplMOWbFwkHu14V6Brbf6WehDhY23RR8hMuxKhOFnyNAOTHABZ2gLGd5HWWSh0ZM9f2lRN1PTaXIsyetvkjcv5RhUGYs5tZzTTsAztJubWLUNKMtldc12N3EIEwJXT5FLRBEa9TSV94uXrgv0ewlstxFwgam0rW2o6hWpnanlwg8VYJmC5a9YuJt+P7BjiM+0OfeDTPnavUv4s2x9BWuPBCjzOo8l0Sm+cF4tpXp13n7HixywgN8LzNpVc7vsIelQitVkKwnwugUyvRMjt4WRei3mIj4eEGgHa0iPxu6W2iLa5swHbTwSxgL9s5CkOqw=;3kXzZ3UgCuGu/9HDJ4HIbg=="
 ---
