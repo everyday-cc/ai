@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/press-release/pocketnest-announces-ai-pr
 webUrl: "https://www.cuinsight.com/press-release/pocketnest-announces-ai-project-with-google-ibm/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,40 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "IBM inks pact with govt to boost innovation in semiconductors, AI"
+    excerpt: "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform"
+    publishedDateTime: 2023-10-18T16:06:00Z
+    webUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG"
+        width: 1599
+        height: 900
+        isCached: true
+  - title: "PSU working with Artificial Intelligence to advance semiconductor research"
+    excerpt: "In recent years, Oregon lawmakers, working with federal legislators and businesses, have been hoping to bolster the state’s semiconductor industry through investments like the CHIPS and"
+    publishedDateTime: 2023-10-16T14:46:00Z
+    webUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/"
+    ampWebUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
+    cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 55
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/10/generic-portland-state-university-10012023.png?w=1280"
+        width: 800
+        height: 455
+        isCached: true
 
 secured: "8HwDCBQmrP5KO2Igxhn/Bjf9ZCK5vGVihv0T5TfkbLO6/EcCch5W/NVfiwQD2r4WegnqUF+qk1hk9rM7lHvDSM7Muonvoye26M5rWCLKAf63vbBepZkpD0lO+DyWvYrvkHZWmbzUtMF13Qk6kTtucAWxtSKcKd7kozM0LHWwKlkGkc/VA4/kp1gwf+mDvwB4yiR72sMVuvQPZ/OEUQcW9YE4pY4WZmRP1CV0IzmEFtMQzwL23Hem08+w47SQn1/HvF9THsutskA8AL1dJNdAJGc8Bb7DgCI3XJIP37UCAF3s2Tix9xcHXkzGGVUfuD3+EMQEvNxChDqdzsYsuzn0ltSFgMGQfhTTS/wwT9yUFxM=;Oo8ezSogMvCEIYoNgxZ69g=="
 ---

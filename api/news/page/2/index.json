@@ -2,6 +2,324 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-18-how-generative-ai-will-upend-the-doctor-patient-relationship.md",
+      "title": "How Generative AI Will Upend The Doctor-Patient Relationship",
+      "excerpt": "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/",
+      "originalUrl": "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/",
+      "publishedDateTime": "2023-10-18T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion.md",
+      "title": "How lenders use AI and machine learning to boost financial inclusion",
+      "excerpt": "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
+      "originalUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
+      "publishedDateTime": "2023-10-17T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document.md",
+      "title": "GCC Attorneys General approve use of Artificial Intelligence ethics document",
+      "excerpt": "The document aims to establish a regulatory framework for the ethical use of AI in the work of attorney general offices",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r",
+      "originalUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NTdlNzBiZWItZmNlYi00/6/1464561575.jpeg?f=3%3A2",
+          "width": 759,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
+      "publishedDateTime": "2023-10-17T22:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-northwestern-researchers-create-robot-designing-ai.md",
+      "title": "Northwestern researchers create robot-designing AI",
+      "excerpt": "The Northwestern team gave the AI a prompt to design a robot that can walk across a flat surface, and used the AI's design as blueprints.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
+      "originalUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/northwestern-AI-designed-robot-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers.md",
+      "title": "IIT-M to offer training in generative AI, machine learning to freshers",
+      "excerpt": "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+          "width": 1070,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms",
+      "publishedDateTime": "2023-10-17T19:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023.md",
+      "title": "Huawei’s deep learning data lake storage solution launched at GITEX GLOBAL 2023",
+      "excerpt": "Huawei’s OceanStor A310 addresses critical industry challenges and expands the horizons of AI as it provides optimal storage capability for basic model training, industry model training, and inference in segmented scenario models,",
+      "sourceUrl": null,
+      "webUrl": "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/",
+      "originalUrl": "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/amp/",
+      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/amp/",
+      "publishedDateTime": "2023-10-17T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Times",
+        "domain": "dailytimes.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-revolutionizing-web-metas-ai-takeover.md",
+      "title": "Revolutionizing Web: Meta's AI Takeover",
+      "excerpt": "Andreessen helped in 1993 to write Mosaic, the base code for the Netscape web browser. After Netscape was acquired in 1998 by AOL for $4.3 billion, Andreessen and his partner Ben Horowitz became noted angel investors in the San Francisco bay area. Their namesake venture capital firm was officially founded in 2009.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1201,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
+      "publishedDateTime": "2023-10-17T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-baidu-launches-new-llm-ernie-40-that-turns-one-person-into-an-ai-marketing-team.md",
       "title": "Baidu launches new LLM ERNIE 4.0 that turns one person into ‘an AI marketing team’",
       "excerpt": "In live demos, Li showcased ERNIE Bot's prowess in understanding complicated and jumbled human requests and responding to them.",
@@ -913,351 +1231,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news.md",
-      "title": "AI will change the role of developers forever, but leaders say that's good news",
-      "excerpt": "Senior execs at two blue-chip organizations explain how they're embracing automation and why everyone in these businesses -- including IT pros -- are reaping the rewards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "originalUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/806ca95bad0de39cad63b2ec7a70724e961266ae/2023/05/05/91cfbf27-c652-4474-908c-4a2483fa4f87/gettyimages-1437209125.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
-      "publishedDateTime": "2023-10-17T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-clearview-ai-and-the-end-of-privacy-with-author-kashmir-hill.md",
-      "title": "Clearview AI and the end of privacy, with author Kashmir Hill",
-      "excerpt": "Journalist Kashmir Hill’s new book, Your Face Belongs to Us, is all about Clearview AI and the threat to privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder",
-      "originalUrl": "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/xm1EO3Cgz-jmiOLG0Cz-JoXbTJI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25006282/Kashmir_Hill_Decoder.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird.md",
-      "title": "I tested Meta's Tom Brady and Kendall Jenner AI chatbots and it was weird",
-      "excerpt": "Since Meta described his role as a \"Wisecracking sports debater who pulls no punches,\" I began the chat by chatting about the Jets' win last night. The first thing I noticed on the screen was the rectangle with Tom Brady's face in the upper right-hand corner, which resembled what you would see if you were on a FaceTime call with someone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/edaff8ebce2fd9ac8f07c965727a5c2811b22422/2023/10/16/8dd8ef3c-53c2-4da8-a5ac-fa83066e3850/2022-25.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
-      "publishedDateTime": "2023-10-17T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day.md",
-      "title": "New Era of Artificial Intelligence (AI) Grips World's Imagination as GITEX Global 2023 Enters 2nd Day",
-      "excerpt": "Pony.ai, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Minister of State for AI, Digital Economy and Remote Work Applications, addresses the inaugural CTO World Congress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
-      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.africa-newsroom.com/files/thumb/e270b6b8e4e5e55/600/418",
-          "width": 600,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
-      "publishedDateTime": "2023-10-17T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus.md",
-      "title": "Nvidia enables AI processing on Windows PCs with RTX GPUs",
-      "excerpt": "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/",
-      "originalUrl": "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-1-artificial-intelligence-ai-stock-to-buy-and-hold-forever.md",
-      "title": "1 Artificial Intelligence (AI) Stock to Buy and Hold Forever",
-      "excerpt": "Chipmaker Nvidia ( NVDA 1.40%) has become a Wall Street darling. It's soared by a whopping 215% year to date as it takes advantage of the opportunity in artificial intelligence (AI), which boosts demand for its cutting-edge hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/751095/gettyimages-1433587895.jpg",
-          "width": 1878,
-          "height": 1596,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-a-godfather-of-ai-calls-for-an-organization-to-defend-humanity.md",
-      "title": "A ‘Godfather of AI’ Calls for an Organization to Defend Humanity",
-      "excerpt": "Yoshua Bengio’s pioneering research helped bring about ChatGPT and the current AI boom. Now he’s worried AI could harm civilization and says the future needs a humanity defense organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/",
-      "originalUrl": "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/652dd6796e42fd8f18e64109/191:100/w_1280,c_limit/GettyImages-1692966368.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

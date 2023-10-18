@@ -152,6 +152,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Nvidia and Foxconn partner to develop ‘AI factory data centers’"
+    excerpt: "Nvidia and Foxconn are partnering to develop data center modules for AI-powered factories based on the GPU-maker's Grace Hopper chips."
+    publishedDateTime: 2023-10-18T16:54:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-foxconn-parter-to-develop-ai-factory-data-centers/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Grace_Hopper_Image.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia and Foxconn to collaborate on AI data factories and smarter self-driving cars"
     excerpt: "Nvidia Corp. said today it’s expanding its ongoing collaboration with Hon Hai Technology Group, better known as Foxconn, to accelerate the development of artificial intelligence-powered electric vehicles and robotics platforms."
     publishedDateTime: 2023-10-18T03:00:00Z

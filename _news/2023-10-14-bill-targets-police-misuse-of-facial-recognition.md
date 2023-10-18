@@ -25,20 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Tens Of Millions Of Faces Training Facial Recognition; You’ll Soon Be Able To Search For Yourself"
-    excerpt: "In a stiflingly hot lecture tent at CCCamp on Friday, Adam Harvey took to the stage to discuss the huge data sets being used by groups around the world to train facial recognition software."
-    publishedDateTime: 2023-10-14T00:00:00Z
-    webUrl: "https://hackaday.com/2019/08/25/the-tens-of-millions-of-faces-training-facial-recognition-youll-soon-be-able-to-search-for-yourself/"
+  - title: "Login.gov to add facial recognition tech"
+    excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
+    publishedDateTime: 2023-10-18T15:00:00Z
+    webUrl: "https://www.nextgov.com/digital-government/2023/10/logingov-add-facial-recognition-tech/391300/"
     type: article
     provider:
-      name: Hackaday
-      domain: hackaday.com
+      name: Nextgov
+      domain: nextgov.com
     quality: 39
     images:
-      - url: "https://hackaday.com/wp-content/uploads/2019/08/Andrew-Harvey-PegaPixels-facial-recognition-CCCamp2019-featured.jpg"
-        width: 2951
-        height: 1660
+      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
+  - title: "How often should police use facial recognition technology? Mass. considering strict limits"
+    excerpt: "BOSTON — One New Jersey man spent 11 days in jail when he was mistakenly identified as a suspect in an assault through the use of facial recognition technology. A Detroit father was arrested at ..."
+    publishedDateTime: 2023-10-14T07:32:00Z
+    webUrl: "https://www.telegram.com/story/news/state/2023/10/13/massachusetts-police-facial-recognition-limits-proposed/71159918007/"
+    type: article
+    provider:
+      name: Telegram
+      domain: telegram.com
+    quality: 9
+  - title: "What Educators Should Know About Facial-Recognition Tech"
+    excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
+    publishedDateTime: 2023-10-16T18:41:00Z
+    webUrl: "https://www.govtech.com/education/k-12/what-educators-should-know-about-facial-recognition-tech"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 4
 
 secured: "YOyFLxWez5era6T4RDjhVp44FJKO6n9hLdl+0MwE1XaxY/t9lwyIrjUI5MxrB3IIvCF3MTZjcdt+SVm50bTP0uuq6GszX1fUjGgj8fS2OcVwl8P8JwY7YqDHru69OpPCvUrzmdzS6v6wu76V5830eJAqSDmjMCd2n/wKs9r2zII6f+0aMWOJMi3czZSuK/zTPs+fXEcYYhY2KrY3d04W5WBvo3xKLeza1mwD9Q33u1A4WT8vMV8kKJfzYhRazfRYTMsZ/gqjb/Ti/2Ef1crl3xRUZz7cHShVbp7YYNSRUFhvhvRnbkyDNZuuNBLALfPlRo0dUzNbuJaHxgd45WBsSfCAirfDidf8o5229qAWDZgThXa1x241FD8Ei0ecZ9tD2s9kTAuqAKCziT7KCqOAgqePEpgEAKevpZLeCYdU5p2a6BCyzArpASaDmQTOlgf0bBieDDGoJgRllHBy4MX0zbWGll7TOcscIILDWvNIxHCNhI3r2x75qr7QaGiwiXEGti5QPhj6VWio4zRVGZqUpA==;/ProMWgwM1cttAC9JUi1Ag=="
 ---

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-28-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
+      "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
+      "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/19736510/how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-27T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-27-how-artificial-intelligence-is-revitalizing-amazons-aws-business-a-closer-look.md",
       "title": "How Artificial Intelligence Is Revitalizing Amazon's AWS Business: A Closer Look",
       "excerpt": "Amazon Web Services (AWS) has been at the forefront of innovation since its inception. In recent years, the company has been doubling down on its efforts to integrate artificial intelligence (AI ...",
@@ -1342,50 +1376,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-07-amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-showdown.md",
-      "title": "Amazon's AWS Vs Microsoft Azure Vs Google Cloud: How Tech Titans Fared In June Quarter's Cloud Showdown",
-      "excerpt": "According to data from Synergy Research, enterprise spending on cloud infrastructure services increased by $10 billion year-over-year to reach $65 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/23/08/33593955/amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-show",
-      "originalUrl": "https://www.benzinga.com/markets/equities/23/08/33593955/amazons-aws-vs-microsoft-azure-vs-google-cloud-how-tech-titans-fared-in-june-quarters-cloud-show",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Cloud_Services.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33593955",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33593955",
-      "publishedDateTime": "2023-08-07T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

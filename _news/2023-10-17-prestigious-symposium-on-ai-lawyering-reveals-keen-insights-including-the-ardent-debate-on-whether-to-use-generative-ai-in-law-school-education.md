@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-sympo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/amp/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Forbes
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Let's use AI to rethink education, instead of panicking about cheating"
+    excerpt: "If we build and use AI effectively, we can create an education system where students are assessed on the quality and depth of their knowledge, rather than the content of an exam, says Okezue Bell"
+    publishedDateTime: 2023-10-18T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034613-400-lets-use-ai-to-rethink-education-instead-of-panicking-about-cheating/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/17104734/SEI_175845653.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "62MrW/njvaHGa27jpcrn5oFoHKXYnqXMmHrbxRf73TCdiGXVDWCIH92Rztqq0nhd1V4AVhNEHjT4MyslQsDoDoFZ1RrbH0pFRWFFS+ePQhYR2gwbxCWESBTrsBiv+8y6JiQE+9gCWnkquV12y5oc3ZyIABNjFpgDqztH8zd4pndewVBaq+b4EJ0O0Cfb/h+0ciVStV+qfaO2aYPIE73VaigqL6n0P8wKr0OgmjHzhVbcRu3wI8gLgS23J+LfOnBOGULyzjxLNKX3xCkAlBAFXiAEdc13J2LI7CRN7Im4V6v/T93Rt8s6+1OFF0V2rK/9z1fcB7XC6O+abyDNcrE3niKOo1n7Ih5f9T/VVLZPUkY=;VXk/VuXMbSXXx4+TDB2qag=="
 ---

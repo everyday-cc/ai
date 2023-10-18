@@ -2,6 +2,256 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-19-ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains.md",
+      "title": "IBM expands AWS partnership to bring generative AI to call centers, supply chains",
+      "excerpt": "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "originalUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai.md",
+      "title": "What LinkedIn Is Getting Wrong, And Why They Need To Be Google For Business. (hint It’s AI)",
+      "excerpt": "LinkedIn should be a Camera Obscura for the professional realm. LinkedIn's primary revenue focus is unsustainable. Relying heavily on revenue from recruiting firms",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/",
+      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/653010b23ac572e4831d3103/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
+      "publishedDateTime": "2023-10-18T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-jasper-launches-new-marketing-ai-copilot-no-one-should-have-to-work-alone-again.md",
+      "title": "Jasper launches new marketing AI copilot: ‘No one should have to work alone again’",
+      "excerpt": "New features include analytics to optimize content, a company intelligence hub to align messaging with brand strategy, and campaign tools.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/jasper-launches-new-marketing-ai-copilot-no-one-should-have-to-work-alone-again/",
+      "originalUrl": "https://venturebeat.com/ai/jasper-launches-new-marketing-ai-copilot-no-one-should-have-to-work-alone-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_golden_age_sci-fi_book_art_profile_view_a_robot_leans_o_33549ea0-c858-4b66-a892-a7b4c83592a4.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-ai-impact-on-data-centers-will-be-massive-ocp-says.md",
+      "title": "AI impact on data centers will be ‘massive,’ OCP says",
+      "excerpt": "Open Compute Project expects the hardware requirements of AI to usher in a new era of larger data centers, liquid-cooled hardware, and greater power consumption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.html",
+      "originalUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3708754/ai-impact-on-data-centers-will-be-massive-ocp-says.amp.html",
+      "publishedDateTime": "2023-10-18T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai.md",
+      "title": "IBM inks pact with govt to boost innovation in semiconductors, AI",
+      "excerpt": "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html",
+      "originalUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
+      "publishedDateTime": "2023-10-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions.md",
       "title": "Optimize pet profiles for Purina’s Petfinder application using Amazon Rekognition Custom Labels and AWS Step Functions",
       "excerpt": "Purina US, a subsidiary of Nestle, has a long history of enabling people to more easily adopt pets through Petfinder, a digital marketplace of over 11,000 animal shelters and rescue groups across the US, Canada, and Mexico. As the leading pet adoption platform, Petfinder has helped millions of pets find",
@@ -158,7 +408,7 @@
       "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -297,6 +547,50 @@
       ]
     },
     {
+      "path": "_news/2023-10-18-aitx-provides-update-on-deployed-rad-security-robots.md",
+      "title": "AITX Provides Update on Deployed RAD Security Robots",
+      "excerpt": "This announcement serves as an affirmation of the Company's commitment to enhancing shareholder value by tracking deployment statistics and revenue milestones. It underscores a strategic pivot towards operational efficiency, cost management, and revenue optimization through accelerated device deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-generative-ai-in-naval-engineering-small-proprietary-data-sets-limit-adoption.md",
       "title": "Generative AI in naval engineering: Small, proprietary data sets limit adoption",
       "excerpt": "Modern computing has significantly improved the design and build processes of naval architecture and marine engineering, but limited data is holding it back from advancing even further.",
@@ -408,7 +702,7 @@
       "originalUrl": "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -534,6 +828,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-opinion-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "Opinion: AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "originalUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-843717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "publishedDateTime": "2023-10-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -861,324 +1207,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-generative-ai-will-upend-the-doctor-patient-relationship.md",
-      "title": "How Generative AI Will Upend The Doctor-Patient Relationship",
-      "excerpt": "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/",
-      "publishedDateTime": "2023-10-18T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion.md",
-      "title": "How lenders use AI and machine learning to boost financial inclusion",
-      "excerpt": "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "originalUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
-      "publishedDateTime": "2023-10-17T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document.md",
-      "title": "GCC Attorneys General approve use of Artificial Intelligence ethics document",
-      "excerpt": "The document aims to establish a regulatory framework for the ethical use of AI in the work of attorney general offices",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r",
-      "originalUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NTdlNzBiZWItZmNlYi00/6/1464561575.jpeg?f=3%3A2",
-          "width": 759,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/legal/regulations/gcc-attorneys-general-approve-use-of-artificial-intelligence-ethics-document-eqeb7c9r?amp=1",
-      "publishedDateTime": "2023-10-17T22:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-northwestern-researchers-create-robot-designing-ai.md",
-      "title": "Northwestern researchers create robot-designing AI",
-      "excerpt": "The Northwestern team gave the AI a prompt to design a robot that can walk across a flat surface, and used the AI's design as blueprints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
-      "originalUrl": "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2023/10/northwestern-AI-designed-robot-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers.md",
-      "title": "IIT-M to offer training in generative AI, machine learning to freshers",
-      "excerpt": "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1070,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms",
-      "publishedDateTime": "2023-10-17T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023.md",
-      "title": "Huawei’s deep learning data lake storage solution launched at GITEX GLOBAL 2023",
-      "excerpt": "Huawei’s OceanStor A310 addresses critical industry challenges and expands the horizons of AI as it provides optimal storage capability for basic model training, industry model training, and inference in segmented scenario models,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/",
-      "originalUrl": "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/amp/",
-      "cdnAmpWebUrl": "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/amp/",
-      "publishedDateTime": "2023-10-17T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Times",
-        "domain": "dailytimes.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-revolutionizing-web-metas-ai-takeover.md",
-      "title": "Revolutionizing Web: Meta's AI Takeover",
-      "excerpt": "Andreessen helped in 1993 to write Mosaic, the base code for the Netscape web browser. After Netscape was acquired in 1998 by AOL for $4.3 billion, Andreessen and his partner Ben Horowitz became noted angel investors in the San Francisco bay area. Their namesake venture capital firm was officially founded in 2009.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1201,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/",
-      "publishedDateTime": "2023-10-17T18:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

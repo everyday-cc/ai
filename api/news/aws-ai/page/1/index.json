@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-19-ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains.md",
+      "title": "IBM expands AWS partnership to bring generative AI to call centers, supply chains",
+      "excerpt": "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "originalUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions.md",
       "title": "Optimize pet profiles for Purina’s Petfinder application using Amazon Rekognition Custom Labels and AWS Step Functions",
       "excerpt": "Purina US, a subsidiary of Nestle, has a long history of enabling people to more easily adopt pets through Petfinder, a digital marketplace of over 11,000 animal shelters and rescue groups across the US, Canada, and Mexico. As the leading pet adoption platform, Petfinder has helped millions of pets find",
@@ -1344,49 +1397,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance.md",
-      "title": "AWS at DTW23: Generative AI to Transform Telco CX, Network Operations and Business Performance",
-      "excerpt": "Amazon Web Services (AWS), a global cloud computing provider, showcased it's suite of solutions for the telecoms industry at DTW23's AWS Next Level balcony",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
-      "originalUrl": "https://www.thefastmode.com/conferences-expos-and-trade-shows/33358-aws-at-dtw23-generative-ai-to-transform-telco-cx-network-operations-and-business-performance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/1deb0eeb092a613d579a5b63b078edfa.jpg?t=20230926_033003",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T20:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

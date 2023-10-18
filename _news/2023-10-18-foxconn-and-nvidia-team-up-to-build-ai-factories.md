@@ -138,6 +138,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Nvidia and Foxconn partner to develop ‘AI factory data centers’"
+    excerpt: "Nvidia and Foxconn are partnering to develop data center modules for AI-powered factories based on the GPU-maker's Grace Hopper chips."
+    publishedDateTime: 2023-10-18T16:54:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-foxconn-parter-to-develop-ai-factory-data-centers/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 39
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Grace_Hopper_Image.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA, Foxconn partner to build 'AI factories' for self-driving cars"
     excerpt: "Tech giants NVIDIA and Foxconn are teaming up to create AI factories that will offer supercomputing power for developing self-driving cars, autonomous machines, and industrial robots"
     publishedDateTime: 2023-10-18T06:56:00Z

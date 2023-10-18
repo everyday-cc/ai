@@ -114,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 366,
+      "heat": 386,
       "tags": null,
       "images": [
         {
@@ -198,50 +198,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-m42-announces-new-clinical-llm-to-transform-the-future-of-ai-in-healthcare.md",
-      "title": "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare",
-      "excerpt": "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/en/it_en/3396194",
-      "originalUrl": "https://www.thaipr.net/en/it_en/3396194",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-15T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI",
         "AI in Healthcare"
       ]
@@ -1415,6 +1371,51 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-10-01-efficient-training-for-artificial-intelligence.md",
+      "title": "Efficient training for artificial intelligence",
+      "excerpt": "New physics-based self-learning machines could replace the current artificial neural networks and save energy. Artifical intelligence not only affords impressive performance, but also creates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230922110755.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-30T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
       ]
     }
   ],

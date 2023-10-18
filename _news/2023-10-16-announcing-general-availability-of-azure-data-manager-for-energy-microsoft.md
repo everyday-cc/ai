@@ -49,6 +49,22 @@ related:
         width: 1565
         height: 900
         isCached: true
+  - title: "Microsoft's new AI assistant can go to meetings for you"
+    excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
+    publishedDateTime: 2023-10-18T17:35:00Z
+    webUrl: "https://www.bbc.com/news/technology-67103536"
+    ampWebUrl: "https://www.bbc.com/news/technology-67103536.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67103536.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7E28/production/_131469223_gettyimages-1684489759.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
     publishedDateTime: 2023-10-17T13:54:00Z
@@ -240,6 +256,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Foundry For AI By Rackspace Partners With Straits Interactive To Launch AI Data Protection Officer On Microsoft Azure Openai Service"
+    excerpt: "The AI DPO Assistant chatbot guides organizations, especially SMEs, in data governance and navigating data protection requirements. Built on the Microsoft Azure Open AI Service, the chatbot securely stores data in a multicloud environment by Rackspace Technology. The AI DPO Assistant will:"
+    publishedDateTime: 2023-10-18T17:24:00Z
+    webUrl: "https://menafn.com/1107265676/Foundry-For-AI-By-Rackspace-Partners-With-Straits-Interactive-To-Launch-AI-Data-Protection-Officer-On-Microsoft-Azure-Openai-Service"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865047"
+        width: 446
+        height: 250
         isCached: true
   - title: "AI Explained – Stories – Microsoft"
     excerpt: "Microsoft News Center AI basics Large AI Models Researchers at Microsoft and elsewhere are making progress on developing large AI systems that"

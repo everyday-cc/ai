@@ -45,6 +45,50 @@
       ]
     },
     {
+      "path": "_news/2023-10-18-aitx-provides-update-on-deployed-rad-security-robots.md",
+      "title": "AITX Provides Update on Deployed RAD Security Robots",
+      "excerpt": "This announcement serves as an affirmation of the Company's commitment to enhancing shareholder value by tracking deployment statistics and revenue milestones. It underscores a strategic pivot towards operational efficiency, cost management, and revenue optimization through accelerated device deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-fostering-stem-diversity-and-inclusion-through-robotics-and-turkey.md",
       "title": "Fostering STEM Diversity And Inclusion Through Robotics And Turkey",
       "excerpt": "A new international educational program engages children in robotics activities to encourage broader youth participation in STEM.",
@@ -384,7 +428,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -512,6 +556,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-how-are-ai-and-robotics-combining-to-revolutionize-recycling.md",
+      "title": "How are AI and robotics combining to revolutionize recycling?",
+      "excerpt": "A survey conducted by the Carton Council of North America in 2018 showed that 94 percent of Americans support recycling.",
+      "sourceUrl": null,
+      "webUrl": "https://augustafreepress.com/news/how-are-ai-and-robotics-combining-to-revolutionize-recycling/",
+      "originalUrl": "https://augustafreepress.com/news/how-are-ai-and-robotics-combining-to-revolutionize-recycling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2023/06/recycling.jpg",
+          "width": 555,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-14T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1265,101 +1352,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-us-tech-company-raises-funding-to-build-swarming-robot-boats.md",
-      "title": "U.S. Tech Company Raises Funding To Build Swarming Robot Boats",
-      "excerpt": "Drone boat makers Saronic today announced today a new funding round to help develop and mass-produce large numbers of autonomous boats for the U.S. Navy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65250764b82b860c469297a6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2023/10/10/us-tech-company-raises-funding-to-build-swarming-robot-boats/amp/",
-      "publishedDateTime": "2023-10-10T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-ai-a-helping-hand-from-our-robot-overlords.md",
-      "title": "AI: 'A Helping Hand from Our Robot Overlords'",
-      "excerpt": "Arizona Chief Information Security Officer Ryan Murray sees two significant opportunities for artificial intelligence in cybersecurity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/84cb0e6/2147483647/strip/true/crop/4032x2102+0+338/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fc5%2Fe1%2Fef27db13445e87e6716c08c1f9a4%2Farizona-ciso-ryan-murray.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/ai-a-helping-hand-from-our-robot-overlords?_amp=true",
-      "publishedDateTime": "2023-10-09T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,22 +2,26 @@
 category: news
 title: "WiMi is Researching Machine Learning-Based Multi-Focus Image Fusion"
 excerpt: "The machine learning-based multi-focus image fusion researched by WiMi requires multiple steps of processing and analysis to get the final image fusion result. These steps need to consider various factors such as application scenarios, data quality, model design, etc. to get better results and performance."
-publishedDateTime: 2023-10-18T12:23:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/10/18/wimi-is-researching-machine-learning-based-multi-focus-image-fusion"
-webUrl: "https://stockhouse.com/news/press-releases/2023/10/18/wimi-is-researching-machine-learning-based-multi-focus-image-fusion"
+publishedDateTime: 2023-10-18T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researching-machine-learning-based-multi-focus-image-fusion-1032716567"
+webUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researching-machine-learning-based-multi-focus-image-fusion-1032716567"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "turaHiSr+U//2PWe/E+4sfbhw/Fa84bEdH6IqjMmEJ8A2gnr4grGYvcCXy9S64Y1ZD1066ScCsfapRCQBBBrp7g9rCw6tfs/kFAiBnRUGhjd0dCM7MCWpGKNNS/eUQXR6rNS+U5RhFq1Z+ye7NUAAydjYS+AIVE8PgSoVji0jwk5R2CIlOccu8OmFiAo+sqQR5GsrwjrckJcXVQprbE/XZ7SccPAWtfDYOVrAszux3KHtmEPMKR6GmL+/3ki9tIlA8YVGmIJmpHAaNtX60m0vQcfzRtGGVK+ln5PUt8f6ehDV0m2Gbh8X7NRiEw5nJ1eigz15Zt8L1P4ex1xNNF3EEzIpLZdWhlVAgWJGdOJquMQzlp9gzLMlwWd7cUjFr6w3usFNoeK5knlkyqEhaHgI6RBhcVMN1cewTapaM6N6aHt0aNq8Nv3nWhYAqN6cA1RHkAnED0AdCsRWIjxQ+gCxYHQEP/BlahR/82/7RC30ib2PRVMFsX/PBgxO+LJjg0CkOUN/Rh97t7N061GrrOT5Q==;dSZ+n7uLSFNg+K0H2piybg=="
+secured: "/uYYSuVt+FKnO27p0mQGQs4mmIKE8LMkzugliOhntdB3L45MCZN/jgj6L49n3jXxQx7qQB83cI89OEYujEFjSLvqHwfU/O2vEbb/HAdBjKCC8NwHMe4ZVoWh7yPweinagR3wWQN2Adrnb2qeqcZeqDv6Gb/yiWAgLdr2iz2AGJp2EEqDCct+fCV17Ek29hauz1S7j9fG8llf8wfmTGkP/p1Nd8td2lUrovHswtqVi5gfRfe73GJYBDSJwgM1T+EKQWe16Sobpmz7VA+Cb+ZyG2QV5g0s454lZBNH4zrpcMfugTDEL+AgKKEdi7GJmLuwXeApAID1/3R9T5atTongFXn/y/xp6c4RE0FPrSh9IyQ=;HIxxS8z1jvrqsi6zc3Kb1A=="
 ---
 

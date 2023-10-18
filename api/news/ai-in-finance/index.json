@@ -752,41 +752,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-06-3-machine-learning-stocks-ready-to-make-a-move-higher.md",
-      "title": "3 Machine Learning Stocks Ready to Make a Move Higher",
-      "excerpt": "The post 3 Machine Learning Stocks Ready to Make a Move Higher appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-ready-to-make-a-move-higher",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2023-10-06-fintech-lendbuzz-raises-345m-to-expand-its-ai-powered-auto-finance-platform.md",
       "title": "Fintech Lendbuzz Raises $345M to Expand its AI-Powered Auto Finance Platform",
       "excerpt": "Lendbuzz, a financial technology company, raised $345M in a combination of $45 million in equity funding and $300 million in a forward flow facility.",
@@ -1364,6 +1329,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-09-26-fintech-trends-that-are-shaping-modern-finance-services.md",
+      "title": "Fintech Trends That Are Shaping Modern Finance Services",
+      "excerpt": "The fintech industry continues to evolve as many processes become increasingly digital. Each year, companies offer new solutions that transform many financial services, making them more secure and client-focused.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
+      "originalUrl": "https://techbullion.com/fintech-trends-that-are-shaping-modern-finance-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/09/pexels-ivan-samkov-7621142-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

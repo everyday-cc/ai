@@ -2,6 +2,387 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-10-03-how-intuitive-ai-can-harmonize-a-hybrid-workforce.md",
+      "title": "How Intuitive AI Can Harmonize A Hybrid Workforce",
+      "excerpt": "it is important to carefully think about what data will be used to train your AI. Start by conducting audits to understand the current data landscape within your organization. It’s also essential to ensure that this data is cleaned, labeled and well ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f184032107158000722cf84/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/03/how-intuitive-ai-can-harmonize-a-hybrid-workforce/amp/",
+      "publishedDateTime": "2023-10-03T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026.md",
+      "title": "IBM launches artificial intelligence education efforts, aims to train 2M by 2026",
+      "excerpt": "To help close the global artificial intelligence skills gap, IBM recently announced a commitment to train two million learners in AI by the end of 2026, with a focus on underrepresented communities.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/",
+      "originalUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/06/artificial-intelligence-teacher-e1687532885604.jpg",
+          "width": 1203,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/03/ibm-launches-artificial-intelligence-education-efforts-aims-to-train-2m-by-2026/?amp=1",
+      "publishedDateTime": "2023-10-03T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-security-ai-and-automation-are-key-in-protecting-against-costly-data-breaches-for-retailers-and-consumer-goods-businesses.md",
+      "title": "Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses",
+      "excerpt": "For retailers, AI and automation can significantly reduce the impact of a cybersecurity data breach—financially and beyond.\nThe post Security AI and automation are key in protecting against costly data breaches for retailers and consumer goods businesses appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
+      "originalUrl": "https://www.ibm.com/blog/security-ai-automation-protecting-against-data-breaches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-social-media-has-new-moderation-problems-this-ai-startup-has-a-solution.md",
+      "title": "Social media has new moderation problems. This AI startup has a solution",
+      "excerpt": "Unitary's AI-based content moderation system could help social media platforms comply with strict new European laws.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/unitary-ai-social-media-content-moderation",
+      "originalUrl": "https://thenextweb.com/news/unitary-ai-social-media-content-moderation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F09%2FUntitled-design4.jpg&signature=0780397fe23ddbc32f4db7141cc508fb",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-support-for-australian-indigenous-recognition-up-slightly-with-vote-underway.md",
+      "title": "Support for Australian Indigenous recognition up slightly with vote underway",
+      "excerpt": "SYDNEY (Reuters) -Support for a proposal to amend Australia’s constitution to enshrine recognition of Indigenous people has ... Indigenous Australians in the constitution and create a “Voice to Parliament” to give them an avenue to advise the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/australia-indigenous-idAFKCN3121UU",
+      "originalUrl": "https://www.reuters.com/article/australia-indigenous-idAFKCN3121UU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20231002&t=2&i=1646495181&r=LYNXNPEJ91104&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind.md",
+      "title": "Less is a lot more when it comes to AI, says Google's DeepMind",
+      "excerpt": "Neural network AI programs that are reduced by 75% of their functionality can achieve the same power as programs twice their size.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "originalUrl": "https://www.zdnet.com/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/500d64d21c2344b027de10586bf42bbe485df102/2023/10/01/d14d4b26-5f10-4b88-b288-2f113d6e1992/building-neural-networks-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/less-is-a-lot-more-when-it-comes-to-ai-says-googles-deepmind/",
+      "publishedDateTime": "2023-10-03T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-review-i-cant-believe-how-much-i-loved-the-shark-ai-ultra-2-in-1-robot-vacuum.md",
+      "title": "Review: I can't believe how much I loved the Shark AI Ultra 2-in-1 robot vacuum",
+      "excerpt": "The robot vacuum space may be dominated by iRobot and Roborock, but Shark has quietly released one of the best robot vacuums we've tested. The Shark AI Ultra is the rare hybrid that vacuums and mops equally well,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop",
+      "originalUrl": "https://mashable.com/review/shark-ai-ultra-2-in-1-robot-vacuum-mop",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/reviews/0594eGKLbI7zC1lFEK03GnH/hero-image.fill.size_1200x675.v1693425590.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report.md",
+      "title": "Facial Recognition Market 2023-2030 with In-Depth Analysis of the Research Report",
+      "excerpt": "Ask for Sample Report The global Facial Recognition market size was valued at USD 4491.54 million in 2022 and is expected to expand at a CAGR of 14.8 Percent during the forecast period ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35050319/facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35050319/facial-recognition-market-2023-2030-with-in-depth-analysis-of-the-research-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35050319",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35050319",
+      "publishedDateTime": "2023-10-03T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-nsa-announces-new-artificial-intelligence-security-center-desperately-needed.md",
       "title": "NSA announces new artificial intelligence security center: 'Desperately needed'",
       "excerpt": "The National Security Agency (NSA) will launch a new artificial intelligence security center to both protect U.S. AI systems and defend against external threats. The new security center launches ...",
@@ -822,403 +1203,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1.md",
-      "title": "Build an end-to-end MLOps pipeline for visual quality inspection at the edge – Part 1",
-      "excerpt": "A successful deployment of a machine learning (ML) model in a production environment heavily relies on an end-to-end ML pipeline. Although developing such a pipeline can be challenging, it becomes even more complex when dealing with an edge ML use case. Machine learning at the edge is a concept that",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-end-to-end-mlops-pipeline-for-visual-quality-inspection-at-the-edge-part-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/21/ML-6965-pipeline-scribble-820x630.jpg",
-          "width": 820,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T09:31:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-humata-ai-summarizes-and-answers-questions-about-your-pdfs.md",
-      "title": "Humata AI summarizes and answers questions about your PDFs",
-      "excerpt": "Humata AI, a startup developing a platform to summarize and answer questions about documents, has raised seed capital from GV and others.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/",
-      "originalUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1218924349.jpg?resize=1200,1021",
-          "width": 1200,
-          "height": 1021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/humata-ai-raises-to-summarize-docs/amp/",
-      "publishedDateTime": "2023-10-02T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight.md",
-      "title": "Microsoft’s ‘top choice’: supply of Nvidia AI GPUs improved but still tight",
-      "excerpt": "He mentioned that the situation regarding GPU supply has improved compared to a few months back, although it is still tight. Previously, the demand for Nvidia’s GPUs for AI and HPC applications exceeded the supply capacity of the entire ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
-      "originalUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/01/ARM-Nvidia.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "On MSFT",
-        "domain": "onmsft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-on-how-the-tech-advances.md",
-      "title": "Generative AI will far surpass what ChatGPT can do. Here's everything on how the tech advances",
-      "excerpt": "What does the future of generative AI hold? Multi-modality will move a primitive ChatGPT demo to interpersonal collaboration, advanced robotics -- and maybe even the AI dream of continuous learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1e357b9efc0f2faf4e0028af5b5311a9eda2e8e6/2023/08/01/33ef6d99-0191-4885-a987-0d94405d417a/chatbot-ai.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-far-surpass-what-chatgpt-can-do-heres-everything-you-need-to-know-how-the-tech-advances/",
-      "publishedDateTime": "2023-10-02T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-an-ai-experts-guide-to-customer-delight.md",
-      "title": "An AI Expert's Guide To Customer Delight",
-      "excerpt": "The emergence of large language models means that the bar is even higher for chatbot technology. Customers will come to expect open-ended prompts and humanlike responses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/648728901a0300c8f3f4b947/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/an-ai-experts-guide-to-customer-delight/amp/",
-      "publishedDateTime": "2023-10-02T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-ai-innovation-or-speculation-a-guide-to-understanding-the-difference.md",
-      "title": "AI Innovation Or Speculation: A Guide To Understanding The Difference",
-      "excerpt": "Here are three criteria we can use to help evaluate the innovative potential of AI companies, products and services so we can best assess their potential impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/02/ai-innovation-or-speculation-a-guide-to-understanding-the-difference/amp/",
-      "publishedDateTime": "2023-10-02T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy.md",
-      "title": "Four Ways The Role Of Marketing AI Prompt Engineers Can Improve Copy",
-      "excerpt": "The role of marketing prompt engineers is an emerging field that seeks to harmonize the intricacies of language with the analytical prowess of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623c69a0d637bace3de8cac3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/02/four-ways-the-role-of-marketing-ai-prompt-engineers-can-improve-copy/amp/",
-      "publishedDateTime": "2023-10-02T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-building-trust-in-ai-ethics-and-governance-for-responsible-innovation.md",
-      "title": "Building trust in AI: Ethics and governance for responsible innovation",
-      "excerpt": "In an ideal scenario, government, industry, and civil society would collaborate to ensure ethical development and deployment of AI. From an innovation standpoint, integrating ethics into AI becomes crucial. Ensuring it serves the best interests of everyone ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design271.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-building-trust-in-ai-ethics-and-governance-for-responsible-innovation-3260501/lite/",
-      "publishedDateTime": "2023-10-02T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

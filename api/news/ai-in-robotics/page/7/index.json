@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-30-robotics-and-smart-automation-change-the-packaging-game.md",
+      "title": "Robotics and Smart Automation Change the Packaging Game",
+      "excerpt": "Robotics and smart automation solutions are innovating and ... They report these technology making improvements in two key areas of production -- mechanical processes and control systems. One new key innovation that can improve mechanical packaging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/robotics-and-smart-automation-change-packaging-game",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/robotics-and-smart-automation-change-packaging-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/OspreyJLS.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-30-partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened.md",
+      "title": "Partner, helper, or boss? We asked ChatGPT to design a robot and this happened",
+      "excerpt": "Researchers who designed and built a tomato-picking robot together with ChatGPT have demonstrated some crucial lessons for the future of human-AI collaboration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "originalUrl": "https://www.zdnet.com/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb51fdea340543e6ccc2f59f72451a1b5110bb00/2023/08/23/a66f09f2-06c9-4df1-9b47-e94d31a55d16/testing-tomato-robot.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/partner-helper-or-boss-we-asked-chatgpt-to-design-a-robot-and-this-happened/",
+      "publishedDateTime": "2023-08-29T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-29-ai-robotics-mainland-china.md",
       "title": "AI Robotics - Mainland China",
       "excerpt": "Value in the AI Robotics market is projected to reach US$2bn in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 15.85%, resulting in a market volume of US$5bn by 2030.",
@@ -1258,102 +1353,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-armored-core-6-review-elden-robots.md",
-      "title": "Armored Core 6 review – elden robots",
-      "excerpt": "The creators of Elden Ring return with a new entry in their giant mech franchise, that takes more than a few cues from their previous games.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/",
-      "originalUrl": "https://metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2023/08/ARMORED-CORE-VI_03_4K-c46f.jpg?quality=90&strip=all&zoom=1&resize=600%2C337",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/08/23/armored-core-6-review-elden-robots-19384159/amp/",
-      "publishedDateTime": "2023-08-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-how-chatgpt-turned-generative-ai-into-an-anything-tool.md",
-      "title": "How ChatGPT turned generative AI into an “anything tool”",
-      "excerpt": "I’ve heard similar things from technologists working on everything from health insurance to semiconductor design. To create ChatGPT, a chatbot that lets humans use generative AI by simply having a conversation, OpenAI needed to change large language models (LLMs) like GPT3 to become more responsive to human interaction.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
-      "originalUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/",
-      "publishedDateTime": "2023-08-23T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

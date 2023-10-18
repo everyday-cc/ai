@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-18-opinion-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "Opinion: AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "originalUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-843717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "publishedDateTime": "2023-10-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ethical-framework-crucial-to-cope-with-fast-growth-of-ai-finance-minister.md",
       "title": "Ethical framework crucial to cope with fast growth of AI: finance minister",
       "excerpt": "An ethical framework on the use of technologies must be newly defined side by side with fast-growing artificial intelligence (AI) that is reshaping the era of digital transformation, Deputy Prime Minister and Minister of Economy and Finance Choo Kyung-ho said,",
@@ -190,58 +242,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-why-everyone-has-a-role-in-creating-ai-ethics-standards.md",
-      "title": "Why Everyone Has A Role In Creating AI Ethics Standards",
-      "excerpt": "As AI steadily integrates into our daily lives, ethical dilemmas have come to the forefront. I firmly believe that this duty extends beyond government boundaries; it's a shared responsibility encompassing each and every one of us, especially business leaders working with or on AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

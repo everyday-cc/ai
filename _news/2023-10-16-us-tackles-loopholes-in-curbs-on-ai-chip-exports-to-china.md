@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html"
 type: article
 quality: 104
-heat: 634
+heat: 644
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107318724-NVIDIA_THUMB.png?v=1697577296&w=1920&h=1080"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "US expands chip export curbs to China to throttle AI, supercomputer development"
+    excerpt: "Chinese officials said that the new US chip restrictions contradict fair trade principles, while immediate response from vendors is muted."
+    publishedDateTime: 2023-10-18T14:08:00Z
+    webUrl: "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 70
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/08/chip_trade-war_us_china-100944812-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "U.S. Tightens China’s Access to Advanced Chips for Artificial Intelligence"
     excerpt: "The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said."

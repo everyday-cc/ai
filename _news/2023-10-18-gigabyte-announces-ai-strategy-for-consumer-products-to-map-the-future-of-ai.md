@@ -1,54 +1,63 @@
 ---
 category: news
 title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-excerpt: "GIGABYTE, a leader in cloud computing and AI server markets, announced a new strategic framework for AI outlining a blueprint for the company's direction in the AI-driven future of the consumer PC market."
-publishedDateTime: 2023-10-18T15:11:00Z
-originalUrl: "https://www.koreaherald.com/view.php?ud=20231018000854"
-webUrl: "https://www.koreaherald.com/view.php?ud=20231018000854"
+excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
+publishedDateTime: 2023-10-18T16:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2023/10/18/9901068.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2023/10/18/9901068.htm"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: The Korea Herald
-  domain: koreaherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnasia.com/media2/2249480/Picture1.jpg?p=medium600&koreaherald_list"
-    width: 600
-    height: 337
+  - url: "https://mma.prnewswire.com/media/2249479/Picture1.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
+  - title: "AI aims to predict and fix developer coding errors before disaster strikes"
+    excerpt: "Generative AI can be combined with more traditional forms of artificial intelligence to predict how computer systems may fail before applications are put into production, according to Dynatrace's CTO."
+    publishedDateTime: 2023-10-16T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://www.zdnet.com/a/img/resize/28c0ea6042453b2f6bfc7502d541a0b7af992ccb/2023/09/28/9f3e672d-0f1e-4228-9b7e-d339c4f26f05/aifire.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Home healthcare tapping AI to speed processes, close gaps in care"
-    excerpt: "Providers are turning to the technology to try to maximize caregiver-patient compatibility and make administrative work more seamless."
-    publishedDateTime: 2023-10-17T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/providers/home-healthcare-ai-staffing-gaps-hospice-hospital-at-home"
+  - title: "AI & Low Code; Can The Two Work Harmoniously To Democratize Coding For Developers?"
+    excerpt: "The synergy between AI and low code is transformative, democratizing coding and expanding the horizons of software development."
+    publishedDateTime: 2023-10-18T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652ee1ff08f740841b955421/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 388
+        isCached: true
 
-secured: "5qRvDHXkYDb7uRd23dKgwwARo34A+5sv08Li3W0UEUwqmMG2oBho3b+oZ7rAMmGUhf7RHdzbYFRlIMsLvF9Kfqw+CNq5TFrbWOjyNsLWvJOhKqNZz3QfRF/b2J00sIqTyq27/eZEa0QBkxe4eNXrtTdpwZ6GVsTeCi6+NvmN48VGCRYxocO72vvrFcigyj6Ta/92J5cZh4YrU8QR8DjoJ3pa8PuU1SAIKEZjq5Bcda6Y9yzcjCC+Pa0a0f+JUA0kdl5QEg2pOfe8oEA6nDiIZKk7rC6ct2tssCpmZ3RcNtwK4tVP7uAU9JKdMPODmddF8tAGwJJbB0LyiQPGpdYqbsgiZhk7bcvqbbqXc9xa244=;Ny0ez44VOy6f8owhBU6eBQ=="
+secured: "tRni/h0tM5cx6voZ93MIxgfBCg08lCr+YN86FIn+tFuh67kztS86yARlm8RWxc1obXmi3dbS21YmltfU9ldNYutZOdDnlx/SOU3N2ueLScuPhF49D96ES9AFa6Gojr7X4MS8tFkGQeGqbE1HVMGNqoZeM1syG/bvHyf+eAqvYObZpkEabSJu13gSNkzZVBe/1NGP4TULJKhqay6WS0Ol2v6MBm7IFP58+1RNh6kFndYA5mL/LnLsttW7njTIOlF236GrwGSZ2D72z6P1qnG+rd8jl//+zuueuuUWcyAYSA6UJ8xL6lB2GZdb7KDZWht3GPS1FSavfS9U82UDVJig3tzQiRHtLQVEBxdnCkAgOi4=;CQD3HExC3j067F3ZpTjW/w=="
 ---
 

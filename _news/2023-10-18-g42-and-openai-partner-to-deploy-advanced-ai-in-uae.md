@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-ope
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8593.png"
         width: 1024
         height: 512
+        isCached: true
+  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
+    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
+    publishedDateTime: 2023-10-18T17:17:00Z
+    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
+        width: 1270
+        height: 847
         isCached: true
   - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
     excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"

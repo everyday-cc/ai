@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Live facial recognition technology has no place in a free society"
-    excerpt: "Live facial recognition is one such technology, used by police forces and increasingly private companies to monitor crowds of innocent people indiscriminately. It is entirely unacceptable that a societal shift towards this technology has come without any parliamentary approval or even a debate in either House."
-    publishedDateTime: 2023-10-18T15:27:00Z
-    webUrl: "https://www.politicshome.com/news/article/live-facial-recognition-technology-no-place-free-society"
+  - title: "Bill targets police misuse of facial recognition"
+    excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that'"
+    publishedDateTime: 2023-10-14T15:29:00Z
+    webUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-facial-recognition/article_35077526-69dd-11ee-a04e-6fe0fe7cd6d0.html"
     type: article
     provider:
-      name: PoliticsHome
-      domain: politicshome.com
-    quality: 41
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
     images:
-      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2023_10/W4M047_yvlkyt.jpg"
-        width: 1200
-        height: 675
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/08/80897eea-69dd-11ee-9a36-13e52a140747/652962b0064a1.image.jpg?crop=1035%2C543%2C0%2C75&resize=1035%2C543&order=crop%2Cresize"
+        width: 1035
+        height: 543
         isCached: true
   - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."

@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Australia holds constitutional referendum on recognition of First Nations"
-    excerpt: "Australia is holding a referendum on Saturday to decide whether to amend the 1901 Constitution to create an advisory body to give a voice to indigenous people before Parliament and the Executive on matters that concern these peoples."
-    publishedDateTime: 2023-10-13T23:16:00Z
-    webUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/"
-    ampWebUrl: "https://www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
-    cdnAmpWebUrl: "https://www-laprensalatina-com.cdn.ampproject.org/c/s/www.laprensalatina.com/australia-holds-constitutional-referendum-on-recognition-of-first-nations/amp/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 43
-    images:
-      - url: "https://www.laprensalatina.com/wp-content/uploads/2023/10/ded9da27b069319d92442b35093cd760bf692c80w-1024x800.jpg"
-        width: 1024
-        height: 800
-        isCached: true
   - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
     publishedDateTime: 2023-10-15T18:24:00Z
@@ -247,44 +231,6 @@ related:
         width: 1420
         height: 798
         isCached: true
-  - title: "Indigenous voice to parliament or not, the real work is still to be done"
-    excerpt: "History will be made on Saturday, one way or the other. And no matter whether the referendum succeeds or fails, this history will test the values, processes and mettle of our political class and our country."
-    publishedDateTime: 2023-10-13T23:29:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-or-not-the-real-work-is-still-to-be-done/news-story/77df11e95cc25d31eb9676c90ece79a3?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 23
-  - title: "Anthony Albanese makes impassioned final plea as more than 9 million Australians still to vote in Voice referendum"
-    excerpt: "The prime minister delivers his most fervent plea yet for the Yes campaign, as more than 9 million people head to the polls to vote in the Voice to Parliament referendum."
-    publishedDateTime: 2023-10-14T00:45:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-14/nine-million-australians-still-to-vote-in-voice-referendum/102976642"
-    ampWebUrl: "https://amp.abc.net.au/article/102976642"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/102976642"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 22
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/d7684ea097300836ad54963dd334f97a?impolicy=wcms_crop_resize&cropH=3333&cropW=5000&xPos=0&yPos=0&width=862&height=575"
-        width: 862
-        height: 575
-        isCached: true
-  - title: "Indigenous voice to parliament: referendum for change brought low by hubris"
-    excerpt: "The Yes campaign for the voice doesn’t like the No campaign’s slogan “If you don’t know, vote No”. Unfortunately for those advocating change, the slogan appears to have worked. Saturday’s referendum would need to usher in the biggest polling turnaround in Australian history to get up."
-    publishedDateTime: 2023-10-13T23:29:00Z
-    webUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7"
-    ampWebUrl: "https://www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/inquirer/indigenous-voice-to-parliament-referendum-for-change-brought-low-by-hubris/news-story/368064f85b707342f86f3a37019b41e7?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 22
   - title: "Labor senator says Australians ‘will not let go’ of Indigenous recognition as Albanese under pressure to outline plan B"
     excerpt: "We want to make sure our kids don’t continue to inherit the statistics that we see today,’ says Jana Stewart"
     publishedDateTime: 2023-10-18T05:57:00Z
@@ -300,22 +246,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7b9a3d6c28732401a3dc28bf0db1ecab417af0eb/633_422_4173_2504/master/4173.jpg?width=620&quality=85&auto=format&fit=max&s=d0e1a2dba2537ca0e5a53857f3e37e87"
         width: 620
         height: 372
-        isCached: true
-  - title: "The Voice referendum LIVE updates: PM laments Yes vote loss as Australia rejects constitutional change; every state votes No"
-    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
-    publishedDateTime: 2023-10-14T00:55:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 17
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Constitutional recognition for Indigenous Australians seems ‘dead’ for possibly decades"
     excerpt: "Opposition Leader Peter Dutton’s promise of a second referendum for constitutional recognition of Aboriginal people if the first one failed seems now “off the table”, says Sky News Political Editor Andrew Clennell."

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-ever
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/"
 type: article
 quality: 84
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,15 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
-    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
-    publishedDateTime: 2023-10-18T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+  - title: "Opinion: AI needs a strong code of ethics to keep its dark side from overtaking us"
+    excerpt: "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible."
+    publishedDateTime: 2023-10-18T12:40:00Z
+    webUrl: "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
+    images:
+      - url: "https://images.mktw.net/im-843717/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Opinion: Let’s build an ethical AI culture for all"
+    excerpt: "Building inclusive, fair artificial intelligence systems requires intentional work at all phases of development and use."
+    publishedDateTime: 2023-10-17T04:26:00Z
+    webUrl: "https://www.ajc.com/opinion/opinion-lets-build-an-ethical-ai-culture-for-all/2WSUJSEJUBBNLHE7CPRHG3A4B4/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 54
+    images:
+      - url: "https://www.ajc.com/resizer/IlT2nFs-FjFwMrls5_8HOY3Vh_M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ORKY32J2M3N66YZY6O5OYGISYA.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cbExl8lqw6JzsLa247mmK4ggotDQb+se2hGCSrx894/1LxpByOvBvXFnToDfgqWHUp5YUV/hVvv7nejJYnprde1C803q4zhY3nG0benM89HjIG5k8vXuYIflqeCiyOkGxdBq2rAzx5dAjL6f0tEoFYzGemFh8VN9A9ePjrKWdHMWkX+p4lDOSloGOaI24Ab6nBFL6sFLYBGX5ugXsXpYPhFgypZELIQRCNOyrcNeybuhwOHHhmjoizoUiUfmMNVq+/xg9j2hSF0w7dDhZYvkuB7U1Xpiv1sB36dQCxsSsOaqfwX9fo9IrgTv1AH1u3JSCDAOyqmf6APfdDxZCOQUueT7o5Zb1NMH6RwFle6ksIx5ZKCFRkr7uYYQG/FHOW7h9THhxN27H7f0IPzuMU9nW7TCFrjDW5ydpVZLY+xgE0ics2yI+ZeUwnr97LUutE4bo6r9pH/NjggraqJ0jH29Y8iDU8MsEkKw1kTMXMel7KbMeG/70/OD1etBwIf25gittSKnpEx0EeJl22yhVExJlw==;bVFND49cSjo094atPEqcuw=="
 ---

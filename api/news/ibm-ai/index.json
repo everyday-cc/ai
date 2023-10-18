@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-19-ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains.md",
+      "title": "IBM expands AWS partnership to bring generative AI to call centers, supply chains",
+      "excerpt": "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "originalUrl": "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai.md",
+      "title": "IBM inks pact with govt to boost innovation in semiconductors, AI",
+      "excerpt": "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html",
+      "originalUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html",
+      "publishedDateTime": "2023-10-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-3-reasons-to-attend-prestocon-2023-embracing-open-source-and-next-gen-presto.md",
       "title": "3 Reasons to attend PrestoCon 2023: Embracing Open Source and Next-Gen Presto",
       "excerpt": "Join PrestoCon 2023 to support and learn more about Presto, the open-source SQL query engine for data analytics and the Open Data Lakehouse.\nThe post 3 Reasons to attend PrestoCon 2023: Embracing Open Source and Next-Gen Presto appeared first on IBM Blog.\n",
@@ -1234,91 +1330,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-10-04T05:48:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-achieve-your-ai-goals-with-an-open-data-lakehouse-approach.md",
-      "title": "Achieve your AI goals with an open data lakehouse approach",
-      "excerpt": "Artificial intelligence (AI) is now at the forefront of how enterprises work with data to help reinvent operations to be more efficient\nThe post Achieve your AI goals with an open data lakehouse approach appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
-      "originalUrl": "https://www.ibm.com/blog/achieve-your-ai-goals-with-an-open-data-lakehouse-approach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-common-grounds-unleashing-innovation-and-growth-through-partnership.md",
-      "title": "Common Grounds: Unleashing innovation and growth through partnership",
-      "excerpt": "At IBM, we believe we can make greater progress together. Our purpose is to be the catalyst that makes the world work better&#8212;and our partners are key to this mission. Together with our partners and clients, we work to solve the most complex challenges with AI and hybrid cloud. Last year, we launched",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
-      "originalUrl": "https://www.ibm.com/blog/common-grounds-unleashing-innovation-and-growth-through-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

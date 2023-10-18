@@ -2,6 +2,403 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-17-ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news.md",
+      "title": "AI will change the role of developers forever, but leaders say that's good news",
+      "excerpt": "Senior execs at two blue-chip organizations explain how they're embracing automation and why everyone in these businesses -- including IT pros -- are reaping the rewards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "originalUrl": "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/806ca95bad0de39cad63b2ec7a70724e961266ae/2023/05/05/91cfbf27-c652-4474-908c-4a2483fa4f87/gettyimages-1437209125.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/",
+      "publishedDateTime": "2023-10-17T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-clearview-ai-and-the-end-of-privacy-with-author-kashmir-hill.md",
+      "title": "Clearview AI and the end of privacy, with author Kashmir Hill",
+      "excerpt": "Journalist Kashmir Hill’s new book, Your Face Belongs to Us, is all about Clearview AI and the threat to privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder",
+      "originalUrl": "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/xm1EO3Cgz-jmiOLG0Cz-JoXbTJI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25006282/Kashmir_Hill_Decoder.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird.md",
+      "title": "I tested Meta's Tom Brady and Kendall Jenner AI chatbots and it was weird",
+      "excerpt": "Since Meta described his role as a \"Wisecracking sports debater who pulls no punches,\" I began the chat by chatting about the Jets' win last night. The first thing I noticed on the screen was the rectangle with Tom Brady's face in the upper right-hand corner, which resembled what you would see if you were on a FaceTime call with someone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "originalUrl": "https://www.zdnet.com/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/edaff8ebce2fd9ac8f07c965727a5c2811b22422/2023/10/16/8dd8ef3c-53c2-4da8-a5ac-fa83066e3850/2022-25.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/",
+      "publishedDateTime": "2023-10-17T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day.md",
+      "title": "New Era of Artificial Intelligence (AI) Grips World's Imagination as GITEX Global 2023 Enters 2nd Day",
+      "excerpt": "Pony.ai, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Minister of State for AI, Digital Economy and Remote Work Applications, addresses the inaugural CTO World Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
+      "originalUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.africa-newsroom.com/files/thumb/e270b6b8e4e5e55/600/418",
+          "width": 600,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1",
+      "publishedDateTime": "2023-10-17T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus.md",
+      "title": "Nvidia enables AI processing on Windows PCs with RTX GPUs",
+      "excerpt": "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/",
+      "originalUrl": "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education.md",
+      "title": "Prestigious Symposium On AI Lawyering Reveals Keen Insights Including The Ardent Debate On Whether To Use Generative AI In Law School Education",
+      "excerpt": "A symposium on AI lawyering surfaced key facets that lawyers need to know. In this first part, I examine whether generative AI ought to be used by law students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652e023f699d70b9cc306338/0x0.jpg?format=jpg&crop=720,540,x54,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/amp/",
+      "publishedDateTime": "2023-10-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-1-artificial-intelligence-ai-stock-to-buy-and-hold-forever.md",
+      "title": "1 Artificial Intelligence (AI) Stock to Buy and Hold Forever",
+      "excerpt": "Chipmaker Nvidia ( NVDA 1.40%) has become a Wall Street darling. It's soared by a whopping 215% year to date as it takes advantage of the opportunity in artificial intelligence (AI), which boosts demand for its cutting-edge hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/751095/gettyimages-1433587895.jpg",
+          "width": 1878,
+          "height": 1596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-a-godfather-of-ai-calls-for-an-organization-to-defend-humanity.md",
+      "title": "A ‘Godfather of AI’ Calls for an Organization to Defend Humanity",
+      "excerpt": "Yoshua Bengio’s pioneering research helped bring about ChatGPT and the current AI boom. Now he’s worried AI could harm civilization and says the future needs a humanity defense organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/",
+      "originalUrl": "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/652dd6796e42fd8f18e64109/191:100/w_1280,c_limit/GettyImages-1692966368.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-ai-takes-over-education-ai-robot-appointed-as-principal-headteacher-at-british-school.md",
       "title": "AI Takes Over Education! AI Robot Appointed as 'Principal Headteacher' at British School",
       "excerpt": "The headmaster of Cottesmore School, Tom Rogerson, will now take help from “Abigail” for support and advice on a wide range of issues, including staff support, assisting children with ADHD, and developing school policies.",
@@ -534,7 +931,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -826,392 +1223,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back.md",
-      "title": "Retail Investors Have Been Burned, Should Startups Be Using AI To Get Them Back?",
-      "excerpt": "With the rapid expansion of AI investing capabilities, can startups to offer investment solutions that finally level the playing field?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652d6ae183af3969ebbd40f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/amp/",
-      "publishedDateTime": "2023-10-16T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-adobe-previews-new-ai-and-3d-editing-innovations-including-an-animated-dress.md",
-      "title": "Adobe previews new AI and 3D editing innovations – including an animated dress",
-      "excerpt": "Photo-editing software maker Adobe unveiled a slew of new AI-powered tools and features last week at its annual Max event, including a dress that transforms into a wearable screen and streamlined ways to delete elements from photos.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/10/16/tech/adobe-max-sneaks-tools/index.html",
-      "originalUrl": "https://www.cnn.com/2023/10/16/tech/adobe-max-sneaks-tools/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231016081744-adobe-app-file-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html",
-      "publishedDateTime": "2023-10-16T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-confluent-introduces-data-streaming-for-ai-new-partnerships.md",
-      "title": "Confluent Introduces Data Streaming for AI + New Partnerships",
-      "excerpt": "Confluent announced its Data Streaming for AI initiative to aid organizations in developing real-time AI applications. The company also introduced new AI-enabled tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/652d658ad6d40c26aab6163b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/",
-      "publishedDateTime": "2023-10-16T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-10-everyday-machine-learning-use-cases.md",
-      "title": "10 everyday machine learning use cases",
-      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 everyday machine learning use cases appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/10-everyday-machine-learning-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T09:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-10-examples-of-machine-learning-in-the-world-today.md",
-      "title": "10 examples of Machine Learning in the world today",
-      "excerpt": "At IBM, we are combining the power of ML and AI in IBM watsonx, our new studio for foundation models, generative AI and ML.\nThe post 10 examples of Machine Learning in the world today appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
-      "originalUrl": "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T09:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it.md",
-      "title": "Meta's unique approach to developing AI puzzles Wall Street, but techies love it",
-      "excerpt": "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry’s “workhorse” computer chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "originalUrl": "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html",
-      "publishedDateTime": "2023-10-16T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management.md",
-      "title": "IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management",
-      "excerpt": "IBM is helping Businesses create APIs to get the data they need to power their applications and experiences, and scale their operations.\nThe post IBM Named a Leader in the 2023 Gartner Magic Quadrant for API Management appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-the-2023-gartner-magic-quadrant-for-api-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T08:24:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-generative-ai-is-everything-everywhere-all-at-once.md",
-      "title": "Generative AI is everything, everywhere, all at once",
-      "excerpt": "Many notable tech companies are building their own large language models, whether it's Microsoft's Bing, Google's Bard, Snapchat's AI chatbot, or the new Meta AI chatbots. Generative AI is projected to balloon to a $1.32 billion market by 2032, according to a report by Bloomberg Intelligence .",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/generative-ai-is-everything-everywhere-all-at-once/",
-      "originalUrl": "https://www.zdnet.com/article/generative-ai-is-everything-everywhere-all-at-once/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e9154ae3027cc98693265cceda3c9a0a4d0f64ef/2023/09/28/b327e148-d2b9-491b-8fc0-b81fa0299a12/gettyimages-1343571001.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/",
-      "publishedDateTime": "2023-10-16T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

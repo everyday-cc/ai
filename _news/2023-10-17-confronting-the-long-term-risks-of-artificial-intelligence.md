@@ -110,20 +110,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "You Can Now Chat With One of Meta’s Horrifying AI Personas"
-    excerpt: "There are also non-celebrity AI chatbots you can chat with as well:"
-    publishedDateTime: 2023-10-14T00:00:00Z
-    webUrl: "https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/64df1d11aa6505d9f0918ba02039e253.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "wSwysMhTdNRn6NKrfPjI+CblzfBTz5rEt1uEVGd/6BtGID5oHcQvJZHzdCly0JWKSdh6fqujd+8yikmTHu06Wny05oHDErYtx2/VM57c2T7mK2VC2PPzkaZTX0T2VKcpT0CRnHa+ddIdWsj34BakKVmzcOxbiI6jmFyIdDQDsuf0b0a2D1L96PRZDni60pKOG+R/oh0jMxvcGVjhUjkuww+0DSMzQHPh3iB7i4BbFz74LmlXSW4BOeF54JwKoG5fGprLzaXELpb2pRPg8MLIeuKj2fUj9MfQ9g0tS0BGzz7CjV9Ogv/VXTh6RsMyMUxjp5aa8u2epV+aFlYSki3vgX8ZyXIBCh5ASP8fMrRNKNTn4INHGyfUYVa+6eRnUo7W1B3UqfIuzFlulbn6nE1mxiULSPWNah8MG2mdlq3KrfCRXm0hB83SS5+pQHaqmycPXqaz72PX1/9QhoE/cywV856QxTG+WxhY0CFCBLlov4FpnUxiE5vd0SwpiXM6sHU30n1UFKcN6Fmg94haDq0mrg==;RkEJE8zE2TKsI4z7X2jvjw=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
+    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
+    publishedDateTime: 2023-10-18T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The top AI tools creators use to make content and 4 other key takeaways from a new survey of 2,000 influencers"
     excerpt: "Membership platform Creator Now surveyed creators on how they really feel about AI in the influencer industry."
     publishedDateTime: 2023-10-18T14:53:00Z

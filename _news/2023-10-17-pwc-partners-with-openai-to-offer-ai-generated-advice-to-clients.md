@@ -90,19 +90,19 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google adds AI image generation to Search — but there’s a catch"
-    excerpt: "The new feature is available only for those who have already opted into Google Search Labs, the company's experimental beta testing service."
-    publishedDateTime: 2023-10-13T23:33:00Z
-    webUrl: "https://venturebeat.com/ai/google-adds-ai-image-generation-to-search-but-theres-a-catch/"
+  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
+    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
+    publishedDateTime: 2023-10-18T16:33:00Z
+    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 46
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_magnifying_glass_over_a_drawing_742f94ef-3a3d-48da-9120-276e833303ff.png?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
+        width: 644
+        height: 300
         isCached: true
   - title: "New tool can detect AI-generated content"
     excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
@@ -118,6 +118,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to Build a Successful Language AI Product"
+    excerpt: "A new era of language productization is underway. SaaS (software-as-a-service) platforms now deliver a multitude of language capabilities — translation, dubbing, subtitles, transcription, voice cloning, and more — directly to individual users and businesses."
+    publishedDateTime: 2023-10-18T15:42:00Z
+    webUrl: "https://slator.com/how-to-build-a-successful-language-ai-product/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 19
   - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
     excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
     publishedDateTime: 2023-10-17T15:18:00Z

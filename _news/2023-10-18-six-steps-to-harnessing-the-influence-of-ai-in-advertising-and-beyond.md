@@ -22,19 +22,49 @@ topics:
   - AI
 
 related:
-  - title: "Why Everyone Has A Role In Creating AI Ethics Standards"
-    excerpt: "As AI steadily integrates into our daily lives, ethical dilemmas have come to the forefront. I firmly believe that this duty extends beyond government boundaries; it's a shared responsibility encompassing each and every one of us, especially business leaders working with or on AI technology."
-    publishedDateTime: 2023-10-16T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/"
+  - title: "The 12 Worst Examples of Meta's Dystopian AI Influencers"
+    excerpt: "Tom Brady, Kendall Jenner, Roy Choi, and Charli D'Amelio all throw their hats in the ring to put faces to Meta's chatbots on Instagram, Messenger, and WhatApp."
+    publishedDateTime: 2023-10-16T13:25:00Z
+    webUrl: "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e374caedbec70276644c92b6534ca98e.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "5 ways AI could influence nursing in the coming years"
+    excerpt: "Health care is one field where AI is rapidly innovating the nature of work-related tasks. In fact, health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work,"
+    publishedDateTime: 2023-10-14T15:59:00Z
+    webUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/"
+    ampWebUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
+    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
+    type: article
+    provider:
+      name: WGNO
+      domain: wgno.com
+    quality: 59
+    images:
+      - url: "https://wgno.com/wp-content/uploads/sites/2/2023/10/Screenshot-2023-10-13-085439.png?w=1280"
+        width: 763
+        height: 540
+        isCached: true
+  - title: "The top AI tools creators use to make content and 4 other key takeaways from a new survey of 2,000 influencers"
+    excerpt: "Membership platform Creator Now surveyed creators on how they really feel about AI in the influencer industry."
+    publishedDateTime: 2023-10-18T14:53:00Z
+    webUrl: "https://www.businessinsider.com/ai-tools-used-by-creators-chat-gpt-midjourney-google-bard-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/652f6780be9edfa8eda36167?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "WjMc2CaJZzM/Pu+sFCCgRZyeRy1cEybZGK1Zc2EgdUCG2T8Xx8kJOn23UMwmbNLuFc4eKTxZfthWTJhOlBPWqJVS+20TdsrdxHQ3jj4g2JqCLfBmgAgSgv0HWFCiPTR3/vTEKRCgRYRcWxKYDNSzx04QfE2FXyr1lZ3OGQTXYOj8IhI+79nwlyATgWL9KoIaYivMq3ZUlPSyrrluBAragNYkfhCMU7yNwgbrbBo8mTlwlmVd98ck2DWaz1yE3vbppFyTZDhtaB2VQZa8vxtw9aVC/ctD87wRMm9tJRHVd6+fRRGbldnyDMvm72xhBumhkEy5J3Dl35lKUvwonDlQq7XJhstkzHtfDb+z+rsVI6A=;uDlXFCAfsOvB+DLXLWkiDg=="

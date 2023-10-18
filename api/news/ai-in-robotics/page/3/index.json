@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-30-5-hot-ai-jobs-to-consider-for-2024.md",
+      "title": "5 Hot AI Jobs To Consider For 2024",
+      "excerpt": "It’s clear that AI (artificial intelligence) is here to stay and these are 5 AI jobs that will be in-demand in the future",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
+      "originalUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651751537e5abdefd7b1f0bc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2023/09/29/5-ai-jobs-to-consider-for-2024/amp/",
+      "publishedDateTime": "2023-09-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-30-the-synergy-of-artificial-intelligence-and-robots-in-medical-practice.md",
+      "title": "The Synergy Of Artificial Intelligence And Robots In Medical Practice",
+      "excerpt": "This story is part of a series on the current progression in Regenerative Medicine. This piece discusses advances in the use of artificial intelligence in medical robotics. In 1999, I defined regenerative medicine as the collection of interventions that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/",
+      "originalUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65130a5ead5718f2fc508e5d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/09/29/the-synergy-of-artificial-intelligence-and-robots-in-medical-practice/amp/",
+      "publishedDateTime": "2023-09-29T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-get-an-ai-reality-check-on-the-creator-hollywoods-latest-robo-doomsday-movie.md",
       "title": "Get an AI reality check on ‘The Creator’ — Hollywood’s latest robo-doomsday movie",
       "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
@@ -1269,92 +1375,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics.md",
-      "title": "Reimagining Hotel Operations and Guest Experiences Through the Integration of AI and Robotics",
-      "excerpt": "The hospitality industry is one of many who has taken notice and advantage of the remarkable advancements of technology in recent years. Innovative solutions in the fields of artificial intelligence (AI) and robotics are quickly",
-      "sourceUrl": null,
-      "webUrl": "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/",
-      "originalUrl": "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hoteltechnologynews.com/wp-content/uploads/2023/09/Picture4-1.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hoteltechnologynews",
-        "domain": "hoteltechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-ai-robotics-southern-asia.md",
-      "title": "AI Robotics - Southern Asia",
-      "excerpt": "The market size in the AI Robotics market is projected to reach US$370.40m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 15.52%, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/southern-asia",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/southern-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -33,20 +33,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-    excerpt: "GIGABYTE, a leader in cloud computing and AI server markets, announced a new strategic framework for AI outlining a blueprint for the company's direction in the AI-driven future of the consumer PC market."
-    publishedDateTime: 2023-10-18T15:11:00Z
-    webUrl: "https://www.koreaherald.com/view.php?ud=20231018000854"
-    type: article
-    provider:
-      name: The Korea Herald
-      domain: koreaherald.com
-    quality: 36
-    images:
-      - url: "https://mma.prnasia.com/media2/2249480/Picture1.jpg?p=medium600&koreaherald_list"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "t0GOvXFqWbNJGr6dveKSxHWAToLcwYV7CdL9op5Uc4xGQEA0ka0b64t16TaedP6nWXCf0OdrkmQj5h/EiLCfZ16vfkMOTY4UrwvyLp2Z8ax1C18enq2vweAkKCjPJSdAkmfNsEibPqpLS7nf20MNJtpPQerEFFq3GnOx7gZnLHABbSeTaVjHMeISi9L51c5lvYSyQQxT6tSKXOf6TqCEQvDh6bHcbYWJ3YI1SQiQXzSnYzEQbxFtQKgYiEf20H/hmjr7Swpmi73fIy4EWQhwwie0vTTjE/1uIuF298z9NX8+xUiD1wz1yS9kdGcQtNnhXu5K7gDb3n1ya0ITczzpPJL8cxayvgeHWmAeC2f7slo=;hhu5qzsObFHN0qTJWSVIzQ=="
 ---

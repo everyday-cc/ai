@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-18T14:45:00Z
 originalUrl: "https://www.sevendaysvt.com/vermont/uvm-philosophy-professor-randall-harp-on-the-moral-dilemmas-of-ai/Content?oid=39326911"
 webUrl: "https://www.sevendaysvt.com/vermont/uvm-philosophy-professor-randall-harp-on-the-moral-dilemmas-of-ai/Content?oid=39326911"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media2.sevendaysvt.com/sevendaysvt/imager/u/facebook/39326910/education1-1-bc9fbfd7ff571116.jpg"

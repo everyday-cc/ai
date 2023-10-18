@@ -107,20 +107,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "You Can Now Chat With One of Meta’s Horrifying AI Personas"
-    excerpt: "There are also non-celebrity AI chatbots you can chat with as well:"
-    publishedDateTime: 2023-10-14T00:00:00Z
-    webUrl: "https://lifehacker.com/you-can-now-chat-with-one-of-meta-s-horrifying-ai-perso-1850925959"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 37
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/64df1d11aa6505d9f0918ba02039e253.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Confronting the long-term risks of Artificial Intelligence"
     excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
     publishedDateTime: 2023-10-16T18:38:00Z
