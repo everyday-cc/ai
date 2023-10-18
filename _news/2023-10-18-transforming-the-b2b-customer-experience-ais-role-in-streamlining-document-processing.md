@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transformi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Employees Are The “New” Customers: Can AI Help Us Give Them Amazing Experiences?"
+    excerpt: "If you want to hold onto your best employees, attract high-quality talent and improve workplace satisfaction, it’s no longer enough to offer a job."
+    publishedDateTime: 2023-10-18T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/18/employees-are-the-new-customers-can-ai-help-us-give-them-amazing-experiences/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "Why the Gaming Industry is perfect for AI Training"
     excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
     publishedDateTime: 2023-10-14T16:01:00Z

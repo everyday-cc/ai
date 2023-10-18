@@ -24,54 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Democratizing AI with digital adoption platforms"
-    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
-    publishedDateTime: 2023-10-16T09:07:00Z
-    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
+  - title: "AI Startup Aims to Give Voice Actors a Digital Twin"
+    excerpt: "Morpheme is entering an increasingly crowded market. In 2022, investors poured $378.6 million into voice-related AI startups across 47 deals, according to data from PitchBook. Some are using AI to clone voices, alter voices and generate audio from text."
+    publishedDateTime: 2023-10-14T16:09:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://images.hindustantimes.com/tech/img/2023/10/14/1600x900/Artificial-Intelligence_1696699324463_1697299539048.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
-    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
-    publishedDateTime: 2023-10-17T09:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna"
-    excerpt: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna - In the ever-evolving digital landscape, Artificial Intelligence has become a part and parcel of our lives."
-    publishedDateTime: 2023-10-18T09:26:00Z
-    webUrl: "https://www.siliconindia.com/news/general/enhancing-ai-applications-with-deep-learning--talking-with-thought-leader-dwith-chenna-nid-225967-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 26
   - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
     excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
     publishedDateTime: 2023-10-17T13:25:00Z
@@ -81,15 +49,6 @@ related:
       name: FiercePharma
       domain: fiercepharma.com
     quality: 4
-  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
-    publishedDateTime: 2023-10-16T11:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "PuEpPYpA+Mh6moZyC234TLGiakuiXzFjp8eewXgMS7W/73rxx/t/7CEkQ/jxispj4y7JutfPV+Sn3eAl5OzWnL6xTcQbAPCCE13yJ4pef8O9Ha1Et8Q1K/2KhmNon+lDIVI00m22ieXliat9JcYUIKPubDDo3inUNVLC2+ZJwSb2mlPRQFDDAULiYpuNt2i5iGI9a7NJO/6yKCzx/LZ2p1z1Y1X2Fvf+FqL2+VNcPct/rGLxVB7EmqS9fN9H/WtrhAk7X+pDh9aW6XvXICPRu/SRjLaO1MqGgwpi/uQaCYTFmoVtUPLN1ppBgK8nkfI5vURxCLAJvKEO7fKH0GRxeEymS48LSCVargpfkxgkTAQ=;uaII5231rRAY+GdJmQsIUg=="
 ---

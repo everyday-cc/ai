@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/10/ai-helps-decipher-first-text
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 97
 published: true
 
 provider:
@@ -30,38 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "College Student Uses Machine Learning to Decipher Word in Ancient Roman Scroll"
-    excerpt: "Researchers have been itching to see what's written on ancient Roman scrolls recovered from the lost cities of Herculaneum and Pompeii. But they were too delicate to unroll, until now."
-    publishedDateTime: 2023-10-13T21:18:00Z
-    webUrl: "https://www.pcmag.com/news/college-student-uses-machine-learning-to-decipher-word-in-ancient-roman"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05phQg9Uhjq60XchehfgiD5-1.fit_lim.size_1200x630.v1697231190.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "AI Is 'Unwrapping' Burnt Scrolls From Herculaneum"
-    excerpt: "Mount Vesuvius buried Herculaneum in volcanic ash 2,000 years ago. Modern tech is revealing lost texts from the town."
-    publishedDateTime: 2023-10-13T19:16:00Z
-    webUrl: "https://gizmodo.com/ai-is-unwrapping-burnt-scrolls-from-herculaneum-1850925498"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
-  - title: "Student uses AI to decipher word in ancient scroll from Herculaneum"
-    excerpt: "A computer science student has discovered the first decipherable word in unopened scrolls from Herculaneum, an ancient Roman town buried by the eruption of Mount Vesuvius"
-    publishedDateTime: 2023-10-13T19:09:00Z
-    webUrl: "https://www.newscientist.com/article/2397583-student-uses-ai-to-decipher-word-in-ancient-scroll-from-herculaneum/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 17
   - title: "Artificial intelligence helps to read ancient burned scroll"
     excerpt: "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence."
     publishedDateTime: 2023-10-15T06:01:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 162
+published: true
 
 provider:
   name: ZDNet
@@ -30,51 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
-    publishedDateTime: 2023-10-17T20:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+  - title: "Anti-ChatGPT app Superfly uses AI to match people for live chats and answers to queries"
+    excerpt: "The new LLM-based Matchpont AI also considers topic-related understanding and users’ shared interests, as well as “personal chemistry” when matching. The startup claims that only 10% of posts are niche questions that don’t get answered fast enough ..."
+    publishedDateTime: 2023-10-18T15:31:00Z
+    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
+    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 79
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
         width: 1200
-        height: 798
-        isCached: true
-  - title: "AI Chatbots Can Guess Your Personal Information From What You Type"
-    excerpt: "The AI models behind chatbots like ChatGPT can accurately guess a user's personal information from innocuous chats. Researchers say the troubling ability could be used by scammers or to target ads."
-    publishedDateTime: 2023-10-17T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/6529f6866ad33062ca7713a1/191:100/w_1280,c_limit/AI-Chatbots-Infer-Private-Info-Business-1465764755.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "ChatGPT introduces Polymathic AI: Revolutionizing scientific discovery with artificial intelligence"
-    excerpt: "Polymathic AI seeks to thrive in a distinct domain, leveraging numerical data and physics simulations that encompass a wide array of scientific fields. This initiative is designed to assist scientists in modelling a range of subjects,"
-    publishedDateTime: 2023-10-16T06:50:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/chatgpt-introduces-polymathic-ai-revolutionizing-scientific-discovery-with-artificial-intelligence-2023-10-16-898055"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/chatgpt-introduces-polymathic-ai-revolutionizing-scientific-discovery-with-artificial-intelligence-2023-10-16-898055"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/chatgpt-introduces-polymathic-ai-revolutionizing-scientific-discovery-with-artificial-intelligence-2023-10-16-898055"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 58
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/10/ai-freepik-1697438927.jpg"
-        width: 360
-        height: 202
+        height: 758
         isCached: true
   - title: "ChatGPT Vs. Ernie Bot: Baidu Launches Upgraded AI Chatbot, Showcases Advanced Capabilities"
     excerpt: "Baidu (NASDAQ: BIDU) has launched the upgraded version of its Ernie bot with V4.0. Although, the model is not yet accessible to the public."
@@ -92,58 +62,47 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Startup Wants to Make Sure Chatbots Don’t Tell People How to Vote"
-    excerpt: "The co-founder of Inflection AI is talking with other large startups about defining the role artificial intelligence will play in elections."
-    publishedDateTime: 2023-10-17T20:46:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-17/ai-startup-wants-to-make-sure-chatbots-don-t-tell-people-how-to-vote"
+  - title: "China's Baidu Unveils Latest Version of Its Ernie AI Model"
+    excerpt: "BEIJING (Reuters) - Baidu on Tuesday unveiled the newest version of its generative artificial intelligence (AI) model, Ernie 4.0. Ernie 4.0's capabilities are on par with that of ChatGPT maker OpenAI's GPT-4 model, Baidu's CEO Robin Li said at an event in Beijing."
+    publishedDateTime: 2023-10-17T02:27:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/chinas-baidu-unveils-latest-version-of-its-ernie-ai-model"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 47
-  - title: "Meta Product Chief Sees AI Chatbots as Tool to Lure Advertisers"
-    excerpt: "Meta Platforms Inc. Chief Product Officer Chris Cox said that AI chatbots will become an increasingly attractive tool for advertisers, rather than just a way to lure users, in a sign the company is pivoting the technology toward business customers."
-    publishedDateTime: 2023-10-18T05:23:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-18/meta-product-chief-sees-ai-chatbots-as-tool-to-lure-advertisers"
+  - title: "ChatGPT Creator OpenAI Partners With Abu Dhabi's G42 as UAE Scales up AI Adoption"
+    excerpt: "Mubadala-backed G42 has been at the forefront of AI adoption in the UAE. The company said in July that it had developed the world's largest supercomputer for AI training in collaboration with U.S.-based AI firm Cerebras Systems."
+    publishedDateTime: 2023-10-18T15:05:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-18/chatgpt-creator-openai-partners-with-abu-dhabis-g42-as-uae-scales-up-ai-adoption"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "With AI On The Rise, One MSP Builds A Chatbot With A Cajun Accent"
-    excerpt: "She said customers could start adopting new AI technology within three years. “The market is going to move fast,” she said. Another panelist, Henry Timm, CEO of Rolling Prairie, Ind.-based Phantom Technology Solutions – another MSP 500 member ..."
-    publishedDateTime: 2023-10-16T23:01:00Z
-    webUrl: "https://www.crn.com/events/with-ai-on-the-rise-one-msp-builds-a-chatbot-with-a-cajun-accent"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
+  - title: "Baidu says its AI is in the same league as GPT-4"
+    excerpt: "Baidu ( BIDU) has been a frontrunner in China in the race to capitalize on the excitement around generative AI, the technology that underpins systems such as ChatGPT or its successor, GPT-4. The Beijing-based company unveiled ERNIE Bot in March, before launching it publicly in August."
+    publishedDateTime: 2023-10-17T06:22:00Z
+    webUrl: "https://keyt.com/news/money-and-business/cnn-business-consumer/2023/10/16/baidu-says-its-ai-is-in-the-same-league-as-gpt-4/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
+      name: KEYT
+      domain: keyt.com
+    quality: 39
     images:
-      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
-        width: 611
-        height: 458
+      - url: "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg"
+        width: 860
+        height: 484
         isCached: true
-  - title: "NYC announces artificial intelligence adoption framework, AI chatbot pilot"
-    excerpt: "Artificial intelligence (AI) has made headlines in recent months for both its potential to advance humanity and for its possible pitfalls. From automation and chatbots to self-driving cars and facial recognition,"
-    publishedDateTime: 2023-10-17T19:36:00Z
-    webUrl: "https://www.americancityandcounty.com/2023/10/17/nyc-announces-artificial-intelligence-adoption-framework-ai-chatbot-pilot/"
+  - title: "Chinese Search Engine Company Baidu Unveils Ernie 4.0 AI Model, Claims That It Rivals GPT-4"
+    excerpt: "The Chinese search engine and artificial intelligence firm Baidu has launched the latest version of its artificial intelligence model Ernie 4.0"
+    publishedDateTime: 2023-10-17T05:52:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-17/chinese-search-engine-company-baidu-unveils-ernie-4-0-ai-model-claims-that-it-rivals-gpt-4"
     type: article
     provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 32
-  - title: "Mayor Adams: New AI chatbot makes it easier for small business owners to access information"
-    excerpt: "Mayor Adams says the new plan will be a one-stop shop for small business owners in the city looking to access information and resources faster."
-    publishedDateTime: 2023-10-16T17:31:00Z
-    webUrl: "https://bronx.news12.com/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
-    ampWebUrl: "https://bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
-    cdnAmpWebUrl: "https://bronx-news12-com.cdn.ampproject.org/c/s/bronx.news12.com/amp/mayor-adams-new-ai-chatbot-makes-it-easier-for-small-business-owners-to-access-information"
-    type: article
-    provider:
-      name: News 12 Networks
-      domain: news12.com
-    quality: 27
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 37
   - title: "How to upload images to ChatGPT for analysis"
     excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
     publishedDateTime: 2023-10-15T13:35:00Z
@@ -158,15 +117,15 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
-    excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
-    publishedDateTime: 2023-10-16T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/even-google-insiders-are-questioning-bard-ai-chatbots-usefulness/"
+  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
+    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
+    publishedDateTime: 2023-10-17T18:00:00Z
+    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 14
 
 secured: "e8rM0nZxaAG4z3eRJ3Ywa9Hl3NEq9tuxnchpKtVMsceeWMeGBbWnfycxc0ajFL9laKpuOtowN7OtgGWfwKffyNHzV3k0kMc5QRvx/z+g2IHBz75n6uV6BSZ38y215dCyrWAU6OTmAi8M39OfBIdzV5clLt2UdK2tapvzhdqElTwRVvXTWr2xOwiEz2qazQpyQqjXm2nGAi4e5iFyU+w7Gh5L4rHOHHP+DYOgMcekvKqTGhN3YuQdDCjMuoMhLKHLo99UVLyfQE81AJbHFZ7mHe6Q/sQLXdNn9Mqi8qRlm1V2hucAgKm4JCh2TI/E4aYOEteBZmcCj/7rkf1yp9f93SVIDyrtl4/Auk9j4wMcC2M=;Pr2eUpThSadCdYCEQsy9nw=="
 ---

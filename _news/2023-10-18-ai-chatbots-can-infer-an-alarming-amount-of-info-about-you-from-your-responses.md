@@ -1,0 +1,34 @@
+---
+category: news
+title: "AI chatbots can infer an alarming amount of info about you from your responses"
+excerpt: "The way you talk can reveal a lot about you—especially if you're talking to a chatbot. New research reveals that chatbots like ChatGPT can infer a lot of sensitive information about the people they chat with, even if the conversation is utterly mundane."
+publishedDateTime: 2023-10-18T13:35:00Z
+originalUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/"
+webUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/"
+ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
+type: article
+quality: 83
+heat: 83
+published: true
+
+provider:
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-eyes-800x560.jpg"
+    width: 800
+    height: 560
+    isCached: true
+
+secured: "7g6DpBz1d4lE1fcYWh902gBuZVbc88MGR58DctI720p7EEza2ovdtKd7dhcUEsa2/uOgizLvT0y8+a3QUGhMy2GHA1pPRlr15p2aUC0G/BQd3ofAYy3bIjDyDA6rtM2Mx0wZvbKFGmjg0zj0i7v/KUyByuT+AK2oapm8o0qf7wlxGYuFfO1544Mr6wY6Vc4yQ+BCj8L4SCYkEnAPqDZ9QROj/2CUNQd5efxi7JE6I/zu332tH0QAUfmskeRPP5mP08BWWx675YIdarb3z2dIZWH30sZy6RnYPiOQGuIKdxaJbNzwiN5UzNr2vIxifKaGPC+79hgpqyg1GPIJXmHR+ESo6I8TK87Z9Cr6Wal3xRQ=;d5j5ogahPofLX8IeG7H6Xw=="
+---
+

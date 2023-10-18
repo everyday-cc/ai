@@ -48,15 +48,29 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
-    excerpt: "NYSE:ACN) Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
-    publishedDateTime: 2023-10-17T12:37:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/10/17/accenture-collaborates-with-sap-to-help-organizations-adopt-generative-ai-and"
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Delivering joint solutions upgraded with generative AI capabilities for critical uses cases - Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants - Plans for further integration of IBM watsonx with AWS ARMONK,"
+    publishedDateTime: 2023-10-18T11:59:00Z
+    webUrl: "https://www.asiaone.com/business/ibm-expands-relationship-aws-bring-generative-ai-solutions-and-dedicated-expertise-clients"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/pr-newswire_500_4_1020.jpg?h=7de12b8a&itok=Lc8yxDNw"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "nhOTnvqXtWveggl4I79q6MELmVsh8P63PSkMYv2GjtdfwGQhp5kiG5cVAMFfH/NfFDWChDONlOmMMcjkIjLYf29H4I6lG3rRB7NiXA6eBQF6sdZFutF/MWh1BAOkJd94qFlws6a/G+qp5jYVxrjXY4LSQDHPA/bpA6TBQgxR2xFq/a0GCdCGB+S/fVXfMYxxeZP2yjjmqp7GF7ULlA/K6e+vwdzDWb987ATHu1xf+mYXo6+xx62xzIcQUnKdWNuJXhEEGeOvDfwfGJpeqxISIdDJZNUyscjh5dACBT+F6o7BVuHiPQX02OodfRKItJ95w3bAego84WY+z4nHMxL6luFKbVz/NZ+R71cPBRIeo44=;2Mp6KTiCpKDEAbRyZWK81g=="
 ---

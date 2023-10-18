@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
-    excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
-    publishedDateTime: 2023-10-18T08:41:00Z
-    webUrl: "https://digileaders.com/navigating-the-ai-revolution-a-journey-through-3-phases-of-understanding/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 38
-    images:
-      - url: "https://digileaders.com/wp-content/uploads/2023/10/shutterstock_2235931143-scaled-e1697618370511.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "4hTGHJ7orLSaj3/pwH7y40BLccLic0JYm4xzmJ3WkgqbmD5TYsNv4HxGNpWhKiJa0ZLrl6FbKRc/UOt+8ncHemAbxIzjd1z2Sbeg751wekETHY5gfwRMx9LJj3pASC/u+SFVuvXT7zvoKN7LRHLmy4hRKeCrYOkiN4St4MaQpdTgxvJLSu7njATyufz/jaMx2YYSssY8mGUu2KYE/aj+vyh5xD6pYGE5cHg8Q9lo6yayw2cIqoML/fQGZZC3JWm/vJo7sccoY78PSxPSeJ/fZsNpgonqQwdmaPbeULklgqZAt+myMdC1/fcmMuWLFOBMcxIvatjgIBRuuFYizlMurhYSI54cehgtS47gKWYz21haWzyun7LMxeyiCqSrOO5jz1QAvfy2IKF8LYNCHoS14LQIwc2tsIVS8Nzuq65BDAvDCpuDY9pQlAkwrVOqmObs+SqzW0BVs3DH/a8N/p1IYf6SZ3yTQhD/isgsIN6Q3cSjTSmUrxmffWOzCu4FsPCN8FApoNegmhalBrcZtjPEAA==;O7Abi31iXKkVCI1lS6s4nQ=="
 ---

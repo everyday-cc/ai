@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-18T07:47:00Z
 originalUrl: "https://www.scmp.com/tech/big-tech/article/3238352/apple-supplier-foxconn-build-ai-factories-using-nvidias-chips-and-software-range-applications"
 webUrl: "https://www.scmp.com/tech/big-tech/article/3238352/apple-supplier-foxconn-build-ai-factories-using-nvidias-chips-and-software-range-applications"
 type: article
-quality: 36
+quality: 53
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/18/d2485d09-8125-4128-86f5-548aefde33b0_bdd7a2b0.jpg?itok=kPPTwgXK&v=1697615219"
@@ -39,7 +40,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 85
+    quality: 89
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-18-at-3.18.03-pm.png?resize=1200,604"
         width: 1200
@@ -58,6 +59,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-DRIVE-Thor.jpg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nvidia to Build 'AI Factories' With Foxconn"
+    excerpt: "The announcement was made during a fireside chat with Nvidia founder and CEO Jensen Huang and Foxconn Chairman and CEO Young Liu at Hon Hai Tech Day, in Taipei. These so-called \" AI Factories \" will be packed full of Nvidia's GPU computing infrastructure, including the latest Nvidia GH200 Grace Hopper Superchip."
+    publishedDateTime: 2023-10-18T14:21:00Z
+    webUrl: "https://www.pcmag.com/news/nvidia-to-build-ai-factories-with-foxconn"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04VBsXPmLVAMdyizMFUiLfW-1.fit_lim.size_1200x630.v1697638482.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Tech giants Foxconn, Nvidia announce they are building 'AI factories'"
     excerpt: "Taiwanese tech giant Foxconn and US hardware leader Nvidia said Wednesday they would team up to create \"AI factories\", powerful data processing centers that would drive the manufacturing of next-generation products such as electric cars."
@@ -105,6 +120,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "NVIDIA Teams With Foxconn To Boost AI Industrial Revolution"
+    excerpt: "Tech major NVIDIA Corp. is collaborating with Taiwanese electronics contract manufacturer Foxconn, also known as Hon Hai Technology"
+    publishedDateTime: 2023-10-18T13:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-teams-with-foxconn-to-boost-ai-industrial-revolution-1032717102"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Foxconn and Nvidia team up to build 'AI factories'"
     excerpt: "\"In the future, every company, every industry, will have AI factories.\" Nvidia, the world's most valuable chip company, said in a statement that the AI factories would use its chips and software, including its cutting-edge GH200 superchip that it is barred ..."
     publishedDateTime: 2023-10-18T07:49:00Z
@@ -161,6 +185,24 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "NVIDIA Joins Forces With Foxconn To Build AI Factories, A New Class Of Data Centers"
+    excerpt: "NVIDIA and Hon Hai Technology Group, otherwise known as Foxconn, jointly announced plans develop a new class of data centers and systems designed to 'accelerate the AI revolution.'"
+    publishedDateTime: 2023-10-18T13:18:00Z
+    webUrl: "https://hothardware.com/news/nvidia-joins-foxconn-build-ai-factories-new-class-data-centers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 13
+  - title: "The company that makes your iPhone is expanding to EVs and it’s getting Nvidia to help make an ‘AI factory’"
+    excerpt: "\"In the future, every company, every industry, will have AI factories,\" Nvidia CEO Jensen Huang said during Foxconn's annual tech showcase."
+    publishedDateTime: 2023-10-18T13:49:00Z
+    webUrl: "https://www.aol.com/company-makes-iphone-expanding-evs-104911753.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 1
 
 secured: "mYKdsKc/r7VpNRlBwk+TECfwm6vQQ7ohIQXX73BVHtNRmIKKWplP+UN15SVz9ah1tODiyDsNfrhgY4YzR/T+QS4cnRK2CqDRtjTzIAGQArCN7x0S2NDQiqUbSpnzwii95Bvv82y2qY5FefrioIqxGiypK6oYM0PSKFX1VryECU1uWxRxCTCy7tg+XMNjDlsAyUBr/SGK5bCHJWQII6ZmlpKrIbs3tdvHWFI+3VByDNjp5o0UQdMP/KoX3P208eWDCi1qKCgDecv+omzLnYkH4jYWAnf4qCEALN50v/+kOp8U6IWg0w7fv5pBgDuFc5fMFyp8tBCzqzMUiriJlNQHcsmXU1LWIRRRfQz0ZWD8qvs=;vQgbPF0+OfsVrlWxqmZ4Kw=="
 ---

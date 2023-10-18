@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
 type: article
 quality: 89
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: InfoWorld
@@ -31,69 +31,48 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+  - title: "Organizations are fighting for the ethical adoption of AI. Here's how you can help"
+    excerpt: "If used correctly -- and ethically -- AI could level up society as a whole and positively advance future technology. That's why these organizations are striving to even out the negative impacts and steer us in the right direction. Also: The ethics of ..."
+    publishedDateTime: 2023-10-18T15:18:00Z
+    webUrl: "https://www.zdnet.com/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/89930608e67eae17d6e816fd9520aa08db3cdfe3/2023/09/21/514c8dde-a75a-4068-9d86-c0f057c3ca81/gettyimages-885075194.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Researchers measure global consensus over the ethical use of AI"
+    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
+    publishedDateTime: 2023-10-14T01:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
     quality: 64
-  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
-    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
-    publishedDateTime: 2023-10-17T09:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
+  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
+    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
+    publishedDateTime: 2023-10-16T18:24:00Z
+    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AI startup Leucine raises $7m for drug manufacturing digital twin platform"
-    excerpt: "As AI applications in drug manufacturing widen, Leucine’s digital twin of the shop floor helps automate compliance and improve safety."
-    publishedDateTime: 2023-10-17T10:18:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/news/ai-startup-leucine-raises-7m-for-drug-manufacturing-digital-twin-platform/"
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
+  - title: "Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
+    excerpt: "NYSE:ACN) Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
+    publishedDateTime: 2023-10-17T12:37:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/10/17/accenture-collaborates-with-sap-to-help-organizations-adopt-generative-ai-and"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 35
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/10/shutterstock_384031390.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna"
-    excerpt: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna - In the ever-evolving digital landscape, Artificial Intelligence has become a part and parcel of our lives."
-    publishedDateTime: 2023-10-18T09:26:00Z
-    webUrl: "https://www.siliconindia.com/news/general/enhancing-ai-applications-with-deep-learning--talking-with-thought-leader-dwith-chenna-nid-225967-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 26
-  - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
-    excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
-    publishedDateTime: 2023-10-17T13:25:00Z
-    webUrl: "https://www.fiercepharma.com/manufacturing/leucine-reaps-7m-series-money-fund-ai-digital-twin-platform-manufacturing"
-    type: article
-    provider:
-      name: FiercePharma
-      domain: fiercepharma.com
-    quality: 4
-  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
-    publishedDateTime: 2023-10-16T11:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 0
 
 secured: "MSRLO/mqPZX2p6NDwtfBHwc5q6PFA0khDCPWqrJ8hmva+kjuQgAisulWSoQo2Fv1h0xONAsL7t7yP6WUQc8xLREgkDDYlcO1sPyC3DaM9E7TMhrcBVFDJaYz9pG9rhmLAzu9MgJWhbpqp45K/goyTOriRsw2b8pYY0Tq53sCobTurHpRKv4b9pQV9OvoRoA6OrH+CAWXvaaiTyAWdW/Gd4mLQUsFoba8ugFRbInshRRMjv/3AdSDgKXXK97KGFX//1QtvSCbQVNjth4V9LwX/m0z2M3Sd+xjc3FWfqaZLAhns1WLHKTGu6ojLxkfFNUy0cJ4ZQMMJIAo1ojJUeZpE8nh2KT6dW1a308CUGptxqwqOcGSSEVm/J6yJusniXi2tnGf4zP6yTA2O9hWRkkRauJqPaR1OFSfu1iJwHTycN9vMJReQoTojRrgAn7Q25M4W87jvffTsXeebK6t3VHm+viO0aEWKc+gI57Is1TVHGV2fzlB7FwvQzdpV2iGPHHFIH3sMSrFQTP96NAXIGQtvA==;h+vAOVP5fp6ZXDXj50zvNw=="

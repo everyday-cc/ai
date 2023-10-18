@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-become-top
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-become-top-hub-for-all-things-fintech-ylccedd2?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Zawya
@@ -41,22 +41,6 @@ related:
     images:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/MGI1NWViZjUtMmEwNi00/0/1-jpg.jpeg?f=3%3A2"
         width: 900
-        height: 600
-        isCached: true
-  - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
-    excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
-    publishedDateTime: 2023-10-13T20:51:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Chukwuemeka-Ujam.jpg"
-        width: 800
         height: 600
         isCached: true
 

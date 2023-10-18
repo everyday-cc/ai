@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/hurt-ripples-wake-indigenous-voice-062103540.h
 webUrl: "https://www.aol.com/hurt-ripples-wake-indigenous-voice-062103540.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,33 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Confusion, distrust impact Indigenous Voice vote"
-    excerpt: "She is however a supporter of constitutional recognition – “but not this way, which includes Voice”. No one from the official Yes campaign wished to comment on this week’s polling figures – perhaps understandable given the desire to keep a ..."
-    publishedDateTime: 2023-10-13T23:08:00Z
-    webUrl: "https://www.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
-    ampWebUrl: "https://amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/confusion-distrust-impact-indigenous-voice-vote-20231013-p5ec0u.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 44
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Months old Yes poll sparks claims Indigenous Voice support claim is outdated"
-    excerpt: "Outdated polling showing overwhelming Indigenous support for the Voice has sparked a late-stage brawl over ... by Dean Parkin from Australians for Indigenous Constitutional Recognition. A Yes23 spokesperson said the 80 per cent figure was based on multiple ..."
-    publishedDateTime: 2023-10-14T01:11:00Z
-    webUrl: "https://www.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
-    ampWebUrl: "https://amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/months-old-yes-poll-sparks-claims-indigenous-voice-support-claim-is-outdated-20231012-p5ebx0.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 36
   - title: "Days after Voice vote, Peter Dutton waters down Indigenous recognition commitment"
     excerpt: "Coalition leader Peter Dutton has talked down his commitment to recognise Indigenous Australians in the constitution just days after the Indigenous Voice to Parliament referendum, saying Australians are \"probably over the referendum process for some time\"."
     publishedDateTime: 2023-10-15T23:56:00Z

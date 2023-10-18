@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel"
+    excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
+    publishedDateTime: 2023-10-18T05:33:00Z
+    webUrl: "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 77
+    images:
+      - url: "https://images.wsj.net/im-869788/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Nvidia Stock Drops. AI Chip Exports to China Are Under Threat: Report"
     excerpt: "Nvidia stock was falling early Monday following a report the chip maker could face further restrictions on exports of its artificial-intelligence chips to China."
     publishedDateTime: 2023-10-16T09:41:00Z
@@ -459,6 +473,31 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "US further limits NVIDIA AI chip exports to China"
+    excerpt: "Consequently, NVIDIA will no longer be able to sell its A800 and H800 AI and HPC GPUs in the Chinese market. Other countries like Iran and Russia will also be caught in the crossfire. This will further reaffirm the US government's measures, designed to prevent the procurement of advanced semiconductors via subsidiaries in these countries."
+    publishedDateTime: 2023-10-18T14:28:00Z
+    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/us-further-limits-nvidia-ai-chip-exports-to-china"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/95NCHgo7aooqjbeJ425npZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "US further restricts AI chip exports to China"
+    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
+    publishedDateTime: 2023-10-18T15:06:00Z
+    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
+    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 54
   - title: "US tightens curbs on AI chip exports to China"
     excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on"
     publishedDateTime: 2023-10-18T02:22:00Z
@@ -608,6 +647,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
+  - title: "Tech war heats up: US cuts China off from AI chips – Nvidia, Intel, AMD are affected"
+    excerpt: "The Biden administration is reducing the types of semiconductors that American companies will be able to sell to China, citing the desire to close loopholes in existing regulations announced last year."
+    publishedDateTime: 2023-10-18T11:53:00Z
+    webUrl: "https://wraltechwire.com/2023/10/18/tech-war-heats-up-us-cuts-china-off-from-ai-chips-nvidia-intel-amd-are-affected/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 27
   - title: "Chip stocks fall as U.S. moves to close loopholes in effort to curb AI chip exports to China"
     excerpt: "AMD (NASDAQ:AMD), and Intel (NASDAQ:INTC) fell in early trading Tuesday as new rules from the Biden administration will make it harder for China to buy AI and other advanced U.S. chips. The objective of the move is to address apparent weaknesses in export controls that were introduced a year ago."
     publishedDateTime: 2023-10-17T13:12:00Z

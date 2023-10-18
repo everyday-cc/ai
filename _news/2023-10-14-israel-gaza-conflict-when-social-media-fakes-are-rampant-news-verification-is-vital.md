@@ -1,42 +1,23 @@
 ---
 category: news
 title: "Israel-Gaza conflict: when social media fakes are rampant, news verification is vital"
-excerpt: "As news of Palestinian militant group Hamas launching a deadly attack on Israel and Israel’s threat of retaliation began to filter across news networks and social media platforms, a wave of misinformation and fake videos rose alongside."
-publishedDateTime: 2023-10-14T05:45:00Z
-originalUrl: "https://theprint.in/world/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/1803624/"
-webUrl: "https://theprint.in/world/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/1803624/"
-ampWebUrl: "https://theprint.in/world/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/1803624/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/1803624/?amp"
+excerpt: "dash cam footage from parked cars and facial recognition technology such as Amazon Rekognition software. I would stress that, although there are many useful tools that can help with this work, it's important for humans to ultimately review automated ..."
+publishedDateTime: 2023-10-14T11:33:00Z
+originalUrl: "https://economictimes.indiatimes.com/tech/technology/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/articleshow/104416569.cms"
+webUrl: "https://economictimes.indiatimes.com/tech/technology/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/articleshow/104416569.cms"
 type: article
-quality: 37
-heat: 37
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://static.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-related:
-  - title: "Need to check fake posts on conflicts"
-    excerpt: "As news of Palestinian militant group Hamas launching a deadly attack on Israel and Israel’s threat of retaliation began to filter across news networks and social media platforms, a wave of misinformation and fake videos rose alongside."
-    publishedDateTime: 2023-10-14T20:56:00Z
-    webUrl: "https://www.thestatesman.com/opinion/need-to-check-fake-posts-on-conflicts-1503231487.html"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 4
-
-secured: "v2pvIQD7BiEN5lAFYxyzUMxEBnu9pBVs1kEHAq7u/3Wbw50geyagdz1XE2HbAEm+qO58hEGETP4KAiKfHNGd4xCxq/YdJAcizKsT5mXqL9+u/vqcjydRH3dOPuBZQS5ckWrqW9FCdOaOQPcH4VcPnXGsYwUVwQZ+h7NUQvrkq8dBdVolOjQvwYOEZVMuNOlyWqjmu0bacFRvVxY/CooT0CNTLmhPZvyy7AOMiez9vzHqcn938BqyPLDnhOS5vfN1VckogaMyqvRBc+TRcb8LYMegcbjYl8T7K6gG6BPdoz4m0zVoCHW5781d6VuVxsLZ7ORI+lLblPAWnvSlVjHItZTt3qphiAaiWzOFiCvxR34=;6d/dCRIHxrx5Bg8HCBeYgw=="
+secured: "Uex42YNvzBAXrwB1j09HHxXebf8B1GGGZqi5HXtaO5PUXGSmNjP+ilU/lIxSHN4o2Lzsr+x54LYAJ8DHspoMJQq2MUfKms9BF6utVaFHzmmdxbtm5NKBaXF8Q45zrKU6KKTurqx6fXskxZ2O9ItnpBCQ4b01kRDo6GC8j9uteIXAhw4qvID8ZMaLopPlLOBTi4uAMJR9fNAorwIYYAFSEDXW6ZWwldLvVzbr7ypZaXVfOTCc8VNw9hbwD8RKi3tT4B3jFGTtTJaYqfW/GpH5Y/s/1U7R43dH3bj/Ok0a/6USYcIRR+m5lF7ISH3KgeXIjNSs5GeA4vesCvB6pX7YKfZcZJabAoSl9fveqzdnep8cy3W1vhaWH33vR1tJikdkiQCwj+i3hjd3rlw4ycp+8gfffx9rR0hLSlhKIvRQtKZNNbVSjDoh5QRiEKqDmXMMPG5tuS6WT280b4iUggMVeYE/H19zcjj8GAh0CXJSPO/sKZ4IvRHkp44Ef5jo4YiD1ivdAh7MVzZlpJe7maSkkg==;D5ZbFxCRwMhjZn2gfbJl6Q=="
 ---
 

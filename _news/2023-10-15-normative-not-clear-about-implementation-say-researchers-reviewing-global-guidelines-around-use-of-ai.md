@@ -59,6 +59,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "'Normative', not clear on implementation: Researchers reviewing global guidelines on use of AI"
+    excerpt: "Reviewing global guidelines around the use of AI, researchers found that while most of the guidelines valued privacy, transparency, and accountability, very few valued truthfulness, intellectual property, or children's rights. Further, most of these ..."
+    publishedDateTime: 2023-10-15T06:44:00Z
+    webUrl: "https://www.deccanherald.com/technology/normative-not-clear-on-implementation-researchers-reviewing-global-guidelines-on-use-of-ai-2727486"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 27
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-10%2F3f007792-f4e5-4c82-a8a0-8c774844ed78%2F2023newsmlRC2O73AMBSQP171164657.jpeg?rect=0%2C34%2C3500%2C1838&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "QbLe7I6uuOD0hKiXyCjsRT1trpGEMdSokxnIXD+qlD9TRIsFHArM+Fh36eloFIjzYRpm1p8+Hz3OukE9VJ+0bPWSEsHqPs/OODqYhQFsXO5jDY+hs8KGGMFpv2fOjHIunsM+rFuf/EkPMcsxKIxgGpG72LNSfR8CCgE/00OM9Ea4NGyVXTg1Qh31veFAvkD5sefmRV9oRga3sOdhLkpMoAxbrGKw8BwDu6WOzCbuyGmq/kZjK5CZsc6t4/SucqSSJLjq3FGq/smtglMEHUvVyElTTdZpZWQxnoDeC7A1Qo9Py9ZMcMvRQ/6lzawIDKri5SY04ojCzrfmFHq7j6r/sv2YBHhUgstzLoN6NhGzXHY=;cM+veRBwyDGH1+a71vCgqw=="
 ---

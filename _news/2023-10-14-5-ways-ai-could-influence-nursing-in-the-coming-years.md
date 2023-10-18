@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The top AI tools creators use to make content and 4 other key takeaways from a new survey of 2,000 influencers"
+    excerpt: "Membership platform Creator Now surveyed creators on how they really feel about AI in the influencer industry."
+    publishedDateTime: 2023-10-18T14:53:00Z
+    webUrl: "https://www.businessinsider.com/ai-tools-used-by-creators-chat-gpt-midjourney-google-bard-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://i.insider.com/652f6780be9edfa8eda36167?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "KT8gKAekgU27dci+8M2fNDwW4UTVMx26D+Qs4fMC4C1KzuSOdbEYPrpHatEmMdyo7ob3j4opqRwGgv43SB2vfIohvewS9JwOvPFpp2Ls47bWoFUwMlWBZifZklVJCvySowPRQguy1F/l0xijASya3JQP17C0ryvQYTXd+o37Cf0Uh/3Wk7kb0L3DV8iV1uRSwgnKo+qmDSK1boaJobdI98jR9vUkHfrKwhjuCbvLFOUwglwnMIsSAxgewrIoSdvY5VrdxM1ttYexDdLr6Z97Kis+LYTu48psig8DkGMrhQJ63e/le1maZnNxAl9Y+esiiwmWv0qYOtYek+w1iA3njkqHCNrgW6V4sM5To1qhixI=;T+OPYKCst4sofnPqv5P47w=="
 ---

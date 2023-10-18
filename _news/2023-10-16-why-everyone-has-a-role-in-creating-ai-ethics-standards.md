@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-ever
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
+    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
+    publishedDateTime: 2023-10-18T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "cbExl8lqw6JzsLa247mmK4ggotDQb+se2hGCSrx894/1LxpByOvBvXFnToDfgqWHUp5YUV/hVvv7nejJYnprde1C803q4zhY3nG0benM89HjIG5k8vXuYIflqeCiyOkGxdBq2rAzx5dAjL6f0tEoFYzGemFh8VN9A9ePjrKWdHMWkX+p4lDOSloGOaI24Ab6nBFL6sFLYBGX5ugXsXpYPhFgypZELIQRCNOyrcNeybuhwOHHhmjoizoUiUfmMNVq+/xg9j2hSF0w7dDhZYvkuB7U1Xpiv1sB36dQCxsSsOaqfwX9fo9IrgTv1AH1u3JSCDAOyqmf6APfdDxZCOQUueT7o5Zb1NMH6RwFle6ksIx5ZKCFRkr7uYYQG/FHOW7h9THhxN27H7f0IPzuMU9nW7TCFrjDW5ydpVZLY+xgE0ics2yI+ZeUwnr97LUutE4bo6r9pH/NjggraqJ0jH29Y8iDU8MsEkKw1kTMXMel7KbMeG/70/OD1etBwIf25gittSKnpEx0EeJl22yhVExJlw==;bVFND49cSjo094atPEqcuw=="
 ---

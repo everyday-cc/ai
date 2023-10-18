@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
 type: article
 quality: 82
-heat: 132
+heat: 112
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "1 Artificial Intelligence (AI) Stock to Buy Before It Soars 150%, According to Wall Street"
-    excerpt: "SoundHound AI stock has crashed a whopping 87% since going public. The company's impressive growth and its artificial intelligence (AI) credentials haven't been enough to give the stock a boost, which may seem a bit surprising as AI stocks have been in hot demand this year. However, analysts remain upbeat about SoundHound's prospects."
-    publishedDateTime: 2023-10-13T21:25:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/13/1-artificial-intelligence-ai-stock-to-buy-before-i/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 72
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/750563/hand-drawing-chart-stock-return.jpg"
-        width: 2899
-        height: 2077
-        isCached: true
   - title: "Why Wall Street Thinks This Artificial Intelligence (AI) Stock Could Skyrocket 140% Over the Next 12 Months"
     excerpt: "However, don't automatically jump to the conclusion that the joyride is completely over. Here's why Wall Street thinks one AI stock could skyrocket 140% over the next 12 months."
     publishedDateTime: 2023-10-16T09:50:00Z
@@ -84,15 +70,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
-    excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
-    publishedDateTime: 2023-10-13T19:49:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21085117/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
 
 secured: "oSq/Kkyxkx8xp+E/3Fioi+9uToAAKttl7mEkRYZG7xkeo51U7RttNz9gLOdBJWJlzgnZf1LFwRfg4g9v0EXN88kbWT2Giquu4LduSMEuoVGIwsW7SLkQ1ybDsOVpxyefSRGIko5Ob1GM0iOf3D+F5cDHfqt1IweCCkjowk9JSwgj6coI9fgVY3Pm5EabyvCIOE3HVXoQjys5hMgBAOd/T+G/B6pZk0bjKjTLRZTfpZEtyxm82W/dDUjjpVsn4qfWL7xyV4fAlkT27en7G4acIY3G6Qio1SIUg+r8rpsXswet/Sc5PHgcFmA98bOvqRxPSmkKFw+YcOTrVbfYFovXGUrHnnFGLyjR91H/0r0j2xhbhXcjwmmAW225QbLff/I2oV9Qw26YzL0reHlNgiOJbQkgMTeIlbBp4qS3ou7+IUBL0Wl9IKNQTy0yFoLw7TOx9Ae9NXlu/x9hyyuTxEVVtmSsoa/p5utQGEjIpM8QdGLkZMk0kCheSXa1ORfc2XwPbWJmD2Gq0P3Jx/UZ2oIEUQ==;vAkJeyXuqDwdi9NGuTL4qw=="
 ---

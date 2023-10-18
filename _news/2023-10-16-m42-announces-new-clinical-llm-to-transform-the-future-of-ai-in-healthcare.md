@@ -7,8 +7,8 @@ originalUrl: "https://www.thaipr.net/en/it_en/3396194"
 webUrl: "https://www.thaipr.net/en/it_en/3396194"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: thaipr.net
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE, a leader in cloud computing and AI server markets, announced a new strategic framework for AI outlining a blueprint for the company's direction in the AI-driven future of the consumer PC market."
+    publishedDateTime: 2023-10-18T15:11:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20231018000854"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 36
+    images:
+      - url: "https://mma.prnasia.com/media2/2249480/Picture1.jpg?p=medium600&koreaherald_list"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Home healthcare tapping AI to speed processes, close gaps in care"
     excerpt: "Providers are turning to the technology to try to maximize caregiver-patient compatibility and make administrative work more seamless."
     publishedDateTime: 2023-10-17T09:00:00Z

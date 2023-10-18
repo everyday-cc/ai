@@ -25,31 +25,88 @@ images:
     isCached: true
 
 related:
-  - title: "The company powering the AI revolution is quite happy to let staff keep WFH"
-    excerpt: "Nvidia, which makes chips used for AI software like ChatGPT, says flexible work helps attract and retain staff and lets them balance their \"personal and work obligations.\""
-    publishedDateTime: 2023-10-15T16:15:00Z
-    webUrl: "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp"
+  - title: "The Chatbot Revolution: Transforming Healthcare With AI Language Models"
+    excerpt: "ChatGPT and similar chatbot-style artificial intelligence software may soon serve a critical frontline role in the healthcare industry."
+    publishedDateTime: 2023-10-18T14:43:00Z
+    webUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/"
+    ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://i.insider.com/64d4e13b48a88f001968b063?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6526d2865dfb956a3deee505/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "The Quantum Leap: How Quantum Computing Will Revolutionize Artificial Intelligence Applications"
-    excerpt: "Introduction In the ever-evolving landscape of technology, two groundbreaking fields have been making significant strides: quantum computing and artificial intelligence (AI). As these fields continue to advance,"
-    publishedDateTime: 2023-10-16T10:23:00Z
-    webUrl: "https://techbullion.com/the-quantum-leap-how-quantum-computing-will-revolutionize-artificial-intelligence-applications/"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-10-17T20:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 7
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
+    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
+    publishedDateTime: 2023-10-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "With AI On The Rise, One MSP Builds A Chatbot With A Cajun Accent"
+    excerpt: "She said customers could start adopting new AI technology within three years. “The market is going to move fast,” she said. Another panelist, Henry Timm, CEO of Rolling Prairie, Ind.-based Phantom Technology Solutions – another MSP 500 member ..."
+    publishedDateTime: 2023-10-16T23:01:00Z
+    webUrl: "https://www.crn.com/events/with-ai-on-the-rise-one-msp-builds-a-chatbot-with-a-cajun-accent"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "NYC announces artificial intelligence adoption framework, AI chatbot pilot"
+    excerpt: "Artificial intelligence (AI) has made headlines in recent months for both its potential to advance humanity and for its possible pitfalls. From automation and chatbots to self-driving cars and facial recognition,"
+    publishedDateTime: 2023-10-17T19:36:00Z
+    webUrl: "https://www.americancityandcounty.com/2023/10/17/nyc-announces-artificial-intelligence-adoption-framework-ai-chatbot-pilot/"
+    type: article
+    provider:
+      name: Government Product News
+      domain: americancityandcounty.com
+    quality: 32
+  - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
+    excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
+    publishedDateTime: 2023-10-16T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/even-google-insiders-are-questioning-bard-ai-chatbots-usefulness/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "An In-House Revolution: Early Adopters of AI Reduce 'Rote Tasks,' Spend More Time on Strategy"
+    excerpt: "We jokingly say, 'It's like having a really solid first-year sitting next to you working on things with you,' said Darth Vaughn, Ford Motor Co. litigation counsel and managing director of legal ops."
+    publishedDateTime: 2023-10-16T12:54:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/10/16/an-in-house-revolution-early-adopters-of-ai-reduce-rote-tasks-spend-more-time-on-strategy/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 8
 
 secured: "guAUsmI5aphLcrlWUs0P0zx3JMEP4IJi2XhB55twLYpPamzduBMNeOuIfC1IrnMM8rwdfW6TPTqXvz28XoBnzJ6lxD3CO5Bo2KnPDBCghiJY2lr8MlG2OTfZ2WboHyJmrBwaTLHlpXoQltnDDQBy6s3GtEEWQ4BAVcIZOX3z0vP8j6NjYDHqKB79RtSv/S66Rd1hW969z6hZPMDLHTrOYno9laufS7BZ6bTEiYSjwvUPel8uAGw7FSbJe5xUSG1SFT/JCQfne7XipNEVUI+7ZnxrX19giZgT1+wrRsaFau6AGOryfbZ2WgwlsLV7tmMqOuyiLnFE3Cxkd1pt5fHLNERye4ztDP9ei1qZTUwpwiw=;3bGn4cTNjZjdN2IENKHuSw=="
 ---

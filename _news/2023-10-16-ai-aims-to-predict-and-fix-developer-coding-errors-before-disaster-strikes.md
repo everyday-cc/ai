@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI & Low Code; Can The Two Work Harmoniously To Democratize Coding For Developers?"
+    excerpt: "The synergy between AI and low code is transformative, democratizing coding and expanding the horizons of software development."
+    publishedDateTime: 2023-10-18T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652ee1ff08f740841b955421/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 388
+        isCached: true
 
 secured: "ror/hplsg7zLTrQUpdfmCupR0Fl8suGjt6Zxrabr/FfT/qAEHSm+XCryMMz9DfhnYXN+3y6zjB9fVIVilDD4WL23VbFmaKT54pKfpWYvcXOwbj5qUcoi3wYgr4sokejlnSK/NgpiP87DQyaFPsGLBS4jbAWOR+xNdLLjorJskVIJR6BIvAyovFLCCsTVGiMonYF+SXvsfq8kZhdTKVT5Svnqet8h7iMu0xp9gR9Rwh2WI+uJDQkZmhrbw0SxNBNyiuNRHdmEmQOY2Fka+h9fy7ypJkhbFE/W0FnjVSPtW+oI9bQLWhJ3o2WHNDxc/fV3mJmszonKQCPeDxkdcnrR5OwriPn7aEWHiM9v8qS9XBgzikOcA5a3PWIVdAkFA/J9GcJtVE8bH9sWztQkey6cbKutT/Lgul4SoRPiW9lEfvpmjKHWEThlneY/QfDOUEmjS+VzgqR6eh6hGENx9PH5Vbonw9/5OY33epA8VdDLnId5oEDRvZjhj6BryjNM4PXlvBh2+tO284ngXhhaNGyC2w==;XRD8b04KyNORp63RhhHX/Q=="
 ---

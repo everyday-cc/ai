@@ -39,33 +39,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "China's Baidu Unveils Latest Version of Its Ernie AI Model"
-    excerpt: "BEIJING (Reuters) - Baidu on Tuesday unveiled the newest version of its generative artificial intelligence (AI) model, Ernie 4.0. Ernie 4.0's capabilities are on par with that of ChatGPT maker OpenAI's GPT-4 model, Baidu's CEO Robin Li said at an event in Beijing."
-    publishedDateTime: 2023-10-17T02:27:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/chinas-baidu-unveils-latest-version-of-its-ernie-ai-model"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
-  - title: "Chinese Search Engine Company Baidu Unveils Ernie 4.0 AI Model, Claims That It Rivals GPT-4"
-    excerpt: "The Chinese search engine and artificial intelligence firm Baidu has launched the latest version of its artificial intelligence model Ernie 4.0"
-    publishedDateTime: 2023-10-17T05:52:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-17/chinese-search-engine-company-baidu-unveils-ernie-4-0-ai-model-claims-that-it-rivals-gpt-4"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 37
-  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
-    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
-    publishedDateTime: 2023-10-17T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "sby2C1HhzzxFPRyv5BeyfsZRP6EQYPTRC+ZpvK231/dlaxzzNTU5+qa3yE+94GbxYob5ZBXIcyemzdM2ByoKlpovhI1v9Mq3bRQbJlBVouf6slxRslIKq2LKnE81ltGoe/SbSM0Z685UO1AW1B+v+lo5TQDz8Hwn+cu12NotPr1Q0YFgm+oqqPbb04GwtSeMwBlViCduW/wxwipIpg0bBXBmYa6m0o0AMzkJbyIS6hBJETm2wwLPXkIrla9vDHr5bunXmwyUyenDGZSgvNKwMaoTXeabGg4B2bDNE3bpFHsUNxtk9fBeFO36Xm0zVhMXWRchI+ltyPvfi2vtHyLx1FNGRPbqMyeedxoiDDaGFC8=;b1j2Nf5NVz7t42iV7M/EqA=="
 ---

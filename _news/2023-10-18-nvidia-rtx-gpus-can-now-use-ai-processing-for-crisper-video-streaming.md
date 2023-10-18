@@ -28,6 +28,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Analysis: Nvidia, AMD Give Partners New AI Selling Points For GPUs In PCs"
+    excerpt: "Nvidia and AMD is giving partners a new set of AI selling points for GPUs in PCs thanks to software updates that enable fresh large language model and machine learning capabilities."
+    publishedDateTime: 2023-10-18T15:21:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/analysis-nvidia-amd-give-partners-new-ai-selling-points-for-gpus-in-pcs"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 53
+    images:
+      - url: "https://www.crn.com/resources/0285-19189283789b-33d5c24b1e4f-1000/artificial-intelligence-chip.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Running AI Large Language Models on Windows PCs with GeForce RTX GPUs just got a massive boost"
     excerpt: "Alongside DLSS 3 support coming to a batch of new games, NVIDIA's latest GeForce Game Ready driver release greatly improves Generative AI performance."
     publishedDateTime: 2023-10-18T00:32:00Z

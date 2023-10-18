@@ -57,20 +57,6 @@ related:
         width: 1565
         height: 900
         isCached: true
-  - title: "Bing AI Joins Microsoft's Bug Bounty Program - And The Payouts Are Big"
-    excerpt: "Microsoft's Bing AI launched a new bug bounty program designed to find important and critical flaws in the chatbot. If you find one, the reward is pretty big."
-    publishedDateTime: 2023-10-13T21:48:00Z
-    webUrl: "https://www.slashgear.com/1420424/bing-ai-microsoft-bug-bounty-program/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 84
-    images:
-      - url: "https://www.slashgear.com/img/gallery/bing-ai-joins-microsofts-bug-bounty-program-and-the-payouts-are-big/l-intro-1697233282.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
     publishedDateTime: 2023-10-17T13:54:00Z
@@ -168,6 +154,15 @@ related:
         width: 1000
         height: 511
         isCached: true
+  - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
+    excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
+    publishedDateTime: 2023-10-18T13:10:00Z
+    webUrl: "https://www.techradar.com/pro/microsoft-why-ai-is-going-to-push-forward-the-next-generation-of-digital-transformation"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 55
   - title: "TCS Seeks a Boost in AI Partnership with Microsoft"
     excerpt: "The collaboration with Azure OpenAI, formed by Microsoft and OpenAI, involves using the cloud-based AI tool GitHub Copilot."
     publishedDateTime: 2023-10-16T07:00:00Z

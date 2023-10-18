@@ -34,6 +34,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Analysis: Nvidia, AMD Give Partners New AI Selling Points For GPUs In PCs"
+    excerpt: "Nvidia and AMD is giving partners a new set of AI selling points for GPUs in PCs thanks to software updates that enable fresh large language model and machine learning capabilities."
+    publishedDateTime: 2023-10-18T15:21:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/analysis-nvidia-amd-give-partners-new-ai-selling-points-for-gpus-in-pcs"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 53
+    images:
+      - url: "https://www.crn.com/resources/0285-19189283789b-33d5c24b1e4f-1000/artificial-intelligence-chip.jpeg"
+        width: 611
+        height: 458
+        isCached: true
   - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
     excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
     publishedDateTime: 2023-10-17T19:36:00Z

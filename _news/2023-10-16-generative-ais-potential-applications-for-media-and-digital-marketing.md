@@ -23,77 +23,59 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Democratizing AI with digital adoption platforms"
-    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
-    publishedDateTime: 2023-10-16T09:07:00Z
-    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
+  - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
+    excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
+    publishedDateTime: 2023-10-18T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
-    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
-    publishedDateTime: 2023-10-17T09:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
+  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
+    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
+    publishedDateTime: 2023-10-17T04:51:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
-        width: 800
-        height: 450
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "AI startup Leucine raises $7m for drug manufacturing digital twin platform"
-    excerpt: "As AI applications in drug manufacturing widen, Leucine’s digital twin of the shop floor helps automate compliance and improve safety."
-    publishedDateTime: 2023-10-17T10:18:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/news/ai-startup-leucine-raises-7m-for-drug-manufacturing-digital-twin-platform/"
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Delivering joint solutions upgraded with generative AI capabilities for critical uses cases - Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants - Plans for further integration of IBM watsonx with AWS ARMONK,"
+    publishedDateTime: 2023-10-18T11:59:00Z
+    webUrl: "https://www.asiaone.com/business/ibm-expands-relationship-aws-bring-generative-ai-solutions-and-dedicated-expertise-clients"
     type: article
     provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 35
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
     images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/10/shutterstock_384031390.jpg"
-        width: 1000
-        height: 563
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/pr-newswire_500_4_1020.jpg?h=7de12b8a&itok=Lc8yxDNw"
+        width: 600
+        height: 316
         isCached: true
-  - title: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna"
-    excerpt: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna - In the ever-evolving digital landscape, Artificial Intelligence has become a part and parcel of our lives."
-    publishedDateTime: 2023-10-18T09:26:00Z
-    webUrl: "https://www.siliconindia.com/news/general/enhancing-ai-applications-with-deep-learning--talking-with-thought-leader-dwith-chenna-nid-225967-cid-1.html"
+  - title: "AI Is Taking Customer Relationships to the Next Level"
+    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
+    publishedDateTime: 2023-10-17T17:15:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 26
-  - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
-    excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
-    publishedDateTime: 2023-10-17T13:25:00Z
-    webUrl: "https://www.fiercepharma.com/manufacturing/leucine-reaps-7m-series-money-fund-ai-digital-twin-platform-manufacturing"
-    type: article
-    provider:
-      name: FiercePharma
-      domain: fiercepharma.com
-    quality: 4
-  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
-    publishedDateTime: 2023-10-16T11:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
 secured: "xIUgE693+N/chV88zDI7YOFEvsJxsCe38rAxU+fHviSYw/cxa7qmhJ+oEMb9FgtlZeusiuFvCyFJGqBYK9S+ZsVtyO7iqFkKPWvv0UgGj3C0CK4/7szL8fXt6lDjLjaK4XI7QrOVM3ovmn1xvuNfCIbt4X/5SkZGgVIvISbXpAHYew3k8HBReF/9bQs/OMZhC/sveejsdCB1ciNkZLQyMDrcMGEq1YkIelH+kSwkgcIjAc5FcTjnymX+fdqoBTbKlp6baOJqjoFmOJua0KbM2oAKGtZFRKuGaW1phEpgcnuAVmxl3ZpqGWfapqrphuF3Qwrf5I2KZTjDRxrTXm6BeXh3ArhmGN2XZCZkSyF03uATtFxUOLeVg/WEb4el8/ul8uAIDDRQEkhYmOb+4YG74JaBhWLw2hsTXrxlbFcuVGWZuhxXgSDkZb+HnsXWnmmqVyaa6D6aK7LHTVReqtPQ23tOnn02QrFvOWIWtcLwbxUFzkmrlZrPcf1WgpTBrsttDnlTpIOn4/G1YQiBvV9U2w==;y62OvppBdJUd00ggaFOM3A=="
 ---

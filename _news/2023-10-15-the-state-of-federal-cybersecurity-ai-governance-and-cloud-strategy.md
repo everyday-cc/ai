@@ -92,6 +92,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Generative AI pervades Gartner’s 2024 predictions for cybersecurity roles, application modernization and more"
+    excerpt: "Gartner’s top predictions for enterprise IT organizations are dominated by AI, which is influencing trends including employee unionization, electricity rationing, and smart robots."
+    publishedDateTime: 2023-10-18T13:52:00Z
+    webUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 40
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/27/10/tall-blue-buildings_skyscrapers_enterprise_cityscape-100751598-large-100929510-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ho1ohGWZGeNqJEL9JJTruXR4Y2pxrvWdkwIO1d2bRlzjiHxD21wxyqxCow1XWrM8C1RdFrJi7vB/Mvyen58lqxJl7fx3V0YJRlAjESj7PyJMP812yMcnthoBk1N/AWIHQoJnA+oGCCpLYIVdItWJyBc7c9x+/nBaUusAnyvI4Zy/g879eC/aRlIwoi9DU2es/IZAOMbQmqX/fx2oOQiP261eETweAqSo6FYKn/+9s7YTBQ1bzXranWUsIyXTnlp6bZLWnkGoC/vmbr+KXO1CT8ZI5GTYWtr6D/oYjmfsCaC47TF+BFJtAMmTjFAgnCaWiEk/AZyO56caIQPCYKczEX+yRdwFgZfe0nFrMy6zyIc=;HqVG1nAtcYgfeF4Vlxr44A=="
 ---

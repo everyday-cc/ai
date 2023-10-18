@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63eeaae555e0f25c5c2ed0f6/0x0.jpg?format=jpg&width=1200"

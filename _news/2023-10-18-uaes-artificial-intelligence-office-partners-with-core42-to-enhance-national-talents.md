@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/uaes-artifi
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "G42 and OpenAI partner to deploy advanced AI in UAE"
+    excerpt: "G42 will prioritise its substantial AI infrastructure capacity to support OpenAI’s local and regional inferencing on Microsoft Azure data centers"
+    publishedDateTime: 2023-10-18T15:05:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YmM4Mzk4YzMtNTE2ZC00/1/1-jpg.jpeg?f=3%3A2"
+        width: 837
+        height: 558
+        isCached: true
   - title: "The UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
     excerpt: "This initiative encompasses comprehensive training programs designed to strengthen collaboration structures within technical fields"
     publishedDateTime: 2023-10-18T07:08:00Z
@@ -42,6 +58,43 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes – NBC News"
+    excerpt: "ProfileSectionstvFeaturedMore From NBCFollow NBC NewsA man arrested in the killing of a Baltimore tech entrepreneur was suspected of raping a woman days"
+    publishedDateTime: 2023-10-14T23:27:00Z
+    webUrl: "https://www.inferse.com/753933/openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes-nbc-news/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 45
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8584.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Check out OpenAI's other cool AI tools: DALL-E, Whisper, Codex – Business Insider"
+    excerpt: "But the startup behind it, OpenAI, has other AI products too. Just months earlier, OpenAI removed the waitlist for its generative AI art generator, DALL-E, which grew to over 1.5 million daily users."
+    publishedDateTime: 2023-10-14T23:43:00Z
+    webUrl: "https://www.inferse.com/753954/check-out-openais-other-cool-ai-tools-dall-e-whisper-codex-business-insider/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 32
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8593.png"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
+    excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"
+    publishedDateTime: 2023-10-17T19:16:00Z
+    webUrl: "https://www.theinformation.com/articles/openai-dropped-work-on-new-arrakis-ai-model-in-rare-setback"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "VPn46a6sHXTmkB51YuegRigLgVQwMZ1BbUMcKIUOlH9uHaVjKj6erlKvPnypx6gNBKfzdJ1snPtmBrcP5I6Ra4ErZRLtYawgDFEeL/GjuhaoBDQWmNqyV3ZGd2xlrAmdgx60XpFf8bsgr9iSG0ttpI084Le9jOnJPzf3eP9EZ/seanf2mDnRSTw/rmFKP+Sveaajrk3/Fd4qOi2O5KAQMcfitkMg3BZqGVNsArSXo6DEclWoDa3+2RciGqxsdvMwjD0pBnRK3mbCUxYBjaHZXBigP0fkhbS83FCSOVK8r/f2ZckupypYDI2c6pULgnrLLY7TEkmrV0REq+1G3zNWFA/9zt2oqlb8aiKS9Q03C0s=;KCGPhglvuyFH2rVPsMMP+Q=="
 ---

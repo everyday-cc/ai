@@ -27,50 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI is top of mind for leaders. The pros and cons, according to execs from PwC, Google DeepMind, Slack, and IBM"
-    excerpt: "At Fortune‘s Most Powerful Women Summit in Laguna Niguel, Calif., executives from PwC, Google DeepMind, Slack, and IBM addressed the the risks and potential rewards of AI for leaders and companies. Slack CEO Lidiane Jones said she is optimistic about how ..."
-    publishedDateTime: 2023-10-13T20:26:00Z
-    webUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/?ref=biztoc.com"
-    ampWebUrl: "https://fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2023/10/13/ai-executives-google-slack-imb-risks/amp/"
+  - title: "DeepMind UniSim simulates reality to train robots, game characters"
+    excerpt: "UniSim can also simulate rare events, a feature that is particularly useful in robotics and self-driving car applications, where data collection can be costly and risky."
+    publishedDateTime: 2023-10-17T20:48:00Z
+    webUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-train-robots-game-characters/"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 84
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2023/10/53249487823_6808d5bb83_o-e1697208210718.jpg?w=840"
-        width: 840
-        height: 560
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-17-16.46.59-Photo-of-a-modern-sleek-robot-with-its-hand-positioned-more-to-the-left-away-from-its-chin-intently-watching-a-computer-monitor.-The-screen-display.png?w=1200&strip=all"
+        width: 1199
+        height: 685
         isCached: true
   - title: "DeepMind Wants to Use AI to Solve the Climate Crisis"
     excerpt: "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way."
     publishedDateTime: 2023-10-18T11:00:00Z
-    webUrl: "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change"
+    webUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 56
-    images:
-      - url: "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "LeapMind looks to deliver cost-effective AI computing"
-    excerpt: "LeapMind has announced that it is developing a new more cost-effective AI chip to accelerate the training and inference of large-scale AI models."
-    publishedDateTime: 2023-10-17T07:16:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/leapmind-looks-to-deliver-cost-effective-ai-computing"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/media/jgdh1uic/leapmind.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Wired
+      domain: wired.com
+    quality: 64
   - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
     excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
     publishedDateTime: 2023-10-17T13:15:00Z

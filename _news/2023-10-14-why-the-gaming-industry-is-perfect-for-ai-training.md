@@ -35,6 +35,15 @@ related:
         width: 1140
         height: 760
         isCached: true
+  - title: "Employees Are The “New” Customers: Can AI Help Us Give Them Amazing Experiences?"
+    excerpt: "If you want to hold onto your best employees, attract high-quality talent and improve workplace satisfaction, it’s no longer enough to offer a job."
+    publishedDateTime: 2023-10-18T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/18/employees-are-the-new-customers-can-ai-help-us-give-them-amazing-experiences/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
 
 secured: "QqezWHG774K1IWxf+kBzxuV2VKiHhBAXzwICmXvYis17CdH3I0M3PnjUNhwVZ2nLFvL+a3QF7PTCsGEE9/2lICBYAy2lV/x5uiwZxWnFIG5h7HntILrcXOj2U8tFKKTcq0x2eHQOlG+JbKXmao6rv5g1T6dQgFEDdFFiJBpE2YHMvLemofxF3mBql5NUlGLYQgj5zihjWTDBT2+oNbrV4knWvGjeYDa3MNHlxvisohjGqUQoPPmrQnc4jxliAbT/aaq45/gl7YxZEj3SmLlX2tsb8v4BbTBWGbSEEm6524zywqiRUHUQUCHS2kcdhnGElvtCWNvrr62U07e0KNQ3aig0Gal29bYO5i4j+FMH6yg5bAQzM+1msfPbAWs3jr/qrK2S1EHB7xbhRPHmYAvxGWFhPIEgb71L+3JY+KZv4d72w6lfG5WhEdIMq5AOckOYEkzjxUZdiT0Fb+aUj9W09+UawvZROKVbZusKLpsrNe6FQPSjoNPs9vBA3DcQdaCaZqsNjA4Ly+tgjPIWr16fNA==;oR0xF8SMyA2Qb+G5Fw178Q=="
 ---

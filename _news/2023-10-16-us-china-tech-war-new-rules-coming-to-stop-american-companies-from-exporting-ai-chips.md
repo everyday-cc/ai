@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "How to build a secure foundation for American leadership in AI"
+    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
+    publishedDateTime: 2023-10-18T13:00:00Z
+    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
   - title: "Five takeaways from American Banker's AI Summit"
     excerpt: "At American Banker's AI Summit on Monday, bankers, consultants and vendors shared how their institutions are moving forward with generative AI, fintech partnerships and security. AI is the technology that banks are most excited about to create competitive advantage, according to recent research from American Banker's parent company, Arizent."
     publishedDateTime: 2023-10-18T01:00:00Z
@@ -33,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How to Prepare Your Child for an AI-Driven Future"
+    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
+    publishedDateTime: 2023-10-17T19:37:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
   - title: "Do corporations and networks not realize it is Italian American Heritage and Culture Month?"
     excerpt: "Watching college football on ESPN this weekend, one of the commentators brought up something about Hispanic Heritage Month. Later, there was a commercial also mentioning the very same thing again."
     publishedDateTime: 2023-10-16T11:31:00Z

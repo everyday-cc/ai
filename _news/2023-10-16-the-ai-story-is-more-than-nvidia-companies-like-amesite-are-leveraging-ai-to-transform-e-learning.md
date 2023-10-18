@@ -49,24 +49,15 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
-    publishedDateTime: 2023-10-16T12:17:00Z
-    webUrl: "https://www.asiaone.com/business/profet-ai-achieves-significant-milestone-southeast-asian-expansion-macrovention-and-ampos"
+  - title: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna"
+    excerpt: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna - In the ever-evolving digital landscape, Artificial Intelligence has become a part and parcel of our lives."
+    publishedDateTime: 2023-10-18T09:26:00Z
+    webUrl: "https://www.siliconindia.com/news/general/enhancing-ai-applications-with-deep-learning--talking-with-thought-leader-dwith-chenna-nid-225967-cid-1.html"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
-  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "Jonathan Yu, Global General Sales Manager of Profet AI, expressed, \"Profet AI has been committed to providing innovative AI solutions for global manufacturing customers, aimed at enhancing production efficiency and reducing costs."
-    publishedDateTime: 2023-10-17T02:42:00Z
-    webUrl: "https://www.newswit.com/en/ifixepk8qnlv5zjg3yhsclyoz5x9fl7y"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 0
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 26
 
 secured: "Etab8qoQ8C2NS+EHAuAjVGO1DX3LUHEcDBHOIZQ7HrRy863yUb1PeR7wF/zOqPuT1j9Fiz9+fQtz29SfMtoX2wvpFtNqsJExkdT6lZmihKdA8gUg7dmCQVzzOJYBmrvd4rWwcnjjAirRxoTUK3R9S+OA5Kr6h4ZPMd3mC52ReNpGQ/kKNaFHD8/a7nVG0ZPGiZ+LmwlImmeIOL1JxRX2ADLv+8bOLqCaog6IpCeY8SlU1wu8obMblxspY/D/Ru+ic90s1/aVEBa/3VscbNMqUWk2li6tV3m4UqYbzuA76LhAFyDCHY2+nVUax13oYRaHi8kOoScpPEYtsYA/J77sfHJuaniqKXsgYw63oeg1ICYEZQW+WMK025CpWRyqnH3IZQGiHS5O0+Dtb6f/TYKSDqTg2p50wj32AJ7DTqrnFJK4HOENyDfAUWLKUXsZykUfxcFwyidGuebUhj7VhKJWiNKLhE11LaHxIhj6jlLZpK/5gJyymyNSWXCNGx288qR5/Qf9BzX1l/1ueTs7rLHi3Q==;Q3JeTY5kkV9GgUkqB+Iu3Q=="
 ---

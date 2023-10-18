@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/baidu-launches-new-llm-ernie-4-0-that-t
 webUrl: "https://venturebeat.com/ai/baidu-launches-new-llm-ernie-4-0-that-turns-one-person-into-an-ai-marketing-team/"
 type: article
 quality: 78
-heat: 118
+heat: 88
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's Baidu Unveils Latest Version of Its Ernie AI Model"
-    excerpt: "BEIJING (Reuters) - Baidu on Tuesday unveiled the newest version of its generative artificial intelligence (AI) model, Ernie 4.0. Ernie 4.0's capabilities are on par with that of ChatGPT maker OpenAI's GPT-4 model, Baidu's CEO Robin Li said at an event in Beijing."
-    publishedDateTime: 2023-10-17T02:27:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/chinas-baidu-unveils-latest-version-of-its-ernie-ai-model"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Baidu unveils latest version of LLM, Ernie 4.0"
     excerpt: "Visitors learn about the autonomous vehicles at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
     publishedDateTime: 2023-10-17T06:45:00Z
@@ -52,24 +43,6 @@ related:
         width: 564
         height: 376
         isCached: true
-  - title: "Chinese Search Engine Company Baidu Unveils Ernie 4.0 AI Model, Claims That It Rivals GPT-4"
-    excerpt: "The Chinese search engine and artificial intelligence firm Baidu has launched the latest version of its artificial intelligence model Ernie 4.0"
-    publishedDateTime: 2023-10-17T05:52:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-17/chinese-search-engine-company-baidu-unveils-ernie-4-0-ai-model-claims-that-it-rivals-gpt-4"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 37
-  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
-    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
-    publishedDateTime: 2023-10-17T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "cRiAhxppRJoyKrdrFj3qVAHewiCFbMBFR9vzcRejn4FOfFAIBBUm/jZSZV7Cu+ual6a5IBmb+d1wO5mI0tSa41iux1T2LzYMDuKMzeXLqmgZXc7RtoZDDiDV48RA4YVDmGjVKC6QVcJLNm8Qi7e6E6R1fg9OkMdkOPqNgQfVkCPtOK6UIewXg+G21vGETfpTfsuPpcs9Ht1Mh4DMW7meL2Mxoib6mpLOUsZRdPEe+thI5qPpJbi1WBFAe4T/ymjZya8qHkyxa/5EQhvlda3l24hZqg8QCEDkAsZX5kHB0dGPWUveY/86EEYpEzhKdI18tB8BMxksy4t9a9GrxpVBfUY0aI7kGEZ4g+GoDQXkG5Y=;+TrJLjAEdL+LrG30Tvpl2Q=="
 ---

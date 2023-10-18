@@ -9,8 +9,8 @@ ampWebUrl: "https://businessday.ng/technology/article/growing-ai-industry-seen-p
 cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: businessday
@@ -41,15 +41,6 @@ related:
         width: 752
         height: 366
         isCached: true
-  - title: "U.S. investor Tim Draper rejects regulating artificial intelligence for now"
-    excerpt: "Millionaire Silicon Valley venture capitalist Tim Draper, founder of Draper Associates who has invested in companies such as Skype, Baidu, Tesla, Twitch, and SpaceX, said on Friday that he was against governments regulating artificial intelligence (AI) technology for now."
-    publishedDateTime: 2023-10-13T19:16:00Z
-    webUrl: "https://www.laprensalatina.com/u-s-investor-tim-draper-rejects-regulating-artificial-intelligence-for-now/"
-    type: article
-    provider:
-      name: La Prensa Latina
-      domain: laprensalatina.com
-    quality: 15
 
 secured: "eG706Ml7ytZ4dIcFsNm/QI9BgwaM+pSJhYzqUOYhwTgWbue2ROOF41Caa4JLVcrgMJqKOSE7OrqCu6BwzD3jqCiCicNNRTskivJRi3IK4uHTkkSVwz0KeXreLLR+WtkAvoxj/qZA6vBHzVwBIYZjScsJH/elFeJLyVikyesAIL9qGRgi1Wgs997abRiO8A7E7YDOExUGR3iayCdfCtLGBBSENgdzGIwnLwQojFQXIBSCKSbewm2E7GFitPVddTUbGFrw7p7F7tlqJHG3l7OwXvi39c8FjPmw1hDE7XMLAQM7eCtjY2QHtG7rIfgnhIh5R4OTTU56fLmVU7Z+gDUIgFV6ltKBJJJzi/JA3VaJ6AI=;KREm0Pj45sEqtpI81JxrKQ=="
 ---

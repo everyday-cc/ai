@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202310/biometrics-enabling-digital
 webUrl: "https://www.biometricupdate.com/202310/biometrics-enabling-digital-banking-advances-in-multiple-applications"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Panasonic, academic researchers say data partitioning can reduce face biometrics bias"
-    excerpt: "Develop a new way to train face biometrics algorithms that improves performance of facial recognition for demographic groups represented by less training data."
-    publishedDateTime: 2023-10-13T19:19:00Z
-    webUrl: "https://www.biometricupdate.com/202310/panasonic-academic-researchers-say-data-partitioning-can-reduce-face-biometrics-bias"
+  - title: "Helping employers leverage AI, robotics and biometrics in the workplace"
+    excerpt: "Transformative technologies are increasing productivity and job satisfaction, as well as providing workers with essential upskilling."
+    publishedDateTime: 2023-10-18T13:01:00Z
+    webUrl: "https://www.benefitnews.com/advisers/opinion/helping-employers-leverage-ai-robotics-and-biometrics-in-the-workplace"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 0
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 49
 
 secured: "hMrNSW3E9cceKJZB4+InFerr4C/rLbKvdUaBi+e3JTapQZAjrtzHUVvTAQQxjnShSgivKFdgz/NtRlZNzgylslVUk3zhWOq/CthrtjcI/H7jokzGnCF6YLdPWXpkv8CL6Hq08cs5fKNYAHyDq6BgEJ+I1SULn2NPLKLPnWihcAqhV/mZtIpqjKyUhu7p2i4VluromhCWGj64ngeoTo0VEUQWIxSl45Yz9fwjXjE+QQyfn5wdTQQ/TE9GwaDCBJ4GoZbpD6ZE/+wpZLK2a42HA2I6IEIzt+9j96imgOIxnVGILDpY3dQ90fPuRkPigPmUwuOF0PEGLEUp+SUU8LsCkKGws5XHTF4oLYLypGzACaMZEDpEnhusHruRsPX7aRH8gNAecB+DlOR+HUWS6AuhDABotNzmmIut0mazo+9VvDageE7KM2j6NzEezP31gRR2EFPkjWogFWP7bST+xFXsBkqqmbQ33Hm+HmVGJtYV49C/dqt3gsgsf7EG51AmDd92fxt6Wr8qVKZxa1KRMCPpmA==;LsdBhlnu+o3fn23sd1/1eA=="
 ---

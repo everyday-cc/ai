@@ -43,22 +43,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Ujam Calls for Policy-Tech Harmony to Combat FinTech Fraud"
-    excerpt: "Speaking during a panel session at Tech Cabal’s Moonshot event recently, Ujam who is well-recognized for his expertise in both politics and technology, highlighted the challenge posed by policy lagging behind the rapid advancements in technology."
-    publishedDateTime: 2023-10-13T20:51:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2023/10/13/ujam-calls-for-policy-tech-harmony-to-combat-fintech-fraud"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Chukwuemeka-Ujam.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "IgL2wT4WTkwEYQhM0pHoCtLY35xW1qZReGJlnImQfx8rGheWZEA+taJWP9Mf4dfZfaIZuiZOWf6yOCuoeT2l0SKXF6r1NlPkomToiawUakIhtQ+pQfIjuwVro7KLGilXDOjJN7gkCEo0CztfSpdTACvF+Q39RR54nK6pOKtuoYji9KozwcYY1N1y6Y0QydEftGIFKvGVnt/mY3XtVqE558wnLCJMffx4yRNY0g+UkTA7CgbawBFgHi2E4VENV5CeV+vjtTVXvI6sfmRXA/UjoA+86ec1jaAdMfCBCo7+k9CLDZHZUNbvHH15V1v3uNWCORH9zM/bOrOqvEKeRMSVJ74V3ymr/jsqE3gzKGgoDMs=;tsfQZdy0bXpZ8Fiswtd4/A=="
 ---

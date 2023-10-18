@@ -19,45 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Unlocking the Animal Kingdom: AI's Potential for Conversations with Wildlife"
-    excerpt: "Discover how Artificial Intelligence (AI) is transforming our understanding of animal communication and paving the way for meaningful conversations with wildlife. From deciphering animal languages to advancing conservation efforts,"
-    publishedDateTime: 2023-10-17T01:23:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
+  - title: "Optimize pet profiles for Purina’s Petfinder application using Amazon Rekognition Custom Labels and AWS Step Functions"
+    excerpt: "Purina US, a subsidiary of Nestle, has a long history of enabling people to more easily adopt pets through Petfinder, a digital marketplace of over 11,000 animal shelters and rescue groups across the US, Canada, and Mexico. As the leading pet adoption platform, Petfinder has helped millions of pets find"
+    publishedDateTime: 2023-10-18T16:00:44Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-pet-profiles-for-purinas-petfinder-application-using-amazon-rekognition-custom-labels-and-aws-step-functions/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 56
+      name: AWS
+      domain: aws.amazon.com
+    quality: 97
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_10_2023_15_32_54_4822987.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/petfinder-dogs.jpg"
+        width: 1000
+        height: 445
         isCached: true
-  - title: "In Real Life: Meet The People Dating AI"
-    excerpt: "In terms of having a Replika AI companion, its intelligence is centered on how it converses with humans. It is made to reciprocate the user’s energy. There are paid tiers to the app and several types of relationships—including friend, romantic partner, sibling, or mentor."
-    publishedDateTime: 2023-10-16T00:00:00Z
-    webUrl: "https://www.aol.com/real-life-meet-people-dating-000000514.html"
+  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
+    publishedDateTime: 2023-10-16T11:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_newsy_441/544105fb664cae66199a85def60b4bef"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
-    excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
-    publishedDateTime: 2023-10-16T12:50:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/10/35266164/the-ai-story-is-more-than-nvidia-companies-like-amesite-are-leveraging-ai-to-transform-e-lea"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
     publishedDateTime: 2023-10-16T12:17:00Z

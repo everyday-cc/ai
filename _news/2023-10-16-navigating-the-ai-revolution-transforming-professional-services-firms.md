@@ -23,31 +23,93 @@ topics:
   - AI
 
 related:
-  - title: "Revolutionizing Web: Meta's AI Takeover"
-    excerpt: "Andreessen helped in 1993 to write Mosaic, the base code for the Netscape web browser. After Netscape was acquired in 1998 by AOL for $4.3 billion, Andreessen and his partner Ben Horowitz became noted angel investors in the San Francisco bay area. Their namesake venture capital firm was officially founded in 2009."
-    publishedDateTime: 2023-10-18T01:39:00Z
-    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/"
-    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/"
+  - title: "The Chatbot Revolution: Transforming Healthcare With AI Language Models"
+    excerpt: "ChatGPT and similar chatbot-style artificial intelligence software may soon serve a critical frontline role in the healthcare industry."
+    publishedDateTime: 2023-10-18T14:43:00Z
+    webUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/"
+    ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1201
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6526d2865dfb956a3deee505/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
-  - title: "Sparta aims to revolutionize commodity trading with AI-driven forecasting"
-    excerpt: "VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More Sparta, a startup that provides live market intelligence and forecasting insight for commodity traders ..."
-    publishedDateTime: 2023-10-13T19:35:00Z
-    webUrl: "https://venturebeat.com/ai/sparta-aims-to-revolutionize-commodity-trading-with-ai-driven-forecasting/"
+  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
+    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
+    publishedDateTime: 2023-10-17T20:05:00Z
+    webUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/"
+    ampWebUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 46
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
+        width: 1200
+        height: 798
+        isCached: true
+  - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
+    excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
+    publishedDateTime: 2023-10-18T08:41:00Z
+    webUrl: "https://digileaders.com/navigating-the-ai-revolution-a-journey-through-3-phases-of-understanding/"
+    type: article
+    provider:
+      name: Digital Leaders
+      domain: digileaders.com
+    quality: 38
+    images:
+      - url: "https://digileaders.com/wp-content/uploads/2023/10/shutterstock_2235931143-scaled-e1697618370511.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "With AI On The Rise, One MSP Builds A Chatbot With A Cajun Accent"
+    excerpt: "She said customers could start adopting new AI technology within three years. “The market is going to move fast,” she said. Another panelist, Henry Timm, CEO of Rolling Prairie, Ind.-based Phantom Technology Solutions – another MSP 500 member ..."
+    publishedDateTime: 2023-10-16T23:01:00Z
+    webUrl: "https://www.crn.com/events/with-ai-on-the-rise-one-msp-builds-a-chatbot-with-a-cajun-accent"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 37
+    images:
+      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
+        width: 611
+        height: 458
+        isCached: true
+  - title: "NYC announces artificial intelligence adoption framework, AI chatbot pilot"
+    excerpt: "Artificial intelligence (AI) has made headlines in recent months for both its potential to advance humanity and for its possible pitfalls. From automation and chatbots to self-driving cars and facial recognition,"
+    publishedDateTime: 2023-10-17T19:36:00Z
+    webUrl: "https://www.americancityandcounty.com/2023/10/17/nyc-announces-artificial-intelligence-adoption-framework-ai-chatbot-pilot/"
+    type: article
+    provider:
+      name: Government Product News
+      domain: americancityandcounty.com
+    quality: 32
+  - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
+    excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
+    publishedDateTime: 2023-10-16T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/even-google-insiders-are-questioning-bard-ai-chatbots-usefulness/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+  - title: "An In-House Revolution: Early Adopters of AI Reduce 'Rote Tasks,' Spend More Time on Strategy"
+    excerpt: "We jokingly say, 'It's like having a really solid first-year sitting next to you working on things with you,' said Darth Vaughn, Ford Motor Co. litigation counsel and managing director of legal ops."
+    publishedDateTime: 2023-10-16T12:54:00Z
+    webUrl: "https://www.law.com/corpcounsel/2023/10/16/an-in-house-revolution-early-adopters-of-ai-reduce-rote-tasks-spend-more-time-on-strategy/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 8
 
 secured: "DLl+uxfsOaDEjKSMueBvAxVi/b8P4/F57sQgiUD6TNbcaOrP9sxC7Fe+uOmM+8Xj3JZ/e+09ulzcZ0STLejvyBaHuirf3lH4vnCp6sp3n9Jnse6nB1esXFn62Xp/dt0HSk4nTaLsnvve017sPsohOQdo41pB0vQ7POHQvIZqnuDAwpKAqyGW4VjrcbiiX9ndfhXSPzoBPcEP299/JuaYAyA0MkaLKWo/aBeukd7e8i0fytmsqq9jzv8TeQIn7wTT9zJ0wocyuKZ4gpBmhSARslnnVVajZrWQfL7tlkRC3kKfJE+zUnGb0oPDbRSpZXABxfZd9oOH/s3vyy/gJJw24H9oP/Dn0miAZdY/dieo/uwonRcOMPl6X6yMCbWdMtgS23TUUskVtzEwIeFn01j/BaQg0/YK41LFAn1i9IZDMDWVDbreCOcb1ndBw2mGl4PvpixqRB3zcBoo09bLeHHD9D6pgYWWjtp9MrUeEupA5wVBiuLFf34Nyh29fz8XGwI+CNZNgsw3PrbewZWKxkbUKA==;At2J+itpuDTZguO/xFBJpA=="
 ---
