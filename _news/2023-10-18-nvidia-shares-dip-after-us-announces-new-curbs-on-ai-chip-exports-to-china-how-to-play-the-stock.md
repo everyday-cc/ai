@@ -608,15 +608,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
-    excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
-    publishedDateTime: 2023-10-13T18:33:00Z
-    webUrl: "https://techreport.com/news/biden-administration-considers-tightening-ai-chip-curbs-on-chinese-companies-abroad/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 28
   - title: "Chip stocks fall as U.S. moves to close loopholes in effort to curb AI chip exports to China"
     excerpt: "AMD (NASDAQ:AMD), and Intel (NASDAQ:INTC) fell in early trading Tuesday as new rules from the Biden administration will make it harder for China to buy AI and other advanced U.S. chips. The objective of the move is to address apparent weaknesses in export controls that were introduced a year ago."
     publishedDateTime: 2023-10-17T13:12:00Z

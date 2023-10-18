@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1469706255.jpg?itok=8KKnL_wC"
         width: 1440
         height: 500
-        isCached: true
-  - title: "How AI And Machine Learning Are Transforming Payroll Processing"
-    excerpt: "Enter the realm of AI and Machine Learning. The Dawn of the AI Era in Payroll In the last couple of years, we've witnessed the transformative power of AI. It's like watching a story unfold, where the protagonist (AI) overcomes challenges, learns from ..."
-    publishedDateTime: 2023-10-13T18:47:00Z
-    webUrl: "https://menafn.com/1107238517/How-AI-And-Machine-Learning-Are-Transforming-Payroll-Processing"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/13/R&AN_fc90aimage_story.jpg"
-        width: 800
-        height: 461
         isCached: true
   - title: "Why AI Is Forcing Startups To Chase a Mirage"
     excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."

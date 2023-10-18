@@ -25,73 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "New Era of Artificial Intelligence (AI) Grips World's Imagination as GITEX Global 2023 Enters 2nd Day"
-    excerpt: "Pony.ai, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Minister of State for AI, Digital Economy and Remote Work Applications, addresses the inaugural CTO World Congress."
-    publishedDateTime: 2023-10-17T13:46:00Z
-    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub"
-    ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1"
+  - title: "Look: Farm robots plant tree saplings at Gitex Global Dubai"
+    excerpt: "The Farm Bot displayed by TDRA at Gitex has two robotic arms: one selects the tree sapling and the other holds the pot where it is planted. There are cameras that monitor precision planting of the sapling. The potted tree sapling is then distributed to visitors at the TDRA stand."
+    publishedDateTime: 2023-10-18T11:41:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai"
+    ampWebUrl: "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 74
     images:
-      - url: "https://www.africa-newsroom.com/files/thumb/e270b6b8e4e5e55/600/418"
-        width: 600
-        height: 401
+      - url: "https://image.khaleejtimes.com?uuid=48a07cc6-5d6b-5747-bc4c-435fdb598c42&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.71656&width=1200&height=675&x=1.0E-5&y=0.08439.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "New Era Of Artificial Intelligence (AI) Grips World's Imagination As GITEX Global 2023 Enters 2Nd Day"
-    excerpt: "Pony, a global robotaxi unicorn, weighs global expansion as the world embraces autonomous mobility; His Excellency Omar Sultan Al Olama, UAE Mini"
-    publishedDateTime: 2023-10-17T17:27:00Z
-    webUrl: "https://menafn.com/1107260661/New-Era-Of-Artificial-Intelligence-AI-Grips-Worlds-Imagination-As-GITEX-Global-2023-Enters-2Nd-Day"
+  - title: "Dubai: How Gitex staff proves robots still can't beat humans in customer service"
+    excerpt: "Ask me’ and ‘How can I help?’. They carry poles and give directions. They distribute flyers, lanyards, and help prin.."
+    publishedDateTime: 2023-10-17T08:46:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service"
+    ampWebUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 69
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=7369784b-8957-56ea-9085-f4375311d565&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.97868&x=0&y=0&width=1200&height=675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A self-driving super racing car unveiled at GITEX in Dubai"
+    excerpt: "The driverless Formula car runs on artificial intelligence algorithms and software will be doing its first trial at Yas Circuit in Abu Dhabi in April 2024."
+    publishedDateTime: 2023-10-16T15:01:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/10/16/a-self-driving-super-racing-car-unveiled-at-gitex-in-dubai"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?99704"
-        width: 375
-        height: 250
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/auto-race-uae.ashx?h=500&w=750&hash=DF409452C0FA6B0C951865D40DB100AD"
+        width: 750
+        height: 500
         isCached: true
-  - title: "New Era of AI Grips World's Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
-    excerpt: "As the UAE hosts the world's largest tech and startup show, Dubai unleashed a new era of global AI dominance at GITEX GLOBAL 2023. The event, currently underway at Dubai World Trade Centre until October 20,"
-    publishedDateTime: 2023-10-17T13:56:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900167.htm"
+  - title: "GITEX 2023: Public transport fares can be paid via facial recognition in Dubai"
+    excerpt: "Dubai’s RTA is unveiling an array of projects and initiatives applying artificial intelligence (AI) and metaverse technologies at GITEX 2023, which kicks off on Monday at the Dubai World Trade Centre."
+    publishedDateTime: 2023-10-15T19:21:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/10/15/public-transport-fares-can-be-paid-via-facial-recognition-in-dubai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/2249594/GITEX_GLOBAL_2023_Enters_2nd_Day.jpg"
-        width: 400
-        height: 353
-        isCached: true
-  - title: "New Era of AI Grips World’s Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
-    excerpt: "GITEX GLOBAL and Expand North Star comprise a combined 41 halls spanning 2.7 million sq. ft of exhibition space."
-    publishedDateTime: 2023-10-18T05:33:00Z
-    webUrl: "https://www.phoneworld.com.pk/new-era-of-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day/"
-    type: article
-    provider:
-      name: Phone World
-      domain: phoneworld.com.pk
-    quality: 37
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/A-high-level-discussion-on-the-future-of-smart-cities-at-GITEX-GLOBAL-2023.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Gitex Global: UAE Start-Ups Explore AI, Agritech, Sustainability"
-    excerpt: "The UAE start-up ecosystem has been witnessing a diverse portfolio of new firms over the past few years, diversifying away from the e-commerce secto"
-    publishedDateTime: 2023-10-15T18:46:00Z
-    webUrl: "https://menafn.com/1107243312/Gitex-Global-UAE-Start-Ups-Explore-AI-Agritech-Sustainability"
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 30
+  - title: "Dubai: How Gitex Staff Proves Robots Still Can't Beat Humans In Customer Service"
+    excerpt: "At an international event where robots, technology, and AI (artificial intelligence) are the highlight – the human touch reigns supreme. It's still the human staff and volunteers who understand the needs of the thousands of visitors and can instantly connect with them, be it by providing directions or answering any question in real time."
+    publishedDateTime: 2023-10-17T18:52:00Z
+    webUrl: "https://menafn.com/1107259790/Dubai-How-Gitex-Staff-Proves-Robots-Still-Cant-Beat-Humans-In-Customer-Service"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 17
+    quality: 29
+  - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
+    excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
+    publishedDateTime: 2023-10-18T08:41:00Z
+    webUrl: "https://gulfbusiness.com/gitex-global-dubai-police-virtual-cop-patrol-cars/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 25
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Dubai-Police-unveils-virtual-cop-luxury-marine-patrol-car-Image-Dubai-Police.png"
+        width: 876
+        height: 554
+        isCached: true
 
 secured: "WekABvpY/rDj/068AJoVlylEk20wHRN8nvjv7+knBnAOdJ6xZOj63ETcdy6vzPXQrPUQHBvk6SPOoFWvaz83jlrrGbsW1Du6Dx92ecUg2x4mtIJ8ouZpldoZA5MFs64OxtNGZz13f16Wp9w6AYfMuo7+1CPDsq6f3sDiUBaZhlZ7hX4B/JXGS4DYz7s78V7tptd2VDbFAOEWYhGRHBEeHecQXbawz/F96UvnjZe0H9GkNMFZf2yW5kvVJFw13w3hRytxmb1i7o4w4sZRBYc9o8XnyYaJZYWDn1ON4AlxnI3Ce+J1j7wZdnSKAYIr3KztBkWgxbM07EaUJtNVXqvs2R/PCn4sVCwCnslCdRnT8s6DV1cLa8OjBjfAtHnIEy8mHxqyixgxjD9GrUTs0xbHrihPN372b6oilOv68FNKjsiEmRmGQQQdYSAmndyS1VlDd15D/Xw+zMrww26Iip5Ibof58ehDOwnoWWpApF0uQQuq98YV04IoS8sNHgJXkmDQcAveGYOxy1wy4Ai96O5cNg==;mUOfUlCZaXwSylWxX1ykTg=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 732
         height: 977
         isCached: true
+  - title: "DeepMind Wants to Use AI to Solve the Climate Crisis"
+    excerpt: "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way."
+    publishedDateTime: 2023-10-18T11:00:00Z
+    webUrl: "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 56
+    images:
+      - url: "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
     excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
     publishedDateTime: 2023-10-17T13:15:00Z

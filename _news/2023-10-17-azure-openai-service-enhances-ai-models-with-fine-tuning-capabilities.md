@@ -41,6 +41,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "All Things Open is a wrap for 2023 – from using open source to boost AI to startup demos, much more"
+    excerpt: "“We had an energetic mix of RIoT sponsors, venture investors, and tech enthusiasts out to support the local startup community ... and now with a new AI revolution upon us, there is an opportunity for this to be the case once again."
+    publishedDateTime: 2023-10-18T11:25:00Z
+    webUrl: "https://wraltechwire.com/2023/10/18/all-things-open-is-a-wrap-for-2023-from-using-open-source-to-boost-ai-to-startup-demos-much-more/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/18/all-things-open-is-a-wrap-for-2023-from-using-open-source-to-boost-ai-to-startup-demos-much-more/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/18/all-things-open-is-a-wrap-for-2023-from-using-open-source-to-boost-ai-to-startup-demos-much-more/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 43
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2023/06/All-Things-Open-2023-event-logo.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "bD+HoPH5t0XjttvfFE7sh8sI6+zyl/EPv1gpHn3oGBaZkKBwhh6GQQk4q0xGEtDmM2uu4i40GmGemZ3L6OT2S4vP+E5MIshjL8nIUiX1tg0Zx3lps3oM6wthx5WFKaMRzqptscrHSfmAQaU/OnkRdmNOiyIAieAX8k02dS0+aGZcNoDlgH1/DnP5yJ0S5276jhvygDA3QZx7wYY0BmvP6qNWpbEwJrG9sziZGl/52k9tueNx5kMJlbVSfa5Sba62HNaKAs2SoByfGJ/nV2g/sCjg+O7lsgcPfg+nhXULpGl6I+l/yK5UcX3yk1+iNTuKDvqeAz/Mabhu9STvctj2Uv914hB/8GetmZ0PiHVryvE=;Qb7jIlZ19VLlVh2IA+iXQA=="
 ---

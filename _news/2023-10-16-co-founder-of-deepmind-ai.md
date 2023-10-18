@@ -43,6 +43,20 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "DeepMind Wants to Use AI to Solve the Climate Crisis"
+    excerpt: "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way."
+    publishedDateTime: 2023-10-18T11:00:00Z
+    webUrl: "https://www.wired.co.uk/article/wired-impact-deepmind-ai-climate-change"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 56
+    images:
+      - url: "https://media.wired.co.uk/photos/652eadf475839a12b76f0625/16:9/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LeapMind looks to deliver cost-effective AI computing"
     excerpt: "LeapMind has announced that it is developing a new more cost-effective AI chip to accelerate the training and inference of large-scale AI models."
     publishedDateTime: 2023-10-17T07:16:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 376
+heat: 366
 published: true
 
 provider:
@@ -172,20 +172,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-10658.png"
         width: 1000
         height: 511
-        isCached: true
-  - title: "Microsoft Debuts AI Bug-Bounty Program, Offers $15K"
-    excerpt: "Should a participant be a public sector employee, the bounty award must go to the public sector organization and be signed by an attorney or executive responsible for its ethics policies. The scope of the bounty program extends to AI-powered Bing on bing ..."
-    publishedDateTime: 2023-10-13T17:20:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 56
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt878cddbb8cb42fa9/651db13445184e093837307b/bingchat_Daniel_Chetroni_alamy.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "TCS Seeks a Boost in AI Partnership with Microsoft"
     excerpt: "The collaboration with Azure OpenAI, formed by Microsoft and OpenAI, involves using the cloud-based AI tool GitHub Copilot."

@@ -2,6 +2,93 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-16-ncsofts-new-ai-suite-is-trained-to-streamline-game-production.md",
+      "title": "NCSoft's new AI suite is trained to streamline game production",
+      "excerpt": "Korean MMORPG publisher NCSoft has developed four new AI large language models, dubbed VARCO, to help streamline future game development..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/TeVUt3.TDftfSQaaHNgPCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/d553fdd0-3bcd-11ee-bfd7-9a70d50e742c.cf.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-16-voiceitt2-launched-first-of-its-kind-stand-alone-voice-application-for-people-with-speech-disabilities-now-available-to-customers.md",
+      "title": "Voiceitt2 Launched: First of Its Kind Stand-Alone Voice Application for People with Speech Disabilities Now Available to Customers",
+      "excerpt": "Voiceitt2 will be available in English as a browser-based software license for purchase for organizations and individuals in North America. Availability in the UK and Australia is anticipated in 2024, with additional languages and geographies expected to follow.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-16T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-16-the-world-isnt-ready-for-the-next-decade-of-ai.md",
       "title": "The World Isn’t Ready for the Next Decade of AI",
       "excerpt": "Mustafa Suleyman, cofounder of DeepMind and Inflection AI, talks about how AI and other technologies will take over everything—and possibly threaten the very structure of the nation-state.",
@@ -1342,93 +1429,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-voice-recognition-and-medical-transcription.md",
-      "title": "Voice Recognition and Medical Transcription",
-      "excerpt": "A speech-recognition engine simply replaces the keyboard and mouse. To realize the potential benefits of a local, PC-based voice-recognition system (as in Figures 1 and 2), you probably have to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/487524_4",
-      "originalUrl": "https://www.medscape.com/viewarticle/487524_4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai.md",
-      "title": "Sanjeev Mansotra on revolutionizing education sector of Africa with the power of AI",
-      "excerpt": "African education might undergo a revolution with the aid of artificial intelligence (AI), which can solve major problems and generate game-changing chances for growth and learning. A lack of finances,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/",
-      "originalUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2023/08/ANI-20230803104707.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sanjeev-mansotra-on-revolutionizing-education-sector-of-africa-with-the-power-of-ai/1699079/?amp",
-      "publishedDateTime": "2023-08-03T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

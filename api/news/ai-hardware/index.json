@@ -305,7 +305,7 @@
       "originalUrl": "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-workflows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -348,7 +348,7 @@
       "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 604,
+      "heat": 594,
       "tags": null,
       "images": [
         {
@@ -452,7 +452,7 @@
       "originalUrl": "https://www.thehindu.com/business/ai-working-groups-recommend-setting-up-24500-gpus-of-compute-infra/article67421178.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -473,49 +473,6 @@
       "provider": {
         "name": "The Hindu",
         "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-14-7-working-groups-submit-final-indiaai-report-on-ai-development.md",
-      "title": "7 working groups submit final IndiaAI report on AI development",
-      "excerpt": "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
-      "originalUrl": "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
-      "publishedDateTime": "2023-10-13T22:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -614,6 +571,49 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-exclusive-biden-considers-extending-ai-chip-curbs-to-chinese-companies-abroad.md",
+      "title": "Exclusive-Biden considers extending AI chip curbs to Chinese companies abroad",
+      "excerpt": "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/exclusive-biden-eyes-adding-ai-011933046.html",
+      "originalUrl": "https://www.aol.com/news/exclusive-biden-eyes-adding-ai-011933046.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/d49b82dbd5d182554af466c6fd5f35c0",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {

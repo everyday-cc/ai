@@ -53,20 +53,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "HIVE Digital Technologies is Building Green Infrastructure for the AI Revolution"
-    excerpt: "Kilic is the president and CEO of HIVE Digital Technologies Ltd., a Vancouver-based digital infrastructure firm. HIVE got its start in 2017 as HIVE Blockchain Technologies—the world’s first publicly traded cryptocurrency mining company, with listings on the Toronto Stock Exchange, Frankfurt Stock Exchange and Nasdaq."
-    publishedDateTime: 2023-10-16T17:17:00Z
-    webUrl: "https://www.bcbusiness.ca/HIVE-Digital-Technologies-is-Building-Green-Infrastructure-for-the-AI-Revolution"
-    type: article
-    provider:
-      name: BCBusiness
-      domain: bcbusiness.ca
-    quality: 34
-    images:
-      - url: "https://www.bcbusiness.ca/CDN/20/image/hive-digital-header.jpg"
-        width: 1282
-        height: 611
-        isCached: true
 
 secured: "wGJ+OtzvTR2xD0/n77ZioJQbYKaXgK9v0brjUG2krIZFKToQWeyil6qxZIWf12KkBUKEgv3mbVO+rAUX7CosWztHAGByiPRJQCtENI4xy4TWx/bRro937nUuAAQ+gm0XbhbXaf1pzkCoYV2MzVATtkYDyqKHuHVeDJ2wA11efA3YXsG/AAi0XIjTcIh/b3whW8nSO8OtUIVCP/WaSdtVISKc2GH/l6yNQgjiWjHPNVF3JrRYcXjCDRLYOD/cBRPGsKlAiX9T3WCHbOiNaOSy5tXO9KgLD+k0orJTU6MpMsoLGHpd8FulnwxJB1o+JkaGFmJoxKe8wbF4c3k8hOnFhFnvxW+u7fvPtceh68Yk6cMluOFI4ujZMS0IPM0SDcxoZ95C8+Ab6/lNg96DuJSI7hSxDDyqQqJSXI2aJ91w8WfGjHS9S7y9l1YKLQNrOUCyngA3Gi8aUtlpb2nLiKQRoCpOjsdqr8oqlE8ut8S1ohpBXcoERPLXO9rGfOJwHENMW84Sa9sJPuRDA7uUg9p1OA==;xE9y44M6ZRX06ozSFAS0TQ=="
 ---

@@ -2,6 +2,84 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-01-ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say.md",
+      "title": "AI technology lets you talk to Jesus or Satan. What do they say?",
+      "excerpt": "the AI version of Jesus’ Mother Mary identifies herself as an AI language model and says we should approach the topic “with empathy and respect for different viewpoints.” If exchanging texts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2023/09/01/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say/",
+      "originalUrl": "https://www.eastbaytimes.com/2023/09/01/ai-technology-lets-you-talk-to-jesus-or-satan-what-do-they-say/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving.md",
+      "title": "Korean internet giant Naver explores robotics, AI and autonomous driving",
+      "excerpt": "Naver, maker of the search engine known as the \"Google of South Korea,\" opened its new second headquarters, Naver 1784. The building's",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
+      "originalUrl": "https://techcrunch.com/2023/09/01/korean-internet-giant-naver-explores-robotics-ai-and-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-natural-language-processing-market-size-analysis-insights-and-forecast-to-2030.md",
       "title": "Natural Language Processing Market Size Analysis: Insights and Forecast to 2030",
       "excerpt": "The global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 ...",
@@ -1264,84 +1342,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
-      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
-      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
-      "sourceUrl": null,
-      "webUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
-      "originalUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/1/2d/12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b/64e7752ab0b97.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal Times",
-        "domain": "journaltimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software.md",
-      "title": "UW-Madison researchers find a way to dupe voice recognition security software",
-      "excerpt": "UW-Madison researchers have found a way to confuse voice recognition software by adjusting their voice frequencies to mimic others using a mathematical model and a plastic or metal tubes.",
-      "sourceUrl": null,
-      "webUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
-      "originalUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

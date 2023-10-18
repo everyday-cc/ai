@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 900
+        height: 900
+        isCached: true
+  - title: "How To Control For AI Bias In Lending"
+    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
+    publishedDateTime: 2023-10-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
   - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"

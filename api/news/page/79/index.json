@@ -2,6 +2,188 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-08-23-epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs.md",
+      "title": "Epic and Microsoft expand AI partnership to 'address healthcare's most pressing needs'",
+      "excerpt": "And now, they plan to rapidly deploy dozens of AI-powered solutions within Epic's health systems. The companies aim to address critical healthcare needs like \"workforce burnout to staffing shortages.\" New capabilities powered by Microsoft Azure and its AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "originalUrl": "https://www.neowin.net/news/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2020/12/1607624194_azure_logo_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/epic-and-microsoft-expand-ai-partnership-to-address-healthcares-most-pressing-needs/",
+      "publishedDateTime": "2023-08-22T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms.md",
+      "title": "Rise of The Robots: The New AI Tech Poised To Take Over Classrooms",
+      "excerpt": "Curiosity Robotics plans on taking the robotic helper to more schools across Israel and abroad. Undaunted by any current backlash to AI, the ambitious start-up is “committed to transforming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
+      "originalUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/0/30/030d87a1-a1f5-5cc4-a90f-3eea2b9a51b6/64e4c536bf69f.image.jpg?resize=1024%2C577",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
+      "publishedDateTime": "2023-08-22T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-microsoft-changes-its-takeover-of-call-of-duty-developer-in-attempt-to-get-it-approved.md",
+      "title": "Microsoft changes its takeover of Call of Duty developer in attempt to get it approved",
+      "excerpt": "Microsoft has made a major change to its proposed ... or to exclusively control the licensing terms of Activision Blizzard games for rival services.” It marks a new twist in the case, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "originalUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2023/08/22/08/9122c881340d912b875badd0cb3d590bY29udGVudHNlYXJjaGFwaSwxNjkyNzczMzc4-2.9744146.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/microsoft-activision-takeover-call-of-duty-blizzard-cma-b2397452.html",
+      "publishedDateTime": "2023-08-22T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-22-humanoid-robots-bring-artificial-intelligence-to-services.md",
+      "title": "Humanoid robots bring artificial intelligence to services",
+      "excerpt": "Holding, tilting and twisting a jug of milk to make latte art is no longer the unique skill of a barista -- a humanoid robot could recently be seen swirling hearts into cups of coffee in Beijing. At the 2023 World Robot Conference (WRC) kicked off last week in Beijing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/273940153/humanoid-robots-bring-artificial-intelligence-to-services",
+      "originalUrl": "https://www.malaysiasun.com/news/273940153/humanoid-robots-bring-artificial-intelligence-to-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/xih1692722643.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-meta-unveils-its-multimodal-ai-translation-solution.md",
       "title": "Meta unveils its multimodal AI translation solution",
       "excerpt": "Meta has unveiled a new multimodal and multilingual AI translation model that aims to make translation on the go effortless. The model, called SeamlessM4T, works across different languages. It supports: Speech recognition for nearly 100 languages Speech-to ...",
@@ -981,188 +1163,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-microsoft-makes-new-bid-to-unblock-call-of-duty-deal.md",
-      "title": "Microsoft makes new bid to unblock Call of Duty deal",
-      "excerpt": "Microsoft has made a new bid to buy Call of ... control the licensing terms of Activision Blizzard games for rival services.\" So far, it said its initial offer for Activision has been approved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-66578883",
-      "originalUrl": "https://www.bbc.co.uk/news/business-66578883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/13D89/production/_130398218_ghost_branded.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-66578883",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-66578883",
-      "publishedDateTime": "2023-08-22T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-content-in-context-the-foundation-for-modern-knowledge-management.md",
-      "title": "Content In Context: The Foundation For Modern Knowledge Management",
-      "excerpt": "Not every organization will need cognitive search as it is a more technical solution, but for those who are dealing with a deluge of content, it is an important tool for information management. If you are a Microsoft 365 or Google Workspace customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64dbb162d739688054b1ea45/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/22/content-in-context-the-foundation-for-modern-knowledge-management/amp/",
-      "publishedDateTime": "2023-08-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-why-we-should-all-be-rooting-for-boring-ai.md",
-      "title": "Why we should all be rooting for boring AI",
-      "excerpt": "Boring AI is unlikely to break as easily and, most important, won’t kill anyone. Hopefully, soon we’ll forget we’re interacting with AI at all. (It wasn’t that long ago when machine translation was an exciting new thing in AI. Now most people don’t even think about its role in powering Google Translate.)",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/",
-      "originalUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/08/spreadsheet-final.jpeg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/08/22/1078230/why-we-should-all-be-rooting-for-boring-ai/amp/",
-      "publishedDateTime": "2023-08-22T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-ai-facial-recognition-technology-the-black-box-hurting-black-people.md",
-      "title": "AI facial recognition technology: the black box hurting Black people",
-      "excerpt": "Unknown to her, the ministry used artificial intelligence (AI) facial recognition technology (FRT) to match her photo to some other woman in its database. MTO passed this information to Immigration, Refugee and Citizenship Canada (IRCC). Subsequently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.html",
-      "originalUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/e/b0/eb0ee82b-c1af-5a3d-a901-229b6864a65a/64e3dadf0db19.image.jpg?resize=1024%2C1081",
-          "width": 1024,
-          "height": 1081,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html",
-      "cdnAmpWebUrl": "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/opinion/contributors/ai-facial-recognition-technology-the-black-box-hurting-black-people/article_67c4a8e6-e377-55c6-9e63-2bd209e99dc3.amp.html",
-      "publishedDateTime": "2023-08-22T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

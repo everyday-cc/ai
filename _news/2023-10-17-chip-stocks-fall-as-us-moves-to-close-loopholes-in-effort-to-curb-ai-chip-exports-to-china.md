@@ -612,15 +612,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Biden Administration Considers Tightening AI Chip Curbs on Chinese Companies Abroad"
-    excerpt: "The Biden administration is contemplating closing a loophole that grants Chinese companies access to American AI chips."
-    publishedDateTime: 2023-10-13T18:33:00Z
-    webUrl: "https://techreport.com/news/biden-administration-considers-tightening-ai-chip-curbs-on-chinese-companies-abroad/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 28
   - title: "U.S. to tighten curbs on China's access to advanced chip tech"
     excerpt: "The US plans to prevent its geopolitical rival from obtaining cutting-edge technologies that could give it a military edge."
     publishedDateTime: 2023-10-16T15:43:00Z

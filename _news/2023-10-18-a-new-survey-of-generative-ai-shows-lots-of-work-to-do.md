@@ -46,6 +46,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "How To Control For AI Bias In Lending"
+    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
+    publishedDateTime: 2023-10-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
     excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
     publishedDateTime: 2023-10-16T17:45:00Z

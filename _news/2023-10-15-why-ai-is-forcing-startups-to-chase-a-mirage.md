@@ -119,20 +119,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "How AI And Machine Learning Are Transforming Payroll Processing"
-    excerpt: "Enter the realm of AI and Machine Learning. The Dawn of the AI Era in Payroll In the last couple of years, we've witnessed the transformative power of AI. It's like watching a story unfold, where the protagonist (AI) overcomes challenges, learns from ..."
-    publishedDateTime: 2023-10-13T18:47:00Z
-    webUrl: "https://menafn.com/1107238517/How-AI-And-Machine-Learning-Are-Transforming-Payroll-Processing"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/13/R&AN_fc90aimage_story.jpg"
-        width: 800
-        height: 461
-        isCached: true
   - title: "You Can Now Chat With One of Meta’s Horrifying AI Personas"
     excerpt: "There are also non-celebrity AI chatbots you can chat with as well:"
     publishedDateTime: 2023-10-14T00:00:00Z

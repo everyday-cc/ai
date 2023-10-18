@@ -182,20 +182,6 @@ related:
         width: 1000
         height: 511
         isCached: true
-  - title: "Microsoft Debuts AI Bug-Bounty Program, Offers $15K"
-    excerpt: "Should a participant be a public sector employee, the bounty award must go to the public sector organization and be signed by an attorney or executive responsible for its ethics policies. The scope of the bounty program extends to AI-powered Bing on bing ..."
-    publishedDateTime: 2023-10-13T17:20:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 56
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt878cddbb8cb42fa9/651db13445184e093837307b/bingchat_Daniel_Chetroni_alamy.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Microsoft’s New AI Bug Bounty Program Has Rewards Up To $15K"
     excerpt: "Microsoft's new AI bug bounty program offers rewards up to $15,000 for finding vulnerabilities in Bing's AI features,"
     publishedDateTime: 2023-10-16T20:55:00Z

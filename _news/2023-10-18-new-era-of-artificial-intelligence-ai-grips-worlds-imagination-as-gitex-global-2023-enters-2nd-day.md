@@ -41,20 +41,6 @@ related:
         width: 600
         height: 401
         isCached: true
-  - title: "Dubai’s RTA unveils facial recognition for Nol cards at GITEX Global 2023"
-    excerpt: "Facial recognition for Metro Nol cards. One of the highlights of RTA‘s showcase is a smart gate that allows commuters to pay for public transport fares using facial recognition"
-    publishedDateTime: 2023-10-16T04:36:00Z
-    webUrl: "https://gulfbusiness.com/dubai-rta-facial-recognition-nol-cards-gitex-2023/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 53
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/RTA-GDMO5-P01-15-10-23.jpg"
-        width: 931
-        height: 622
-        isCached: true
   - title: "New Era of AI Grips World's Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
     excerpt: "As the UAE hosts the world's largest tech and startup show, Dubai unleashed a new era of global AI dominance at GITEX GLOBAL 2023. The event, currently underway at Dubai World Trade Centre until October 20,"
     publishedDateTime: 2023-10-17T13:56:00Z

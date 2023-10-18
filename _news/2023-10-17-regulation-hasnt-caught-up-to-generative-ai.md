@@ -56,15 +56,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Adobe's new generative AI tool is a game-changer for video editing"
-    excerpt: "Adobe's editing applications, such as Photoshop, Lightroom, and Premiere, have been the cornerstone of many creatives' everyday workflows. Since the rise of generative AI, Adobe has been developing ways to optimize those workflows, and this one will be a huge help for video editors."
-    publishedDateTime: 2023-10-13T18:55:00Z
-    webUrl: "https://www.zdnet.com/article/adobes-new-generative-ai-tool-is-a-game-changer-for-video-editing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "AI is everywhere: Strategies to safeguard your company’s innovation"
     excerpt: "Governance is the foundation on which companies build responsible AI practices. It not only ensures compliance with laws and regulations, but it also fosters transparency. To manage AI adoption, companies should form a stakeholder committee to create policies that align with industry requirements and organizational goals."
     publishedDateTime: 2023-10-16T09:05:00Z

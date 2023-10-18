@@ -2,6 +2,84 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-24-you-can-dupe-voice-recognition-software-with-pvc-pipes-uw-madison-researchers-discover.md",
+      "title": "You can dupe voice recognition software with PVC pipes, UW-Madison researchers discover",
+      "excerpt": "The research suggests security systems within voice recognition software aren't as secure as people are made to believe. About 60% of Americans use voice recognition technology on a daily basis ...",
+      "sourceUrl": null,
+      "webUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "originalUrl": "https://journaltimes.com/news/state-and-regional/uw-madison-research-voice-recognition-security/article_12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/1/2d/12d5f67a-1c8e-5aec-9ed2-479a06ecbd5b/64e7752ab0b97.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Journal Times",
+        "domain": "journaltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software.md",
+      "title": "UW-Madison researchers find a way to dupe voice recognition security software",
+      "excerpt": "UW-Madison researchers have found a way to confuse voice recognition software by adjusting their voice frequencies to mimic others using a mathematical model and a plastic or metal tubes.",
+      "sourceUrl": null,
+      "webUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "originalUrl": "https://madison.com/video/featured/uw-madison-researchers-find-a-way-to-dupe-voice-recognition-security-software/video_e19afa46-8aef-5681-beb9-9966715af6a0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Madison.com",
+        "domain": "madison.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-24-text-em-all-celebrates-2nd-year-of-great-place-to-work-certification-leading-with-transparency-connection-and-recognition.md",
       "title": "Text-Em-All Celebrates 2nd Year of Great Place to Work Certification, Leading With Transparency, Connection, and Recognition",
       "excerpt": "With a 95% approval rating from employees, Text-Em-All stands out for its people-first culture, innovative recognition programs ... unwavering commitment to creating a workplace where every voice matters. This year, an impressive 95% of employees declared ...",
@@ -1246,93 +1324,6 @@
       "provider": {
         "name": "The Statesman",
         "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-ncsofts-new-ai-suite-is-trained-to-streamline-game-production.md",
-      "title": "NCSoft's new AI suite is trained to streamline game production",
-      "excerpt": "Korean MMORPG publisher NCSoft has developed four new AI large language models, dubbed VARCO, to help streamline future game development..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
-      "originalUrl": "https://www.engadget.com/ncsofts-new-ai-suite-is-trained-to-streamline-game-production-141653946.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/TeVUt3.TDftfSQaaHNgPCA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-08/d553fdd0-3bcd-11ee-bfd7-9a70d50e742c.cf.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-voiceitt2-launched-first-of-its-kind-stand-alone-voice-application-for-people-with-speech-disabilities-now-available-to-customers.md",
-      "title": "Voiceitt2 Launched: First of Its Kind Stand-Alone Voice Application for People with Speech Disabilities Now Available to Customers",
-      "excerpt": "Voiceitt2 will be available in English as a browser-based software license for purchase for organizations and individuals in North America. Availability in the UK and Australia is anticipated in 2024, with additional languages and geographies expected to follow.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/08/16/9865838.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-16T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

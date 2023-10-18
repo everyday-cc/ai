@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-g
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Why the Gaming Industry is perfect for AI Training"
-    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
-    publishedDateTime: 2023-10-14T16:01:00Z
-    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
-    type: article
-    provider:
-      name: tech-ish.com
-      domain: tech-ish.com
-    quality: 19
 
 secured: "CbA1k7Cs2RYYisuRetbJDPZzWsyZoYT2pfJrJAzN7MmW6ErATguhcHWbuiyzbdAMfpRQ+qX71tizYKOmpYOEkdMeY3N1a40fVgDm+OE7OWdugYZefyPeU59ePf7YumsvqKyuuiDAizlCtR1oO6Lc2ZnXjl8FCydAsyRls78EfH+WTx9liRIXr8Dpa5T6RwO9FSOoU4ebvd5SWw2zYrBgEtWGYS7ixPB1P8/ckX6QPbgx4GXd3rYnQHsM6VO+x68gZEiP50520c4zw32IVmpZIWIux7qItiPWSQRBbWehDhBLQ6qZ62gv14y5as2vbcLoear7NZEBIijZHC2AKUih+ar2ryie0x72Lc8L++hmMgw=;Z/HH29s+yiJNcpF9njqrcQ=="
 ---

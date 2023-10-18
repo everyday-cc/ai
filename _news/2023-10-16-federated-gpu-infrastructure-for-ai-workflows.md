@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-
 webUrl: "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-workflows/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/1.png"
         width: 1080
         height: 1080
-        isCached: true
-  - title: "HIVE Digital Technologies is Building Green Infrastructure for the AI Revolution"
-    excerpt: "Kilic is the president and CEO of HIVE Digital Technologies Ltd., a Vancouver-based digital infrastructure firm. HIVE got its start in 2017 as HIVE Blockchain Technologies—the world’s first publicly traded cryptocurrency mining company, with listings on the Toronto Stock Exchange, Frankfurt Stock Exchange and Nasdaq."
-    publishedDateTime: 2023-10-16T17:17:00Z
-    webUrl: "https://www.bcbusiness.ca/HIVE-Digital-Technologies-is-Building-Green-Infrastructure-for-the-AI-Revolution"
-    type: article
-    provider:
-      name: BCBusiness
-      domain: bcbusiness.ca
-    quality: 34
-    images:
-      - url: "https://www.bcbusiness.ca/CDN/20/image/hive-digital-header.jpg"
-        width: 1282
-        height: 611
         isCached: true
 
 secured: "eQQllNPGiwTmzizKg/EV1LjIUlbKawdN7g4LOIxSCSsb1qJA8Al2IFesuH3CLXc41tdCGOmmn50jmR+STDesGn7/kcgEDcYlNqzKHQyV8td5e+NpMh4H2FCgEfb4ufeBv70KOWLlqj/pRonzn841N49ZbOZOMXGl7qKJZNJ+7mcad1VkZIm7Y7LYoDhQghInxbvOLlU2A2FCERH/Qwl+fsHCDWK0kUQVR6anSWmV0cTcspivvqWvdIRivQd9+K9xrRHdqBo3yPDAvjdp9T587GVKdvVkau8gHcx55hBUhCUDjkWTMNQ+qbkqBaN0DWQ80su0/PJIDLV5iiIyVOaJoVfKgLLuFcKwZvdO+/Eo8hesjNWO2mw2TwLCBN0nuizBmR1ZN3MD7dX+B4okhqSRCzUPtOQhRSNcqzWcdH4zujzJ1lexkGtCZ7tcdxcmDCpzEq5rnQs/HEfgQcyb4QsY0nQqv8yHYs4aAVs81oYFVKni8fYgcjdlQWnHG9z4gy+pvVl5nHmzAYgbgzgdAj+RkA==;4OJYbzuDE0zmhwRC6aBDLA=="

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-06-tesla-engineer-defends-full-self-driving-name-at-crash-trial.md",
+      "title": "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial",
+      "excerpt": "Tesla Engineer Defends 'Full Self-Driving' Name at Crash Trial By Dan Levine and Hyunjoo Jin SAN FRANCISCO (Reuters) - A Tesla engineer in court on Wednesday rejected a lawyer's suggestion that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2023-10-05/tesla-engineer-defends-full-self-driving-name-at-crash-trial",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2023-10-05/tesla-engineer-defends-full-self-driving-name-at-crash-trial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-using-artificial-intelligence-scientists-develop-self-driving-microscopy-technique.md",
       "title": "Using artificial intelligence, scientists develop self-driving microscopy technique",
       "excerpt": "Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI ... Argonne National Laboratory have developed an autonomous, or self-driving, microscopy technique. It uses AI to selectively target points of interest for ...",
@@ -1321,49 +1364,6 @@
       "provider": {
         "name": "IT-Online",
         "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-the-future-of-artificial-intelligence-in-the-travel-industry.md",
-      "title": "The Future of Artificial Intelligence in the Travel Industry",
-      "excerpt": "Artificial intelligence (AI) is disrupting the travel industry by promoting speed, efficiency, safety and accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "originalUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Future_of_Artificial_Intelligence_in_the_Travel_Industry.jpg",
-          "width": 1280,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

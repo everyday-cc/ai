@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-08-31-elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing.md",
+      "title": "Elon Mode FSD: Secret Full-Self Driving Mode Leaves Authorities Despairing",
+      "excerpt": "Tesla might be about to face the music on its self-driving technology after a secret so-called ‘Elon mode’ that removes a critical safety feature was discovered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f0a85572baaac8eeeeedf7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 834,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/08/31/elon-mode-fsd-secret-full-self-driving-mode-leaves-authorities-despairing/amp/",
+      "publishedDateTime": "2023-08-31T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-self-driving-cruise-cars-have-quietly-expanded-to-offer-rideshare-in-more-areas-of-austin.md",
       "title": "Self-driving Cruise cars have quietly expanded to offer rideshare in more areas of Austin",
       "excerpt": "Autonomous cars are in more areas of Austin, as self-driving car company Cruise quietly expands its rideshare coverage area. San Francisco-based Cruise, which is owned by General Motors ...",
@@ -1309,58 +1361,6 @@
         "name": "The Jerusalem Post Blogs",
         "domain": "jpost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-advantages-of-artificial-intelligence-ai-in-2023.md",
-      "title": "Advantages Of Artificial Intelligence (AI) In 2023",
-      "excerpt": "And hence, eventually the significance of artificial intelligence comes into the picture which plays a very vital role in segregating these huge datasets into useful and accurate pieces of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
-      "originalUrl": "https://www.forbes.com/advisor/in/business/software/advantages-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/in/wp-content/uploads/2023/04/pexels-cottonbro-studio-6153354.png",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

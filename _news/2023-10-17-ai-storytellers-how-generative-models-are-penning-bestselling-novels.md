@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IT min to support development of data for AI models"
-    excerpt: "Scope for growing AI datasets, monetization, and regulation of AI and related technologies will come under the ambit of upcoming Digital India Act"
-    publishedDateTime: 2023-10-13T17:26:00Z
-    webUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models-11697217531226.html"
-    ampWebUrl: "https://www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/it-min-to-support-development-of-data-for-ai-models/amp-11697217531226.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 61
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/13/1600x900/Union-minister-Rajeev-Chandrasekhar-highlighted-th_1684875176547_1697217740301.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Millions of Workers Are Training AI Models for Pennies"
     excerpt: "Her friend told her about Appen, an Australian data services company that was looking for crowdsourced workers to tag training data for artificial intelligence algorithms ... Appen’s clients have included Amazon, Facebook, Google, and Microsoft, and ..."
     publishedDateTime: 2023-10-15T07:02:00Z

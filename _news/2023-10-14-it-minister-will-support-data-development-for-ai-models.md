@@ -42,15 +42,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Govt To Support Development Of AI Chips Under Semicon India Initiative: MoS MeitY"
-    excerpt: "The unit will also aim to nurture the homegrown robotics startup and research ecosystem. The development comes at a time when the government has left no stone unturned to push AI across multiple arms of the government. The National Payments Corporation of ..."
-    publishedDateTime: 2023-10-13T18:13:00Z
-    webUrl: "https://inc42.com/buzz/govt-to-support-development-of-ai-chips-under-semicon-india-initiative-mos-meity/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 31
 
 secured: "g42d9YeC/NA0a7Zf91aCZy58AtTERIF51y9j54MOxTkHEeSe3vVAywpSxBRKZ4eM/nUwWYY5Bei+6l1YXPwaG+8vL8vO5nXi+XTWoBmWnV/rGZQXPCg6HgfIOLzFwefbXTy9MsYQR2IRoVw64lRoTUXS86J7xjQ8bUN8KOANmVF3OOkCmgVpWfI4XSo/23ZHNu5tZFxEzyxnIKSIgxPhJ3/Ip1KQZLm228jgd842/XCRuTc+9ra2qFPrxX+CI4Z5jN3fuHSNRL5xrAnNQ4NCv2MZfj56Zac9OUIljBO6aK9BPSL0R1CEtZNTekF6ZnErDTjFFQYaplXbNXYBpM4ncTgIwoWsXUoa/SfBwCvQEaMwuJT8OZ5q7Al6xaMgGf43D4ZSAr58kUlmmDGvqIw+jTHUglLXLqQYQKBlR8iU+KGhth7WpUeFnxy4FTyvhqwkIRvQ3u4cr9nD3IV8pmiQMiAazxedXqZthuJSkB3LA0Zv315DnpyoKLpwzSX4Cg8K4Ax8hz8VHwAQYRtMPQ6Iug==;+FDx+fbB7gwWefffjfub0w=="
 ---

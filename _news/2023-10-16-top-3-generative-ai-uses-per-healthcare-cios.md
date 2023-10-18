@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/innovation/top-3-generative-
 webUrl: "https://www.beckershospitalreview.com/innovation/top-3-generative-ai-uses-per-healthcare-cios.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Google promises to back generative AI users against copyright claims"
-    excerpt: "Let's say you're a graphic designer and decide to use Duet AI to generate images when you're creating an eye-catching presentation for a client. Later on, an illustrator claims one of the images on the slide is eerily similar to one they've created and ..."
-    publishedDateTime: 2023-10-13T18:58:00Z
-    webUrl: "https://www.zdnet.com/article/google-promises-to-back-generative-ai-users-against-copyright-claims/"
+  - title: "CIOs press ahead for gen AI edge — despite misgivings"
+    excerpt: "As we near the first anniversary of ChatGPT’s public release, IT leaders are pushing forward gen AI pilots and production use of a technology viewed to be industry-redefining — and shrouded by unknowns."
+    publishedDateTime: 2023-10-18T10:01:00Z
+    webUrl: "https://www.cio.com/article/656017/cios-press-ahead-for-gen-ai-edge-despite-misgivings.html"
+    ampWebUrl: "https://www.cio.com/article/656017/cios-press-ahead-for-gen-ai-edge-despite-misgivings.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/656017/cios-press-ahead-for-gen-ai-edge-despite-misgivings.html/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 49
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2023/10/shutterstock_1919479694.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "BmIxz+etQNnaRwyZEvqMVQttCyKKKolzqYDVlXtw3R+8v0TOepvaKwktPCftH9ti4IcyoWnrVe40LY/q1saVvLt8d7Kucfx0BNA8t5zfi7pwE+L+hEz5tpsQAHgSuECQ1RXKR0P/cgw2Sxjjbpc4fjmQxogVXtjBRq4wlSSDzk4mOeNAwoKs0lo9hQFxn6LcS9tWCYx4HqEiFVLZf+v/8p+bwqMk1GYYO+EUQGIvHhD9rKpT9iHkzxykvXtF60+/EJAySvpByXbxphuBwu0DUZ5eGrqGcpds79uKKXSKk3Hyv9Fd52eVa9p/+SF5u7FwlLihnE19UqnYyPyNvPRLQNHU1F8UyYy9MtJxZR/LSPg=;3xtfX4EFQmuWhwQ2RWfFLw=="
 ---

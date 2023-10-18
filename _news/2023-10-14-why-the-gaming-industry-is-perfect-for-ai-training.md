@@ -19,35 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
-    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
-    publishedDateTime: 2023-10-18T02:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+  - title: "Transforming The B2B Customer Experience: AI's Role In Streamlining Document Processing"
+    excerpt: "In today's data-driven world, AI-driven intelligent document processing (IDP) is improving B2B customer experiences across sectors."
+    publishedDateTime: 2023-10-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
-    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
-    publishedDateTime: 2023-10-16T23:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
-        width: 400
-        height: 225
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6048e165345b4ab79c3f331a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1140
+        height: 760
         isCached: true
 
 secured: "QqezWHG774K1IWxf+kBzxuV2VKiHhBAXzwICmXvYis17CdH3I0M3PnjUNhwVZ2nLFvL+a3QF7PTCsGEE9/2lICBYAy2lV/x5uiwZxWnFIG5h7HntILrcXOj2U8tFKKTcq0x2eHQOlG+JbKXmao6rv5g1T6dQgFEDdFFiJBpE2YHMvLemofxF3mBql5NUlGLYQgj5zihjWTDBT2+oNbrV4knWvGjeYDa3MNHlxvisohjGqUQoPPmrQnc4jxliAbT/aaq45/gl7YxZEj3SmLlX2tsb8v4BbTBWGbSEEm6524zywqiRUHUQUCHS2kcdhnGElvtCWNvrr62U07e0KNQ3aig0Gal29bYO5i4j+FMH6yg5bAQzM+1msfPbAWs3jr/qrK2S1EHB7xbhRPHmYAvxGWFhPIEgb71L+3JY+KZv4d72w6lfG5WhEdIMq5AOckOYEkzjxUZdiT0Fb+aUj9W09+UawvZROKVbZusKLpsrNe6FQPSjoNPs9vBA3DcQdaCaZqsNjA4Ly+tgjPIWr16fNA==;oR0xF8SMyA2Qb+G5Fw178Q=="

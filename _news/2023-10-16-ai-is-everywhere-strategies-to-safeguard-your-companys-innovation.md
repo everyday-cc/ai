@@ -51,15 +51,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Adobe's new generative AI tool is a game-changer for video editing"
-    excerpt: "Adobe's editing applications, such as Photoshop, Lightroom, and Premiere, have been the cornerstone of many creatives' everyday workflows. Since the rise of generative AI, Adobe has been developing ways to optimize those workflows, and this one will be a huge help for video editors."
-    publishedDateTime: 2023-10-13T18:55:00Z
-    webUrl: "https://www.zdnet.com/article/adobes-new-generative-ai-tool-is-a-game-changer-for-video-editing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 47
   - title: "Regulation hasn’t caught up to generative AI"
     excerpt: "AI-based compliance review (50%), AI-based anomaly detection ... senior sales manager of housing finance at Amazon Web Services, said. “How do I start using it with other data sources we have? That is where the true value is in competitive advantage ..."
     publishedDateTime: 2023-10-16T23:27:00Z
