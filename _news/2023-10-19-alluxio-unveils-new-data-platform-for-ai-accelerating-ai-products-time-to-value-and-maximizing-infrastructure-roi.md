@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T18:37:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/10/18/9900866.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/18/9900866.htm"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: TMCnet
@@ -15,6 +18,17 @@ topics:
   - Microsoft AI
   - AI
   - AI Hardware
+
+related:
+  - title: "Alluxio rolls out new filesystem built for deep learning"
+    excerpt: "Alluxio Inc., which sells a high-performance open-source distributed filesystem, today introduced a completely overhauled version of its product fine-tuned for artificial intelligence workloads."
+    publishedDateTime: 2023-10-18T11:59:00Z
+    webUrl: "https://siliconangle.com/2023/10/18/alluxio-rolls-new-filesystem-built-deep-learning/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 21
 
 secured: "vKIbceqOi77Vs0qFjuSL1DJZRhGcbzLJrg3tVZGUwZ6lrqpNV1g9MQzj2GbeaIYVOZiGt4D8DhHpX+7OWepnbPWRc234p1J7nLBB+HMlGMBTibgYXfOdcsGre9siA/5ZxoNRiT6o8AB8lkJdsxUiDbs1Yc7Mvu4bbzdJRzLB2K6BiT6kEKWJaLyqAup9uCgZzrkjXE3MC9RpCS5acFVEbSaLQ9vtinOXOoFdOCAnPWKq37k9aFeCn/SD6Vq9UUx3WRaAknwA7MtKTGMAGu3Oav8C8P8vZgoWJ/F5Da/R8Pl7IdqObp7eny8vSdZlBYVQ9NGXYr2W8paq6jo8ulKjapiVt8DwRfc8ROJph9GWiy0=;uqWMqxDpb3OhYL0v0UjglQ=="
 ---

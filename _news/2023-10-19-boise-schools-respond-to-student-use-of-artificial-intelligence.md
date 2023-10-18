@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T19:25:00Z
 originalUrl: "https://www.govtech.com/education/k-12/boise-schools-respond-to-student-use-of-artificial-intelligence"
 webUrl: "https://www.govtech.com/education/k-12/boise-schools-respond-to-student-use-of-artificial-intelligence"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Government Technology

@@ -57,6 +57,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 39
+    images:
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
+        isCached: true
 
 secured: "rIYmT3psEuHucEmylUpizLmi06hr19U9s4RtTcbqI6o6k26JoXNxZt39h8A+vn40K+DlVmmifQReatKa89z7E6lsqhTmk7QJRVbS7VCQ7BLUGftCAHAj9qiQPLrvjymGnj3fEh+iI4NNg1NclK4L3EMDOWsFHM7ZxMNwW77vXsUd/AKESUs9nk4HfjRIw8IsJohPSKYO6sNDA3uotx0G7CArMR0gZ3KizOwLtZa1EaeWp0o1LrG0AYQoDlbBqvtVLMnJ94ase16tkmlayXp92elaA8MydPy6X2DrVEfcFDSpwkmkskE1H6nEScg89/fxUie0iqJ/5UkD6xnMVk6DFNxKq8J0Od5MH192HUtNhNU=;DEkDoXLOFT+5RWnb4N2SvA=="
 ---

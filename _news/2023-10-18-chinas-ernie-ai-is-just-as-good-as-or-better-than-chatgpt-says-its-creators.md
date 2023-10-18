@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/"
 type: article
 quality: 82
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -125,6 +125,15 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
+    quality: 14
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "G42, founded by the emirate of Abu Dhabi, said it would utilize OpenAI's generative AI models in areas including financial services, energy, healthcare and public services. The deal, the financial terms of which were not disclosed,"
+    publishedDateTime: 2023-10-18T18:04:00Z
+    webUrl: "https://www.aol.com/chatgpt-creator-openai-partners-abu-150510316.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 14
 
 secured: "e8rM0nZxaAG4z3eRJ3Ywa9Hl3NEq9tuxnchpKtVMsceeWMeGBbWnfycxc0ajFL9laKpuOtowN7OtgGWfwKffyNHzV3k0kMc5QRvx/z+g2IHBz75n6uV6BSZ38y215dCyrWAU6OTmAi8M39OfBIdzV5clLt2UdK2tapvzhdqElTwRVvXTWr2xOwiEz2qazQpyQqjXm2nGAi4e5iFyU+w7Gh5L4rHOHHP+DYOgMcekvKqTGhN3YuQdDCjMuoMhLKHLo99UVLyfQE81AJbHFZ7mHe6Q/sQLXdNn9Mqi8qRlm1V2hucAgKm4JCh2TI/E4aYOEteBZmcCj/7rkf1yp9f93SVIDyrtl4/Auk9j4wMcC2M=;Pr2eUpThSadCdYCEQsy9nw=="

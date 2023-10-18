@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T19:10:00Z
 originalUrl: "https://healthtechmagazine.net/article/2023/10/how-healthcare-can-optimize-cloud-connectivity"
 webUrl: "https://healthtechmagazine.net/article/2023/10/how-healthcare-can-optimize-cloud-connectivity"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: HealthTech

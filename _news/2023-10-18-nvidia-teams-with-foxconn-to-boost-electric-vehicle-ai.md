@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 604
         isCached: true
+  - title: "Nvidia and Foxconn partner to build \"AI factories\" for self-driving cars"
+    excerpt: "The Taiwanese manufacturing giant Foxconn and the GPU superpower Nvidia have collaborated to develop \"AI factories,\" innovative data centers designed to power various applications, including self-driving"
+    publishedDateTime: 2023-10-18T19:47:00Z
+    webUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 70
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-18-image-19.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Nvidia to Build 'AI Factories' With Foxconn"
     excerpt: "The announcement was made during a fireside chat with Nvidia founder and CEO Jensen Huang and Foxconn Chairman and CEO Young Liu at Hon Hai Tech Day, in Taipei. These so-called \" AI Factories \" will be packed full of Nvidia's GPU computing infrastructure, including the latest Nvidia GH200 Grace Hopper Superchip."
     publishedDateTime: 2023-10-18T14:21:00Z

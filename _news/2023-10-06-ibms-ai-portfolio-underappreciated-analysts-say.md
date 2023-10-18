@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "myCWnqxmpom6FIPR8g2gBnPAgsvz78gxW9Zi3BYMD1+Gk4g+oMI4mn68uDo6EqfnjYGhQEsEsyLOfLI+pCyg5f6A02e9RTXUiHdM/ztAndi0PKJ3uzrMrwWCZy0DVw2DtpjM+vODXUtCKOTaYUX4gg266HhBI4MVK/8GPsHvTV+T+hwUSUodG4MvjP1NcSbVkYh6qJ9GFm0lb0BVg6OzvCEwMHxyc1PMT2NpDvoh5cbJ7LXmj5hhYanfI24SvkQYEXgWxOgbAaBWjrFvQWyS+MIKbbGLvapE2mmY0lc1RXUOaxl7e89zuembLhyUEAktYDHydkdHC3kcccQAobGkvGizC7wLOLWHeDtvZqJd0tU=;aTcfVc54lATwUfm7bTks2Q=="
+images:
+  - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC84NDcwNTU5NDU3LTJmY2MwMmFjNzYtYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "i4OR4Lr/QMW5WlQWl2rPg680Hte65SSnG6lEmcK70xjiCp0M467JMh9FG6wKEL8kX1BQgUzDqjAEVMnCXbCsAa8lEt4vRMwXSZ6+5Y5sU7QT2fv0Fobt/SxyOJt3C2NXQ+ql8hp40JKoZNPOmG5YsL8MyVkDizScUQzw0wVeoHfVKBsauoy5vBCSn504BXthS1WJcnV4jTH7oHTN7iKN1fnsIfjjSUBVSfOIKC4ZKcodQXs6LJZNDGLYgz0UX3yfMErNrbth59CvumD8X0hcU9qlPwIfygvs3BeZN+RYC2ilfxSuHhd/1N+5rH4/Km/kxX/ubnZ654AR6rFtFKp9FCLBzmT+GYFTzwPpyb+CeXA=;B+mT/m3Ei+guSd1UimZo8Q=="
 ---
 

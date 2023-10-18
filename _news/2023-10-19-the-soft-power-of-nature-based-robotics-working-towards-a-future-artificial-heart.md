@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T19:16:00Z
 originalUrl: "https://techxplore.com/news/2023-10-soft-power-nature-based-robotics-future.html"
 webUrl: "https://techxplore.com/news/2023-10-soft-power-nature-based-robotics-future.html"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: techxplore

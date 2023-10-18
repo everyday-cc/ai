@@ -48,6 +48,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "Tesla’s 2023 Self-Driving Software Shown Off In New Video"
+    excerpt: "Tesla’s updated self-driving software has been shown off in a new video posted to the company’s X account. The video is a much more professional one than the similar clip shared by CEO Elon Musk previously. This latest video doesn’t specifically say which software is being used, but it does say that it’s using version 11.4.1 or later."
+    publishedDateTime: 2023-10-18T18:07:00Z
+    webUrl: "https://www.redmondpie.com/teslas-2023-self-driving-software-shown-off-in-new-video/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 19
 
 secured: "Eat0VKczEj0DLrUftNXCqGtqXmTWqokjkS/Ib5LpygVv6DbRcC9sZZqHIikTt0FbBz2XVpa83n09EjfFtuSweR9HvNf0ZUmsxO+uH8HeLqRHBrJO29SJUeqgie1N4JTq5ogiwRBpcoSxRN033sY+FhYLiPxLobkUChrtGHiqNtXqZP9j8VM+qvg+q6ty9usKr8imkmQ34CJNSOW/0PmkKMcYRI23p5eElGzU6xMxUYQKjnNPz788840N1MrMxU4wfI786tduzWkAcSGBrQrgnIsAEPZJMvwgDclfOgA0UcAkYf8kys8fwdDZUmXlXM95i7Zt2SnmFr7fUFtQfQmxVWUmZ10XymWp3I8U5OLV+DhXqCTGsMqLVEwSUjSkA7jz0wzPON7LKLpHVSQ92yNBXSFtL8SKgujf94/NXxwlJvhlrT7kgeiCLjFbRAW9OYoqXZif5c9oo8imkFb2UhhPdhCq2MxTNii6gCEFXTbsS17/O2cijWHDplyZx4BbOEyiutGCIqll4EIPd7W8qVIgiw==;kN8KE67rZQKMAxS5LI/weQ=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-18T14:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researching-machine-learning-based-multi-focus-image-fusion-1032716567"
 webUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researching-machine-learning-based-multi-focus-image-fusion-1032716567"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:

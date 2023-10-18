@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-t
 webUrl: "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI Successfully Appeals $9 Million Fine in the U.K."
+    excerpt: "A court ruled that a British agency does not have jurisdiction over how foreign law enforcement agencies use citizens’ data."
+    publishedDateTime: 2023-10-18T21:14:00Z
+    webUrl: "https://www.nytimes.com/2023/10/18/technology/clearview-ai-privacy-fine-britain.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/18/multimedia/18clearviewai-ico-fvmb/18clearviewai-ico-fvmb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Facial recognition firm Clearview AI overturns UK data privacy fine"
     excerpt: "A tribunal has overturned the £7.5 million fine imposed by the Information Commissioner’s Office last year. Facial recognition firm Clearview AI has won its appeal to overturn a fine from the UK’s data protection watchdog over the use of its facial ..."
     publishedDateTime: 2023-10-18T15:48:00Z

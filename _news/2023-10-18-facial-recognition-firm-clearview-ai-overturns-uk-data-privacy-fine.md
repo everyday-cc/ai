@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Clearview AI Successfully Appeals $9 Million Fine in the U.K."
+    excerpt: "A court ruled that a British agency does not have jurisdiction over how foreign law enforcement agencies use citizens’ data."
+    publishedDateTime: 2023-10-18T21:14:00Z
+    webUrl: "https://www.nytimes.com/2023/10/18/technology/clearview-ai-privacy-fine-britain.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 67
+    images:
+      - url: "https://static01.nyt.com/images/2023/10/18/multimedia/18clearviewai-ico-fvmb/18clearviewai-ico-fvmb-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "fVZZOaZ3EkcjqdJg0ACZmu+5o0pA+cOIDce+fFXazV9TCDjY9OB4lbYs9A/haTbmYtnvknupEr84P99uLyGvMl7WSD/EjHm/3nrxEA9vnTWaOff9iqxYznOn1mNKHN15xR1e7I0RYVaCSC0MFRisUidgJ7C3AKRv9zYDl0DNOxVoyGInEwZ/89qN8VheRJeiiWl0+LkH3Y70vVVdt96q3lIEKE3Qsszi/rCaKWnF2fAXFzSF4/3F23SML8SZjIqBH9l8lr47omvH+KacaHpI2eJeJYG3uNDDD/5YNfG3EI/Vs1Njdg0rEeM3vM+hy5ugMc3ODcw/PR+hmtWPyVqLgY/PB55yIR/5m/yUxesG7R0=;Rty2EGanLN6XqZwdwn2PhA=="
 ---

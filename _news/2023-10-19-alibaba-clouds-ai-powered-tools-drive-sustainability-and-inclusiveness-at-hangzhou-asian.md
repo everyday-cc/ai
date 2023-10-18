@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T18:34:00Z
 originalUrl: "https://www.csrwire.com/press_releases/786101-alibaba-clouds-ai-powered-tools-drive-sustainability-and-inclusiveness"
 webUrl: "https://www.csrwire.com/press_releases/786101-alibaba-clouds-ai-powered-tools-drive-sustainability-and-inclusiveness"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: CSR Wire

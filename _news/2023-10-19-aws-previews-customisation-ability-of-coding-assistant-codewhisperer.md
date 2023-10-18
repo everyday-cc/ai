@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T18:56:00Z
 originalUrl: "https://economictimes.indiatimes.com/tech/technology/aws-previews-customisation-ability-of-coding-assistant-codewhisperer/articleshow/104535859.cms"
 webUrl: "https://economictimes.indiatimes.com/tech/technology/aws-previews-customisation-ability-of-coding-assistant-codewhisperer/articleshow/104535859.cms"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Indiatimes

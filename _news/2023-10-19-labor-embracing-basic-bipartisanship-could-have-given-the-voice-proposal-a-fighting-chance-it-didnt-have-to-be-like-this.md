@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T18:59:00Z
 originalUrl: "https://www.skynews.com.au/insights-and-analysis/labor-embracing-basic-bipartisanship-could-have-given-the-voice-proposal-a-fighting-chance-it-didnt-have-to-be-like-this/news-story/21daa583f6ce05dc5d09e080b1211abd"
 webUrl: "https://www.skynews.com.au/insights-and-analysis/labor-embracing-basic-bipartisanship-could-have-given-the-voice-proposal-a-fighting-chance-it-didnt-have-to-be-like-this/news-story/21daa583f6ce05dc5d09e080b1211abd"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Sky News Australia

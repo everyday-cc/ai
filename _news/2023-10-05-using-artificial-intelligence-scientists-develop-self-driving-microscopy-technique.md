@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "X7EV9kZMRnhXyGVAJf+MWFSV048Y9JSTZIi/avXbA5V6ffNd+vugiXykDD40du94VVfyA2+YoCh32tpQxskJav4m9lLfGbmtWkiPewNFuu9nluIZ1eJkYxPjaXfaTqFhohqyVz8rfLO/MNYTp9m9RvCCc0sc8diL8m5Ji3Fj1+XKzipBR61k0MlFuZbxTFjEqy0Sq9CNYtEqDD4UOXfLVhPavBZVwrW9Po3ftPSRH20vBtAFq3zdULlF+6PiOqnF6am+hT6ypiBqbl0h/l5KL0J84uGLICCiVxSL//incIB2LrObkLggqxSzuJzX/KdFDkS8Oh8vfrn2f3S1wTuvtodzaVs9ixKuUHFw0k3YIwQ=;Joj4CIusXcmsSmWSxtQw+A=="
+images:
+  - url: "https://www.nanowerk.com/news2/robotics/id63783_1.jpg"
+    width: 534
+    height: 300
+    isCached: true
+
+secured: "mTc+J1wLlUEm823XQaLtKpXkKN4f0uzBpMM4nUDNXBoxf4/+v0165edmGv+tTPsaZJSCrfgFJ3qB/E1jZ4SCFWZw/1hJ/GtlSLAFAa4fUWxLHLgEI5rUDogGZjFJ2bZc7RIHhO2At0SgBfwM1JhQLguCfMxG5m/hE/tp4hOzwgZf3eYpVSAIoM8ts9+idccZxMQ5UcsGZLXpDDtE9Tn7CUX6tG9Jd1CFQciIsKQ9tK0Hw9xIXUxIXftVxVAuPEqrdTQbD6dn4zEly7pWIS4M6LLD/6eto/QrJP2SYVPtTK6SZDbcT6a+tap731aFjjdM/uUMHoC8Yg0ilIU85Ag7Dzgp1kIFbRLd3nsLpZ4GGU4=;uaS0/azz6b1nz6RbfvDH/A=="
 ---
 

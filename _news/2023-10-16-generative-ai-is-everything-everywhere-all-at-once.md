@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-everything
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Gartner: Generative AI will be everywhere, so strategize now"
+    excerpt: "To keep pace, executives must prioritize their AI ambitions and AI-ready scenarios for the next 12 to 24 months, Gartner analysts advise."
+    publishedDateTime: 2023-10-18T18:53:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-generative-ai-will-be-everywhere-so-strategize-now/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "Regulation hasn’t caught up to generative AI"
     excerpt: "AI-based compliance review (50%), AI-based anomaly detection ... senior sales manager of housing finance at Amazon Web Services, said. “How do I start using it with other data sources we have? That is where the true value is in competitive advantage ..."
     publishedDateTime: 2023-10-16T23:27:00Z

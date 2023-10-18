@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202310/tech
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://dailyiowan.com/wp-content/uploads/2023/10/authorsandai-1.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 39
+    images:
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
 
 secured: "SNj4vXF+zSAgmy4MBL6yeIq1QFMC161uF8jgyAkAr39+OI692pzBiEjp8sW6eKJSQfkbou/0jg+wjuntbi+tzfUZ4bc2eBsKuGDz3nD+2yHv6ee9kv+zhltFf3IcIjWvNltprGPzGtxE7wU6y7bSbVJNl0q1WQ0q4I5I9casPeguZ6ln+ut3w1LQTmddt0MPAzJQE/EEk2Ac1eqnh9yExcSSCxWnf5suzW+KtszfDeaF3TX61f+IpXmwbc2zjG7tlk5KryJAySXU4uD6sZiI7BX3xqjryTZ76soE1q7blvUtN2PKUJZbYCRZGTfLnBAZTskWISmAT0kjLWL3HYoBq8E5EN0x/YIGp1/rpltaqjQ=;v6mlQlENcB/HeYqjQDVt2g=="

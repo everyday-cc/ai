@@ -71,6 +71,15 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
+    publishedDateTime: 2023-10-18T18:48:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "nhOTnvqXtWveggl4I79q6MELmVsh8P63PSkMYv2GjtdfwGQhp5kiG5cVAMFfH/NfFDWChDONlOmMMcjkIjLYf29H4I6lG3rRB7NiXA6eBQF6sdZFutF/MWh1BAOkJd94qFlws6a/G+qp5jYVxrjXY4LSQDHPA/bpA6TBQgxR2xFq/a0GCdCGB+S/fVXfMYxxeZP2yjjmqp7GF7ULlA/K6e+vwdzDWb987ATHu1xf+mYXo6+xx62xzIcQUnKdWNuJXhEEGeOvDfwfGJpeqxISIdDJZNUyscjh5dACBT+F6o7BVuHiPQX02OodfRKItJ95w3bAego84WY+z4nHMxL6luFKbVz/NZ+R71cPBRIeo44=;2Mp6KTiCpKDEAbRyZWK81g=="
 ---

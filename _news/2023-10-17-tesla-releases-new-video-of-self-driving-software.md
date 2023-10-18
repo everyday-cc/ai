@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/10/17/tesla-releases-new-video-self-drivi
 webUrl: "https://electrek.co/2023/10/17/tesla-releases-new-video-self-driving-software/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s 2023 Self-Driving Software Shown Off In New Video"
+    excerpt: "Tesla’s updated self-driving software has been shown off in a new video posted to the company’s X account. The video is a much more professional one than the similar clip shared by CEO Elon Musk previously. This latest video doesn’t specifically say which software is being used, but it does say that it’s using version 11.4.1 or later."
+    publishedDateTime: 2023-10-18T18:07:00Z
+    webUrl: "https://www.redmondpie.com/teslas-2023-self-driving-software-shown-off-in-new-video/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 19
 
 secured: "AwUmKXrw+rsHGo7ubZnpn4ccEHODLyOoXG11wdM/741IUBGLAW1hffxxgue3gJS5a9XzkWoegV0arPPd0Gv09uCfZsXFr3hWnK4I4TYd8I1O67BBVpMtBs8hh0Nrr6aRSLIgSsDO2xpcM6wafazYTfHs9BIIBTd8Cie0KxUJhIQrPueUeUkYqlGO60BujNIImT2QISbdvIIYFTafLpdewd7Ov9V/T9Yqn69zoB0WXPiVhK78wV0aeCITB7H97rCyEfzFJqzxOMYHJWyuE2fdI2B70QKYCyO/e6jrtVHGKH52yGfAA9hIGDwmuV96OSSnvMDJK8S7dfA3ABTt/CnxhDdNu83YDmxCVRryHD4U6hM=;KqdzVVvEpNSZqNz9lJ8l2w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb7
 webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa"
 type: article
 quality: 64
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "WSJ Tech Live 2023: Tech Leaders Warn Of Risks, Weaknesses Of AI"
-    excerpt: "AI’s impact on tech and entertainment to be a key focus for industry leaders."
-    publishedDateTime: 2023-10-17T21:25:00Z
-    webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa?mod=hp_lista_pos4"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-868527/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "7KGMxjG2gYPEYg8e/5LpHu1ggVRSl265ahv8cLDeqKE0IENmze/HIWTqsTBfoHA6/dIgdst4ircrTO7jJOyDCrOPjny/8A97PXBHd81SUeAY7+myHsbo/JH5pBoJe7EuwGwahM2ppGO91NwNdFHL2h675LdpzNMBep1Z4lM1rAAdcbp8mIH/4F9LJpJ/llf0xQhKgGbQuGYoANZJ6gdn7Vzc2hxWogtQPxFUMANWkg5FcHw/Pgro2Gl3ey8YjrlzmnKkbrb+u6GpUc+emziO6/CmGLlSlE9Ia3Xm6ccWfZtN5lcqsewyjmvO5xBHnsNg0HBbJADTT5ZKZ0Q1bfPv5d8NLv0IS7bz1/+8Jn0RY4X2GR+L0WwIbPyBtfMJJE5XclAy12As6Rcr3kkJZrQzPZFkT53sHMygcMIOMwVbru873AcXIdTQ4KayLjIiZHlPEypMMmF2mJ/Dn4t8K9Dv2cf0l95oIOlfAItzMj9gFetYkStC9Gq+uINP/DDAMP9ZsiSoVUnKn7Oba/TGCZSsMQ==;bTNS5sfogO46t2S8LZgadw=="
 ---

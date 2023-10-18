@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T18:59:00Z
 originalUrl: "https://www.abc.net.au/news/2023-10-19/albaneses-uneasy-week-voice-uncertainty-crisis-gaza-israel/102993868"
 webUrl: "https://www.abc.net.au/news/2023-10-19/albaneses-uneasy-week-voice-uncertainty-crisis-gaza-israel/102993868"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Australian Broadcasting Corporation
@@ -14,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Israel-Gaza conflict: when social media fakes are rampant, news verification is vital"
+    excerpt: "dash cam footage from parked cars and facial recognition technology such as Amazon Rekognition software. I would stress that, although there are many useful tools that can help with this work, it's important for humans to ultimately review automated ..."
+    publishedDateTime: 2023-10-14T11:33:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/israel-gaza-conflict-when-social-media-fakes-are-rampant-news-verification-is-vital/articleshow/104416569.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 0
 
 secured: "FYrhO07bbXWW5PbR5dnJsv5XZF/LLrlyhc+rmws4R4lVuGcGuYnrbVsmWV5yp/uDKCAyQtqkOlwD+0H573202ptcEa79R+xCCiihwlP4+Ikhiqb+zSsLkvx7P9QyBJ31MXQRaVsgz+CvlaH8lgSDYYTAeT1JJYD5KbNt3iQXFAKsfAqGW+OhgzItQjBn8g8iwLC6Lk2MSgWhqXJnjPpY6lK9vx0QfeCsWnQPEn2W9QXD9YMCJ2xlXV0zW+omi3ZyiH9k5wO0ki5oF934UsDde2g3xL0i3zrrRUcPUkLyYaaxZhgnC46A3jrkA9aaxcNMiKjmLK/y36fqbJdQ4IlEyTgwTEGl/8BdeeRHZRxZY0M=;iJ6gjK1uJIKsdxmavm/OHQ=="
 ---

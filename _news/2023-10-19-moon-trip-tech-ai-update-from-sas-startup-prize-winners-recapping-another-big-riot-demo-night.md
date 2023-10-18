@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T18:26:00Z
 originalUrl: "https://wraltechwire.com/2023/10/18/moon-trip-tech-ai-update-from-sas-startup-prize-winners-recapping-another-big-riot-demo-night/"
 webUrl: "https://wraltechwire.com/2023/10/18/moon-trip-tech-ai-update-from-sas-startup-prize-winners-recapping-another-big-riot-demo-night/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WRAL TechWire

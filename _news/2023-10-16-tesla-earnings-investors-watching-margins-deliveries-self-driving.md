@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla’s 2023 Self-Driving Software Shown Off In New Video"
+    excerpt: "Tesla’s updated self-driving software has been shown off in a new video posted to the company’s X account. The video is a much more professional one than the similar clip shared by CEO Elon Musk previously. This latest video doesn’t specifically say which software is being used, but it does say that it’s using version 11.4.1 or later."
+    publishedDateTime: 2023-10-18T18:07:00Z
+    webUrl: "https://www.redmondpie.com/teslas-2023-self-driving-software-shown-off-in-new-video/"
+    type: article
+    provider:
+      name: Redmond Pie
+      domain: redmondpie.com
+    quality: 19
 
 secured: "PNtnbFkniv88VZ2KuZzhUAxjibEvQpNNOST9t2ED0dxwIbZwkvizqOgFTKMZl2H2+yupFSopD29qarhlmpphKQ4MC/8ZwuSOWlX5Cn1s9tJ/7rVBjLaH0ldRHnic759ZrLteZbAamwn8JRvIVraG69d9MyhyYw805S6dM13g2nS4XABpVQ65OptmVzGtDXk0uUL5DS17boyUKHPpJPegKzH9qEkUlf24JZhlf+6uuo1ESlYPkEpRhf17WFN+us/kDLUwYog1inMvEA+3Z7Id/9j2zZoEbjgIRZqtvCBwSId7JMH53kBsKynvip1uutAV97e0lTYUd76DzInee+LTYz1udhsMLyfPzdt5Ehfwzyg4Vtcy0US7UGBYpqvx+WWpvLUWtf/yR+CbBsKRzInek952oNKlJDUmOaUVXaD4xOniGZiMlsb/fnZkS0hbg8DOqBTFLALG1jdr5717pWSD3uJ3QOCmwK7fxxrmRHyIg76L0MRSxjIO60Ih9N0Yrv5gvBbqkhz6ucnVXvpB6PE/IA==;QeNmvNpUhUvAzZqrXVR5Lg=="
 ---

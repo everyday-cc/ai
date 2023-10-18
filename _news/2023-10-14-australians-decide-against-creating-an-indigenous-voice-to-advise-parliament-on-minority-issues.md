@@ -105,22 +105,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T19:43:00Z
-    webUrl: "https://www.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55bon"
-    ampWebUrl: "https://amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 30
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened"
     excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
     publishedDateTime: 2023-10-14T23:23:00Z
@@ -336,6 +320,15 @@ related:
     provider:
       name: Houston Chronicle
       domain: houstonchronicle.com
+    quality: 0
+  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
+    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
+    publishedDateTime: 2023-10-15T20:13:00Z
+    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
     quality: 0
 
 secured: "wB0SIhFGmNOPUm266N1iJ9f2xkmT6G2GkOtLy769JBFraNTmMBhs59QVBWeZPcejeqo45TK4aNLTabs63pXpItGv/bAZvq4EMDWu75E6QyvjRLPSi+lrupb2Q6upbhQEO76C2YslB8JtWBzo6D6N8eHKRXKIY8HMcW9wFclgMPe1xNdyMHNtOVUGJxkWaPLNqBZBy4UZaWn5wIOr0U9n/818DlV4DuG7y5dY5JlKYnX9Ru8zOJUoI+SWVFT3J9cNDsz+i/96Xdx+OBvWiGhkJHRGVSUVcJvdh69t4jT8j5oy3Bzti12pTxNYDQIN3WJ+50P32SKQxzV4/v+WFeUoQdbMPays15JcdYm8hKl+4judeKQUEim0h0tW2FKpqqq5UfUBWC09Xmr3+pUOGRZbEecLQmFyScAPvZAG6J44IPK4qQeuV/DOzIntnmLcudEo84aOBCHJTFDh/UJgcRvJ/lFVVLYjqvM9c4S9XD6yWqB/vhbSch0/pILGc0fKtuwWZYy0nB00Efv7kzP8g0Kt0w==;P6pmK6YXcJBsQjDfW6VBvw=="

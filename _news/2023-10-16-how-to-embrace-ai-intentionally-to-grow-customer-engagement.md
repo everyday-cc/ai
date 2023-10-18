@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Experts want nurses to embrace AI in the workplace"
+    excerpt: "Artificial intelligence (AI) is slowly making its way into many professions, from personal training to marketing. It shows special promise in health care, but experts say buy-in from nurses and other clinical professionals is key."
+    publishedDateTime: 2023-10-18T20:21:00Z
+    webUrl: "https://www.ajc.com/pulse/experts-want-nurses-to-embrace-ai-in-the-workplace/VGMVZFMMWRBVHLI3KVHN7CHBGY/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 39
+    images:
+      - url: "https://www.ajc.com/resizer/-X7c1MZU7RsgHwvTqKEaiJBg4sM=/1200x630/d1fegwn2wjh0cs.cloudfront.net/10-18-2023/t_449e558a60fa4d839b1b5c29b3f7f134_name_646904ed83ff4a95b097e8c1848d81b8.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Prescribe Nature AI Introduces Groundbreaking Artificial Intelligence To Amplify Outdoor Engagement"
     excerpt: "New Digital Platform Champions the Numerous Advantages of the Outdoors Using Advanced AI ToolsPrescribe Nature AI introduces a pioneering service of custom trained AI aimed at enabling health professi"
     publishedDateTime: 2023-10-18T13:01:00Z

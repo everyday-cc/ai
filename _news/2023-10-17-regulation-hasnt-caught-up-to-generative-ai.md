@@ -56,6 +56,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Gartner: Generative AI will be everywhere, so strategize now"
+    excerpt: "To keep pace, executives must prioritize their AI ambitions and AI-ready scenarios for the next 12 to 24 months, Gartner analysts advise."
+    publishedDateTime: 2023-10-18T18:53:00Z
+    webUrl: "https://venturebeat.com/ai/gartner-generative-ai-will-be-everywhere-so-strategize-now/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "AI is everywhere: Strategies to safeguard your company’s innovation"
     excerpt: "Governance is the foundation on which companies build responsible AI practices. It not only ensures compliance with laws and regulations, but it also fosters transparency. To manage AI adoption, companies should form a stakeholder committee to create policies that align with industry requirements and organizational goals."
     publishedDateTime: 2023-10-16T09:05:00Z

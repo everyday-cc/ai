@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T17:25:00Z
 originalUrl: "https://www.dailysignal.com/2023/10/18/fact-check-bidens-false-testimony-misremembering-and-ideological-confusion-in-lgbtq-speech/"
 webUrl: "https://www.dailysignal.com/2023/10/18/fact-check-bidens-false-testimony-misremembering-and-ideological-confusion-in-lgbtq-speech/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Daily Signal

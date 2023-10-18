@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T19:09:00Z
 originalUrl: "https://www.leadersleague.com/en/news/ai-is-changing-the-way-we-work-making-our-lives-simpler-more-productive-and-secure"
 webUrl: "https://www.leadersleague.com/en/news/ai-is-changing-the-way-we-work-making-our-lives-simpler-more-productive-and-secure"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Leaders League

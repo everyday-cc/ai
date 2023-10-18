@@ -67,7 +67,7 @@ related:
       domain: bbc.com
     quality: 104
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/7E28/production/_131469223_gettyimages-1684489759.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41F6/production/_131468861_gettyimages-607477465.jpg"
         width: 1024
         height: 576
         isCached: true
@@ -170,6 +170,22 @@ related:
         width: 1000
         height: 511
         isCached: true
+  - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
+    excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, hybrid multicloud technology solutions company, has partnered with Straits Interactive, a leader in data"
+    publishedDateTime: 2023-10-18T16:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35314167/foundry-for-ai-by-rackspace-partners-with-straits-interactive-to-launch-ai-data-protection-officer"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35314167"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35314167"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
     excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
     publishedDateTime: 2023-10-18T13:10:00Z
@@ -258,6 +274,20 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 46
+  - title: "11 Remote Job Vacancies at Microsoft That Pay $100K+"
+    excerpt: "From contract negotiator to content manager, these roles will have you working from the comfort of your own home."
+    publishedDateTime: 2023-10-18T20:36:00Z
+    webUrl: "https://tech.co/news/11-100k-remote-jobs-microsoft"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2023/10/18162126/microsoft-remote-roles.jpg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "Foundry For AI By Rackspace Partners With Straits Interactive To Launch AI Data Protection Officer On Microsoft Azure Openai Service"
     excerpt: "The AI DPO Assistant chatbot guides organizations, especially SMEs, in data governance and navigating data protection requirements. Built on the Microsoft Azure Open AI Service, the chatbot securely stores data in a multicloud environment by Rackspace Technology. The AI DPO Assistant will:"
     publishedDateTime: 2023-10-18T17:24:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2023/10/18/amazon-revamps-warehouses-with-robots-to-reduce-delivery-times/amp/"
 type: article
 quality: 74
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -25,6 +25,33 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Amazon's AI And Robotics Progress Accelerates Warehouse Efficiency and Safety"
+    excerpt: "The overhaul involves the introduction of AI-powered sortation machines and robotic arms, transforming the dynamics of product movement within Amazon’s fulfillment centers. This innovation will help to augment the productivity and safety of human workers, the Wall Street Journal reports."
+    publishedDateTime: 2023-10-18T11:39:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35304469/amazons-ai-and-robotics-progress-accelerates-warehouse-efficiency-and-safety"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35304469"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35304469"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 86
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/18/amazon_warehouse_in_maryland_36906693900.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Helping employers leverage AI, robotics and biometrics in the workplace"
+    excerpt: "Transformative technologies are increasing productivity and job satisfaction, as well as providing workers with essential upskilling."
+    publishedDateTime: 2023-10-18T13:01:00Z
+    webUrl: "https://www.benefitnews.com/advisers/opinion/helping-employers-leverage-ai-robotics-and-biometrics-in-the-workplace"
+    type: article
+    provider:
+      name: Employee Benefit News
+      domain: benefitnews.com
+    quality: 49
 
 secured: "L883WyRpNdF8wZ2bFUfCJIoF029LxWO5N53g+PAAci8xzU0DBtW121Sjs/48262H1w4wNto6cpEQUFRymdi2GrV9j6NwsX7+duA+t1QMKYFahE6o+ovRTYV5Pd5vQ/mybOFxo+ZU5x7lSNeknEy+XUsrVQMx2S5w9VhJ2tEYgP+Xd7oD4qB18/dbvwPvx+bF8p3qsPhLdEMCHh6mCSUb2j4RjbYPkIQjPrxk2Uq8lzgTvOMlvqL2Xm199g6cp9psZLGLWfNOipIr28bs62xca53iRnHCuB6xZTEIzxYd7I0PW96UBlY7sMvMtXKhBc6NQgr8NH0xvfwmDfCRwX9MksCTP/FGFKoAHNpeXsQzUwU=;Q40rxJxSL+m+1XXK38ZYvg=="
 ---

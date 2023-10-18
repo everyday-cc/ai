@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Researchers measure global consensus over the ethical use of AI"
-    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
-    publishedDateTime: 2023-10-14T01:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
   - title: "Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
     excerpt: "NYSE:ACN) Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
     publishedDateTime: 2023-10-17T12:37:00Z

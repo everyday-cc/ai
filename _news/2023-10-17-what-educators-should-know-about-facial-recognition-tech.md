@@ -56,6 +56,15 @@ related:
       name: Telegram
       domain: telegram.com
     quality: 9
+  - title: "US facial recognition app that sold billions of photos of British citizens won’t face punishment"
+    excerpt: "A company that sold a facial recognition database featuring information on British citizens has escaped being fined because of a loophole in UK data protection law. Judges have ruled that Clearview AI broke no law when it sold its database to police forces because the buyers were non-UK and therefore outside of jurisdiction."
+    publishedDateTime: 2023-10-18T17:33:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2023/10/18/clearview-ai-facial-recognition-database-escapes-fine/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 6
 
 secured: "nGdcKy/mif8WW/UxQzxa1BhOvVPkWuUHCo7nSZLUMyiH7q2Yg0XXUdTTf/BelZP2j/SIWCg8P8OOl7Z1L72uDGWcLj6HVn5hQLST5K87JvXNPvJvXv9RzFGcagD4SBhmVWDylqryk/9NgsnggECyw+NhgyNQgq85mKPEwWdPg9f31Jf2bIl1Azvl2k6yrH2KIFe7kKHFjchcmYiHCb/v6yb7goFSfF3Qq9o72LF0Tk58ZkLUnitr3+fezaj24qi44gEka4sTVCKPserOy+95biOrOAp0PEcz0Vo43EkYflTmMJnrUwmHe+B74aWzFX7s5PtPuPt9FhMFjE7nP+GAwI7b7NWNqEr/bMEF3DMmPSYWlVObTWywNVH/KdNZCD+5M+GYYZYbKL/ldon2JcxZlV4ESChwr4GdhK8uEhFPOqeGrmGm2BRMKydp1coAe2MmhGNnitxzgqf1zY9Tp6GTgsvoN8Kowpjo5tWPe8SK5Kvuondp2PyQLCfvjh8bELX2DZ1UeyoQ/dWEb8MlOo5yhg==;0PjsgLqd929VL8mUH0ib6A=="
 ---

@@ -122,6 +122,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "G42, founded by the emirate of Abu Dhabi, said it would utilize OpenAI's generative AI models in areas including financial services, energy, healthcare and public services. The deal, the financial terms of which were not disclosed,"
+    publishedDateTime: 2023-10-18T18:04:00Z
+    webUrl: "https://www.aol.com/chatgpt-creator-openai-partners-abu-150510316.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
 
 secured: "Is5kMoEwVsUkbxAUuEgC0ekfquRxS2muamxynf/Q0XJ/qQXmiGsXtv+c2h7XLiWomJSvGP+RMLxSIiv/TN9oQ1KmC+AqVD7kz54lZZSSvN0lMtPabv77gnwOf2EZbIhjQWHErgNOyFosiCMamBFcEc0l3K09DRyHBJ5Quq08rWF8kc5OXft6eg0o2OTJYktkMuQbsHS3lVp+idcd2qdM8CDWxOyjLd1XU5B53+85tjAehaniJNuhf2g4HI60YKU/a6s+smQ1AcrfQPMXixoszalkcuGWm2exMyVOWPyezghL/+Z8sA4MxO+HFJXKgHjXlpmapxf7NKtlSLdbgS6GEprsKi0OVGB/tJHIEzM/P7U=;AgK+2lcWiLsd10QkELGrIg=="
 ---

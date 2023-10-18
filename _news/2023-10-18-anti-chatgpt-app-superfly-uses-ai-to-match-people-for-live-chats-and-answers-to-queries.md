@@ -126,6 +126,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 14
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "G42, founded by the emirate of Abu Dhabi, said it would utilize OpenAI's generative AI models in areas including financial services, energy, healthcare and public services. The deal, the financial terms of which were not disclosed,"
+    publishedDateTime: 2023-10-18T18:04:00Z
+    webUrl: "https://www.aol.com/chatgpt-creator-openai-partners-abu-150510316.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 14
 
 secured: "2jMYh+ayMPYHQbfyshCOp7F4B5MdTrojs9JxASbKBK3A+EQl8NzJwLz+be1IVJxJSm6LdwfHuvWTTmeSPgjNQlnAymvKsfODO5AbkUnYSx4eAP1acbFDTinUZcWm7XDGoDCbKf8NfC+UD1gLIh05yWCjrfs9foasCxajEGD9e7oUNmI9nBAhVg78jAR3552ESA/Jq3KsEUxrw9GtRq3zVZ4f9B1lS4dw6un8ZaJeUhlz/JlnkgM1+gfgum03pSslZ/o+qcWEZzbQp9EMSpSWUcHH6laIxNKJ9tVpOArxt+p2YeskZISFbp6H2sXfenbsl5Uw4RA0oYQwP92iAUrATcFqJqcoqPki2pzWcosTQ7k=;ei1fKwa+g66qMICe5MTTXg=="
 ---

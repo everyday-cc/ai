@@ -659,6 +659,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
+  - title: "U.S. tightens curbs on AI chip exports to China"
+    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
+    publishedDateTime: 2023-10-18T21:43:00Z
+    webUrl: "https://japantoday.com/category/tech/us-tightens-curbs-on-ai-chip-exports-to-china"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
   - title: "Tech war heats up: US cuts China off from AI chips – Nvidia, Intel, AMD are affected"
     excerpt: "The Biden administration is reducing the types of semiconductors that American companies will be able to sell to China, citing the desire to close loopholes in existing regulations announced last year."
     publishedDateTime: 2023-10-18T11:53:00Z

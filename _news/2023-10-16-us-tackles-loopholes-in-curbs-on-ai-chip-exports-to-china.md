@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html"
 type: article
 quality: 104
-heat: 644
+heat: 654
 published: true
 
 provider:
@@ -653,6 +653,15 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
+    quality: 34
+  - title: "U.S. tightens curbs on AI chip exports to China"
+    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
+    publishedDateTime: 2023-10-18T21:43:00Z
+    webUrl: "https://japantoday.com/category/tech/us-tightens-curbs-on-ai-chip-exports-to-china"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
     quality: 34
   - title: "Nvidia's shares tumble after the Biden administration announced new restrictions on AI chips sales to China"
     excerpt: "Nvidia won't be able to sell to China the chips it designed specifically to get around the White House's last set of export controls."

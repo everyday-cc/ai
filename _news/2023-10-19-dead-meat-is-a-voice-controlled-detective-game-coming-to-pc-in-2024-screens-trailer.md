@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-18T18:34:00Z
 originalUrl: "https://worthplaying.com/article/2023/10/18/news/139412-dead-meat-is-a-voice-controlled-detective-game-coming-to-pc-in-2024-screens-trailer/"
 webUrl: "https://worthplaying.com/article/2023/10/18/news/139412-dead-meat-is-a-voice-controlled-detective-game-coming-to-pc-in-2024-screens-trailer/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Worth Playing
