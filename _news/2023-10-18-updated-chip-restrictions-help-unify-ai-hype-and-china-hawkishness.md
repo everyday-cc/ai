@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-res
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "How Taiwan's server and chip suppliers perceive the new round of AI GPU restrictions"
+    excerpt: "The US has once again escalated its trade restrictions, and the AI chip industry is heavily affected. In addition to blacklisting China's fastest-growing GPU manufacturers, Moore Threads and Biren, the most significant impact is the anticipated restrictions..."
+    publishedDateTime: 2023-10-18T07:22:00Z
+    webUrl: "https://www.digitimes.com/news/a20231018PD215/china-nvidia-quanta-server-ipc-cloud-computing-iot.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 62
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231018pd215_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "aWoMEfUPgoMYpBT7XyAEMDvjhnkroXhB+y3WyO2K5vBIowUNU9zfN9oMn6J/ph+lJkAj3m9zs/6IUTrbC3jshMAonO/MQoRerSCj5bJg732xUrcLuIjC9YlAEX5W2CA/5nmgGrBprib9TtDQxPXsnF+HeNHYmirtDr7yWXgVQIXExm/CwNwXfEUMY2+N7Zc9ycB12nYw7RlDdDfkXFt6ZKF72eB+W2DuFQdC3V4VzO6jUIe/8Elgp+dB7UIc4Pve8WPOWF8Jlmx6B5hQ/nDzokLhmoQ32hmynY5u7RwVbrn3Mg6lcGXOkTJu9DjTX/c+7NUJQ7izKmzvmDbSU/ql8WtiR0gu8nYHB8hqOikdybI=;ow/fWg/Waa3My7fATAdzjg=="
 ---

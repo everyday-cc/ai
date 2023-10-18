@@ -77,20 +77,6 @@ related:
         width: 1024
         height: 800
         isCached: true
-  - title: "Australia’s Voice campaigners make final push ahead of indigenous referendum"
-    excerpt: "“This is a once-in-a-generation opportunity for recognition.” [ Brianna Parkins: Voice referendum in Australia asks a simple question with no simple answer ] [ Australia sets date for referendum on First Nations people ] Noel Pearson, a leading ..."
-    publishedDateTime: 2023-10-13T15:04:00Z
-    webUrl: "https://www.irishtimes.com/world/australia/2023/10/13/australias-voice-campaigners-make-final-push-ahead-of-indigenous-referendum/"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 36
-    images:
-      - url: "https://www.irishtimes.com/resizer/hkA1d7j3ULvWSefZrs9af4PZG0E=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/6PONLCKATY74BLPJUE4QA6IFHA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
     publishedDateTime: 2023-10-15T18:24:00Z
@@ -321,6 +307,22 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 22
+  - title: "Labor senator says Australians ‘will not let go’ of Indigenous recognition as Albanese under pressure to outline plan B"
+    excerpt: "We want to make sure our kids don’t continue to inherit the statistics that we see today,’ says Jana Stewart"
+    publishedDateTime: 2023-10-18T05:57:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/18/labor-senator-says-australians-will-not-let-go-of-indigenous-recognition-as-albanese-under-pressure-to-outline-plan-b"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/18/labor-senator-says-australians-will-not-let-go-of-indigenous-recognition-as-albanese-under-pressure-to-outline-plan-b"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/18/labor-senator-says-australians-will-not-let-go-of-indigenous-recognition-as-albanese-under-pressure-to-outline-plan-b"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 20
+    images:
+      - url: "https://i.guim.co.uk/img/media/7b9a3d6c28732401a3dc28bf0db1ecab417af0eb/633_422_4173_2504/master/4173.jpg?width=620&quality=85&auto=format&fit=max&s=d0e1a2dba2537ca0e5a53857f3e37e87"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
     excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
     publishedDateTime: 2023-10-14T09:28:00Z

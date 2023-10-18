@@ -55,6 +55,50 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech giants Foxconn, Nvidia announce they are building 'AI factories'"
+    excerpt: "Taiwanese tech giant Foxconn and US hardware leader Nvidia said Wednesday they would team up to create \"AI factories\", powerful data processing centers that would drive the manufacturing of next-generation products such as electric cars."
+    publishedDateTime: 2023-10-18T07:46:00Z
+    webUrl: "https://techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/chairman-of-foxconn-te.jpg"
+        width: 1280
+        height: 852
+        isCached: true
+  - title: "Foxconn and Nvidia team up to build 'AI factories'"
+    excerpt: "\"In the future, every company, every industry, will have AI factories.\" Nvidia, the world's most valuable chip company, said in a statement that the AI factories would use its chips and software, including its cutting-edge GH200 superchip that it is barred ..."
+    publishedDateTime: 2023-10-18T07:49:00Z
+    webUrl: "https://www.aol.com/foxconn-build-ai-data-factories-023559146.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/e2b7e251066f1b19b05e55e371a3bc4b"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "NVIDIA, Foxconn partner to build 'AI factories' for self-driving cars"
+    excerpt: "Tech giants NVIDIA and Foxconn are teaming up to create AI factories that will offer supercomputing power for developing self-driving cars, autonomous machines, and industrial robots"
+    publishedDateTime: 2023-10-18T06:56:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/foxconn-and-nvidia-plan-to-develop-ai-factories/story"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 39
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l75520231018115128.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia and Foxconn to collaborate on AI data factories and smarter self-driving cars"
     excerpt: "Nvidia Corp. said today it’s expanding its ongoing collaboration with Hon Hai Technology Group, better known as Foxconn, to accelerate the development of artificial intelligence-powered electric vehicles and robotics platforms."
     publishedDateTime: 2023-10-18T03:00:00Z

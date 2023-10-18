@@ -7,7 +7,7 @@ originalUrl: "https://www.chiangraitimes.com/tech/gitex-global-2023-huawei-launc
 webUrl: "https://www.chiangraitimes.com/tech/gitex-global-2023-huawei-launches-deep/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Huawei’s deep learning data lake storage solution launched at GITEX GLOBAL 2023"
+    excerpt: "Huawei’s OceanStor A310 addresses critical industry challenges and expands the horizons of AI as it provides optimal storage capability for basic model training, industry model training, and inference in segmented scenario models,"
+    publishedDateTime: 2023-10-18T01:39:00Z
+    webUrl: "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/"
+    ampWebUrl: "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 55
+    images:
+      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Huawei’s deep learning data lake storage solution launched at GITEX GLOBAL 2023"
     excerpt: "Huawei’s OceanStor A310 addresses critical industry challenges and expands the horizons of AI as it provides optimal storage"
     publishedDateTime: 2023-10-17T14:13:00Z

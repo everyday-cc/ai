@@ -76,6 +76,20 @@ related:
         width: 400
         height: 353
         isCached: true
+  - title: "New Era of AI Grips World’s Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
+    excerpt: "GITEX GLOBAL and Expand North Star comprise a combined 41 halls spanning 2.7 million sq. ft of exhibition space."
+    publishedDateTime: 2023-10-18T05:33:00Z
+    webUrl: "https://www.phoneworld.com.pk/new-era-of-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day/"
+    type: article
+    provider:
+      name: Phone World
+      domain: phoneworld.com.pk
+    quality: 37
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/A-high-level-discussion-on-the-future-of-smart-cities-at-GITEX-GLOBAL-2023.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HKrkgzVQnhGNzQshCvO6/bC4SXsjJ3QSW8EaKaidX/ut91hbf/OCINXIptEIyutShOlf+0WGtx++tGeOd+0/IeAPy+B1CtSMf2MhZh/hVSR9RzNPof25bDJfQfuNsACysItpWONSjBAR3C6NRD6Ji+cEygI/zzBAiErhZaFIOsUnfCrtv6aAA3mHlFO0s8B+xXqCS7wU2WynJUjDIL/9vNT1GSc/QSWkSmv5U1tRYOmAmoqwp/uzc5/bVssWt0ftwqiqaMH3fbhqyGoPyLynTGQOYxnXCQiAVuoNd4hyH97ah0VdW4lxseohospviBwwOoCAR7HqEQybayjLRR3J8gKSsf6xjgAmPruAgKmkbnhjpB+fNZAH9bpGXcJAYTRuYbDaXJWlE6Fy8fvTfgOCdNkHmgjQdNdAMdOqrUM2oMogjxr7Sot11EHygqsejULZik8okvFYuKqxE6j53ByxxgR6viD3uks4AdX6k0lK4MO/J1JELMFc8iFhFpNeAbzmEcHyjcNlOjJ1e+ko4xSsVQ==;RNtJeUPzusxTQ666wI4Jfg=="
 ---

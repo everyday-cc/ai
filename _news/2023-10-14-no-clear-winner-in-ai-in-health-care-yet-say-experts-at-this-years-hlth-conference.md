@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
+    excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
+    publishedDateTime: 2023-10-14T13:06:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 28
 
 secured: "qneKSjETg3LVJ5KfKTvUp97LpbAr1w3PIQr6YO2nRoLSXeUr42trap2xH+DLHh4k0KoaawQNZkEca0hloCg4F6wVh4ISfq4Fg1mPRvAv9v+sp48eu9DaWaR1cJjqyooIBNZwuxv9HCFwcTemikfptW7McMPA8yIecTGNwNwSCgShf7vuZEzRDEz6rB2BO4JqZZRKuyuYc0chUYZ8RosoEFOBg+WiOP5ojvAFTLPCmDUnXix1aLPLtgtU+FzTOvlgrg/TPlW9U0ROVPEZaa6ZxjyCYNW+FJP/xyDrDneFt3eqspwZSCAtRnE+mwqpE7+iC2Q9ISOi+NZ2dMymUFfhD0YPllra02cOlv5seOkt6Xj4D2SYUyiKAuwWwTcjs3cJDge2uaW+V80ODb9Nl0Vc4oJqrLMNyS6gOB6v9+hPCZh7Mu36fencpncy7PH6x2yuV/8Iyg7v1D4KDHs6wjBC3+ZC0xoGowqhCIG+dnhEMaLOCbgojnDXUOXFRbTIl1Yfk7Icn5xBwtBIDr6OeaXUNQ==;dElHX7JceP7V2606pf/HZg=="
 ---

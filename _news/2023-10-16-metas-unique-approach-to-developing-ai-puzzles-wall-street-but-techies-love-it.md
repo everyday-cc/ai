@@ -1,36 +1,31 @@
 ---
 category: news
 title: "Meta's unique approach to developing AI puzzles Wall Street, but techies love it"
-excerpt: "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry’s “workhorse” computer chips."
-publishedDateTime: 2023-10-16T15:43:00Z
-originalUrl: "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
-webUrl: "https://www.cnbc.com/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
-ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
+excerpt: "To help with the computationally intensive process of training gigantic AI models like Llama, Meta has been using its own Research SuperCluster supercomputer, built to incorporate a whopping 16,000 Nvidia A100 GPUs, the AI industry's \"workhorse\" computer chips."
+publishedDateTime: 2023-10-16T09:00:00Z
+originalUrl: "https://www.nbcconnecticut.com/news/national-international/metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it/3124710/"
+webUrl: "https://www.nbcconnecticut.com/news/national-international/metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it/3124710/"
+ampWebUrl: "https://www.nbcconnecticut.com/news/national-international/metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it/3124710/?amp=1"
+cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/national-international/metas-unique-approach-to-developing-ai-puzzles-wall-street-but-techies-love-it/3124710/?amp=1"
 type: article
-quality: 86
-heat: 86
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: NBC Connecticut
+  domain: nbcconnecticut.com
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
-  - Microsoft AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1697461201"
-    width: 2237
-    height: 1376
+  - url: "https://media.nbcconnecticut.com/2023/10/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?quality=85&strip=all&resize=1200%2C675"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "hT2b3BJphcc7w7YVRL0aTkNmGGlPSMaM7cBzTilfOOgJtBB3jrb/qHH4+3G27a6X4Y1p7tZavrRFlnWML1rfmN73fQFHyUIr7iGOQ/2tmxsB7Vtrqi2nxAxb9RgGUznfuMD2KiGHZQdg0Y6npGVdlOfmVD4O7UExbQnZkee8h+piYYWEdgVc0s8Mb8BVxjqXE1PGchmbWwYbkCTkdZVdJGwUeEfamChHq8rXqAT31B/848jjIsp8NO9RTyc2vMroMmJjCfaIcLmf2MAmnBVWvsRzowTiNvS23r9wKqWcngj8EGZ+doykpnYwVTP6L32vKzb6EhdlqilwNAVklTHlK7Grkq2aOgIZPemtezVOkJo=;nqS6wgHCSmC7+5W0ltrEfA=="
+secured: "bKVaueDynXIrCAmwmt2/RKEJX75oWc8BTwgNmFKjFkfVsvhZpzVQj4hExuRyVjvUoUlKAtFxMKMT8zzV4lA9RyBxUPLVzrSnFSuxorNQfjVz/jHWDWkM+LGDA/9LCtBjC4N+7GB7xUJkT4DR6hqsxb04wruk0Q6oHkHAQpSg9kuZpchbVuX7TUlT/008pqY9T22uUU+V7mdJaLyKS8m7hQ/6cCeRlZuCVbrQ1niSwgOD7giXChLxRixyXeZrcn9PUKvdvAjpU088UYMFrZYxNNGjUg6igKvC4KyFZq1Yopqs3IA0yt6uKF13cy+dMW8uKQCZQ9bAI8Q1YXWg7/hoxSMIvJFhbir7jUbJBSrxxoY=;/4DPv2Snzv5XQRbto7B2cQ=="
 ---
 

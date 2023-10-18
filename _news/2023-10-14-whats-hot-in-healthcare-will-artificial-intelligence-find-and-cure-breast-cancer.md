@@ -19,82 +19,29 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "AI Renaissance In Healthcare: Top Five Opportunities In Precision Medicine"
-    excerpt: "As data democratization and technological convergence continue, we're set to experience a healthcare renaissance where patient-centricity and proactive intervention will be the norm. Here are some of the most promising use cases where generative AI could help deliver the promise of precision medicine."
-    publishedDateTime: 2023-10-13T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/ai-renaissance-in-healthcare-top-five-opportunities-in-precision-medicine/amp/"
+  - title: "Health care: No clear AI winner yet, say experts at HLTH conference"
+    excerpt: "But it's unclear what use-case for AI in health care will ultimately win."
+    publishedDateTime: 2023-10-13T22:31:00Z
+    webUrl: "https://www.aol.com/finance/no-clear-winner-ai-health-193147987.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 102
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6515e926f782f3662889eec0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://s.yimg.com/ny/api/res/1.2/zg4AU8QWL1VndDmjkoSDMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/07dc62bc93c939824192660160ec8319"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Sharp Healthcare creates AI assistant"
-    excerpt: "Sharp Healthcare, based in San Diego, has created its own AI assistant, SharpAI, to support operational staff."
-    publishedDateTime: 2023-10-16T21:34:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html"
+  - title: "No clear winner in AI in health care yet, say experts at this year's HLTH conference"
+    excerpt: "This year, artificial intelligence (AI) was the topic on investors' minds as they search for the next big bet in digital health. But it's unclear what use-case for AI in health care will ultimately win. That thought was top of mind for Prateesh Maheshwari ..."
+    publishedDateTime: 2023-10-13T19:42:00Z
+    webUrl: "https://www.aol.com/no-clear-winner-ai-health-193147987.html"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Unlocking AI’s Potential in Healthcare"
-    excerpt: "Data is fundamental to the practice of medicine and the delivery of healthcare. Until recently, doctors and health systems have been restricted by a lack of accessible and computable data. However, this is changing with the world's healthcare systems undergoing digital transformations."
-    publishedDateTime: 2023-10-13T14:35:00Z
-    webUrl: "https://www.unite.ai/unlocking-ai-potential-in-healthcare/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/knowledge-ai-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
-  - title: "Top 3 generative AI uses, per healthcare CIOs"
-    excerpt: "Explore the results of a survey of IT leaders on the adoption of generative AI in healthcare. Learn why healthcare is embracing the technology slower than other industries."
-    publishedDateTime: 2023-10-16T14:48:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/top-3-generative-ai-uses-per-healthcare-cios.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Home healthcare tapping AI to speed processes, close gaps in care"
-    excerpt: "Providers are turning to the technology to try to maximize caregiver-patient compatibility and make administrative work more seamless."
-    publishedDateTime: 2023-10-17T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/providers/home-healthcare-ai-staffing-gaps-hospice-hospital-at-home"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 34
-  - title: "New report unveils groundbreaking opportunities for U.S. health care transformation"
-    excerpt: "The Future of Health” — a forward-looking report jointly released today by the Jacobs School of Medicine and Biomedical Sciences at the University at Buffalo and the Jacobs Institute — heralds massive potential for improving health care in the United States."
-    publishedDateTime: 2023-10-17T18:32:00Z
-    webUrl: "https://www.buffalo.edu/news/releases/2023/10/UB-JI-Future-of-Health-report.html"
-    type: article
-    provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 0
+      name: AOL
+      domain: aol.com
+    quality: 12
 
 secured: "RyqorJvijib8DFJnTRljrVwV5WrfEhIjSCLpJNUOv4xv2Af7Ibn2J2t+pROC2Mu95N1v+jho0Z4/qSJ9+mSNJ90ilSDSMQGa8AybhHaTnIg4NeZvSzBnyZzkoIreiNbWUzxDUCs0gweaELT+h92JpoKNqg6/4tyPpBy+hbEIXGYUBs3Ifb5Jmjf3vpXF1QPAdH7SYs77fRH2EMU2p5ElbaIyiJwHJlnA0XJ7B18hcEnaDI6ZmKJlm3xb8rXauTNfqm4PDOceYEDZpmXERIvN31lMoqjZ38XU4WrlLed/Q4MMOzyUO/uP64GowlJp627esZ5W1j6IG4JhlDaup4t3rPoEnFBoqhp6XzU/My/O6fgTdsHG1zYQZgp9lfOoGAcCsB4cn2KEk9fuld8jBEVB7lQoeDv39NgMQWl/cQ+WpGVOfrrFOCH7hThtF7Y1x3v1Oc4rJgVjemBPADpw1m4BWSNFktApCQEYmqfs3CJbeUkqggSsTCC0hPYfL6d4B/FuMPwM19A8r9eB895/YoV8WA==;J6gbAATaBN7zTM5L67zLug=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/new-era
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://mma.prnewswire.com/media/2249594/GITEX_GLOBAL_2023_Enters_2nd_Day.jpg"
         width: 400
         height: 353
+        isCached: true
+  - title: "New Era of AI Grips World’s Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
+    excerpt: "GITEX GLOBAL and Expand North Star comprise a combined 41 halls spanning 2.7 million sq. ft of exhibition space."
+    publishedDateTime: 2023-10-18T05:33:00Z
+    webUrl: "https://www.phoneworld.com.pk/new-era-of-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day/"
+    type: article
+    provider:
+      name: Phone World
+      domain: phoneworld.com.pk
+    quality: 37
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/A-high-level-discussion-on-the-future-of-smart-cities-at-GITEX-GLOBAL-2023.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Gitex Global: UAE Start-Ups Explore AI, Agritech, Sustainability"
     excerpt: "The UAE start-up ecosystem has been witnessing a diverse portfolio of new firms over the past few years, diversifying away from the e-commerce secto"

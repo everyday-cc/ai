@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/google-promises-to-back-generative-a
 webUrl: "https://www.zdnet.com/article/google-promises-to-back-generative-ai-users-against-copyright-claims/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Authors speak out against the usage of copyrighted work in AI programs"
-    excerpt: "Artificial intelligence has the potential to be used as a tool to improve writing if employed correctly. Some authors, however, are worried about what that could mean. On Sept. 20, The Authors Guild and 17 specific authors — one of whom,"
-    publishedDateTime: 2023-10-18T00:16:00Z
-    webUrl: "https://dailyiowan.com/2023/10/17/authors-speak-out-against-the-usage-of-copyrighted-work-in-ai-programs/"
+  - title: "Top 3 generative AI uses, per healthcare CIOs"
+    excerpt: "Explore the results of a survey of IT leaders on the adoption of generative AI in healthcare. Learn why healthcare is embracing the technology slower than other industries."
+    publishedDateTime: 2023-10-16T14:48:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/top-3-generative-ai-uses-per-healthcare-cios.html"
     type: article
     provider:
-      name: Univeristy of Iowa Daily Iowan
-      domain: dailyiowan.com
-    quality: 39
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://dailyiowan.com/wp-content/uploads/2023/10/authorsandai-1.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "ZslNXUGcnfXEKNUQ7JjPV4v1nRcnIYI75AnuZPpwloMIFl5YN27vSj33p0O1kgIVlCuaqJuUKAkOtmyHr8Mtx+5fAmAYqWFyBYXe35tKqqhulW3jM01WtmAhddSyeyRj4sUY7QmQe1qdPEmH07zaZnGHsHBEIDAHaKEqMvKZ3R7BK6lhjfPz0dq1QNlKt4jWiSvRrA3fTJO31004oQXOIQZccCde5seIXBuScBotSv3vIjREd1jvwMUVasBQ/OyhX0hgUNkf33HPjUgNRxw+i7+GloOW+xQgFV6fPAS3zxuq+zhRXCYvDnWjr34f8q4wuahjArk4VCzv2lD5fvreE6sGUzrUt8+PyBFkBm/INhFQmBC2sZUQwvbxMRF9em946JlyP77wDz11NtUtb56lDAvk9KyNTnnXbNOML+tVIYJ/OHrzr1eWW5zVPtqZh3F6nmLlckzO3gFVY78Di/TQrTg3a6njzkion5q3muFXnXuiixriY23GTu9wee0cF0+ejlTrEtVx95NWA/5MW4bXNw==;qPwmoGMS7disA9ej0vai1w=="

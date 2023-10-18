@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "What’s Hot in Healthcare: Will artificial intelligence find and cure breast cancer?"
+    excerpt: "They began adding artificial intelligence technology to existing 3D mammography for breast cancer screening in 2020. With three years of results, they discovered AI can make a significant difference in finding cancer. Both the radiologists at the Institute ..."
+    publishedDateTime: 2023-10-14T13:06:00Z
+    webUrl: "https://www.orlandosentinel.com/2023/10/14/whats-hot-in-healthcare-will-artificial-intelligence-find-and-cure-breast-cancer/"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 28
   - title: "No clear winner in AI in health care yet, say experts at this year's HLTH conference"
     excerpt: "This year, artificial intelligence (AI) was the topic on investors' minds as they search for the next big bet in digital health. But it's unclear what use-case for AI in health care will ultimately win. That thought was top of mind for Prateesh Maheshwari ..."
     publishedDateTime: 2023-10-13T19:42:00Z

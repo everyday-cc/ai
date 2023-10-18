@@ -28,72 +28,39 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI revolutionising banking sector: Fintech Surge 2023"
-    excerpt: "Gen AI will be a huge added value for the banking sector as it will detect many kinds of issues and improve accuracy of advanced services to the clients"
-    publishedDateTime: 2023-10-16T02:59:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0"
-    ampWebUrl: "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1"
+  - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
+    excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
+    publishedDateTime: 2023-10-18T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/24/1463605211.jpeg?f=3%3A2"
-        width: 900
-        height: 600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
-    excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
-    publishedDateTime: 2023-10-16T11:27:00Z
-    webUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
+  - title: "AI Is Taking Customer Relationships to the Next Level"
+    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
+    publishedDateTime: 2023-10-17T17:15:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1720247/fintech.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Fintech chiefs raise AI regulatory fears in Parliament"
-    excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
-    publishedDateTime: 2023-10-17T08:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43132/fintech-chiefs-raise-ai-regulatory-fears-in-parliament"
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
+  - title: "Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
+    excerpt: "NYSE:ACN) Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
+    publishedDateTime: 2023-10-17T12:37:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2023/10/17/accenture-collaborates-with-sap-to-help-organizations-adopt-generative-ai-and"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/parliament.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
-    excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
-    publishedDateTime: 2023-10-16T10:50:00Z
-    webUrl: "https://menafn.com/1107246479/Fintech-Surge-2023-Concludes-Day-One-Of-Global-Gathering"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997739"
-        width: 421
-        height: 250
-        isCached: true
-  - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
-    excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
-    publishedDateTime: 2023-10-16T13:12:00Z
-    webUrl: "https://techbullion.com/date-fintech-show-scripting-a-new-chapter-in-saudi-arabias-fintech-revolution/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 0
 
 secured: "LYzgC0uKxS4j7qXrrdqbUyqH4bPaaIPAWqBjQXWH1b9H3cUZ9SvP4Q5EXwhwMZSiOhLHPWMS2lCRikPLKZ0EWNa8XYr0Oezk/MOViCXO0k7588FPm6RZMgNugEeveLIOgWfTdOLQ+4b80By6AOmQY0zyHNo5T2Fq6DPO5d375tA5BZQu6TXH2869GOy0WxgYnVUpwzrVw+OxYQvHnuno0U71wevQseD3oNIA4d+dySW91IOFZoFIzsmXM8OuL4TQmCy+eW+U03L3zLUykWvHaTxzcGsfA0MngiNulM3hUn8a0xpIPuPGT9W7Kja5Rewk0cKMJ2qsYGH1ChisQ0jsqwX7FX/nM/5Ep500f/nM5Mg=;1DCzDD4wSjGWcmRNpmYosg=="

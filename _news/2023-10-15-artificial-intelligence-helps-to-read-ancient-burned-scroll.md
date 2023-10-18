@@ -48,22 +48,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Artificial intelligence helps to read ancient burned scroll"
-    excerpt: "The first word from a scroll that was burned nearly two thousand years ago has been deciphered with the help of artificial intelligence."
-    publishedDateTime: 2023-10-13T14:58:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/67103053"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/67103053.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/67103053.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/14BCD/production/_131414948_img_0788.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "AI Is 'Unwrapping' Burnt Scrolls From Herculaneum"
     excerpt: "Mount Vesuvius buried Herculaneum in volcanic ash 2,000 years ago. Modern tech is revealing lost texts from the town."
     publishedDateTime: 2023-10-13T19:16:00Z

@@ -245,6 +245,15 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Exclusive-Upcoming US Rules on AI Chip Exports Aim to Stop Workarounds"
+    excerpt: "(Reuters) - The U.S. will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a U.S. official said, as part of the Biden administration's upcoming actions to effectively block more AI chip exports."
+    publishedDateTime: 2023-10-15T22:11:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-15/exclusive-upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With U.S. Businesses"
     excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
     publishedDateTime: 2023-10-17T11:44:00Z
@@ -453,6 +462,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/4/e6/4e63ebd1-0d03-5c9d-a221-cf3f5eb34b4c/652f4e00487ae.image.jpg?resize=400%2C266"
         width: 400
         height: 266
+        isCached: true
+  - title: "US tightens export restrictions on AI chips to China"
+    excerpt: "The chip controls aim to address loopholes identified after the US imposed export limitations on chips to China last October."
+    publishedDateTime: 2023-10-18T06:53:00Z
+    webUrl: "https://technode.com/2023/10/18/us-tightens-export-restrictions-on-ai-chips-to-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
   - title: "What to Know About the U.S. Curbs on AI Chip Exports to China"
     excerpt: "The new rules aim to close loopholes that emerged from 2022 export control curbs, and to account for technological developments."
