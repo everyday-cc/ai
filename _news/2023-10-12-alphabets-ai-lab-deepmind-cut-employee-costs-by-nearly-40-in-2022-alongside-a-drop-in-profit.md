@@ -5,8 +5,6 @@ excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alon
 publishedDateTime: 2023-10-11T17:07:00Z
 originalUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
 webUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
-ampWebUrl: "https://www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
-cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://media.necn.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "vZmNMV1FRVbH5ov/1xZDmJXyFxzIhWKKFyWj9uGbC3k2IjcfVuLMMYjDzmh2XR5E0YT8JLdach+sZRTDd1/98bkfDpFhb9C8MOLmCkqQbFn2F76hoC6WJB0zxlrFWNQBV1X/pytZSlCGOt9c0QSCU44ORDnugjCwH1SNPolWASS5UiiJs0nX+62Tvkq4qEeAzBgAXoOz35atQVTbr2yrOSYe0BtquaVnzGTLsBpYoibe9gy2gcitKsPQNFKG4Wiu3WfmwIiXi+pIreD2LEnT1rDBoXX3POZFCGMXF0o+z4UHeaG+/+83JNGo4GnZP2Y3v8l8HUbAYHXZc82k9XRQo/azjkbGLou/Im1dj2JQlRM=;PwLSV2wEoKqLWX6GgTZ12Q=="
+secured: "5lSS16dSzLKB16QDX1ASs98vYktLn5EoQAw0vwWLBzzyAFCBAs+xv+Ea9M4lNB3riK9s7ZdPKt8Nsqon1vCJ5NL+7e+ITTKRVkftjNUj8CRJ2XrPVX+w000t2+0VSzYjhIYTeXEIsPJrGLOFpIFStpZ+xm1B4LP6D0SK9oGppRWbnsUEzEJBg+5RZvECKsoq0/yLXBOZrnlQ8mJqcjuw1RzDZpdSslw2/G2/NNxHM9R+693wg+eudKtuNg38yWmcJfqHFPcXuS54XddRLiA0LGUhVTjvvUaWcHwX2VZ23QUWiCL/Nu/zWlYJDB+JUG7YRE/E73qNWSjwwkGxEawtohPFYXv8M00v2yGZX/8yERk=;epp3uzGHQSP41PO+AfihWw=="
 ---
 
