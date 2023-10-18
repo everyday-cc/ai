@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-31-artificial-intelligence-and-machine-learning-news-and-features.md",
+      "title": "Artificial Intelligence and Machine Learning – News and Features",
+      "excerpt": "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologynetworks.com/analysis/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/225",
+      "originalUrl": "https://www.technologynetworks.com/analysis/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/225",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230907",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologynetworks",
+        "domain": "technologynetworks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-kx-accelerates-real-time-analytics-ai-and-machine-learning-for-google-cloud-customers.md",
       "title": "KX ACCELERATES REAL-TIME ANALYTICS, AI, AND MACHINE LEARNING FOR GOOGLE CLOUD CUSTOMERS",
       "excerpt": "With native support for Python, SQL, and the ability to process time series and vector data in real-time, KX's technology gives data scientists, data engineers, and application developers the ability to combine real-time, historical, and vector embeddings for smarter, faster business decision making.",
@@ -1324,49 +1367,6 @@
       "provider": {
         "name": "Cyber Defense Magazine",
         "domain": "cyberdefensemagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-20-artificial-intelligence-and-machine-learning-news-and-features.md",
-      "title": "Artificial Intelligence and Machine Learning – News and Features",
-      "excerpt": "Researchers have shown that it is possible to train artificial neural networks directly on an optical chip. The significant breakthrough demonstrates that an optical circuit can perform a critical function of an electronics-based artificial neural network ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223",
-      "originalUrl": "https://www.technologynetworks.com/drug-discovery/topic-hub/artificial-intelligence-and-machine-learning/news-and-features/223",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/static/images/opengraph/og-image.jpg?cb=20230902",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-19T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
         "images": null,
         "publishers": null,
         "authors": null

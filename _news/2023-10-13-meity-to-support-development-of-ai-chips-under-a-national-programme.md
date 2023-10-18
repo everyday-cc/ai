@@ -19,15 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Govt To Support Development Of AI Chips Under Semicon India Initiative: MoS MeitY"
-    excerpt: "The unit will also aim to nurture the homegrown robotics startup and research ecosystem. The development comes at a time when the government has left no stone unturned to push AI across multiple arms of the government. The National Payments Corporation of ..."
-    publishedDateTime: 2023-10-13T18:13:00Z
-    webUrl: "https://inc42.com/buzz/govt-to-support-development-of-ai-chips-under-semicon-india-initiative-mos-meity/"
+  - title: "India's AI programme to achieve $1 trillion digital economy: Chandrasekhar"
+    excerpt: "\"This is a deep, multi-year roadmap to make Indian AI work for being a kinetic enabler of the trillion dollar digital economy,\" Chandrasekhar said. The minister had earlier said the government plans to make India a USD 1-trillion digital economy by 2026."
+    publishedDateTime: 2023-10-13T11:13:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html"
     type: article
     provider:
-      name: inc42
-      domain: inc42.com
-    quality: 31
+      name: The Week
+      domain: theweek.in
+    quality: 59
+    images:
+      - url: "https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2022/12/3/31-Rajeev-Chandrasekhar.jpg"
+        width: 760
+        height: 443
+        isCached: true
+  - title: "India's AI programme to be kinetic enabler to achieve $1T digital economy: Chandrasekhar"
+    excerpt: "The Ministry of Electronics and IT has floated a consultation paper on the National Strategy on Robotics, which is open for public comments till October 31."
+    publishedDateTime: 2023-10-13T11:19:00Z
+    webUrl: "https://yourstory.com/2023/10/indias-ai-programme-to-be-kinetic-enabler-to-achieve-1t-digital-economy-rajeev-chandrasekhar"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 30
+    images:
+      - url: "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/Imagekzi9-1697195509684.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "R+LH14CdEv4CE/oXP3jhplKVqpHWD39Lab23KcGXomnw2E1L5Iqk9Cg1eWeoxZxdf1kxublLOHXqXzaslEyjJD0UkwRd1Zkb7h+g0xL9KtiEB8Yck83zZlmeJNawWQqsROoV+cPH7o7PlEh52xoYZd5Fdkb7jmOf9GkDxjXrBiI1pUVjM1x47KmebkiJM8WsXY1g6RkglEV01FEd7UzgxqKtRJd6KyWo/ajj4TvegIHGcW/EL5ZB8KJ8K+prp/qyteHjkJ4wUQjic52GxayG6txG3Qev5QDFy7jtNyE0CvcebPd+TeM5NFJ90FomnGUxfchmJztU1dWzlYakY34DoVAV8sjUy4yMJ5Iy7ctv/JFha1nZbrQwb8Cazh70lAHtNjZOp+yKW+GWfoU2vQjHUHfAyihVXZ+Ymy6ZTdn2Wj2FQr3C7K0Wlp3sxhBp6cWckmAZGs+8OZtTmKz8OhCmt9IPhANcMtPrGfCM83eOoeGWs/j9ew7JH5r8X9rriJWBXt5YZobA2Qqq9/odyrjHIw==;ZdivwHu2gasXuKfT9RB16Q=="
 ---

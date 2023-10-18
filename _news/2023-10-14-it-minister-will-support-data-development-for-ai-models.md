@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Government will assist the development of AI chips using the PPP model: MoS IT"
-    excerpt: "Government will assist the development of AI chips using the PPP model: MoS IT - The government announced to support the development of artificial intelligence (AI) chips via a"
-    publishedDateTime: 2023-10-13T10:03:00Z
-    webUrl: "https://www.siliconindia.com/news/general/government-will-assist-the-development-of-ai-chips-using-the-ppp-model-mos-it-nid-225894-cid-1.html"
+  - title: "7 working groups submit final IndiaAI report on AI development"
+    excerpt: "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no"
+    publishedDateTime: 2023-10-14T05:25:00Z
+    webUrl: "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 50
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/PBd5vT3H.jpg"
-        width: 570
-        height: 367
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Govt To Support Development Of AI Chips Under Semicon India Initiative: MoS MeitY"
+    excerpt: "The unit will also aim to nurture the homegrown robotics startup and research ecosystem. The development comes at a time when the government has left no stone unturned to push AI across multiple arms of the government. The National Payments Corporation of ..."
+    publishedDateTime: 2023-10-13T18:13:00Z
+    webUrl: "https://inc42.com/buzz/govt-to-support-development-of-ai-chips-under-semicon-india-initiative-mos-meity/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 31
 
 secured: "g42d9YeC/NA0a7Zf91aCZy58AtTERIF51y9j54MOxTkHEeSe3vVAywpSxBRKZ4eM/nUwWYY5Bei+6l1YXPwaG+8vL8vO5nXi+XTWoBmWnV/rGZQXPCg6HgfIOLzFwefbXTy9MsYQR2IRoVw64lRoTUXS86J7xjQ8bUN8KOANmVF3OOkCmgVpWfI4XSo/23ZHNu5tZFxEzyxnIKSIgxPhJ3/Ip1KQZLm228jgd842/XCRuTc+9ra2qFPrxX+CI4Z5jN3fuHSNRL5xrAnNQ4NCv2MZfj56Zac9OUIljBO6aK9BPSL0R1CEtZNTekF6ZnErDTjFFQYaplXbNXYBpM4ncTgIwoWsXUoa/SfBwCvQEaMwuJT8OZ5q7Al6xaMgGf43D4ZSAr58kUlmmDGvqIw+jTHUglLXLqQYQKBlR8iU+KGhth7WpUeFnxy4FTyvhqwkIRvQ3u4cr9nD3IV8pmiQMiAazxedXqZthuJSkB3LA0Zv315DnpyoKLpwzSX4Cg8K4Ax8hz8VHwAQYRtMPQ6Iug==;+FDx+fbB7gwWefffjfub0w=="
 ---

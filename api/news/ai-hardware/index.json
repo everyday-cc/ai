@@ -400,6 +400,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-14-7-working-groups-submit-final-indiaai-report-on-ai-development.md",
+      "title": "7 working groups submit final IndiaAI report on AI development",
+      "excerpt": "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "originalUrl": "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "publishedDateTime": "2023-10-13T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-13-ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres.md",
       "title": "AI panel recommends govt to create 24,500-GPU computing infra at 17 centres",
       "excerpt": "Union Minister Rajeev Chandrasekhar said that based on the suggestion made by the panel, the government was considering making AI chips and GPU infrastructure in the country through a public-private p",
@@ -439,6 +482,50 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-indias-ai-programme-to-achieve-1-trillion-digital-economy-chandrasekhar.md",
+      "title": "India's AI programme to achieve $1 trillion digital economy: Chandrasekhar",
+      "excerpt": "\"This is a deep, multi-year roadmap to make Indian AI work for being a kinetic enabler of the trillion dollar digital economy,\" Chandrasekhar said. The minister had earlier said the government plans to make India a USD 1-trillion digital economy by 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2022/12/3/31-Rajeev-Chandrasekhar.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
+      "publishedDateTime": "2023-10-13T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI",
         "AI Hardware"
       ]
@@ -1335,92 +1422,6 @@
         "AI",
         "Microsoft AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-samsung-exynos-2400-detailed-70-faster-cpu-xclipse-940-gpu-with-amd-rdna-3-graphics.md",
-      "title": "Samsung Exynos 2400 detailed – 70% faster CPU, Xclipse 940 GPU with AMD RDNA 3 graphics",
-      "excerpt": "The upcoming flagship chipset was introduced at Samsung System LSI Tech Day in San Jose, California. Samsung Semiconductor held its System LSI Tech",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-news-60133.php",
-      "originalUrl": "https://www.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-news-60133.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/23/10/samsung-details-exynos-2400/-1220x526/gsmarena_00.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_exynos_2400_detailed__70_faster_cpu_xclipse_940_gpu_with_amd_rdna_3_graphics-amp-60133.php",
-      "publishedDateTime": "2023-10-06T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-samsung-accelerates-efforts-to-lead-ai-chip-market.md",
-      "title": "Samsung accelerates efforts to lead AI chip market",
-      "excerpt": "Samsung Electronics made a series of announcements demonstrating its competitiveness in semiconductor production, as the chip industry expands alongside artificial intelligence (AI) and the emergence of ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_360591.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/10/129_360591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/650e6dcfcaf843ed9e89b114ca28d647.jpg",
-          "width": 750,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=360591",
-      "publishedDateTime": "2023-10-05T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

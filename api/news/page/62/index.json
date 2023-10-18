@@ -2,6 +2,213 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2023-09-02-google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure.md",
+      "title": "Google Unveils New AI-Powered Cloud Technologies Taking On AWS And Azure",
+      "excerpt": "At Cloud Next, Google unveiled AI strategies to rival AWS and Azure. New offerings include custom silicon and updated Vertex AI. Google targets AI-centric enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "originalUrl": "https://www.forbes.com/sites/stevendickens/2023/09/01/google-unveils-new-ai-powered-cloud-technologies-taking-on-aws-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-us-government-denies-blocking-sales-of-ai-chips-to-middle-east.md",
+      "title": "US Government Denies Blocking Sales of AI Chips to Middle East",
+      "excerpt": "Nvidia and AMD do face expanded export rules for their A100 and H100 artificial intelligence (AI) chips in the Middle East, but it's not yet clear why.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
+      "originalUrl": "https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltf47e335d79fb3b2e/64f1e0af0517e34fb4df20d7/fingerprint_motherboard_Panther_Media_Alamy.jpg",
+          "width": 5650,
+          "height": 3560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-types-of-cyberthreats.md",
+      "title": "Types of cyberthreats",
+      "excerpt": "From malware attacks to zero-day exploits, unpack the cybersecurity threats organizations face today—and the threat actors behind them.\nThe post Types of cyberthreats appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
+      "originalUrl": "https://www.ibm.com/blog/types-of-cyberthreats/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T11:02:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-vettafis-artificial-intelligence-symposium-recap.md",
+      "title": "VettaFi’s Artificial Intelligence Symposium Recap",
+      "excerpt": "Nadig believes we are still learning about the capabilities of artificial intelligence. However, he ultimately thinks that it will make a significant impact in several different industries long term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/vettafis-artificial-intelligence-symposium-recap",
+      "originalUrl": "https://www.nasdaq.com/articles/vettafis-artificial-intelligence-symposium-recap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-02-seismologists-use-deep-learning-to-forecast-earthquakes.md",
+      "title": "Seismologists use deep learning to forecast earthquakes",
+      "excerpt": "To continue applying deep learning models to aftershock forecasting, Dascher-Cousineau says the field needs a better system for benchmarking. In order to demonstrate the capabilities of the RECAST model, the group first used an ETAS model to simulate an ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
+      "originalUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/seismologists-use-deep-1.jpg",
+          "width": 2128,
+          "height": 1022,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-seismologists-deep-earthquakes.amp",
+      "publishedDateTime": "2023-09-01T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-02-techcrunch-roundup-finops-for-all-15-investors-who-are-taking-pitches-steve-blank-on-ai.md",
       "title": "TechCrunch+ Roundup: FinOps for all, 15 investors who are taking pitches, Steve Blank on AI",
       "excerpt": "Known as the progenitor of the lean startup movement, entrepreneur/educator Steve Blank says generative AI is far more than a typical hype cycle. Thanks to the “dumb money” investors are slapping down and the tech’s labor-saving potential ...",
@@ -962,237 +1169,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-this-little-known-software-maker-can-rally-nearly-30-as-it-monetizes-ai-bank-of-america-says.md",
-      "title": "This little-known software maker can rally nearly 30% as it monetizes AI, Bank of America says",
-      "excerpt": "This under-the-radar software name looks well-situated to capitalize on the generative AI craze overtaking Wall Street, according to Bank of America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/01/this-software-maker-can-rally-on-ai-monetization-bank-of-america-says-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107000275-1642015028719-gettyimages-1046078096-US_STOCKS.jpeg?v=1693567467&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T02:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-natural-language-processing-market-size-analysis-insights-and-forecast-to-2030.md",
-      "title": "Natural Language Processing Market Size Analysis: Insights and Forecast to 2030",
-      "excerpt": "The global Natural Language Processing market size was valued at USD 13017.98 million in 2022 and is expected to expand at a CAGR of 18.27% during the forecast period, reaching USD 35630.81 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34165912/natural-language-processing-market-size-analysis-insights-and-forecast-to-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34165912/natural-language-processing-market-size-analysis-insights-and-forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34165912",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34165912",
-      "publishedDateTime": "2023-09-01T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies.md",
-      "title": "Harnessing AI In The Recruitment Process Is Increasingly Important For Companies",
-      "excerpt": "Many companies struggle with hiring great candidates because they are not messaging the right candidates and/or they are not messaging them correctly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
-      "originalUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ef5c7368a912b40c1e813e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1178,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/01/harnessing-ai-in-the-recruitment-process-is-increasingly-important-for-companies/amp/",
-      "publishedDateTime": "2023-09-01T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft.md",
-      "title": "Google DeepMind co-founder calls for US to enforce AI standards - FT",
-      "excerpt": "Sept 1 (Reuters) - The U.S. should allow Nvidia's NVDA.Oartificial intelligence (AI) chips only to buyers who agree to ethically use the technology, Google DeepMind's co-founder Mustafa Suleyman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-co-founder-calls-for-us-to-enforce-ai-standards-ft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-morgan-stanley-names-this-tech-stock-a-top-pick-says-ai-server-demand-could-boost-it-by-nearly-25.md",
-      "title": "Morgan Stanley names this tech stock a top pick, says AI server demand could boost it by nearly 25%",
-      "excerpt": "Growing demand for artificial intelligence servers should boost shares of Dell Technologies over the long haul, according to Morgan Stanley. Analyst Erik Woodring named Dell a top pick within the IT hardware space,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html",
-      "originalUrl": "https://www.cnbc.com/2023/09/01/ai-server-demand-could-boost-this-stock-nearly-25percent-morgan-stanley-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105927659-1558537836009gettyimages-181792558.jpeg?v=1693562613&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-01T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

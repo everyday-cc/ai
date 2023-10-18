@@ -41,22 +41,6 @@ related:
         width: 876
         height: 640
         isCached: true
-  - title: "GM's Cruise Fine Tunes Self-Driving Safety For Easier Coexistence With Emergency Responders"
-    excerpt: "However, less than two weeks later, the California Department of Motor Vehicles (DMV) directed Cruise to withdraw 50% of its autonomous vehicles from the roads after one of its self-driving cars collided with an emergency vehicle. Check out more of ..."
-    publishedDateTime: 2023-10-13T10:03:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35236128/gms-cruise-fine-tunes-self-driving-safety-for-easier-coexistence-with-emergency-responders"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35236128"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35236128"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/GM_Cruise.jpeg?width=1200&height=800&fit=crop"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "The Ethics Of Self-Driving Cars Making Deadly Decisions"
     excerpt: "Self-driving cars are starting to pop up everywhere as companies slowly begin to test and improve them for the commercial market. Heck, Google’s self-driving car actually has its very own driver ..."
     publishedDateTime: 2023-10-14T00:00:00Z

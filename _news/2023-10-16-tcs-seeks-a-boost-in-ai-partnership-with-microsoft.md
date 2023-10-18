@@ -196,20 +196,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Microsoft will pay you up to $15,000 to bait AI-powered Bing"
-    excerpt: "Microsoft cordially invites you to have a crack at tipping its new AI-powered Bing search tools into existential meltdown. And it will pay you up to $15,000 for your trouble. Well, it will if you manage to bait AI Bing in just the right way."
-    publishedDateTime: 2023-10-13T10:47:00Z
-    webUrl: "https://www.pcgamer.com/microsoft-will-pay-you-up-to-dollar15000-to-bait-ai-powered-bing/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yLUJefzpgZfJpEoPzUUMXU-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft’s New AI Bug Bounty Program Has Rewards Up To $15K"
     excerpt: "Microsoft's new AI bug bounty program offers rewards up to $15,000 for finding vulnerabilities in Bing's AI features,"
     publishedDateTime: 2023-10-16T20:55:00Z

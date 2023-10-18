@@ -25,54 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Challenges in implementing 'normative' AI guidelines, say researchers"
-    excerpt: "Reviewing global guidelines around the use of AI, researchers found that while most of the guidelines valued privacy, transparency, and accountability, very few valued truthfulness, intellectual property, or children's rights."
-    publishedDateTime: 2023-10-16T08:47:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html"
+  - title: "Researchers measure global consensus over the ethical use of AI"
+    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
+    publishedDateTime: 2023-10-14T01:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 59
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/AI-Artificial-intelligence-machine-learning-neural-networks-IOT-automation-shut.jpg"
-        width: 760
-        height: 443
-        isCached: true
-  - title: "Global AI guidelines 'normative', unclear about implementation, say researchers"
-    excerpt: "To determine if a global consensus existed regarding the use of artificial intelligence (AI), the researchers identified and analysed 200 documents related to AI ethics and governance published between 2014 and 2022 from 37 countries and six continents and written or translated into five different languages - English,"
-    publishedDateTime: 2023-10-15T05:47:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/global-ai-guidelines-normative-unclear-about-implementation-say-researchers/articleshow/104437209.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/global-ai-guidelines-normative-unclear-about-implementation-say-researchers/amp_articleshow/104437209.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/global-ai-guidelines-normative-unclear-about-implementation-say-researchers/amp_articleshow/104437209.cms"
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
+  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
+    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
+    publishedDateTime: 2023-10-16T18:24:00Z
+    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-209268,msid-104437235/file-photo-illustration-shows-ai-artificial-intelligence-letters-and-robot-miniature.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "\"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI"
-    excerpt: "Read more about \"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI on Devdiscourse"
-    publishedDateTime: 2023-10-15T04:50:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 42
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280"
-        width: 1280
-        height: 1024
-        isCached: true
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
 
 secured: "Nj/MDzVH6inxSiKfP6HlaDXfQpJjZduASTvoVlcxIVA04SJc5Ks5Y2+jFgkU22dKJzk5GbvRU7zo+lriKJXgHnBWb2O2fRn0I605ZfpTVp8t2Bmpu+pKjkFrzlpoA4BVExHeH1AStptOv5Pqlm+W/nrSgihe3WnNHEIKBPgUzBfnvioB75bBtHdn4hP38AgNGG/tuLMVmSfoAe8x+netuVsKNI8/paRGuYRRunPrHcc4FFNZqw5WqHQxHc8QQAy37AyVCxJNPELlc0AKGiNW5JnYjQe5lw5MIpKHPWJSNLPN+284yxUoWy0FueSgp8Gmd5fVKyb9BzjxlJCSeYNLg/t2bNRFonJ4fnvJBKJ4ju0=;T3GpWbwf5LsYjzdPUWVmaA=="
 ---

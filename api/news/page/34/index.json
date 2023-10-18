@@ -2,6 +2,220 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2023-09-21-computer-vision-reveals-the-working-of-lithium-ion-batteries-in-detail.md",
+      "title": "Computer vision reveals the working of lithium-ion batteries in detail",
+      "excerpt": "A rechargeable lithium-ion battery consists of electrodes- responsible for storing charge and making it available when needed to do work. As shown in X-ray movies, these electrodes pack billions of tiny particles inside,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
+      "originalUrl": "https://www.bahrainthisweek.com/computer-vision-reveals-working-lithium-ion-batteries-detail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bahrainthisweek.com/wp-content/uploads/2023/09/computer-vision-1.jpg",
+          "width": 1280,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bahrainthisweek",
+        "domain": "bahrainthisweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-top-indian-actor-wins-landmark-case-against-ai.md",
+      "title": "Top Indian actor wins landmark case against AI",
+      "excerpt": "Anil Kapoor, one of India's leading actors and most recognizable faces, has just won a landmark ruling against artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase",
+      "originalUrl": "https://mashable.com/article/anil-kapoor-artificial-intelligence-landmark-caase",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02oJ3Q5kNMdqJONzAJUpzK1/hero-image.fill.size_1200x675.v1695287936.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-fintech-saas-startup-perfios-acquires-open-finance-platform-fegoai.md",
+      "title": "Fintech SaaS Startup Perfios Acquires Open Finance Platform Fego.ai",
+      "excerpt": "Fintech SaaS startup Perfios has acquired Chennai-based open finance platform Fego.ai. Fego.ai is Perfios’ third acquisition, having picked up Karza Technologies in 2022 and FinTechLabs in 2019.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/",
+      "originalUrl": "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.inc42.com/wp-content/uploads/2023/09/Acquisition.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-saas-startup-perfios-acquires-open-finance-platform-fego-ai/amp/",
+      "publishedDateTime": "2023-09-21T00:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions.md",
+      "title": "DS Smith plc: DS Smith selects AWS as its preferred cloud provider to accelerate digital transformation and support sustainable solutions",
+      "excerpt": "Leading sustainable packaging provider, DS Smith plc, today announced it has selected Amazon Web Services (AWS) as its preferred cloud provider to accelerate innovation, drive efficiencies, and suppor",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60167956-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-09/60167956-ds-smith-plc-ds-smith-selects-aws-as-its-preferred-cloud-provider-to-accelerate-digital-transformation-and-support-sustainable-solutions-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-21T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-21-6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace.md",
+      "title": "6 Ways Leaders Are Using AI To Drive Innovation In The Workplace",
+      "excerpt": "What can leaders do to implement AI in a way that enables people to do their best work, instead of substituting talent or compromising ethics? Read on for six strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650bd0ae09a39873da8b5730/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/09/21/6-ways-leaders-are-using-ai-to-drive-innovation-in-the-workplace/amp/",
+      "publishedDateTime": "2023-09-20T22:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-21-a-randomized-trial-of-robot-assisted-laparoscopic-radical-cystectomy.md",
       "title": "A Randomized Trial of Robot-Assisted Laparoscopic Radical Cystectomy",
       "excerpt": "We report the results of a randomized, controlled trial (ClinicalTrials.gov number, NCT01076387) designed to assess whether robot-assisted laparoscopic radical cystectomy would be associated with ...",
@@ -918,255 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-spear-phishing-vs-phishing-whats-the-difference.md",
-      "title": "Spear phishing vs. phishing: what’s the difference?",
-      "excerpt": "Learn what sets apart a spear phishing attack from a bulk phishing attack—and how you can better protect your organization against these threats.\nThe post Spear phishing vs. phishing: what’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/spear-phishing-vs-standard-phishing-attacks/",
-      "originalUrl": "https://www.ibm.com/blog/spear-phishing-vs-standard-phishing-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/181015_Bohler_WorkingWorld_1122.jpg",
-          "width": 2389,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics.md",
-      "title": "Reimagining Hotel Operations and Guest Experiences Through the Integration of AI and Robotics",
-      "excerpt": "The hospitality industry is one of many who has taken notice and advantage of the remarkable advancements of technology in recent years. Innovative solutions in the fields of artificial intelligence (AI) and robotics are quickly",
-      "sourceUrl": null,
-      "webUrl": "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/",
-      "originalUrl": "https://hoteltechnologynews.com/2023/09/reimagining-hotel-operations-and-guest-experiences-through-the-integration-of-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hoteltechnologynews.com/wp-content/uploads/2023/09/Picture4-1.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hoteltechnologynews",
-        "domain": "hoteltechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch.md",
-      "title": "AI-Infused RPG Studio Spectarium Raises Over $5 Million, Eyes 2024 Launch",
-      "excerpt": "Spectarium aims to harness the power of AI to offer a TikTok-style individualized approach to the action RPG genre.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/",
-      "originalUrl": "https://www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650a0570b6f293d0c40c8740/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattgardner1/2023/09/20/ai-infused-rpg-studio-spectarium-raises-over-5-million-eyes-2024-launch/amp/",
-      "publishedDateTime": "2023-09-20T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-artificial-intelligence-and-the-boardroom-immediate-action-items.md",
-      "title": "Artificial Intelligence And The Boardroom: Immediate Action Items",
-      "excerpt": "For business leaders, AI is an unstoppable game-changer. It is the ability to improve productivity and performance and discover new products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/",
-      "originalUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650af1d514fa9125c2bba903/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
-      "publishedDateTime": "2023-09-20T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-artificial-intelligence-and-the-boardroom-immediate-actions-items.md",
-      "title": "Artificial Intelligence And The Boardroom: Immediate Actions Items",
-      "excerpt": "For business leaders, AI is an unstoppable game-changer. It is the ability to improve productivity and performance and discover new products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/?n=_Z%5CK",
-      "originalUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/?n=_Z%5CK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/650af1d514fa9125c2bba903/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patricialenkov/2023/09/20/artificial-intelligence-and-the-boardroom-immediate-actions-items/amp/",
-      "publishedDateTime": "2023-09-20T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

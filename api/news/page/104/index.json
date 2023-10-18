@@ -2,6 +2,255 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-08-04-5-critical-steps-it-leaders-must-take-to-govern-generative-ai.md",
+      "title": "5 Critical Steps IT Leaders Must Take To Govern Generative AI",
+      "excerpt": "Generative AI adoption is only exacerbating governance challenges inside organizations. Here’s how IT leaders can exercise safe and responsible adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cbf57aad78267fea960ea8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/delltechnologies/2023/08/03/5-critical-steps-it-leaders-must-take-to-govern-generative-ai/amp/",
+      "publishedDateTime": "2023-08-03T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-neuromorphic-chip-market-surges-as-ai-revolutionizes-computing-future-market-insights.md",
+      "title": "Neuromorphic Chip Market Surges as AI Revolutionizes Computing – Future Market Insights",
+      "excerpt": "Vertical (Aerospace & Defence, Automotive, Consumer Electronics, Healthcare, Industrial) & Region - Forecast to 2016 - 2026",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2023/08/03/neuromorphic-chip-market-surges-as-ai-revolutionizes-computing-future-market-insights/",
+      "originalUrl": "https://www.fmiblog.com/2023/08/03/neuromorphic-chip-market-surges-as-ai-revolutionizes-computing-future-market-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2023/08/SpatialLightModulators-420x300.jpg",
+          "width": 420,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies.md",
+      "title": "Moonware’s AI lets airfield ground crews ditch the walkies",
+      "excerpt": "The startup’s cofounders, Vidal and Saunon Malekshahi ... It’s a solution that Malekshahi likened to an AI-enabled “ground traffic control platform,” similar to how air traffic control (ATC) directs aircraft on the ground and in airspace today.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/",
+      "originalUrl": "https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1242900989.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/03/moonwares-ai-lets-airfield-ground-crews-ditch-the-walkies/amp/",
+      "publishedDateTime": "2023-08-03T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-its-time-for-all-companiesand-their-employeesto-start-experimenting-with-ai.md",
+      "title": "It’s Time For All Companies—And Their Employees—To Start Experimenting With AI",
+      "excerpt": "AI makes us all more productive by augmenting, enlightening or curating tasks that once took hours and iterations but can now be finalized in seconds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64cbc8b9d3dc8e7757960eac/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/08/03/its-time-for-all-companies-and-their-employees-to-start-experimenting-with-ai/amp/",
+      "publishedDateTime": "2023-08-03T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker.md",
+      "title": "Scale training and inference of thousands of ML models with Amazon SageMaker",
+      "excerpt": "Training and serving thousands of models requires a robust and scalable infrastructure, which is where Amazon SageMaker can help. SageMaker is a fully managed platform that enables developers and data scientists to build, train, and deploy ML models quickly, while also offering the cost-saving benefits",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scale-training-and-inference-of-thousands-of-ml-models-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/21/ML_14247_001-982x630.jpg",
+          "width": 982,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T08:05:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-build-and-train-computer-vision-models-to-detect-car-positions-in-images-using-amazon-sagemaker-and-amazon-rekognition.md",
       "title": "Build and train computer vision models to detect car positions in images using Amazon SageMaker and Amazon Rekognition",
       "excerpt": "Computer vision (CV) is one of the most common applications of machine learning (ML) and deep learning. Use cases range from self-driving cars, content moderation on social media platforms, cancer detection, and automated defect detection. Amazon Rekognition is a fully managed service that can perform",
@@ -923,220 +1172,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-womans-ai-bionic-arm-is-fitted-after-tube-near-death-experience.md",
-      "title": "Woman's AI bionic arm is fitted after Tube near-death experience",
-      "excerpt": "A woman has had an AI bionic arm fitted nine months after receiving life-changing injuries at a Tube station. Sarah de Lagarde was run over by two London Underground trains at High Barnet Station in September 2022, with her arm and leg needing to be amputated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-england-london-66372057",
-      "originalUrl": "https://www.bbc.com/news/av/uk-england-london-66372057",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D822/production/_130603355_p0g40jxs.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face.md",
-      "title": "IBM and NASA deploy open-source geospatial AI foundation model on Hugging Face",
-      "excerpt": "IBM and NASA announce the availability of watsonx.ai geospatial foundation model on Hugging Face, the leading community for open AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/",
-      "originalUrl": "https://venturebeat.com/ai/ibm-and-nasa-deploy-open-source-geospatial-ai-foundation-model-on-hugging-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/space.GettyImages-956550722.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-jambojet-adds-one-new-aircraft-amid-growing-demand.md",
-      "title": "Jambojet adds one new aircraft amid growing demand",
-      "excerpt": "Low-cost airline Jambojet has added a new aircraft to its fleet to meet the growing demand for air travel. The addition brings its Kenya breaking news | Kenya news today |",
-      "sourceUrl": null,
-      "webUrl": "https://www.capitalfm.co.ke/business/2023/08/jambojet-adds-one-new-aircraft-amid-growing-demand/",
-      "originalUrl": "https://www.capitalfm.co.ke/business/2023/08/jambojet-adds-one-new-aircraft-amid-growing-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.capitalfm.co.ke/business/files/2023/08/075_porzycki-twitterx230801_npkUg-e1690871014484-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Capital FM",
-        "domain": "capitalfm.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029.md",
-      "title": "Artificial Intelligence In Healthcare Sector Market Status and Outlook 2023-2029",
-      "excerpt": "The Artificial Intelligence In Healthcare Sector market report highlights information regarding the current and future industry trends, growth patterns, as well as it offers business strategies to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542225/artificial-intelligence-in-healthcare-sector-market-status-and-outlook-2023-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029.md",
-      "title": "Intelligent Speech Recognition Software Market Latest Trends, Demands and Advancements 2023 to 2029",
-      "excerpt": "The Global Intelligent Speech Recognition Software Market report focuses on an comprehensive analysis of the current and future prospects of the Intelligent Speech Recognition Software industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33542189/intelligent-speech-recognition-software-market-latest-trends-demands-and-advancements-2023-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T23:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

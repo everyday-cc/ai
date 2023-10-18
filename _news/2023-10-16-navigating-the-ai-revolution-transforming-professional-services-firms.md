@@ -23,146 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "Navigating Ethical AI And The Future Of Automation"
-    excerpt: "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles."
-    publishedDateTime: 2023-10-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+  - title: "Revolutionizing Web: Meta's AI Takeover"
+    excerpt: "Andreessen helped in 1993 to write Mosaic, the base code for the Netscape web browser. After Netscape was acquired in 1998 by AOL for $4.3 billion, Andreessen and his partner Ben Horowitz became noted angel investors in the San Francisco bay area. Their namesake venture capital firm was officially founded in 2009."
+    publishedDateTime: 2023-10-18T01:39:00Z
+    webUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/"
+    ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65281e618a11dedf60f87672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/646e94a03689a199465f411d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1201
+        height: 900
         isCached: true
-  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
-    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
-    publishedDateTime: 2023-10-14T21:13:00Z
-    webUrl: "https://thethaiger.com/ph/news/555161/"
+  - title: "Sparta aims to revolutionize commodity trading with AI-driven forecasting"
+    excerpt: "VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More Sparta, a startup that provides live market intelligence and forecasting insight for commodity traders ..."
+    publishedDateTime: 2023-10-13T19:35:00Z
+    webUrl: "https://venturebeat.com/ai/sparta-aims-to-revolutionize-commodity-trading-with-ai-driven-forecasting/"
     type: article
     provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 72
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
-  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
-    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
-    publishedDateTime: 2023-10-17T04:51:00Z
-    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Researchers measure global consensus over the ethical use of AI"
-    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
-    publishedDateTime: 2023-10-14T01:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "ICCO Ratifies Principles For Ethical Use Of AI In Public Relations"
-    excerpt: "has ratified its principles for the ethical use of AI in public relations during the 2023 ICCO Global Summit. Christina Forsgaard, founder of Netprofile Finland and ICCO's ethics chair, spearheaded the authoring of the principles, launched at the two-day ..."
-    publishedDateTime: 2023-10-16T23:41:00Z
-    webUrl: "https://menafn.com/1107251398/ICCO-Ratifies-Principles-For-Ethical-Use-Of-AI-In-Public-Relations"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/16/P_65462image_story.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Opinion: Let’s build an ethical AI culture for all"
-    excerpt: "Building inclusive, fair artificial intelligence systems requires intentional work at all phases of development and use."
-    publishedDateTime: 2023-10-17T04:26:00Z
-    webUrl: "https://www.ajc.com/opinion/opinion-lets-build-an-ethical-ai-culture-for-all/2WSUJSEJUBBNLHE7CPRHG3A4B4/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/IlT2nFs-FjFwMrls5_8HOY3Vh_M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ORKY32J2M3N66YZY6O5OYGISYA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Psychiatry Expert: Projecting Autonomy and The Human Fascination with AI Minds"
-    excerpt: "The human inclination to anthropomorphize AI and project autonomy onto it is a multifaceted phenomenon driven by a complex interplay of psychological and cognitive factors."
-    publishedDateTime: 2023-10-16T13:00:00Z
-    webUrl: "https://www.newsweek.com/psychiatry-expert-projecting-autonomy-human-fascination-ai-minds-1834589"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 45
-  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
-    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
-    publishedDateTime: 2023-10-16T18:24:00Z
-    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
-  - title: "Celestica Launches its Next Generation 800G Switch, Powering Artificial Intelligence and Advancing Data Center Connectivity for the Future"
-    excerpt: "Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, hardware platform and supply chain solutions for the world’s most innovative companies, today launched its DS5000 high-performance 800GbE switch,"
-    publishedDateTime: 2023-10-16T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/celestica-launches-its-next-generation-800g-switch-powering-artificial-intelligence-and-advancing-data-center-connectivity-for-the-future-1032708341"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 46
 
 secured: "DLl+uxfsOaDEjKSMueBvAxVi/b8P4/F57sQgiUD6TNbcaOrP9sxC7Fe+uOmM+8Xj3JZ/e+09ulzcZ0STLejvyBaHuirf3lH4vnCp6sp3n9Jnse6nB1esXFn62Xp/dt0HSk4nTaLsnvve017sPsohOQdo41pB0vQ7POHQvIZqnuDAwpKAqyGW4VjrcbiiX9ndfhXSPzoBPcEP299/JuaYAyA0MkaLKWo/aBeukd7e8i0fytmsqq9jzv8TeQIn7wTT9zJ0wocyuKZ4gpBmhSARslnnVVajZrWQfL7tlkRC3kKfJE+zUnGb0oPDbRSpZXABxfZd9oOH/s3vyy/gJJw24H9oP/Dn0miAZdY/dieo/uwonRcOMPl6X6yMCbWdMtgS23TUUskVtzEwIeFn01j/BaQg0/YK41LFAn1i9IZDMDWVDbreCOcb1ndBw2mGl4PvpixqRB3zcBoo09bLeHHD9D6pgYWWjtp9MrUeEupA5wVBiuLFf34Nyh29fz8XGwI+CNZNgsw3PrbewZWKxkbUKA==;At2J+itpuDTZguO/xFBJpA=="
 ---

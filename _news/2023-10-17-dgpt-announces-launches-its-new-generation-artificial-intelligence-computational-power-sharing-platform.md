@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "AI startup Leucine raises $7m for drug manufacturing digital twin platform"
     excerpt: "As AI applications in drug manufacturing widen, Leucine’s digital twin of the shop floor helps automate compliance and improve safety."
     publishedDateTime: 2023-10-17T10:18:00Z

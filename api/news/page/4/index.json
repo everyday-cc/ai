@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-10-15-i-do-menial-jobs-to-raise-money-for-building-robots-chima.md",
+      "title": "I do menial jobs to raise money for building robots — Chima",
+      "excerpt": "At times, it could take a month, or some weeks to create a robot with carton boxes, packaging foams, plywood, and other electronic components",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
+      "originalUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2023/10/14210723/CHIMA-EMMANUEL.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
+      "publishedDateTime": "2023-10-14T15:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-15-how-roboticists-are-thinking-about-generative-ai.md",
       "title": "How roboticists are thinking about generative AI",
       "excerpt": "It’s not exactly right, but I don’t have to start from zero. It’s giving me 70% ... the MIT CSAIL head explained how researchers are using generative AI to actually design the robots: It turns out that generative AI can be quite powerful for solving ...",
@@ -148,6 +191,92 @@
       ]
     },
     {
+      "path": "_news/2023-10-14-7-working-groups-submit-final-indiaai-report-on-ai-development.md",
+      "title": "7 working groups submit final IndiaAI report on AI development",
+      "excerpt": "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "originalUrl": "https://inshorts.com/en/news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/14_sat/img_1697258837931_506.jpg?",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/7-working-groups-submit-final-indiaai-report-on-ai-development-1697261110370",
+      "publishedDateTime": "2023-10-13T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-14-weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east.md",
+      "title": "Weather prediction with AI, deep learning could be game-changer in North East",
+      "excerpt": "Be it the flood in Assam in 2022 or the flash flood in Sikkim this year, extreme events are causing immense devastation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.html",
+      "originalUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/24/w600X390/Climatic_Disaster_Photos_2020_AP.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/xplore/2023/oct/14/weather-prediction-with-ai-deep-learning-could-be-game-changer-in-north-east-2623716.amp",
+      "publishedDateTime": "2023-10-13T21:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-shipbuilders-embrace-robotics-amid-labor-shortage.md",
       "title": "Shipbuilders embrace robotics amid labor shortage",
       "excerpt": "Once the transformation is completed, the automated manufacturing process using robots and artificial intelligence will be seen in shipyards. Earlier this year, Hanwha Ocean succeeded in developing a collaborative robot that can weld a vessel’s plumbing.",
@@ -187,6 +316,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-14-researchers-measure-global-consensus-over-the-ethical-use-of-ai.md",
+      "title": "Researchers measure global consensus over the ethical use of AI",
+      "excerpt": "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231013114923.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231013114923.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-13T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1013,205 +1185,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-will-consumers-buy-selfish-self-driving-cars.md",
-      "title": "Will Consumers Buy ‘Selfish’ Self-Driving Cars?",
-      "excerpt": "When it comes to prioritizing the safety of passengers over bystanders, makers of autonomous vehicles have to walk a fine line.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self-driving-cars-73ac7d52",
-      "originalUrl": "https://www.wsj.com/business/autos/will-consumers-buy-selfish-self-driving-cars-73ac7d52",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-868014/social",
-          "width": 876,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-new-ai-algorithm-promises-defense-against-cyberattacks-on-robots.md",
-      "title": "New AI algorithm promises defense against cyberattacks on robots",
-      "excerpt": "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
-      "originalUrl": "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert.md",
-      "title": "Why Employee Recognition Doesn’t Work: My Confession as a “So-Called” Expert",
-      "excerpt": "uh oh. Sometimes blind spots teach us the most valuable lessons. Rewind about 8 years ago. I was on a stage giving a speech about the power of employee recognition. There were probably three or four hundred people in the audience. I told some jokes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/",
-      "originalUrl": "https://www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6528f89b7abb85f6cb8f2a1a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1345,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/toddnordstrom/2023/10/13/why-employee-recognition-doesnt-work-my-confession-as-a-so-called-expert/amp/",
-      "publishedDateTime": "2023-10-13T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-1-hot-artificial-intelligence-ai-stock-im-buying-more-of-in-october.md",
-      "title": "1 Hot Artificial Intelligence (AI) Stock I'm Buying More of in October",
-      "excerpt": "It does this by utilizing a segment of AI known as machine learning. By analyzing trillions of signals weekly, CrowdStrike's platform knows what is normal activity and what is a threat. This was a key innovation when CrowdStrike first came on the scene, but now multiple competitors offer the same product.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/13/1-hot-artificial-intelligence-ai-stock-im-buying-i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/749900/it-team-solving-a-problem.jpg",
-          "width": 2309,
-          "height": 1299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

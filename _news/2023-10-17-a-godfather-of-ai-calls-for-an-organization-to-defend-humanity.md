@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-17T09:59:00Z
 originalUrl: "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/"
 webUrl: "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/652dd6796e42fd8f18e64109/191:100/w_1280,c_limit/GettyImages-1692966368.jpg"

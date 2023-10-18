@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-16-why-everyone-has-a-role-in-creating-ai-ethics-standards.md",
+      "title": "Why Everyone Has A Role In Creating AI Ethics Standards",
+      "excerpt": "As AI steadily integrates into our daily lives, ethical dilemmas have come to the forefront. I firmly believe that this duty extends beyond government boundaries; it's a shared responsibility encompassing each and every one of us, especially business leaders working with or on AI technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-16T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai.md",
       "title": "Microsoft unveils extensions to Fabric, Azure for healthcare AI",
       "excerpt": "These new offerings seek to bring together multiple modalities of medical data for greater analysis, and also bring large language models to clinicians' side as medical copilots.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 376,
+      "heat": 366,
       "tags": null,
       "images": [
         {
@@ -457,7 +509,7 @@
       "originalUrl": "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -602,7 +654,7 @@
       "originalUrl": "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -980,7 +1032,7 @@
       "originalUrl": "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1167,49 +1219,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-15-i-do-menial-jobs-to-raise-money-for-building-robots-chima.md",
-      "title": "I do menial jobs to raise money for building robots — Chima",
-      "excerpt": "At times, it could take a month, or some weeks to create a robot with carton boxes, packaging foams, plywood, and other electronic components",
-      "sourceUrl": null,
-      "webUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
-      "originalUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.punchng.com/wp-content/uploads/2023/10/14210723/CHIMA-EMMANUEL.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
-      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/i-do-menial-jobs-to-raise-money-for-building-robots-chima/?amp",
-      "publishedDateTime": "2023-10-14T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Punch Newspapers",
-        "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

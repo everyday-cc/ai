@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-06-transforming-restaurants-kaikakus-robots-to-augment-human-capabilities.md",
+      "title": "Transforming Restaurants: KAIKAKU's Robots to Augment Human Capabilities",
+      "excerpt": "The Gen-AI craze has largely overshadowed the revolutions bringing AI to the physical world: Robotics. A 22-year-old serial entrepreneur is embracing both AI and Robotics to revolutionise the way we c",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/ab34253903/transforming-restaurants-kaikakus-robots-to-augment-human-capabilities",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/ab34253903/transforming-restaurants-kaikakus-robots-to-augment-human-capabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34253903",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34253903",
+      "publishedDateTime": "2023-09-05T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-05-robot-software-firm-mujin-raises-85m.md",
       "title": "Robot software firm Mujin raises $85M",
       "excerpt": "An increasing number of companies are looking to automate as a shortage of skilled workers is expected to take a toll on manufacturers through 2030.  Mujin, a Japan-based robotics platform developing company,",
@@ -1339,51 +1382,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-robots-and-artificial-intelligence.md",
-      "title": "Robots and Artificial Intelligence",
-      "excerpt": "Lindsay to discuss how artificial intelligence is reshaping great power competition and intensifying the geopolitical rivalry between China and the United States. Heidi A. Campbell, professor of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-09-28-oil-and-gas-cos-increasing-machine-learning-and-ai-adoption.md",
+      "title": "Oil and Gas Cos Increasing Machine Learning and AI Adoption",
+      "excerpt": "Organizations across the oil and gas industry are increasing their adoption of machine learning and artificial intelligence, according to AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "originalUrl": "https://www.rigzone.com/news/oil_and_gas_cos_increasing_machine_learning_and_ai_adoption-28-sep-2023-174165-article/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rigzone",
+        "domain": "rigzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-28-cloudfabrix-announces-ai-driven-telco-service-assurance-and-automation-solution-with-multiple-tier1-telco-wins.md",
       "title": "CloudFabrix Announces AI-driven Telco Service Assurance and Automation Solution With Multiple Tier1 Telco Wins",
       "excerpt": "CloudFabrix, the inventor of Robotic Data Automation Fabric Platform and the Data-centric AIOps Leader, today announced market momentum with its AI-driven Telco Service Assurance and Automation Solution and has launched a GSI Partner Program to build on its momentum.",
@@ -1200,40 +1234,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai-capabilities.md",
-      "title": "Oracle Continues MySQL HeatWave Innovation with Vector Store and New Generative AI Capabilities",
-      "excerpt": "MySQL HeatWave AutoML MySQL HeatWave provides in-database machine learning with a fully automated pipeline for training models. Customers don't need to move data to a separate machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai",
-      "originalUrl": "https://www.nasdaq.com/press-release/oracle-continues-mysql-heatwave-innovation-with-vector-store-and-new-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

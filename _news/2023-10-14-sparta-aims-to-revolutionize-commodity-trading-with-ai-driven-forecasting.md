@@ -38,6 +38,15 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
+    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
+    publishedDateTime: 2023-10-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "Vsh++Lvkb7uaEu8NmJrA+Wfi+8xpX11nKA0Rrby+SktPHvu3/AnhHVWzU6hsM7ohW5bzVQWJAUsdBU9cYuV+vjcg8COQRJMqEjxm8UoTu9P6JJxvLVohFjMxLCcZzlmA7c2q3zsZXsYkZ4J5zVD7Ta6j1J6MXif8tGkNLO7y4wZ+rCinbkwLhlEZvWFLXYvQj60xLEFw03D8XQWHP5L5eFrkSU1IKPH3R+ALwgYJ9dGNX5npbIme0vLsN3lkmS2THn5u8W2hYsNnud7JIIrS5C63oT7P5DIzTm+9rtAJqetsVoU0s/99ATcUYmsP5gAf1xV3tKxYiQaAMKuVv4eIZZLB7ovj01WUVSNhfbY3qs/9oS9a3fhRNqrPZhsUdKKC9bgnd/JLUoA8XdC9Jzeg5X819wOFmAdPSXdqs9WtJAEdfo+8HsoflDf7UeLzUCYk6G4Ee7Z+8OvculsSpL0rOUo1UBGb8H0AGWf6Ji5d7IJhXcjsJW6ZYq3vCsD8ZJT9Grm4XJs6x5hADIRYxt6eaA==;G7OsCS4wdB7cDQ5zh7al+Q=="
 ---

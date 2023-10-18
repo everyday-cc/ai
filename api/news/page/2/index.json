@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-17-application-monitoring-best-practices-whats-the-best-approach-for-your-business.md",
+      "title": "Application monitoring best practices: What’s the best approach for your business?",
+      "excerpt": "See the seven types of application monitoring—digital experience, application, Database and more—and what purposes each serves.\nThe post Application monitoring best practices: What’s the best approach for your business? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/application-monitoring-best-practices-whats-the-best-approach-for-your-business/",
+      "originalUrl": "https://www.ibm.com/blog/application-monitoring-best-practices-whats-the-best-approach-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-bahrain-set-to-become-top-hub-for-all-things-fintech.md",
       "title": "Bahrain ‘set to become top hub for all things fintech’",
       "excerpt": "Experts participating in Fintech Forward 2023 (FF23) at Exhibition World Bahrain were unanimous that the kingdom’s forward-looking outlook for up-and-coming technologies in fintech, open banking, cryptocurrencies, and a readiness to embrace AI advancements make it a magnet for fintechs looking set up and expand into the region.",
@@ -690,7 +732,7 @@
       "originalUrl": "https://www.cnn.com/2023/10/16/tech/adobe-max-sneaks-tools/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1166,58 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-why-everyone-has-a-role-in-creating-ai-ethics-standards.md",
-      "title": "Why Everyone Has A Role In Creating AI Ethics Standards",
-      "excerpt": "As AI steadily integrates into our daily lives, ethical dilemmas have come to the forefront. I firmly believe that this duty extends beyond government boundaries; it's a shared responsibility encompassing each and every one of us, especially business leaders working with or on AI technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-16T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

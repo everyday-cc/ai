@@ -7,7 +7,7 @@ originalUrl: "https://www.bridgemi.com/michigan-government/michigan-tries-curb-p
 webUrl: "https://www.bridgemi.com/michigan-government/michigan-tries-curb-political-deepfakes-artificial-intelligence-ads"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Michigan looks to regulate artificial intelligence use in political ads"
+    excerpt: "Deepfakes and other AI-generated campaign ad content would need clear disclaimers under a bipartisan bill package advancing in the House."
+    publishedDateTime: 2023-10-17T18:48:00Z
+    webUrl: "https://www.mlive.com/politics/2023/10/michigan-looks-to-regulate-artificial-intelligence-use-in-political-ads.html"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 17
   - title: "Months after launch, University of Michigan's new AI tools gain popularity"
     excerpt: "Two months after the debut of the U-M GPT AI, the program is already revolutionizing the way students at the University of Michigan learn and the way professors teach."
     publishedDateTime: 2023-10-16T13:50:00Z

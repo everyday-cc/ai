@@ -24,17 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Voice referendum: Double trouble for the Yes camp"
-    excerpt: "Yes campaigners in Queensland and Western Australia are ­bracing for a bruising defeat at Saturday’s referendum, despite a flurry of volunteer-driven last-minute action in the outlying states."
-    publishedDateTime: 2023-10-13T09:09:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/indigenous/voice-referendum-double-trouble-for-the-yes-camp/news-story/17cd73129567b5d7f502792461b9eec8"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
-
 secured: "aO96vNZlp+cZpnOmvOYWQytp379yBxPgoky3UFBnx0AOlGkAbQ2enZ/2brrSlPE7DP1ydSTlnpYuEZjrbDpxrhsTpKgBAHEHunVTi1fyzBtpgKsf+5X9WVgB/EY978g4KAEq3oiYud4iaPaE+9eiZsoQmy1Emm+IUpb599ddkvmXaF0Az3mfravysVyvOg8GscAb49j3uK0z8oP8vAuNO0PgVQ3DDldSXAG1bqko2KbpVoYpL8fdVFJlrm82PKSk2DJhmx73gLO8Xj09qMfflu5htyXqprILqsNlZjiNoHmBMsJtu6cX9sSzaoRRBWWdLiOauknqKYCdm7EL8+CYOKXQqm90gVHdyPFSTN9ghDw=;jKHbqPlQci1XwLoC7Eb5vg=="
 ---
 

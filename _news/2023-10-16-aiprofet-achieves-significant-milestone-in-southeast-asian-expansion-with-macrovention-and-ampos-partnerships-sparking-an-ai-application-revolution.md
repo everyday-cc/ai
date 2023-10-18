@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
     excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
     publishedDateTime: 2023-10-17T09:50:00Z

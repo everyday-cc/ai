@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-23-rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms.md",
+      "title": "Rise of The Robots: The New AI Tech Poised To Take Over Classrooms",
+      "excerpt": "Curiosity Robotics plans on taking the robotic helper to more schools across Israel and abroad. Undaunted by any current backlash to AI, the ambitious start-up is “committed to transforming ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
+      "originalUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/assets/v3/editorial/0/30/030d87a1-a1f5-5cc4-a90f-3eea2b9a51b6/64e4c536bf69f.image.jpg?resize=1024%2C577",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
+      "cdnAmpWebUrl": "https://www-dailyitem-com.cdn.ampproject.org/c/s/www.dailyitem.com/wire/rise-of-the-robots-the-new-ai-tech-poised-to-take-over-classrooms/article_6ed81450-fef0-5558-9d51-906eee932adc.amp.html",
+      "publishedDateTime": "2023-08-22T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-humanoid-robots-bring-artificial-intelligence-to-services.md",
       "title": "Humanoid robots bring artificial intelligence to services",
       "excerpt": "Holding, tilting and twisting a jug of milk to make latte art is no longer the unique skill of a barista -- a humanoid robot could recently be seen swirling hearts into cups of coffee in Beijing. At the 2023 World Robot Conference (WRC) kicked off last week in Beijing,",
@@ -1343,50 +1386,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon.md",
-      "title": "Mountain View Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS CLOSING SOON!",
-      "excerpt": "MOUNTAIN VIEW, Calif., Aug. 10, 2023 (GLOBE NEWSWIRE) -- Time is running out to apply to participate in the Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp hosted by ThoughtSpot in Mountain View. Applications for the no-cost bootcamp are closing soon!",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mountain-view-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-closing-soon-1032542192",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 341,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

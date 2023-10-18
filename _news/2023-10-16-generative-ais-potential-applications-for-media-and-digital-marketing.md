@@ -23,146 +23,68 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Navigating Ethical AI And The Future Of Automation"
-    excerpt: "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles."
-    publishedDateTime: 2023-10-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+  - title: "Democratizing AI with digital adoption platforms"
+    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
+    publishedDateTime: 2023-10-16T09:07:00Z
+    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65281e618a11dedf60f87672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
+        width: 1200
         height: 800
         isCached: true
-  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
-    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
-    publishedDateTime: 2023-10-14T21:13:00Z
-    webUrl: "https://thethaiger.com/ph/news/555161/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 72
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
-  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
-    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
-    publishedDateTime: 2023-10-17T04:51:00Z
-    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Researchers measure global consensus over the ethical use of AI"
-    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
-    publishedDateTime: 2023-10-14T01:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "ICCO Ratifies Principles For Ethical Use Of AI In Public Relations"
-    excerpt: "has ratified its principles for the ethical use of AI in public relations during the 2023 ICCO Global Summit. Christina Forsgaard, founder of Netprofile Finland and ICCO's ethics chair, spearheaded the authoring of the principles, launched at the two-day ..."
-    publishedDateTime: 2023-10-16T23:41:00Z
-    webUrl: "https://menafn.com/1107251398/ICCO-Ratifies-Principles-For-Ethical-Use-Of-AI-In-Public-Relations"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/16/P_65462image_story.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Opinion: Let’s build an ethical AI culture for all"
-    excerpt: "Building inclusive, fair artificial intelligence systems requires intentional work at all phases of development and use."
-    publishedDateTime: 2023-10-17T04:26:00Z
-    webUrl: "https://www.ajc.com/opinion/opinion-lets-build-an-ethical-ai-culture-for-all/2WSUJSEJUBBNLHE7CPRHG3A4B4/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/IlT2nFs-FjFwMrls5_8HOY3Vh_M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ORKY32J2M3N66YZY6O5OYGISYA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
-    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
-    publishedDateTime: 2023-10-16T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Psychiatry Expert: Projecting Autonomy and The Human Fascination with AI Minds"
-    excerpt: "The human inclination to anthropomorphize AI and project autonomy onto it is a multifaceted phenomenon driven by a complex interplay of psychological and cognitive factors."
-    publishedDateTime: 2023-10-16T13:00:00Z
-    webUrl: "https://www.newsweek.com/psychiatry-expert-projecting-autonomy-human-fascination-ai-minds-1834589"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 45
-  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
-    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
-    publishedDateTime: 2023-10-16T18:24:00Z
-    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
-  - title: "Celestica Launches its Next Generation 800G Switch, Powering Artificial Intelligence and Advancing Data Center Connectivity for the Future"
-    excerpt: "Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, hardware platform and supply chain solutions for the world’s most innovative companies, today launched its DS5000 high-performance 800GbE switch,"
-    publishedDateTime: 2023-10-16T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/celestica-launches-its-next-generation-800g-switch-powering-artificial-intelligence-and-advancing-data-center-connectivity-for-the-future-1032708341"
+  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
+    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
+    publishedDateTime: 2023-10-17T09:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 13
+    quality: 51
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AI startup Leucine raises $7m for drug manufacturing digital twin platform"
+    excerpt: "As AI applications in drug manufacturing widen, Leucine’s digital twin of the shop floor helps automate compliance and improve safety."
+    publishedDateTime: 2023-10-17T10:18:00Z
+    webUrl: "https://www.pharmaceutical-technology.com/news/ai-startup-leucine-raises-7m-for-drug-manufacturing-digital-twin-platform/"
+    type: article
+    provider:
+      name: Pharmaceutical Technology
+      domain: pharmaceutical-technology.com
+    quality: 35
+    images:
+      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/10/shutterstock_384031390.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
+    excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
+    publishedDateTime: 2023-10-17T13:25:00Z
+    webUrl: "https://www.fiercepharma.com/manufacturing/leucine-reaps-7m-series-money-fund-ai-digital-twin-platform-manufacturing"
+    type: article
+    provider:
+      name: FiercePharma
+      domain: fiercepharma.com
+    quality: 4
+  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
+    publishedDateTime: 2023-10-16T11:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "xIUgE693+N/chV88zDI7YOFEvsJxsCe38rAxU+fHviSYw/cxa7qmhJ+oEMb9FgtlZeusiuFvCyFJGqBYK9S+ZsVtyO7iqFkKPWvv0UgGj3C0CK4/7szL8fXt6lDjLjaK4XI7QrOVM3ovmn1xvuNfCIbt4X/5SkZGgVIvISbXpAHYew3k8HBReF/9bQs/OMZhC/sveejsdCB1ciNkZLQyMDrcMGEq1YkIelH+kSwkgcIjAc5FcTjnymX+fdqoBTbKlp6baOJqjoFmOJua0KbM2oAKGtZFRKuGaW1phEpgcnuAVmxl3ZpqGWfapqrphuF3Qwrf5I2KZTjDRxrTXm6BeXh3ArhmGN2XZCZkSyF03uATtFxUOLeVg/WEb4el8/ul8uAIDDRQEkhYmOb+4YG74JaBhWLw2hsTXrxlbFcuVGWZuhxXgSDkZb+HnsXWnmmqVyaa6D6aK7LHTVReqtPQ23tOnn02QrFvOWIWtcLwbxUFzkmrlZrPcf1WgpTBrsttDnlTpIOn4/G1YQiBvV9U2w==;y62OvppBdJUd00ggaFOM3A=="
 ---

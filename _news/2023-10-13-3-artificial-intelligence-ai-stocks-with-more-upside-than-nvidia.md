@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-up
 webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
 type: article
 quality: 84
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://images.barrons.com/im-91984761/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Nvidia teams with Foxconn to boost electric vehicle AI"
+    excerpt: "Foxconn, the world's biggest electronics manufacturer, announced a strategic partnership with Nvidia to accelerate the development of EVs."
+    publishedDateTime: 2023-10-18T03:00:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-teams-with-foxconn-to-boost-electric-vehicle-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-DRIVE-Thor.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
     excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
@@ -139,6 +153,20 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 32
+  - title: "NVIDIA Partners With Foxconn To Build Factories And Systems For The AI Industrial Revolution"
+    excerpt: "Foxconn will integrate NVIDIA technology to develop a new class of data centers powering a wide range of applications - including digitalization of manufacturing and inspection workflows, development of AI-powered electric vehicle and robotics platforms, and a growing number of language-based generative AI services."
+    publishedDateTime: 2023-10-18T03:52:00Z
+    webUrl: "https://menafn.com/1107261119/NVIDIA-Partners-With-Foxconn-To-Build-Factories-And-Systems-For-The-AI-Industrial-Revolution"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134962"
+        width: 444
+        height: 250
+        isCached: true
   - title: "Why Nvidia, Intel, Broadcom, and Other Artificial Intelligence (AI) Semiconductor Stocks Crumbled Tuesday Morning"
     excerpt: "Danny Vena has positions in Nvidia. The Motley Fool has positions in and recommends ASML, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy."
     publishedDateTime: 2023-10-17T19:47:00Z

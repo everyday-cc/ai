@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-w
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
+    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
+    publishedDateTime: 2023-10-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Sparta aims to revolutionize commodity trading with AI-driven forecasting"
     excerpt: "VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More Sparta, a startup that provides live market intelligence and forecasting insight for commodity traders ..."
     publishedDateTime: 2023-10-13T19:35:00Z

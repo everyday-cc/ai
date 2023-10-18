@@ -78,21 +78,19 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
-  - title: "How creative marketing giant WPP is preparing for generative AI"
-    excerpt: "Speaking at a Google Cloud event in London this week, WPP CTO Stephan Pretorious said that the company has had to go through a period of self reflection, asking itself these exact questions. WPP has been going through a cloud transformation journey,"
-    publishedDateTime: 2023-10-13T10:56:00Z
-    webUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai"
-    ampWebUrl: "https://diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-creative-marketing-giant-wpp-preparing-generative-ai?amp"
+  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
+    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
+    publishedDateTime: 2023-10-14T21:13:00Z
+    webUrl: "https://thethaiger.com/ph/news/555161/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 76
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 72
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2016-08/marketing-strategy.jpg"
-        width: 2062
-        height: 1366
+      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
+        width: 2560
+        height: 1709
         isCached: true
   - title: "Keeping an eye on your cattle using AI technology"
     excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
@@ -161,6 +159,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Confronting the long-term risks of Artificial Intelligence"
+    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
+    publishedDateTime: 2023-10-16T18:38:00Z
+    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 17
 
 secured: "7nxUu7RDMzqaOspjmhrgyZKKwf+mkRMY712uEF4aOhnek053RX1+yk8aOLlGqS/kSrbacVoLY5KGnPfKp2ZGQmGf7Bvd5yiiAGfa0dQfnyIxARJvBVjABP2dgb7fRW+E0nZIPQCj12jPKBdbw+NaPHBr4r4n/UNycAUEMXl8abvqTR5Xt/GhUuIHLXmo/vkaL2GeH30FMqcXi4IRdj3Awpcd5k9tA+pOhLUsXXs0hcpCMzGSAKElUnaz78Kd7UQ0SX+bRh+hi2Cx8UXbUk18T2XwOtgGogGrWp7cYrkhLkjAsesmO/3OW9gxymVyY79AXlnI0Elas5IOGbC2afhlfbvmeumCYo3ESUsj88QPnWs=;+gt7C27I7itTrSenPKHb8A=="
 ---

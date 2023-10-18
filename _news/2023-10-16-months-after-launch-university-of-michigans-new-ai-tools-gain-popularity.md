@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Michigan looks to regulate artificial intelligence use in political ads"
+    excerpt: "Deepfakes and other AI-generated campaign ad content would need clear disclaimers under a bipartisan bill package advancing in the House."
+    publishedDateTime: 2023-10-17T18:48:00Z
+    webUrl: "https://www.mlive.com/politics/2023/10/michigan-looks-to-regulate-artificial-intelligence-use-in-political-ads.html"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 17
   - title: "Michigan tries to curb political ‘deepfakes,’ artificial intelligence ads"
     excerpt: "Michigan would require disclaimers on political ‘deepfakes’ and campaign ads generated using artificial intelligence under bills approved Tuesday by the House Elections Committee."
     publishedDateTime: 2023-10-17T18:32:00Z

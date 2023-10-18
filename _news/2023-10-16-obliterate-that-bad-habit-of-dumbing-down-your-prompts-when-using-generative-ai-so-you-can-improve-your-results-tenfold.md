@@ -45,6 +45,36 @@ related:
         width: 1348
         height: 900
         isCached: true
+  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
+    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
+    publishedDateTime: 2023-10-18T02:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
+  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
+    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
+    publishedDateTime: 2023-10-17T04:51:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Keep Your AI Projects on Track"
     excerpt: "AI—and especially its newest star, generative AI—is today a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity."
     publishedDateTime: 2023-10-16T16:00:00Z

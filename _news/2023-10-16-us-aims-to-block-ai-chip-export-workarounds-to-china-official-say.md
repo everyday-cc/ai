@@ -71,20 +71,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Exclusive: Biden eyes adding AI chip curbs to Chinese companies abroad"
-    excerpt: "The Biden administration is considering closing a loophole that gives Chinese companies access to American artificial intelligence (AI) chips through units located overseas, according to four people familiar with the matter."
-    publishedDateTime: 2023-10-13T09:13:00Z
-    webUrl: "https://www.reuters.com/technology/biden-eyes-adding-ai-chip-curbs-chinese-companies-abroad-2023-10-13/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
     excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
     publishedDateTime: 2023-10-16T09:52:00Z
@@ -126,6 +112,20 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05wqDEjdDEkzyQnBECxr9tG-1.fit_lim.size_1200x630.v1697554685.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "How the US will cut off China from more AI chips"
+    excerpt: "The Biden administration on Tuesday issued a sweeping update to restrictions on exporting advanced artificial intelligence to China and other countries."
+    publishedDateTime: 2023-10-17T18:05:00Z
+    webUrl: "https://www.reuters.com/technology/how-us-will-cut-off-china-more-ai-chips-2023-10-17/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/paW-w8d7ely0cv3aYqwuml_RHQ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5R35K5J7YFJ3DDUQRVT67HNQO4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "US is Doubling Down on AI Chip Exports to China, Leaving Consumer-Level Chips Alone"
     excerpt: "The added regulations could either safeguard U.S. technological advancements or add another layer of complexity to U.S.-China relations."
@@ -260,20 +260,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 55
-  - title: "Biden considers tightening AI chip controls to China via third parties"
-    excerpt: "Sources close to the matter said the additional rules are expected to surface later this month and that the government is also working out ways to limit Chinese access to U.S. cloud computing services."
-    publishedDateTime: 2023-10-13T09:39:00Z
-    webUrl: "https://cointelegraph.com/news/biden-tightening-ai-chip-controls-china-third-parties"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 54
-    images:
-      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/0374f4b9-57b1-4876-bfa9-83c169310593.jpg"
-        width: 1200
-        height: 799
-        isCached: true
   - title: "US rule restricting AI chip shipments to China under final review"
     excerpt: "According to a US government posting a rule restricting shipments of specific advanced chips to China has been revised and is under final review"
     publishedDateTime: 2023-10-14T22:06:00Z
@@ -427,6 +413,20 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/e5f40b4a-dbc6-4d8a-8167-aa3f1c1b8f27.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "US tightens curbs on AI chip exports to China"
+    excerpt: "Washington, United States - The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips"
+    publishedDateTime: 2023-10-18T03:00:00Z
+    webUrl: "https://manilastandard.net/news/world-news/314381053/us-tightens-curbs-on-ai-chip-exports-to-china.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 54
+    images:
+      - url: "https://manilastandard.net/wp-content/uploads/2023/10/michael-dziedzic-aQYgUYwnCsM-unsplash-scaled.jpg"
+        width: 2560
+        height: 2012
         isCached: true
   - title: "What to Know About the U.S. Curbs on AI Chip Exports to China"
     excerpt: "The new rules aim to close loopholes that emerged from 2022 export control curbs, and to account for technological developments."

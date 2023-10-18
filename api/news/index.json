@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/10/17/revolutionizing-web-metas-ai-takeover/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -197,6 +197,58 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-10-18-pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge.md",
+      "title": "PyTorch ExecuTorch extends open source AI for new quests at the edge",
+      "excerpt": "ExecuTorch was validated and vetted by actual real-world engineering problems and Meta has already proven the technology with deployment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
+      "originalUrl": "https://venturebeat.com/ai/pytorch-executorch-extends-open-source-ai-for-new-quests-at-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_a_virtual_reality_headset_displaying_neon_fire_ab1a2c58-33f2-4f0d-ae81-e17de062897d.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1060,7 +1112,7 @@
       "originalUrl": "https://www.wired.com/story/ai-godfather-yoshua-bengio-humanity-defense/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1100,7 +1152,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1157,48 +1210,6 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-application-monitoring-best-practices-whats-the-best-approach-for-your-business.md",
-      "title": "Application monitoring best practices: What’s the best approach for your business?",
-      "excerpt": "See the seven types of application monitoring—digital experience, application, Database and more—and what purposes each serves.\nThe post Application monitoring best practices: What’s the best approach for your business? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/application-monitoring-best-practices-whats-the-best-approach-for-your-business/",
-      "originalUrl": "https://www.ibm.com/blog/application-monitoring-best-practices-whats-the-best-approach-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
       "tags": null,
       "images": null,
       "content": "\r\n",

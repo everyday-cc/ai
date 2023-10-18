@@ -50,22 +50,6 @@ related:
         width: 590
         height: 393
         isCached: true
-  - title: "GM's Cruise Fine Tunes Self-Driving Safety For Easier Coexistence With Emergency Responders"
-    excerpt: "However, less than two weeks later, the California Department of Motor Vehicles (DMV) directed Cruise to withdraw 50% of its autonomous vehicles from the roads after one of its self-driving cars collided with an emergency vehicle. Check out more of ..."
-    publishedDateTime: 2023-10-13T10:03:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35236128/gms-cruise-fine-tunes-self-driving-safety-for-easier-coexistence-with-emergency-responders"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35236128"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35236128"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/GM_Cruise.jpeg?width=1200&height=800&fit=crop"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "9A21Q50+vawYxGnX3LHNrL1/jLKg38Fw4PrPxdujwJO0pk/n6YzJWGK4XYUIsJKnkznNA/ScgLw72APYTvXyvwpS17OfbDFI73Dv5oPX4UX3FxNxyToMm7FgIPWrZU4cR/YR43c4NF2Kv22OGDU+ybgMyaQTvt1rdcvxcCSjBIlvKDv2KcI5DZPWWx6zDFhUfRbLcgTqmEGvUiBW8wtk5p6prKQBeq/b+p4SxOubaj8PnXwFYtKLr3sXbFwpSPvvUwt5tH7pqwklirhaVt86qRtKq0ECXUsSQipFcRU8wc8JoPkvqLYW6cO6bSsZLxFRXSkPAWkd/c8FXdJVuqr/jQ6RUeJnJ9GSFduObB7cr84=;rPzjkhC7dDByDAsu44E++A=="
 ---

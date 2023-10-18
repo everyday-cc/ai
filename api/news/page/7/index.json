@@ -2,6 +2,246 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-10-12-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments.md",
+      "title": "Indian Fintech Razorpay Launches AI-Powered Solution to Streamline Digital Payments",
+      "excerpt": "Indian Fintech firm Razorpay introduces what it claims is India’s \"first\" AI-powered payments Infinity Router – Razorpay Optimizer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
+      "originalUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
+          "width": 1600,
+          "height": 1291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214176-indian-fintech-razorpay-launches-ai-powered-solution-to-streamline-digital-payments/amp/",
+      "publishedDateTime": "2023-10-11T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-exclusive-southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions.md",
+      "title": "Exclusive: Southeast Asia eyes hands-off AI rules, defying EU ambitions",
+      "excerpt": "Reuters reviewed a confidential draft of the 10-member Association of Southeast Asian Nations' (ASEAN) \"guide to AI ethics and governance,\" whose content has not previously been reported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions-2023-10-11/",
+      "originalUrl": "https://www.reuters.com/technology/southeast-asia-eyes-hands-off-ai-rules-defying-eu-ambitions-2023-10-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/SDQ2HUsDG5vlzMGFzk2ALGhylu4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/K3CNAQYVM5MQJM2WG55A3MK5SA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-adobe-launches-new-symbol-to-tag-ai-generated-contentbut-will-anyone-use-it.md",
+      "title": "Adobe launches new symbol to tag AI-generated content—but will anyone use it?",
+      "excerpt": "The information is automatically added by supporting digital cameras and AI image generator Adobe Firefly, or it can be inserted by Photoshop and Premiere. It will also soon be supported by Bing Image Creator.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/adobe-launches-new-symbol-to-tag-ai-generated-content-but-will-anyone-use-it/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/adobe-launches-new-symbol-to-tag-ai-generated-content-but-will-anyone-use-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/content_credentials_lead_3-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/adobe-launches-new-symbol-to-tag-ai-generated-content-but-will-anyone-use-it/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/adobe-launches-new-symbol-to-tag-ai-generated-content-but-will-anyone-use-it/amp/",
+      "publishedDateTime": "2023-10-11T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-characterai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other.md",
+      "title": "Character.AI introduces group chats where people and multiple AIs can talk to each other",
+      "excerpt": "Character.AI, the a16z-backed AI chatbot startup from ex-Google AI researchers, is out today with a new feature for its subscribers. The chatbot platform,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/",
+      "originalUrl": "https://techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/characterai-group-chat.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/11/character-ai-introduces-group-chats-where-people-and-multiple-ais-can-talk-to-each-other/amp/",
+      "publishedDateTime": "2023-10-11T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco.md",
+      "title": "Tens of Thousands of People Can Now Order a Waymo Robotaxi Anywhere in San Francisco",
+      "excerpt": "Waymo announced on X that it's expanding its city-wide, fully autonomous robotaxi service to thousands more riders in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/",
+      "originalUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/10/waymo-self-driving-car-jaguar-IPACE_3.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/11/tens-of-thousands-of-people-can-now-order-a-waymo-robotaxi-anywhere-in-san-francisco/?amp=1",
+      "publishedDateTime": "2023-10-11T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-deep-instinct-threat-report-finds-ransomware-state-sponsored-attacks-and-ai-powered-cyber-threats-surged-in-h1-2023.md",
       "title": "Deep Instinct Threat Report Finds Ransomware, State-Sponsored Attacks, and AI-Powered Cyber Threats Surged in H1 2023",
       "excerpt": "Deep Instinct, the prevention-first cybersecurity company that stops unknown malware pre-execution with a purpose-built, AI-based deep learning (DL) framework, today released its 2023 Bi-Annual Cyber Threat Report, which details the most pressing cyber threats of the year.",
@@ -291,15 +531,15 @@
       "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
       "excerpt": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency.",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3339253/",
-      "originalUrl": "https://www.nbcbayarea.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3339253/",
+      "webUrl": "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/",
+      "originalUrl": "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.nbcbayarea.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675",
+          "url": "https://media.necn.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -309,13 +549,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3339253/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3339253/?amp=1",
-      "publishedDateTime": "2023-10-11T10:02:00-07:00",
+      "ampWebUrl": "https://www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1",
+      "cdnAmpWebUrl": "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1",
+      "publishedDateTime": "2023-10-11T10:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
+        "name": "NECN",
+        "domain": "necn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -964,247 +1204,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
-      "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
-      "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
-      "originalUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/652693676561dd877e775fdd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-industry-energy-study-small-country-enviroment-2023-10?amp",
-      "publishedDateTime": "2023-10-11T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-arangographml-simplifying-the-power-of-graph-machine-learning.md",
-      "title": "ArangoGraphML: Simplifying the Power of Graph Machine Learning",
-      "excerpt": "Next-generation graph data and analytics platform now with machine learning and data science features to accelerate innovationSAN FRANCISCO, Oct.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arangographml-simplifying-the-power-of-graph-machine-learning-1032696541",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T06:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud.md",
-      "title": "Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud",
-      "excerpt": "Custom Email Destination in IBM Cloud Event Notifications can help businesses establish a seamless communication channel with their customers.\nThe post Enhancing customer experience: Streamlining orders with custom email notifications in IBM Cloud appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "originalUrl": "https://www.ibm.com/blog/enhancing-customer-experience-streamlining-orders-with-custom-email-notifications-in-ibm-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T06:03:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-1-warren-buffett-artificial-intelligence-ai-stock-to-buy-before-its-too-late.md",
-      "title": "1 Warren Buffett Artificial Intelligence (AI) Stock to Buy Before It's Too Late",
-      "excerpt": "in-depth research, investing resources, and more. Learn More Snowflake may be getting left behind in the AI hype discussion. But increasing reliance on data storage could cause a blizzard that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/11/1-warren-buffett-artificial-intelligence-ai-stock/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/11/1-warren-buffett-artificial-intelligence-ai-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/749673/gettyimages-1468025019.jpg",
-          "width": 8192,
-          "height": 5464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ai-is-reprioritizing-the-fundamentals-of-pr-and-communications.md",
-      "title": "AI Is Reprioritizing The Fundamentals Of PR And Communications",
-      "excerpt": "However, you also must be rooted in the fundamentals of communications. This is going to become even more stark in the coming years as AI could replace many entry-level communications jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626ab6f86c569b0f24894e3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/11/ai-is-reprioritizing-the-fundamentals-of-pr-and-communications/amp/",
-      "publishedDateTime": "2023-10-11T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

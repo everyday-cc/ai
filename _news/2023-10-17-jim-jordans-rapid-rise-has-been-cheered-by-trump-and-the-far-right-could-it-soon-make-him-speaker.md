@@ -61,6 +61,15 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 0
+  - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
+    excerpt: "In recognition of Jordan’s growing influence ... including Republican plans to object to the election's certification, according to call logs and testimony from Cassidy Hutchinson, an aide to Trump's chief of staff Mark Meadows. White House call logs ..."
+    publishedDateTime: 2023-10-18T03:13:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2023/10/16/jim-jordan-trump-far-right-speaker-of-house-wrestling-coach-political-views/71201885007/"
+    type: article
+    provider:
+      name: The Indianapolis Star
+      domain: indystar.com
+    quality: 0
 
 secured: "xK6Id9ceJr2gVD/SSuG3v5PinYCNJK97m2Ua8DN6+o7kXCaSVUBh498JxFURQQ+/68ANUAmG59lApZZenQ3JCl2s12UpmAOWtCKz2KixNahV5A2f5I33lLhJbyft1fTxoMymU2ibkzGVYFA3sc4TRw7TLuAh6IS0f6dnPIxl71k09uN3W9R3XMeaFXKJ7XjtHHE95ADSNyP2r5V/sYK1N2egcFdTpBFgSG/DdnP4lNs2ZfE9U55q+vuS1MagicgHAxFmOWXq56EXjYNMTU2Icbj7uiopkxLF5gfcAI18X7UKY50d/boRcZWc8DlwgJgjePQETgAiREkyoawX107AXd1Pj9KX4cJDGQoMnfhX7dV/ujGHhbZxibM1Hv/N6xdEmHcPol9RAhK7M+8hnbJFBh5t1wE4zckM9qx0GH3W0ufSrZV2xqqPw5eEiCVOBqJk/8mnukFEOZmjIJHIGB+Wcv0VgfRKQtc1+5B+CtYzAZeAZGwe6/JgEVY/AqDNtZOdaSIlUmzIF2oQCj0gk/5dtA==;10/CyTz1+Hh+Id5nRI/OBQ=="
 ---

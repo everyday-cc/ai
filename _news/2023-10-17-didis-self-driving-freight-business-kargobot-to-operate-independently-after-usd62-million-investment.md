@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "GAC’s $75 million investment in Didi set to boost EV sales, autonomous driving: expert"
-    excerpt: "Chinese carmaker Guangzhou Automobile Group (GAC) is strengthening its alliance with ride-hailing platform Didi, investing up to $75 million into the latter’s autonomous driving unit. The move is expected to help GAC enhance its self-driving ..."
-    publishedDateTime: 2023-10-13T10:48:00Z
-    webUrl: "https://technode.com/2023/10/13/gacs-75-million-investment-in-didi-set-to-boost-ev-sales-autonomous-driving-expert/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 33
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/10/Didis-robotaxi.jpg"
-        width: 1627
-        height: 1080
-        isCached: true
   - title: "Didi’s Self-Driving Unit to Receive $149 Million Investment From State-Linked Firms"
     excerpt: "What’s new: State-owned automaker Guangzhou Automobile Group Co. Ltd. (GAC) ( 601238.SH) has announced plans to partner with a local government-owned investment firm to invest up to $149 million in Didi Global Inc.’s autonomous driving unit, in an effort to develop a technology that could eventually allow drivers to be hands-free."
     publishedDateTime: 2023-10-13T12:27:00Z

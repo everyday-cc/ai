@@ -28,141 +28,66 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating Ethical AI And The Future Of Automation"
-    excerpt: "As we traverse the landscape of AI and automation, we must ensure that our journey is guided by ethical principles."
-    publishedDateTime: 2023-10-13T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/navigating-ethical-ai-and-the-future-of-automation/amp/"
+  - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
+    excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
+    publishedDateTime: 2023-10-13T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 86
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65281e618a11dedf60f87672/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 800
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f846bb05c4c0b7790b99b3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1348
+        height: 900
         isCached: true
-  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
-    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
-    publishedDateTime: 2023-10-14T21:13:00Z
-    webUrl: "https://thethaiger.com/ph/news/555161/"
+  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
+    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
+    publishedDateTime: 2023-10-18T02:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
     type: article
     provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 72
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
-  - title: "Researchers measure global consensus over the ethical use of AI"
-    excerpt: "To examine the global state of AI ethics, a team of researchers performed a systematic review and meta-analysis of global guidelines for AI use. The researchers found that while most of the guidelines valued Privacy,"
-    publishedDateTime: 2023-10-14T01:38:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231013114923.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+  - title: "Obliterate That Bad Habit Of Dumbing Down Your Prompts When Using Generative AI So You Can Improve Your Results Tenfold"
+    excerpt: "Users of generative AI find themselves stuck in an old habit of choppy sentences due to Alexa and Siri commanding ways, but being fluent with GenAI is the better route."
+    publishedDateTime: 2023-10-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/16/obliterate-that-bad-habit-of-dumbing-down-your-prompts-when-using-generative-ai-so-you-can-improve-your-results-tenfold/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 64
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
-    type: article
-    provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "ICCO Ratifies Principles For Ethical Use Of AI In Public Relations"
-    excerpt: "has ratified its principles for the ethical use of AI in public relations during the 2023 ICCO Global Summit. Christina Forsgaard, founder of Netprofile Finland and ICCO's ethics chair, spearheaded the authoring of the principles, launched at the two-day ..."
-    publishedDateTime: 2023-10-16T23:41:00Z
-    webUrl: "https://menafn.com/1107251398/ICCO-Ratifies-Principles-For-Ethical-Use-Of-AI-In-Public-Relations"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/16/P_65462image_story.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Opinion: Let’s build an ethical AI culture for all"
-    excerpt: "Building inclusive, fair artificial intelligence systems requires intentional work at all phases of development and use."
-    publishedDateTime: 2023-10-17T04:26:00Z
-    webUrl: "https://www.ajc.com/opinion/opinion-lets-build-an-ethical-ai-culture-for-all/2WSUJSEJUBBNLHE7CPRHG3A4B4/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/IlT2nFs-FjFwMrls5_8HOY3Vh_M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ORKY32J2M3N66YZY6O5OYGISYA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
-    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
-    publishedDateTime: 2023-10-16T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Psychiatry Expert: Projecting Autonomy and The Human Fascination with AI Minds"
-    excerpt: "The human inclination to anthropomorphize AI and project autonomy onto it is a multifaceted phenomenon driven by a complex interplay of psychological and cognitive factors."
-    publishedDateTime: 2023-10-16T13:00:00Z
-    webUrl: "https://www.newsweek.com/psychiatry-expert-projecting-autonomy-human-fascination-ai-minds-1834589"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
     quality: 45
-  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
-    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
-    publishedDateTime: 2023-10-16T18:24:00Z
-    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652704208cf6521bd5398c3e/0x0.jpg?format=jpg&crop=3446,2581,x347,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1202
+        height: 900
+        isCached: true
+  - title: "Keep Your AI Projects on Track"
+    excerpt: "AI—and especially its newest star, generative AI—is today a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity."
+    publishedDateTime: 2023-10-16T16:00:00Z
+    webUrl: "https://hbr.org/2023/11/keep-your-ai-projects-on-track"
     type: article
     provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
-  - title: "Celestica Launches its Next Generation 800G Switch, Powering Artificial Intelligence and Advancing Data Center Connectivity for the Future"
-    excerpt: "Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, hardware platform and supply chain solutions for the world’s most innovative companies, today launched its DS5000 high-performance 800GbE switch,"
-    publishedDateTime: 2023-10-16T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/celestica-launches-its-next-generation-800g-switch-powering-artificial-intelligence-and-advancing-data-center-connectivity-for-the-future-1032708341"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23063_MYERS.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "LYzgC0uKxS4j7qXrrdqbUyqH4bPaaIPAWqBjQXWH1b9H3cUZ9SvP4Q5EXwhwMZSiOhLHPWMS2lCRikPLKZ0EWNa8XYr0Oezk/MOViCXO0k7588FPm6RZMgNugEeveLIOgWfTdOLQ+4b80By6AOmQY0zyHNo5T2Fq6DPO5d375tA5BZQu6TXH2869GOy0WxgYnVUpwzrVw+OxYQvHnuno0U71wevQseD3oNIA4d+dySW91IOFZoFIzsmXM8OuL4TQmCy+eW+U03L3zLUykWvHaTxzcGsfA0MngiNulM3hUn8a0xpIPuPGT9W7Kja5Rewk0cKMJ2qsYGH1ChisQ0jsqwX7FX/nM/5Ep500f/nM5Mg=;1DCzDD4wSjGWcmRNpmYosg=="
 ---

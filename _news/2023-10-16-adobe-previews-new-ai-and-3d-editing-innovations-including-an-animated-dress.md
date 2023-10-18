@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
 type: article
 quality: 83
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Buy Rating for Baidu: A Review of AI Innovations and Potential Growth Opportunities"
+    excerpt: "In a report released yesterday, Thomas Chong from Jefferies maintained a Buy rating on Baidu (BIDU – Research Report), with a price"
+    publishedDateTime: 2023-10-18T02:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-baidu-a-review-of-ai-innovations-and-potential-growth-opportunities-1032714378"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Adobe Firefly AI image and video editing features from Max 2023"
     excerpt: "This guide provides an insight into the new Adobe Firefly AI features this month unveiled at Adobe Max 2023. Learn how to edit videos, images"
     publishedDateTime: 2023-10-16T08:46:00Z

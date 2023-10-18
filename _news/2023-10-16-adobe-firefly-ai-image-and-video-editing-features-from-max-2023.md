@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Buy Rating for Baidu: A Review of AI Innovations and Potential Growth Opportunities"
+    excerpt: "In a report released yesterday, Thomas Chong from Jefferies maintained a Buy rating on Baidu (BIDU – Research Report), with a price"
+    publishedDateTime: 2023-10-18T02:55:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-baidu-a-review-of-ai-innovations-and-potential-growth-opportunities-1032714378"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
 
 secured: "XMBQzk3Lgnx4ptzB1R9UmDljQiBcmh0cMOZ/GGJb6ANnYHd0Gev5Vr86irY9gb4pw2se9Tp40l7kVq7EzqG9IvrvxxAF35eHYc4lzYhpfV5YOGJaSiUZYMzYMBRRtfww9T94mcGvEg8584vZk/GBxCrI7yjNOr/O+ABfoRnOjXN2cTbHCKanoWSoPe3NGgCiAo82+eDRAoXPgSOyZeNP/E83oeVgizPa+cE/qWgo0Be+i2bVf9pHzPNAd2msiMfRoiiFV6u/aqkGXuPoRkmGRo0b81Bn1NG+g+9VHZQ5d+LwkO7jzLgHhBMmgUuYExWax/uisP1l292OHMPto4wVDAa66YDfmSSYYlpXwfc5kue39CO9ZW33DHnKYAwZD11UeRQbCvf8Jilqz7kWgQ1pHRv6vfvzmokcdrr5oZBkF2dXoNGv/WmBPt0oLT1sFWu1fYp5Dlv63ZREQmdwylbHCU75nn8ZctjzYyrdsiTuPZhCqThdRFucBtagG7NNogx8eO34oPd0VmV+uG+GzsVuig==;UgXzqkfKTGllIp1j0wgh0Q=="
 ---

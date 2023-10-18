@@ -2,6 +2,111 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-08-12-what-nvidias-new-superchip-means-for-the-future-of-ai.md",
+      "title": "What NVIDIA’s New Superchip Means for the Future of AI",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips NVIDIA Corporation (NVDA) has been very busy this year. In February, NVIDIA",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-superchip-future-of-ai-1032548035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/08/lnel-8.11.23.jpg",
+          "width": 917,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-11T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-nvidias-ai-driven-stock-surge-pushed-earnings-multiple-three-times-higher-than-teslas.md",
+      "title": "Nvidia's AI-driven stock surge pushed earnings multiple three times higher than Tesla's",
+      "excerpt": "Nvidia's graphics chips have proven to be the best for training artificial intelligence models, and clients can't get enough of them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107278560-1690555294515-gettyimages-1258356004-TAIWAN-COMPUTEX2023-01062023-152JPG.jpeg?v=1691784755",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/11/nvidia-ai-driven-rally-pushed-earnings-multiple-higher-than-tesla.html",
+      "publishedDateTime": "2023-08-11T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-08-11-meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory.md",
       "title": "Meetkai creates a digital twin of sprawling $2B Silicon Box chip packaging factory",
       "excerpt": "We're thrilled to announce the return of GamesBeat Summit Next, hosted in San Francisco this October, where we will explore the theme of \"Playing the Edge.\" Apply to speak here and learn more about sponsorship opportunities here.",
@@ -1326,110 +1431,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-my-top-ai-stock-to-buy-right-now.md",
-      "title": "My Top AI Stock to Buy Right Now",
-      "excerpt": "The Motley Fool has a disclosure policy. Want to Retire a Millionaire? This AI Stock Can Help With That. This Chip Stock Just Hit a Major Setback. Steve Jobs Predicted It. Calculated by average return of all stock recommendations since inception of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
-      "originalUrl": "https://www.fool.com/investing/2023/08/06/my-top-ai-stock-to-buy-right-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/741920/person-on-their-phone-in-apartment-sitting-on-the-floor.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-06T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-06-the-big-bottleneck-for-ai-a-shortage-of-powerful-chips.md",
-      "title": "The big bottleneck for AI: a shortage of powerful chips",
-      "excerpt": "The crushing demand for AI has also revealed the limits of the global supply chain for powerful chips used to develop and field AI models. The continuing chip crunch has affected businesses large ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/08/06/tech/ai-chips-supply-chain/index.html",
-      "originalUrl": "https://www.cnn.com/2023/08/06/tech/ai-chips-supply-chain/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230804123750-nvidia-ai-graphics-processing-unit-gpu-0602-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/06/tech/ai-chips-supply-chain/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/06/tech/ai-chips-supply-chain/index.html",
-      "publishedDateTime": "2023-08-06T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
