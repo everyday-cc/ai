@@ -19,60 +19,28 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
-    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
-    publishedDateTime: 2023-10-13T16:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
+    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
+    publishedDateTime: 2023-10-17T13:00:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+  - title: "Running AI Large Language Models on Windows PCs with GeForce RTX GPUs just got a massive boost"
+    excerpt: "Alongside DLSS 3 support coming to a batch of new games, NVIDIA's latest GeForce Game Ready driver release greatly improves Generative AI performance."
+    publishedDateTime: 2023-10-18T00:32:00Z
+    webUrl: "https://www.tweaktown.com/news/93848/running-ai-large-language-models-on-windows-pcs-with-geforce-rtx-gpus-just-got-massive-boost/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
     images:
-      - url: "https://images.barrons.com/im-91984761/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "NVIDIA unveils its next-gen Data center & AI Roadmap"
-    excerpt: "The next-generation GB200 and GX200 Data Center & AI GPU accelerators from NVIDIA have been formally confirmed for release in 2024 and 2025, respectively."
-    publishedDateTime: 2023-10-13T15:54:00Z
-    webUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/"
-    ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 59
-    images:
-      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/10/NVIDIA-MLPerf-Inference-v3.1-Hopper-H100-Grace-Hopper-GH200-L4-GPU-Performance-_W-_2-g-standard-scale-4_00x-Custom-728x406-1.png"
-        width: 728
-        height: 406
-        isCached: true
-  - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
-    excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
-    publishedDateTime: 2023-10-13T19:47:00Z
-    webUrl: "https://www.forbes.com/sites/investor-hub/article/top-ai-stocks-to-buy-beyond-nvidia-mamaa/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Why NVIDIA Isn't My Favorite AI Stock"
-    excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
-    publishedDateTime: 2023-10-13T15:55:00Z
-    webUrl: "https://moneymorning.com/investing/why-nvidia-isnt-my-favorite-ai-stock/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 39
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/10/ibm-chart.jpg"
-        width: 624
-        height: 276
+      - url: "https://static.tweaktown.com/news/9/3/93848_01_running-ai-large-language-models-on-windows-pcs-with-geforce-rtx-gpus-just-got-massive-boost_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
 
 secured: "PrNhHRkMtGNfMFMN3uzV4nFfR2WwusDW/1iWDmAicXqMDAXTondX0ssJPXgCR+EBnWkwXqy2zE0ekbrW8ebxfGl7kb0C49yQSsvPH3neX3Q5wVAlp7Zt8yrFOMt6MDXuZt2lPz5bDORmrycBSjlwWgIovLGagRNSN8hqI8dXfoMmO/mh52kBH5acW9L4z2NzDuw+bB6jq9nPTZ8kxIcX+ViDFucmMxXIyN6RciCx7ZZeBC2p0E/5Lqa4HZ9Xh+cUbzW9AnzvpsLQC6pSfezbIk9S+l2R9F7tDRFxq2SazWzDClt9/+mWgHcayLLENp93jSKgX4/eUi7HSHRK4mllQTjzSNv6p7KwFtIwzZltJc0=;g3vhg7AwNOwNklY0rRCI+A=="

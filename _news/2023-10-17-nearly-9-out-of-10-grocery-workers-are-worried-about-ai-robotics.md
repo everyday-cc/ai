@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "Dumbing down or wising up: How will generative AI change the way we think?"
-    excerpt: "But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking."
-    publishedDateTime: 2023-10-13T15:31:00Z
-    webUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-dumbing-wising-generative-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/8-ai.jpg"
-        width: 1920
-        height: 1285
-        isCached: true
   - title: "AI-Powered Robotics: Enhancing Precision and Efficiency in Surgery"
     excerpt: "In a world where AI technology continues to push boundaries, there’s one groundbreaking innovation that is revolutionizing the operating room: AI-powered robotics. Imagine a scenario where surgical precision meets unparalleled efficiency,"
     publishedDateTime: 2023-10-14T18:15:00Z

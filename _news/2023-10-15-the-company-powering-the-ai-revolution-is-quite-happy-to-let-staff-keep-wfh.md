@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
+    excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
+    publishedDateTime: 2023-10-18T08:41:00Z
+    webUrl: "https://digileaders.com/navigating-the-ai-revolution-a-journey-through-3-phases-of-understanding/"
+    type: article
+    provider:
+      name: Digital Leaders
+      domain: digileaders.com
+    quality: 38
+    images:
+      - url: "https://digileaders.com/wp-content/uploads/2023/10/shutterstock_2235931143-scaled-e1697618370511.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "The Quantum Leap: How Quantum Computing Will Revolutionize Artificial Intelligence Applications"
     excerpt: "Introduction In the ever-evolving landscape of technology, two groundbreaking fields have been making significant strides: quantum computing and artificial intelligence (AI). As these fields continue to advance,"
     publishedDateTime: 2023-10-16T10:23:00Z

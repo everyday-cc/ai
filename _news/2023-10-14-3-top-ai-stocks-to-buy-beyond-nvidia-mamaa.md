@@ -23,61 +23,15 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Nvidia Will Release the Best AI Chips Faster. Buy the Stock."
-    excerpt: "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price."
-    publishedDateTime: 2023-10-13T16:03:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
+  - title: "Why Cathie Wood Picks Tesla Over Nvidia As Top AI Play For Next 5 Years"
+    excerpt: "Shares of technology giant Nvidia Corporation (NASDAQ: NVDA) are up over 220% year-to-date in 2023, a move that has helped propel the company into the one-t"
+    publishedDateTime: 2023-10-16T19:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/why-cathie-wood-picks-tesla-over-nvidia-as-top-ai-play-for-next-5-years-1032709777"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-91984761/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "NVIDIA unveils its next-gen Data center & AI Roadmap"
-    excerpt: "The next-generation GB200 and GX200 Data Center & AI GPU accelerators from NVIDIA have been formally confirmed for release in 2024 and 2025, respectively."
-    publishedDateTime: 2023-10-13T15:54:00Z
-    webUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/"
-    ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 59
-    images:
-      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/10/NVIDIA-MLPerf-Inference-v3.1-Hopper-H100-Grace-Hopper-GH200-L4-GPU-Performance-_W-_2-g-standard-scale-4_00x-Custom-728x406-1.png"
-        width: 728
-        height: 406
-        isCached: true
-  - title: "Why NVIDIA Isn't My Favorite AI Stock"
-    excerpt: "Here are two stocks that are attractive based on the numbers... International Business Machines Corporation (IBM) This is the original AI stock. Remember when Watson beat everyone on Jeopardy? Or when Watson beat World Chess Champion, Garry Kasparov?"
-    publishedDateTime: 2023-10-13T15:55:00Z
-    webUrl: "https://moneymorning.com/investing/why-nvidia-isnt-my-favorite-ai-stock/"
-    type: article
-    provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 39
-    images:
-      - url: "https://moneymorning.com/wp-content/blogs.dir/1/files/2023/10/ibm-chart.jpg"
-        width: 624
-        height: 276
-        isCached: true
-  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
-    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
-    publishedDateTime: 2023-10-17T19:36:00Z
-    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
 
 secured: "wm9B/dB/V4jRLJiMO7gCRgY63p6RgXc5SdeYIk/YI5yyyg31NYR8m9cADJ487M+GHu8/mXXFOpopkrLDMncWDDElVs6rmI164wjY/6RjL+NQDU+H9A09vGE2GBCX2obIL/JuG7oq0LB8tvj6WTdqJVHtfJrPR0zxL+5gWsMla6Br2tUgd/o/gc2EFLBYYCqKEODWuQVvbuFeHRvGK91hKuoKH+AD+jpU/XLGA9IfCsuuDJjq7REvhVo0zPsVE9jg0vhUacSugSdCntKjUZ2IB6458Xx3wemQ8nZbv2XdPWusgGfhDXF6/ZrLbQ8DkKbTACzwmICi9e2v/yP6k5pk+JzFkTp3rN7LZa7anIeiTQKA3SD3t4jk1a7l5qXFp3uzdaBNKmnimv60xVId3Eyp16EfpwICHoYnjJ9euUpqIwUNhKtpXJkXX8skZ3d32M0/CjG+O8vusuGFAhkMUCBO+TAE9vkwNMn/vVzsSAcwehKCyIfY43ESnnfxe6gP0S6SN8KFEHhJhTDJ264OyJ/rbw==;LJmekdFWgZMGZ39ZTML4FA=="
 ---

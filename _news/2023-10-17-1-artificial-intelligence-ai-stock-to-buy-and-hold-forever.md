@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
 type: article
 quality: 82
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/750127/ai-icons-hand.jpg"
         width: 2188
         height: 1369
+        isCached: true
+  - title: "1 \"Magnificent 7\" Artificial Intelligence (AI) Growth Stock to Buy Now Before It Soars 38%, According to Wall Street"
+    excerpt: "The results for its fiscal 2024 second quarter (ended July 30) offered proof positive that the AI revolution had begun. The company generated record revenue of $13.5 billion, up 101% year over year, while its diluted earnings per share of $2.48 soared 854%."
+    publishedDateTime: 2023-10-18T09:15:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/18/1-magnificent-7-artificial-intelligence-ai-growth/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 61
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/751216/the-letters-ai-glowing-on-a-circuit-board-processor.jpg"
+        width: 2309
+        height: 1299
         isCached: true
   - title: "A dip into Artificial Intelligence (AI)"
     excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."

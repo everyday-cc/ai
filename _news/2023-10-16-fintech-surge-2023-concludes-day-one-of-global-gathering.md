@@ -69,6 +69,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Navigating AI hallucinations and biases towards a safer fintech future"
+    excerpt: "Fintech players are expected to move quickly to harness the power of generative artificial intelligence (GAI) to improve their service offerings and remain competitive. But is the fintech sector fully aware of the risks that need to be managed at this turning point?"
+    publishedDateTime: 2023-10-18T08:22:00Z
+    webUrl: "https://www.polity.org.za/article/navigating-ai-hallucinations-and-biases-towards-a-safer-fintech-future-2023-10-18"
+    type: article
+    provider:
+      name: polity
+      domain: polity.org.za
+    quality: 39
+    images:
+      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001094485_resized_bowmanslogo20231022.jpg"
+        width: 511
+        height: 287
+        isCached: true
   - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
     excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
     publishedDateTime: 2023-10-16T13:12:00Z

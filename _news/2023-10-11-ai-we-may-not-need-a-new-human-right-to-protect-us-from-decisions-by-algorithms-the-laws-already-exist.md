@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI: we may not need a new human right to protect us from decisions by algorithms – the laws already exist"
-excerpt: "In light of such problems, calls have been made to create a new human right against being subject to automated decision-making (ADM), which the UK Information Commissioner’s Office (ICO) describes as “the process of making a decision by automated means without any human involvement”."
-publishedDateTime: 2023-10-10T17:00:00Z
-originalUrl: "https://theconversation.com/ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist-214525"
-webUrl: "https://theconversation.com/ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist-214525"
+excerpt: "There are risks and harms that come with relying on algorithms to make decisions. People are already feeling the impact of doing so. Whether reinforcing racial biases or spreading misinformation, many technologies that"
+publishedDateTime: 2023-10-11T03:37:00Z
+originalUrl: "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091"
+webUrl: "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "JklJSC0+LTxG2wtbs0Hzqt1Xu3gmoOFk1uGFqY1xs7imi/s9UrqUY+Cjj3VQY00HjSOpQ6mB1hczM7LgdJyNR1DcRwrnGJrrhXDqNIf49raGRMLnpL/BdMU0wW7XS0qsohpVjq7A4CilFxQFEi6/wrTIdRcN50rRzjyHWj7Upponuwf1Pofbcn+Q3AAlqZJy7QDnKneNDQCm3Cjyy8asLRrQcc8w3VLYciFcK0b+pAaRajqBV62sfmw4jPEb++RfoEAB+1yxh61w81s5yiwM04UKGOy/lKkPsCNnxh9SZYVBkZp7Q6mSXJFd1BJ4xTUSp9CgD5IeKbPcKrmmgFiDgQeuhFRojyh27UXuJxVacAQ/B5wrpj3mVAZcew7hwvEkp4rzhlRxu7S+QXzqrVVX+4rQrpB++6IusAvXfkaWSfGyVBYm6UdrkGl5kZlHKLL4AZ52DTieQUEkUuLj83SeBJsD32DCGIiCf9kpoT49eyX2EFKe63JVN1ilUEs6SxTl+A9lrbiVXTNtD86aiU4onw==;jSsFkMayx6nZkbeotwEDow=="
+images:
+  - url: "https://f1.econotimes.com/2023/10/mjtzouo7eq_th_1024x0.jpg"
+    width: 496
+    height: 331
+    isCached: true
+
+secured: "DJ8SqVI2iW+hcvUoGNpT3EHfmGqrUAkTzM3B1n3u0aAIEziTkFQFgn/Bo211Ziwni6BMncU6vI4udvsq6FNeIrPamLDlK2rfJumjPHL5g8ytZ0Qe4nygsEVnwoPE/5vXLN9j8nOzE/P5b5UiCSABqQEe1euLhLpsmum0Zaz4xpKZngu94g7VyHTo8dP7GA3wLAyvKmPQ0cWN5DuO3hwlRl+WXSa9ctD//vNINh1CELnH+B6wx/WvoeplvWCDTKGgvOkcD9CI7dOl0Jdfp+g9VREiu7aHQrhmhUrOBhbYA5PCMYbL4i93kM409Rdtsgdt9nnWdTGoOHX9R/oYQjTAzrq7S/gYDUxy4EitSYde+Y0=;Yayi9huTUtzxfNy2Ce2sQQ=="
 ---
 

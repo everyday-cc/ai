@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-wind
 webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
+    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
+    publishedDateTime: 2023-10-17T19:36:00Z
+    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
 
 secured: "YvnjoespSyTsnj8cwZxHd0aPmA3OwLnkizwaq7RZamRFGdBXZ+WuPuL4wbpzzoCiH4omjNs1PrQoSCskqxiFy2D8u2FDlNRBzBQqvyHGJbX1WYZ4/Eb5hH8nY3hljrR4/6e3SBgcul0+NgH7Seq7bvjI3QXWnCLam9CkpWhe5UtkPTpzs2iEwQ2QNk8mSa+nWWnie/jKKfyXuxtPPk5KqdCW9V+KFTzTW/khLU/KJPE5/ERQ1+xTF6gBKmJ8zwYvLUykfkg0rr9/C+ayRl9cuI96f4pEcazdPJZD40LMC/1YZhjPvMpkiiq2aJ+JDGJFMDU7NRWVkH+uODGQNoEXdwDE2KvgCVIqKeUC/GlG4/s=;MV6NKL9U7EvUCtfpwD75HA=="
 ---

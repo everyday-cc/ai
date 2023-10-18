@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna"
+    excerpt: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna - In the ever-evolving digital landscape, Artificial Intelligence has become a part and parcel of our lives."
+    publishedDateTime: 2023-10-18T09:26:00Z
+    webUrl: "https://www.siliconindia.com/news/general/enhancing-ai-applications-with-deep-learning--talking-with-thought-leader-dwith-chenna-nid-225967-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 26
   - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
     excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
     publishedDateTime: 2023-10-17T13:25:00Z

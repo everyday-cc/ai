@@ -34,6 +34,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
+  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
+    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
+    publishedDateTime: 2023-10-17T19:36:00Z
+    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 34
 
 secured: "Z0QZQXhKmLmY1o1vqSJgSeD4NtYEwP1QvOVxQOGBeJ0EmjJsJzyd3HK2wame+x7OF0mvucXOOL97D76pNyIRe1L3Gyb5Sb0lgBBzPQPtTcHA8LMZadonKzHRbjV2smNUgCvwkpi0UpmgApjncAfiHc+Z3ND/DbQiTQcZnVcGe1XXnI8IyOt9mhawnRXxagMEYnqQjkcg2AhTXJBh1AGbpw+d73mwbzF0gRL42Brr/6HYrQfPyw3Sk2wALukrcqZGHsjnPoPZ/qqT0010wRmrjb58iCs/6mmB1oBzI1ydBvBPhQPG5Q8jWB6ceW4DvMvNf/6NgoTf9mYWZfy0trK2TkGfMQwCtAehVDG6MyCoBFY=;r51fAEjUZbv/nXq5MJpyoA=="
 ---

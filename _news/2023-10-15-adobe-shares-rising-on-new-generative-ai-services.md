@@ -78,6 +78,15 @@ related:
       name: Crain's Cleveland Business
       domain: crainscleveland.com
     quality: 19
+  - title: "6 Generative AI Startups to Watch in 2024"
+    excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."
+    publishedDateTime: 2023-10-18T08:17:00Z
+    webUrl: "https://www.techopedia.com/6-generative-ai-startups-to-watch-in-2024"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 17
 
 secured: "YWS79bFc7ujsr3NnChfRdE1EoxSGB/wXrlqswo59Qa2aqmppA7EQlPoGnVDj5xHZoBBl03rlOBug7jnvy2CoShmekS6+1p+CiXJhYQREKvqkjRjupCFo6vj9Ma2GbBae0JcXUaXi4BJ0S9oAhy2g+4HXRA4WqlMzSOkG5hvpF2yVm/mDPaF03gJ+aLnigt5WJ/duOoFOJKe6kdCAeXk7ThgTyapm85iO3/QIrM50zMbGHhSASntrMGzIG+bbxveRNxsYTRzHsZI4aYW5+VtNDwWnf3mYsVdZl6cCEAlBvhPrxtcxk/jvFwDGM2aEFlKcBF3f4ThNB8XlAAb6aECAYV42QeeXtwK7n8AcrnVKaolnT2dYjmwvLTRcyU0S/acLMKsgSoD9X3m/aD0HCwWaZNq/jBVwcbtnClwg1Ghxa0iop3v9NsbOxbZ+fNUDCeRcEgUnDgYN+j+K2IEinbFP5DN8Ge73/XznhJ9yVinb/TOF2l0AKzxk31zjSLcc+MXkI5jxYC8kFsdnm10QdT3PDA==;XXaM0D8/WqH9FuJ2HREgvA=="
 ---

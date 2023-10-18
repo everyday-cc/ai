@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mankatofreepress.com/news/state_national_news/hix-ai-lau
 cdnAmpWebUrl: "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/state_national_news/hix-ai-launches-hix-bypass-a-powerful-ai-detection-bypass-technology/article_01d5c692-3524-5fa2-9214-78cfa6219985.amp.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "'Legal advisor using artificial intelligence technologies' service launched"
+    excerpt: "The launch events at the Ajman government pavilion at the GITEX Global were attended by Fatima Al-Awadi, Director of Technology Projects and Smart Services Department at the Ajman Chamber, Aisha Al Nuaimi, Head of the Ajman Chamber’s work team participating in the activities of GITEX 2023, and the Ajman Chamber work team."
+    publishedDateTime: 2023-10-18T09:39:00Z
+    webUrl: "https://www.zawya.com/en/press-release/government-news/legal-advisor-using-artificial-intelligence-technologies-service-launched-ikuwq2mr"
+    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/legal-advisor-using-artificial-intelligence-technologies-service-launched-ikuwq2mr?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/legal-advisor-using-artificial-intelligence-technologies-service-launched-ikuwq2mr?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 55
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDIyYTRlZmMtNTIxZS00/0/alintelligencetechniques-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 599
+        isCached: true
 
 secured: "c3rcR1h3p4yklJGy27YNNU4yvO3f/jd01wfTLJneb5Q5Q/1IN9tbC3QlOJ9MYIRGViXejnQi5AXAXaF2kGKxCvddilmYeSURiCVEBcQEemYC6gUS50yQjr/ZgzEE4XKP5WB8JKwgrkYiAy613E/y7QrmMpUURHcZ/IBy0xKEQ7J+mlQBzW53X9c/YnUatnwdD1hkWgwHp82KciId1t+oPCspwLanuG7IsYGwN1X87qADl1y9qqS1+OIVhFTGi8SRBT++0kDuYFBWh9qfS3JTyXPhFBVk/KY+rBarKpv4AOb6x0OcyT05C0Ymr2Fr1CiRukUEtRCxUKk8E8zKuFYAq2kl+7V4FKEiLCaSU3ReYC8=;vofYMU8eOxumOrArOaNtTw=="
 ---

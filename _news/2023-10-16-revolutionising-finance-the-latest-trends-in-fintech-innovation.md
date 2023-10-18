@@ -55,6 +55,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Navigating AI hallucinations and biases towards a safer fintech future"
+    excerpt: "Fintech players are expected to move quickly to harness the power of generative artificial intelligence (GAI) to improve their service offerings and remain competitive. But is the fintech sector fully aware of the risks that need to be managed at this turning point?"
+    publishedDateTime: 2023-10-18T08:22:00Z
+    webUrl: "https://www.polity.org.za/article/navigating-ai-hallucinations-and-biases-towards-a-safer-fintech-future-2023-10-18"
+    type: article
+    provider:
+      name: polity
+      domain: polity.org.za
+    quality: 39
+    images:
+      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001094485_resized_bowmanslogo20231022.jpg"
+        width: 511
+        height: 287
+        isCached: true
   - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
     excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
     publishedDateTime: 2023-10-16T10:50:00Z

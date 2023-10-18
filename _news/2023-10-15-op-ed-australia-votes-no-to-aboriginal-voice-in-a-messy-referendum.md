@@ -223,20 +223,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Australians Vote on a Voice for First Nations Peoples"
-    excerpt: "Although the referendum’s suggested change would be small, the campaign against it has grown on the back of misinformation, lies, and a deep well of racism. Supporters are preparing for it to fail."
-    publishedDateTime: 2023-10-13T15:57:00Z
-    webUrl: "https://thediplomat.com/2023/10/australians-vote-on-a-voice-for-first-nations-peoples/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 24
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2023/10/sizes/td-story-s-2/thediplomat_2023-10-13-140439.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Australia Rejects Constitutional Recognition for First Nations Peoples"
     excerpt: "Law firms in Australia said they remain committed to reconciliation with the country’s First Nations peoples, despite Australians overwhelmingly rejecting a referendum that would have granted them constitutional recognition and greater political rights."
     publishedDateTime: 2023-10-16T14:54:00Z

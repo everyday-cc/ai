@@ -25,30 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "On the voice referendum, we’ve nothing to lose, and everything to gain"
-    excerpt: "For the first time in more than half a century, Australians can vote to heal our country. On your ballot paper is a 92-word vision for recognition, a modest request to be heard."
-    publishedDateTime: 2023-10-13T16:28:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
+  - title: "The referendum is over, the Voice rejected. Where to from here?"
+    excerpt: "Some will be emboldened, others disheartened by the referendum's results. Where to now for the campaigns, and Indigenous justice?"
+    publishedDateTime: 2023-10-17T00:40:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/the-referendum-is-over-the-voice-rejected-where-to-from-here/xvjhuit9y"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
-  - title: "All or nothing Voice defeat compounds the national tragedy"
-    excerpt: "Alex Ellinghausen In January, when support for the Voice was sitting at about 60 per cent, The Australian Financial Review maintained that most Australians would endorse constitutional recognition of the First Australians’ 65,000-year-old occupation of t ..."
-    publishedDateTime: 2023-10-15T07:33:00Z
-    webUrl: "https://www.afr.com/politics/federal/all-or-nothing-voice-defeat-compounds-the-national-tragedy-20231012-p5ebup"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
+      name: SBS
+      domain: sbs.com.au
     quality: 24
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.2027%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/dd7a48d51c21e4a0a68179fcdbd0144aa30d2974"
-        width: 1200
-        height: 628
+      - url: "https://images.sbs.com.au/dims4/default/ccc5698/2147483647/strip/true/crop/960x540+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fde%2F2f%2Fe1725bfa4c7da75454a9f04dcc36%2Fdownload-2023-91-17-11-05-43.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "2andk79pRXvXUVpt0KLaTGEDjz2c7tYY94+FL+TrZH6ZJk2uWoSTfMIafPvRzq4YXDOiUvatFou6Bh0y6fYpYKYWGH6KBmt7vX3wsJzFE0M3Fa+qKbEExjyrzQb9IX2fiaw/P6ea7erBru4GfLyUION5oGcDSoSATYYT98EBGj7CyBmRswMC3Rq22u9HMulLxLneGN4IknjZ1Sy135jCJk5tjPXd/DsNrbaVfyMX6l14MIvut7SBwkw6FiBve/TWAb/F2oTt0NOj54zaAufBnU7LkKdjZLsrhn8ikqe/lruVHe6COejlnBIkj6TGCTPmUVeQ9YiNbQbP2Ce3HM+7PK7GiwYQf+NMPZ6DP7FevWuhc4uG1zWHDzT7607rFlD92QElv3aISeQsguS+lNGNru9hGohOyjhTR0hcHuxcczXddxSqSyrm1l7AkQky45yhswbA0FXgV2J7PYjTbbDe8eXj1i4fRTvlTleRp6F7YtbyXWNi18wMkyW7XO+MyBrFKw1KuLS+VM9Vn2tTsevpxg==;9yw5GeRWXYtQ+Dg30p3uUw=="

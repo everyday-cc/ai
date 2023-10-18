@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html"
 type: article
 quality: 104
-heat: 594
+heat: 604
 published: true
 
 provider:
@@ -178,6 +178,22 @@ related:
       - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/17_tue/img_1697551554960_636.jpg?"
         width: 1080
         height: 720
+        isCached: true
+  - title: "U.S. to curb exports of more AI chips to China"
+    excerpt: "The U.S. Department of Commerce announced Tuesday that it plans to prevent the sale of more advanced artificial intelligence chips to China in the coming weeks."
+    publishedDateTime: 2023-10-18T09:38:00Z
+    webUrl: "https://www.aol.com/u-curb-exports-more-ai-063856265.html"
+    ampWebUrl: "https://www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/fl94zZXVqZWToLq03Dw91w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/113d16a12ad85d6b12bf8075097f1616"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Team Biden Moves to Close Loopholes In AI Chip Export Regulations To China"
     excerpt: "President Joe Biden-led administration is preparing to crack down on the export of AI chips to China, targeting loopholes that allow circumvention of government restrictions. This move is part of the Biden administration’s upcoming actions to limit more AI chip exports."

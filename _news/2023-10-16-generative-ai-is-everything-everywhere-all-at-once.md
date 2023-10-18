@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-everything
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
       name: Crain's Cleveland Business
       domain: crainscleveland.com
     quality: 19
+  - title: "6 Generative AI Startups to Watch in 2024"
+    excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."
+    publishedDateTime: 2023-10-18T08:17:00Z
+    webUrl: "https://www.techopedia.com/6-generative-ai-startups-to-watch-in-2024"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 17
 
 secured: "rXSCtN0lnroQ2ZL300ZtynnNjyhmqgmGQaB+9sn4dsWtIWBWerzIp9EGTyCv76Hk3lQXkzi61e7EvjJIdg4A8BKrCJd0vzlK6RwXOcB9tj5vn8Og2FiddS/+mSMvvmRs+MpfDR5+MWp5Jfz3HSbzb5sIxQZzzzyeLtRzu/ZxGkEO4GuWvrXi5BwyoInmKpjlhErUjUnXwRZ1hH1AtYakNeMGg/8E6WfyhA6NZYBRTqElmjNtVk6NfhzQeWeY7nYgKgo5e/4y+h4rLdR2qUH9LvP5TQhwWzc0ZxM0NjGZZx0vc0232Zq1YtW17TzQR0gIT8kv+DRTlKfpjM7PUiU6+Y8xLPhM3GEt6QNbwo0JV6xVCJNHnromwHUWleFZxGc/k1zb0YbO2BKyBpZuWBDdGPp6eaCzoCpF32ergWUN/O+gJCEtPmRZz1QOTkbaWIcmN4xnFbbueYogC4blF2r+O9mNW7YwDIHb5V1LLa76ntjApbm3qlsGwb+aN2qoZxtPoxsEaKv67kSGkzjoS+5+sw==;+R0WTwadw4Y/0SavzbhxSA=="
 ---

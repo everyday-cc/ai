@@ -76,9 +76,9 @@ related:
   - title: "Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages"
     excerpt: "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak"
     publishedDateTime: 2023-10-17T21:34:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046548"
+    webUrl: "https://abcnews.go.com/US/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046546"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046546"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046546"
     type: article
     provider:
       name: ABC

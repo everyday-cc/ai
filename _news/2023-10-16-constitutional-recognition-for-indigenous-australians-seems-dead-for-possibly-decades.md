@@ -223,20 +223,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Australians Vote on a Voice for First Nations Peoples"
-    excerpt: "Although the referendum’s suggested change would be small, the campaign against it has grown on the back of misinformation, lies, and a deep well of racism. Supporters are preparing for it to fail."
-    publishedDateTime: 2023-10-13T15:57:00Z
-    webUrl: "https://thediplomat.com/2023/10/australians-vote-on-a-voice-for-first-nations-peoples/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 24
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2023/10/sizes/td-story-s-2/thediplomat_2023-10-13-140439.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Op-Ed: Australia votes No to Aboriginal Voice in a messy referendum"
     excerpt: "The proponents of the Yes vote had a problem, too. The Aboriginal Voice to Parliament was to be an advisory body “without binding powers”. Try explaining that to a suburban middle-class country."
     publishedDateTime: 2023-10-15T15:49:00Z

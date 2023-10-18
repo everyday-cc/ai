@@ -71,6 +71,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna"
+    excerpt: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna - In the ever-evolving digital landscape, Artificial Intelligence has become a part and parcel of our lives."
+    publishedDateTime: 2023-10-18T09:26:00Z
+    webUrl: "https://www.siliconindia.com/news/general/enhancing-ai-applications-with-deep-learning--talking-with-thought-leader-dwith-chenna-nid-225967-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 26
   - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
     publishedDateTime: 2023-10-16T11:51:00Z

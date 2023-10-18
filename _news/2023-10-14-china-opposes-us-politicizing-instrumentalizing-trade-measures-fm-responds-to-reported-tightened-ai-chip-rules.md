@@ -7,7 +7,7 @@ originalUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml?ref=lite.impr
 webUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml?ref=lite.improvethenews.org"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "China opposes US politicizing, instrumentalizing trade measures: FM responds to reported tightened AI chip rules"
-    excerpt: "China opposes US politicizing, instrumentalizing and weaponizing trade and tech issues, Chinese Foreign Ministry spokesperson Wang Wenbin said on Friday in response to reports that the Biden administration is considering tightening rules on chips to China."
-    publishedDateTime: 2023-10-13T15:49:00Z
-    webUrl: "https://www.globaltimes.cn/page/202310/1299828.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 33
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2023/2023-10-13/108ab00c-2d2e-44dc-839f-b90173b0775a.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "8AiSYLivstWNgAeOxgtEuevNsko5QewgkxWEAVzq3ajdfBC+rFlNsYjNHTxMu5jxuzApgnQOsdwXy696qyf7peVHWPo08hrVqt/NNqSRc92BC6ojF5GnqX6F9pZvhWwiZFXWy0PtVOAcwBzxxULJlnLgUpv+fZs3srt/SlZw7JhdSRlvETwgV+qOrdwi9jZaww1q3IChAPmDQMdsPXlm1qcAkf86ngoRulPY9fhephpEMtBxzxePl8h84AfJzBpy6OVfS/39Lkxio+M4YQtLmAsbZYgs0r/grj2VGsn6I2IM2r29yVwzf602DYqfBhiVLI6ocC31Rz2Ts0iQXR9ONvpFofoGwcBs3Bjv2hpJndY=;tK0IR1fUgDgxpQhbxNZwoA=="
 ---

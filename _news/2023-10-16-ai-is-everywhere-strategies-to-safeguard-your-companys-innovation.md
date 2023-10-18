@@ -74,6 +74,15 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "6 Generative AI Startups to Watch in 2024"
+    excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."
+    publishedDateTime: 2023-10-18T08:17:00Z
+    webUrl: "https://www.techopedia.com/6-generative-ai-startups-to-watch-in-2024"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 17
 
 secured: "hsMXgsTjn65ULpgsN6jClJu8OWZ5KdrXjvesPpkffRSqsJ3fOLP0abOSStBYdfesfy21ldPLvxtdtvpoDGTa55xZQeL4Nap8morMcXPeKqAO7IXfy59gBSeJ90cmk0ZRpyuNpL52JAgdhzNpmPO/io5sTDOC6LMZMQ+zxBWFZEIbnPATQfxghEQxdZOH0UqkSjHMlkMX1rTN9H7O02MQfoKmgn1kTlS1+bQaIkiROuJ/8zLXgMg+N3GliHhBrPMsDMlmNbFB5JANaTswn1WcG4AZVUnKew+YMAw0Ck2bje8M8JyGucVYd/gEU5esy6Pj2HyclgtjWSugihU7mKMwF/8M8mEcSkuBAXx0lPSybMXnoAvXFMt/qHEotWAjmkChQRrvVzltjs2tpiNSrsLp0qzA98QhyPpeZUoEVjFfJxHDl7+YoTSgr5qem9T8/ARcw0HLah+NNKMjUthDNaEJkKkPGTntX/D8L0kKW2f+zFlu/TK62tVSDwyNSAKDkf4bvgdvG/O3yGwLFThunE/sqA==;eqbUcC4tw6OUxqPq99RNqA=="
 ---

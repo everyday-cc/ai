@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/politics/federal/all-or-nothing-voice-defeat-c
 webUrl: "https://www.afr.com/politics/federal/all-or-nothing-voice-defeat-compounds-the-national-tragedy-20231012-p5ebup"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,31 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "On the voice referendum, we’ve nothing to lose, and everything to gain"
-    excerpt: "For the first time in more than half a century, Australians can vote to heal our country. On your ballot paper is a 92-word vision for recognition, a modest request to be heard."
-    publishedDateTime: 2023-10-13T16:28:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/on-the-voice-referendum-weve-nothing-to-lose-and-everything-to-gain/news-story/a1138ac0a929ebc37e771b7b53d6e21c?amp"
+  - title: "Legacy of voice’s defeat will last a generation"
+    excerpt: "The Australian tragedy is stark – a majority of people support Indigenous constitutional recognition but this goal is finished for years and almost certainly for decades, the consequence of an epic political mismanagement."
+    publishedDateTime: 2023-10-17T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/legacy-of-voices-defeat-will-last-a-generation/news-story/3fca9032089541015fd0eb763bdc9f67"
     type: article
     provider:
       name: The Australian
       domain: theaustralian.com.au
-    quality: 39
-  - title: "If there is to be any healing after the Voice referendum, it will be a long journey"
-    excerpt: "In the end, the “yes” case failed to answer two basic questions: what was the problem to be solved, and how would the Voice help solve it?"
-    publishedDateTime: 2023-10-15T05:09:00Z
-    webUrl: "https://theconversation.com/if-there-is-to-be-any-healing-after-the-voice-referendum-it-will-be-a-long-journey-214370"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 18
-    images:
-      - url: "https://images.theconversation.com/files/553800/original/file-20231015-23-6um2so.jpg?ixlib=rb-1.1.0&rect=11%2C502%2C3964%2C1982&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
+    quality: 4
 
 secured: "Ex7ZNFP6j3og0dQXCj4AMfALCLYvydyFYLWepcN5uTV4sNWgteG0Gz4U+YXPO5AWpFSQTI822gUAGqkbVajBARmfomLtJwTBK8KDhLj4Z85GQjC8SwIKFDl7HUy3BC9nM1MptKI3g285IYxX1X07+eyBIdUWaa8pdIQyz2cKZg8nKFd8vx6YfuTtdv767FUq5zQ2R6vMdiqKHw6tQd6+krVozxkyjkS42ci5M6mKGhTvsuULhCzqkLLblwWbNgGoxgs6BE2+AWZtizwVdao9hUbhyTM978/jUieMSUyGGU14U1UN2VU04Z5OHWRDEjvbV+aEAvgF73ChETWxiKYNXhU7DHuHD639Z6IWRhHbpyw=;e3HvjR3MkcSMF8l8p1P9vA=="
 ---
