@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -97,6 +97,15 @@ related:
     excerpt: "The co-founder of Inflection AI is talking with other large startups about defining the role artificial intelligence will play in elections."
     publishedDateTime: 2023-10-17T20:46:00Z
     webUrl: "https://www.bloomberg.com/news/articles/2023-10-17/ai-startup-wants-to-make-sure-chatbots-don-t-tell-people-how-to-vote"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Meta Product Chief Sees AI Chatbots as Tool to Lure Advertisers"
+    excerpt: "Meta Platforms Inc. Chief Product Officer Chris Cox said that AI chatbots will become an increasingly attractive tool for advertisers, rather than just a way to lure users, in a sign the company is pivoting the technology toward business customers."
+    publishedDateTime: 2023-10-18T05:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-18/meta-product-chief-sees-ai-chatbots-as-tool-to-lure-advertisers"
     type: article
     provider:
       name: Bloomberg L.P.

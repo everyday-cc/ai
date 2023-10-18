@@ -2,6 +2,464 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2023-10-03-these-are-the-key-technologies-the-eu-wants-to-safeguard-from-china.md",
+      "title": "These are the key technologies the EU wants to safeguard from China",
+      "excerpt": "In the latest round of geopolitical tech chess, the European Commission today published a list of critical technologies to keep safe from geopolitical rivals, in an effort to bolster the bloc’s own economic (and not only) security.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china",
+      "originalUrl": "https://thenextweb.com/news/key-technologies-eu-wants-to-keep-from-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2FmapEuropetech-e1696341924126.jpg&signature=1ead97d29ff1df7b4da0812926ea08ce",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-apples-ai-prowess-lies-in-its-neural-engine.md",
+      "title": "Apple's AI Prowess Lies In Its Neural Engine",
+      "excerpt": "The new GPU can run complex applications ... Apple's neural engine uses a different approach from competitors. It allows more onboard AI processing instead of relying on server-based AI solutions. This methodology means that running AI programs on a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651b05c1d2aa717e77be38c5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2023/10/03/apples-ai-prowess-lies-in-its-neural-engine/amp/",
+      "publishedDateTime": "2023-10-03T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023.md",
+      "title": "Oracle Doubles Down On Generative AI Trend At CloudWorld 2023",
+      "excerpt": "AI Vector Search functionalities include a new vector data type ... though its partnership with Microsoft–arguably the leader in GenAI thus far–currently focuses on Oracle Database@Azure, we can all speculate what that partnership may grow to be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651c19e2eb69afd4ac308520/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2023/10/03/oracle-doubles-down-on-generative-ai-trend-at-cloudworld-2023/amp/",
+      "publishedDateTime": "2023-10-03T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-construction-quality-control-services-market-size-regional-status-and-outlook-2023-2030-fischertechnik-modular-robotics-xiaomi.md",
+      "title": "Construction Quality Control Services Market Size, Regional Status and Outlook 2023-2030 | Fischertechnik, Modular Robotics, Xiaomi",
+      "excerpt": "Construction Quality Control Services Market Size, Regional Status and Outlook 2023-2030 | Fischertechnik, Modular Robotics, Xiaomi by Herald Keeper October 3, 2023 9:17 AM | 4 min read",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35063228/construction-quality-control-services-market-size-regional-status-and-outlook-2023-2030-fischertech",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35063228/construction-quality-control-services-market-size-regional-status-and-outlook-2023-2030-fischertech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35063228",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35063228",
+      "publishedDateTime": "2023-10-03T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost.md",
+      "title": "Operationalize automation for faster, more efficient incident resolution at a lower cost",
+      "excerpt": "You can take integrated, granular metrics and dynamic topology from IBM Instana to fuel action recommendations from IBM Turbonomic.\nThe post Operationalize automation for faster, more efficient incident resolution at a lower cost appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost/",
+      "originalUrl": "https://www.ibm.com/blog/operationalize-automation-for-faster-more-efficient-incident-resolution-at-a-lower-cost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T06:15:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-companies-ibm-microsoft-enlitic.md",
+      "title": "Artificial Intelligence In Healthcare Service Market 2023-2030 Shows Unbelievable Growth | Top Companies - IBM, Microsoft, Enlitic",
+      "excerpt": "The market forSmart Waste Management System is anticipated to increase at a CAGR of 37.5% between 2023 and 2030, The Artificial Intelligence in Healthcare Service market is witnessing exponential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35060129/artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-compan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35060129/artificial-intelligence-in-healthcare-service-market-2023-2030-shows-unbelievable-growth-top-compan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-ibm-and-espn-use-ai-models-built-with-watsonx-to-transform-fantasy-football-data-into-insight.md",
+      "title": "IBM and ESPN use AI models built with watsonx to transform fantasy football data into insight",
+      "excerpt": "Discover how ESPN and IBM Watson are serving up billions of AI-powered insights to the 11 million people who play fantasy football.\nThe post IBM and ESPN use AI models built with watsonx to transform fantasy football data into insight appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-watson-and-espn-use-ai-to-transform-fantasy-football-data-into-insight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T05:00:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-a-lab-just-3d-printed-a-neural-network-of-living-brain-cells.md",
+      "title": "A Lab Just 3D-Printed a Neural Network of Living Brain Cells",
+      "excerpt": "Mini-brains that work and grow like their full-size counterparts could offer an alternative to animal testing and advance the quest for personalized medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/",
+      "originalUrl": "https://www.wired.com/story/a-lab-just-3d-printed-a-neural-network-of-living-brain-cells/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/651705be6b593d112edbb6bc/191:100/w_1280,c_limit/3dprinter-science-Image-1.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-dominos-to-use-azure-ai-technology-to-advance-pizza-ordering-store-technology.md",
+      "title": "Domino's To Use Azure AI Technology To Advance Pizza Ordering, Store Technology",
+      "excerpt": "The companies plan to create the next generation of pizza ordering and store operations with generative AI technology and cloud computing power. They will leverage the Microsoft Cloud and Azure ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/domino-s-to-use-azure-ai-technology-to-advance-pizza-ordering-store-technology-1032674041",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/domino-s-to-use-azure-ai-technology-to-advance-pizza-ordering-store-technology-1032674041",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T04:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-03-editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai.md",
+      "title": "Editorial: Why artificial intelligence can’t replace journalism – as explained by Google’s AI",
+      "excerpt": "So we posed a similar challenge to Google’s new artificial-intelligence engine, Bard, with a few tweaks: “Please write a 550 word editorial in third person explaining why Florida newspapers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
+      "originalUrl": "https://www.orlandosentinel.com/2023/10/03/editorial-why-artificial-intelligence-cant-replace-journalism-as-explained-by-googles-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandosentinel.com/wp-content/uploads/2023/10/NYTimes_ROOSE-COLUMN.jpg?w=1024&#038;h=683",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando Sentinel",
+        "domain": "orlandosentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-artificial-neural-networks-market-overview-2023-and-forecast-till-2030-report-pages-113.md",
       "title": "Artificial Neural Networks Market Overview 2023 and Forecast till 2030 | Report Pages 113",
       "excerpt": "Recently Updated comprehensive113-Page Reporton the Artificial Neural Networks Market, this analysis deep dives into market size, share, and industry trends. According to our latest research ...",
@@ -700,491 +1158,6 @@
         "AI",
         "AI in Security",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-outpacing-competition-how-lunartech-is-redefining-the-future-of-ai-and-machine-learning.md",
-      "title": "Outpacing Competition: How LunarTech is Redefining the Future of AI and Machine Learning",
-      "excerpt": "The bootcamp covers a wide array of topics, from machine learning to Python programming and cloud computing, and places a strong emphasis on hands-on, practical projects. \"Our bootcamps can be attended either in-person or remotely. We've developed tools to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038",
-      "originalUrl": "https://www.entrepreneur.com/ka/business-news/outpacing-competition-how-lunartech-is-redefining-the/463038",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png?auto=webp?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag.md",
-      "title": "Shares in Aurrigo Rise After Agreement on Self-Driving Vehicle Trial With IAG",
-      "excerpt": "Shares in Aurrigo International rose after it said it has agreed on a partnership with International Consolidated Airlines Group aimed at deploying its self-driving baggage and air-freight vehicles in the U.K. Shares at 0730 GMT were up 20 pence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
-      "originalUrl": "https://www.marketwatch.com/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/shares-in-aurrigo-rise-after-agreement-on-self-driving-vehicle-trial-with-iag-d850fac4",
-      "publishedDateTime": "2023-10-03T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-the-10-biggest-trends-revolutionizing-healthcare-in-2024.md",
-      "title": "The 10 Biggest Trends Revolutionizing Healthcare In 2024",
-      "excerpt": "These are the key societal drivers that will impact healthcare in 2024. Their convergence means we are heading into uncharted waters. On the technology side, artificial intelligence (AI) promises to dramatically change everything from the way we develop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651bbeb1c78cc403f92a6abd/0x0.jpg?format=jpg&crop=2500,1405,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/10/03/the-10-biggest-trends-revolutionizing-healthcare-in-2024/amp/",
-      "publishedDateTime": "2023-10-03T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-computer-vision-market-forecast-2023key-factors-considered-2031.md",
-      "title": "Computer Vision Market Forecast 2023|Key Factors Considered 2031",
-      "excerpt": "Global |104 Pages| Updated Report on \"Computer Vision Market\" offers a detailed Research In-Depth Analysis (2023-2031) which is expected to witness remarkable growth in the coming years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35048601/computer-vision-market-forecast-2023-key-factors-considered-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35048601/computer-vision-market-forecast-2023-key-factors-considered-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-japan-to-give-micron-technology-128-billion-aid-for-chip-project-at-hiroshima-plant.md",
-      "title": "Japan to Give Micron Technology $1.28 Billion Aid for Chip Project at Hiroshima Plant",
-      "excerpt": "By Kosaku Narioka The Japanese government will give an aid of over a billion dollars to Micron Technology's memory chip project at its Hiroshima plant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
-      "originalUrl": "https://www.marketwatch.com/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/japan-to-give-micron-technology-1-28-billion-aid-for-chip-project-at-hiroshima-plant-b24b02bd",
-      "publishedDateTime": "2023-10-02T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-instant-evolution-ai-designs-new-robot-from-scratch-in-seconds.md",
-      "title": "Instant evolution: AI designs new robot from scratch in seconds",
-      "excerpt": "Northwestern researchers developed the first AI to date that can intelligently design robots from scratch by compressing billions of years of evolution into mere seconds. It's not only fast but also runs on a lightweight computer and designs wholly novel structures from scratch — without human-labeled,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1003605",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1003605",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9315799f-c3fc-4baa-b3c4-2d4c58566290/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-scaling-up-learning-across-many-different-robot-types.md",
-      "title": "Scaling up learning across many different robot types",
-      "excerpt": "We are launching a new set of resources for general-purpose robotics learning across different robot types, or embodiments. Together with partners from 34 academic labs we have pooled data from 22 different robot types to create the Open X-Embodiment dataset. We also release RT-1-X, a robotics transformer",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types",
-      "originalUrl": "https://www.deepmind.com/blog/scaling-up-learning-across-many-different-robot-types",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/651af305a8617d11327dde0c_Header_Final.png",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace.md",
-      "title": "ContentEngine (CE) ResearchHub Accelerates Research Report Acquisition with AI Automation and the power of Amazon Marketplace",
-      "excerpt": "MIAMI, Oct. 2, 2023 /PRNewswire/ -- ContentEngine (CE), industry leader in market research report aggregation, is pleased to announce AI Automation to take the heavy lifting out of the research ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/contentengine-ce-researchhub-accelerates-research-report-acquisition-with-ai-automation-and-the-power-of-amazon-marketplace-1032671810",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-engineering-study-employs-deep-learning-to-explain-extreme-events.md",
-      "title": "Engineering study employs deep learning to explain extreme events",
-      "excerpt": "At the core of uncovering extreme events such as floods is the physics of fluids – specifically turbulent flows. Researchers leveraged a computer-vision deep learning technique and adapted it for nonlinear analysis of extreme events in wall-bounded turbulent flows,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/10/231002124257.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/10/231002124257.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-visa-earmarks-100m-to-invest-in-generative-ai-companies.md",
-      "title": "Visa earmarks $100M to invest in generative AI companies",
-      "excerpt": "Visa announced today that it plans to invest $100 million in companies developing generative AI technologies and applications “that will impact the future The investments will be made through Visa Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/",
-      "originalUrl": "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1365407901.jpg?resize=1200,816",
-          "width": 1200,
-          "height": 816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/02/visa-earmarks-100m-to-invest-in-generative-ai-companies/amp/",
-      "publishedDateTime": "2023-10-02T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

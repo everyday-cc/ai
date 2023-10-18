@@ -358,22 +358,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
-    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
-    publishedDateTime: 2023-10-13T12:25:00Z
-    webUrl: "https://www.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html?post=p55b5o"
-    ampWebUrl: "https://amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 16
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened, and what happens next"
     excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
     publishedDateTime: 2023-10-15T21:32:00Z

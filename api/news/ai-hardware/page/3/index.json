@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-27-vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide.md",
+      "title": "Vultr Launches GPU Stack and Container Registry for AI Model Acceleration Worldwide",
+      "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the launch of the Vultr GPU Stack and Container Registry to enabl",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-rebellions-ai-chip-to-undergo-ibm-quality-testing.md",
       "title": "Rebellions' AI chip to undergo IBM quality testing",
       "excerpt": "Korean AI semiconductor startup Rebellions said Monday that its chips were set to undergo quality testing at data centers of IBM Research's AI Hardware Center in New York. IBM Research's AI Hardware Center conducts exhaustive quality testing for enterprise-grade data center processors.",
@@ -1357,49 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.md",
-      "title": "‘Thursday Night Football’ to use AI to help viewers better understand action on field",
-      "excerpt": "Prime Video’s second season begins Thursday night when the Philadelphia Eagles play host to the Minnesota Vikings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
-      "originalUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LHPH3OMIDJBIVHTMKU7UL6VZNQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
-      "publishedDateTime": "2023-09-13T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

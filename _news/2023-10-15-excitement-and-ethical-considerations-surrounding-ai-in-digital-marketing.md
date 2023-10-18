@@ -82,15 +82,6 @@ related:
         width: 800
         height: 267
         isCached: true
-  - title: "Responding in real time to changing market dynamics"
-    excerpt: "Implementing more aware, dynamic and automated inventory management systems create a competitive advantage to increase market share.\nThe post Responding in real time to changing market dynamics appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-13T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Keeping an eye on your cattle using AI technology"
     excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
     publishedDateTime: 2023-10-17T19:40:30Z

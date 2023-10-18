@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "Here are some of the ways Apple might use generative AI"
-    excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."
-    publishedDateTime: 2023-10-13T12:58:00Z
-    webUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/11/gift-guide-for-fitness-enthusiasts-100868109-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI-Powered Robotics: Enhancing Precision and Efficiency in Surgery"
     excerpt: "In a world where AI technology continues to push boundaries, there’s one groundbreaking innovation that is revolutionizing the operating room: AI-powered robotics. Imagine a scenario where surgical precision meets unparalleled efficiency,"
     publishedDateTime: 2023-10-14T18:15:00Z

@@ -214,6 +214,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Microsoft launches AI content safety service"
+    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
+    publishedDateTime: 2023-10-18T04:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/709165/microsoft-launches-ai-content-safety-service/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_microsoft_building_7.jpg"
+        width: 500
+        height: 315
+        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-10-16T03:06:00Z

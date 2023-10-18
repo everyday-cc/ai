@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "New AI algorithm promises defense against cyberattacks on robots"
-    excerpt: "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack."
-    publishedDateTime: 2023-10-13T12:23:00Z
-    webUrl: "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence bolsters growth of cyberattacks, audacity of cybercriminals"
     excerpt: "A year out from generative AI’s widespread release to the public, cybercriminals continue to finesse AI tools to bolster the scale, speed, scope, and stealth of their activities. “AI-driven cybersecur"
     publishedDateTime: 2023-10-17T18:15:00Z

@@ -41,6 +41,22 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "US further restricts China from AI chips to hinder military development"
+    excerpt: "The measures aim to hamper China’s military development by closing loopholes in regulations released last October and will probably be updated “at least annually,” according to Commerce Department Secretary Gina Raimondo."
+    publishedDateTime: 2023-10-18T05:48:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 104
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/17/81863397-08d8-4eae-a222-2691db10781d_56af46d8.jpg?itok=GiKh8r5w&v=1697552319"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New US rules on AI chip exports aim to stop workarounds on China sales, says US official"
     excerpt: "The US will take steps to prevent American chip makers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s coming actions to effectively block more AI chip exports. The new ..."
     publishedDateTime: 2023-10-15T22:55:00Z
@@ -415,18 +431,18 @@ related:
         height: 799
         isCached: true
   - title: "US tightens curbs on AI chip exports to China"
-    excerpt: "Washington, United States - The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips"
-    publishedDateTime: 2023-10-18T03:00:00Z
-    webUrl: "https://manilastandard.net/news/world-news/314381053/us-tightens-curbs-on-ai-chip-exports-to-china.html"
+    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on"
+    publishedDateTime: 2023-10-18T02:22:00Z
+    webUrl: "https://www.sfexaminer.com/news/national/us-tightens-curbs-on-ai-chip-exports-to-china/article_ebb95630-5bbd-511f-b5f9-feb7d2d37993.html"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
+      name: San Francisco Examiner
+      domain: sfexaminer.com
     quality: 54
     images:
-      - url: "https://manilastandard.net/wp-content/uploads/2023/10/michael-dziedzic-aQYgUYwnCsM-unsplash-scaled.jpg"
-        width: 2560
-        height: 2012
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/4/e6/4e63ebd1-0d03-5c9d-a221-cf3f5eb34b4c/652f4e00487ae.image.jpg?resize=400%2C266"
+        width: 400
+        height: 266
         isCached: true
   - title: "What to Know About the U.S. Curbs on AI Chip Exports to China"
     excerpt: "The new rules aim to close loopholes that emerged from 2022 export control curbs, and to account for technological developments."
@@ -594,6 +610,15 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 18
+  - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
+    excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
+    publishedDateTime: 2023-10-18T04:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/u-s-tightens-chinas-access-to-advanced-chips-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "QFtpivs9KzkU3XqeVnTLe+BR5kChCgD5Iek/05+XU3zWzTb9TDa0OF2yT8wOqYq2AukRr4Lca7NExVmYb/qDLk310EdvL0CtiGkb1lyiSKGU4WZEZdAqzSg67TqDq9lCJ+j3mDRwW7IP0ARhhtaxBUuggC8RhLYRvZwzngEHFUcJJ1dtu93esBxW47zOOm5/nHszNK34YBZMaUxA/BLhANDWxwauyU9GeI2iU7vY0gRLxinQw1GcqFb2MqgMqDKHaNzojMp+WvGTEYanvsQUGqqgKqid0t6nBV9SVjGauTjIS+pZhjM0zz8cP8teOZ69Q4WAie5uFbzS2cr/qraqFBxoKe5+D5jdNJa84n7ZgQM=;20t2yOyHqJKvg2tIow4rVg=="
 ---

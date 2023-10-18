@@ -28,66 +28,73 @@ images:
     isCached: true
 
 related:
-  - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
-    excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
-    publishedDateTime: 2023-10-13T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+  - title: "Generative AI revolutionising banking sector: Fintech Surge 2023"
+    excerpt: "Gen AI will be a huge added value for the banking sector as it will detect many kinds of issues and improve accuracy of advanced services to the clients"
+    publishedDateTime: 2023-10-16T02:59:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0"
+    ampWebUrl: "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f846bb05c4c0b7790b99b3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1348
-        height: 900
-        isCached: true
-  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
-    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
-    publishedDateTime: 2023-10-18T02:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
+      name: Zawya
+      domain: zawya.com
     quality: 74
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/24/1463605211.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Obliterate That Bad Habit Of Dumbing Down Your Prompts When Using Generative AI So You Can Improve Your Results Tenfold"
-    excerpt: "Users of generative AI find themselves stuck in an old habit of choppy sentences due to Alexa and Siri commanding ways, but being fluent with GenAI is the better route."
-    publishedDateTime: 2023-10-16T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/16/obliterate-that-bad-habit-of-dumbing-down-your-prompts-when-using-generative-ai-so-you-can-improve-your-results-tenfold/"
+  - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
+    excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
+    publishedDateTime: 2023-10-16T11:27:00Z
+    webUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652704208cf6521bd5398c3e/0x0.jpg?format=jpg&crop=3446,2581,x347,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1202
-        height: 900
+      - url: "https://d.ibtimes.co.uk/en/full/1720247/fintech.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Keep Your AI Projects on Track"
-    excerpt: "AI—and especially its newest star, generative AI—is today a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity."
-    publishedDateTime: 2023-10-16T16:00:00Z
-    webUrl: "https://hbr.org/2023/11/keep-your-ai-projects-on-track"
+  - title: "Fintech chiefs raise AI regulatory fears in Parliament"
+    excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
+    publishedDateTime: 2023-10-17T08:27:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43132/fintech-chiefs-raise-ai-regulatory-fears-in-parliament"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23063_MYERS.jpg"
-        width: 2400
-        height: 1350
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/parliament.jpg"
+        width: 480
+        height: 270
         isCached: true
+  - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
+    excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
+    publishedDateTime: 2023-10-16T10:50:00Z
+    webUrl: "https://menafn.com/1107246479/Fintech-Surge-2023-Concludes-Day-One-Of-Global-Gathering"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997739"
+        width: 421
+        height: 250
+        isCached: true
+  - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
+    excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
+    publishedDateTime: 2023-10-16T13:12:00Z
+    webUrl: "https://techbullion.com/date-fintech-show-scripting-a-new-chapter-in-saudi-arabias-fintech-revolution/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 0
 
 secured: "LYzgC0uKxS4j7qXrrdqbUyqH4bPaaIPAWqBjQXWH1b9H3cUZ9SvP4Q5EXwhwMZSiOhLHPWMS2lCRikPLKZ0EWNa8XYr0Oezk/MOViCXO0k7588FPm6RZMgNugEeveLIOgWfTdOLQ+4b80By6AOmQY0zyHNo5T2Fq6DPO5d375tA5BZQu6TXH2869GOy0WxgYnVUpwzrVw+OxYQvHnuno0U71wevQseD3oNIA4d+dySW91IOFZoFIzsmXM8OuL4TQmCy+eW+U03L3zLUykWvHaTxzcGsfA0MngiNulM3hUn8a0xpIPuPGT9W7Kja5Rewk0cKMJ2qsYGH1ChisQ0jsqwX7FX/nM/5Ep500f/nM5Mg=;1DCzDD4wSjGWcmRNpmYosg=="
 ---

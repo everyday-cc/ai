@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artifici
 webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-bolsters-growth-of-cyberattacks-audacity-of-cybercriminals/"
 type: article
 quality: 11
-heat: -1
+heat: 11
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "New AI algorithm promises defense against cyberattacks on robots"
-    excerpt: "The researchers tested their algorithm on a replica of a US Army combat ground vehicle and found it was 99% effective in preventing a malicious attack."
-    publishedDateTime: 2023-10-13T12:23:00Z
-    webUrl: "https://interestingengineering.com/innovation/new-ai-algorithm-promises-defense-against-cyberattacks-on-robots"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 56
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2023/10/13/image/jpeg/yslUdwFgtDUykIuSkP5rtdvzU9nhwQYLu9KYcoUc.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial Intelligence bolsters growth of cyber-attacks, audacity of cybercriminals"
     excerpt: "These cyberattacks include AI-powered botnets (a network of hijacked computers) and enhanced social engineering and phishing campaigns which are increasingly easier for employees to fall for.October 16,"
     publishedDateTime: 2023-10-16T16:00:00Z

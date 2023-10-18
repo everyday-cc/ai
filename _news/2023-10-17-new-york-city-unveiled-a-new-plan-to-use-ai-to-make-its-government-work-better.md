@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-new-york-cit
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://www.dailymaverick.co.za/wp-content/uploads/2023/09/iStock-1493060486-copy.jpg?w=1280"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Using artificial intelligence to make our world a better place"
+    excerpt: "Can machines think? That’s what Alan Turing asked in his 1950 article, “Computing Machinery and Intelligence.” Turing, a once-in-a-lifetime British mathematician, was referred to by many as the “father of computing."
+    publishedDateTime: 2023-10-18T05:42:00Z
+    webUrl: "https://www.timesrepublican.com/opinion/columnists/2023/10/using-artificial-intelligence-to-make-our-world-a-better-place/"
+    type: article
+    provider:
+      name: Times Republican
+      domain: timesrepublican.com
+    quality: 37
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.timesrepublican.com/images/2023/10/17223056/AI-brain-with-heart.jpg"
+        width: 1000
+        height: 680
         isCached: true
 
 secured: "y7AL4jQ9tDeDDiufOg3IXU3tlQvuMFsYtfW/Wpb/gSy3VgRXhRh8iI5wuVlfUi+Sz8TmNupv2z7U49ZtpUATs35Iv045YGontlPdLQCbbJXU/sLig/+EzlIzvZIFECV0y92IjqgJHxA6+dI0nHrj8+nROSdp/n44waz5A0JnvwP07TCMcY8d92e7dUarQlrrPxw3Eu1O5VHvGf0+aQYq5EaDHODqJP68kVs6pr64GnZ0P0o53EYLlbX0u2ua0L2CCgt/ePVsVfCmU/ZnX6V1rEnXRkvDpYPRb535MhcwWccuou8iNUsxwOrPomU+PEEpXlfhAYPLbsJXENIBSytHApNKCInbPrg5gV0UFyg0jCfIo0B9gBXGdDPDQclPF8s66eIWq0e1mbenbvrYxE6y4EYbhnfWy5QWwVmTDpZ+78ot0g670OdG+hTO4jJhgL09f1qLxWG9CeVH1151ZBOWZepIBbcVdLsrki9Wt2M7D+6hSrWUUGz8RtPk5GvMg1NDFunG18AWn7HmCnb8vXnyOA==;KIjg/VpqE91tY9NlPCngdA=="

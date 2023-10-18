@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Barron's
@@ -27,57 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
-    excerpt: "Nvidia's soaring, but many other AI players might just be flying under your radar. These three top-quality tech stocks offer more bang for your buck."
-    publishedDateTime: 2023-10-13T11:37:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/13/3-ai-stocks-with-more-upside-than-nvidia/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 84
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/750812/ai-robot-hand-building-coin-stacks.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-  - title: "1 Artificial Intelligence (AI) Stock to Buy and Hold Forever"
-    excerpt: "Chipmaker Nvidia ( NVDA 1.40%) has become a Wall Street darling. It's soared by a whopping 215% year to date as it takes advantage of the opportunity in artificial intelligence (AI), which boosts demand for its cutting-edge hardware."
-    publishedDateTime: 2023-10-17T10:30:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 82
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/751095/gettyimages-1433587895.jpg"
-        width: 1878
-        height: 1596
-        isCached: true
-  - title: "Nvidia teams with Foxconn to boost electric vehicle AI"
-    excerpt: "Foxconn, the world's biggest electronics manufacturer, announced a strategic partnership with Nvidia to accelerate the development of EVs."
-    publishedDateTime: 2023-10-18T03:00:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-teams-with-foxconn-to-boost-electric-vehicle-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-DRIVE-Thor.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
-    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
-    publishedDateTime: 2023-10-17T13:00:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "Nvidia Stock Forecast: NVDA slips as Biden administration attempts to close AI chip loophole"
     excerpt: "Nvidia’s (NVDA) stock price opened marginally lower on Friday after Reuters reported that the Biden administration is attempting to close a loophole that allowed Chinese companies access to state-of-the-art computer chips used for artificial intelligence (AI). In particular, Nvidia’s H100 Tensor Core GPU could be hurt by the new regulations."
     publishedDateTime: 2023-10-13T14:56:00Z
@@ -94,19 +43,21 @@ related:
         width: 320
         height: 229
         isCached: true
-  - title: "A dip into Artificial Intelligence (AI)"
-    excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
-    publishedDateTime: 2023-10-15T00:35:00Z
-    webUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
+  - title: "NVIDIA unveils its next-gen Data center & AI Roadmap"
+    excerpt: "The next-generation GB200 and GX200 Data Center & AI GPU accelerators from NVIDIA have been formally confirmed for release in 2024 and 2025, respectively."
+    publishedDateTime: 2023-10-13T15:54:00Z
+    webUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/"
+    ampWebUrl: "https://technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/nvidia-unveils-next-gen-data-center-ai-roadmap/?amp"
     type: article
     provider:
-      name: Island
-      domain: island.lk
-    quality: 56
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 59
     images:
-      - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
-        width: 700
-        height: 467
+      - url: "https://cdn108.technosports.co.in/wp-content/uploads/2023/10/NVIDIA-MLPerf-Inference-v3.1-Hopper-H100-Grace-Hopper-GH200-L4-GPU-Performance-_W-_2-g-standard-scale-4_00x-Custom-728x406-1.png"
+        width: 728
+        height: 406
         isCached: true
   - title: "3 Top AI Stocks To Buy Beyond Nvidia & MAMAA"
     excerpt: "Artificial intelligence (AI), a non-mainstream concept up until a few years ago, is now the talk of the town. How can investors join this expanding industry? Here are 3 AI stocks you should consider."
@@ -140,47 +91,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 34
-  - title: "3 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia"
-    excerpt: "The chip designer's hardware provides the computational power needed by the popular ChatGPT tool and its GPT-4 artificial intelligence (AI) engine. Many investors expect the chipmaker's success story to continue for years, and that widespread optimism has ..."
-    publishedDateTime: 2023-10-13T19:49:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21085117/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 32
-  - title: "NVIDIA Partners With Foxconn To Build Factories And Systems For The AI Industrial Revolution"
-    excerpt: "Foxconn will integrate NVIDIA technology to develop a new class of data centers powering a wide range of applications - including digitalization of manufacturing and inspection workflows, development of AI-powered electric vehicle and robotics platforms, and a growing number of language-based generative AI services."
-    publishedDateTime: 2023-10-18T03:52:00Z
-    webUrl: "https://menafn.com/1107261119/NVIDIA-Partners-With-Foxconn-To-Build-Factories-And-Systems-For-The-AI-Industrial-Revolution"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134962"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "Why Nvidia, Intel, Broadcom, and Other Artificial Intelligence (AI) Semiconductor Stocks Crumbled Tuesday Morning"
-    excerpt: "Danny Vena has positions in Nvidia. The Motley Fool has positions in and recommends ASML, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy."
-    publishedDateTime: 2023-10-17T19:47:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21184338/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 11
-  - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
-    excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
-    publishedDateTime: 2023-10-16T12:50:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/10/35266164/the-ai-story-is-more-than-nvidia-companies-like-amesite-are-leveraging-ai-to-transform-e-lea"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "2KERUKXtJGFJlUEHHUsvJ4Jktb4wQvBZNYTQBca2yOfHnwUZ9w9HnN1Qy7XLXyT4FBANtNiLuruBPAj5cs9lQtQFzgTU1CYHw5FPzRBGIsDegDhm+8Ee8JsId8Biexo+Smn8KAAwPA+e6iRUwyHLyKfwdQbiQpwC3SpWxkpuaH08ANf9+EL3zrC5VdsA7TN9Ie5BtlrGvhWI7Twlu3tLkAoUluUV+3uGlUIW7oQYqEGCQqzwISHjRCYBGX+FKv8u0L9G9RjaMDB3uo5RV492WwXvxsoWnbyVkxklBRrxruQSS6ACXZgGXI2wC0tfA1f8n53Tghs4Jp0g3LYDL7FrXvnv/TMSNvsD6Mu5A8hDTxvnvF2ouO0KaIsXhnbsq0q8VD61vTzhk2Id2fH4fs0RFb3jE2N4sbbZWFEA3RJSwQ92o3gANU8kqY7H4hk839o5ZbfNU6SuLJMnsEBC1lI74EcLHHLZgb5jinQPJqB1RpufnDa9IelMtwd+pCZRlV1c43ZN/Z3An/E9dccPqSJ1/w==;2SsxQW75blk1GWZ8ajsQYw=="
 ---

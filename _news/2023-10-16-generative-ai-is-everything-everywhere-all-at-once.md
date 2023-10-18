@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-everything
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What Generative AI Can Mean For Enterprises"
-    excerpt: "In order for these outcomes to be achieved, however, GenAI will need to evolve with more standardization, safety, bias mitigation, security, economy and governance. Once it does, GenAI plays a more active role in governing enterprise GenAI through continuous learning of policies, spending and governing patterns."
-    publishedDateTime: 2023-10-13T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/what-generative-ai-can-mean-for-enterprises/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/1180038568/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Adobe Shares Rising On New Generative AI Services"
     excerpt: "Adobe plans to share with analysts how much Generative AI will expand its TAM at its next analyst meeting, Chakravarthy said."
     publishedDateTime: 2023-10-14T17:11:00Z

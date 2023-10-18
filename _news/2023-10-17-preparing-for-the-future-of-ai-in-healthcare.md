@@ -210,6 +210,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Microsoft launches AI content safety service"
+    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
+    publishedDateTime: 2023-10-18T04:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/709165/microsoft-launches-ai-content-safety-service/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_microsoft_building_7.jpg"
+        width: 500
+        height: 315
+        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-10-16T03:06:00Z
@@ -329,6 +343,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "j/aV5l8TX+8MMeouhtahssH34AZrDYLLtVW1Mlq508oTQKlI2J6dPMHIlXcZv5SioxcaU5WwjEXXDAv7UzRxi/o9pA5OV4zAxiZ6JfAX33sGVIocuPz4L9W8gercPt71TxIwJsSnZfnmsUQ3pUt5/7kDk9LSH0DeRd5trkPb/wOFEtR6TlRjvk/7Ux5Y0FfdV+fB2lmx6xzAYh4x3uPfgWCxjbXfmev+2XJxdf3u/e0U5mHsnw8S7f7FOCtPYvMxSyWdFO96HWdntOkw8i8L78dfim5x/qPjmtl+Xa6Dq9tH6RfmoqsHfZLJ+SpnZVIgB65M9wb8S2iZxY21UnRzwGm3wqgRvMXbBiUVj3FqV9o=;4wUW/dAuVKVoyL07dW2Qrw=="
+secured: "QFdGx4Bq9buRKtnDLorE+81qQF4K64bgR38vdifsOKQ30WOmPIBmwLuNww86Us7/tMC8rqPcTtHVRr06uHjADVecG9lVS3Mwme6D+X9aqNCLAtzfqrJ1Hi+VooXV+J9svfPvAt65EwJ9R+Oj8XRwpg/SlLRIXig9ZOoMmC3JrHbkyxKuDRPb56fXISbui/5tFG3ipYKWWNuEKTQyUPCSggh+F7nGsdAUDRNaPUuG2/X7DYwicEq2XXf3AZtNzA42TvHsCLsfUYnc9GEj9UDoQ/hyDYJzHXDluK4JWo99pmMcthAd5e7zOOLSxVBhmkv7se3Unnd44gUb9CSoRiJ1bbCXvuaw0lWqsZz7+TUJMgh7L26NaQKn2LrbEgb1is6xiQ15/aVhLQLC1pisBj4hRBk/zQIBgK/to+p/NwZN6t5p7eHIOCl8XvAvB7j2PRQRm60TSJSZjy88hpPoeXMsWudLAsP3IF2AVjRmbp6XWdcau9b9uXDMXFgohbauKXSPf4ldJdv7uLqpoIro6dCvTA==;H2lHSkjiVatYTmA21LWTFA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/93848/running-ai-large-language-mod
 webUrl: "https://www.tweaktown.com/news/93848/running-ai-large-language-models-on-windows-pcs-with-geforce-rtx-gpus-just-got-massive-boost/index.html"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1500
     height: 843
     isCached: true
+
+related:
+  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
+    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
+    publishedDateTime: 2023-10-17T13:00:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
 
 secured: "Z0QZQXhKmLmY1o1vqSJgSeD4NtYEwP1QvOVxQOGBeJ0EmjJsJzyd3HK2wame+x7OF0mvucXOOL97D76pNyIRe1L3Gyb5Sb0lgBBzPQPtTcHA8LMZadonKzHRbjV2smNUgCvwkpi0UpmgApjncAfiHc+Z3ND/DbQiTQcZnVcGe1XXnI8IyOt9mhawnRXxagMEYnqQjkcg2AhTXJBh1AGbpw+d73mwbzF0gRL42Brr/6HYrQfPyw3Sk2wALukrcqZGHsjnPoPZ/qqT0010wRmrjb58iCs/6mmB1oBzI1ydBvBPhQPG5Q8jWB6ceW4DvMvNf/6NgoTf9mYWZfy0trK2TkGfMQwCtAehVDG6MyCoBFY=;r51fAEjUZbv/nXq5MJpyoA=="
 ---

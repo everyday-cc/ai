@@ -88,15 +88,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Why the Gaming Industry is perfect for AI Training"
-    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
-    publishedDateTime: 2023-10-14T16:01:00Z
-    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
-    type: article
-    provider:
-      name: tech-ish.com
-      domain: tech-ish.com
-    quality: 19
 
 secured: "bRkD7UPwCvn8+PCvuJVqu2IQ7dHYoFlREFGwueAP1iGaHCim2k4Nwn3hQcV12ItHuRaaTd7GpmQtPMR1SUttqvPPoE/vHtt2lMf0OuOU8pyrtVi2OF8jYcnTR5MCRvKF/bYeJpxLzfo7zGkFzfaJkWG0VSET6Yuhvzkpb7VXXF2USvj26PrFWqjJC8WfJP6++9mjuwqhTDZ5qpklYxTuxVM8bHk65bcl6Kw09xBSlAo1IPQXNLiqmekM/a4xEzg9mg+83mExYbdpZJfngG2BX94U9t/fPZURfvjn/5oq4AxAn7pzCWviAqRsSM/XTx392HD/JdVUVjY5HSZE6sUoQPPPTHyK7ZUVVRnKlT9BIGSlXtf3EP1JP3HwwevbxGTnxZKtQnmOW6YqzMRNszDs4RcwHwIMJaZd5rfIG+kvaaX64uH/swGvXZ4UqAelpzlZ86T2ouYn1edPYkfwcxlKWuiDfs4gO6OAET/d/ynfx8MXcrf5zt5hM70uzcVes5UyjnqlvgMer1STqgHeSz0o3Q==;EjLnaO/Nsr8ZdxM6yIV53A=="
 ---

@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Study Highlights Expanding Energy Demand of Artificial Intelligence"
-    excerpt: "A recent study has found that the AI industry could use as much energy as a country the size of the Netherlands by 2027, raising crucial concerns as the world navigates the dual challenge of advancing technology and preserving environmental sustainability."
-    publishedDateTime: 2023-10-16T12:38:00Z
-    webUrl: "https://www.azocleantech.com/news.aspx?NewsID=34147"
+  - title: "Generative AI Represents a New Era for the Utilities Industry, Says Info-Tech Research Group in New Resource"
+    excerpt: "New research from the global IT research and advisory firm aims to bridge the gap between recent technological advancements, such as artificial"
+    publishedDateTime: 2023-10-17T21:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-represents-a-new-era-for-the-utilities-industry-says-info-tech-research-group-in-new-resource-1032714198"
     type: article
     provider:
-      name: Clean Tech
-      domain: azocleantech.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://d3hnfqimznafg0.cloudfront.net/images/news/ImageForNews_34147_169745939575963.jpg"
-        width: 1000
-        height: 586
+      - url: "https://mma.prnewswire.com/media/2250265/Info_Tech_Research_Group_Generative_AI_Represents_a_New_Era_for.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "v/plxC6w6NyzsCJZH/5aWpjGlr9PtP5LqSDdR9aKrxvO0UvFK5hwn0rP7OqyufJNVgdkyk+CbHtu2yt2aI7xcjbNcGLxaqtuaY87xMy+Vtavzg+8VcaJt9pKabeUdKVCcjvGilOx6RJUoEnudeAg6TXYNMy/cKE7SLy+5oYZyDBoFwRtfbzvijPQAWZmkgS3yYfknh9QgAUgNMvk6Y/Hp7XxZkiChEm5aUZREbzHXPg1vO6pMbbLTakZ5fCHVL64Y1JRY2Ty0Soc6J1m2+DTsI15o+7ZaFwfWDWGZyb1BgdxwhzR0zau8D7l0nqskt4xQZMS8MABnAbzaBO5eGALEXdK3bCaUZh4Td0onhFL36A=;5nBzPQqPNrXv73HDZs7Xwg=="

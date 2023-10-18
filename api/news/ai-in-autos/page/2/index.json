@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-05-using-artificial-intelligence-scientists-develop-self-driving-microscopy-technique.md",
+      "title": "Using artificial intelligence, scientists develop self-driving microscopy technique",
+      "excerpt": "As anyone who has ever skimmed a book or magazine can tell you, sometimes you don't have to read every word to grasp the essence. Inspired by this notion, scientists are harnessing the power of artificial intelligence (AI) to enable a form of \"speed reading\" in microscopy.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html",
+      "originalUrl": "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/using-artificial-intel-4.jpg",
+          "width": 1280,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-artificial-intelligence-scientists-self-driving-microscopy.amp",
+      "publishedDateTime": "2023-10-05T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-china-leads-way-with-self-driving-vehicle-tech.md",
       "title": "China leads way with self-driving vehicle tech",
       "excerpt": "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training.",
@@ -1341,50 +1384,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.md",
-      "title": "Spotify won’t ban AI music, Tesla robot can now do yoga",
-      "excerpt": "Share The boss of Spotify says he has no plans to completely ban content created by artificial intelligence from the music streaming platform. Earlier this year the platform pulled a […]",
-      "sourceUrl": null,
-      "webUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
-      "originalUrl": "https://www.techdigest.tv/2023/09/spotify-wont-ban-ai-music-tesla-robot-can-now-do-yoga.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techdigest.tv/wp-content/uploads/2023/09/Optimus-.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech Digest",
-        "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

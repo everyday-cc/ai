@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-23-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
+      "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
+      "excerpt": "Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday. \"When asked what regulations need to be in place,\" she said, \"I say the number one thing that would safeguard us from unsafe uses of AI is curbing the power ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "originalUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2021/11/30/GettyImages-1028811892-scaled.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
+      "publishedDateTime": "2023-08-23T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico Europe",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-start-preparing-for-ai-regulatory-compliance-now.md",
+      "title": "Start Preparing For AI Regulatory Compliance Now",
+      "excerpt": "Integrate responsible AI into governance risk management structures and processes. For example, establish an ethics committee to review high-impact AI projects. • Add responsible AI metrics to executive performance evaluations to incentivize adherence to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63063108bc674cf3651b5fd1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/start-preparing-for-ai-regulatory-compliance-now/amp/",
+      "publishedDateTime": "2023-08-23T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-does-your-business-need-protection-from-ai.md",
       "title": "Does Your Business Need Protection From AI?",
       "excerpt": "While AI can offer many benefits to companies, there are also potential dangers you need to address to protect your business and its stakeholders.",
@@ -1330,102 +1425,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators.md",
-      "title": "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators",
-      "excerpt": "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c99016bea27fc14269db67/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/",
-      "publishedDateTime": "2023-08-03T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-the-ethical-and-legal-considerations-of-influencer-marketing-and-ai-photo-editing-tools.md",
-      "title": "The Ethical And Legal Considerations Of Influencer Marketing And AI Photo-Editing Tools",
-      "excerpt": "As AI continues to shape the digital landscape, social media influencers must balance leveraging its capabilities for creative expression and ensuring ethical practices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Marketing"
       ]
     }
   ],

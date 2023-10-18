@@ -89,6 +89,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Using artificial intelligence to make our world a better place"
+    excerpt: "Can machines think? That’s what Alan Turing asked in his 1950 article, “Computing Machinery and Intelligence.” Turing, a once-in-a-lifetime British mathematician, was referred to by many as the “father of computing."
+    publishedDateTime: 2023-10-18T05:42:00Z
+    webUrl: "https://www.timesrepublican.com/opinion/columnists/2023/10/using-artificial-intelligence-to-make-our-world-a-better-place/"
+    type: article
+    provider:
+      name: Times Republican
+      domain: timesrepublican.com
+    quality: 37
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.timesrepublican.com/images/2023/10/17223056/AI-brain-with-heart.jpg"
+        width: 1000
+        height: 680
+        isCached: true
 
 secured: "XtAsnqhqLXtliV/rxdgNJ0JpFn0Lzyn3ixOAv78wa8nzplMOWbFwkHu14V6Brbf6WehDhY23RR8hMuxKhOFnyNAOTHABZ2gLGd5HWWSh0ZM9f2lRN1PTaXIsyetvkjcv5RhUGYs5tZzTTsAztJubWLUNKMtldc12N3EIEwJXT5FLRBEa9TSV94uXrgv0ewlstxFwgam0rW2o6hWpnanlwg8VYJmC5a9YuJt+P7BjiM+0OfeDTPnavUv4s2x9BWuPBCjzOo8l0Sm+cF4tpXp13n7HixywgN8LzNpVc7vsIelQitVkKwnwugUyvRMjt4WRei3mIj4eEGgHa0iPxu6W2iLa5swHbTwSxgL9s5CkOqw=;3kXzZ3UgCuGu/9HDJ4HIbg=="
 ---

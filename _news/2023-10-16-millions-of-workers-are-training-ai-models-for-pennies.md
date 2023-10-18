@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-mo
 webUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Why the Gaming Industry is perfect for AI Training"
-    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
-    publishedDateTime: 2023-10-14T16:01:00Z
-    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
-    type: article
-    provider:
-      name: tech-ish.com
-      domain: tech-ish.com
-    quality: 19
 
 secured: "qDjUUBujTZrGf19Qd1GXd0ONR095LP5Mr90EHnrf3qFfzUSiv9gcleXHIeoOkEtIef2AaEJMalDepRfUkKEz4WPykpusfMEVpTQmAXL5WSGxVRilN8KSYrIiD7G63qIWnQe68O4GMP7/+BCbsd+sDuMNI3UusFKZDezpqg243dLtaf7PRFD+E+68uzCYivQSo8c5y/RkRoWykn3UMWMg7I/dLraa4+cI6Upe6z/XTTzZHVv5qkZvUUun1D7VN6c4pSgqXbvmpAl5273UwkfBg+wFN3MOzqfBvG74fe5kumoIBMHdcVJnhrByW6YutrS4KZ71gXB5Cs+9GT/ZlqGRmH2Lgb42BW3+AdeXbVKL+z8=;jfCkJ1NE+FPi/X2QHXBGfA=="
 ---

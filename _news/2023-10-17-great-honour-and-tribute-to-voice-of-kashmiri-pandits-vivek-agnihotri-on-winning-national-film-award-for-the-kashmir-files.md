@@ -26,6 +26,17 @@ images:
     height: 960
     isCached: true
 
+related:
+  - title: "\"Great honour and tribute to voice of Kashmiri pandits\": Vivek Agnihotri on winning National Film Award for 'The Kashmir Files'"
+    excerpt: "Filmmaker Vivek Agnihotri on Tuesday received the prestigious Nargis Dutt Award for Best Feature Film on National Integration at the 69th National Film Awards. Talking to ANI, Vivek Agnihotri said, \"We worked very hard for four or five,"
+    publishedDateTime: 2023-10-18T05:41:00Z
+    webUrl: "https://www.risingkashmir.com/great-honour-and-tribute-to-voice-of-kashmiri-pandits-vivek-agnihotri-on-winning-national-film-award-for-the-kashmir-files-2aecbe8f-4047-42bd-a1ab-7f7fb9c47fdd"
+    type: article
+    provider:
+      name: Rising Kashmir
+      domain: risingkashmir.com
+    quality: 0
+
 secured: "vfVSeTWHYNVS9M8yGiH6e9QHahMCtrYWXjFiDayDb6kL/33PmJMi8k7OfQ5nyXBfRkcHz3RcZ/zpCmJ0qi44dWU1fPOPGa9/uX+wFl9GLbbYOmYoGrXkr1NudgRFTYVRnX6BUP3gvNR1WQk7p1BNV2Cn7FElqU3KoLXMMNLPYvCbFveDYB3c9pdVW8caGqKy8QV02bFhF5MV0Y9p3sO3nTlKSqHt0fRzwl5Sd7Z+8WFvRH3MvJyRw9wh4WxSqwweLg3dE+dKusTP69Xjb7Dze1q5cWAnR1mXh+qPc9PtDz+GXP3wbvvFuCccmSIW8GL657Qew0t5eQrCFgA0FGlYyGOcBWgg7xwsmBCJZTxvCmU=;ao0EFTsMMsjNIoAk4dDmfw=="
 ---
 

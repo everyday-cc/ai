@@ -225,6 +225,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Microsoft launches AI content safety service"
+    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
+    publishedDateTime: 2023-10-18T04:07:00Z
+    webUrl: "https://www.arnnet.com.au/article/709165/microsoft-launches-ai-content-safety-service/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_microsoft_building_7.jpg"
+        width: 500
+        height: 315
+        isCached: true
   - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
     excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."
     publishedDateTime: 2023-10-16T09:26:00Z

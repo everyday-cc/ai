@@ -106,6 +106,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-17-nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus.md",
+      "title": "Nvidia enables AI processing on Windows PCs with RTX GPUs",
+      "excerpt": "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/",
+      "originalUrl": "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-mac-users-are-embracing-ai-apps-study-finds-with-42-using-ai-apps-daily.md",
       "title": "Mac users are embracing AI apps, study finds, with 42% using AI apps daily",
       "excerpt": "AI adoption among Mac app users is booming, according to a new report from app subscription service Setapp that found that 42% of Mac users today report",
@@ -261,7 +304,7 @@
       "originalUrl": "https://www.cnbc.com/2023/10/16/us-tackles-loopholes-in-curbs-on-ai-chip-exports-to-china.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 554,
+      "heat": 574,
       "tags": null,
       "images": [
         {
@@ -357,49 +400,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-15-could-powering-ai-gobble-up-as-much-energy-as-a-small-country.md",
-      "title": "Could Powering AI Gobble Up as Much Energy as a Small Country?",
-      "excerpt": "A new analysis suggests AI could match the energy budgets of entire countries, but the estimates come with some notable caveats.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/",
-      "originalUrl": "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/06/electric-grid-renewables-transmission-lines-power-energy.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1",
-      "publishedDateTime": "2023-10-15T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-14-7-working-groups-submit-final-indiaai-report-on-ai-development.md",
       "title": "7 working groups submit final IndiaAI report on AI development",
       "excerpt": "minister of state for it rajeev chandrasekhar on friday received the final report on indiaai program from the seven working groups of the it ministry chandrasekhar highlighted that the program will no",
@@ -429,6 +429,49 @@
       "provider": {
         "name": "Inshorts",
         "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-nvidia-will-release-the-best-ai-chips-faster-buy-the-stock.md",
+      "title": "Nvidia Will Release the Best AI Chips Faster. Buy the Stock.",
+      "excerpt": "BofA Global Research analyst Vivek Arya reiterated his \"Top Pick\" Buy rating for the stock and reaffirmed his target of $650 for the price.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "originalUrl": "https://www.barrons.com/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-91984761/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-top-pick-ai-chips-f7ec7d96",
+      "publishedDateTime": "2023-10-13T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1369,59 +1412,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-researchers-turn-to-harry-potter-to-make-ai-forget-about-copyrighted-material.md",
-      "title": "Researchers turn to Harry Potter to make AI forget about copyrighted material",
-      "excerpt": "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/",
-      "originalUrl": "https://venturebeat.com/ai/researchers-turn-to-harry-potter-to-make-ai-forget-about-copyright-material/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_child_wizard_with_dark_hair_and_glasses_waves_a_wand_an_5e85ac77-f867-4fde-84ed-22aa8c214dc4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
       ]
     }
   ],

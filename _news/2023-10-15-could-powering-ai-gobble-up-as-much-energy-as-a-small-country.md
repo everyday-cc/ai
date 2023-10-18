@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Singularity Hub
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Boom Could Use a Shocking Amount of Electricity"
-    excerpt: "Powering artificial intelligence models takes a lot of energy. A new analysis demonstrates just how big the problem could become"
-    publishedDateTime: 2023-10-13T11:11:00Z
-    webUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/"
-    ampWebUrl: "https://www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/the-ai-boom-could-use-a-shocking-amount-of-electricity/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 57
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/AE1CFA10-BB53-41CF-9D9F713DA1BA26B4.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "AI could prove energy hog that uses more electricity per year than some small countries: study"
     excerpt: "The growth of artificial intelligence could put a strain on energy resources globally, with AI tech depending on powerful servers that hog electricity."
     publishedDateTime: 2023-10-16T15:43:00Z

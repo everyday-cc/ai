@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "Here are some of the ways Apple might use generative AI"
-    excerpt: "I think Apple will introduce LLM support into numerous apps as small, locally run genAI models built to make life in those apps better."
-    publishedDateTime: 2023-10-13T12:58:00Z
-    webUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708771/how-apple-might-use-generative-ai.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/11/gift-guide-for-fitness-enthusiasts-100868109-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Dumbing down or wising up: How will generative AI change the way we think?"
     excerpt: "But if our only way to judge the future is by looking to the past, maybe now is the time to reflect on how both the internet and social media have changed our cognition, and apply some precautionary measures. Developing AI literacy is a good place to start, as is designing AI tools that encourage human autonomy and critical thinking."
     publishedDateTime: 2023-10-13T15:31:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "US tightens curbs on AI chip exports to China"
-excerpt: "Washington, United States - The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips"
-publishedDateTime: 2023-10-18T03:00:00Z
-originalUrl: "https://manilastandard.net/news/world-news/314381053/us-tightens-curbs-on-ai-chip-exports-to-china.html"
-webUrl: "https://manilastandard.net/news/world-news/314381053/us-tightens-curbs-on-ai-chip-exports-to-china.html"
+excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on"
+publishedDateTime: 2023-10-18T02:22:00Z
+originalUrl: "https://www.sfexaminer.com/news/national/us-tightens-curbs-on-ai-chip-exports-to-china/article_ebb95630-5bbd-511f-b5f9-feb7d2d37993.html"
+webUrl: "https://www.sfexaminer.com/news/national/us-tightens-curbs-on-ai-chip-exports-to-china/article_ebb95630-5bbd-511f-b5f9-feb7d2d37993.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: manilastandard
-  domain: manilastandard.net
+  name: San Francisco Examiner
+  domain: sfexaminer.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://manilastandard.net/wp-content/uploads/2023/10/michael-dziedzic-aQYgUYwnCsM-unsplash-scaled.jpg"
-    width: 2560
-    height: 2012
+  - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/4/e6/4e63ebd1-0d03-5c9d-a221-cf3f5eb34b4c/652f4e00487ae.image.jpg?resize=400%2C266"
+    width: 400
+    height: 266
     isCached: true
 
 related:
@@ -40,6 +40,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107317555-1697418146775-gettyimages-1507545065-CHINA_WORLD_AI.jpeg?v=1697421613"
         width: 4000
         height: 2667
+        isCached: true
+  - title: "US further restricts China from AI chips to hinder military development"
+    excerpt: "The measures aim to hamper China’s military development by closing loopholes in regulations released last October and will probably be updated “at least annually,” according to Commerce Department Secretary Gina Raimondo."
+    publishedDateTime: 2023-10-18T05:48:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 104
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/17/81863397-08d8-4eae-a222-2691db10781d_56af46d8.jpg?itok=GiKh8r5w&v=1697552319"
+        width: 1200
+        height: 630
         isCached: true
   - title: "New US rules on AI chip exports aim to stop workarounds on China sales, says US official"
     excerpt: "The US will take steps to prevent American chip makers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s coming actions to effectively block more AI chip exports. The new ..."
@@ -594,7 +610,16 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 18
+  - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
+    excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
+    publishedDateTime: 2023-10-18T04:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/u-s-tightens-chinas-access-to-advanced-chips-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
-secured: "z07J9tCUOtLaul7fI/d/vwl+znUAfKeCgd8TBHzmLKmfZL1Fe9wKgqFwCZ9XShnXTuk2PUvIe+dMSaQrTrQkqj+bStSQB4d+y4QUxuaqkbW9V5yHiwW1OS4AxdgquJ1lpRPx2BSSMqbE0g/Zq3Z82+GXGPWi6y6MB9eE6Z17x1boo5ZDFsacVEGkE9iBkyHM5XX8LE2PYcmco6SNK+XW4mBj4m2kxMqCpb1bHS7KfdPMOEpYy3a4uosFwlPtNkPyOcQK+y9gOi7Xi7NwaNS3AS//cYo++BtOPwOVKjz9CBKgI7D8ISWB7WLJ1CZOTBknV/8bifPZD4Orthi8VJyf5u9gZZkzAaeW6MiLVzahiAA=;fSUS0s9f1hE0uOLf2BW5SQ=="
+secured: "6Psz5qaZ8DFYjICxGG+0ei3yKng1454HT3RnX3wyUWDyu0kZSGXjEUh3Qh8GoVf5dbowTpWJuKoDaOxaHQtTeRtygEER6w0efSL5spuze2rZSUG0IQ7YA6f1FDS31x/JjoVjDuYJbnld+U/pQlL2JiDS0jJidBqnywhRx3z9oiFpp7xgCJN1m4PAdJsbCZarmEHJhr7PHqPGY2u5lBoFSqwiqwoehrwTI1UtPy2sgv56nP+B0I7uc3g7fzI4MmTFoW8OEfRA9Z6+D1pfXJYuN1UmhquF7squprRjpqR13RXYukIBhCCZ1/jKspWC0ORPRy1Njjpu7ZObh8LuGImFok1NVotewPs8DkiEGpfAp00=;b/KZrW0eFU4htADsyDXQgg=="
 ---
 

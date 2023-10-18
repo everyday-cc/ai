@@ -9,7 +9,7 @@ ampWebUrl: "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-
 cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/"
 type: article
 quality: 56
-heat: 376
+heat: 366
 published: true
 
 provider:
@@ -339,22 +339,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 17
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "The Voice referendum LIVE updates: Australians head to polls across the nation to vote on Indigenous constitutional recognition"
-    excerpt: "It’s a historic day, as Australians go to the polls for a vote to change the constitution for the first time since 1999."
-    publishedDateTime: 2023-10-13T12:25:00Z
-    webUrl: "https://www.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html?post=p55b5o"
-    ampWebUrl: "https://amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/federal/the-voice-referendum-live-updates-australians-head-to-polls-across-the-nation-to-vote-on-indigenous-constitutional-recognition-20231013-p5ec4w.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 16
     images:
       - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
         width: 300

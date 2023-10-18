@@ -80,15 +80,6 @@ related:
         width: 800
         height: 267
         isCached: true
-  - title: "Responding in real time to changing market dynamics"
-    excerpt: "Implementing more aware, dynamic and automated inventory management systems create a competitive advantage to increase market share.\nThe post Responding in real time to changing market dynamics appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-13T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/responding-in-real-time-to-changing-market-dynamics/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
   - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
     excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
     publishedDateTime: 2023-10-14T21:13:00Z

@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-03-this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators.md",
+      "title": "This Talent Collective Helps Businesses Access Top AI Talent From OpenAI, Google, And Other Innovators",
+      "excerpt": "In the rapidly evolving world of AI and machine learning, businesses are trying to keep up with ever-changing needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c99016bea27fc14269db67/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/08/03/this-talent-collective-helps-businesses-access-top-ai-talent-from-openai-google-and-other-innovators/amp/",
+      "publishedDateTime": "2023-08-03T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-the-ethical-and-legal-considerations-of-influencer-marketing-and-ai-photo-editing-tools.md",
+      "title": "The Ethical And Legal Considerations Of Influencer Marketing And AI Photo-Editing Tools",
+      "excerpt": "As AI continues to shape the digital landscape, social media influencers must balance leveraging its capabilities for creative expression and ensuring ethical practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/03/considerations-of-influencer-marketing-and-ai-photo-editing-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-03T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-whats-under-the-hood-of-this-ai-revolution.md",
       "title": "What’s Under The Hood Of This AI Revolution?",
       "excerpt": "AI users interact with one side of the tech’s story, but the enablers—the ones building the backstage infrastructure technology and hardware—are equally valuable.",

@@ -7,7 +7,7 @@ originalUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/
 webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/critics-say-artificial-intelligence-and-data-act-needs-to-focus-more-on-rights-not-just-business/380552"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Using data, AI, and cloud to transform real estate"
+    excerpt: "AI can enable business transformation to deliver positive outcomes for clients and propel sustainability goals, according to Sandeep Davé, chief digital and technology officer at CBRE."
+    publishedDateTime: 2023-10-16T15:26:00Z
+    webUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/"
+    ampWebUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/Sandeep-Dave1200.png?w=1200"
+        width: 1200
+        height: 671
+        isCached: true
 
 secured: "n+cDBuqbs9SZQ/oPhiCn2ksEY52zCF/aH0rBuOs9q7SFY5Su9dnnKoXc7FeYgYoqf5g1q/m+B3D81UaKnV8gPQ2PsPgcEc1cpMT2+hO1Lf9oItLHR62z31CzHp9P1vXJN5+IGHSYHwefP0y3elkEQyPKk8AVCJ6EleVu4OifHsoEfV3+DWmhbnqMQtJeVD2WOLvec6TbM8M6pLRvfJ/RmEsfhPwLaRLYFzgLPvRx0xJOagPHSMtIyzpKf/CQyOpKsSOk1hyVT4mShyEEo+LHfdNV1VGYSh5AJiEDyjbGWaDsJrIQ4pjcRoKgIMVZA6ty7wWEOF4EHtO9ZFJRRSnPaGHC0RnJYQTzXbnMYu63yx0=;TrM/TNXwCqvkIVUtV7USxw=="
 ---

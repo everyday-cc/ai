@@ -97,6 +97,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Meta Product Chief Sees AI Chatbots as Tool to Lure Advertisers"
+    excerpt: "Meta Platforms Inc. Chief Product Officer Chris Cox said that AI chatbots will become an increasingly attractive tool for advertisers, rather than just a way to lure users, in a sign the company is pivoting the technology toward business customers."
+    publishedDateTime: 2023-10-18T05:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-18/meta-product-chief-sees-ai-chatbots-as-tool-to-lure-advertisers"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "With AI On The Rise, One MSP Builds A Chatbot With A Cajun Accent"
     excerpt: "She said customers could start adopting new AI technology within three years. “The market is going to move fast,” she said. Another panelist, Henry Timm, CEO of Rolling Prairie, Ind.-based Phantom Technology Solutions – another MSP 500 member ..."
     publishedDateTime: 2023-10-16T23:01:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-g
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Indiatimes
@@ -27,64 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Three Questions To Ask Yourself Before Launching A Generative AI Project"
-    excerpt: "Before ideating and investing in your own generative AI project, I suggest approaching the project just as you would with any other visionary tech."
-    publishedDateTime: 2023-10-13T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/13/three-questions-to-ask-yourself-before-launching-a-generative-ai-project/amp/"
+  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
+    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
+    publishedDateTime: 2023-10-16T23:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f846bb05c4c0b7790b99b3d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1348
-        height: 900
+      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
-    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
-    publishedDateTime: 2023-10-17T04:51:00Z
-    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Obliterate That Bad Habit Of Dumbing Down Your Prompts When Using Generative AI So You Can Improve Your Results Tenfold"
-    excerpt: "Users of generative AI find themselves stuck in an old habit of choppy sentences due to Alexa and Siri commanding ways, but being fluent with GenAI is the better route."
-    publishedDateTime: 2023-10-16T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/16/obliterate-that-bad-habit-of-dumbing-down-your-prompts-when-using-generative-ai-so-you-can-improve-your-results-tenfold/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652704208cf6521bd5398c3e/0x0.jpg?format=jpg&crop=3446,2581,x347,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1202
-        height: 900
-        isCached: true
-  - title: "Keep Your AI Projects on Track"
-    excerpt: "AI—and especially its newest star, generative AI—is today a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity."
-    publishedDateTime: 2023-10-16T16:00:00Z
-    webUrl: "https://hbr.org/2023/11/keep-your-ai-projects-on-track"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23063_MYERS.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
+      name: tech-ish.com
+      domain: tech-ish.com
+    quality: 19
 
 secured: "CbA1k7Cs2RYYisuRetbJDPZzWsyZoYT2pfJrJAzN7MmW6ErATguhcHWbuiyzbdAMfpRQ+qX71tizYKOmpYOEkdMeY3N1a40fVgDm+OE7OWdugYZefyPeU59ePf7YumsvqKyuuiDAizlCtR1oO6Lc2ZnXjl8FCydAsyRls78EfH+WTx9liRIXr8Dpa5T6RwO9FSOoU4ebvd5SWw2zYrBgEtWGYS7ixPB1P8/ckX6QPbgx4GXd3rYnQHsM6VO+x68gZEiP50520c4zw32IVmpZIWIux7qItiPWSQRBbWehDhBLQ6qZ62gv14y5as2vbcLoear7NZEBIijZHC2AKUih+ar2ryie0x72Lc8L++hmMgw=;Z/HH29s+yiJNcpF9njqrcQ=="
 ---

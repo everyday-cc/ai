@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unl
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
+    excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
+    publishedDateTime: 2023-10-16T12:50:00Z
+    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/10/35266164/the-ai-story-is-more-than-nvidia-companies-like-amesite-are-leveraging-ai-to-transform-e-lea"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
   - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
     publishedDateTime: 2023-10-16T12:17:00Z
