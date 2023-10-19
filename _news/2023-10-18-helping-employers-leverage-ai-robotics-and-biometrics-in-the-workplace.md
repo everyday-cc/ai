@@ -51,6 +51,31 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Amazon Introducing Warehouse Overhaul With Robotics to Speed Deliveries"
+    excerpt: "Amazon.com is introducing an array of new artificial intelligence and robotics capabilities into its warehouse operations that will reduce delivery times and help identify inventory more quickly. The revamp will change the way Amazon moves products through its fulfillment centers with new AI-equipped sortation machines and robotic arms."
+    publishedDateTime: 2023-10-18T23:58:00Z
+    webUrl: "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-11697632017638.html"
+    ampWebUrl: "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/im-870484_1697632022016_1697632035154.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "House mulls AI privacy safeguards"
+    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology   The Big Story House scrambles as AI raises privacy concerns A House panel kicked off a series of hearings"
+    publishedDateTime: 2023-10-18T22:26:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4263730-house-mulls-ai-privacy-safeguards/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 19
 
 secured: "L2rsHqeWz4G1HU5yMaYFx/RrfscFbn1IjFeIR4nxCrgi5jWm667mTLs6Cfhyg4ZFILAd514QpEhYimOsLLfuIdX3D+cf8nwJbqt3sL+7ry/cXedf5PYP90A1WP1OD9DOxpEb+rEXs0YtCC2X4L6xh6qfauI65ptfQzYWIl3H599S/V4NuDPatc6SL9HOSHevnLhmX3haCkTiuk2E8ptvmEuCdjGZp6CXmrCxKpjTrMv8owIxKhXmBTyR3cO0w+uFwz/1a/OxMAL+NA6S8XkligHql1XWuxRryNqmUy4OrGn86IeD4URueLmwOMlW/Q1ol1jRwQ2G3f/712+qiEYP/05pb1S/vgnTJJNHps4R+0o=;sxTUsd7Lf8GFbeeOPOop4g=="
 ---

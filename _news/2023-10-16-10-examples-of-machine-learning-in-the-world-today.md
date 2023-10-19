@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-wo
 webUrl: "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/"
 type: article
 quality: 99
-heat: 109
+heat: 110
 published: true
 
 provider:

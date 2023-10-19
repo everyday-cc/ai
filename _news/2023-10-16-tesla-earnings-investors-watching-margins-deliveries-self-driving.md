@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Releases New Unedited Video Of Full Self-Driving At Work In Austin"
+    excerpt: "The system manages an entire drive without the need for driver intervention but the bar is likely higher at this point in time"
+    publishedDateTime: 2023-10-18T21:30:00Z
+    webUrl: "https://www.carscoops.com/2023/10/tesla-releases-new-unedited-video-of-full-self-driving-at-work-in-austin/"
+    ampWebUrl: "https://www.carscoops.com/2023/10/tesla-releases-new-unedited-video-of-full-self-driving-at-work-in-austin/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-releases-new-unedited-video-of-full-self-driving-at-work-in-austin/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 58
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/10/Screenshot-2023-10-17-170815.jpg"
+        width: 2116
+        height: 1190
+        isCached: true
   - title: "Tesla recalls 362000 U.S. vehicles over Full Self-Driving software – Reuters"
     excerpt: "Tesla Inc (TSLA.O) will recall more than 362,000 U.S. vehicles to update its Full Self-Driving (FSD) Beta software after U.S."
     publishedDateTime: 2023-10-14T15:22:00Z

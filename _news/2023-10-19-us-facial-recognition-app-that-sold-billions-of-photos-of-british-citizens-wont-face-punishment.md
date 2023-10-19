@@ -19,52 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Bill targets police misuse of facial recognition"
-    excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that'"
-    publishedDateTime: 2023-10-14T15:29:00Z
-    webUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-facial-recognition/article_35077526-69dd-11ee-a04e-6fe0fe7cd6d0.html"
+  - title: "US facial recognition app that sold billions of photos of British citizens dodges punishment"
+    excerpt: "A company that sold a facial recognition database featuring information on British citizens has escaped being fined because of a loophole in UK data protection law. Judges have ruled that Clearview AI broke no law when it sold its database to police ..."
+    publishedDateTime: 2023-10-18T17:38:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2023/10/18/clearview-ai-facial-recognition-database-escapes-fine/"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 28
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/08/80897eea-69dd-11ee-9a36-13e52a140747/652962b0064a1.image.jpg?crop=1035%2C543%2C0%2C75&resize=1035%2C543&order=crop%2Cresize"
-        width: 1035
-        height: 543
+      - url: "https://www.telegraph.co.uk/content/dam/business/2023/10/18/TELEMMGLPICT000264473575_16976459619830_trans_NvBQzQNjv4BqrpfQw2hJyG_yckwxPAr0gmyy-GsNrhPQbLesooHneHs.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
-    publishedDateTime: 2023-10-18T15:00:00Z
-    webUrl: "https://www.nextgov.com/digital-government/2023/10/logingov-add-facial-recognition-tech/391300/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "How often should police use facial recognition technology? Mass. considering strict limits"
-    excerpt: "BOSTON — One New Jersey man spent 11 days in jail when he was mistakenly identified as a suspect in an assault through the use of facial recognition technology. A Detroit father was arrested at ..."
-    publishedDateTime: 2023-10-14T07:32:00Z
-    webUrl: "https://www.telegram.com/story/news/state/2023/10/13/massachusetts-police-facial-recognition-limits-proposed/71159918007/"
-    type: article
-    provider:
-      name: Telegram
-      domain: telegram.com
-    quality: 9
-  - title: "What Educators Should Know About Facial-Recognition Tech"
-    excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
-    publishedDateTime: 2023-10-16T18:41:00Z
-    webUrl: "https://www.govtech.com/education/k-12/what-educators-should-know-about-facial-recognition-tech"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 4
 
 secured: "2ZuBENQVSxf1SMJOHvjj0DSDyPwrnnyHTroA+EqHvgsOI583/dIJIV07NJnP4KkpKKBUxj/Vi4kVHaFjj376fx1Lrv7+ZwMmLiSoF/rUuiD5UYkIYEMAsKxKmzHhKmw4PZegYHHvJBeujHkgafu1xFZrMjqByuYK3ut/X7AULW+dFwaeuWM4UFhyyzrJuzkdTzW4eTFSuMqLj7DasoQA4JlfPrKsucLJobKT5VW1tYxr3zdK6wVXBNiJ3VOrihhVvePRa+1CxPyT9lnFB6Zk17+k7rD5loeOiJ+AwX3DWjU5VpMjPLrGx/qwYrYv6h1VuMMdnSYSKUemEl6yoLQ7tPhzMlp01cfvUwm2Z1p+JHI=;abpFHbH6SZDzWjSlclYThg=="
 ---

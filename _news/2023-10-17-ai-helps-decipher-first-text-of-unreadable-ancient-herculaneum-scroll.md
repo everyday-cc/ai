@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/science/2023/10/ai-helps-decipher-first-text
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/science/2023/10/ai-helps-decipher-first-text-of-unreadable-ancient-herculaneum-scroll/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

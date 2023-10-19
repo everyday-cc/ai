@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How transparent are AI models? Stanford researchers found out."
+    excerpt: "Join us for key insights and networking with leaders in the Data and AI spaces at VB's exclusive after hours event this November! VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More"
+    publishedDateTime: 2023-10-18T22:37:00Z
+    webUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T093154.335.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Millions of Workers Are Training AI Models for Pennies"
     excerpt: "Her friend told her about Appen, an Australian data services company that was looking for crowdsourced workers to tag training data for artificial intelligence algorithms ... Appen’s clients have included Amazon, Facebook, Google, and Microsoft, and ..."
     publishedDateTime: 2023-10-15T07:02:00Z

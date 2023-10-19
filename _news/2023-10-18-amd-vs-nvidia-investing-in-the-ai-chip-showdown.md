@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-inve
 webUrl: "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-investing-in-the-ai-chip-showdown-1032716830"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "WuAb3VUGI9QQAjaymDamKAX3meZtOF3itxKp2LK4qIOFQSCeRsLa7pk/KpfyfbOdYh1Aw0o7SQAn5+k5k9YhdFMTYg3WGzciy/5Ij9pOWPnQ7truXHjzJezMBpWCMWYlxTlie98FotXQ7yaRaDjO/0pl8yqoVvuVe4UdePfDL/8SGZ9vD8NCgbsw0BqQBEFNimbV+Vj/JCExkJuBO3P6iPQxdqEoODnSuin8l0Cnx4lyZI85r9C/e3Ek6eMvGbvQlh/y2G3scAAnYSfMFEDpzBfEiyF13OKs8WZ42jrAPQPG70U8wUkuoUu2Wf6h00WgWEkrTFKP8KjtCGQDHxqWRRmmYFWDYNdkpp9c0nPrs68=;5pOtBTfQFr9nAhlx3BuJdA=="
 ---

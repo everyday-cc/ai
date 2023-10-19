@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-18T21:01:00Z
 originalUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
 webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"

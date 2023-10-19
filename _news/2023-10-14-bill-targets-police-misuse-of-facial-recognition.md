@@ -7,7 +7,7 @@ originalUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-fa
 webUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-facial-recognition/article_35077526-69dd-11ee-a04e-6fe0fe7cd6d0.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,47 +25,62 @@ images:
     isCached: true
 
 related:
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
-    publishedDateTime: 2023-10-18T15:00:00Z
-    webUrl: "https://www.nextgov.com/digital-government/2023/10/logingov-add-facial-recognition-tech/391300/"
+  - title: "Met uses facial recognition to crack down on prolific retail criminals"
+    excerpt: "The Metropolitan Police has announced plans to use innovative facial recognition technology to identify London’s most prolific retail offenders."
+    publishedDateTime: 2023-10-18T23:13:00Z
+    webUrl: "https://news.met.police.uk/news/met-uses-facial-recognition-to-crack-down-on-prolific-retail-criminals-473935"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Metropolitan Police Service
+      domain: police.uk
+    quality: 54
+    images:
+      - url: "https://resources.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/f9glgjsmleepz8g9pxwi"
+        width: 1782
+        height: 1002
+        isCached: true
+  - title: "Telpo launches self-checkout terminal with facial recognition option"
+    excerpt: "The terminal utilizes artificial intelligence and computer vision to automatically identify objects during the checkout process."
+    publishedDateTime: 2023-10-16T21:32:00Z
+    webUrl: "https://www.biometricupdate.com/202310/telpo-launches-self-checkout-terminal-with-facial-recognition-option"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/22180951/retail-screen-scaled.jpg"
+        width: 2048
+        height: 1314
         isCached: true
-  - title: "How often should police use facial recognition technology? Mass. considering strict limits"
-    excerpt: "BOSTON — One New Jersey man spent 11 days in jail when he was mistakenly identified as a suspect in an assault through the use of facial recognition technology. A Detroit father was arrested at ..."
-    publishedDateTime: 2023-10-14T07:32:00Z
-    webUrl: "https://www.telegram.com/story/news/state/2023/10/13/massachusetts-police-facial-recognition-limits-proposed/71159918007/"
+  - title: "GSA to add facial recognition option to Login.gov in 2024"
+    excerpt: "After determining early last year that it would hold off on using facial recognition as part of its governmentwide single sign-on and identity verification platform Login.gov, the General Services Administration in 2024 will add an option for system users to verify their identity with “facial matching technology,” the agency announced Wednesday."
+    publishedDateTime: 2023-10-18T21:45:00Z
+    webUrl: "https://fedscoop.com/gsa-to-add-facial-recognition-option-to-login-gov-in-2024/"
     type: article
     provider:
-      name: Telegram
-      domain: telegram.com
-    quality: 9
-  - title: "US facial recognition app that sold billions of photos of British citizens won’t face punishment"
-    excerpt: "A company that sold a facial recognition database featuring information on British citizens has escaped being fined because of a loophole in UK data protection law. Judges have ruled that Clearview AI broke no law when it sold its database to police forces because the buyers were non-UK and therefore outside of jurisdiction."
-    publishedDateTime: 2023-10-18T17:33:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2023/10/18/clearview-ai-facial-recognition-database-escapes-fine/"
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/03/GettyImages-624863836.jpg"
+        width: 2100
+        height: 1104
+        isCached: true
+  - title: "‘Game-changing’ facial recognition tech to be used in crackdown on London shoplifting"
+    excerpt: "Facial recognition technology is going to be used to investigate and identify prolific criminals who target retail businesses in London, after an increase in attacks and shoplifting."
+    publishedDateTime: 2023-10-18T23:01:00Z
+    webUrl: "https://www.lbc.co.uk/news/facial-recognition-london-shoplifting-crackdown/"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 6
-  - title: "What Educators Should Know About Facial-Recognition Tech"
-    excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
-    publishedDateTime: 2023-10-16T18:41:00Z
-    webUrl: "https://www.govtech.com/education/k-12/what-educators-should-know-about-facial-recognition-tech"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 4
+      name: LBC
+      domain: lbc.co.uk
+    quality: 32
+    images:
+      - url: "https://images.lbc.co.uk/images/610559?width=1200&crop=16_9&signature=TkmCvSv_d5me6QOkO_n-cmTkE_0="
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "YOyFLxWez5era6T4RDjhVp44FJKO6n9hLdl+0MwE1XaxY/t9lwyIrjUI5MxrB3IIvCF3MTZjcdt+SVm50bTP0uuq6GszX1fUjGgj8fS2OcVwl8P8JwY7YqDHru69OpPCvUrzmdzS6v6wu76V5830eJAqSDmjMCd2n/wKs9r2zII6f+0aMWOJMi3czZSuK/zTPs+fXEcYYhY2KrY3d04W5WBvo3xKLeza1mwD9Q33u1A4WT8vMV8kKJfzYhRazfRYTMsZ/gqjb/Ti/2Ef1crl3xRUZz7cHShVbp7YYNSRUFhvhvRnbkyDNZuuNBLALfPlRo0dUzNbuJaHxgd45WBsSfCAirfDidf8o5229qAWDZgThXa1x241FD8Ei0ecZ9tD2s9kTAuqAKCziT7KCqOAgqePEpgEAKevpZLeCYdU5p2a6BCyzArpASaDmQTOlgf0bBieDDGoJgRllHBy4MX0zbWGll7TOcscIILDWvNIxHCNhI3r2x75qr7QaGiwiXEGti5QPhj6VWio4zRVGZqUpA==;/ProMWgwM1cttAC9JUi1Ag=="
 ---

@@ -260,6 +260,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Defeat of Australian Labor’s Voice referendum highlights stark class divide, not racism"
+    excerpt: "The Voice voting patterns demonstrate the intensifying hostility of working-class people to the entire political establishment."
+    publishedDateTime: 2023-10-18T03:46:00Z
+    webUrl: "https://www.wsws.org/en/articles/2023/10/18/fypz-o18.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 16
+    images:
+      - url: "https://www.wsws.org/asset/ea9dc941-3e0a-4ca4-8d44-d339601aef10?rendition=1600x900"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
     publishedDateTime: 2023-10-15T14:45:00Z

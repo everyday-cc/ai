@@ -100,6 +100,20 @@ related:
         width: 1270
         height: 847
         isCached: true
+  - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
+    excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
+    publishedDateTime: 2023-10-18T23:21:00Z
+    webUrl: "https://menafn.com/1107266905/G42-And-Openai-Launch-Partnership-To-Deploy-Advanced-AI-Capabilities-Optimized-For-The-UAE-And-Broader-Region"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_891a8image_story.jpg"
+        width: 1092
+        height: 678
+        isCached: true
   - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
     excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"
     publishedDateTime: 2023-10-17T19:16:00Z

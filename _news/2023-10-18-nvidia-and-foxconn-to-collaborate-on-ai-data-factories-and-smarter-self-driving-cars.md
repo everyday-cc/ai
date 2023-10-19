@@ -194,6 +194,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "NVIDIA Partners Up With Foxconn To Build AI Factories"
+    excerpt: "NVIDIA announced that it will be working with the Foxconn Group, in order to create new factories and industries that"
+    publishedDateTime: 2023-10-18T23:43:00Z
+    webUrl: "https://www.lowyat.net/2023/309346/nvidia-foxconn-ai-factories/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 39
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/NVIDIA-Foxconn-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NVIDIA Partners With Foxconn To Build Factories And Systems For The AI Industrial Revolution"
     excerpt: "Foxconn will integrate NVIDIA technology to develop a new class of data centers powering a wide range of applications - including digitalization of manufacturing and inspection workflows, development of AI-powered electric vehicle and robotics platforms, and a growing number of language-based generative AI services."
     publishedDateTime: 2023-10-18T03:52:00Z

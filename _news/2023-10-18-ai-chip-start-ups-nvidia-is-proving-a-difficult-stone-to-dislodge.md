@@ -43,6 +43,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "l9qhXg19VEea5fCH97YPCYIeJK2yCAKIOblVtqEBzUM9ZfFbXytorvpEGyaIpRDoo0rFKTLeDnZvkTl9TIZhX5XGCiEItdcnjciZTPMvUVOrpeBeeO/lxsyDbs6DyPbSPck7VG9ktDoD1EXPe2rXfbL7Kvi1HAe5TdJ7e6mwBA2reYroWVvc7qvyLchn+k+JR/oylf7+RHppLPdtrWEdb5/QrCqKFggJUMNzp1tdRAmNKTECVnxczx4OIDr/voZMuoC2wm/jwtBp3Al+s95N8Ss0jUkwUxEyqh2FtkzaJf+s2wOKrErBFX77utPa7z6xOPGDSygMP073J4oCLicby7tVvy6uIP9HhBga9KRwNms=;3N8am2I5UeHME8EXJak1yQ=="
 ---

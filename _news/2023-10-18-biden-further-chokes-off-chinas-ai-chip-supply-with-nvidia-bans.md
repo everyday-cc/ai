@@ -46,6 +46,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "l2vWKessOQ/kToy2rDyElIg0AfZfc4Xh2WfnQQyObRgEqyqwxpezmVWvNnM+xtetcWlfDC+hzw65tAssZXBFF9kCWvPdHI9RrCxcWO7gBplSCYHLNj50i11NH2tJLnze8M080K/dtXTCUWU+RtReFt3i7g0QFf/mk5LjgnMnEPnFZmW/S+n9790g3VtLaaSHMqTCbpn+c7hxqjEbv2RUcWUOe//pcKShsHNtnyvBnH5Uyei8qD5bBUKDNETSQdpoP2/nukl58jp6uMtBiXGi8Am1HYfRFQM9IIxBVekYRPIP1MJtoX6XA6fQGLYQm7oOh9B5eWcRJ4Q2wUMNPnKKzP/2lALMGws9diJh5szwWaI=;Ft3SS/znt9bkeK83O/0TtQ=="
 ---

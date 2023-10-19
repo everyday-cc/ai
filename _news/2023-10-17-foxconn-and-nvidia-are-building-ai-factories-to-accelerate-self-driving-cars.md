@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l75520231018115128.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "NVIDIA Partners Up With Foxconn To Build AI Factories"
+    excerpt: "NVIDIA announced that it will be working with the Foxconn Group, in order to create new factories and industries that"
+    publishedDateTime: 2023-10-18T23:43:00Z
+    webUrl: "https://www.lowyat.net/2023/309346/nvidia-foxconn-ai-factories/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 39
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/NVIDIA-Foxconn-1.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Nvidia and Foxconn to collaborate on AI data factories and smarter self-driving cars"
     excerpt: "Nvidia Corp. said today it’s expanding its ongoing collaboration with Hon Hai Technology Group, better known as Foxconn, to accelerate the development of artificial intelligence-powered electric vehicles and robotics platforms."

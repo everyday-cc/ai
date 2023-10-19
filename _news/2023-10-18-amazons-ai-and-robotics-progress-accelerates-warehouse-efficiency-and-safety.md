@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35304469"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35304469"
 type: article
 quality: 86
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Amazon Introducing Warehouse Overhaul With Robotics to Speed Deliveries"
+    excerpt: "Amazon.com is introducing an array of new artificial intelligence and robotics capabilities into its warehouse operations that will reduce delivery times and help identify inventory more quickly. The revamp will change the way Amazon moves products through its fulfillment centers with new AI-equipped sortation machines and robotic arms."
+    publishedDateTime: 2023-10-18T23:58:00Z
+    webUrl: "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries-11697632017638.html"
+    ampWebUrl: "https://www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/special-report/amazon-introducing-warehouse-overhaul-with-robotics-to-speed-deliveries/amp-11697632017638.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 74
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/im-870484_1697632022016_1697632035154.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Helping employers leverage AI, robotics and biometrics in the workplace"
     excerpt: "Transformative technologies are increasing productivity and job satisfaction, as well as providing workers with essential upskilling."
     publishedDateTime: 2023-10-18T13:01:00Z
@@ -52,6 +68,15 @@ related:
       name: Employee Benefit News
       domain: benefitnews.com
     quality: 49
+  - title: "House mulls AI privacy safeguards"
+    excerpt: "Welcome to The Hill’s Technology newsletter {beacon} Technology Technology   The Big Story House scrambles as AI raises privacy concerns A House panel kicked off a series of hearings"
+    publishedDateTime: 2023-10-18T22:26:00Z
+    webUrl: "https://thehill.com/newsletters/technology/4263730-house-mulls-ai-privacy-safeguards/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 19
 
 secured: "CxK0jNwZ9iaMZMMs1OesP8GGpwgTrdbDcmgGOQqpdO6TaWRCah4/o5pGzwhr7Qq9L7WLUIU/6X1ZV5JgkKVdN8tBZaHBsTZDrsSP3WXBT5hK5gDKHLv+7Q+uaz8rIFgIM5WbsZ3Jv6lVroFzrjWP1hCComMsZ+knBn7YAlUJlLrNWXMpVJ/td6il8Nb82Cc4UTEETMtwtmWwlg/s09535er+vf1sO5LYMV0X9p3HOLN4h9AqOwyloW5YVzEqpvwc1CPMjOEvCqukljCkAJmE8AAwHmXyYankJaidYsSzjb6+ImaGLQi8VAC0ur4OOaQWJ581n8cl2MkbI/taqJ5t/TGuJu9V0qeiE8/6hRbYJM4=;/kfuCX4wMiO5uePUV1TcCQ=="
 ---

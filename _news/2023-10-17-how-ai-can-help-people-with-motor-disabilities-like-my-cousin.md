@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-europe/united-kingdom/ai
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-europe/united-kingdom/ai-motor-disabilities/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1300
     height: 866
     isCached: true
+
+related:
+  - title: "AI can identify people with abnormal heart rhythms"
+    excerpt: "Investigators found that an artificial intelligence (AI) algorithm can detect an abnormal heart rhythm in people not yet showing symptoms. The algorithm, which identified hidden signals in common medical diagnostic testing,"
+    publishedDateTime: 2023-10-18T23:08:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231018115613.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
 
 secured: "8EE5CSwa0efkCyvEeZYSpKKGVojESvzRqzIz4AmwFxEPbLD6MZoUNA3/v3qMUDEo1icgSXwDq3tI6e25ZpRbZ/P1NHuvFnsKaIM7uYRQAFcvPGhyXesIVgP3i/0C9RqChZKWaQn2IoX0UoiWUuPdgQB77eTw9weO5p5ZqWXA1S+L69bwaqqWedFzBP7osqG/1BukuLz26pHY28aXkBvPtpVHwZUxZyGhyZ7Z41kiPOvQRuKGu9VbXJzh+Kl9BaZzA2HTMmDXMNPTI+L67YL24kAjMNxfiYHe1KZq4FWTvFUPmWUKIUd2OCLukivwynoeZccJjcZJk4geuxp4kAzuwVJkOOZ8kwU6csHcPT3Ocho=;lwyUyca5/rhyFKsheGAKRg=="
 ---

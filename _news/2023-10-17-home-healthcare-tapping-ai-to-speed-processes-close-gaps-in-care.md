@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
+  - title: "How AI can help close IoT’s growing security gaps to contain ransomware"
+    excerpt: "Nation-state attackers are increasingly hitting unprotected IoT sensors essential to infrastructure and manufacturing."
+    publishedDateTime: 2023-10-18T21:55:00Z
+    webUrl: "https://venturebeat.com/security/how-ai-can-help-close-iots-growing-security-gaps-to-contain-ransomware/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_e-commerce_fraud_as_vector_art_8e23d5cb-4a8d-4a87-a483-299c9fa1a316.png?w=1200&strip=all"
+        width: 1170
+        height: 936
         isCached: true
 
 secured: "t0GOvXFqWbNJGr6dveKSxHWAToLcwYV7CdL9op5Uc4xGQEA0ka0b64t16TaedP6nWXCf0OdrkmQj5h/EiLCfZ16vfkMOTY4UrwvyLp2Z8ax1C18enq2vweAkKCjPJSdAkmfNsEibPqpLS7nf20MNJtpPQerEFFq3GnOx7gZnLHABbSeTaVjHMeISi9L51c5lvYSyQQxT6tSKXOf6TqCEQvDh6bHcbYWJ3YI1SQiQXzSnYzEQbxFtQKgYiEf20H/hmjr7Swpmi73fIy4EWQhwwie0vTTjE/1uIuF298z9NX8+xUiD1wz1yS9kdGcQtNnhXu5K7gDb3n1ya0ITczzpPJL8cxayvgeHWmAeC2f7slo=;hhu5qzsObFHN0qTJWSVIzQ=="

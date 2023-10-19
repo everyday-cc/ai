@@ -65,7 +65,7 @@ related:
     provider:
       name: pratt.duke
       domain: duke.edu
-    quality: 39
+    quality: 41
     images:
       - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
         width: 2560

@@ -55,19 +55,19 @@ related:
         isCached: true
   - title: "Microsoft's new AI assistant can go to meetings for you"
     excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-    publishedDateTime: 2023-10-18T17:35:00Z
-    webUrl: "https://www.bbc.com/news/technology-67103536"
-    ampWebUrl: "https://www.bbc.com/news/technology-67103536.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67103536.amp"
+    publishedDateTime: 2023-10-18T20:35:00Z
+    webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
+    ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 104
+      name: AOL
+      domain: aol.com
+    quality: 76
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41F6/production/_131468861_gettyimages-607477465.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."

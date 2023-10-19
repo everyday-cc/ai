@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/10/17/tesla-releases-new-video-self-drivi
 webUrl: "https://electrek.co/2023/10/17/tesla-releases-new-video-self-driving-software/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Releases New Unedited Video Of Full Self-Driving At Work In Austin"
+    excerpt: "The system manages an entire drive without the need for driver intervention but the bar is likely higher at this point in time"
+    publishedDateTime: 2023-10-18T21:30:00Z
+    webUrl: "https://www.carscoops.com/2023/10/tesla-releases-new-unedited-video-of-full-self-driving-at-work-in-austin/"
+    ampWebUrl: "https://www.carscoops.com/2023/10/tesla-releases-new-unedited-video-of-full-self-driving-at-work-in-austin/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2023/10/tesla-releases-new-unedited-video-of-full-self-driving-at-work-in-austin/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 58
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2023/10/Screenshot-2023-10-17-170815.jpg"
+        width: 2116
+        height: 1190
+        isCached: true
   - title: "Tesla Earnings: Investors Watching Margins, Deliveries, Self-Driving"
     excerpt: "Here are the top five things to look out for in Tesla's earnings: Investors will look for details on how CEO Elon Musk plans to ensure the company will deliver a record 476,000 vehicles in the fourth quarter to meet its annual goal of 1.8 million units."
     publishedDateTime: 2023-10-16T10:01:00Z

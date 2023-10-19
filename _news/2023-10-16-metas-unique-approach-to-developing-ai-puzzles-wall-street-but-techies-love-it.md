@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/16/metas-open-source-approach-to-ai-puzzles-wall-street-techies-love-it.html"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

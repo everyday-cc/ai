@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Bill targets police misuse of facial recognition"
-    excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that'"
-    publishedDateTime: 2023-10-14T15:29:00Z
-    webUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-facial-recognition/article_35077526-69dd-11ee-a04e-6fe0fe7cd6d0.html"
+  - title: "How stores are spying on you using creepy facial recognition technology without your consent"
+    excerpt: "Well, guess what? They are. That's right, some of the biggest retailers in this country are secretly using sneaky facial recognition technology in their stores. Facial recognition technology is a ..."
+    publishedDateTime: 2023-10-15T10:56:00Z
+    webUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent"
+    ampWebUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
     type: article
     provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
+      name: Fox News
+      domain: foxnews.com
+    quality: 78
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca26886f-5711-4159-9b16-f3d02cc8e509/24f16d92-343e-4303-ba2a-681a026cc44c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live facial recognition technology has no place in a free society"
+    excerpt: "The right to privacy is a fundamental cornerstone of any free society. The darkest moments in human history reflect episodes of peoples bereft of"
+    publishedDateTime: 2023-10-18T15:27:00Z
+    webUrl: "https://www.politicshome.com/thehouse/article/live-facial-recognition-technology-no-place-free-society"
+    type: article
+    provider:
+      name: PoliticsHome
+      domain: politicshome.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/08/80897eea-69dd-11ee-9a36-13e52a140747/652962b0064a1.image.jpg?crop=1035%2C543%2C0%2C75&resize=1035%2C543&order=crop%2Cresize"
-        width: 1035
-        height: 543
+      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2023_10/W4M047_yvlkyt.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How often should police use facial recognition technology? Mass. considering strict limits"
     excerpt: "BOSTON — One New Jersey man spent 11 days in jail when he was mistakenly identified as a suspect in an assault through the use of facial recognition technology. A Detroit father was arrested at ..."
@@ -48,15 +64,6 @@ related:
       name: Telegram
       domain: telegram.com
     quality: 9
-  - title: "US facial recognition app that sold billions of photos of British citizens won’t face punishment"
-    excerpt: "A company that sold a facial recognition database featuring information on British citizens has escaped being fined because of a loophole in UK data protection law. Judges have ruled that Clearview AI broke no law when it sold its database to police forces because the buyers were non-UK and therefore outside of jurisdiction."
-    publishedDateTime: 2023-10-18T17:33:00Z
-    webUrl: "https://www.telegraph.co.uk/business/2023/10/18/clearview-ai-facial-recognition-database-escapes-fine/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 6
   - title: "What Educators Should Know About Facial-Recognition Tech"
     excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
     publishedDateTime: 2023-10-16T18:41:00Z
