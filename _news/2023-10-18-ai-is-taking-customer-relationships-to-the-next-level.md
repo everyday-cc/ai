@@ -34,6 +34,20 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Eight good news stories about AI"
+    excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
+    publishedDateTime: 2023-10-19T08:06:00Z
+    webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "nhOTnvqXtWveggl4I79q6MELmVsh8P63PSkMYv2GjtdfwGQhp5kiG5cVAMFfH/NfFDWChDONlOmMMcjkIjLYf29H4I6lG3rRB7NiXA6eBQF6sdZFutF/MWh1BAOkJd94qFlws6a/G+qp5jYVxrjXY4LSQDHPA/bpA6TBQgxR2xFq/a0GCdCGB+S/fVXfMYxxeZP2yjjmqp7GF7ULlA/K6e+vwdzDWb987ATHu1xf+mYXo6+xx62xzIcQUnKdWNuJXhEEGeOvDfwfGJpeqxISIdDJZNUyscjh5dACBT+F6o7BVuHiPQX02OodfRKItJ95w3bAego84WY+z4nHMxL6luFKbVz/NZ+R71cPBRIeo44=;2Mp6KTiCpKDEAbRyZWK81g=="
 ---

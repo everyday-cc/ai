@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Eight good news stories about AI"
+    excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
+    publishedDateTime: 2023-10-19T08:06:00Z
+    webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "AI Is Taking Customer Relationships to the Next Level"
     excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
     publishedDateTime: 2023-10-17T17:15:00Z

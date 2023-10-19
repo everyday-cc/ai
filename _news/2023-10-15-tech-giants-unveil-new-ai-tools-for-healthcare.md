@@ -151,6 +151,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
+    excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
+    publishedDateTime: 2023-10-19T18:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-microsoft-s-azure-and-ai-growth-ahead-of-q1-earnings---here-s-why-1032722146"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
   - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
     excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
     publishedDateTime: 2023-10-19T04:29:00Z
@@ -457,6 +466,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
+  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
+    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
+    publishedDateTime: 2023-10-19T19:18:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 20
 
 secured: "MBHgIyEc95JWdAxjE4hpLtyxK7r2yra9mX/bot7o70S26AdtMwywYJfs80cHXZ9BKe6HIsLBJRFi5yvOYW5x5EDx9REJ+o6rIiRcLj/z+bEmQiSKp2PIhGcyksUHKL2wbjtl/aMGcKwOSyCmKTvDr1RmUYPLLSSQgmzDJEWaFUbwG4s0SEhsDyBduVzcX99I4OP4/29Soa8vz80RvoWfMsCtdSvIuY62fYJHPVFs6YLpH94TAd6cfnO7DR6oF4aDL7x4xIJ2j80RBo7x7Eoho9+rGFO8Ye4/NUQ38GfCh2WSpPuPGek9nxFboV7qIJ4esndSSJlhMNMVQ1t+mb+OcMfwRo+YjREhTLfW5yI3qTAcHqr0qwNo1GEP+Lx070OUvruqq0ixJ7YFRxBzToODU2+tvXz04dkXLQOR0Yu+PjtAkoI1ArEM+2MS14y4mhcGVOMPIhJqe+zFqob70Gy0f8+xIG6Si5Ce4oAteO5R8OlEy82ehTu1dVCDAMqe7Mz7EIerVneryo6ltJpx+B+Ikg==;WVJk9zyboK28pIdI8yoYfw=="
 ---

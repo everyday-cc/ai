@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-19T16:52:00Z
 originalUrl: "https://redmondmag.com/articles/2023/10/19/the-future-of-applied-artificial-intelligence.aspx"
 webUrl: "https://redmondmag.com/articles/2023/10/19/the-future-of-applied-artificial-intelligence.aspx"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 

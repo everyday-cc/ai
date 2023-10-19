@@ -19,91 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "How stores are spying on you using creepy facial recognition technology without your consent"
-    excerpt: "Well, guess what? They are. That's right, some of the biggest retailers in this country are secretly using sneaky facial recognition technology in their stores. Facial recognition technology is a ..."
-    publishedDateTime: 2023-10-15T10:56:00Z
-    webUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent"
-    ampWebUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
+  - title: "Does Facial Recognition and Other Tech Make Schools Safer?"
+    excerpt: "The New York Department of Education has permanently banned the use of facial recognition technology in schools—the first state to do so. While it's too early to know if other states will follow New York's lead, the state's new policy should serve as a ..."
+    publishedDateTime: 2023-10-16T21:43:00Z
+    webUrl: "https://www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer"
+    ampWebUrl: "https://www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer?_amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca26886f-5711-4159-9b16-f3d02cc8e509/24f16d92-343e-4303-ba2a-681a026cc44c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live facial recognition technology has no place in a free society"
-    excerpt: "The right to privacy is a fundamental cornerstone of any free society. The darkest moments in human history reflect episodes of peoples bereft of"
-    publishedDateTime: 2023-10-18T15:27:00Z
-    webUrl: "https://www.politicshome.com/thehouse/article/live-facial-recognition-technology-no-place-free-society"
-    type: article
-    provider:
-      name: PoliticsHome
-      domain: politicshome.com
+      name: Governing
+      domain: governing.com
     quality: 39
-    images:
-      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2023_10/W4M047_yvlkyt.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
-    publishedDateTime: 2023-10-18T15:00:00Z
-    webUrl: "https://www.nextgov.com/digital-government/2023/10/logingov-add-facial-recognition-tech/391300/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is changing its digital identity service to allow users to authenticate themselves by matching against a previously submitted government ID."
-    publishedDateTime: 2023-10-19T10:00:00Z
-    webUrl: "https://www.govexec.com/technology/2023/10/logingov-add-facial-recognition-tech/391307/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog-1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Met Police to keep using facial recognition on prolific shoplifters"
-    excerpt: "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences."
-    publishedDateTime: 2023-10-19T05:20:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222?at_medium=RSS&at_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 19
-  - title: "Met Police roll out facial recognition technology to tackle London’s shoplifting"
-    excerpt: "Britain's biggest police force is using facial recognition technology to tackle London's worst shoplifters by matching CCTV stills to mugshots."
-    publishedDateTime: 2023-10-19T13:22:00Z
-    webUrl: "https://bmmagazine.co.uk/news/met-police-roll-out-facial-recognition-technology-to-tackle-londons-shoplifting/"
-    type: article
-    provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 16
-  - title: "Met Police reveal massive crackdown on shoplifters with facial recognition technology rolled out"
-    excerpt: "HUNDREDS of Britain’s most prolific shoplifters are being identified by cutting-edge facial recognition technology, it can be revealed today. A pilot project using CCTV supplied by 12 leading"
-    publishedDateTime: 2023-10-19T09:02:00Z
-    webUrl: "https://www.thesun.ie/news/11511789/met-police-crackdown-on-shoplifters-with-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 6
 
 secured: "nGdcKy/mif8WW/UxQzxa1BhOvVPkWuUHCo7nSZLUMyiH7q2Yg0XXUdTTf/BelZP2j/SIWCg8P8OOl7Z1L72uDGWcLj6HVn5hQLST5K87JvXNPvJvXv9RzFGcagD4SBhmVWDylqryk/9NgsnggECyw+NhgyNQgq85mKPEwWdPg9f31Jf2bIl1Azvl2k6yrH2KIFe7kKHFjchcmYiHCb/v6yb7goFSfF3Qq9o72LF0Tk58ZkLUnitr3+fezaj24qi44gEka4sTVCKPserOy+95biOrOAp0PEcz0Vo43EkYflTmMJnrUwmHe+B74aWzFX7s5PtPuPt9FhMFjE7nP+GAwI7b7NWNqEr/bMEF3DMmPSYWlVObTWywNVH/KdNZCD+5M+GYYZYbKL/ldon2JcxZlV4ESChwr4GdhK8uEhFPOqeGrmGm2BRMKydp1coAe2MmhGNnitxzgqf1zY9Tp6GTgsvoN8Kowpjo5tWPe8SK5Kvuondp2PyQLCfvjh8bELX2DZ1UeyoQ/dWEb8MlOo5yhg==;0PjsgLqd929VL8mUH0ib6A=="
 ---

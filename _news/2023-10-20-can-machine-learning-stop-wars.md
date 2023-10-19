@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-19T18:12:00Z
 originalUrl: "https://www.bbntimes.com/politics/can-machine-learning-stop-wars"
 webUrl: "https://www.bbntimes.com/politics/can-machine-learning-stop-wars"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: bbntimes

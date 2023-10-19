@@ -63,6 +63,20 @@ related:
         width: 640
         height: 388
         isCached: true
+  - title: "Pre-configured stack gives AI developers a jump start"
+    excerpt: "Drug development can take decades and cost billions. Insilico Medicine’s Alex Aliper believes completely AI-driven drug discovery can change that"
+    publishedDateTime: 2023-10-17T14:33:00Z
+    webUrl: "https://www.scientific-computing.com/article/breakthroughs-2023-democratising-access-data-ai"
+    type: article
+    provider:
+      name: scientific-computing
+      domain: scientific-computing.com
+    quality: 37
+    images:
+      - url: "https://www.scientific-computing.com/sites/default/files/2023-10/M-Synthia-header-logo%402x_1.png"
+        width: 520
+        height: 520
+        isCached: true
 
 secured: "ljyyGo2XNoXz195hA59rHm6YOUJfMnzVeLfrCETQU56W7BLxAvknqVV1BKHh3O891KIZKEPPdoUl5i+N2nmneZ84MYGbmnNj+wpt1Kp3INk1Mu6p2fDdPeyizinQVNQfoCVb6H4M4+cuXUt2DEeG4INuRhfAyIcFa+hsukqj8PuEP4rq7sgorH9NRT1ewLPKFHnQLDHjKr9Iw7gDrM+x4BqESAfuHTb70W+4hSbPWYECDJKx+Jm3LekJucbf9DkLdgkNUObgoMn0c40x5rR+FikFUmczNRQOB5W5REZP1PbhYeYqkjttaIpD5AJDfVtBlYFEuKmBidhnK9Cdy9/V6/XIVcXW8flhj7xgDPrjIswoAgzZJyGDcxYRpUizasN6OQn3hl/Si6XJg1hLS9fHeIkRm+0nzfi0VM7T7JvpuNMDCH1OjcQ/VqMeRS4G6S+GygOcECuI+NrvxklNv02jv11HgGiFAErgOmJQ5OxaU7aMhfx1qOBrKoZzufWU+0WUPTSTzfTFrZyynq+IODiRXA==;mCvGYcD8gcQvIMIx8MoSvg=="
 ---

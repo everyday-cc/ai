@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 898
         isCached: true
+  - title: "The US Has Failed to Pass AI Regulation. New York City Is Stepping Up"
+    excerpt: "Amit Katwala Millions of Workers Are Training AI Models for Pennies From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook ... Bengio’s pioneering research helped bring about ChatGPT ..."
+    publishedDateTime: 2023-10-19T18:23:00Z
+    webUrl: "https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/653079e6549979de398d2200/191:100/w_1280,c_limit/New-York-AI-Restrictions-Business-1311390274.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "New York City plans to use artificial intelligence to improve access city services"
     excerpt: "New York City to use artificial intelligence to help people access city services 02:34 Now he's moving on to the next step in making the city the most technologically advanced government in the nation. \"Our city had a real 8-track mindset in an iPhone age ..."
     publishedDateTime: 2023-10-16T23:01:00Z

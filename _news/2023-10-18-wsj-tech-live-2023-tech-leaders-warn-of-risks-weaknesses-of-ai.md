@@ -44,6 +44,20 @@ related:
         width: 760
         height: 437
         isCached: true
+  - title: "Tech Live 2023: How Meta Plans to Connect You to AI Friends"
+    excerpt: "Meta runs Facebook, Instagram ... Joanna Stern: But they're AI personas. Chris Cox: Exactly. So the other thing we built is, in doing the research for how do you make these chatbots engaging, what is it that works for people with these chatbots?"
+    publishedDateTime: 2023-10-19T16:13:00Z
+    webUrl: "https://www.wsj.com/podcasts/google-news-update/tech-live-2023-how-meta-plans-to-connect-you-to-ai-friends/50df721b-db21-4bcf-b819-09d9ec1014d4"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-375914?width=1280"
+        width: 1280
+        height: 1280
+        isCached: true
   - title: "Frankfurt Book Fair 2023: Artificial Intelligence and the Law"
     excerpt: "The law is usually reactive at best to questions of new technology. That’s still true with AI, but an extensive amount of work is underway to chart an applicable regulatory landscape, explains lawyer Duncan Calow."
     publishedDateTime: 2023-10-19T17:42:00Z

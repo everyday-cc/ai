@@ -2,26 +2,26 @@
 category: news
 title: "Rise of artificial intelligence creates heavy workload"
 excerpt: "Internet giants, power networks and communications companies are being urged to consider the massive load that comes with the rise of artificial intelligence."
-publishedDateTime: 2023-10-16T03:23:00Z
-originalUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210"
-webUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210"
-ampWebUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
-cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
+publishedDateTime: 2023-10-16T03:22:00Z
+originalUrl: "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192"
+webUrl: "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192"
+ampWebUrl: "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192.amp"
+cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192.amp"
 type: article
 quality: 59
 heat: 69
 published: false
 
 provider:
-  name: The West Australian
-  domain: thewest.com.au
+  name: Perth Now
+  domain: perthnow.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.thewest.com.au/publication/C-12218210/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200"
+  - url: "https://images.perthnow.com.au/publication/C-12218192/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200"
     width: 1200
     height: 675
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 600
         isCached: true
 
-secured: "J+Wv9MmJeBYKb5h6g0UGxFSU/UaL1oSzB84D0sKJxWdEvJnlcF3BMqA7Ml/5+KEI6UAUFbka4++4M9MRbxHoJ9DjM3f9B1vv2CzkQJ+jfJLdpukkoOn4DDA/UuISh5m2Emmp1jrs1VhIsygeWLaFv1rhYirJXb7XgMT6JZ41dXGft2cuGpsd0AmW+oOodniUQzyONv++BsG7RxtkBSlg4TsYQv95kwqgmlMW4Ex4/8bHNYFA40d5Qn4NA6W1S+jjPm+jjYb11OzKpuxXEHJmbyhY7tZxXaKWUk2vnqmA2L91oB53RRpd0q2BlSPstmDdG6HTwjBDSKOFuNfSXKNSnO9j57Bl2VwRNSdLSPOTMkZISEPU9RYNCZOfucu/OV0K3i8J8JCNz9WVLjfMpPVko9K1MXjXdC7OZiYmKCEdI+n8cu7O4z9Tt5RDsOPLkN96UHzbaMYUkRswujX0vL8aIXB+JcBPpn7V2LXIyNl6z3DZQPvwsygmm4JYVyA1Q4pL0TqRcjN7YA6esQx371e2Mw==;UUAISOmKnqjnF8TKnJTw6g=="
+secured: "BMs9224+0MVghDdLke7vez641jRqzftamBtzzu6nVLGuZiuHN0AaX2Uiki+3KWnljFsBMyEzbuSZ3c0IhRSCKKQntjGJc9OZFw+8lK5lCpi2p5sRb7GfCQAMtVGmNVcnW48XMKWeebkrnssQAVOCyvFnJXch2NjT4+29JLiAEf1hEDwT+SrH2L9fLJCURmr+DSgU/pxG8JjPnT4/E4/vaXTif4Pq7+DvPUrfVSM2KYN159refRCa6KsaeDchxyWheadoTBHXDD6insRQlJZxBcmsv+63brFHu4uD002L4u5TCYmrFcejnb1pOytHOUbCMC+Fafv3hfF2kqPV2XAh1u/Vsr6XxdGhH3mPALQQQV0=;K5JXbXipnzYlC4p9Ii2OIw=="
 ---
 

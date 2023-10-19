@@ -9,7 +9,7 @@ ampWebUrl: "https://variety.com/2023/music/news/universal-concord-abkco-sue-ai-c
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/music/news/universal-concord-abkco-sue-ai-company-anthropic-copyright-violation-1235761250/amp/"
 type: article
 quality: 55
-heat: 85
+heat: 105
 published: true
 
 provider:
@@ -63,6 +63,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Music publishers sue Amazon-backed AI company over song lyrics"
+    excerpt: "The music publishers’ lawsuit appears to be the first copyright case over AI’s use of song lyrics"
+    publishedDateTime: 2023-10-19T17:12:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/19/music-lawsuit-ai-song-lyrics-anthropic"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "Universal Music Group sues AI startup Anthropic over song lyric copyright infringement"
+    excerpt: "Universal Music Group filed a copyright infringement lawsuit against artificial intelligence startup Anthropic on Wednesday citing widespread scraping of its client’s song lyrics being used to train its ChatGPT rival chatbot Claude."
+    publishedDateTime: 2023-10-19T18:15:00Z
+    webUrl: "https://siliconangle.com/2023/10/19/universal-music-group-sues-ai-startup-anthropic-song-lyric-copyright-infringement/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 9
 
 secured: "CaMBeGDiFrqigyuRzvs2UVikK7ErlLHKv6EXvvtZHBvSrMtQJkdboZmELTFYDJcCcXzxbxDyauZYNqoYjQ43T+KAw3JZZ9PXx+AdNxVG78+neNtMZq2FqJcR5/X7iUEPF3ZTo9FFHL9KDuhUIicp1ZGuDTb/Mu1UDuUU3609YbQylc3o/5tv12tso9/qeKx6EA4qZGXJu89lclLlUKTsvrIwNC5MbHFE4H0wWuj9KK7KVsMYRubf4WgG/3pVF4Ad5sQsX4Uv9ZEdUhGeWcw9OqkvRA88gjs0KZXC9eSCz8bZMhVMQa2PSiXyAmVagQUbn5f3Q/9fAzMaVFbX6gjfA8WMDdD166KzHMQ6KyTQfsg=;uybLgmKccibhSYlviHifjw=="
 ---

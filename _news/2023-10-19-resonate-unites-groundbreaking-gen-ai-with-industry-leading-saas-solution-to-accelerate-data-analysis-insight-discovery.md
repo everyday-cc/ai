@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-19T15:37:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/23/10/g35333679/resonate-unites-groundbreaking-gen-ai-with-industry-leading-saas-solution-to-accelerate-data-analy"
 webUrl: "https://www.benzinga.com/pressreleases/23/10/g35333679/resonate-unites-groundbreaking-gen-ai-with-industry-leading-saas-solution-to-accelerate-data-analy"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

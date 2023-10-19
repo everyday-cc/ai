@@ -87,6 +87,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "US surveillance and facial recognition firm Clearview AI wins GDPR appeal in UK court"
+    excerpt: "U.S. surveillance and facial recognition firm Clearview AI has won a court appeal in the United Kingdom after being accused of alleged infractions related to the U.K’s general data protection regulation (GDPR). Originally, the company was fined nearly ..."
+    publishedDateTime: 2023-10-19T17:42:00Z
+    webUrl: "https://cointelegraph.com/news/us-surveillance-facial-recognition-firm-clearview-ai-wins-gdpr-appeal-uk-court"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 27
 
 secured: "icjxHWHGQypg51sKUkivvNCwPnBpbIZykQZn0qRmDnyU0XqWHDw6Hpd5pi5SVk8rh7/k9CtIYDXXC7xpf/d3Mqx3Ig8q3plhwyjWZSpsf13AvAq1GZcfKv6hE9kvqHtrzltmcXhZ6BpBsMdbgmGM02Ra+uzbwqEtPf6r8Dc47/mDX9dXewwV4FWw3zalm/ckjvtDfU3Uuk6In/reVV1KHUpSKPrEt/VkyLhi5yrpQGRTLD3xsc/lOFwCUo5m5MT7s3Kw+6GZTU/vP/KCzWH53lk6zfissCFR8C4vjuviX3fvAdv/ZxMUwhrtNmv66CyPDDydvvvTgW2VuHMeXtpIfMcdIsLEuztn79EZzOyxYUXdkIgafus8Z9yvVDY7Gv+JYkZli4mVSWF8xTPUwK0sygKp14//AcEh0A05bgc7xw6QbGt90AfIiU8pO4I9m2w78fB8RgnzvBkxgHYaVtbudFxTPzWFtvNOC3DapIioOi6kBN0Z95+pxm/LkjitTnEbcl4b6tWhwGnvOTZlrn85pw==;P2ZZjY8tXzl79zr4ZxYWIw=="
 ---

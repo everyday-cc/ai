@@ -5,7 +5,12 @@ excerpt: "Novel machine learning tools can predict individual prognosis in breas
 publishedDateTime: 2023-10-19T19:47:00Z
 originalUrl: "https://www.medindia.net/news/machine-learnings-role-in-personalized-cancer-prognosis-213901-1.htm"
 webUrl: "https://www.medindia.net/news/machine-learnings-role-in-personalized-cancer-prognosis-213901-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/machine-learnings-role-in-personalized-cancer-prognosis-213901-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learnings-role-in-personalized-cancer-prognosis-213901-1.htm"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Medindia
@@ -15,6 +20,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "P5OK8HeZ0m2YWAAbdlChgG6v6nz6gPXy1Y2UlJQPqKoNp37vN4WAFqWQct07WnMeaqk1v2/SzbYjck09g0TzW5oH9iQ6b/kqdjI3yKKTBC31R37to2U0zX1Th2fobnA+HTOikJFH2/Rpw3PIw2spE+4IofTOny3+C0hPlbspGdFg5cwWvsSdsGdG9R8Ipd7IGEtMa9LwgbDLxDy3Bx87zZwoLRQtHG1Tv+dpioQeXq+ko7YUEVf7UH0C33RaN/b0WJSRX2nkw50abOBRGeoFa77enVTHPvewV8gbSBisVJXSE56li4Kwi1c7XCBJdpC7N4D5kwgtYMl1EuBBDPZrHzG9dKS969+p2oVW3J07vGw=;aqUJ3VmTtZz9X8+N79lorA=="
+images:
+  - url: "https://www.medindia.net/health-images/innovative-use-of-machine-learning-to-produce.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "Wk4yI7xVz2VAFoU0R+zgy0LDat8VZs/QczkaQZ8eK8wzu2xnj5gokaXRp0UBebqmtcnTYpol8wdl1POm1YmyYC4isZ0mMj1AfMzebc5Yx03OEJvy5v+5ATis3+IWxoNC8rSuUvzwc33mRBeMG+3MT37XuRJNjmT2OSbiiRyoCzHQe0hLE6lcRWfASzO9zdUAgbXPRsFZ2co28syIU4VEBiaT2PizBdaoJlLLcu266KfuccT6WfoBNJml33tSnnIPcK0wJPJog7KLJH4wEGLU6/jVpBDE9u7kdnfAG3o5RCmLHu/Sodh0s3TsgF7YqRatsYQ6pjKoR36MvM3pKb+u9vVaZIETujy5UbsXasb+vN8=;hJl23+3Eh46y55TKu+jcag=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-19T18:54:00Z
 originalUrl: "https://www.tweaktown.com/news/93894/windows-11s-copilot-ai-gets-some-useful-tweaks-but-we-hope-bigger-changes-are-coming-soon/index.html"
 webUrl: "https://www.tweaktown.com/news/93894/windows-11s-copilot-ai-gets-some-useful-tweaks-but-we-hope-bigger-changes-are-coming-soon/index.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: TweakTown

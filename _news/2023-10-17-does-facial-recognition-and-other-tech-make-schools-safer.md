@@ -20,6 +20,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "What Educators Should Know About Facial-Recognition Tech"
+    excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
+    publishedDateTime: 2023-10-16T18:41:00Z
+    webUrl: "https://www.govtech.com/education/k-12/what-educators-should-know-about-facial-recognition-tech"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 4
+
 secured: "D1xT0+zqGsJpITb/Q5z1rp1sNqLfFn5O5O7wB8povlNyrxFNqvSdKIQB88qgzTl4JBTN+xnZJauUGQVKbYPhOGp0lQ5/YzLEez3YtnHLk84tsbY4wuxYG3qRojOux7XHY19K6OvViUqeIylGSWMk/b9P1RROgf+n845U9Te2q8j73DPERWi+H7Zs+/I4ojkVYnz67nobobaInyUQXc0hei0+pkaqv5odmfolBek7cann4cKe2gATdTgcLnV1iXmI09WMDEeaNpO6VosObezZSKAEd8mc4cD7HduTaAoGacIwYrL5A2i64wKNiTepH6NC7fnm3q5KvvjxVPntAsjGs+I+um0+ZWgofXrG3V8fPxI=;jeWdnKuL9FcqBPihNAkoaw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implem
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-209268,msid-104437235/file-photo-illustration-shows-ai-artificial-intelligence-letters-and-robot-miniature.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "\"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI"
-    excerpt: "Read more about \"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI on Devdiscourse"
-    publishedDateTime: 2023-10-15T04:50:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 42
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280"
-        width: 1280
-        height: 1024
         isCached: true
   - title: "'Normative', not clear on implementation: Researchers reviewing global guidelines on use of AI"
     excerpt: "Reviewing global guidelines around the use of AI, researchers found that while most of the guidelines valued privacy, transparency, and accountability, very few valued truthfulness, intellectual property, or children's rights. Further, most of these ..."

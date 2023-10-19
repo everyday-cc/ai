@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-dominates-gartners-top-10-strategic-te
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-dominates-gartners-top-10-strategic-technology-trends/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:

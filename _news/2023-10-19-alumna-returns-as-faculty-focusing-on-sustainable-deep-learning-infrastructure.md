@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-19T12:00:00Z
 originalUrl: "https://www.cc.gatech.edu/news/alumna-returns-faculty-focusing-sustainable-deep-learning-infrastructure"
 webUrl: "https://www.cc.gatech.edu/news/alumna-returns-faculty-focusing-sustainable-deep-learning-infrastructure"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: cc.gatech.edu

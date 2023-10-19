@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-19T12:52:00Z
 originalUrl: "https://www.theguardian.com/books/2023/oct/19/frankfurt-european-publishing-trade-bodies-call-for-action-on-generative-ai"
 webUrl: "https://www.theguardian.com/books/2023/oct/19/frankfurt-european-publishing-trade-bodies-call-for-action-on-generative-ai"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian

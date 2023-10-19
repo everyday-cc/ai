@@ -273,7 +273,7 @@
       "originalUrl": "https://www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -1276,19 +1276,19 @@
     {
       "path": "_news/2023-09-28-meta-unveils-ai-assistant-facebook-streaming-glasses.md",
       "title": "Meta unveils AI assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and Instagram, an advancement over the previous ...",
+      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/meta-unveils-ai-assistant-facebook-streaming-glasses-3802556",
-      "originalUrl": "https://www.channelnewsasia.com/business/meta-unveils-ai-assistant-facebook-streaming-glasses-3802556",
+      "webUrl": "https://www.reuters.com/technology/meta-signal-future-arvr-investments-annual-connect-conference-2023-09-27/",
+      "originalUrl": "https://www.reuters.com/technology/meta-signal-future-arvr-investments-annual-connect-conference-2023-09-27/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--l3PGUO41--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-09-28t002948z_1_lynxmpej8r00g_rtroptp_3_meta-platforms-virtual-reality.jpg?itok=MI4mysSU",
+          "url": "https://www.reuters.com/resizer/5IEMzjR49d2475IiO5PYe4rnUB8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VUGWIKRVFJJ3FBIGWKEHQ6FHUY.jpg",
           "width": 1200,
-          "height": 676,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1298,12 +1298,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T12:29:00-07:00",
+      "publishedDateTime": "2023-09-27T22:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

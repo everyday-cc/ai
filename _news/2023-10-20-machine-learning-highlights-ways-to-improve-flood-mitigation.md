@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-19T18:21:00Z
 originalUrl: "https://phys.org/news/2023-10-machine-highlights-ways-mitigation.html"
 webUrl: "https://phys.org/news/2023-10-machine-highlights-ways-mitigation.html"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Phys.org
@@ -14,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Machine Learning Highlights Ways to Improve Flood Mitigation"
+    excerpt: "New research shows that home flood insurance coverage is often a reactive purchase in response to flooding, while top-down policies that focus on community resilience may offer more robust protection."
+    publishedDateTime: 2023-10-18T13:21:00Z
+    webUrl: "https://eos.org/research-spotlights/machine-learning-highlights-ways-to-improve-flood-mitigation"
+    type: article
+    provider:
+      name: Eos
+      domain: eos.org
+    quality: 19
 
 secured: "LjDJGvS0zN3dsgTsxkARww0m8DOf9JQOUE9HRvJWLlmpts/Edr63NT22l9Pi6YfTwPPRsf1idcGNHmofpj/kVGg31kT02AL9sFFBBcKKOIn9dZ3BoNI8ElUEVdoONJ7gd4oIIj/IPKvdra90UiQmibCaj5c6N9fbcwXbmkmlUN693i7aM8RO4Te7Rf1PMauftRXqvKF26uRZRONFQq8EsBTDOEz8K2xlOwXxzpZEFOihKGZjLhPIHu6QI8SoU29qxqhopfxg+lQlCYF0zy5do3UFZrH1JuhC29vA92wVOkp6TMCN9LqNYnpYZ1v1E+Q/c9l7ycg76JkLiMDGRaxBT975UbWnyWftPehdh7PQ9vO8w+agmfdxbO3O6S4HPKXk2TYKH3h5xEEV/cYoTvNO6b41vezA2jYKDjn5Xryumh7cXPDWVvn6AEMnUZO6GAbWse6hksQwxBb5Djq1G25ZtKq68Ra+mFXJMU2H2yqqtGgRL2AXodiDmZfl5cHAvWzRUAzuGAucYJobnB+feeJRmQ==;NFtIaFJDsyEe0I+5asTM8g=="
 ---

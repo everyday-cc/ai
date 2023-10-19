@@ -161,6 +161,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
+    excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
+    publishedDateTime: 2023-10-19T18:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-microsoft-s-azure-and-ai-growth-ahead-of-q1-earnings---here-s-why-1032722146"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
   - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
     excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
     publishedDateTime: 2023-10-15T18:30:00Z
@@ -453,6 +462,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
+  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
+    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
+    publishedDateTime: 2023-10-19T19:18:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 20
 
 secured: "xxrJK52z0h88fYeEwzGs1J0/20dlTfZ+syZHFkSyZyyRbFnTDTjG/2Um65hD9di0+fig0YnOpM4vWP/Gqtxy5Jf1T+q+KabQXE8iaNKnQL9E1gjD3owMNV5eOcpVaP1obxnV377lQuuDqLk04CH+3jtT9BXRGVtPHNQfDgTKX2RgNLThOR+ze41Ecckad5lkDnJzU2ohOTSMqwO2DX7AkiYusi6MMzpTnUZb5I8/AjD/wOhpWclBJVfkt09c6sSHbDfbPQobScmp6t3rF/OeGoFK5GIfxO3hgNjYrOKqopJAVEO8XaUUiS+xUXDemP13aEkWXE0jNPtJDUTDqOnQpHUBj4BxCQzZppgpIcT6tS65N5kmTkOnvZN2KmM0NnMYUI+zfodMQ/6GBkyCkvB2aD1ReDsaOKEsNAlV7f+XPxCWHtckuNqyTp03HoxosT/8mXAY5Rwxr+fnpui21wNen9m7iKXKpr2pK0zNKMQwGrfPnl0fuPH1BUPd6hNLIlXfxUAxJsHT9wChrexkpjN5xA==;GmylZ1n83PR+Rz3BoJLlFw=="
 ---

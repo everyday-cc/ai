@@ -159,7 +159,7 @@ related:
     provider:
       name: Redmond Magazine
       domain: redmondmag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/futurecity.jfif"
         width: 647

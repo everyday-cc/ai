@@ -44,15 +44,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
-  - title: "Honda unveils electric, self-driving lawn mower"
-    excerpt: "Honda, which is getting out of the gasoline-powered mower business, unveiled an electric self-driving replacement that can be controlled by a tablet or smartphone."
-    publishedDateTime: 2023-10-15T04:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/honda-wants-bring-self-driving-vehicles-lawn-near-you"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
 secured: "xb2gOC8XV3IywAeLRJAtLxl6F/kXjBfa+KxDc/AWW4tetMeg9J+aofsarF3OmXtMPVm/UkmVm1hF88j6cZLRP60xEufUGihk4/HpiyZA6izh86kkm/whOqnLjmcq05ZVO0i+JlO7dgZe6GxAOD2Htqe8PN6VVRPDEvAU7+B3YVqDyRes/ATeD6/cEF9THlXqMx6eCbk8ayNuQQdT1WsRIVt1LCZo4VatCCKY1SabQbxI/nTnn2iyZ938100MyMND7agCXnN/74MLpH5vRMCszZDY8gyCp87HKuw+n3aZeeoKVaRrW/T1cOHlvoK2078f6hl/jTle9ch1wgIGhXpiwNVwJYG3Ujai2NW55pmUVU/ioJyWC80/J6fx+n4kALob7X3U7JMmEWtes7e6Mutyi9Gtmg9Y79cCw4uQGeg0D3S4xnJkkZ5jQULXBFOtxffVR2BHJwbaaQvMauDK53p2wvCEXRPNV66OqdsLgExdidnEQJrfj892gkkYe4BQLRgYr40vow1OW3u3tPIEm+Yjvg==;NnlMyNB3wsClKISnusSupg=="
 ---

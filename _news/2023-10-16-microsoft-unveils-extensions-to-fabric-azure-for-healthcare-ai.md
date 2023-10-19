@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 456
+heat: 476
 published: true
 
 provider:
@@ -152,6 +152,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
+    excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
+    publishedDateTime: 2023-10-19T18:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-microsoft-s-azure-and-ai-growth-ahead-of-q1-earnings---here-s-why-1032722146"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
   - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
     excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
     publishedDateTime: 2023-10-19T04:29:00Z
@@ -458,6 +467,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
+  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
+    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
+    publishedDateTime: 2023-10-19T19:18:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 20
 
 secured: "CjiRGkeR7hOJtirzd8SqsKWRT6T4R+kZm+mGy07o4/U4kCP1+NLpkhylnILpiFMT1NfwZFJ99wd18DJv1U//bYQeE8FpiErEfE09PZzQovhT5HLBrATLoQP6UW3tzjaAtHmj62ghsouHTFsgSVyOQcZean4KBaT+rDE6Qx2oqazjfe3fQHlYF48pEhEZH5BwIsTaJAUdyrsUZ2o23lRqE9klbHH5LvR1nx4EfE3raqPpWPU7BshUEfNlqYqlGg0cPM+00AzNv7jyndq+baPoEujTgxwV72aFbN1PbFzzN8ATKCwNlZpBcWtNQ8tc+Tuwxwj2lSC5s042VNsMosmLcAi7E79Ir0se7HDm1/qg8o5JMqQwKAiHw5KFZC43R/BOkn6nUAKEsZtEfsa1esWEAKKwLnAxXI+9MACrFUFzWP+53L2oy6iMyV2PWj4rq+odIOcAaP77HAqx4tOBno2pyBLu9gr0QVvXQHR1mER/fHHRJKHbx9oA8ZQfu1bJyQGx4GJx0XJMsGhKCiDrF4z3lg==;rfxLvT/tiimZpeEGk13oMg=="
 ---

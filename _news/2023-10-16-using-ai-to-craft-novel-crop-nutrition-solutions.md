@@ -38,6 +38,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Using AI to Improve Nutrition for Cancer Patients"
+    excerpt: "Susan Bratton leverages AI technology to build a better-eating app to support cancer patients going through treatment"
+    publishedDateTime: 2023-10-19T20:12:00Z
+    webUrl: "https://www.scientificamerican.com/custom-media/heroes-of-cancer-care/using-ai-to-improve-nutrition-for-cancer-patients/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/70C9E8EF-2C92-4777-8CB2C669B884145D.jpg"
+        width: 791
+        height: 496
+        isCached: true
 
 secured: "GLe1Pm4GRfRKFVTTM7nA115PiOh4XY3krZ6bWtW1d0wN45zy7Mfw3gc+A15OELZVtwKOOnmrTyLQTAhduqF0HEfEo6+ycn5rlWWC5JtBDB+MkeAz5HGP9j3D/OwFDhH1Z9rgZRSBKhtY/7C4L2b9txepsCUgDDWMEe6lPBJrMqcbIOkIK9lL7CvOg9IJilPRna1zxujWLbZS38ytoDPtM7MV7C+G7cTA0ZqN0mjfqm1HbwHuVTCLCvWb6a+sd0H16hNnYeGWcAaL1L9gKo7+YXvnAEeHisNw4mIWA44lnNJ2BF+39jSwH5GAmSvyZMX6zqZny80no0vcSM3dmIPEwuN0Cj/qzb+KVLNIvkGbnCI=;HpWQ8X4zayyE7jPefGYG8w=="
 ---

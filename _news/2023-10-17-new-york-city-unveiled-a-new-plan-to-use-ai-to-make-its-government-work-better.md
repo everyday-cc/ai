@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-new-york-cit
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/652ef59f07cf2db7aaa70b3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 898
+        isCached: true
+  - title: "The US Has Failed to Pass AI Regulation. New York City Is Stepping Up"
+    excerpt: "Amit Katwala Millions of Workers Are Training AI Models for Pennies From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook ... Bengio’s pioneering research helped bring about ChatGPT ..."
+    publishedDateTime: 2023-10-19T18:23:00Z
+    webUrl: "https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 69
+    images:
+      - url: "https://media.wired.com/photos/653079e6549979de398d2200/191:100/w_1280,c_limit/New-York-AI-Restrictions-Business-1311390274.jpg"
+        width: 1280
+        height: 670
         isCached: true
   - title: "New York City plans to use artificial intelligence to improve access city services"
     excerpt: "New York City to use artificial intelligence to help people access city services 02:34 Now he's moving on to the next step in making the city the most technologically advanced government in the nation. \"Our city had a real 8-track mindset in an iPhone age ..."

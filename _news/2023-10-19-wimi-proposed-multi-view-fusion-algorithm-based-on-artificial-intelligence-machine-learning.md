@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-19T12:59:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-proposed-multi-view-fusion-algorithm-based-on-artificial-intelligence-machine-learning-1032720504"
 webUrl: "https://markets.businessinsider.com/news/stocks/wimi-proposed-multi-view-fusion-algorithm-based-on-artificial-intelligence-machine-learning-1032720504"
 type: article
-quality: 54
-heat: 64
+quality: 56
+heat: 66
 published: false
 
 provider:

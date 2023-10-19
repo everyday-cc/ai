@@ -1,0 +1,56 @@
+---
+category: news
+title: "Eight good news stories about AI"
+excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
+publishedDateTime: 2023-10-19T08:06:00Z
+originalUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
+webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: THE WEEK
+  domain: theweek.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
+    width: 1200
+    height: 676
+    isCached: true
+
+related:
+  - title: "Harnessing AI To Take Competitor Analysis To The Next Level"
+    excerpt: "Recent advances in AI present transformative new capabilities for streamlining and enhancing competitor analysis."
+    publishedDateTime: 2023-10-19T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652ff4358de9dfa9761ca6a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "AI Is Taking Customer Relationships to the Next Level"
+    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
+    publishedDateTime: 2023-10-17T17:15:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
+
+secured: "MErOieR+kGkv+7R8felbOhBZQT36tr1U7yFtsU46NDvnWcNrIFDQs8IehjD7TpYN30Mec/xBrc+3g1ycFICMPbOQnM/nuKDuDSWwTRmiEcloDpEue05HREjclnrvR6EtelRgUQ3NJC+kzhHb0y2QiN1wxZEgG2oVo/1GV/Tn2f4OXO/+KlukGovmXD18H+JILVeA0xZOASUWX6Cb+uOTEl5sQYjBQqZ6mQjGr8oNC2WYhQiFYZGd5lbA7TFaT9+9lncR31NVprljDAy0isR1Osi1e/mEwtC+Hm9wXqL9e/1wnNGwDIlkRl1B8mZBCC38MfCzg7gbDXv5jyjoxULIBJUVWUZRkevRevuk/b9CYxs=;4ZoUapLrYo94iUXbyiPNxA=="
+---
+

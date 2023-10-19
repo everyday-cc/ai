@@ -2,6 +2,49 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-09-09-speech-and-voice-recognition-technology-market-with-cagr-status-till-2031.md",
+      "title": "Speech and Voice Recognition Technology Market with CAGR Status till 2031",
+      "excerpt": "Speech and Voice Recognition Technology Market Snapshot: In this report analysis, we thoroughly examine the Speech and Voice Recognition Technology Market by exploring it into different segments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34379333/speech-and-voice-recognition-technology-market-with-cagr-status-till-2031",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34379333/speech-and-voice-recognition-technology-market-with-cagr-status-till-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34379333",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34379333",
+      "publishedDateTime": "2023-09-08T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-09-data-and-ai-ethics-market-size-2023-data-driven-insights-with-adapting-to-rapid-changes-by-top-players-till-2030-no-of-pages-124.md",
       "title": "Data and AI Ethics Market Size 2023 | Data-Driven Insights with Adapting to Rapid Changes by Top Players till 2030 | No of Pages 124",
       "excerpt": "The Global Data and AI Ethics market is projected to rise at a significant rate during the forecast period, between 2023 and 2030. In 2022, the market is increasing at a steady rate and with the ...",
@@ -1073,58 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems.md",
-      "title": "Prompt Engineering Embraces Tree-Of-Thoughts As Latest New Technique To Solve Generative AI Toughest Problems",
-      "excerpt": "An advanced prompt engineering technique known as Tree of Thoughts is emerging for generative AI. A great deal can be accomplished. Take a close look at what works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64faaefd875152868af9e2c7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/09/08/prompt-engineering-embraces-tree-of-thoughts-as-latest-new-technique-to-solve-generative-ai-toughest-problems/amp/",
-      "publishedDateTime": "2023-09-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

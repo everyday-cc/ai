@@ -147,6 +147,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
+    excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
+    publishedDateTime: 2023-10-19T18:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-microsoft-s-azure-and-ai-growth-ahead-of-q1-earnings---here-s-why-1032722146"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
   - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
     excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
     publishedDateTime: 2023-10-19T04:29:00Z
@@ -453,6 +462,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
+  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
+    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
+    publishedDateTime: 2023-10-19T19:18:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 20
 
 secured: "I/M5OxYQbl8gcRRt0UovTQESaVEFTs8UD0jHYJkVe0SOSGxCt/5uG/p7MwwLwIYhc46pI3NBOSpu9mO3JVKxe41miRIo+CQvjsTKYkeGyEyY1Sr14vViP3qVTvyN/EKS2+Al49NXc6lF1ty9+l80BoH3qJXGKxTRRXTpKIJH/Q8q8Td/wtxRH7UPgpCG8bzl0KxYkVWmQ3FWGX+HfGjE4L+OT64OyV7skmTm3QNBILoRUjdPmZvQWAhTcnWyuF7Ek8dk5dRoGMsgucvpulFarXcFSl183g7GYyV24hfrdu1U+OrtQegZt8ndRltg10npuduz7kBwQCTojDGawPYUbj24fDs8yZmoRC1O3YSuFWk=;MYC2NsoSjuhKmHmKfn797w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Data stacks haven’t caught up with generative AI enthusiasm"
+    excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
+    publishedDateTime: 2023-10-19T20:55:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-chief-data-officers/697218/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
+    images:
+      - url: "https://www.ciodive.com/imgproxy/1mRDuz8WYL3tvJvUlBzTYq5UZK2hKydSlMXpnRDNulY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDEyOTIyOTcuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
   - title: "New tool can detect AI-generated content"
     excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."

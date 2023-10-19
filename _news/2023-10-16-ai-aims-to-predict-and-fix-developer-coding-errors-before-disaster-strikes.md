@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/652ee1ff08f740841b955421/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 640
         height: 388
+        isCached: true
+  - title: "Pre-configured stack gives AI developers a jump start"
+    excerpt: "Drug development can take decades and cost billions. Insilico Medicine’s Alex Aliper believes completely AI-driven drug discovery can change that"
+    publishedDateTime: 2023-10-17T14:33:00Z
+    webUrl: "https://www.scientific-computing.com/article/breakthroughs-2023-democratising-access-data-ai"
+    type: article
+    provider:
+      name: scientific-computing
+      domain: scientific-computing.com
+    quality: 37
+    images:
+      - url: "https://www.scientific-computing.com/sites/default/files/2023-10/M-Synthia-header-logo%402x_1.png"
+        width: 520
+        height: 520
         isCached: true
 
 secured: "ror/hplsg7zLTrQUpdfmCupR0Fl8suGjt6Zxrabr/FfT/qAEHSm+XCryMMz9DfhnYXN+3y6zjB9fVIVilDD4WL23VbFmaKT54pKfpWYvcXOwbj5qUcoi3wYgr4sokejlnSK/NgpiP87DQyaFPsGLBS4jbAWOR+xNdLLjorJskVIJR6BIvAyovFLCCsTVGiMonYF+SXvsfq8kZhdTKVT5Svnqet8h7iMu0xp9gR9Rwh2WI+uJDQkZmhrbw0SxNBNyiuNRHdmEmQOY2Fka+h9fy7ypJkhbFE/W0FnjVSPtW+oI9bQLWhJ3o2WHNDxc/fV3mJmszonKQCPeDxkdcnrR5OwriPn7aEWHiM9v8qS9XBgzikOcA5a3PWIVdAkFA/J9GcJtVE8bH9sWztQkey6cbKutT/Lgul4SoRPiW9lEfvpmjKHWEThlneY/QfDOUEmjS+VzgqR6eh6hGENx9PH5Vbonw9/5OY33epA8VdDLnId5oEDRvZjhj6BryjNM4PXlvBh2+tO284ngXhhaNGyC2w==;XRD8b04KyNORp63RhhHX/Q=="

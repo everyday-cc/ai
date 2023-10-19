@@ -57,22 +57,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "\"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI"
-    excerpt: "Read more about \"Normative\", not clear about implementation, say researchers reviewing global guidelines around use of AI on Devdiscourse"
-    publishedDateTime: 2023-10-15T04:50:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2650708-normative-not-clear-about-implementation-say-researchers-reviewing-global-guidelines-around-use-of-ai?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 42
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280"
-        width: 1280
-        height: 1024
-        isCached: true
 
 secured: "Nj/MDzVH6inxSiKfP6HlaDXfQpJjZduASTvoVlcxIVA04SJc5Ks5Y2+jFgkU22dKJzk5GbvRU7zo+lriKJXgHnBWb2O2fRn0I605ZfpTVp8t2Bmpu+pKjkFrzlpoA4BVExHeH1AStptOv5Pqlm+W/nrSgihe3WnNHEIKBPgUzBfnvioB75bBtHdn4hP38AgNGG/tuLMVmSfoAe8x+netuVsKNI8/paRGuYRRunPrHcc4FFNZqw5WqHQxHc8QQAy37AyVCxJNPELlc0AKGiNW5JnYjQe5lw5MIpKHPWJSNLPN+284yxUoWy0FueSgp8Gmd5fVKyb9BzjxlJCSeYNLg/t2bNRFonJ4fnvJBKJ4ju0=;T3GpWbwf5LsYjzdPUWVmaA=="
 ---

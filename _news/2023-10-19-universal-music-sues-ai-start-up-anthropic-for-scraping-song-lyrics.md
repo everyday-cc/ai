@@ -66,6 +66,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Music publishers sue Amazon-backed AI company over song lyrics"
+    excerpt: "The music publishers’ lawsuit appears to be the first copyright case over AI’s use of song lyrics"
+    publishedDateTime: 2023-10-19T17:12:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/19/music-lawsuit-ai-song-lyrics-anthropic"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 17
+  - title: "Universal Music Group sues AI startup Anthropic over song lyric copyright infringement"
+    excerpt: "Universal Music Group filed a copyright infringement lawsuit against artificial intelligence startup Anthropic on Wednesday citing widespread scraping of its client’s song lyrics being used to train its ChatGPT rival chatbot Claude."
+    publishedDateTime: 2023-10-19T18:15:00Z
+    webUrl: "https://siliconangle.com/2023/10/19/universal-music-group-sues-ai-startup-anthropic-song-lyric-copyright-infringement/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 9
 
 secured: "TU5/mH40pZtcHNyjr28NiP8VdcAkL+PCC1udteWqICVLrTwqLiGbNmgHWblHqwewVKGpp4LBMygARsDH1oFe5d3cIIs5/L1zQ7IotIzUSd0cyxzvjJ80QqXMGCMzCfb1T3uU8chU6+SvhLfo02SQSnvL2aBthwpTzZutpcfcdHXgDfmVjpzq0REXIABuBlQoJt77ycIeX5pUMMAOyIlhj6DI8Sm4/6E5Fiyyfr6t++bWViS1d1yBlFhYZ+Oj8L8wLZqKx6U+kx2hYCQiTSWd1VUBWVienbSezM1OMnLtn/grsy3gyGhbZVItuADIw/nKP76UtS7iqqVz9TChysLeTGjiZMkukBFATcJwU9eHioVg3WGoIvKSA0FB98IBXABApxabmRozawgIBF0hECQ0DlOLgXnYSfaVS+8oXCYDzl005f8ErN8i4iJPK7nM7ZxOVDP8dE49L84YfhLQvTrBNGiOZmu5XEFCyTafZgDLXTdVCfCrtSMa7vwIZs+tI+ZhCf6FGdMA9cGssvKhf6WsRQ==;t9rnipl3barO+A4hM9beOA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2023-10-19T17:22:00Z
 originalUrl: "https://interestingengineering.com/innovation/energy-efficient-ai-chip-inspired-brain"
 webUrl: "https://interestingengineering.com/innovation/energy-efficient-ai-chip-inspired-brain"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Interesting Engineering
