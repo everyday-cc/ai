@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/7914167cdad6ee607ca901e68fd8d97bcf912efa/2023/10/19/e2211636-9fcc-43d6-9fac-8fb086f179ab/colorlight-gettyimages-1020063054.jpg?auto=webp&fit=crop&height=675&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "XGHi03l+QN1imlCFVUZYBoy1pWJm6ARFt1c7guHot+nQm2uV9mGPoYz1oBBXNiI8aRkBsa2rIuJNbl2rkA5c2MBEhqpoabkHib3u94QgM9UBDF4FTalul5xWonqHkE9e3xrpvAOaZ5iTpAM72tlrf4oKhXIOSLm2oPYdzwlC/p7WxpvZqpk6rv1LeuabXDNJZMc0Aegjt6yMrYxmwuNS/iU/4Sb1hrkIx9MnWexg0dfV8f8IY+KWGG0/KEcaupX3PYymEP6xsvXnEvVeqBYDgyuVAkvu+IEUFm4XN/frKjtsTU5mFLJITCRdDHihS4WICd6aEMtBzdopo6uKdp0M9nDKdCil7kBJhOm1/0b7oEc=;GjolWHgMTNAnVca/uWBpaA=="
+secured: "7Ov+NS9MnWgpfejeSHKgxMsSIMw+tbCU+i9/h0xoIuQdfkbWkBvt60bjh55D6uvIWw8FwzRvKNd9cqVe2ou39j9w8r8U4ecfb8X9/fzQyqZ00uGk3L8DkEUoBqAKFVaDkWdLHOZr8zU77u2xa+WWd3bbXIcFZBn3tk/kwa8sDFMdYgXFbZG9OM5JZKM+k1+eJDDL0jW/N7F7QFSYKdRDh7n4Z5JfT9LABGzZmZ7wnbkgXZkMR6Nzq+1HmfzR5hgD5idIBeiMK1mgNpPSQKxlUWwGhlyV3t8HDl/el7/DSmXGDqmLzjS+1h/pESntKbKSwfO5FwuLM2GfVOkz+RImliAgtTExOIhSYqzB1Q3XU4yNQG3lIIODNmt+s8prsZEaOFRjbV/lzBYNwSLYGRQpDAVRULID7Hdvwk4bMnLe/m1McCf7dgyGqjWSevkBjxj5tDsQE0zMb9UbmMEHeoXhhEblAMaBF7OEGQdKQ3yx6YNwI1vSfCD/bMHm0kLgNm42OvK/VxxYRP54j17lM6xUfQ==;ytU77srncvVTJ5Ygl3Aw7g=="
 ---
 

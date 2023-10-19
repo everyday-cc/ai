@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/futurecity.jfif"
@@ -197,6 +198,6 @@ related:
       domain: businessinsider.com
     quality: 13
 
-secured: "E+J86ZjmEiSbXxsYWU6f21GT2/4Vkn78lPnBDUDePwLWBlenG5n/GgLZoH5uv+uwmev72/b+UrRkx6b3Nj0N5VwEthLEIwzQtGkga17/s+gi2Pne9qRyH1Uz4fFlfwgDKge2l18CgrJ6qUXZ3eOlxG8RH7nqBh4Cxkv01ck02mbfoG+yaUK5NqC5vrxaJW0M9xMTeve/N9Gg3jEnPP+Eu3ziexakQZD8+2p+fC5I1z9FC52Mf5lVsbBFV0Kt8uvlhz5U0z/PReWYsG+SR1qwuyCud4/rbc5mz/ZDJrqDfJHKwj2+oIYRlBmKmQA4kN5c+c0uv15fp1tyy475FnoFUFm2GxewcN1Pnh+z7HFfGCI=;ZgrxZIf3XX8TMmk37+p72g=="
+secured: "1EupKMAcJIY5hhfHDRAcvmeWDFlMoG3o0e3gttO18PSRaChqe+tM/e41GkTl+Wu3hV6zjtugZLbyRMfhIiUThJl0RkWrAqn4OJ5nyJh5wZglTojPJOWkEGt866+GIwZ6pjO+Y85fHyJG/YiWaze1A0yXFDqFkS/n7M4HSC5ycbYUvwcH5mbL2BGIv3uZF9YTMdGqG/+FAI8FaJJrEviN5B07I3CLfJBhfhrcsISZ7UDngDyVZ6RTd2LdMAo2+q37Q/xDE9//M1t5Jiuyldnke59C4vNNYp6GSEDaOMeryeQwskxYcRqQvpUNpDV2w5At4cBLqaflwq1U6b1r84ykfVTswQLGRAvGgEdabJZ3cKkvQVJTdWYHqhdNLOKw+QT3lMtMa8wFuAJ6bH4fIjCxbcxeN+2ni+1W1G+MZIs0PAPUXbh29njGrtIitl9twq+REIvkXpuLaz3o0dnDiCX4lYPMNV22EIWG8krDBH8DvqpuVmueYAJiUpo7Dg4C+8M9gM7MmIisfX0HrQMhtL/rSQ==;Q0bm3tA21iNcp/n8+h5ueA=="
 ---
 

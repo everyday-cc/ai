@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIzXzEwXC84NDcwNTU5NDU3LTJmY2MwMmFjNzYtYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9fX0="
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "E3NCHinVG5o48p8+L1i0GGIumiXWrEWWT65hCchgpFcCmpWHrogDJRzSWtCw8Lf8Q3fw+8hF9OP1XapnmQgtRWFusg7ogJEeCYUOL0TzdVtk0ekWvLcbVSBhM6YIpIcgRODjR/RFO+AMeNFSuuD4nIFPlWvb4dXwTPLjeeMLNelDOjjamYb9YQNEvzUgm6JA8SgNHfLMK2oQafRVh8f0ZcY7QCORfsLzOJr5ZwzucyAvBG4OJjUOroiV5sww+fMDxj/2t8wvJqHzLImxy6YLbikEXYWVJjjzwOLHoJGSspGM2bamZ67/UfVMD+8xO3fi9hdeWaJEDX0qKGCcWF6rRNAIdBW/uh9RjugxxBCFKes=;YT3ldQwS1dvbSbr0Qwss8A=="
+secured: "/9kuW4TDWEbmREOaNc9eLlhw7SaufIzUTykjeKIRqV69VeED3iEhG7hKE3QfxtVfdgLbGP8xcn+joQAdOqB2MKgPgaeJ86htQy0LBI84wtaLWdtugzGyNr44hblwSHzS3xrXWMvzEwvfg17yXZS1EOxZoN1CJMoxiiWNk0am/hWinYdPp4kEvsg4AVvl7+jaNdd03AK1esWwy5LNUkmfQT58lBQnRfsADCGRvFlVyE3XYR3foNYiwYC+Wk79qavH1ibF6WKp1uFmRVlmZvFR1QOw12ZYwQfYQjH5h9JG8Nf+jMDcpiXqAKW821f644HcgjePJY4tcg8FLyZxULYcRxxrQQZy/AZw4y/iY27jkf4=;y4cocdxhFmPve05jqXgYIA=="
 ---
 

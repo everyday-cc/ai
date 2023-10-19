@@ -2,27 +2,19 @@
 category: news
 title: "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit"
 excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency."
-publishedDateTime: 2023-10-11T17:07:00Z
-originalUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
-webUrl: "https://www.necn.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/"
-ampWebUrl: "https://www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
-cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3065039/?amp=1"
+publishedDateTime: 2023-10-11T17:02:00Z
+originalUrl: "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/"
+webUrl: "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/"
 type: article
 
 provider:
-  name: NECN
-  domain: necn.com
+  name: NBC Connecticut
+  domain: nbcconnecticut.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://media.necn.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "q8i+l0MRMJDVwBuY/lXpOHTY7i+mMmbpQSLNSAnTqUOaL/l/8OZDhPtO1s9n3PILGKf55RApPJFdSNynuUGrS3qwc4hCsbHE+DN3nXpukjMhreyPGRG8I+PvZagfHew/tspuq7DJqyqimAZOTbYNnGwxwZ23daJcCRRDYgzLkYBPqbEk7krXCx7IfkP5G1/QYo9h1fqNEwTqW5icGwwngfNcR+qotNpl8Wx7tnRsO4rQ2uoYU14gYX7H0LDG5lcWTwAfO/HrpP2IB6hKVw0oHsCvjPxizn/Uph1TEqJ87MzPyn/b7o+XFYWK8LobGEN3Ei3/oAVPyRKIFHEjfgvUdzhECw8PTUhAxsEf0TBeHUg=;yjdXC9GGz2HNnUivx+b/uw=="
+secured: "90KrnfyXldJIwY0s2PE8jhEE5GriLGbgXDxcRZiTc/1GDyKh7/w4PT6shjamK+Cj7riH5/9fckilUeUzhNnL/tx0NWcgiykqmqI5KD9gkzgoas3opLplSz2PYMpzMMDLFV5QCsld/D/VuJqQ0npWImpN5IugJIpHKeLsvesWE9StXl8ka29DhNoYZqd319EWyYcSqaxxEOA0xRAeH0NySFTkPhEvvYuCNdjzLFUHbVpM+ivzxgoCdmxdosLBfwjKjYFleLsvd36vRziRMJMn/B9c1t0LZtzywTO1lvUz9upzQNAXFroFoGx7vZe37pQFgnkMMPWmA9LMSRK2GOvD5K2Tqb1Jms0oL4PsKqV/GoM=;Iot1TRV7BBrqp0i8iqua5Q=="
 ---
 

@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 related:
   - title: "WiMi is Researching Machine Learning-Based Multi-Focus Image Fusion"
