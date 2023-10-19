@@ -98,6 +98,20 @@ related:
         width: 2100
         height: 1104
         isCached: true
+  - title: "‘Game-changing’ facial recognition technology catches prolific shoplifters"
+    excerpt: "The Metropolitan Police asked 12 retailers to send in images of their 30 worst shoplifters in a pilot of the new software."
+    publishedDateTime: 2023-10-19T02:01:00Z
+    webUrl: "https://www.aol.com/game-changing-facial-recognition-technology-230100901.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/RKfjEJzFdHIFNK3hlA567Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/6429df5834bcfc23dc3e0ffb493c7837"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "‘Game-changing’ facial recognition tech to be used in crackdown on London shoplifting"
     excerpt: "Facial recognition technology is going to be used to investigate and identify prolific criminals who target retail businesses in London, after an increase in attacks and shoplifting."
     publishedDateTime: 2023-10-18T23:01:00Z

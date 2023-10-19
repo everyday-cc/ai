@@ -56,38 +56,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
-    excerpt: "This initiative encompasses comprehensive training programmes designed to strengthen collaboration structures within technical fields and promote the development of national talent in emerging fields,"
-    publishedDateTime: 2023-10-18T07:53:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/21/180516221659emso-jpg.jpeg?f=3%3A2"
-        width: 724
-        height: 482
-        isCached: true
-  - title: "The UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
-    excerpt: "This initiative encompasses comprehensive training programs designed to strengthen collaboration structures within technical fields"
-    publishedDateTime: 2023-10-18T07:08:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 48
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OTg4MDRiMzEtNjdkMS00/0/webversion-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Check out OpenAI's other cool AI tools: DALL-E, Whisper, Codex – Business Insider"
     excerpt: "But the startup behind it, OpenAI, has other AI products too. Just months earlier, OpenAI removed the waitlist for its generative AI art generator, DALL-E, which grew to over 1.5 million daily users."
     publishedDateTime: 2023-10-14T23:43:00Z
@@ -115,20 +83,6 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
         width: 1270
         height: 847
-        isCached: true
-  - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
-    excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
-    publishedDateTime: 2023-10-18T23:21:00Z
-    webUrl: "https://menafn.com/1107266905/G42-And-Openai-Launch-Partnership-To-Deploy-Advanced-AI-Capabilities-Optimized-For-The-UAE-And-Broader-Region"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/18/M_891a8image_story.jpg"
-        width: 1092
-        height: 678
         isCached: true
   - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
     excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"

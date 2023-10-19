@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recog
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Met Police to keep using facial recognition on prolific shoplifters"
+    excerpt: "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences."
+    publishedDateTime: 2023-10-19T05:20:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-london-67149222.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D33C/production/_131467045_facialrecognitionstock001.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Live facial recognition technology has no place in a free society"
     excerpt: "The right to privacy is a fundamental cornerstone of any free society. The darkest moments in human history reflect episodes of peoples bereft of"
     publishedDateTime: 2023-10-18T15:27:00Z

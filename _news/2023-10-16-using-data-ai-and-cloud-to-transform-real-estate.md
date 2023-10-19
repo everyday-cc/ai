@@ -27,20 +27,20 @@ images:
 
 related:
   - title: "Is AI about to transform the legal profession?"
-    excerpt: "Legal software system RobinAI uses what it calls an AI co-pilot to help speed up the process of drafting and querying contracts, both for in-house legal teams in large organisations, and for individuals."
-    publishedDateTime: 2023-10-19T02:07:00Z
-    webUrl: "https://www.aol.com/ai-transform-legal-profession-230711078.html"
-    ampWebUrl: "https://www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
+    excerpt: "\"You've got to get through the lack of professionalism [by Mr Schwartz], and the lack of ethics, before you get to the fact that the tool was something he shouldn't have been using.\" Baker McKenzie has been tracking developments in AI since 2017 ..."
+    publishedDateTime: 2023-10-19T05:23:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-67121212?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-67121212.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67121212.amp"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: BBC
+      domain: bbc.co.uk
     quality: 59
     images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b87d4754288b7172a2426d2ad5fece63"
-        width: 976
-        height: 549
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B1E/production/_131445079_gettyimages-1702230864.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Now AI could help healthcare professionals manage depression"
     excerpt: "New findings suggest ChatGPT ‘may be better than a doctor at following recognised treatment standards’ for this mental health disorder."

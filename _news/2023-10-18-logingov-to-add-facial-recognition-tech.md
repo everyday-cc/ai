@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Met Police to keep using facial recognition on prolific shoplifters"
+    excerpt: "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences."
+    publishedDateTime: 2023-10-19T05:20:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-london-67149222.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D33C/production/_131467045_facialrecognitionstock001.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Live facial recognition technology has no place in a free society"
     excerpt: "The right to privacy is a fundamental cornerstone of any free society. The darkest moments in human history reflect episodes of peoples bereft of"
     publishedDateTime: 2023-10-18T15:27:00Z
@@ -65,6 +81,6 @@ related:
       domain: govtech.com
     quality: 4
 
-secured: "erOV26vkTDqdulWfhriA0A5Lx9dhYlW9OYHio8LUHN26/DhrZTKI2cGC35e30+k8ArQPe/PAC2wVc7Jki7Fe5oIp5+Andgyf9cWXYud1Ywu95hePaihZ4A5jr6OOb3I/kpSPIlfRsdQ8f7sIj70gCiV8+VV0rU0Dy2OhIhi3U/nd1FaaFBhyIOwUsz/GVXLzcpapK0IMu/ncVYrD6tJ11qTba3PzS8ozow3QQLB1Eiqi3NgdmXFGzpYgOQA1jHK/esSmkp+lhl2KBoSNlklmZqz2zd7jSiRQ33hV1kE9akAwIPcbg6j8NuUg2x+N58VOc2cqSlhC6Ic6Xl6S0d64/R6HUgsxKinhdPdu8EnuRRY=;AI336A9Vmsn2yTp6XT2Y6A=="
+secured: "DH+GDunl4Cj2HcRRjnAi3VybArYXAnVwTVlI/T5FfXQszqQgZWIgQ5IOFo5e8VqcMOrd7tkXm7FvfR16u+EFxaznjSapRiet2SPMkqGpSUnsP4a8nXa4dK2Bb5UlG/28VD65AfMKF/HRVaKol0qi8rGjdn4rX1iDY58GTfe9ns2l+khbQWkE/DK66qo0RXHEe017mL8lt2U/Th/dF6y3k9YQ+v10TA6YsfRECS2Vkt/uUAHiKTQfVqwIPGk88flNRxwzusUucFw9VxYwNUu4UIcmKEAc8eBvuOkNLeBa/bX3HKa5RvwPABegtCIkV17Yatze6bGv32glQ4JmTWhYCur2kxZtzakvi7mWgqFfPRp3/OeVYf1/PHelIyN6oqOyltcC24CC0dUSWOokYJ+Bxi4gpVFpLf40XDg7CBI8w+u5O6r43CeImGzKblj19P4Bwe2y4gem1rdEVLTObF2tdMv0jcQLenNW25WDWvVPtNLpYOG+ceIF0UPqVkkxGZYvWaZCHTSEWw6VhOvsLbs/cA==;qPG3E193d64xrm2X2pGd6g=="
 ---
 

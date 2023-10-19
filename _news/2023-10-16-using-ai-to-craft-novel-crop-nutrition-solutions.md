@@ -23,6 +23,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "UK’s global AI summit must provide solutions rather than suggestions"
+    excerpt: "Efforts to regulate artificial intelligence are gathering steam across the world, but some key ethical and controversial issues don’t seem to be getting enough attention"
+    publishedDateTime: 2023-10-19T05:00:00Z
+    webUrl: "https://www.newscientist.com/article/2397528-uks-global-ai-summit-must-provide-solutions-rather-than-suggestions/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/17123753/SEI_176299444.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+
 secured: "GLe1Pm4GRfRKFVTTM7nA115PiOh4XY3krZ6bWtW1d0wN45zy7Mfw3gc+A15OELZVtwKOOnmrTyLQTAhduqF0HEfEo6+ycn5rlWWC5JtBDB+MkeAz5HGP9j3D/OwFDhH1Z9rgZRSBKhtY/7C4L2b9txepsCUgDDWMEe6lPBJrMqcbIOkIK9lL7CvOg9IJilPRna1zxujWLbZS38ytoDPtM7MV7C+G7cTA0ZqN0mjfqm1HbwHuVTCLCvWb6a+sd0H16hNnYeGWcAaL1L9gKo7+YXvnAEeHisNw4mIWA44lnNJ2BF+39jSwH5GAmSvyZMX6zqZny80no0vcSM3dmIPEwuN0Cj/qzb+KVLNIvkGbnCI=;HpWQ8X4zayyE7jPefGYG8w=="
 ---
 

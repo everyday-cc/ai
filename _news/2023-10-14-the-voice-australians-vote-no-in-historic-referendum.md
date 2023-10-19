@@ -67,20 +67,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
-    excerpt: "Australians voted in a referendum Saturday to decide whether to enshrine in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
-    publishedDateTime: 2023-10-14T11:27:00Z
-    webUrl: "https://apnews.com/article/australia-indigenous-voice-referendum-6e9a9a7916a6024479d9e985f28e2d5e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://dims.apnews.com/dims4/default/1c0fdaf/2147483647/strip/true/crop/7700x4331+0+401/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F82%2F5612b341fff34b16478effe5688e%2F60302059f3c845c4b99d810132b81e3e"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened"
     excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
     publishedDateTime: 2023-10-14T23:23:00Z
@@ -273,15 +259,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 13
-  - title: "Voice referendum: What is Australia's Voice to Parliament proposal?"
-    excerpt: "The Voice was recommended by a historic document in 2017 called the Uluru Statement from the Heart. Drafted by more than 250 Indigenous leaders, the statement is considered the best - though not unanimous - call to action for reforms which affect First Nations Australians."
-    publishedDateTime: 2023-10-14T11:42:00Z
-    webUrl: "https://www.aol.com/voice-referendum-australias-voice-parliament-150649043.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "9YfI35Hx2Yt5xi02+sC1Mo1z7HOysztHI7DeXR6973bZ1L5DH0Fmp3e8uHlh58icTGlNu+2bpyEJs0bfA59GhiayqM1ORJRWRMUVN68brzti9lxM5RE3IIockKuJMdBp9XAFvf7F4QgJJ8OYi753HcL8WW9j26h5D85p/oHARwH+DuHtLjnIkcmTlLD7ibO4Q0keASkpjVnEedW/+efKSzNFBv7zq/ce26f8/4T0ugEOH/9QtHGATeJ5HuKxli5RnAprrniJpf6RPDNWQax2/QTpcOP47MaqeFKvJUFVtrwJtjsskcIlMj8x8s8AFLkbxb6eNyV6Litr1z38i91+XC0g5SWdzANWHLZs/HVSpvgZ9APPA7rzaD0RAOAsbWxHbVWDxuVLDbduyV4H4gSGX1KuDVXYamSl/65qHn3TjW10bYAExW1DafQGunf5zLArDrlTKLoMCv+PQ1kaQljXcWKI5J9n5faSPdt/sIUJLcGbrppPwvVteRDc/OoHRMM6cfYNT2Sf174ebOTVWR0Kxw==;bMNg8wylUy8YKDR6AVgntA=="
 ---

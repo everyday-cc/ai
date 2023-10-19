@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "PM baulks at treaty, Dutton dumps recognition vow"
-    excerpt: "Anthony Albanese refused to discuss a treaty while Peter Dutton dumped his plan to push for recognition after the resounding defeat of the Voice to parliament."
-    publishedDateTime: 2023-10-16T08:03:00Z
-    webUrl: "https://www.afr.com/politics/federal/pm-baulks-at-treaty-dutton-dumps-recognition-vow-20231016-p5echl"
+  - title: "'Earlier than later': No campaigner Warren Mundine calls for second referendum into Indigenous constitutional recognition"
+    excerpt: "Indigenous activist Warren Mundine is calling for another referendum to recognise Aboriginal and Torres Strait Islanders in the Constitution despite the resounding defeat of the Voice to Parliament."
+    publishedDateTime: 2023-10-19T05:31:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/earlier-than-later-no-campaigner-warren-mundine-calls-for-second-referendum-into-indigenous-constitutional-recognition/news-story/c653fb0e2b2167ee79b42886bd508bbf"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/earlier-than-later-no-campaigner-warren-mundine-calls-for-second-referendum-into-indigenous-constitutional-recognition/news-story/c653fb0e2b2167ee79b42886bd508bbf?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/earlier-than-later-no-campaigner-warren-mundine-calls-for-second-referendum-into-indigenous-constitutional-recognition/news-story/c653fb0e2b2167ee79b42886bd508bbf?amp"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 34
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.1659%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2b28ef16f10945285e0b509d7534e98a524b551a"
-        width: 1200
-        height: 628
+      - url: "https://content.api.news/v3/images/bin/c9a24e9d6db67fb4e46a523bec7842ed"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Days after Voice vote, Peter Dutton waters down Indigenous recognition commitment"
+    excerpt: "Coalition leader Peter Dutton has talked down his commitment to recognise Indigenous Australians in the constitution just days after the Indigenous Voice to Parliament referendum, saying Australians are \"probably over the referendum process for some time\"."
+    publishedDateTime: 2023-10-15T23:56:00Z
+    webUrl: "https://www.sbs.com.au/news/article/days-after-voice-vote-peter-dutton-waters-down-indigenous-recognition-commitment/t5or4hzpz"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 19
+    images:
+      - url: "https://images.sbs.com.au/dims4/default/f1b9642/2147483647/strip/true/crop/4703x2645+0+245/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5e%2F9e%2F917dd67541cbb9c54d32815d25f3%2F20231011001851029261-original.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Peter Dutton accused of 'playing politics' after backflipping on pledge for second referendum on constitutional recognition"
     excerpt: "Deputy Prime Minister Richard Marles has accused Opposition Leader Peter Dutton of playing politics after backflipping on his pledge to hold a second referendum."
@@ -71,6 +87,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
+    excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
+    publishedDateTime: 2023-10-15T20:30:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indegnous-leaders-summit-to-seek-new-way-to-constitutional-recognition/news-story/3d85ead548dcb1fefef43640ee8553c6"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "M8zmkHd6NxUJv1IB+S2c3Nv9CT7c9lU81sR07GrjiFJoo1qto4/8dgdSogQ9dswhvfqa98eO+QKFOzs9tzFbco9s6siYVXxGSYMBmVL7Mh6LdgsKATfILpUgJpRs2F3Z4kmSnPBSqlngCDtFmo0bf7W9xuFjdDbVCfBZirL+szIyCJTfpXLs+maAYIHLiByRfEfj8KGSu7V2tUnd4bBBhq1MWOrMfEndV+VDXPSwdcUKCQnY0osXUnuP4GVzcxtHGsKkKXkeLl379axEpChZYbB/keteDjDUaU64OtTmNS1j3EdAPbSQzq3Zq/exwsWTJwl0iyUCkdUqplY/xGXSaTkRus7WeUSBKm6yqkH5CZM=;dEdC38hfPcRvU4SO56FAag=="
 ---

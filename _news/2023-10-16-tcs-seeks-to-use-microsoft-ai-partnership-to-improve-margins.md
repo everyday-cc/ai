@@ -159,6 +159,20 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
+    excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
+    publishedDateTime: 2023-10-19T04:29:00Z
+    webUrl: "https://www.inferse.com/762100/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 65
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12441.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Henson Group Achieves Microsoft Solutions Partner Designation For Azure Data & AI"
     excerpt: "Designation allows Henson Group to offer best-in-class support for data-driven decisions and recommendations for clients MIAMI, FLO"
     publishedDateTime: 2023-10-17T17:48:00Z
@@ -172,6 +186,22 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
         width: 374
         height: 250
+        isCached: true
+  - title: "G7 CR – A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
+    excerpt: "India], October 19: G7 CR – a trusted cloud managed services provider, announces its achievement of earning Azure – Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
+    publishedDateTime: 2023-10-19T05:48:00Z
+    webUrl: "https://theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 60
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2023/10/ANI-20231019054305.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Microsoft Stock Fueled By Artificial Intelligence In Office Apps – Investor's Business Daily"
     excerpt: "ARTIFICIAL INTELLIGENCE: Will Microsoft’s High-Stakes Bet On AI Pay Off?"

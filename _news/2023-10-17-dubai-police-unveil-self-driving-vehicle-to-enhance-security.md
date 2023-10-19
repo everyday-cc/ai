@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026"
+    excerpt: "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026."
+    publishedDateTime: 2023-10-19T04:48:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2"
+    ampWebUrl: "https://dunyanews.tv/amp/english/763900.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 57
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
     excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
     publishedDateTime: 2023-10-16T14:02:00Z

@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "G42 and OpenAI partner to deploy advanced AI in UAE"
-    excerpt: "G42 will prioritise its substantial AI infrastructure capacity to support OpenAI’s local and regional inferencing on Microsoft Azure data centers"
-    publishedDateTime: 2023-10-18T15:05:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
+  - title: "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities"
+    excerpt: "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion."
+    publishedDateTime: 2023-10-19T05:41:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq"
+    ampWebUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
     type: article
     provider:
       name: Zawya
       domain: zawya.com
-    quality: 59
+    quality: 69
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YmM4Mzk4YzMtNTE2ZC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 837
-        height: 558
-        isCached: true
-  - title: "PwC Partners with OpenAI to Offer AI-Generated Advice to Clients"
-    excerpt: "One of the Big Four auditing firms, PwC has partnered with OpenAI to integrate AI generated advisory service for clients"
-    publishedDateTime: 2023-10-17T09:22:00Z
-    webUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/"
-    ampWebUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/pwc-openai-ai-generated-advice.jpg"
-        width: 1024
-        height: 683
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NGRiNzMzNDAtMjVhMS00/0/1498385993.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
   - title: "UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
     excerpt: "This initiative encompasses comprehensive training programmes designed to strengthen collaboration structures within technical fields and promote the development of national talent in emerging fields,"
@@ -73,6 +57,20 @@ related:
         width: 724
         height: 482
         isCached: true
+  - title: "Mozn and UAE-based Astra Tech Partner To Fortify Fintech Security Via AI-Capabilities"
+    excerpt: "Regional AI powerhouse Mozn, a leader in enterprise AI technologies, inked a landmark partnership with Astra Tech, a pione"
+    publishedDateTime: 2023-10-18T07:41:00Z
+    webUrl: "https://menafn.com/1107262123/Mozn-and-UAE-based-Astra-Tech-Partner-To-Fortify-Fintech-Security-Via-AI-Capabilities"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 49
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/pr_3125_82a6d5e7_image_story.jpg"
+        width: 1672
+        height: 940
+        isCached: true
   - title: "The UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
     excerpt: "This initiative encompasses comprehensive training programs designed to strengthen collaboration structures within technical fields"
     publishedDateTime: 2023-10-18T07:08:00Z
@@ -89,57 +87,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes – NBC News"
-    excerpt: "ProfileSectionstvFeaturedMore From NBCFollow NBC NewsA man arrested in the killing of a Baltimore tech entrepreneur was suspected of raping a woman days"
-    publishedDateTime: 2023-10-14T23:27:00Z
-    webUrl: "https://www.inferse.com/753933/openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes-nbc-news/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8584.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Check out OpenAI's other cool AI tools: DALL-E, Whisper, Codex – Business Insider"
-    excerpt: "But the startup behind it, OpenAI, has other AI products too. Just months earlier, OpenAI removed the waitlist for its generative AI art generator, DALL-E, which grew to over 1.5 million daily users."
-    publishedDateTime: 2023-10-14T23:43:00Z
-    webUrl: "https://www.inferse.com/753954/check-out-openais-other-cool-ai-tools-dall-e-whisper-codex-business-insider/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 32
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8593.png"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
-    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
-    publishedDateTime: 2023-10-18T17:17:00Z
-    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
-        width: 1270
-        height: 847
-        isCached: true
-  - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
-    excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"
-    publishedDateTime: 2023-10-17T19:16:00Z
-    webUrl: "https://www.theinformation.com/articles/openai-dropped-work-on-new-arrakis-ai-model-in-rare-setback"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
 
 secured: "AVVYPn0VEObO3UnC8XSX/H7bZwsvUZh6WcKMPgWXuUd4ESboAuNMufmmslOpLfvm/ukY08qWkLMRDwKdJl7O5mVb3JPRAvWiQEFd7ofDTlSiEJGBJ4uM2wkERTaP+Z7OhC2sxxzI1UldWnKUcnoV472Dsuve56bPxb021ZmzNls76HnKFO23z5Iqyll0CjQX+wiExcGWR/Biat/Q/L4kwNoNJ5YbWxLYpSSfgKsYqOZ2paVGN8VZ64RKXObtrhoHEP6Ju4NDfBQerNA+7ccYtHXRDzmF5XOv469mzoPz4j66gzWPp/UZS6CP1Mjs4nMIh/+qcGXKJpyiDY+ZvMNM6LojYp5tSj5HbwfnUJDYLP4=;pd1r5HIXxVAFmXmFX8GyaQ=="
 ---

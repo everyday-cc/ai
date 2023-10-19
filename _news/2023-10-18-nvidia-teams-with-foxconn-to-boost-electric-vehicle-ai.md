@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 604
         isCached: true
+  - title: "Nvidia and iPhone maker Foxconn to build \"AI factories\""
+    excerpt: "The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called \"AI factories\". The firms say it is a new kind of data centre that uses Nvidia chips to power a \"wide range\" of applications. They include training autonomous vehicles, robotics platforms and large language models."
+    publishedDateTime: 2023-10-19T03:09:00Z
+    webUrl: "https://www.bbc.com/news/business-67153669.amp"
+    ampWebUrl: "https://www.bbc.com/news/business-67153669.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67153669.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/DB8F/production/_131470265_gettyimages-1258356137.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia and Foxconn partner to build \"AI factories\" for self-driving cars"
     excerpt: "The Taiwanese manufacturing giant Foxconn and the GPU superpower Nvidia have collaborated to develop \"AI factories,\" innovative data centers designed to power various applications, including self-driving"
     publishedDateTime: 2023-10-18T19:47:00Z
@@ -103,22 +119,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Nvidia and iPhone maker Foxconn to build \"AI factories\""
-    excerpt: "The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called \"AI factories\". The firms say it is a new kind of data centre that uses Nvidia chips to power a \"wide range\" of applications. They include training autonomous vehicles, robotics platforms and large language models."
-    publishedDateTime: 2023-10-19T03:09:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-67153669"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-67153669.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67153669.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/183F/production/_131470260_gettyimages-1730512047.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Foxconn to build AI data factories using Nvidia chips and software"
     excerpt: "Taiwan's Foxconn, the world's largest contract manufacturer, will build artificial intelligence data factories using Nvidia chips and software to make products including self-driving cars, the companies said on Wednesday."
@@ -198,6 +198,20 @@ related:
       - url: "https://i.cdn.newsbytesapp.com/images/l75520231018115128.jpeg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Foxconn and Nvidia collaborate to supercharge the AI industry"
+    excerpt: "Announced at Hon Hai Tech Day, the collaboration between Nvidia and Foxconn starts with creating AI factories. Foxconn will also collaborate with Nvidia to put AI in cars."
+    publishedDateTime: 2023-10-19T05:15:00Z
+    webUrl: "https://techwireasia.com/2023/10/ai-factories-and-more-nvidia-foxconn/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jensen-Huang-and-Young-Liu_2.jpg"
+        width: 1229
+        height: 819
         isCached: true
   - title: "NVIDIA Partners Up With Foxconn To Build AI Factories"
     excerpt: "NVIDIA announced that it will be working with the Foxconn Group, in order to create new factories and industries that"

@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Students are using artificial intelligence in work. How are Boise-area schools responding?"
-    excerpt: "As school districts in the Treasure Valley see a rise in the use of artificial intelligence, educators say they’re figuring out ways to ensure the new tools are being used responsibly and don’t impede student learning."
-    publishedDateTime: 2023-10-18T23:40:00Z
-    webUrl: "https://www.spokesman.com/stories/2023/oct/18/students-are-using-artificial-intelligence-in-work/"
+    excerpt: "West Ada School District has a software to help teachers monitor student-issued devices and their use of AI, a spokesperson said."
+    publishedDateTime: 2023-10-18T20:27:00Z
+    webUrl: "https://www.aol.com/students-using-artificial-intelligence-boise-172747497.html"
     type: article
     provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 27
+      name: AOL
+      domain: aol.com
+    quality: 29
     images:
-      - url: "https://thumb.spokesman.com/uO6q6eDqVn9RLDznlEJuDvMVKgE=/600x0/media.spokesman.com/graphics/2018/07/sr-loader.png"
-        width: 600
-        height: 338
+      - url: "https://media.zenfs.com/en/aol_idaho_statesman_mcclatchy_articles_842/a781ef148f788d5d71f1b2d119d34773"
+        width: 1140
+        height: 1024
         isCached: true
 
 secured: "g6pWO4xyirQAlA7CvSeh+o6ydJUEFG1MkR8YiwHGgFBeKgSvSKyU1gX+h1dj//c7hv3mBmqCG0y/DPPZ+lRAArb66IN4zB8BsgFonYg2S+rRsFtwWXDcRRKQ+3WVWOFuO0MMxsQqDKGHFDpiKeGBns9a7toomMT8wibsOKO02uTH8i95WwifxfgdL2bEeTpOPLx7zORiCOsuIZTmX10r5TFRbJs2CXk6o6y1kgihuTo7DvcQM7zuRwU6i4RpI9hePPoGFLywqv0z8I2RkBBVULETw3QIU7ATPYNu9l+J5IP4skIMiA9XOCZI/V7sqv960/+FlosCFNQKpeIR94fzt0SkE/hm61qirIYgTs/upiE=;I0DNHtDjbDJh47wKMAPRPQ=="

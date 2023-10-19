@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Is AI about to transform the legal profession?"
-excerpt: "Legal software system RobinAI uses what it calls an AI co-pilot to help speed up the process of drafting and querying contracts, both for in-house legal teams in large organisations, and for individuals."
-publishedDateTime: 2023-10-19T02:07:00Z
-originalUrl: "https://www.aol.com/ai-transform-legal-profession-230711078.html"
-webUrl: "https://www.aol.com/ai-transform-legal-profession-230711078.html"
-ampWebUrl: "https://www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
+excerpt: "\"You've got to get through the lack of professionalism [by Mr Schwartz], and the lack of ethics, before you get to the fact that the tool was something he shouldn't have been using.\" Baker McKenzie has been tracking developments in AI since 2017 ..."
+publishedDateTime: 2023-10-19T05:23:00Z
+originalUrl: "https://www.bbc.co.uk/news/business-67121212?at_medium=RSS"
+webUrl: "https://www.bbc.co.uk/news/business-67121212?at_medium=RSS"
+ampWebUrl: "https://www.bbc.co.uk/news/business-67121212.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67121212.amp"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b87d4754288b7172a2426d2ad5fece63"
-    width: 976
-    height: 549
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/17B1E/production/_131445079_gettyimages-1702230864.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -53,6 +53,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "5zdylYPWrWguok+BYRJF7bEo62TsXQaH6Ng8oVhTd51PUQ/M/LRpT7llXzLZaW6g9MuFadBhjUFF7YqJY0ZD3TfXaFUzfbhVmLoP6CdCSmqJNtTzUSmAppFrYXY3pmwVmFmHQAhi/6WDRzFUkzQ+WYee+2l2cT5DGGExSVxlrGKqBblVxeES8xho/ATEhgjJSsRqC/GchVvDynN+xt/Z9elWQRM5QJZdRDuozx09cw5nSBBBc0s505jqGwe7nRCAN5BYindrLpK/ytQPwlFGkmiwO7thW4VkEsM6bHxctPmi4hPVd2f6vWgXY9+yE6llaB9LiY9msqp/G6a6iZaUhYA5vs6+UoWkvtpfqwl7rlw=;tHCwvm3UBP2+EtET83I4aA=="
+secured: "6bq7cUWyerbqW+W6vKbaM0rA4zaZ9Fbueqp2C9tw+di4xXA0fsWIy9DdYToClsxeYRoLn1Hfx5w9fW3Fl7zIBOVkb5TNzZoOgXVBO74kYhe/rjoXRR7Q+LxWWj60y7mYyametMUGtkl1GY6xsek/6mXm1TycLPOjpooBdIV+BcY48Wl1sBdTuk3KYMo9wwkPmQj9pjW8AHyZO58sh12p4njG8k+Q6GaRxav5cd28vYWvUkIw42AJZPJLIoUbabybwcsPUj3+kMAK0XtGEj0E8HVN3/kIasbKUOpv3uVc9P5aWIMa/87uxDm52FLu+JoA1WTLfijRAkZi8nRHIk+fxcYWLKqM3l1pxCr5gPkQx8M=;EL6/c7D8XsdxtmtnXNjS0g=="
 ---
 

@@ -1,26 +1,27 @@
 ---
 category: news
 title: "Students are using artificial intelligence in work. How are Boise-area schools responding?"
-excerpt: "As school districts in the Treasure Valley see a rise in the use of artificial intelligence, educators say they’re figuring out ways to ensure the new tools are being used responsibly and don’t impede student learning."
-publishedDateTime: 2023-10-18T23:40:00Z
-originalUrl: "https://www.spokesman.com/stories/2023/oct/18/students-are-using-artificial-intelligence-in-work/"
-webUrl: "https://www.spokesman.com/stories/2023/oct/18/students-are-using-artificial-intelligence-in-work/"
+excerpt: "West Ada School District has a software to help teachers monitor student-issued devices and their use of AI, a spokesperson said."
+publishedDateTime: 2023-10-18T20:27:00Z
+originalUrl: "https://www.aol.com/students-using-artificial-intelligence-boise-172747497.html"
+webUrl: "https://www.aol.com/students-using-artificial-intelligence-boise-172747497.html"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://thumb.spokesman.com/uO6q6eDqVn9RLDznlEJuDvMVKgE=/600x0/media.spokesman.com/graphics/2018/07/sr-loader.png"
-    width: 600
-    height: 338
+  - url: "https://media.zenfs.com/en/aol_idaho_statesman_mcclatchy_articles_842/a781ef148f788d5d71f1b2d119d34773"
+    width: 1140
+    height: 1024
     isCached: true
 
 related:
@@ -39,6 +40,6 @@ related:
         height: 315
         isCached: true
 
-secured: "bzCq/kPwKBs/RT4YHRH2n4TKo3f71Hq0eoUjAPWdIXTyeKgT4ztvg89T6MnmhDWUeKgccZDGmn25GekLmFfOkFgxGCALnC09Je3j6qvPSTo+VKeHs011BMzb1kFrAWAIXyO/eylqluuRNt3+RQfMhsOR8SDkebEtxSesB1D5e7Eam7HtgUWAnGBpr6lEOiisWGeCnncq8LEHuSn3klYq0G+hMM2XffoT9WrMRZg90r/B2owCMLptiuZn+M1OEBu2cb4SNVXhY6uItlj4S1GJmJprAOwK5fZOj+tqu0DATx9xQpevBLtd3TYRITHSG0hdyHThNJFZcKhUqKK/KIk/UeOG+bPOJzOorFqliznKfFg=;DstGXNS2HzUBFWkojldC1Q=="
+secured: "478A0660PJpdotm2pha3Yg8zf70oEO5i3pV1v6NfzO9gtISUJ2ny5wBvjfGLp1GA+Cg+0k3SDnOSW3M/jOwnfSo2dxqSibB65KnmJpLKg9eNQ7+/nbunMMXKY0ZQtAWTrhdCFnhQdwOGWmZ/fvy0au3FN9WhuaQwDz/sFz5PwEeMyV3uSPOU/8dwlIQl3QZ8ZiBp4o/dHE3KkwqDvShFdjSmUj96A+1Lt4JRzBVxCmtwgXTaVd0WxLy6kVryyx8K/B20xueOEHNSR0uwKQw5WixXD2jB0ZYgHVXAKtu5q9g6CdTca3UPvrBUqTOm1vdACcJxuNTYM2Bbp3nz2yzwAC5gjwDMEg7kpKS879ob+GE=;v+fKc4d4ppGgTS4PD++yVg=="
 ---
 
