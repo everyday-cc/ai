@@ -68,6 +68,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Gartner’s 2024 predictions: Lots of AI, changing cybersecurity roles, electricity rationing, and more"
+    excerpt: "Gartner’s top predictions for enterprise IT organizations are dominated by AI, which is influencing trends including employee unionization, application modernization, and smart robots."
+    publishedDateTime: 2023-10-18T13:52:00Z
+    webUrl: "https://www.networkworld.com/article/3708755/gartners-2024-predictions-lots-of-ai-changing-cybersecurity-roles-electricity-rationing-and-more.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708755/gartners-2024-predictions-lots-of-ai-changing-cybersecurity-roles-electricity-rationing-and-more.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708755/gartners-2024-predictions-lots-of-ai-changing-cybersecurity-roles-electricity-rationing-and-more.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 44
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/27/10/tall-blue-buildings_skyscrapers_enterprise_cityscape-100751598-large-100929510-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Generative AI pervades Gartner’s 2024 predictions for cybersecurity roles, application modernization and more"
     excerpt: "Gartner’s top predictions for enterprise IT organizations are dominated by AI, which is influencing trends including employee unionization, electricity rationing, and smart robots."
     publishedDateTime: 2023-10-18T13:52:00Z

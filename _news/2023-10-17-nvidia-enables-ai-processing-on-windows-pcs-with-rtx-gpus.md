@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-17T13:00:00Z
 originalUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
 webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
 type: article
-quality: 64
-heat: 94
+quality: 84
+heat: 114
 published: true
 
 provider:
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/10/VSR_1.5.jpg?w=1200&strip=all"
+    width: 1200
+    height: 631
+    isCached: true
 
 related:
   - title: "Analysis: Nvidia, AMD Give Partners New AI Selling Points For GPUs In PCs"
@@ -61,6 +67,6 @@ related:
       domain: bgr.com
     quality: 34
 
-secured: "YvnjoespSyTsnj8cwZxHd0aPmA3OwLnkizwaq7RZamRFGdBXZ+WuPuL4wbpzzoCiH4omjNs1PrQoSCskqxiFy2D8u2FDlNRBzBQqvyHGJbX1WYZ4/Eb5hH8nY3hljrR4/6e3SBgcul0+NgH7Seq7bvjI3QXWnCLam9CkpWhe5UtkPTpzs2iEwQ2QNk8mSa+nWWnie/jKKfyXuxtPPk5KqdCW9V+KFTzTW/khLU/KJPE5/ERQ1+xTF6gBKmJ8zwYvLUykfkg0rr9/C+ayRl9cuI96f4pEcazdPJZD40LMC/1YZhjPvMpkiiq2aJ+JDGJFMDU7NRWVkH+uODGQNoEXdwDE2KvgCVIqKeUC/GlG4/s=;MV6NKL9U7EvUCtfpwD75HA=="
+secured: "J7MtM/Eg7DVucoAR4mUsLTa0yWuu7WhIO02vSwDsLTKuJJX+o2oEKEZDIxKBrrNhg1Q3sBd3w5XfKKNKIxnI1bXI1+V2p4v6LBb3Zan4SCA22lghQyKcJ56fa+oUcHJKchYs7hGKqqRBRlkPIjNF82qczevb1VagMNDQhl3Bp5mSnGcHnKMBjMBfKdBc8OOcxAVp+K3PsZixw4RWuNsZaDG2mzTcXwVLh/FIAU3zfcPFbLktGjAK2IjeQ9dbYrZmS3ZbTXFSIq6lDaQ6ybvZwqL+p2wExpR5K01FwRR+ZzChBQrJEwwRCFDIwdE0KDQuwK73o92vV01tsiLktUUa+M3fdqM2k+jcoseQ4Bw2iwo=;Tb5YsyEJbSg+liuZ4hqn4Q=="
 ---
 

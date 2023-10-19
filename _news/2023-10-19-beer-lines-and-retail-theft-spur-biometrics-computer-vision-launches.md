@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202310/beer-lines-and-retail-theft
 webUrl: "https://www.biometricupdate.com/202310/beer-lines-and-retail-theft-spur-biometrics-computer-vision-launches"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Biometric Companies
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biometrics enabling digital banking advances in multiple applications"
-    excerpt: "The expansion of biometrics for financial services made up several of the top headlines this week. And digital identity wallets continue to gain prominence."
-    publishedDateTime: 2023-10-14T16:32:00Z
-    webUrl: "https://www.biometricupdate.com/202310/biometrics-enabling-digital-banking-advances-in-multiple-applications"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/12154539/selfie-phone-PAD-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Single sign-on for US government services getting face biometrics"
     excerpt: "Login.gov, the United States government's single sign-on service, is at long last getting a face biometrics function. Probably."
     publishedDateTime: 2023-10-18T21:01:00Z

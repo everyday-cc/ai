@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2023-09-28-these-new-tools-could-make-ai-vision-systems-less-biased.md",
-      "title": "These New Tools Could Make AI Vision Systems Less Biased",
-      "excerpt": "Two new papers by researchers at Sony and Meta propose ways to measure biases in computer vision systems so as to more fully capture the rich diversity of humanity. Both papers will be presented at the computer vision conference ICCV in October.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/276785-these-new-tools-could-make-ai-vision-systems-less-biased/fulltext",
-      "originalUrl": "https://cacm.acm.org/news/276785-these-new-tools-could-make-ai-vision-systems-less-biased/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-27T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-28-integration-propels-machine-vision-research-reviews-in-sensor-visual-perception-and-inference.md",
       "title": "Integration propels machine vision: Research reviews in-sensor visual perception and inference",
       "excerpt": "A joint research team in China wrote a review on in-sensor visual computing, a three-in-one hardware solution that is more efficient, economical and secure than conventional machine vision systems, which collect,",
@@ -1257,6 +1223,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-09-18-ministers-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras.md",
+      "title": "Ministers to approve bill legalizing police use of facial recognition cameras",
+      "excerpt": "According to the bill, police will be allowed to deploy the facial recognition technology to “prevent, thwart or uncover serious crime and those involved in planning or carrying it out.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/",
+      "originalUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.timesofisrael.com/www/uploads/2023/05/1CL5WX-highres-e1683012502269-640x400.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/amp/",
+      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/amp/",
+      "publishedDateTime": "2023-09-17T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Israel",
+        "domain": "timesofisrael.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

@@ -591,6 +591,20 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "China's AI industry grapples with mixed prospects amid escalated US chip controls"
+    excerpt: "With the Biden Administration's heightened export controls on semiconductor chips to China, the Chinese AI industry finds itself in a mixed picture of some rejoicing and others facing challenges. This impact is rippling through various sectors,"
+    publishedDateTime: 2023-10-19T07:44:00Z
+    webUrl: "https://www.digitimes.com/news/a20231019PD203/ai-chips-ic-design-distribution-us-china-chip-war-server-ipc-cloud-computing-iot.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 49
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231019pd203_files/3_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Exclusive-Upcoming US rules on AI chip exports aim to stop workarounds – US official"
     excerpt: "The U.S. will take steps to prevent American chipmakers from selling products to China that circumvent government"
     publishedDateTime: 2023-10-15T21:48:00Z
@@ -604,6 +618,20 @@ related:
       - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-10/15/2023-10-15T213953Z_1_LYNXMPEJ9E0C3_RTROPTP_3_USA-CHINA-CHIPS.JPG"
         width: 800
         height: 533
+        isCached: true
+  - title: "China Launches Global AI Governance Initiative After US Announces Fresh Curbs On Chip Exports"
+    excerpt: "China launched a global initiative for AI governance as countries such as the U.S. and the U.K. race for dominance in the fast-evolving technology."
+    publishedDateTime: 2023-10-19T08:49:00Z
+    webUrl: "https://www.ibtimes.com/china-launches-global-ai-governance-initiative-after-us-announces-fresh-curbs-chip-exports-3715769"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 43
+    images:
+      - url: "https://d.ibtimes.com/en/full/4452318/security-surveillance-camera-overlooking-street-pictured-next-nearby-fluttering-flag-china.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "US cracks down on China’s access to advanced chips for AI fearing use in military applications"
     excerpt: "The US government has cracked down on China's access to advanced chips for use in Artificial Intelligence (AI) with its new additional limits over an October order to restrict the communist country's progress on supercomputing and AI which is the global frontline research in all countries."

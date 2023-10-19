@@ -58,20 +58,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Tesla recalls 362000 U.S. vehicles over Full Self-Driving software – Reuters"
-    excerpt: "Tesla Inc (TSLA.O) will recall more than 362,000 U.S. vehicles to update its Full Self-Driving (FSD) Beta software after U.S."
-    publishedDateTime: 2023-10-14T15:22:00Z
-    webUrl: "https://www.inferse.com/752951/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 36
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8139.png"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "GAW9Fs+BBDP3Y2vqzXzvvK4aOuDlA1U+8C99KnyO5nFaKVjr+I+Zdd8Dt9YJqaLu+TWbOHkvUz1/VPySoKV1SqKpVhYoEY23GrB9VgpuCCvm3zTd9TIWxR3POHuKDjxHNJTyLB5CE3rPqRu+VYqzs/A4S+RK86RE/h3/7032aAoh6u9xEJt6v96ihN+1A2rilMMj+e6wfhBFkS6KGH4J0AHu9wSjO+QjFp5N7zuWGiqjSge5f+B2Zkl7EneK1Kjix0Vd3pQgYVM7CowlvShugrryfPGOnPKiafQS71I5+nugNhkH8tzX9DIBZSIJxH+OHaUP4kTV3OqQmq6no5bO6o3938WaELjvMu/ranANzX4=;9Ooekt4CtGVcSlhEK8knwA=="
 ---

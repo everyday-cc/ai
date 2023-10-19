@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "5 ways AI could influence nursing in the coming years"
-    excerpt: "Health care is one field where AI is rapidly innovating the nature of work-related tasks. In fact, health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work,"
-    publishedDateTime: 2023-10-14T15:59:00Z
-    webUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/"
-    ampWebUrl: "https://wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
-    cdnAmpWebUrl: "https://wgno-com.cdn.ampproject.org/c/s/wgno.com/news/health/5-ways-ai-could-influence-nursing-in-the-coming-years/amp/"
-    type: article
-    provider:
-      name: WGNO
-      domain: wgno.com
-    quality: 59
-    images:
-      - url: "https://wgno.com/wp-content/uploads/sites/2/2023/10/Screenshot-2023-10-13-085439.png?w=1280"
-        width: 763
-        height: 540
-        isCached: true
   - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
     excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
     publishedDateTime: 2023-10-18T13:31:00Z

@@ -29,8 +29,8 @@ images:
 related:
   - title: "Terrorists could try to exploit artificial intelligence, MI5 and FBI chiefs warn"
     excerpt: "Intelligence summit told terror groups or hostile states may seek to use AI to build bombs or disrupt elections"
-    publishedDateTime: 2023-10-18T15:42:00Z
-    webUrl: "https://www.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn?ref=mc.news"
+    publishedDateTime: 2023-10-18T15:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
     type: article

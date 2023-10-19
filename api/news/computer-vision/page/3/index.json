@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-18-ministers-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras.md",
-      "title": "Ministers to approve bill legalizing police use of facial recognition cameras",
-      "excerpt": "According to the bill, police will be allowed to deploy the facial recognition technology to “prevent, thwart or uncover serious crime and those involved in planning or carrying it out.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/",
-      "originalUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2023/05/1CL5WX-highres-e1683012502269-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/knesset-committee-to-approve-bill-legalizing-police-use-of-facial-recognition-cameras/amp/",
-      "publishedDateTime": "2023-09-17T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-18-coimbatore-city-police-ai-based-facial-recognition-cctv-cams-in-kovai.md",
       "title": "Coimbatore city police AI-based facial recognition CCTV cams in Kovai",
       "excerpt": "COIMBATORE: The Coimbatore city police have introduced AI-based CCTV facial recognition systems (FRS) and Metadata cameras for detecting suspects. The cameras are being fixed within a 5-km radius of the City Police Commissioner's office, where the modern control room is located.",
@@ -1312,6 +1269,49 @@
         "name": "Statista",
         "domain": "statista.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-03-revealed-home-office-secretly-lobbied-for-facial-recognition-spy-company.md",
+      "title": "Revealed: Home Office secretly lobbied for facial recognition ‘spy’ company",
+      "excerpt": "The use of facial recognition has provoked fierce criticism over its impact on privacy and human rights, with the European Union seeking to ban the technology in public spaces through proposed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?mc_cid=224685c5bd&mc_eid=466ee5f8be",
+      "originalUrl": "https://www.theguardian.com/technology/2023/sep/02/home-office-accused-of-secret-lobbying-for-facial-recognition-spy-company?mc_cid=224685c5bd&mc_eid=466ee5f8be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-02T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

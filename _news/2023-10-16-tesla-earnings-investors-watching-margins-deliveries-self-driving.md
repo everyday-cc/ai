@@ -53,20 +53,6 @@ related:
         width: 2116
         height: 1190
         isCached: true
-  - title: "Tesla recalls 362000 U.S. vehicles over Full Self-Driving software – Reuters"
-    excerpt: "Tesla Inc (TSLA.O) will recall more than 362,000 U.S. vehicles to update its Full Self-Driving (FSD) Beta software after U.S."
-    publishedDateTime: 2023-10-14T15:22:00Z
-    webUrl: "https://www.inferse.com/752951/tesla-recalls-362000-u-s-vehicles-over-full-self-driving-software-reuters/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 36
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8139.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s 2023 Self-Driving Software Shown Off In New Video"
     excerpt: "Tesla’s updated self-driving software has been shown off in a new video posted to the company’s X account. The video is a much more professional one than the similar clip shared by CEO Elon Musk previously. This latest video doesn’t specifically say which software is being used, but it does say that it’s using version 11.4.1 or later."
     publishedDateTime: 2023-10-18T18:07:00Z

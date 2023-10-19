@@ -19,31 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "AI Startup Leucine Nets $7M to Level Up Pharma Manufacturing Compliance to Keep Pace with Drug Innovation"
-    excerpt: "To help make pharmaceutical manufacturing compliant, safer and faster, tech startup Leucine<a href=\" target=\"_blank\"> is today announcing a $7M series A funding round led by Ecolab Inc., a strategic investor,"
-    publishedDateTime: 2023-10-16T16:13:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/ai-startup-leucine-nets-7m-pharma-manufacturing"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 20
-    images:
-      - url: "https://www.automation.com/getmedia/9b2a5228-108f-42e3-b980-c19287840928/Vivek-headshot-oct-16-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "AI startup Leucine nets $7M to level up Pharma manufacturing compliance to keep pace with drug innovation"
-    excerpt: "Helping to make pharmaceutical manufacturing compliant, safer, and faster, tech startup Leucine is today announcing a $7M series A funding round led by Ecolab Inc., a strategic investor, to scale its Compliance Cloud platform globally."
-    publishedDateTime: 2023-10-17T13:11:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2023-10-17-2/ai-startup-leucine-nets-7m-to-level-up-pharma-manufacturing-compliance-to-keep-pace-with-drug-innovation"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 0
-
 secured: "DjuqjYp8sh/T1CeLmwGTBTuQ4OYyjU6x3DTMWCA9KraU5ww4666ntWz664ZrMp+58AfbO3rhyaRr6ExRvuqMeyNzMxIvvCPLzqZwlvhwtErdy6PW0KfHCQ7dKUTc9I7zNt7T/7H2cbQsyabkJnE3QGtaFTug4szNylk5/fIN7vUwDhC4M4/SXaSJ8Hm1/zaR57Q65ir9X2XrzPp/ZaKoA0E0G5ittZnjW+HC8Q+n22wAI95XfqXcvJO5agfHZWHzKvqyTFWIIKSz21RwDfJ68pzsibMNXgdvq1yGozNuxqLA41xf/td9tYsZUyS0NivTE/+x3WjVwbe+OqeWVkhTbtnF4Z0hSA2gJBrmQY4ULPTm5bLjlIDd8YSY+YmQQnxhrZ1ehev4OpGBtN/biB3sA4B7ZkppN3jF0oCiBlPwwCj8aNqnfBq9fxx9dgzXExe83mTpRbe55ie5l0MsXOsR/SRqkah5S8LGylXm4RJqkEVrMm8Icx/3suCWU98fNDX9IyiMVzDgW6Bq9EeCj4WsFQ==;T0xb4I5l39xbSOAxpUf0yQ=="
 ---
 

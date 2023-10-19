@@ -27,7 +27,12 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 64
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/VSR_1.5.jpg?w=1200&strip=all"
+        width: 1200
+        height: 631
+        isCached: true
   - title: "Analysis: Nvidia, AMD Give Partners New AI Selling Points For GPUs In PCs"
     excerpt: "Nvidia and AMD is giving partners a new set of AI selling points for GPUs in PCs thanks to software updates that enable fresh large language model and machine learning capabilities."
     publishedDateTime: 2023-10-18T15:21:00Z

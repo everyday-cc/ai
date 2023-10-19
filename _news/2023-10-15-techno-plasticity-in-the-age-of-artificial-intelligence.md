@@ -43,6 +43,22 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
+    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
+    publishedDateTime: 2023-10-19T09:08:00Z
+    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
+    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 43
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
+        width: 834
+        height: 636
+        isCached: true
   - title: "Authors speak out against the usage of copyrighted work in AI programs"
     excerpt: "Artificial intelligence has the potential to be used as a tool to improve writing if employed correctly. Some authors, however, are worried about what that could mean. On Sept. 20, The Authors Guild and 17 specific authors — one of whom,"
     publishedDateTime: 2023-10-18T00:16:00Z

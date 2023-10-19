@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmaceutical-technology.com/news/ai-startup-leucine-
 webUrl: "https://www.pharmaceutical-technology.com/news/ai-startup-leucine-raises-7m-for-drug-manufacturing-digital-twin-platform/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -24,21 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Aims to Give Voice Actors a Digital Twin"
-    excerpt: "Morpheme is entering an increasingly crowded market. In 2022, investors poured $378.6 million into voice-related AI startups across 47 deals, according to data from PitchBook. Some are using AI to clone voices, alter voices and generate audio from text."
-    publishedDateTime: 2023-10-14T16:09:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-startup-aims-to-give-voice-actors-a-digital-twin-71697273152890.html"
+  - title: "AI Startup Leucine Nets $7M to Level Up Pharma Manufacturing Compliance to Keep Pace with Drug Innovation"
+    excerpt: "To help make pharmaceutical manufacturing compliant, safer and faster, tech startup Leucine<a href=\" target=\"_blank\"> is today announcing a $7M series A funding round led by Ecolab Inc., a strategic investor,"
+    publishedDateTime: 2023-10-16T16:13:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/ai-startup-leucine-nets-7m-pharma-manufacturing"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 59
+      name: Automation
+      domain: automation.com
+    quality: 20
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2023/10/14/1600x900/Artificial-Intelligence_1696699324463_1697299539048.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.automation.com/getmedia/9b2a5228-108f-42e3-b980-c19287840928/Vivek-headshot-oct-16-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
     excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
@@ -49,6 +47,15 @@ related:
       name: FiercePharma
       domain: fiercepharma.com
     quality: 4
+  - title: "AI startup Leucine nets $7M to level up Pharma manufacturing compliance to keep pace with drug innovation"
+    excerpt: "Helping to make pharmaceutical manufacturing compliant, safer, and faster, tech startup Leucine is today announcing a $7M series A funding round led by Ecolab Inc., a strategic investor, to scale its Compliance Cloud platform globally."
+    publishedDateTime: 2023-10-17T13:11:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2023-10-17-2/ai-startup-leucine-nets-7m-to-level-up-pharma-manufacturing-compliance-to-keep-pace-with-drug-innovation"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 0
 
 secured: "PuEpPYpA+Mh6moZyC234TLGiakuiXzFjp8eewXgMS7W/73rxx/t/7CEkQ/jxispj4y7JutfPV+Sn3eAl5OzWnL6xTcQbAPCCE13yJ4pef8O9Ha1Et8Q1K/2KhmNon+lDIVI00m22ieXliat9JcYUIKPubDDo3inUNVLC2+ZJwSb2mlPRQFDDAULiYpuNt2i5iGI9a7NJO/6yKCzx/LZ2p1z1Y1X2Fvf+FqL2+VNcPct/rGLxVB7EmqS9fN9H/WtrhAk7X+pDh9aW6XvXICPRu/SRjLaO1MqGgwpi/uQaCYTFmoVtUPLN1ppBgK8nkfI5vURxCLAJvKEO7fKH0GRxeEymS48LSCVargpfkxgkTAQ=;uaII5231rRAY+GdJmQsIUg=="
 ---

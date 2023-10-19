@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-10-11-exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions.md",
+      "title": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions",
+      "excerpt": "Exclusive-Self-Driving Startup Plus Splits US and China Operations Amid Tensions SHANGHAI (Reuters) - Self-driving truck startup Plus has split its Chinese and U.S. operations and struck a deal in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-10-11/exclusive-self-driving-startup-plus-splits-us-and-china-operations-amid-tensions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
+      "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
+      "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "originalUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png",
+          "width": 1020,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
+      "publishedDateTime": "2023-10-10T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist.md",
       "title": "AI: we may not need a new human right to protect us from decisions by algorithms – the laws already exist",
       "excerpt": "There are risks and harms that come with relying on algorithms to make decisions. People are already feeling the impact of doing so. Whether reinforcing racial biases or spreading misinformation, many technologies that",
@@ -1105,91 +1191,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-artificial-intelligence-in-healthcare-market-size-worth-usd-2013-billion-globally-by-2030-at-455-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence In Healthcare Market size worth USD 201.3 Billion, Globally, by 2030 at 45.5% CAGR: Verified Market Research®",
-      "excerpt": "The \"Global Artificial Intelligence In Healthcare Market Size By Offering, By Algorithm, By Application, By End-Use Industry, By Geographic Scope And Forecast\" report has been published by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60328537-artificial-intelligence-in-healthcare-market-size-worth-usd-201-3-billion-globally-by-2030-at-45-5-cagr-verified-market-research-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2023-10/60328537-artificial-intelligence-in-healthcare-market-size-worth-usd-201-3-billion-globally-by-2030-at-45-5-cagr-verified-market-research-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-10-adobe-unveils-firefly-image-2-ai-at-max-conference.md",
-      "title": "Adobe Unveils Firefly Image 2 AI at Max Conference",
-      "excerpt": "New generative AI for vector images, AI template design, lens blur in Lightroom, direct social publishing in Premiere Pro, and the GenStudio enterprise workflow solution were also covered.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference",
-      "originalUrl": "https://www.pcmag.com/news/adobe-unveils-firefly-image-2-ai-at-max-conference",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05WgEg7RjQu7K4RunRWAmRA-1.fit_lim.size_1200x630.v1696882852.png",
-          "width": 1117,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

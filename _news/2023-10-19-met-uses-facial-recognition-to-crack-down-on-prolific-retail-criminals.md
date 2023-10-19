@@ -7,7 +7,7 @@ originalUrl: "https://news.met.police.uk/news/met-uses-facial-recognition-to-cra
 webUrl: "https://news.met.police.uk/news/met-uses-facial-recognition-to-crack-down-on-prolific-retail-criminals-473935"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/5020628.jpg?r=1697678820929"
         width: 590
         height: 386
-        isCached: true
-  - title: "Bill targets police misuse of facial recognition"
-    excerpt: "BOSTON — Police departments in Massachusetts would be significantly curtailed in their ability to rely on facial recognition technology under revived legislation touted by civil rights activists that'"
-    publishedDateTime: 2023-10-14T15:29:00Z
-    webUrl: "https://www.eagletribune.com/news/bill-targets-police-misuse-of-facial-recognition/article_35077526-69dd-11ee-a04e-6fe0fe7cd6d0.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/8/08/80897eea-69dd-11ee-9a36-13e52a140747/652962b0064a1.image.jpg?crop=1035%2C543%2C0%2C75&resize=1035%2C543&order=crop%2Cresize"
-        width: 1035
-        height: 543
         isCached: true
   - title: "Telpo launches self-checkout terminal with facial recognition option"
     excerpt: "The terminal utilizes artificial intelligence and computer vision to automatically identify objects during the checkout process."

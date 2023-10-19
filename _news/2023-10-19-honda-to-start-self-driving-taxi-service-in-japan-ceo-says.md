@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2023-10-19/honda-to-start-
 webUrl: "https://www.bloomberg.com/news/articles/2023-10-19/honda-to-start-self-driving-taxi-service-in-japan-ceo-says"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Honda all set to launch their own self-driving cab service in Japan by 2026, announces CEO"
+    excerpt: "Honda will be partnering up with GM and Cruise to develop self driving cars called Origin, and launch a driverless cab service in Japan. Honda's CEO Toshihiro Mibe said the company will use Chevrolet"
+    publishedDateTime: 2023-10-19T09:03:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/honda-all-set-to-launch-their-own-self-driving-cab-service-in-japan-by-2026-announces-ceo-13270902.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/honda-all-set-to-launch-their-own-self-driving-cab-service-in-japan-by-2026-announces-ceo-13270902.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/honda-all-set-to-launch-their-own-self-driving-cab-service-in-japan-by-2026-announces-ceo-13270902.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 34
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Honda-all-set-to-launch-their-own-self-driving-cab-service-in-Japan-by-2026-announces-CEO-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Honda unveils electric, self-driving lawn mower"
     excerpt: "Honda, which is getting out of the gasoline-powered mower business, unveiled an electric self-driving replacement that can be controlled by a tablet or smartphone."
     publishedDateTime: 2023-10-15T04:00:00Z

@@ -2,6 +2,83 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2023-09-25-amazon-to-invest-up-to-4bn-in-ai-start-up-anthropic.md",
+      "title": "Amazon to invest up to $4bn in AI start-up Anthropic",
+      "excerpt": "Amazon plans to invest up to $4bn in artificial intelligence start-up Anthropic ... is already among a range of AI products available on AWS’s Bedrock service, which allows customers to build ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/1621f6ee-41da-48a7-98c9-fa161883dc6f",
+      "originalUrl": "https://www.ft.com/content/1621f6ee-41da-48a7-98c9-fa161883dc6f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-25-deepmind-ai-revolutionizes-genetic-disease-research-with-alphamissense.md",
+      "title": "DeepMind AI Revolutionizes Genetic Disease Research with AlphaMissense",
+      "excerpt": "Emerging gene-editing tools like CRISPR offer the possibility of correcting these genetic errors, offering hope for life-changing treatments. However, the challenge has been daunting. With over 70 million potential permutations of DNA letter swaps within the human genome,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indrastra.com/2023/09/deepmind-ai-revolutionizes-genetic.html",
+      "originalUrl": "https://www.indrastra.com/2023/09/deepmind-ai-revolutionizes-genetic.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTT0c1wRp_5UVtle_fd8e6_6BycUjCqrrBtWl7N6taLWKVY7l9K1Tyk79tTeNg0JWppTnv1CboVj0cWHcWvuS_UhhvlcoPzZFnAnFitIwYgcQT7xlZmod4f63h9XVEMsUciDYFTwvVL0p-y2B8WhuZK9h1MljPcvZPg58SaKUagbq06TzcT0kVP-PaeM0/w640-h360/deepmind.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indrastra",
+        "domain": "indrastra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-rebellions-ai-chip-to-undergo-ibm-quality-testing.md",
       "title": "Rebellions' AI chip to undergo IBM quality testing",
       "excerpt": "Korean AI semiconductor startup Rebellions said Monday that its chips were set to undergo quality testing at data centers of IBM Research's AI Hardware Center in New York. IBM Research's AI Hardware Center conducts exhaustive quality testing for enterprise-grade data center processors.",
@@ -1104,93 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-top-ai-stocks-for-the-decade-google-leads-the-pack.md",
-      "title": "Top AI Stocks for the Decade: Google Leads the Pack",
-      "excerpt": "Investing in artificial intelligence (AI) has gained significant attention as ... It has already made significant strides in the autonomous ride-hailing market through its Waymo self-driving car technology unit. Waymo operates autonomous ride-hailing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cryptopolitan.com/top-ai-stocks-for-the-decade-leads-the-pack/",
-      "originalUrl": "https://www.cryptopolitan.com/top-ai-stocks-for-the-decade-leads-the-pack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-23T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cryptopolitan",
-        "domain": "cryptopolitan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-23-everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week.md",
-      "title": "Everything Microsoft unveiled at its Surface and AI event this week",
-      "excerpt": "At a private NYC venue, Microsoft launched a duet of Surface laptops and all the AI features. Here's the low-down of everything announced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
-      "originalUrl": "https://www.zdnet.com/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 418,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/44ac5ceb6620b58be0b51f6933fe389c00a7b7bd/2023/09/21/ef52c87d-67e3-4dac-9f5a-013c9850287f/img-0016.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-microsoft-unveiled-at-its-surface-and-ai-event-this-week/",
-      "publishedDateTime": "2023-09-23T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI Hardware"
       ]
     }
   ],

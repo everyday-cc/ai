@@ -56,6 +56,20 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 34
+  - title: "WHO outlines considerations for regulation of artificial intelligence for health"
+    excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"
+    publishedDateTime: 2023-10-19T08:46:00Z
+    webUrl: "https://www.kbc.co.ke/who-outlines-considerations-for-regulation-of-ai-for-health/"
+    type: article
+    provider:
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 34
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/WHO-AI-HEALTH-.jpeg"
+        width: 280
+        height: 283
+        isCached: true
   - title: "Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
     excerpt: "NYSE:ACN) Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
     publishedDateTime: 2023-10-17T12:37:00Z

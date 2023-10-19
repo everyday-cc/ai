@@ -60,6 +60,20 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 34
+  - title: "WHO outlines considerations for regulation of artificial intelligence for health"
+    excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"
+    publishedDateTime: 2023-10-19T08:46:00Z
+    webUrl: "https://www.kbc.co.ke/who-outlines-considerations-for-regulation-of-ai-for-health/"
+    type: article
+    provider:
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 34
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/WHO-AI-HEALTH-.jpeg"
+        width: 280
+        height: 283
+        isCached: true
 
 secured: "Yi2nOMEy1soIomKCtnq6bpXS4ERWmDV7lQtc27wo2Fl3lDmLrfYng5akAumQ35NYuNOyHHoOoFubRtYPqgGh7k7KpJaPO4oTsWj7lvMDEtDde3572O2rZwHNRgFS+QqZd1nKycEoa6S22At9p0h4lq+zTErWDPnZijcxLvz9AbYqElh2Q0a0czp2H2uhfc42boIMJMNCxIkBmnONejk9HWAFiV1waYKlsi9eP4HEI5IQm5JkZtT1gXZlldBxzhO65AambDNIV/Y+/+WROk3VijPMdfN9GZ51aA16/wdkE2jduVErkH9urF7UzDDT2ZfwJw+ILYqQsLGXEnr7JCGbDOwjlKh8ydzmbj0DECE4ccL9jn3Gt0syDK58Q3RVqsrAbfZN7QyNq4JXnYI0FLFZd0JWOgYXrG+Kv661frqJ3eR9Pi7Jb2MREvLCNYcRyHUMKDr7+dp4zuDH3kckrOL/IgA8kS0uiLsR81BixKyusLSmYMabxreSZYUUXCw6hsmZEnpOAJPPLbCRYo25Sx4dXw==;62wO2WDmv0gRTSsK7QRmjg=="
 ---

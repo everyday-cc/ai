@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/list/five-takeaways-from-american-b
 webUrl: "https://www.americanbanker.com/list/five-takeaways-from-american-bankers-ai-summit"
 type: article
 quality: 54
-heat: 85
+heat: 84
 published: true
 
 provider:
