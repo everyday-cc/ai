@@ -67,6 +67,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "How to Capitalize on Generative AI"
+    excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
+    publishedDateTime: 2023-10-18T17:16:00Z
+    webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai?ab=seriesnav-spotlight"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23061_MYERS.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "Q8yX7J8Iyx89Z2v+OWOFnq7QYycA1MGfaS3I12UBFoIIGlyn1iRXkhUAOsxr6deysuH0tb90JMNE7CT/IFPcSQCPv9Xa+CoQk0iH9Ou9TZwwhyfc2mZWTypwA+AUbv8ygX+UTlo5lILJliL58ZXlblKljekEJ6NRlhPz1pt+gpu1lfL+MoB8DWMjdgWQqZ7UBaS8kLG/WYiRi0gMDYvauXiuy+jaUtF50PVsU/O+J7KTitO9G4zNQHuw2tqlwqreD4d/3WZfgj3QAOhcV/VFHuHxcvBeCwVrjEuV8ulBKbaMAUSi+8FMZv5NKrjtv5nI5okusQL4470TV+qC/SF/a8K0Qb3vGBND6uISqCDFzt0=;TQpwkBBPQO3stpeVHeoHuw=="
 ---

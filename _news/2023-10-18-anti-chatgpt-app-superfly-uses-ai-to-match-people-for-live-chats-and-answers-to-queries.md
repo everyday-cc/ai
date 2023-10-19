@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT Creator Partners With Abu Dhabi’s G42 in Middle East AI Push"
+    excerpt: "The partnership with G42, which is chaired by the UAE’s influential national security adviser Sheikh Tahnoon bin Zayed Al Nahyan, will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare."
+    publishedDateTime: 2023-10-18T13:48:00Z
+    webUrl: "https://time.com/6325389/chatgpt-openai-g42/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2023/10/AP23157511535295.jpg?quality=85"
+        width: 7082
+        height: 4722
+        isCached: true
   - title: "ChatGPT Vs. Ernie Bot: Baidu Launches Upgraded AI Chatbot, Showcases Advanced Capabilities"
     excerpt: "Baidu (NASDAQ: BIDU) has launched the upgraded version of its Ernie bot with V4.0. Although, the model is not yet accessible to the public."
     publishedDateTime: 2023-10-17T20:20:00Z

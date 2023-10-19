@@ -49,7 +49,12 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 28
+    quality: 48
+    images:
+      - url: "https://images.wsj.net/im-869924/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Agency probes pedestrian risks at GM's self-driving unit Cruise"
     excerpt: "Auto safety regulators on Tuesday opened a probe into whether General Motors' self-driving unit Cruise is taking sufficient precautions with its autonomous robotaxis to safeguard pedestrians."
     publishedDateTime: 2023-10-17T19:34:00Z

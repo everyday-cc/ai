@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Fugees rapper says lawyer's use of AI helped tank his case, pushes for new trial"
-excerpt: "The trial of a Fugees rapper, who was convicted in multimillion-dollar political conspiracies, stretched across the worlds of politics and entertainment"
-publishedDateTime: 2023-10-18T20:11:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/fugees-rapper-lawyers-ai-helped-tank-case-pushes-104100300"
-webUrl: "https://abcnews.go.com/US/wireStory/fugees-rapper-lawyers-ai-helped-tank-case-pushes-104100300"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/fugees-rapper-lawyers-ai-helped-tank-case-pushes-104100300"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/fugees-rapper-lawyers-ai-helped-tank-case-pushes-104100300"
+excerpt: "The trial of a Fugees rapper, who was convicted in multimillion-dollar political conspiracies, stretched across the worlds of politics and entertainment."
+publishedDateTime: 2023-10-18T23:19:00Z
+originalUrl: "https://www.local10.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
+webUrl: "https://www.local10.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
 type: article
-quality: 52
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: WPLG
+  domain: local10.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_d2c93aa5404eba63c3347a05fe8ba091_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YNFF626IDBHNRNRDLXVD2EJJDI.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
     isCached: true
 
 related:
@@ -50,6 +49,6 @@ related:
       domain: billboard.com
     quality: 14
 
-secured: "bDCp7nYllrEUGcyMnDHG766v2EKvmpcH79/rIRFV7CPPFNKCxj/YRfRtDO+lvHJ8XMYXHg5ommEQ7vG7yDYglW4719MLImisuGY09ChxMNI0uWAQ4zaPHMFzQWXv0WQVih0yEGPVQS6YdaL5gmFDpMDMWWT1+tUs5lUyshCXoEfWxzXDO6S6lI4VndQgC4Ll/5Qhy2SUAMru0XCWIJuhL4UcmZBHHistb4ERMARMpygEHiAmWoWrsqYVTJ/B+RDmtrophWV/tx0aYRElaNeOGawDDRsJcM/TYw4+EluXhRKV+EAtSAdUKENRIGAsvW+gDP1UNuvEZh8QlDKIPrPNHwD2XUZWPLb6UcVVTY34nvA=;hBttyukf1OOUgB/Jr5U29A=="
+secured: "NWjfhEdTjdg3GbgwaOIqAIp8WDP0ieoDLMtFNBS++vil+84N3WjGRNWIQaQkMQGrNdVHY5xurABIQpZzqD2r1ylj1S//PPoyXgkAdHojbq3ATVNuU0EWekMTh4cq96TfFusPtYWITrfxn9SKcMkg+Ke5oPMteEhhDjgYxXxW1qMums+0/h4skAGvQBbRsfbbo0anrYXHftT0+Hv1MF5rdiaC+z4I3acPHYA3EW3+CdarU1h+L5h6x8Dw2UfTaqave+LoiEshgOfPeZSvSKMruVq2mNlJH47dlUVBQjEe9mhte1xo+msNWpoiExHlKJCSyHIE5tDaeJSwKTjOSMnbfIeDXyxnFH2hA3526HboNkc=;P/iLBwdijfseuDhinYcZuw=="
 ---
 

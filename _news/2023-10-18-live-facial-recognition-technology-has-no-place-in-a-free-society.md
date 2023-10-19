@@ -55,15 +55,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "How often should police use facial recognition technology? Mass. considering strict limits"
-    excerpt: "BOSTON — One New Jersey man spent 11 days in jail when he was mistakenly identified as a suspect in an assault through the use of facial recognition technology. A Detroit father was arrested at ..."
-    publishedDateTime: 2023-10-14T07:32:00Z
-    webUrl: "https://www.telegram.com/story/news/state/2023/10/13/massachusetts-police-facial-recognition-limits-proposed/71159918007/"
-    type: article
-    provider:
-      name: Telegram
-      domain: telegram.com
-    quality: 9
   - title: "What Educators Should Know About Facial-Recognition Tech"
     excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
     publishedDateTime: 2023-10-16T18:41:00Z

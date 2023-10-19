@@ -49,7 +49,12 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 28
+    quality: 48
+    images:
+      - url: "https://images.wsj.net/im-869924/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Regulators probe GM’s Cruise self-driving taxis over pedestrian safety"
     excerpt: "U.S. regulators are investigating General Motors’ Cruise self-driving taxis over concerns they could hit people."
     publishedDateTime: 2023-10-17T15:51:00Z

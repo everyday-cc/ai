@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "UMG and Bandlab Form Strategic Relationship On Artificial Intelligence (AI)"
+    excerpt: "Universal Music Group (UMG), the world leader in music-based entertainment, and BandLab Technologies, the parent company of the world’s largest social music creation platform, BandLab, today"
+    publishedDateTime: 2023-10-19T00:16:00Z
+    webUrl: "https://www.musicconnection.com/umg-and-bandlab-form-strategic-relationship-on-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: Music Connection
+      domain: musicconnection.com
+    quality: 50
+    images:
+      - url: "https://www.musicconnection.com/wp-content/uploads/2013/05/umg-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "oSq/Kkyxkx8xp+E/3Fioi+9uToAAKttl7mEkRYZG7xkeo51U7RttNz9gLOdBJWJlzgnZf1LFwRfg4g9v0EXN88kbWT2Giquu4LduSMEuoVGIwsW7SLkQ1ybDsOVpxyefSRGIko5Ob1GM0iOf3D+F5cDHfqt1IweCCkjowk9JSwgj6coI9fgVY3Pm5EabyvCIOE3HVXoQjys5hMgBAOd/T+G/B6pZk0bjKjTLRZTfpZEtyxm82W/dDUjjpVsn4qfWL7xyV4fAlkT27en7G4acIY3G6Qio1SIUg+r8rpsXswet/Sc5PHgcFmA98bOvqRxPSmkKFw+YcOTrVbfYFovXGUrHnnFGLyjR91H/0r0j2xhbhXcjwmmAW225QbLff/I2oV9Qw26YzL0reHlNgiOJbQkgMTeIlbBp4qS3ou7+IUBL0Wl9IKNQTy0yFoLw7TOx9Ae9NXlu/x9hyyuTxEVVtmSsoa/p5utQGEjIpM8QdGLkZMk0kCheSXa1ORfc2XwPbWJmD2Gq0P3Jx/UZ2oIEUQ==;vAkJeyXuqDwdi9NGuTL4qw=="

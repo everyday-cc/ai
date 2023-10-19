@@ -29,20 +29,18 @@ images:
 
 related:
   - title: "Fugees rapper says lawyer's use of AI helped tank his case, pushes for new trial"
-    excerpt: "The trial of a Fugees rapper, who was convicted in multimillion-dollar political conspiracies, stretched across the worlds of politics and entertainment"
-    publishedDateTime: 2023-10-18T20:11:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/fugees-rapper-lawyers-ai-helped-tank-case-pushes-104100300"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/fugees-rapper-lawyers-ai-helped-tank-case-pushes-104100300"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/fugees-rapper-lawyers-ai-helped-tank-case-pushes-104100300"
+    excerpt: "The trial of a Fugees rapper, who was convicted in multimillion-dollar political conspiracies, stretched across the worlds of politics and entertainment."
+    publishedDateTime: 2023-10-18T23:19:00Z
+    webUrl: "https://www.local10.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 52
+      name: WPLG
+      domain: local10.com
+    quality: 34
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_d2c93aa5404eba63c3347a05fe8ba091_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YNFF626IDBHNRNRDLXVD2EJJDI.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
         isCached: true
   - title: "Fugees Rapper Pras Says His Lawyer Botched Trial By Using Unreliable AI Tech"
     excerpt: "Demanding a new trial after conviction, the rapper claims his ex-lawyer used untested AI tools because he has an “undisclosed financial stake” in the company that sells them."

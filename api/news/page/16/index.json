@@ -1060,10 +1060,10 @@
     {
       "path": "_news/2023-10-06-3-mighty-machine-learning-stocks-that-will-make-early-investors-rich.md",
       "title": "3 Mighty Machine Learning Stocks That Will Make Early Investors Rich",
-      "excerpt": "The post 3 Mighty Machine Learning Stocks That Will Make Early Investors Rich appeared first on InvestorPlace.",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning stocks to make you rich will leverage the number one",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-mighty-machine-learning-stocks-that-will-make-early-investors-rich",
-      "originalUrl": "https://www.nasdaq.com/articles/3-mighty-machine-learning-stocks-that-will-make-early-investors-rich",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-mighty-machine-learning-stocks-that-will-make-early-investors-rich-1032682958",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-mighty-machine-learning-stocks-that-will-make-early-investors-rich-1032682958",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1076,9 +1076,18 @@
       "publishedDateTime": "2023-10-05T13:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

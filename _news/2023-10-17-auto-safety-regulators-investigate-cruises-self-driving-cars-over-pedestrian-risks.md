@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-17T12:44:00Z
 originalUrl: "https://www.wsj.com/business/autos/auto-safety-regulators-investigate-cruises-self-driving-cars-over-pedestrian-risks-e888708c"
 webUrl: "https://www.wsj.com/business/autos/auto-safety-regulators-investigate-cruises-self-driving-cars-over-pedestrian-risks-e888708c"
 type: article
-quality: 28
+quality: 48
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://images.wsj.net/im-869924/social"
+    width: 1280
+    height: 640
+    isCached: true
 
 related:
   - title: "Federal regulators open investigation into GM self-driving car subsidiary Cruise"
@@ -123,6 +129,6 @@ related:
       domain: guernseypress.com
     quality: 4
 
-secured: "K2uXBjs/L7j4h47shFfzk1HumCokbwti3vvLBii17SCDsAUiWVlia+93jyagJxT4qBZodWbeXNA3jmXgpqJo0zCp2s87ANQO1l0MIaQfTEn3clr5ksW2zt3wk3S3XcCN7RBZg7h2RdCNgyFdiDVo3FT/PzlyCwN3mlNv6s4Ih1nYUHcuWhkU6jwhkrjXMYBJHlESmzC8RBoOuX9DjXo9a3lsp1e8ZL9ax4uLEihD1gMKQClIq2eBdGoCdhe0rsxZCzM/aFtt1OhQp8Y6RDZiLgN8IOoYtcaTQC7VTNcpKdsP4PmBxkU6LuFSnJb8JqEc9oVKFqI15JcC7s694zTGAFomWHOFG6ssMfnGOiqEeIA=;dU0R7KguocTC+vxUPlnHmQ=="
+secured: "frOw68cFiAis6yfxBiLXPVw2VYm+Ivo0+Ag8bEYOCQqyezHxIIDSws/PliklO+sWZsE9ff7ifH5b8DWCfAArjthgJ9oYV2NspbkxA6EXkiIxWWGDphaxLdeg3XFh1eS74LH94CQbHxL9Yh9+BTLpw7DHd3TsHsn1lJOirEp5lUIIddlaeLRIJvQMlc3yvVjmc47beIdAGdu2qyorqw7Hfjjm70YoUROn/zLfvwl5AdZ6PoLT3KhPz0p3NngoryhjxDrBWLPI8H8NdDUaf6YvxIfOLbb0b5VyOxlw3Z7WDIGc2Ou0/dXI4IpUtzDFfzCW3LZqpyfNSE82nHnDXD/WqHaiD38Rl2YUCmzm894QOUc=;cMmoTnTJPrdmItsdTC1s2Q=="
 ---
 

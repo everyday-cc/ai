@@ -57,19 +57,33 @@ related:
         isCached: true
   - title: "Microsoft's new AI assistant can go to meetings for you"
     excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-    publishedDateTime: 2023-10-18T20:35:00Z
-    webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
-    ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
+    publishedDateTime: 2023-10-18T17:35:00Z
+    webUrl: "https://www.bbc.com/news/technology-67103536"
+    ampWebUrl: "https://www.bbc.com/news/technology-67103536.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67103536.amp"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 76
+      name: BBC
+      domain: bbc.com
+    quality: 104
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
-        width: 1200
-        height: 675
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41F6/production/_131468861_gettyimages-607477465.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud"
+    excerpt: "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,"
+    publishedDateTime: 2023-10-18T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/10/Mark-Russ-Pic-2.png"
+        width: 928
+        height: 511
         isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
@@ -384,6 +398,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "F57FB/uCekChp32oK04wKOBoBqw1H0+Xa9jDliMEPB8JKxL9fo5xhPnWcfjQzWKDpNubn8KzPe7UaKi4FugcVnpyn5b/gHlVLd3dz5jcMLXdcyJXVyn9BgoGZmnPURNGbvjGJVoHrhFHEu5rFor2eqv6JxQtNA/wCif6NaMNLGZh8mKJFx5JoJ/PR7CPyeJVVb2BZMm+pJx7+5WZhn2xkD/Oj/rGmSDmGXsOWxvUotUXZoYoNyUVZL8jfljcassHsj/Kc3Wn/CMhblXk2Z0jMn4JK138B7+m6LWLVJFlt1nkPkDze7gviMdIyBxlM4xyT/kQtPg8pDStBDOR7YRBfh2Bd0qHYPHK6n9kF9Mu1DA=;90qiYZ0eTZLYkhKsj6EJjw=="
+secured: "gvIXxNWakHGEaXQSlX9oaM57aI6TnBmBmN2TuIZgVLk4C38DHwhFOGB7hLXlnZx+EtKZpTCG26dXAH0eSfVhKUoxaOaR1tSWFxBhvQY3QLx0DBIeiPi9EMpM4+IyXdnFRJ6AFCq2VevMevA2voQNX6Bx/RmW81xw+yKXF1Fp1XUdug0RYDZnlZGNyfNdOUZwsd/FP/XQyaCLtVPA5zaCfYW8VlmqtaZ08ZzXhwb0mi8wdz/lAKXljTMJ0CAq/0fFcm8FGDJ+7yz97qYvFVCZFsFMK3xPQ8T4p2oj3agPHAJU3EZxLpon9cOkt4hHh1EEU+0R96g4XxwQsfTiRgL2NbJlEO/Gk+7ODTiBjpJ+/r+SYsF1QpDzJQ5F+YhfGbhUZ7dFSAjWEGYnSXUDbWHXiiysWm37vIkgCDW/DSXzzDxoarhTSP+WCVP7d/9HewFS/A0t0dO7qo6UiT9mY7u9wXucsYuuPkdlT1t4qZd/NKf3pPCnusx2jRCFxDbASeCWLHEydR8ElolIfwy4ettIuQ==;JZONtUxmPGxDHkxbK/OjeA=="
 ---
 

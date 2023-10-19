@@ -25,21 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "'Legal advisor using artificial intelligence technologies' service launched"
-    excerpt: "The launch events at the Ajman government pavilion at the GITEX Global were attended by Fatima Al-Awadi, Director of Technology Projects and Smart Services Department at the Ajman Chamber, Aisha Al Nuaimi, Head of the Ajman Chamber’s work team participating in the activities of GITEX 2023, and the Ajman Chamber work team."
-    publishedDateTime: 2023-10-18T09:39:00Z
-    webUrl: "https://www.zawya.com/en/press-release/government-news/legal-advisor-using-artificial-intelligence-technologies-service-launched-ikuwq2mr"
-    ampWebUrl: "https://www.zawya.com/en/press-release/government-news/legal-advisor-using-artificial-intelligence-technologies-service-launched-ikuwq2mr?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/government-news/legal-advisor-using-artificial-intelligence-technologies-service-launched-ikuwq2mr?amp=1"
+  - title: "Fostering AI infrastructure advancements through standardization"
+    excerpt: "At this year’s OCP Global Summit, Microsoft will share our latest contributions to supercomputing architecture and hardware intended to support the new era through standardization and innovation.\nThe post Fostering AI infrastructure advancements through standardization appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-10-17T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/fostering-ai-infrastructure-advancements-through-standardization/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 55
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
+  - title: "Federated GPU Infrastructure for AI Workflows"
+    excerpt: "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service ..."
+    publishedDateTime: 2023-10-16T10:00:00Z
+    webUrl: "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-workflows/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDIyYTRlZmMtNTIxZS00/0/alintelligencetechniques-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 599
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
+        width: 623
+        height: 309
+        isCached: true
+  - title: "AI model training rekindles interest in on-premises infrastructure"
+    excerpt: "AI is remaking the server market. Dell’Oro Group Inc. predicts that by 2027, half of server sales will be accelerated models connected by data center-scale fabrics needed for training and inferencing. “We’re moving toward more high-density GPU ..."
+    publishedDateTime: 2023-10-17T00:31:00Z
+    webUrl: "https://siliconangle.com/2023/10/16/ai-model-training-rekindles-interest-premises-infrastructure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/1.png"
+        width: 1080
+        height: 1080
         isCached: true
 
 secured: "0xNydbcK1l7d4Ns/XRy7FHExcBrQd5+vX3Y9A4z6BOvVAPckAWZSenI/HQ0ao50RsBZOJGQnGG3KAmw05mmAKJETw75Wl1DXG1aHQPPnDcedMJlbrwKnnqsC82aWFF/qE4no6obYZn1D8V2HmQhwE77hqmil0pJqZ2q5bvkaBKKD8IQ1qBH8VKiSKRZebM/13RD98R9AZP/38Xx9ztXgFt6EpudwkAuKiqz0KylqMEYhtXasr9Z7yf1wJhyvg8u2oKzHeooPTykG+ODBrKWSW6XWtEr5a01iJGK8DW3GbbaotOmU0Y9sz6BWvsyjXXfnVK23QVHsWr7um8ITMHm8GSY/L6IPK8lJVT/GJvFm+PN3acltZPy7spjpPoBmySTrm6YEKjIUbfa16d3LOpu5i+kvyKYAecSA4cnZarI0pqH/rJt0Tq2t3OweH4zktOdgevRQ7SEOIWgxaDPIrB5PQoJDNAUohgFhFKZ+3VXCHQ0ZUkcQUlHl8x4xrdCvuyjXOFddxFUj90ss4YaZZxQKkA==;x7nNrgdQYjyjDtqIMaFjHg=="

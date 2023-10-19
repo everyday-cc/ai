@@ -39,6 +39,22 @@ related:
         width: 1782
         height: 1002
         isCached: true
+  - title: "Met Police using 'game-changing' facial recognition to help catch prolific shoplifters"
+    excerpt: "It uses the same algorithm as the Met’s live facial recognition technology, about which there have been well-publicised concerns over potential bias. Lindsey Chiswick, director of intelligence for the Met and national policing lead on facial recognition, said the algorithm has been independently tested by the National Physical Laboratory."
+    publishedDateTime: 2023-10-19T01:28:00Z
+    webUrl: "https://www.express.co.uk/news/uk/1825499/Game-changing-facial-recognition-to-help-catch-shoplifters"
+    ampWebUrl: "https://www.express.co.uk/news/uk/1825499/Game-changing-facial-recognition-to-help-catch-shoplifters/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1825499/Game-changing-facial-recognition-to-help-catch-shoplifters/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 53
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/5020628.jpg?r=1697678820929"
+        width: 590
+        height: 386
+        isCached: true
   - title: "Telpo launches self-checkout terminal with facial recognition option"
     excerpt: "The terminal utilizes artificial intelligence and computer vision to automatically identify objects during the checkout process."
     publishedDateTime: 2023-10-16T21:32:00Z
@@ -66,6 +82,20 @@ related:
       - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/03/GettyImages-624863836.jpg"
         width: 2100
         height: 1104
+        isCached: true
+  - title: "Met Police use facial recognition to tackle London’s rising shoplifting problem"
+    excerpt: "UK's Metropolitan Police uses facial recognition to identify 149 shoplifting suspects from CCTV, sparking both success and privacy concerns."
+    publishedDateTime: 2023-10-19T01:07:00Z
+    webUrl: "https://thethaiger.com/world/news/561840/"
+    type: article
+    provider:
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 37
+    images:
+      - url: "https://thethaiger.com/world/wp-content/uploads/2023/08/photo-1513635269975-59663e0ac1ad.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "‘Game-changing’ facial recognition tech to be used in crackdown on London shoplifting"
     excerpt: "Facial recognition technology is going to be used to investigate and identify prolific criminals who target retail businesses in London, after an increase in attacks and shoplifting."

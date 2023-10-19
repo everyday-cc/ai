@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/14/how-roboticists-are-thinking-about
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/14/how-roboticists-are-thinking-about-generative-ai/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
     excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
     publishedDateTime: 2023-10-16T16:00:00Z
     webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23061_MYERS.jpg"
+        width: 2400
+        height: 1350
+        isCached: true
+  - title: "How to Capitalize on Generative AI"
+    excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
+    publishedDateTime: 2023-10-18T17:16:00Z
+    webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai?ab=seriesnav-spotlight"
     type: article
     provider:
       name: Harvard Business Review

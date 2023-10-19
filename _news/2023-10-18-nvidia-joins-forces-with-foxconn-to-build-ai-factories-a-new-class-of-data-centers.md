@@ -216,6 +216,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "NVIDIA and Foxconn team up to build AI factories: will build self-driving cars, and more"
+    excerpt: "NVIDIA and Foxconn are collaborating on developing 'AI factories' with the two companies set to become leaders in the AI manufacturing revolution."
+    publishedDateTime: 2023-10-19T01:10:00Z
+    webUrl: "https://www.tweaktown.com/news/93881/nvidia-and-foxconn-team-up-to-build-ai-factories-will-self-driving-cars-more/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93881_101_nvidia-and-foxconn-team-up-to-build-ai-factories-will-self-driving-cars-more_full.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "NVIDIA Partners With Foxconn To Build Factories And Systems For The AI Industrial Revolution"
     excerpt: "Foxconn will integrate NVIDIA technology to develop a new class of data centers powering a wide range of applications - including digitalization of manufacturing and inspection workflows, development of AI-powered electric vehicle and robotics platforms, and a growing number of language-based generative AI services."
     publishedDateTime: 2023-10-18T03:52:00Z

@@ -71,6 +71,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "UMG and Bandlab Form Strategic Relationship On Artificial Intelligence (AI)"
+    excerpt: "Universal Music Group (UMG), the world leader in music-based entertainment, and BandLab Technologies, the parent company of the world’s largest social music creation platform, BandLab, today"
+    publishedDateTime: 2023-10-19T00:16:00Z
+    webUrl: "https://www.musicconnection.com/umg-and-bandlab-form-strategic-relationship-on-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: Music Connection
+      domain: musicconnection.com
+    quality: 50
+    images:
+      - url: "https://www.musicconnection.com/wp-content/uploads/2013/05/umg-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "U6R11KEh8orRi+E6a3Tqn0MRfwLBOtEXN1L2kV5Ef7zF7bhbgXviPji2anmFr5dJER6sG4VxzixK3pwAztvA2uBv8vRODrQ5X1U2lI8GIFkydduHmIY6sl8VcLJBm9ZFwUeedjV3RiCWHMHjdJmhQQE3p4xrwSLxvYptfUjetgUGV5bf/2/M2g8D8ELK/QFTusBTBijQsNPth2gqSzWbmpRppfIeReOOpbCWkDWpuCwl92HHDjEdO7A9LcM0bfFCCNhwbjEmKYnQA+c7JswU7Sk4LvQEwzEngx6PRlh9u2TbU8X089ZHUsYPhYIqzNlVQdEYwE6DcHINTe2KoQ7OANKUyGVS/orkveAZFfKsl6E=;eUm1ElPgO22/QXcUPU1gjA=="
 ---
