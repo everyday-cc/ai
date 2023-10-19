@@ -267,6 +267,20 @@ related:
         width: 500
         height: 315
         isCached: true
+  - title: "Sick of meetings? Microsoft’s new AI assistant will go in your place"
+    excerpt: "From November, those willing to pay $30 a month can have Microsoft’s Copilot integrated into programs like Teams and Outlook."
+    publishedDateTime: 2023-10-19T14:47:00Z
+    webUrl: "https://www.aol.com/sick-meetings-microsoft-ai-assistant-114731497.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/M0xM.OEwHjN.du_sdhIgGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/0abe0903e71c91ee4122f4fb13829c49"
+        width: 1199
+        height: 800
+        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-10-16T03:06:00Z
@@ -427,15 +441,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
-  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
-    excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
-    publishedDateTime: 2023-10-14T23:01:00Z
-    webUrl: "https://www.inferse.com/753875/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 15
 
 secured: "MBHgIyEc95JWdAxjE4hpLtyxK7r2yra9mX/bot7o70S26AdtMwywYJfs80cHXZ9BKe6HIsLBJRFi5yvOYW5x5EDx9REJ+o6rIiRcLj/z+bEmQiSKp2PIhGcyksUHKL2wbjtl/aMGcKwOSyCmKTvDr1RmUYPLLSSQgmzDJEWaFUbwG4s0SEhsDyBduVzcX99I4OP4/29Soa8vz80RvoWfMsCtdSvIuY62fYJHPVFs6YLpH94TAd6cfnO7DR6oF4aDL7x4xIJ2j80RBo7x7Eoho9+rGFO8Ye4/NUQ38GfCh2WSpPuPGek9nxFboV7qIJ4esndSSJlhMNMVQ1t+mb+OcMfwRo+YjREhTLfW5yI3qTAcHqr0qwNo1GEP+Lx070OUvruqq0ixJ7YFRxBzToODU2+tvXz04dkXLQOR0Yu+PjtAkoI1ArEM+2MS14y4mhcGVOMPIhJqe+zFqob70Gy0f8+xIG6Si5Ce4oAteO5R8OlEy82ehTu1dVCDAMqe7Mz7EIerVneryo6ltJpx+B+Ikg==;WVJk9zyboK28pIdI8yoYfw=="
 ---

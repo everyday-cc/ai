@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-g
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
-    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
-    publishedDateTime: 2023-10-18T16:33:00Z
-    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 46
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
-        width: 644
-        height: 300
         isCached: true
 
 secured: "CbA1k7Cs2RYYisuRetbJDPZzWsyZoYT2pfJrJAzN7MmW6ErATguhcHWbuiyzbdAMfpRQ+qX71tizYKOmpYOEkdMeY3N1a40fVgDm+OE7OWdugYZefyPeU59ePf7YumsvqKyuuiDAizlCtR1oO6Lc2ZnXjl8FCydAsyRls78EfH+WTx9liRIXr8Dpa5T6RwO9FSOoU4ebvd5SWw2zYrBgEtWGYS7ixPB1P8/ckX6QPbgx4GXd3rYnQHsM6VO+x68gZEiP50520c4zw32IVmpZIWIux7qItiPWSQRBbWehDhBLQ6qZ62gv14y5as2vbcLoear7NZEBIijZHC2AKUih+ar2ryie0x72Lc8L++hmMgw=;Z/HH29s+yiJNcpF9njqrcQ=="

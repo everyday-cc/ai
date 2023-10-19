@@ -25,52 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
-    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
-    publishedDateTime: 2023-10-17T13:00:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
+  - title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) maintains its AI leadership with 70% global market"
+    publishedDateTime: 2023-10-18T12:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-investing-in-the-ai-chip-showdown-1032716830"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/VSR_1.5.jpg?w=1200&strip=all"
-        width: 1200
-        height: 631
-        isCached: true
-  - title: "Running AI Large Language Models on Windows PCs with GeForce RTX GPUs just got a massive boost"
-    excerpt: "Alongside DLSS 3 support coming to a batch of new games, NVIDIA's latest GeForce Game Ready driver release greatly improves Generative AI performance."
-    publishedDateTime: 2023-10-18T00:32:00Z
-    webUrl: "https://www.tweaktown.com/news/93848/running-ai-large-language-models-on-windows-pcs-with-geforce-rtx-gpus-just-got-massive-boost/index.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Biden further chokes off China’s AI chip supply with Nvidia bans"
+    excerpt: "In August last year, a ban on Nvidia's chip export to China sent the country's budding artificial intelligence startups scrambling for alternatives. A"
+    publishedDateTime: 2023-10-18T12:15:00Z
+    webUrl: "https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93848_01_running-ai-large-language-models-on-windows-pcs-with-geforce-rtx-gpus-just-got-massive-boost_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
-  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
-    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
-    publishedDateTime: 2023-10-17T19:36:00Z
-    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 34
-  - title: "Gcore Launches Generative AI Cluster Powered by NVIDIA GPUs"
-    excerpt: "The new Generative AI Cluster is equipped with servers based on NVIDIA A100 GPUs, the leading data centre AI accelerator. Later this year, Gcore plans to expand with an additional 128 servers powered by the latest NVIDIA H100 GPU to further enhance its infrastructure."
-    publishedDateTime: 2023-10-19T10:53:00Z
-    webUrl: "https://www.afp.com/en/news/1315/gcore-launches-generative-ai-cluster-powered-nvidia-gpus-202310194026371"
-    type: article
-    provider:
-      name: AFP
-      domain: afp.com
-    quality: 34
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
 
 secured: "zUS2ZRakv9YoJpWygt41btUCOlk11fm6cLDUeXRJWZfxoMpozfs8YAJ8Iom8dkrpkNqNf0QQV0GVsazzp1btwAQ7zKOnDbPYjA2VyYh6RIErKoCjJL4lVg8tm/9Q4BDQ3jF/7LypxDGbS9UACVgzV81oJiZ3wA0na9TxNzgEPl62ToTCAYXXYrmd3PcjzQTuMIGdTpDIEie/mSzhBpIO/rEH0owZl6zLZldY/jX8Va5HuHAQg+tSmMeqMJLiaDMZ+NOumTsE38tu98q00HeF75DLQCZL5ofiYPsDnahyib5fL5EeF/RDJdUW0+VnmQXlw8eLna7QbMB8QOIuWHNdgL7X7eff/or5pB7iJ1aSB7RmhFXqui0CHJxSHvDtBUpTG8DIOnqZvuVrk51Qh6iAxPfiujDdxYV+m1RfMtWJtkDgVWXEzB5d0v+xNyebFFPthnlrbKdsc+f36qQvr/sw4u5rtYdvW+Jn8SImP5ICVd/tRknJ9Z1oyVBXFJebdBuhZHXU/gae8vjYSb1o00c+DQ==;FLq7lqltEgw4MyamLvjMiA=="
 ---

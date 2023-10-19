@@ -73,20 +73,6 @@ related:
         width: 800
         height: 267
         isCached: true
-  - title: "Excitement and Ethical Considerations Surrounding AI in Digital Marketing"
-    excerpt: "The release of ChatGPT has generated a lot of excitement among users from various backgrounds. People have been utilizing the AI tool for a range of purposes, such as programming code writing, language translation,"
-    publishedDateTime: 2023-10-14T21:13:00Z
-    webUrl: "https://thethaiger.com/ph/news/555161/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 72
-    images:
-      - url: "https://thethaiger.com/ph/wp-content/uploads/2023/08/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg"
-        width: 2560
-        height: 1709
-        isCached: true
   - title: "Keeping an eye on your cattle using AI technology"
     excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
     publishedDateTime: 2023-10-17T19:40:30Z
@@ -109,6 +95,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
+    publishedDateTime: 2023-10-19T15:09:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 39
+    images:
+      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
+        width: 840
+        height: 449
         isCached: true
 
 secured: "wSwysMhTdNRn6NKrfPjI+CblzfBTz5rEt1uEVGd/6BtGID5oHcQvJZHzdCly0JWKSdh6fqujd+8yikmTHu06Wny05oHDErYtx2/VM57c2T7mK2VC2PPzkaZTX0T2VKcpT0CRnHa+ddIdWsj34BakKVmzcOxbiI6jmFyIdDQDsuf0b0a2D1L96PRZDni60pKOG+R/oh0jMxvcGVjhUjkuww+0DSMzQHPh3iB7i4BbFz74LmlXSW4BOeF54JwKoG5fGprLzaXELpb2pRPg8MLIeuKj2fUj9MfQ9g0tS0BGzz7CjV9Ogv/VXTh6RsMyMUxjp5aa8u2epV+aFlYSki3vgX8ZyXIBCh5ASP8fMrRNKNTn4INHGyfUYVa+6eRnUo7W1B3UqfIuzFlulbn6nE1mxiULSPWNah8MG2mdlq3KrfCRXm0hB83SS5+pQHaqmycPXqaz72PX1/9QhoE/cywV856QxTG+WxhY0CFCBLlov4FpnUxiE5vd0SwpiXM6sHU30n1UFKcN6Fmg94haDq0mrg==;RkEJE8zE2TKsI4z7X2jvjw=="

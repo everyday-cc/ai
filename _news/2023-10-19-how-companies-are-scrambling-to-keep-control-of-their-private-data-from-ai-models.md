@@ -74,30 +74,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
-  - title: "How to Prepare Your Child for an AI-Driven Future"
-    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
-    publishedDateTime: 2023-10-17T19:37:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
+    quality: 49
 
 secured: "re2q0Vdpp22mHG7fahLJbPb4zu8HEcPW2xAF4V+EA2Z97ADhmEC9g1cIMDdKQ79yH6QtP/URdqfaYJSerN7cvwrR3ZrWP1mTWaqvCJ+fgw3BejjleaBPGrXZCnZIPi/92MvIq1zRcVvmJAhwsiwmlAHT2QwxwYOYfHpa/S0ThSeVvrXDo6xMI6nUR9EJjVZmEvffHgLPfK+aey7MokGNWvH+xevWfBLJzaz9C5k4l2SufALSM4POEQoW3oPjwM1Qx1qpk1oDEVCjlfSncCjD8G01Qb+FT1H1lzLE7wA4hFoH1kQ0P1onmwqT0wszPKP8ReUPQ6jSFe2pHu+t337hbbYPXgQ2pb3iPMwAASLYMnLpTaYbyrwj/GJoPfOjIhKWRsrJbG1lswzrExQAvKEmSD8vT5JV6twYZpqrBu5+iZxmtrJhjy+KeOo0xb3dimxjp8srMAHCvPPTjzFlmncz6HLeQiOI53Q3nNh4nvroKDviAyDt2g3kz8AnQsPB6GxlNXees1ql1M9JzHCNcsrkoQ==;gg+8CJ+f6l1UdFH7gqufgw=="
 ---

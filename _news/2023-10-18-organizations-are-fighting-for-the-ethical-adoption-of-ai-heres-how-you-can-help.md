@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/organizations-are-fighting-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
 type: article
 quality: 98
-heat: 138
+heat: 151
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 89
     images:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "World Health Organization Addresses AI In Healthcare Bias, Outlines Guidance For Regulatory Compliance"
+    excerpt: "World Health Organization (WHO) has unveiled a comprehensive publication highlighting critical regulatory considerations for harnessing the potential of"
+    publishedDateTime: 2023-10-19T15:08:00Z
+    webUrl: "https://www.benzinga.com/government/23/10/35330203/world-health-organization-addresses-ai-in-healthcare-bias-outlines-guidance-for-regulatory-complianc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35330203"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35330203"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/19/laboratory-563423_1920.jpg?width=1200&height=800&fit=crop"
         width: 1200
         height: 800
         isCached: true

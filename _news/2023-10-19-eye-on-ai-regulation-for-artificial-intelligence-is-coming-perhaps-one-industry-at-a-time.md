@@ -41,22 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Teaching AI to behave is the fastest-growing career skill"
-    excerpt: "Generative AI platforms require tailoring for specific tasks — and it's that skill employers are seeking in new employees or in opportunities to upskill current workers."
-    publishedDateTime: 2023-10-19T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html"
-    ampWebUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2321438319-100947383-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 760
-        isCached: true
   - title: "AI Industry Chiefs Raise Regulatory Fears in Parliament"
     excerpt: "Leaders from the artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
     publishedDateTime: 2023-10-17T11:00:00Z
@@ -72,6 +56,6 @@ related:
         height: 366
         isCached: true
 
-secured: "63kY3SmhBm/wDUIU8soeSHqX7O+NLcI75IrS221x2ryn9VcRTmNRHJ+5JtQmzdlCKpppQjlFtU0uOud3yX+zOdL4SZXDOa/LHqPeykzyJr8GUbQl7CcGqsaJo5sCU9CBBtPwIFr3ijSllsveaMD2LXmgGDc972DX0X5AJeg0R7MwyUXL3sP898ISn+748/S0B9QRkgqAneAMFMkFq5u7oVK76RMAyZps+sgVCVk3h1UY8lsw1XInfVOyMIWARYmbFKL1JpIXM0qJHn/6JIIT+9cbEPH6Rlj0PxnbDk/ZYb1GqAgujeQRadHgJYALzcYyFT+pDJbdJxhMd7vmjcXmxnQz7qqAwu93w4/D1RsiqZw=;N/szS2iGMDO10r3G2rba+g=="
+secured: "OWOEflLpGGHoCvTcsi/NXW15kOos7LE2QcpUQMZbHukVqDLazKDddECGaRHoHtNzx8iqz1gOSK6/HAilLTcZ1RRbJIHUdWWp1qWnkRGHhWHkQJAQSZ1uKJDXQ757d8yJJdg47KtvO6qvc7IyGWfoeZk2ce26ACGnz1Gi82qDEo4lQxGx12RsOg9rREpmF9TsF7EsMhKtKM+Fp+Q6j4v8kSGh3QA0XOVtBwrFtZVEe6VbuyVA4VYinj78hUYe2lordOuf7FCt+0SrDFdJDuj2kPDFDqbE5e1YQCbdXIlW8TmQOG8AlXq1cRiTx+WsVucCrtc318519vAsI9oC1WnuHkRL3RP/xnY5vLCrLK6FKfeR48ij43NZC8DmD93o2Q0mwknkjheASqnI85yYJJmM1+ZcJ0ZglYbBuhV6b9OYS4EVhJN8N0VIKdfXMdZkA6+ju07bRnUGLDu591qalvYwn0+9JeMqpGpvntSmpFVntoMLo2X7uG/J5kWji8NjkFoUqc26A1m90QFIs9s10QsQxA==;50ZjPUvP2amtqzDgeM/UzA=="
 ---
 

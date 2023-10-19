@@ -263,6 +263,20 @@ related:
         width: 500
         height: 315
         isCached: true
+  - title: "Sick of meetings? Microsoft’s new AI assistant will go in your place"
+    excerpt: "From November, those willing to pay $30 a month can have Microsoft’s Copilot integrated into programs like Teams and Outlook."
+    publishedDateTime: 2023-10-19T14:47:00Z
+    webUrl: "https://www.aol.com/sick-meetings-microsoft-ai-assistant-114731497.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/M0xM.OEwHjN.du_sdhIgGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/0abe0903e71c91ee4122f4fb13829c49"
+        width: 1199
+        height: 800
+        isCached: true
   - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
     excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
     publishedDateTime: 2023-10-16T03:06:00Z
@@ -423,15 +437,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 29
-  - title: "LSEG and Microsoft launch 10-year strategic partnership for next … – Microsoft"
-    excerpt: "Microsoft News Center. Strategic partnership highlights Financial effects for LSEG Editor’s note – Dec. 13, 2022 – The name of Microsoft Purview was corr"
-    publishedDateTime: 2023-10-14T23:01:00Z
-    webUrl: "https://www.inferse.com/753875/lseg-and-microsoft-launch-10-year-strategic-partnership-for-next-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 15
 
 secured: "B8Mzcn29U0io/8Dfsvnv2TQVXWrhhl9ChwOEXhiBfeV3TpRVHLzcn1tJ/wPAOk4tKbj6GdN2Vvz80xZkQITw+whU//9MPyFCx8wrGjOUQENTTNy4gYJCIcUcwHqC1a40RQNQZbIJwanzlCw4aDcgd0xAU3xIWJvCGVpfgpvK76HaW8dwEYw9vn2z67FSB7aePBeYxDMmJH51p+SrxRzMmVSDOtNfo/Syx9ed+4IER1mqxZ0y+m4Pf9y8OQHWwKaWoRvZfj/r6k76PJI3xJF5yoFlIVyGRjN6GIxVUasneXlQGtMj3LmL3m2ymBPwQZQRa2uo7A4d7cHpVJUddKIvno9bKTbUhU4fdQ/LDhnqidI=;isaCiBi94NuWplMB2O0xVw=="
 ---

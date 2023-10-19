@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Agriculture Market Size to Grow USD 1695.5 Million by 2029 at a CAGR of 16.4% | Valuates Reports"
+    excerpt: "The Artificial Intelligence (AI) in Agriculture Market is Segmented by Type (Machine Learning, Computer Vision, Predictive Analytics),"
+    publishedDateTime: 2023-10-19T14:15:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-agriculture-market-size-to-grow-usd--1695-5-million-by-2029-at-a-cagr-of-16-4--valuates-reports-301962190.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
   - title: "Voice Assistants Market: Anticipated CAGR of 19% Leading to US$ 24,588 Million by 2032"
     excerpt: "The voice assistants market is predicted to grow at a CAGR of 19% and reach US$ 4,329.0 million in 2022. By 2032, it is anticipated that the market will grow to a value of US$ 24,588 million. Switches and buttons are being replaced with voice assistants in order to increase user convenience."
     publishedDateTime: 2023-10-18T04:38:00Z

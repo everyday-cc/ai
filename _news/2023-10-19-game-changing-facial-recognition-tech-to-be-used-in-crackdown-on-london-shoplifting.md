@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Met Police to keep using facial recognition on prolific shoplifters"
-    excerpt: "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences."
-    publishedDateTime: 2023-10-19T05:20:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-london-67149222"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D33C/production/_131467045_facialrecognitionstock001.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "How stores are spying on you using creepy facial recognition technology without your consent"
-    excerpt: "Well, guess what? They are. That's right, some of the biggest retailers in this country are secretly using sneaky facial recognition technology in their stores. Facial recognition technology is a ..."
-    publishedDateTime: 2023-10-15T10:56:00Z
-    webUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent"
-    ampWebUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca26886f-5711-4159-9b16-f3d02cc8e509/24f16d92-343e-4303-ba2a-681a026cc44c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Met uses facial recognition to crack down on prolific retail criminals"
     excerpt: "The Metropolitan Police has announced plans to use innovative facial recognition technology to identify London’s most prolific retail offenders."
     publishedDateTime: 2023-10-18T23:13:00Z
@@ -70,22 +38,6 @@ related:
       - url: "https://resources.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/f9glgjsmleepz8g9pxwi"
         width: 1782
         height: 1002
-        isCached: true
-  - title: "Met police using facial recognition to catch 'most frequent' shoplifters in London"
-    excerpt: "This initiative comes as a response to the increasing issue of shoplifting, driven by organized crime and rising living costs. Met Commissioner Mark Rowley referred to the results as 'game-changing"
-    publishedDateTime: 2023-10-19T08:10:00Z
-    webUrl: "https://www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html"
-    ampWebUrl: "https://www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 53
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Untitled-design-2023-10-19T133956.511.png"
-        width: 640
-        height: 362
         isCached: true
   - title: "Met Police using 'game-changing' facial recognition to help catch prolific shoplifters"
     excerpt: "It uses the same algorithm as the Met’s live facial recognition technology, about which there have been well-publicised concerns over potential bias. Lindsey Chiswick, director of intelligence for the Met and national policing lead on facial recognition, said the algorithm has been independently tested by the National Physical Laboratory."
@@ -103,35 +55,19 @@ related:
         width: 590
         height: 386
         isCached: true
-  - title: "Met Police reveal massive crackdown on shoplifters with facial recognition technology rolled out"
-    excerpt: "HUNDREDS of Britain’s most prolific shoplifters are being identified by cutting-edge facial recognition technology, it can be revealed today. A pilot project using CCTV supplied by 12 leading"
-    publishedDateTime: 2023-10-19T09:03:00Z
-    webUrl: "https://www.thesun.co.uk/news/24452449/met-police-crackdown-on-shoplifters-with-facial-recognition-technology/"
-    ampWebUrl: "https://www.thesun.co.uk/news/24452449/met-police-crackdown-on-shoplifters-with-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/24452449/met-police-crackdown-on-shoplifters-with-facial-recognition-technology/amp/"
+  - title: "Telpo launches self-checkout terminal with facial recognition option"
+    excerpt: "The terminal utilizes artificial intelligence and computer vision to automatically identify objects during the checkout process."
+    publishedDateTime: 2023-10-16T21:32:00Z
+    webUrl: "https://www.biometricupdate.com/202310/telpo-launches-self-checkout-terminal-with-facial-recognition-option"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 46
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2023/10/Facial-recognition-stock-001.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
-    publishedDateTime: 2023-10-18T15:00:00Z
-    webUrl: "https://www.nextgov.com/digital-government/2023/10/logingov-add-facial-recognition-tech/391300/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/22180951/retail-screen-scaled.jpg"
+        width: 2048
+        height: 1314
         isCached: true
   - title: "GSA to add facial recognition option to Login.gov in 2024"
     excerpt: "After determining early last year that it would hold off on using facial recognition as part of its governmentwide single sign-on and identity verification platform Login.gov, the General Services Administration in 2024 will add an option for system users to verify their identity with “facial matching technology,” the agency announced Wednesday."
@@ -146,20 +82,6 @@ related:
       - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/03/GettyImages-624863836.jpg"
         width: 2100
         height: 1104
-        isCached: true
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is changing its digital identity service to allow users to authenticate themselves by matching against a previously submitted government ID."
-    publishedDateTime: 2023-10-19T10:00:00Z
-    webUrl: "https://www.govexec.com/technology/2023/10/logingov-add-facial-recognition-tech/391307/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog-1/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "‘Game-changing’ facial recognition technology catches prolific shoplifters"
     excerpt: "The Metropolitan Police asked 12 retailers to send in images of their 30 worst shoplifters in a pilot of the new software."

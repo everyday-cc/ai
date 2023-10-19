@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-
 webUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/p8b9ua/article67437797.ece/alternates/FREE_1200/2023-10-18T050040Z_198153068_RC2SU3AUSS01_RTRMADP_3_AI-BRITAIN-SUMMIT.JPG"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Top Artificial Intelligence Models Lack Transparency: Study"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
+    publishedDateTime: 2023-10-19T12:48:00Z
+    webUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928"
+    ampWebUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://i.ndtvimg.com/i/2016-09/artificial-intelligence_650x400_61475215891.jpg"
+        width: 650
+        height: 400
         isCached: true
 
 secured: "bd0t3E/JJgBweSfBZMGJqp8OZwPKem9DSufD/vznxy42PUc+MkyNBDzbDf7jU6mXhtT/W7y2CXdThjAle1YBLZvWItnxdBsHqhblT7cSJemluPATv3YBhuFF38ceMFkuoAEk4pziacD+n3nvqaUgkZ8MzgaVtEK+/72hVb75DvWrZiXWIv/ZGtFbfVeuimnV468HdT+Nd9ZnZl2ohVvuhNbicxmq/vib9g6F41mfdqxofBET2KMbgrHE2q1b5h4wvyYQaYpeWdYts8G5O/EaxghAbw1jdknCJGWFbGS8HEKrF8T6TsdKwQ+IfD63uX6cPS/QyeOVvAoJZPebrYFy5I/ECj4y5sbeeFyGgYuBWLI=;/KRAwGKPiwbnzrut38X60A=="

@@ -41,22 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Teaching AI to behave is the fastest-growing career skill"
-    excerpt: "Generative AI platforms require tailoring for specific tasks — and it's that skill employers are seeking in new employees or in opportunities to upskill current workers."
-    publishedDateTime: 2023-10-19T07:00:00Z
-    webUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html"
-    ampWebUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2321438319-100947383-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 760
-        isCached: true
   - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
     excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
     publishedDateTime: 2023-10-19T11:00:00Z

@@ -24,22 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "Your AI experiments will fail if you don't focus on this special ingredient"
-    excerpt: "Recognizing the game-changing impact of AI is just the start. Your data innovations will flop if you take success for granted."
-    publishedDateTime: 2023-10-17T17:12:00Z
-    webUrl: "https://www.zdnet.com/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/"
+  - title: "Why Your Strategy For AI Might Be To Not Do AI"
+    excerpt: "Choose a problem that actually needs AI. Avoid having a solution (AI) and trying to find a problem to solve. Identify problems or opportunities that your organization has and assess whether AI is the right tool for the job. This way you focus investment and prevent over-engineering costly solutions."
+    publishedDateTime: 2023-10-19T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5153e71a477d8cd905328851cc84de49447d2cc1/2023/10/17/e1cfb7c8-a08f-4ace-a170-8c248e166243/datas-gettyimages-1300497464.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8a268fc523a513586eae0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1201
+        height: 900
         isCached: true
+  - title: "The Case For Mastering AI Now. Why You Absolutely Can’t Wait."
+    excerpt: "The problem is that very few people have taken action to make AI an immediate new tool in their professional and career toolbox."
+    publishedDateTime: 2023-10-16T21:45:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652dae5de5b65e4992413753/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How to Prepare Your Child for an AI-Driven Future"
+    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
+    publishedDateTime: 2023-10-17T19:37:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
 secured: "pUW73ZWg1dswprknaH6kPmqd/D0g5AMTG0QImis6JR5+He+mjS5CF4O7ckl21CMYaEWVsAI5pmkcS649FkDA78L3kznNMMsqhMf1r0pv+poznD7hmePmOQ2FgDTgNfoflnJVhgHwM6kIKX3zro7Xo3vuYxKMKeU/V4p6M8xNmQqBe9ochEQo1k0n2JGlf2A4xNbHfgtFUOaXfcoYv3pJbdzSfcKf4FYJfxSnzu0DAZX8/MFx/riSzs3VrTteqgk0rIoJtnq675Duig4+K3dsdmnjdl26Kcah26aEhIzuMeYdrJsPgyUa/Vj9mlbi89f/CJmtkyqwFsR0bxjBPyozBGN0D6LX2o88N7s//HYyc87f+ipAS2qzyI+cTk9WL6H6kgP0+oHAa+YBkDsC4KWgc+KojriiFPHXXybaMsQzHjBPct9YbG+GRadUNtpwy8MWX/V5KHIfVkcrYp4jG32TsK+1RQpfQ6g7JbP+LH05YOnWoPeIUWHuLZKaq5ids70d5Jg3IBOgnivy9C3xw8QH1g==;naFI5rTDi0LEXP04wiiNVA=="
 ---

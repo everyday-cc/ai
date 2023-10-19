@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/students-using-artificial-intelligence-boise-1
 webUrl: "https://www.aol.com/students-using-artificial-intelligence-boise-172747497.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How are AI and robotics combining to revolutionize recycling?"
-    excerpt: "A survey conducted by the Carton Council of North America in 2018 showed that 94 percent of Americans support recycling."
-    publishedDateTime: 2023-10-14T19:20:00Z
-    webUrl: "https://augustafreepress.com/news/how-are-ai-and-robotics-combining-to-revolutionize-recycling/"
+  - title: "Boise Schools Respond to Student Use of Artificial Intelligence"
+    excerpt: "As school districts see a rise in the use of artificial intelligence, educators say they’re figuring out ways to ensure the new tools are being used responsibly and don’t impede student learning."
+    publishedDateTime: 2023-10-18T19:25:00Z
+    webUrl: "https://www.govtech.com/education/k-12/boise-schools-respond-to-student-use-of-artificial-intelligence"
     type: article
     provider:
-      name: Augusta Free Press
-      domain: augustafreepress.com
-    quality: 69
-    images:
-      - url: "https://augustafreepress.com/wp-content/uploads/2023/06/recycling.jpg"
-        width: 555
-        height: 315
-        isCached: true
+      name: Government Technology
+      domain: govtech.com
+    quality: 17
 
 secured: "478A0660PJpdotm2pha3Yg8zf70oEO5i3pV1v6NfzO9gtISUJ2ny5wBvjfGLp1GA+Cg+0k3SDnOSW3M/jOwnfSo2dxqSibB65KnmJpLKg9eNQ7+/nbunMMXKY0ZQtAWTrhdCFnhQdwOGWmZ/fvy0au3FN9WhuaQwDz/sFz5PwEeMyV3uSPOU/8dwlIQl3QZ8ZiBp4o/dHE3KkwqDvShFdjSmUj96A+1Lt4JRzBVxCmtwgXTaVd0WxLy6kVryyx8K/B20xueOEHNSR0uwKQw5WixXD2jB0ZYgHVXAKtu5q9g6CdTca3UPvrBUqTOm1vdACcJxuNTYM2Bbp3nz2yzwAC5gjwDMEg7kpKS879ob+GE=;v+fKc4d4ppGgTS4PD++yVg=="
 ---

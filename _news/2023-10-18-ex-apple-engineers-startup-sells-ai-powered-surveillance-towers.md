@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Denver food tech startup to launch AI-powered food pharmacy"
+    excerpt: "Denver-based Bitewell soon will launch a digital food pharmacy of its own. Bitewell said it is the first corporate food health benefits provider and will soon be the world’s first digital food pharmacy. The company will be incorporating an AI pharmacist to help streamline delivery."
+    publishedDateTime: 2023-10-19T13:49:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2023/10/19/bitewell-launches-food-pharmacy.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
+
 secured: "v0zwBq4f2oywzXksRI491ZRjSPCjD0MMcel0B2AAvUOHaCi9mSeI63FL55SVQJFrzAywaAPSx3tbn/yJP6EB5jklggWvmnDfxvHnOUI1mBazChNRDKx3W6oZUBT8oi0SpQjdJP82FrM2H7RDspDrRLxFA6Ys4CXm9tLXDDARdlTXtGT5EiRoZAXSiH442dRQAyysxH7TysRxwyzYmG/uvlMcFnUvNrrmdfeEjBxg2FWB6CxFyZbLCOmNOg+kdGNDzb01U+g/WWSG5g7nyoIazEakVKz+EGnKjL3LdilOdgTn+2fhi8jMGv/fmrybyO0nHGMwD4QPCjKVJQvLOuT8Evnt9uaqHl260Xy8/ZX2pBw=;IhcGuYxw0zUTjecMYUmNww=="
 ---
 

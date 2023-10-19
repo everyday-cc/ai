@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brai
 webUrl: "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 82
 published: true
 
 provider:

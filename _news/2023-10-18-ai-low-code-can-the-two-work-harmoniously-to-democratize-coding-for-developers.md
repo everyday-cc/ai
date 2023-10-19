@@ -62,34 +62,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-    excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
-    publishedDateTime: 2023-10-18T16:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/18/9901068.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/2249479/Picture1.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-    excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
-    publishedDateTime: 2023-10-19T01:43:00Z
-    webUrl: "https://www.newswit.com/en/ifiv9fegq0wt7vggkxe6kq8nzha8t2th"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 36
-    images:
-      - url: "https://www.newswit.com/storage/images/iqli/0pr/8nbl7sr1ogpfi9plc7988c128/0-GIGABYTE.jpg.webp"
-        width: 800
-        height: 449
-        isCached: true
 
 secured: "yXFrN9UsH+Fb/snMwSDRqU9Azao08GYT7nVUP1y/6/gaub5KFVxJcXggdAmu551ZBC9MAAs2hvkyelu5rOGXY4elZS0U2JQPa054GZoVqJDVdueszIyw4h4BEYXAyqyu2fegbtJwt4mOlZdfv1zMlR6xGddfonie5JX/f3OHJeZnA3OE+fF02oLVqTWG/cNJkp0np3u+TE29AIJ4hMJNINOAbxlYLqUb7SzcuhFGaVzROlPDN8C3ValYPw7rzd7JnBIR3htGGo0E1Az7dMPXSR0Q28gdoyRnkgLY9z4ev6l6F0Hwg/lXO7qB5gSpv0gyqbf536aTVUsYPT8ZyBFMKDa4P2RY1Uni98/AxL4IGIQ=;egJqvsT1MwIKeFr2qidTJw=="
 ---

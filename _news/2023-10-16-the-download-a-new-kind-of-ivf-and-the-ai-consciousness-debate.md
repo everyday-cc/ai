@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "The Download: striking actors training AI, and breaking ‘unbreakable’ encryption"
+    excerpt: "Many actors across the industry worry that AI could be used to replace them, whether or not their exact faces are copied. And in this case, by providing the facial expressions that will teach AI to appear more human, study participants may in fact have been the ones inadvertently training their own potential replacements. Read the full story."
+    publishedDateTime: 2023-10-19T12:10:00Z
+    webUrl: "https://technologyreview.com/2023/10/19/1082022/the-download-striking-actors-training-ai-and-breaking-unbreakable-encryption/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 12
+
 secured: "yMrJeFH430DKZPQNfjCxFqu5wCMnOjf12UwGf6ha8LzOIkdfhRmu3ddh7eKgwWOU0IOCKSwCM72+GD8V7srmmHSVDPzN5U8348vT/mWCocfuYMNcI/UnCdOm6R/gHfiRimr8sZune3j6/OQsnnZjuu4fT6jNB5XPoRzzg7b4527ngSlg/Co2SDOQKNU/IEWyHMjUFErbGtZrQRX8qwMdxpGZoSLR74e/B+7grb/91g620nqEeFqztQli/MsBSfqzVpt/CJkxwjGdc3JokI9CaXdkposGXaWBiOsRKVjGSPGFvH6FZjJYszJYxs0/3y0IU3AxYJNz5KcMDlV8Tg/KUEz9loglEIm6QjBy8pUJiJ0kKn3sZr4qx84bDrM/YuIi2v0+zldaqban888nZ2Ll0oai1F3WzJoZ7mf1YocPJDEMJ84PElY40ZYXUSjWvuC4Q4pEwFD3gRF1cn1/tVkV/k9TfGJ/Qvq4YIB3YnWiLDB4LmxX6LOBJvOLCYV2gc/ETBNY3oXZbOV3PGXTvCsdjQ==;igtaem5knTOhU6PNMkmgzQ=="
 ---
 

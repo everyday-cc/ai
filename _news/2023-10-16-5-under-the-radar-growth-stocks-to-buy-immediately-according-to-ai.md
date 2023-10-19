@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-16T16:13:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/5-under-the-radar-growth-stocks-to-buy-immediately-according-to-ai-1032709474"
 webUrl: "https://markets.businessinsider.com/news/stocks/5-under-the-radar-growth-stocks-to-buy-immediately-according-to-ai-1032709474"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "A Bull Market Is Coming: 2 AI Stock-Split Stocks to Buy Right Now"

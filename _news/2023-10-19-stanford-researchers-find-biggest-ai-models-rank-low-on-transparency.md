@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Top Artificial Intelligence Models Lack Transparency: Study"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
+    publishedDateTime: 2023-10-19T12:48:00Z
+    webUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928"
+    ampWebUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://i.ndtvimg.com/i/2016-09/artificial-intelligence_650x400_61475215891.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "It9mpfUNQk4+/OYtRsnEwhxjUO5yHSuhQHI0ShWsjyJYlkGxvSDrjJy5lDBiDhvD+4Nhje8v9ZRRGT3skrsDbSNqkwWIb6nOmeMaVcMk7IKdioa1rg9VjlgZnCYmSeAlYUz3cyosHIyplwgSHbVIf3+taBShLSwsOS4YLt6XfuO0IYG7N1011OgQWHmFH/0poMiuHhYfw9YiAA0HGApaFdYVNO3cDHck/9bwrobOHIGq83trwsE2vmqjPZ9mrb57+UHmML/lRgj21K5Vl1P812yHMO6ZL5zxP1bb35wvx1CyGZwjTvRH66Wj8/RDR/VtZm+ivZVtaaxqat/oxylO3MEY+u4MyiMSEZy3B5krAuU=;Nl4bZn2B95ZPEaMnUTG6BA=="
 ---

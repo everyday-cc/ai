@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-18T21:36:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
 webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 related:
   - title: "How To Control For AI Bias In Lending"
@@ -63,20 +64,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "How companies are scrambling to keep control of their private data from AI models"
     excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
     publishedDateTime: 2023-10-19T01:06:00Z
@@ -91,15 +78,6 @@ related:
         width: 1022
         height: 863
         isCached: true
-  - title: "How to Prepare Your Child for an AI-Driven Future"
-    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
-    publishedDateTime: 2023-10-17T19:37:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "KlIqLM/D9O5cUrVnLk1KkeUh2lapWKwpu9//KqrHr8qahtOAZt6CRCBCAAbUddRyVjjLExUmreiq1op9LUFMweo/BiRKEwXsIn94cAQ5aMnpA8xTgKjDy9bGJ3LqOFkS4cCEdCZJG1jXjVkXDJ7VcfwDhdQq68yt2HhemFSc4EinqFLNAZmECWgMQ6yTyyXFiibfKAnR8qudm4IgYTWVYyW2ELfGvOmAbzCjAGFcMCaONs7o/gazjiZpVYkihlw/cS+KswhTMxssi9zsL/IyE/KyrpZHnK+YwPYANG2Hz/PuhRVlpM8nh3G2nnqh/3HXkJUzpQmA2TRvRiiOSQNwC65LGFshrFSIrJTTmTk6mLo=;QzO5f+eKfQDkzyNuGQJWkw=="
 ---

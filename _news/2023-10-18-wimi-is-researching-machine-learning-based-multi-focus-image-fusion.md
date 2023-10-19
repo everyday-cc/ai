@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researchin
 webUrl: "https://markets.businessinsider.com/news/stocks/wimi-is-researching-machine-learning-based-multi-focus-image-fusion-1032716567"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+
+related:
+  - title: "WiMi Proposed Multi-View Fusion Algorithm Based on Artificial Intelligence Machine Learning"
+    excerpt: "Multi-view fusion algorithm based on artificial intelligence machine learning have technical advantages such as data richness, information complementarity, model fusion capability, and adaptivity, which make multi-view algorithm has great potential and application value in dealing with complex problems and multi-source data analysis."
+    publishedDateTime: 2023-10-19T12:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/wimi-proposed-multi-view-fusion-algorithm-based-on-artificial-intelligence-machine-learning-1032720504"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "/uYYSuVt+FKnO27p0mQGQs4mmIKE8LMkzugliOhntdB3L45MCZN/jgj6L49n3jXxQx7qQB83cI89OEYujEFjSLvqHwfU/O2vEbb/HAdBjKCC8NwHMe4ZVoWh7yPweinagR3wWQN2Adrnb2qeqcZeqDv6Gb/yiWAgLdr2iz2AGJp2EEqDCct+fCV17Ek29hauz1S7j9fG8llf8wfmTGkP/p1Nd8td2lUrovHswtqVi5gfRfe73GJYBDSJwgM1T+EKQWe16Sobpmz7VA+Cb+ZyG2QV5g0s454lZBNH4zrpcMfugTDEL+AgKKEdi7GJmLuwXeApAID1/3R9T5atTongFXn/y/xp6c4RE0FPrSh9IyQ=;HIxxS8z1jvrqsi6zc3Kb1A=="
 ---

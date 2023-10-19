@@ -61,21 +61,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
+    quality: 49
   - title: "How companies are scrambling to keep control of their private data from AI models"
     excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
     publishedDateTime: 2023-10-19T01:06:00Z
@@ -90,15 +76,6 @@ related:
         width: 1022
         height: 863
         isCached: true
-  - title: "How to Prepare Your Child for an AI-Driven Future"
-    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
-    publishedDateTime: 2023-10-17T19:37:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "B0pZ8uz7Ks7w2lUNm/elYt35xy75BC4X8XMZ+VjMtKiKoMDr9C3PELF+y/BQscNGdCTxcwoww+K6FPV2xw+CS/gbX83Kbl4OTOWm7nGOS/o4I2ysqjaL29KX9oFOZpnk6UOmB+xsEZqLOup23KkjaI+y558wl4wSblF/+Gv9UL7jCJmaTFnqAxvQ5xucIp9jDmh1ShWp2Qw3xJQIHSLgiF/r3GZoFCRuuzeusVHwABu4fvJoioA9Lvnx5CKBDfGC7DEFn29BiKU3cu+N3lTvMT8qyoL8W+wqDw4069SlKS/V15AxcF5MRGnlVzEhk13/VAFzaPKw+IjocZeGLLMXLGNbjc8HQjoPSEDQVw5P3JU=;HiKY/d5jt1LSs8nopscgHA=="
 ---

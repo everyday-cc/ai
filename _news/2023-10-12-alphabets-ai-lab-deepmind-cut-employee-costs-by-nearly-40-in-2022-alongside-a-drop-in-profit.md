@@ -5,8 +5,8 @@ excerpt: "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alon
 publishedDateTime: 2023-10-11T17:02:00Z
 originalUrl: "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/"
 webUrl: "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/"
-ampWebUrl: "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1"
-cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1"
+ampWebUrl: "https://www.nbcconnecticut.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1"
+cdnAmpWebUrl: "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Ou3KKbTYv6h2OpiDT9G+Hrstv3wXS7nfqOVD4BLsKG7ZhWFPEga2HMiZe5bnJ+MZEmnFb/lFFPFMAq+rEx0vBtRFrLhJlRJswxS0e5I3mRqeC1kzdnFVFWtlq0d9LmhRmH3+e8VIBQb5cxYDgadIXtMrXKqvQXWUP+XxuA8Xgpo1wMww3HsonEomVtEuOOCVgm3dyprwvOUE1u4ewXG4bDKkHgrU2ozwz0DB6RBlG/9utmLw8xfAYrbssVHzAoGKYe+CE0lb3KFYmdXgRTxWWry6Ollg9uSCTz38GH+3jQQK7/vDBj/7CvenPGiKRN8tDMG4xyag3RylXxMWu5t9PvlSUS5vDASr+ljibPXFTz4=;NFcW52l5OZMNyb8SgSAfRQ=="
+secured: "dprxmp/SLc4vRqHvsqoraey1dSJ4rVrrz4CSVMOufOCM7S+438hl8P+PATU4v4pkWRkskd77pdaqUnNyRBrEXsT+Jxg99AIWrsdt0MiThvDF8ZpivxhMnSDE/PSjfWeWgzYXZTn2PN8AAk2hB5x+OhIEiJcvz7QAXSrMz/CKrDlU4qM4t3l0CGLvysgzofrbXSY4KLsRHb4YrLEIB6t16MMpCACR4J995heMBAiaKEr51qlFVJE96Z9ESUa3sddZJp/wr2hUtm3zue0IPa0zkufvrDtkBIE6Eu/UEuGyEDijoNu9Jd+o8dgpAt23jMcY0GFw/xyFvCT1Q5Zt8MgQJBK0ChdpNTdOsF1NPN+oyrY=;SSuFy397vh+S9e7Q3puOEA=="
 ---
 

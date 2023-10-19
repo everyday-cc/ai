@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/k-12/boise-schools-respond-to-st
 webUrl: "https://www.govtech.com/education/k-12/boise-schools-respond-to-student-use-of-artificial-intelligence"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Students are using artificial intelligence in work. How are Boise-area schools responding?"
+    excerpt: "West Ada School District has a software to help teachers monitor student-issued devices and their use of AI, a spokesperson said."
+    publishedDateTime: 2023-10-18T20:27:00Z
+    webUrl: "https://www.aol.com/students-using-artificial-intelligence-boise-172747497.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 29
+    images:
+      - url: "https://media.zenfs.com/en/aol_idaho_statesman_mcclatchy_articles_842/a781ef148f788d5d71f1b2d119d34773"
+        width: 1140
+        height: 1024
+        isCached: true
 
 secured: "qMWRsJe06jUt0eX4Bz0qq0nUeLm5qQO1a+BNL3iFpM4uXxh1fciyys/ZsPVt2gCaMpmziJCQqGfpmQ35mY+EyQUUlJySxvohIlFVzJmxRTTTgU5sPodqV1lqoSchw/b50+MUUEh+7Rv6KUkyJVPp8eArDzxRXaBJ8fEHEW+g4U6j9hiOI2mIsiSmSQg+jwXl8BYyCKAR7WNaOVbjMvk03aqDL1TkPuXgA+xlM96qHF6y3WBn1uUVwTOGXO9xxp0Kde3/s2svFqGtE7RGDbvspUbU//WGHyNyoViZwE1004oxJp9z7LWter8BQdq3EiP/m1LNQPWFWNFHKFVjOpFOvWjNRr8sINhlGHpeKE4kXxQ=;3H3RevIdIW6/qxtUdqZBKQ=="
 ---

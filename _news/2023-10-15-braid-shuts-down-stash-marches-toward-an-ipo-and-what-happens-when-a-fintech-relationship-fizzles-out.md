@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/15/TP_e45b5image_story.jpg"
         width: 1200
         height: 832
+        isCached: true
+  - title: "Applications open for Fintech Innovation Lab NY 2024"
+    excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2023-10-19T15:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98471/applications-open-for-fintech-innovation-lab-ny-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "cIS5b9S8gJdLbmZBdfyttH3+TjMryWt2Z3IgOCxJWlSjp4ROHUv8cZUEKbV3BvACZDpPWXoZCDlFxk/LT0bxEaZQ6Up4Dx6d4aRkSc0yKCGp+Hm3JwMitKFaP2ggN8QunEX4NAMf2mG4h5JksOCx7Wkto2nC+LNZXnEVeGfBhosR20bHplo0fEYYk64wYXVyvrx3IJKXAIf6P9TdFR4781at7jDtSFP51djj9Vp4flAJVa/FG8n4T+5W62vYb/YyBzpXYFCsad5Mprt56XfFTKRw4ANW+Z8vKMw6bx/eVJgrKaEAgqFxK65QOpuvj0HgmNX3wBJIRFxvMWecr/2Z2tqNzPYuI2bAcQ6uwbUz1WQ=;Lf3iGEiHGsqCc4iZ6JZywQ=="

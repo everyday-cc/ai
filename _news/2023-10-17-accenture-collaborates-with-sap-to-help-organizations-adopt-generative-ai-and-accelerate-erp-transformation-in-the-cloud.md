@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "World Health Organization Addresses AI In Healthcare Bias, Outlines Guidance For Regulatory Compliance"
+    excerpt: "World Health Organization (WHO) has unveiled a comprehensive publication highlighting critical regulatory considerations for harnessing the potential of"
+    publishedDateTime: 2023-10-19T15:08:00Z
+    webUrl: "https://www.benzinga.com/government/23/10/35330203/world-health-organization-addresses-ai-in-healthcare-bias-outlines-guidance-for-regulatory-complianc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35330203"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35330203"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/19/laboratory-563423_1920.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
     excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
     publishedDateTime: 2023-10-16T18:24:00Z

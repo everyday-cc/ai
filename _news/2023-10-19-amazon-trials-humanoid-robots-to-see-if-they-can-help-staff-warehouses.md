@@ -2,11 +2,11 @@
 category: news
 title: "Amazon trials humanoid robots to see if they can help staff warehouses"
 excerpt: "New ‘Digit’ machine could be perfect for places designed around humans, Amazon says – but commits that it will not steal jobs"
-publishedDateTime: 2023-10-19T06:07:00Z
-originalUrl: "https://www.aol.com/news/amazon-trials-humanoid-robots-see-060711441.html"
-webUrl: "https://www.aol.com/news/amazon-trials-humanoid-robots-see-060711441.html"
+publishedDateTime: 2023-10-19T13:07:00Z
+originalUrl: "https://www.aol.com/amazon-trials-humanoid-robots-see-060711533.html"
+webUrl: "https://www.aol.com/amazon-trials-humanoid-robots-see-060711533.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -18,30 +18,22 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://media.zenfs.com/en/aol_the_independent_us_877/2bfdbe09855a6b9639d46892d5b15da1"
-    width: 1200
-    height: 800
-    isCached: true
-
 related:
-  - title: "Amazon Robots Take Over Warehouses to Get That Thing You Ordered Even Faster"
-    excerpt: "It began with the acquisition of robotics startup Kiva in 2012 ... but especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space."
-    publishedDateTime: 2023-10-18T19:49:00Z
-    webUrl: "https://singularityhub.com/2023/10/18/amazon-robots-take-over-warehouses-to-get-that-thing-you-ordered-even-faster/"
-    ampWebUrl: "https://singularityhub.com/2023/10/18/amazon-robots-take-over-warehouses-to-get-that-thing-you-ordered-even-faster/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/18/amazon-robots-take-over-warehouses-to-get-that-thing-you-ordered-even-faster/?amp=1"
+  - title: "75% Faster Than Humans: New Amazon Sequoia Robotics System Promises to Improve Warehouses and Replace Workers"
+    excerpt: "Amazon has announced a new robotics system called Sequoia, which is designed to improve worker efficiency and health, as well as lead to higher customer satisfaction. Sequoia is a set of integrated robotics systems that includes mobile robots, gantry systems, robotic arms, and a new ergonomic employee workstation."
+    publishedDateTime: 2023-10-19T13:30:00Z
+    webUrl: "https://www.gizmochina.com/2023/10/19/amazon-warehouse-sequoia-robotics-system/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 56
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 65
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2023/10/amazon-warehouse-robots-proteus.jpeg"
-        width: 1068
-        height: 601
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/amazon-warehouse-sequoia-robotics-system.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
-secured: "Y9oj2K+DCo36vViIUl4gp1RCpBBsmTDAOtpe+0C48Cm6Lyu6rGkhB9P+ZAAQoquWLBhX1Sr4KhH+6jRS3+FPW3MAi2WoAJgzJWhlfXlbpGMpSOOTsf4JtJX5mVpMIE9nEdP0NYSkhoyYDxsaJpW/zX5JUKjfkhDsgOTmnhYu2Po1lP+CPlCraeksUhhzKhWBAmI8VES71vX2V/y/TE/gxsHrINIQfTLfiKFSNmOpF/ildM/ma50zT+coUTmJ4x4Fxb5Nmbid8fNxXAjIPC4I6hwz/Dad8/yyo36Td0pG+FWrg1e35FSbgnP6ky89L5M/1VyrLyzKoGbn91FATOMb0dug2s2LZqw6AUg3tqQA1bLgJ8/QPi27kQD1WZ/wKypmWr7LlaNz1/RwYHx8k0y528ba0ZhkSZ0xTKLgtsRsVfxIkfzCddbuNrNPMu5I/sIsZ2EVGRGlNCCZsO3z1Ud64kdLUVXJSa3Ufb5kSekjur/256MbSA8oB7wv1wL68SKQDtNzB4WrTGAwj78vrZFmrw==;UY1vrf/U/zdMmcPV3pQd5g=="
+secured: "ewX0zkYj7sEBwAzgz1oUWTNmjROZl2X+/Hs0smlfMF2+2gEpb0dqJr3OvZzbDTwuj3hp0SsW8j+eu00wb1P+y47VF3XE6z/d3ct9OGlOkCs+BhDDPHq479fYpesKMYqeh3ZZNAcztjjweruA4M9q0AN2/WaOTJIlMhnC5Ti1HktZujSjBzhrIleeqXG06uXGcP+QplqSydBaNJn1HVeU+vNjnQyHcJXPmHCLHr1R80zUEJF6Y4eOFWbXEA3OxQbeMhASk0B+cBqcQRsGzY9i63kQ1W019FKJkeD9iS2ajouRPi7klAln8rKHqaNswK0N2riVE9DV8RuaqOoLlbi8uuREd4yt4Vyn55PWG4wyyOXDyQJD9yyr9Rjdjw8JRKGo6S8y5FOVPMXM1rO1b8+33SOlkcFPzzbEoTXmLu1EpZWtpSNMkQmG97oWthp0r1WQAJNRtjT8uxSewTp4qez4OqA+y53HKWj1My7ADF6YlpryRFPb6i7LCiZHKOXSMYZF0pKYRnhFPMEp/xMfvOM0CA==;E2s0Tn1bGOSaARbUVIw7pw=="
 ---
 

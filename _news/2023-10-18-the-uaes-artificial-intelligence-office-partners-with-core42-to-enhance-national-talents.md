@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities"
-    excerpt: "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion."
-    publishedDateTime: 2023-10-19T05:41:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq"
-    ampWebUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 69
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NGRiNzMzNDAtMjVhMS00/0/1498385993.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
     excerpt: "This initiative encompasses comprehensive training programmes designed to strengthen collaboration structures within technical fields and promote the development of national talent in emerging fields,"
     publishedDateTime: 2023-10-18T07:53:00Z
@@ -58,20 +42,29 @@ related:
         width: 724
         height: 482
         isCached: true
-  - title: "Mozn and UAE-based Astra Tech Partner To Fortify Fintech Security Via AI-Capabilities"
-    excerpt: "Regional AI powerhouse Mozn, a leader in enterprise AI technologies, inked a landmark partnership with Astra Tech, a pione"
-    publishedDateTime: 2023-10-18T07:41:00Z
-    webUrl: "https://menafn.com/1107262123/Mozn-and-UAE-based-Astra-Tech-Partner-To-Fortify-Fintech-Security-Via-AI-Capabilities"
+  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
+    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
+    publishedDateTime: 2023-10-18T17:17:00Z
+    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 49
+    quality: 28
     images:
-      - url: "https://menafn.com/updates/pr/2023-10/18/pr_3125_82a6d5e7_image_story.jpg"
-        width: 1672
-        height: 940
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
+        width: 1270
+        height: 847
         isCached: true
+  - title: "Accenture Amplifies SAP Investment to Enhance AI Solutions in Core Business Processes"
+    excerpt: "Accenture is collaborating with SAP to help organizations adopt generative AI across their core business processes. Together,"
+    publishedDateTime: 2023-10-18T14:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/accenture-amplifies-sap-investment-to-enhance-ai-solutions-in-core-business-processes/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 12
 
 secured: "DUVwAiCazUgU5F0OkFqB9ovMErKO7je0AoP8ZDV08RO9WzVtUZbL9oIrCTJXuKjqoVKn39hYlj8/BWR9me39EORmFY6My2y6jUrhTuwp80oppncQ56jBpwOW2GRGZVg8fIR+Fy6VsBU4/x7io0Ef3ARIyLbxU+MQ+o3bCI+bYb2YCeROvDaVpR57PBNBfnB6J63IldPxKGHuZQKcpWdxE9NPGtvBVk16vcvlrLB0sHkfga1nTtMBvDpO8v9xQ1k3ygpz+ktY1U49ikz4kAkT19lk4gRtf43ItDBmjuH3Pf/fQCawVWptW2i1x9p9IRM5s0j2jDx1oyHaFqKsEIaRGr/ALOpTUQR7HX4yHOtJQow=;p9x9TzfMCvfpauFZnme0oQ=="
 ---

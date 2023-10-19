@@ -76,7 +76,16 @@ related:
       name: Billboard
       domain: billboard.com
     quality: 14
+  - title: "Fugees rapper claims lawyer's use of AI wrecked his case, requests new trial"
+    excerpt: "Fugees rapper Pras, convicted of conspiracy in April, has filed a motion for a new trial and claims his former lawyer's use of AI wrecked his case."
+    publishedDateTime: 2023-10-19T14:26:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2023/10/19/fugees-rapper-requests-new-trial/71238225007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 14
 
-secured: "YFVoKbaBFMe22Dj7zC9WvrTFm/yxnla6Ni5+d+SYo1ZIc6q0fei7TJMquU94/vD/Dd7ppVOn10jRkDjqTeVh3Qug7SzBW0kOyeMWkEInpy26ujex3Wwj+He+8hRoGGO6AwlU3qat9WwPvqD2+SG7U+iwul95dHC4MMxsN01ZN0eyPr/0oh2x1+N6O/TPNp0+2thbRW9OjkHJTFtQMDE4aZZfjIN+ybwWajIZmjbgCLC1eqOB7SyD3eYNFFSq2IAVRxh4o7V4t3ldthLifW1nW9nxLC2reSuq78G/V2Jnzz/5xqIgLx+9KZ8GZMH6A6+VJ2rJfiuTNYOXTU4QxRl+oFPN4MOqS4YbnKLKjALdfRI=;YTiPHIgZwGZdvTw+RjizQw=="
+secured: "amc6Tgi7tuqu0xgY4ICNhL6EnT8lvHyXMxJ/3wJPJQkjF8duj6b+2V6rEkvX9wO4RbsFnMUbmwR0rntH/TAub5HE2UCjoC4vPqIcyyy4cxdUFho1dGj9gpr80aj8MWsEWcp+wI//4h0tmfk9E/H3esywB7IVEe/SLM4s0IjPv4CVzfnlM63+kLZUVGvLv7X7Otkup6sCdUTZtwlb8o2QnM5GJy5hT952A03iRF+jaQSkZJNtQMTJvAgUjOmq1Cr82JZ27iJq40FykYG6y771CDVWYnrDJ2j4CCyCTcAznMbOVxp2gyqR4vEc/nt0cJXhIBJRoW+7f8SQJ5kBvbvz1tUIiYOdvlAgfOEUbdNlpeI=;kHHNEJeuzpMrFbl8t4p+Ww=="
 ---
 

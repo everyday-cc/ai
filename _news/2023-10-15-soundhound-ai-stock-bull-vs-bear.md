@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/15/soundhound-ai-stock-bull
 webUrl: "https://www.fool.com/investing/2023/10/15/soundhound-ai-stock-bull-vs-bear/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,15 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Better AI Stock: Tesla vs. Alphabet"
-    excerpt: "Among the dozens of companies jockeying to lead the next artificial intelligence (AI) revolution, Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Tesla (NASDAQ: TSLA) are two of the clear leaders. Though Alphabet might have ceded the initial first-mover advantage in generative AI to OpenAI's ChatGPT and its partner Microsoft,"
-    publishedDateTime: 2023-10-15T17:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabet"
+  - title: "SoundHound AI Car Manuals"
+    excerpt: "SoundHound AI, Inc. (Nasdaq: SOUN), a global leader in voice artificial intelligence, today announced a new Vehicle Intelligence domain that lets users of its in-vehicle voice AI platform access the car manual using natural speech."
+    publishedDateTime: 2023-10-15T16:39:00Z
+    webUrl: "https://www.autoconnectedcar.com/2023/10/soundhound-ai-car-manuals/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 37
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2023/10/Vehicle_Intelligence-1002x1024.jpg"
+        width: 1002
+        height: 1024
+        isCached: true
 
 secured: "H2QoVLHuGeXsM+uqrqUdDLcuwDvuTDVk7AvBnCmfHN+PL9QgWYHWays5H34UK9M845lSNsz7RYa8aUvzNxP5KVh/C2lrcorWZTb0q5P8vhsNeMgJbTZ/yCp3+5uuZTHLTZqddrNOMaA7V71UmMg/Ou2uKHZEsnU7qrm8zBogqDSQ7hL1e3AZcuh/2/zIvwEdEgRrWipArTG1QKb7niSwDZjpjHg/yL0QLFIVe46vBS8dG22dL2Dm5RRuBBcxPNDvKJ83IBdy0Xth/jnG990OHcpfKZxhYLW/16lNNiYi79ZuxJrDe4FRlQPCGXkcZk/RffjEZABVZDuL0OOX+527OutGw0ylIehxqANGuJrt4qQPTn49yguvZPKdZIPXJ+4EmAgpppa1H3lhqZD1azemF+qqrruxAk5778HX8hjNtAfoniW+yf2pNzAICytk0xg90oCPvN28EeI4886BQ9mAtvwuIzeF102+ugtXINd4w4DhyJA3sqcMVohcmdgNNzgifVIoaioCVxJPvmZO6IhWjA==;ftwrLRHH1HxNtcrffkKwVQ=="
 ---

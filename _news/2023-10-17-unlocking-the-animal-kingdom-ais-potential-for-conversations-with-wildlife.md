@@ -9,8 +9,8 @@ ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unl
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: devdiscourse
@@ -27,24 +27,29 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+  - title: "In Real Life: Meet The People Dating AI"
+    excerpt: "In terms of having a Replika AI companion, its intelligence is centered on how it converses with humans. It is made to reciprocate the user’s energy. There are paid tiers to the app and several types of relationships—including friend, romantic partner, sibling, or mentor."
+    publishedDateTime: 2023-10-16T00:00:00Z
+    webUrl: "https://www.aol.com/real-life-meet-people-dating-000000514.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Airbyte Announces Additional Vector Database Connectors, Making Hundreds of Data Sources Available for Artificial Intelligence Applications"
-    excerpt: "Airbyte, creators of the fastest-growing open-source data movement platform, today made available additional connectors for the Milvus, Qdrant and Weaviate vector databases as the destination for moving data from hundreds of data sources,"
-    publishedDateTime: 2023-10-17T20:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20231017608302/en/"
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_newsy_441/544105fb664cae66199a85def60b4bef"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna"
+    excerpt: "Enhancing AI Applications With Deep Learning - Talking with Thought Leader Dwith Chenna - In the ever-evolving digital landscape, Artificial Intelligence has become a part and parcel of our lives."
+    publishedDateTime: 2023-10-18T09:26:00Z
+    webUrl: "https://www.siliconindia.com/news/general/enhancing-ai-applications-with-deep-learning--talking-with-thought-leader-dwith-chenna-nid-225967-cid-1.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 26
 
 secured: "RJmoEDGLDvimYEK0eEvL5QBjJxivSJschKc/aCcYnt/IbTEEJoAuZN8wDGJ8emNtKG354k0B5ECpq353jGoaSjdS/UhtX9sOJ2WURFRxZ+JRkjJq58wETywnLR0YL9UaRjmb9M7v4lSR71rAbWUQfDs9A5NrkkqyLiJOjfv4J8ioxGFp6AbJ8PC4is3zX7i6rbDK6DAyoPp1PD7EuGP4clcwJ9zQWFmSf/aOIi8bZj9PvtvQEn2JHQJk5WQEbFAwfmdFENHeRqKFsnWdKG6dU1HS35sjlS2azz87mXP1nbTe/EDA0dKGLXLMhm1DkvS/vEXGVn8XpO3f+MgkB/OO9Ghtja+3jM32hYvUB8FRxJMKwJOhU1SbsjKlVLwzwj7mrxA20BhoREoZB48501xuJpyLdk34uTmY5lLC1RSSp9dZtmvSkwIal98awKQuJ7CBoEriKNC2rbhYiz8nMhFmvsnKQ9qALPn4jkxPn0HXq8ZLuyag6vhlP7RtHsCXHItwoc0JzyU2c0cyF5eMMGCSNQ==;NGSiwwVpb2PnEAv5zcjKcA=="
 ---

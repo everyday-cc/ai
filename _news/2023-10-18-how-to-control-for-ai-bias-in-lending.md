@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -63,21 +63,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
+    quality: 49
   - title: "How companies are scrambling to keep control of their private data from AI models"
     excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
     publishedDateTime: 2023-10-19T01:06:00Z
@@ -92,15 +78,6 @@ related:
         width: 1022
         height: 863
         isCached: true
-  - title: "How to Prepare Your Child for an AI-Driven Future"
-    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
-    publishedDateTime: 2023-10-17T19:37:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "QrN4X21fz6KJ4vDkF9sw4izmv6yPJlQG02BjB76Zl2Mwt3uZZknCmEuGnCGg3C/I+B15yMUedQgsBwB6BtFAOBigcZkLolTPk+OcDC04hpSEw7tA5voe1YCSBz84xeW4HLNzlGDeNFzlOLxjbnC1o4FV8YNNY1qPnU76W4ugUkY/4NyS9xXXV66fw58F8/DKivhiiKWnZgyp8glwLgrnwCTyX8WjuNQ9qX7zue+uW/DDrMIZfxmpPLfbt7lwufGWxBZwDeevbOVuSsca/HZ0ZUnneqEt7ntWZ0hILjrmLlexdY9YMYvivu5MiWWhy/UtJ2V6Wh5YLO/7VyjDLz1rof+7fD30Xz5yqWYsdQTUJ9I=;I9+b3n6C5U0B8Pxo6bpLDw=="
 ---

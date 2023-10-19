@@ -18,6 +18,17 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "GIGABYTE announces plans for future AI consumer products"
+    excerpt: "GIGABYTE has recently unveiled a fresh strategic framework for Artificial Intelligence (AI), which is set to steer the company's trajectory in the"
+    publishedDateTime: 2023-10-19T11:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-consumer-products/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
+
 secured: "JhijZKksAM8fz2DgeWxz18RQKilc57mF9oe5Pul7MhpsW3Ryh/0vL+2gbDpJyaCfVq7aNmhF//9QdVu0w7yXP4x4LiAKsapcMqQhVoSo3IYpkH7cfmNX2lNptlKV6v0jOaJ+JHexB/sBbc2hPnOYHtIFl6Q6m63IJ6dlzM2oeVP3mudkw8TxNLatn2yrlHS5sIWy0HHTF+sB3OfMi0g1nCsuQIJCwQWIbr6Qf/+KPQr+9ybRhjCgUGtqCLpY8GjYU2TXlqbTUxCL0+0bKfij4lzpU8HI2LHPU0vSyE7jhCKHrhoNn0Tumr0wMS4oSXBkc8sM21Ynv48pPSuUzpbv9DT622gCrwUNxGrOBjU2Wro=;2YtILDYh4GEt782d3VgvEA=="
 ---
 

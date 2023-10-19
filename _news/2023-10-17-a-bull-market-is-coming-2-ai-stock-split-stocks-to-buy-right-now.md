@@ -36,7 +36,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 47
+    quality: 49
 
 secured: "/0820up3n/6+qjhXNjQPY28zWhkFK4OUU7yLrSDHpkRUitUycV/bJWZKruruJxLz5xEE1RH9Q7hcNfTZf+/tgSiTY7+OVdHwxqLd7AkGeRGhZrPkv3FLSGmF44hJtbtTTdHopBVZinvzoIqsEDl7PiQ40eNIwsyp5EgXO4aDzwGQLO5nUxlZoFAfLIDk5BLYyGwAet59rX8wJ8vETbGDRKWtU+lOHhdJ1+dJbcznHMDdUP8DNkcZeKD6ocqizpP6uS9AMY/C0zrVJur0gxqr6LEtwrTdasHB52RXYuYdlVTbsKKvYsEFtzD+j0TIgqLOFST3qMM6AjqXKD58Y0WpkMA1L3PselDUxTxr61vOspE=;W1vsLmofBOWsdddkYzQ9JA=="
 ---

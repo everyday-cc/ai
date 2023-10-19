@@ -28,80 +28,164 @@ images:
     isCached: true
 
 related:
-  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
-    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
-    publishedDateTime: 2023-10-17T22:13:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+  - title: "Generative AI and machine learning are engineering the future in these 9 disciplines"
+    excerpt: "All vertical industries continue to adopt emerging tools and methodologies, but the impact of generative AI in engineering disciplines stands out from the rest."
+    publishedDateTime: 2023-10-19T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 900
-        height: 900
-        isCached: true
-  - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
-    excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
-    publishedDateTime: 2023-10-18T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/"
-    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "New tool can detect AI-generated content"
-    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
-    publishedDateTime: 2023-10-17T15:42:00Z
-    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
+      - url: "https://www.zdnet.com/a/img/resize/27166f4fe6a0a8ed0bd0d66a1c471e52e038bd5b/2023/10/16/547003b1-a501-4dff-b489-bb957583060f/gettyimages-1314656208.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Ivey to Co-Lead Artificial Intelligence Panel"
-    excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
-    publishedDateTime: 2023-10-19T06:11:00Z
-    webUrl: "https://www.washingtoninformer.com/congress-artificial-intelligence-panel/"
+  - title: "Generative AI in naval engineering: Small, proprietary data sets limit adoption"
+    excerpt: "Modern computing has significantly improved the design and build processes of naval architecture and marine engineering, but limited data is holding it back from advancing even further."
+    publishedDateTime: 2023-10-18T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-in-naval-architecture-and-marine-engineering-small-proprietary-data-sets-limit-adoption/"
     type: article
     provider:
-      name: The Washington Informer
-      domain: washingtoninformer.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
     images:
-      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
-        width: 800
-        height: 534
+      - url: "https://www.zdnet.com/a/img/resize/836d7c3b68a1e5ab9a579ee59bd8a820db905ebc/2023/10/09/bbe5dce9-0f96-4506-ab83-f95ba2f5df01/gettyimages-1287093517.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
-    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
-    publishedDateTime: 2023-10-17T15:18:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
+  - title: "Prestigious Symposium On AI Lawyering Reveals Keen Insights Including The Ardent Debate On Whether To Use Generative AI In Law School Education"
+    excerpt: "A symposium on AI lawyering surfaced key facets that lawyers need to know. In this first part, I examine whether generative AI ought to be used by law students."
+    publishedDateTime: 2023-10-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/10/17/prestigious-symposium-on-ai-lawyering-reveals-keen-insights-including-the-ardent-debate-on-whether-to-use-generative-ai-in-law-school-education/amp/"
     type: article
     provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652e023f699d70b9cc306338/0x0.jpg?format=jpg&crop=720,540,x54,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Teaching AI to behave is the fastest-growing career skill"
+    excerpt: "Generative AI platforms require tailoring for specific tasks — and it's that skill employers are seeking in new employees or in opportunities to upskill current workers."
+    publishedDateTime: 2023-10-19T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2321438319-100947383-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 760
+        isCached: true
+  - title: "To excel at engineering design, generative AI must first learn to innovate, study finds"
+    excerpt: "ChatGPT and other deep generative models are proving to be uncanny mimics. These AI supermodels can churn out poems, finish symphonies, and create new videos and images by automatically learning from millions of examples of previous works."
+    publishedDateTime: 2023-10-19T14:47:00Z
+    webUrl: "https://techxplore.com/news/2023-10-excel-generative-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-excel-generative-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-excel-generative-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2023/to-excel-at-engineerin.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
+    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
+    publishedDateTime: 2023-10-18T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
+    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
+    publishedDateTime: 2023-10-18T16:33:00Z
+    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 46
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
+    images:
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "How Small and Medium-Sized Businesses Can Thrive in the Digital Age Using AI"
+    excerpt: "What if we told you that AI is also effectively transforming small and medium-sized enterprises in this digital age?"
+    publishedDateTime: 2023-10-16T15:04:00Z
+    webUrl: "https://www.talk-business.co.uk/2023/10/16/how-small-and-medium-sized-businesses-can-thrive-in-the-digital-age-using-ai/"
+    type: article
+    provider:
+      name: talk-business.co.uk
+      domain: talk-business.co.uk
+    quality: 36
+    images:
+      - url: "https://www.talk-business.co.uk/wp-content/uploads/2023/10/shutterstock_2252763175.jpg"
+        width: 1000
+        height: 510
+        isCached: true
+  - title: "How data and artificial intelligence are giving rugby fans the advantage"
+    excerpt: "TVBEurope speaks to the team at Oval Insights to find out how their machine learning models are helping to enhance the broadcast experience for rugby fans"
+    publishedDateTime: 2023-10-19T13:09:00Z
+    webUrl: "https://www.tvbeurope.com/artificial-intelligence/how-data-and-artificial-intelligence-are-giving-rugby-fans-the-advantage"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
     quality: 18
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
-        width: 1358
-        height: 768
-        isCached: true
+  - title: "Celestica Launches its Next Generation 800G Switch, Powering Artificial Intelligence and Advancing Data Center Connectivity for the Future"
+    excerpt: "Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, hardware platform and supply chain solutions for the world’s most innovative companies, today launched its DS5000 high-performance 800GbE switch,"
+    publishedDateTime: 2023-10-16T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/celestica-launches-its-next-generation-800g-switch-powering-artificial-intelligence-and-advancing-data-center-connectivity-for-the-future-1032708341"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "LYzgC0uKxS4j7qXrrdqbUyqH4bPaaIPAWqBjQXWH1b9H3cUZ9SvP4Q5EXwhwMZSiOhLHPWMS2lCRikPLKZ0EWNa8XYr0Oezk/MOViCXO0k7588FPm6RZMgNugEeveLIOgWfTdOLQ+4b80By6AOmQY0zyHNo5T2Fq6DPO5d375tA5BZQu6TXH2869GOy0WxgYnVUpwzrVw+OxYQvHnuno0U71wevQseD3oNIA4d+dySW91IOFZoFIzsmXM8OuL4TQmCy+eW+U03L3zLUykWvHaTxzcGsfA0MngiNulM3hUn8a0xpIPuPGT9W7Kja5Rewk0cKMJ2qsYGH1ChisQ0jsqwX7FX/nM/5Ep500f/nM5Mg=;1DCzDD4wSjGWcmRNpmYosg=="
 ---

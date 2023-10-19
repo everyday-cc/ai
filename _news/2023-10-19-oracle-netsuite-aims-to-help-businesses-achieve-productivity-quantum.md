@@ -32,15 +32,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 15
-  - title: "Accenture Amplifies SAP Investment to Enhance AI Solutions in Core Business Processes"
-    excerpt: "Accenture is collaborating with SAP to help organizations adopt generative AI across their core business processes. Together,"
-    publishedDateTime: 2023-10-18T14:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/accenture-amplifies-sap-investment-to-enhance-ai-solutions-in-core-business-processes/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 12
 
 secured: "L+W0wp9Wt5OLME/AtcWakVEhnsEZIRoI3+052jzZK7QnDCuxKB5dg88h2XaRotbh3mbtqp/g/Q/jEv+zvMhfAyFf4N3FcmAoeBY8Oc9WTiSgj5IxTlHdyUXXp9rdLKqudhQvWM89bfJPZVmAeR7E2S6UbO9ZhP/bBXLDBpOU+EQwC/LVGVRvO4JSRA78ermuy4gyqQU0jdYkRzWnxIA4abqGpY3P8RLCPsDGOeAkeOsieZUqQ+eMVaWROigLNmoFe6Uwp0bxQDPgax5m3chdPSXA+yZVDoaSatF0V3pLnP1ykyVuRhFE/qNW0H2xMKuUlJ47e2ZhA0OZCXA7M7ebZx2trCTvhNJwZC68VVt7TPs=;okB1coY459P5u2maeleSHg=="
 ---
