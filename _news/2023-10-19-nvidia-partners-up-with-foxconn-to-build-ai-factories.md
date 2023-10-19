@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US administration to further curb China's access to Nvidia AI chips"
+    excerpt: "The Biden administration will restrict shipments to China of more advanced artificial intelligence AI chips designed by Nvidia and other US firms"
+    publishedDateTime: 2023-10-19T16:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274004689/us-administration-to-further-curb-china-access-to-nvidia-ai-chips"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697685003957.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
     publishedDateTime: 2023-10-17T12:45:00Z
@@ -192,9 +206,9 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Foxconn and Nvidia collaborate to supercharge the AI industry"
-    excerpt: "Announced at Hon Hai Tech Day, the collaboration between Nvidia and Foxconn starts with creating AI factories. Foxconn will also collaborate with Nvidia to put AI in cars."
-    publishedDateTime: 2023-10-19T05:15:00Z
-    webUrl: "https://techwireasia.com/2023/10/ai-factories-and-more-nvidia-foxconn/"
+    excerpt: "Ten months after announcing their partnership, Nvidia and Foxconn aim to supercharge the AI industrial revolution."
+    publishedDateTime: 2023-10-19T16:31:00Z
+    webUrl: "https://techwireasia.com/2023/10/why-are-foxconn-and-nvidia-building-ai-factories-and-together/"
     type: article
     provider:
       name: techwireasia.com

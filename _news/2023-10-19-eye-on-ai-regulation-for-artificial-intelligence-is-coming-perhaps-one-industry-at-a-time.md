@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-19T11:00:00Z
 originalUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
 webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Finance
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
@@ -25,36 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Growing AI industry seen posing challenge for regulators"
-    excerpt: "The rapidly evolving Artificial intelligence (AI) industry poses a challenge for regulators as they seek to foster public trust and confidence in AI while"
-    publishedDateTime: 2023-10-18T09:42:00Z
-    webUrl: "https://businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/"
-    ampWebUrl: "https://businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/?amp=1"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/?amp=1"
+  - title: "Ampere Makes A Strong Case For On-Chip AI"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives into Ampere’s Altra and AmpereOne CPUs and their compelling value proposition for certain AI workloads."
+    publishedDateTime: 2023-10-19T17:21:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/"
     type: article
     provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://businessday.ng/wp-content/uploads/2023/10/AI.png"
-        width: 700
-        height: 400
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6531665c3f2160c1e04b2d4d/0x0.jpg?format=jpg&crop=1024,576,x0,y159,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "AI Industry Chiefs Raise Regulatory Fears in Parliament"
-    excerpt: "Leaders from the artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
-    publishedDateTime: 2023-10-17T11:00:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14391"
+  - title: "The Case For Mastering AI Now. Why You Absolutely Can’t Wait."
+    excerpt: "The problem is that very few people have taken action to make AI an immediate new tool in their professional and career toolbox."
+    publishedDateTime: 2023-10-16T21:45:00Z
+    webUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/"
+    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652dae5de5b65e4992413753/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Why AI Is Forcing Startups To Chase a Mirage"
+    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
+    publishedDateTime: 2023-10-15T07:46:00Z
+    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
     quality: 39
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14391_1697540354539609.jpg"
-        width: 752
-        height: 366
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "US eyes AI chip curbs for Chinese units"
+    excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
+    publishedDateTime: 2023-10-16T07:52:00Z
+    webUrl: "https://www.semiconductorpackagingnews.com/news/83632.html"
+    type: article
+    provider:
+      name: Semiconductor Packaging News
+      domain: semiconductorpackagingnews.com
+    quality: 34
 
 secured: "OWOEflLpGGHoCvTcsi/NXW15kOos7LE2QcpUQMZbHukVqDLazKDddECGaRHoHtNzx8iqz1gOSK6/HAilLTcZ1RRbJIHUdWWp1qWnkRGHhWHkQJAQSZ1uKJDXQ757d8yJJdg47KtvO6qvc7IyGWfoeZk2ce26ACGnz1Gi82qDEo4lQxGx12RsOg9rREpmF9TsF7EsMhKtKM+Fp+Q6j4v8kSGh3QA0XOVtBwrFtZVEe6VbuyVA4VYinj78hUYe2lordOuf7FCt+0SrDFdJDuj2kPDFDqbE5e1YQCbdXIlW8TmQOG8AlXq1cRiTx+WsVucCrtc318519vAsI9oC1WnuHkRL3RP/xnY5vLCrLK6FKfeR48ij43NZC8DmD93o2Q0mwknkjheASqnI85yYJJmM1+ZcJ0ZglYbBuhV6b9OYS4EVhJN8N0VIKdfXMdZkA6+ju07bRnUGLDu591qalvYwn0+9JeMqpGpvntSmpFVntoMLo2X7uG/J5kWji8NjkFoUqc26A1m90QFIs9s10QsQxA==;50ZjPUvP2amtqzDgeM/UzA=="
 ---

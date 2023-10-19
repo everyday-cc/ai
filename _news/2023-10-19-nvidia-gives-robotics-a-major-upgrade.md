@@ -163,6 +163,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US administration to further curb China's access to Nvidia AI chips"
+    excerpt: "The Biden administration will restrict shipments to China of more advanced artificial intelligence AI chips designed by Nvidia and other US firms"
+    publishedDateTime: 2023-10-19T16:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274004689/us-administration-to-further-curb-china-access-to-nvidia-ai-chips"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697685003957.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
     publishedDateTime: 2023-10-17T12:45:00Z
@@ -182,9 +196,9 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Foxconn and Nvidia collaborate to supercharge the AI industry"
-    excerpt: "Announced at Hon Hai Tech Day, the collaboration between Nvidia and Foxconn starts with creating AI factories. Foxconn will also collaborate with Nvidia to put AI in cars."
-    publishedDateTime: 2023-10-19T05:15:00Z
-    webUrl: "https://techwireasia.com/2023/10/ai-factories-and-more-nvidia-foxconn/"
+    excerpt: "Ten months after announcing their partnership, Nvidia and Foxconn aim to supercharge the AI industrial revolution."
+    publishedDateTime: 2023-10-19T16:31:00Z
+    webUrl: "https://techwireasia.com/2023/10/why-are-foxconn-and-nvidia-building-ai-factories-and-together/"
     type: article
     provider:
       name: techwireasia.com
@@ -288,6 +302,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "ZdSHPdI70pYQCUga2N8j377jTAizdjYn4JSwVSTuDsNygakivGuLOlLZ88aoFFgwoZyQW6updT1+OXXAMF0p9tcFTvlWpnUVzAXc4xcU+R2Jplpx6bOyq55mfIBAJH1Irwh4pbq+e4VsAw0mGe27Cm8KE4Ox7PzI66egt0npaCm1Z6Idno4JfL0opXXxBNitXn5nUo0gHGDB0v2K0lUXkdrmVk0R/ZksLEkER1Y+o4IDuaGBMI/FhCfSy87kzY7N6Ih2nhXMIlgdky/0wOoBQsbyp/YBK8hXMAwU5LMavEn6lBgBZ8O8IQg6f4lR2pBSkevjOL++fOdeWQuQ+hsMC2dkQXW2Y2Ysxl3ewrRO6CU=;4jBbMtlydklSc/nTmTD4Pw=="
+secured: "Lg9/dai74PrhgvfDdvV7pmaCaYm6YJ2NR6PIg07nUNaoHfQMizLcxbs+RGrPmYaK7dwWc3Tc3D2e2sO45xRE+HXJF14xOG2dWBAnhgwqSD96AmSvOXNlpDb9g9E0whLHcUzmukTtESXSX8FU6+cPWnJl/RZ7YgAEJ4A4Tcj51P4mZqTntrHth/Qu2L/eiXxBI5nQLFUzvWrfarnLNf3Gy9dL8IDm/14USv1X8eJhvVa6jnDNMc2yWuXmEarUzcPeXdcYIqEd5QvQz0gvJFsU9KrA0KePoRn7Suerv59e0RTPqg2WzlTyKmvr7Eody+EKiEzRF8ygm/lUiccrMJk2uOaQgdvRQaUqBo/BCVYbblSiSz+tj47RWD2KxtNOo0PtCVnSWaLpl7Ab2iwHispHc+N2NJBiwiZ0n7DfypDfUC03n6Z+zOQ+MjkKBy7T3p/0qkrxdb0CAuz/nOlZrBw7cAYFnCDf/FLgv0u9iCp7cqAW7t+d0XOtMKD1261PT3EoGbnewmAwRhFuOeTIAUconQ==;YbxG62c8v5xwkO5rhW6U5g=="
 ---
 

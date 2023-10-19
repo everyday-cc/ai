@@ -569,15 +569,6 @@ related:
         width: 992
         height: 675
         isCached: true
-  - title: "US eyes AI chip curbs for Chinese units"
-    excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
-    publishedDateTime: 2023-10-16T07:52:00Z
-    webUrl: "https://www.semiconductorpackagingnews.com/news/83632.html"
-    type: article
-    provider:
-      name: Semiconductor Packaging News
-      domain: semiconductorpackagingnews.com
-    quality: 34
   - title: "US further limits AI chip exports to China"
     excerpt: "Welcome to The Hill’s Technology newsletter{beacon}  Technology Technology   The Big Story Biden administration further curbs chip sales to China The Commerce Department"
     publishedDateTime: 2023-10-17T22:20:00Z

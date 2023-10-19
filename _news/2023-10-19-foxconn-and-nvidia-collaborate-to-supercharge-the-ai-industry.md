@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Foxconn and Nvidia collaborate to supercharge the AI industry"
-excerpt: "Announced at Hon Hai Tech Day, the collaboration between Nvidia and Foxconn starts with creating AI factories. Foxconn will also collaborate with Nvidia to put AI in cars."
-publishedDateTime: 2023-10-19T05:15:00Z
-originalUrl: "https://techwireasia.com/2023/10/ai-factories-and-more-nvidia-foxconn/"
-webUrl: "https://techwireasia.com/2023/10/ai-factories-and-more-nvidia-foxconn/"
+excerpt: "Ten months after announcing their partnership, Nvidia and Foxconn aim to supercharge the AI industrial revolution."
+publishedDateTime: 2023-10-19T16:31:00Z
+originalUrl: "https://techwireasia.com/2023/10/why-are-foxconn-and-nvidia-building-ai-factories-and-together/"
+webUrl: "https://techwireasia.com/2023/10/why-are-foxconn-and-nvidia-building-ai-factories-and-together/"
 type: article
 quality: 39
 heat: -1
@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "US administration to further curb China's access to Nvidia AI chips"
+    excerpt: "The Biden administration will restrict shipments to China of more advanced artificial intelligence AI chips designed by Nvidia and other US firms"
+    publishedDateTime: 2023-10-19T16:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274004689/us-administration-to-further-curb-china-access-to-nvidia-ai-chips"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697685003957.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
     publishedDateTime: 2023-10-17T12:45:00Z
@@ -284,6 +298,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "+KIXLVAItLjXDmM10hUNN1oJvQBXv2Y+AnxlU4ADVRJ3+HVZ+Qogsojv1mLiDtGCBJuYZYFturZUIEKtgJfmnih6lppZMjX5sGf8AP1OzcFGe8Wrrp0j83v1s1bCY9Lj1dlrDws+k70QgxTaH4AStEteguho63Gm5G/rnJfj99DEixfTOnOLs7weIr4A8az7UyijmdPgci/MtO8ElxbPE0DHsSBzrOoqeqmwah5X10XI3voWRxI5Ju2Z92kx7DyBYhi7IOso9cBr9KXhTzh/mCWoIG4Ck38L9+LaSMjCD+uNeUQb/LSJBWkZ9VMbnxOW4bHzK8gOLCQeN96o/uBxTNCC1xIW6St/PCqz0IdRmQM=;VHK5Wan5YUWcMeEjr1GcRQ=="
+secured: "1BnbTB+/EElWt6YB4/7OxZxo+fS0RNvfVN+dnsTN8YPaxf76MgCdQ4zH/+EcCXVo/seYB0mmuOySZIUurlDnuvbyTNxSiMAUSlbeN5cbQivsU698IqciAAzhp0xqtPhjr7IK17doLizSNchccRX2m4hBxm9GN28fbxqI21XS/X9jZZwVY39k3vXV3CCWKTkagXprn4MqCKM5LDuY/33lG1/6mepI3zEn/QfDu7pTEnQCxyhwxXA5RFaXRzdtJzXfzF8sL0qzDiygxHsfCxR9WWayzWnlEed2rBIQB7UdFUHJRmk9ADMadybV5hRVbVmWQokIkmv5dJtCiEcRe2TFNrsTvhRVQvGfZLpKaCrE8Q0=;n4MaU5j2txWbj+ZCF0R8CA=="
 ---
 

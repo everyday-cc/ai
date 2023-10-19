@@ -41,6 +41,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI Demand for Nvidia Chips Keeps Rising. New China Restrictions Are Likely Just Noise."
+    excerpt: "Taiwan Semiconductor Manufacturing’s earnings commentary shows that demand for AI applications and Nvidia chips are improving. Nvidia stock should benefit."
+    publishedDateTime: 2023-10-19T17:38:00Z
+    webUrl: "https://www.barrons.com/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
+    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 66
+    images:
+      - url: "https://images.barrons.com/im-61078969/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "UeLYdctHtRKFh/cE5eYdDvkuyLeE1I+8tw6iTpSCv0ND9wdAVIQA+dOIBe1aRpog6mka7dXebcCg8FAOpH5Tyevm6BjrxQyMPJwIS3ThzGeM7zUC98zQaZIkTbKhYs/v+jHOGmzL9uBO75Xoj/xiP3S0xKSL10p+F/FOP60b5QA2FdUBnB7GkgDxWJtMUK38Qeb+tUxI7HaVQUwrLedF7XiO3r/WSctd43IqS4yjy0gZBxrbs+5pwNT0Re+2AOKJBkcKwm4h+dBhdZxnwV/LruzUZKfmALAIKLTGiy8H0yAf0NusAoMiE0tV/I38pwTfE5mRbDp4rgdoX/GaT0Ef+rBVO8Ym3tyIZdksfm3xUBo=;8qGcE8+WcPx8GhGxiwA9KQ=="
 ---

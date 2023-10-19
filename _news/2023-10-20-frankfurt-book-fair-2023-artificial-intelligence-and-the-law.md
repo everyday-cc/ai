@@ -1,0 +1,60 @@
+---
+category: news
+title: "Frankfurt Book Fair 2023: Artificial Intelligence and the Law"
+excerpt: "The law is usually reactive at best to questions of new technology. That’s still true with AI, but an extensive amount of work is underway to chart an applicable regulatory landscape, explains lawyer Duncan Calow."
+publishedDateTime: 2023-10-19T17:42:00Z
+originalUrl: "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/93463-frankfurt-book-fair-2023-artificial-intelligence-and-the-law.html"
+webUrl: "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/93463-frankfurt-book-fair-2023-artificial-intelligence-and-the-law.html"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: Publishers Weekly
+  domain: publishersweekly.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/104/104564-1.JPG"
+    width: 400
+    height: 511
+    isCached: true
+
+related:
+  - title: "TED AI 2023: A historic symposium on benefits, risks, and applications of AI"
+    excerpt: "Hosted by Anderson and entrepreneur Sam De Brouwer, the first day of TED AI 2023 featured a marathon of speakers split into four blocks by general subject: Intelligence & Scale, Synthetics & Realities,"
+    publishedDateTime: 2023-10-18T20:13:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/"
+    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tedai_2023-hero-800x450.jpg"
+        width: 760
+        height: 437
+        isCached: true
+  - title: "WSJ Tech Live 2023: Tech Leaders Warn Of Risks, Weaknesses Of AI"
+    excerpt: "AI’s impact on tech and entertainment to be a key focus for industry leaders."
+    publishedDateTime: 2023-10-17T21:25:00Z
+    webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa?mod=hp_lista_pos4"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-868527/social"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "dwovnSa7Zc21Q0U9p8N5xwA2nkor23jDSsSeR/lPlFT9QgMXIEjr/NJhLcv/biZbExdoCdyzKsedfMW4WGVOnlpkuewvFwjzZoyu82Wc/SE1RpmqmYJmwdOjAYHw48Lx82OU46ZC/tdSKNy1GkxLHEYt4uTYLt/WKK3UfSid/aGM8OV6SVNK9osZgTxQeXYUOqQ049pMWqC9JKuEw879cPnFvBQm4baruNZx6ivDAeCo4+sUZPqT4rgRmJoSBaftoV7L5V7zzZNCXmZ5gdKW5w8uWJrq7aWTZIYqn/a3e/7BbAiHzK+2McBkVs2Kedij/mFG5C1Rs6wr8pPdMPJ2MxoaNebR59EB+26VsKXGBLY=;POg38hadJhsepTiviCQxDA=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-machine-l
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
 type: article
 quality: 97
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "The Future of Applied Artificial Intelligence"
+    excerpt: "Software and consulting expert Andreas Erben pulls back the curtain to imagine a world where generative AI technologies reach further than today's capabilities."
+    publishedDateTime: 2023-10-19T16:52:00Z
+    webUrl: "https://redmondmag.com/articles/2023/10/19/the-future-of-applied-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/futurecity.jfif"
+        width: 647
+        height: 450
+        isCached: true
   - title: "How Small and Medium-Sized Businesses Can Thrive in the Digital Age Using AI"
     excerpt: "What if we told you that AI is also effectively transforming small and medium-sized enterprises in this digital age?"
     publishedDateTime: 2023-10-16T15:04:00Z
@@ -188,6 +202,6 @@ related:
       domain: businessinsider.com
     quality: 13
 
-secured: "p3kgo/3yi3BUmeE/9w2z7BzirA3xr4fzbWUGuPmhEtykdtdvWT0H2v4b7uLrEdrK+PG7q05h9WudbGptpyHj184U90NBTc2L01LYu4WNaBzN/N/7yPYhBa/Hq+BzBSAT7he6Eu0/QtpktLNPrW3fim4tUc5PRBDwVaK2yqQWQMNAT9RzldkLC9KILk4OMFbnMvXS0f4cY0fht+lkGAjhXI6WirX0Y4pWQ+0OpCkDbJTNrMLuKZLTKCSyOxXI3fgLrhTr1OsbmdDnNSOOLJh4y2WNKzSWGF6cEbX9FvCLgOOvWAibswIBiO/j/7DOn20tK7Tyzg3hGm/9GMF71R+J8Zt/nPuQ61/AvhfwO2GgEVo=;YCYcU+j5S2UL6R5daYd1VQ=="
+secured: "ic/4JlOq+DQ4tG/DsLaEJmg8xiZ1s/9O8VEppNDDSUz8JDNhmE47JxIlYdC8V8dPwGVbwx7W+7KAIAUGl2Bnu8icLQ1BsOSyOKM93h3oX7Wv9G+QjmVYk+AUdp0qjjCQWfKgPUz9NiPh6w672h/hwyoKof1mPEu7x4dSgVn2XBpe5W8LGOGchuKeIVJtxcz2iiV41ijYIqt9fBa95UzABnws1a7iKMwsoReD8lKqB90KlriQJBPAGxQOlTxxBzP0RhZeYp1FAxg083BFcrsWvxyE9yk+JP7HTzwKkTdIUWIN/taskuVS7M9lo1o+6tNkuqtCNFNhM6iDEnuDHoZ1pNnqoFZdDANhJlHDaco012js8DqhAVcS/yk72yRhTEhhtrA3YDxdqyVAzEx1chc7AdzhQiNgqACWX9Is4TAu2VDHUVd7D4euyJIkqabPg6ZaHR8xK86DcQCzJkPeCjxQYBEVTFgmQeprXUX1sDhe/9kX/8ytyBfPFp2lyqcbYBcA+YOhH4LDU7Yl0I/g/Y6apA==;lB4wwqyRjAmKlAyI4Bp8EA=="
 ---
 

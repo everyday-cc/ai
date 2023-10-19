@@ -36,6 +36,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
+  - title: "GM, Cruise, Honda joint-venture to launch self-driving ride-hail service in Japan in 2026"
+    excerpt: "The service will launch with the Cruise Origin AV shuttle built at GM's Factory Zero Detroit-Hamtramck Assembly Center."
+    publishedDateTime: 2023-10-19T17:01:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/10/19/gm-cruise-honda-to-launch-av-ride-hail-service-in-japan-in-2026/71240199007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 10
   - title: "Honda unveils electric, self-driving lawn mower"
     excerpt: "Honda, which is getting out of the gasoline-powered mower business, unveiled an electric self-driving replacement that can be controlled by a tablet or smartphone."
     publishedDateTime: 2023-10-15T04:00:00Z

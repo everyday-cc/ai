@@ -66,20 +66,6 @@ related:
         width: 2309
         height: 1299
         isCached: true
-  - title: "A dip into Artificial Intelligence (AI)"
-    excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
-    publishedDateTime: 2023-10-15T00:35:00Z
-    webUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 56
-    images:
-      - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "hOJpbPFM1ZH+v6nmt/TeDYlUaFS+RMchPuhXFjEzVp/kn01dWPwS2e1Fz0BvcSmyOZCAWxrF48UoYNPbSEC6N2oJ15Da9m63h84aKdsJWaIPWUrj2baYQde2XLf8PKJwuvd9gim8vnagkErPYvdIUSInVBfxEgF+WlJavQ/g0/G0AuwVCP+wkW9PGinBdGAghUfHzxlYINzpYb7WlNTS2yK5vmXZONkXvlwNx97BNhvtJ0Sazi6re+b9XDwhVHhEuDSXbKhhzWeoxkXUT8n6w8YiYBGtAzgOQNAoPBHrBINgp9jENzgsE0fRNQaskAtrnipeYjaLQci6Vv9CUJMe1wXFm/cjP7AyMlYfMP4dBQI=;8Dzf6HaFrUo6qemceu3WPw=="
 ---

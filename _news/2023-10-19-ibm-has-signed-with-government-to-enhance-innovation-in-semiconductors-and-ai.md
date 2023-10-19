@@ -51,6 +51,20 @@ related:
         width: 800
         height: 455
         isCached: true
+  - title: "IBM to help India advance in AI, semiconductors, and quantum technology"
+    excerpt: "IBM announced three MoUs with three Indian entities to help India in semiconductors, AI, and quantum technology, three areas vital to India's ambition as the South Asian country is eager to stay in the game in the global technological competition."
+    publishedDateTime: 2023-10-19T02:05:00Z
+    webUrl: "https://www.digitimes.com/news/a20231019VL200/ai-chips+components-ibm-ic-design-distribution-ic-manufacturing-india-it+ce-memory-chips-passive-pcb-other-ic-components-quantum-semiconductors-server-ipc-cloud-computing-iot-south-asia-technology.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231019vl200_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Pocketnest announces AI project with Google, IBM"
     excerpt: "Pocketnest, the female-founded financial wellness platform, announces the official kickoff to its biggest product release yet, focusing on artificial"
     publishedDateTime: 2023-10-18T12:30:00Z

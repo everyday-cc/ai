@@ -44,6 +44,20 @@ related:
         width: 760
         height: 437
         isCached: true
+  - title: "Frankfurt Book Fair 2023: Artificial Intelligence and the Law"
+    excerpt: "The law is usually reactive at best to questions of new technology. That’s still true with AI, but an extensive amount of work is underway to chart an applicable regulatory landscape, explains lawyer Duncan Calow."
+    publishedDateTime: 2023-10-19T17:42:00Z
+    webUrl: "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/93463-frankfurt-book-fair-2023-artificial-intelligence-and-the-law.html"
+    type: article
+    provider:
+      name: Publishers Weekly
+      domain: publishersweekly.com
+    quality: 52
+    images:
+      - url: "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/104/104564-1.JPG"
+        width: 400
+        height: 511
+        isCached: true
 
 secured: "pw29KuZdXIl3+sVq8yQ40AW8CnpvebyUtLQPWeu6lf0irfH3MTGan5Ry2cieQu8yQgKTfc5aI9P6VMCt7V51ezgG1Pg1MzBRBjVv56EHAWysnh7eFe9aqR29OnAlRYAdNsYuUi4NKYKb5Bp82g3eMrIkYqGfR6qqkZa9kZzkDAFLIxbDKTo9Nsc5VnPjpNpNIL2RMFfFzmR0tYK78qLxZXz5Jxh1kwQbbiZGgdg5SV8ds9FzjqasAR27gaEY/A+fnGKytVUaVcA5f6r/du7KtBN86XT+8ljS0WghTKO2lS+XWrUD2qDlaYy3JeSzhSiF7Z15qM6JK4FoYWUkfkptzlB75EAnGqZVTn58fzELdGM=;oIXHq9HwhLNmFviLZyGRWw=="
 ---

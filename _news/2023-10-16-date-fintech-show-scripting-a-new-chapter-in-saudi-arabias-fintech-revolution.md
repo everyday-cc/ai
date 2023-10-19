@@ -105,6 +105,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "NinjaHoldings Adopts Sparkling Logic SMARTS™ to Deliver Revolutionary FinTech Solutions for the Underbanked"
+    excerpt: "Sparkling Logic SMARTS™ is a modern, enterprise-level, application-agnostic, decision-management platform that enables non-technical analysts and SMEs to easily manage business-critical decisions, whether explicit or AI-driven, with minimal IT resources."
+    publishedDateTime: 2023-10-19T16:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902292.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
 secured: "sqWw5va/x/BFpQqUTlb56bozlcKm17YN7Ta6emPvpnG+lHIwHBxNac1QSnAr4aAgspvEzx2zkBQwMJVA4HitZZeZyrqnd7nPHTz2ydaBjVNTOvnKKCuZBctldp2R7ooAUlsGhZdubqNQM3+yPhhASv5vnRdGbvzsfJxV/TZK9Hu5wdap6JApptI+rITPDrvpUC7XfJFch2sRfsJYPpHVDpLdNNB8sNzAQMGEo3GWVCdaw+lZXeBgJHKp9IPczF2cTHUkZK60uR8k/yf8mXdUtiA/+SwlS3DQXX6khmjdVh0XrZkp2VL9H64Sj+G2gD+Brnw1jAX2xfk3xxChJPP/HxAsfhI/EQu8HXhB2rvCmWd27T+oD2pBOAFYwZLjtsxTIidsxT+8cr/8MP3iKliwy9vRtDntDXwXj3rG3HmL4+/2zLo10rxjOIZ216g3B46ztvW1NP/lNzN7CSki7xLBguzgSgKFRQ42gCs2ohDa/Q+klucOl+m3oAbChMfw5sLQk65OqWyT4ojVH3w3wZFs2w==;WIyuvkrp8wORHbs4MWPUJQ=="
 ---

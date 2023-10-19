@@ -44,6 +44,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
+  - title: "GM, Cruise, Honda joint-venture to launch self-driving ride-hail service in Japan in 2026"
+    excerpt: "The service will launch with the Cruise Origin AV shuttle built at GM's Factory Zero Detroit-Hamtramck Assembly Center."
+    publishedDateTime: 2023-10-19T17:01:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/10/19/gm-cruise-honda-to-launch-av-ride-hail-service-in-japan-in-2026/71240199007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 10
 
 secured: "gAzxbhL00Y7+Ghqh1fi5t1xZ20y5WmX94evMyFvnYu46iEIc2j/d45r/QNDamgcu/3CkPTm/40LWdItmUIWA4zG4YtnKrBSSuJLPIMcGCHj1yV0VniPZKoW55szcnNfDRdTK34uf3zf36Dxnip9ifJoK597+621rNBAeYCeaxsS/v4pwM/i12zdeHtJEgepIy1E9E03XIZmNoEPWNkxV3phGikHqfEmax8t9Igv4oxZI7xkhavZcjjFuFmuYzxdvGnR7/6sC/jQPxjFCpT1eLlay6Khbvb0r44M2Kp+Fvol+a+s5C7TwCVi0ZDGbdiqvrWUBj8XKya6REcfj2LcFx2IcLjsjPYd+ypZYsDafizM=;QfhMOwItFPecrAmnVNHdrQ=="
 ---

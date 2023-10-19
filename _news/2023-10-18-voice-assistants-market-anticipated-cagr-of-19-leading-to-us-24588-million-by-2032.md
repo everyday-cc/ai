@@ -40,19 +40,14 @@ related:
         height: 663
         isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market Size to Grow USD 1695.5 Million by 2029 at a CAGR of 16.4% | Valuates Reports"
-    excerpt: "The Artificial Intelligence (AI) in Agriculture Market is Segmented by Type (Machine Learning, Computer Vision, Predictive Analytics),"
-    publishedDateTime: 2023-10-19T14:15:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-agriculture-market-size-to-grow-usd--1695-5-million-by-2029-at-a-cagr-of-16-4--valuates-reports-301962190.html"
+    excerpt: "The global Artificial Intelligence (AI) in Agriculture market was valued at USD 681.7 million in 2022 and is anticipated to reach USD 1695.5 million by 2029, witnessing a CAGR of 16.4% during the forecast period 2023-2029."
+    publishedDateTime: 2023-10-19T14:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902179.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "HChRS7e1JAilxBOokMyFZHTM6jQo3tJA3hAI+KwVFJjIBdcBt3KMf89RCTZIWg/Jpci2Jkg9wSXzEQRmELokwXbg13OmkzHFp67yOij9REY+9v/bdlRwpFawnPQTrKHy2AKCAQGIHPzlOS047D1+VqBKhAjfHSNvlye+RDq4AsLfnB5vwH2oRlnMj6eoEOsRcHkEdYdWD5BUW5hY4wE3Ydt8muw8YXMvX7hvxPBbRhBKdGbAMHHI7vYOCFa11qkLdhpiE0ie8LOehyvlJ1nW36fJzH+AIEDkTRFN408A4T9Nve6Vf9PPIDq8pbV0BkhR9Yv1O2UQFbkj28YUUXJnoK0jRa9qqogg1yUzAX1zoG4=;b82bUqZocvstK4kx33zZIQ=="
 ---

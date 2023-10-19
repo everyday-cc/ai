@@ -30,45 +30,59 @@ images:
     isCached: true
 
 related:
-  - title: "Why Your Strategy For AI Might Be To Not Do AI"
-    excerpt: "Choose a problem that actually needs AI. Avoid having a solution (AI) and trying to find a problem to solve. Identify problems or opportunities that your organization has and assess whether AI is the right tool for the job. This way you focus investment and prevent over-engineering costly solutions."
-    publishedDateTime: 2023-10-19T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/"
+  - title: "Ampere Makes A Strong Case For On-Chip AI"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives into Ampere’s Altra and AmpereOne CPUs and their compelling value proposition for certain AI workloads."
+    publishedDateTime: 2023-10-19T17:21:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 106
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64f8a268fc523a513586eae0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1201
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6531665c3f2160c1e04b2d4d/0x0.jpg?format=jpg&crop=1024,576,x0,y159,safe&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
-  - title: "Keep Your AI Projects on Track"
-    excerpt: "AI—and especially its newest star, generative AI—is today a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity."
-    publishedDateTime: 2023-10-16T16:00:00Z
-    webUrl: "https://hbr.org/2023/11/keep-your-ai-projects-on-track"
+  - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
+    excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
+    publishedDateTime: 2023-10-19T11:00:00Z
+    webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 46
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23063_MYERS.jpg"
-        width: 2400
-        height: 1350
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "How to Prepare Your Child for an AI-Driven Future"
-    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
-    publishedDateTime: 2023-10-17T19:37:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
+  - title: "Why AI Is Forcing Startups To Chase a Mirage"
+    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
+    publishedDateTime: 2023-10-15T07:46:00Z
+    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "US eyes AI chip curbs for Chinese units"
+    excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
+    publishedDateTime: 2023-10-16T07:52:00Z
+    webUrl: "https://www.semiconductorpackagingnews.com/news/83632.html"
+    type: article
+    provider:
+      name: Semiconductor Packaging News
+      domain: semiconductorpackagingnews.com
+    quality: 34
 
 secured: "jc9w/rMOa+0dwagi5eluy0VAGITKRMyeAdP6J3mhm5m8nbKYUZAhxosBwxCNFTX5saaJRUVOs3oXZONzz0ToZBDIOYLfEQix6o1SE4+JkyEeNirXM6D38AGTJq4kk1g+SMGCx4/bacJa98tBRZ1/IuH7gyx9us0dyWGWIHDt7OBYXS5FWen6VaFZvPXrP1LZrE0ndtaU2rLcJBWuQF74KbuHuf4/t1B3fVpowCwWchdpV9Ke5TkndeclwVMoP5xe6HQ/U3z6XCYnIaUzOQKYOBjACmofu/a7zt0nDr9Zf409dVW+nSVTYlAwle8ne+ezhwHVZTNgq0EXaUqcbSWoxfByEF+3e2x/nxVeUSaUbsJ2IKHZZQWmfAlGMa8ZSm8o3WHekeoF9MZt6YSxzbyDI3TR4FVHpXROV6cMZjHbb6yAAoy6LJwgxAzWGLn2vbMRgXkDpHkjovQF5MPKi9f/AjqWy1B2Nvhps7UESnz2/fOTo0TBIUqdeWItJMhxb4gIf2T7lgC3tgJWcWOMzlPltg==;Zb7yjRT/dJkFa1dgpyuwDQ=="
 ---

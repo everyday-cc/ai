@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/organizations-are-fighting-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
 type: article
 quality: 98
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Seeing the magic of artificial intelligence applications in ophthalmology"
+    excerpt: "We all know, by now, that Artificial Intelligence (AI ... In fact, we are among the early adopters of AI for health care, and some of the key uses are: Retinal disease diagnosis: AI algorithms can analyse retinal images, such as fundus photographs and ..."
+    publishedDateTime: 2023-10-19T16:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 58
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/fuy8sm/article67439978.ece/alternates/FREE_1200/PTI12_6_2014_000132A.JPEG-01abc.jpg"
+        width: 1200
+        height: 1594
         isCached: true
   - title: "World Health Organization Addresses AI In Healthcare Bias, Outlines Guidance For Regulatory Compliance"
     excerpt: "World Health Organization (WHO) has unveiled a comprehensive publication highlighting critical regulatory considerations for harnessing the potential of"

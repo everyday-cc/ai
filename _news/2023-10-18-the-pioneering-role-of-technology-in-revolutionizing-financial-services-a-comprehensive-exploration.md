@@ -97,6 +97,15 @@ related:
         width: 421
         height: 250
         isCached: true
+  - title: "NinjaHoldings Adopts Sparkling Logic SMARTS™ to Deliver Revolutionary FinTech Solutions for the Underbanked"
+    excerpt: "Sparkling Logic SMARTS™ is a modern, enterprise-level, application-agnostic, decision-management platform that enables non-technical analysts and SMEs to easily manage business-critical decisions, whether explicit or AI-driven, with minimal IT resources."
+    publishedDateTime: 2023-10-19T16:26:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902292.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
   - title: "DATE Fintech Show: Scripting a new chapter in Saudi Arabia’s Fintech Revolution"
     excerpt: "DATE Fintech Show, co-located with DATE AI Show, will be held on December 11th and 12th, 2023 in Riyadh bringing together leading financial experts, policymakers, investors, and innovators to come together and chart the course of Saudi Arabia’s Fintech revolution."
     publishedDateTime: 2023-10-16T13:12:00Z

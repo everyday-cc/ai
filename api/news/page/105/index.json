@@ -2,6 +2,126 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2023-08-05-explainer-regulating-artificial-intelligence.md",
+      "title": "Explainer: Regulating Artificial Intelligence",
+      "excerpt": "Cyient announced that it has collaborated with Microsoft to establish \"EnGeneer” Center of Excellence (CoE). The Telecom Regulatory Authority of India (Trai) recently published a set of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/",
+      "originalUrl": "https://www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/08/1-46.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-explainer-regulating-artificial-intelligence-3200655/lite/",
+      "publishedDateTime": "2023-08-04T23:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai.md",
+      "title": "Air Force Research Laboratory touts first successful Valkyrie flight powered by AI",
+      "excerpt": "The Air Force Research Laboratory (AFRL) conducted its first successful flight of a Valkyrie jet controlled by artificial intelligence (AI) last month, the Air Force announced Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/",
+      "originalUrl": "https://thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/4138280-air-force-research-laboratory-touts-first-successful-valkyrie-flight-powered-by-ai/amp/",
+      "publishedDateTime": "2023-08-04T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-05-uw-researchers-develop-ai-tool-for-therapy-healthlink.md",
+      "title": "UW researchers develop AI tool for therapy: HealthLink",
+      "excerpt": "SEATTLE — From ChatGPT to AI-generated images, artificial intelligence is in the limelight ... researchers have been developing AI programs as a form of behavioral health therapy, but they are by no means the typical chatbots. One of Althoff's projects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kgw.com/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
+      "originalUrl": "https://www.kgw.com/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kgw.com/assets/KING/images/72818523-77d0-42d8-8788-dc72d25648b3/72818523-77d0-42d8-8788-dc72d25648b3_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kgw.com/amp/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
+      "cdnAmpWebUrl": "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/health/uw-researchers-ai-therapy-healthlink/281-a9698d4d-40ad-4349-aa3b-60da0bffe961",
+      "publishedDateTime": "2023-08-04T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KGW8",
+        "domain": "kgw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-05-the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that.md",
       "title": "The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That",
       "excerpt": "The AI data sector, worth over $2 billion globally in 2022 ... In the neighboring villages of Alahalli and Chilukavadi, one Indian startup is testing a new model. Chandrika works for Karya, a nonprofit launched in 2021 in Bengaluru (formerly Bangalore ...",
@@ -1041,134 +1161,6 @@
       "topics": [
         "IBM AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-cmmss-help-medical-facilities-thrive-in-the-face-of-labor-shortages.md",
-      "title": "CMMSs help medical facilities thrive in the face of labor shortages",
-      "excerpt": "A CMMS can help hospitals and other medical facilities bridge the asset management gap while the industry waits for the workforce to catch up.\nThe post CMMSs help medical facilities thrive in the face of labor shortages appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cmms-healthcare/",
-      "originalUrl": "https://www.ibm.com/blog/cmms-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T06:06:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-deep-learning-for-new-protein-design.md",
-      "title": "Deep learning for new protein design",
-      "excerpt": "Deep learning methods have been used to augment existing energy-based physical models in 'do novo' or from-scratch computational protein design, resulting in a 10-fold increase in success rates verified in the lab for binding a designed protein with its target protein.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/08/230803213837.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/08/230803213837.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives.md",
-      "title": "Data democratization: How data architecture can drive business decisions and AI initiatives",
-      "excerpt": "Learn how data democratization simplifies the data stack, eliminates gatekeepers, and makes a comprehensive data platform more accessible.\nThe post Data democratization: How data architecture can drive business decisions and AI initiatives appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/",
-      "originalUrl": "https://www.ibm.com/blog/data-democratization-how-data-architecture-can-drive-business-decisions-and-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-04T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

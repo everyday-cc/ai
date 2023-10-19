@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
+    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
+    publishedDateTime: 2023-10-19T16:13:00Z
+    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
+    type: article
+    provider:
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 34
+
 secured: "+5J59XTv/jNqZ5G0dAD/xZJ/ftM3YCeRkl0lM6apxuLMs3QUjsqBxjbCoApkWxtEnSSe35yqPLA2hXRUin5Y9e3CV18B0NdRSVIfmf82w5sI+/nsgcktmnJBDMg+/58p+ITxLTqGI1V55LkQOEKlqJn75I2L8qQ+So3t/XloCHZeDJJOnrrInivdQfTDoTswx9/WVrWNW9G03KnhSDyFf/4VGsHVAUmFtR9ECzPmWgTzMTh2HX+xQU6H1aUA7iYXWzzQuIBzStPvHqRzLlidmjj43lNoH1MAR0Egmd57lFXNqzOH4lJoMgwR6IOVxvNGvllXDAeWkz0SwsxXMtPG9tSJrjWRDomlJuJqSkub0A0=;/cXzCMC0zccnsYbBO9Me5Q=="
 ---
 

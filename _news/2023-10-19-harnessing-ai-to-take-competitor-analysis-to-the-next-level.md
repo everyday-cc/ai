@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessin
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/652ff4358de9dfa9761ca6a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -40,6 +41,6 @@ related:
       domain: usatoday.com
     quality: 17
 
-secured: "/Ye+/c417vuzn+HZkvf1hTTrAnFjJFxQWFiW9SB5ZpVRZ+7nCjGkHaXuLElCFqOBXG3CgjKKZD1s5VtciExmCKvzn5ZelXt8fHiz2XNIzDyH/FXszBfxA+WnBKno3Dycf+NwmxSwFjY1KA5UNWQIU+A60FG8rcz4aIyqxVAWG1eAFDpTSg7omfp7MzUUnHegQb+Dw+4ZL0q6OU9bBmkoPRjj6q/1YlYgz+3nka+BPLrEWUhjd55EsoUf7KfS0HBJuhfNVlEuYJYVozrkEqUAfheRNRO7UK9V4mgCx0bZTQXJUzQjW6rBgUUYXpyzOuvLbWjN29eXuHwobeT79MClqIehsrLEfWs8LmO8xkHJRlY=;0WAT8hP9VNwa5/LWQre/nQ=="
+secured: "i+bC+igDFUCgoFSpFVv2hga7QP/6TTZD/qXTVFghlsGu3L+LMtGmTzohQQTQhlOfdaYd5got58I3CxoawLEHVH3PLJ7RoizUs97ybA5hRAGSGfA+EGwvz3DxIpagnCe08UrnrF5Tny2+OXPMfKnBNhf8Jn4l1qLdqBgHOZnM3B+22Wwcz1wMmblqIw0Q9S1GkLkOPnMmjizXuMbAjQCf8jZ0z52Pxu8cKKw+jvQ7hZif94qBnOBATftq3O9O6VJqWy5ZSsdQ9Q6gGxbPMGiapA5VwfgoH5J2DF+b0RAzLO4UnKXdANpz22/nWJG5cAK3bX/He76izFH5AkIqibVaCjYWcH+N4gc/ZHAuuw2ILteE0qdoq3TdGhQ997AnJujwxJOutq/Bjh96UluzcUVD6NUQVp4reO72TJse4tu9760f2ocC5zfAPHzRjzZdJMIuAthIafI+ss99c7Ftm6ML2Zztsip1AQ7jP3LPi6ta1g21m/MZcIyqB1wW/2BsodF++Q9KYop5OkO374kPPsstLw==;5aL+Galnk30XWr3K021fmQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.elektroniknet.de/international/ds-automobiles-integrat
 webUrl: "https://www.elektroniknet.de/international/ds-automobiles-integrates-chatgpt-with-speech-recognition.210577.html"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Google denies Bard was trained with ChatGPT data – The Verge"
+    excerpt: "By Sean Hollister, a senior editor and founding member of The Verge who covers gadgets, games, and toys. He spent 15 years editing the likes of CNET, Gizmodo,"
+    publishedDateTime: 2023-10-19T15:59:00Z
+    webUrl: "https://www.inferse.com/762926/google-denies-bard-was-trained-with-chatgpt-data-the-verge/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 39
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12838.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "GKgHbaHWYFNhF5EUf6OFyBW1dmiKIkFHXSbSothpnBrj4GFVcKtw6TDVLaAHBSpDyceDbMdCRishsAkheOaaMRYlD707MoJn/0mHHEoQSXfLMgB3cbTsWtg+WIJgM/lYN+SJ+03baThu5D6l7mhiigThJcnoEaHSVmwUp7OYNPDxccYAcBpDQFXazzEEa9G/KORmKTijkJKcRmNpM4L4WGGJ/HcPiWWcvwS7vmK3BDth3Kqj+aYVnAYutgzQEjn23i6lQhblMNDnBwDP+hon69UQqm8mcnYQP2ObC1Kcvq/Qd7EQX4KSyX6B8N7MlUAK1WiK47rtQKjnwdUKAY1ugq9AFT1RJIWJUoMqAp+mBN45ZycGAiJp904j55RRUZubMu0QXnND8w5bJhLQna3pr2S5uW/9xvXwtwT1CP00TQv18mRC3aCbSOYnWyfR/NYBXz4etSnnR32Ycwo3B/Dqb0zUTRKoJCG0NNCyNC1skoabZb6IhHHFzkeEE8PT2wK4HTDKMeMecWIAppxsrJ9AJQ==;Ss3+eneSMRt3tTYUOd1rmg=="
 ---

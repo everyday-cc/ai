@@ -165,6 +165,20 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "The Future of Applied Artificial Intelligence"
+    excerpt: "Software and consulting expert Andreas Erben pulls back the curtain to imagine a world where generative AI technologies reach further than today's capabilities."
+    publishedDateTime: 2023-10-19T16:52:00Z
+    webUrl: "https://redmondmag.com/articles/2023/10/19/the-future-of-applied-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 37
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/futurecity.jfif"
+        width: 647
+        height: 450
+        isCached: true
   - title: "How data and artificial intelligence are giving rugby fans the advantage"
     excerpt: "TVBEurope speaks to the team at Oval Insights to find out how their machine learning models are helping to enhance the broadcast experience for rugby fans"
     publishedDateTime: 2023-10-19T13:09:00Z

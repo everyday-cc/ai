@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "AI tidies up Wikipedia’s references — and boosts reliability"
+    excerpt: "A neural network can identify references that are unlikely to support an article’s claims, and scour the web for better sources."
+    publishedDateTime: 2023-10-19T16:53:00Z
+    webUrl: "https://www.nature.com/articles/d41586-023-02894-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-023-02894-x/d41586-023-02894-x_26199164.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "3+b/dgecwQQ0Lx9y+D+0cPJXRdHqSx2yLU0iA3VPX4zHRWKELY56TefOZImcXzYkhyZSUl8GszIlVvYNEBfCFplD7ZjlcGhR/Ynyqi+XHu4fyGt0zlFFT8aVKwwylMnVRkukJJ4qQ0tt0uoseilbq3wnH1fkJvT+OoEQlMGEukQbPbNDhSmfwNvSvU9x0P9SnIet0vUt1SfZp1WTM8Q9PrLmlgalUpRxvvqw6+TiNBHOJC1jzW/m9sNTjqT4+HU81cgZaEBjp1TNni4001Gmi3EPTeFLfj2kkogRcXZOOGnA5iZ6PrzmZH0t1bgjT/FUhBMwUavn+I2ynQWYrOIsLKEv66mg2bu8s+ZJx2xOHWo=;0O0cNQU4Ohe+XD+PrA5x5g=="
 ---
 

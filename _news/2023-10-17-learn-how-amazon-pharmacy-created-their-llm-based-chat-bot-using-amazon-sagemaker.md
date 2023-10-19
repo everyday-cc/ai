@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-pha
 webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-pharmacy-created-their-llm-based-chat-bot-using-amazon-sagemaker/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -23,6 +23,20 @@ topics:
   - AWS AI
 
 related:
+  - title: "Automatically redact PII for machine learning using Amazon SageMaker Data Wrangler"
+    excerpt: "Customers increasingly want to use deep learning approaches such as large language models (LLMs) to automate the extraction of data and insights. For many industries, data that is useful for machine learning (ML) may contain personally identifiable information (PII). To ensure customer privacy and maintain"
+    publishedDateTime: 2023-10-19T16:57:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 100
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/11/sagemaker-pipelines.png"
+        width: 811
+        height: 422
+        isCached: true
   - title: "How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints"
     excerpt: "Veriff is an identity verification platform partner for innovative growth-driven organizations, including pioneers in financial services, FinTech, crypto, gaming, mobility, and online marketplaces. In this post, we show you how Veriff standardized their model deployment workflow using Amazon SageMaker,"
     publishedDateTime: 2023-10-16T19:30:47Z

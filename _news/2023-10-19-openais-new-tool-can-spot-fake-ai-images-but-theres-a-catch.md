@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-i
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp"
 type: article
 quality: 87
-heat: 177
+heat: 157
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes – NBC News"
-    excerpt: "ProfileSectionstvFeaturedMore From NBCFollow NBC NewsA man arrested in the killing of a Baltimore tech entrepreneur was suspected of raping a woman days"
-    publishedDateTime: 2023-10-14T23:27:00Z
-    webUrl: "https://www.inferse.com/753933/openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes-nbc-news/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 45
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8584.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
     excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire"
     publishedDateTime: 2023-10-17T14:01:00Z
@@ -105,20 +91,6 @@ related:
       - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-11089.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Check out OpenAI's other cool AI tools: DALL-E, Whisper, Codex – Business Insider"
-    excerpt: "But the startup behind it, OpenAI, has other AI products too. Just months earlier, OpenAI removed the waitlist for its generative AI art generator, DALL-E, which grew to over 1.5 million daily users."
-    publishedDateTime: 2023-10-14T23:43:00Z
-    webUrl: "https://www.inferse.com/753954/check-out-openais-other-cool-ai-tools-dall-e-whisper-codex-business-insider/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 32
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8593.png"
-        width: 1024
-        height: 512
         isCached: true
   - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
     excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."

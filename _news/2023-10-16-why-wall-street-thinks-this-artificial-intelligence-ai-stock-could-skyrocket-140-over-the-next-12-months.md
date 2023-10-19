@@ -56,20 +56,6 @@ related:
         width: 2309
         height: 1299
         isCached: true
-  - title: "A dip into Artificial Intelligence (AI)"
-    excerpt: "In Lanka’s bosom where the trade winds sigh/ A story unfolds, in nature’s embrace, Amid the palms, ‘neath the cerulean sky, / A vivid tapestry of time and space. Jasmine whispers perfume the warm air."
-    publishedDateTime: 2023-10-15T00:35:00Z
-    webUrl: "https://island.lk/a-dip-into-artificial-intelligence-ai/"
-    type: article
-    provider:
-      name: Island
-      domain: island.lk
-    quality: 56
-    images:
-      - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "UMG and Bandlab Form Strategic Relationship On Artificial Intelligence (AI)"
     excerpt: "Universal Music Group (UMG), the world leader in music-based entertainment, and BandLab Technologies, the parent company of the world’s largest social music creation platform, BandLab, today"
     publishedDateTime: 2023-10-19T00:16:00Z

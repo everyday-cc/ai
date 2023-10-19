@@ -2,11 +2,13 @@
 category: news
 title: "Microsoft's new AI assistant can go to meetings for you"
 excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-publishedDateTime: 2023-10-18T17:35:00Z
-originalUrl: "https://www.aol.com/news/microsofts-ai-assistant-meetings-173508564.html"
-webUrl: "https://www.aol.com/news/microsofts-ai-assistant-meetings-173508564.html"
+publishedDateTime: 2023-10-18T23:13:00Z
+originalUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
+webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
+ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
 type: article
-quality: 56
+quality: 76
 heat: -1
 published: false
 
@@ -212,6 +214,20 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "How Microsoft’s new AI will save you time and energy"
+    excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."
+    publishedDateTime: 2023-10-19T16:43:00Z
+    webUrl: "https://rollingout.com/2023/10/19/microsoft-new-ai-save-time-and-energy/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 56
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/10/0056238001570442327-135.jpg"
+        width: 1000
+        height: 650
         isCached: true
   - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
     excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
@@ -439,6 +455,6 @@ related:
       domain: inferse.com
     quality: 29
 
-secured: "FAv5FEd5MfjiGRMBrku3kjVQSfRzDB7wREu4EhcjslUk0aCEc4y0j48FATYfhpbLco/HGeara2rkHX2dxMnb23NTpDDAsQseKH6mjOWTJ0gOrs7lMs6Nnat7osoBF/yQDZ+ChtrK87PbNr4EiSaZc4Kn0jfJjBR9dwJwjMyjjJIPhhH3daAfbkYn/qf0njxEjLsfGVIO1q8R0Q6qmCtXh4szZDK7Gozfe28lBRHRa9aTC+pbZ8n+wYhxHvSfaaGb4ilTaaDDV7STlIiXnMqNNQpQKV2UhP2r34BcFeThhmpVGjVZF4axIu+Tiyy2L+rmkeJwxQv2nGiaua7m71bLQUR2COKoP8TCyi0DdzZ8lJQ=;pfz46iwaCuaUDhU+hnf8MA=="
+secured: "uhWejdfShGRWQi0y4zIDZ2xG28WB5w4oJIbrd3dJsAiZtfQM5YhLYSHSmcXaCQlG+hDSB+1zwgN3Ka2t/c64ja6LWLDSR1JKgwrWgLha1/Eluybxtfz5sS7WgmrsBmaYOTnU9Fv4ZgQB/9uXTQ458elh8I4Mk/EHw4Pwt1YOU8y5K+Wy7Lrh129VsP/Ar/4wxqbHvuOzRaGFp8mxF2XQ7/OuNZZMBpR71CPUgq5F6DRxftCFjISWX4x3KXwOzIDiqG12jfOyQeYcl8lPyHBOwglAUPak/Dt3LCErJY7d8dP0IHzVmyEfYYDBxAje/q5Tcjt8Z5lRIiI1DflCu3ZigDjP9vgEtG0iqHk8Sqn1Qws=;tQeAkV6xgtKNoN22nzg7XQ=="
 ---
 

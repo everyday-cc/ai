@@ -59,6 +59,22 @@ related:
         width: 928
         height: 511
         isCached: true
+  - title: "Microsoft's new AI assistant can go to meetings for you"
+    excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
+    publishedDateTime: 2023-10-18T23:13:00Z
+    webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
+    ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 76
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
     publishedDateTime: 2023-10-17T13:54:00Z
@@ -202,19 +218,19 @@ related:
         width: 1043
         height: 1043
         isCached: true
-  - title: "Microsoft's new AI assistant can go to meetings for you"
-    excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-    publishedDateTime: 2023-10-18T17:35:00Z
-    webUrl: "https://www.aol.com/news/microsofts-ai-assistant-meetings-173508564.html"
+  - title: "How Microsoft’s new AI will save you time and energy"
+    excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."
+    publishedDateTime: 2023-10-19T16:43:00Z
+    webUrl: "https://rollingout.com/2023/10/19/microsoft-new-ai-save-time-and-energy/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: Rolling Out
+      domain: rollingout.com
     quality: 56
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
-        width: 1200
-        height: 675
+      - url: "https://rollingout.com/wp-content/uploads/2023/10/0056238001570442327-135.jpg"
+        width: 1000
+        height: 650
         isCached: true
   - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
     excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"

@@ -42,6 +42,20 @@ related:
         width: 1782
         height: 1002
         isCached: true
+  - title: "Bill seeks to curtail police use of facial recognition in Massachusetts"
+    excerpt: "Lawmakers in Massachusetts are now considering a bill that would make changes to how police can use facial recognition technology over concerns about inaccuracy and the potential for racial discrimination. Right now, law enforcement officers can use facial ..."
+    publishedDateTime: 2023-10-19T17:32:00Z
+    webUrl: "https://www.wgbh.org/news/local/2023-10-19/bill-seeks-to-curtail-police-use-of-facial-recognition-in-massachusetts"
+    type: article
+    provider:
+      name: WGBH
+      domain: wgbh.org
+    quality: 54
+    images:
+      - url: "https://cdn.grove.wgbh.org/dims4/default/489f10e/2147483647/strip/true/crop/4809x2525+0+541/resize/1200x630!/quality/90/?url=https%3A%2F%2Fk1-prod-gbh.s3.us-east-2.amazonaws.com%2Fbrightspot%2F91%2Fd7%2F2b55b27adaaf9fa4910337ed594d%2Fap-090924084479-dd99ed635a564f15e9032da012a9a5e7dab3538c.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Telpo launches self-checkout terminal with facial recognition option"
     excerpt: "The terminal utilizes artificial intelligence and computer vision to automatically identify objects during the checkout process."
     publishedDateTime: 2023-10-16T21:32:00Z

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Supermicro Unveils New GPU Systems with NVIDIA GH200 Grace Hopper Architecture for Advanced AI Infrastructure"
+    excerpt: "Supermicro, Inc. is announcing one of the industry's broadest portfolios of new GPU systems based on the NVIDIA"
+    publishedDateTime: 2023-10-19T16:26:00Z
+    webUrl: "https://www.datanami.com/this-just-in/supermicro-unveils-new-gpu-systems-with-nvidia-gh200-grace-hopper-architecture-for-advanced-ai-infrastructure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/10/Super_Micro_MGX_1080-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "RETRANSMISSION: HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers"
     excerpt: "Detailed price information for Hive Digital Technologies Ltd (HIVE-Q) from The Globe and Mail including charting and trades."
     publishedDateTime: 2023-10-18T05:06:00Z

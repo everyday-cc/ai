@@ -40,22 +40,6 @@ related:
         width: 1201
         height: 900
         isCached: true
-  - title: "The Case For Mastering AI Now. Why You Absolutely Can’t Wait."
-    excerpt: "The problem is that very few people have taken action to make AI an immediate new tool in their professional and career toolbox."
-    publishedDateTime: 2023-10-16T21:45:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/"
-    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652dae5de5b65e4992413753/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How to Prepare Your Child for an AI-Driven Future"
     excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
     publishedDateTime: 2023-10-17T19:37:00Z

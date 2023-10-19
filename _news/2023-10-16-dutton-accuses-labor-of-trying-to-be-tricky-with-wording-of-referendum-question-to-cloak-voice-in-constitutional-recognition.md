@@ -43,6 +43,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "The Failure of Australia’s Attempt to Create an Indigenous Voice to Parliament"
+    excerpt: "First Nations issues are a prominent part of the country’s public consciousness, so why did a national referendum on giving them constitutional recognition lose?"
+    publishedDateTime: 2023-10-19T16:52:00Z
+    webUrl: "https://www.newyorker.com/news/daily-comment/the-failure-of-australias-attempt-to-create-an-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 35
+    images:
+      - url: "https://media.newyorker.com/photos/652ebe2e23b1c7056b8e0378/16:9/w_1280,c_limit/Zhou-Australia-Referendum.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Australia politics live: Albanese accuses Ley of lack of respect for Indigenous voice campaigners in fiery question time"
     excerpt: "Follow live"
     publishedDateTime: 2023-10-17T02:55:00Z
@@ -106,20 +120,6 @@ related:
       - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
         width: 300
         height: 300
-        isCached: true
-  - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened"
-    excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
-    publishedDateTime: 2023-10-14T23:23:00Z
-    webUrl: "https://theconversation.com/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-heres-what-happened-215155"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 27
-    images:
-      - url: "https://images.theconversation.com/files/553795/original/file-20231014-17-vwmiud.jpg?ixlib=rb-1.1.0&rect=73%2C403%2C8052%2C4026&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
         isCached: true
   - title: "Australia Says ‘No’ to Indigenous Voice"
     excerpt: "Australia’s Voice to Parliament Referendum went down in flames in the October 14 vote. An overwhelming majority of Australians voted “no” to the proposal to “alter the Constitution to recognize the First Peoples of Australia by establishing an Aboriginal and Torres Strait Islander Voice.”"

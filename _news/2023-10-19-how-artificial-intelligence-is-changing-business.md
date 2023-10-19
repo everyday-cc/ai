@@ -89,20 +89,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
-  - title: "Why AI Is Forcing Startups To Chase a Mirage"
-    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
-    publishedDateTime: 2023-10-15T07:46:00Z
-    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Confronting the long-term risks of Artificial Intelligence"
     excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
     publishedDateTime: 2023-10-16T18:38:00Z
@@ -113,6 +99,6 @@ related:
       domain: thehindu.com
     quality: 17
 
-secured: "0jmv/guZqneK5QzmFmF61gmlc0gYNESAg5K1fknl5REWOy8K9F98ezypIxiIMW7unbrMYKoWQTknSKYhwhu7RZ3atiapDN2dT4Soy3w+GGITi2PEErq/5uC62+7CjNJ+C/bFTWLG+5+RYlWYpA6CxKbCU/kIz01Dsz4DsDpiyFziD0Z73HQoolND2+rL0TGYMU/NqhBS9iPLi/ZH+hwcwZl29xAr+rKSuvzJeSLL9P2bRwrRZP9E2smvO7YYbdMcQhHollQEqVKNM2R0UxjgzHOe/VFXWwJL96l4/do4UWFdoxwD7YxHIVLjj3qyWRTUpeKSeNKLXLNsB2PYPH2E+6jRqY8m5BSAajMolT+w4WI=;6zYKetqf2h5Wx6woBG2A2w=="
+secured: "oDPpZUU4DhniMlt6RuAqE7Oljb9O/PIHDyfBgbcHFVoH8umLAcyocTN07o9omdhd16O6LIY++E3J6GIDN20qXj2GSmK1mp5SBWZx8x7cMGpCuNSvK9YUdJn4TntfeW3YD94F6tlz8PlYedvFUw1DCCCS0qp00dNO5k8X0/QdPnKWcCnNngsm9BMCiMG9J/kTWQ/CWvfPppLIkjcRzEQNf+T+6JbQv58owxfT1w+dzRtgebPJ0rri7jJdNpond09HgsQ13Gkro9YfOqBddGiXjTdsQXxNIkLonswQP7YwaoVwKH9V2zBQZVRmGaYfZE3SK93xQ9Z+fOVHgV2cAKwXfNjDv3sBqrCtBVNrCXQH0UpqF9VJc/5kokqKk89i8AFjgrmhFeFcko84Cg/xbAMSslt9wF8lgtQ1yVp9hvmj3kIXfn2ow8t9jwX46lNObEhfPjrsI/n4tX01a1RKILp9dCOBq8l4Er+nY1JtC5yndGnbruJ7HBVkIhMJI0TO4xRPUpcNmMFPsuX0PQvjWqjKEg==;dQHw180BD+fJNBVPDrtIMQ=="
 ---
 
