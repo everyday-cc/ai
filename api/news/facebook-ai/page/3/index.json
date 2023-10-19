@@ -2,110 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2023-09-09-a-new-facebook-setting-tells-meta-not-to-use-your-data-for-ai.md",
-      "title": "A New Facebook Setting Tells Meta Not to Use Your Data for AI",
-      "excerpt": "Meta, the maker of Facebook and Instagram, introduced a new privacy setting Thursday that lets you ask, pretty please, for the company not to use your data to train its AI models. Buried in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative-ai-llama-1850792025",
-      "originalUrl": "https://gizmodo.com/new-facebook-do-not-use-my-data-for-generative-ai-llama-1850792025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c048ad4abe4cfb2558e1894d2ccde06f.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-facebook-trains-its-ai-on-your-data-opting-out-may-be-futile.md",
-      "title": "Facebook Trains Its AI on Your Data. Opting Out May Be Futile",
-      "excerpt": "Here's how to request that your personal information not be used to train Meta's AI model. \"Request\" is the operative word here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
-      "originalUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64f8e6ac3e1a7b4810e35758/191:100/w_1280,c_limit/Facebook-Trains-Its-AI-on-Your-Data.-Opting-Out-May-Be-Futile-Security-GettyImages-1408270724.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-07-bank-of-america-securities-remains-a-sell-on-c3ai-ai.md",
       "title": "Bank of America Securities Remains a Sell on C3ai (AI)",
       "excerpt": "In a report released yesterday, Bradley Sills from Bank of America Securities reiterated a Sell rating on C3ai (AI – Research Report),",
@@ -1510,6 +1406,104 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-microsoft-open-sources-onnx-script-for-python-machine-learning-models.md",
+      "title": "Microsoft Open Sources 'ONNX Script' for Python Machine Learning Models",
+      "excerpt": "defining a common set of the building blocks of machine learning and deep learning models, called operators, along with a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes and compilers. The ONNX Script ...",
+      "sourceUrl": null,
+      "webUrl": "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2023/08/17/onnx-script.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://visualstudiomagazine.com/-/media/ECG/visualstudiomagazine/Images/introimages/0913vsm_McCaffery.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-18T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-the-scientist-behind-ibm-watson-has-raised-60-million-for-his-ai-startup-in-new-york.md",
+      "title": "The scientist behind IBM Watson has raised $60 million for his AI startup in New York",
+      "excerpt": "David Ferrucci, who led the team behind IBM Watson, raised nearly $60 million in funding for his AI startup, Elemental Cognition, according to an SEC filing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
+      "originalUrl": "https://www.cnbc.com/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107288359-1692300055703-ferruci.jpg?v=1692306945",
+          "width": 2766,
+          "height": 1844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/08/17/scientist-behind-ibm-watson-raised-60-million-for-elemental-cognition.html",
+      "publishedDateTime": "2023-08-17T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

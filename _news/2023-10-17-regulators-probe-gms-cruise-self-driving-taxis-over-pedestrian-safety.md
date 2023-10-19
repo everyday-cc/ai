@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cruise self-driving cars investigated after two accidents"
+    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
+    publishedDateTime: 2023-10-17T13:46:00Z
+    webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/e44b97f8a431f7982500767b0b3771a9"
+        width: 976
+        height: 549
+        isCached: true
   - title: "Agency probes pedestrian risks at GM's self-driving unit Cruise"
     excerpt: "Auto safety regulators on Tuesday opened a probe into whether General Motors' self-driving unit Cruise is taking sufficient precautions with its autonomous robotaxis to safeguard pedestrians."
     publishedDateTime: 2023-10-17T19:34:00Z
@@ -106,15 +120,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 19
-  - title: "Cruise self-driving cars investigated after two accidents"
-    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
-    publishedDateTime: 2023-10-17T13:46:00Z
-    webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
   - title: "US regulators probe self-driving vehicles over fears for pedestrians"
     excerpt: "The Office of Defects Investigation said that it has received two reports involving pedestrian injuries from Cruise vehicles."
     publishedDateTime: 2023-10-17T13:18:00Z

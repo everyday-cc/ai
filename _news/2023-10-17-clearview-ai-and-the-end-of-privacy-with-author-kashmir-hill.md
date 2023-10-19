@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-t
 webUrl: "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "UK Privacy Watchdog Can't Sanction Clearview AI, Tribunal Rules"
+    excerpt: "The UK's privacy watchdog doesn't have the power to sanction Clearview AI, the U.S. company found to have harvested billions of British faces without consent, a court"
+    publishedDateTime: 2023-10-19T10:12:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2023/10/19/uk-privacy-watchdog-cant-sanction-clearview-ai-tribunal-rules/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2023/10/19/uk-privacy-watchdog-cant-sanction-clearview-ai-tribunal-rules/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2023/10/19/uk-privacy-watchdog-cant-sanction-clearview-ai-tribunal-rules/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65310123f4ac39c700f1c769/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 754
+        isCached: true
   - title: "Clearview AI Successfully Appeals $9 Million Fine in the U.K."
     excerpt: "A court ruled that a British agency does not have jurisdiction over how foreign law enforcement agencies use citizens’ data."
     publishedDateTime: 2023-10-18T21:14:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://static.standard.co.uk/2023/10/18/16/18164434-93b486a4-5d0e-4cdc-86bf-ef5d12172e8b.jpg?width=1200&width=1200&auto=webp&quality=75"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facial recognition firm Clearview AI overturns £7.5m UK fine on appeal"
+    excerpt: "In a significant legal victory for controversial US-based facial recognition technology firm Clearview AI, a UK tribunal has ruled in favour of the company, overturning a £7.5 million fine imposed by the UK's privacy watchdog,"
+    publishedDateTime: 2023-10-19T08:53:00Z
+    webUrl: "https://www.computing.co.uk/news/4136182/facial-recognition-firm-clearview-ai-overturns-gbp-uk-fine-appeal"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 54
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/5b55a82/f5911a18-fc7f-4664-b2f3-b278fd5e8dd4/21/face-detection-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "icjxHWHGQypg51sKUkivvNCwPnBpbIZykQZn0qRmDnyU0XqWHDw6Hpd5pi5SVk8rh7/k9CtIYDXXC7xpf/d3Mqx3Ig8q3plhwyjWZSpsf13AvAq1GZcfKv6hE9kvqHtrzltmcXhZ6BpBsMdbgmGM02Ra+uzbwqEtPf6r8Dc47/mDX9dXewwV4FWw3zalm/ckjvtDfU3Uuk6In/reVV1KHUpSKPrEt/VkyLhi5yrpQGRTLD3xsc/lOFwCUo5m5MT7s3Kw+6GZTU/vP/KCzWH53lk6zfissCFR8C4vjuviX3fvAdv/ZxMUwhrtNmv66CyPDDydvvvTgW2VuHMeXtpIfMcdIsLEuztn79EZzOyxYUXdkIgafus8Z9yvVDY7Gv+JYkZli4mVSWF8xTPUwK0sygKp14//AcEh0A05bgc7xw6QbGt90AfIiU8pO4I9m2w78fB8RgnzvBkxgHYaVtbudFxTPzWFtvNOC3DapIioOi6kBN0Z95+pxm/LkjitTnEbcl4b6tWhwGnvOTZlrn85pw==;P2ZZjY8tXzl79zr4ZxYWIw=="

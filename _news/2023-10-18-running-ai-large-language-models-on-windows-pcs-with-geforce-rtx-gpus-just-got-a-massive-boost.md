@@ -62,6 +62,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 34
+  - title: "Gcore Launches Generative AI Cluster Powered by NVIDIA GPUs"
+    excerpt: "The new Generative AI Cluster is equipped with servers based on NVIDIA A100 GPUs, the leading data centre AI accelerator. Later this year, Gcore plans to expand with an additional 128 servers powered by the latest NVIDIA H100 GPU to further enhance its infrastructure."
+    publishedDateTime: 2023-10-19T10:53:00Z
+    webUrl: "https://www.afp.com/en/news/1315/gcore-launches-generative-ai-cluster-powered-nvidia-gpus-202310194026371"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 34
 
 secured: "Z0QZQXhKmLmY1o1vqSJgSeD4NtYEwP1QvOVxQOGBeJ0EmjJsJzyd3HK2wame+x7OF0mvucXOOL97D76pNyIRe1L3Gyb5Sb0lgBBzPQPtTcHA8LMZadonKzHRbjV2smNUgCvwkpi0UpmgApjncAfiHc+Z3ND/DbQiTQcZnVcGe1XXnI8IyOt9mhawnRXxagMEYnqQjkcg2AhTXJBh1AGbpw+d73mwbzF0gRL42Brr/6HYrQfPyw3Sk2wALukrcqZGHsjnPoPZ/qqT0010wRmrjb58iCs/6mmB1oBzI1ydBvBPhQPG5Q8jWB6ceW4DvMvNf/6NgoTf9mYWZfy0trK2TkGfMQwCtAehVDG6MyCoBFY=;r51fAEjUZbv/nXq5MJpyoA=="
 ---

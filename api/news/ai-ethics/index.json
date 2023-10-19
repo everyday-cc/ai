@@ -4,19 +4,19 @@
     {
       "path": "_news/2023-10-19-is-ai-about-to-transform-the-legal-profession.md",
       "title": "Is AI about to transform the legal profession?",
-      "excerpt": "\"You've got to get through the lack of professionalism [by Mr Schwartz], and the lack of ethics, before you get to the fact that the tool was something he shouldn't have been using.\" Baker McKenzie has been tracking developments in AI since 2017 ...",
+      "excerpt": "Legal software system RobinAI uses what it calls an AI co-pilot to help speed up the process of drafting and querying contracts, both for in-house legal teams in large organisations, and for individuals.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-67121212?at_medium=RSS",
-      "originalUrl": "https://www.bbc.co.uk/news/business-67121212?at_medium=RSS",
+      "webUrl": "https://www.aol.com/ai-transform-legal-profession-230711078.html",
+      "originalUrl": "https://www.aol.com/ai-transform-legal-profession-230711078.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/17B1E/production/_131445079_gettyimages-1702230864.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/b87d4754288b7172a2426d2ad5fece63",
+          "width": 976,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-67121212.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67121212.amp",
-      "publishedDateTime": "2023-10-18T22:23:00-07:00",
+      "ampWebUrl": "https://www.aol.com/amphtml/ai-transform-legal-profession-230711078.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-transform-legal-profession-230711078.html",
+      "publishedDateTime": "2023-10-18T19:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -222,6 +222,49 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-an-ai-nightmare-has-arrived-for-twitter-and-the-fbi.md",
+      "title": "An AI Nightmare Has Arrived for Twitter — And the FBI",
+      "excerpt": "So-called “revenge porn,” explicit material obtained by hacking or shared in confidence with someone who makes it available to others without the subject’s consent, is hardly a novel crime among adolescents. But this time, the images were startlingly different. Though they looked realistic, they had been created with a generative AI program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/",
+      "originalUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2023/10/AI-image-moderation-internet.jpg?w=1600&h=900&crop=1",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/",
+      "publishedDateTime": "2023-10-17T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1406,58 +1449,6 @@
       "topics": [
         "AI",
         "AI in Education",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-ibm-enables-safe-enterprise-ai-with-granite-foundation-models.md",
-      "title": "IBM Enables Safe Enterprise AI with Granite Foundation Models",
-      "excerpt": "With its just-released Granite foundation models, IBM takes a big step towards addressing enterprise requirements for generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651cb4a382d94a88ea799277/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/03/ibm-enables-industry-specific-ai-with-granite-foundation-models/amp/",
-      "publishedDateTime": "2023-10-03T17:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI Ethics"
       ]
     }

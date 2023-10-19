@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-wind
 webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -66,7 +66,16 @@ related:
       name: BGR
       domain: bgr.com
     quality: 34
+  - title: "Gcore Launches Generative AI Cluster Powered by NVIDIA GPUs"
+    excerpt: "The new Generative AI Cluster is equipped with servers based on NVIDIA A100 GPUs, the leading data centre AI accelerator. Later this year, Gcore plans to expand with an additional 128 servers powered by the latest NVIDIA H100 GPU to further enhance its infrastructure."
+    publishedDateTime: 2023-10-19T10:53:00Z
+    webUrl: "https://www.afp.com/en/news/1315/gcore-launches-generative-ai-cluster-powered-nvidia-gpus-202310194026371"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 34
 
-secured: "J7MtM/Eg7DVucoAR4mUsLTa0yWuu7WhIO02vSwDsLTKuJJX+o2oEKEZDIxKBrrNhg1Q3sBd3w5XfKKNKIxnI1bXI1+V2p4v6LBb3Zan4SCA22lghQyKcJ56fa+oUcHJKchYs7hGKqqRBRlkPIjNF82qczevb1VagMNDQhl3Bp5mSnGcHnKMBjMBfKdBc8OOcxAVp+K3PsZixw4RWuNsZaDG2mzTcXwVLh/FIAU3zfcPFbLktGjAK2IjeQ9dbYrZmS3ZbTXFSIq6lDaQ6ybvZwqL+p2wExpR5K01FwRR+ZzChBQrJEwwRCFDIwdE0KDQuwK73o92vV01tsiLktUUa+M3fdqM2k+jcoseQ4Bw2iwo=;Tb5YsyEJbSg+liuZ4hqn4Q=="
+secured: "82d3fCB5vSIrbiXZSdbo7GgMXd5RjF59YJgdLxwbIdmNj0wuI+Pp3PqLAnWJUVC88BoKGSmauc3alp7RW3o4oZZdWAmc6Gizryd6DaVENi0uyMEhTqs1m5OOd2OICX16uc+5uvu5EW9J4R5U8SPqhrQnYGzs1S1VyvdzDSQlPyMaytTWfNSFsKQ0dcKdthaVmJ8yZrbySuhHfHVpyAznVbDQdBQml+ukMQk9pcrFIdUwYDNjew1DPGyX4msyiUpXvkws5f9OdJfT71ZUntZP9mCalKmm1KQlUNaAfgUp68YaZlELPSGPRlp28BR08xGesKhqG1AuaWyCtA6CXSIU9q/sXndXjCa7dfANYKNEq4sHvkjjLsincL4LOACaZCox7yKRTftYjtq0Pajo4OPmN0GmK8TWMCX413r4ICCbTlDLuAg+P6fMOiirr2iOsix09vU5KAKS3ABVFwwQE2++rAfa2Dly8ZskD5WYNnSJGuFYR0vvIWDHdwe/mhPvx02ATGhusyBAHr5cuyv97nm5mQ==;Wv4BGa9/EHrr+1EGxjDv+Q=="
 ---
 

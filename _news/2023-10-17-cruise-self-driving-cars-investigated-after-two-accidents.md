@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-17T13:46:00Z
 originalUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
 webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/e44b97f8a431f7982500767b0b3771a9"
+    width: 976
+    height: 549
+    isCached: true
 
 related:
   - title: "Federal regulators open investigation into GM self-driving car subsidiary Cruise"
@@ -124,6 +130,6 @@ related:
       domain: guernseypress.com
     quality: 4
 
-secured: "TU16UEsQO9Ld9vj1U8oa4Vyel2rBJp1WnZMajhTJDviX54z07KPwy8V+vREcyvY5sGfNvGBZbvB7lY3/Nwg+89e6EU5K16vFvyk4y7Jw0LfJbLlbEexL3b87+12OxZ38bqR4JtdyRmwT3Sx7T3vjKwHSsAFlbjYQ//jCWG7o1lmkL4+gCqvx4gunDHBtdqhRt7nR+2P+7t5WR0PoQaz1Bjw6tHTTvMG1t2DPzDL6YWhqYT0HKDnbWhFpdN0VTXv6eddm3aJmwPz3AgtJQM0zVwG0OM9KyTruOQFoAZedGxyEtVAkLAgfglDOmjqW6J+R3QaveWv21WCyn95kuiyVtT7/q7K0qKD7woEJax1GjSs=;3uNrJNXq+YiuGNyERYy8Lw=="
+secured: "l/LIfmwylllZjav/8sp8cgRUZHpIEiLbhLHQT7OysfV8Xa1s00c4+uzadu7oEviBGp2dwYCDrBxSRYZPsW8PIekmBYSedcqFuRFr67uksPOhpJoG/FOHjSYz1x/Hxlcj8H+m0IPRflLX2JxreKcZ7Klqpu1YIpi9bzjFlE4tBDLK0+A/pAXWoJSQO4jHT8i2enmtz/CFKKGc16cLX2rq8L5dhFJlOo1pdKFZXdtBdvPf9s9QKVnxQgGXZllDjYCL4ZaTqVpWjafgcAc0e68FXqwu8u/ct1i6Tzjif7nHjwL0tPcXUoFx1C9XUOqIeRhRQYq9FICOuahqAfvQ4IG5BhcEHMsEHiP8M+mDCiqmv7Q=;dd5unsfcjhmRKf8ctAE1SA=="
 ---
 

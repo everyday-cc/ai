@@ -8,7 +8,7 @@ webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-
 ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
@@ -43,22 +44,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Techno-plasticity in the Age of Artificial Intelligence"
-    excerpt: "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ..."
-    publishedDateTime: 2023-10-14T18:10:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Authors speak out against the usage of copyrighted work in AI programs"
     excerpt: "Artificial intelligence has the potential to be used as a tool to improve writing if employed correctly. Some authors, however, are worried about what that could mean. On Sept. 20, The Authors Guild and 17 specific authors — one of whom,"
     publishedDateTime: 2023-10-18T00:16:00Z
@@ -74,6 +59,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "PCyWgdfXx3JeJ4YYziM6jqydAzgGZkLU54LMjhHnaYVaUAYOG8gIafp+7eKqlCfDgPUj1K9m3tZbPzssFE04UjrKSSN6PbjtqlYeOl6OjUdidhSB5y0wtjlG3SBfM6qF3Xy+kqdNfXyniSPx15Qi8+32I5Al1/jyOC8uJmtLSbALN9lNWxA65L11kx/LHzeAdzU55WKyj2qEZjbwJy2gXJaLsqOZgjX4RItM1fkmdB+CWJPK2p/7X7adsoyQqMxGYhPFZIgHSQajP5sO0lOk2s9RNaXUptFwJ0xF1Y6i6FHceiZrzJlXS/aF8JMVJpD74z7jhwHLcms1YaqRrvTh0M6ig+lTX8FlXzuNtlohM3E=;9KWC7yiFZ1x7AbbDL/02Sw=="
+secured: "6s/0ous/AENqpYpTBd0mrOt7co9HERWWU9P12NGK9HN/n4/INjwa/EtxwY4YUUUckLv9uxxxDD0CUcgCcTae9wyhLg5nrDfRogN7W/27/V7FgyLkGMQ0qMQteATe0UrmJNHipCB+EPRPO/09WqwrI9xRSxk+1S05P6uaNoa/Rk4wuDe4trCWPlx/ZqZ8/xoLBpRBvAwEeq4LAyCyL20EStzsWVrSnh+4KLe77j1TnxTyP72vSae1wxjOY++/nARyU8Ndph4o3Zct7azxO++oWjJ4fNhzKtLCgnPwZptHTUSrGHLZt0QMjMc5keALguEF3L4kkcNi1TFyAwb51zh+hKCiR994do5CbOKx3K2W4JbIlmiPmvP3gP0AVbeCBQQaqFHZRqItYjSV9aLWB/PvrimjaRJ1n4I8CJH5/T/2Ic4RzvLhzKBqWb9NWC3YH8f6LzT1znJPyXZ8OUijWC21sfXHUWbyARwRHcb6LiIh3OqOaaPBKzcF0v+FrSwdpZNM8vt4rX+rLZHxb4V+qANMzA==;gET9/GCfyV2Q3eLZtCqmFg=="
 ---
 

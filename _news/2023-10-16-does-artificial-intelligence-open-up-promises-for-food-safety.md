@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Speed Over Safety: How AI Ethics is Becoming a PR Exercise for Big Tech"
+    excerpt: "Big Tech keeps dismantling AI Ethics teams, while publicly advocating for careful use of AI. They are not the only ones."
+    publishedDateTime: 2023-10-19T10:36:00Z
+    webUrl: "https://www.techopedia.com/how-ai-ethics-is-becoming-a-pr-exercise-for-big-tech"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 34
+
 secured: "81xoH8InRMqDc0Ba7bO59C0LtW+dfKXMnJ9fyH4t+YZn5MDhkIEYkf7W/d2h0Drgc2cUEH+y6DaP+ayWP+ge/evxtAeAn2aEhwnlq1XywWMkBjexVSoetua0i5ylkv2J/1M4plkiX672rHxkHViVuukNQ5SW6RRKCAUoz5txtuYi/KOSRkYqom2u6ZJhVon8J9XtdqTSOSvtDboaVv2St1rsX9bwUp//ptC1Q/gePRPpnEwD20DsjrCS98JZW0VPIIqyC3ld4ew7DwVc2UiCrxP+7JC6LNZIc8Dv1AdGl5HPwKvD05Qpnq0HuWeb97Imn9l8bSn4twT/F8jk0SW+9AACfSCIhT54yXfGiXYXGT4GCO0SAAhxVUVAbTCpkaUT0cIXh25tSSs6mHrOlRbRKZBl2r9XME8DtFyGOHcqQK7CD2vWg218UPqfxchXz5ZpgOM23vX7SWvyLA+V1O8y9Oy1b3OLgeAHwsRZFT7n+Yakz/+C1xxAGZC+dSNpLMDmJKENUoGNbLFIzcdqmXkSWQ==;sk9D6pnnShWy7q+0FahILQ=="
 ---
 

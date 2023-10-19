@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
-    excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
-    publishedDateTime: 2023-10-14T17:07:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament-on-minority-issues/4768908/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 47
-    images:
-      - url: "https://media.nbcnewyork.com/2023/10/AP23287125795600.jpg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
     publishedDateTime: 2023-10-15T18:24:00Z
@@ -56,6 +40,38 @@ related:
       - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "Australia politics live: Albanese accuses Ley of lack of respect for Indigenous voice campaigners in fiery question time"
+    excerpt: "Follow live"
+    publishedDateTime: 2023-10-17T02:55:00Z
+    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/17/australia-politics-live-question-time-israel-palestine-hamas-anthony-albanese-peter-dutton-indigenous-treaty-truth-cost-of-living?page=with:block-652e018e8f080e3e7b6d935f"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/17/australia-politics-live-question-time-israel-palestine-hamas-anthony-albanese-peter-dutton-indigenous-treaty-truth-cost-of-living"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/17/australia-politics-live-question-time-israel-palestine-hamas-anthony-albanese-peter-dutton-indigenous-treaty-truth-cost-of-living"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
+    images:
+      - url: "https://i.guim.co.uk/img/media/887cffe8461260b1df3d306e15f36ea6dc4f24dc/0_2_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=747d8a9ac15375538f9f8921e8f10a9e"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "'Earlier than later': No campaigner Warren Mundine calls for second referendum into Indigenous constitutional recognition"
+    excerpt: "Indigenous activist Warren Mundine is calling for another referendum to recognise Aboriginal and Torres Strait Islanders in the Constitution despite the resounding defeat of the Voice to Parliament."
+    publishedDateTime: 2023-10-19T05:31:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/earlier-than-later-no-campaigner-warren-mundine-calls-for-second-referendum-into-indigenous-constitutional-recognition/news-story/c653fb0e2b2167ee79b42886bd508bbf"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/earlier-than-later-no-campaigner-warren-mundine-calls-for-second-referendum-into-indigenous-constitutional-recognition/news-story/c653fb0e2b2167ee79b42886bd508bbf?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/earlier-than-later-no-campaigner-warren-mundine-calls-for-second-referendum-into-indigenous-constitutional-recognition/news-story/c653fb0e2b2167ee79b42886bd508bbf?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 34
+    images:
+      - url: "https://content.api.news/v3/images/bin/c9a24e9d6db67fb4e46a523bec7842ed"
+        width: 1280
+        height: 720
         isCached: true
   - title: "News live: Australia reacts to voice referendum results; thousands gather for pro-Palestine rallies"
     excerpt: "Follow the latest news and updates today after the results of the 2023 Australian Indigenous voice to parliament poll Government ... it’s a referendum on a particular model of constitutional recognition. Secondly, I think we need to reflect on what ..."
@@ -73,6 +89,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
+    excerpt: "“Now, the Voice was with constitutional recognition was important. Makarrata is simply a Yolngu word for coming together after struggle. “I think that that is a reasonable thing to say, and in terms of where we go from here, I note that there has been ..."
+    publishedDateTime: 2023-10-16T18:43:00Z
+    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55bon"
+    ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 30
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened"
     excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
     publishedDateTime: 2023-10-14T23:23:00Z
@@ -86,36 +118,6 @@ related:
       - url: "https://images.theconversation.com/files/553795/original/file-20231014-17-vwmiud.jpg?ixlib=rb-1.1.0&rect=73%2C403%2C8052%2C4026&q=45&auto=format&w=1356&h=668&fit=crop"
         width: 1356
         height: 668
-        isCached: true
-  - title: "Explainer: Australia Has Voted Against An Indigenous Voice To Parliament. Here’s What Happened"
-    excerpt: "The Voice was proposed as a means of recognising Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia in the Constitution."
-    publishedDateTime: 2023-10-16T06:36:00Z
-    webUrl: "https://www.outlookindia.com/international/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-here-s-what-happened-news-324797"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 27
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1697288745.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Malarndirri McCarthy: First Nations people ‘deeply disappointed’ in fellow Australians after Voice result"
-    excerpt: "Mr Dutton has also watered down his commitment to a second referendum for constitutional recognition – without a Voice – that he pledged last month. He said it “remains” the Coalition’s policy but would not send “fatigued” Australians back to ..."
-    publishedDateTime: 2023-10-16T23:23:00Z
-    webUrl: "https://www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200"
-    ampWebUrl: "https://www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/malarndirri-mccarthy-first-nations-people-deeply-disappointed-in-fellow-australians-after-voice-result-c-12226200.amp"
-    type: article
-    provider:
-      name: Perth Now
-      domain: perthnow.com.au
-    quality: 27
-    images:
-      - url: "https://images.perthnow.com.au/publication/C-12226200/82fbad2042c3b59887aa3ae8aa6f2b6f18bb3c0e-16x9-x0y745w1932h1087.jpg?imwidth=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Australia Says ‘No’ to Indigenous Voice"
     excerpt: "Australia’s Voice to Parliament Referendum went down in flames in the October 14 vote. An overwhelming majority of Australians voted “no” to the proposal to “alter the Constitution to recognize the First Peoples of Australia by establishing an Aboriginal and Torres Strait Islander Voice.”"
@@ -159,63 +161,63 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "What happened in the Voice and where to next for Australia?"
-    excerpt: "EXPLAINED: A majority of Australian voters rejected the proposal to establish an Aboriginal and Torres Strait Islander Voice to Parliament."
-    publishedDateTime: 2023-10-16T03:17:00Z
-    webUrl: "https://www.stuff.co.nz/world/australia/300990237/what-happened-in-the-voice-and-where-to-next-for-australia"
+  - title: "PM baulks at treaty, Dutton dumps recognition vow"
+    excerpt: "Anthony Albanese refused to discuss a treaty while Peter Dutton dumped his plan to push for recognition after the resounding defeat of the Voice to parliament."
+    publishedDateTime: 2023-10-16T08:03:00Z
+    webUrl: "https://www.afr.com/politics/federal/pm-baulks-at-treaty-dutton-dumps-recognition-vow-20231016-p5echl"
     type: article
     provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
+      name: The Australian Financial Review
+      domain: afr.com
     quality: 24
     images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/7/9/j/o/image.related.StuffLandscapeSixteenByNine.1420x800.4z79jx.png/1697428680023.jpg"
-        width: 1420
-        height: 798
+      - url: "https://static.ffx.io/images/$zoom_0.1659%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/2b28ef16f10945285e0b509d7534e98a524b551a"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Labor senator says Australians ‘will not let go’ of Indigenous recognition as Albanese under pressure to outline plan B"
-    excerpt: "We want to make sure our kids don’t continue to inherit the statistics that we see today,’ says Jana Stewart"
-    publishedDateTime: 2023-10-18T05:57:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2023/oct/18/labor-senator-says-australians-will-not-let-go-of-indigenous-recognition-as-albanese-under-pressure-to-outline-plan-b"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/18/labor-senator-says-australians-will-not-let-go-of-indigenous-recognition-as-albanese-under-pressure-to-outline-plan-b"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/18/labor-senator-says-australians-will-not-let-go-of-indigenous-recognition-as-albanese-under-pressure-to-outline-plan-b"
+  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
+    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
+    publishedDateTime: 2023-10-16T01:07:00Z
+    webUrl: "https://thethaiger.com/world/news/560427/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 20
+      name: The Thaiger
+      domain: thethaiger.com
+    quality: 22
     images:
-      - url: "https://i.guim.co.uk/img/media/7b9a3d6c28732401a3dc28bf0db1ecab417af0eb/633_422_4173_2504/master/4173.jpg?width=620&quality=85&auto=format&fit=max&s=d0e1a2dba2537ca0e5a53857f3e37e87"
-        width: 620
-        height: 372
+      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
+        width: 390
+        height: 220
         isCached: true
-  - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened, and what happens next"
-    excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
-    publishedDateTime: 2023-10-15T21:32:00Z
-    webUrl: "https://www.australiangeographic.com.au/news/2023/10/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-heres-what-happened-and-what-happens-next/"
+  - title: "Days after Voice vote, Peter Dutton waters down Indigenous recognition commitment"
+    excerpt: "Coalition leader Peter Dutton has talked down his commitment to recognise Indigenous Australians in the constitution just days after the Indigenous Voice to Parliament referendum, saying Australians are \"probably over the referendum process for some time\"."
+    publishedDateTime: 2023-10-15T23:56:00Z
+    webUrl: "https://www.sbs.com.au/news/article/days-after-voice-vote-peter-dutton-waters-down-indigenous-recognition-commitment/t5or4hzpz"
     type: article
     provider:
-      name: Australian Geographic
-      domain: australiangeographic.com.au
-    quality: 16
+      name: SBS
+      domain: sbs.com.au
+    quality: 19
     images:
-      - url: "https://www.australiangeographic.com.au/wp-content/uploads/2023/10/20231014001852246547-original-scaled.jpg"
-        width: 2560
-        height: 1706
+      - url: "https://images.sbs.com.au/dims4/default/f1b9642/2147483647/strip/true/crop/4703x2645+0+245/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F5e%2F9e%2F917dd67541cbb9c54d32815d25f3%2F20231011001851029261-original.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Defeat of Australian Labor’s Voice referendum highlights stark class divide, not racism"
-    excerpt: "The Voice voting patterns demonstrate the intensifying hostility of working-class people to the entire political establishment."
-    publishedDateTime: 2023-10-18T03:46:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/10/18/fypz-o18.html"
+  - title: "Peter Dutton accused of 'playing politics' after backflipping on pledge for second referendum on constitutional recognition"
+    excerpt: "Deputy Prime Minister Richard Marles has accused Opposition Leader Peter Dutton of playing politics after backflipping on his pledge to hold a second referendum."
+    publishedDateTime: 2023-10-17T02:22:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-accused-of-playing-politics-after-backflipping-on-pledge-for-second-referendum-on-constitutional-recognition/news-story/66be5048931bc1498c7cb578974b2dca"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/politics/peter-dutton-accused-of-playing-politics-after-backflipping-on-pledge-for-second-referendum-on-constitutional-recognition/news-story/66be5048931bc1498c7cb578974b2dca?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/politics/peter-dutton-accused-of-playing-politics-after-backflipping-on-pledge-for-second-referendum-on-constitutional-recognition/news-story/66be5048931bc1498c7cb578974b2dca?amp"
     type: article
     provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 16
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 18
     images:
-      - url: "https://www.wsws.org/asset/ea9dc941-3e0a-4ca4-8d44-d339601aef10?rendition=1600x900"
-        width: 1600
-        height: 900
+      - url: "https://content.api.news/v3/images/bin/0405f6e031a2cf0917d095b9a18dadea"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
@@ -228,19 +230,21 @@ related:
       name: The Age
       domain: theage.com.au
     quality: 15
-  - title: "‘Lies fuel racism’: how the global media covered Australia’s Voice to Parliament referendum"
-    excerpt: "Could the vote affect the way the world views Australia and potentially have an impact on Australia’s international relations?"
-    publishedDateTime: 2023-10-15T03:32:00Z
-    webUrl: "https://theconversation.com/lies-fuel-racism-how-the-global-media-covered-australias-voice-to-parliament-referendum-215665"
+  - title: "Dutton accuses Labor of trying to be 'tricky' with wording of referendum question to 'cloak' Voice in constitutional recognition"
+    excerpt: "Opposition Leader Peter Dutton has accused Labor of being \"tricky\" with the wording of the referendum question because it \"knew there was support for recognition but not for the Voice\"."
+    publishedDateTime: 2023-10-16T08:56:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e?amp"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 14
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 15
     images:
-      - url: "https://images.theconversation.com/files/553809/original/file-20231015-21-omw9es.jpg?ixlib=rb-1.1.0&rect=24%2C370%2C8218%2C4103&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://content.api.news/v3/images/bin/0fb85e99d5fba0e62e9c47a182f23e6a"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Australia indigenous voice referendum fails as ‘no’ votes prevail amongst citizens"
     excerpt: "Australia's 45th referendum failed Saturday as polling results revealed a 60 percent majority of Australians rejected the proposal to recognise the country's First Nation people within Australia's"
@@ -251,6 +255,24 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 13
+  - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
+    excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
+    publishedDateTime: 2023-10-15T20:30:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/indegnous-leaders-summit-to-seek-new-way-to-constitutional-recognition/news-story/3d85ead548dcb1fefef43640ee8553c6"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
+  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
+    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
+    publishedDateTime: 2023-10-15T20:13:00Z
+    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 0
 
 secured: "PzBqZ2hz3hFTlk4LcKVthDGk7c8SUXdbk41QyXHwuIKkeH6JbXi7SvlViToRgjxSAvkMcWcV50YhPL7ERdoK91/L4qGIW+tHJdJ8HSffQr/75NCIOTVILDclKH04zHBIK01m9rcWzYOWjSS7sIiT2jFf/ddeeETqHI4Zn5zKsXxh9ByTMpjQcqRpIAT+VoVMhAnCP+m0H4qxcx/S+6STKvbbt5kXpVsNfKMvzXSFfhLt76I/HjHPGq4k9P9xXVY1T6pWenST5HE9BgGEV9kAGgdU56hav6Hkg1239jph8KfPnsdLUgQcEEjZ3C9War+D/3BXkisNa46CSwOedmEerqrh2531ItMyxcK7+lrQ1I0=;cs5/REAK/WFrCp4Pp15gTw=="
 ---

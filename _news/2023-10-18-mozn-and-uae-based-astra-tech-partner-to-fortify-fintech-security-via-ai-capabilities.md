@@ -74,20 +74,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
-    excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
-    publishedDateTime: 2023-10-18T23:21:00Z
-    webUrl: "https://menafn.com/1107266905/G42-And-Openai-Launch-Partnership-To-Deploy-Advanced-AI-Capabilities-Optimized-For-The-UAE-And-Broader-Region"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/18/M_891a8image_story.jpg"
-        width: 1092
-        height: 678
-        isCached: true
 
 secured: "IE/00a70hzC8yr6K99xaM4AsYXhRBo8LZ+hXy8CRPoRK6zjAYnyGxSRQBsD5Tzi4wEH5dA5mmwYpTlmOESeKYFeqE5prfWWh3VCL4dfFA4nCjxDhi5wMJR6ESnBRSC9jRaLpIFzxtT4FG1GnZyYYcxbt1Kp+7HtBhclPV7LED2sHEOLIusvHj7yOo4jXpJWg23A2kpjv8T9RXKgumgeWU+u7aW3NhzWSAAHI+bxqeT8+yVuzdmhHuoXCBBVjSwNTEZPuWhLZmoMx6Jmti3QZeK2c4oMnA+WoDtKQZLBTQjRjJJSON9Ho1/VdUx0sQmBG7br8W2VFGskyP+5dpVKzCB4hn232F/b1fgUP3Y5200g=;ctrCM4O3oOJCEdYNr2v28Q=="
 ---

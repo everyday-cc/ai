@@ -150,6 +150,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Inside the ChatGPT race in China – MIT Technology Review"
+    excerpt: "A Chinese ChatGPT alternative won’t pop up overnight—even though many companies may want you to think so.Every once in a while, there’s one thing that gets"
+    publishedDateTime: 2023-10-19T11:16:00Z
+    webUrl: "https://www.inferse.com/762583/inside-the-chatgpt-race-in-china-mit-technology-review/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12672.png"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Is5kMoEwVsUkbxAUuEgC0ekfquRxS2muamxynf/Q0XJ/qQXmiGsXtv+c2h7XLiWomJSvGP+RMLxSIiv/TN9oQ1KmC+AqVD7kz54lZZSSvN0lMtPabv77gnwOf2EZbIhjQWHErgNOyFosiCMamBFcEc0l3K09DRyHBJ5Quq08rWF8kc5OXft6eg0o2OTJYktkMuQbsHS3lVp+idcd2qdM8CDWxOyjLd1XU5B53+85tjAehaniJNuhf2g4HI60YKU/a6s+smQ1AcrfQPMXixoszalkcuGWm2exMyVOWPyezghL/+Z8sA4MxO+HFJXKgHjXlpmapxf7NKtlSLdbgS6GEprsKi0OVGB/tJHIEzM/P7U=;AgK+2lcWiLsd10QkELGrIg=="
 ---

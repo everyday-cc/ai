@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rollingstone.com/culture/culture-features/ai-explicit-ma
 cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture/culture-features/ai-explicit-material-twitter-big-tech-1234855484/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Rolling Stone
@@ -31,6 +31,22 @@ related:
     excerpt: "Intelligence summit told terror groups or hostile states may seek to use AI to build bombs or disrupt elections"
     publishedDateTime: 2023-10-18T15:00:00Z
     webUrl: "https://www.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
+    ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 52
+    images:
+      - url: "https://i.guim.co.uk/img/media/1f6ad5ac4db59b927ddb0bce0b3c335cb2075c32/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=403390e40159884a58e870eaa9d8d5fc"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Terrorists could try to exploit artificial intelligence, MI5 and FBI chiefs warn"
+    excerpt: "Intelligence summit told terror groups or hostile states may seek to use AI to build bombs or disrupt elections"
+    publishedDateTime: 2023-10-18T17:42:00Z
+    webUrl: "https://www.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn?ref=mc.news"
     ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/18/terrorists-exploit-artificial-intelligence-ai-mi5-fbi-chiefs-warn"
     type: article

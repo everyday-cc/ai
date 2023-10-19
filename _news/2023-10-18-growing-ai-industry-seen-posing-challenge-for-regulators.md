@@ -9,8 +9,8 @@ ampWebUrl: "https://businessday.ng/technology/article/growing-ai-industry-seen-p
 cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: businessday
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Teaching AI to behave is the fastest-growing career skill"
+    excerpt: "Generative AI platforms require tailoring for specific tasks — and it's that skill employers are seeking in new employees or in opportunities to upskill current workers."
+    publishedDateTime: 2023-10-19T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2321438319-100947383-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 760
+        isCached: true
+  - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
+    excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
+    publishedDateTime: 2023-10-19T11:00:00Z
+    webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 44
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "AI Industry Chiefs Raise Regulatory Fears in Parliament"
     excerpt: "Leaders from the artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
     publishedDateTime: 2023-10-17T11:00:00Z

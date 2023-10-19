@@ -26,6 +26,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "‘Lies fuel racism’: how the global media covered Australia’s Voice to Parliament referendum"
+    excerpt: "Could the vote affect the way the world views Australia and potentially have an impact on Australia’s international relations?"
+    publishedDateTime: 2023-10-15T03:32:00Z
+    webUrl: "https://theconversation.com/lies-fuel-racism-how-the-global-media-covered-australias-voice-to-parliament-referendum-215665"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 14
+    images:
+      - url: "https://images.theconversation.com/files/553809/original/file-20231015-21-omw9es.jpg?ixlib=rb-1.1.0&rect=24%2C370%2C8218%2C4103&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+
 secured: "WAPmz/PAhFvtmur06LeoS+nqpe6G6KwOx2e9f+75vC8moVAHvV/75JFuGGgMfoJ+RdDx5wNcSHA5seg2MNV+8uqb8anOYBggZKA3A7RzG6bMFZQGy3o1iD0mE3HmTMPCJBh2W5Tds7dKOX3wMRTocv3CCDsJWxjd54ACpfoiCHLHTVArsNdXRcohsu4rw5Ny2cyzqF7/rT+XlSzOIUQcd9/AZN8LtpKrmzLfP558+Usf6dI+auqTEa9/ecIsQjuuz5PWyHoNsB5ck9XA3uR04mCvKS+0x6yXtXvPRUHl9+DHEbgivrIeMfBEnxGo306TsNY1o4xmJYvsQgRhczBNp5nz7ThmppqtpvVUmXeTLjk=;5BJzUiLXgaata+FFR9wwng=="
 ---
 

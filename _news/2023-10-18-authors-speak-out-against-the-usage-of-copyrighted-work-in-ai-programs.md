@@ -41,22 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Techno-plasticity in the Age of Artificial Intelligence"
-    excerpt: "But as artificial intelligence (AI ... represent a fascinating and potentially transformative step in machine learning. Unlike traditional neural networks that are trained and deployed in a relatively static state, liquid networks are designed to ..."
-    publishedDateTime: 2023-10-14T18:10:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202310/techno-plasticity-in-the-age-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/matrix-2975868_1280.jpg?itok=18KUtr3C"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
     excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
     publishedDateTime: 2023-10-19T09:08:00Z
@@ -67,7 +51,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 43
+    quality: 45
     images:
       - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
         width: 834

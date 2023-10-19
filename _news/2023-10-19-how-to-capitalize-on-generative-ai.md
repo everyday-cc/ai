@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "AI-Powered Robotics: Enhancing Precision and Efficiency in Surgery"
-    excerpt: "In a world where AI technology continues to push boundaries, there’s one groundbreaking innovation that is revolutionizing the operating room: AI-powered robotics. Imagine a scenario where surgical precision meets unparalleled efficiency,"
-    publishedDateTime: 2023-10-14T18:15:00Z
-    webUrl: "https://techbullion.com/ai-powered-robotics-enhancing-precision-and-efficiency-in-surgery/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
   - title: "Nearly 9 out of 10 grocery workers are worried about AI, robotics"
     excerpt: "Although they’re concerned about being replaced by technological innovations, 87% of associates believe it will help them to do their jobs"
     publishedDateTime: 2023-10-16T17:53:00Z

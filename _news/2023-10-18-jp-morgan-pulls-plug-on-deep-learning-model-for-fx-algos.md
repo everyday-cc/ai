@@ -2,28 +2,28 @@
 category: news
 title: "JP Morgan pulls plug on deep learning model for FX algos"
 excerpt: "JP Morgan has phased out a model that leverages machine learning technology for foreign exchange algorithmic execution, citing issues with data interpretation and the complexity involved."
-publishedDateTime: 2023-10-18T09:39:00Z
-originalUrl: "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
-webUrl: "https://www.fx-markets.com/tech-and-data/7949034/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
+publishedDateTime: 2023-10-18T09:46:00Z
+originalUrl: "https://www.risk.net/derivatives/7958022/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
+webUrl: "https://www.risk.net/derivatives/7958022/jp-morgan-pulls-plug-on-deep-learning-model-for-fx-algos"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: fx-markets
-  domain: fx-markets.com
+  name: Risk
+  domain: risk.net
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.fx-markets.com/sites/default/files/styles/metatag_image_large/public/2023-10/JPM-phases-out-machine-learning-FX-algo.jpg?itok=i6LG47d8"
+  - url: "https://www.risk.net/sites/default/files/styles/metatag_image_large/public/article_copied_files/JPM-phases-out-machine-learning-FX-algo.jpg?itok=xqR4I3RZ"
     width: 1200
     height: 743
     isCached: true
 
-secured: "068keHpUEVt1qw2NRUPIF91Kx4//siqYsZ+4AbstwXy2OMgvCDw1j+F0Dnm0sRNoOR6uk+qDEXV0GNxauXlt15UxyQq+laZkO3THMxHlUS/h3CslerrhLAaT4HgurOVZ0Ak9AqLj65E0Ef1WjZf3CdFXxsatvOYUzassQlmOCWtLyHp0nknvUymMebkyj2foSLi/GO2u9XOeOQPueCyvWULuMDVsjXXHcldAAjHdCdiXX2yaqcMRlGgiyOLdGEpnLDcp+xd4odceUcHiDsXXzMaqgp0pnaugK2HIqJcVHUp7QTleNZGvtgOUUNriYXD7raHNTr+t8RtWksrlqO//v8scDLzx/5Y9mL7mg9ELYjk=;nDjrTv4AhIs8LXcPhE8Sjg=="
+secured: "NG61IWnIQFgY6B0Tti3oNXjCFYYArMKw8GJlOks2pV1a4sckrQ2tiiwrv77idoxMRPoiWLUkvFRAdZlrpyi8o9zPdkHxPFYHLRvycXYtSiKin6oMyZ7GE49xCzairZdlFcGWDuI+JszQb3E+bvOdG4qmAr+m55aCoAVR7gCfhD3iVgsBuC/JP5t3SBwTYDy1EahI4KjZiZX60i9aTml3WJfalmy4ghTEcub6H+KrORybwNX9ixJFdVFl5hJzSxorEzXnXT15RHbLzCRMhOGsqXH1k1PjL5sDQLgbZCv6RDEAh0IDbSIPpdMve4P8pfcz8Ah757mbp/DYT+JzYsDZqZOGD1hXQ0QieUoUCwn4nAA=;BMZnkTPT0x63Wda1fn/Zlg=="
 ---
 

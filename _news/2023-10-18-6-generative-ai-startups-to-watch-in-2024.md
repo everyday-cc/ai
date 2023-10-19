@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Adobe Shares Rising On New Generative AI Services"
-    excerpt: "Adobe plans to share with analysts how much Generative AI will expand its TAM at its next analyst meeting, Chakravarthy said."
-    publishedDateTime: 2023-10-14T17:11:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2023/10/14/adobe-shares-rising-on-new-generative-ai-services/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6526d079a8afc579c64e54c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "Gartner: Generative AI will be everywhere, so strategize now"
     excerpt: "To keep pace, executives must prioritize their AI ambitions and AI-ready scenarios for the next 12 to 24 months, Gartner analysts advise."
     publishedDateTime: 2023-10-18T18:53:00Z
@@ -95,6 +79,15 @@ related:
     provider:
       name: Crain's Cleveland Business
       domain: crainscleveland.com
+    quality: 19
+  - title: "Language Weaver scales development of generative AI technologies"
+    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
+    publishedDateTime: 2023-10-19T09:04:00Z
+    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
     quality: 19
 
 secured: "DoZ9CA2tVMfKfUHZ686tHAoTxNiQVni4rkCbjqEdlr2/RDwIGt/3MfwoFYVWwTJW6IgtUPtfRcuGt9FNUE6+lW0DC0Qwd3wMlL7rCryBZ7K1PEwTnQfoHcDb+3EvqmD0ke1XvcoivDGTIhKncbVb5HFCeskcWtzIn8d5f8eFlaeKdUdSfIx19GG8cej7P8TTbWDAL0GJWqdscZHHOx9ialTApbx7yaIJeOmJHJEpZyITd+WEwNJpty8NhtA2ng/IhRbg8+REh40/LF711Wa60VBgsJxh0fRHQyCygMepD50bYOlytI7oOMPe7AzPetDguywvTsGX4ZpzZXZYJP9YZXi2fz0FxRtgapU8y+fH0RqHQCfp5X4S/XTaHRZ2IGDC2kpu80RBcXFjN85ePIL2DonXTLyF4Fnx56zpVoD1JCKFb5UJicwfrL8TyEXt6JDDLn/xhcWXx/7WZnqHDODo9ZWzy7ml3O4jODzuyK8p8+TnVBjHUh+tc0hVnIgAVTymQNVSKl/MepMqbWr2BJKs9Q==;0A8vSVch4MzH6Y7ZFZVSNA=="

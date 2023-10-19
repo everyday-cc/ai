@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-t
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/OTg4MDRiMzEtNjdkMS00/0/webversion-jpg.jpeg?f=3%3A2"
         width: 900
         height: 600
-        isCached: true
-  - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
-    excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
-    publishedDateTime: 2023-10-18T23:21:00Z
-    webUrl: "https://menafn.com/1107266905/G42-And-Openai-Launch-Partnership-To-Deploy-Advanced-AI-Capabilities-Optimized-For-The-UAE-And-Broader-Region"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/18/M_891a8image_story.jpg"
-        width: 1092
-        height: 678
         isCached: true
 
 secured: "FvbQ4xlT1Oh7UoCJ0TRzZTRRdkMS4pK9YXKtJyfarRsk9oaTwyOGxNmVUdI7U5p3W9GB0Et2ajBIcLhdAqw6Wi91iiraTo7/Zm8Hd4DBpxfCQNdIDbmptklkggNK/XbPWFskpedS+mlXQ8ME1PUfcfHTpzlkILA3lG5CN+VjljHZR3ueJ78dV8X70hpc6Ozi9lFbrpdzWnIBJ+LYnTV340JVFJVyt8uXOPDsWAMMW2jcs4awYvKRL7WT2f1xcThUoDS6TDEnhGt+dJJ9pDmdlLX9x5vOfhKBLIh87Q//XAQfJIUXIU/VNF157uuKIlMnxQwzjQ01K2WoCeeMkpTgJXTtbgomJHkeL1pZbhpHoIM=;8h7i7NosLTe9kMQxss0rLA=="

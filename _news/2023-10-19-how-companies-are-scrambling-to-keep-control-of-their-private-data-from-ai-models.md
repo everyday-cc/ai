@@ -66,22 +66,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "UK launches funding challenge for tackling AI bias"
-    excerpt: "The UK government has made investment of up to £400,000 available to companies working on projects to tackle bias and discrimination in artificial intelligence (AI) systems."
-    publishedDateTime: 2023-10-17T10:32:00Z
-    webUrl: "https://www.research-live.com/article/news/uk-launches-funding-challenge-for-tackling-ai-bias/id/5118283"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "3 AI Stocks to Invest in for Long-Term Gains"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
     publishedDateTime: 2023-10-18T21:36:00Z

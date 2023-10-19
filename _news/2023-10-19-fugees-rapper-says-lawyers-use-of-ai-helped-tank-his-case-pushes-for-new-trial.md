@@ -1,30 +1,42 @@
 ---
 category: news
-title: "Fugees rapper says lawyer's use of AI helped tank his case, pushes for new trial"
-excerpt: "The trial of a Fugees rapper, who was convicted in multimillion-dollar political conspiracies, stretched across the worlds of politics and entertainment."
-publishedDateTime: 2023-10-19T00:19:00Z
-originalUrl: "https://www.ksat.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
-webUrl: "https://www.ksat.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
+title: "Fugees rapper says lawyer’s use of AI helped tank his case, pushes for new trial"
+excerpt: "“We think AI technology is gong to completely revolutionize the legal field by making it faster and cheaper to get complex answers to legal questions and research,” Katz said. He denied an allegation from Michel’s new lawyers that Kenner appeared to ..."
+publishedDateTime: 2023-10-18T19:29:00Z
+originalUrl: "https://thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
+webUrl: "https://thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
+ampWebUrl: "https://thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/amp/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: KSAT
-  domain: ksat.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YNFF626IDBHNRNRDLXVD2EJJDI.jpg?_a=ATAPphC0"
-    width: 700
-    height: 467
-    isCached: true
-
 related:
+  - title: "Fugees Rapper Says His Lawyer's Use Of AI Helped Tank His Case"
+    excerpt: "Grammy-winning Prakazrel “Pras” Michel wants a new trial in the multimillion-dollar conspiracy case in which he was convicted earlier this year."
+    publishedDateTime: 2023-10-19T10:37:00Z
+    webUrl: "https://www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d"
+    ampWebUrl: "https://www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d/amp"
+    type: article
+    provider:
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
+    images:
+      - url: "https://img.huffingtonpost.com/asset/653105c7230000f9092883d0.jpeg?cache=XWTn8QI9Fs&ops=1200_630"
+        width: 1199
+        height: 630
+        isCached: true
   - title: "Convicted Fugees rapper says ex-lawyer bungled defense with AI closing argument"
     excerpt: "The lead defense lawyer for convicted Fugees hip hop star Prakazrel “Pras” Michel improperly relied on an experimental generative AI program to draft his closing argument in Michel’s high-profile criminal trial last spring,"
     publishedDateTime: 2023-10-17T15:03:00Z
@@ -65,6 +77,6 @@ related:
       domain: billboard.com
     quality: 14
 
-secured: "mqOApAVhoYYiLhCAo6NCjqP2Dv+G1FcuKmjdz3VfIArPIgWW1BNg7XdJWNFM6gezCjr3jM3hJMzybF479ehMO91hOt94dDGRxqsNKGddKER1A42k6ki0kYE4p5GOb4uJVNTZEttJ2CrKz8vMQ5+lSLep9Zo1PatmAiJJMHpj26NeZ/edIxzjLE5G91jAP1Pc45rjU51QrAsZnouOWIa5z1YdwiuPAwBekBwcjO4u1IAAEvv4M+cX4v4Li3a7wsJ8lbbd/UfxwQ8jXmpOdDeqW80Wklol1gQWiBt8w7Eih/W1Ekf4V4ATkmgtkt4nkL1gGDW/vrQjr1kZSNjwhPeSqjdyiGhRSyVADpB9Z+NcniE=;81VY0tTXNO/Lv1PYlZyrvA=="
+secured: "YFVoKbaBFMe22Dj7zC9WvrTFm/yxnla6Ni5+d+SYo1ZIc6q0fei7TJMquU94/vD/Dd7ppVOn10jRkDjqTeVh3Qug7SzBW0kOyeMWkEInpy26ujex3Wwj+He+8hRoGGO6AwlU3qat9WwPvqD2+SG7U+iwul95dHC4MMxsN01ZN0eyPr/0oh2x1+N6O/TPNp0+2thbRW9OjkHJTFtQMDE4aZZfjIN+ybwWajIZmjbgCLC1eqOB7SyD3eYNFFSq2IAVRxh4o7V4t3ldthLifW1nW9nxLC2reSuq78G/V2Jnzz/5xqIgLx+9KZ8GZMH6A6+VJ2rJfiuTNYOXTU4QxRl+oFPN4MOqS4YbnKLKjALdfRI=;YTiPHIgZwGZdvTw+RjizQw=="
 ---
 

@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "AI-Powered Robotics: Enhancing Precision and Efficiency in Surgery"
-    excerpt: "In a world where AI technology continues to push boundaries, there’s one groundbreaking innovation that is revolutionizing the operating room: AI-powered robotics. Imagine a scenario where surgical precision meets unparalleled efficiency,"
-    publishedDateTime: 2023-10-14T18:15:00Z
-    webUrl: "https://techbullion.com/ai-powered-robotics-enhancing-precision-and-efficiency-in-surgery/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 49
   - title: "How to Capitalize on Generative AI"
     excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
     publishedDateTime: 2023-10-16T16:00:00Z

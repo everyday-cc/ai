@@ -145,6 +145,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Inside the ChatGPT race in China – MIT Technology Review"
+    excerpt: "A Chinese ChatGPT alternative won’t pop up overnight—even though many companies may want you to think so.Every once in a while, there’s one thing that gets"
+    publishedDateTime: 2023-10-19T11:16:00Z
+    webUrl: "https://www.inferse.com/762583/inside-the-chatgpt-race-in-china-mit-technology-review/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 24
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12672.png"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
     excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
     publishedDateTime: 2023-10-17T18:00:00Z
