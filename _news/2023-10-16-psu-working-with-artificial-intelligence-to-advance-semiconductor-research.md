@@ -51,6 +51,24 @@ related:
       name: CUInsight
       domain: cuinsight.com
     quality: 19
+  - title: "IBM has signed with government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed with government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-with-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 16
+  - title: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-an-agreement-with-the-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 7
 
 secured: "jD2qtBzNZmXMfZKQjWNvzx2+ZEGqFkO7AJ73d0FmJ7L0JtymTImgcUif2pIdYeNxUGeqJqCBZifG/Pb/IA/3NE5x6kWwNJQJINywpMtmvIKY1Wpw3Bp7L571Db8zIjzVAoRn3CesstFgkWRZt92psVheAflL2l69X4CQDIs64WsP1RIdGDEkAqoxZLaVEuy5T0Dn8Bb1paaM9x77b1omlIJx3gG8PEUXGX3XOqQ4LB5nP5XQrKe2rYr5e4z5qKaWB434oDXad5ubJzVE0IWZWaos/QpS+MGsqYwjWnPnIXUx4hswtuWiyrT32rDsKTrmbrcI9Vfz2yypBSmh+b2hAsr0PC2r0Rh+Z6OwpltNoVmyHXCRJ7rW00GCuNvXL96So1zstkdDF7a3oKsaIiq1zV06xOVgRRWC83Z/0pzcyU+gNXD+uiPrIaGhVBJsChqc2q3DSQqMNhaghRk9e2dBk49B0sUzx9vuEd0zENN4rwuH1Ov2jFQ8o5DsyhshqfRG/nnmod/e/qyuEEun4J7QcQ==;zfolbWL95mrht7Uyt5aAwg=="
 ---

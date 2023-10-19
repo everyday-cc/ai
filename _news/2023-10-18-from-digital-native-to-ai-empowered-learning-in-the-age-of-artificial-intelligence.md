@@ -24,124 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI Or Not? How To Detect If An Image Is AI-Generated"
-    excerpt: "Discover the telltale signs that reveal whether an image has been created by AI or whether it's a genuine photograph"
-    publishedDateTime: 2023-10-14T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
+  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
+    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
+    publishedDateTime: 2023-10-18T02:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295434e27170289d761a55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
-  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
-    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
-    publishedDateTime: 2023-10-17T22:13:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
+    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
+    publishedDateTime: 2023-10-16T23:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 900
-        height: 900
-        isCached: true
-  - title: "How To Control For AI Bias In Lending"
-    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
-    publishedDateTime: 2023-10-18T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
-    excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
-    publishedDateTime: 2023-10-16T17:45:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/"
-    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652d75e99e2bb23a6a7baa43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "PwC Partners with OpenAI to Offer AI-Generated Advice to Clients"
-    excerpt: "One of the Big Four auditing firms, PwC has partnered with OpenAI to integrate AI generated advisory service for clients"
-    publishedDateTime: 2023-10-17T09:22:00Z
-    webUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/"
-    ampWebUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/pwc-openai-ai-generated-advice.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "New tool can detect AI-generated content"
-    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
-    publishedDateTime: 2023-10-17T15:42:00Z
-    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to Build a Successful Language AI Product"
-    excerpt: "A new era of language productization is underway. SaaS (software-as-a-service) platforms now deliver a multitude of language capabilities — translation, dubbing, subtitles, transcription, voice cloning, and more — directly to individual users and businesses."
-    publishedDateTime: 2023-10-18T15:42:00Z
-    webUrl: "https://slator.com/how-to-build-a-successful-language-ai-product/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
-    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
-    publishedDateTime: 2023-10-17T15:18:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 18
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
-        width: 1358
-        height: 768
+      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
+        width: 400
+        height: 225
         isCached: true
 
-secured: "rkOP2rSovjQ3GNmplvrvBXU58vBo7hl2OZgpuQqyq27+TxiPnBcUJEZFrjJM4TLkcc/dwh5BWJM+XSHaHomDqTP937gNd3D+Fs8E08Bi+OfGhslsxGyTYZxpUD7GH8bHDIZ6+HbyL8NKuAenp1GNPt1TnOqDaVpjZklxBa5S0yMXbb7IcegHCcXpZmqYFSdGtVbLwAJWsH8OqMvzfdbFCfMLbK9uN0ob8M3nNAu7SYic6NT5LEfzK0XsDh2ktHeWldWDZxAgi5gIDJO0+Y0RMg3/DDJwCck5f6Dyunh4FvNUENixwJF9NV8dZ+3fLeXPIIwo3bp92s19hWjFCpplocnyCcDejUfr4Zn+jh8X66g=;8bZTIkYowHKJlRlbS6CqJw=="
+secured: "oFNzjYrOuAJ/+05aQW2sVzKrtMn5xEjsjcmW+tK/Av5EQeS/Nn2UUMXzdVAE78qQC1B1Jc8Uy9JBBwefbIJn0mslgmxhlWtqnkfOcUu1MaOmUYUWxN7/8O1e7qJG/VvDRgVDrlyQdUQNOdFdQlnq9sFAPYlnCyA+TgvunAhxvYsIB2nsZVOt4eSLouINzgDDvPzFcqDleB8UW2XOARcVPHVjBL7RLly7hL478EpF7Rw7o4BGCJfadIrsNHfZzJX2yLmsEKO0pS2C+iIHadg1/8gL/KM2F49QLjdKwtx40CxdFswbku+ikUezYVgNJ/QTw1zF8nWPA0a6JFN8lqaLvNwo/YqwwNp7MI7nTU7s1Je5s6PM3TL87kGukrW+cH+GXOeyI7F2akma6sql7I3YlCKgyziJaqHRqLdHmQ4ZvHXOnx1ik/z8M5z61vqE6JJp1Lav+AI9InNQ0uWMqra4LxxR6EFBhRbz4/bPqioxF3Xuvd/3lH4Yl4A4lkcF1LEITmaEoi1jNhws+EqLkZWCQQ==;ICO5d3+9XHY4/bFqMRLshA=="
 ---
 

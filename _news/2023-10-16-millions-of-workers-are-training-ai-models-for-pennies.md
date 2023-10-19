@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-mo
 webUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://media.wired.co.uk/photos/65241beec29457b1e5cf6b1a/16:9/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How companies are scrambling to keep control of their private data from AI models"
-    excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
-    publishedDateTime: 2023-10-19T01:06:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-control-private-data-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/datacenterlockeddoor.jpeg"
-        width: 1022
-        height: 863
         isCached: true
 
 secured: "qDjUUBujTZrGf19Qd1GXd0ONR095LP5Mr90EHnrf3qFfzUSiv9gcleXHIeoOkEtIef2AaEJMalDepRfUkKEz4WPykpusfMEVpTQmAXL5WSGxVRilN8KSYrIiD7G63qIWnQe68O4GMP7/+BCbsd+sDuMNI3UusFKZDezpqg243dLtaf7PRFD+E+68uzCYivQSo8c5y/RkRoWykn3UMWMg7I/dLraa4+cI6Upe6z/XTTzZHVv5qkZvUUun1D7VN6c4pSgqXbvmpAl5273UwkfBg+wFN3MOzqfBvG74fe5kumoIBMHdcVJnhrByW6YutrS4KZ71gXB5Cs+9GT/ZlqGRmH2Lgb42BW3+AdeXbVKL+z8=;jfCkJ1NE+FPi/X2QHXBGfA=="

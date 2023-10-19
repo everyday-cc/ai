@@ -2,17 +2,17 @@
 category: news
 title: "Fugees rapper says lawyer's use of AI helped tank his case, pushes for new trial"
 excerpt: "The trial of a Fugees rapper, who was convicted in multimillion-dollar political conspiracies, stretched across the worlds of politics and entertainment."
-publishedDateTime: 2023-10-18T23:19:00Z
-originalUrl: "https://www.local10.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
-webUrl: "https://www.local10.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
+publishedDateTime: 2023-10-19T00:19:00Z
+originalUrl: "https://www.ksat.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
+webUrl: "https://www.ksat.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: WPLG
-  domain: local10.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Facebook AI
@@ -49,6 +49,6 @@ related:
       domain: billboard.com
     quality: 14
 
-secured: "NWjfhEdTjdg3GbgwaOIqAIp8WDP0ieoDLMtFNBS++vil+84N3WjGRNWIQaQkMQGrNdVHY5xurABIQpZzqD2r1ylj1S//PPoyXgkAdHojbq3ATVNuU0EWekMTh4cq96TfFusPtYWITrfxn9SKcMkg+Ke5oPMteEhhDjgYxXxW1qMums+0/h4skAGvQBbRsfbbo0anrYXHftT0+Hv1MF5rdiaC+z4I3acPHYA3EW3+CdarU1h+L5h6x8Dw2UfTaqave+LoiEshgOfPeZSvSKMruVq2mNlJH47dlUVBQjEe9mhte1xo+msNWpoiExHlKJCSyHIE5tDaeJSwKTjOSMnbfIeDXyxnFH2hA3526HboNkc=;P/iLBwdijfseuDhinYcZuw=="
+secured: "mqOApAVhoYYiLhCAo6NCjqP2Dv+G1FcuKmjdz3VfIArPIgWW1BNg7XdJWNFM6gezCjr3jM3hJMzybF479ehMO91hOt94dDGRxqsNKGddKER1A42k6ki0kYE4p5GOb4uJVNTZEttJ2CrKz8vMQ5+lSLep9Zo1PatmAiJJMHpj26NeZ/edIxzjLE5G91jAP1Pc45rjU51QrAsZnouOWIa5z1YdwiuPAwBekBwcjO4u1IAAEvv4M+cX4v4Li3a7wsJ8lbbd/UfxwQ8jXmpOdDeqW80Wklol1gQWiBt8w7Eih/W1Ekf4V4ATkmgtkt4nkL1gGDW/vrQjr1kZSNjwhPeSqjdyiGhRSyVADpB9Z+NcniE=;81VY0tTXNO/Lv1PYlZyrvA=="
 ---
 

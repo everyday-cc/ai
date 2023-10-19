@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australians decide against creating an Indigenous Voice to advise Parliament"
-    excerpt: "CANBERRA, Australia >> Australians voted in a referendum today against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
-    publishedDateTime: 2023-10-14T11:05:00Z
-    webUrl: "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/"
-    ampWebUrl: "https://www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/"
-    cdnAmpWebUrl: "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2023/10/14/breaking-news/australians-decide-against-creating-an-indigenous-voice-to-advise-parliament/amp/"
-    type: article
-    provider:
-      name: Honolulu Star-Advertiser
-      domain: staradvertiser.com
-    quality: 56
-    images:
-      - url: "https://www.staradvertiser.com/wp-content/uploads/2023/10/web1_14305175-60302059f3c845c4b99d810132b81e3e.jpg"
-        width: 760
-        height: 507
-        isCached: true
   - title: "Australians decide against creating an Indigenous Voice to advise Parliament on minority issues"
     excerpt: "Australians have voted in a referendum against enshrining in the nation’s constitution a mechanism for Indigenous people to advise Parliament on policies that affect their lives."
     publishedDateTime: 2023-10-14T17:07:00Z
@@ -74,38 +58,6 @@ related:
       name: Sydney Morning Herald
       domain: smh.com.au
     quality: 35
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Rejecting the voice shows Australia is still in denial, its history of forgetting a festering wrong"
-    excerpt: "Indigenous voice to parliament: Australian voters reject constitutional ... When bipartisanship, which had long been a feature of the push for Indigenous constitutional recognition, died in November last year even before the question was settled, the ..."
-    publishedDateTime: 2023-10-14T09:51:00Z
-    webUrl: "https://www.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/commentisfree/2023/oct/14/rejecting-the-voice-shows-australia-is-still-in-denial-its-history-of-forgetting-a-festering-wrong"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 30
-    images:
-      - url: "https://i.guim.co.uk/img/media/4d69b941e29b96ddb4f7705581d0f515e1fdcb9a/0_0_7449_4968/master/7449.jpg?width=620&quality=85&auto=format&fit=max&s=ac37d33112858e19de4ebf2f282e7e91"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "“Now, the Voice was with constitutional recognition was important. Makarrata is simply a Yolngu word for coming together after struggle. “I think that that is a reasonable thing to say, and in terms of where we go from here, I note that there has been ..."
-    publishedDateTime: 2023-10-16T18:43:00Z
-    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55bon"
-    ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 30
     images:
       - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
         width: 300
@@ -241,17 +193,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Voice referendum result sees ‘recognition refused for the true owners of Australia’"
-    excerpt: "Indigenous leaders across Australia who supported the voice have lamented the defeated referendum as a “bitter irony” in that newcomers who had been on the continent for 235 years would “refuse recognition to the true owners of Australia”."
-    publishedDateTime: 2023-10-14T09:28:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd"
-    ampWebUrl: "https://www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/nation/politics/thomas-mayo-hits-out-at-wrecker-peter-dutton-as-voice-referendum-defeated/news-story/0a553c895c1f377161891971039ca4bd?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 18
   - title: "Constitutional recognition for Indigenous Australians seems ‘dead’ for possibly decades"
     excerpt: "Opposition Leader Peter Dutton’s promise of a second referendum for constitutional recognition of Aboriginal people if the first one failed seems now “off the table”, says Sky News Political Editor Andrew Clennell."
     publishedDateTime: 2023-10-16T05:26:00Z
@@ -346,24 +287,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Australians decided if Indigenous Voice is needed to advise Parliament on minority issues"
-    excerpt: "Proponents said there would be no Indigenous right of veto over government policy and lawmakers would be free to disregard the Voice’s representations. Critics argued the courts might interpret the Voice’s constitutional position in unpredictable ways, creating legal uncertainty."
-    publishedDateTime: 2023-10-14T09:50:00Z
-    webUrl: "https://www.houstonchronicle.com/news/world/article/australians-decided-if-indigenous-voice-is-needed-18425551.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 0
-  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T20:13:00Z
-    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 0
 
 secured: "d5HWazDc9dDY8ISLKe0ROIZHX0xyA28CZ0S711rATjfgkeNrwl7xd2JQhamFNz+vb9fR+yIfhTWH/7JuYHtJQEC2XXyo+zhsf9+z4BKl4d5dAYlvXbsoMtBe6lI976p95aUH1B5b37zlycgdJJRF81ocQh8DFqIzpLUoXytBQVhpDzfD7K07kiRWNfGCm9v/d5y+G91rJ8rXnpXGL9IBTix7juzu+uLHyrh4qFDT5OwHeIJ3eeP3V2+aLSlX+PbmIcLaYQmeX+k/jOFGTNtLfCYIaVvOZq2KtgdVdGfk/k7S9gy3q73TdWEwUYhoQ4typVnV/cC9mqRR9LhmH6K2h5RvceNj79OOQJYr0AoVltw=;nd9UGgbxO1w9z9glyphAeQ=="
 ---

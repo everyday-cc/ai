@@ -25,45 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
-    excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
-    publishedDateTime: 2023-10-18T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/"
-    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
+  - title: "IBM expands AWS partnership to bring generative AI to call centers, supply chains"
+    excerpt: "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities."
+    publishedDateTime: 2023-10-18T17:25:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
-    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
-    publishedDateTime: 2023-10-17T04:51:00Z
-    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
+  - title: "IBM Consulting to help companies get started with generative AI on AWS cloud"
+    excerpt: "French telecommunications services provider Bouygues Telecom SA said it has been one of the earliest beneficiaries of IBM’s expanded partnership with AWS. It engaged with IBM Consulting to design and implement an evolving cloud strategy that leverages the most advanced AI technologies."
+    publishedDateTime: 2023-10-18T11:59:00Z
+    webUrl: "https://siliconangle.com/2023/10/18/ibm-consulting-help-companies-get-started-generative-ai-aws-cloud/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
     publishedDateTime: 2023-10-18T18:48:00Z
@@ -73,15 +57,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "AI Is Taking Customer Relationships to the Next Level"
-    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
-    publishedDateTime: 2023-10-17T17:15:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "KfgWMfQ2AP7jC7kteBoIL3DpuQIiq3eFscLgxXfk2ImkrEOEVclRFA7iOy5mYTWH3VEjcRGJ2Q9lXgGkwya6Jk29lz9wvYy1rKGHEMCwFQYWvKw1frnOmk46RyYAxm6jOXMRtv/zc/KV62heoj+qXw4G+grleRFVPxvW4ovf581kazUfsFDqDzo+2vuszz147sld6Tl7rnJZJfAFZGnRwNfqhEpz7Eorwwijgitv5ML6HlD/9CDqvLJImJtzPBDbAvq57VIyZ9RY5VhvxzNTv9ANIIywIMp7G0KSNo+qVCpIzWLYZ1KZfiiGC+ZwFWhiM0lmpUAAnXqN6cVssDlm8JwhgOhAbYPq2/s/t1yhVKM=;X6IPijJ2yPFAb5eHWpmZAg=="
 ---

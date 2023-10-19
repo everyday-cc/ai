@@ -26,121 +26,119 @@ images:
     isCached: true
 
 related:
-  - title: "AI Or Not? How To Detect If An Image Is AI-Generated"
-    excerpt: "Discover the telltale signs that reveal whether an image has been created by AI or whether it's a genuine photograph"
-    publishedDateTime: 2023-10-14T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
+  - title: "G42 and OpenAI partner to deploy advanced AI in UAE"
+    excerpt: "G42 will prioritise its substantial AI infrastructure capacity to support OpenAI’s local and regional inferencing on Microsoft Azure data centers"
+    publishedDateTime: 2023-10-18T15:05:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Zawya
+      domain: zawya.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295434e27170289d761a55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YmM4Mzk4YzMtNTE2ZC00/1/1-jpg.jpeg?f=3%3A2"
+        width: 837
+        height: 558
         isCached: true
-  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
-    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
-    publishedDateTime: 2023-10-17T22:13:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+  - title: "UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
+    excerpt: "This initiative encompasses comprehensive training programmes designed to strengthen collaboration structures within technical fields and promote the development of national talent in emerging fields,"
+    publishedDateTime: 2023-10-18T07:53:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Zawya
+      domain: zawya.com
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/21/180516221659emso-jpg.jpeg?f=3%3A2"
+        width: 724
+        height: 482
+        isCached: true
+  - title: "The UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
+    excerpt: "This initiative encompasses comprehensive training programs designed to strengthen collaboration structures within technical fields"
+    publishedDateTime: 2023-10-18T07:08:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 48
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OTg4MDRiMzEtNjdkMS00/0/webversion-jpg.jpeg?f=3%3A2"
         width: 900
-        height: 900
+        height: 600
         isCached: true
-  - title: "How To Control For AI Bias In Lending"
-    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
-    publishedDateTime: 2023-10-18T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+  - title: "OpenAI releases GPT-4, artificial intelligence that can 'see' and do taxes – NBC News"
+    excerpt: "ProfileSectionstvFeaturedMore From NBCFollow NBC NewsA man arrested in the killing of a Baltimore tech entrepreneur was suspected of raping a woman days"
+    publishedDateTime: 2023-10-14T23:27:00Z
+    webUrl: "https://www.inferse.com/753933/openai-releases-gpt-4-artificial-intelligence-that-can-see-and-do-taxes-nbc-news/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Inferse
+      domain: inferse.com
+    quality: 45
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
-    excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
-    publishedDateTime: 2023-10-16T17:45:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/"
-    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652d75e99e2bb23a6a7baa43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
-    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
-    publishedDateTime: 2023-10-18T16:33:00Z
-    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 46
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
-        width: 644
-        height: 300
-        isCached: true
-  - title: "New tool can detect AI-generated content"
-    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
-    publishedDateTime: 2023-10-17T15:42:00Z
-    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8584.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How to Build a Successful Language AI Product"
-    excerpt: "A new era of language productization is underway. SaaS (software-as-a-service) platforms now deliver a multitude of language capabilities — translation, dubbing, subtitles, transcription, voice cloning, and more — directly to individual users and businesses."
-    publishedDateTime: 2023-10-18T15:42:00Z
-    webUrl: "https://slator.com/how-to-build-a-successful-language-ai-product/"
+  - title: "Check out OpenAI's other cool AI tools: DALL-E, Whisper, Codex – Business Insider"
+    excerpt: "But the startup behind it, OpenAI, has other AI products too. Just months earlier, OpenAI removed the waitlist for its generative AI art generator, DALL-E, which grew to over 1.5 million daily users."
+    publishedDateTime: 2023-10-14T23:43:00Z
+    webUrl: "https://www.inferse.com/753954/check-out-openais-other-cool-ai-tools-dall-e-whisper-codex-business-insider/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
-  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
-    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
-    publishedDateTime: 2023-10-17T15:18:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 18
+      name: Inferse
+      domain: inferse.com
+    quality: 32
     images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
-        width: 1358
-        height: 768
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-8593.png"
+        width: 1024
+        height: 512
         isCached: true
+  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
+    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
+    publishedDateTime: 2023-10-18T17:17:00Z
+    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
+        width: 1270
+        height: 847
+        isCached: true
+  - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
+    excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
+    publishedDateTime: 2023-10-18T23:21:00Z
+    webUrl: "https://menafn.com/1107266905/G42-And-Openai-Launch-Partnership-To-Deploy-Advanced-AI-Capabilities-Optimized-For-The-UAE-And-Broader-Region"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 20
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_891a8image_story.jpg"
+        width: 1092
+        height: 678
+        isCached: true
+  - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
+    excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"
+    publishedDateTime: 2023-10-17T19:16:00Z
+    webUrl: "https://www.theinformation.com/articles/openai-dropped-work-on-new-arrakis-ai-model-in-rare-setback"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 19
 
 secured: "OEtmu9pGQx0tOCzYlCGCr7eZmLqBVC0rAnbv3qWhzfmJIt8hmPoDQmxZjXCbxtu7P8BGsoLYonD5oHeQ+Ir0yeLSRuP9DYAEpowHLs5+la5CL4lTU5DBO3Kq3/PYD56xf6tXbxUANarHtrICuldHPT86juFtHM4GTWqkDFPHRo1srErvlVOus3tVbQ8GmhCbVeRSSKwaWqI3kle1xL39RDcML+9688EhnZvQED7W4ILmH8mOyNEPm9wqzQOPQ0cSOnwLrOGzS7yg6Jl3Q5D1FrN/2UQO9O9ZOa8hp/Pgu0vEN2/Scdxi49zMX2cHWlBaJr+vH6R5TIbVOMLogIQ9GlFJMpEQc969oLZDyy9imI4=;nb1PH6OeG1UYUcqV0o/nLA=="
 ---

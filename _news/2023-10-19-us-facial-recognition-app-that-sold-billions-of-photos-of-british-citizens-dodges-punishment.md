@@ -7,7 +7,7 @@ originalUrl: "https://www.telegraph.co.uk/business/2023/10/18/clearview-ai-facia
 webUrl: "https://www.telegraph.co.uk/business/2023/10/18/clearview-ai-facial-recognition-database-escapes-fine/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Controversial US facial recognition company evades punishment in UK"
+    excerpt: "One of the most controversial tech companies in the U.S., the facial recognition outfit Clearview A.I. Inc., has just beaten a case in the U.K. and avoided a £7.5 million ($9.1 million) fine."
+    publishedDateTime: 2023-10-19T02:23:00Z
+    webUrl: "https://siliconangle.com/2023/10/18/controversial-us-facial-recognition-company-evades-punishment-uk/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/nick-loggie-fRVPzBYcd5A-unsplash.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "US facial recognition app that sold billions of photos of British citizens won’t face punishment"
     excerpt: "A company that sold a facial recognition database featuring information on British citizens has escaped being fined because of a loophole in UK data protection law. Judges have ruled that Clearview AI broke no law when it sold its database to police forces because the buyers were non-UK and therefore outside of jurisdiction."
     publishedDateTime: 2023-10-18T17:33:00Z

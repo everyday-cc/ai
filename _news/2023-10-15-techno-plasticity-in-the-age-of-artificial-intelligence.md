@@ -43,20 +43,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Authors speak out against the usage of copyrighted work in AI programs"
     excerpt: "Artificial intelligence has the potential to be used as a tool to improve writing if employed correctly. Some authors, however, are worried about what that could mean. On Sept. 20, The Authors Guild and 17 specific authors — one of whom,"
     publishedDateTime: 2023-10-18T00:16:00Z

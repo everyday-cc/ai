@@ -2,32 +2,29 @@
 category: news
 title: "Microsoft's new AI assistant can go to meetings for you"
 excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-publishedDateTime: 2023-10-18T17:35:00Z
-originalUrl: "https://www.bbc.com/news/technology-67103536"
-webUrl: "https://www.bbc.com/news/technology-67103536"
-ampWebUrl: "https://www.bbc.com/news/technology-67103536.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-67103536.amp"
+publishedDateTime: 2023-10-18T20:35:00Z
+originalUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
+webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
+ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
+cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
 type: article
-quality: 104
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
+  - AI Ethics
   - AI
   - Microsoft AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41F6/production/_131468861_gettyimages-607477465.jpg"
-    width: 1024
-    height: 576
+  - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -402,6 +399,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "S2pM+t1I/FCzb8VIbNJkTSbjlq8Wu4TSb90Yz6M5UGBRrwJNqLQVrJHqBUafPmH2G8ArqKvyrDWH1DWi3/WI44nZP461VjEdKFc1APyC3dbsRF580/gNPycdMEQmi+mIbYC1nOCBbJEsAEGt3q2+nNdQjepfD0XfbxxRXh/b705eGTh0lrY0BnCEMdbzuRJHW0BFqMW6g+vnfHs/1dTr86QisQg34oTARHiC3EP+wlv1eZ9wb+GvMmRgS1pCwnK1ZKVYgsA5LZgRt60eQDTPj3X8SMUmxu+UbVFN+M9V6tjBZN3bxfD8NBsI355k2ocGDXkHJDTjJWAd2h2zRZi5zsgD0tA0GXEh4dqkGuvgdYc=;nIFoCrV3tbvZe+fq5S4vnA=="
+secured: "mK0jUkkUydI+9kG8iSBYwREchteZ83n1qm3kVLFCxaTZJXfd9gXHsg5ZXXpZ+WnE/2xMzd4O7Old5kBQPl6puSJO+Ttz+fyrhq1frBtWIJ6Qo/PJSfYNX1YkkKQsc2vKHmPETOJAbz9wYil0MZD2ZhTjM3Al+UWwvP0dLoMbIuy2xUMuzYL1gDQ15iBbIivbEAt/CSBQvdCwSorQnKeXEqdCb/HlMvXtXJxO39as03q8b5ZmoavJ7vWE4g4Lx8DG/h7QjCEMj/WoG93V8+A501y/7BA8DFJcHfpg9cJZleZ/A5nPTXdTYNJZU3p1Y5Em7yiKt36W6QI4E7WyaZyKU5KSrdXV4lXamTcJ8PEyrD0=;+DxGh6/IdsB6ERTqPGaCmA=="
 ---
 

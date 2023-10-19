@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
 type: article
 quality: 85
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
+    excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
+    publishedDateTime: 2023-10-16T17:45:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652d75e99e2bb23a6a7baa43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI & Low Code; Can The Two Work Harmoniously To Democratize Coding For Developers?"
     excerpt: "The synergy between AI and low code is transformative, democratizing coding and expanding the horizons of software development."
     publishedDateTime: 2023-10-18T14:00:00Z
@@ -59,6 +75,20 @@ related:
       - url: "https://mma.prnewswire.com/media/2249479/Picture1.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
+    publishedDateTime: 2023-10-19T01:43:00Z
+    webUrl: "https://www.newswit.com/en/ifiv9fegq0wt7vggkxe6kq8nzha8t2th"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 36
+    images:
+      - url: "https://www.newswit.com/storage/images/iqli/0pr/8nbl7sr1ogpfi9plc7988c128/0-GIGABYTE.jpg.webp"
+        width: 800
+        height: 449
         isCached: true
 
 secured: "ror/hplsg7zLTrQUpdfmCupR0Fl8suGjt6Zxrabr/FfT/qAEHSm+XCryMMz9DfhnYXN+3y6zjB9fVIVilDD4WL23VbFmaKT54pKfpWYvcXOwbj5qUcoi3wYgr4sokejlnSK/NgpiP87DQyaFPsGLBS4jbAWOR+xNdLLjorJskVIJR6BIvAyovFLCCsTVGiMonYF+SXvsfq8kZhdTKVT5Svnqet8h7iMu0xp9gR9Rwh2WI+uJDQkZmhrbw0SxNBNyiuNRHdmEmQOY2Fka+h9fy7ypJkhbFE/W0FnjVSPtW+oI9bQLWhJ3o2WHNDxc/fV3mJmszonKQCPeDxkdcnrR5OwriPn7aEWHiM9v8qS9XBgzikOcA5a3PWIVdAkFA/J9GcJtVE8bH9sWztQkey6cbKutT/Lgul4SoRPiW9lEfvpmjKHWEThlneY/QfDOUEmjS+VzgqR6eh6hGENx9PH5Vbonw9/5OY33epA8VdDLnId5oEDRvZjhj6BryjNM4PXlvBh2+tO284ngXhhaNGyC2w==;XRD8b04KyNORp63RhhHX/Q=="

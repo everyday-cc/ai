@@ -1,0 +1,75 @@
+---
+category: news
+title: "IBM has signed with government to enhance innovation in semiconductors and AI"
+excerpt: "IBM has signed with government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+publishedDateTime: 2023-10-19T03:16:00Z
+originalUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-with-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-with-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+type: article
+quality: 16
+heat: -1
+published: false
+
+provider:
+  name: SiliconIndia
+  domain: siliconindia.com
+
+topics:
+  - IBM AI
+  - AI
+
+related:
+  - title: "IBM inks pact with govt to boost innovation in semiconductors, AI"
+    excerpt: "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform"
+    publishedDateTime: 2023-10-18T16:06:00Z
+    webUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG"
+        width: 1599
+        height: 900
+        isCached: true
+  - title: "PSU working with Artificial Intelligence to advance semiconductor research"
+    excerpt: "In recent years, Oregon lawmakers, working with federal legislators and businesses, have been hoping to bolster the state’s semiconductor industry through investments like the CHIPS and"
+    publishedDateTime: 2023-10-16T14:46:00Z
+    webUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/"
+    ampWebUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
+    cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 55
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/10/generic-portland-state-university-10012023.png?w=1280"
+        width: 800
+        height: 455
+        isCached: true
+  - title: "Pocketnest announces AI project with Google, IBM"
+    excerpt: "Pocketnest, the female-founded financial wellness platform, announces the official kickoff to its biggest product release yet, focusing on artificial"
+    publishedDateTime: 2023-10-18T12:30:00Z
+    webUrl: "https://www.cuinsight.com/press-release/pocketnest-announces-ai-project-with-google-ibm/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 19
+  - title: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-an-agreement-with-the-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 7
+
+secured: "IZrVB1K9lfb1Ca+itDwuJ9vwKwm1lAiFm2FgGTCbl7Ivd5QH1vOR+PfHiM4YBVqRLbPgq/6cLuhkXse9eWvpoxzI8X6CqdROeA5eaAkuq6w+lsZ5EFwDAs8ZAqgZUmXdrYNKgl7cb+1TXHLVTTaUNI+AmbSFpzX2c167i3bsifOJbHYo9EdMD5ClJJ5+AqiiydG/9q5OZkyLRkG++km2TB+z14c4RhGFLgN0u7sFd0DsC81WoUq1nm0REUlPg5msBpF6UWEs1w4Fhw5xbumrSe2Ix19vEP7ShgIm3aoKlzGjORmOlsAjf5vzrcbb3Ei7T4BMj9eEfX75Wu3Edb6C2jBh6XXjIg/58Okd7TTRqX3l+D4BFvcHsR4P6k7oBn+VqY+t6HCzk8TF1ULePI4aJrq4aaxOD5HvNji0b349SQPmY+YZWrN+oR3Lukk+LKA2So47JWPStAFBT8gSk/XwGB49FutiqSsQoeMQYyOrTuevWeOTe/jytHqzv7LCNeu4PPup/6I1SZWZFmwJ/Zzkrw==;vQGQuIxt0nDab7unNTpz7g=="
+---
+

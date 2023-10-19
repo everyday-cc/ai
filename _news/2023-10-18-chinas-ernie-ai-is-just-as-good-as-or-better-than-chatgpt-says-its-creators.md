@@ -117,6 +117,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 37
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "ChatGPT creator OpenAI has partnered with G42, the Abu Dhabi-based tech conglomerate said on Wednesday, in a push to drive artificial intelligence adoption in the United Arab Emirates and other Middle Eastern markets."
+    publishedDateTime: 2023-10-19T03:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-partners-abu-dhabis-g42-uae-scales-ai-adoption-3856056"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--74pqjHjo--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-18t150510z_1_lynxmpej9h0sc_rtroptp_3_open-ai-emirates-g42.jpg?itok=Tz8vFAEY"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "How to upload images to ChatGPT for analysis"
     excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
     publishedDateTime: 2023-10-15T13:35:00Z
@@ -139,15 +153,6 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 14
-  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
-    excerpt: "G42, founded by the emirate of Abu Dhabi, said it would utilize OpenAI's generative AI models in areas including financial services, energy, healthcare and public services. The deal, the financial terms of which were not disclosed,"
-    publishedDateTime: 2023-10-18T18:04:00Z
-    webUrl: "https://www.aol.com/chatgpt-creator-openai-partners-abu-150510316.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
     quality: 14
 
 secured: "e8rM0nZxaAG4z3eRJ3Ywa9Hl3NEq9tuxnchpKtVMsceeWMeGBbWnfycxc0ajFL9laKpuOtowN7OtgGWfwKffyNHzV3k0kMc5QRvx/z+g2IHBz75n6uV6BSZ38y215dCyrWAU6OTmAi8M39OfBIdzV5clLt2UdK2tapvzhdqElTwRVvXTWr2xOwiEz2qazQpyQqjXm2nGAi4e5iFyU+w7Gh5L4rHOHHP+DYOgMcekvKqTGhN3YuQdDCjMuoMhLKHLo99UVLyfQE81AJbHFZ7mHe6Q/sQLXdNn9Mqi8qRlm1V2hucAgKm4JCh2TI/E4aYOEteBZmcCj/7rkf1yp9f93SVIDyrtl4/Auk9j4wMcC2M=;Pr2eUpThSadCdYCEQsy9nw=="

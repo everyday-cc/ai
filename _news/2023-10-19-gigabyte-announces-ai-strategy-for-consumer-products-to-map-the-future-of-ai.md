@@ -1,45 +1,93 @@
 ---
 category: news
 title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-excerpt: "GIGABYTE, a leader in cloud computing and AI server markets, announced a new strategic framework for AI outlining a blueprint for the company's direction in the AI driven future of the consumer PC market."
-publishedDateTime: 2023-10-19T01:30:00Z
-originalUrl: "https://www.ryt9.com/en/anpi/272112"
-webUrl: "https://www.ryt9.com/en/anpi/272112"
+excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
+publishedDateTime: 2023-10-19T01:43:00Z
+originalUrl: "https://www.newswit.com/en/ifiv9fegq0wt7vggkxe6kq8nzha8t2th"
+webUrl: "https://www.newswit.com/en/ifiv9fegq0wt7vggkxe6kq8nzha8t2th"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: RYT9
-  domain: ryt9.com
+  name: academy
+  domain: newswit.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.ryt9.com/img/files/20231019/iq7bfa8ede1be18c6ee2de532779dfa80c.jpg"
+  - url: "https://www.newswit.com/storage/images/iqli/0pr/8nbl7sr1ogpfi9plc7988c128/0-GIGABYTE.jpg.webp"
     width: 800
     height: 449
     isCached: true
 
 related:
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
+  - title: "AI aims to predict and fix developer coding errors before disaster strikes"
+    excerpt: "Generative AI can be combined with more traditional forms of artificial intelligence to predict how computer systems may fail before applications are put into production, according to Dynatrace's CTO."
+    publishedDateTime: 2023-10-16T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-aims-to-predict-and-fix-developer-coding-errors-before-disaster-strikes/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
     images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
+      - url: "https://www.zdnet.com/a/img/resize/28c0ea6042453b2f6bfc7502d541a0b7af992ccb/2023/09/28/9f3e672d-0f1e-4228-9b7e-d339c4f26f05/aifire.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
+    excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
+    publishedDateTime: 2023-10-16T17:45:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/"
+    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652d75e99e2bb23a6a7baa43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI & Low Code; Can The Two Work Harmoniously To Democratize Coding For Developers?"
+    excerpt: "The synergy between AI and low code is transformative, democratizing coding and expanding the horizons of software development."
+    publishedDateTime: 2023-10-18T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/"
+    ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/18/ai--low-code-can-the-two-work-harmoniously-to-democratize-coding-for-developers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652ee1ff08f740841b955421/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 640
+        height: 388
+        isCached: true
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
+    publishedDateTime: 2023-10-18T16:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/18/9901068.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/2249479/Picture1.jpg"
+        width: 400
+        height: 225
         isCached: true
 
-secured: "MOTROxHzNw2NJlfsqRjH9AvyarG49XXkPoCmV1XsulHgso6XrZm1EvlIft3fX0BYidl9aCdBNUoiV5t9+yLvs3ZS6PqnXRdvEWBD8ycjPjhUHTP93hPxFFh4J57jFZGJYAL5Bil18Jf1UrikMyg2FDl7yf/Di4LjNysSz4Yv6DiytXtzyZtDapLzjjRL1h2jlIle2qSkmWKfV+/pBl5JUyHoazyi6RE3lAbwREENme34T9nsk+kL3AUbKQRKOxy1fEpSuskw6+ml0yUdZs4bF5Mu2FsC0Hm8OAeXyEPG3VWiO7qXlTBGQan7mSR0y2+U/rRcmoeVrle+H1uRTNar1MY6NqbaBYy2IkUrTP3mqNc=;8x7IA5Y/5mAL9QAqrFl7Eg=="
+secured: "s1UteumH4zOFwIU1ewCa+QzclhehaYY5pFo+LJolj3ckVutJGSFPD0Nv+YOuWFndkEKg60TxV375EcC6lrvUfmM5kYuH4zbF/mcSFpk8knNJXui1CJb7w1SgIGo47hIVESq4wxcp9daW/Nn7Oy25fH/IMZ1CLezCHVx97itvBVr+SUTenS2XaSifXo6dkjVUOnvgNUadZEsVTj1bU39QjtaACeSnvRxZkO8AKcVbBVWdSA0F/OY50geJDvMSSCjt0zEP+jw26ktoGA7qjjnkObhrAWXO8n/XxjvSlPkRRU/x8YwImRP1M0ME7JOBVo9OdmLHeyGffEayqbWQqsSIEwByzfpmyuxdHuniKCYwTpg=;DhIVQbzWImKtyV1FUw65Yw=="
 ---
 

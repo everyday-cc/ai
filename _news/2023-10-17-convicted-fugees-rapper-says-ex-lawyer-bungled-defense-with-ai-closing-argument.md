@@ -30,12 +30,12 @@ images:
 related:
   - title: "Fugees rapper says lawyer's use of AI helped tank his case, pushes for new trial"
     excerpt: "The trial of a Fugees rapper, who was convicted in multimillion-dollar political conspiracies, stretched across the worlds of politics and entertainment."
-    publishedDateTime: 2023-10-18T23:19:00Z
-    webUrl: "https://www.local10.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
+    publishedDateTime: 2023-10-19T00:19:00Z
+    webUrl: "https://www.ksat.com/entertainment/2023/10/18/fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
     type: article
     provider:
-      name: WPLG
-      domain: local10.com
+      name: KSAT
+      domain: ksat.com
     quality: 34
     images:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/YNFF626IDBHNRNRDLXVD2EJJDI.jpg?_a=ATAPphC0"

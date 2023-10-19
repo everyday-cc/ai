@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: Forbes
@@ -30,121 +30,102 @@ images:
     isCached: true
 
 related:
-  - title: "AI Or Not? How To Detect If An Image Is AI-Generated"
-    excerpt: "Discover the telltale signs that reveal whether an image has been created by AI or whether it's a genuine photograph"
-    publishedDateTime: 2023-10-14T10:01:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/"
-    ampWebUrl: "https://www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/barrycollins/2023/10/14/ai-or-not-how-to-detect-if-an-image-is-ai-generated/amp/"
+  - title: "How lenders use AI and machine learning to boost financial inclusion"
+    excerpt: "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde"
+    publishedDateTime: 2023-10-18T06:38:00Z
+    webUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html"
+    ampWebUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Mint
+      domain: livemint.com
+    quality: 76
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295434e27170289d761a55/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg"
+        width: 1598
         height: 900
         isCached: true
-  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
-    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
-    publishedDateTime: 2023-10-17T22:13:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+  - title: "How to build a secure foundation for American leadership in AI"
+    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
+    publishedDateTime: 2023-10-18T13:00:00Z
+    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "UK launches funding challenge for tackling AI bias"
+    excerpt: "The UK government has made investment of up to £400,000 available to companies working on projects to tackle bias and discrimination in artificial intelligence (AI) systems."
+    publishedDateTime: 2023-10-17T10:32:00Z
+    webUrl: "https://www.research-live.com/article/news/uk-launches-funding-challenge-for-tackling-ai-bias/id/5118283"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 900
-        height: 900
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
-  - title: "How Tuning Fork Bio Uses Artificial Intelligence Tech To Detect And Prevent Disease"
-    excerpt: "In a nutshell, Tuning Fork Bio is dedicated to leveraging artificial intelligence to build technology intended to aid in the detection and prevention of disease."
-    publishedDateTime: 2023-10-16T17:45:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/"
-    ampWebUrl: "https://www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2023/10/16/how-tuning-fork-bio-uses-artificial-intelligence-tech-to-detect-and-prevent-disease/amp/"
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 83
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652d75e99e2bb23a6a7baa43/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
-  - title: "PwC Partners with OpenAI to Offer AI-Generated Advice to Clients"
-    excerpt: "One of the Big Four auditing firms, PwC has partnered with OpenAI to integrate AI generated advisory service for clients"
-    publishedDateTime: 2023-10-17T09:22:00Z
-    webUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/"
-    ampWebUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
+  - title: "How companies are scrambling to keep control of their private data from AI models"
+    excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
+    publishedDateTime: 2023-10-19T01:06:00Z
+    webUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-control-private-data-ai-models/"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/pwc-openai-ai-generated-advice.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/datacenterlockeddoor.jpeg"
+        width: 1022
+        height: 863
         isCached: true
-  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
-    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
-    publishedDateTime: 2023-10-18T16:33:00Z
-    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 46
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
-        width: 644
-        height: 300
-        isCached: true
-  - title: "New tool can detect AI-generated content"
-    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
-    publishedDateTime: 2023-10-17T15:42:00Z
-    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to Build a Successful Language AI Product"
-    excerpt: "A new era of language productization is underway. SaaS (software-as-a-service) platforms now deliver a multitude of language capabilities — translation, dubbing, subtitles, transcription, voice cloning, and more — directly to individual users and businesses."
-    publishedDateTime: 2023-10-18T15:42:00Z
-    webUrl: "https://slator.com/how-to-build-a-successful-language-ai-product/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
+      name: tech-ish.com
+      domain: tech-ish.com
     quality: 19
-  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
-    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
-    publishedDateTime: 2023-10-17T15:18:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
+  - title: "How to Prepare Your Child for an AI-Driven Future"
+    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
+    publishedDateTime: 2023-10-17T19:37:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
     type: article
     provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 18
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
-        width: 1358
-        height: 768
-        isCached: true
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
 secured: "QrN4X21fz6KJ4vDkF9sw4izmv6yPJlQG02BjB76Zl2Mwt3uZZknCmEuGnCGg3C/I+B15yMUedQgsBwB6BtFAOBigcZkLolTPk+OcDC04hpSEw7tA5voe1YCSBz84xeW4HLNzlGDeNFzlOLxjbnC1o4FV8YNNY1qPnU76W4ugUkY/4NyS9xXXV66fw58F8/DKivhiiKWnZgyp8glwLgrnwCTyX8WjuNQ9qX7zue+uW/DDrMIZfxmpPLfbt7lwufGWxBZwDeevbOVuSsca/HZ0ZUnneqEt7ntWZ0hILjrmLlexdY9YMYvivu5MiWWhy/UtJ2V6Wh5YLO/7VyjDLz1rof+7fD30Xz5yqWYsdQTUJ9I=;I9+b3n6C5U0B8Pxo6bpLDw=="
 ---

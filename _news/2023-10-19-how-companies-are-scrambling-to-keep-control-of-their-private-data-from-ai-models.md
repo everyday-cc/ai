@@ -25,81 +25,105 @@ images:
     isCached: true
 
 related:
-  - title: "Millions of Workers Are Training AI Models for Pennies"
-    excerpt: "From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook, Google, and Microsoft."
-    publishedDateTime: 2023-10-16T06:00:00Z
-    webUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/"
+  - title: "How To Control For AI Bias In Lending"
+    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
+    publishedDateTime: 2023-10-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/6525d761419624284be05211/191:100/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
-        width: 1280
-        height: 670
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "AI models can analyze thousands of words at a time. A Google researcher has found a way to increase that by millions."
-    excerpt: "Ring Attention' is a new technique that massively expands the context window of AI models, according to researchers."
-    publishedDateTime: 2023-10-16T09:00:00Z
-    webUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-researcher-ai-models-analyze-millions-of-words-at-once-2023-10?amp"
+  - title: "How lenders use AI and machine learning to boost financial inclusion"
+    excerpt: "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde"
+    publishedDateTime: 2023-10-18T06:38:00Z
+    webUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html"
+    ampWebUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg"
+        width: 1598
+        height: 900
+        isCached: true
+  - title: "How to build a secure foundation for American leadership in AI"
+    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
+    publishedDateTime: 2023-10-18T13:00:00Z
+    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
+  - title: "UK launches funding challenge for tackling AI bias"
+    excerpt: "The UK government has made investment of up to £400,000 available to companies working on projects to tackle bias and discrimination in artificial intelligence (AI) systems."
+    publishedDateTime: 2023-10-17T10:32:00Z
+    webUrl: "https://www.research-live.com/article/news/uk-launches-funding-challenge-for-tackling-ai-bias/id/5118283"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/6529e12468f1d46f52b1d4a7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How transparent are AI models? Stanford researchers found out."
-    excerpt: "Join us for key insights and networking with leaders in the Data and AI spaces at VB's exclusive after hours event this November! VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More"
-    publishedDateTime: 2023-10-18T22:37:00Z
-    webUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/"
+    quality: 47
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T093154.335.png?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
-  - title: "AI Storytellers: How Generative Models Are Penning Bestselling Novels"
-    excerpt: "Generative models, particularly those rooted in deep learning and natural language processing, have made remarkable advancements in recent years. These AI systems exhibit an astonishing capability to generate coherent and contextually relevant text."
-    publishedDateTime: 2023-10-17T07:30:00Z
-    webUrl: "https://www.timesnownews.com/education/ai-storytellers-how-generative-models-are-penning-bestselling-novels-article-104490175"
-    ampWebUrl: "https://www.timesnownews.com/education/ai-storytellers-how-generative-models-are-penning-bestselling-novels-article-104490175/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/education/ai-storytellers-how-generative-models-are-penning-bestselling-novels-article-104490175/amp"
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 59
-    images:
-      - url: "https://static.tnn.in/thumb/msid-104490197,thumbsize-1055184,width-1280,height-720,resizemode-75/104490197.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Millions of Workers Are Training AI Models for Pennies"
-    excerpt: "Her friend told her about Appen, an Australian data services company that was looking for crowdsourced workers to tag training data for artificial intelligence algorithms ... Appen’s clients have included Amazon, Facebook, Google, and Microsoft, and ..."
-    publishedDateTime: 2023-10-15T07:02:00Z
-    webUrl: "https://www.wired.co.uk/article/low-paid-workers-are-training-ai-models-for-tech-giants"
+      name: tech-ish.com
+      domain: tech-ish.com
+    quality: 19
+  - title: "How to Prepare Your Child for an AI-Driven Future"
+    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
+    publishedDateTime: 2023-10-17T19:37:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/65241beec29457b1e5cf6b1a/16:9/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
 
-secured: "pWca0g792hvq/JC6eZbtYWK+upraFaYANvaIFTMymtso6VsCMGIqasspg1IVP80Hre0iAJXZ5BYMQfrTCOGkZmUfKp4Dy39Pss8epIv+m8ice0+aDRFJ3jSUYeuNZW5ZnkbO5GOidm+KC1kebonrE777IyUzSsoS0i0KrkzDvjV2LwRt/v8Ccb4QWtbN1LCUVCwxY6mYk9U8obFlTxIx3ugV7gTDsFSnhJc5qsoTeyGDaH1kGqzwJE42XgmFck6F0mV6FeWV4REmA47yW2/XPGOT2JA/A6B/QACKBxQNoYtRzwTKkampnHqi9FrtAExmKaeNYwc8xwp/yf34H3zs2tzToRsExs+0Y7+4Rt/kO5k=;dqDBPZPcNaUZ+0j+Cct37A=="
+secured: "re2q0Vdpp22mHG7fahLJbPb4zu8HEcPW2xAF4V+EA2Z97ADhmEC9g1cIMDdKQ79yH6QtP/URdqfaYJSerN7cvwrR3ZrWP1mTWaqvCJ+fgw3BejjleaBPGrXZCnZIPi/92MvIq1zRcVvmJAhwsiwmlAHT2QwxwYOYfHpa/S0ThSeVvrXDo6xMI6nUR9EJjVZmEvffHgLPfK+aey7MokGNWvH+xevWfBLJzaz9C5k4l2SufALSM4POEQoW3oPjwM1Qx1qpk1oDEVCjlfSncCjD8G01Qb+FT1H1lzLE7wA4hFoH1kQ0P1onmwqT0wszPKP8ReUPQ6jSFe2pHu+t337hbbYPXgQ2pb3iPMwAASLYMnLpTaYbyrwj/GJoPfOjIhKWRsrJbG1lswzrExQAvKEmSD8vT5JV6twYZpqrBu5+iZxmtrJhjy+KeOo0xb3dimxjp8srMAHCvPPTjzFlmncz6HLeQiOI53Q3nNh4nvroKDviAyDt2g3kz8AnQsPB6GxlNXees1ql1M9JzHCNcsrkoQ==;gg+8CJ+f6l1UdFH7gqufgw=="
 ---
 

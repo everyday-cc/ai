@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-ope
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "PwC Partners with OpenAI to Offer AI-Generated Advice to Clients"
+    excerpt: "One of the Big Four auditing firms, PwC has partnered with OpenAI to integrate AI generated advisory service for clients"
+    publishedDateTime: 2023-10-17T09:22:00Z
+    webUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/"
+    ampWebUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 57
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/pwc-openai-ai-generated-advice.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
     excerpt: "This initiative encompasses comprehensive training programmes designed to strengthen collaboration structures within technical fields and promote the development of national talent in emerging fields,"
     publishedDateTime: 2023-10-18T07:53:00Z

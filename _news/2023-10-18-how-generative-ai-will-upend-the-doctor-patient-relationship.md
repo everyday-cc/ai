@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
 type: article
 quality: 87
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
+    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
+    publishedDateTime: 2023-10-17T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 900
+        height: 900
+        isCached: true
   - title: "How Generative AI Will Revolutionize The Future of Your Brand"
     excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
     publishedDateTime: 2023-10-17T04:51:00Z
@@ -44,47 +60,34 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
-    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
-    publishedDateTime: 2023-10-16T12:14:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
+  - title: "New tool can detect AI-generated content"
+    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
+    publishedDateTime: 2023-10-17T15:42:00Z
+    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "Delivering joint solutions upgraded with generative AI capabilities for critical uses cases - Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants - Plans for further integration of IBM watsonx with AWS ARMONK,"
-    publishedDateTime: 2023-10-18T11:59:00Z
-    webUrl: "https://www.asiaone.com/business/ibm-expands-relationship-aws-bring-generative-ai-solutions-and-dedicated-expertise-clients"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/pr-newswire_500_4_1020.jpg?h=7de12b8a&itok=Lc8yxDNw"
-        width: 600
-        height: 316
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
-    publishedDateTime: 2023-10-18T18:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients/"
+  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
+    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
+    publishedDateTime: 2023-10-17T15:18:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
-  - title: "AI Is Taking Customer Relationships to the Next Level"
-    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
-    publishedDateTime: 2023-10-17T17:15:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 18
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
+        width: 1358
+        height: 768
+        isCached: true
 
 secured: "Pr01q1VM+fUb1Iekdcypp4XTeWYZXl76iChwDH3GrLp1DApWFAYplcuWUTp6VFCkym4IjaJxb8B4LDBU8xrDFtwtzqhSHaljqDHpCN5mzohavZvrsfXd/ZECgWxW/CFWVqkD4TBTt9DYJXAV0lOfp3rLTHXYNjLhx2k7HKdEv9OtlbtPgE+uCnihAXl1G2tFOTpvQhAFFncTOeJu6uV3oucMVy9P3jh9GN4xmAOMoAOHOa0yH3R5DEHRw4H9DrwxqDSsqh9cY7E2HPXIf0aEq5AyN37v8XpudCgWFLw+qNViq04oOdpGXjwS7V9rVpfkVtnUr8BF7EFdzXIlKzV9PIGxlZ29spGBPqMgvBTiSGM=;EiHpkU8Fvcn+IjJzbPvo+A=="
 ---

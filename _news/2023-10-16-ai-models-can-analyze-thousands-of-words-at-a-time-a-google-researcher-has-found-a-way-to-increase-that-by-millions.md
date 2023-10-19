@@ -90,20 +90,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How companies are scrambling to keep control of their private data from AI models"
-    excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
-    publishedDateTime: 2023-10-19T01:06:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-control-private-data-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/datacenterlockeddoor.jpeg"
-        width: 1022
-        height: 863
-        isCached: true
 
 secured: "a00qOHJE5aMyc2GyueMtWYeTBWbu1WnmePuasR1QFAU3Hcy/N3Fr6U3Ex0omFUvc7qaH0OxNBjCROX6QnNWolLv+LLLbihm+WtM7hcrjCL4Bxn+9/JWECQzzF0J+d55F1jv++VVt7Gnd8qmg4v8NVKCOk3Vzhb02/krSUIC17L80hzDBbjZjaNjdHrCxHedJeKDDNY33rHzTSF13A2aOGao2AnndGFKdHOa95N41r/JCL3VbYOkhh/0GmyKLe/nkTy5KPeDTrho9dxnobWlONEnfGIoMfcPNqbAYYTFMLZAFu3+VDwpvX9BOzs3TUpAeMSaP6L/ry72cppZjCtL/KdUFtn7jGALK9kA85wLJ6SdHEMfWGFARl6PnZYL329wpLlFeoQk4jEGrQwJVj/etWt9Eu6YvGC1n6fyCXAVVeUaqnoEfXBvNgHen6kQhMrLtfyPXEjjjjKKgphasX8da/LqBsxIk3m18H+FY3Ge+Xzu0VEmdGr/ISV9r/FEUAkKI3jWmD9WMrGBpShslUBlhLw==;A2NS1flz/Rf5B0qGmBCfgw=="
 ---

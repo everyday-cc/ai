@@ -7,8 +7,8 @@ originalUrl: "https://www.americanbanker.com/list/five-takeaways-from-american-b
 webUrl: "https://www.americanbanker.com/list/five-takeaways-from-american-bankers-ai-summit"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: American Banker
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How to build a secure foundation for American leadership in AI"
-    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
-    publishedDateTime: 2023-10-18T13:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
+  - title: "Bank of America: Buy these 11 AI-exposed stocks that have both explosive potential and stable dividends"
+    excerpt: "Artificial intelligence will have a $15.7 trillion impact by 2030, Bank of America says. Here are 11 AI stocks tied with high upside and dividends."
+    publishedDateTime: 2023-10-18T13:33:00Z
+    webUrl: "https://www.businessinsider.com/ai-stocks-to-buy-now-artificial-intelligence-bank-of-america-2023-10"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
   - title: "US China tech 'war': New rules coming to stop American companies from exporting AI chips"
     excerpt: "The US is set to introduce new rules that will make it harder for US companies, like Nvidia, to sell products to China. These export controls are expe"
     publishedDateTime: 2023-10-16T08:35:00Z
@@ -43,15 +43,6 @@ related:
       name: headlinestoday
       domain: headlinestoday.in
     quality: 25
-  - title: "How to Prepare Your Child for an AI-Driven Future"
-    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
-    publishedDateTime: 2023-10-17T19:37:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
   - title: "Do corporations and networks not realize it is Italian American Heritage and Culture Month?"
     excerpt: "Watching college football on ESPN this weekend, one of the commentators brought up something about Hispanic Heritage Month. Later, there was a commercial also mentioning the very same thing again."
     publishedDateTime: 2023-10-16T11:31:00Z

@@ -18,6 +18,38 @@ topics:
   - AI
 
 related:
+  - title: "How To Control For AI Bias In Lending"
+    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
+    publishedDateTime: 2023-10-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "How lenders use AI and machine learning to boost financial inclusion"
+    excerpt: "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde"
+    publishedDateTime: 2023-10-18T06:38:00Z
+    webUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html"
+    ampWebUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 76
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg"
+        width: 1598
+        height: 900
+        isCached: true
   - title: "How to build a secure foundation for American leadership in AI"
     excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
     publishedDateTime: 2023-10-18T13:00:00Z
@@ -27,43 +59,68 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "Five takeaways from American Banker's AI Summit"
-    excerpt: "At American Banker's AI Summit on Monday, bankers, consultants and vendors shared how their institutions are moving forward with generative AI, fintech partnerships and security. AI is the technology that banks are most excited about to create competitive advantage, according to recent research from American Banker's parent company, Arizent."
-    publishedDateTime: 2023-10-18T01:00:00Z
-    webUrl: "https://www.americanbanker.com/list/five-takeaways-from-american-bankers-ai-summit"
+  - title: "UK launches funding challenge for tackling AI bias"
+    excerpt: "The UK government has made investment of up to £400,000 available to companies working on projects to tackle bias and discrimination in artificial intelligence (AI) systems."
+    publishedDateTime: 2023-10-17T10:32:00Z
+    webUrl: "https://www.research-live.com/article/news/uk-launches-funding-challenge-for-tackling-ai-bias/id/5118283"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
     type: article
     provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
+      name: research
+      domain: research-live.com
+    quality: 59
     images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/85c4b4a/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fa4%2Fd4%2F8d3275fd410b839db3403cc1fb4b%2F322456035-1-4.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
-  - title: "US China tech 'war': New rules coming to stop American companies from exporting AI chips"
-    excerpt: "The US is set to introduce new rules that will make it harder for US companies, like Nvidia, to sell products to China. These export controls are expe"
-    publishedDateTime: 2023-10-16T08:35:00Z
-    webUrl: "https://www.headlinestoday.in/technology/us-china-tech-war-new-rules-coming-to-stop-american-companies-from-exporting-ai-chips-624307790.html"
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
     type: article
     provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 25
-  - title: "Do corporations and networks not realize it is Italian American Heritage and Culture Month?"
-    excerpt: "Watching college football on ESPN this weekend, one of the commentators brought up something about Hispanic Heritage Month. Later, there was a commercial also mentioning the very same thing again."
-    publishedDateTime: 2023-10-16T11:31:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/do-corporations-and-networks-not-realize-it-is-italian-american-heritage-and-culture-month"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 14
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
     images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/77b965f/2147483647/strip/true/crop/4756x2497+0+248/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fd2%2Fc1%2Fff02ba4649ab8e19e234fd8d8bbe%2Fap22269398855543.jpg"
-        width: 1200
-        height: 630
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
+  - title: "How companies are scrambling to keep control of their private data from AI models"
+    excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
+    publishedDateTime: 2023-10-19T01:06:00Z
+    webUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-control-private-data-ai-models/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/datacenterlockeddoor.jpeg"
+        width: 1022
+        height: 863
+        isCached: true
+  - title: "Why the Gaming Industry is perfect for AI Training"
+    excerpt: "Gaming provides AI with abundant data, real-time feedback, diverse environments, and simulated realities, benefiting robotics and healthcare."
+    publishedDateTime: 2023-10-14T16:01:00Z
+    webUrl: "https://tech-ish.com/2023/10/14/gaming-ai-industry-training/"
+    type: article
+    provider:
+      name: tech-ish.com
+      domain: tech-ish.com
+    quality: 19
 
 secured: "kXFtXsyyV8yDNUILiUFjajnTi6ku1CZijxRLrc17bIzBqZRT30BOwW5tfz578OTws1gMgVliv9PImlz8JN8Xbix3c4g3Hz+h/6C4emq0mAS3MBzKlyyzch3AvIAsUMMOvCN7xX/HeNkZ/YegvKRVJPAjz/hRuHkIXHL23eTo0lXZ4eFOiT/0fEmDjCA1f22ybqjPJ5EbDtInd9rx0mkDyaYtAcv1d1AL6/ZPfn5Y7amUYMcaBNz9ZohgU1vCPsLAfLkcS3gpjeSSdzud6xJP+RFcpSoYB3xAM31orTZuupatPvfWBaIvoJnrV4Un6ZHzqUdxD3EnNMourP5N5Tn7Aj3tph4W3gXXsAwpc98sv8A=;nkW3Y3NASpwmak3e06rZHw=="
 ---

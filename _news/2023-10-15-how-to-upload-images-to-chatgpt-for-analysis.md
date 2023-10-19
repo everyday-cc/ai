@@ -128,6 +128,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 37
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "ChatGPT creator OpenAI has partnered with G42, the Abu Dhabi-based tech conglomerate said on Wednesday, in a push to drive artificial intelligence adoption in the United Arab Emirates and other Middle Eastern markets."
+    publishedDateTime: 2023-10-19T03:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-partners-abu-dhabis-g42-uae-scales-ai-adoption-3856056"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--74pqjHjo--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-18t150510z_1_lynxmpej9h0sc_rtroptp_3_open-ai-emirates-g42.jpg?itok=Tz8vFAEY"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
     excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
     publishedDateTime: 2023-10-17T18:00:00Z
@@ -136,15 +150,6 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 14
-  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
-    excerpt: "G42, founded by the emirate of Abu Dhabi, said it would utilize OpenAI's generative AI models in areas including financial services, energy, healthcare and public services. The deal, the financial terms of which were not disclosed,"
-    publishedDateTime: 2023-10-18T18:04:00Z
-    webUrl: "https://www.aol.com/chatgpt-creator-openai-partners-abu-150510316.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
     quality: 14
 
 secured: "WWwVvcPzNXqINVwFyDxE+bdfYD40VXIozFvMojwOVGdENtrgRyYsWQECx7AuawdBbDHXXucOJ+cG4LqAQPdIQujDglflkrMBKmNWG2bfbSrewi0Us71poUOy9Pf+NuQlIgifpbHPb4OcnZrj9SuMZk0IcE0DfW4lq/xjl5iavdzkKk+sKQqizAD/2dgLM7aw611ZmxVCivCNbUzMJPsvpJSYxGyvWU1S/bAh13X6PMbaJ9gcJ3GUAxmNWZPhZEpAaZBiQMXN8iw+EiMcdIMSbsExZWfBzYQUWic/zAoBxx0uqRref30GjrPW5VExODKly/KkwMbUPd7Q2Tp5/sVoCSnb1yHYToOM3TFgqhIzpiA=;DT3g7vukrAaYKH1pqO8w7Q=="

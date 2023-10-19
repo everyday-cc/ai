@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-an
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Critics say Artificial Intelligence and Data Act needs to focus more on rights, not just business"
-    excerpt: "While Thomasen says having AI under the authority of an ombudsperson rather than a ministry devoted to economic interests would be a preferable approach, regulating AI is a tough challenge for the government due to the many different ways the technology can and will affect the experiences of Canadians."
-    publishedDateTime: 2023-10-16T20:39:00Z
-    webUrl: "https://www.canadianlawyermag.com/practice-areas/privacy-and-data/critics-say-artificial-intelligence-and-data-act-needs-to-focus-more-on-rights-not-just-business/380552"
+  - title: "Is AI about to transform the legal profession?"
+    excerpt: "Legal software system RobinAI uses what it calls an AI co-pilot to help speed up the process of drafting and querying contracts, both for in-house legal teams in large organisations, and for individuals."
+    publishedDateTime: 2023-10-19T02:07:00Z
+    webUrl: "https://www.aol.com/ai-transform-legal-profession-230711078.html"
+    ampWebUrl: "https://www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
     type: article
     provider:
-      name: Canadian Lawyer Magazine
-      domain: canadianlawyermag.com
-    quality: 24
+      name: AOL
+      domain: aol.com
+    quality: 59
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/ca/120/0422_638330855375901930.png"
-        width: 1000
-        height: 600
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b87d4754288b7172a2426d2ad5fece63"
+        width: 976
+        height: 549
         isCached: true
+  - title: "Now AI could help healthcare professionals manage depression"
+    excerpt: "New findings suggest ChatGPT ‘may be better than a doctor at following recognised treatment standards’ for this mental health disorder."
+    publishedDateTime: 2023-10-18T23:30:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/10/19/now-ai-could-help-healthcare-professionals-manage-depression/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "rhUrsIRlmvwxxyW69pVJZfrwD9CrJNkTgdyRvWOEXZOU1km5qj6EdJzjzPGdL7IZhQFPHvGT3nh+LuZfZQBgYzz0+YhmMWMcRRyJlS03qxxbJiKxdXWVYMpY9l2CnNJBSgsNfC07Eb5QF+9dNQmu4fDoi0Nod7rmnH0mHVO+4JzfVTk1DRp219sOlTpW2oaeXR7MvDrqRtIKpoJPWBBvrxGxlrAFX2w4nmWx+3P3f5+M20MoMEz6W//PMGhmoTKiW3u57nYqjsG7Bxs1hcyNG1akenezpeLaePpEfvERFg5OuLLbh7UotAI6WXLgZ8w/kKLzs9Bj4G+llKQjH3hSMRU8VsbhFPQYpPbbbBCA4sl3zHvJpn8/ZPZB1UDBLzeBEfyfEEDeOGDw/I+LL+0sITiAxqsNiP6r26u+OwfS31XupZeurHqcf6HdEm8Hfyp1WVkH7Vkze8xVGwuJ67luzyStqhLPsVFPiYSy/ipKeSfI00ciA2CF67Y3/HM1bw5h0J/AecDMRE9RazlkaikfAg==;4bnnzLbPNpXB2XaVbuZ0NQ=="
 ---

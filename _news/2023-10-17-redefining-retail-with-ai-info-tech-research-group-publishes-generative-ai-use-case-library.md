@@ -45,6 +45,20 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
+    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
+    publishedDateTime: 2023-10-18T16:33:00Z
+    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 46
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
+        width: 644
+        height: 300
+        isCached: true
 
 secured: "d6JtXrv2Yr3WE8M9vpn/Q3aoGuB/r7d2dPa/dGzlg71WtZ4pk4zOV2HBX0tkR2DYsZvaMKg/AmW+Gu4min0yOzEhfhtR4IbjAOuxtyJ8luiFENDMavgrSzVKWGD7N76ZFKVwzBEle5jdpuXseiT3cZgvk7+L/lnKDvavbgf+hyBxmWOvaK8DAYd2c8NomLqjzPB1OzRzH46yaxJdHxY1r4riqkUKxnW+qZx9mIeubBAiSkmsPguROxKx6cXyi4/Lt1CZ8xHR3gNZQBcdv6jFQxaYYoKwnKkQaVrsSHt79OqEmnePFr4S6U0Livd1tchUaAnoYqVOPCDcX9r9vuuC9fUqKrlP5wzLkp7QSsPkgvBQ477Spmyq0B97V6tPLMlx4FiEthxPICYOqTr5Al8SnplFbXywBkYMTucHLT44EXfW9B6v8MiDaseDhTnHpyKFxUNQ782ehIsBEgVUMC5piCXjGSl/NUF8L38HkhP9IlrKOnNjfpfyYHxomYpuwPDrqm+xLK5I0ilb7cyaL49Itg==;Hw9A9pYSfEFjbxcM09LXCg=="
 ---

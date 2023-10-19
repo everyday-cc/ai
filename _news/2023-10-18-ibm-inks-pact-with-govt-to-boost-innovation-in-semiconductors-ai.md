@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-b
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -52,6 +52,24 @@ related:
       name: CUInsight
       domain: cuinsight.com
     quality: 19
+  - title: "IBM has signed with government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed with government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-with-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 16
+  - title: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-an-agreement-with-the-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 7
 
 secured: "3iL30XcmAUQKKTb7b1d4NA9CHj7cPt5hzq2qOnvySrSGkGUj8yz5mH6Zm34e9ilN6l5NvBtR2RlRHLE5zK0nVf7merga9LJ0vWviqOuLaRA5+6j2ti0Fkaib5pdu51CWqkezm1el4ueihul6RPzlO72bRhzKhQF77oblossF9N/Ey+4NBsDSqGrgVjiZXIcxVQ8/XYSaNuvYNRY3ypbF8s4tEl9tIVY8IZOkTnIC2iqQ5xxBJXrMhFNdVlYzK8RySFQuuvVGnt8yI/ya4qOicbGq4CKJU/KgiEfzTfwuaVNUpWPAsvW2N3D+R4EGsAmgcYyYqmfMSQgrbAYw4R/ObJdYx1n1MhAlCg2n+6CC1v0=;OXMbRVFRPxMMi6bXcjiBLw=="
 ---

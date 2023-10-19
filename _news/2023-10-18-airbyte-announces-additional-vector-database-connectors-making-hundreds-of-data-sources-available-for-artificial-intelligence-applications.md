@@ -18,15 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Airbyte Announces Additional Vector Database Connectors, Making Hundreds of Data Sources Available for Artificial Intelligence Applications"
-    excerpt: "\"We were the first general-purpose data movement platform to add support for vector databases - the first to build a bridge between data movement platforms and AI,\" said Michel Tricot, CEO, Airbyte. \"Now,"
-    publishedDateTime: 2023-10-17T16:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900373.htm"
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Unlocking the Animal Kingdom: AI's Potential for Conversations with Wildlife"
+    excerpt: "Discover how Artificial Intelligence (AI) is transforming our understanding of animal communication and paving the way for meaningful conversations with wildlife. From deciphering animal languages to advancing conservation efforts,"
+    publishedDateTime: 2023-10-17T01:23:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 56
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_10_2023_15_32_54_4822987.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "T+h0ZcrtgF10nDhJIUGxrTJGKRv+1zCgqiKX71h+j9lQDOam4FQNesXXYmsg8FvyOCG7zV6pXjtI8+znRgVtxiuxb7e39eUOuQPbRSPcbBh3qlSThlXm/zsjKsCWwcb+wtBRge15v05K1iUeXDmzEbLXeur08k1axTBfPtbdbISq0M/UfIT5ByMED0M+42nuIjQ+pytPO6Wnmn5GE2+v+j8vD8BCYYQLtnvgRTCIGamejs4sJkjtea/jDyQhK6F4WkH7KdRUXxTMjhP9tmnxlwafycDQQ+liuhzcEiI9oCizkKeF8TpQEFCE+N3GQVDUFGO78qjkKrG+qIsuVREZh1rEe2/f252cPwkrX9lDObo=;TRu66VHOpSPxTZe1kvVeNw=="
 ---

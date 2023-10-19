@@ -122,6 +122,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 37
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "ChatGPT creator OpenAI has partnered with G42, the Abu Dhabi-based tech conglomerate said on Wednesday, in a push to drive artificial intelligence adoption in the United Arab Emirates and other Middle Eastern markets."
+    publishedDateTime: 2023-10-19T03:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-partners-abu-dhabis-g42-uae-scales-ai-adoption-3856056"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--74pqjHjo--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-18t150510z_1_lynxmpej9h0sc_rtroptp_3_open-ai-emirates-g42.jpg?itok=Tz8vFAEY"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "How to upload images to ChatGPT for analysis"
     excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
     publishedDateTime: 2023-10-15T13:35:00Z
@@ -136,15 +150,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
-    excerpt: "G42, founded by the emirate of Abu Dhabi, said it would utilize OpenAI's generative AI models in areas including financial services, energy, healthcare and public services. The deal, the financial terms of which were not disclosed,"
-    publishedDateTime: 2023-10-18T18:04:00Z
-    webUrl: "https://www.aol.com/chatgpt-creator-openai-partners-abu-150510316.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
 
 secured: "Is5kMoEwVsUkbxAUuEgC0ekfquRxS2muamxynf/Q0XJ/qQXmiGsXtv+c2h7XLiWomJSvGP+RMLxSIiv/TN9oQ1KmC+AqVD7kz54lZZSSvN0lMtPabv77gnwOf2EZbIhjQWHErgNOyFosiCMamBFcEc0l3K09DRyHBJ5Quq08rWF8kc5OXft6eg0o2OTJYktkMuQbsHS3lVp+idcd2qdM8CDWxOyjLd1XU5B53+85tjAehaniJNuhf2g4HI60YKU/a6s+smQ1AcrfQPMXixoszalkcuGWm2exMyVOWPyezghL/+Z8sA4MxO+HFJXKgHjXlpmapxf7NKtlSLdbgS6GEprsKi0OVGB/tJHIEzM/P7U=;AgK+2lcWiLsd10QkELGrIg=="
 ---

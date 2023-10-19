@@ -117,6 +117,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 37
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "ChatGPT creator OpenAI has partnered with G42, the Abu Dhabi-based tech conglomerate said on Wednesday, in a push to drive artificial intelligence adoption in the United Arab Emirates and other Middle Eastern markets."
+    publishedDateTime: 2023-10-19T03:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-partners-abu-dhabis-g42-uae-scales-ai-adoption-3856056"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--74pqjHjo--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-18t150510z_1_lynxmpej9h0sc_rtroptp_3_open-ai-emirates-g42.jpg?itok=Tz8vFAEY"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "How to upload images to ChatGPT for analysis"
     excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
     publishedDateTime: 2023-10-15T13:35:00Z
@@ -140,16 +154,7 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 14
-  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
-    excerpt: "G42, founded by the emirate of Abu Dhabi, said it would utilize OpenAI's generative AI models in areas including financial services, energy, healthcare and public services. The deal, the financial terms of which were not disclosed,"
-    publishedDateTime: 2023-10-18T18:04:00Z
-    webUrl: "https://www.aol.com/chatgpt-creator-openai-partners-abu-150510316.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
 
-secured: "LZ/62KLPvCFlD1jdAAU8dnIeMvK9voXu0HwO1SvD6HKH85FiW5bB3zU/KwGfP5sQzmINYMbS9sD//dSxnF7FMhhVQ8sZ2d88iRmtiM258sOU1nqFEWjsi0LsM2tdKSUAW/nGEfr/FfwuBB+TRSG/BmEQAl9+tjhLqs/knAb7w6UDJiy75unMjmnbYgr9epW1da5kfdINE03QStKy3yMnDZ61qOMLxQAD23YEpnvC7GykZ8f7AQgC9uX4t/uxCXWqXGn9+ZfGMv1xxPH+4qT9v8ouSrs5JfvcDbTtTnj0sppGKXnvmDrq81E2fWSA1jhFweUWmgiLmAxfPMDZlk7/R09LwxWb+UeO1E7ZxLjur4k=;coNjBfEzBDP6ZeJZDYAq+g=="
+secured: "VCM7IFLEy3eI8Mr/zL0kxqMNIITUnyearROX4X6hzCa1QPEDaVGGKmqohu+T5aqlbpOXe7W1/jXi4e7Qjcm4EmWfRpnJ0aUhkN0QQvWnmXiSat4/aQhhzQ56QvH3GrmoDTnR5kMs/cgyY2vQo/92BSWOOoYJvdYNArxEK72kIQhQK/uyyKmLJZP8uNFKOQHFQk+yZTbsF4avAmxZTKDNBuhjxQG/Oce7mRlX20C7FYl2CpFCm1ouEiEZfgIr4Qv0Y+NcV+b0nHgdrCk4+D16Sci8AajpGgE6SkpmpOetThsjGsemgmeUF8YSgMuYFOI8B10heZ8qsxw7lESkCWZo4LJ99WJZE4kQH/H76ZABZC0Ouu23K4q5HuFcrKd70/sBendCJENh0qVRwYV9hnwX5msHlkqupjVqRT7COiMjBB7KJO64mEqKETij/9kuOEkVHD5cBcK/8GvY6iO0r05s+N5izkTIfT0nDXb5+rSf7UwTTCh/W+nhmzmr2kYyax/KgLDvgSVdoVIGk5sQ7uC4Nw==;4iqIJ0F1fc2mUhiQJmvWeA=="
 ---
 
