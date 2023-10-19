@@ -3,22 +3,18 @@ category: news
 title: "Nvidia and iPhone maker Foxconn to build \"AI factories\""
 excerpt: "The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called \"AI factories\". The firms say it is a new kind of data centre that uses Nvidia chips to power a \"wide range\" of applications. They include training autonomous vehicles, robotics platforms and large language models."
 publishedDateTime: 2023-10-19T03:09:00Z
-originalUrl: "https://www.bbc.com/news/business-67153669.amp"
-webUrl: "https://www.bbc.com/news/business-67153669.amp"
-ampWebUrl: "https://www.bbc.com/news/business-67153669.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-67153669.amp"
+originalUrl: "https://www.bbc.co.uk/news/business-67153669"
+webUrl: "https://www.bbc.co.uk/news/business-67153669"
+ampWebUrl: "https://www.bbc.co.uk/news/business-67153669.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67153669.amp"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -302,6 +298,6 @@ related:
       domain: aol.com
     quality: 1
 
-secured: "WDL4UwdCghRF8NXyRsxRD/oCEygN4JtoiI99sLAySLmzA0dydrN/UjHR0eEBv6Lq4p+Al0jdd3yB+p7eHvurkpMibIcaEd4Rn8V86Cz5LCaFIQa2e5a41eCGffOrQiSf7Gp/IvyDPCJpIITZ5c98jgcGNmQ2PN6Sow9evsiB6WNf/PN7eA+F8qOKOIpv7axMQXed+Rm7b/gPItsnq7Z5GtkwL4baSlEZpda+vTWTMLeLxJtL6iiPd5drIgMCjN6UNO5wpvGhHLj4uq7oYYrN14GO1ECAB+mLi9RMuBfPeLqiC4MpIslZr5Xka/CDsE8pQFgEPOlPL7K7ikJ4puvWtBUhPr2Q7kBVRTKaJaYJ0vQ=;t2NoEzx3td2Am0JIA4Q9+g=="
+secured: "xR1Nc7lCZxnPXVqwxQQQkO2TG23SFJoUJ6Xzuf0kzCToe0e9CtgOCLhDt7MbaCgZORRjFiycDCqyHEkXY1sol9GZ7sMvjG/CXnW8R8I5q/MrwPV43vqy89mEQMbgEIh0ZMuq2KN3+0Vu2lUcOwRfASF8pb3PRNnGmpSrAZqKPky16sRrGOYE3YtRlZg92I1TeRzPNOXy58+7QrBCYjaf9gowkq9562C6IhkLOp1zFkqUbjfdSbBK5pkvFdzP9W8kCz42LaOj28ooKqSzwct83/gHshO1Y3RbrcG3Z6JJlBySzvmDFKwJxe96ZkwhljfovTvTlKwZSQhVBaalyx4AHeiDHItPlO94tDK67D8vhBs=;LIz+RTJd4boDMKFCGKMQPA=="
 ---
 

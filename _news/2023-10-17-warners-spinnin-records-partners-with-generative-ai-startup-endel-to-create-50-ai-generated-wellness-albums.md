@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ivey to Co-Lead Artificial Intelligence Panel"
+    excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
+    publishedDateTime: 2023-10-19T06:11:00Z
+    webUrl: "https://www.washingtoninformer.com/congress-artificial-intelligence-panel/"
+    type: article
+    provider:
+      name: The Washington Informer
+      domain: washingtoninformer.com
+    quality: 37
+    images:
+      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "cs168/Ot803iGjt4NnD34bo/JVLl7rF12S9D1Y8OEHupCWT+PXhcErdqbBko8e4HPGpG9yzzZRjoSPKvLfJKS7y6t0yDk36IYpdRH0Dy09jaXHg1FeaHQMBubFMbtwod46u+IBB8DMweK6gpN04v0gE82DIugIgZ9A6OPItN1HDuX9gpv4BN0hKPEFAUSforTQq5gDjLuezyHyhjaWY+To488d2QdEKphcStBXqq097VqlDveulLWnGaaFVFmiwrYsbYUjljU35IfyZv52NITCYqhhOsgYqK/A5AltRjoS3RK3BA+RqQVu2Kvl12IFe/scyYjvJPId3DVnYa3OxDn/xtB+pRBo7vpUBG/JGmLHA=;Ob9nBwJqz3D2T4ymXQLy3Q=="
 ---

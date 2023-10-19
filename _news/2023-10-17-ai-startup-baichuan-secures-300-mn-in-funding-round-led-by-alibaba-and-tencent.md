@@ -32,6 +32,22 @@ related:
         width: 7642
         height: 5097
         isCached: true
+  - title: "AI Start-Up Baichuan Secures USD$300m; Amazon Announces Expansion to South Africa"
+    excerpt: "AI start-up Baichuan has raised USD$300m (~£246m) from investors including Alibaba, Tencent, and Xiaomi. The company was one of the first to receive China’s approval to release a chatbot to the public and, on Tuesday (17th October), launched the newest version of its generative AI model, Ernie 4.0."
+    publishedDateTime: 2023-10-19T06:14:00Z
+    webUrl: "https://www.exchangewire.com/blog/2023/10/19/ai-start-up-baichuan-secures-300m-amazon-announces-expansion-to-south-africa/"
+    ampWebUrl: "https://www.exchangewire.com/blog/2023/10/19/ai-start-up-baichuan-secures-300m-amazon-announces-expansion-to-south-africa/?amp"
+    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/10/19/ai-start-up-baichuan-secures-300m-amazon-announces-expansion-to-south-africa/?amp"
+    type: article
+    provider:
+      name: exchangewire.com
+      domain: exchangewire.com
+    quality: 52
+    images:
+      - url: "https://www.exchangewire.com/wp-content/uploads/2023/05/Money-funding-jar-1024x539.jpg"
+        width: 1024
+        height: 539
+        isCached: true
   - title: "Chinese AI startup Baichuan raises $300M from Alibaba, Tencent and Xiaomi"
     excerpt: "The Beijing-based artificial intelligence startup Baichuan Intelligent Technology announced ... Baichuan stands out as one of the foremost AI developers in China working on generative AI and large language models and competing with Microsoft Corp. and ..."
     publishedDateTime: 2023-10-17T16:22:00Z

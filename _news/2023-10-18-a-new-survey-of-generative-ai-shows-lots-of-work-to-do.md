@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ivey to Co-Lead Artificial Intelligence Panel"
+    excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
+    publishedDateTime: 2023-10-19T06:11:00Z
+    webUrl: "https://www.washingtoninformer.com/congress-artificial-intelligence-panel/"
+    type: article
+    provider:
+      name: The Washington Informer
+      domain: washingtoninformer.com
+    quality: 37
+    images:
+      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
     excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."

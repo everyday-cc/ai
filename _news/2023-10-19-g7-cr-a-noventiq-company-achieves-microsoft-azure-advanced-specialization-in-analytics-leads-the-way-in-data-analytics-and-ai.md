@@ -1,27 +1,25 @@
 ---
 category: news
-title: "G7 CR – A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
-excerpt: "India], October 19: G7 CR – a trusted cloud managed services provider, announces its achievement of earning Azure – Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
-publishedDateTime: 2023-10-19T05:48:00Z
-originalUrl: "https://theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/"
-webUrl: "https://theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/"
-ampWebUrl: "https://theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/?amp"
-cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/?amp"
+title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
+excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
+publishedDateTime: 2023-10-19T03:44:00Z
+originalUrl: "https://www.aninews.in/news/business/business/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai20231019111443"
+webUrl: "https://www.aninews.in/news/business/business/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai20231019111443"
 type: article
-quality: 60
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: ThePrint
-  domain: theprint.in
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://static.theprint.in/wp-content/uploads/2023/10/ANI-20231019054305.jpg"
+  - url: "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20231019054305.jpg"
     width: 600
     height: 450
     isCached: true
@@ -70,22 +68,6 @@ related:
       - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/10/Mark-Russ-Pic-2.png"
         width: 928
         height: 511
-        isCached: true
-  - title: "Microsoft's new AI assistant can go to meetings for you"
-    excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-    publishedDateTime: 2023-10-18T20:35:00Z
-    webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
-    ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 76
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
@@ -230,6 +212,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Microsoft's new AI assistant can go to meetings for you"
+    excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
+    publishedDateTime: 2023-10-18T17:35:00Z
+    webUrl: "https://www.aol.com/news/microsofts-ai-assistant-meetings-173508564.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 56
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
     excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
     publishedDateTime: 2023-10-18T13:10:00Z
@@ -318,6 +314,15 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 46
+  - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
+    excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"
+    publishedDateTime: 2023-10-19T05:32:00Z
+    webUrl: "https://www.inferse.com/762178/opus-5ks-latest-solution-is-harnessing-azure-open-ai-to-transform-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 44
   - title: "11 Remote Job Vacancies at Microsoft That Pay $100K+"
     excerpt: "From contract negotiator to content manager, these roles will have you working from the comfort of your own home."
     publishedDateTime: 2023-10-18T20:36:00Z
@@ -428,6 +433,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "rNvisaZmVb80VF8edGUORTz0OJ7Q369ckbgHTNqOjGCFHREVV1kHV0h4UdjPkk0llzioxtAFp+JdzQlOvqfPPnlmlD/95d7HI43W14mM2YbPM2D/SHgO41uu0e1m2gQTjN+2sYHEouOcO1y4vIbZlGKekEIv74pglhZ4ckzUjYQ2zHhrVlvqPXervuxnhukmN2cVX4jSbTDgrJb7w7VF5oAnzO0wnmWQSuGm+1MwSXgGn9gotGU63Cml9E3lCU7GRB/6ipIfWnQITv3mhQMTPeg2dDX/9TUN53heTha84GWH/UHQDb448xG7B3xIb52fmPREYN/oSmROWkWSvCkymqYpPmKkN1WSjzmbpDoPrf8=;QwHKCFLxZZucxmAia/p3Tw=="
+secured: "zFbtpBuQ3zMV/q6I6x7aHHhkoMCa2KyvFy9bc1DaFTCvXk2BV5EqFdRNtImNOrzuwzPmPZmTOVuDj74ZMh7PbIB/0gRS/SpJBJvllt6ZuLLEoPQJqjPqpso9/PNzXFhOu+y/mJoPkXEmtHvfhwPO2sdx60kTUzcwJDvH3peoFGLRU1sACJwcnvA88B7tp4YPa82VxyPjcFrHgipTBBlVEqKH8aa07B104htWwScoxJQ5VI5ZgVAvQVqqe6rVNUIpDEGpIgsbrJnlst2nXkYMz+ieZ7SlX5hLIAMk1FyWrP54q9EDEsZ3HuH5LRUi2KyqWlyLlPAQwNA4XzHj2vXeg0mjUM2lyEGtW8b0XXkb2Js=;Yr8Qesoq+5RxVSCB4ZYy2A=="
 ---
 

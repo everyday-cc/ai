@@ -2,13 +2,11 @@
 category: news
 title: "Microsoft's new AI assistant can go to meetings for you"
 excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-publishedDateTime: 2023-10-18T20:35:00Z
-originalUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
-webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
-ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
+publishedDateTime: 2023-10-18T17:35:00Z
+originalUrl: "https://www.aol.com/news/microsofts-ai-assistant-meetings-173508564.html"
+webUrl: "https://www.aol.com/news/microsofts-ai-assistant-meetings-173508564.html"
 type: article
-quality: 76
+quality: 56
 heat: -1
 published: false
 
@@ -185,22 +183,6 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "G7 CR – A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
-    excerpt: "India], October 19: G7 CR – a trusted cloud managed services provider, announces its achievement of earning Azure – Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
-    publishedDateTime: 2023-10-19T05:48:00Z
-    webUrl: "https://theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai/1810083/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 60
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2023/10/ANI-20231019054305.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Microsoft Stock Fueled By Artificial Intelligence In Office Apps – Investor's Business Daily"
     excerpt: "ARTIFICIAL INTELLIGENCE: Will Microsoft’s High-Stakes Bet On AI Pay Off?"
     publishedDateTime: 2023-10-17T01:04:00Z
@@ -319,6 +301,29 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 46
+  - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
+    excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"
+    publishedDateTime: 2023-10-19T05:32:00Z
+    webUrl: "https://www.inferse.com/762178/opus-5ks-latest-solution-is-harnessing-azure-open-ai-to-transform-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 44
+  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
+    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
+    publishedDateTime: 2023-10-19T03:44:00Z
+    webUrl: "https://www.aninews.in/news/business/business/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai20231019111443"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 40
+    images:
+      - url: "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20231019054305.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "11 Remote Job Vacancies at Microsoft That Pay $100K+"
     excerpt: "From contract negotiator to content manager, these roles will have you working from the comfort of your own home."
     publishedDateTime: 2023-10-18T20:36:00Z
@@ -429,6 +434,6 @@ related:
       domain: inferse.com
     quality: 15
 
-secured: "mK0jUkkUydI+9kG8iSBYwREchteZ83n1qm3kVLFCxaTZJXfd9gXHsg5ZXXpZ+WnE/2xMzd4O7Old5kBQPl6puSJO+Ttz+fyrhq1frBtWIJ6Qo/PJSfYNX1YkkKQsc2vKHmPETOJAbz9wYil0MZD2ZhTjM3Al+UWwvP0dLoMbIuy2xUMuzYL1gDQ15iBbIivbEAt/CSBQvdCwSorQnKeXEqdCb/HlMvXtXJxO39as03q8b5ZmoavJ7vWE4g4Lx8DG/h7QjCEMj/WoG93V8+A501y/7BA8DFJcHfpg9cJZleZ/A5nPTXdTYNJZU3p1Y5Em7yiKt36W6QI4E7WyaZyKU5KSrdXV4lXamTcJ8PEyrD0=;+DxGh6/IdsB6ERTqPGaCmA=="
+secured: "FAv5FEd5MfjiGRMBrku3kjVQSfRzDB7wREu4EhcjslUk0aCEc4y0j48FATYfhpbLco/HGeara2rkHX2dxMnb23NTpDDAsQseKH6mjOWTJ0gOrs7lMs6Nnat7osoBF/yQDZ+ChtrK87PbNr4EiSaZc4Kn0jfJjBR9dwJwjMyjjJIPhhH3daAfbkYn/qf0njxEjLsfGVIO1q8R0Q6qmCtXh4szZDK7Gozfe28lBRHRa9aTC+pbZ8n+wYhxHvSfaaGb4ilTaaDDV7STlIiXnMqNNQpQKV2UhP2r34BcFeThhmpVGjVZF4axIu+Tiyy2L+rmkeJwxQv2nGiaua7m71bLQUR2COKoP8TCyi0DdzZ8lJQ=;pfz46iwaCuaUDhU+hnf8MA=="
 ---
 

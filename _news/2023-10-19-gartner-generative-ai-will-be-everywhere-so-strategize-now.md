@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
+    excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
+    publishedDateTime: 2023-10-19T06:43:00Z
+    webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 26
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
+        width: 1920
+        height: 845
+        isCached: true
   - title: "AI is everywhere: Strategies to safeguard your company’s innovation"
     excerpt: "Governance is the foundation on which companies build responsible AI practices. It not only ensures compliance with laws and regulations, but it also fosters transparency. To manage AI adoption, companies should form a stakeholder committee to create policies that align with industry requirements and organizational goals."
     publishedDateTime: 2023-10-16T09:05:00Z

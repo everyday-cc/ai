@@ -250,15 +250,6 @@ related:
         width: 1356
         height: 668
         isCached: true
-  - title: "The Voice: Australians vote No in historic referendum"
-    excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
-    publishedDateTime: 2023-10-14T13:13:00Z
-    webUrl: "https://www.aol.com/news/voice-australians-vote-no-historic-125700729.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "QbWEnLNB123IvRupfPpx5RTv62vKRJUJTdDlQIVxbjOJdjOWRsCnaGCyF6oU2FpzKmJ9IAQ99clOTZQzK4WKV7lZbGAv5uQkP7GI+lV/4EwBO7qEFJk+CTS/v+h1tK/wFhVQ1RGo4aU1uUUv81gLhrHQp8N/wP9qaq2V6EzSb7mSd9xCH5CqMJg5BABbW1ih0909O9vXPmOnW8bQE8r0WSwc7wq7vXxajbZrtqJccvd0XQoeTG3xBH461/jNXFMW63FC/n+mblxpfcPW7UBN6tRU1jQuYf5VlGc1CNVhE/ysIqVWHuh8/TSVpnJzFufumj+g0YyjhMcb6NoOoqTF7gaPNGfFi+ebFbnMcAgudpQ=;xJheaFaFPlwn5jTDuV34Lw=="
 ---

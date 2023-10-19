@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind Wants to Use AI to Solve the Climate Crisis"
+    excerpt: "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way."
+    publishedDateTime: 2023-10-18T11:00:00Z
+    webUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "co-founder of DeepMind AI"
     excerpt: "A comprehensive report recently undertook an extensive analysis of 100 American executives to recognise and rank their intelligence, aiming to identify the brightest minds in the business world."
     publishedDateTime: 2023-10-16T10:38:00Z
@@ -45,15 +59,6 @@ related:
         width: 732
         height: 977
         isCached: true
-  - title: "DeepMind Wants to Use AI to Solve the Climate Crisis"
-    excerpt: "WIRED spoke with DeepMind’s climate lead about techno-utopianism, ways AI can help fight climate change, and what’s currently standing in the way."
-    publishedDateTime: 2023-10-18T11:00:00Z
-    webUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 64
   - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
     excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
     publishedDateTime: 2023-10-17T13:15:00Z

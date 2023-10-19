@@ -251,15 +251,6 @@ related:
       name: Jurist
       domain: jurist.org
     quality: 13
-  - title: "The Voice: Australians vote No in historic referendum"
-    excerpt: "Australia has decisively rejected a landmark referendum to recognise Indigenous people in its constitution. The proposal - known as the Voice - also sought to establish a First Nations body to advise the government on issues affecting their communities."
-    publishedDateTime: 2023-10-14T13:13:00Z
-    webUrl: "https://www.aol.com/news/voice-australians-vote-no-historic-125700729.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "9QzkWMwBSzMJ9cIaNiNyPH+YsDO+lFswuCRaOqDBAnoczy0/0CKdVU7Xpdudpi7Z4vz1JbP5xHRLHiWsGMFxhiISf91aZhGmr9COnVNowvkVUa9qVgOCIqYeysEHgZ8pvMLi96PorbtUrjrLWp036JkZrz7es8TaITgvhitYGrTVwmIXyz1672zOneGdhM1DJJcRNngmMVwGlTGxE2DPAV951B4c7acWlDODnDvr1hYjCqw0sGzhWe7crkExjhwWIS/NDI7KMNvbJTI1+C1bpTm2cZVBvODtNv6DETU7uv4qqNgCU0P/mfL4DtIkG32j9m2qeI6sVgscZD5RmuXgwwU90aui2T4zN1XzTT8eLw4=;mB3PQHPa3ZWjSv2wDf4ZgQ=="
 ---

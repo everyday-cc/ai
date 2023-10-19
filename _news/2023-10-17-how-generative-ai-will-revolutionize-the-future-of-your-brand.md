@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ivey to Co-Lead Artificial Intelligence Panel"
+    excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
+    publishedDateTime: 2023-10-19T06:11:00Z
+    webUrl: "https://www.washingtoninformer.com/congress-artificial-intelligence-panel/"
+    type: article
+    provider:
+      name: The Washington Informer
+      domain: washingtoninformer.com
+    quality: 37
+    images:
+      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
     excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
     publishedDateTime: 2023-10-17T15:18:00Z

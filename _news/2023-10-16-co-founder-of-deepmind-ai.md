@@ -49,7 +49,12 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 64
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
     excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
     publishedDateTime: 2023-10-17T13:15:00Z

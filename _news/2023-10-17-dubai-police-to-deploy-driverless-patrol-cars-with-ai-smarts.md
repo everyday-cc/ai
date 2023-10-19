@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-104490987,width-1280,height-720,resizemode-4/104490987.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Dubai startup launches AI-driven SaaS solution"
+    excerpt: "Dubai, the UAE — Oasis Defender, a UAE-based startup, is advancing multi-cloud security with its AI-driven SaaS solution for cloud network security, designed for unified visualization and configuration across multiple clouds."
+    publishedDateTime: 2023-10-19T07:19:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjIwMDc4YzAtOTNhMS00/0/697538579.jpeg?f=3%3A2"
+        width: 724
+        height: 482
         isCached: true
   - title: "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026"
     excerpt: "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026."

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-18T11:00:00Z
 originalUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
 webUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
 type: article
-quality: 64
+quality: 84
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI
   - Google AI
+
+images:
+  - url: "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
+    width: 1280
+    height: 670
+    isCached: true
 
 related:
   - title: "DeepMind UniSim simulates reality to train robots, game characters"
@@ -63,6 +69,6 @@ related:
       domain: infoq.com
     quality: 36
 
-secured: "P01uu0/68BPBmn1P04hzsMNfsMKPBBv+bFFGVTno7BWykymrza4sPF0MXL8mkhYt+EittZPadGcFrFbzRzotoFDVKAYBrOgQd8Qd/5ur46zWCqc6VeBeFFu87i2HF7oCuCjvJCRGJmp23pcce8xF/5uo0Ziar8gjJ5hiRVppX+g3cHwQmhTHRmXGfkD/28k2i5Qy2dYBIIdonsuCzSWqNJV5iFqRNvJmE2C9lu+uitnz2BC1m0X4dnJzbl5LHDPfEnXGTRsKCi8LU6X41KyliRM3NFQxU8XwzPzQzHweB1LRMqpPcBuAy2Yc/4GfIo3LUkN5NSB0B9phIHfyv3Tjm1bw9kqQQbtQuQlPRkgv0aQ=;MXqDWm9N5gL0FmHQRfmEcQ=="
+secured: "6ZDRn1J95trbrOkYTpfR2MvVK/qsnKqHol1DJJI36Kz8NEvTcx8WXf5MFbRqh64CgKC5NsXs4bIMjLFZCM0uJgCO9mHxP8/xa7YExCuvaj4JPbMXrgFH7lplABSim6agY61D0Qf30tt0v6Ko4pXdr0RRRXgirGEhLow2O/GchVBmhyHJZQp4GC1BG+CTW79Fct+o0Ueqrl+gojUnUbKdinz9fedx7WoVjSSjVm7kZb/cC0bK+06eXd8cZZY0OmF3rJOg9bfDwPa2SxJpX5f3/j58a4iCz9kDQNP1YqJS/66FqCSoisAK+ePcw22a7aQ2gPE8I3FuaHgZLhpQySEr3ZhsaiRIFiVMBgXTSdJK2c8=;DvF+aHJkJal5ZPFPYNP9Dg=="
 ---
 

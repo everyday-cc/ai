@@ -45,22 +45,6 @@ related:
         width: 1300
         height: 866
         isCached: true
-  - title: "Europe And Japan Are Leading The Race To Build AI Rules"
-    excerpt: "As the EU builds its case against Musk, the incident raises the issue of the role of Europe in regulating AI and the behaviour of the entrepreneurs leading AI."
-    publishedDateTime: 2023-10-14T15:03:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/10/14/europe-and-japan-are-leading-the-race-to-build-ai-rules/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652aacd49cafb2eabf0453e4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 420
-        height: 554
-        isCached: true
   - title: "Security Must Empower AI Developers Now"
     excerpt: "Enterprises need to create a secure structure for tracking, assessing, and monitoring their growing stable of AI business apps."
     publishedDateTime: 2023-10-16T23:52:00Z
