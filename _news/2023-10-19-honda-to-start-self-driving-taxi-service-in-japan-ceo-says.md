@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Honda to start self-driving taxi service in Tokyo"
+    excerpt: "TOKYO: Honda Motor Co will start a self-driving taxi service in Tokyo in early 2026, in a move that may help alleviate a shortage of cab drivers in one of the world’s most-populous cities. The Japanese automaker has been developing the driverless vehicle ..."
+    publishedDateTime: 2023-10-19T23:02:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/10/20/honda-to-start-self-driving-taxi-service-in-tokyo"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/20/2344798.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "GM, Cruise, Honda joint-venture to launch self-driving ride-hail service in Japan in 2026"
     excerpt: "The service will launch with the Cruise Origin AV shuttle built at GM's Factory Zero Detroit-Hamtramck Assembly Center."
     publishedDateTime: 2023-10-19T17:01:00Z

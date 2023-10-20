@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "If there is to be any healing after the Voice referendum, it will be a long journey"
-    excerpt: "In the end, the “yes” case failed to answer two basic questions: what was the problem to be solved, and how would the Voice help solve it?"
-    publishedDateTime: 2023-10-15T05:09:00Z
-    webUrl: "https://theconversation.com/if-there-is-to-be-any-healing-after-the-voice-referendum-it-will-be-a-long-journey-214370"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 18
-    images:
-      - url: "https://images.theconversation.com/files/553800/original/file-20231015-23-6um2so.jpg?ixlib=rb-1.1.0&rect=11%2C502%2C3964%2C1982&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
-        isCached: true
-
 secured: "aO96vNZlp+cZpnOmvOYWQytp379yBxPgoky3UFBnx0AOlGkAbQ2enZ/2brrSlPE7DP1ydSTlnpYuEZjrbDpxrhsTpKgBAHEHunVTi1fyzBtpgKsf+5X9WVgB/EY978g4KAEq3oiYud4iaPaE+9eiZsoQmy1Emm+IUpb599ddkvmXaF0Az3mfravysVyvOg8GscAb49j3uK0z8oP8vAuNO0PgVQ3DDldSXAG1bqko2KbpVoYpL8fdVFJlrm82PKSk2DJhmx73gLO8Xj09qMfflu5htyXqprILqsNlZjiNoHmBMsJtu6cX9sSzaoRRBWWdLiOauknqKYCdm7EL8+CYOKXQqm90gVHdyPFSTN9ghDw=;jKHbqPlQci1XwLoC7Eb5vg=="
 ---
 

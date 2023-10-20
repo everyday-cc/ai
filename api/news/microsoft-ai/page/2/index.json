@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-02-what-does-generative-ai-mean-for-software-companies.md",
+      "title": "What does generative AI mean for software companies?",
+      "excerpt": "AI and machine learning will boost the creativity and problem-solving abilities of software developers. It will also create a new set of winners across the software industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "originalUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 615,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707796/what-does-generative-ai-mean-for-software-companies.amp.html",
+      "publishedDateTime": "2023-10-02T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-families-in-rural-areas-have-difficulty-getting-services-for-their-children-with-autism-spectrum-disorder.md",
       "title": "Families in rural areas have difficulty getting services for their children with autism spectrum disorder",
       "excerpt": "Autism spectrum disorder (ASD) is a childhood neurodevelopmental disorder associated with significant lifelong delays in cognitive functioning ... currently is how to get children into these crucial services without waiting too long.",
@@ -1222,49 +1274,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai.md",
-      "title": "Infosys and Microsoft collaborate to drive adoption of generative AI",
-      "excerpt": "Infosys has joined forces with Microsoft to jointly develop industry-leading solutions to accelerate and democratize industry-wide adoption of generative AI. The integrated solutions will leverage Infosys Topaz, Azure OpenAI Service and Azure Cognitive Services to help businesses increase productivity and drive new revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_05_2023_14_21_18_0740729.jpg?width=1280",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2608678-infosys-and-microsoft-collaborate-to-drive-adoption-of-generative-ai?amp",
-      "publishedDateTime": "2023-09-26T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

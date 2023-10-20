@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/gender-disparity-venture-capi
 webUrl: "https://www.techrepublic.com/article/gender-disparity-venture-capital-uk/"
 type: article
 quality: 66
-heat: 68
+heat: 66
 published: false
 
 provider:

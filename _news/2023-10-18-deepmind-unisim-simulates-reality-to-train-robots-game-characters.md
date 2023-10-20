@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-tr
 webUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-train-robots-game-characters/"
 type: article
 quality: 84
-heat: 117
+heat: 114
 published: true
 
 provider:

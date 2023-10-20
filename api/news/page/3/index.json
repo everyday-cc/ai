@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-18-opinion-ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us.md",
+      "title": "Opinion: AI needs a strong code of ethics to keep its dark side from overtaking us",
+      "excerpt": "We have done our best to build on the work already being done in industry and add to it what we know about ethics. We believe we can build a more just and caring world. A more ethically responsible tech industry and AI products and services are possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "originalUrl": "https://www.marketwatch.com/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-843717/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d",
+      "publishedDateTime": "2023-10-18T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-how-to-control-for-ai-bias-in-lending.md",
       "title": "How To Control For AI Bias In Lending",
       "excerpt": "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules.",
@@ -301,7 +353,7 @@
       "originalUrl": "https://www.ibm.com/blog/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -999,7 +1051,7 @@
       "originalUrl": "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-train-robots-game-characters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1143,48 +1195,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-17-unleashing-real-time-insights-monitoring-sap-btp-cloud-native-applications-with-ibm-instana.md",
-      "title": "Unleashing real-time insights: Monitoring SAP BTP cloud-native applications with IBM Instana",
-      "excerpt": "A powerful solution for incident prevention and observability in the dynamic and complex realm of cloud environments.\nThe post Unleashing real-time insights: Monitoring SAP BTP cloud-native applications with IBM Instana appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unleashing-real-time-insights-monitoring-sap-btp-cloud-native-applications-with-ibm-instana/",
-      "originalUrl": "https://www.ibm.com/blog/unleashing-real-time-insights-monitoring-sap-btp-cloud-native-applications-with-ibm-instana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T11:55:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

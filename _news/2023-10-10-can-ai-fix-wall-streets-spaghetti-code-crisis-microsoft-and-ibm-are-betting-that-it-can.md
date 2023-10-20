@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Microsoft AI
+  - IBM AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/zbmLel2.Uj8k9vJIn.eH1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/b0259732c196a4b2646b8b13949854e4"

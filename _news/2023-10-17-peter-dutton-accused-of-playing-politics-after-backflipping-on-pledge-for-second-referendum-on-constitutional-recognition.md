@@ -89,22 +89,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "News live: Australia reacts to voice referendum results; thousands gather for pro-Palestine rallies"
-    excerpt: "Follow the latest news and updates today after the results of the 2023 Australian Indigenous voice to parliament poll Government ... it’s a referendum on a particular model of constitutional recognition. Secondly, I think we need to reflect on what ..."
-    publishedDateTime: 2023-10-15T05:47:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls?page=with:block-652b7a608f081db0948417fb"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/14/voice-referendum-2023-live-updates-australia-latest-news-yes-no-vote-winner-results-australian-indigenous-voice-to-parliament-polls"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 30
-    images:
-      - url: "https://i.guim.co.uk/img/media/c9a0472a3fa382a05074147d005944ea08b21306/0_587_8256_4953/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=6288935b2381e698949c9b272635ecb4"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "“Now, the Voice was with constitutional recognition was important. Makarrata is simply a Yolngu word for coming together after struggle. “I think that that is a reasonable thing to say, and in terms of where we go from here, I note that there has been ..."
     publishedDateTime: 2023-10-16T18:43:00Z

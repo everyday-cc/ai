@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-10-16-calling-all-ai-cybersecurity-startups-in-europe-and-now-the-us.md",
+      "title": "Calling all AI cybersecurity startups — in Europe and, now, the U.S.",
+      "excerpt": "Launch of the new Google for Startups Growth Academy: AI for Cybersecurity program for companies based in Europe and the U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/",
+      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GFS_Growth_Academy__Cybersecurity_image_JwTMu.width-1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/amp/",
+      "publishedDateTime": "2023-10-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-16-making-sure-open-source-doesnt-fail-ai.md",
       "title": "Making sure open source doesn’t fail AI",
       "excerpt": "The lessons learned from cloud are spurring a proactive examination of what it means to be 'open source' in the rapidly evolving world of AI.",
@@ -92,49 +144,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-16-challenges-in-implementing-normative-ai-guidelines-say-researchers.md",
-      "title": "Challenges in implementing 'normative' AI guidelines, say researchers",
-      "excerpt": "Reviewing global guidelines around the use of AI, researchers found that while most of the guidelines valued privacy, transparency, and accountability, very few valued truthfulness, intellectual property, or children's rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.html",
-      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/AI-Artificial-intelligence-machine-learning-neural-networks-IOT-automation-shut.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/16/challenges-in-implementing-normative-ai-guidelines--say-research.amp.html",
-      "publishedDateTime": "2023-10-16T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {

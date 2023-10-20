@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/empowering-farmers-across-the-digital-div
 webUrl: "https://www.ibm.com/blog/empowering-farmers-across-the-digital-divide-in-malawi-with-openharvest/"
 type: article
 quality: 102
-heat: 102
+heat: 103
 published: true
 
 provider:

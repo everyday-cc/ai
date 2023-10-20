@@ -96,15 +96,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The state of federal cybersecurity, AI governance, and cloud strategy"
-    excerpt: "Federal cybersecurity professionals agree—federal agencies need cloud skills and AI governance for proactive security and improved incident response."
-    publishedDateTime: 2023-10-15T06:12:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/security/state-of-federal-cybersecurity"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
 
 secured: "wjO4yJke2eBywV+61ptlGrvj8ojImiKr6yPHA2ls5LMx2buJJI7UGPMaMMuQJNvHBKiBvNL84+wGK1uZoBklEYrwmfNvQ0vP8pMgWGCnDzgYCEk5Cfzp3m84gei4PQev6SoxGG30y3jGnhoeeuMUIw/hQbexGIZMELmm8bOmzzpgK1npMFzp1ufWId0TdNOY7gumsXsWi/FrG7UDOUceSpp1V5t7jutj073wFhsZ8JUwnl5ocAa36X535F1jpKwzDahWZMqOBUzu1Dq71odjL/UdD25KGbTFBIW2vaC0lBLSPouw7WXDQrer/HyNnlL0dlqDd0fW5KbGMtRloK1Ek9r3mhupdEn3d1Q5jTV/KGztP9HjZ2GJqBvOKa7V9EaOdP+6OW639H0yTAxS8wznW+4Mdpe5CQjmelXhfg0BddxMiZBAB4v1mHnJYUEt8Cz8wdSLZMBMQQUIaqPJ3oE2/oowoaQtyPCL4Qas4iu+SDBYW4aqmlGIv1Xv7VKBpN8duwTVzjPIfk4CXDAmc3Rz3Q==;Phzd3qZeqJnWRxtQKo0afg=="
 ---

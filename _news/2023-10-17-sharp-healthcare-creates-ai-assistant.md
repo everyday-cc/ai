@@ -28,17 +28,17 @@ images:
 related:
   - title: "Rise of artificial intelligence creates heavy workload"
     excerpt: "Internet giants, power networks and communications companies are being urged to consider the massive load that comes with the rise of artificial intelligence."
-    publishedDateTime: 2023-10-16T03:22:00Z
-    webUrl: "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192"
-    ampWebUrl: "https://www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192.amp"
-    cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218192.amp"
+    publishedDateTime: 2023-10-16T03:23:00Z
+    webUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210"
+    ampWebUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
     type: article
     provider:
-      name: Perth Now
-      domain: perthnow.com.au
+      name: The West Australian
+      domain: thewest.com.au
     quality: 59
     images:
-      - url: "https://images.perthnow.com.au/publication/C-12218192/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200"
+      - url: "https://images.thewest.com.au/publication/C-12218210/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200"
         width: 1200
         height: 675
         isCached: true

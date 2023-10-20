@@ -93,6 +93,20 @@ related:
         width: 590
         height: 386
         isCached: true
+  - title: "Facial recognition gains for shoplifting investigations jeopardized by policy gaps"
+    excerpt: "Facial recognition is being used to identify shoplifters and criminals in London and in Indiana, but also generating controversy."
+    publishedDateTime: 2023-10-19T22:33:00Z
+    webUrl: "https://www.biometricupdate.com/202310/facial-recognition-gains-for-shoplifting-investigations-jeopardized-by-policy-gaps"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 48
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/11173308/shoplifting-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
     publishedDateTime: 2023-10-18T15:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/"
 type: article
 quality: 104
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
-        isCached: true
-  - title: "Millions of Workers Are Training AI Models for Pennies"
-    excerpt: "Her friend told her about Appen, an Australian data services company that was looking for crowdsourced workers to tag training data for artificial intelligence algorithms ... Appen’s clients have included Amazon, Facebook, Google, and Microsoft, and ..."
-    publishedDateTime: 2023-10-15T07:02:00Z
-    webUrl: "https://www.wired.co.uk/article/low-paid-workers-are-training-ai-models-for-tech-giants"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/65241beec29457b1e5cf6b1a/16:9/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "1eVDrRpyvt2KRZ7uj1Ls3UzkmE0qCkPGI9t99z7QeT/dPastGeIUAl2At19PYv/5vCnLtmOSar6D2+yZbNpAcKxo7HspJZ8rNU17v4zpIjiGS5lf1585Qj4ulzCctMzqFGaJKua5NUDAZFm+p989HA3qDKLRi+xuEnsnBJIs7Qx3ObnmMqOmArHJl4T7bxebykrJHumkUbpVCy2SrbBNwZMZKCCpPiMaCUjnKX/UEpPc3G8SzRpNXro5ISqNDbnh83B6suarDRAlVoYSFcnLw/3piNYGqrFldFedJJyJChh8TMbxEf+ECAvBBtv89jV2qSHb5ld7BlGSqXrGqUKh4En1lZYIfuINPtvh4oCyRVo=;mzCkyJbZV4nJJIfR1ZpttQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/google-for-st
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/amp/"
 type: article
 quality: 109
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -100,15 +100,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The state of federal cybersecurity, AI governance, and cloud strategy"
-    excerpt: "Federal cybersecurity professionals agree—federal agencies need cloud skills and AI governance for proactive security and improved incident response."
-    publishedDateTime: 2023-10-15T06:12:00Z
-    webUrl: "https://www.pluralsight.com/resources/blog/security/state-of-federal-cybersecurity"
-    type: article
-    provider:
-      name: Pluralsight
-      domain: pluralsight.com
-    quality: 19
 
 secured: "u6eip6qzBuZtBvSoj6w4VmD2+o+JaTUBST76rf4fER0tJFhGZc39EigpJ+eUx8+KCpmUMeM0IqG8eW2TIBlLgGtv2dPmHQp3RBdilaV1TPCOQKhq2yUGtMLAbrpmnKAGwbjNWss4SSUWsRXb1Y6RVlQeM9TImZCIUcdzMSErUIxyWnuQlKg7JR3NLHsAeLTb23QnwZL9OBgkuzr/M4eIfURFgy8McYwS9+WxwaIZbo/+uxVZhmQKOs+oIRjUQmvlVefeQfH72C9d4IurorjYkWHevLMRIRP1GSxmICWRvPLw7b8q1Mtn9F7sF7oHcdkvOWPjJM/ia6I+f024oULpmEXT497q9Z5zDpskKrkZgK4=;XrK4xbqxBANF/WGAA3NAHA=="
 ---

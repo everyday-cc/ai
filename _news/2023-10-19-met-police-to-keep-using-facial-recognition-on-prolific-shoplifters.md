@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/5020628.jpg?r=1697678820929"
         width: 590
         height: 386
+        isCached: true
+  - title: "Facial recognition gains for shoplifting investigations jeopardized by policy gaps"
+    excerpt: "Facial recognition is being used to identify shoplifters and criminals in London and in Indiana, but also generating controversy."
+    publishedDateTime: 2023-10-19T22:33:00Z
+    webUrl: "https://www.biometricupdate.com/202310/facial-recognition-gains-for-shoplifting-investigations-jeopardized-by-policy-gaps"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 48
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/11173308/shoplifting-scaled.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
@@ -205,6 +219,6 @@ related:
       domain: thesun.ie
     quality: 6
 
-secured: "uKVnh5x4UZ/D3w8Q4L0sHw+ogQDNEtY6BSrOVvN4LQyT+dTqWcNurjhLuG+XbieyL60hCvaQMooUYvNGO3kSOAv6b0fnz9Gy1R9ujPjF9qbtIAzufYmzylGdB6ok4hiOhRvxNizCh/casGyEOf4K3N90X2KRDHlufuGMvot4ESNuMPaQIx/gpW4GwG505xnenouky7JYtoNj1PTpq/90FDUU+vw4W8mSS9XcZofST07mT82RnlvbWN6evIT2aHjh0C/ofLjSAK12HZQIw//W7tkEeUQ4/pKfyBONqGWrJnrA+UVdP/fdNGpA3GA+wNptonxwwK1gAl4t69NZtWgTrOuQ44tMTvm14yaloSSLo3o=;t6qcQ+89e/Kwk8x0yF1rcA=="
+secured: "smV094MqL2teNT/GoHZIaKH89QgvVSq6TMgvPSktIkOUm1894hvbBLlq2DBk+mQlGSYf3bbX2y3Dws9RnJjc1k72BgRi5ZuepuFfUr78dHs51VmcxmOC8lbXnsazjmJmC56bDLpnbSul8o2zKt2xZ50+K/FyTsBBkaEOyCHSuK4Y25N4dOTY0vLAfoKe2F4lGFFPERYz3sJWSoo+hviwF1IwmjksTYAY2b5m+2nupkbXAOeG5LA0hT0+gtXn3u3JXqCoGwZfTaXV8mxnBepGHUmj2HUwYvV/1DykA+5bwzJqiao501gfzwAFlv18rbohO9dKXDto3ZtDTKNd3KeD6g8Tli1whthDPo/tmzeFhU2g5pcliWmhTQS+dK5h188xISHZf6fLagGryJpNvFKxXhO2CNc7dSrlr5lL9h/zMCowmdIslpw/WbtHFyrytcQlqjfTgzf5sNiFfIf9sWzozCi3oqsu3oWNxdflbjkXkPc5mg7hVZyS4FO4fydCkVTO4g/g5T+mktdtx8Kf+XgtTw==;XmwF/PhwBeH1sJH3wQJrRQ=="
 ---
 

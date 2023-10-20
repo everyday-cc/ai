@@ -44,6 +44,20 @@ related:
         width: 1000
         height: 445
         isCached: true
+  - title: "Announcing Rekogniton Custom Moderation: Enhance accuracy of pre-trained Rekognition moderation models with your data"
+    excerpt: "Companies increasingly rely on user-generated images and videos for engagement. From ecommerce platforms encouraging customers to share product images to social media companies promoting user-generated videos and images, using user content for engagement is a powerful strategy. However, it can be challenging"
+    publishedDateTime: 2023-10-19T22:47:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-rekogniton-custom-moderation-enhance-accuracy-of-pre-trained-rekognition-moderation-models-with-your-data/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/18/ml-15641-6-1.png"
+        width: 977
+        height: 535
+        isCached: true
   - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
     publishedDateTime: 2023-10-16T11:51:00Z

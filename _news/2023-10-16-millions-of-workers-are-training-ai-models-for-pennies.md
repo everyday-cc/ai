@@ -61,20 +61,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Millions of Workers Are Training AI Models for Pennies"
-    excerpt: "Her friend told her about Appen, an Australian data services company that was looking for crowdsourced workers to tag training data for artificial intelligence algorithms ... Appen’s clients have included Amazon, Facebook, Google, and Microsoft, and ..."
-    publishedDateTime: 2023-10-15T07:02:00Z
-    webUrl: "https://www.wired.co.uk/article/low-paid-workers-are-training-ai-models-for-tech-giants"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/65241beec29457b1e5cf6b1a/16:9/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "qDjUUBujTZrGf19Qd1GXd0ONR095LP5Mr90EHnrf3qFfzUSiv9gcleXHIeoOkEtIef2AaEJMalDepRfUkKEz4WPykpusfMEVpTQmAXL5WSGxVRilN8KSYrIiD7G63qIWnQe68O4GMP7/+BCbsd+sDuMNI3UusFKZDezpqg243dLtaf7PRFD+E+68uzCYivQSo8c5y/RkRoWykn3UMWMg7I/dLraa4+cI6Upe6z/XTTzZHVv5qkZvUUun1D7VN6c4pSgqXbvmpAl5273UwkfBg+wFN3MOzqfBvG74fe5kumoIBMHdcVJnhrByW6YutrS4KZ71gXB5Cs+9GT/ZlqGRmH2Lgb42BW3+AdeXbVKL+z8=;jfCkJ1NE+FPi/X2QHXBGfA=="
 ---

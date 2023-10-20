@@ -44,6 +44,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 34
+  - title: "Honda to start self-driving taxi service in Tokyo"
+    excerpt: "TOKYO: Honda Motor Co will start a self-driving taxi service in Tokyo in early 2026, in a move that may help alleviate a shortage of cab drivers in one of the world’s most-populous cities. The Japanese automaker has been developing the driverless vehicle ..."
+    publishedDateTime: 2023-10-19T23:02:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/10/20/honda-to-start-self-driving-taxi-service-in-tokyo"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/20/2344798.jpg"
+        width: 1240
+        height: 827
+        isCached: true
 
 secured: "xb2gOC8XV3IywAeLRJAtLxl6F/kXjBfa+KxDc/AWW4tetMeg9J+aofsarF3OmXtMPVm/UkmVm1hF88j6cZLRP60xEufUGihk4/HpiyZA6izh86kkm/whOqnLjmcq05ZVO0i+JlO7dgZe6GxAOD2Htqe8PN6VVRPDEvAU7+B3YVqDyRes/ATeD6/cEF9THlXqMx6eCbk8ayNuQQdT1WsRIVt1LCZo4VatCCKY1SabQbxI/nTnn2iyZ938100MyMND7agCXnN/74MLpH5vRMCszZDY8gyCp87HKuw+n3aZeeoKVaRrW/T1cOHlvoK2078f6hl/jTle9ch1wgIGhXpiwNVwJYG3Ujai2NW55pmUVU/ioJyWC80/J6fx+n4kALob7X3U7JMmEWtes7e6Mutyi9Gtmg9Y79cCw4uQGeg0D3S4xnJkkZ5jQULXBFOtxffVR2BHJwbaaQvMauDK53p2wvCEXRPNV66OqdsLgExdidnEQJrfj892gkkYe4BQLRgYr40vow1OW3u3tPIEm+Yjvg==;NnlMyNB3wsClKISnusSupg=="
 ---
