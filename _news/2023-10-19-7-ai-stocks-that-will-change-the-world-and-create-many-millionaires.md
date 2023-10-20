@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-18T22:34:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-will-change-the-world-and-create-many-millionaires-1032718556"
 webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-will-change-the-world-and-create-many-millionaires-1032718556"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,7 +20,8 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
-secured: "sDLGBL7fYT0+kWI1znz9/jA8E3bvHRT1DWIaqdqYC+aLqZzGWUPqWw9mrLa+Nt9M1gg6OkXk2S0refiORDPTZhmMQup7Eh4J4t/pnlFe3OqMewe9E00AaOhRrbX65Sz58X0Rw6B2mcg2eU+WeeoYmR+LhFQMBZLTjyTliCbXbsdoJWk2ZVR034IR6TZ7O55gif9iw9309LS75ihnzRjYWeMw9lHaaUl6Cb1KbVYtS337aUK+gWzdiIUPnwN1D5YonM3Be70HC0s6HYoUKgENk6InexPCQJHSBU8JIvp8PdYkILVCLEdqLEXpdzbxE9C8We0bGnQFebknWVzeilvlljRbKTd+0KrtPr48Z0Tq3v4=;qLBg4poJPrx3ZZS880nnpQ=="
+secured: "+d4Gze45SwQijEq+U6wvTm674PCTkQyHJAchuEiiqmLgfwsL073yd94KnnHXFP9re+YhpH8nsveAHROWjm9ULX5VzTOCojym9dt+JazgUXGpYBojD2w3pR6e7fjvqJOsW76e4YlfTDcfxm1LMA00CULPvkDjYbwoNokNLOhZHFLyg9Wz1qIC2sLkQrECH4fIQI/B5ObSvAmBJd2KvE73kDUjpqk28Vd84nEEk73bIRUtoXphhp6K8BXasnhNp0dumkob4j8uOCHI5IfSiqg762XleZ0VoW7iOvBj8TLXtQaesdaIbqcuQrerHOqa5CyFgsAdFdTiVnSSBogNoOwG/Q4JoOkgQwgsqbnDtG6W340raKDbtpvvclEBKRXnESzjkd4HaD+7hZ7sO+rutSRPq+Q5RN7icrYSrpvdjj4AiO5mzLduUJeo3qKhwgsXmSM/VLfgs/i36mC67zB1kOcuyxS3Bl/eBySViy9tJWzgRvWs5XNc7b94ZpWmlB66xg8HvGUvvUwyfUeFrI+4FIiO0g==;58Btjemj9faBlpzTxxe37Q=="
 ---
 

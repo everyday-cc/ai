@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: NDTV
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google boss says AI is too important to get wrong"
+    excerpt: "Google president Matt Brittin has warned that artificial intelligence technology is \"too important not to get right.\""
+    publishedDateTime: 2023-10-19T15:34:00Z
+    webUrl: "https://rollingout.com/2023/10/19/google-boss-ai-important-for-technology/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 39
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/10/0544346001553072166-185.jpg"
+        width: 1000
+        height: 650
+        isCached: true
   - title: "Narendra Modi discusses AI, UPI while interacting with Google CEO Sundar Pichai"
     excerpt: "Prime Minister Narendra Modi appreciated popular search engine and IT major Google’s plans to open its global fintech operations center at the Gujarat International Finance Tec-City (GIFT) in Gandhinagar during his interaction with the company's CEO Sundar Pichai."
     publishedDateTime: 2023-10-17T12:39:00Z

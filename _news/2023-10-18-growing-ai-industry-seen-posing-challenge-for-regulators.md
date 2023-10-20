@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "AI’s impact on tech and entertainment to be a key focus for industry leaders"
-    excerpt: "AI’s impact on tech and entertainment to be a key focus for industry leaders."
-    publishedDateTime: 2023-10-15T08:29:00Z
-    webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-    images:
-      - url: "https://images.wsj.net/im-868527/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Ex-Apple Engineer's Startup Sells AI-Powered Surveillance Towers"
     excerpt: "Lambda Automata, a Greek startup from a former Apple Inc. roboticist, is the latest defense newcomer to raise money from venture capitalists betting on the expanding demand from governments for military technologies."
     publishedDateTime: 2023-10-18T08:00:00Z

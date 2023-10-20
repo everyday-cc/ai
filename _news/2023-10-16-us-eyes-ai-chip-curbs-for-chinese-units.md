@@ -65,20 +65,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Why AI Is Forcing Startups To Chase a Mirage"
-    excerpt: "But those connections, fueled by the power of AI, weren't aligned with the mission and vision of the company, which was making mental health more accessible. Again, a startup is a lonely proposition, and there is strength in numbers, in terms of both ..."
-    publishedDateTime: 2023-10-15T07:46:00Z
-    webUrl: "https://www.inc.com/joe-procopio/why-ai-is-forcing-startups-to-chase-a-mirage.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1720692878_534332_zq9sux.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "oIzQ/xViYN2o6WFFCLrdeopE8iohwR0OQoyOL8jRw1c/vxhQqPlBNJcA2gBt/7n/PKok6wZusciTrGxkNSUYGpL8yf7sqs4SfHajyoVsqcuvf9sQMDTK5oonGD2HMxRpzHDFR6zpxOuhL9QE8hJYuGucLyfaWleV4PSqlU2DelW9mEVkMqU+b85k6JPxSf/kkB+8JBEzChj37wgWNVEoIWs1aBXcpROwOo0yzeVLU6jV9NA7R3z60B3DJxBlHVlnIlsPLknw0sP0TTtTWWpgAjvrRSp1ekVcs8BsHnHCiXq9nDUEg+Ay1nKKGEBXJzk/Ix6MFvxn4VHKHux1S0yhb7BBFuvAEYt/oNteoTH7l4k=;1mRIVf6SD/F0HEyf8JWAVA=="
 ---

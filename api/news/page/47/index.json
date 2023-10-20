@@ -2,6 +2,92 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-09-14-ascento-launches-nimble-guard-robot-following-a-new-43m-funding-round.md",
+      "title": "Ascento launches nimble Guard robot following a new $4.3M funding round",
+      "excerpt": "Robotics startup launches latest autonomous outdoor security patrolling robot, Ascento Guard, allowing companies to extend security at a reasonable cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "originalUrl": "https://www.therobotreport.com/ascento-launches-nimble-guard-robot-following-a-new-4-3m-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/Ascento-Guard-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-abb-spending-280m-on-new-european-robotics-hub.md",
+      "title": "ABB spending $280M on new European robotics hub",
+      "excerpt": "This new facility will increase ABB's manufacturing capacity for its collaborative and industrial robot arms by 50% and enable it to better serve the European market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
+      "originalUrl": "https://www.therobotreport.com/abb-spending-280m-on-new-european-robotics-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/09/ABB-Robotics_Sweden-Robotics-Campus_Production.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-14T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-latest-natural-language-processing-market-growth-analysis-2023.md",
       "title": "Latest Natural Language Processing Market Growth Analysis 2023",
       "excerpt": "Natural Language Processing market focuses on analyzing the current competitive situation in the Natural Language Processing market and provides basic information, market data, product ...",
@@ -1082,101 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design.md",
-      "title": "Renesas Taps Cadence For ChipGPT-Like AI-Powered Semiconductor Design",
-      "excerpt": "Generative AI has once again proven itself capable of alleviating semiconductor design teams from large portions of iterative optimization and verification work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6501fe561c9dae31705e700f/Renesas-SVP-And-CTO--Shinichi-Yoshioka/960x0.jpg?height=532&width=711&fit=bounds",
-          "width": 711,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/",
-      "publishedDateTime": "2023-09-13T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-14-thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.md",
-      "title": "‘Thursday Night Football’ to use AI to help viewers better understand action on field",
-      "excerpt": "Prime Video’s second season begins Thursday night when the Philadelphia Eagles play host to the Minnesota Vikings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
-      "originalUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LHPH3OMIDJBIVHTMKU7UL6VZNQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
-      "publishedDateTime": "2023-09-13T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

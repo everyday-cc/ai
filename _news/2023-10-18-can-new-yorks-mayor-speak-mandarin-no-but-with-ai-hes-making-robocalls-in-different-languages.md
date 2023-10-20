@@ -3,10 +3,10 @@ category: news
 title: "Can New York's mayor speak Mandarin? No, but with AI he's making robocalls in different languages"
 excerpt: "New York City Mayor Eric Adams has been using artificial intelligence to make robocalls that contort his own voice into several languages he doesn’t actually speak"
 publishedDateTime: 2023-10-17T21:34:00Z
-originalUrl: "https://abcnews.go.com/US/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046546"
-webUrl: "https://abcnews.go.com/US/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046546"
-ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046546"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046546"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
+webUrl: "https://abcnews.go.com/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/new-yorks-mayor-speak-mandarin-ai-making-robocalls-104046550"
 type: article
 quality: 46
 heat: -1
@@ -118,6 +118,6 @@ related:
         height: 680
         isCached: true
 
-secured: "H44pwe8OCxoAO3KzRJD6H4uhH2Ef6nf9jags60dKHp7bT5tZvtIRCKUe5fOD1iuz6EKgXt6Gr2T8v5D9UdV46+agqSL9CrYuMdwCS0BBrtYtFiTqU6x3p/XC/i7ARx034D4r5pBHrs2q385Xoe9IyzDUdCOxqH/pbmTkPmqlLiH++oiT3R07JqxPNnzPvX2a8xJLoKBOg47pj20ZAN2rj/qrBwTZfEc927G9WjYOyUnvvzoTok5scl02TtY8DWE3hk22lGgAAXcS7RDCQecs5pRI91Xro+2RCUh1Mj8Zlm7ZjILnc7n6pVhZJOZaIBmBgSt3Yg001dmJlqDJwmgYgDCctnoicM/rBsxbOK2/aNY=;PnOOA2nF5vubychn1jH4LQ=="
+secured: "hQ2765Kg/dSjaw2zYoyXUNojCtdwnSsFcUv1hGYqprkmW5ksv3CcqyYJQnGptPIAh0LpmXXuKx7cR5zwsWbST27WhoIoy+YVeUx3SiqTptgoyDx9W3nV4ExJCGjKquwwJKO3F+7bWcCyQDg8Nq+lle0KJ5SQSS1Tjca9Z/ADtDQTMKHWGzeo8bedj0Ky+2yGT+vMk1Ao1ecmyxxIprI7hJM1UTRKJtZowptmTgrHKFukGAFi9YZidaizibcUrbXuU0Ux+kQz78OwsAu4EoAenjrgNTJ/Z1hEhX0AaC3/raQLdw49bumKDtpNCERIvH65fsUg7R9xk7sWkiv3b16fuPdVg/BUDNk9mz5ceSbxGaQ=;7/KcRHYsHDbzdmvqMCvbmw=="
 ---
 

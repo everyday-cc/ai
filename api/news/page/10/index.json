@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-10-12-dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge.md",
+      "title": "‘Dubai. AI’ launched as Artificial Intelligence-powered digital city concierge",
+      "excerpt": "AI platform in partnership with the Dubai Center for Artificial Intelligence (DCAI), which allows users to easily and seamlessly access services and information about the city of Dubai across various sectors. The platform was launched on day one of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660",
+      "originalUrl": "https://gulfnews.com/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2023/10/11/Digital-Dubai-launches-Dubai-AI-1697036077563_18b1f3b8a30_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/government/dubai-ai-launched-as-artificial-intelligence-powered-digital-city-concierge-1.98684660",
+      "publishedDateTime": "2023-10-11T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas.md",
+      "title": "Generative AI Is As Transformative As The Telephone, Bank Of America Says: 10 Stock, ETF Trading Ideas",
+      "excerpt": "Artificial intelligence has been on the minds of companies and investors throughout 2023 as one of the top trending items. Bank of America noted the impact artificial intelligence can have on several sectors going forward and made the claim it could be highly disruptive.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/generative-ai-is-as-transformative-as-the-telephone-bank-of-america-says-10-stock-etf-trading-ideas-1032697711",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/11/shutterstock_2350706053.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-fearing-ai-fanfiction-writers-lock-their-accounts.md",
       "title": "Fearing AI, fanfiction writers lock their accounts",
       "excerpt": "Like many AI models, the program was trained using data scraped from ... If our stats and comments plummet, I guarantee writing is going to start going down as well.” Many writers are also restricting their accounts to avoid the influx of bot comments ...",
@@ -1137,109 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-bigbearai-nysebbai-stock-will-this-penny-stock-go-up-from-here.md",
-      "title": "BigBear.ai (NYSE:BBAI) Stock: Will this Penny Stock Go Up from Here?",
-      "excerpt": "Shares of BigBear.ai Holdings (NYSE:BBAI) have corrected quite a lot, losing nearly 78% of its value from the 52-week high. However, analysts",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/bigbear-ai-nyse-bbai-stock-will-this-penny-stock-go-up-from-here-1032696111",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/bigbear-ai-nyse-bbai-stock-will-this-penny-stock-go-up-from-here-1032696111",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/10/BBAI.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 913,
-          "height": 307,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-state-of-play-has-ai-really-changed-digital-marketing.md",
-      "title": "State Of Play: Has AI Really Changed Digital Marketing?",
-      "excerpt": "AI is helping us collect and analyze vast amounts of customer data more efficiently. AI can collect and analyze data about customers' demographics, interests, preferences and behaviors at lightning speed, freeing humans to concentrate on higher-level functions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of-play-has-ai-really-changed-digital-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of-play-has-ai-really-changed-digital-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5eeccc6776f20100072f4a21/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of-play-has-ai-really-changed-digital-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/10/11/state-of-play-has-ai-really-changed-digital-marketing/amp/",
-      "publishedDateTime": "2023-10-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

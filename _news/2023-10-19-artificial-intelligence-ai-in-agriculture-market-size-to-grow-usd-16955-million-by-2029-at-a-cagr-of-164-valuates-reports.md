@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-19T14:29:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902179.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902179.htm"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "AI In Fintech Market Unleashes a 16.5% CAGR Surge to US$ 54 Billion"

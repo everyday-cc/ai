@@ -2,6 +2,101 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2023-09-14-renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design.md",
+      "title": "Renesas Taps Cadence For ChipGPT-Like AI-Powered Semiconductor Design",
+      "excerpt": "Generative AI has once again proven itself capable of alleviating semiconductor design teams from large portions of iterative optimization and verification work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6501fe561c9dae31705e700f/Renesas-SVP-And-CTO--Shinichi-Yoshioka/960x0.jpg?height=532&width=711&fit=bounds",
+          "width": 711,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/09/13/renesas-taps-cadence-for-chipgpt-like-ai-powered-semiconductor-design/amp/",
+      "publishedDateTime": "2023-09-13T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-14-thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.md",
+      "title": "‘Thursday Night Football’ to use AI to help viewers better understand action on field",
+      "excerpt": "Prime Video’s second season begins Thursday night when the Philadelphia Eagles play host to the Minnesota Vikings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
+      "originalUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LHPH3OMIDJBIVHTMKU7UL6VZNQ.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/philadelphiaeagles/2023/09/thursday-night-football-to-use-ai-to-help-viewers-better-understand-action-on-field.html?outputType=amp",
+      "publishedDateTime": "2023-09-13T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-14-face-recognition-software-market-2023-important-elements-scope-and-segmentations-by-2030.md",
       "title": "Face Recognition Software Market 2023 | Important Elements, Scope and Segmentations by 2030",
       "excerpt": "Face Recognition Software Market 2023-2030 Latest Research Report provides [120 Pages Report] with a detailed analysis of qualitative and quantitative research such as interviews, focus groups ...",
@@ -1084,109 +1179,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation.md",
-      "title": "Why Your AI And Machine Learning Strategy Needs A Solid Foundation",
-      "excerpt": "Organizations need a clear strategy for how and when they will incorporate AI and machine learning, and they need quality, well-governed data to serve as the bedrock for impactful automation, greater efficiencies and innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/13/why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/13/why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640236bd8a9b57f11a217f5e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/09/13/why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/09/13/why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation/amp/",
-      "publishedDateTime": "2023-09-13T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-exclusive-california-bill-proposes-regulating-ai-at-state-level.md",
-      "title": "Exclusive: California Bill Proposes Regulating AI at State Level",
-      "excerpt": "A new bill in California, where many tech companies are based, adds to national and global efforts to regulate AI",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6313588/california-ai-regulation-bill/",
-      "originalUrl": "https://time.com/6313588/california-ai-regulation-bill/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/09/GettyImages-1298883331.jpg?quality&#x3D;85",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

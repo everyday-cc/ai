@@ -7,7 +7,7 @@ originalUrl: "https://www.inferse.com/756137/bhp-unleashes-the-power-of-digital-
 webUrl: "https://www.inferse.com/756137/bhp-unleashes-the-power-of-digital-at-worlds-largest-copper-mine-microsoft/"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Melbourne Airport reimagines the passenger experience with … – Microsoft"
+    excerpt: "By Microsoft News Center Melbourne Airport is the second busiest airport in Australia, facilitating more than 4,500 flights a week and"
+    publishedDateTime: 2023-10-20T01:55:00Z
+    webUrl: "https://www.inferse.com/763608/melbourne-airport-reimagines-the-passenger-experience-with-microsoft/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 33
 
 secured: "Xo1O1JRA1uevohFP2BrIyVyqiecTZA4feJuFdYzuB2xA6eKmvg60G5invrczXlJfSXDesmG/oWfu8wWqssCSTdZlFTnUH8gR8HhfYXpHxH8WQtirlar969FmweEOwyJrZX6yIBwgM2fhbUE3yTGYCVOaljKFTK71w7Fw170yeeYeN/cebCDR7jEMfN28+h7rQ20l6EwbR4CuegUwXKeoNCOivbHBJhGFFX5o6cB2NNzbP/WzTGvZrX1Eh1inZ/Sc7rayw/q/J3O+w8x+39Sh9IMDtImaiSWGwSicAh1OvWqK1jGgBokftqwhpN3x7xz9HaV3hcjIok2L0LXNXrgY4sXgvtnEtVIpo3pR5Ls4J3u9fhkBz4vWXfW47yGROumktS6rQLWF4Apmvcs6OqtYOUWKe3/1M8L9n0JkjkbQu/OBE7Xqbcfy/3sbT6wfPKUT7CwYNGruxVRFJhRKQk0Hz4fjrbHYKC7oI4zrWlGn5rJI0Vgd589JxtaNeWpKoX9urIdo689se+Iq4RST30cIZQ==;fSlyfa+5K45f4vhMKtZG2Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/amp/"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s impact on tech and entertainment to be a key focus for industry leaders"
-    excerpt: "AI’s impact on tech and entertainment to be a key focus for industry leaders."
-    publishedDateTime: 2023-10-15T08:29:00Z
-    webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-    images:
-      - url: "https://images.wsj.net/im-868527/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Growing AI industry seen posing challenge for regulators"
     excerpt: "The rapidly evolving Artificial intelligence (AI) industry poses a challenge for regulators as they seek to foster public trust and confidence in AI while"
     publishedDateTime: 2023-10-18T09:42:00Z

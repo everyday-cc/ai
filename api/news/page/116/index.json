@@ -2,6 +2,91 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-07-28-can-ai-fix-the-us-healthcare-system.md",
+      "title": "Can AI Fix The U.S. Healthcare System?",
+      "excerpt": "John Guttag is a computer scientist and professor at CSAIL and EECS MIT, recognized for his significant contributions to the fields of programming languages and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/video/6331934380112/can-ai-fix-the-us-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-28-what-is-the-vulnerability-management-lifecycle.md",
+      "title": "What is the vulnerability management lifecycle?",
+      "excerpt": "The vulnerability management lifecycle is a continuous process for discovering, prioritizing and addressing vulnerabilities in a company's IT assets.\nThe post What is the vulnerability management lifecycle? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/vulnerability-management-lifecycle/",
+      "originalUrl": "https://www.ibm.com/blog/vulnerability-management-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T06:19:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur.md",
       "title": "How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur",
       "excerpt": "As an independent software vendor (ISV), we at Primeur embed the Open Liberty Java runtime in our flagship data integration platform, DATA ONE.\nThe post How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur appeared first on IBM Blog.\n",
@@ -1094,91 +1179,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-netflix-touts-900k-ai-jobs-amid-hollywood-strikes.md",
-      "title": "Netflix touts $900k AI jobs amid Hollywood strikes",
-      "excerpt": "\"So $900k/yr per soldier in their godless AI army when that amount of earnings could qualify thirty-five actors and their families for Sag-Aftra health insurance is just ghoulish,\" actor Rob Delaney, told The Intercept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-us-canada-66332876",
-      "originalUrl": "https://www.bbc.com/news/world-us-canada-66332876",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/11C97/production/_130555827_gettyimages-1242278437.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/world-us-canada-66332876.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-us-canada-66332876.amp",
-      "publishedDateTime": "2023-07-27T19:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-mlytics-tenmax-partner-to-offer-ai-driven-video-engagement-solution-for-video-stream-companies-driving-monetization-and-conversion.md",
-      "title": "Mlytics & TenMax Partner to Offer AI-driven Video Engagement Solution for Video Stream Companies, Driving Monetization and Conversion",
-      "excerpt": "Mlytics and TenMax, leading technology providers in the video streaming industry, have announced a strategic partnership to revolutionize monetization and conversion strategies for video stream companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aap.com.au/aapreleases/cision20230727ae68468/",
-      "originalUrl": "https://www.aap.com.au/aapreleases/cision20230727ae68468/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Associated Press",
-        "domain": "aap.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

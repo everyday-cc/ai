@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Google boss says AI is too important to get wrong"
+    excerpt: "Google president Matt Brittin has warned that artificial intelligence technology is \"too important not to get right.\""
+    publishedDateTime: 2023-10-19T15:34:00Z
+    webUrl: "https://rollingout.com/2023/10/19/google-boss-ai-important-for-technology/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 39
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2023/10/0544346001553072166-185.jpg"
+        width: 1000
+        height: 650
+        isCached: true
 
 secured: "I1iF6wmfOJbkwzLr0uF1NXnVbpn5ClidfF5bXIBGsm5rf/KZ6I+GgFYpFhIix9xkRLRXWi7T/uvtByYqqU2MmqpA8xi3VXcYS/xe0rbc34zNuTroY3gj5jeWsMnUtDnkNYAUuG47DSXu4zkEqyLdDaK0hIJFgMlfsZDETnvQ1Kh4TAfjcWjd7VYdd0ypIG3Wj7JUDaqdrJDJxnxgfHE0K5ZMfRQXplqVp1g6ZwAOwTkj+EvASvOpSeiIPQiAcqJpPjSj2EzuN+gDobNHTU8tSXFm43c2QUVBHx25gVgba75raBJuNCdN+Ej8Bsq1uL8PmpoXPuB3bdb3dVPVy5nafUJuuIY+6mc1TbnHIaKvfTk=;nx4vHMT4zMpbzOkV+0StnA=="
 ---
