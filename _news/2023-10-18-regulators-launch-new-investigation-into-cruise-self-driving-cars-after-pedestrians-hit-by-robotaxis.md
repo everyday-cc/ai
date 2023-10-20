@@ -53,6 +53,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cruise faces federal inquiry as self-driving vehicles hit North Texas roads"
+    excerpt: "However, Cruise, a California-based self-driving technology company backed by General Motors, Honda, Microsoft, T. Rowe Price and Walmart, is under investigation by federal regulators after reports of the autonomous driving technology vehicles getting too close to pedestrians near roadways or on sidewalks."
+    publishedDateTime: 2023-10-20T21:22:00Z
+    webUrl: "https://www.dallasnews.com/business/local-companies/2023/10/20/cruise-faces-federal-inquiry-as-self-driving-vehicles-hit-north-texas-roads/"
+    ampWebUrl: "https://www.dallasnews.com/business/local-companies/2023/10/20/cruise-faces-federal-inquiry-as-self-driving-vehicles-hit-north-texas-roads/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/local-companies/2023/10/20/cruise-faces-federal-inquiry-as-self-driving-vehicles-hit-north-texas-roads/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 42
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
+        width: 830
+        height: 467
+        isCached: true
   - title: "Cruise self-driving cars investigated after two accidents"
     excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
     publishedDateTime: 2023-10-17T13:46:00Z

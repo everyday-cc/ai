@@ -129,20 +129,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "What happened in the Voice and where to next for Australia?"
-    excerpt: "EXPLAINED: A majority of Australian voters rejected the proposal to establish an Aboriginal and Torres Strait Islander Voice to Parliament."
-    publishedDateTime: 2023-10-16T03:17:00Z
-    webUrl: "https://www.stuff.co.nz/world/australia/300990237/what-happened-in-the-voice-and-where-to-next-for-australia"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 24
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/7/9/j/o/image.related.StuffLandscapeSixteenByNine.1420x800.4z79jx.png/1697428680023.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Labor senator says Australians ‘will not let go’ of Indigenous recognition as Albanese under pressure to outline plan B"
     excerpt: "We want to make sure our kids don’t continue to inherit the statistics that we see today,’ says Jana Stewart"
     publishedDateTime: 2023-10-18T05:57:00Z
@@ -187,6 +173,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "As Indigenous leaders declared a week of silence, Australian politics was reduced to what the Voice was supposed to address"
+    excerpt: "The Voice campaign and its politics have confirmed we're in new political territory, where there seems little restraint or even regard for the truth — not just by fringe players but players central to our politics,"
+    publishedDateTime: 2023-10-20T18:00:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-21/indigenous-leaders-week-silence-politics-reduced-voice-address/103003780"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 0
 
 secured: "QpCs7707K4El3zPXUZX3P9s+Ud02OZt3XmM7tiyyxYpTw5LWcmcvwR4NdVQVasAyxpusOQdSLnI/Uo4mTk7ui+JdudvSQ2GjX0SSREBNHl4dX4l7SynMzaLynUOHnAt8Ij4wWMK3A/PSPy8N1eeChFBxzGIkr7Mz5ZGdDlIpBNQDJknSzErkK7pcEXoiHQ90Tf4lKhoORCUa14LYUdXqR078Hu/X23/3Rftfb6aLaEIG5WMhwdtbqoWP5Ik24ZBx6xu8MliaBoQp2zDINA0o+VF0TYp0w222ojq4A5qA7xDmN/+7BBFTX8g31aqCrwih6eGOmQb558V1bj7ud/jAvK5W652i+1W/kUTgz8JTEozQgrZpLHZlxhRmUgIS0M4Dmg3NTOVu0TD4zrf43xFSkG1JIJwlXYkCVr9EWkd5F2dES1UKVukPZvYbasnS18jzfruqWRujl60u8a8SruOuIKKZCB2CMx9VP3epPuhZEjZhIl37gIdpg+nSmNwIEG6a2Gkcj9u0uyWku4WHJ+Bu+A==;9z1WPb0iyCqyyu45MkRNPw=="
 ---

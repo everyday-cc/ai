@@ -39,6 +39,20 @@ related:
         width: 800
         height: 583
         isCached: true
+  - title: "Greece establishes AI advisory committee to create national strategy"
+    excerpt: "The Greek AI advisory committee will be made up of top researchers and high-level scientists both in Greece and Greeks living outside of the country."
+    publishedDateTime: 2023-10-20T20:31:00Z
+    webUrl: "https://cointelegraph.com/news/greece-ai-advisory-committee-national-strategy"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 39
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/edb18cfd-c36e-41b1-a642-c2a54a47ea09.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "Zw8d/qbui9oNPjs79Oy4kuCPIw8I6H4lO1ZQwZl45vEgp4Y3Sx2sMlcO++JGVp8Zh2Ric1lAV3rfuZShtGuNsJVVcCkg0VXmYyzS77G5SFmxB7B0h4xwhWjEoIWaHHtAO4OIk3IOjOPNBH3IuduXdirEhmFSTCugGlcLR5+aqrlCaZHCwQpxk/F4+vRVJOhW93Qe7zuHo6J0jInrhczR/Fzh6ECZ/S80XlxBNEN51RIjfLaLG3h2w3uODEYKWmHPx7EbdBNcoAvpFRPfGZ0YMc+glafbhIZHFeiM2gCV66IlNa/65sBF9SsnbB5Tr9l22VxxviqS0vjz64B33bcUYRVDRmHVo6Kim81odPvs7/ppfLfyL3e8zyjZkJ2Yj6D75oiragbjiv6tXnVTpY4E3+NXSeW8n/s9mhF8wIh3i4IcLeGuuaqvtRggdn1e5pZNWl7LGGQMKQLt0eCFnU4v4zMR9elxVLjBQotu5MuqKFstC2VN8HGNY+QWcxDPE4/mkdcreYPg6OiTz4HX7fMvUA==;t9Ew7PjuDPCoxpj3YcFN5Q=="
 ---

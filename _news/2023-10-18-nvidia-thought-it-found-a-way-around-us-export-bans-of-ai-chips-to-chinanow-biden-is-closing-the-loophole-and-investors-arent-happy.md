@@ -57,6 +57,15 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
+    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
+    publishedDateTime: 2023-10-20T17:03:00Z
+    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
 
 secured: "ioUUr8qO9d+bwYlZoTf7YKHLdEcMSdBShz8NCLNpvu7wm2pSVj7QDt8tP/MiVMxmUJ86INoWQlFdtFia7nBqwqlknT5JP1BDk3TjNdJHUNfeB7C2Ky80kY2DlibEhR7J6AVH/sLYsaH0K8EkoPnN5GHzztGJiWprBz5pafrVlimp2T/P3isi1JFR7j9e4zAQlCAVpMe7JRTC+ZeYjtHdUZc7QzTOGriexSRvXZW6tzs6T/M2xJe7gmsrzGbt58GRLk6smib05dFbSv9AjbHen9XFJ6hiYrSomXmGjEyrenwRLaDOpIx8ClJwpZAjwpWYJoHS1lsK84dc3K7/nLizaFQJfnY1SXY0fDmPGmJRH44=;id2BWycdKQFx6Ivx0aFZPQ=="
 ---

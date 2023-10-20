@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "World Health Organization Addresses AI In Healthcare Bias, Outlines Guidance For Regulatory Compliance"
-    excerpt: "World Health Organization (WHO) has unveiled a comprehensive publication highlighting critical regulatory considerations for harnessing the potential of"
-    publishedDateTime: 2023-10-19T15:08:00Z
-    webUrl: "https://www.benzinga.com/government/23/10/35330203/world-health-organization-addresses-ai-in-healthcare-bias-outlines-guidance-for-regulatory-complianc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35330203"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35330203"
+  - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
+    excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
+    publishedDateTime: 2023-10-16T11:27:00Z
+    webUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/19/laboratory-563423_1920.jpg?width=1200&height=800&fit=crop"
-        width: 1200
-        height: 800
+      - url: "https://d.ibtimes.co.uk/en/full/1720247/fintech.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "QXa1qC9ahMcLZBa/wLJmMix1DXl126lhhsC0683nI8xlqSQMcNMOIbVaA2uHt72eG9k2RXf1IRbT4PrdjW3IFG7JHfrTKUGR3YYUpLHYc99zxEzNXwscMXKnVMXsNosmUb13LzuY1TqBYvmdOj3UHDOqfzzsOaTf02I1mgx8xsmnDuWVUhYl/39G3C5akzNV3kMqvBK2Et3rx/d1yQuDrMlAnK2JlVWAN5EHc96/AYzs48HC0Cw9WMFMO3DMrv9TnyMZoeBBe+ys3VqP6VQrpRboeIrx0zxqCbC3J3CAyK0NCGj4+HhzZ6V9l4WOrqS1yz0m9KD1WFYHtXqqns1F0HbpXOfkdex+ASDoV/fvMuU=;EAdCaMUnBS2XSAoWSWcyew=="

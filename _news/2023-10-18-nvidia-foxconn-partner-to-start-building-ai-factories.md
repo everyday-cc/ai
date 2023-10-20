@@ -116,6 +116,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
+    excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
+    publishedDateTime: 2023-10-20T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-Eureka-Key-Visual.png?w=1200&strip=all"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "AI chip start-ups: Nvidia is proving a difficult stone to dislodge"
     excerpt: "Non-chip AI start-ups are still popular with investors, but less so semiconductor start-ups. Excluding China, VC deals dropped 25 per cent last year, according to PitchBook data. Nvidia ’s domination, estimated at 90 per cent of the market, appears to have dented confidence elsewhere."
     publishedDateTime: 2023-10-18T10:39:00Z

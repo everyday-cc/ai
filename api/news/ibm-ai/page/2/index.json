@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-09-the-synergy-between-uem-and-medical-device-risk-management.md",
+      "title": "The synergy between UEM and medical device risk management",
+      "excerpt": "Unified Endpoint Management (UEM) and medical device risk management have deep synergies. When a healthcare organization develops a risk management framework, cybersecurity is a must. \nThe post The synergy between UEM and medical device risk management appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
+      "originalUrl": "https://www.ibm.com/blog/the-synergy-between-uem-and-medical-device-risk-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/06/r_jofe160519-00040-01.l_2x1-e1688051935864.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T00:49:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-ibm-long-term-potential-with-ai-rating-upgrade.md",
+      "title": "IBM: Long-Term Potential With AI (Rating Upgrade)",
+      "excerpt": "the company is solidifying itself as the leader in enterprise AI, which will pay handsomely in the end. IBM is a pioneer in this segment and is innovating continuously, which in the next couple of ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4639263-ibm-long-term-potential-with-ai-rating-upgrade",
+      "originalUrl": "https://seekingalpha.com/article/4639263-ibm-long-term-potential-with-ai-rating-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1464561575/image_1464561575.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-ibms-ai-portfolio-underappreciated-analysts-say.md",
       "title": "IBM’s AI portfolio ‘underappreciated,’ analysts say",
       "excerpt": "“The company has a defensive portfolio, attractive dividend yield and an underappreciated AI portfolio.” They noted that IBM’s watsonix was different from its “old Watson,” with a focus ...",
@@ -1233,91 +1327,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-data-science-vs-data-analytics-unpacking-the-differences.md",
-      "title": "Data science vs data analytics: Unpacking the differences",
-      "excerpt": "Though often used interchangeably, \"data science\" vs \"data analytics\" are two distinctly different concepts. Let's explore.\nThe post Data science vs data analytics: Unpacking the differences appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/data-science-vs-data-analytics-unpacking-the-differences/",
-      "originalUrl": "https://www.ibm.com/blog/data-science-vs-data-analytics-unpacking-the-differences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/20_43_p_gorodenkoff-017.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-ibm-seeks-to-offer-enhanced-ai-service-to-enterprises-with-watsonx.md",
-      "title": "IBM seeks to offer enhanced AI service to enterprises with Watsonx",
-      "excerpt": "IBM introduced its generative AI platform Watsonx to corporate customers and professionals here, explaining that the platform makes it easier for customers to utilize generative AI, the country general manager of its Korean unit said,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2023/09/133_359573.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

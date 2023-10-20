@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-19-ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai.md",
+      "title": "TED AI 2023: A historic symposium on benefits, risks, and applications of AI",
+      "excerpt": "Hosted by Anderson and entrepreneur Sam De Brouwer, the first day of TED AI 2023 featured a marathon of speakers split into four blocks by general subject: Intelligence & Scale, Synthetics & Realities,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tedai_2023-hero-800x450.jpg",
+          "width": 760,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/",
+      "publishedDateTime": "2023-10-18T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-the-soft-power-of-nature-based-robotics-working-towards-a-future-artificial-heart.md",
+      "title": "The soft power of nature-based robotics: Working towards a future artificial heart",
+      "excerpt": "Implantation of a total artificial heart offers a solution for patients with severe heart failure, but existing artificial hearts have major limitations, which means there is a need for a better alternative.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-soft-power-nature-based-robotics-future.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-soft-power-nature-based-robotics-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/the-soft-power-of-natu.jpg",
+          "width": 1280,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-soft-power-nature-based-robotics-future.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-soft-power-nature-based-robotics-future.amp",
+      "publishedDateTime": "2023-10-18T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains.md",
       "title": "IBM expands AWS partnership to bring generative AI to call centers, supply chains",
       "excerpt": "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities.",
@@ -650,6 +744,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-18-ey-and-ibm-team-up-on-ai-to-automate-hr-processes.md",
+      "title": "EY and IBM team up on AI to automate HR processes",
+      "excerpt": "EY plans to tap IBM's Watsonx Orchestrate to automate HR processes like drafting job descriptons and analyzing employee feedback surveys.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ey-and-ibm-team-up-on-ai-to-automate-hr-processes/",
+      "originalUrl": "https://venturebeat.com/ai/ey-and-ibm-team-up-on-ai-to-automate-hr-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/hiring-e1631919874329.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses.md",
       "title": "AI chatbots can infer an alarming amount of info about you from your responses",
       "excerpt": "The way you talk can reveal a lot about you—especially if you're talking to a chatbot. New research reveals that chatbots like ChatGPT can infer a lot of sensitive information about the people they chat with, even if the conversation is utterly mundane.",
@@ -752,7 +898,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -838,7 +984,7 @@
       "originalUrl": "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1067,134 +1213,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide.md",
-      "title": "AI skills for all: How IBM is helping to close the digital divide",
-      "excerpt": "IBM is going to train two million learners in AI in three years, with a focus on underrepresented communities.\nThe post AI skills for all: How IBM is helping to close the digital divide appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide/",
-      "originalUrl": "https://www.ibm.com/blog/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus.md",
-      "title": "Watsonx Orders helps restaurant operators maximize revenue with AI-powered order taker for drive-thrus",
-      "excerpt": "IBM designed watsonx Orders to be considered a valuable crew member: accurate, polite, speedy and reliable 24/7.\nThe post Watsonx Orders helps restaurant operators maximize revenue with AI-powered order taker for drive-thrus appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus/",
-      "originalUrl": "https://www.ibm.com/blog/watsonx-orders-helps-restaurant-operators-maximize-revenue-with-ai-powered-order-taker-for-drive-thrus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents.md",
-      "title": "UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents",
-      "excerpt": "This initiative encompasses comprehensive training programmes designed to strengthen collaboration structures within technical fields and promote the development of national talent in emerging fields,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i",
-      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/21/180516221659emso-jpg.jpeg?f=3%3A2",
-          "width": 724,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1",
-      "publishedDateTime": "2023-10-18T00:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

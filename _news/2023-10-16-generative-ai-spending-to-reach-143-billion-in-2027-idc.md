@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "$143 billion in AI investment by 2027. Don’t miss OnPodcast this Sunday!"
+    excerpt: "Hi, OnMSFT.com readers! It’s the OnPodcast crew here with the usual reminder to tune in and watch our show! This week we’ll be on episode 133, and we’re"
+    publishedDateTime: 2023-10-20T19:19:00Z
+    webUrl: "https://www.onmsft.com/onpodcast/143-billion-in-ai-investment-by-2027-dont-miss-onpodcast-this-sunday/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 16
 
 secured: "92d4ytGi9umDhMA/Nb8brjdqFr2kUIiV1CGg8vedEdZmSyJ5AImt7zxdwTHaD5cN4UFemZWnPXiSqmy7F/y6FSXLpzN1uLF2OqPtYIZozebRHP8HNCPA+cEOnONVxfTTnSTJPrljeFvkdFicigk2fwBW41yplWqoLTg9ZO6ZU2AVVdrAZmKgVY6mY+VpQYzY1Y95SHg0ywxDLkelrQ+l/4MgCqwfSISvjathknItjOggXLAUG6v+3MACDUGJeD1PnYggjxUzb/kdNzQdg6IuLruBncApEf8xZ94SInqcLKk4lT+yw6D9p2vebPBHCzpLFn8uTrYZs6q1YDzavrvvnksm902RMhE9ZtCX8exRy60EebobVPmFlUOk32BDAHlwnjCUKUxEfRRsR4mtj9QGxxe5AYgu+MevVyt5ia6gu8Mavc4EIqJRjMju76GkItSgQHVJRH+b1i+XgfsPABWB7OFXiUdbCi3Y9nG8kyko7zpKWJmahkH0BxNTuVs3Hk7YD6jrUyP35rTC+ZO4LOVWsA==;8rYpI00CC81UG5vxSS2DxQ=="
 ---

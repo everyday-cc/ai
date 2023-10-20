@@ -114,7 +114,12 @@ related:
     provider:
       name: Arab Times
       domain: arabtimesonline.com
-    quality: 36
+    quality: 56
+    images:
+      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/Dubai_Police_Introduces_Luxurious_Marine_Patrol_for_Swift_Response_and_Rescue_Operations2-1697454312892_18b38294e05_original-ratio.jpg"
+        width: 800
+        height: 540
+        isCached: true
 
 secured: "UKrmTmu+vLGEZU+08VmcIN4jI/RI4Dfsu+xmnLcx7NxI/vrQikMl9dXHyIwnYSclkB618eYqFDPUGfw/wZpNTKHlxf8iQFC+JGGsebHC4kTwn1uxsSCPik4Tz+fhBNO5LcUkQZ23HgBAikD9N989HZTQizPo1w9TleSUYBsSKJS2YA4Ys9zu6xxuWp7sjRU3bzcEhzbwLkWrdHg6pVHMB2uAdhfDdzh/ggYiKacOSf9MURvkHValnAwrxU5paTYKjjKuAgppd5XG3T8aBKm2uZaFeR5/xqK+tgKqYv8HYE++/LN68OTCLtGylqgmBj9l7vB6m5lNkgcOz4ML6vQZyWnjvBETt7xRW/dN2K0FqpvPXyAP1Kz68L63LuuHo1qLn8xNsPJ6nwrIpC0bj7rczJ1c/MXqhvstPYjvRiCdGPGSfs0CVvz3m1PKQk2fmzWFN3E6G52Kr0lxNYJmkA+LnTsKO2gTRMc2S5q8lgitGRcJuXgBCWWOSfqbXOoN8es4SoBxe3prjO3E6NJCTzyCGQ==;7CleSCkD/O+QUCH5hdK5Qg=="
 ---

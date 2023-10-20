@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/"
 type: article
 quality: 96
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -61,20 +61,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
+  - title: "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS"
+    excerpt: "In a reply, X user Ivan Vasilev wrote, \"Funny how programming of the future requires yelling at AI in caps.\" In another response, Dr. Eli David wrote, \"At first I laughed reading this. But then I realized this is the future: machines talking to each other,"
+    publishedDateTime: 2023-10-20T19:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
     excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
     publishedDateTime: 2023-10-18T16:52:00Z
@@ -112,6 +107,15 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 34
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-20T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354131&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "Kpl64FGPzqoWlVf/19D0kl1gRsJo1U8DhNCWfhNlfE6OhIIBzV8UNUofDMjeTLYmb1ubo7zeKmu/9qgsfp+0z2TocYt5eST7PTR06XLhs7191Y4XCIrTfuooVtIV5onw7wAlaHOoS2SM71i4Bf3qwyrLqjyUgHiJQuUlWIJp2iyoi7fNLFs0u8Elwv092fIl1WTyfmfcIImI0EE0twoVrYFvm0MU4iWxEZErIN2QN7EXHH/WMvfJiFzd06EjEHAzgAdqOcXQX3G8SWtVGkwzvVuN3nFR/veP9tDENbQKh5x4wAPNuiGj++efVjm8BWmhVoFdbjB5dP8jAzuKhFc6fsfyH/yS9Lgvp1AknwpyM7Xm+XxVkaRhWuKliWW5uVIGVXOEJTWLUAYKzNYq43fjM+mJITDutKtIcpenS4gFZq58+CPpnpYYEfW9TKmuazzHuUcfHvxL+pzN3Zy6fgv35b0ntt3NEc7MYBcDUrnB4DgIEs9Q1g+vUHvPOra5vOXzX9HLIVuFf+NMzaYIiXlgVQ==;FAouU9Y14a0FKipFzSdtaA=="
 ---

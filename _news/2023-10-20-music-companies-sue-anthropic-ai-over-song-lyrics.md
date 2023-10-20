@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
 type: article
 quality: 57
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/1d9d69c/2147483647/legacy_thumbnail/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F90%2Fde%2F1739049047dfb6155d4ae10760eb%2Fgettyimages-518446780.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Music Publishers Sue AI Startup Over 'Widespread' Copyright Infringement"
+    excerpt: "Universal Music filed a lawsuit against AI startup Anthropic over \"systemic and widespread infringement of their copyrighted song lyrics.\""
+    publishedDateTime: 2023-10-20T20:15:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/video_9edebfb2-91cf-5418-9602-12939a471745.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ed/9edebfb2-91cf-5418-9602-12939a471745/6532a7ae0d29a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Universal Music sues AI startup for copyright infrincement over song lyrics"
     excerpt: "Universal Music sued AI startup Anthropic over “systematic and widespread infringement of their copyrighted song lyrics,” per a filing Wednesday in a Tennessee federal court."

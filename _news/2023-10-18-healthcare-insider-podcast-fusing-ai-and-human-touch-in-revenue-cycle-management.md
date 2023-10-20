@@ -33,6 +33,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Chicago AI Conference 2023: Shaping The Future Of Finance With Responsible AI"
+    excerpt: "Chicago AI Conference Speakers The Chicago AI Conference, organized by the AI 2030 Initiative, FinTech4Good and co-host"
+    publishedDateTime: 2023-10-20T18:43:00Z
+    webUrl: "https://menafn.com/1107278575/Chicago-AI-Conference-2023-Shaping-The-Future-Of-Finance-With-Responsible-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
 
 secured: "5MLUOVt62RYzfF/i3cLJohNjBEU1hO1KpsStnmdQPecB/sgC9TeOLqQoagJJolZnxIkwQgTTRUSZf/e3rs/i39lqhtHifGfRPH5XGZ0BFd5XC9F6M+MHIPdAcgUkScLPrzklZ61XpWPLBJkcVyh5jPJPfGrjfXFb8FkuvDY+XMEq7RhBr9GlSHOMbvHRb77aZFXAQr1r19Cubw9tPT2hnW5kKxOt9W9TAbWUAdm23o/uw8nUPieb8+NA8RTLvoDm9wduXz8WjSaXYGDMqGxuLQZTfGnoYvKe0J1NghwOSCT8ntqfnLexsI0ou93Ga5cMZtz9DFJrcVcHz5gSzdHeU9+K9SzKIuI479DcFO3NX/A=;vKSQrfrxMrWkWQ6Eqaq+HA=="
 ---

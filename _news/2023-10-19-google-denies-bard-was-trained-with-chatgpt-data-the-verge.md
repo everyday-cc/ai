@@ -34,6 +34,15 @@ related:
       name: Elektronik Net
       domain: elektroniknet.de
     quality: 19
+  - title: "ChatGPT, DALL-E 2 and the collapse of the creative process – The Conversation"
+    excerpt: "Professor of Philosophy and Director, Applied Ethics Center, UMass Boston Postdoctoral Fellow in Philosophy, UMass Boston The authors do not work for,"
+    publishedDateTime: 2023-10-20T19:08:00Z
+    webUrl: "https://www.inferse.com/764746/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-the-conversation/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 1
 
 secured: "6wKxNx34BEnvd9T67X4Z6EDCcbH6jrGf2OXBuXa4B4u9bWxiWMYbenmE3VViAorRYqNcS0A2aMM6Ur+8Erq41ZK5Jbu26sw9YYIcK/4j+KHvyeWBuplU68m7RD6Wvfi40Coc9hJhSiEi0rsSVhbytuf8BZvMgHCaIRFtuZ6pZk+T7pC6xTyyV2CbBXBmj/DY/yxlgHYMBVyci+2UHi4ZlUfqQ1iEBrAzOkz1inNueVXeVcuhMUpgOcGb9OzS/0ejrC3cQ40p04UMoEm5mlcjYwW+vkGBuYdKKArFEqfYLJTJiHtxIc+0OVsATHV/slta9GD8xN+AO3X1So4YlWTO2KOY+YYbZq3DC+B3185FRVXBjCtg9q9hQhXIUc7hGNEwM3Apf7EhXtSpInVcy7o1hWdndsjqI/pR1d8E4wvVqcwKtwStcZd/CLhjwDnpNXNDXRM2lgJN3SadboUoTt3qhmvp5mp87gr//PqTwZc9cZ7KhsK62gXUYFZYnRxBxsmMayswuYdslq79ZCWs6rrX4Q==;dzNSZsmasOg8bb1hXsG2sA=="
 ---

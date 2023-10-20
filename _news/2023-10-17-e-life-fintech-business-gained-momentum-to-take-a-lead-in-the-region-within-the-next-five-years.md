@@ -43,6 +43,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Minding the SME gap using fintech"
+    excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."
+    publishedDateTime: 2023-10-20T02:52:00Z
+    webUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10"
+    ampWebUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 44
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
+        width: 859
+        height: 573
+        isCached: true
 
 secured: "IgL2wT4WTkwEYQhM0pHoCtLY35xW1qZReGJlnImQfx8rGheWZEA+taJWP9Mf4dfZfaIZuiZOWf6yOCuoeT2l0SKXF6r1NlPkomToiawUakIhtQ+pQfIjuwVro7KLGilXDOjJN7gkCEo0CztfSpdTACvF+Q39RR54nK6pOKtuoYji9KozwcYY1N1y6Y0QydEftGIFKvGVnt/mY3XtVqE558wnLCJMffx4yRNY0g+UkTA7CgbawBFgHi2E4VENV5CeV+vjtTVXvI6sfmRXA/UjoA+86ec1jaAdMfCBCo7+k9CLDZHZUNbvHH15V1v3uNWCORH9zM/bOrOqvEKeRMSVJ74V3ymr/jsqE3gzKGgoDMs=;tsfQZdy0bXpZ8Fiswtd4/A=="
 ---

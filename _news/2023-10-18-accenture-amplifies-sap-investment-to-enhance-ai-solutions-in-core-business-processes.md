@@ -51,6 +51,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities"
+    excerpt: "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion."
+    publishedDateTime: 2023-10-19T05:41:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 29
   - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
     excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
     publishedDateTime: 2023-10-18T17:17:00Z

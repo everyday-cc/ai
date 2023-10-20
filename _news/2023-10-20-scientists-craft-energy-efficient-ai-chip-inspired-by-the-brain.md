@@ -28,7 +28,7 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/759896c0-d234-431c-97c3-1a9ac9b30ecb.jpg"
         width: 1200

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-repr
 webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-represents-a-new-era-for-the-utilities-industry-says-info-tech-research-group-in-new-resource-1032714198"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Artificial intelligence predicts the future of artificial intelligence research"
+    excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
+    publishedDateTime: 2023-10-20T18:54:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63898.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 15
   - title: "Qlik Highlights the Importance of Data Fabric in Boosting Generative AI Outcomes"
     excerpt: "Recent research by Qlik shows that enterprises are planning significant investments in technologies that enhance data"
     publishedDateTime: 2023-10-17T17:14:00Z

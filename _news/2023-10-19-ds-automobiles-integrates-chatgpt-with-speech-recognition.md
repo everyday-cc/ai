@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ChatGPT, DALL-E 2 and the collapse of the creative process – The Conversation"
+    excerpt: "Professor of Philosophy and Director, Applied Ethics Center, UMass Boston Postdoctoral Fellow in Philosophy, UMass Boston The authors do not work for,"
+    publishedDateTime: 2023-10-20T19:08:00Z
+    webUrl: "https://www.inferse.com/764746/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-the-conversation/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 1
 
 secured: "GKgHbaHWYFNhF5EUf6OFyBW1dmiKIkFHXSbSothpnBrj4GFVcKtw6TDVLaAHBSpDyceDbMdCRishsAkheOaaMRYlD707MoJn/0mHHEoQSXfLMgB3cbTsWtg+WIJgM/lYN+SJ+03baThu5D6l7mhiigThJcnoEaHSVmwUp7OYNPDxccYAcBpDQFXazzEEa9G/KORmKTijkJKcRmNpM4L4WGGJ/HcPiWWcvwS7vmK3BDth3Kqj+aYVnAYutgzQEjn23i6lQhblMNDnBwDP+hon69UQqm8mcnYQP2ObC1Kcvq/Qd7EQX4KSyX6B8N7MlUAK1WiK47rtQKjnwdUKAY1ugq9AFT1RJIWJUoMqAp+mBN45ZycGAiJp904j55RRUZubMu0QXnND8w5bJhLQna3pr2S5uW/9xvXwtwT1CP00TQv18mRC3aCbSOYnWyfR/NYBXz4etSnnR32Ycwo3B/Dqb0zUTRKoJCG0NNCyNC1skoabZb6IhHHFzkeEE8PT2wK4HTDKMeMecWIAppxsrJ9AJQ==;Ss3+eneSMRt3tTYUOd1rmg=="
 ---

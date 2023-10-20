@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134962"
         width: 444
         height: 250
+        isCached: true
+  - title: "What Do You Think of Self-Driving Cars?"
+    excerpt: "What Do You Think of Self-Driving Cars? As the world of autonomous vehicles continues to evolve, we sought the insights of twenty industry leaders and professionals, including CEOs and founders, on the topic of self-driving cars."
+    publishedDateTime: 2023-10-20T18:48:00Z
+    webUrl: "https://techbullion.com/what-do-you-think-of-self-driving-cars/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 26
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/What-Do-You-Think-of-Self-Driving-Cars-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "NVIDIA Joins Forces With Foxconn To Build AI Factories, A New Class Of Data Centers"
     excerpt: "NVIDIA and Hon Hai Technology Group, otherwise known as Foxconn, jointly announced plans develop a new class of data centers and systems designed to 'accelerate the AI revolution.'"

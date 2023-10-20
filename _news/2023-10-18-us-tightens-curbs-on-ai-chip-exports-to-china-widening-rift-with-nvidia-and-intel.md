@@ -71,20 +71,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "US is Doubling Down on AI Chip Exports to China, Leaving Consumer-Level Chips Alone"
-    excerpt: "The added regulations could either safeguard U.S. technological advancements or add another layer of complexity to U.S.-China relations."
-    publishedDateTime: 2023-10-16T01:37:00Z
-    webUrl: "https://www.gizmochina.com/2023/10/16/us-china-ai-chip-exports-scene/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 78
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Screenshot-2023-09-23-072810.png"
-        width: 832
-        height: 614
-        isCached: true
   - title: "Nvidia Stock Drops. AI Chip Exports to China Are Under Threat: Report"
     excerpt: "Nvidia stock was falling early Monday following a report the chip maker could face further restrictions on exports of its artificial-intelligence chips to China."
     publishedDateTime: 2023-10-16T09:41:00Z
@@ -116,22 +102,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/fl94zZXVqZWToLq03Dw91w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/113d16a12ad85d6b12bf8075097f1616"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Team Biden Moves to Close Loopholes In AI Chip Export Regulations To China"
-    excerpt: "President Joe Biden-led administration is preparing to crack down on the export of AI chips to China, targeting loopholes that allow circumvention of government restrictions. This move is part of the Biden administration’s upcoming actions to limit more AI chip exports."
-    publishedDateTime: 2023-10-16T05:13:00Z
-    webUrl: "https://www.benzinga.com/news/23/10/35258403/team-biden-moves-to-close-loopholes-in-ai-chip-export-regulations-to-china"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35258403"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35258403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 72
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/us_china_microchip_shutter_2.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
         isCached: true
   - title: "US expands chip export curbs to China to throttle AI, supercomputer development"
     excerpt: "Chinese officials said that the new US chip restrictions contradict fair trade principles, while immediate response from vendors is muted."
@@ -176,20 +146,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 55
-  - title: "US tackles loopholes in curbs on AI chip exports to China: Official"
-    excerpt: "The US will take steps to prevent American chipmakers from selling semiconductors to China that circumvent government restrictions, a US official said, as part of the Biden administration's upcoming actions to block more AI chip exports. The new rules ..."
-    publishedDateTime: 2023-10-16T01:57:00Z
-    webUrl: "https://www.channelnewsasia.com/business/us-tackles-loopholes-curbs-ai-chip-exports-china-official-3848211"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--CjoCHHF5--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-15t231302z_2_lynxmpej9e0c3_rtroptp_3_usa-china-chips.jpg?itok=xnT-OAkR"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Suppliers plan ahead amid potential US ban on more AI chips"
     excerpt: "Reports of stricter restrictions on Chinese chipmakers by the US, including Nvidia's downgraded AI H800 processors, have Taiwanese testing companies and probe card providers being more cautious."
     publishedDateTime: 2023-10-17T01:24:00Z

@@ -91,6 +91,20 @@ related:
         width: 724
         height: 482
         isCached: true
+  - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
+    excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
+    publishedDateTime: 2023-10-16T14:02:00Z
+    webUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
+    type: article
+    provider:
+      name: Arab Times
+      domain: arabtimesonline.com
+    quality: 56
+    images:
+      - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/Dubai_Police_Introduces_Luxurious_Marine_Patrol_for_Swift_Response_and_Rescue_Operations2-1697454312892_18b38294e05_original-ratio.jpg"
+        width: 800
+        height: 540
+        isCached: true
   - title: "Dubai Police unveil self-driving vehicle to enhance security"
     excerpt: "The Dubai Police unveiled its self-driving security patrol aimed at enhancing safety in residential areas at the Gitex Global 2023 in Dubai. Lieutenant Rashid Bin Haidar from the Dubai Police’s General Department of Administrative Affairs introduced the eco-friendly, fully electric patrol vehicle to the exhibition visitors."
     publishedDateTime: 2023-10-17T07:04:00Z
@@ -105,15 +119,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Dubai police unveils self-driving security patrol at GITEX Global 2023"
-    excerpt: "Dubai Police made a groundbreaking announcement at the GITEX Global 2023 tech show, revealing their new self-driving security patrol vehicle designed to enhance safety in residential areas. Lieutenant Rashid bin Haidar,"
-    publishedDateTime: 2023-10-16T14:02:00Z
-    webUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
-    type: article
-    provider:
-      name: Arab Times
-      domain: arabtimesonline.com
-    quality: 36
 
 secured: "Hua/eJ0dyqLutsmAF/Ocj7SNOUMfkSSUi/W9vgjUn+9pBBf6GM11ahRyWqZo3VfyhlQw0slgR5DPW8K4akFGi9jGaCKdjOTFS6QeAg05r/uGo3K18cOfAPM6++SerhXQKIZIuNRT25n4movw4eCFWO3mTwukCOJzL8r2W/lkDWzTCZ0EsJsRoVQnjZaaTrrpT1+VvD8iI0WA49WZ7PN/qd9CZWbxXKfUEG4JpjKJ3gkI4iOYmrB84seHXjVzPZpK2anuXmZ8YkgXQTy8ZmT4DbbQEuXuvdZ1gkoax6Tkj7L9n0IkjsknYyU+1mDxvxjIDlqQKCs90UjW39JVQ3rm+7KBEJusYWSSTEIroqkiwV6f147AsnBOKpt8OWYI2tq6DsrUCUf3OryQ6nAzfk3cltMqoUvitGb1KSDUnKgh/6xvpCeR4BC11Dra40c7B4N1O5mENW8C+Kc6Vn/z6wP2MgmFbwJNI0qTzAst4JhNVUnK8CsM3nMimINo9W3gAikkYzocx4pkmvJ+Pn8P1prk9A==;btdf0UY13i3bEWhLcUCbhg=="
 ---

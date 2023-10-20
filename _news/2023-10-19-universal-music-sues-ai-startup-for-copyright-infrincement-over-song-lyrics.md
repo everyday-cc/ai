@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Music Publishers Sue AI Startup Over 'Widespread' Copyright Infringement"
+    excerpt: "Universal Music filed a lawsuit against AI startup Anthropic over \"systemic and widespread infringement of their copyrighted song lyrics.\""
+    publishedDateTime: 2023-10-20T20:15:00Z
+    webUrl: "https://omaha.com/life-entertainment/nation-world/video_9edebfb2-91cf-5418-9602-12939a471745.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ed/9edebfb2-91cf-5418-9602-12939a471745/6532a7ae0d29a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Universal Music Group Takes Legal Action Against Anthropic AI for Copyright Infringement"
     excerpt: "Universal Music Group has brought Anthropic PBC to court after accusing it of widespread copyright infringement. The lawsuit was revealed just a day after the announcement of its team-up with BandLabs Technologies"
     publishedDateTime: 2023-10-20T09:22:00Z

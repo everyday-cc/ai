@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/world/middle-east/bahrain-set-to-become-top
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/middle-east/bahrain-set-to-become-top-hub-for-all-things-fintech-ylccedd2?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Zawya
@@ -42,6 +42,22 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/MGI1NWViZjUtMmEwNi00/0/1-jpg.jpeg?f=3%3A2"
         width: 900
         height: 600
+        isCached: true
+  - title: "Minding the SME gap using fintech"
+    excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."
+    publishedDateTime: 2023-10-20T02:52:00Z
+    webUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10"
+    ampWebUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 44
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
+        width: 859
+        height: 573
         isCached: true
 
 secured: "UOn9fEStnZZgSL14+RdbnGiddA3+p9R5LW91gBwYzSc5RXlHK1NpF2rWPAUsauc3T3/BXqZm219VsHpq+rCnTMm2jTr9GlcnF3bndPXcxD2lwgNOnbP7jf+hQMPdQVunQI6/FW5sHdnXeEBEZzsXic5zxdkY6WI+I3gC7xZo0x2MJwfWPjlXieHClmfMmUR3AH6ju3ZF73UnxMZvTjoeT/+uQbmvAl99oGr5mSwocjuxu9P7tUe+fqxHBQrw50z3SXxJQkJN0XDmr1I+E5+eRxuGDC8Vv6BxUQnKgckfMD993jD5NJKhJ8q1CaoZW5Sxk19WOw1enINLD5RECP/J4PffQIg6pilJcB8GSL5qno4=;MuPRAG0+n9X7oLPzcptnSQ=="

@@ -71,20 +71,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
-    excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
-    publishedDateTime: 2023-10-16T01:30:00Z
-    webUrl: "https://www.thaipr.net/en/it_en/3396194"
+  - title: "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS"
+    excerpt: "In a reply, X user Ivan Vasilev wrote, \"Funny how programming of the future requires yelling at AI in caps.\" In another response, Dr. Eli David wrote, \"At first I laughed reading this. But then I realized this is the future: machines talking to each other,"
+    publishedDateTime: 2023-10-20T19:16:00Z
+    webUrl: "https://arstechnica.com/information-technology/2023/10/thanks-to-ai-the-future-of-programming-may-involve-yelling-in-all-caps/"
     type: article
     provider:
-      name: thaipr.net
-      domain: thaipr.net
-    quality: 54
-    images:
-      - url: "https://www.thaipr.net/wp-content/uploads/2023/10/Grab-Michelin-1-e1697429180896-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
   - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
     excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
     publishedDateTime: 2023-10-19T01:43:00Z
@@ -108,6 +103,15 @@ related:
       name: Lab Manager
       domain: labmanager.com
     quality: 34
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-20T19:37:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354131&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "tRni/h0tM5cx6voZ93MIxgfBCg08lCr+YN86FIn+tFuh67kztS86yARlm8RWxc1obXmi3dbS21YmltfU9ldNYutZOdDnlx/SOU3N2ueLScuPhF49D96ES9AFa6Gojr7X4MS8tFkGQeGqbE1HVMGNqoZeM1syG/bvHyf+eAqvYObZpkEabSJu13gSNkzZVBe/1NGP4TULJKhqay6WS0Ol2v6MBm7IFP58+1RNh6kFndYA5mL/LnLsttW7njTIOlF236GrwGSZ2D72z6P1qnG+rd8jl//+zuueuuUWcyAYSA6UJ8xL6lB2GZdb7KDZWht3GPS1FSavfS9U82UDVJig3tzQiRHtLQVEBxdnCkAgOi4=;CQD3HExC3j067F3ZpTjW/w=="
 ---

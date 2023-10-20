@@ -47,6 +47,15 @@ related:
         width: 400
         height: 224
         isCached: true
+  - title: "Artificial intelligence predicts the future of artificial intelligence research"
+    excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
+    publishedDateTime: 2023-10-20T18:54:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63898.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 15
 
 secured: "v/plxC6w6NyzsCJZH/5aWpjGlr9PtP5LqSDdR9aKrxvO0UvFK5hwn0rP7OqyufJNVgdkyk+CbHtu2yt2aI7xcjbNcGLxaqtuaY87xMy+Vtavzg+8VcaJt9pKabeUdKVCcjvGilOx6RJUoEnudeAg6TXYNMy/cKE7SLy+5oYZyDBoFwRtfbzvijPQAWZmkgS3yYfknh9QgAUgNMvk6Y/Hp7XxZkiChEm5aUZREbzHXPg1vO6pMbbLTakZ5fCHVL64Y1JRY2Ty0Soc6J1m2+DTsI15o+7ZaFwfWDWGZyb1BgdxwhzR0zau8D7l0nqskt4xQZMS8MABnAbzaBO5eGALEXdK3bCaUZh4Td0onhFL36A=;5nBzPQqPNrXv73HDZs7Xwg=="
 ---

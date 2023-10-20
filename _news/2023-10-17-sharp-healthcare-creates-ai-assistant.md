@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/sharp-healthc
 webUrl: "https://www.beckershospitalreview.com/digital-health/sharp-healthcare-creates-ai-assistant.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -26,22 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "Rise of artificial intelligence creates heavy workload"
-    excerpt: "Internet giants, power networks and communications companies are being urged to consider the massive load that comes with the rise of artificial intelligence."
-    publishedDateTime: 2023-10-16T03:23:00Z
-    webUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210"
-    ampWebUrl: "https://thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/business/rise-of-artificial-intelligence-creates-heavy-workload-c-12218210.amp"
+  - title: "WHO says AI can transform healthcare if understood properly"
+    excerpt: "Artificial Intelligence has the potential to transform health treatment but rapid roll-out without fully understanding how AI performs could end up harming patients, the World Health Organization said on Thursday."
+    publishedDateTime: 2023-10-19T13:20:00Z
+    webUrl: "https://www.gmanetwork.com/news/scitech/technology/885712/who-says-ai-can-transform-healthcare-if-understood-properly/story/"
     type: article
     provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 59
-    images:
-      - url: "https://images.thewest.com.au/publication/C-12218210/d051b7f903dfb1b2696983c637662c5ffe1d7619-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 34
+  - title: "vLex Releases New Tools in Vincent AI Suite, Strengthening its Gen AI-Powered Legal Research Assistant"
+    excerpt: "The new gen AI-powered tools allow users to ask questions, build legal arguments, draft briefs and more using natural language queries, while eliminating hallucinations and providing direct links to cited sources."
+    publishedDateTime: 2023-10-17T13:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/17/vlex-releases-new-tools-in-vincent-ai-suite-strengthening-its-gen-ai-powered-legal-research-assistant/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 1
 
 secured: "PPDa8vQjbbNIG0TFoM5wZsCijeQUHbiRC/F/eDA1TtMRiFM7KyfK3PscNwZpmKuOLwc05fxVi+1kRCLS0Xk6sFWMBFL8KbtOSkhKd0pknKztJhGd6VIsdCc1sHRBizn7rLGZJ2YHhEFmEH3Gwo4+GECPJ6BBGuS0iBOQ7L+SuPHjs3aVcGQp0yUqxcfaJVUKBoWU9tPDv6wEcMc042yiy99f+GUttuM3z9udiadxPMXzokZBXt1r3r0pHETGlwqRj7JewPfh8QggPdssvNK6wlHlmUVrTlJZqqUthkIY6ve2xE8M2e3GNL3cF/0jF3hImqI+kqFh7thqMStXLdF3dE9EvXNUDqLtZKpPwB8fnAg=;5xMWaxU2brB9Vnzdly4R+w=="
 ---

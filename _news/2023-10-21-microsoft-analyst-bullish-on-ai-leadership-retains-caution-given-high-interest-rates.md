@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft would like to remind you that they are all-in on AI"
+    excerpt: "In case you weren't sure how Microsoft felt about AI, CEO Satya Nadella is here to tell you: they like it. They like it a lot. In the company's annual"
+    publishedDateTime: 2023-10-20T18:52:00Z
+    webUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud"
     excerpt: "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,"
     publishedDateTime: 2023-10-18T16:00:00Z
@@ -334,20 +350,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-10-16T03:06:00Z
-    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
     excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."
     publishedDateTime: 2023-10-16T09:26:00Z
@@ -504,6 +506,6 @@ related:
       domain: aol.com
     quality: 20
 
-secured: "fs+d+rGcsp8yx5XBgqPgwfaEPdgxTtrwpRP7vko7MDxAEaCw/G1axn/xu9mZN19dbtozcpq105+LlfKM6zMlQF83aRfpdUaE9PwKftk7jowRMqmNSBX78vSiTVrNHz6hdmHwx2c+slyJsOktCzUfF12Pryr0E3UIZ7KrI/qsU/SFobKf6x5Y4BTZ09NWKqdQiUpywybV6CX29wnhvQlF6epkcNYs+zhrqGO2Q4nZ6BPOyaY9TxxVJzDdUGv6b43HcB2Xt3revy0h3JCrelKon85oFsgwquHl+Ilg9B3GN8ckNWPAIk/cbElK2HmGT8n1GHspCNijE5MAD5obH9lK67shZSQtUbyeA3QoPwaJjOg=;xc5dCnHYgScC9d5GVA2u5A=="
+secured: "ODvbE7swwzEwwY5NfKWL8pHgFskRmunMXJ1ParGFcla6066Lr1kqaNkZ+GX4VcdN3T5mX7DrPseagfFZ3UKRavb+BOeLH0DliOGweJhnrunHB4C6yug9+/gCeZWhRuYMN/U7TpB37Vu25DMQqKgT3uU3ATUO3T8Mz+RlNuinhANZhpelBcnzU17NhXxRKrf5GDuNcPCU4+z37qjkiCb+jwj98BzCKguGg6J/yVJYAcHOoRgV8DnAzadzBcS/tzx6b2y8xCLNOToNoPAENJIcO0/Ze8IjvCZsEvuKvdZaA9WnaEDEmNL2GiBgyZJJx9MK9HFBDwdBU7D9klBT841UB0bBAJGGqFy3qkQ3z0pC8RD1ifzHqo5IRCRok4yvpmK/CuOvibrsslgAFdblPUESzWK6ctT5UV/e5S9uUw72MKGtfc879nec31NjiTYLnbn4AbWJtB9V5boaJisecnidw5VZ01kb77+zUJE4LaFq3ddqOac9CggRVqYfZR8Kryx02NDjTmKChq9vRjj6tmE9Dg==;yX7XIS3fbFV1ffyyU8H3yg=="
 ---
 

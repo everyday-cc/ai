@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Chicago AI Conference 2023: Shaping The Future Of Finance With Responsible AI"
+    excerpt: "Chicago AI Conference Speakers The Chicago AI Conference, organized by the AI 2030 Initiative, FinTech4Good and co-host"
+    publishedDateTime: 2023-10-20T18:43:00Z
+    webUrl: "https://menafn.com/1107278575/Chicago-AI-Conference-2023-Shaping-The-Future-Of-Finance-With-Responsible-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
   - title: "Healthcare Insider Podcast: Fusing AI and human touch in revenue cycle management"
     excerpt: "Wells, director of product management at HealthStream, joins this episode of Healthcare Insider to discuss the urgent n"
     publishedDateTime: 2023-10-18T04:00:00Z

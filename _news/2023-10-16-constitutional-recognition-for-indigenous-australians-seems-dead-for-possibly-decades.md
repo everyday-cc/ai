@@ -143,20 +143,6 @@ related:
         width: 768
         height: 633
         isCached: true
-  - title: "What happened in the Voice and where to next for Australia?"
-    excerpt: "EXPLAINED: A majority of Australian voters rejected the proposal to establish an Aboriginal and Torres Strait Islander Voice to Parliament."
-    publishedDateTime: 2023-10-16T03:17:00Z
-    webUrl: "https://www.stuff.co.nz/world/australia/300990237/what-happened-in-the-voice-and-where-to-next-for-australia"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 24
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/7/9/j/o/image.related.StuffLandscapeSixteenByNine.1420x800.4z79jx.png/1697428680023.jpg"
-        width: 1420
-        height: 798
-        isCached: true
   - title: "Labor senator says Australians ‘will not let go’ of Indigenous recognition as Albanese under pressure to outline plan B"
     excerpt: "We want to make sure our kids don’t continue to inherit the statistics that we see today,’ says Jana Stewart"
     publishedDateTime: 2023-10-18T05:57:00Z
@@ -187,6 +173,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "As Indigenous leaders declared a week of silence, Australian politics was reduced to what the Voice was supposed to address"
+    excerpt: "The Voice campaign and its politics have confirmed we're in new political territory, where there seems little restraint or even regard for the truth — not just by fringe players but players central to our politics,"
+    publishedDateTime: 2023-10-20T18:00:00Z
+    webUrl: "https://www.abc.net.au/news/2023-10-21/indigenous-leaders-week-silence-politics-reduced-voice-address/103003780"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 0
 
 secured: "PzBqZ2hz3hFTlk4LcKVthDGk7c8SUXdbk41QyXHwuIKkeH6JbXi7SvlViToRgjxSAvkMcWcV50YhPL7ERdoK91/L4qGIW+tHJdJ8HSffQr/75NCIOTVILDclKH04zHBIK01m9rcWzYOWjSS7sIiT2jFf/ddeeETqHI4Zn5zKsXxh9ByTMpjQcqRpIAT+VoVMhAnCP+m0H4qxcx/S+6STKvbbt5kXpVsNfKMvzXSFfhLt76I/HjHPGq4k9P9xXVY1T6pWenST5HE9BgGEV9kAGgdU56hav6Hkg1239jph8KfPnsdLUgQcEEjZ3C9War+D/3BXkisNa46CSwOedmEerqrh2531ItMyxcK7+lrQ1I0=;cs5/REAK/WFrCp4Pp15gTw=="
 ---

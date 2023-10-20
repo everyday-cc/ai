@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-16T14:02:00Z
 originalUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
 webUrl: "https://www.arabtimesonline.com/news/dubai-police-unveils-self-driving-security-patrol-at-gitex-global-2023/"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
   - AI in Security
+
+images:
+  - url: "https://www.arabtimesonline.com/news/wp-content/uploads/2023/10/Dubai_Police_Introduces_Luxurious_Marine_Patrol_for_Swift_Response_and_Rescue_Operations2-1697454312892_18b38294e05_original-ratio.jpg"
+    width: 800
+    height: 540
+    isCached: true
 
 related:
   - title: "Dubai Police to deploy driverless patrol cars with AI smarts"
@@ -115,6 +121,6 @@ related:
         height: 450
         isCached: true
 
-secured: "e3lFcJN5ndprtw9N9BDbRzbLuatAuk5pZcD1CPz1VpofA9zx6dkb//Gy6ze5i/GoTgwcOczUHiw9ilkl6FckK6AlhDcvvqrl4MC/tpTt8k/LQQ6dBHb1JdEplCPhbARsyN5FoK4ZaDYxLRCn1Da/5CKE8EeQKHOEApKju8QhDpytOLPZW4GqVnaWeXbRCULT0mtjHbwR+je9um/P002kiXGKVf6UcY9NKVexWxkqYCyXXEVlkjSInqP4MrysieoRJBhFp5+5rbp/bQPg09yHMBma+L1dMdN5jUu4NIhe9zl9rwCPUDcP4hrfC9MUtNewuw0IbjdCtoKLOK2arFbpKr3HCRV2f22J0prKL7s/fc0=;cAJIGIlDWMvC0JXacXzW2g=="
+secured: "0pfQAXPx6J9heD2Lr18if8QQixsMk54lm6c1LoCzqYnzoZuM07dY4XcIHMGQKz6yg1OgIABUOmpdvkJ0DW+cLqYBpb0agq3+gTIE3yg0iuNXwbqIctKhs073ZEwQzUAqcMZwJs1M1gQsKQJlyl0eHgagTMqb4q0jKsIrBA3l77mlghbKsnIumM/ctq8Vo0jutswCYGtSE7FeecyxBZvWt4KZgr8IYvxR+je/ZvTok0WdM87cBd79qKos5S5FByUVZKCR/Ao16TN//6H0V2syzumJ8FFVg8B5WMLszCb3wXEK179ipVZJrVy/zpl0elXq67wp5JQE7Mw1Xl3gOJJkA2pUSA/f6vGGTnscBkipLLo=;UXD4NN0DulQZXVWRle/v+g=="
 ---
 

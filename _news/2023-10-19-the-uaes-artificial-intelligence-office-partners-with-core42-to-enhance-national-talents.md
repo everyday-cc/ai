@@ -56,6 +56,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities"
+    excerpt: "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion."
+    publishedDateTime: 2023-10-19T05:41:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 29
   - title: "Accenture Amplifies SAP Investment to Enhance AI Solutions in Core Business Processes"
     excerpt: "Accenture is collaborating with SAP to help organizations adopt generative AI across their core business processes. Together,"
     publishedDateTime: 2023-10-18T14:55:00Z

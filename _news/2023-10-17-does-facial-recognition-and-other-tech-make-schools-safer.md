@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Safety, privacy professionals caution against facial recognition in US schools"
+    excerpt: "As FRT deployments and restrictions proliferate among American schools, observers are calling for sober evaluation of claims made by biometrics vendors."
+    publishedDateTime: 2023-10-20T17:10:00Z
+    webUrl: "https://www.biometricupdate.com/202310/safety-privacy-professionals-caution-against-facial-recognition-in-us-schools"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
   - title: "What Educators Should Know About Facial-Recognition Tech"
     excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
     publishedDateTime: 2023-10-16T18:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-spending-to-r
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-spending-to-reach-143-billion-in-2027-according-to-idc/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "$143 billion in AI investment by 2027. Don’t miss OnPodcast this Sunday!"
+    excerpt: "Hi, OnMSFT.com readers! It’s the OnPodcast crew here with the usual reminder to tune in and watch our show! This week we’ll be on episode 133, and we’re"
+    publishedDateTime: 2023-10-20T19:19:00Z
+    webUrl: "https://www.onmsft.com/onpodcast/143-billion-in-ai-investment-by-2027-dont-miss-onpodcast-this-sunday/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 16
 
 secured: "IjHaG17aFbuExslmhRuHiqZGC4i/hBObKDc73PDdFFKj3XGz6nfkKpbrd/0vV8ESU//x+vnsv8hYOI3oTdvYAyGnvvsVYAGItIld9z/adATx9NAyqJNOl6+9cQXfaXm4ZKGzBq1EqNXUxz4xC/VX+CRAOP0Yg2cpuT82moabHELpBMVh2CE25gfaBf3qcxW33wkvosoM9tweBJBBZwU/kJPhhtkN7YEPIf+s83vQZ9tYcCxzhY4iMs5yBAu1TBO1bgjv4SDi3MgKyKejcUXRe+H2Q5JzB84HRb8QzTKLQORufR5pPVbkMLqVR/IPKO9D6zUvL5SIH+wp/lrZ93Zq62pWvGI/hZzHN3GFaYBeyxDLuS7b6XIj/6rn5ViMn1L8Cf4oXKu43qcqKvMLfC6zCrb5Sy9qgO1w1VsyBsbwZkhsaMtnfdJHG8KiTlyW8V/+UfpSD5fUn9DtOo+R7oLCic5vp9jwHkFT0Z1yUSt4IrsOJHwiKvKAM+HgUYcmwOYE3eNPSfDXRiondNSa+OBrrw==;Zi0wCNypOv7wh6qa/wyKig=="
 ---

@@ -1,29 +1,27 @@
 ---
 category: news
-title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism."
-excerpt: "There are very real-world consequences to getting this wrong that can impact health disparities,” said Stanford’s Dr. Roxana Daneshjou."
-publishedDateTime: 2023-10-20T17:12:00Z
-originalUrl: "https://www.boston.com/news/technology/2023/10/20/ai-chatbots-health-care-research-racism/"
-webUrl: "https://www.boston.com/news/technology/2023/10/20/ai-chatbots-health-care-research-racism/"
-ampWebUrl: "https://www.boston.com/news/technology/2023/10/20/ai-chatbots-health-care-research-racism/?amp=1"
-cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/technology/2023/10/20/ai-chatbots-health-care-research-racism/?amp=1"
+title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
+excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
+publishedDateTime: 2023-10-20T19:39:00Z
+originalUrl: "https://sentinelcolorado.com/uncategorized/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
+webUrl: "https://sentinelcolorado.com/uncategorized/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
 type: article
-quality: 46
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Boston.com
-  domain: boston.com
+  name: Sentinel Colorado
+  domain: sentinelcolorado.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.boston.com/wp-content/uploads/2023/10/Chatbots_AI_Medical_Racism_83861-65324d0453f8c-scaled.jpg"
-    width: 2560
-    height: 1707
+  - url: "https://sentinelcolorado.com/wp-content/uploads/2023/10/AP23290859783861.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -68,38 +66,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "In some cases, they appeared to reinforce long-held false beliefs about biological differences between Black and white people that experts have spent years trying to eradicate from medical institutions."
-    publishedDateTime: 2023-10-20T15:41:00Z
-    webUrl: "https://www.kcrg.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
-    ampWebUrl: "https://www.kcrg.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 47
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/d4RsqnyfzqH-xQegpA5GDqlzAa8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4BTHLDANBBNZFLOVHNSADPOFY.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "As hospitals and health care systems turn to artificial intelligence to help summarize doctors' notes and analyze health records, a new study led by Stanford School of Medicine researchers cautions that popular chatbots are perpetuating racist, debunked ..."
-    publishedDateTime: 2023-10-20T17:34:00Z
-    webUrl: "https://www.cbsnews.com/sacramento/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sacramento/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sacramento/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 45
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/20/aa4a4b94-c9c9-47ae-8b6f-1bbbded2f3ae/thumbnail/1200x630/875592d98e43947a3a628ca5982eb7d5/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
     excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
     publishedDateTime: 2023-10-18T08:41:00Z
@@ -165,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "SAN FRANCISCO — As hospitals and health care systems turn to artificial intelligence to help summarize doctors’ notes and analyze health records, a new study led by Stanford School of Medicine researchers cautions that popular chatbots are perpetuating ..."
+    publishedDateTime: 2023-10-20T21:41:00Z
+    webUrl: "https://www.pressherald.com/2023/10/20/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 25
+    images:
+      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
     excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
     publishedDateTime: 2023-10-16T13:00:00Z
@@ -183,7 +163,16 @@ related:
       name: Law
       domain: law.com
     quality: 8
+  - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
+    excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
+    publishedDateTime: 2023-10-20T16:11:00Z
+    webUrl: "https://thegrio.com/2023/10/20/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 7
 
-secured: "niGU3AIhU4NbW1JCZU2BIvR15FW+vsdAyG/l3ztx8fOSyHZUYqJ+WYXmGHJER/8q7ZQ0o/jcpqa49r59MFyYEOm7vXmR8K3Bn87A17L9vgkTHG+JeRNmMCOwxLrRQIkkD3OF4Bhsqm5mWBppgGB/0Hs1NiIKTDohSXqUYmezK0eE0nhE814oyj+61/Ymir7jKewJEts0aYQikfyAlmEGSv7Eil96OBW2tAT9e7tnBMftSQj4g+uPhrcGugTqyCGbVeb9PMBMsWE2uW8oN1JJctdaXthoNJvt7HjJE5LBrwGREXpJ3DYBzCJcAxJRhqUAGrRkGfBpfMA07HQxBVuLIbMRDKUkJVLpkR84llH3iR0=;Pj5DxOh+Qdz697qmUA8Z3Q=="
+secured: "vr7R1mVMWPbG0T+LRG8ge2M09pLV5oqP+yFxpr7NOx/DO1ARu5UrFddpZFqGKNqWZ9WOgCtzVUet/JBIWeSa4e6LvCxhEpv2SXfJd/h6HTu0+gLAWVveOktuGmMPqxP9/1Ds2zNrosD4YM5UQHsyh3I76iQvFwoqQ1WNZxuDwqpDQkAHOwA2M9uQShXN0z9TfSt6yD+AhNXphPdhvG+3Q8lAOv/XQ7FndBkvcoI2wWN8Ta/dBPRMurD9YKlTw3aOQ52aX6Wt7uVo8DWKwhkrhKXWcUY7qwgRq+FPox/DAmyv61FtZ82UAnuJlED6ix86/4bFu0z4nqybs0ykkkJCp3nw1pM6Xed9EYo8uMzelZc=;d3H8Q3rlkTgyKWt7k1mGUQ=="
 ---
 

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft would like to remind you that they are all-in on AI"
+    excerpt: "In case you weren't sure how Microsoft felt about AI, CEO Satya Nadella is here to tell you: they like it. They like it a lot. In the company's annual"
+    publishedDateTime: 2023-10-20T18:52:00Z
+    webUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/"
+    ampWebUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Analyst Bullish On AI Leadership, Retains Caution Given High Interest Rates"
     excerpt: "Also Read: Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why On this basis, Turits expects an overall in-line Q1. However, he retained some caution given the ongoing high-rate environment, macro concerns expressed in ..."
     publishedDateTime: 2023-10-20T17:24:00Z
@@ -333,20 +349,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/M0xM.OEwHjN.du_sdhIgGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/0abe0903e71c91ee4122f4fb13829c49"
         width: 1199
         height: 800
-        isCached: true
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-10-16T03:06:00Z
-    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
-        width: 900
-        height: 600
         isCached: true
   - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
     excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."

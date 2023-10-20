@@ -25,18 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Hitachi Payment Services launches HPX, a FinTech startups program"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-16T04:53:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/hitachi-payment-services-launches-hpx-a-fintech-startups-program/"
+  - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
+    excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
+    publishedDateTime: 2023-10-16T10:50:00Z
+    webUrl: "https://menafn.com/1107246479/Fintech-Surge-2023-Concludes-Day-One-Of-Global-Gathering"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Mena FN
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2023/09/bml_ICBS_banner.gif"
-        width: 300
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997739"
+        width: 421
         height: 250
         isCached: true
 

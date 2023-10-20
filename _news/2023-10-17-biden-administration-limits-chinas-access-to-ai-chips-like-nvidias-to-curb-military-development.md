@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
+    excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
+    publishedDateTime: 2023-10-20T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/new-nvidia-ai-agent-powered-by-gpt-4-can-train-robots/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-Eureka-Key-Visual.png?w=1200&strip=all"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Nvidia, Foxconn partner to start building AI factories"
     excerpt: "AI factories are data centers with infrastructure specially built for processing, refining, and transforming vast amounts of data into valuable AI models and tokens."
     publishedDateTime: 2023-10-18T08:37:00Z
