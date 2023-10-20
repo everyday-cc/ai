@@ -1,29 +1,29 @@
 ---
 category: news
 title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
-publishedDateTime: 2023-10-20T09:11:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-webUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+excerpt: "In some cases, they appeared to reinforce long-held false beliefs about biological differences between Black and white people that experts have spent years trying to eradicate from medical institutions."
+publishedDateTime: 2023-10-20T10:41:00Z
+originalUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
+webUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
+ampWebUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
+cdnAmpWebUrl: "https://www-ksla-com.cdn.ampproject.org/c/s/www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: KSLA
+  domain: ksla.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/US/wirestory_6f2a330086acd0a1f8955ac995bdde4d_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/vMOSVJG-ULReRVGnYs9ZwR_O6z0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TCRNNGIYSNHKNHXY3R4NBAPE2Q.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -138,6 +138,6 @@ related:
       domain: law.com
     quality: 8
 
-secured: "z/QHNpPLydB4kvj7YBScExhvZojSZYLJLxujNzkO73DjxGLKcHrMRjzO4aHE/PPI1fswRMrNQHdibIMD/TdMfu/5hcD9XvPqtuH9KVIoMzr9cCQLzPHzmtgjNv4Zo5C5F6tFdPiZ/1ONxKbPWe2mTaUeuP5VtY2qbp/NhgW65Bnzp8tIcP0IJwY027ptq9hwIlzIcjWP5tPQo8SmvuyOBxmok4zIxsVQ+jxVxsA2OkP+dAnrlsOlJG70wWW4g934MwHsaJmh0y+a3rxlrlDGVaEOz7Zk4Zoufb+24OayMveIwizsXItRKSUQNQtUAHH9dhr7yl9tbyIm3Xuaj16+44wgogBsPIk2lPxIF1bKJ5g=;lgtRMgApzbpw5f3k5lCQxA=="
+secured: "KBpeMznZxgUPSEJWKGIztl4Ht5xmcQ+lmmmSj8QIkckUBp+/x5VAcwXFIBUkagio7202TYZv0tCAiBM2J5RSd5S+Rh9VhqVm0IlPVIUdKv8VLlV2TGbF4a9MQ1ulGnOzKgChQqQ22RiIosZC5KYe6B1WH+8S410AGMPGkCEf2uEbqlunQj1Nesu8jlITCJBzbhm5E397WLj3RADJmpN15+s5j+FeHlsKtaLb9gGXIPQBlb28GIMV+HDuo98NBRDKpJkibvPVgQyPGX+5N6RIBGIgw4l95FFEYL13Tt/E9ne5d+UOFabbd0DgaQSuTvLfuPV+1nNnn91Sd8SdWDjfoPiey8Z7xDXiVtMQCsWp1cg=;1FX5t8VjlIoGRfcMQqWSKQ=="
 ---
 

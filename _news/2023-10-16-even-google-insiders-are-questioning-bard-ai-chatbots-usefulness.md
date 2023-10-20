@@ -60,20 +60,20 @@ related:
       domain: forbes.com
     quality: 49
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
-    publishedDateTime: 2023-10-20T09:11:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+    excerpt: "In some cases, they appeared to reinforce long-held false beliefs about biological differences between Black and white people that experts have spent years trying to eradicate from medical institutions."
+    publishedDateTime: 2023-10-20T10:41:00Z
+    webUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
+    ampWebUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksla-com.cdn.ampproject.org/c/s/www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: KSLA
+      domain: ksla.com
     quality: 47
     images:
-      - url: "https://s.abcnews.com/images/US/wirestory_6f2a330086acd0a1f8955ac995bdde4d_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/vMOSVJG-ULReRVGnYs9ZwR_O6z0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TCRNNGIYSNHKNHXY3R4NBAPE2Q.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
     excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."

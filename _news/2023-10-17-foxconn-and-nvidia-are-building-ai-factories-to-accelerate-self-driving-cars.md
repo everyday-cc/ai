@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/18/d2485d09-8125-4128-86f5-548aefde33b0_bdd7a2b0.jpg?itok=kPPTwgXK&v=1697615219"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cruise self-driving cars investigated after two accidents"
+    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway ..."
+    publishedDateTime: 2023-10-20T11:18:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-67133409?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-67133409.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67133409.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Foxconn and Nvidia team up to build 'AI factories'"
     excerpt: "\"In the future, every company, every industry, will have AI factories.\" Nvidia, the world's most valuable chip company, said in a statement that the AI factories would use its chips and software, including its cutting-edge GH200 superchip that it is barred ..."

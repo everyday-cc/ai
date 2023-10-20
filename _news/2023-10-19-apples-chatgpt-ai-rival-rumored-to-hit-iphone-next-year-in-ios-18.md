@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/tech/apples-chatgpt-ai-rival-rumored-to-hit-iphone
 webUrl: "https://bgr.com/tech/apples-chatgpt-ai-rival-rumored-to-hit-iphone-next-year-in-ios-18/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "MacRumors: Apple may follow ChatGPT with generative AI features on iPhone as soon as iOS 18"
+    excerpt: "Apple plans to start implementing generative AI technology on the iPhone and iPad in late 2024 at the earliest, according to Jeff Pu, an analyst who covers Apple’s supply chain for Hong Kong-based investment firm Haitong International Securities."
+    publishedDateTime: 2023-10-20T10:30:00Z
+    webUrl: "https://wraltechwire.com/2023/10/20/macrumors-apple-may-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/20/macrumors-apple-may-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/20/macrumors-apple-may-follow-chatgpt-with-generative-ai-features-on-iphone-as-soon-as-ios-18/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 47
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
+        isCached: true
   - title: "Apple Rumored to Follow ChatGPT With Generative AI Features on iPhone as Soon as iOS 18"
     excerpt: "In a research note on Wednesday, Pu said his supply chain checks suggest that Apple is likely to build a few hundred AI servers in 2023, and significantly more next year. He believes Apple will offer a combination of cloud-based AI and so-called \"edge AI ..."
     publishedDateTime: 2023-10-19T14:03:00Z

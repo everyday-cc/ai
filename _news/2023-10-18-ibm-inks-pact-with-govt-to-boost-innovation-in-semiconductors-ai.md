@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-b
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20231019vl200_files/1_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "East China's Anhui to boost artificial intelligence innovations"
+    excerpt: "HEFEI -- East China's Anhui province has released a three-year action plan, aiming to build itself into an innovation \"highland\" of the general artificial intelligence (AI) technology industry, said local authorities on Thursday."
+    publishedDateTime: 2023-10-20T05:50:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202310/20/WS65321534a31090682a5e9c60.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202310/20/65321534a3109068cafe8533.jpeg"
+        width: 718
+        height: 478
         isCached: true
   - title: "Pocketnest announces AI project with Google, IBM"
     excerpt: "Pocketnest, the female-founded financial wellness platform, announces the official kickoff to its biggest product release yet, focusing on artificial"

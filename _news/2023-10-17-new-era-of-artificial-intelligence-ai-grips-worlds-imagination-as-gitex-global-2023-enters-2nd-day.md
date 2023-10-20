@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/press-release/africa-press-releases/new-era
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/africa-press-releases/new-era-of-artificial-intelligence-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day-n1qn5rub?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Gitex Global: UAE Start-Ups Explore AI, Agritech, Sustainability"
-    excerpt: "The UAE start-up ecosystem has been witnessing a diverse portfolio of new firms over the past few years, diversifying away from the e-commerce secto"
-    publishedDateTime: 2023-10-15T18:46:00Z
-    webUrl: "https://menafn.com/1107243312/Gitex-Global-UAE-Start-Ups-Explore-AI-Agritech-Sustainability"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
 
 secured: "+lLkyd7gJQzDvS/sESW/cQiVTKMSjP6muukA+7xsFAJgswGfhX8KIOhDPY1uyBBFPxKoOVhakokLj2wW8CUto+6/wxYVaml8qP5NGm6k65Tf58ik8y/sJmDD9Nudjp6mN1rsNzP1AeCxL4twbMQFfSh/xpZkZiKgyOr1B9KPfrhowX7fu0akfG5lKvPNfHs/fJHDy+3et0HIpFDPvpIHVMHm4LVCiwHaLjix1vjsVRS02eApSpcrJXisOJHvfUaC4L5v5eOcWcZTnzRM1sbL1FIs1ItFy7dlIlhJMik2UKXsZ0lWDS5YJ6Whv2jzaHSkQrNO2yC8nkYJpNZh1LyItjk32qhcibtBLWvzjpL/AF4=;H7Mk609ID65Q43Vql9NrYQ=="
 ---

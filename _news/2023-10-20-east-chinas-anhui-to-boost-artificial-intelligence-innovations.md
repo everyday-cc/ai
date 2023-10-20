@@ -25,59 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe previews new AI and 3D editing innovations – including an animated dress"
-    excerpt: "Photo-editing software maker Adobe unveiled a slew of new AI-powered tools and features last week at its annual Max event, including a dress that transforms into a wearable screen and streamlined ways to delete elements from photos."
-    publishedDateTime: 2023-10-16T16:49:00Z
-    webUrl: "https://www.cnn.com/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
+  - title: "IBM inks pact with govt to boost innovation in semiconductors, AI"
+    excerpt: "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform"
+    publishedDateTime: 2023-10-18T16:06:00Z
+    webUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231016081744-adobe-app-file-restricted.jpg?c=16x9&q=w_800,c_fill"
+      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG"
+        width: 1599
+        height: 900
+        isCached: true
+  - title: "PSU working with Artificial Intelligence to advance semiconductor research"
+    excerpt: "In recent years, Oregon lawmakers, working with federal legislators and businesses, have been hoping to bolster the state’s semiconductor industry through investments like the CHIPS and"
+    publishedDateTime: 2023-10-16T14:46:00Z
+    webUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/"
+    ampWebUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
+    cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
+    type: article
+    provider:
+      name: KOIN 6
+      domain: koin.com
+    quality: 55
+    images:
+      - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/10/generic-portland-state-university-10012023.png?w=1280"
         width: 800
-        height: 450
+        height: 455
         isCached: true
-  - title: "AWS AI updates: Amazon Bedrock and 3 generative AI innovations – About Amazon"
-    excerpt: "If it seems like artificial intelligence (AI) is everywhere lately, it is, but AI has been powering our everyday experiences for some time. When you ask Alexa"
-    publishedDateTime: 2023-10-17T10:02:00Z
-    webUrl: "https://www.inferse.com/758989/aws-ai-updates-amazon-bedrock-and-3-generative-ai-innovations-about-amazon/"
+  - title: "IBM to help India advance in AI, semiconductors, and quantum technology"
+    excerpt: "IBM announced three MoUs with three Indian entities to help India in semiconductors, AI, and quantum technology, three areas vital to India's ambition as the South Asian country is eager to stay in the game in the global technological competition."
+    publishedDateTime: 2023-10-19T02:05:00Z
+    webUrl: "https://www.digitimes.com/news/a20231019VL200/ai-chips+components-ibm-ic-design-distribution-ic-manufacturing-india-it+ce-memory-chips-passive-pcb-other-ic-components-quantum-semiconductors-server-ipc-cloud-computing-iot-south-asia-technology.html"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 51
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-10963.png"
-        width: 1200
-        height: 600
+      - url: "https://img.digitimes.com/newsshow/20231019vl200_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Buy Rating for Baidu: A Review of AI Innovations and Potential Growth Opportunities"
-    excerpt: "In a report released yesterday, Thomas Chong from Jefferies maintained a Buy rating on Baidu (BIDU – Research Report), with a price"
-    publishedDateTime: 2023-10-18T02:55:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-baidu-a-review-of-ai-innovations-and-potential-growth-opportunities-1032714378"
+  - title: "Pocketnest announces AI project with Google, IBM"
+    excerpt: "Pocketnest, the female-founded financial wellness platform, announces the official kickoff to its biggest product release yet, focusing on artificial"
+    publishedDateTime: 2023-10-18T12:30:00Z
+    webUrl: "https://www.cuinsight.com/press-release/pocketnest-announces-ai-project-with-google-ibm/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-  - title: "Adobe Firefly AI image and video editing features from Max 2023"
-    excerpt: "This guide provides an insight into the new Adobe Firefly AI features this month unveiled at Adobe Max 2023. Learn how to edit videos, images"
-    publishedDateTime: 2023-10-16T08:46:00Z
-    webUrl: "https://www.geeky-gadgets.com/adobe-firefly-ai-features/"
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 19
+  - title: "IBM has signed with government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed with government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-with-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Adobe-firefly.jpg"
-        width: 700
-        height: 483
-        isCached: true
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 16
+  - title: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-an-agreement-with-the-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 7
 
 secured: "TF4gymEi+SJOynLL68DQeAjN6Sn5BKaBwSNp0M6lOf3C4b+VwSmJEHlpG/+zXvbs9NtS+WG6i5j16gp1oikSE6vweyaYIze5FVJxf8QTmIjXDelISqW/bwA/vz9EipqhwAE2dkPtzxLXoE8PWpnFjv0BMGc+70mOXu5o6W9IhsntJlo2IATiC8s5xd6beclFjYvz7WZsJe539fgQmm37ryyUlMeLlOpvvknS9S/r5jicIslC/X3k5+kisJ74PtO7L/QSpYqHOz5cfQIQs9M05Qvav9+vmVz0X3NSZnrN5QVnsivATGcUq4lSKMlgti07qSStk+w1LhhC4vQIXy//c0bxwk20uS6XNKts14J0wpE=;w2bPJw2r+2sZ4Fu/3XU3Mw=="
 ---

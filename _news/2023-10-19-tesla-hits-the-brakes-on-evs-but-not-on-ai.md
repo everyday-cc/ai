@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-
 webUrl: "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Better AI Stock: Tesla vs. Alphabet"
-    excerpt: "Among the dozens of companies jockeying to lead the next artificial intelligence (AI) revolution, Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Tesla (NASDAQ: TSLA) are two of the clear leaders. Though Alphabet might have ceded the initial first-mover advantage in generative AI to OpenAI's ChatGPT and its partner Microsoft,"
-    publishedDateTime: 2023-10-15T17:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabet"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Tesla earnings: Bitcoin bags untouched as firm splashes out on AI"
     excerpt: "Tesla’s Q3 2023 results show its increased spending on AI projects and research and development, all while holding onto $184 million worth of Bitcoin and missing Wall Street earnings estimates."
     publishedDateTime: 2023-10-19T01:12:00Z

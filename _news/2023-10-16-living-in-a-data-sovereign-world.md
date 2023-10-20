@@ -31,6 +31,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Shedding light on AI bias with real world examples"
+    excerpt: "Examples of AI bias from real life provide organizations with useful insights on how to identify and address bias.\nThe post Shedding light on AI bias with real world examples appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-16T15:55:01Z
+    webUrl: "https://www.ibm.com/blog/shedding-light-on-ai-bias-with-real-world-examples/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
 
 secured: "C61qoZk1yTylM9xoQNeJbQdiuXr6jGUAgTvYFPK15uGVsjtl9QESVZTJFsXgyX7zL+Fen9llRHnjmIb3eetKm2wCjl7+9onDt1r+XUV67gGloEIVjszDOaXSCx9gQGz6/pRG/puhmldaEtoueMME+RImz3K0MvX6xIJ2lFaZ8osKq2g2YgRPx68J41vco91ohB+ywhWUqzYTCxN5ZAvI7Ky9lrCspRRxiu7tIOTZBMwyZb/y13dYMnDUol1SRSo1+GRuSeuhUNg6DC75DPnkGkfdbr4hzsRuOa6n66tJzQPXwdpaNFjCbiIhxG9K9CueMJflUT9945Xg4CJpFOzgoFin9ibVs61r6OqGi+XPS4A=;rcooyBdzdrqJHmTlh+438w=="
 ---

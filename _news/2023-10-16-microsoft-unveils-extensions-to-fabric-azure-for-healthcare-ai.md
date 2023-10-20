@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 496
+heat: 486
 published: true
 
 provider:
@@ -175,6 +175,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 70
+  - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
+    excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
+    publishedDateTime: 2023-10-20T11:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-promising-outlook-ai-growth-potential-and-azure-s-stability-justify-premium-valuation-1032724070"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
     excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
     publishedDateTime: 2023-10-19T04:29:00Z
@@ -189,15 +198,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
-    excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
-    publishedDateTime: 2023-10-15T18:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-15/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "Henson Group Achieves Microsoft Solutions Partner Designation For Azure Data & AI"
     excerpt: "Designation allows Henson Group to offer best-in-class support for data-driven decisions and recommendations for clients MIAMI, FLO"
     publishedDateTime: 2023-10-17T17:48:00Z
@@ -265,15 +265,6 @@ related:
         width: 1000
         height: 650
         isCached: true
-  - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
-    excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
-    publishedDateTime: 2023-10-18T13:10:00Z
-    webUrl: "https://www.techradar.com/pro/microsoft-why-ai-is-going-to-push-forward-the-next-generation-of-digital-transformation"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 55
   - title: "TCS Seeks a Boost in AI Partnership with Microsoft"
     excerpt: "The collaboration with Azure OpenAI, formed by Microsoft and OpenAI, involves using the cloud-based AI tool GitHub Copilot."
     publishedDateTime: 2023-10-16T07:00:00Z

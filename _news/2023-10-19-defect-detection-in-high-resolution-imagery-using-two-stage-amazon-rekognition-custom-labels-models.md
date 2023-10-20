@@ -58,33 +58,6 @@ related:
         width: 977
         height: 535
         isCached: true
-  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
-    publishedDateTime: 2023-10-16T11:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
-    publishedDateTime: 2023-10-16T12:17:00Z
-    webUrl: "https://www.asiaone.com/business/profet-ai-achieves-significant-milestone-southeast-asian-expansion-macrovention-and-ampos"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 0
-  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "Jonathan Yu, Global General Sales Manager of Profet AI, expressed, \"Profet AI has been committed to providing innovative AI solutions for global manufacturing customers, aimed at enhancing production efficiency and reducing costs."
-    publishedDateTime: 2023-10-17T02:42:00Z
-    webUrl: "https://www.newswit.com/en/ifixepk8qnlv5zjg3yhsclyoz5x9fl7y"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 0
 
 secured: "XAQ9heUelb7cA3yzAs9xibaZoCUW6W23921/FsKXGrpGZ7aTo42T4h/MScXvidHBdJpPhMwVh9PTcE6z4LbO7ewR2EQcXFIEE9J/XRrwY0U88zxmodqxfXiIA337kBwiojCJszbklUCFuxzl1kw9wH1VTRgA7NMBJ11odXH7+vyDqzSEjoZNVY+mGEgS3S1nThFBoBRfiToNk/gFL4xZvEKXq8IaoJ/dLLXksi43nECXsFzsiwshVSFWxEBH+pgT6zT1av/WDTPnV7tmbnytXTAtF3lxFjMHQxaY4TVdYAEdvWshzf6IYO4b8FZRyhzbFTY16wP6J35gHshzoswe2sI0A8hC0hbV2NIDLO+n/m8=;NK5n6sYqDJ1QWx9cDECFRw=="
 ---

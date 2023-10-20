@@ -51,20 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
-    excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
-    publishedDateTime: 2023-10-19T11:00:00Z
-    webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 46
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "oIzQ/xViYN2o6WFFCLrdeopE8iohwR0OQoyOL8jRw1c/vxhQqPlBNJcA2gBt/7n/PKok6wZusciTrGxkNSUYGpL8yf7sqs4SfHajyoVsqcuvf9sQMDTK5oonGD2HMxRpzHDFR6zpxOuhL9QE8hJYuGucLyfaWleV4PSqlU2DelW9mEVkMqU+b85k6JPxSf/kkB+8JBEzChj37wgWNVEoIWs1aBXcpROwOo0yzeVLU6jV9NA7R3z60B3DJxBlHVlnIlsPLknw0sP0TTtTWWpgAjvrRSp1ekVcs8BsHnHCiXq9nDUEg+Ay1nKKGEBXJzk/Ix6MFvxn4VHKHux1S0yhb7BBFuvAEYt/oNteoTH7l4k=;1mRIVf6SD/F0HEyf8JWAVA=="
 ---

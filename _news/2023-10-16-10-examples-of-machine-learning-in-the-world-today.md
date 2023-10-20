@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-wo
 webUrl: "https://www.ibm.com/blog/10-examples-of-machine-learning-in-the-world-today/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Shedding light on AI bias with real world examples"
+    excerpt: "Examples of AI bias from real life provide organizations with useful insights on how to identify and address bias.\nThe post Shedding light on AI bias with real world examples appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-16T15:55:01Z
+    webUrl: "https://www.ibm.com/blog/shedding-light-on-ai-bias-with-real-world-examples/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Living in a data sovereign world"
     excerpt: "With the rise of cloud computing and global data flows, data sovereignty is a critical consideration for businesses around the world. \nThe post Living in a data sovereign world appeared first on IBM Blog.\n"
     publishedDateTime: 2023-10-16T15:02:06Z

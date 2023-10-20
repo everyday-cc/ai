@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/clinical/podcast-fusing-ai-and-hu
 webUrl: "https://www.modernhealthcare.com/clinical/podcast-fusing-ai-and-human-touch-revenue-cycle-management"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Jorie AI's Vibrant Debut at HLTH 2023: The Future of Healthcare Revenue Cycle Management"
+    excerpt: "In the bustling city of Las Vegas, where innovation meets opportunity, the HLTH 2023 Conference served as a cauldron of ideas and futuristic visions. Among the buzz, Jorie AI, earlier known as Jorie Healthcare Partners,"
+    publishedDateTime: 2023-10-20T11:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902649.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 45
+    images:
+      - url: "https://mma.prnewswire.com/media/2252638/Jorie_AI_HLTH_Booth.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "5MLUOVt62RYzfF/i3cLJohNjBEU1hO1KpsStnmdQPecB/sgC9TeOLqQoagJJolZnxIkwQgTTRUSZf/e3rs/i39lqhtHifGfRPH5XGZ0BFd5XC9F6M+MHIPdAcgUkScLPrzklZ61XpWPLBJkcVyh5jPJPfGrjfXFb8FkuvDY+XMEq7RhBr9GlSHOMbvHRb77aZFXAQr1r19Cubw9tPT2hnW5kKxOt9W9TAbWUAdm23o/uw8nUPieb8+NA8RTLvoDm9wduXz8WjSaXYGDMqGxuLQZTfGnoYvKe0J1NghwOSCT8ntqfnLexsI0ou93Ga5cMZtz9DFJrcVcHz5gSzdHeU9+K9SzKIuI479DcFO3NX/A=;vKSQrfrxMrWkWQ6Eqaq+HA=="
 ---

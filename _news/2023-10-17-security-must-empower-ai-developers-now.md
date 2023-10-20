@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI pervades Gartner’s 2024 predictions for cybersecurity roles, application modernization and more"
-    excerpt: "Gartner’s top predictions for enterprise IT organizations are dominated by AI, which is influencing trends including employee unionization, electricity rationing, and smart robots."
-    publishedDateTime: 2023-10-18T13:52:00Z
-    webUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 40
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/27/10/tall-blue-buildings_skyscrapers_enterprise_cityscape-100751598-large-100929510-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "YRhcEkq3TiDMiIv/h7PIobA1NrBggPFTqrKVcadwmg4O/qp8fU0zD+zKGHCHdOEZXcPVomz49wC/wTGp4jabJYL+v9nmxiu0cB0HpOkphRUrYjaxC4XWLt+nBCjDaXOukjNjYbob362ze+5evFRgYtQn5hbbkgo8yGuBZf7cRB/OQ36iMw81L0Ku1jmMSea2OzZqIWrzsQOBn4hMjZIauKKfQXCsE0GIaFH5MtKwygzv/Nedrde234dLa+t031sPMpLYd+/xVqu3XM4Dw8T+2xKeGLUzSIoqUgYppMQyCXIa2d/McTWj6CGmfSZPJIlxSSMgBMblaTVryyP7WPg4x69WXSeIjKFbvToRhnz9V14=;oQV2PNLBsK6dP7Nrt/uPdw=="
 ---

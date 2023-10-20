@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Civilization depends on more AI, Marc Andreessen says"
-    excerpt: "The case for accelerating rather than regulating tech does not mention \"unintended consequences\" — or climate change."
-    publishedDateTime: 2023-10-17T09:30:00Z
-    webUrl: "https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-techno-optimist"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 21
-
 secured: "jbkj6NpkFtXqcd1dnUGY1r5Zeaj6q4oNgOoMpMOnWYfIlQ241dyb7bmzPOpPAeEANZi/eXE0xnoySQQ9rlo88hMzpgHYBZmSnP8NWjuWaM12jy3PjRt0ZU4ymEdzcFifKwh7iII3Bq6BH7SxojzxRGwpJiWctz1zvr3dJkyxVrkLRqu5p2fyfVJM/yPGhTtDb5y6yMCDPczwKnlmK+nze6GGpryNJJ8ksE8HPaFa4ynGt9ZNUmDjEFL7J++BV6xjyBb97kB4oQQU/cxDZ+kijszD+EA/bLlL5+yS08N12Fgn//NQvR9xypjZockr/YTqTRPAP+HYSMUCVFhc8yyRFvbq5TschTHHPGobPJBKSnI=;a6sS0o8a+QYyg7LFS8kXjA=="
 ---
 

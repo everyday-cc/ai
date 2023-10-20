@@ -46,20 +46,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
-    excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
-    publishedDateTime: 2023-10-19T11:00:00Z
-    webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 46
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "US eyes AI chip curbs for Chinese units"
     excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
     publishedDateTime: 2023-10-16T07:52:00Z

@@ -41,22 +41,6 @@ related:
         width: 900
         height: 900
         isCached: true
-  - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
-    excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
-    publishedDateTime: 2023-10-18T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/"
-    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "New tool can detect AI-generated content"
     excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
     publishedDateTime: 2023-10-17T15:42:00Z

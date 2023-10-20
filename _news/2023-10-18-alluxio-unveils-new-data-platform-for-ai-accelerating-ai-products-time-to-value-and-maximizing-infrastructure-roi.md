@@ -52,6 +52,20 @@ related:
         width: 945
         height: 532
         isCached: true
+  - title: "Neurxcore Introduces Innovative NPU Product Line for AI Inference Applications, Powered by NVIDIA Deep Learning Accelerator Technology"
+    excerpt: "Neurxcore, a leading provider of cutting-edge Artificial Intelligence (AI) solutions, today announced the launch of its groundbreaking Neural Processor Unit (NPU) product line for AI inference applications."
+    publishedDateTime: 2023-10-20T10:32:00Z
+    webUrl: "https://www.design-reuse.com/news/55057/neurxcore-npu-nvidia-deep-learning-accelerator.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 22
+    images:
+      - url: "https://static.designandreuse.com/news_img2/homepage55057/nb.jpg"
+        width: 1180
+        height: 648
+        isCached: true
 
 secured: "Roi40+t5S+5BSZfkDr60zo+cC2l0hekobNBvC0CW9SmNV1wGCtwijp2tWxI9NFk6JbNsqLLUaJkIV9BTBoNLKoLABA0tvB5BKz1y5eMk+rMsr34E93jWAQGjM8cPlaGNY+W5MiVsVVtYY/dpcQi9QcKpgaTc2a9LHZ63A47jdH0WS8cNlm454R8PwyzdBs4EyT5WePbuP2lF+TAwYnKvXYoxxgv/lOHaCZsI6RMXLdybZjI4o1wLwmKtaJydM/JXhLL3JtbW2LJ2hb1gY3hEcIQmX6+i3TEj+QOgZvdwu0N1+squscysiymOGhryfrrKx9DABI0EhJVYeUQb61vEXNEBlCmwfa+FPrd6CKi8aIc=;nHU4MtaxmrkM1p3lV60gLA=="
 ---

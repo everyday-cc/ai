@@ -41,6 +41,20 @@ related:
         width: 640
         height: 290
         isCached: true
+  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
+    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
+    publishedDateTime: 2023-10-17T04:51:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
     excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
     publishedDateTime: 2023-10-16T01:30:00Z
@@ -69,6 +83,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
+    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
+    publishedDateTime: 2023-10-16T18:24:00Z
+    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
 
 secured: "VWRFWHgDr9d6p5Mv7rVDheNy69iWWEovDXY/kCvitwWvY6CkikmCLtEOgbs/81Q1rSxcdZeIRVhbpi/PbFTYbiyryL5X6S2BNSkBW7cRRGC0lulOR/50cr6eBQu2+QknD2NxQydenQIKsUnyk2OhHcEZdXv2sIoLTT6Qb42b+qLxTccL7Ih99KX+IjH4dhxIdv6stsuVMZzGfB3kZTURQX7T7hTE6g/OT2LBvWfMbSYy/yIm2gZ4dxspuuA1k+k1h1q720yIUZEMuh6WT7MdqgQ2BQcu/PHbTzSzv+wcI0s3HS7MuoLgEtD9qP6TRHyF2pvpgY4j53lZc+3Vas073Uh8VbCmoDZlK+XLUjCNouwxHHpzMp3oJ8HLFkkrxh+Gi3oQ98lGEJ5awn3GnvpmmdILeiCyO432wKSVE+6QOb7upBXh5et0TBNRPj3NG4437bOx8eyl8llWYaEQL017NUJ4Vfzc6O2YAMfequ/8zXLgCEz3GOMoLl8zbHbxHBxnKJQgqDDGK3iHzWXP+w/MMQ==;AQFMutON6NRfb9zHXM+RZA=="
 ---

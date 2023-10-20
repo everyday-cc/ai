@@ -42,6 +42,20 @@ related:
         width: 640
         height: 290
         isCached: true
+  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
+    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
+    publishedDateTime: 2023-10-17T04:51:00Z
+    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
     excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
     publishedDateTime: 2023-10-18T16:52:00Z
@@ -70,6 +84,15 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
+    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
+    publishedDateTime: 2023-10-16T18:24:00Z
+    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 34
 
 secured: "AnfrMmnp76oMUC33/rnHzMQL2JHbfZvf3UYSPe/P6WJQH/ZKMIso5kncLqnidAhlnx2bSsl5wVct5HHuZcFaOhshDPPcEZn8vl9B9G2xYyRgvYSFXHCyAsfKFNBP+y1Y+V2hweMQ0m4WEHOMP5uN08k79Q5WqfwEjqIDAmfYxO/hN/9n5zTOHTlnoPxrC5udTyY+EFMVgMeKtJ0jcNhucdKblCrGi6YJZsKcgckG5nvmv0fcvQRl6ayDMeyvpCg5rZWeK7V2OC+RSU0M3jOLxzQ8r80WOL4GwneH9oq6HDqNKkOPcwj8CmybVieV+6pJd9aGtMJ3uJxnJOM1wu3degc7pL/jpbTRXbUvGYnVHRY=;KyJKs6Eu57Fw5FL0pTQ2Qw=="
 ---

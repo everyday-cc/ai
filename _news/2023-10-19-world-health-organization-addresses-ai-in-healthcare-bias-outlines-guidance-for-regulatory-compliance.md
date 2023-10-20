@@ -27,86 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Organizations are fighting for the ethical adoption of AI. Here's how you can help"
-    excerpt: "If used correctly -- and ethically -- AI could level up society as a whole and positively advance future technology. That's why these organizations are striving to even out the negative impacts and steer us in the right direction. Also: The ethics of ..."
-    publishedDateTime: 2023-10-18T15:18:00Z
-    webUrl: "https://www.zdnet.com/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
+  - title: "From Healthcare to Finance: Exploring Real-World Applications of Artificial Intelligence"
+    excerpt: "Artificial Intelligence (AI) has swiftly transformed numerous industries, from healthcare to finance, revolutionizing the way we live and work. With its unrivaled ability to process vast amounts of data and identify patterns that elude human perception,"
+    publishedDateTime: 2023-10-20T10:35:00Z
+    webUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-world-applications-of-artificial-intelligence/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
+      name: Impacts
+      domain: techbullion.com
+    quality: 64
     images:
-      - url: "https://www.zdnet.com/a/img/resize/89930608e67eae17d6e816fd9520aa08db3cdfe3/2023/09/21/514c8dde-a75a-4068-9d86-c0f057c3ca81/gettyimages-885075194.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/AI-in-Finance.jpg"
+        width: 1000
+        height: 500
         isCached: true
-  - title: "Democratizing AI with digital adoption platforms"
-    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
-    publishedDateTime: 2023-10-16T09:07:00Z
-    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Seeing the magic of artificial intelligence applications in ophthalmology"
-    excerpt: "We all know, by now, that Artificial Intelligence (AI ... In fact, we are among the early adopters of AI for health care, and some of the key uses are: Retinal disease diagnosis: AI algorithms can analyse retinal images, such as fundus photographs and ..."
-    publishedDateTime: 2023-10-19T16:55:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 58
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/fuy8sm/article67439978.ece/alternates/FREE_1200/PTI12_6_2014_000132A.JPEG-01abc.jpg"
-        width: 1200
-        height: 1594
-        isCached: true
-  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
-    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
-    publishedDateTime: 2023-10-16T18:24:00Z
-    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
-  - title: "WHO outlines considerations for regulation of artificial intelligence for health"
-    excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"
-    publishedDateTime: 2023-10-19T08:46:00Z
-    webUrl: "https://www.kbc.co.ke/who-outlines-considerations-for-regulation-of-ai-for-health/"
-    type: article
-    provider:
-      name: Kenya Broadcasting Corporation
-      domain: kbc.co.ke
-    quality: 34
-    images:
-      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/WHO-AI-HEALTH-.jpeg"
-        width: 280
-        height: 283
-        isCached: true
-  - title: "Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
-    excerpt: "NYSE:ACN) Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
-    publishedDateTime: 2023-10-17T12:37:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/10/17/accenture-collaborates-with-sap-to-help-organizations-adopt-generative-ai-and"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
 
 secured: "gtQZdhGOJQEEfRZ9KFFczxJ7IkGthD6qhYLqiiznL+x0crTH8kAaEuxr7vw5flS475H9jhCqMqmSOnK5rFG27LgrF2PvQM0so5HNEKUMA+CesgvH1eGKxcrRXoMcvQVy0zX7cWXSY86vAiFmlAvTZBburZizR8BXwCeVVM0ERNbVJY4ufQUbrtvYRnB9Jrde1UeqxVta/lPX0boHjRL6qgwdIVmxqLpv1IISLBbMn+4fHOSsCQ34f9ixDRmm8/lBTF0bxZjTlnXzR1yzOCrPFCdLECNj34+bStk/MxAvxtIB/peuWB8xOJFOZQRahnys62ozZnI7cMzOnsrn8UMJLxeIzI0NBa5Cg2hQzzKlLVM=;O8b180FYEm1ttTBWZM3RrA=="
 ---

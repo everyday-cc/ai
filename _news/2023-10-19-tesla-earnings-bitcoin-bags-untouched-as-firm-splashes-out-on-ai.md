@@ -40,15 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Better AI Stock: Tesla vs. Alphabet"
-    excerpt: "Among the dozens of companies jockeying to lead the next artificial intelligence (AI) revolution, Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) and Tesla (NASDAQ: TSLA) are two of the clear leaders. Though Alphabet might have ceded the initial first-mover advantage in generative AI to OpenAI's ChatGPT and its partner Microsoft,"
-    publishedDateTime: 2023-10-15T17:45:00Z
-    webUrl: "https://www.nasdaq.com/articles/better-ai-stock:-tesla-vs.-alphabet"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
 
 secured: "04aZOoLkCfkdGKj/POVsdHyGN77IbLZBVNn04Y2J5N9Rx++uEpHvzh+KR58OrIMolfJMGVFVjWDi38+tQ9cxEMe+OncDvxukSAzNnj3vZdUArSKmmfyVfv8hQ6K9R78qkEwY7YJYrsQbOhp94DL6hq851QOJTdzjhEuqHT3oHZvRyDWXDyuxKLj3rLBkL9miIg8Wwe2I5l0gt/L4okuI0lCeHLXm21Q8Nc4vCIG1c1NOwWx1O2tUmQi/TNwBOrQP8r6m++4WYkoN8T8oOVhrQfpu8UnzTgpDJczYfijJ8pmvWGiHli+70eX2CF2XYzMKwWT9ob74TGyZBhqWXOxiIa2lkQFscAdDzqg7BoxJYxjoUhsYuSyYN1nuiGUCWzrOmfCKTsIFDlOvxiT9VPjnJhjtL/jnXkIJswDvR/Seb5fEZ96rSNeQuF4sKN1PXHqkHhZn94NvM6AqUjY70ryGv7lxK8ygwQvvE3khYYDysYdMjCH920cm/Igh5QE1bkirtB5r8l6Z1Q7GKlG/waamVg==;oXOj1JJ48/dDzr7PGVIoiw=="
 ---

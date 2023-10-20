@@ -23,480 +23,378 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft unveils extensions to Fabric, Azure for healthcare AI"
-    excerpt: "These new offerings seek to bring together multiple modalities of medical data for greater analysis, and also bring large language models to clinicians' side as medical copilots."
-    publishedDateTime: 2023-10-16T14:02:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
+  - title: "The Urgent Need For Marketing AI And Automation Education"
+    excerpt: "Businesses of all sizes are using these technologies to streamline their operations, improve their customer targeting, and boost their sales."
+    publishedDateTime: 2023-10-20T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/"
+    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6531a96f07309fd411a35a66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
+        isCached: true
+  - title: "Organizations are fighting for the ethical adoption of AI. Here's how you can help"
+    excerpt: "If used correctly -- and ethically -- AI could level up society as a whole and positively advance future technology. That's why these organizations are striving to even out the negative impacts and steer us in the right direction. Also: The ethics of ..."
+    publishedDateTime: 2023-10-18T15:18:00Z
+    webUrl: "https://www.zdnet.com/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 116
+    quality: 98
     images:
-      - url: "https://www.zdnet.com/a/img/resize/7b1085eb32224a532e4765a7998aee76e2402275/2023/10/16/e136bcb6-5b44-493b-bcf2-05ee2ec78ae0/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/89930608e67eae17d6e816fd9520aa08db3cdfe3/2023/09/21/514c8dde-a75a-4068-9d86-c0f057c3ca81/gettyimages-885075194.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud"
-    excerpt: "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,"
-    publishedDateTime: 2023-10-18T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/"
+  - title: "Generative AI and machine learning are engineering the future in these 9 disciplines"
+    excerpt: "All vertical industries continue to adopt emerging tools and methodologies, but the impact of generative AI in engineering disciplines stands out from the rest."
+    publishedDateTime: 2023-10-19T14:15:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-and-machine-learning-are-engineering-the-future-in-these-9-disciplines/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 90
+      name: ZDNet
+      domain: zdnet.com
+    quality: 97
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/10/Mark-Russ-Pic-2.png"
-        width: 928
-        height: 511
-        isCached: true
-  - title: "Microsoft's new AI assistant can go to meetings for you"
-    excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-    publishedDateTime: 2023-10-18T23:13:00Z
-    webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
-    ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 76
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
+      - url: "https://www.zdnet.com/a/img/resize/27166f4fe6a0a8ed0bd0d66a1c471e52e038bd5b/2023/10/16/547003b1-a501-4dff-b489-bb957583060f/gettyimages-1314656208.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft launches AI content safety service"
-    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
-    publishedDateTime: 2023-10-17T13:54:00Z
-    webUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
+  - title: "Democratizing AI with digital adoption platforms"
+    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
+    publishedDateTime: 2023-10-16T09:07:00Z
+    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
+    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://images.idgesg.net/images/article/2023/10/worried-alarmed-concerned-user-100947306-large.jpg?auto=webp&quality=85,70"
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
         isCached: true
-  - title: "Preparing for the Future of AI in Healthcare"
-    excerpt: "It’s crucial that healthcare organizations stay level-headed when it comes to questions around AI. It’s easy to get distracted by the latest, greatest new tool, but if it doesn’t align with an organization’s overall mission,"
-    publishedDateTime: 2023-10-17T16:19:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
+  - title: "How AI-Powered Personalization Is Reshaping Online Shopping And Beyond"
+    excerpt: "AI-driven personalization paves the way for retail environments that forge even deeper brand loyalty and defy the traditional transactional nature of online commerce."
+    publishedDateTime: 2023-10-16T10:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/how-ai-powered-personalization-is-reshaping-online-shopping-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/how-ai-powered-personalization-is-reshaping-online-shopping-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/16/how-ai-powered-personalization-is-reshaping-online-shopping-and-beyond/amp/"
     type: article
     provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1321590983.jpg?itok=obw9Q3RC"
-        width: 1440
-        height: 500
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65297e920ba08a3dc21cdc5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1246
+        height: 900
         isCached: true
-  - title: "TCS bets on Microsoft AI partnership to fuel growth"
-    excerpt: "Tata Consultancy Services (TCS) is expanding its partnership with Microsoft to develop AI-based software services for clients. The collaboration with Microsoft's Azure OpenAI and the use of cloud-based AI tool GitHub Copilot will allow TCS to offer ..."
-    publishedDateTime: 2023-10-16T17:25:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/articleshow/104476578.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
+  - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
+    excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
+    publishedDateTime: 2023-10-18T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/"
+    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.toiimg.com/thumb/msid-104476569,width-1280,height-720,resizemode-4/104476569.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "DCT Abu Dhabi and Microsoft sign MoU on generative AI, cloud technologies"
-    excerpt: "The alliance enables innovation in key areas such as generative artificial intelligence (AI) and cloud computing and brings together both organisations’ capabilities and resources to enhance the touri"
-    publishedDateTime: 2023-10-20T09:27:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 73
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MDhkNmI0NWItZTNkMS00/0/naimyazbeck-generalmanagerofmicrosoftuaeandheadnanalawadi-supportservicesexecutivedirectorofdctabudhabi-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Microsoft Promises SOC Relief with Coming Security Copilot AI"
-    excerpt: "The Security Copilot integration in Microsoft 365 Defender will translate what the attack code does ... which gets generated in the form of the Kusto Query Language. It's also possible for analysts to use Security Copilot to analyze a PowerShell script ..."
-    publishedDateTime: 2023-10-20T00:18:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/19/microsoft-security-copilot-soc.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 73
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages2014/0914red_Decmaker.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Morgan Stanley On Microsoft Ahead Of Q1: Optimistic on AI Future Despite Early Innovation Cycle"
-    excerpt: "Morgan Stanley analyst Keith Weiss remained Overweight on Microsoft Corp (NASDAQ:MSFT) with a price target of $415. The analyst holds firm conviction in the significant opportunity ahead of Microsoft within Generative AI and the company's strong positioning to execute that opportunity."
-    publishedDateTime: 2023-10-17T16:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/morgan-stanley-on-microsoft-ahead-of-q1-optimistic-on-ai-future-despite-early-innovation-cycle-1032713516"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/17/azure-rainer_stropek_via_flickr.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft’s Healthcare AI Efforts Holds Huge Promise for Patients"
-    excerpt: "Microsoft’s ambient AI is great for physicians in that it automates the creation of the clinical note. But it’s also great for patients used to doctors turning away from them to type into the health system’s electronic health record to record the doctor-patient encounter. You have your doctor’s full attention and a screen is not in the way."
-    publishedDateTime: 2023-10-17T01:33:00Z
-    webUrl: "https://medcitynews.com/2023/10/microsofts-healthcare-ai-efforts-holds-huge-promise-for-patients/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 71
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
-  - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
-    excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
-    publishedDateTime: 2023-10-19T18:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analysts-are-bullish-on-microsoft-s-azure-and-ai-growth-ahead-of-q1-earnings---here-s-why-1032722146"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-  - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
-    excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
-    publishedDateTime: 2023-10-19T04:29:00Z
-    webUrl: "https://www.inferse.com/762100/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 65
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12441.png"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "TCS Seeks to Use Microsoft AI Partnership to Improve Margins"
-    excerpt: "Tata Consultancy Services Ltd is betting on its partnership with Microsoft Corp to develop artificial intelligence-based software services for clients, seeking to win higher margins to fuel growth."
-    publishedDateTime: 2023-10-15T18:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-15/tcs-seeks-to-use-microsoft-ai-partnership-to-improve-margins"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "Henson Group Achieves Microsoft Solutions Partner Designation For Azure Data & AI"
-    excerpt: "Designation allows Henson Group to offer best-in-class support for data-driven decisions and recommendations for clients MIAMI, FLO"
-    publishedDateTime: 2023-10-17T17:48:00Z
-    webUrl: "https://menafn.com/1107258983/Henson-Group-Achieves-Microsoft-Solutions-Partner-Designation-For-Azure-Data-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 64
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Microsoft’s Stock Performance: An Analysis of Azure Growth, AI Influence, and Office Commercial Prospects"
-    excerpt: "Microsoft (MSFT – Research Report), the Technology sector company, was revisited by a Wall Street analyst today. Analyst Derrick Wood"
-    publishedDateTime: 2023-10-20T04:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-stock-performance-an-analysis-of-azure-growth-ai-influence-and-office-commercial-prospects-1032722762"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Microsoft Stock Fueled By Artificial Intelligence In Office Apps – Investor's Business Daily"
-    excerpt: "ARTIFICIAL INTELLIGENCE: Will Microsoft’s High-Stakes Bet On AI Pay Off?"
-    publishedDateTime: 2023-10-17T01:04:00Z
-    webUrl: "https://www.inferse.com/758345/microsoft-stock-fueled-by-artificial-intelligence-in-office-apps-investors-business-daily/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 58
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-10658.png"
-        width: 1000
-        height: 511
-        isCached: true
-  - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
-    excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, hybrid multicloud technology solutions company, has partnered with Straits Interactive, a leader in data"
-    publishedDateTime: 2023-10-18T16:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35314167/foundry-for-ai-by-rackspace-partners-with-straits-interactive-to-launch-ai-data-protection-officer"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35314167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35314167"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "How Microsoft’s new AI will save you time and energy"
-    excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."
-    publishedDateTime: 2023-10-19T16:43:00Z
-    webUrl: "https://rollingout.com/2023/10/19/microsoft-new-ai-save-time-and-energy/"
-    type: article
-    provider:
-      name: Rolling Out
-      domain: rollingout.com
-    quality: 56
-    images:
-      - url: "https://rollingout.com/wp-content/uploads/2023/10/0056238001570442327-135.jpg"
-        width: 1000
-        height: 650
-        isCached: true
-  - title: "TCS Seeks a Boost in AI Partnership with Microsoft"
-    excerpt: "The collaboration with Azure OpenAI, formed by Microsoft and OpenAI, involves using the cloud-based AI tool GitHub Copilot."
-    publishedDateTime: 2023-10-16T07:00:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-seeks-a-boost-in-ai-partnership-with-microsoft/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft’s New AI Bug Bounty Program Has Rewards Up To $15K"
-    excerpt: "Microsoft's new AI bug bounty program offers rewards up to $15,000 for finding vulnerabilities in Bing's AI features,"
-    publishedDateTime: 2023-10-16T20:55:00Z
-    webUrl: "https://www.searchenginejournal.com/microsofts-new-ai-bug-bounty-program-has-rewards-up-to-15k/498579/"
+  - title: "Adobe previews new AI and 3D editing innovations – including an animated dress"
+    excerpt: "Photo-editing software maker Adobe unveiled a slew of new AI-powered tools and features last week at its annual Max event, including a dress that transforms into a wearable screen and streamlined ways to delete elements from photos."
+    publishedDateTime: 2023-10-16T16:49:00Z
+    webUrl: "https://www.cnn.com/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
+      name: CNN
+      domain: cnn.com
+    quality: 83
     images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/10/img_2023-10-16-165317-652da2f35a463-sej.jpeg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Microsoft launches AI content safety service"
-    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
-    publishedDateTime: 2023-10-18T04:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/709165/microsoft-launches-ai-content-safety-service/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_microsoft_building_7.jpg"
-        width: 500
-        height: 315
-        isCached: true
-  - title: "Sick of meetings? Microsoft’s new AI assistant will go in your place"
-    excerpt: "From November, those willing to pay $30 a month can have Microsoft’s Copilot integrated into programs like Teams and Outlook."
-    publishedDateTime: 2023-10-19T14:47:00Z
-    webUrl: "https://www.aol.com/sick-meetings-microsoft-ai-assistant-114731497.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/M0xM.OEwHjN.du_sdhIgGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/0abe0903e71c91ee4122f4fb13829c49"
-        width: 1199
-        height: 800
-        isCached: true
-  - title: "Microsoft Cloud for Healthcare: Empowering healthcare to deliver … – Microsoft"
-    excerpt: "Healthcare organizations continue to face complex challenges of evolving patient expectations, talent shortages, workforce burnout, and financial operational"
-    publishedDateTime: 2023-10-16T03:06:00Z
-    webUrl: "https://www.inferse.com/756554/microsoft-cloud-for-healthcare-empowering-healthcare-to-deliver-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 52
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9820.png"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
-    excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."
-    publishedDateTime: 2023-10-16T09:26:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98381/trade-ledger-embeds-working-capital-options-within-microsoft-azure-and-teams"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 51
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
-    excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"
-    publishedDateTime: 2023-10-16T15:18:00Z
-    webUrl: "https://www.inferse.com/757542/announcing-general-availability-of-azure-data-manager-for-energy-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 46
-  - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
-    excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"
-    publishedDateTime: 2023-10-19T05:32:00Z
-    webUrl: "https://www.inferse.com/762178/opus-5ks-latest-solution-is-harnessing-azure-open-ai-to-transform-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 44
-  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
-    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
-    publishedDateTime: 2023-10-19T03:44:00Z
-    webUrl: "https://www.aninews.in/news/business/business/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai20231019111443"
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 40
-    images:
-      - url: "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20231019054305.jpg"
-        width: 600
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231016081744-adobe-app-file-restricted.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
         height: 450
         isCached: true
-  - title: "11 Remote Job Vacancies at Microsoft That Pay $100K+"
-    excerpt: "From contract negotiator to content manager, these roles will have you working from the comfort of your own home."
-    publishedDateTime: 2023-10-18T20:36:00Z
-    webUrl: "https://tech.co/news/11-100k-remote-jobs-microsoft"
+  - title: "Keeping an eye on your cattle using AI technology"
+    excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
+    publishedDateTime: 2023-10-17T19:40:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/keeping-an-eye-on-your-cattle-using-ai-technology/"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+  - title: "This AI and automation developer bundle is just $50"
+    excerpt: "If that sounds fascinating to you, this bundle can start you off on the right ... Another more advanced course in the bundle is called Robotics & Artificial Intelligence + Tools + Templates. It's taught by Chris Mall. Here, you'll learn about the ..."
+    publishedDateTime: 2023-10-19T09:00:00Z
+    webUrl: "https://mashable.com/deals/oct-19-artificial-intelligence-developer-bundle"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 69
     images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/10/18162126/microsoft-remote-roles.jpg"
-        width: 1920
-        height: 960
+      - url: "https://helios-i.mashable.com/imagery/articles/04kxBU1cV9szsRTdqWpvFYV/hero-image.fill.size_1200x675.v1697636436.jpg"
+        width: 1199
+        height: 675
         isCached: true
-  - title: "Foundry For AI By Rackspace Partners With Straits Interactive To Launch AI Data Protection Officer On Microsoft Azure Openai Service"
-    excerpt: "The AI DPO Assistant chatbot guides organizations, especially SMEs, in data governance and navigating data protection requirements. Built on the Microsoft Azure Open AI Service, the chatbot securely stores data in a multicloud environment by Rackspace Technology. The AI DPO Assistant will:"
-    publishedDateTime: 2023-10-18T17:24:00Z
-    webUrl: "https://menafn.com/1107265676/Foundry-For-AI-By-Rackspace-Partners-With-Straits-Interactive-To-Launch-AI-Data-Protection-Officer-On-Microsoft-Azure-Openai-Service"
+  - title: "Generative AI's Potential Applications For Media And Digital Marketing"
+    excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
+    publishedDateTime: 2023-10-16T12:14:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/generative-ais-potential-applications-for-media-and-digital-marketing/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+  - title: "Seeing the magic of artificial intelligence applications in ophthalmology"
+    excerpt: "We all know, by now, that Artificial Intelligence (AI ... In fact, we are among the early adopters of AI for health care, and some of the key uses are: Retinal disease diagnosis: AI algorithms can analyse retinal images, such as fundus photographs and ..."
+    publishedDateTime: 2023-10-19T16:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/seeing-the-magic-of-artificial-intelligence-applications-in-ophthalmology/article67437234.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 58
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865047"
-        width: 446
-        height: 250
+      - url: "https://th-i.thgim.com/public/incoming/fuy8sm/article67439978.ece/alternates/FREE_1200/PTI12_6_2014_000132A.JPEG-01abc.jpg"
+        width: 1200
+        height: 1594
         isCached: true
-  - title: "AI Explained – Stories – Microsoft"
-    excerpt: "Microsoft News Center AI basics Large AI Models Researchers at Microsoft and elsewhere are making progress on developing large AI systems that"
-    publishedDateTime: 2023-10-16T21:54:00Z
-    webUrl: "https://www.inferse.com/758099/ai-explained-stories-microsoft/"
+  - title: "Bitcoin-centric AI language model aims to drive BTC education and adoption"
+    excerpt: "Novel AI language model Spirit of Satoshi trained on Bitcoin-related resources aims to drive education and BTC adoption."
+    publishedDateTime: 2023-10-19T13:31:00Z
+    webUrl: "https://cointelegraph.com/news/bitcoin-based-ai-language-model-aims-to-drive-education"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 54
+    images:
+      - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/f7931d22-8980-4b91-b725-9e639aa15576.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Let's use AI to rethink education, instead of panicking about cheating"
+    excerpt: "If we build and use AI effectively, we can create an education system where students are assessed on the quality and depth of their knowledge, rather than the content of an exam, says Okezue Bell"
+    publishedDateTime: 2023-10-18T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/mg26034613-400-lets-use-ai-to-rethink-education-instead-of-panicking-about-cheating/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/17104734/SEI_175845653.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Your Personal Information Is Probably Being Used to Train Generative AI Models"
+    excerpt: "Companies are training their generative AI models on vast swathes of the Internet—and there’s no real way to stop them"
+    publishedDateTime: 2023-10-19T11:49:00Z
+    webUrl: "https://www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/"
+    ampWebUrl: "https://www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/?amp=true"
+    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/your-personal-information-is-probably-being-used-to-train-generative-ai-models/?amp=true"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 53
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/0446505E-447E-4ECA-A5699DE89F708B8E.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "The Martec Secures $8M To Accelerate AI-powered Talent Marketing Tech Adoption"
+    excerpt: "The Martec, an AI content platform revolutionizing the talent marketing space, has today announced an $8m raise to accelerate its global expansion, led by AS1. Other participants in the round included AirTree Ventures."
+    publishedDateTime: 2023-10-17T01:54:00Z
+    webUrl: "https://www.hrdive.com/press-release/20231015-the-martec-secures-8m-to-accelerate-ai-powered-talent-marketing-tech-adopt/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 50
+    images:
+      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1697423004/press_release/assets/header_images/The_Martec_Header_dlsuzh.jpg"
+        width: 1500
+        height: 700
+        isCached: true
+  - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
+    excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
+    publishedDateTime: 2023-10-19T11:00:00Z
+    webUrl: "https://news.crunchbase.com/ai/sec-regulation-financial-sector-gensler/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 46
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Generative AI pervades Gartner’s 2024 predictions for cybersecurity roles, application modernization and more"
+    excerpt: "Gartner’s top predictions for enterprise IT organizations are dominated by AI, which is influencing trends including employee unionization, electricity rationing, and smart robots."
+    publishedDateTime: 2023-10-18T13:52:00Z
+    webUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.html"
+    ampWebUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 40
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/27/10/tall-blue-buildings_skyscrapers_enterprise_cityscape-100751598-large-100929510-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Using AI to craft novel crop nutrition solutions"
+    excerpt: "Global specialty minerals company invests in agri-tech startup toward creating new plant nutrition bio-stimulants using artificial intelligence."
+    publishedDateTime: 2023-10-16T09:47:00Z
+    webUrl: "https://www.israel21c.org/using-ai-to-craft-novel-crop-nutrition-solutions/"
+    type: article
+    provider:
+      name: Israel21c
+      domain: israel21c.org
+    quality: 37
+    images:
+      - url: "https://static.israel21c.org/www/uploads/2023/09/COVER_ICL_and_Agrematch_to_Develop_Novel_Crop_Nutrition_Solutions_via_AI.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The Federal Trade Commission and Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) burst into the public consciousness less than one year ago, with OpenAI’s highly successful public release of ChatGPT. Since then, AI-enabled products and services have proliferated throughout the economy. AI-enabled tools ..."
+    publishedDateTime: 2023-10-19T15:56:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-federal-trade-commission-and-7112281/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Using AI to Improve Nutrition for Cancer Patients"
+    excerpt: "Susan Bratton leverages AI technology to build a better-eating app to support cancer patients going through treatment"
+    publishedDateTime: 2023-10-19T20:12:00Z
+    webUrl: "https://www.scientificamerican.com/custom-media/heroes-of-cancer-care/using-ai-to-improve-nutrition-for-cancer-patients/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/70C9E8EF-2C92-4777-8CB2C669B884145D.jpg"
+        width: 791
+        height: 496
+        isCached: true
+  - title: "AI Platform Alliance: Building a Strong Foundation for At-Scale AI Implementation"
+    excerpt: "The AI Platform Alliance is a venture with a clear purpose: to make AI accessible at scale, streamlined, and sustainable for developers and users alike."
+    publishedDateTime: 2023-10-19T06:58:00Z
+    webUrl: "https://realtybiznews.com/ai-platform-alliance-building-a-strong-foundation-for-at-scale-ai-implementation/98779907/"
+    type: article
+    provider:
+      name: realtybiznews
+      domain: realtybiznews.com
     quality: 34
-  - title: "Microsoft wants to make AI safer, and it just unveiled a service to help"
-    excerpt: "Microsoft recently shipped Azure AI Content Safety to broad availability. It's an AI-powered platform designed to create a safer online environment for users. Azure AI Content Safety allows businesses to establish more control by allowing them to tailor policies,"
-    publishedDateTime: 2023-10-17T18:11:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-wants-to-make-ai-safer-and-it-just-unveiled-a-service-to-help"
+    images:
+      - url: "https://realtybiznews.com/wp-content/uploads/2023/10/Recruiting-Insight-370-x-300-px-2.png"
+        width: 370
+        height: 300
+        isCached: true
+  - title: "WHO outlines considerations for regulation of artificial intelligence for health"
+    excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"
+    publishedDateTime: 2023-10-19T08:46:00Z
+    webUrl: "https://www.kbc.co.ke/who-outlines-considerations-for-regulation-of-ai-for-health/"
     type: article
     provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 33
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
-    publishedDateTime: 2023-10-15T21:18:00Z
-    webUrl: "https://www.inferse.com/756076/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
+      name: Kenya Broadcasting Corporation
+      domain: kbc.co.ke
+    quality: 34
+    images:
+      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/WHO-AI-HEALTH-.jpeg"
+        width: 280
+        height: 283
+        isCached: true
+  - title: "Civilization depends on more AI, Marc Andreessen says"
+    excerpt: "The case for accelerating rather than regulating tech does not mention \"unintended consequences\" — or climate change."
+    publishedDateTime: 2023-10-17T09:30:00Z
+    webUrl: "https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-techno-optimist"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
-  - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
-    excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
-    publishedDateTime: 2023-10-17T08:43:00Z
-    webUrl: "https://www.inferse.com/758898/how-ai-is-helping-to-shrink-waiting-times-for-nhs-cancer-patients-microsoft/"
+      name: Axios
+      domain: axios.com
+    quality: 21
+  - title: "AI Is Taking Customer Relationships to the Next Level"
+    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
+    publishedDateTime: 2023-10-17T17:15:00Z
+    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
-  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
-    excerpt: "By Chris Barry, Microsoft Canada PresidentMore than one billion people worldwide live with a disability – this includes over 6.2 million"
-    publishedDateTime: 2023-10-17T03:20:00Z
-    webUrl: "https://www.inferse.com/758516/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
+      name: USA Today
+      domain: usatoday.com
+    quality: 17
+  - title: "The Quantum Leap: How Quantum Computing Will Revolutionize Artificial Intelligence Applications"
+    excerpt: "Introduction In the ever-evolving landscape of technology, two groundbreaking fields have been making significant strides: quantum computing and artificial intelligence (AI). As these fields continue to advance,"
+    publishedDateTime: 2023-10-16T10:23:00Z
+    webUrl: "https://techbullion.com/the-quantum-leap-how-quantum-computing-will-revolutionize-artificial-intelligence-applications/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
-  - title: "DataTrue launches privacy leak detection supported by Microsoft AI … – Microsoft"
-    excerpt: "By Microsoft News Center The data auditing platform Datatrue announces today the launch of a patented data validation and personal"
-    publishedDateTime: 2023-10-16T07:26:00Z
-    webUrl: "https://www.inferse.com/756889/datatrue-launches-privacy-leak-detection-supported-by-microsoft-ai-microsoft/"
+      name: Impacts
+      domain: techbullion.com
+    quality: 7
+  - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
+    publishedDateTime: 2023-10-16T11:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/16/9898795.htm"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
-  - title: "Microsoft and Epic expand AI collaboration to accelerate generative … – Microsoft"
-    excerpt: "Eric Boyd, Corporate Vice President, AI Platform, Microsoft Today, the promise of technology to help us solve some of the biggest challenges we"
-    publishedDateTime: 2023-10-16T16:11:00Z
-    webUrl: "https://www.inferse.com/757622/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-microsoft/"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "Profet AI, the leading provider of AI applications for the manufacturing industry, announces pivotal partnerships in Southeast Asia, marking a new era in AI-driven industrial transformation. After a successful venture in Vietnam by Crossover Talks,"
+    publishedDateTime: 2023-10-16T12:17:00Z
+    webUrl: "https://www.asiaone.com/business/profet-ai-achieves-significant-milestone-southeast-asian-expansion-macrovention-and-ampos"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
-  - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
-    excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
-    publishedDateTime: 2023-10-17T11:58:00Z
-    webUrl: "https://www.inferse.com/759103/introducing-roybot-roy-hills-innovative-ai-tool-boosting-employee-microsoft/"
+      name: Asia One
+      domain: asiaone.com
+    quality: 0
+  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
+    excerpt: "Jonathan Yu, Global General Sales Manager of Profet AI, expressed, \"Profet AI has been committed to providing innovative AI solutions for global manufacturing customers, aimed at enhancing production efficiency and reducing costs."
+    publishedDateTime: 2023-10-17T02:42:00Z
+    webUrl: "https://www.newswit.com/en/ifixepk8qnlv5zjg3yhsclyoz5x9fl7y"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
-  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
-    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
-    publishedDateTime: 2023-10-19T19:18:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 20
+      name: academy
+      domain: newswit.com
+    quality: 0
 
 secured: "3umQ3JJx+Add3zeePcE71o8lNOZma/3sxu5wZILRaWeodXoLH6Sg+LygH6PxOS/wDHQ5M67l2q26XHTK619fZ9JuoFmwqyCClq7jhclayc0ajD1PLZVEB/u/i35nGdbfh9nNmBa3B46V0U5Rw2//J2IVocqDUMGo9LYO2DD4fObiYZG6iVZwnYX53GV6HRuY8nI3ORTxcJbC5Xk/Zn5l62yLeHLtFALen3qPSU4FVwKbZ+mnt1JMqqRL+ewI+MF/2qXDO+Fb+1KoEjjMOiQEbISt14d7w1RSw2CfYgFHE+IdBcH4VghX93G270QMNbxENWQ+dAdbr/gxkTPxuHgiD94PekXLI3Ekt9vXzDfcnE0=;dWmsglFdad8SYSYHPWlNEg=="
 ---

@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2023-09-27-will-google-deepmind-ai-help-or-hinder-humans.md",
+      "title": "Will Google Deepmind AI help or hinder humans?",
+      "excerpt": "Torricke, Head of Global Communications & Marketing, Google Deepmind, explored how AI can help solve humanity's biggest challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibc.org/video/will-google-deepmind-ai-help-or-hinder-humans/9964.article",
+      "originalUrl": "https://www.ibc.org/video/will-google-deepmind-ai-help-or-hinder-humans/9964.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/5/2/4/25524_willgoogledeepmindaihelporhinderhumans_684313.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBC",
+        "domain": "ibc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-chemists-used-machine-learning-and-molecular-modeling-to-identify-potential-anticancer-drugs.md",
       "title": "Chemists used machine learning and molecular modeling to identify potential anticancer drugs",
       "excerpt": "RUDN University chemists and colleagues from China built several machine learning models and discovered a group of potential drugs that inhibit the enzyme responsible for uncontrolled cell division. The results were published in Biomedicines.",
@@ -995,49 +1038,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions.md",
-      "title": "Infosys and Microsoft join forces to drive AI-enabled solutions",
-      "excerpt": "With this collaboration, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities. Shares of Infosys Ltd ended at Rs 1,461.65, down by Rs 13.10, or 0.89 percent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/04/Infosys-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm/amp",
-      "publishedDateTime": "2023-09-26T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

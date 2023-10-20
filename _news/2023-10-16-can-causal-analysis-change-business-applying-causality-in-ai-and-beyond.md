@@ -9,8 +9,8 @@ ampWebUrl: "https://diginomica.com/can-causal-analysis-change-business-applying-
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-causal-analysis-change-business-applying-causality-ai-and-beyond?amp"
 type: article
 quality: 58
-heat: 58
-published: false
+heat: 78
+published: true
 
 provider:
   name: Diginomica
@@ -25,6 +25,36 @@ images:
     width: 1233
     height: 850
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
+    publishedDateTime: 2023-10-19T15:09:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 39
+    images:
+      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
+        width: 840
+        height: 449
+        isCached: true
+  - title: "How Small and Medium-Sized Businesses Can Thrive in the Digital Age Using AI"
+    excerpt: "What if we told you that AI is also effectively transforming small and medium-sized enterprises in this digital age?"
+    publishedDateTime: 2023-10-16T15:04:00Z
+    webUrl: "https://www.talk-business.co.uk/2023/10/16/how-small-and-medium-sized-businesses-can-thrive-in-the-digital-age-using-ai/"
+    type: article
+    provider:
+      name: talk-business.co.uk
+      domain: talk-business.co.uk
+    quality: 36
+    images:
+      - url: "https://www.talk-business.co.uk/wp-content/uploads/2023/10/shutterstock_2252763175.jpg"
+        width: 1000
+        height: 510
+        isCached: true
 
 secured: "dm+2iRU6aaCiRIiMNzHSkuUrk+DNnZZnRTCkqGeO/vV9DZhWJLMrJmrVq2s6iHfIaV1M9lDIZtWtd8u6O0xQZztXuyfiAJ1kq7xQuQKNbbvEpaFA9DS3j0gV8xOgw0b0VHAT2sqNvy6CPfqw0XEm6vIYro7Y3ayNuDBvelKO4fvdwYeMkeldLTtyGnk8n79+VSjKtA6kkg7JyhHAUJ6K5+pYG50RvSZI2khUPrdJq9yE/X9Yjn8onCkT5dn56KUcGdLz1iFgvwjfJtQlpaLa7+jPtfmtzK0Hi2Gl4LoSrIf5rAm/kGXw+qbIhnoDiNQdLRnPlWbpvYAYspVZ3YqCpnseGwGkLE36GwVwCKGr8nw=;MghLu2KiFsU/R7FnpmoG4w=="
 ---

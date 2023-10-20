@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-intr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2021/08/quantum-brain-control-artificial-intel-e1628696856200.jpg"
         width: 945
         height: 532
+        isCached: true
+  - title: "Neurxcore Introduces Innovative NPU Product Line for AI Inference Applications, Powered by NVIDIA Deep Learning Accelerator Technology"
+    excerpt: "Neurxcore, a leading provider of cutting-edge Artificial Intelligence (AI) solutions, today announced the launch of its groundbreaking Neural Processor Unit (NPU) product line for AI inference applications."
+    publishedDateTime: 2023-10-20T10:32:00Z
+    webUrl: "https://www.design-reuse.com/news/55057/neurxcore-npu-nvidia-deep-learning-accelerator.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 22
+    images:
+      - url: "https://static.designandreuse.com/news_img2/homepage55057/nb.jpg"
+        width: 1180
+        height: 648
         isCached: true
   - title: "Alluxio Unveils New Data Platform for AI: Accelerating AI Products' Time-to-Value and Maximizing Infrastructure ROI"
     excerpt: "Alluxio, the data platform company for all data-driven workloads, today introduced Alluxio Enterprise AI, a new high-performance data platform designed to meet the"

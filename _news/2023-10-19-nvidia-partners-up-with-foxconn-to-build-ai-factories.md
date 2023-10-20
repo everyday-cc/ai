@@ -187,6 +187,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Gcore launches generative AI cluster with Nvidia GPUs"
+    excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
+    publishedDateTime: 2023-10-20T11:29:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/gcore-launches-generative-ai-cluster-with-nvidia-gpus/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/DGX_A100.2e16d0ba.fill-1200x630.png"
+        width: 718
+        height: 377
+        isCached: true
   - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
     excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
     publishedDateTime: 2023-10-17T12:45:00Z
@@ -218,6 +232,20 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jensen-Huang-and-Young-Liu_2.jpg"
         width: 1229
         height: 819
+        isCached: true
+  - title: "NVIDIA AI arrives in Oracle Cloud Marketplace"
+    excerpt: "“We’re accelerating our mission to infuse AI into virtually every academic and research disciplines,” said Thenkurussi (Kesh) Kesavadas, vice president for research and economic development at UAlbany. “We will drive advances in ..."
+    publishedDateTime: 2023-10-20T10:54:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/NVIDIA-AI-arrives-in-Oracle-Cloud-Marketplace.jpg"
+        width: 1280
+        height: 678
         isCached: true
   - title: "How to Capitalize on Generative AI"
     excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"

@@ -38,6 +38,22 @@ related:
         width: 7642
         height: 5097
         isCached: true
+  - title: "Alibaba, Tencent and other major Chinese backers invest US$342 million in start-up Zhipu AI as this tech sector sees increased funding"
+    excerpt: "Zhipu AI was built on the back of research from the Knowledge Engineering Group of Beijing’s prestigious Tsinghua University. The start-up’s chief executive, Zhang Peng, graduated with a PhD from Tsinghua’s computer science department. Beijing is ..."
+    publishedDateTime: 2023-10-20T11:54:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 55
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/20/e2086e00-778f-4434-9d55-aaad50d7f5da_762ea11f.jpg?itok=ke8UV4JE&v=1697802747"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
     excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
     publishedDateTime: 2023-10-20T05:57:00Z
@@ -159,6 +175,6 @@ related:
       domain: infotechlead.com
     quality: 13
 
-secured: "OiCBY1AgRzAaKgfQ0r+MWdaVdf8MzAsuMZR5PpXsi/Vz89GizqjKBgwbQ6nZdJpfpbDhOitKDVPbDHLoL5MjB9CaWEZyFyspgqTfQxAE/B9HRwg2znWIzmRkoLOFAB890rVtiehXnhVcqAQouCJGnzERa0xvDLlE+axKNfgR2zB26vjAMfRXGJFdI3Oc807Qn/Ij2KJEUpCusN6dDMvdXvn/wb1eY/kuLRJfcJx8Zz2qFNr1xUIcVzV2oLHz6nIhOcDhEuh0Y2RPjDIEte+J8HlljmY0ulrOJSwLHArV9ggyi+d77r6GZJ/P4FNwiyeRPi7R4lvO1jU/Yv6l7T37TlqDxT0W5RB2cN8eO3GdR8M=;wIaqwOd7Dt23ACMtzLce4A=="
+secured: "HErXzFZMrogPyzFbLuCbNttwc3qn2iZ8fY95g4GL4ocnStaQ+a5ge8w/6jfpzWCXdnf4DQXmJXJIEzpqeA0aNyuLfvwk2pw7qUY1JddJOdI68lGHf3hToN7BON/HgcjJ7l2t1hgWL8+k4o6eKY01D8dsxQ0sG4jYcfQzMAPhXIMiMn+3HtM1EoUGCeYuHvstpx3nNFctndmb+qbdP2s5h67hd4itTjClSNA24TswJ3BW31R9qT6bLq6wiNmtMOrVYv94xlo8fewBQSWMIO++QJnxRAU2xDTo/brERMa3lfVr+Xw1UNRIXM0qBxNesNkiOIhCqN2T3wkIPMzSxXp+CaBs0gS0ZCYjs5IMaUGGIKS/Rq6GL19559COVpvcaodl7FJK1gw/w4sxiqA073pYJbr4ad8HdjbgVwKwU5S8rcKCVm0PHScG0xkwVVj4W+VKZahNosVyp+AZCw/rlZGatJUyRuLVBSznyD8WTr73D5uQstimy5gSdCQw7njNT1bsGX1/Ux8joN7qiH3frNqNoA==;rArjI+1Ztmr0MAntPGU1Vw=="
 ---
 

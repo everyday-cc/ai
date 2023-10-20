@@ -42,15 +42,29 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "AI Is Taking Customer Relationships to the Next Level"
-    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
-    publishedDateTime: 2023-10-17T17:15:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
+  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
+    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
+    publishedDateTime: 2023-10-18T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
+    images:
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
+        isCached: true
 
 secured: "gTBx+h+i0QQrPWmqEDeIucUSto7Okxd481BCFUmW/Edka9vOwshY2Y7V1BPPahvJB28HH9D+/O5tjC5nxDkRpmkt+L2dcEVAK/mGesjQVQ66TdApOIPkoEjYJ3vb5WwT9m7loY0vTWz/brTqcNb7L20OCwcaz3+3BiJHTz1Ijl0QYM/PsGKRKgIMVVcdlnoReqUa1CBri2dQbZYry1tGZQBsUQiZlTqBusYioBMEXnjFjp86n3+GrZA3c9v1R2whbtcQJvyoa5w8UIF59k45K3x3A9GYyM7FOiD0HtLLqNw4yIj3lrhZuPDOiKKS5hGK8FXeSnwCL5Q19D8szSJGuUIzQZszvCTMlFR0AIyI7Uq4X9siEFkLxbGgxlKWr6kkuqfhvclYEw5geImOX4Ea1QwLVLwPuTye60SlsnNBWg6yCd86HjYWK9vf4JpkjkEdh/oaT4KIZzU3UC53l8kCQXTR+bnMo3sWcpkwD14owa/fJGkA16U8QjVaeAv8XGvD70YF7+oZ95csEzNsFLT9Og==;2VTdUMNsUM7ZIY8OzBByxw=="
 ---

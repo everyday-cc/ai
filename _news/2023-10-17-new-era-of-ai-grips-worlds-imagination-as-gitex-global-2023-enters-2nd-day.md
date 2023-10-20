@@ -69,15 +69,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Gitex Global: UAE Start-Ups Explore AI, Agritech, Sustainability"
-    excerpt: "The UAE start-up ecosystem has been witnessing a diverse portfolio of new firms over the past few years, diversifying away from the e-commerce secto"
-    publishedDateTime: 2023-10-15T18:46:00Z
-    webUrl: "https://menafn.com/1107243312/Gitex-Global-UAE-Start-Ups-Explore-AI-Agritech-Sustainability"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 17
 
 secured: "mMcbgdhp9TrCesuZYFBMEmHlb8EVRJL8vTMMjTGq4OKHfPMSR2CBeXeeNigH1pSArMTyjmBWJt6Yn3R6jSaNYyyWWgavxul8/fJ5QQJFKiAfLEq+B02moxNG2GgextabyIuqglegrKPsQjsntX2wXuTNbEITwcYyW2QMrNhYRN/HyZQR3rI04nCByaPG+ZCwB1d5O8qIFKn8lrwIqfLpjIy21KC/mSfmwabS2WqCMiUFSKe4C0iiBqP/crz+WXOD1S5gpp8kp4xshAjA5pEp4hJYOEKZgKtXGW0MpFfvr2xaDUIRfb/nDfpy9Xgshaz7jRwBlrPg4F7qZGau/7cJqW43BkvM7ZOXb1DF/g8jXR0=;kE3fG+UVi2oZjuq0alVOXQ=="
 ---

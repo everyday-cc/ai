@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,29 @@ images:
     isCached: true
 
 related:
+  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
+    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
+    publishedDateTime: 2023-10-18T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
+    images:
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Eight good news stories about AI"
     excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
     publishedDateTime: 2023-10-19T08:06:00Z
@@ -45,15 +68,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI Is Taking Customer Relationships to the Next Level"
-    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
-    publishedDateTime: 2023-10-17T17:15:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "i+bC+igDFUCgoFSpFVv2hga7QP/6TTZD/qXTVFghlsGu3L+LMtGmTzohQQTQhlOfdaYd5got58I3CxoawLEHVH3PLJ7RoizUs97ybA5hRAGSGfA+EGwvz3DxIpagnCe08UrnrF5Tny2+OXPMfKnBNhf8Jn4l1qLdqBgHOZnM3B+22Wwcz1wMmblqIw0Q9S1GkLkOPnMmjizXuMbAjQCf8jZ0z52Pxu8cKKw+jvQ7hZif94qBnOBATftq3O9O6VJqWy5ZSsdQ9Q6gGxbPMGiapA5VwfgoH5J2DF+b0RAzLO4UnKXdANpz22/nWJG5cAK3bX/He76izFH5AkIqibVaCjYWcH+N4gc/ZHAuuw2ILteE0qdoq3TdGhQ997AnJujwxJOutq/Bjh96UluzcUVD6NUQVp4reO72TJse4tu9760f2ocC5zfAPHzRjzZdJMIuAthIafI+ss99c7Ftm6ML2Zztsip1AQ7jP3LPi6ta1g21m/MZcIyqB1wW/2BsodF++Q9KYop5OkO374kPPsstLw==;5aL+Galnk30XWr3K021fmQ=="
 ---

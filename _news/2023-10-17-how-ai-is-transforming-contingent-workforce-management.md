@@ -30,77 +30,61 @@ images:
     isCached: true
 
 related:
-  - title: "An Example Of How AI Is Changing Marketing"
-    excerpt: "To learn more about how AI is impacting marketing, I talked with Ryan Coyne, CEO of Starboard, who has particularly rich insight on customization and marketing."
-    publishedDateTime: 2023-10-15T17:34:00Z
-    webUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/"
-    ampWebUrl: "https://www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kimberlywhitler/2023/10/15/an-example-of-how-ai-is-changing-marketing/amp/"
+  - title: "How To Embrace AI Intentionally To Grow Customer Engagement"
+    excerpt: "As AI adoption accelerates, brands have an opportunity to shape their future with an ethical, optimistic human-centric approach."
+    publishedDateTime: 2023-10-16T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652c20fe84b2025b759668c6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1352
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Shedding light on AI bias with real world examples"
-    excerpt: "Examples of AI bias from real life provide organizations with useful insights on how to identify and address bias.\nThe post Shedding light on AI bias with real world examples appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-16T15:55:01Z
-    webUrl: "https://www.ibm.com/blog/shedding-light-on-ai-bias-with-real-world-examples/"
+  - title: "How To Help Your Customers Trust AI"
+    excerpt: "According to a 2023 Dentsu report, over 70% of customers say brands should disclose when they're using AI. Tell customers how you're using AI in your business. Are you training your chatbot to give more empathic answers? Gathering insights to improve your customers' experiences? Be specific about what tasks AI is doing for you."
+    publishedDateTime: 2023-10-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Zib Digital Talks About AI-Driven Digital Marketing"
-    excerpt: "AI driven technology is having a profound impact on various aspects of digital marketing, from content creation to personalisation,"
-    publishedDateTime: 2023-10-16T07:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/zib-digital-talks-about-ai-driven-digital-marketing-1032706168"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/JrhKakX8mhdHWEedVM3ddoCfgoG3/89110425-1697426395-1.jpg"
-        width: 800
-        height: 267
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b06f007993cd0655ee1983/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 400
+        height: 223
         isCached: true
-  - title: "Keeping an eye on your cattle using AI technology"
-    excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
-    publishedDateTime: 2023-10-17T19:40:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/keeping-an-eye-on-your-cattle-using-ai-technology/"
+  - title: "Experts want nurses to embrace AI in the workplace"
+    excerpt: "Artificial intelligence (AI) is slowly making its way into many professions, from personal training to marketing. It shows special promise in health care, but experts say buy-in from nurses and other clinical professionals is key."
+    publishedDateTime: 2023-10-18T20:21:00Z
+    webUrl: "https://www.ajc.com/pulse/experts-want-nurses-to-embrace-ai-in-the-workplace/VGMVZFMMWRBVHLI3KVHN7CHBGY/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
-  - title: "How Artificial Intelligence Is Changing Business"
-    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
-    publishedDateTime: 2023-10-19T15:09:00Z
-    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
-    type: article
-    provider:
-      name: thesiliconreview
-      domain: thesiliconreview.com
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
     quality: 39
     images:
-      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
-        width: 840
-        height: 449
+      - url: "https://www.ajc.com/resizer/-X7c1MZU7RsgHwvTqKEaiJBg4sM=/1200x630/d1fegwn2wjh0cs.cloudfront.net/10-18-2023/t_449e558a60fa4d839b1b5c29b3f7f134_name_646904ed83ff4a95b097e8c1848d81b8.jpeg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
+  - title: "Prescribe Nature AI Introduces Groundbreaking Artificial Intelligence To Amplify Outdoor Engagement"
+    excerpt: "New Digital Platform Champions the Numerous Advantages of the Outdoors Using Advanced AI ToolsPrescribe Nature AI introduces a pioneering service of custom trained AI aimed at enabling health professi"
+    publishedDateTime: 2023-10-18T13:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35307899/prescribe-nature-ai-introduces-groundbreaking-artificial-intelligence-to-amplify-outdoor-engageme"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "TGYPooc5XpErYOVmk8ScVGK4kdxgGwTlnqEIlNXYJFU8tYFUH3yTSgnUx8bwdkkO2PsdyOqeF9agyiVxXxNynkik9N6wZM6RYlm3x7G6LpcBzKhTjezN8IoHvKi3GVoNAq73MLD4KEog3mP4LEmsMXDgCDzhXjwPrc40O7C3HPfZC75E6zW9Eh98St93L4TclrE5XczN2zAquf5g7GhfSCfBcifsDCYIUdMRGDEfmMnC4hHc3MchJpukygZH4c2rRFdf+xbBn/dTfsyOSXIKut0vYmvqBaB1L5gw24KP/R0om0BUPz6XLKTgHe27D32qTnjwVdzsA4T2iE5+unmq46wRLCReBe3xkoA+YCClnDE3nRLmiV58+99DIZkLViP97mgGggI5zEh7R+GVEibMbQHMBdfMKeEa6cm0Vax6ZUoV6+wDZ9txIWxFL01FeO0YG0c+l4fs6qbp7NhDss6bXypE4tsD/YSxTqCpQ2CTEX43P1xcneuT6xuCFQyucedI6LnlYQapWm9b3AV+uC8BKg==;zkx3JZCJc0pKx4swQyi8CQ=="
 ---
