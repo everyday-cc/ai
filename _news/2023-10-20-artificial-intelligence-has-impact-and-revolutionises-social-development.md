@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Navigating The AI Revolution: Transforming Professional Services Firms"
-excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
-publishedDateTime: 2023-10-16T12:30:00Z
-originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
-webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
+title: "Artificial intelligence has impact and revolutionises social development"
+excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
+publishedDateTime: 2023-10-20T02:31:00Z
+originalUrl: "https://www.pressenza.com/2023/10/artificial-intelligence-has-impact-and-revolutionises-social-development/"
+webUrl: "https://www.pressenza.com/2023/10/artificial-intelligence-has-impact-and-revolutionises-social-development/"
 type: article
-quality: 49
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Pressenza
+  domain: pressenza.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://cdn77.pressenza.com/wp-content/uploads/2023/06/book-catalogue.jpg"
+    width: 360
+    height: 203
+    isCached: true
 
 related:
   - title: "The Chatbot Revolution: Transforming Healthcare With AI Language Models"
@@ -55,6 +56,15 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
+    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
+    publishedDateTime: 2023-10-16T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
     excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
     publishedDateTime: 2023-10-18T08:41:00Z
@@ -82,20 +92,6 @@ related:
       - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
         width: 611
         height: 458
-        isCached: true
-  - title: "Artificial intelligence has impact and revolutionises social development"
-    excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
-    publishedDateTime: 2023-10-20T02:31:00Z
-    webUrl: "https://www.pressenza.com/2023/10/artificial-intelligence-has-impact-and-revolutionises-social-development/"
-    type: article
-    provider:
-      name: Pressenza
-      domain: pressenza.com
-    quality: 36
-    images:
-      - url: "https://cdn77.pressenza.com/wp-content/uploads/2023/06/book-catalogue.jpg"
-        width: 360
-        height: 203
         isCached: true
   - title: "NYC announces artificial intelligence adoption framework, AI chatbot pilot"
     excerpt: "Artificial intelligence (AI) has made headlines in recent months for both its potential to advance humanity and for its possible pitfalls. From automation and chatbots to self-driving cars and facial recognition,"
@@ -125,6 +121,6 @@ related:
       domain: law.com
     quality: 8
 
-secured: "DLl+uxfsOaDEjKSMueBvAxVi/b8P4/F57sQgiUD6TNbcaOrP9sxC7Fe+uOmM+8Xj3JZ/e+09ulzcZ0STLejvyBaHuirf3lH4vnCp6sp3n9Jnse6nB1esXFn62Xp/dt0HSk4nTaLsnvve017sPsohOQdo41pB0vQ7POHQvIZqnuDAwpKAqyGW4VjrcbiiX9ndfhXSPzoBPcEP299/JuaYAyA0MkaLKWo/aBeukd7e8i0fytmsqq9jzv8TeQIn7wTT9zJ0wocyuKZ4gpBmhSARslnnVVajZrWQfL7tlkRC3kKfJE+zUnGb0oPDbRSpZXABxfZd9oOH/s3vyy/gJJw24H9oP/Dn0miAZdY/dieo/uwonRcOMPl6X6yMCbWdMtgS23TUUskVtzEwIeFn01j/BaQg0/YK41LFAn1i9IZDMDWVDbreCOcb1ndBw2mGl4PvpixqRB3zcBoo09bLeHHD9D6pgYWWjtp9MrUeEupA5wVBiuLFf34Nyh29fz8XGwI+CNZNgsw3PrbewZWKxkbUKA==;At2J+itpuDTZguO/xFBJpA=="
+secured: "KOz6Gv2g8hAb1DVGIJJRIWnZPmGXBCfjRRH22sxue6/yGKmyG+tKlVdCXB5+m540MTVs+S+cHW445weiiJPAMZyxcPPmZ/993PuWpQXA1dxt0fhalwoQw9yUn/7KYjlMMgBb/GInS2phU+yidYrhwz6ktfU9YMCG6BSKJ7b470dV4NSSyUf/jTatcI9b86gLt6HDFivu/96lJ1Nsf+xD5ZmVZGIc+pPAzYzV2Y7JnH/ExqsmucBvaLTtMb/AWx+54cXd1Bsy2prhvmIfY7+h4hMsDioC19HqQWYkMLNuVu2Xzt4VZvKEdZtZlAP4n8HyjnFaIyI9B1+TCQLQJ+S0Xn07NX9vJV5uOli1D3EnJN0=;8Vs8t6d5u1eQc1TkOZy6HQ=="
 ---
 

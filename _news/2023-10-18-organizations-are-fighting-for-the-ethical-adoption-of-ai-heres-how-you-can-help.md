@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/organizations-are-fighting-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
 type: article
 quality: 98
-heat: 161
+heat: 162
 published: true
 
 provider:

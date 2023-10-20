@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-rade
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Alienware m18 gaming laptop: first with AMD's new flagship Radeon RX 7900M 16GB mobile GPU"
+    excerpt: "Alienware's new m18 gaming laptop is the first to feature AMD's new Radeon RX 7900M 16GB mobile GPU, and with an AMD Ryzen 9 7945HX mobile CPU."
+    publishedDateTime: 2023-10-20T02:08:00Z
+    webUrl: "https://www.tweaktown.com/news/93902/alienware-m18-gaming-laptop-first-with-amds-new-flagship-radeon-rx-7900m-16gb-mobile-gpu/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 29
+    images:
+      - url: "https://static.tweaktown.com/news/9/3/93902_405_alienware-m18-gaming-laptop-first-with-amds-new-flagship-radeon-rx-7900m-16gb-mobile-gpu_full.jpg"
+        width: 1500
+        height: 1124
+        isCached: true
 
 secured: "jGlalPGoiJ4sO7m+Al4Rt4UdWFxP5+/DrC7VudqtxmHvI8SpGvtUDGQsbTRy12+VzWOcjkIvDHfE11bUsaWroOXqkcVC7sq4C8Q1K34MwRkO86b0LHd5twKZIJqcKOf1/y2TFlolz3LGeLp+F4qr/y5I1TmPy5IE27e92S+HFe2JNhzbat32k1IMxrLcJyhrgmm6YRxHfRfFL+tvtQmlBE41yE5g/uPABYyetC27MQDMYm8NgzbzhLnT7xvLUiOuTkXa24cfqKGlyuTcNo6CH83pWp1v320LIBnmc+V/arHMicqf0otKKdv1/Jl5NJwhAjTnAmtQuDGmFUVbaSPa7PLMFttTj+MgvskoJTjMrUw=;NmM6R/AwxsmD7iidnLsVKg=="
 ---

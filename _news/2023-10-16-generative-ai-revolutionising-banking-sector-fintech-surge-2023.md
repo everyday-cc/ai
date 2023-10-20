@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/generative-ai-revolutionis
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0?amp=1"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Minding the SME gap using fintech"
+    excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."
+    publishedDateTime: 2023-10-20T02:52:00Z
+    webUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10"
+    ampWebUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 44
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
+        width: 859
+        height: 573
+        isCached: true
   - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
     excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
     publishedDateTime: 2023-10-16T11:27:00Z

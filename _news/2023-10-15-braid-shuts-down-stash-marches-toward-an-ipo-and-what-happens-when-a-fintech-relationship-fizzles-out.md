@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Arab Fintech Forum 2Nd Edition Concludes"
-    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two-day summit, offering a deep d"
-    publishedDateTime: 2023-10-15T09:27:00Z
-    webUrl: "https://menafn.com/1107242133/Arab-Fintech-Forum-2Nd-Edition-Concludes"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/15/TP_e45b5image_story.jpg"
-        width: 1200
-        height: 832
-        isCached: true
   - title: "Applications open for Fintech Innovation Lab NY 2024"
     excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
     publishedDateTime: 2023-10-19T15:19:00Z

@@ -38,6 +38,20 @@ related:
         width: 1300
         height: 866
         isCached: true
+  - title: "Understanding Artificial Intelligence in schools to help students with learning disabilities"
+    excerpt: "University at Buffalo’s Institute for Artificial Intelligence and Data Science showed up at Grand Island High School to explain how AI would benefit students with learning disabilities."
+    publishedDateTime: 2023-10-20T03:39:00Z
+    webUrl: "https://www.wkbw.com/news/local-news/understanding-artificial-intelligence-in-schools-to-help-students-with-learning-disabilities"
+    type: article
+    provider:
+      name: WKBW
+      domain: wkbw.com
+    quality: 28
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c35cc7e/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6c%2F86%2Ff0b885114127b10e44cb092ae369%2Fweb-ai.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iZHtUQRUY0KjZ2YKvcaN5DFwIc2ZaMTgkiiGEjZ6kOjU6uJGXCANSDr+lb/+tjiJK2I78ETyLryhPVWbwDscOqoHgEwROkqhdE5LLlDkk0/PoQJ3atu76tzMTUU2/9F0CeTS8JuWgHllBox7ymivKhu3YG+iaCsygY3AETUijUHGP6JKe48YJ07GFfCxPqzxPgKLxndz4UysHpVIOSJd8k/5dqb8rUpwrqTAfDRvKtHWVSqKrjhWlTx1Mr3h8U7ZRNx8GPlZEAS/hPg7PYq5lbvCGnn2ChkF1Yk4+IkVJCHJhIlrVmbhfN0CILnOLD8mzqfNoAmMOa0HFwmlJqFP0FHd1hFtaPgyqLB/ySZtdwA=;StJjQxeOeWVtUkMKTbk5dg=="
 ---

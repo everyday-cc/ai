@@ -36,22 +36,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How stores are spying on you using creepy facial recognition technology without your consent"
-    excerpt: "Well, guess what? They are. That's right, some of the biggest retailers in this country are secretly using sneaky facial recognition technology in their stores. Facial recognition technology is a ..."
-    publishedDateTime: 2023-10-15T10:56:00Z
-    webUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent"
-    ampWebUrl: "https://www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/stores-spying-using-creepy-facial-recognition-technology-without-consent.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca26886f-5711-4159-9b16-f3d02cc8e509/24f16d92-343e-4303-ba2a-681a026cc44c/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Met uses facial recognition to crack down on prolific retail criminals"
     excerpt: "The Metropolitan Police has announced plans to use innovative facial recognition technology to identify London’s most prolific retail offenders."
     publishedDateTime: 2023-10-18T23:13:00Z

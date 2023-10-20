@@ -1,30 +1,20 @@
 ---
 category: news
 title: "DeepMind Looks at Ways to Make AI Training Less of a Power Drain"
-excerpt: "Learn More DeepMind wants to trim the fat. Google's AI arm filed a patent application in recent months for a system to allocate computing resources... For more crisp and insightful business and economic news, subscribe to The Daily Upside newsletter."
-publishedDateTime: 2023-10-12T16:01:00Z
-originalUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/"
-webUrl: "https://www.fool.com/investing/2023/10/12/deepmind-looks-at-ways-to-make-ai-training-less-of/"
+excerpt: "It's completely free and we guarantee you'll learn something new every day. DeepMind wants to trim the fat. Google's AI arm filed a patent application in recent months for a system to allocate ..."
+publishedDateTime: 2023-10-12T16:30:00Z
+originalUrl: "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain"
+webUrl: "https://www.nasdaq.com/articles/deepmind-looks-at-ways-to-make-ai-training-less-of-a-power-drain"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/750756/featured-daily-upside-image.png"
-    width: 3000
-    height: 2000
-    isCached: true
-
-secured: "ve7cb47ZeKLdzGDvsqqpz6tRf0uBtxBuhRgmLAH70Lnjv4Kza4bc59sPuIB+veNeOGrWuWBlwkBJrdG8+jKnn2O/oaMvMJ7GmapPSzfNaSTwc1mKSdALJhwgEmEzUXPH3/p71x9UM5dq1PqLa5Rt6eMlGoZhJdtbUH35tjYKxW1X84npbmIf5qG33unJVR5YR1MZiWybCuxsnyB31IiFRMn9ljd2tCnEudOIebtXU/c7DtVdBjS8kboZlH/Kh3xOEYRdb6hiHQm80CUk4CowHf0/ClJKFiR8FEIHK9pU6oqcKWD9Y1w2XFjBubuX10u7dgxe3ndPp5QWw9NQ5irFhyubV/l+wY1op2Dz+hUMct0=;ejvuVbF1Uzb5HfKlAQY+9g=="
+secured: "w8HbiQ1DO+nmfhIZ89VC84MwpOOp+Gayp78NVsmJycci7M1LVcprFkTesA6qBn+tbPSJ11NbE+noebkD6pGrbIzTY3uongXr++AVAqiC9anOmrEtoyXrBmnvT3I06BoNecrIF5e3WHe2rBImDIppTcCQX7pFjRms5CJrRXp80pqB5H1ftX68AKAl/cG/xy7iLL/cjxkHK1vueJuRJtcR/DFnUGb9ap7YZN5HBE5y/QgbZW91KCKDrO9om2qd2jGg5WZgOa8h1R7qUUs1RmiqGKHg8/sQh/Ub0BkrImpZ/OBzrFmXztGvUHb7gbEVExQ+qT7SyvT3nUASc0pGDCnaBGFk1gzaSZiL+3kovNpfgOo=;cdU8DjydJrMOhuw+lh6Vhw=="
 ---
 

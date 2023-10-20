@@ -88,6 +88,20 @@ related:
         width: 611
         height: 458
         isCached: true
+  - title: "Artificial intelligence has impact and revolutionises social development"
+    excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
+    publishedDateTime: 2023-10-20T02:31:00Z
+    webUrl: "https://www.pressenza.com/2023/10/artificial-intelligence-has-impact-and-revolutionises-social-development/"
+    type: article
+    provider:
+      name: Pressenza
+      domain: pressenza.com
+    quality: 36
+    images:
+      - url: "https://cdn77.pressenza.com/wp-content/uploads/2023/06/book-catalogue.jpg"
+        width: 360
+        height: 203
+        isCached: true
   - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
     excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
     publishedDateTime: 2023-10-16T13:00:00Z

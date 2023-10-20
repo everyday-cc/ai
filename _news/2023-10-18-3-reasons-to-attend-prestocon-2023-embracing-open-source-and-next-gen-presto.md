@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/3-reasons-to-attend-prestocon-2023-embrac
 webUrl: "https://www.ibm.com/blog/3-reasons-to-attend-prestocon-2023-embracing-open-source-and-next-gen-presto/"
 type: article
 quality: 99
-heat: 99
+heat: 102
 published: true
 
 provider:

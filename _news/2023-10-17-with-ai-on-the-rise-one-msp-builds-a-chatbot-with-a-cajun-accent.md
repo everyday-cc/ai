@@ -79,6 +79,20 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Artificial intelligence has impact and revolutionises social development"
+    excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
+    publishedDateTime: 2023-10-20T02:31:00Z
+    webUrl: "https://www.pressenza.com/2023/10/artificial-intelligence-has-impact-and-revolutionises-social-development/"
+    type: article
+    provider:
+      name: Pressenza
+      domain: pressenza.com
+    quality: 36
+    images:
+      - url: "https://cdn77.pressenza.com/wp-content/uploads/2023/06/book-catalogue.jpg"
+        width: 360
+        height: 203
+        isCached: true
   - title: "NYC announces artificial intelligence adoption framework, AI chatbot pilot"
     excerpt: "Artificial intelligence (AI) has made headlines in recent months for both its potential to advance humanity and for its possible pitfalls. From automation and chatbots to self-driving cars and facial recognition,"
     publishedDateTime: 2023-10-17T19:36:00Z

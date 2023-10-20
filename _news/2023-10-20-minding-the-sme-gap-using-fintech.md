@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
-excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
-publishedDateTime: 2023-10-16T11:27:00Z
-originalUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
-webUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
+title: "Minding the SME gap using fintech"
+excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."
+publishedDateTime: 2023-10-20T02:52:00Z
+originalUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10"
+webUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10"
+ampWebUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
 type: article
-quality: 39
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: IBTimes UK
-  domain: ibtimes.co.uk
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://d.ibtimes.co.uk/en/full/1720247/fintech.jpg"
-    width: 1920
-    height: 1280
+  - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
+    width: 859
+    height: 573
     isCached: true
 
 related:
@@ -41,21 +43,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Minding the SME gap using fintech"
-    excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."
-    publishedDateTime: 2023-10-20T02:52:00Z
-    webUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10"
-    ampWebUrl: "https://www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/smes/finance/minding-the-sme-gap-using-fintech-dci6ab10?amp=1"
+  - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
+    excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
+    publishedDateTime: 2023-10-16T11:27:00Z
+    webUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 44
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
-        width: 859
-        height: 573
+      - url: "https://d.ibtimes.co.uk/en/full/1720247/fintech.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "Fintech chiefs raise AI regulatory fears in Parliament"
     excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
@@ -132,6 +132,6 @@ related:
       domain: techbullion.com
     quality: 0
 
-secured: "F01F8vHqyK1Sb39+BCmdLhop2ilTzMVoYWkkPDqnbTE+IBXxLKfSRcoh9xkq7QYIxLa0S2Mn+AIZk2Cw8iUmah5B6DYldzIuz5vT/SQ7ldhIjZJXEqrzVF8myl9DV4rKbCyrgeKHVy8t+jqntlNOJZoxwRWp+Okrto4fosgS2BOEF65AAxiUGw5JNjcQJ8Trcqw+MeXlKwvXilSngex7RwLLXzBujFxOmZsBlh6jPsGKXUoom7OdBw10BC2bpOt2P7RglUTSxYMI6k6D8/ZvgaPSJUVbjJ+fBNOe8YQ7yuhq9POgQ3Gl+eWeYKzz6/IpbnTiuH6IMTPRquWwPnZw2XLgGJTdwK/hFZZwOlj96Q7MKBzanF9pQh1TvQTYRFpGPRhn5N+1lxvZdko/jc+5lbxlleD0x0xw+KGs5EZy/cOfkR7A/Pzh/T/5Ph2n7ewMYV4G6F9eWiDHfxePW06Zmkn2OoOz5DM7ht0wnzKUccAWC1B41xI2Orl+IywUpl7+0/QLxI1NelWZUX5oeD+5lA==;hF5dVEM+5crYULtmbyDZ3Q=="
+secured: "xHjJzUINQeY7kK0F7qVPkq/OEBMiojmwJdERkgHGMv4v4YktfajRgBXCuuwIAAn6NOcmqyU3RnxJwKwEzVHCjSBYMZS9QCJDa8+gHLygMafH9eCFDdO1hul0dseFSPcnSeDr+uUfbkvVepM9KKoP2vJAfuHJqt597HmtUcucO3+vdgenRDRk/VPfAWFwnUynPGGHpvjlkg81shC9eKGIC5ZiJT/ne28HJzouP1UrWtt8ybLHu4sJuW+taiqqTJruEjTaEE60soSyzJzn42iGoHD4X2dZmSMr7e3DpmGJLkup4t2MLy0nXEXfK+sIq9BziMnExdboS2KbyS0WQ2aSdE3FCm9fm71uuGJS0nSuK0s=;i+hKvQK0LWdVgpiqk5WIag=="
 ---
 

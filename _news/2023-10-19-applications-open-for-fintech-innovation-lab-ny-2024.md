@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 873
         isCached: true
-  - title: "Arab Fintech Forum 2Nd Edition Concludes"
-    excerpt: "The Arab Fintech Forum, held at the illustrious Ritz Carlton Doha, concluded its two-day summit, offering a deep d"
-    publishedDateTime: 2023-10-15T09:27:00Z
-    webUrl: "https://menafn.com/1107242133/Arab-Fintech-Forum-2Nd-Edition-Concludes"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/15/TP_e45b5image_story.jpg"
-        width: 1200
-        height: 832
-        isCached: true
 
 secured: "zSfZtwLbsXZj5p2kVYWEUhOCWuh2jSffQwGLgmTIn7A1INBvsi2KZETxe5v+Pf7tSGq8TF3/2czXYYqQcgBRV2nQ5RfI6knRWvgHcekv98x8jvTC2kk1aJDMZTHXqOL3mXTMcEOZRk4Zu75DcF2EQVMS7tmfGIjcU7PrH+FW2NzmGY7/yQiWb9KawDim8ny4Nv333Ul+pAt0pWjn5lB+f/4xKAh3faDkVPbtIAZ44Yl1RpBnCGtA8zf8c7YU1TSCw8JBbCeZkuLziu75Wp06KqUdgSe/OXfd4y2N5VvwVd6hN/frTwUKIpN64VPPCS3t9xxm0mEXsCsYEEcngIKjiFAI+Nh2GprKPGV4B3HI8Vk=;/ctBAIFyp5M8qh1zQ1GINQ=="
 ---
