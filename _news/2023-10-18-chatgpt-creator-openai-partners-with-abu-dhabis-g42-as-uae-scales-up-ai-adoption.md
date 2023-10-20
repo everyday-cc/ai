@@ -131,20 +131,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How to upload images to ChatGPT for analysis"
-    excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
-    publishedDateTime: 2023-10-15T13:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-upload-images-to-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Uploading-images-to-ChatGPT-in-prompts.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Inside the ChatGPT race in China – MIT Technology Review"
     excerpt: "A Chinese ChatGPT alternative won’t pop up overnight—even though many companies may want you to think so.Every once in a while, there’s one thing that gets"
     publishedDateTime: 2023-10-19T11:16:00Z

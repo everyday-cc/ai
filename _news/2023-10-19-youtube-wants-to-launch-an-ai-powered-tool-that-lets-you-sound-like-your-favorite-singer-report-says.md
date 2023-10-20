@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/youtube-ai-tool-songs-sound-like-fav
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/youtube-ai-tool-songs-sound-like-favorite-singer-music-2023-10?amp"
 type: article
 quality: 72
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "A new YouTube tool will use AI to let you sound like your favorite artist"
+    excerpt: "Details are sparse right now, but YouTube looks keen to embrace AI - if it can overcome some tricky challenges."
+    publishedDateTime: 2023-10-20T07:46:00Z
+    webUrl: "https://www.zdnet.com/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f8ce90ca052b6dde9c26da37c4658041608e0fa6/2023/08/15/f81404b8-a947-47ff-89c9-d117313e533c/yt.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "YouTube Is Developing an AI Tool to Help Creators Sound Like Famous Musicians"
     excerpt: "Y YouTube is planning to roll out a new artificial intelligence tool that will allow creators to make videos using the voices of popular recording artists — but inking deals with record companies to launch the beta version is taking longer than expected, sources tell Billboard."
     publishedDateTime: 2023-10-19T01:45:00Z

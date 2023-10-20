@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wogx.com/news/ai-could-energy-hog-more-electricity-study
 cdnAmpWebUrl: "https://www-wogx-com.cdn.ampproject.org/c/s/www.wogx.com/news/ai-could-energy-hog-more-electricity-study.amp"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 932
     height: 470
     isCached: true
-
-related:
-  - title: "Could Powering AI Gobble Up as Much Energy as a Small Country?"
-    excerpt: "A new analysis suggests AI could match the energy budgets of entire countries, but the estimates come with some notable caveats."
-    publishedDateTime: 2023-10-15T14:00:00Z
-    webUrl: "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/"
-    ampWebUrl: "https://singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/10/15/could-powering-ai-gobble-up-as-much-energy-as-a-small-country/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 59
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/06/electric-grid-renewables-transmission-lines-power-energy.jpg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "RIrB3hOWz2qApvMkWV3DLhFGiuBFCAGpjDFG5uC7KDuxmr1KIg3UsRryenVC7TxYaoBGhWy0+DYoxkdF1y+2p/IZOIIhqgWfPCVXAb2W/TsTKMFYd252glZI33fgL+TYqjaVOMYXh3xwx7+xnUaG+RZlAxw8PZblmcF/SU8kndMn3JnLeQcJFshwrgml7U3srzzqGgTHLY8M+IEEmCy0Tyx6vLan+4PdwC62EiogO5M8gQ/XjlADnXN9vQmX2LCLenieFSCkwkx5c6SYUbbxzMKBaY+/Kci9MsbcDduF9HAT1rRkOOR0IoL3tAZDDTIhZucu3IDo6b1ZZysbZ/5yiH2tlKFVQ38XFGyVMJlgU2Y=;/0rFrNjqAGf2QfbcH1jMUg=="
 ---

@@ -90,6 +90,22 @@ related:
         height: 720
         isCached: true
   - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
+    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
+    publishedDateTime: 2023-10-15T20:13:00Z
+    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
+    ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 30
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "“Now, the Voice was with constitutional recognition was important. Makarrata is simply a Yolngu word for coming together after struggle. “I think that that is a reasonable thing to say, and in terms of where we go from here, I note that there has been ..."
     publishedDateTime: 2023-10-16T18:43:00Z
     webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55bon"
@@ -219,17 +235,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T14:45:00Z
-    webUrl: "https://www.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
-    ampWebUrl: "https://amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 15
   - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
     excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
     publishedDateTime: 2023-10-15T20:30:00Z
@@ -239,15 +244,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T20:13:00Z
-    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 0
 
 secured: "vUtdHHsU/fb2r3aKD46Ep+Ud9qhAf28jM75Mbg8BgHcCnmBNVpfz4w88oPk4FfeIM/gA1ifwjoWHEPGUelsvcdxKcD0z9iv3E0IrsZFewPrfKtQh9pP5KPvWG/ZW8D9aWcGWC0BMMVB24WL2b5tzVohMKRdKo07d/Kk4t4p3uqVkeTo/cMYIjNcvnq8OMVoJH4Mu78o5qrLyvOOQIW77t17F4CF4yAAk20CcE9jMhd/5rW9/A5aQ/M5tpvcVx4gGRkiePSfKFmrcTobvWlUsZHSaY4Fo4tPwxTuQv3Nny7OqdwheYVRjQkiD9IAadLwdw9TSPVJNxxBMz/h9WvfQbgF1b6vFNMMCh+7AVzYCVwjEVPE3MxMykt/z5vvQrlGqv2iQu0vQtsq9pMVLRDpqBm2TDhxzih+WuKQX6sXaS74Gbtw5ZzQPJVTYOZiSukLLGPNm5bvNMMR//zSdbdSJmrk20kOzl37TyVOgXsKHZb3n78Typ2wex8OaRH0ueYVThctyj3ezLTIiySjYuEZuwQ==;oJeRs7f7Jah83/X2xzvqYw=="
 ---

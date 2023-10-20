@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Adobe-firefly.jpg"
         width: 700
         height: 483
+        isCached: true
+  - title: "East China's Anhui to boost artificial intelligence innovations"
+    excerpt: "HEFEI -- East China's Anhui province has released a three-year action plan, aiming to build itself into an innovation \"highland\" of the general artificial intelligence (AI) technology industry, said local authorities on Thursday."
+    publishedDateTime: 2023-10-20T05:50:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202310/20/WS65321534a31090682a5e9c60.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202310/20/65321534a3109068cafe8533.jpeg"
+        width: 718
+        height: 478
         isCached: true
 
 secured: "lGQCoUPXy8pElkdsgwrrAMLWO5va53unpayZLpCfRRAd/EXVhghGgo06YuOMQUIj7p2IuFCeK4FIkUo8qXT5cVch8UflKDoP361sjUJWq4b6js5UXh+P+K0O2G03kQW2uBL9WWf8VOsBuvlI0SgCeJN3XqwyO2aL75ZemXnX9FjnSsUPIR/ODJOnh7sIcza/QMGMKxbGom8ZAbLifKEeBU5VnPZlsxqiorumKrrzX0SCN9rWIacwydXQz1MuR5yt8eJhbCz6mFnOgJpbf8wrKx0AgVfhFqfJ/z8V8ijRGQ40v4FCHDDuf1pMMlbvDn8eCIOOeHZegFXsMl0Wfzxfl21Q/WnXbS1ibLS43z7+I1ZWjeLdkmmK/DcxRvToJ4GBGQteEU4ytS0eC76nnJQ9vRLbbbNmQLQ1k33YH4o68NAwzlxKDRUHOC4HRyN2m4s14Fe0psKakStgbE0XtIwOvttHayw/ThqrJOci/32CUjIzcQ9w/gVL2p2M5Z+5V2doIwDkfG0fu05MrZ2D3dIuaw==;ax5SMHS4TCVKwfBmG3jUaA=="

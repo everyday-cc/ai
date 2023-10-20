@@ -1,26 +1,22 @@
 ---
 category: news
 title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
-excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) maintains its AI leadership with 70% global market"
+excerpt: "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis."
 publishedDateTime: 2023-10-18T12:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-investing-in-the-ai-chip-showdown-1032716830"
-webUrl: "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-investing-in-the-ai-chip-showdown-1032716830"
+originalUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
+webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
 type: article
 quality: 64
 heat: 84
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 related:
   - title: "Biden further chokes off China’s AI chip supply with Nvidia bans"
@@ -47,6 +43,6 @@ related:
         height: 458
         isCached: true
 
-secured: "WuAb3VUGI9QQAjaymDamKAX3meZtOF3itxKp2LK4qIOFQSCeRsLa7pk/KpfyfbOdYh1Aw0o7SQAn5+k5k9YhdFMTYg3WGzciy/5Ij9pOWPnQ7truXHjzJezMBpWCMWYlxTlie98FotXQ7yaRaDjO/0pl8yqoVvuVe4UdePfDL/8SGZ9vD8NCgbsw0BqQBEFNimbV+Vj/JCExkJuBO3P6iPQxdqEoODnSuin8l0Cnx4lyZI85r9C/e3Ek6eMvGbvQlh/y2G3scAAnYSfMFEDpzBfEiyF13OKs8WZ42jrAPQPG70U8wUkuoUu2Wf6h00WgWEkrTFKP8KjtCGQDHxqWRRmmYFWDYNdkpp9c0nPrs68=;5pOtBTfQFr9nAhlx3BuJdA=="
+secured: "hmWt4Ooc11DtY+nZ1uFncTQTxMo2HpBJqzREww68H6haEXaXE5cSDWwuyTrox3yaLQojreq7mbSNhauV1g0dapcf86hOywOWCl6Vv/DynZKNki2w6ZO/Y3vMSXn+Q5gQdWcBtpPU1lP3l2gsLOzH2jq4wQ+5NEkEowqCNq6ONtsiESI6e4wlzwtr6tkYeGRVoHougiIAvfnTymlP780p0rZrg6M8lqH4X8OzMEAPwiJK/UavC+B0Xc3InUGII4JjCDgdbZrJgUp8Q9ymUf6OkHShy2N1QcYJlpManVz4L5+6rd6/6OhpXrR/jtBlsVHr2pw2NRaihtbrsW16zlGryweoSSIqjRF8GTpqy9qSFfM=;VF48AEKbv4PnCKwSavl/Bg=="
 ---
 

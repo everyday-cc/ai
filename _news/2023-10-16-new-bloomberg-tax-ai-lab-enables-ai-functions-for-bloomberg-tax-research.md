@@ -37,6 +37,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "ChatGPT: China to Police AI as Bot Fever Sweeps Nation – Bloomberg"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial"
+    publishedDateTime: 2023-10-20T06:54:00Z
+    webUrl: "https://www.inferse.com/763906/chatgpt-china-to-police-ai-as-bot-fever-sweeps-nation-bloomberg/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 37
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-13307.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "8mLBXn0mNDwpoCBzrORFKcSYzDVzNcWA8b2jejGBPmSlMNXJTe55Lb7POKr+6pdJxhg4Z+ut39JtroFhvsFUcgYJRiPntGVcI4PDBAMbK0eMM/kdQ1l3V+EsVaYjJ6L1HeWkW4I6WGtFxFM6/CMNeh45eVk/Hq8qYdjxubCciyWESB2N/IJD2f2uGVAUie1LrCKReHV0Cc9Lv7jbIf924WTSvE5GtWGeaugojK67EUDnft6oO4NFU5tDgWTMNAQ0zkuMZiKPPg3Gn7AtMfxaCfauERDMo2J8wjCfuBoNtwzjgFfFgm4SHHmPt9r0v34V1FKaYid8yTztz375RHvs5Og9Yag4PW4oVvf96I+9EpqEh41saEa5ZkQf/UOT4hHfAYDcnhgpSKOaLve+xLXohwgyoPSwHzS/YmdrJ8tGYLGDFnubkNQNuysepPImBFenY0VtX0VsP17XzXTOBN0qLv90+B6ndda/jzDpvrXd3hlLr7ybNWqnw3nRvMoh8pjBrKrcsPfd1SIB3ZphgmAntQ==;nj5UsNgpWIISU1wvO0KvMA=="
 ---

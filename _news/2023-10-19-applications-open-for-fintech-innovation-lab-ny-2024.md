@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Braid shuts down, Stash marches toward an IPO and what happens when a fintech relationship fizzles out"
-    excerpt: "As reported by Aisha Malik: Last week, Klarna introduced a suite of new features, including an AI-powered image-search tool called Shopping lens. The Swedish fintech giant is also launching shoppable videos in Europe, in-store product scanning, a new ..."
-    publishedDateTime: 2023-10-15T14:34:00Z
-    webUrl: "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/"
-    ampWebUrl: "https://techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/15/braid-closes-down-stash-marches-towards-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out/amp/"
+  - title: "FinTech Innovation Lab New York Opens Applications for 2024 Class"
+    excerpt: "Program founded by Accenture and Partnership Fund for New York City marks $2.6 billion in venture capital funding to date, seeks fintechs leveraging innovative technologies, including generative AI Ap"
+    publishedDateTime: 2023-10-19T09:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35324447/fintech-innovation-lab-new-york-opens-applications-for-2024-class"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35324447"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35324447"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 73
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-522212886.jpg?resize=1200,873"
-        width: 1200
-        height: 873
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "PM Modi welcomes Google’s plans to open fintech operations center at GIFT in Gandhinagar"
+    excerpt: "During the interaction, Prime Minister and Mr. Pichai discussed Google's plan to participate in expanding the electronics manufacturing ecosystem in India."
+    publishedDateTime: 2023-10-17T06:50:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2652131-pm-modi-welcomes-googles-plans-to-open-fintech-operations-center-at-gift-in-gandhinagar"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2652131-pm-modi-welcomes-googles-plans-to-open-fintech-operations-center-at-gift-in-gandhinagar?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2652131-pm-modi-welcomes-googles-plans-to-open-fintech-operations-center-at-gift-in-gandhinagar?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 35
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_12_2022_07_02_37_9017389.jpg?width=1280"
+        width: 1280
+        height: 960
         isCached: true
 
 secured: "zSfZtwLbsXZj5p2kVYWEUhOCWuh2jSffQwGLgmTIn7A1INBvsi2KZETxe5v+Pf7tSGq8TF3/2czXYYqQcgBRV2nQ5RfI6knRWvgHcekv98x8jvTC2kk1aJDMZTHXqOL3mXTMcEOZRk4Zu75DcF2EQVMS7tmfGIjcU7PrH+FW2NzmGY7/yQiWb9KawDim8ny4Nv333Ul+pAt0pWjn5lB+f/4xKAh3faDkVPbtIAZ44Yl1RpBnCGtA8zf8c7YU1TSCw8JBbCeZkuLziu75Wp06KqUdgSe/OXfd4y2N5VvwVd6hN/frTwUKIpN64VPPCS3t9xxm0mEXsCsYEEcngIKjiFAI+Nh2GprKPGV4B3HI8Vk=;/ctBAIFyp5M8qh1zQ1GINQ=="

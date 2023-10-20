@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20231016PD229/ai-chips-china-osat-
 webUrl: "https://www.digitimes.com/news/a20231016PD229/ai-chips-china-osat-chinese-chipmakers-nvidia-h800-gpu-packaging-and-testing-taiwan-osat-us-chip-restrictions.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "Cambricon and Huawei forge divergent paths in AI chip development amid prolonged US blacklisting"
+    excerpt: "The recent update to the US government's chip ban has raised concerns about its potential impact on Chinese chipmakers, particularly in the realm of high-performance computing (HPC) chips, including GPUs and AI chips."
+    publishedDateTime: 2023-10-20T02:30:00Z
+    webUrl: "https://www.digitimes.com/news/a20231019PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 41
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231019pd202_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "Kj0HaIQ+kUCio1O2nwr2Aje2IlHyl88c3XhLBHpevq31atbaZxSyOlRv1eR8XDIjO2rzGH0tYbyVhP6skEs6t2K4XNc6I9zUwKY6LxOB+PCQtIzmIwbenIJw8ShoVPorM0ECrdfUSxZJUClA3ccju9hvvVVxkUFENLuylxszDYInvIODDp55vwXpqgnSsmL4F/wDvrspyL1vVrKeT9BgsOX1XQogUNJzyzndXHTSni9ofVkjMgJPrfFOqZJTnqhuuubcuP2B7GlAi6jf1pN5+CRp6tF8OlJH9gWgP3ki1EEqm2Qnw17tt81PN7Z13HDzh/rolwFs7bbcDVcfblCucVdrG8mvamF/gvZdOsRt+VOKltmaQXuKE07E3nS7gF5z/9mmZDvmRS68BGJ5fjVW0KAM8b98NaRASH0ZykPZkB7eQz1AUX1mp6cKTMMLTUdwfDefyPaCoCEDNEAtrrQgRRyddK3SI7U+mdgXHq65JBGoYjlECJ7ZdOspqRAXID5B2FU/2ZdYkOhw4zz4Y6VXrg==;MUnwhIh3rWYIJ1kKWoCxjA=="
 ---

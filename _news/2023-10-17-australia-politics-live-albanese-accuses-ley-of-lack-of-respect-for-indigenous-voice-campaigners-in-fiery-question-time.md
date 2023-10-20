@@ -78,6 +78,22 @@ related:
         height: 720
         isCached: true
   - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
+    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
+    publishedDateTime: 2023-10-15T20:13:00Z
+    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
+    ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+    type: article
+    provider:
+      name: Sydney Morning Herald
+      domain: smh.com.au
+    quality: 30
+    images:
+      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "“Now, the Voice was with constitutional recognition was important. Makarrata is simply a Yolngu word for coming together after struggle. “I think that that is a reasonable thing to say, and in terms of where we go from here, I note that there has been ..."
     publishedDateTime: 2023-10-16T18:43:00Z
     webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55bon"
@@ -207,17 +223,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T14:45:00Z
-    webUrl: "https://www.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
-    ampWebUrl: "https://amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 15
   - title: "Dutton accuses Labor of trying to be 'tricky' with wording of referendum question to 'cloak' Voice in constitutional recognition"
     excerpt: "Opposition Leader Peter Dutton has accused Labor of being \"tricky\" with the wording of the referendum question because it \"knew there was support for recognition but not for the Voice\"."
     publishedDateTime: 2023-10-16T08:56:00Z
@@ -243,15 +248,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
-  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T20:13:00Z
-    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 0
 
 secured: "bhTxSq2M54OpVQdhxdrUbh+cCnk/REdC8G4i61hKB6ITI2gUqJAqPgEj15Pw1Dbl1MJXwNLQnFJNKEjjuYvmnmNJJHsfvEfeqHoiNAVes55UoYUdTOdcGyBhURFoELy0vAfritTftwgSOLFdxNApNqopISB0Z4WXjfA46/iIjm3oA68M/I8Ds1Vzy7k1MK3jos5PTPmeRuQCnBJX6fPW5KC3OezRDLxRZ10QdEYpxndQKe+RQTeteTY86azltHFeqeRyM53CBN7HicK6amOIEGBPHG733dtiuMu6l6wTj1KsNl+NiWbwFAe07M+QVeJO7i/MfjrKro8l06QKMXwzZ7rX+YK1i7dsSr2lC532MRc=;OBsKD364Xsrud+Cis4q4LQ=="
 ---

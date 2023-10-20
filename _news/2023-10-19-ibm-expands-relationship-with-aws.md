@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
+    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
+    publishedDateTime: 2023-10-20T07:35:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
+    type: article
+    provider:
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 51
+    images:
+      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+        width: 336
+        height: 280
+        isCached: true
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "Delivering joint solutions upgraded with generative AI capabilities for critical uses cases - Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants - Plans for further integration of IBM watsonx with AWS ARMONK,"
     publishedDateTime: 2023-10-18T11:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/"
 type: article
 quality: 82
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -130,20 +130,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--74pqjHjo--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-18t150510z_1_lynxmpej9h0sc_rtroptp_3_open-ai-emirates-g42.jpg?itok=Tz8vFAEY"
         width: 1200
         height: 676
-        isCached: true
-  - title: "How to upload images to ChatGPT for analysis"
-    excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
-    publishedDateTime: 2023-10-15T13:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-upload-images-to-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Uploading-images-to-ChatGPT-in-prompts.jpg"
-        width: 700
-        height: 466
         isCached: true
   - title: "Inside the ChatGPT race in China – MIT Technology Review"
     excerpt: "A Chinese ChatGPT alternative won’t pop up overnight—even though many companies may want you to think so.Every once in a while, there’s one thing that gets"

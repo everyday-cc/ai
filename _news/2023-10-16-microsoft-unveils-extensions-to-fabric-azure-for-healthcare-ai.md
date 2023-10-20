@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 496
+heat: 486
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Giants Unveil New AI Tools For Healthcare"
-    excerpt: "Microsoft and Google have unveiled new features for their healthcare cloud products. Healthcare CIOs must adjust their partnership strategy to take advantage."
-    publishedDateTime: 2023-10-15T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/"
-    ampWebUrl: "https://www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidchou/2023/10/15/tech-giants-unveil-new-ai-tools-for-healthcare/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652beefb8a28700db0fff333/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1565
-        height: 900
-        isCached: true
   - title: "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud"
     excerpt: "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,"
     publishedDateTime: 2023-10-18T16:00:00Z

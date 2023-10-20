@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-rai
 webUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-raises-300-mln-alibaba-tencent-others-2023-10-17/"
 type: article
 quality: 66
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
+    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
+    publishedDateTime: 2023-10-20T05:57:00Z
+    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "AI Start-Up Baichuan Secures USD$300m; Amazon Announces Expansion to South Africa"
     excerpt: "AI start-up Baichuan has raised USD$300m (~£246m) from investors including Alibaba, Tencent, and Xiaomi. The company was one of the first to receive China’s approval to release a chatbot to the public and, on Tuesday (17th October), launched the newest version of its generative AI model, Ernie 4.0."
     publishedDateTime: 2023-10-19T06:14:00Z
@@ -44,6 +58,17 @@ related:
         width: 1024
         height: 539
         isCached: true
+  - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
+    excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
+    publishedDateTime: 2023-10-20T05:37:00Z
+    webUrl: "https://www.theedgesingapore.com/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 37
   - title: "Chinese AI startup Baichuan raises $300M from Alibaba, Tencent and Xiaomi"
     excerpt: "The Beijing-based artificial intelligence startup Baichuan Intelligent Technology announced ... Baichuan stands out as one of the foremost AI developers in China working on generative AI and large language models and competing with Microsoft Corp. and ..."
     publishedDateTime: 2023-10-17T16:22:00Z

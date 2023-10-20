@@ -98,15 +98,6 @@ related:
       name: Arab Times
       domain: arabtimesonline.com
     quality: 36
-  - title: "Research into new laws for driverless cars in Jersey is under way"
-    excerpt: "RESEARCH into the law changes needed if driverless cars were to be introduced in Jersey is being carried out by the government.The news has been welcomed by Digital Jersey chief executive Tony Moretta,"
-    publishedDateTime: 2023-10-15T13:44:00Z
-    webUrl: "https://jerseyeveningpost.com/news/2023/10/15/research-into-new-laws-for-driverless-cars-in-jersey-is-under-way/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 19
 
 secured: "pL9JzQRyuOKp4Qhm4QhZM31rJxSfmtpByOKFUuksvr2cVtGRxjTWD7QLnP1bwO8FK7mTi/AwFX+IPmj/D88hkQDJV5wiS/VSd0guIL9vUddtp4mNZePsBxguZPnJffKPzlW/hPYs/TU48PHZQlJeOo3jfkJmH/Vo3AUXuZxYmkAYMhJBkmsL2uYhBZ+gY/ZDqugJyb63dxoZGLr6eaz/zbLV7ZGioio0+v8abA+1byjHsL8ryAgdIvf6hBc2dWcW+tI7Dl0m5QUVv1eiFj1uegsf//rcaK2TtVlXKGXu2QnqxEa4+k530cjKtTTu5eP88Y2nHjEaZddP6OoT8zZlzFii2E5ejLy2a3mTko5c8Uw=;QNJE5fCZ3xMgNtNYj6Eveg=="
 ---

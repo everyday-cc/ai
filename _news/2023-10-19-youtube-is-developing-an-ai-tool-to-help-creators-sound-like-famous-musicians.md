@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "A new YouTube tool will use AI to let you sound like your favorite artist"
+    excerpt: "Details are sparse right now, but YouTube looks keen to embrace AI - if it can overcome some tricky challenges."
+    publishedDateTime: 2023-10-20T07:46:00Z
+    webUrl: "https://www.zdnet.com/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/f8ce90ca052b6dde9c26da37c4658041608e0fa6/2023/08/15/f81404b8-a947-47ff-89c9-d117313e533c/yt.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "YouTube wants to launch an AI-powered tool that lets you sound like your favorite singer, report says"
     excerpt: "The launch has been delayed by ongoing talks with record companies about the rights needed to train YouTube's AI software, Bloomberg reported."
     publishedDateTime: 2023-10-19T16:44:00Z

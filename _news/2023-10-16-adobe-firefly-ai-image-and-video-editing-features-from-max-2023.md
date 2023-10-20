@@ -65,6 +65,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 43
+  - title: "East China's Anhui to boost artificial intelligence innovations"
+    excerpt: "HEFEI -- East China's Anhui province has released a three-year action plan, aiming to build itself into an innovation \"highland\" of the general artificial intelligence (AI) technology industry, said local authorities on Thursday."
+    publishedDateTime: 2023-10-20T05:50:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202310/20/WS65321534a31090682a5e9c60.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202310/20/65321534a3109068cafe8533.jpeg"
+        width: 718
+        height: 478
+        isCached: true
 
 secured: "XMBQzk3Lgnx4ptzB1R9UmDljQiBcmh0cMOZ/GGJb6ANnYHd0Gev5Vr86irY9gb4pw2se9Tp40l7kVq7EzqG9IvrvxxAF35eHYc4lzYhpfV5YOGJaSiUZYMzYMBRRtfww9T94mcGvEg8584vZk/GBxCrI7yjNOr/O+ABfoRnOjXN2cTbHCKanoWSoPe3NGgCiAo82+eDRAoXPgSOyZeNP/E83oeVgizPa+cE/qWgo0Be+i2bVf9pHzPNAd2msiMfRoiiFV6u/aqkGXuPoRkmGRo0b81Bn1NG+g+9VHZQ5d+LwkO7jzLgHhBMmgUuYExWax/uisP1l292OHMPto4wVDAa66YDfmSSYYlpXwfc5kue39CO9ZW33DHnKYAwZD11UeRQbCvf8Jilqz7kWgQ1pHRv6vfvzmokcdrr5oZBkF2dXoNGv/WmBPt0oLT1sFWu1fYp5Dlv63ZREQmdwylbHCU75nn8ZctjzYyrdsiTuPZhCqThdRFucBtagG7NNogx8eO34oPd0VmV+uG+GzsVuig==;UgXzqkfKTGllIp1j0wgh0Q=="
 ---

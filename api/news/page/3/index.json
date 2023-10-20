@@ -4,10 +4,10 @@
     {
       "path": "_news/2023-10-18-amd-vs-nvidia-investing-in-the-ai-chip-showdown.md",
       "title": "AMD vs. Nvidia: Investing in the AI Chip Showdown",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) maintains its AI leadership with 70% global market",
+      "excerpt": "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-investing-in-the-ai-chip-showdown-1032716830",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-investing-in-the-ai-chip-showdown-1032716830",
+      "webUrl": "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown",
+      "originalUrl": "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -20,18 +20,9 @@
       "publishedDateTime": "2023-10-18T05:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -40,8 +31,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1146,7 +1137,7 @@
       "originalUrl": "https://www.zdnet.com/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 192,
+      "heat": 182,
       "tags": null,
       "images": [
         {

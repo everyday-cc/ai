@@ -43,6 +43,20 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Applications open for Fintech Innovation Lab NY 2024"
+    excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2023-10-19T15:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98471/applications-open-for-fintech-innovation-lab-ny-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "BBY6qRHrdHKML/ugotA+oclf49D29SR9QB7qYATa9H5kNPya+uI6QuAsDPCeSjafRCzznfpzRGs2WI9OFVukhXTya2NsMEEQQS57VQL0eo+OOfEdEybP/xKMrbeRdp53M05dnhw7hD8FkJ5mGDw7jgp9K58glpVXMz2sUu+TTfLXdZ+LtawJf2rypEyrZrbrhV0PmpwODiC27XbAON9ZMZwxnxGj5uYPHjB6JMFKvwq/W2i5svhyqrB3FoJqrZZklHpF3yuhvP4FB7nvvuxmiG7TW3gy84rr+Z07cqds3IuVK5VuJNanRqmVWQh3DkwiDF6tTINhXiRb2bE8H92nQTF9IW6TIlDa8SixbrpgHNs=;52sd2sOp+XcEpvoBU7FTRA=="
 ---

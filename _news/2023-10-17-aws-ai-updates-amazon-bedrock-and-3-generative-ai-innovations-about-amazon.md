@@ -64,6 +64,20 @@ related:
         width: 700
         height: 483
         isCached: true
+  - title: "East China's Anhui to boost artificial intelligence innovations"
+    excerpt: "HEFEI -- East China's Anhui province has released a three-year action plan, aiming to build itself into an innovation \"highland\" of the general artificial intelligence (AI) technology industry, said local authorities on Thursday."
+    publishedDateTime: 2023-10-20T05:50:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202310/20/WS65321534a31090682a5e9c60.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202310/20/65321534a3109068cafe8533.jpeg"
+        width: 718
+        height: 478
+        isCached: true
 
 secured: "sRZ4j0G/Au5A2bC9nyINZSnwdFuMr8trZa+hrQI6Quvce6Gmx1wyKFvXr1Toc3ohf/IZSFhKYmuyFV0YI/NXuSsjiYWytOK9Hw2YJfY8ifUdg6XmjYWXpSr9jgsX9kllOVTkh10HCdy26P4XLiz3A+LPHrME9/8vnwmUd2d0lCN9pG8pS4Olph5bdilEr64OLxMmcyYCwYtCDRI7B+RZ26Ri53LFRajT1espgFdNzGh3E3yk8CDx/5/CBamFldr57WLa0Bkmftub8OE7moD1cHgNixvGoJNe0aYnc/Z8h2G6dSeYiJQ1UZ/CV0bQ7iJdyqQd+7wekn3ySojBHpaYRDAPdtsnevK7R9Led3bo/5Q=;DbYxYPDJMI53mcnqQqoqFA=="
 ---

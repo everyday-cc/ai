@@ -24,13 +24,13 @@ topics:
 
 related:
   - title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) maintains its AI leadership with 70% global market"
+    excerpt: "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis."
     publishedDateTime: 2023-10-18T12:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amd-vs-nvidia-investing-in-the-ai-chip-showdown-1032716830"
+    webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 64
   - title: "Analysis: Nvidia, AMD Give Partners New AI Selling Points For GPUs In PCs"
     excerpt: "Nvidia and AMD is giving partners a new set of AI selling points for GPUs in PCs thanks to software updates that enable fresh large language model and machine learning capabilities."

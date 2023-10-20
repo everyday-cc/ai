@@ -98,15 +98,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Research into new laws for driverless cars in Jersey is under way"
-    excerpt: "RESEARCH into the law changes needed if driverless cars were to be introduced in Jersey is being carried out by the government.The news has been welcomed by Digital Jersey chief executive Tony Moretta,"
-    publishedDateTime: 2023-10-15T13:44:00Z
-    webUrl: "https://jerseyeveningpost.com/news/2023/10/15/research-into-new-laws-for-driverless-cars-in-jersey-is-under-way/"
-    type: article
-    provider:
-      name: Jersey Evening Post
-      domain: jerseyeveningpost.com
-    quality: 19
 
 secured: "e3lFcJN5ndprtw9N9BDbRzbLuatAuk5pZcD1CPz1VpofA9zx6dkb//Gy6ze5i/GoTgwcOczUHiw9ilkl6FckK6AlhDcvvqrl4MC/tpTt8k/LQQ6dBHb1JdEplCPhbARsyN5FoK4ZaDYxLRCn1Da/5CKE8EeQKHOEApKju8QhDpytOLPZW4GqVnaWeXbRCULT0mtjHbwR+je9um/P002kiXGKVf6UcY9NKVexWxkqYCyXXEVlkjSInqP4MrysieoRJBhFp5+5rbp/bQPg09yHMBma+L1dMdN5jUu4NIhe9zl9rwCPUDcP4hrfC9MUtNewuw0IbjdCtoKLOK2arFbpKr3HCRV2f22J0prKL7s/fc0=;cAJIGIlDWMvC0JXacXzW2g=="
 ---

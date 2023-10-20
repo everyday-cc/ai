@@ -142,20 +142,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How to upload images to ChatGPT for analysis"
-    excerpt: "This feature extends the capabilities of text-based interactions, enabling a variety of use-cases such as image description, object recognition, and even some level of visual analysis. The technology relies on a multimodal approach, combining text and ..."
-    publishedDateTime: 2023-10-15T13:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-upload-images-to-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2023/10/Uploading-images-to-ChatGPT-in-prompts.jpg"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
     excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
     publishedDateTime: 2023-10-17T18:00:00Z

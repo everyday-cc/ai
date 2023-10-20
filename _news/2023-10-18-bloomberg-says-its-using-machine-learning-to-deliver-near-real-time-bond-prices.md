@@ -35,6 +35,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "ChatGPT: China to Police AI as Bot Fever Sweeps Nation – Bloomberg"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial"
+    publishedDateTime: 2023-10-20T06:54:00Z
+    webUrl: "https://www.inferse.com/763906/chatgpt-china-to-police-ai-as-bot-fever-sweeps-nation-bloomberg/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 37
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-13307.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "c1A2y8kroPrQzFUkljIGpn5VdKnvtZHy4EAC8lQ+oSyzTpuIz+Qv3O8sys/Xxv76juwjzZmcMWETMsb7iAK4P4xzoJY+4uGCfI3YH4+k1pSxF1x3/6MjnVBciry4KgNH/lucdeTzzx/rXLKiTNk1Xxp3YrrY/BfXD6oiSLzT/1Mod6bL3UPDxPw2eVhlBOiiYrGS0/zhW9SfCRLpBGJBEG3c+ZhCD4vxgjHdoKStbCe9OILDvYrRUdfhOJ2hT5oouTqL43CRuJPnTM88gO1VRnAdxvXDpM7f0e6DdUs69oCiEcVpo6GYmDortoO5mDBQxxanX0JKYy49u7nlKIG7/mFeCxGGPHaCKOFrou2+Vks=;maCB+OEFd8D3hOMV1IQeSg=="
 ---

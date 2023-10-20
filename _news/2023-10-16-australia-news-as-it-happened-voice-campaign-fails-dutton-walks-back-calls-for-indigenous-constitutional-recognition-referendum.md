@@ -3,10 +3,12 @@ category: news
 title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
 excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
 publishedDateTime: 2023-10-15T20:13:00Z
-originalUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+originalUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
+webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
+ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
+cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
 type: article
-quality: 0
+quality: 30
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+    width: 300
+    height: 300
+    isCached: true
 
 related:
   - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
@@ -211,17 +219,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australia news LIVE: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T14:45:00Z
-    webUrl: "https://www.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
-    ampWebUrl: "https://amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 15
   - title: "Dutton accuses Labor of trying to be 'tricky' with wording of referendum question to 'cloak' Voice in constitutional recognition"
     excerpt: "Opposition Leader Peter Dutton has accused Labor of being \"tricky\" with the wording of the referendum question because it \"knew there was support for recognition but not for the Voice\"."
     publishedDateTime: 2023-10-16T08:56:00Z
@@ -248,6 +245,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "OiXRMEYeTSoP4rTsEJXZ+RY6jFtlM2hMCLs0369p0XrVseVdqD/NtfHnAqyLUs9HnOJ5uWfJAEtuVjCv0b4Ip+KuP6Dfi93wOPM+esN0njEz/h3Tx65gAyb5OvXmaCJAWxb0itjW4U4uJcFOD/prKYd0VZqMY9HXbc5FYrcbmdccKyxfwo1PbWp7rNJ6Uy7Z0dJfhc/ckfQ9fuFVR+TyttKo0MhelbzV2wqTwECe9oM22H9kdjNEHUtAwhS3fM88k+bGC2LNVnu0h6LW7lrzY1BUCx3tC1AnUP9QcynmyRaKonjc8fKsWCv9Z2bIai81rp/H5wEk1fq3M7EH8tQm+HKk0MANl4JOda7SpQFJpd2FJqehUMM5Jt6Y5U02WDpTbSH1ouq5kamDDZegSLtL9TxSujpbwGUNmkbLmUqDApgqVpAPDz0zO1yH7GiKdL1+kzHYNitv5oqK3H+nP2ASG4Mh23h7w2irMS7er/UFktN7FbIMmEaecm/Paf9kj0UGhYgoFilkpWKlBuC4YbYpSw==;rj8BkeiJW7ibe6xt+flKmg=="
+secured: "LetLtmFA5miQL6Q+TkUuZNUFUkeiPJ/GQaZpar2X7xhyljmR2YAqmK7KIwXRLKzmrO0nt+VgbO2hAkeHInxe7ag+7GNDJ3+dFGEGpmQImfM5KjoByIOa7V3Rx0Pw/0SsTwoRjGKO7j/otsGbBty7lWBNf1x+ChiVODDE3iBhRjAxyftjbHcHzobQZlWK713Z+RzAfnfVxTWPPazCBzII7566xu8h36CK6ziIKxcnTeP6vc9g8UVNB3sqOWLXZqkwsUqD5RZY43bi4yGKX5A1yRXW3YerLEp2smcloSscOMzMx3cyoqm9z21QPMtPQIM0beLk9q2TmfpH7b/pV8S8cchoqzWGOqaZUoQqf3BSIG8=;dxbjLWQt370YYgBlgq9zuQ=="
 ---
 
