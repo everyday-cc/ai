@@ -44,6 +44,22 @@ related:
         width: 640
         height: 290
         isCached: true
+  - title: "Microchip Breakthrough Could Reshape Future of AI"
+    excerpt: "A prototype microchip design that was revealed today by IBM could pave the way for a world of much smarter devices that don't rely on the cloud or even the Internet for their intelligence."
+    publishedDateTime: 2023-10-20T17:20:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/ec3b0df/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fda%2Fa8%2F0c87e301526b36795a4a5107dcde%2Fshutterstock-592729892.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "M42 Announces New Clinical LLM to Transform the Future of AI in Healthcare"
     excerpt: "Licensed on terms similar to Meta’s Llama 2 model, Med42 is free for non-commercial use and research – with appropriate controls on use, given the obvious risks that could arise when deploying AI in a healthcare context. Ashish Koshy, Group Chief ..."
     publishedDateTime: 2023-10-16T01:30:00Z

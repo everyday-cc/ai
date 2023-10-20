@@ -187,6 +187,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 60
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
     excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
     publishedDateTime: 2023-10-18T13:10:00Z

@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
-    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-16T01:07:00Z
-    webUrl: "https://thethaiger.com/world/news/560427/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 22
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Dutton accuses Labor of trying to be 'tricky' with wording of referendum question to 'cloak' Voice in constitutional recognition"
     excerpt: "Opposition Leader Peter Dutton has accused Labor of being \"tricky\" with the wording of the referendum question because it \"knew there was support for recognition but not for the Voice\"."
     publishedDateTime: 2023-10-16T08:56:00Z

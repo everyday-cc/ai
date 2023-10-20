@@ -56,6 +56,20 @@ related:
         width: 928
         height: 511
         isCached: true
+  - title: "Microsoft Analyst Bullish On AI Leadership, Retains Caution Given High Interest Rates"
+    excerpt: "Also Read: Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why On this basis, Turits expects an overall in-line Q1. However, he retained some caution given the ongoing high-rate environment, macro concerns expressed in ..."
+    publishedDateTime: 2023-10-20T17:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-ai-leadership-retains-caution-given-high-interest-rates-1032725035"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/20/bz_briefs_tech_6.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
     publishedDateTime: 2023-10-17T13:54:00Z

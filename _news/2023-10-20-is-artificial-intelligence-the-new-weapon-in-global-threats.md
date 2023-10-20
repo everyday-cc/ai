@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Is artificial intelligence the new weapon in global threats?"
-excerpt: "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,"
-publishedDateTime: 2023-10-19T21:02:00Z
-originalUrl: "https://katu.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-webUrl: "https://katu.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+excerpt: "On full display, at protests worldwide there is a deep anger some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in, and there are growing fears they may use artificial intelligence to achieve their goals."
+publishedDateTime: 2023-10-19T17:01:00Z
+originalUrl: "https://wjla.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+webUrl: "https://wjla.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+ampWebUrl: "https://wjla.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+cdnAmpWebUrl: "https://wjla-com.cdn.ampproject.org/c/s/wjla.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: katu
-  domain: katu.com
+  name: wjla
+  domain: wjla.com
 
 topics:
   - AI
 
 images:
-  - url: "https://katu.com/resources/media/947524d8-1f88-4e91-9880-84956aabcea7-large16x9_thumb_21427.png"
-    width: 986
-    height: 555
+  - url: "https://wjla.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg"
+    width: 648
+    height: 364
     isCached: true
 
 related:
@@ -34,6 +36,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "sglyod5xfWEa3BwFdq2we+Hu8qV7sMea5ZTYcZn3Q/k2N401VKflFK0ydTY+y0zvYeElaidFcK0AHUPniPcIsuqCF35RCaEmTywNMJjaZIF9WNJHIoZ6lzuz/yI6f8OrU04Kb2qldjInW2sYoDY3SlCX34i2H4MfpRJyrFcmSLqZ6UtHoiOoy7oDVo55ztVw707o/e+C4fB8ih3+2ug4XrTCAkYZ5VRPIwr7W6n8t5xb0wxvCrFvjONAQYpSyn9XZ/cdbpah7IS+W6nLaCra71MDVivGepnMQtUVqKNCAwvWhGX3LePEb56bcqpkOFdv9HUr0FipLbVHs2ztyBDUW7TcSt9ndTrdjdbPkPI+gMA=;HjVZh/ej3wD/wmM/Q34xTw=="
+secured: "LI5tBRSoxUpnhS1WJPgtioQ1Ath2LZpp1ah+5AnqVVCpJ2KyzO7OI/p1bVNgONgksnWaEAjhnEhSAl5XrvZL4XLSgDh2kqoas6+CXdkHqukrlGrZH3V3hLfVeKX28JGOw8Jewwz7ld4KnqrRedG2RrImuSwZ/wFH8HGUyQfYnyWVWl7ECQ53v7QJRNkqY7Y2bekE+RBazQ+tMweqxQUKl3SgL4xHBgZTEAp2b+4mjgK4ENrSANjlePHpFLib/wSI8q3O0HPeEuQxKW7fbxQF9Apm9a3thd8GivPmNskeiihtKZfy0k/AbWpLB0DhpYmdyVVP1oDroJ0cBgbn3Qc29OsRNLMteuQBDDwfqRcYs7g=;Ygh0/STGh67r7f4/sNWP3w=="
 ---
 

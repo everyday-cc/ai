@@ -213,6 +213,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
+    excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
+    publishedDateTime: 2023-10-20T16:55:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-generative-ai-focused-dgx-cloud-launches-on-oracle-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 41
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/explore-dgx-h100-1cc-d.2e16d0ba.fill-1200x630.jpg"
+        width: 850
+        height: 448
+        isCached: true
   - title: "Foxconn and Nvidia collaborate to supercharge the AI industry"
     excerpt: "Ten months after announcing their partnership, Nvidia and Foxconn aim to supercharge the AI industrial revolution."
     publishedDateTime: 2023-10-19T16:31:00Z

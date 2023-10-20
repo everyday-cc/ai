@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US China tech 'war': New rules coming to stop American companies from exporting AI chips"
-    excerpt: "The US is set to introduce new rules that will make it harder for US companies, like Nvidia, to sell products to China. These export controls are expe"
-    publishedDateTime: 2023-10-16T08:35:00Z
-    webUrl: "https://www.headlinestoday.in/technology/us-china-tech-war-new-rules-coming-to-stop-american-companies-from-exporting-ai-chips-624307790.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 25
   - title: "Do corporations and networks not realize it is Italian American Heritage and Culture Month?"
     excerpt: "Watching college football on ESPN this weekend, one of the commentators brought up something about Hispanic Heritage Month. Later, there was a commercial also mentioning the very same thing again."
     publishedDateTime: 2023-10-16T11:31:00Z

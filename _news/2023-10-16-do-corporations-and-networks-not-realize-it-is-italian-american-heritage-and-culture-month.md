@@ -57,15 +57,6 @@ related:
       name: iafrikan.com
       domain: iafrikan.com
     quality: 34
-  - title: "US China tech 'war': New rules coming to stop American companies from exporting AI chips"
-    excerpt: "The US is set to introduce new rules that will make it harder for US companies, like Nvidia, to sell products to China. These export controls are expe"
-    publishedDateTime: 2023-10-16T08:35:00Z
-    webUrl: "https://www.headlinestoday.in/technology/us-china-tech-war-new-rules-coming-to-stop-american-companies-from-exporting-ai-chips-624307790.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 25
 
 secured: "ICzfjGG1M+6bp4mCAhg+mnJgj0fwE2XecH6ipKkryKUKknR0hYbEg39Wy9btwGYZaOnoIBWO1xe9iZYfup++DGYBLxKNEEY3ylasLBGQ9g+6fVgyMG9CDFXODq5Ikma4kYM8W0G7ZeDSMtHjlfknli2r/FQ0jgLapWFRjJk6TbLLhXwFBo/iekmqNAz9Salz688HAzmRmnYUxqnWIIVb+Djo5BRw2cFg+5XuUm/tKfLDD4hEW+pJK9k6w6Fy/hPGCsMvbBHNvjenTS1+QFfzHO8wXlrg4q5fOjNGAZMG24Ck/eiboK5r5VU66opGLfqfXoG5LzPq7A9l2/kQnMfBBgumbN41VNGwjlZWEFMPu2AWx2pzx/j+tVvs41eplJcTYMtyKx4b+oWP5t+tp8xhqJ2Dqfw4LApUDBpCCnJTDQuBNDfJrVx92WEzN+almKLYLnqxc4OIk7bI3DK12nKirUFCtXXE/jrgHeJVDJOy5ibeVfgd4G2XsTRy0+U9y91dX7R27iZQAW7VjyJ7Djby1g==;gtdoxMN07YioMcXj35JSKQ=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 928
         height: 511
         isCached: true
+  - title: "Microsoft Analyst Bullish On AI Leadership, Retains Caution Given High Interest Rates"
+    excerpt: "Also Read: Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why On this basis, Turits expects an overall in-line Q1. However, he retained some caution given the ongoing high-rate environment, macro concerns expressed in ..."
+    publishedDateTime: 2023-10-20T17:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-analyst-bullish-on-ai-leadership-retains-caution-given-high-interest-rates-1032725035"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/20/bz_briefs_tech_6.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft's new AI assistant can go to meetings for you"
     excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
     publishedDateTime: 2023-10-18T23:13:00Z

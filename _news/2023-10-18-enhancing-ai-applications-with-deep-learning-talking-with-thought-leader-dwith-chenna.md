@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "In Real Life: Meet The People Dating AI"
-    excerpt: "In terms of having a Replika AI companion, its intelligence is centered on how it converses with humans. It is made to reciprocate the user’s energy. There are paid tiers to the app and several types of relationships—including friend, romantic partner, sibling, or mentor."
-    publishedDateTime: 2023-10-16T00:00:00Z
-    webUrl: "https://www.aol.com/real-life-meet-people-dating-000000514.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_newsy_441/544105fb664cae66199a85def60b4bef"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "6U6MjROyVfqN3qC9wTzhWksgzyZdeD4cLwqaKmLa+F6pxwTDfn8Ak/5fqPB/RFMeMU2xx4l9J+FxgJlDGmHS9sbhEuS9L1eoy968Lx5TFHYz37P6KJXjiI7jgdI1Bg7sk60+uDtGBY5yrXtfSJAq8M1xvnIQJhUUHJoPdOEUQ1evcAwNHBqI4qgnFQ89xjRfA8Incox1eW4RMxY2zctcbUJDYXv/2ZBjVmYtoPB4u1ouLBQz1I73BfctbS3UesQN8xJWkCDFRtVGd1MBgxwMRaqdXssTDgYIZr1Chw7bQuO1miekclZjjmjK1pMLbiDip7MG1cPzHKGej7ouBHNo/MV33WyGvN6pgG+weynmULQ=;e8+pEbYU6JHhIqTZt/wbCA=="
 ---

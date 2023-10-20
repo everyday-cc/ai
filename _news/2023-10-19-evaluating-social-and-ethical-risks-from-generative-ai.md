@@ -49,6 +49,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
+    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
+    publishedDateTime: 2023-10-20T17:09:00Z
+    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
     excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
     publishedDateTime: 2023-10-19T06:43:00Z

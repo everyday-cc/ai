@@ -35,6 +35,22 @@ related:
         width: 640
         height: 290
         isCached: true
+  - title: "Microchip Breakthrough Could Reshape Future of AI"
+    excerpt: "A prototype microchip design that was revealed today by IBM could pave the way for a world of much smarter devices that don't rely on the cloud or even the Internet for their intelligence."
+    publishedDateTime: 2023-10-20T17:20:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/microchip-breakthrough-could-reshape-future-of-ai?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/ec3b0df/2147483647/strip/true/crop/940x490+0+68/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fda%2Fa8%2F0c87e301526b36795a4a5107dcde%2Fshutterstock-592729892.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "How Generative AI Will Revolutionize The Future of Your Brand"
     excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
     publishedDateTime: 2023-10-17T04:51:00Z

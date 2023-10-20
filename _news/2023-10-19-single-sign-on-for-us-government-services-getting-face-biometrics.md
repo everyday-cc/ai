@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "Texas university launching large synthetic face biometrics training dataset"
+    excerpt: "Using synthetic data instead of real people's faces to train facial recognition systems has been gaining ground among biometrics companies around the world."
+    publishedDateTime: 2023-10-20T15:58:00Z
+    webUrl: "https://www.biometricupdate.com/202310/texas-university-launching-large-synthetic-face-biometrics-training-dataset"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25131017/face-photos-dataset-scaled.jpg"
+        width: 2048
+        height: 1027
+        isCached: true
 
 secured: "GNRgXqF2dFoeBKzFt1UeKWQ/DPI76TXK8xwY325r4UUnNxbuCDtZkubUOTIATr/ScmtnFvLsROzRTCweqF3zeTx79YZujOOFv031w0IaaEoq266vFsCLmFacpzGO8GuQmRx2AeAimvEtKAwEBCVPx0fXGcepJLXfqC0xG7ZrJ6Fjz6xwNMM90NvcrqU0y/16tjaR9c4bdTrC0c/rSY6eK4K0fipYDYEw73/08qv9H9GPzhsR1x9tDh+2f0ymwUftLn/HEX5YBaOi75L0BtrMoBA8VYdnSJ8SPwbQx9ZdE0GGSffj2nQnvdzV4xGeGPF8df90XF4p50JBAs47+urEUE33QT3TR21MRQ3LHb1vb4Q=;es4eGxTPJbjs1QKBNv2mxg=="
 ---

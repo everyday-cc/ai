@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202310/beer-lines-and-retail-theft
 webUrl: "https://www.biometricupdate.com/202310/beer-lines-and-retail-theft-spur-biometrics-computer-vision-launches"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Biometric Companies
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Texas university launching large synthetic face biometrics training dataset"
+    excerpt: "Using synthetic data instead of real people's faces to train facial recognition systems has been gaining ground among biometrics companies around the world."
+    publishedDateTime: 2023-10-20T15:58:00Z
+    webUrl: "https://www.biometricupdate.com/202310/texas-university-launching-large-synthetic-face-biometrics-training-dataset"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25131017/face-photos-dataset-scaled.jpg"
+        width: 2048
+        height: 1027
+        isCached: true
   - title: "Single sign-on for US government services getting face biometrics"
     excerpt: "Login.gov, the United States government's single sign-on service, is at long last getting a face biometrics function. Probably."
     publishedDateTime: 2023-10-18T21:01:00Z

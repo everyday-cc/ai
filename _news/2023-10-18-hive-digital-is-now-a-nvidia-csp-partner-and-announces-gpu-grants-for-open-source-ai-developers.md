@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HIVE-X/pr
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HIVE-X/pressreleases/21202981/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Supermicro Unveils New GPU Systems with NVIDIA GH200 Grace Hopper Architecture for Advanced AI Infrastructure"
-    excerpt: "Supermicro, Inc. is announcing one of the industry's broadest portfolios of new GPU systems based on the NVIDIA"
-    publishedDateTime: 2023-10-19T16:26:00Z
-    webUrl: "https://www.datanami.com/this-just-in/supermicro-unveils-new-gpu-systems-with-nvidia-gh200-grace-hopper-architecture-for-advanced-ai-infrastructure/"
+  - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
+    excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
+    publishedDateTime: 2023-10-19T17:42:00Z
+    webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 35
+      name: CNBC
+      domain: cnbc.com
+    quality: 57
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/10/Super_Micro_MGX_1080-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://image.cnbcfm.com/api/v1/image/107247052-1685079013413-gettyimages-1257866797-Nvidia_Stock_Soar.jpeg?v=1697742655&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "RETRANSMISSION: HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers"
-    excerpt: "Detailed price information for Hive Digital Technologies Ltd (HIVE-Q) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2023-10-18T05:06:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HIVE/pressreleases/21206975/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 14
 
 secured: "aQA5CWIScuc/e4tae4GEQyWTjxFvvwe8CtwksQZOLK0EyESgcaOYWnFyaEUKLaFNudmmqYIINOjU3rMiAvx7iMRQYibYKYklXpNzajwdFjbT7HVVT8FH7f6PPi3ZBZBxmV/7ZunWtOHiQriNYLaaFeineh92qBPsjQ7sq9TZgtZwrrBYZaecMUijvec6UWJBaawJ+ElIy0SUmcFQNqne6hehL1OyaeLxbjFZOv9cwTnZSTlQvlc7hrTmjSYjkS8cTuesE3ZOiAcSTTAIM+qYeeZ/+LwdvyadgEj1j+di5VtekR1teuLwPbqHAEhHP2yjWOOOlUTwJtX1WQTTePeA6JLKL4tO3jH6zrSFWZP67JE=;UdmGy/NwkVbp9vBBb9W2wQ=="
 ---

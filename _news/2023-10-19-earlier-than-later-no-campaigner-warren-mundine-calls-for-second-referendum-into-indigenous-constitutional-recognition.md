@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Peter Dutton backtracks on pledge for Indigenous constitutional recognition"
-    excerpt: "Peter Dutton backtracks on pledge to constitutionally recognize Indigenous Australians after public opposition to Indigenous Voice to Parliament."
-    publishedDateTime: 2023-10-16T01:07:00Z
-    webUrl: "https://thethaiger.com/world/news/560427/"
-    type: article
-    provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 22
-    images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/09/photo-1624706495494-7a143e8ed526-390x220.jpg"
-        width: 390
-        height: 220
-        isCached: true
   - title: "Peter Dutton accused of 'playing politics' after backflipping on pledge for second referendum on constitutional recognition"
     excerpt: "Deputy Prime Minister Richard Marles has accused Opposition Leader Peter Dutton of playing politics after backflipping on his pledge to hold a second referendum."
     publishedDateTime: 2023-10-17T02:22:00Z
