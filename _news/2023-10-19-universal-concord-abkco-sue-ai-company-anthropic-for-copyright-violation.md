@@ -9,8 +9,8 @@ ampWebUrl: "https://variety.com/2023/music/news/universal-concord-abkco-sue-ai-c
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/music/news/universal-concord-abkco-sue-ai-company-anthropic-copyright-violation-1235761250/amp/"
 type: article
 quality: 55
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: Variety
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Music companies sue Anthropic AI over song lyrics"
+    excerpt: "Universal and other music publishers have sued artificial intelligence company Anthropic in a US court for using copyrighted lyrics to train its AI systems and in generating answers to user queries."
+    publishedDateTime: 2023-10-20T08:15:00Z
+    webUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-ai.jpg"
+        width: 1920
+        height: 1633
+        isCached: true
   - title: "Universal Music sues AI start-up Anthropic for scraping song lyrics"
     excerpt: "Universal Music has filed a copyright infringement lawsuit against artificial intelligence start-up Anthropic, as the world’s largest music group battles against chatbots that churn out its artists’ lyrics."
     publishedDateTime: 2023-10-19T13:38:00Z
@@ -62,6 +78,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/4bnK19G2FE0Y5dQUED8n.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/1b1dffa8cd2cf3c02cc85b08d37f52a9"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Universal Music Group Takes Legal Action Against Anthropic AI for Copyright Infringement"
+    excerpt: "Universal Music Group has brought Anthropic PBC to court after accusing it of widespread copyright infringement. The lawsuit was revealed just a day after the announcement of its team-up with BandLabs Technologies"
+    publishedDateTime: 2023-10-20T09:22:00Z
+    webUrl: "https://www.econotimes.com/Universal-Music-Group-Takes-Legal-Action-Against-Anthropic-AI-for-Copyright-Infringement-1664702"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 28
+    images:
+      - url: "https://f1.econotimes.com/2023/10/5pz910at38_th_1024x0.jpeg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Music publishers sue Amazon-backed AI company over song lyrics"
     excerpt: "The music publishers’ lawsuit appears to be the first copyright case over AI’s use of song lyrics"

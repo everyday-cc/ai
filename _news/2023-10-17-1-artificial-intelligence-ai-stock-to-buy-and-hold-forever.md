@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
 type: article
 quality: 82
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: The Motley Fool
@@ -28,29 +28,48 @@ images:
     isCached: true
 
 related:
-  - title: "Does Amazon's Artificial Intelligence (AI) Investment Make It a Buy?"
-    excerpt: "Anthropic specializes in generative AI, which can be deployed, for instance, for customer service, as an AI assistant, or for help with coding. Essentially, Anthropic has a tool kit that helps its clients develop AI models that suit their needs. Anthropic rolled out AI assistant Claude in March."
-    publishedDateTime: 2023-10-15T15:31:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/15/does-amazons-4-billion-artificial-intelligence-ai/"
+  - title: "Why Wall Street Thinks This Artificial Intelligence (AI) Stock Could Skyrocket 140% Over the Next 12 Months"
+    excerpt: "However, don't automatically jump to the conclusion that the joyride is completely over. Here's why Wall Street thinks one AI stock could skyrocket 140% over the next 12 months."
+    publishedDateTime: 2023-10-16T09:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/16/wall-street-artificial-intelligence-ai-stock/"
     type: article
     provider:
       name: The Motley Fool
       domain: fool.com
-    quality: 84
+    quality: 64
     images:
-      - url: "https://g.foolcdn.com/editorial/images/749766/person-working-on-data-servers.jpg"
-        width: 2121
-        height: 1414
+      - url: "https://g.foolcdn.com/editorial/images/750127/ai-icons-hand.jpg"
+        width: 2188
+        height: 1369
         isCached: true
-  - title: "Does Amazon's $4 Billion Artificial Intelligence (AI) Investment Make It a Buy?"
-    excerpt: "While AWS is my favorite reason to invest in Amazon, it only made up 17% of Amazon's revenue in Q2. But it made up 70% of operating income, which shows how critical AWS is to Amazon's profitability picture. Overall, Amazon is moving from consumer goods to a tech-based business, which can be seen in its gross margin improvement over the past decade."
-    publishedDateTime: 2023-10-15T15:31:00Z
-    webUrl: "https://www.nasdaq.com/articles/does-amazons-$4-billion-artificial-intelligence-ai-investment-make-it-a-buy"
+  - title: "1 \"Magnificent 7\" Artificial Intelligence (AI) Growth Stock to Buy Now Before It Soars 38%, According to Wall Street"
+    excerpt: "The results for its fiscal 2024 second quarter (ended July 30) offered proof positive that the AI revolution had begun. The company generated record revenue of $13.5 billion, up 101% year over year, while its diluted earnings per share of $2.48 soared 854%."
+    publishedDateTime: 2023-10-18T09:15:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/18/1-magnificent-7-artificial-intelligence-ai-growth/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 58
+      name: The Motley Fool
+      domain: fool.com
+    quality: 61
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/751216/the-letters-ai-glowing-on-a-circuit-board-processor.jpg"
+        width: 2309
+        height: 1299
+        isCached: true
+  - title: "UMG and Bandlab Form Strategic Relationship On Artificial Intelligence (AI)"
+    excerpt: "Universal Music Group (UMG), the world leader in music-based entertainment, and BandLab Technologies, the parent company of the world’s largest social music creation platform, BandLab, today"
+    publishedDateTime: 2023-10-19T00:16:00Z
+    webUrl: "https://www.musicconnection.com/umg-and-bandlab-form-strategic-relationship-on-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: Music Connection
+      domain: musicconnection.com
+    quality: 50
+    images:
+      - url: "https://www.musicconnection.com/wp-content/uploads/2013/05/umg-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "oSq/Kkyxkx8xp+E/3Fioi+9uToAAKttl7mEkRYZG7xkeo51U7RttNz9gLOdBJWJlzgnZf1LFwRfg4g9v0EXN88kbWT2Giquu4LduSMEuoVGIwsW7SLkQ1ybDsOVpxyefSRGIko5Ob1GM0iOf3D+F5cDHfqt1IweCCkjowk9JSwgj6coI9fgVY3Pm5EabyvCIOE3HVXoQjys5hMgBAOd/T+G/B6pZk0bjKjTLRZTfpZEtyxm82W/dDUjjpVsn4qfWL7xyV4fAlkT27en7G4acIY3G6Qio1SIUg+r8rpsXswet/Sc5PHgcFmA98bOvqRxPSmkKFw+YcOTrVbfYFovXGUrHnnFGLyjR91H/0r0j2xhbhXcjwmmAW225QbLff/I2oV9Qw26YzL0reHlNgiOJbQkgMTeIlbBp4qS3ou7+IUBL0Wl9IKNQTy0yFoLw7TOx9Ae9NXlu/x9hyyuTxEVVtmSsoa/p5utQGEjIpM8QdGLkZMk0kCheSXa1ORfc2XwPbWJmD2Gq0P3Jx/UZ2oIEUQ==;vAkJeyXuqDwdi9NGuTL4qw=="
 ---

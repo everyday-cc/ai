@@ -24,6 +24,17 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "BandLab Technologies and UMG Strike ‘Strategic’ AI Partnership"
+    excerpt: "This collaboration is designed to be a beacon of innovation and ethical practice in the industry,” reads a statement."
+    publishedDateTime: 2023-10-18T13:01:00Z
+    webUrl: "https://www.billboard.com/pro/bandlab-technologies-universal-music-ai-partnership/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 17
+
 secured: "VXhScLDWPgkXVvQaDYCh4gC+450n608ZuixVBtlKMuT08S3wJdo8TJ4J6jOSqmNfxq5/puLaCvfvvpC2SVUtJvo6RH5X/5vEnklrHzlofKBY/Lg0CUVwiDLwhIdzP0dCNa4B2K2U/kCn1tMweWuNeINBLCU+PQLUOlY5EeXPL3+NrKEk9CHMyHmH+w89VsoPAslFktci3S5A2q3AasXTeOuW+yDg9e7DLsxZCzOhbShEnLU9He6m9IaumDAcpc2F9NBDPg8u8kncnkIZL1Mvr0mn24DoNwn6MuXVZrqlPaHzQHz8Rt9XetPzgorxLR1xiSggzjy+0qO5czjgBpoHLDwLWgYCTRZqMRdZ/1/EBMQ=;WehiR6VtRO3kH/PWEv7EcQ=="
 ---
 

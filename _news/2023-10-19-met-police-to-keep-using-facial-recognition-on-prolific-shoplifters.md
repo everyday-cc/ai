@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/5020628.jpg?r=1697678820929"
         width: 590
         height: 386
+        isCached: true
+  - title: "Met Police roll out facial recognition technology to tackle London's worst shoplifters"
+    excerpt: "She added: \"This technology threatens our privacy and stifles free speech - and we should all be worried about moves to expand its reach. \"We're also concerned about the creep of facial recognition technology into other areas of policing. \"Let's be clear ..."
+    publishedDateTime: 2023-10-20T08:29:00Z
+    webUrl: "https://news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
+    ampWebUrl: "https://news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 53
+    images:
+      - url: "https://e3.365dm.com/23/10/1600x900/skynews-security-freshfields_6325352.jpg?20231018081720"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Facial recognition gains for shoplifting investigations jeopardized by policy gaps"
     excerpt: "Facial recognition is being used to identify shoplifters and criminals in London and in Indiana, but also generating controversy."

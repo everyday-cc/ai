@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/your-ai-experiments-will-fa
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/"
 type: article
 quality: 85
-heat: 98
+heat: 95
 published: true
 
 provider:

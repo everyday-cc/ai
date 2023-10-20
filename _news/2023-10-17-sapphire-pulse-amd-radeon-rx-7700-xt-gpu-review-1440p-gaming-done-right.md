@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-rade
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Firstpost
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "New AMD Radeon RX 7900M laptop GPU looks to compete with the RTX 4080"
+    excerpt: "The latest edition to the flagship Radeon GPU line is made up of 72 AMD RDNA 3 compute units, and contains new AI and second-generation ray tracing accelerators. Along with its 16GB of high-speed GDDR6 VRAM, 256-bit bus, and 64MB of Infinity Cache ..."
+    publishedDateTime: 2023-10-20T09:17:00Z
+    webUrl: "https://www.pcgamesn.com/amd/radeon-rx-7900m"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 39
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/10/amd-radeon-rx-7900m-featured.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Alienware m18 gaming laptop: first with AMD's new flagship Radeon RX 7900M 16GB mobile GPU"
     excerpt: "Alienware's new m18 gaming laptop is the first to feature AMD's new Radeon RX 7900M 16GB mobile GPU, and with an AMD Ryzen 9 7945HX mobile CPU."
     publishedDateTime: 2023-10-20T02:08:00Z

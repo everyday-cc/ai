@@ -119,6 +119,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DCT Abu Dhabi and Microsoft sign MoU on generative AI, cloud technologies"
+    excerpt: "The alliance enables innovation in key areas such as generative artificial intelligence (AI) and cloud computing and brings together both organisations’ capabilities and resources to enhance the touri"
+    publishedDateTime: 2023-10-20T09:27:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dct-abu-dhabi-and-microsoft-sign-mou-on-generative-ai-cloud-technologies-pk47jcgw?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 73
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MDhkNmI0NWItZTNkMS00/0/naimyazbeck-generalmanagerofmicrosoftuaeandheadnanalawadi-supportservicesexecutivedirectorofdctabudhabi-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Morgan Stanley On Microsoft Ahead Of Q1: Optimistic on AI Future Despite Early Innovation Cycle"
     excerpt: "Morgan Stanley analyst Keith Weiss remained Overweight on Microsoft Corp (NASDAQ:MSFT) with a price target of $415. The analyst holds firm conviction in the significant opportunity ahead of Microsoft within Generative AI and the company's strong positioning to execute that opportunity."
     publishedDateTime: 2023-10-17T16:11:00Z

@@ -41,22 +41,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
-    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
-    publishedDateTime: 2023-10-19T09:08:00Z
-    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
-    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
-        width: 834
-        height: 636
-        isCached: true
 
 secured: "rIYmT3psEuHucEmylUpizLmi06hr19U9s4RtTcbqI6o6k26JoXNxZt39h8A+vn40K+DlVmmifQReatKa89z7E6lsqhTmk7QJRVbS7VCQ7BLUGftCAHAj9qiQPLrvjymGnj3fEh+iI4NNg1NclK4L3EMDOWsFHM7ZxMNwW77vXsUd/AKESUs9nk4HfjRIw8IsJohPSKYO6sNDA3uotx0G7CArMR0gZ3KizOwLtZa1EaeWp0o1LrG0AYQoDlbBqvtVLMnJ94ase16tkmlayXp92elaA8MydPy6X2DrVEfcFDSpwkmkskE1H6nEScg89/fxUie0iqJ/5UkD6xnMVk6DFNxKq8J0Od5MH192HUtNhNU=;DEkDoXLOFT+5RWnb4N2SvA=="
 ---

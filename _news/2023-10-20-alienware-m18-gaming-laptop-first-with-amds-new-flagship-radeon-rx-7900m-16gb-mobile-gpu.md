@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "New AMD Radeon RX 7900M laptop GPU looks to compete with the RTX 4080"
+    excerpt: "The latest edition to the flagship Radeon GPU line is made up of 72 AMD RDNA 3 compute units, and contains new AI and second-generation ray tracing accelerators. Along with its 16GB of high-speed GDDR6 VRAM, 256-bit bus, and 64MB of Infinity Cache ..."
+    publishedDateTime: 2023-10-20T09:17:00Z
+    webUrl: "https://www.pcgamesn.com/amd/radeon-rx-7900m"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 39
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2023/10/amd-radeon-rx-7900m-featured.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "aDCWJAjt56p+7U54T99uigBcDgoZmaZNmxSaPD0XaGKVXlL5lvXATLV+z+OmNsGX12gZyFjJvPK9q6/n47fkZG6zyXMlnAPlCdV2AaKyXL5GY8hqPVmIs/sR2KK+7Zbj6+/ueEYGduzvZs5geCZy8R0Z3jKsBYK1cP+WU+18bKJcWL5L+hAPn5btAyXzZOzoIozbLg/Srmbv36HBo9RlYIkQKBpLQ5FN+QcmsQjGyKsSuW7zvSzP9iI7LVUDgk6SbXGv1slJJ8CcyQHRbDrdIcHZbwJ4uORYEuI1e4UCd0IUz5y6rAVuWNkbtQk50Aec1nzPrpQesFMWzA4gPPLhVhnU8nonLc2ZywUm+zAVMaKb+UzMcMmSuv+tV3g1KT4pXHnYEUNTJTemnwgNi3vmp9aE5h514QZqaVQVOuRrymzTRALvm1mvwc0SXG7Z/2q53aaJSoweVSxR2qHjJYsFelIMMlU+XyJnCxZn2g8lCbt0ujutx2V/uW71jzOTt5lj4D9o32yqzXjP0Da0AB6JCw==;rUTNhIcgSfn+Ap+Dd6foXA=="
 ---

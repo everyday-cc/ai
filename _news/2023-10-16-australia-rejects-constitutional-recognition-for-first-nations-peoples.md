@@ -133,20 +133,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Op-Ed: Australia votes No to Aboriginal Voice in a messy referendum"
-    excerpt: "The proponents of the Yes vote had a problem, too. The Aboriginal Voice to Parliament was to be an advisory body “without binding powers”. Try explaining that to a suburban middle-class country."
-    publishedDateTime: 2023-10-15T15:49:00Z
-    webUrl: "https://www.digitaljournal.com/world/op-ed-australia-votes-no-to-aboriginal-voice-in-a-messy-referendum/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 24
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/10/d03cb5e11780196d6d750c8fd04dc9b5c1ca353e.jpg"
-        width: 768
-        height: 502
-        isCached: true
   - title: "PM baulks at treaty, Dutton dumps recognition vow"
     excerpt: "Anthony Albanese refused to discuss a treaty while Peter Dutton dumped his plan to push for recognition after the resounding defeat of the Voice to parliament."
     publishedDateTime: 2023-10-16T08:03:00Z

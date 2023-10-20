@@ -87,6 +87,22 @@ related:
         width: 590
         height: 386
         isCached: true
+  - title: "Met Police roll out facial recognition technology to tackle London's worst shoplifters"
+    excerpt: "She added: \"This technology threatens our privacy and stifles free speech - and we should all be worried about moves to expand its reach. \"We're also concerned about the creep of facial recognition technology into other areas of policing. \"Let's be clear ..."
+    publishedDateTime: 2023-10-20T08:29:00Z
+    webUrl: "https://news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
+    ampWebUrl: "https://news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/met-police-roll-out-facial-recognition-technology-to-tackle-londons-worst-shoplifters-12987133"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 53
+    images:
+      - url: "https://e3.365dm.com/23/10/1600x900/skynews-security-freshfields_6325352.jpg?20231018081720"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
     publishedDateTime: 2023-10-18T15:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-rai
 webUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-raises-300-mln-alibaba-tencent-others-2023-10-17/"
 type: article
 quality: 66
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--mCqdsPQ6--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2023/02/01/default-section-og-image_0_1.png?itok=yEDAjBZG"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
+    excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
+    publishedDateTime: 2023-10-20T08:15:00Z
+    webUrl: "https://www.cryptopolitan.com/alibaba-and-tencent-invest-342-million-in-ai/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 33
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5877739083780963915_x.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "AI Startup Baichuan Secures $300 mn in Funding Round Led by Alibaba and Tencent"
     excerpt: "Chinese artificial intelligence (AI) startup Baichuan announced it successfully raised an impressive $300 million in funding. The VC funding round saw participation from major Chinese tech giants, Alibaba and Tencent, affirming the industry’s growing ..."

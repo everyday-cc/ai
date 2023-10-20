@@ -143,6 +143,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
+    excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
+    publishedDateTime: 2023-10-20T08:15:00Z
+    webUrl: "https://www.cryptopolitan.com/alibaba-and-tencent-invest-342-million-in-ai/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 33
+    images:
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5877739083780963915_x.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "sp5AvrL/cLh2C27MFBQTDLpHHCaOZC4soZKx6l/7olnR8IbV55s5lgqE3aHb5UUHt127/B1YJ0Sb0ov+aCBEmrygU/fKA1ErEbrWeFEPjM67L/OfSGqqH4uN2NUNoi8jNSvhPsKL0cCF5KQPsMVCXZOeq0wrnEtfg6lBFgHz8NfC/H9jk/JYEyHMcjh1vuZJlVFpcYcX+LE02TPlzWqyG0qNv1g7edRlhkjjrPwYAyfUaoD57P3XEGj0ZBazf9NDd7D407Nl5iWAjaADyiAKsp0ty0q8VZcc0GtzM4Go/X03oNIGE0GaderuDF6E6HRru9rA83bcxsbFRJgP7kTZsMnGdDVO2FZRopoM+eHJdgc=;EXfaHNYpXkwpvZHhvnF6Dg=="
 ---

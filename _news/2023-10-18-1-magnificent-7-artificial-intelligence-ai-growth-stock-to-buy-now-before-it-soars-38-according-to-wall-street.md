@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/18/1-magnificent-7-artifici
 webUrl: "https://www.fool.com/investing/2023/10/18/1-magnificent-7-artificial-intelligence-ai-growth/"
 type: article
 quality: 61
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,50 @@ images:
     width: 2309
     height: 1299
     isCached: true
+
+related:
+  - title: "1 Artificial Intelligence (AI) Stock to Buy and Hold Forever"
+    excerpt: "Chipmaker Nvidia ( NVDA 1.40%) has become a Wall Street darling. It's soared by a whopping 215% year to date as it takes advantage of the opportunity in artificial intelligence (AI), which boosts demand for its cutting-edge hardware."
+    publishedDateTime: 2023-10-17T10:30:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 82
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/751095/gettyimages-1433587895.jpg"
+        width: 1878
+        height: 1596
+        isCached: true
+  - title: "Why Wall Street Thinks This Artificial Intelligence (AI) Stock Could Skyrocket 140% Over the Next 12 Months"
+    excerpt: "However, don't automatically jump to the conclusion that the joyride is completely over. Here's why Wall Street thinks one AI stock could skyrocket 140% over the next 12 months."
+    publishedDateTime: 2023-10-16T09:50:00Z
+    webUrl: "https://www.fool.com/investing/2023/10/16/wall-street-artificial-intelligence-ai-stock/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/750127/ai-icons-hand.jpg"
+        width: 2188
+        height: 1369
+        isCached: true
+  - title: "UMG and Bandlab Form Strategic Relationship On Artificial Intelligence (AI)"
+    excerpt: "Universal Music Group (UMG), the world leader in music-based entertainment, and BandLab Technologies, the parent company of the world’s largest social music creation platform, BandLab, today"
+    publishedDateTime: 2023-10-19T00:16:00Z
+    webUrl: "https://www.musicconnection.com/umg-and-bandlab-form-strategic-relationship-on-artificial-intelligence-ai/"
+    type: article
+    provider:
+      name: Music Connection
+      domain: musicconnection.com
+    quality: 50
+    images:
+      - url: "https://www.musicconnection.com/wp-content/uploads/2013/05/umg-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "U6R11KEh8orRi+E6a3Tqn0MRfwLBOtEXN1L2kV5Ef7zF7bhbgXviPji2anmFr5dJER6sG4VxzixK3pwAztvA2uBv8vRODrQ5X1U2lI8GIFkydduHmIY6sl8VcLJBm9ZFwUeedjV3RiCWHMHjdJmhQQE3p4xrwSLxvYptfUjetgUGV5bf/2/M2g8D8ELK/QFTusBTBijQsNPth2gqSzWbmpRppfIeReOOpbCWkDWpuCwl92HHDjEdO7A9LcM0bfFCCNhwbjEmKYnQA+c7JswU7Sk4LvQEwzEngx6PRlh9u2TbU8X089ZHUsYPhYIqzNlVQdEYwE6DcHINTe2KoQ7OANKUyGVS/orkveAZFfKsl6E=;eUm1ElPgO22/QXcUPU1gjA=="
 ---
