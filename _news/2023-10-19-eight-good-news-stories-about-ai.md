@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-19T08:06:00Z
 originalUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
 webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/youtube-ai-tool-songs-sound-like-fav
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/youtube-ai-tool-songs-sound-like-favorite-singer-music-2023-10?amp"
 type: article
 quality: 72
-heat: 82
+heat: 84
 published: true
 
 provider:

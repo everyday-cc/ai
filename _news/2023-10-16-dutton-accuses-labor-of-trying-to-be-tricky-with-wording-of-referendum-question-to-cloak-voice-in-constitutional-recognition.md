@@ -230,15 +230,6 @@ related:
       name: The Age
       domain: theage.com.au
     quality: 15
-  - title: "Australia indigenous voice referendum fails as ‘no’ votes prevail amongst citizens"
-    excerpt: "Australia's 45th referendum failed Saturday as polling results revealed a 60 percent majority of Australians rejected the proposal to recognise the country's First Nation people within Australia's"
-    publishedDateTime: 2023-10-15T12:04:00Z
-    webUrl: "https://www.jurist.org/news/2023/10/australia-indigenous-voice-referendum-fails-as-no-votes-prevail-amongst-citizens/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 13
   - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
     excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
     publishedDateTime: 2023-10-15T20:30:00Z

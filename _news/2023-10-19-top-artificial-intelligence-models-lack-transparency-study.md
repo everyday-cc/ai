@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "AI Models Lack Transparency: Research"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
+    publishedDateTime: 2023-10-19T15:16:00Z
+    webUrl: "https://www.barrons.com/news/ai-models-lack-transparency-research-13234812?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP5078617444604516448381783324554086861462---1.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Stanford researchers find biggest AI models rank low on transparency"
     excerpt: "In a time when ethics are openness have become a want in AI, Rishi Bommasani, the society lead at CRFM noted that transparency has become a valuable trait. Music publishers sue AI company Anthropic over song lyrics “A lack of transparency has long been ..."
     publishedDateTime: 2023-10-19T09:55:00Z

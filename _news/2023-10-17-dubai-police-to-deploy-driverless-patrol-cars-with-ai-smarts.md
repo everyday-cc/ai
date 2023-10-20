@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
     provider:
       name: Jersey Evening Post
       domain: jerseyeveningpost.com
-    quality: 19
-  - title: "Watch Out – Driverless Cars Are No Place To Relax"
-    excerpt: "Early data on activities that will be unsafe to undertake in automated vehicles has been released. From doing work to watching the world, from social media to resting – preliminary results are in. A s"
-    publishedDateTime: 2023-10-15T12:19:00Z
-    webUrl: "https://scitechdaily.com/watch-out-driverless-cars-are-no-place-to-relax/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
     quality: 19
 
 secured: "Gpb7+XTeZAMM2//jXHUf+ceWCT9oD3jiNUqdWdlIOIcuYchqVObdsrscYg1AuVNNDPC/VdW8MKXxk7ts7UiK3d/ZmThww9GxoLZ5amuHLumfIFK8pOilIhElbmOnzjoeCXBu0srcHak+8TkTgaZccWiw/gf50LYhGhKRhtOMdx9NiSoodXzA1tXj6OCkT5yAMEun7+ZNjY+84T+LH9++ae2ZqEBwhHf6B48bRIBhvW+JofhdVB8EgbYoFcuVjivqeETymtnotV3oMCfmodUIIu9/4Gb3mEznfx+N5MLVZvPMTZ87LIAHk78uVq/N8oMpC/drt6me7aX4uGowF1qD9aCDgCVvaugONNs2MawJGUdQUVu3b5AeuByfXoWLfnpYmmgRMWLX4DCrEF6F7Bs+jZ41B7aQxuhAugyTMUY/0nMyWpmlxW0w3PX/sabNthofxEiFJ9ZZ5Z/Eyzrvq8sS037CC83sRrYVormGlk/mhNdP0spUyMRjHvqhOv6Ajfw9rFEjLhP3AFNwdBTUz7ISBg==;qndqzHg4a2xnt506Psn4mw=="

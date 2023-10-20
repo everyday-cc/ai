@@ -221,6 +221,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Microsoft’s Stock Performance: An Analysis of Azure Growth, AI Influence, and Office Commercial Prospects"
+    excerpt: "Microsoft (MSFT – Research Report), the Technology sector company, was revisited by a Wall Street analyst today. Analyst Derrick Wood"
+    publishedDateTime: 2023-10-20T04:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-stock-performance-an-analysis-of-azure-growth-ai-influence-and-office-commercial-prospects-1032722762"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
     excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, hybrid multicloud technology solutions company, has partnered with Straits Interactive, a leader in data"
     publishedDateTime: 2023-10-18T16:54:00Z

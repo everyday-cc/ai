@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-19T15:08:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902213.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902213.htm"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Why the EU AI Act Will Influence Marketers' Next Act for Data Privacy"

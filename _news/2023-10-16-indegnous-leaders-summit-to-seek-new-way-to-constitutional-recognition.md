@@ -238,15 +238,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Australia indigenous voice referendum fails as ‘no’ votes prevail amongst citizens"
-    excerpt: "Australia's 45th referendum failed Saturday as polling results revealed a 60 percent majority of Australians rejected the proposal to recognise the country's First Nation people within Australia's"
-    publishedDateTime: 2023-10-15T12:04:00Z
-    webUrl: "https://www.jurist.org/news/2023/10/australia-indigenous-voice-referendum-fails-as-no-votes-prevail-amongst-citizens/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 13
   - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
     excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
     publishedDateTime: 2023-10-15T20:13:00Z

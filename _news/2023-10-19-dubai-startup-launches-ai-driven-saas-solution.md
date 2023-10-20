@@ -106,15 +106,6 @@ related:
       name: Jersey Evening Post
       domain: jerseyeveningpost.com
     quality: 19
-  - title: "Watch Out – Driverless Cars Are No Place To Relax"
-    excerpt: "Early data on activities that will be unsafe to undertake in automated vehicles has been released. From doing work to watching the world, from social media to resting – preliminary results are in. A s"
-    publishedDateTime: 2023-10-15T12:19:00Z
-    webUrl: "https://scitechdaily.com/watch-out-driverless-cars-are-no-place-to-relax/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 19
 
 secured: "Ozy+8JbjECt23B8Mwwgyo2V86qAyCw9w5i7nSRmqoW66akiN/KSsw7Ej4DRJ/bwI/Ai03bDxa24dxloiV369ImtSk+xkL8OMPRKTtfQalOTPotWaQlT+8Qvo8q+3cuE0EpdBbqG3TZppWYw1AEcgwDyrZIQUF2cyff4RHYgN2eWJpFrCSbGP2QXGudRv2krGqJWkT9qzY20hLWzeMnE8c1V9GTBOkKWGywYYpTqWTY8txjB4z5jgYP7ryttuISR8Xb0Ae6lR7QRw/jqxHoZerISz4EYtQyq+UE2qB9q1w7zSFzCX3nvT13CFKHNd7QRWzQCf6NlAj3uYZE3/O1RC+6zrqBGtKs1zezsiiwbahEAt/R8nA99va7mc2Rx56iiezIMUHYvIwtJ3BL62k+hswABjvR6mc2uSReGrFQZogfuQMuq8algD8rmJE4ilRYQoelR0arK0GglM+C16MKJacK7WQSnjoz1kBSGfctHlHnGukZCGf/ObMQ8GZ3jLF5Uy9kXS++MgUwV9r+XOWgCeIw==;syPAjTbs3yhWkJMWuARq/g=="
 ---

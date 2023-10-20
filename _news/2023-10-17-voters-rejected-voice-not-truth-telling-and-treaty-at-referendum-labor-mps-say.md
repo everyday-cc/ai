@@ -30,17 +30,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Voice referendum: Truth-telling for Albanese as voters deliver defeat"
-    excerpt: "Anthony Albanese will reaffirm Labor’s commitment to advance reconciliation while pursuing ­treaty and truth-telling and reset the government’s focus on cost-of-living pressures and national ­security,"
-    publishedDateTime: 2023-10-15T11:26:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/voice-referendum-truthtelling-for-albanese-as-voters-deliver-defeat/news-story/e570b805b3753d8b27a304304ab1a353"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
-
 secured: "+V0OZrZLAIzUKVja6WL+9Ydpv9wMVsFGC+wU3mam4lmjnWiJDqEMJ6YAkWHrNHF9NaeOBe45sY0sKEK1ViumtDBIlCPaC8iOe04myrrNytH8KEtM4y7YygpI1L7npg+xUo1lcmhcJRRZttvmQHC1zexTDPL1cVdN+L5ZhZOqup+UZ7YgDsVZHAcbLp7Gb4xJAa8N8vttUNIzQFzy+tEkbltzXjouAP1OYW7vIjNQqXvnXJ4qQDPrG0vco8l9NUXsg7KnVLQ4RMWBH7u8F+TGdJ88npvNtMbvlhxwmijT20/40omcyJiwLCFj3v/59xjEtYXBEjFgmUw6mLZrrncp0fe6x3NXYaAdnhquHM3uQ28=;FGTZElC+sM957SCcyMka9w=="
 ---
 

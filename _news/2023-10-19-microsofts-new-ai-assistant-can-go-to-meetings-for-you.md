@@ -208,6 +208,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Microsoft’s Stock Performance: An Analysis of Azure Growth, AI Influence, and Office Commercial Prospects"
+    excerpt: "Microsoft (MSFT – Research Report), the Technology sector company, was revisited by a Wall Street analyst today. Analyst Derrick Wood"
+    publishedDateTime: 2023-10-20T04:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-stock-performance-an-analysis-of-azure-growth-ai-influence-and-office-commercial-prospects-1032722762"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Microsoft Stock Fueled By Artificial Intelligence In Office Apps – Investor's Business Daily"
     excerpt: "ARTIFICIAL INTELLIGENCE: Will Microsoft’s High-Stakes Bet On AI Pay Off?"
     publishedDateTime: 2023-10-17T01:04:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu unveils latest version of LLM, Ernie 4.0"
-excerpt: "Visitors learn about the autonomous vehicles at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
+excerpt: "Visitors learn about robot products suitable for home application at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
 publishedDateTime: 2023-10-17T06:45:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_9.html"
-webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_9.html"
+originalUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
+webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 672
         isCached: true
 
-secured: "sby2C1HhzzxFPRyv5BeyfsZRP6EQYPTRC+ZpvK231/dlaxzzNTU5+qa3yE+94GbxYob5ZBXIcyemzdM2ByoKlpovhI1v9Mq3bRQbJlBVouf6slxRslIKq2LKnE81ltGoe/SbSM0Z685UO1AW1B+v+lo5TQDz8Hwn+cu12NotPr1Q0YFgm+oqqPbb04GwtSeMwBlViCduW/wxwipIpg0bBXBmYa6m0o0AMzkJbyIS6hBJETm2wwLPXkIrla9vDHr5bunXmwyUyenDGZSgvNKwMaoTXeabGg4B2bDNE3bpFHsUNxtk9fBeFO36Xm0zVhMXWRchI+ltyPvfi2vtHyLx1FNGRPbqMyeedxoiDDaGFC8=;b1j2Nf5NVz7t42iV7M/EqA=="
+secured: "eG6K6tz6piyGaLz8sMtVqXYg/Er+EhnyRr1DokUFMP0na+W/aGp+LjbysFqOoiUiI40k4iZ+n54TuZ5DhqL/oZsQ95emoArlpT9m5fhCoD1D4w1tV2YV+xoDIQwUbzZLozmHHjpda3VhU7zSQLRabu2S2xaX0jEt5PbisWWOZjMqDK0uCVpKCawfIYXyVgcjQEclz2S0C224uB1FsZxuQfrjLTWqTi9GNDL2uQgNz7BsfLcp2u4A6yqRFeCvX/sOeofzFpv7WuyZNZ9Fp+N5Mq1eRBajRNMsVILzg9rgX+ovNbGPMz9ua+iiUmtSyvJF0jozPrmQyN+RcT00GENWD8N3R9goG0E9AZEcncnSzUU=;CdXVZZ/IhYfyyXrv7wcNvQ=="
 ---
 

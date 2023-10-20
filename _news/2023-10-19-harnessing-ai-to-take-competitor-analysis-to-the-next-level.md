@@ -39,7 +39,7 @@ related:
     provider:
       name: THE WEEK
       domain: theweek.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
         width: 1200
