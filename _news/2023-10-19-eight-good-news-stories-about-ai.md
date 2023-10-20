@@ -51,20 +51,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "gTBx+h+i0QQrPWmqEDeIucUSto7Okxd481BCFUmW/Edka9vOwshY2Y7V1BPPahvJB28HH9D+/O5tjC5nxDkRpmkt+L2dcEVAK/mGesjQVQ66TdApOIPkoEjYJ3vb5WwT9m7loY0vTWz/brTqcNb7L20OCwcaz3+3BiJHTz1Ijl0QYM/PsGKRKgIMVVcdlnoReqUa1CBri2dQbZYry1tGZQBsUQiZlTqBusYioBMEXnjFjp86n3+GrZA3c9v1R2whbtcQJvyoa5w8UIF59k45K3x3A9GYyM7FOiD0HtLLqNw4yIj3lrhZuPDOiKKS5hGK8FXeSnwCL5Q19D8szSJGuUIzQZszvCTMlFR0AIyI7Uq4X9siEFkLxbGgxlKWr6kkuqfhvclYEw5geImOX4Ea1QwLVLwPuTye60SlsnNBWg6yCd86HjYWK9vf4JpkjkEdh/oaT4KIZzU3UC53l8kCQXTR+bnMo3sWcpkwD14owa/fJGkA16U8QjVaeAv8XGvD70YF7+oZ95csEzNsFLT9Og==;2VTdUMNsUM7ZIY8OzBByxw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/amp/"
 type: article
 quality: 119
-heat: 349
+heat: 359
 published: true
 
 provider:
@@ -310,6 +310,15 @@ related:
     provider:
       name: AFP
       domain: afp.com
+    quality: 34
+  - title: "NVIDIA’s breakthrough AI teaches robots human-like complex skills"
+    excerpt: "Eureka not only improves the performance of the bot significantly but also achieves this by planning rewards on the basis of human feedback."
+    publishedDateTime: 2023-10-20T13:00:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-ai-agent-teaches-robots-complex-skills"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 34
   - title: "6 Generative AI Startups to Watch in 2024"
     excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."

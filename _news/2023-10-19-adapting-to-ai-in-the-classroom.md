@@ -26,45 +26,70 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing AI To Take Competitor Analysis To The Next Level"
-    excerpt: "Recent advances in AI present transformative new capabilities for streamlining and enhancing competitor analysis."
-    publishedDateTime: 2023-10-19T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
+  - title: "How to choose the best AI platform"
+    excerpt: "AI platforms drive a range of benefits for your business, such as increased automation, scale, security and more.\nThe post How to choose the best AI platform appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-20T15:27:45Z
+    webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How To Control For AI Bias In Lending"
+    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
+    publishedDateTime: 2023-10-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652ff4358de9dfa9761ca6a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
-    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
-    publishedDateTime: 2023-10-18T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+  - title: "How To Help Your Customers Trust AI"
+    excerpt: "According to a 2023 Dentsu report, over 70% of customers say brands should disclose when they're using AI. Tell customers how you're using AI in your business. Are you training your chatbot to give more empathic answers? Gathering insights to improve your customers' experiences? Be specific about what tasks AI is doing for you."
+    publishedDateTime: 2023-10-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "Eight good news stories about AI"
-    excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
-    publishedDateTime: 2023-10-19T08:06:00Z
-    webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b06f007993cd0655ee1983/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 400
+        height: 223
+        isCached: true
+  - title: "25 of the best free AI courses on edX"
+    excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
+    publishedDateTime: 2023-10-20T04:01:00Z
+    webUrl: "https://sea.mashable.com/online-learning/28031/25-of-the-best-free-ai-courses-on-edx"
     type: article
     provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 41
+      name: sea.mashable
+      domain: mashable.com
+    quality: 69
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
+      - url: "https://sm.mashable.com/t/mashable_sea/deal/2/25-of-the-/25-of-the-best-free-ai-courses-on-edx_ykjm.1200.jpg"
         width: 1200
-        height: 676
+        height: 800
         isCached: true
+  - title: "AI Platform Alliance will drive AI to be more open, efficient and sustainable"
+    excerpt: "By fostering community-driven development, the consortium aims to expedite AI innovation by creating more transparent and accessible AI platforms. This collaborative approach seeks to enhance the efficiency of AI in solving real-world problems and establish sustainable, environmentally friendly, and socially responsible infrastructure at scale."
+    publishedDateTime: 2023-10-17T19:00:00Z
+    webUrl: "https://venturebeat.com/ai/ai-platform-alliance-will-drive-ai-to-be-more-open-efficient-and-sustainable/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
 
 secured: "sFf0ijb16Di5gszZHql3mk+ESEnGLgZyuUIb3YMnMgqf+2TONk1/DUBrf7ZlHVZGQid2yBcbfdSzxUFRnLpygVgRXCBo3UliBkT8p/pYwE4B+6Qbp955r7cqLrE3/SJ5rNyGHU8zFhiHk+ZyEQ3yZ4GxSF3JTguHAmZ4TLcSmqO1xyjX/uZF5QfOIWT8i3mzZxrlPq6BdKq28xAddfkoXNlQdOYPB05gGeHahDJaJi3Kz4+2SuRZHBAF6GLHWtD4Ifg8zQNVbT1gdC8wGsOeelKSjAa4UODGv6U1a5e8+gqebff89fmMI4F+2I8aKxSrm1WejbCnWRwnM4s7yq3M5NVO6z7H16ulr6gE2a95Ysw=;FgL43aHcaxj2oHnwB8URHA=="
 ---

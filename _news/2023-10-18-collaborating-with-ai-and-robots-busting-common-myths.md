@@ -3,11 +3,11 @@ category: news
 title: "Collaborating with AI and Robots: Busting Common Myths"
 excerpt: "The number of AI companies in the UK has increased by 688% over the past decade, and while the advancements in this technology are exciting for many, several myths have popped up that have generated job-related worry among many workers."
 publishedDateTime: 2023-10-17T18:52:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths? Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/collaborating-ai-robots-busting-common-myths? Control News & Articles"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.automation.com/getmedia/7089b798-5cbc-4d43-9d2a-1792fdd3c9cd/Robot-AI-feature-Oct-17-2023-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
-
-secured: "RXqceLrD5KuJE11eLrcaB84tWou/5/sxUEICS6sGWmI3ZCZP6Jf3IYFyOiBqc+dvKo1BU5NNP0nQm2ohLulIYdL/rV2FN7MOZlU3dfqBT7Q8hzCD7+YwKC9re3TZ4J8vcFJceySDkjPO+tninryBuK4HOORDVEVVvBCwnFitEjbN89oFyERLDXbTfiFtYFf5dT9/yL2HTMuaisUF3WZ7Ej2fRIlAfTzBy+O9o8RPjX6CGLD4asi+SRHOaWa/K217BLzZoE8eJQf9flpRqAtYUv2Wwpepk3P+S/3tQSkOKvuYDLV1v0H7uv+OnoS/k6a/b9A5lvXSiCMftsvZvxFm/at+Rq5iuvKSeUJg5mGFvkk=;xaE85+xBmJBuk/etzl4cCw=="
+secured: "4N+9daIvn89jCivum+4ikebycoXIxC+OyTYeU9WdToxVSvz+lPzA34uDaln10yzm3od1wP54lb0+AeLG8+T7JAOmcAAdC/tni0U/c5d5NfqjgCbS2eQBZK6kdp/+CVBlBDME96Y4lK59fCp2Rg6xEU6ViJl6/NquNJDwJIuWQ0IFpkuNSQSoAun++X5EppSaaSrnwiEEgyqeQ88lYuPHZFJXSiZAXYX0NfyP9uWV+YZoFUVcNDYDvxtas3D4kSZdvSLSeLpqjXSSQye8+LK4JeUuWXBfd9OTeSz4byqWClqBJ+rL3kF5C41pbnAT8OYN7zWS9wgHQwSW1t8LDGl54Aol/asSjCpmE7M5+Y0jK0pEBN1YMlxwdh1weX39kqUprVi+8kNRo75J7FdARO0vvTq5JjS0WEe0yUNbwb0CkalIo87XifzF0Y0jdaZHc91M4DZSFWmP+Ij8w8sPgmp/WZuNgYyvH0OfvfFLjtqvpk6Na+QTGiPYpN9fN/orri0yKofDWPfOVQNoqFTjuaXvng==;a5/8MGaoQU2iyI37xzAFeA=="
 ---
 

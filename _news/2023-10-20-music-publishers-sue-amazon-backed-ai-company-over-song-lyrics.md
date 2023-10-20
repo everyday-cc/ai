@@ -105,6 +105,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
+    excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
+    publishedDateTime: 2023-10-20T13:15:00Z
+    webUrl: "https://techround.co.uk/news/music-companies-take-legal-action-against-amazon-backed-ai-startup/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 17
   - title: "Universal Music Group sues AI startup Anthropic over song lyric copyright infringement"
     excerpt: "Universal Music Group filed a copyright infringement lawsuit against artificial intelligence startup Anthropic on Wednesday citing widespread scraping of its client’s song lyrics being used to train its ChatGPT rival chatbot Claude."
     publishedDateTime: 2023-10-19T18:15:00Z

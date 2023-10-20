@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-cont
 webUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-control-private-data-ai-models/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,58 +23,6 @@ images:
     width: 1022
     height: 863
     isCached: true
-
-related:
-  - title: "How To Control For AI Bias In Lending"
-    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
-    publishedDateTime: 2023-10-18T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How lenders use AI and machine learning to boost financial inclusion"
-    excerpt: "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde"
-    publishedDateTime: 2023-10-18T06:38:00Z
-    webUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html"
-    ampWebUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg"
-        width: 1598
-        height: 900
-        isCached: true
-  - title: "How to build a secure foundation for American leadership in AI"
-    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
-    publishedDateTime: 2023-10-18T13:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "3 AI Stocks to Invest in for Long-Term Gains"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
-    publishedDateTime: 2023-10-18T21:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "re2q0Vdpp22mHG7fahLJbPb4zu8HEcPW2xAF4V+EA2Z97ADhmEC9g1cIMDdKQ79yH6QtP/URdqfaYJSerN7cvwrR3ZrWP1mTWaqvCJ+fgw3BejjleaBPGrXZCnZIPi/92MvIq1zRcVvmJAhwsiwmlAHT2QwxwYOYfHpa/S0ThSeVvrXDo6xMI6nUR9EJjVZmEvffHgLPfK+aey7MokGNWvH+xevWfBLJzaz9C5k4l2SufALSM4POEQoW3oPjwM1Qx1qpk1oDEVCjlfSncCjD8G01Qb+FT1H1lzLE7wA4hFoH1kQ0P1onmwqT0wszPKP8ReUPQ6jSFe2pHu+t337hbbYPXgQ2pb3iPMwAASLYMnLpTaYbyrwj/GJoPfOjIhKWRsrJbG1lswzrExQAvKEmSD8vT5JV6twYZpqrBu5+iZxmtrJhjy+KeOo0xb3dimxjp8srMAHCvPPTjzFlmncz6HLeQiOI53Q3nNh4nvroKDviAyDt2g3kz8AnQsPB6GxlNXees1ql1M9JzHCNcsrkoQ==;gg+8CJ+f6l1UdFH7gqufgw=="
 ---

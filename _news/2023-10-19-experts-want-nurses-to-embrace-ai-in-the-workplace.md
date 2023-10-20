@@ -57,22 +57,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How To Help Your Customers Trust AI"
-    excerpt: "According to a 2023 Dentsu report, over 70% of customers say brands should disclose when they're using AI. Tell customers how you're using AI in your business. Are you training your chatbot to give more empathic answers? Gathering insights to improve your customers' experiences? Be specific about what tasks AI is doing for you."
-    publishedDateTime: 2023-10-20T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b06f007993cd0655ee1983/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 400
-        height: 223
-        isCached: true
   - title: "Prescribe Nature AI Introduces Groundbreaking Artificial Intelligence To Amplify Outdoor Engagement"
     excerpt: "New Digital Platform Champions the Numerous Advantages of the Outdoors Using Advanced AI ToolsPrescribe Nature AI introduces a pioneering service of custom trained AI aimed at enabling health professi"
     publishedDateTime: 2023-10-18T13:01:00Z

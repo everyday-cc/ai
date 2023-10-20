@@ -423,15 +423,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
-    publishedDateTime: 2023-10-15T21:18:00Z
-    webUrl: "https://www.inferse.com/756076/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
     excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
     publishedDateTime: 2023-10-17T08:43:00Z
@@ -485,6 +476,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 20
+  - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
+    excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
+    publishedDateTime: 2023-10-20T13:14:00Z
+    webUrl: "https://www.aol.com/why-boomers-catching-ai-faster-110017635.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 20
 
 secured: "8kUwgYuR1pFQ5J1bTmzWjv/ZzIoBE9ZNysZlCaHNCZClovGORV3pT0/+qfvYX+rScEfvzSoWbZ/ZlGg9SXn/BMIH87aoPfndyx2TDJ2L0TzyQhV6D4u/m+q+R+fFZC7F68ouRegG1rUovNPim+38ZSn6ovgbYb6RjYRU0MaT72DfWN0BYyEnYDA6GErpgiB1Zso3Wb/OyFk6UKNxjM7IhCizimBnMwrjXCpA+rJGqsI0hNsIParslvwdJsWHxydYkYbFwTBWa+apqThmj3cYCZI6kJ62CP4Le7kOLBCN7a5cVxrT32OLeZ2ankX1RBvSbWlMr984qvoZGK22/AS8ejfgr2iP/4Wi12UyrOsWqV3wTR5Dxt55BVilFoX/rEjUprw2UaCW2Xo/fr1VHaenZV/DPxte9ULcfeV4LruRp9y0jxlavS7dBZPYV7uz6Wb4oc3s4t3a5f+2RHhEjAODBpvZJiDw8oNLfjFTCTSDHTkFgEFWjniH9Q8dHZdT6Ip1bUPmoESECkiRGZRtHQUBxA==;KBPw8YGqfVT/jBayw/KCYw=="

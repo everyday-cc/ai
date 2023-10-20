@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
 type: article
 quality: 57
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
+    excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
+    publishedDateTime: 2023-10-20T13:15:00Z
+    webUrl: "https://techround.co.uk/news/music-companies-take-legal-action-against-amazon-backed-ai-startup/"
+    type: article
+    provider:
+      name: TechRound
+      domain: techround.co.uk
+    quality: 17
   - title: "Music publishers sue Amazon-backed AI company over song lyrics"
     excerpt: "The music publishers’ lawsuit appears to be the first copyright case over AI’s use of song lyrics"
     publishedDateTime: 2023-10-19T17:12:00Z

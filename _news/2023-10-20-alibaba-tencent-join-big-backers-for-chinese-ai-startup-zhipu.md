@@ -34,6 +34,22 @@ related:
         width: 7642
         height: 5097
         isCached: true
+  - title: "Alibaba, Tencent And Ant Invest $342 Million in AI Startup Zhipu, Eyeing Rivalry with Microsoft's OpenAI"
+    excerpt: "Alibaba Group Holding Ltd BABA and Tencent Holdings Ltd TCEHY featured amongst major Chinese investors doling out 2.5 billion yuan ($342 million) in artificial technology startup Beijing Zhipu Huazhang Technology Co. Many Zhipu investors joined a recent $300 million round of financing for Zhipu-rival Baichuan, Bloomberg reports."
+    publishedDateTime: 2023-10-20T14:55:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35349943/alibaba-tencent-and-ant-invest-342-million-in-ai-startup-zhipu-eyeing-rivalry-with-microsofts-openai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35349943"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35349943"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/20/artificial_intelligence_ai.jpg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Alibaba, Tencent and other major Chinese backers invest US$342 million in start-up Zhipu AI as this tech sector sees increased funding"
     excerpt: "Zhipu AI was built on the back of research from the Knowledge Engineering Group of Beijing’s prestigious Tsinghua University. The start-up’s chief executive, Zhang Peng, graduated with a PhD from Tsinghua’s computer science department. Beijing is ..."
     publishedDateTime: 2023-10-20T11:54:00Z

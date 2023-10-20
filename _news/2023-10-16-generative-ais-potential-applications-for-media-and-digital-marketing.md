@@ -158,6 +158,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
+    excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
+    publishedDateTime: 2023-10-20T13:37:00Z
+    webUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Seeing the magic of artificial intelligence applications in ophthalmology"
     excerpt: "We all know, by now, that Artificial Intelligence (AI ... In fact, we are among the early adopters of AI for health care, and some of the key uses are: Retinal disease diagnosis: AI algorithms can analyse retinal images, such as fundus photographs and ..."
     publishedDateTime: 2023-10-19T16:55:00Z
@@ -241,6 +257,15 @@ related:
         width: 1500
         height: 700
         isCached: true
+  - title: "AI And The Cognitive Revolution"
+    excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
+    publishedDateTime: 2023-10-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/20/ai-and-the-cognitive-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
     excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
     publishedDateTime: 2023-10-19T11:00:00Z
@@ -340,6 +365,20 @@ related:
       - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/WHO-AI-HEALTH-.jpeg"
         width: 280
         height: 283
+        isCached: true
+  - title: "How AI and digital transformation are influencing the food and beverage industry"
+    excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."
+    publishedDateTime: 2023-10-20T15:03:00Z
+    webUrl: "https://www.foodnavigator-usa.com/Article/2023/10/20/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry"
+    type: article
+    provider:
+      name: Food
+      domain: foodnavigator-usa.com
+    quality: 34
+    images:
+      - url: "https://www.foodnavigator-usa.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/markets/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry/16854042-1-eng-GB/Futureproofing-the-Food-System-Summit-How-AI-and-digital-transformation-are-influencing-the-food-and-beverage-industry.png"
+        width: 517
+        height: 271
         isCached: true
   - title: "Civilization depends on more AI, Marc Andreessen says"
     excerpt: "The case for accelerating rather than regulating tech does not mention \"unintended consequences\" — or climate change."

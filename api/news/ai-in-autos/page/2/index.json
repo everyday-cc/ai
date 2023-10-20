@@ -79,6 +79,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-05-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
+      "title": "Driverless cars are multiplying on Texas roads. Here's what you should know.",
+      "excerpt": "\"Driverless cars are multiplying on Texas roads. Here’s what you should know.\" was first published by The Texas Tribune, a nonprofit, nonpartisan media organiza",
+      "sourceUrl": null,
+      "webUrl": "https://news4sanantonio.com/news/local/driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know",
+      "originalUrl": "https://news4sanantonio.com/news/local/driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news4sanantonio.com/resources/media/f9178025-f018-47c8-b5c6-d94feb72db58-medium16x9_Driverlessridesharevehicles8.jpg",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news4sanantonio.com/amp/news/local/driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know",
+      "cdnAmpWebUrl": "https://news4sanantonio-com.cdn.ampproject.org/c/s/news4sanantonio.com/amp/news/local/driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know",
+      "publishedDateTime": "2023-10-05T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news4sanantonio",
+        "domain": "news4sanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-china-leads-way-with-self-driving-vehicle-tech.md",
       "title": "China leads way with self-driving vehicle tech",
       "excerpt": "There are reports that Tesla, a global leader in autonomous driving, could be getting ready to test its full self-driving technology in China. The company is forming a 20-member operation team to promote and deploy its proprietary full self-driving technology in the country and has already dispatched engineers from its headquarters for training.",
@@ -1321,49 +1364,6 @@
       "provider": {
         "name": "IT-Online",
         "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-the-future-of-artificial-intelligence-in-the-travel-industry.md",
-      "title": "The Future of Artificial Intelligence in the Travel Industry",
-      "excerpt": "Artificial intelligence (AI) is disrupting the travel industry by promoting speed, efficiency, safety and accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "originalUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Future_of_Artificial_Intelligence_in_the_Travel_Industry.jpg",
-          "width": 1280,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
         "images": null,
         "publishers": null,
         "authors": null

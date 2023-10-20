@@ -430,15 +430,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
-    publishedDateTime: 2023-10-15T21:18:00Z
-    webUrl: "https://www.inferse.com/756076/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
     excerpt: "By Chris Barry, Microsoft Canada PresidentMore than one billion people worldwide live with a disability – this includes over 6.2 million"
     publishedDateTime: 2023-10-17T03:20:00Z
@@ -483,6 +474,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 20
+  - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
+    excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
+    publishedDateTime: 2023-10-20T13:14:00Z
+    webUrl: "https://www.aol.com/why-boomers-catching-ai-faster-110017635.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 20
 
 secured: "9yDErNLvIE7AYhgH6wiE5egntxq3iGME1eYU7pCJRRO+rIkBrzePoF5MOuZInCVlFgxwGNoSWPRedS6ajVwPqxpkSHDzGyM8sT4tdCFFXz0/N79yFybdPG2grTapUeINAZZOTo3E8rEMh3ReouP/gWNJyrjqXMcpsNUt8o+jWSzalY8RT7ZfcoJmvfzA9rPgaa3rtxqRLklzmMBdIgNHGUZ+hYNPt8A5rRABtDUHhZG8fjeD81IZVpRh+ur+Up9upgy7ru/oPSAonoC+JFjR2UfaGNE0e+0PnPrlli7JYNlOoasEvIQWt8EwT03ZY46NGJtMZrZRdbR22Tv+HeN8NHRk3MvRdZrRth10409pE6w=;FAyeSo6Vm6MBLp+NR8yTTg=="

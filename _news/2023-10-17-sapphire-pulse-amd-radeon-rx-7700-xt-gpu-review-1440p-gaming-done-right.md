@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-rade
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AMD's new flagship Radeon RX 7900M mobile GPU comes with 4,608 cores & 16GB VRAM"
+    excerpt: "AMD claims that the new card would not only enable gamers to experience 1440p gaming on their laptops, but also allow content creators to render complex"
+    publishedDateTime: 2023-10-20T11:55:00Z
+    webUrl: "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
   - title: "New AMD Radeon RX 7900M laptop GPU looks to compete with the RTX 4080"
     excerpt: "The latest edition to the flagship Radeon GPU line is made up of 72 AMD RDNA 3 compute units, and contains new AI and second-generation ray tracing accelerators. Along with its 16GB of high-speed GDDR6 VRAM, 256-bit bus, and 64MB of Infinity Cache ..."
     publishedDateTime: 2023-10-20T09:17:00Z

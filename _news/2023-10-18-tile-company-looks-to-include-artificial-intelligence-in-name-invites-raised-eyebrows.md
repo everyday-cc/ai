@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/markets/tile-company-look
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: moneycontrol.com
@@ -24,6 +24,17 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "/elE/QSrAwWT0X/yvjORUX3TW+xkfbMHX8KDlLYomQ1MM0V1XEBxOtJDrNm3RumWT42rnHkCwjA4uQBIghfE5W8qjmO+djBLliouwAGfxpD9rKXf49Cu6gbzD8InsfHwY+hF6edWMRyC24NvRJs9pYczvgbTK4TRS3zoZ+m++CFpjDPTSV3NQwF/JEFrUL6/+E2iwdm18YNzvYj8ubnW6JFjG73OEwCqqciowATvjW7E06BTlz3jGoS+scar0kCz/bQ6dCZWptSBcMUZYrWpou96AwHnIjxSX0MsYzg207iwg6ZyE9WJ3KWKGoGTFAOoojcgv26n3UvRju//uFjhoEjhcZe7x2iPNSf4J3jJzvI=;0lj/BS9hIFCrofZjGS3bZA=="
 ---

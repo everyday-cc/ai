@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/philippine-military-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Philippine military ordered to stop using AI apps"
+    excerpt: "All defense personal and military in the Philippines have been ordered to refrain from using apps that utilize artificial intelligence due to potential security risks."
+    publishedDateTime: 2023-10-20T11:33:00Z
+    webUrl: "https://www.foxnews.com/world/philippine-military-ordered-stop-using-ai-apps"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 47
   - title: "Philippines Defense Artificial Intelligence"
     excerpt: "- Filipino troopers stand during rites at the 126th founding anniversary of the Philippine Army at Fort Bonifacio in Taguig, Philippines on March 22, 2023. The Philippine defense chief has"
     publishedDateTime: 2023-10-20T07:45:00Z
@@ -42,6 +51,6 @@ related:
         height: 630
         isCached: true
 
-secured: "c6QqNUYhiV1FR7ZhXNhOWpkBH2KKqeZvwH71jTKM9QIiwpuLjvj59RLNWKQKpnfpBzlUGWhKyUPrI4UchLR0RnzGxRjtVkW1/u06Q5/Hixz8pRRqt4juyHNjWwAQzpmsyfX6VkRc5Ekl78ob2Ys1XW+4IyF7wWoxBbc21fPC808n0acUL2Q5ViUisIpWVlUFVLwjEvsqpqPIjXemDDYFu30/t5HrGVXP8mO1+LEzWubwQPG0DqN7XU5CztaSXT+tSM+X1FQ6YIn6YWqpRJ7EWIFlRdHF/AEhmDDSCjrixaoV7Hkp+gCjeB1wbTxQJp4q0TwvvdTmQC/cFjeT0NS3EB4nx1GiVSZ+hfy2UBPGMGQ=;/wlLY72nqVsegru6EvJ+6w=="
+secured: "sKLaEKjvNk62kUL/pwsEx6545GjFUBf79F0BPpq9rhhBwM0mzK6WUBLwlbTqR4t2qxTT8rdX2XTm2V3hBQlCqZkC5Uy6LPr040b1hvtNPvNqszCeedB0rlqqMFv0dq7c0rcwU3i/X/oZLlziCpCzJVyyJuAnzkAZ8/3nnSN6qNA9trgZx5Y4G9k+cGlkfdnD5MInr7/lZgILO4YGUK5lhoDpGBZR/kzYD5cg+CJOA5J4ZOY4U7xWPTAcXi3eAXj4KOWHQ4Dvk6BDwtvwLvyZLd5xdyx5igxdwBj3SsmFE/WQK/Vb7TZ8A7iJDVDvemvsToQro9PirmUux3puXf+a2XRGP2r6SDFTS1kJ4RUpkAor7ovIlgaxYWzeoiTVyaZrjvKakcf68pL/++MXDflodSYXR++S4IpmK2YfAPhM2aOPoH7Qo+pMrOqfXZGgACPRIRxYXXEcSJ3fMigeM/dLrpFbSgcxy1i4wdcRGR9tW0tWI8rtfKsQZPHFO0bmwdKdMfmPJiXWytqTypvtdcTBrA==;8G5g2/8GjSsXm217jCBQRw=="
 ---
 

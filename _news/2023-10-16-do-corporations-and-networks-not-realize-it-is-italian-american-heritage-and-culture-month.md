@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "How to build a secure foundation for American leadership in AI"
+    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
+    publishedDateTime: 2023-10-18T13:00:00Z
+    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 69
   - title: "Five takeaways from American Banker's AI Summit"
     excerpt: "At American Banker's AI Summit on Monday, bankers, consultants and vendors shared how their institutions are moving forward with generative AI, fintech partnerships and security. AI is the technology that banks are most excited about to create competitive advantage, according to recent research from American Banker's parent company, Arizent."
     publishedDateTime: 2023-10-18T01:00:00Z
@@ -39,15 +48,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bank of America: Buy these 11 AI-exposed stocks that have both explosive potential and stable dividends"
-    excerpt: "Artificial intelligence will have a $15.7 trillion impact by 2030, Bank of America says. Here are 11 AI stocks tied with high upside and dividends."
-    publishedDateTime: 2023-10-18T13:33:00Z
-    webUrl: "https://www.businessinsider.com/ai-stocks-to-buy-now-artificial-intelligence-bank-of-america-2023-10"
+  - title: "Deep Learning Indaba: A Pan-African Pilgrimage in AI"
+    excerpt: "Insights, podcasts, and stories on startups, society & culture, and digital technology in Africa. We tell Africa's stories."
+    publishedDateTime: 2023-10-19T13:56:00Z
+    webUrl: "https://iafrikan.com/tag/ai/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: iafrikan.com
+      domain: iafrikan.com
+    quality: 34
   - title: "US China tech 'war': New rules coming to stop American companies from exporting AI chips"
     excerpt: "The US is set to introduce new rules that will make it harder for US companies, like Nvidia, to sell products to China. These export controls are expe"
     publishedDateTime: 2023-10-16T08:35:00Z

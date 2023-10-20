@@ -314,6 +314,15 @@ related:
       name: AFP
       domain: afp.com
     quality: 34
+  - title: "NVIDIA’s breakthrough AI teaches robots human-like complex skills"
+    excerpt: "Eureka not only improves the performance of the bot significantly but also achieves this by planning rewards on the basis of human feedback."
+    publishedDateTime: 2023-10-20T13:00:00Z
+    webUrl: "https://interestingengineering.com/innovation/nvidia-ai-agent-teaches-robots-complex-skills"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 34
   - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
     excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
     publishedDateTime: 2023-10-16T12:50:00Z

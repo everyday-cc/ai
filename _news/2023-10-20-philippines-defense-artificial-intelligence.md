@@ -40,6 +40,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Philippine military ordered to stop using AI apps"
+    excerpt: "All defense personal and military in the Philippines have been ordered to refrain from using apps that utilize artificial intelligence due to potential security risks."
+    publishedDateTime: 2023-10-20T11:33:00Z
+    webUrl: "https://www.foxnews.com/world/philippine-military-ordered-stop-using-ai-apps"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 47
 
 secured: "KyL7HOFkMpk+YBjFAjO0x6DD4Za7UZT8j/8uL112yu8D6rmiEjWLSCi4hBz2wAlDd3zQ9OSFMDhjLJfi/DYDxsWShblqbvCGEjlO/J488Lf8ZI3HuCDZ9DVSA7BVbNcf9p8y2R4x9SVfAxxAP0VlSs4YsZX2fe61IAFgsiyZvt02l13qVzA47uEEQ7L9VALiaxFL9Rf99Wr85uh5k5efrIpbW0h1vy3HcQS9Sj7zvCiAbiriXdiQyCovZqq+mz0mcdS4Yev7JBLe7qw/NLq4D9RWB1qrAxtMNld2/LVw1RH2YCnYelIad5eY5n5baxZZntBQDxaQmgSVI07ANCmNMNkWraKuJODYsynapIYyK3FwgkKeNubAR6aEo3iW7fdQMyoUqxO9Ivy9Nl+QZ0hrA8EVQ49LP4B93NDOPsayyc5+FIkCGPh/ut+uLNI0usvKv5+b46A2QfiUX37SbA5KaycCnG5cK5BCaZsHJRDwi/JJ+XLM4lsbt09iNZKGt6gL0Te7Cri5/7i24XnVXmh0Ew==;Klt2fyMdBDBxgY/Tf9oEzg=="
 ---

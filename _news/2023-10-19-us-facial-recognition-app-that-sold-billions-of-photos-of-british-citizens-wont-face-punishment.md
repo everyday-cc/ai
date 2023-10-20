@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Controversial US facial recognition company evades punishment in UK"
-    excerpt: "One of the most controversial tech companies in the U.S., the facial recognition outfit Clearview A.I. Inc., has just beaten a case in the U.K. and avoided a £7.5 million ($9.1 million) fine."
-    publishedDateTime: 2023-10-19T02:23:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/controversial-us-facial-recognition-company-evades-punishment-uk/"
+  - title: "Mat Collishaw review – AI plants put the shock and sensation back into British art"
+    excerpt: "Gorgeous blooms and stunning curiosities evoke botanical wonders, but the artist’s creations are revealed as fragile digital illusions – and nature will have its revenge"
+    publishedDateTime: 2023-10-20T14:34:00Z
+    webUrl: "https://www.theguardian.com/artanddesign/2023/oct/20/mat-collishaw-review-fabricated-plants-put-the-shock-and-sensation-back-into-british-art"
+    ampWebUrl: "https://amp.theguardian.com/artanddesign/2023/oct/20/mat-collishaw-review-fabricated-plants-put-the-shock-and-sensation-back-into-british-art"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/oct/20/mat-collishaw-review-fabricated-plants-put-the-shock-and-sensation-back-into-british-art"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: The Guardian
+      domain: theguardian.com
+    quality: 51
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/nick-loggie-fRVPzBYcd5A-unsplash.jpg"
-        width: 640
-        height: 480
+      - url: "https://i.guim.co.uk/img/media/e0834886e84c580bfd0d2351a91593c0cb1469bc/0_368_7910_4747/master/7910.jpg?width=620&quality=85&auto=format&fit=max&s=da9a18f73d4545161c2bb658382bf54a"
+        width: 620
+        height: 372
         isCached: true
   - title: "US facial recognition app that sold billions of photos of British citizens dodges punishment"
     excerpt: "A company that sold a facial recognition database featuring information on British citizens has escaped being fined because of a loophole in UK data protection law. Judges have ruled that Clearview AI broke no law when it sold its database to police ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chris-perry/2023/10/17/applying-artific
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chris-perry/2023/10/17/applying-artificial-intelligence-lessons-for-leaders-at-all-levels/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1600
     height: 899
     isCached: true
-
-related:
-  - title: "Hackers leveraging AI: vulnerability for law firms"
-    excerpt: "Hackers are upping their game when it comes to cybersecurity, going beyond email tactics. No longer are the attacks confined to email account takeover, ransomware threats, or extra sneaky attacks gaining access via trusted third parties such as title companies and payroll vendors."
-    publishedDateTime: 2023-10-15T19:38:00Z
-    webUrl: "https://valawyersweekly.com/2023/10/15/hackers-leveraging-ai-vulnerability-for-law-firms/"
-    type: article
-    provider:
-      name: Virginia Lawyers Weekly
-      domain: valawyersweekly.com
-    quality: 17
 
 secured: "aLXq/op48utMU2FdJXNd7jQqYEDOb2LoiDm+TYex2XMEnT0z6MX41TGSwULRW8b1labIgn693ThDSc9WCF72eXtNTsKm47794V7jmcENbSSp/0UsrglX7ZS58FtxEQOts/De40PLvtwRkH/TEJxMFHR2JwtvTu419JaFZbkjTsAwYWJ3ICfU2ngYYVY2jsT20KsVwhaxCexuxATTSujfp//GXAKY7fsH8s52djw6N+lSahg5VBrldWx4lVDJNqzyG1d5RSnYXYVrTawDjUaYA9QWiOsacPjHO/FRDQHNDNTjeK4rasnPzilrEBmqFo4s8z5jNwVm05rgmQ16evGBZxqZPzr4jz3Z7AdLIGz/1uk=;kOpg99f5OLt3tAxay/j41A=="
 ---

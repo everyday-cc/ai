@@ -23,6 +23,17 @@ images:
     height: 435
     isCached: true
 
+related:
+  - title: "Top of mind investments – the pace setters in artificial intelligence, says PitchBook"
+    excerpt: "What are the top artificial intelligence startups drawing the most investor attention? PitchBook is out with a new \"top 10\" list."
+    publishedDateTime: 2023-10-20T13:15:00Z
+    webUrl: "https://wraltechwire.com/2023/10/20/top-of-mind-investments-the-pace-setters-in-artificial-intelligence-says-pitchbook/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 10
+
 secured: "gbVZeVly0KlO9rlXnRqcDSOOTp4BbaoV9GpePautPIuAsrJN4IdBTOIqvqnR8I3kv4Pc8TrH1yPx95g0dezrxXTY4J1vGadmoc9GEC/AK9y152PGeA9vl22ytnRdDMwboCObdK83eoEcYCCw/sqL7e3MNg2tTgReGDKqhifgBtXN/6AWpwX3dgo7MMNaF0DT9uOCiD0a4wEDRbyrAv2eih+7t+ahHRRjCqsSFQ7pEic7JJvA16MmPpx5eG5Zxm4sIVmT0ymCDFnFD6eAHOPGpM37rSWEKq038fysslZd7RK6LubNzTSRi1of2M8PEzAB48CmLOJM102d+1S+2ogcTYeLzRG53ivbTVCX8RNte/8=;hSG6TtqCDbQjCAq0LxIVHA=="
 ---
 

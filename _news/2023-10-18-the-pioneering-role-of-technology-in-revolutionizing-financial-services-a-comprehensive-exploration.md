@@ -113,6 +113,15 @@ related:
         width: 421
         height: 250
         isCached: true
+  - title: "Stearns Bank Partners with FinTech Automation to Revolutionize Banking Services"
+    excerpt: "Fintech companies stand to gain immensely from this alliance, with the unprecedented opportunity to seamlessly integrate with Stearns Bank and leveraging FTA's IaaS Platform, reducing development cost and time to launch an array of banking services to their customers."
+    publishedDateTime: 2023-10-20T15:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902685.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
   - title: "NinjaHoldings Adopts Sparkling Logic SMARTS™ to Deliver Revolutionary FinTech Solutions for the Underbanked"
     excerpt: "Sparkling Logic SMARTS™ is a modern, enterprise-level, application-agnostic, decision-management platform that enables non-technical analysts and SMEs to easily manage business-critical decisions, whether explicit or AI-driven, with minimal IT resources."
     publishedDateTime: 2023-10-19T16:26:00Z

@@ -2,26 +2,26 @@
 category: news
 title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
 excerpt: "In some cases, they appeared to reinforce long-held false beliefs about biological differences between Black and white people that experts have spent years trying to eradicate from medical institutions."
-publishedDateTime: 2023-10-20T10:41:00Z
-originalUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
-webUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
-ampWebUrl: "https://www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
-cdnAmpWebUrl: "https://www-ksla-com.cdn.ampproject.org/c/s/www.ksla.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
+publishedDateTime: 2023-10-20T15:41:00Z
+originalUrl: "https://www.kcrg.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
+webUrl: "https://www.kcrg.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/"
+ampWebUrl: "https://www.kcrg.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
+cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2023/10/20/ai-chatbots-are-supposed-improve-health-care-research-says-some-are-perpetuating-racism/?outputType=amp"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: KSLA
-  domain: ksla.com
+  name: ABC Kcrg  9
+  domain: kcrg.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/vMOSVJG-ULReRVGnYs9ZwR_O6z0=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/TCRNNGIYSNHKNHXY3R4NBAPE2Q.jpg"
+  - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/d4RsqnyfzqH-xQegpA5GDqlzAa8=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4BTHLDANBBNZFLOVHNSADPOFY.jpg"
     width: 800
     height: 450
     isCached: true
@@ -119,6 +119,20 @@ related:
       name: Government Product News
       domain: americancityandcounty.com
     quality: 32
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
+    publishedDateTime: 2023-10-20T15:13:00Z
+    webUrl: "https://kdhnews.com/living/health/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/article_a415445f-ecb8-5c3e-a141-c6c3ff69ba34.html"
+    type: article
+    provider:
+      name: Killeen Daily Herald
+      domain: kdhnews.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/7/87/787e434c-798b-58a5-9384-ed40c3aa583e/653243805240e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
     excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
     publishedDateTime: 2023-10-16T13:00:00Z
@@ -138,6 +152,6 @@ related:
       domain: law.com
     quality: 8
 
-secured: "KBpeMznZxgUPSEJWKGIztl4Ht5xmcQ+lmmmSj8QIkckUBp+/x5VAcwXFIBUkagio7202TYZv0tCAiBM2J5RSd5S+Rh9VhqVm0IlPVIUdKv8VLlV2TGbF4a9MQ1ulGnOzKgChQqQ22RiIosZC5KYe6B1WH+8S410AGMPGkCEf2uEbqlunQj1Nesu8jlITCJBzbhm5E397WLj3RADJmpN15+s5j+FeHlsKtaLb9gGXIPQBlb28GIMV+HDuo98NBRDKpJkibvPVgQyPGX+5N6RIBGIgw4l95FFEYL13Tt/E9ne5d+UOFabbd0DgaQSuTvLfuPV+1nNnn91Sd8SdWDjfoPiey8Z7xDXiVtMQCsWp1cg=;1FX5t8VjlIoGRfcMQqWSKQ=="
+secured: "etY7viXc4QUx08tKFCAIYmYeIEB+2icnEfvwAqErkHfj1YdWWoV5/bKDDH3utLUr+D10Q/HXbpB5vPn0Xmx5asIghbjVRclrDvvccrbiA6okqVs/VTk4FHNaxIFIxtMQcmG0017erNDxJlpro8hINGBVzPOWfuJZe3uqN2kuARygzE1CnPcy2B5j1wq0vHoX0pU6kd5ANM/bQV9l/oROQ/PAeHwmGPR9ZSxzLNEZgGp0AwZtW6vdcpJfe6msNC7Gi/aAMHmGAhUZtRC8vtelZ315baohKC7WBtXlpDQ0pRoUpUj44arkXZx0AAMtagh9FkjPxfgDkHZYaWmoExRe+y6Alrm7B4MzIdchHOJkgu4=;lBhKaaGNmjhXS9VPSBj1BQ=="
 ---
 

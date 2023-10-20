@@ -426,15 +426,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
-    publishedDateTime: 2023-10-15T21:18:00Z
-    webUrl: "https://www.inferse.com/756076/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
     excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
     publishedDateTime: 2023-10-17T08:43:00Z
@@ -488,6 +479,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 20
+  - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
+    excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
+    publishedDateTime: 2023-10-20T13:14:00Z
+    webUrl: "https://www.aol.com/why-boomers-catching-ai-faster-110017635.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 20
 
 secured: "kTdNUYhkdwnYghYWIqt/v4iSG/cWh+YrubtwQkP40TmhjqKgk/sNxK8pYMH2wgeoWYlygu1bcndsAPNgsctg3eq7kOBjnoz2x53wvW8fykjO2kRyGsddfUQNhWc2qmbF3IxPB2dyGr+VeiRsPg5bXLO/k8vlSMl92WIU2eLZ9kfqaTkpYtbjbP9dCPQt10SiAb4alrqS9Ar3FsJD2AUGYotDqqW9U1ZpDgypqoXH16NmsU5Qv4XxLY9RWdlL/NVWLiHeZcUbFGm5dqKsgEOVnTaLsSGbfyey3+V8EscWlK8qtgq+YqTM3Y+L47ieL0vrMbrWdiuy7q5EEFgLxsODdBj0KvvflbxImXG5JzN98Vo=;WCZdoDkJkvhVaAJLGudP+Q=="

@@ -187,21 +187,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-18-five-takeaways-from-american-bankers-ai-summit.md",
-      "title": "Five takeaways from American Banker's AI Summit",
-      "excerpt": "At American Banker's AI Summit on Monday, bankers, consultants and vendors shared how their institutions are moving forward with generative AI, fintech partnerships and security. AI is the technology that banks are most excited about to create competitive advantage, according to recent research from American Banker's parent company, Arizent.",
+      "path": "_news/2023-10-18-how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion.md",
+      "title": "How lenders use AI and machine learning to boost financial inclusion",
+      "excerpt": "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde",
       "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/list/five-takeaways-from-american-bankers-ai-summit",
-      "originalUrl": "https://www.americanbanker.com/list/five-takeaways-from-american-bankers-ai-summit",
+      "webUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
+      "originalUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/85c4b4a/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fa4%2Fd4%2F8d3275fd410b839db3403cc1fb4b%2F322456035-1-4.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg",
+          "width": 1598,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -209,13 +209,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-17T18:00:00-07:00",
+      "ampWebUrl": "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html",
+      "publishedDateTime": "2023-10-17T23:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
+        "name": "Mint",
+        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -226,7 +226,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -281,7 +282,7 @@
       "originalUrl": "https://www.zawya.com/en/business/fintech/generative-ai-revolutionising-banking-sector-fintech-surge-2023-tzjzkak0",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {

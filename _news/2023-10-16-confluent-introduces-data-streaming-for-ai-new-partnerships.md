@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-intr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 0
+  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
+    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
+    publishedDateTime: 2023-10-20T13:32:00Z
+    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
     quality: 0
 
 secured: "gDGGd4BXKuvAv3oow6gY2uDn4d1SbuALYxm7vLt1aClcE/xMoA2Lf+w+33U5Nik5ZcWNv8FW9b/V9wdsyD0g/myq9JgsEvwok3kgUMkzM+4YNyZ9pJBTWjIRMrK3qcWB7BYuVrP206O6kgvbyJX/y4zIcOe6wIRz87svSAEipfigQ9U3mp66IwtxNUg/0q6j2puKSbSM5lEqbFvLrb5qBSEeYJrwdPwtE15F6rB0CA2X2O500RBs/IWAr9jccguPQ8y0hVpIm7+E7GKJMankiIq20etOLegqqXD/l6w7/w5NHB7qf5x5WqUjOLOBRZKtbMGtnRfayuQTfQ+3kSYuUI3hVHOOrGbfBjH7oFNsPpC7RTOrB5dbZIvk5BgAZmur5IQGyQg/hQI+kZmYClxKT9MeeBbDBBcZZlbzte/F/yX4GcmsZu+7mkfB8w6peE95mobroyV8eH4F8aHNvaXssxpe6ZgKzYou4BsEXijOiQkJFX6zJYP9V58sJm23XQqP/ysBY/za7qfJOs/v/Ks4nQ==;1AmXq38FAgSmT4SfJDx/+w=="

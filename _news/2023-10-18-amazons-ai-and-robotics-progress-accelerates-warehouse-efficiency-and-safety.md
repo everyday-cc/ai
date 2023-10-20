@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/35304469"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35304469"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/im-870484_1697632022016_1697632035154.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "How We Can Have AI Progress Without Sacrificing Safety or Democracy"
+    excerpt: "The promises of AI are vast: curing diseases, increasing productivity, helping to solve climate change. This seems to call for a “full steam ahead” approach, in which we attempt to accelerate AI progress even beyond the current level."
+    publishedDateTime: 2023-10-20T13:36:00Z
+    webUrl: "https://time.com/collection/time100-voices/6325786/ai-progress-safety-democracy/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://time.com/img/icons/wallet-connect.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "Helping employers leverage AI, robotics and biometrics in the workplace"
     excerpt: "Transformative technologies are increasing productivity and job satisfaction, as well as providing workers with essential upskilling."

@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/1e28a54e-1b68-4638-9964-45d797f51468"
 webUrl: "https://www.ft.com/content/1e28a54e-1b68-4638-9964-45d797f51468"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 700
     height: 394
     isCached: true
+
+related:
+  - title: "Robotics Manufacturing Institute Helps Build Defense Submarines"
+    excerpt: "Pittsburgh's Advanced Robotics for Manufacturing Institute is supporting efforts to build submarines and tactical alloys for the U.S. military through a relatively new Department of Defense community initiative."
+    publishedDateTime: 2023-10-20T15:03:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/robotics-manufacturing-institute-helps-build-defense-submarines?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/d2f1634/2147483647/strip/true/crop/3840x2002+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F9f%2F95%2F9767293f44d4b7dddc95b06f83e3%2Fshutterstock-2130995300.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "Tz253EvfB9lJ6BSvbZZWmDM8jDDOZ5WMrOXm5ZUc5q+8QEHbZEA+czRSdKY8YAz378hzHe394/w6iTrpflk254kR3Yw6dl4kkXT3zMaMxVXGLhOqeTCyPbeIaf1hf1WvryDcv0jGxMiq7vJSOmn4/uNXHtz0o+RUck23cYH+Uwz3O2Jr/7RTRU16UwJvHJN4l9wv4YVf4CM/765maF8tRGCLG0NdkqJBojp/9juHLmoExSfMwNLawLJ/gy/qI3BnU5D6UQ25LcfY6cjVhmXlzgjU76NRcynw5PVUdsigoO/kwol8yOcQDlawqj9KRr11a+XKs8OebS07iu3Hbda6PWvFKxlVwDTnsAAIN129NXA=;yCHeanmflm5w3dM+Ehru2Q=="
 ---

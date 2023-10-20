@@ -30,61 +30,68 @@ images:
     isCached: true
 
 related:
-  - title: "How To Embrace AI Intentionally To Grow Customer Engagement"
-    excerpt: "As AI adoption accelerates, brands have an opportunity to shape their future with an ethical, optimistic human-centric approach."
-    publishedDateTime: 2023-10-16T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/how-to-embrace-ai-intentionally-to-grow-customer-engagement/amp/"
+  - title: "How to choose the best AI platform"
+    excerpt: "AI platforms drive a range of benefits for your business, such as increased automation, scale, security and more.\nThe post How to choose the best AI platform appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-20T15:27:45Z
+    webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How To Control For AI Bias In Lending"
+    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
+    publishedDateTime: 2023-10-18T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64e38c9a3173937eb80c8def/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "How AI Is Transforming Contingent Workforce Management"
-    excerpt: "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working."
-    publishedDateTime: 2023-10-16T19:44:00Z
-    webUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/"
-    ampWebUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+  - title: "25 of the best free AI courses on edX"
+    excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
+    publishedDateTime: 2023-10-20T04:01:00Z
+    webUrl: "https://sea.mashable.com/online-learning/28031/25-of-the-best-free-ai-courses-on-edx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: sea.mashable
+      domain: mashable.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Experts want nurses to embrace AI in the workplace"
-    excerpt: "Artificial intelligence (AI) is slowly making its way into many professions, from personal training to marketing. It shows special promise in health care, but experts say buy-in from nurses and other clinical professionals is key."
-    publishedDateTime: 2023-10-18T20:21:00Z
-    webUrl: "https://www.ajc.com/pulse/experts-want-nurses-to-embrace-ai-in-the-workplace/VGMVZFMMWRBVHLI3KVHN7CHBGY/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 39
-    images:
-      - url: "https://www.ajc.com/resizer/-X7c1MZU7RsgHwvTqKEaiJBg4sM=/1200x630/d1fegwn2wjh0cs.cloudfront.net/10-18-2023/t_449e558a60fa4d839b1b5c29b3f7f134_name_646904ed83ff4a95b097e8c1848d81b8.jpeg"
+      - url: "https://sm.mashable.com/t/mashable_sea/deal/2/25-of-the-/25-of-the-best-free-ai-courses-on-edx_ykjm.1200.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Prescribe Nature AI Introduces Groundbreaking Artificial Intelligence To Amplify Outdoor Engagement"
-    excerpt: "New Digital Platform Champions the Numerous Advantages of the Outdoors Using Advanced AI ToolsPrescribe Nature AI introduces a pioneering service of custom trained AI aimed at enabling health professi"
-    publishedDateTime: 2023-10-18T13:01:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35307899/prescribe-nature-ai-introduces-groundbreaking-artificial-intelligence-to-amplify-outdoor-engageme"
+  - title: "AI Platform Alliance will drive AI to be more open, efficient and sustainable"
+    excerpt: "By fostering community-driven development, the consortium aims to expedite AI innovation by creating more transparent and accessible AI platforms. This collaborative approach seeks to enhance the efficiency of AI in solving real-world problems and establish sustainable, environmentally friendly, and socially responsible infrastructure at scale."
+    publishedDateTime: 2023-10-17T19:00:00Z
+    webUrl: "https://venturebeat.com/ai/ai-platform-alliance-will-drive-ai-to-be-more-open-efficient-and-sustainable/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 18
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
+    images:
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
+        isCached: true
 
 secured: "nB/1IDp8HLPA6FeruxbP6tMsNLqxLHBXJgVuIdmpB0IBpuuye/Ynmrlk+aIkRZ3UMarpih4wvpeP/DoledlaLsKElFr6CaecnS9fiSB5tf/LR2xPQWRuUUjfE14PfBwiS/aNLmrlJyYPPmVcQgGpDFJxBpLIQjvcmlaw88Ex5awa55/YZTZ0DGq94De3IpM+Gqx9JTkOcCKWRstkDhVxiwKLVCFv/IZT+qESXNFM2x0VGU6smsgaMjWsG8o4P5ImPGSKvXwqS039BEyilyl9gtOLtI7sDwOkM/9X5ASH7XXjYE6r9PDCEKkXCWWnZbwPdOYmZnL6agfiX5fE2SDSHPqm5ujCB9x9GONxQszl2jE=;R9+rjmJXkD0kExeatiL7Hw=="
 ---

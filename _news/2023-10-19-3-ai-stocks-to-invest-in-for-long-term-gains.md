@@ -23,60 +23,21 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "How To Control For AI Bias In Lending"
-    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
-    publishedDateTime: 2023-10-18T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
+  - title: "Tile company looks to include Artificial Intelligence in name, invites raised eyebrows"
+    excerpt: "Veteran investor Samir Arora posted the company’s exchange filing, along with what seemed like a tongue-in-cheek comment"
+    publishedDateTime: 2023-10-18T15:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 64
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "How lenders use AI and machine learning to boost financial inclusion"
-    excerpt: "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde"
-    publishedDateTime: 2023-10-18T06:38:00Z
-    webUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html"
-    ampWebUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg"
-        width: 1598
-        height: 900
-        isCached: true
-  - title: "How to build a secure foundation for American leadership in AI"
-    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
-    publishedDateTime: 2023-10-18T13:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "How companies are scrambling to keep control of their private data from AI models"
-    excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
-    publishedDateTime: 2023-10-19T01:06:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-control-private-data-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/datacenterlockeddoor.jpeg"
-        width: 1022
-        height: 863
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Sensex_up_higher-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "KlIqLM/D9O5cUrVnLk1KkeUh2lapWKwpu9//KqrHr8qahtOAZt6CRCBCAAbUddRyVjjLExUmreiq1op9LUFMweo/BiRKEwXsIn94cAQ5aMnpA8xTgKjDy9bGJ3LqOFkS4cCEdCZJG1jXjVkXDJ7VcfwDhdQq68yt2HhemFSc4EinqFLNAZmECWgMQ6yTyyXFiibfKAnR8qudm4IgYTWVYyW2ELfGvOmAbzCjAGFcMCaONs7o/gazjiZpVYkihlw/cS+KswhTMxssi9zsL/IyE/KyrpZHnK+YwPYANG2Hz/PuhRVlpM8nh3G2nnqh/3HXkJUzpQmA2TRvRiiOSQNwC65LGFshrFSIrJTTmTk6mLo=;QzO5f+eKfQDkzyNuGQJWkw=="

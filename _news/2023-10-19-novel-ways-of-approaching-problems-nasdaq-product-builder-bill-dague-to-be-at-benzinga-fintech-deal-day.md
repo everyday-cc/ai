@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Digital Assets Leader, FIS Global's John Avery At Benzinga's Fintech Deal Day"
+    excerpt: "FIS Global vice president John Avery is overlooking the firm's strategy team responsible for crypto, digital assets, and Web3. Avery's focus is mainly on strategic decisions, regulatory impact analysis,"
+    publishedDateTime: 2023-10-20T13:17:00Z
+    webUrl: "https://www.benzinga.com/fintech/23/10/35347754/meet-digital-assets-leader-fis-globals-john-avery-at-benzingas-fintech-deal-day"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35347754"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35347754"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/20/avery_fintech_deal_day.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Meet Tom Eck, Fiserv Senior VP Of Digital Transformation, At Benzinga's Fintech Deal Day"
     excerpt: "Tom Eck boasts more than three decades of industry experience. The senior vice president of Digital Transformation at Fiserv Inc FISV is going to be a panelist at Benzinga’s Fin"
     publishedDateTime: 2023-10-17T15:44:00Z

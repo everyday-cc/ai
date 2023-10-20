@@ -66,6 +66,15 @@ related:
         width: 1180
         height: 648
         isCached: true
+  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
+    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
+    publishedDateTime: 2023-10-20T13:32:00Z
+    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 0
 
 secured: "Roi40+t5S+5BSZfkDr60zo+cC2l0hekobNBvC0CW9SmNV1wGCtwijp2tWxI9NFk6JbNsqLLUaJkIV9BTBoNLKoLABA0tvB5BKz1y5eMk+rMsr34E93jWAQGjM8cPlaGNY+W5MiVsVVtYY/dpcQi9QcKpgaTc2a9LHZ63A47jdH0WS8cNlm454R8PwyzdBs4EyT5WePbuP2lF+TAwYnKvXYoxxgv/lOHaCZsI6RMXLdybZjI4o1wLwmKtaJydM/JXhLL3JtbW2LJ2hb1gY3hEcIQmX6+i3TEj+QOgZvdwu0N1+squscysiymOGhryfrrKx9DABI0EhJVYeUQb61vEXNEBlCmwfa+FPrd6CKi8aIc=;nHU4MtaxmrkM1p3lV60gLA=="
 ---

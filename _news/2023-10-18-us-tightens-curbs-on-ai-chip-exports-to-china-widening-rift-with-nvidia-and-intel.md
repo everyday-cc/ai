@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New US rules on AI chip exports aim to stop workarounds on China sales, says US official"
-    excerpt: "The US will take steps to prevent American chip makers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s coming actions to effectively block more AI chip exports. The new ..."
-    publishedDateTime: 2023-10-15T22:55:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3238039/new-us-rules-ai-chip-exports-aim-stop-workarounds-china-sales-says-us-official"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 92
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/16/b428d567-43fb-45a5-9713-019ffa468cbc_9a8df794.jpg?itok=259H5_Fa&v=1697408479"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
     excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
     publishedDateTime: 2023-10-16T09:52:00Z
@@ -255,15 +241,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Exclusive-Upcoming US Rules on AI Chip Exports Aim to Stop Workarounds"
-    excerpt: "(Reuters) - The U.S. will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a U.S. official said, as part of the Biden administration's upcoming actions to effectively block more AI chip exports."
-    publishedDateTime: 2023-10-15T22:11:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-15/exclusive-upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
   - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With U.S. Businesses"
     excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
     publishedDateTime: 2023-10-17T11:44:00Z
@@ -498,31 +475,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Upcoming US rules on AI chip exports aim to stop workarounds: US official"
-    excerpt: "Find out more about subscription packages here. THE US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part of the Biden administration’s upcoming actions to ..."
-    publishedDateTime: 2023-10-15T22:15:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us"
-    ampWebUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/companies-markets/telcos-media-tech/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 53
-  - title: "Upcoming US rules on AI chip exports aim to stop workarounds, says US official"
-    excerpt: "The US will take steps to prevent American chipmakers from selling products to China that circumvent government restrictions, a US official said, as part"
-    publishedDateTime: 2023-10-15T23:08:00Z
-    webUrl: "https://www.malaymail.com/news/money/2023/10/16/upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds-says-us-official/96492"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 50
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/16/thumbs/400x400/155157.jpg"
-        width: 400
-        height: 266
-        isCached: true
   - title: "China's AI industry grapples with mixed prospects amid escalated US chip controls"
     excerpt: "With the Biden Administration's heightened export controls on semiconductor chips to China, the Chinese AI industry finds itself in a mixed picture of some rejoicing and others facing challenges. This impact is rippling through various sectors,"
     publishedDateTime: 2023-10-19T07:44:00Z
@@ -536,20 +488,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20231019pd203_files/3_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Exclusive-Upcoming US rules on AI chip exports aim to stop workarounds – US official"
-    excerpt: "The U.S. will take steps to prevent American chipmakers from selling products to China that circumvent government"
-    publishedDateTime: 2023-10-15T21:48:00Z
-    webUrl: "https://wsau.com/2023/10/15/exclusive-upcoming-us-rules-on-ai-chip-exports-aim-to-stop-workarounds-us-official/"
-    type: article
-    provider:
-      name: WSAY
-      domain: wsau.com
-    quality: 47
-    images:
-      - url: "https://storage.googleapis.com/media.mwcradio.com/mimesis/2023-10/15/2023-10-15T213953Z_1_LYNXMPEJ9E0C3_RTROPTP_3_USA-CHINA-CHIPS.JPG"
-        width: 800
-        height: 533
         isCached: true
   - title: "China Launches Global AI Governance Initiative After US Announces Fresh Curbs On Chip Exports"
     excerpt: "China launched a global initiative for AI governance as countries such as the U.S. and the U.K. race for dominance in the fast-evolving technology."

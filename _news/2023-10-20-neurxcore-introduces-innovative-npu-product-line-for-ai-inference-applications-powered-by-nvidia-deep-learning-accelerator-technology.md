@@ -66,7 +66,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 0
+  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
+    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
+    publishedDateTime: 2023-10-20T13:32:00Z
+    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
+    type: article
+    provider:
+      name: The Baltic Times
+      domain: baltictimes.com
+    quality: 0
 
-secured: "XJr1ALJnW8WTW4LO8WqFP2lhIgQpD1BF8MSlSvIy3FkdysW2/e2DfuIhm/GU4QNQedrTNNy589/mg/Jn3XvTz6fG1CJ4cvajamzx4aB4W5lmqQjtijMqe6rqLjwSuka6I1ZvZoxWoPSBXboNlalGde54H7PbNRoA6Rkq4o9C7YlC12od6fPgBYLCW2ut+ba7ilYkXy7xTgjbNLNI8Z0hFu2kZwuMmUOoRGi6dYd0wmvvmc7kxyUmYN8UWsm5oY0tUYdQxJ33ydqk4leJd0cjX8Pa7InO1BsKu84B8X5WNZbdDtehAVSrghvrlbOsxPdrdXOkpCsk4wRd/YNXyxIS9oG+OeSbmV/sh99UDZMqVd0=;FlbxJ/KmUbLuT25NopvmQA=="
+secured: "eq7VtSdDcTrJ/n9iXm2aXkmppevbap7Dk1HGh0HsFR73iQnNqqHNmULjYejjf5cb1rzutN3fLwWSTm42wXFnnq1suwxVzrFrdew7ld1wH1L/aBeyFko04rpJaE5s6FXowlMLERoBPlZbwQBt7LK8FIXX9AIND2Rmrv2m10ONdKCn8UzYXflC2Cy3VRp0yQuNzwtpU+hJFKZd2WzuqXc+jheEFwZhd85QTwmRGk+zIQyRjxg9SFvUAJka8VqRChgRpOswNgrCLrFntgLqzoyVLSdZ2y7A0ARxV3QUuThMqkpqP93Ec1wBkH5qjL3c2zy079RPC84VT+ZcQhUo4S5EFd//4hO9sviW9RkARAyTkyNcasDKLl6UA+Ur+wXRBA+LMU3HVsP7d8T1zO6JDdOpa+0O29pCCvoZI1tJpqPKS0Q7oVGDe8sVTmDzvxcWOsEm4sCPo1bENgzIOd4gV6BwZYRGjR3OUq7fMGFEhibegWMem20xWzQsSe30sEDD1cWbLwCph81Z1zbb3xpjz3YHlA==;cBD2alcNYHCotUj3ExrAOg=="
 ---
 

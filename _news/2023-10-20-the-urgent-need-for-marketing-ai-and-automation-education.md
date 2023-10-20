@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
 type: article
 quality: 121
-heat: 401
+heat: 431
 published: true
 
 provider:
@@ -151,6 +151,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
+    excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
+    publishedDateTime: 2023-10-20T13:37:00Z
+    webUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conversational-ai-helping-food-industry-improve-customer-service-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Generative AI's Potential Applications For Media And Digital Marketing"
     excerpt: "From content creation and distribution to marketing and advertising, AI is changing the way media and digital marketing businesses operate."
     publishedDateTime: 2023-10-16T12:14:00Z
@@ -243,6 +259,15 @@ related:
         width: 1500
         height: 700
         isCached: true
+  - title: "AI And The Cognitive Revolution"
+    excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
+    publishedDateTime: 2023-10-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/20/ai-and-the-cognitive-revolution/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
     excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."
     publishedDateTime: 2023-10-19T11:00:00Z
@@ -343,6 +368,20 @@ related:
         width: 280
         height: 283
         isCached: true
+  - title: "How AI and digital transformation are influencing the food and beverage industry"
+    excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."
+    publishedDateTime: 2023-10-20T15:03:00Z
+    webUrl: "https://www.foodnavigator-usa.com/Article/2023/10/20/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry"
+    type: article
+    provider:
+      name: Food
+      domain: foodnavigator-usa.com
+    quality: 34
+    images:
+      - url: "https://www.foodnavigator-usa.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/foodnavigator-usa.com/news/markets/futureproofing-the-food-system-summit-how-ai-and-digital-transformation-are-influencing-the-food-and-beverage-industry/16854042-1-eng-GB/Futureproofing-the-Food-System-Summit-How-AI-and-digital-transformation-are-influencing-the-food-and-beverage-industry.png"
+        width: 517
+        height: 271
+        isCached: true
   - title: "Civilization depends on more AI, Marc Andreessen says"
     excerpt: "The case for accelerating rather than regulating tech does not mention \"unintended consequences\" — or climate change."
     publishedDateTime: 2023-10-17T09:30:00Z
@@ -398,6 +437,6 @@ related:
       domain: newswit.com
     quality: 0
 
-secured: "sOtEv+puwuvGz0pjoPgXnI/jnRkAIq0/pIxUHblMjiPVGuM7RH0072BPmqySFX5kRzX2PSwcWTvL7UJQ2SRxju9k+vYJAUf+s7z6PTsDteWABMrrH4Q+JZyCgScqBCJB0030JjTeVABUMgBs6YtWnwEKdmxHRw2ih3pEl8jgbbtVtkXJmdmJl4RsNWiYdAxtENoX77N/2XQ/wtaeFIlFwmnpMr8+rBBfBS6tDA4nVRCtSOe/VaUrq1hQ5oaw4rlywKgQtxnv8VJY0mD3VoutvrCpIsm19dIiIj4OMS8OZx+77o66Jlcvj6KbYcFue6OqMRI5tlawK63tgS1f5LFIenaDLeL3fXERHedqtYtdh/I=;I2jzOEtDlFmtsehq68CYrQ=="
+secured: "l9hcwDoCvb7TkkBrqJos7EYztsYIe3JMKhTZUAcrSdb8Quh0oFlTyjRaAzQKTIbIkgxTOEOsy4qS9zV7f1PsCZAeR0A4q4HaKWO7zmMHRZDYSZqcKGoTMFPV6EDmrbwRKEASKx/bDf95ADWqZRe4KIdwBY3yNsvOPnPUlxhnSS9rBWmfm5ZJ51cfufZFbHViwa2BlHgGFq4Rje5h69oLMKuD0rWriyqrvxDtSr9rWVlyLTa1Z9jhjHfzwjIxQwGBY+Wij+2yT+ly/ifbiL0rl3UYYPhCLmepf+t6QLudwr2C/jq7sNu7VsUW8p4KQbnrRpKM1rAuYlXMdgwpU4XMf0iFx5deRqOfXrjsXFj+MciAX306+9odCljX+X9Soz8jdYUHvlZDN/KZEgv4Hs2lpw5+W5UvRO+A5juWzAxYmHE7YfD+2codfdMRFG9tqdL6r9rrGoQnFyDf9s6hKUEcYD6x49UafibNR90t5Z3GMRvOGDldT0tz3WEQkBiomjSh9h2d7xRM+TZ9uDf4qBwrmQ==;luLNIxDYZh4DSnry+13wrg=="
 ---
 

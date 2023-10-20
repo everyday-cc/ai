@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-con
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
 type: article
 quality: 87
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,53 +30,67 @@ images:
     isCached: true
 
 related:
-  - title: "How lenders use AI and machine learning to boost financial inclusion"
-    excerpt: "Two billion people around the world remain unbanked or underbanked, but a technological revolution is changing the lives of such individuals, who previously had no hope of ascending the economic ladde"
-    publishedDateTime: 2023-10-18T06:38:00Z
-    webUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion-11697610512531.html"
-    ampWebUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
+  - title: "How to choose the best AI platform"
+    excerpt: "AI platforms drive a range of benefits for your business, such as increased automation, scale, security and more.\nThe post How to choose the best AI platform appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-20T15:27:45Z
+    webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 76
+      name: IBM
+      domain: ibm.com
+    quality: 99
+  - title: "How To Help Your Customers Trust AI"
+    excerpt: "According to a 2023 Dentsu report, over 70% of customers say brands should disclose when they're using AI. Tell customers how you're using AI in your business. Are you training your chatbot to give more empathic answers? Gathering insights to improve your customers' experiences? Be specific about what tasks AI is doing for you."
+    publishedDateTime: 2023-10-20T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/20/how-to-help-your-customers-trust-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/repayment_1680025454634_1697610800944.jpg"
-        width: 1598
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64b06f007993cd0655ee1983/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 400
+        height: 223
         isCached: true
-  - title: "How to build a secure foundation for American leadership in AI"
-    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
-    publishedDateTime: 2023-10-18T13:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
+  - title: "25 of the best free AI courses on edX"
+    excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
+    publishedDateTime: 2023-10-20T04:01:00Z
+    webUrl: "https://sea.mashable.com/online-learning/28031/25-of-the-best-free-ai-courses-on-edx"
     type: article
     provider:
-      name: Google
-      domain: blog.google
+      name: sea.mashable
+      domain: mashable.com
     quality: 69
-  - title: "3 AI Stocks to Invest in for Long-Term Gains"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
-    publishedDateTime: 2023-10-18T21:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "How companies are scrambling to keep control of their private data from AI models"
-    excerpt: "John Cronin, an enterprise technology consultant, told SiliconANGLE that it’s best to “start with the assumption that any system will be breached. Given the fact AI and LLMs will we working with a lot of data and that data could be in a lot of places ..."
-    publishedDateTime: 2023-10-19T01:06:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/companies-scrambling-keep-control-private-data-ai-models/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/datacenterlockeddoor.jpeg"
-        width: 1022
-        height: 863
+      - url: "https://sm.mashable.com/t/mashable_sea/deal/2/25-of-the-/25-of-the-best-free-ai-courses-on-edx_ykjm.1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI Platform Alliance will drive AI to be more open, efficient and sustainable"
+    excerpt: "By fostering community-driven development, the consortium aims to expedite AI innovation by creating more transparent and accessible AI platforms. This collaborative approach seeks to enhance the efficiency of AI in solving real-world problems and establish sustainable, environmentally friendly, and socially responsible infrastructure at scale."
+    publishedDateTime: 2023-10-17T19:00:00Z
+    webUrl: "https://venturebeat.com/ai/ai-platform-alliance-will-drive-ai-to-be-more-open-efficient-and-sustainable/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 44
+  - title: "Adapting to AI in the Classroom"
+    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
+    publishedDateTime: 2023-10-18T21:01:00Z
+    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
+    type: article
+    provider:
+      name: pratt.duke
+      domain: duke.edu
+    quality: 41
+    images:
+      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
 
 secured: "QrN4X21fz6KJ4vDkF9sw4izmv6yPJlQG02BjB76Zl2Mwt3uZZknCmEuGnCGg3C/I+B15yMUedQgsBwB6BtFAOBigcZkLolTPk+OcDC04hpSEw7tA5voe1YCSBz84xeW4HLNzlGDeNFzlOLxjbnC1o4FV8YNNY1qPnU76W4ugUkY/4NyS9xXXV66fw58F8/DKivhiiKWnZgyp8glwLgrnwCTyX8WjuNQ9qX7zue+uW/DDrMIZfxmpPLfbt7lwufGWxBZwDeevbOVuSsca/HZ0ZUnneqEt7ntWZ0hILjrmLlexdY9YMYvivu5MiWWhy/UtJ2V6Wh5YLO/7VyjDLz1rof+7fD30Xz5yqWYsdQTUJ9I=;I9+b3n6C5U0B8Pxo6bpLDw=="

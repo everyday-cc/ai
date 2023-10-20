@@ -73,15 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Indegnous leaders’ summit to seek new way to constitutional recognition"
-    excerpt: "Indigenous leaders who have spent years working towards constitutional recognition are ­expected to regroup next Sunday to begin working on a response to the failed voice referendum."
-    publishedDateTime: 2023-10-15T20:30:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/indegnous-leaders-summit-to-seek-new-way-to-constitutional-recognition/news-story/3d85ead548dcb1fefef43640ee8553c6"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "KOV1JLX2rCC7IbO0Q3CY2WIA2lfN9CObFy2GMWMDXFVf76AG0pol45KVa8onUK/cWxaqEI10CtxeybcngXkAwJDKaC5y+8fLK9W8dO2T2ixGnxaADzTMOjuPSI7ilyMc04m4ISBHuT4CyxmMBGoBCjrn7Kr3wmQlPxXVjbiFgwqGhKGZvcXmzIR8Saq9ycWPbsv1htmAe6EyeuGUBSRPqdnV0wTTyWGb9eSCsrwEgdNiWUIz7T4QJDjfweOJk8Zb91sCeKQktxH5sKmI9YZ6CM/6usgn7XFnGC8Mq8Rw3amXy209qJn9qfGjvGDjLioOtFydInCEXRTCSVQ9FcZx4T9qZ9U/2VNgsmcRcNg0tb0=;RCAR7AKf5IYSrLgqEgXRow=="
 ---

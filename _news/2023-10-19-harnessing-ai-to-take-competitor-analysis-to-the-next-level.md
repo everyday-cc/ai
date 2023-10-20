@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Eight good news stories about AI"
     excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
     publishedDateTime: 2023-10-19T08:06:00Z

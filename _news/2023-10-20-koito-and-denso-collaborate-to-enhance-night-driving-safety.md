@@ -1,23 +1,23 @@
 ---
 category: news
-title: "KOITO and DENSO Collaborate to Enhance Night Driving Safety"
-excerpt: "KARIYA, Japan, Oct. 19, 2023 /PRNewswire/ -- KOITO MANUFACTURING CO., LTD., and DENSO CORPORATION announced today they have begun collaborating to develop a system to improve the object recognition rate of vehicle image sensors by coordinating lamps and image sensors, with the aim of improving driving safety at night."
-publishedDateTime: 2023-10-19T21:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902519.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2023/10/19/9902519.htm"
+title: "KOITO And DENSO Collaborate To Enhance Night Driving Safety"
+excerpt: "( MENAFN - JCN NewsWire) KOITO and DENSO Collaborate to Enhance Night Driving Safety"
+publishedDateTime: 2023-10-20T12:46:00Z
+originalUrl: "https://menafn.com/1107273178/KOITO-And-DENSO-Collaborate-To-Enhance-Night-Driving-Safety"
+webUrl: "https://menafn.com/1107273178/KOITO-And-DENSO-Collaborate-To-Enhance-Night-Driving-Safety"
 type: article
 quality: 4
 heat: 4
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "lNnbOjjTveXnlzGygybGV6aoegE91rJW8zWXAZ77QchL2ZpMOP2UYzUXXJu+Ix6VAt/jVt0sP5R1AepWstTODPsOu9yClhSnSkVIprnXGyrOos4+OdOQ8nERRHJU/tg8pvvcLn2dylTh2jw1rIUoe9vgXdj6wCvNKROFX70ii67+fB9YyfaxS+UXV9Jk2y/Kil8L0ZYyocJkyhY8BcAZXusy9y8vALAWwH3IBh0XWuRx7X+7ldkO4PfZn2zi2MJFYBjxl45K9GM2mHjl7T3SD4EUSOJeVbesdCEZqEcEdU4T5C0hDfFJWUh8i/z9cm+lKFbF5848WehITUgyuA3lhYB5Lr3Ndy5xpT038fnPy04=;xd+110IC+GYkwDsiYsV1cQ=="
+secured: "RSFgNWNAfvU1CBDlXWugUNeqY1is2OyVKI9CBTUpiFZbaobLZYbI/oVp4qjjfsbJoujAEni97mNwp9bbyi3ndWHoDQhgnwUAajRUUTbGVyv+KCzEzOii93zSjVl8vCiUleVCsswbFJJdIp38TW1tVAiUWZeXtNOOz7XdoDKzPdK481KLOPhiLkTl+W4TFuYlEkUBoM6mplTuaMC8dsDFsgG9cHYYnxPydPKeNSxw0qj1ZNs8ZmjDhCJPB6jC9FDhJR4S0Z7NqgpIcCVgfzRp4bOCM5QyEj9Sf3C+1hTWq9gu2N84bneW0Nn5KRFXReNSwWqV8HvyC6RInyUpU45bHemC3tBmd1XNxHwO7D1cjGE=;enMiCQjGD6uStmckXJhhoQ=="
 ---
 

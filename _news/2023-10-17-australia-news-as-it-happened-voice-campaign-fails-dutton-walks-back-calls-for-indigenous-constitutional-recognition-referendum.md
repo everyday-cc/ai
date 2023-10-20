@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "The Voice campaign failed with demographics playing a role, the RBA may keep rates higher because of population growth and Uber warns of price rises under new IR laws."
-    publishedDateTime: 2023-10-15T20:13:00Z
-    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55boj"
-    ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 30
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Explainer: Australia Has Voted Against An Indigenous Voice To Parliament. Here’s What Happened"
     excerpt: "The Voice was proposed as a means of recognising Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia in the Constitution."
     publishedDateTime: 2023-10-16T06:36:00Z
@@ -202,20 +186,6 @@ related:
       - url: "https://content.api.news/v3/images/bin/57897da0ac0f748a56379f6fc38d4aa7"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Explainer: Australia has voted against an Indigenous Voice to Parliament. Here’s what happened, and what happens next"
-    excerpt: "The Voice proposal was a modest one. It was to be an advisory body for the national parliament and government. Had the referendum succeeded, Australia’s Constitution would have been amended with a new section 129: In recognition of Aboriginal and Torres ..."
-    publishedDateTime: 2023-10-15T21:32:00Z
-    webUrl: "https://www.australiangeographic.com.au/news/2023/10/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-heres-what-happened-and-what-happens-next/"
-    type: article
-    provider:
-      name: Australian Geographic
-      domain: australiangeographic.com.au
-    quality: 16
-    images:
-      - url: "https://www.australiangeographic.com.au/wp-content/uploads/2023/10/20231014001852246547-original-scaled.jpg"
-        width: 2560
-        height: 1706
         isCached: true
   - title: "Defeat of Australian Labor’s Voice referendum highlights stark class divide, not racism"
     excerpt: "The Voice voting patterns demonstrate the intensifying hostility of working-class people to the entire political establishment."

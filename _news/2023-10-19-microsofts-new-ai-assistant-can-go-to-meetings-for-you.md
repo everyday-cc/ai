@@ -423,15 +423,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "Microsoft outlines framework for building AI apps and copilots … – Microsoft"
-    excerpt: "Remember when software wasn’t connected to the internet? Didn’t think so. In a handful of years, this will also be true for software that doesn’t come with an"
-    publishedDateTime: 2023-10-15T21:18:00Z
-    webUrl: "https://www.inferse.com/756076/microsoft-outlines-framework-for-building-ai-apps-and-copilots-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
     excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
     publishedDateTime: 2023-10-17T08:43:00Z
@@ -485,6 +476,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 20
+  - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
+    excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
+    publishedDateTime: 2023-10-20T13:14:00Z
+    webUrl: "https://www.aol.com/why-boomers-catching-ai-faster-110017635.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
     quality: 20
 
 secured: "JpN7KfkklO+kxtDvcqY5TO6aUJG+BZMEt/Af5wA6QDYSRi2aRVRU8oeT9kXh+W8MTKevsYNWMl+bshYZLkOOKIw0iByKwLR0FQyHZmi3onHqeHO5vneQMhqQgHvog4NNTK0UojtzTFUGGC7cGzfyZ2RBFTOXA3QMPdbi8K1is1Ljko7ppyV7uDMS2s2xaArcL35KGbWD/24mLjISyN0cqA5yCVGCJ6z/3Jc03QrKnrmuLHvgSkMNwo4R7z7bv3gI2zW50dZXET7zm7PKPZ3JaIX7gKT+KJzxU/+owmkCyniiQreAgZ8Eh060VqXPRhu0Ep5u8S3fM9h/xAF7MMBFSADstM7EMtgvwMrg8tWSlvuq2Cn5RWWyBC4A0jkLojHQg47AdwHhr4DAxqgepbEMJ67TB88TCzriV2KwHMD846NHY7QWEMeG7EtHs1wGjC0C+PHCMxY2KGgho+NZGwiCRC6GASelos9RHEVdP9CRyhY7YZvEEkB3XS0RKUJGbLWhwZV5SDz7pmd/KrgzMhPNoA==;S+/tgNG92xzzGRhepLe31A=="

@@ -2,14 +2,12 @@
 category: news
 title: "Sunak’s global AI safety summit risks achieving very little, warns tech boss"
 excerpt: "Big tech firms attempting to ‘capture’ meeting of heads of government, says Connor Leahy"
-publishedDateTime: 2023-10-20T10:46:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/20/rishi-sunak-global-ai-safety-summit-connor-leahy?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2023/oct/20/rishi-sunak-global-ai-safety-summit-connor-leahy?ref=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2023/oct/20/rishi-sunak-global-ai-safety-summit-connor-leahy"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/oct/20/rishi-sunak-global-ai-safety-summit-connor-leahy"
+publishedDateTime: 2023-10-20T10:17:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/20/rishi-sunak-global-ai-safety-summit-connor-leahy"
+webUrl: "https://www.theguardian.com/technology/2023/oct/20/rishi-sunak-global-ai-safety-summit-connor-leahy"
 type: article
-quality: 54
-heat: 64
+quality: 14
+heat: -1
 published: false
 
 provider:
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/cdd7dbf6b2851930cbc2eb7bcc23473a0b6d999f/0_81_5175_3110/master/5175.jpg?width=620&quality=85&auto=format&fit=max&s=a5bc348c05b270d381b96b21d3ec8427"
-    width: 620
-    height: 373
-    isCached: true
 
 related:
   - title: "Britain aims for global leadership role with AI safety summit"
@@ -45,6 +37,6 @@ related:
         height: 534
         isCached: true
 
-secured: "nHN2RWWnW1FGD7Zzm4HsOvW2x/mT4Xnd3CkSYazPIpOrugLZnljOuo69P7iNIeRt7C0sWHz9GncBi1K2ZWo6gbx5WMYpWYdMJlY3LqiYwqXOHRVlonlQEfRtTzvRESDzA19oQI7tRiGckwocXOZyPM2jrzBmHKDwuOfgBNPGo8GEaHxdi6Dnzgw7+YFUbwDK0QjRg12q9g/QhSZe3M5KYTo6q79ooc8PAaavpKlhYnLrfwApipQD8o5Rol9VDh0QjHVkBuXFkyQ4T7rbKAB+d0nby9LXWlH4lV53UYPHHJTG7CjVlpwoAEYblncuTe39npcvOclJhhIHJ+mSSoe69mg5J854NM2Li4UgHd1ua00=;tdygqIuQoLdPLWNnw3fBKw=="
+secured: "+BOb9YUGF51kyFSVjWP4KzbozvSJwuXaUF0SFGlRQjXHY55h4byBv8Fhvo/jEZxD19LdUoO40jP73Ew49PpDvEbLqXWCzbpTQk6r54+vpc9/612JifgfuP6WfH8jkQ9op7ATxvsCw6U8lNLOilLJXoJy61SSNuH2kFF3NCPoJEOzbPwC15Y/RvJTQvLJQVDWf10wxHtVQiAW21sZW04r+/wOWn7iuy7lbRo21gtLKMrrgB6UKXk2lnPCuTMSdPjsb6Ba014KlklJKlFTdGbjvSDImmLhZrJq6UckZQB4z8gvc1LpxOzygXss85cErr2TwNwQ3WtZmmmNNhK1VkpoFyWnKvp74en0tiERgTqkNFQIIF5zhS0w8BiH4geenzllATfs7+gFBZUWg4ysagPOBlN0uQeIwV/3Ss5a0lrr+fs0f7gszUeqTRaX4DGTIw/liyWgiW6CzH/+nbnbsRAwVVWmDmjL7xz/1zRCN122lW0awg+SugesJAXIyVk7I+ZGwoBlFAygXAfTd2aaPB8fiw==;jr4v3GczN32Stowg6MYosQ=="
 ---
 
