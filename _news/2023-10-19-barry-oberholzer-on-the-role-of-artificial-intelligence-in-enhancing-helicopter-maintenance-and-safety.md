@@ -7,7 +7,7 @@ originalUrl: "https://techbullion.com/barry-oberholzer-on-the-role-of-artificial
 webUrl: "https://techbullion.com/barry-oberholzer-on-the-role-of-artificial-intelligence-in-enhancing-helicopter-maintenance-and-safety/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 800
     height: 527
     isCached: true
+
+related:
+  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
+    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
+    publishedDateTime: 2023-10-18T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "M7zdEwIjdoMcCPj3Io3f3Iqzj4Cp+Lo5Q+MjKJq+FSQ4qR7n/HKIuX89tgQHMTjWC39peWI+0Z8Q2wul5+eZm/Y6/DiKzo8CbEq/UuHo8Fn+GecUfFCgZ2GmcHK0PfLhqZvjbaUZK5UYlb0cq5j4bNfwLiUwzuaHyH+N+ulx/Nu+332v0KznYzmXdS7wjuom5b2ViI3k6bwHs5v6qaTNzqO6GcFSKn1K1RxRiYoKGh/jrD7JYsLdgUS1GfgrB2oYtWEXTse/5g5a5NStFRTGo81xSVlX7QKD+H9CozyVGFqUj2wojPbY8hPqoptI0+0u4Yq7mAgapqDR6WDyaQjgU9YJ8Cp7+UGyi+mymedXcFscuSpidpONqIBMHhNVyk1Hu62Wa2a9bjb+6gVjEJ2+KPXcVNMWerCnSEdNKR/J6COncE7Ha56FfFCraH4mcNfBL5RYkEsZ4UEi0Rm1jigX+FcbNWbbarHbineJvD4LQUJOn1mTYgbjX0XSXXglI/GlLh1XKhSOfJwXDUXh7y+jlA==;/CyiakrbnkWqTn3ZKbiJqw=="
 ---

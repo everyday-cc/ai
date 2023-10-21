@@ -279,6 +279,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to avoid falling for misinformation, AI images on social media"
+    excerpt: "The rapid spread of easily accessible AI tools is mudding the waters even ... pause and do more research. Misinformation is often accidentally spread by people who want it to be true."
+    publishedDateTime: 2023-10-16T23:20:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2023/05/22/misinformation-ai-twitter-facebook-guide/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJXQJA64F5GINKYEBK7NPJRTCA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Using AI to Improve Nutrition for Cancer Patients"
     excerpt: "Susan Bratton leverages AI technology to build a better-eating app to support cancer patients going through treatment"
     publishedDateTime: 2023-10-19T20:12:00Z
@@ -292,6 +306,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/70C9E8EF-2C92-4777-8CB2C669B884145D.jpg"
         width: 791
         height: 496
+        isCached: true
+  - title: "Skyrocketing OpenAI Valuation Ignites AI Revolution"
+    excerpt: "San Francisco-based start-up OpenAI is on the verge of finalizing a deal that could value the company at $80 billion or more."
+    publishedDateTime: 2023-10-21T07:29:00Z
+    webUrl: "https://www.dmnews.com/skyrocketing-openai-valuation-ignites-ai-revolution/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 37
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Open-AI.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "AI Platform Alliance: Building a Strong Foundation for At-Scale AI Implementation"
     excerpt: "The AI Platform Alliance is a venture with a clear purpose: to make AI accessible at scale, streamlined, and sustainable for developers and users alike."

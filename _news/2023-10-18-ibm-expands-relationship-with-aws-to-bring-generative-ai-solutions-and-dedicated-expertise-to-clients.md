@@ -25,75 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "IBM expands AWS partnership to bring generative AI to call centers, supply chains"
-    excerpt: "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities."
-    publishedDateTime: 2023-10-18T17:25:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
+  - title: "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud"
+    excerpt: "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,"
+    publishedDateTime: 2023-10-18T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/10/Mark-Russ-Pic-2.png"
+        width: 928
+        height: 511
         isCached: true
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+  - title: "FinTech Innovation Lab New York Opens Applications for 2024 Class"
+    excerpt: "Program founded by Accenture and Partnership Fund for New York City marks $2.6 billion in venture capital funding to date, seeks fintechs leveraging innovative technologies, including generative AI Ap"
+    publishedDateTime: 2023-10-19T09:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35324447/fintech-innovation-lab-new-york-opens-applications-for-2024-class"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35324447"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35324447"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
-  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
-    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
-    publishedDateTime: 2023-10-20T07:35:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
-    type: article
-    provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 51
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
-        width: 336
-        height: 280
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "IBM Expands Relationship with AWS"
-    excerpt: "IBM has expanded its relationship with Amazon Web Services (AWS) to help mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this relationship,, IBM Consulting plans to deepen its generative AI expertise on AWS by training 10,000 consultants by the end of 2024."
-    publishedDateTime: 2023-10-19T13:05:00Z
-    webUrl: "https://channelvisionmag.com/ibm-expands-relationship-with-aws/"
+  - title: "Applications open for Fintech Innovation Lab NY 2024"
+    excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2023-10-19T15:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98471/applications-open-for-fintech-innovation-lab-ny-2024"
     type: article
     provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2023/09/cv_display_ad_jungle.jpg"
-        width: 300
-        height: 250
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "IBM Consulting to help companies get started with generative AI on AWS cloud"
-    excerpt: "French telecommunications services provider Bouygues Telecom SA said it has been one of the earliest beneficiaries of IBM’s expanded partnership with AWS. It engaged with IBM Consulting to design and implement an evolving cloud strategy that leverages the most advanced AI technologies."
-    publishedDateTime: 2023-10-18T11:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/ibm-consulting-help-companies-get-started-generative-ai-aws-cloud/"
+  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
+    excerpt: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform <br />  LOS ANGELES, CA, Oct 18,"
+    publishedDateTime: 2023-10-18T23:52:00Z
+    webUrl: "https://menafn.com/1107266135/DGPT-Announces-Launches-Its-New-Generation-Artificial-Intelligence-Computational-Power-Sharing-Platform"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
-    publishedDateTime: 2023-10-18T18:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients/"
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/AN_c4040307-0_Image_In_Body.jpg"
+        width: 672
+        height: 378
+        isCached: true
+  - title: "On Northern Kosovo, Escalation or Normalization of Relations?"
+    excerpt: "There are fears that recent clashes in northern Kosovo could destabilize the region and introduce the possibility of another war in Europe. However, some of the most influential Western actors are pressuring Serbia to normalize relations rather than escalate tensions,"
+    publishedDateTime: 2023-10-17T12:36:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/on-northern-kosovo-escalation-or-normalization-of-relations"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 4
 
 secured: "KfgWMfQ2AP7jC7kteBoIL3DpuQIiq3eFscLgxXfk2ImkrEOEVclRFA7iOy5mYTWH3VEjcRGJ2Q9lXgGkwya6Jk29lz9wvYy1rKGHEMCwFQYWvKw1frnOmk46RyYAxm6jOXMRtv/zc/KV62heoj+qXw4G+grleRFVPxvW4ovf581kazUfsFDqDzo+2vuszz147sld6Tl7rnJZJfAFZGnRwNfqhEpz7Eorwwijgitv5ML6HlD/9CDqvLJImJtzPBDbAvq57VIyZ9RY5VhvxzNTv9ANIIywIMp7G0KSNo+qVCpIzWLYZ1KZfiiGC+ZwFWhiM0lmpUAAnXqN6cVssDlm8JwhgOhAbYPq2/s/t1yhVKM=;X6IPijJ2yPFAb5eHWpmZAg=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 976
         height: 549
         isCached: true
-  - title: "Using data, AI, and cloud to transform real estate"
-    excerpt: "AI can enable business transformation to deliver positive outcomes for clients and propel sustainability goals, according to Sandeep Davé, chief digital and technology officer at CBRE."
-    publishedDateTime: 2023-10-16T15:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/Sandeep-Dave1200.png?w=1200"
-        width: 1200
-        height: 671
-        isCached: true
 
 secured: "5wRVKPrS6VYI8n7AAM4/REh5/IFbtcYJjv0FZCKwij41uW/pJX7oGrxr7JjG4aXZYc7vfM49OdvikW7o8IvLfoqUGLjrwU4dABwFqeR+GXY22zLWnRraYEHiTuxn0o2S9gwKhADFgDTYGg0p4ln6hmVlzQMbdd2/aLMkWB6e4cAwBvUbMz5zImebrGRzY9Ql8sorelDGOxqNm/HMbEPYYJJ4xdkZzMnWXHxDzzKx9ubqcToTFytetv61cT68kkfpSuXt4QcxuDCOBmjveI+3Z1xkE404gIkZ6xab9Z1aZFrmuc2uXvbbIquX+ZK1r22TzPMYBFmIuQhxdB7cHow5J2yFCkoK6z/GRwWUrQ/Y9HY=;+mgt8guKkbQW9sW9dQTYLw=="
 ---

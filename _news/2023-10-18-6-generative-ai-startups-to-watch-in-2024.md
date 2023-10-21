@@ -146,7 +146,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
         width: 1200
@@ -365,6 +365,20 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
+  - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
+    excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
+    publishedDateTime: 2023-10-21T06:21:00Z
+    webUrl: "https://iblnews.org/nvidia-announced-an-ai-agent-powered-by-gpt-4-that-can-teach-robots-complex-skills/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 33
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/10/nvidiabreakthrough-696x393.jpg"
+        width: 696
+        height: 393
+        isCached: true
 
 secured: "DoZ9CA2tVMfKfUHZ686tHAoTxNiQVni4rkCbjqEdlr2/RDwIGt/3MfwoFYVWwTJW6IgtUPtfRcuGt9FNUE6+lW0DC0Qwd3wMlL7rCryBZ7K1PEwTnQfoHcDb+3EvqmD0ke1XvcoivDGTIhKncbVb5HFCeskcWtzIn8d5f8eFlaeKdUdSfIx19GG8cej7P8TTbWDAL0GJWqdscZHHOx9ialTApbx7yaIJeOmJHJEpZyITd+WEwNJpty8NhtA2ng/IhRbg8+REh40/LF711Wa60VBgsJxh0fRHQyCygMepD50bYOlytI7oOMPe7AzPetDguywvTsGX4ZpzZXZYJP9YZXi2fz0FxRtgapU8y+fH0RqHQCfp5X4S/XTaHRZ2IGDC2kpu80RBcXFjN85ePIL2DonXTLyF4Fnx56zpVoD1JCKFb5UJicwfrL8TyEXt6JDDLn/xhcWXx/7WZnqHDODo9ZWzy7ml3O4jODzuyK8p8+TnVBjHUh+tc0hVnIgAVTymQNVSKl/MepMqbWr2BJKs9Q==;0A8vSVch4MzH6Y7ZFZVSNA=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Why Everyone Has A Role In Creating AI Ethics Standards"
-    excerpt: "As AI steadily integrates into our daily lives, ethical dilemmas have come to the forefront. I firmly believe that this duty extends beyond government boundaries; it's a shared responsibility encompassing each and every one of us, especially business leaders working with or on AI technology."
-    publishedDateTime: 2023-10-16T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/why-everyone-has-a-role-in-creating-ai-ethics-standards/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
 
 secured: "k8qArpwcj8l+e7qXkBVSScaVKOsEeN1+DwfclcCvUzOZl+JzxKLJJ1VH9AIVvQ/K8RSAex+S5BuZa5YtgxFv1N3qFeXro/XrrSeYxsuYUfsJeJmVou65tnE05iNVfpuMTjxiH9Wtrx7Fhz5p5cN0oj10oeILEXHXo1++6FAz88BSPml4CuAhEisgl7Y125107uhMfSd6EtzSDStGdfyViOchx89lX0OsE/gzlz6C8F5J6tXBNs7h5OmnR5x4dUYtzWGm2RH0zmeVNgcRvYKtx0jeNcg1RcpKaI8EuKzhTQ1rPHi361JfKNRi7Qqwfgo4Y9XRtnV8z/R1cLve+o/0n0wKJuqRbiP6ZUFiOk+0VW4=;qpc615qdJE++5BjC4AyXZw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-st
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,33 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "The 12 Worst Examples of Meta's Dystopian AI Influencers"
-    excerpt: "Tom Brady, Kendall Jenner, Roy Choi, and Charli D'Amelio all throw their hats in the ring to put faces to Meta's chatbots on Instagram, Messenger, and WhatApp."
-    publishedDateTime: 2023-10-16T13:25:00Z
-    webUrl: "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709"
+  - title: "Barry Oberholzer on the Role of Artificial Intelligence in Enhancing Helicopter Maintenance and Safety"
+    excerpt: "Helicopters excel in diverse roles—from rescue missions to aerial tourism. Their unique capabilities, such as hovering and accessing remote locations, make them indispensable. Yet, their complexity demands rigorous maintenance."
+    publishedDateTime: 2023-10-19T01:07:00Z
+    webUrl: "https://techbullion.com/barry-oberholzer-on-the-role-of-artificial-intelligence-in-enhancing-helicopter-maintenance-and-safety/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
+      name: Impacts
+      domain: techbullion.com
+    quality: 38
     images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e374caedbec70276644c92b6534ca98e.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The top AI tools creators use to make content and 4 other key takeaways from a new survey of 2,000 influencers"
-    excerpt: "Membership platform Creator Now surveyed creators on how they really feel about AI in the influencer industry."
-    publishedDateTime: 2023-10-18T14:53:00Z
-    webUrl: "https://www.businessinsider.com/ai-tools-used-by-creators-chat-gpt-midjourney-google-bard-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
-    images:
-      - url: "https://i.insider.com/652f6780be9edfa8eda36167?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Article_Barry-Oberholzer_The-Role-of-Artificial-Intelligence-in-Enhancing-Helicopter-Maintenance-and-Safety_Featured-Image.png"
+        width: 800
+        height: 527
         isCached: true
 
 secured: "WjMc2CaJZzM/Pu+sFCCgRZyeRy1cEybZGK1Zc2EgdUCG2T8Xx8kJOn23UMwmbNLuFc4eKTxZfthWTJhOlBPWqJVS+20TdsrdxHQ3jj4g2JqCLfBmgAgSgv0HWFCiPTR3/vTEKRCgRYRcWxKYDNSzx04QfE2FXyr1lZ3OGQTXYOj8IhI+79nwlyATgWL9KoIaYivMq3ZUlPSyrrluBAragNYkfhCMU7yNwgbrbBo8mTlwlmVd98ck2DWaz1yE3vbppFyTZDhtaB2VQZa8vxtw9aVC/ctD87wRMm9tJRHVd6+fRRGbldnyDMvm72xhBumhkEy5J3Dl35lKUvwonDlQq7XJhstkzHtfDb+z+rsVI6A=;uDlXFCAfsOvB+DLXLWkiDg=="

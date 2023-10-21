@@ -24,38 +24,73 @@ images:
     isCached: true
 
 related:
-  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
-    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
-    publishedDateTime: 2023-10-17T09:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
+  - title: "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud"
+    excerpt: "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,"
+    publishedDateTime: 2023-10-18T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Microsoft
+      domain: microsoft.com
+    quality: 90
     images:
-      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
-        width: 800
-        height: 450
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/10/Mark-Russ-Pic-2.png"
+        width: 928
+        height: 511
         isCached: true
-  - title: "Celestica Launches its Next Generation 800G Switch, Powering Artificial Intelligence and Advancing Data Center Connectivity for the Future"
-    excerpt: "Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, hardware platform and supply chain solutions for the world’s most innovative companies, today launched its DS5000 high-performance 800GbE switch,"
-    publishedDateTime: 2023-10-16T13:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/celestica-launches-its-next-generation-800g-switch-powering-artificial-intelligence-and-advancing-data-center-connectivity-for-the-future-1032708341"
+  - title: "FinTech Innovation Lab New York Opens Applications for 2024 Class"
+    excerpt: "Program founded by Accenture and Partnership Fund for New York City marks $2.6 billion in venture capital funding to date, seeks fintechs leveraging innovative technologies, including generative AI Ap"
+    publishedDateTime: 2023-10-19T09:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/b35324447/fintech-innovation-lab-new-york-opens-applications-for-2024-class"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35324447"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35324447"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 13
-  - title: "LTX by Broadridge Launches BondGPT+ To Empower Enterprise Financial Services Clients with Custom Generative AI Solutions"
-    excerpt: "BondGPT+ builds on award-winning launch of BondGPT to add premium features and seamless enterprise integration NEW YORK,  /PRNewswire/ -- LTX, a subsidiary of global Fintech leader, Broadridge Financial Solutions,"
-    publishedDateTime: 2023-10-18T13:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ltx-broadridge-launches-bondgpt-empower-enterprise-financial-services-/2023/10/18/9900857.htm"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Delivering joint solutions upgraded with generative AI capabilities for critical uses cases - Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants - Plans for further integration of IBM watsonx with AWS ARMONK,"
+    publishedDateTime: 2023-10-18T11:59:00Z
+    webUrl: "https://www.asiaone.com/business/ibm-expands-relationship-aws-bring-generative-ai-solutions-and-dedicated-expertise-clients"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Asia One
+      domain: asiaone.com
+    quality: 39
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/pr-newswire_500_4_1020.jpg?h=7de12b8a&itok=Lc8yxDNw"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "Applications open for Fintech Innovation Lab NY 2024"
+    excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
+    publishedDateTime: 2023-10-19T15:19:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98471/applications-open-for-fintech-innovation-lab-ny-2024"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "On Northern Kosovo, Escalation or Normalization of Relations?"
+    excerpt: "There are fears that recent clashes in northern Kosovo could destabilize the region and introduce the possibility of another war in Europe. However, some of the most influential Western actors are pressuring Serbia to normalize relations rather than escalate tensions,"
+    publishedDateTime: 2023-10-17T12:36:00Z
+    webUrl: "https://www.diplomaticourier.com/posts/on-northern-kosovo-escalation-or-normalization-of-relations"
+    type: article
+    provider:
+      name: Diplomatic Courier
+      domain: diplomaticourier.com
+    quality: 4
 
 secured: "OyRYBuPZDNsFQHj/tBxjeIubaYw+jsm+QE1rGCSYNMOEbM8l0MwWj1DDcLsWZL+Dr7w5iogww2G06PWIrhaUPgzolAvJnaT1L9f+eiqnc1EEAKSQdph0kG1XIIGit9NUKpJ3HQwEPvMFXSbqEo7oDxDLaIMPFy0oKZusqFE3onSudKnMzA3sc1WdT3QFjytmPCeGOnkQNYUPa5y7Tr8+MQ+5RE9P4J42YGiRR8jybTPJ8UyaYV092IBZVtmAc22ca9Ux7DKS2R6KqdaD3/djKUidITdfCveQ0X72/r+Jl8ofpj5WzuPNbG5VXHpkr3y2nVa88aFFqLoJ0XyEi8S8w7Owb0aHxHKJa7dlU6FcH4c=;PIkWyUIwSaekLjhEPR5+Eg=="
 ---

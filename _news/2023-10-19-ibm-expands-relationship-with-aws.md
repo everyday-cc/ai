@@ -62,20 +62,6 @@ related:
         width: 336
         height: 280
         isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "Delivering joint solutions upgraded with generative AI capabilities for critical uses cases - Providing clients with dedicated AWS expertise and plans to train and skill 10,000 consultants - Plans for further integration of IBM watsonx with AWS ARMONK,"
-    publishedDateTime: 2023-10-18T11:59:00Z
-    webUrl: "https://www.asiaone.com/business/ibm-expands-relationship-aws-bring-generative-ai-solutions-and-dedicated-expertise-clients"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2023/pr-newswire_500_4_1020.jpg?h=7de12b8a&itok=Lc8yxDNw"
-        width: 600
-        height: 316
-        isCached: true
   - title: "IBM Consulting to help companies get started with generative AI on AWS cloud"
     excerpt: "French telecommunications services provider Bouygues Telecom SA said it has been one of the earliest beneficiaries of IBM’s expanded partnership with AWS. It engaged with IBM Consulting to design and implement an evolving cloud strategy that leverages the most advanced AI technologies."
     publishedDateTime: 2023-10-18T11:59:00Z

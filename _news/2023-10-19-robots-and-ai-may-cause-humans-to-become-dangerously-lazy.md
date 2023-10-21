@@ -32,7 +32,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://techbullion.com/wp-content/uploads/2023/10/Why-Is-Artificial-Intelligence-Dangerous-Exploring-the-Risks-and-Challenges.jpg"
         width: 600

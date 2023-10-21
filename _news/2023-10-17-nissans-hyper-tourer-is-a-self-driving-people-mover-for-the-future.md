@@ -39,6 +39,20 @@ related:
         width: 555
         height: 312
         isCached: true
+  - title: "Nissan Hyper Tourer self-driving electric people carrier concept unveiled"
+    excerpt: "Nissan has unveiled the Hyper Tourer concept as one of three new models that will be showcased at the Japan Mobility Show."
+    publishedDateTime: 2023-10-21T06:26:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/nissan-hyper-tourer-is-a-self-driving-electric-people-carrier-concept"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 23
+    images:
+      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/230904-nissan-hyper-tourer-press-photo-03_w555_h555.jpg"
+        width: 555
+        height: 312
+        isCached: true
 
 secured: "vI0iAuaVsHXI64IgtGs6zjwjHxc3SZnsEEaT0RPTkNu3jaGRhhN52ehoi61fHZuBGQ029BDsbjHD2SvSfSg69C/Y4NlcpTekwrimiuSb4s+MDQxcJLXezK3Szhnporxz3Me6DFm6cPRKGQ8ae+QtSxwFGb/JLZp906GHU6Ymjj0+Y3zIZAM+DDZzZviHAySndsgoTiIUSqIgjZuLznzhaAgsDesOy8dElr+LJiW+blzGa2Bp1mjP7fnHQVbavHgJZVbG+bxUq6XG+AD3g1XZ8TutiBSBmPIUGo8Hq29sfCzqlQbze8NEQJsV6P4BeByhBOpkc05VoAdn6JvkEI6WIhJel5rLWRR64trp1Vkw8QA=;+SnbFa1Rt8Afmdk9hJUDPQ=="
 ---

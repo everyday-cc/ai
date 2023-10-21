@@ -9,8 +9,8 @@ ampWebUrl: "https://www.aol.com/amphtml/ai-transform-legal-profession-230711078.
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: AOL
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using data, AI, and cloud to transform real estate"
-    excerpt: "AI can enable business transformation to deliver positive outcomes for clients and propel sustainability goals, according to Sandeep Davé, chief digital and technology officer at CBRE."
-    publishedDateTime: 2023-10-16T15:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/Sandeep-Dave1200.png?w=1200"
-        width: 1200
-        height: 671
-        isCached: true
   - title: "Now AI could help healthcare professionals manage depression"
     excerpt: "New findings suggest ChatGPT ‘may be better than a doctor at following recognised treatment standards’ for this mental health disorder."
     publishedDateTime: 2023-10-18T23:30:00Z

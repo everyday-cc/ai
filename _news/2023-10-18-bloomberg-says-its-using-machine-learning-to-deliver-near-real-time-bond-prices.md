@@ -7,7 +7,7 @@ originalUrl: "https://www.institutionalinvestor.com/article/2cc01z896579jxju9f08
 webUrl: "https://www.institutionalinvestor.com/article/2cc01z896579jxju9f08w/portfolio/bloomberg-says-its-using-machine-learning-to-deliver-near-real-time-bond-prices"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Bloomberg Tax AI Lab Enables AI Functions for Bloomberg Tax Research"
-    excerpt: "ARLINGTON, Va., Oct. 16, 2023 /PRNewswire/ -- Bloomberg Tax & Accounting today announced the launch of its AI Lab to enhance the Bloomberg Tax Research experience. The new Bloomberg Tax AI Lab offers customers the option of testing new AI-driven tools ..."
-    publishedDateTime: 2023-10-16T13:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-bloomberg-tax-ai-lab-enables-ai-functions-for-bloomberg-tax-research-1032708618"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "ChatGPT: China to Police AI as Bot Fever Sweeps Nation – Bloomberg"
     excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial"
     publishedDateTime: 2023-10-20T06:54:00Z

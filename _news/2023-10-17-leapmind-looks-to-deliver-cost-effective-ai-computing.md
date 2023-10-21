@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/content/news/leapmind-looks-to-de
 webUrl: "https://www.newelectronics.co.uk/content/news/leapmind-looks-to-deliver-cost-effective-ai-computing"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "LeapMind's New AI Chip Paves the Way for Unprecedented Cost-Effective AI Computing"
-    excerpt: "LeapMind Inc, has announced the commencement of the new AI chip development that accelerates the training and inference of large-scale AI models."
-    publishedDateTime: 2023-10-16T14:06:00Z
-    webUrl: "https://www.design-reuse.com/news/55018/leapmind-ai-chip.html"
+  - title: "Is Auditing Smart Contracts Using AI More Cost-Effective and Secure?"
+    excerpt: "Smart contract security stands as an unequivocal priority. These self-executing contracts frequently facilitate the transfer of digital assets, sensitive"
+    publishedDateTime: 2023-10-20T03:22:00Z
+    webUrl: "https://www.cryptopolitan.com/is-auditing-smart-contracts-using-ai-more-cost-effective-and-secure/"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 48
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
     images:
-      - url: "https://static.designandreuse.com/news_img2/homepage55018/lb.jpg"
-        width: 877
-        height: 505
+      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/1302.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "1Z0JX9xSolBdHvPGfVYQIB7fhfTQEkc+OYWS24VYM0ETpO3WccrMWvPW0LVrWcZSEDCuUzsVcNvhJWlwYu2f+XKRb8Qvb5ZxGVSfnK6bnkAOzAVSDEWdNRIgw6gsOODSTKdjjQIWCTF41mwBAq0HsnaXCYG4amck4dHXy3eO9LXnMsbjniBLCC9+N2gAf3VkTYHN/hsMAIP98hhH4A+sNDUCSIx34Es4+7DTS1cxaqP9abzKbkJ67D99Im8Rt8nLckhFs5xJSdwpv5Xm8mOe4ixsNnM/z7vpOx6sC9IJbvmMb3feyGxytBjsdZgkVr154kc4HS7IpP23Vm/No9MSnKLBMNg6oanaMqjZuOebuY0=;9mcCqoaMwDtfbDBob0dTVA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-tools-used-by-creators-chat-gpt
 webUrl: "https://www.businessinsider.com/ai-tools-used-by-creators-chat-gpt-midjourney-google-bard-2023-10"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -26,31 +26,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "The 12 Worst Examples of Meta's Dystopian AI Influencers"
-    excerpt: "Tom Brady, Kendall Jenner, Roy Choi, and Charli D'Amelio all throw their hats in the ring to put faces to Meta's chatbots on Instagram, Messenger, and WhatApp."
-    publishedDateTime: 2023-10-16T13:25:00Z
-    webUrl: "https://gizmodo.com/12-worst-examples-of-metas-dystopian-ai-influencers-1850917709"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e374caedbec70276644c92b6534ca98e.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
-    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
-    publishedDateTime: 2023-10-18T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "t2/r5sjkQjM7l1FEBckE5AqqChNdCTARSbgJtw9JXt6jDzPU3FMzFEgtOv0vWklto0pCFo3hQcwd7pyr94IQLw2yDKT7gzxwV2YH6atlZzBjSqpVrTNwtQaffSvh3UfSzgLvKc+C99V3ZheE1ySH+GT0XqhNhHqL7XhqYLP4WzkFWICpPrh2JznfKXuacaniaEfhvmyPqnckBkEmVy/IczW7vvCmAT6ZeQBYSLFS203ycNjPPwJ44Lu3NnqCCdEDNbiBUbwG8v8Cly4b2fIHwx5sjwqyoAI5dcvACOOEEC0/3nGIQF/puXQtZWid2+KVnsOEa2tu1lWwkFEJA32NFSYB3OjeMDYkPjvtIPtAG2g=;BjGbCfWOng3GU+hHO0/nJQ=="
 ---

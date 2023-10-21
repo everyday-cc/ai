@@ -26,31 +26,52 @@ images:
     isCached: true
 
 related:
-  - title: "Is AI about to transform the legal profession?"
-    excerpt: "Legal software system RobinAI uses what it calls an AI co-pilot to help speed up the process of drafting and querying contracts, both for in-house legal teams in large organisations, and for individuals."
-    publishedDateTime: 2023-10-19T02:07:00Z
-    webUrl: "https://www.aol.com/ai-transform-legal-profession-230711078.html"
-    ampWebUrl: "https://www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
+  - title: "How AI Is Transforming Contingent Workforce Management"
+    excerpt: "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working."
+    publishedDateTime: 2023-10-16T19:44:00Z
+    webUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/"
+    ampWebUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/b87d4754288b7172a2426d2ad5fece63"
-        width: 976
-        height: 549
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Now AI could help healthcare professionals manage depression"
-    excerpt: "New findings suggest ChatGPT ‘may be better than a doctor at following recognised treatment standards’ for this mental health disorder."
-    publishedDateTime: 2023-10-18T23:30:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/10/19/now-ai-could-help-healthcare-professionals-manage-depression/"
+  - title: "Unlocking the Animal Kingdom: AI's Potential for Conversations with Wildlife"
+    excerpt: "Discover how Artificial Intelligence (AI) is transforming our understanding of animal communication and paving the way for meaningful conversations with wildlife. From deciphering animal languages to advancing conservation efforts,"
+    publishedDateTime: 2023-10-17T01:23:00Z
+    webUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife"
+    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 56
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_10_2023_15_32_54_4822987.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
+    publishedDateTime: 2023-10-19T15:09:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 39
+    images:
+      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
+        width: 840
+        height: 449
+        isCached: true
 
 secured: "rhUrsIRlmvwxxyW69pVJZfrwD9CrJNkTgdyRvWOEXZOU1km5qj6EdJzjzPGdL7IZhQFPHvGT3nh+LuZfZQBgYzz0+YhmMWMcRRyJlS03qxxbJiKxdXWVYMpY9l2CnNJBSgsNfC07Eb5QF+9dNQmu4fDoi0Nod7rmnH0mHVO+4JzfVTk1DRp219sOlTpW2oaeXR7MvDrqRtIKpoJPWBBvrxGxlrAFX2w4nmWx+3P3f5+M20MoMEz6W//PMGhmoTKiW3u57nYqjsG7Bxs1hcyNG1akenezpeLaePpEfvERFg5OuLLbh7UotAI6WXLgZ8w/kKLzs9Bj4G+llKQjH3hSMRU8VsbhFPQYpPbbbBCA4sl3zHvJpn8/ZPZB1UDBLzeBEfyfEEDeOGDw/I+LL+0sITiAxqsNiP6r26u+OwfS31XupZeurHqcf6HdEm8Hfyp1WVkH7Vkze8xVGwuJ67luzyStqhLPsVFPiYSy/ipKeSfI00ciA2CF67Y3/HM1bw5h0J/AecDMRE9RazlkaikfAg==;4bnnzLbPNpXB2XaVbuZ0NQ=="
 ---

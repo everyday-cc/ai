@@ -34,7 +34,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "Sensedia Announces Joint Fintech Solution with Mambu at Money20/20"
+    excerpt: "Sensedia, a global leader in delivering API solutions for companies adopting a more digital, connected, and open strategy, today announced it will present during Money20/20 at the Venetian, Las Vegas,"
+    publishedDateTime: 2023-10-19T19:27:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231019438906/en/Sensedia-Announces-Joint-Fintech-Solution-with-Mambu-at-Money2020"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 4
 
-secured: "BYIPPyYHd6Ac5wvVyw36dpggORpxHSBKc87p9LKd95Pom/tDvK1L8Vrfis2/GdFzM7kOjhUs0+MlFx6fN9iTw8++JG+whEu2FyfuSDQCsKtn132nK123EZnb7Qxcyp5tv67fQdaiL7NGeLE/jbsxPaArW5tsut8+b27jxCE6aO6UHJKPY6s5biy1V594OoEgc9xQMNDUI4nHhyKDgaHrhPKxY20w89dv+bZ3n3NJa75CHPlTrmP0xdvQY2oaQD5XpjqEbyECPCgfc7r4t7vtPeTxTDd4VfpOGOQyZEcIlwIeDaouIwgnMX4oYGa0UpDQsQPGZQdUe7v+F7TkffdpLFZvBtiNWhKJBbajzJMMjzc=;FAfBm+Sv7bqMrUj2Z+/ZAQ=="
+secured: "yAyrWeRdgdXrJN/Ixi0OInB/XEJHLoxuJrJp75LG38lS7TuE2VtzlbpXh7mt/K/S6ssmcH6sQP+DJDX58GG7DCbbk7SmNahbN5STtoUU078+rrecrG/8Q+mXsSCsqnVhuwDxp5DQi0hDksUdQ2qbTrRwLbP17JQ1SAAQei5vP87m9DXnAyRJCVL485798DnzBPiiKiA3EsBVx2e5Gn/wbEwGBwj2oXssb2TK3cCJd9GLaBtMm0QUkVY8Iv/Uqb1eJ20W2aXbpF7hQ5JnmgmkbKRPOIN7e9BSxyCHmAsh87TCN9GUv8/YQ99GP81k/LsLXhWz6cKOqwEPhYBddXBFMdGTczW4r/YNwrMTzXtZNDEnopzWtPLneJnp8kvOTA/8AtCGM2rOxwd4uIbXfhBQgYyph9xm++w5oVJsG74G1ggq5CDjw9COLtnq5OSxVPRqJ3IpVHwRxgR1Jv0mNs0fYglpkE6pu/aU3QFa3rh6NcpxyP+jw2wY9P0dRXZjFvpCkW12bpKYX7PW/tnFb/8HPQ==;vXP4Wume/EXyEBXK8ODndg=="
 ---
 

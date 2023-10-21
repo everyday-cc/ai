@@ -148,7 +148,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
         width: 1200
@@ -358,6 +358,20 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 34
+  - title: "Nvidia Announced an AI Agent Powered by GPT-4 That Can Teach Robots Complex Skills"
+    excerpt: "NVIDIA Research announced yesterday that it developed an AI agent called Eureka powered by GPT-4 LLM and generative AI. Eureka can teach robots complex skills by writing code that rewards robots for reinforcement learning."
+    publishedDateTime: 2023-10-21T06:21:00Z
+    webUrl: "https://iblnews.org/nvidia-announced-an-ai-agent-powered-by-gpt-4-that-can-teach-robots-complex-skills/"
+    type: article
+    provider:
+      name: IBL News
+      domain: iblnews.org
+    quality: 33
+    images:
+      - url: "https://iblnews.org/wp-content/uploads/2023/10/nvidiabreakthrough-696x393.jpg"
+        width: 696
+        height: 393
+        isCached: true
   - title: "6 Generative AI Startups to Watch in 2024"
     excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."
     publishedDateTime: 2023-10-18T08:17:00Z

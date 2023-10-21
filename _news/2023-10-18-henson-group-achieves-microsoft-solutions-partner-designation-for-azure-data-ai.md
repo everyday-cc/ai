@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft unveils extensions to Fabric, Azure for healthcare AI"
-    excerpt: "These new offerings seek to bring together multiple modalities of medical data for greater analysis, and also bring large language models to clinicians' side as medical copilots."
-    publishedDateTime: 2023-10-16T14:02:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 116
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/7b1085eb32224a532e4765a7998aee76e2402275/2023/10/16/e136bcb6-5b44-493b-bcf2-05ee2ec78ae0/gettyimages-1456133907.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft would like to remind you that they are all-in on AI"
     excerpt: "In case you weren't sure how Microsoft felt about AI, CEO Satya Nadella is here to tell you: they like it. They like it a lot. In the company's annual"
     publishedDateTime: 2023-10-20T18:52:00Z
@@ -54,20 +40,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud"
-    excerpt: "The Microsoft Azure Incubations team is excited to announce Radius, a cloud-native application platform that enables developers and platform engineers who support them to collaborate on delivering and managing cloud-native applications that follow corporate best practices for cost, operations, and security,"
-    publishedDateTime: 2023-10-18T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 90
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/10/Mark-Russ-Pic-2.png"
-        width: 928
-        height: 511
         isCached: true
   - title: "Microsoft Analyst Bullish On AI Leadership, Retains Caution Given High Interest Rates"
     excerpt: "Also Read: Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why On this basis, Turits expects an overall in-line Q1. However, he retained some caution given the ongoing high-rate environment, macro concerns expressed in ..."
@@ -114,22 +86,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2023/10/worried-alarmed-concerned-user-100947306-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Preparing for the Future of AI in Healthcare"
-    excerpt: "It’s crucial that healthcare organizations stay level-headed when it comes to questions around AI. It’s easy to get distracted by the latest, greatest new tool, but if it doesn’t align with an organization’s overall mission,"
-    publishedDateTime: 2023-10-17T16:19:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1321590983.jpg?itok=obw9Q3RC"
-        width: 1440
-        height: 500
         isCached: true
   - title: "TCS bets on Microsoft AI partnership to fuel growth"
     excerpt: "Tata Consultancy Services (TCS) is expanding its partnership with Microsoft to develop AI-based software services for clients. The collaboration with Microsoft's Azure OpenAI and the use of cloud-based AI tool GitHub Copilot will allow TCS to offer ..."
@@ -289,6 +245,22 @@ related:
       - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
         width: 1043
         height: 1043
+        isCached: true
+  - title: "Alibaba, Tencent And Ant Invest $342 Million in AI Startup Zhipu, Eyeing Rivalry with Microsoft's OpenAI"
+    excerpt: "Alibaba Group Holding Ltd BABA and Tencent Holdings Ltd TCEHY featured amongst major Chinese investors doling out 2.5 billion yuan ($342 million) in artificial technology startup Beijing Zhipu Huazhang Technology Co. Many Zhipu investors joined a recent $300 million round of financing for Zhipu-rival Baichuan, Bloomberg reports."
+    publishedDateTime: 2023-10-20T14:55:00Z
+    webUrl: "https://www.benzinga.com/news/23/10/35349943/alibaba-tencent-and-ant-invest-342-million-in-ai-startup-zhipu-eyeing-rivalry-with-microsofts-openai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35349943"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35349943"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/20/artificial_intelligence_ai.jpg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
         isCached: true
   - title: "How Microsoft’s new AI will save you time and energy"
     excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."

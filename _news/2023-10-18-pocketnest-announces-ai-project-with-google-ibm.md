@@ -35,22 +35,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "PSU working with Artificial Intelligence to advance semiconductor research"
-    excerpt: "In recent years, Oregon lawmakers, working with federal legislators and businesses, have been hoping to bolster the state’s semiconductor industry through investments like the CHIPS and"
-    publishedDateTime: 2023-10-16T14:46:00Z
-    webUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/"
-    ampWebUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
-    cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 55
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/10/generic-portland-state-university-10012023.png?w=1280"
-        width: 800
-        height: 455
-        isCached: true
   - title: "IBM to help India advance in AI, semiconductors, and quantum technology"
     excerpt: "IBM announced three MoUs with three Indian entities to help India in semiconductors, AI, and quantum technology, three areas vital to India's ambition as the South Asian country is eager to stay in the game in the global technological competition."
     publishedDateTime: 2023-10-19T02:05:00Z

@@ -27,15 +27,6 @@ related:
       name: Bridge Magazine
       domain: bridgemi.com
     quality: 16
-  - title: "Months after launch, University of Michigan's new AI tools gain popularity"
-    excerpt: "Two months after the debut of the U-M GPT AI, the program is already revolutionizing the way students at the University of Michigan learn and the way professors teach."
-    publishedDateTime: 2023-10-16T13:50:00Z
-    webUrl: "https://www.crainsdetroit.com/technology/u-m-gpt-ai-tools-being-adopted-students-professors"
-    type: article
-    provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 15
 
 secured: "lW5JE0f1c/5NKgsATMpSnxdZMrumfEYK/BDbeg7Om9jcngJJSfu1/VqFWtk5MesiAqpwhjOypNHIZseBl87g4MgTXkl33mzzpkeypHbb0K0EO36vQqnqaL8gA4oymNLy8lhO2ZP5HM4zAsbDGANxcjpSv6Rb0427XPdwZLUzM9wNaac2vrZnDYgdEdGAkJcH4y4onUUuby7izkXeBJ1UqvzDvPWVt/D4a1iYbzfD7qIZHR1I100NQdE2WniO72fSceLJW+Ow1uBosLpH9WHhy7j1wleYMHS3UquguvDIK/0DO6KoAh/gbxpf5NmCD9iWh1A5WGoLTQseDL6eSOIru3HJBF6R85k/iRzhAbL1dBM=;w/D95o9FE+/6gIqbFBskHQ=="
 ---

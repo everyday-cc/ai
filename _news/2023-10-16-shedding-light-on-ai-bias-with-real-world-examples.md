@@ -32,15 +32,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Living in a data sovereign world"
-    excerpt: "With the rise of cloud computing and global data flows, data sovereignty is a critical consideration for businesses around the world. \nThe post Living in a data sovereign world appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-16T15:02:06Z
-    webUrl: "https://www.ibm.com/blog/living-in-a-data-sovereign-world/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
 
 secured: "7nxUu7RDMzqaOspjmhrgyZKKwf+mkRMY712uEF4aOhnek053RX1+yk8aOLlGqS/kSrbacVoLY5KGnPfKp2ZGQmGf7Bvd5yiiAGfa0dQfnyIxARJvBVjABP2dgb7fRW+E0nZIPQCj12jPKBdbw+NaPHBr4r4n/UNycAUEMXl8abvqTR5Xt/GhUuIHLXmo/vkaL2GeH30FMqcXi4IRdj3Awpcd5k9tA+pOhLUsXXs0hcpCMzGSAKElUnaz78Kd7UQ0SX+bRh+hi2Cx8UXbUk18T2XwOtgGogGrWp7cYrkhLkjAsesmO/3OW9gxymVyY79AXlnI0Elas5IOGbC2afhlfbvmeumCYo3ESUsj88QPnWs=;+gt7C27I7itTrSenPKHb8A=="
 ---

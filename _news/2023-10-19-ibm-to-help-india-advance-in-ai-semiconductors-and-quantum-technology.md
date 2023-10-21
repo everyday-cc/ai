@@ -41,22 +41,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "PSU working with Artificial Intelligence to advance semiconductor research"
-    excerpt: "In recent years, Oregon lawmakers, working with federal legislators and businesses, have been hoping to bolster the state’s semiconductor industry through investments like the CHIPS and"
-    publishedDateTime: 2023-10-16T14:46:00Z
-    webUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/"
-    ampWebUrl: "https://www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
-    cdnAmpWebUrl: "https://www-koin-com.cdn.ampproject.org/c/s/www.koin.com/top-stories/psu-working-with-artificial-intelligence-to-advance-semiconductor-research/amp/"
-    type: article
-    provider:
-      name: KOIN 6
-      domain: koin.com
-    quality: 55
-    images:
-      - url: "https://www.koin.com/wp-content/uploads/sites/10/2023/10/generic-portland-state-university-10012023.png?w=1280"
-        width: 800
-        height: 455
-        isCached: true
   - title: "Pocketnest announces AI project with Google, IBM"
     excerpt: "Pocketnest, the female-founded financial wellness platform, announces the official kickoff to its biggest product release yet, focusing on artificial"
     publishedDateTime: 2023-10-18T12:30:00Z
