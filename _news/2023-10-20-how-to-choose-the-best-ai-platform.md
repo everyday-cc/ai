@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "How to land a job in artificial intelligence and cash in on the hype"
+    excerpt: "Looking for a job or career in AI? Recruiters say applicants don't always need college degrees, but should be able to demonstrate AI interest."
+    publishedDateTime: 2023-10-19T16:08:00Z
+    webUrl: "https://www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-get-ai-job-career-ibm-nvidia-recruiters-advice-2023-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/6528461468f1d46f52b06af3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How To Control For AI Bias In Lending"
     excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
     publishedDateTime: 2023-10-18T11:45:00Z

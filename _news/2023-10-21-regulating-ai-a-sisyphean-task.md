@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-21T02:12:00Z
 originalUrl: "https://cyber.harvard.edu/events/regulating-ai-sisyphean-task"
 webUrl: "https://cyber.harvard.edu/events/regulating-ai-sisyphean-task"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cyber.harvard.edu/sites/default/files/inline-images/regulatingai_banner.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 2152
     isCached: true
 
-secured: "s5IXfjrWWZUMDPM67FDvaSJ9R1R7rq81OzUSQMnDg/bvbRxyCdPFMKoPQUWzjn1yq7S4t6IVtkOi1YuvzYO0hL/iDBA+jwEO3Ok9aGr2yMAjqLkjRRXqqAmTS83nbgSCSgW1uYI9jt06LaX/4tgdyBsgLDU2rJjP6hQFOd9VAJ/g8KKNT15YxnQDJAgu8bTHV0mHVj8og2+iNnUl7v0cYm50f1zpfR6YO/qAGfu/8WdhN3OP/UVduZSyTa6QbWjbXrRAAPDZp/nBVK8pobPkNureuoaQ1Fa58ooI6ry2pua+4iJ91nO4OBg+G9pzggcODLqM9OMCBYNBoZELwBSDDZpPDGn40tG2J9nOHn37EXM=;eJMnYbXMxY+poxVTgU4Trg=="
+secured: "t10Y05L9Tn0Vlc7t4OqWpuh+VHvrH+eaPo8J8MbDGGCacJKL6GlIszw3dbHPrXaDkovH1OA3QY2kYgNyy+Yhzvq8j8rtx3QFa2wYpLsbBoJ6d/9cGyiirOt1BHM1krCNzibc6UKOErU6aM1hhAqKNnA/qsXv7UOkKL2f1KcMAUsO5ALyC8lf2TNQk+khugEMhMz+qvQxOYEpuECD1p6AQOmkkXTYwTwXqXlfxcU1pwJnuJmtnZ1nr4FRpuJHzvi6DMDM7/4GLaaumcYVrNoZwk4CusLJMRCSt42GLghFMtalIzkBfLE6OhyfzjUnwUhDPn4GHffVo6/RfgF5odASrSuW9l2vFw/1lXQxOl6vOj7+IapbengowXsl8q62Uv5mZr7ZCc6Ycrk+9XZWcahANo+iNYi1OCX9LdvyPU0E84gFdzH9gdVDiny6Znr2GEGtEvET36J0Ov7jYrnKkUoTl+9HcWJVSdIrVzsXmg3hWsJWItkkGqQe/bDRAioR3Gj0Fthg9kigTc/d2Vc8DLsfWg==;VtInLdGLAsbZFyiadLhQrw=="
 ---
 

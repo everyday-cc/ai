@@ -51,15 +51,6 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Jim Jordan’s rapid rise has been cheered by Donald Trump and the far right. Could it soon make him Speaker?"
-    excerpt: "Days after the election, Jordan traveled with fellow GOP Rep. Scott Perry to Pennsylvania to meet with the Republican state House Speaker, where the two congressmen “raised some questions regarding what I’ll call the legal process,” then-Speaker Bryan Cutler told investigators."
-    publishedDateTime: 2023-10-16T11:39:00Z
-    webUrl: "https://floridapolitics.com/archives/639725-jim-jordans-rapid-rise-has-been-cheered-by-donald-trump-and-the-far-right-could-it-soon-make-him-speaker/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 0
 
 secured: "M9IF3E83E5yeMGIE4VNulUhYShoECxppwqfClKunEA7CVqtYmCzp8LH83G57+8UsW0dBlE2OJVsgrNGeDo66QX+EW57Xp7+VwUnPDeY4KgW5FUNfFJXiuIcXkR1iZ24aqj0TErJHrtr61ETCzKzAFKy2p6AMZc067kQYo8knzen8fZPhwHfbqEIXAP/Ufbz1l8d2kMmbbclTLdg5LfpZSrbHtZWhqBAfKi8F8ZgIJzeGG5HDAUBvE1jxXx4sw/r53VM0NWy7BDvKXM2EQkpyQ6gZ4gI/oVZTLK4rDWRdHmZCWDo9QHtVhlk5oDjEHkOA3vvVZw+V+Wx6eetvtRQ4sDw+W4LcZycoa+lYZUrinOiFWr2n9vgRL5UBg/NrO+rYMcZ+Wq6ignCFm0mXy/3u4BU+buL2qaZGV0/xt2RDeoHhwk2dye74jYyruEBySf7s/5tfOqB3CcL2Ccj/P8ogomCjVdT7TET+spR3rYZBDA9mjUJndcMUctfn15xgb1ztGSIVDSnqAdWfT2/X+NXryQ==;mhc1i2Tyw3ecvIQCe+WxEA=="
 ---

@@ -43,20 +43,6 @@ related:
       name: iafrikan.com
       domain: iafrikan.com
     quality: 34
-  - title: "Do corporations and networks not realize it is Italian American Heritage and Culture Month?"
-    excerpt: "Watching college football on ESPN this weekend, one of the commentators brought up something about Hispanic Heritage Month. Later, there was a commercial also mentioning the very same thing again."
-    publishedDateTime: 2023-10-16T11:31:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/do-corporations-and-networks-not-realize-it-is-italian-american-heritage-and-culture-month"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 14
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/77b965f/2147483647/strip/true/crop/4756x2497+0+248/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fd2%2Fc1%2Fff02ba4649ab8e19e234fd8d8bbe%2Fap22269398855543.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "DaJm4lZQ4Mtn8EP50NT96KxHmae2w/PUfxMuUIilvdaNG+TFniLEja5weXeid8vIvbsSXCxrawVSYJYa5Z34M9shZzwrssozhtfq6tIpzn08bTRfMyBkaPfnncZgab5s1LzXGr/GPPpRcGyyh7aZpO8mQFOTpiddYVE9FDRAYGp5xLZbLbzZE7fJQYzkw3tGk2g4NoktwYev2quVVgP4yAogEKBWUyBMJs897GQbiZl/5KQpSpP7yOHt1Ku61aRkRS0AzT8snJcOWtkmPOo5k8mTNwnFirFJHDZUq1u45lPFthW4Hp9yQnT70hu/fyLSGdZcc/ZsTp/zK/nJycbL3aM0s0SUWbZa7VekT1JE9a4=;30P2T1yyH+AHiuKKI+bUOg=="
 ---

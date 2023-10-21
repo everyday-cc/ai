@@ -3,21 +3,24 @@ category: news
 title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
 excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
 publishedDateTime: 2023-10-20T22:01:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-wales-67171042?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/uk-wales-67171042?at_medium=RSS&at_campaign=KARANGA"
-ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-67171042.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-67171042.amp"
+originalUrl: "https://www.bbc.com/news/uk-wales-67171042"
+webUrl: "https://www.bbc.com/news/uk-wales-67171042"
+ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
-quality: 70
-heat: -1
-published: false
+quality: 98
+heat: 158
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -43,30 +46,76 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
-    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
-    publishedDateTime: 2023-10-18T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+  - title: "Teaching AI to behave is the fastest-growing career skill"
+    excerpt: "Generative AI platforms require tailoring for specific tasks — and it's that skill employers are seeking in new employees or in opportunities to upskill current workers."
+    publishedDateTime: 2023-10-19T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.html"
+    ampWebUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Eight good news stories about AI"
-    excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
-    publishedDateTime: 2023-10-19T08:06:00Z
-    webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 41
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2321438319-100947383-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 676
+        height: 760
+        isCached: true
+  - title: "Using AI to develop hydrogen fuel cell catalysts more efficiently and economically"
+    excerpt: "Proton exchange membrane hydrogen fuel cells (PEMFCs) used in hydrogen vehicles use expensive platinum catalysts to facilitate the oxygen reduction reaction at the anode. There are a vast number of elemental combinations and compositions that need to be explored to develop more efficient and cost-effective catalyst materials than platinum,"
+    publishedDateTime: 2023-10-18T13:51:00Z
+    webUrl: "https://phys.org/news/2023-10-ai-hydrogen-fuel-cell-catalysts.html"
+    ampWebUrl: "https://phys.org/news/2023-10-ai-hydrogen-fuel-cell-catalysts.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-10-ai-hydrogen-fuel-cell-catalysts.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/using-ai-to-develop-hy.jpg"
+        width: 1660
+        height: 886
+        isCached: true
+  - title: "7 AI Stocks That Will Change the World (and Create Many Millionaires)"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips To say that artificial intelligence (AI) has been a catalyst for technology"
+    publishedDateTime: 2023-10-18T22:34:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/7-ai-stocks-that-will-change-the-world-and-create-many-millionaires-1032718556"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Aindo uses generative AI to develop synthetic data. Check out the 13-slide pitch deck used to secured $6 million."
+    excerpt: "The startup generates artificial data points for AI companies, so they can train their models."
+    publishedDateTime: 2023-10-18T08:01:00Z
+    webUrl: "https://www.businessinsider.com/aindo-pitch-deck-generative-ai-startup-secures-6-million-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+    images:
+      - url: "https://i.insider.com/652e5bef6561dd877e7c2859?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Inside the surprising AI Advertising opportunity"
+    excerpt: "As AI becomes more advanced, there is a growing need to advertise, which creates a new and robust advertising segment for media companies."
+    publishedDateTime: 2023-10-17T13:12:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/10/16/inside-the-surprising-ai-advertising-opportunity/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 39
+    images:
+      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/10/AIAdOpportunity.png"
+        width: 867
+        height: 400
         isCached: true
 
-secured: "pA6LAuCR+935+OmIh6jCz/F4Cymelk6J4b3pFwPmo/1o6tQWrTlnvasPZDKTsC/KMQCc25mBqwgFYB5iciKRc4VqofIuLQX3ZtDAZKLllVyAu6mG5/QtEJFqtsm24zHH/i/WmDRU/li/G2nEmnUH867OnorYnJsACAH/40mBlJJTKAGfP9CYCMBmBAL5wIcg26rBHdqxC9IdUyM//M5FVF3GQqV/Jw8vPSDMWQ9tIZqmg4G2myjBw2HPu9SSeYMTbQKOHvye/tvbiHBsNWrH2F1xNrIFEEACCxlttJgKDY0WSLp4zCjskeYy9qxYLF0iG2QkoVbFQBsdwsq3I6A2T8ujDIy95nC+3LjfpmrzWbo=;N8ImDVQo1VbPmnNUUjac3w=="
+secured: "NgBbdB7biK3kpRNGxg8bd3jS1M77M+NDD6kOEBHHDH3oXCgQIEezmcNr4Vnzv2ct+G0TcCIedsehbiQaLhuCJekjoTmIBTorYsvXTPNFG5+OCleI9+Syi0A3r6t50xkktTaC85LD5eZjHZoI1KthB95Shkmxq4OOgHlvNqxbykiSAda/Uw1+oYXEEodSWRPpSTFLKHoL1Ce9teJfLpJKNajjyJcDyrtIAvkyOanaOvQlPuvVKDeVtJgvlk6hn06l8r1v6bTVD1dTLslRJflADyKomtIj4Mv/GBcjAr7iw/L684K4OKUEAjC0Kgk+oZJyzXtT+J73F6WRkJir2EiAlxESwIE+fxhztIq65Mxhs8w=;C6dqAI8BwN8O+YNNJa+7vw=="
 ---
 

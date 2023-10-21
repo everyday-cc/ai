@@ -43,15 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Jim Jordan’s rapid rise has been cheered by Donald Trump and the far right. Could it soon make him Speaker?"
-    excerpt: "Days after the election, Jordan traveled with fellow GOP Rep. Scott Perry to Pennsylvania to meet with the Republican state House Speaker, where the two congressmen “raised some questions regarding what I’ll call the legal process,” then-Speaker Bryan Cutler told investigators."
-    publishedDateTime: 2023-10-16T11:39:00Z
-    webUrl: "https://floridapolitics.com/archives/639725-jim-jordans-rapid-rise-has-been-cheered-by-donald-trump-and-the-far-right-could-it-soon-make-him-speaker/"
-    type: article
-    provider:
-      name: Florida Politics
-      domain: floridapolitics.com
-    quality: 0
   - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
     excerpt: "In recognition of Jordan’s growing influence ... including Republican plans to object to the election's certification, according to call logs and testimony from Cassidy Hutchinson, an aide to Trump's chief of staff Mark Meadows. White House call logs ..."
     publishedDateTime: 2023-10-18T03:13:00Z

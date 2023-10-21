@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Do corporations and networks not realize it is Italian American Heritage and Culture Month?"
-    excerpt: "Watching college football on ESPN this weekend, one of the commentators brought up something about Hispanic Heritage Month. Later, there was a commercial also mentioning the very same thing again."
-    publishedDateTime: 2023-10-16T11:31:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/do-corporations-and-networks-not-realize-it-is-italian-american-heritage-and-culture-month"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 14
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/77b965f/2147483647/strip/true/crop/4756x2497+0+248/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fd2%2Fc1%2Fff02ba4649ab8e19e234fd8d8bbe%2Fap22269398855543.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LWqz3lMx9e43uwUcpK/giDDcYPO+43x5e1XnBwPUWWjNbNy2FnAEIQ8MO4Hytd8r/5lUB9wTEdeAKt4NQw3DxlDLW+jGmAzuPykUtZIgMusbKhpYfkPAqMbEDA4z6eCoGSUEXWjx0P5OiPWmkyWMlOy5B9F9RVHFWCNUfGS12/1adzvuZEtHzthPMrLm88H45FrE41WObq/HWvcKh3qICvjdBIPcQC3f0aPz+uCDHXB44OcqYzqigSHYeYWxB01opFsi/ZNPP4j6C8gwopKnmjr5bWvj40JjnJXTa2QLV7Jsnrh7j071IkYvBhOF/SYfqRdkrRgZDc/5wok1kxcROMARGmwjeqkaXgWrYDrSej81RdeZ2TBMjuNszCQW/meZ0igPKmEGDN1bxLoj1rcerXLFOfgnK1h8iFTn3/5ZP8w/WKUvFa4R8bee6b0Knvu4lka8Xmmj/4Ww5F3XMtLcoZedTLbU5fCfYNQybc4Qc8qzi1bmQpWp7GDh6TnsHYcij+8DiHFK/jumZUVE0mmJ/Q==;9v13kfwL4RGha29tnFufAw=="
 ---

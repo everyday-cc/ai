@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 476
+heat: 486
 published: true
 
 provider:
@@ -350,6 +350,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/M0xM.OEwHjN.du_sdhIgGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/0abe0903e71c91ee4122f4fb13829c49"
         width: 1199
         height: 800
+        isCached: true
+  - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
+    excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
+    publishedDateTime: 2023-10-21T05:25:00Z
+    webUrl: "https://menafn.com/1107279443/DCT-Abu-Dhabi-And-Microsoft-Sign-Mou-On-Generative-AI-Cloud-Technologies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/21/DPN_8c5a9image_story.jpg"
+        width: 580
+        height: 380
         isCached: true
   - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
     excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"

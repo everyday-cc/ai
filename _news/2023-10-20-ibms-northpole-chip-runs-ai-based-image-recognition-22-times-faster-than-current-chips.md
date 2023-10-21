@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-imag
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Unveils NorthPole AI Chip, Sets New Benchmarks in Speed, Energy Efficiency"
+    excerpt: "IBM has introduced its newest AI chip, NorthPole, which boasts remarkable processing speed and energy efficiency advances, reshaping industry expectations. Energy Efficiency Breakthrough: NorthPoles"
+    publishedDateTime: 2023-10-21T04:54:00Z
+    webUrl: "https://www.econotimes.com/IBM-Unveils-Groundbreaking-AI-Chip-NorthPole-Revolutionizes-Speed-and-Efficiency-1664741"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 50
+    images:
+      - url: "https://f1.econotimes.com/2023/10/xnha9zd9jb_th_1024x0.jpeg"
+        width: 1024
+        height: 614
+        isCached: true
   - title: "IBM debuts power-efficient NorthPole machine learning processor"
     excerpt: "IBM Corp. today detailed NorthPole, an internally designed artificial intelligence chip that it says is significantly more power-efficient than competing processors. NorthPole was developed over the course of eight years by staffers at the company’s ..."
     publishedDateTime: 2023-10-20T21:58:00Z

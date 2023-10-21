@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Navigating The AI Revolution: Transforming Professional Services Firms"
-    excerpt: "Team leaders, in turn, must be ready to help employees understand that AI is a tool meant to enhance their capabilities, not eliminate their positions. The key is to invest in training programs that empower employees to collaborate effectively with AI tools without fear for their own futures."
-    publishedDateTime: 2023-10-16T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/navigating-the-ai-revolution-transforming-professional-services-firms/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
     publishedDateTime: 2023-10-20T18:54:00Z
@@ -155,24 +146,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
-    excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."
-    publishedDateTime: 2023-10-16T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/even-google-insiders-are-questioning-bard-ai-chatbots-usefulness/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
-  - title: "An In-House Revolution: Early Adopters of AI Reduce 'Rote Tasks,' Spend More Time on Strategy"
-    excerpt: "We jokingly say, 'It's like having a really solid first-year sitting next to you working on things with you,' said Darth Vaughn, Ford Motor Co. litigation counsel and managing director of legal ops."
-    publishedDateTime: 2023-10-16T12:54:00Z
-    webUrl: "https://www.law.com/corpcounsel/2023/10/16/an-in-house-revolution-early-adopters-of-ai-reduce-rote-tasks-spend-more-time-on-strategy/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 8
 
 secured: "1TZsSP7pi4GbOtHffjGzlNEfUD0LKUhU74oBuusWb9TdyG8tSIAnNmZju530TXb0bLwpFcBAUJ6deirBGq+9UQJjvDQR4TRF4S3K/2bU2tHL8C+/VBm1KjAw4zQJA+GSP9OC4+sukU/sYPNphQ/xnWffvoLbMfWQG1cRjXGDHlKXhPwOHM2SXYA6eIrC15YGKyTmj2By7dPlLnLCVuEGEGi/VKmGycv5KfzI4O5a782cL4zIAtgTDAnDqc5FNCWHXQ9zYw2KqivAjWKA18opJzGjQRqby9xM0LeFZ1TQsdvbw+xxUj5QvoOeuknruxDUaqq9+UA6gQ8gByj8tVG1fIGZBcCTFzLKm3l4A/8bTIIkFiV+cZ0qxq3HsSB3UCkzwznRDmXVXJsbUjLwSAPwZ6EpBDLBAYEPi25UzxnlKS3pR+ZgtqR4ST7qX7gh6+24VuZRCUgKEQUP+pJB2ySw5zhr08EbQWyMkS7Eta2eK6XVWZa70cP3sR7fxAON+5xSj5xWCRHjHJCnV+UCm9cdUA==;fnBLEZK67WNqjLVt2hxVpg=="
 ---

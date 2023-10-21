@@ -7,7 +7,7 @@ originalUrl: "https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6gh
 webUrl: "https://lifehacker.com/intel-s-latest-i9-chip-has-speeds-up-to-6ghz-1850929876"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Intel’s 14th-gen Core chips hit 6GHz, but performance stalls"
-    excerpt: "Intel launches its 14th-gen Core chips today for desktop PCs, with mild improvement from prior generations. But flat pricing and new AI features are worth paying attention to."
-    publishedDateTime: 2023-10-16T13:00:00Z
-    webUrl: "https://www.pcworld.com/article/2103293/intels-14th-gen-core-chips-hit-6ghz-but-performance-stalls.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 49
 
 secured: "K7ezU67T7ZQyAV2gYT0Cg5RRv+akL41k6eu89Pv4oqclxckxdXB+1ekQKc3lTrBr7TZXhm8lKJE6bS05yE0NLh/lHmNYI595DmxAl3Iy3e/nwe/8JyncfbWg1cEdQcEJui+KygThpM/0K+0gVmAFXxzZDQQ9FfoDErl6WQ3zGNjlPRS4YL4ox+beMe+3ttCaQjqbEKwHk0+wR5STqvSttkckiVRaYp1nZo2Kaf2ZcyP9BSJ4Lh3TagGEphTQVg7O1cYl2RTdC9yauUv0NiRqlAtlqji6vsso699X4ziLJihv5ZQccHKnxb6sXXkFxEpinSXKdQrO7oUFOZWSS9CXixhdYVlzVirlhVCP9fv6kKU=;A9Si6+sxt9vGu9UBQiHKBg=="
 ---

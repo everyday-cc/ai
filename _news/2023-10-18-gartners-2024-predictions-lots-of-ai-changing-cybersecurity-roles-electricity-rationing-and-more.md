@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The Cyber AI Dilemma—And What It Means For The Cybersecurity Industry"
-    excerpt: "As we can see, AI significantly impacts cybersecurity—in ways both good and bad. It is our role as cyber leaders to make sure that new technologies are implemented quickly and leveraged to prevent more sophisticated cyber attacks from happening."
-    publishedDateTime: 2023-10-16T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/16/the-cyber-ai-dilemma-and-what-it-means-for-the-cybersecurity-industry/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Artificial intelligence bolsters growth of cyberattacks, audacity of cybercriminals"
     excerpt: "A year out from generative AI’s widespread release to the public, cybercriminals continue to finesse AI tools to bolster the scale, speed, scope, and stealth of their activities. “AI-driven cybersecur"
     publishedDateTime: 2023-10-17T18:15:00Z

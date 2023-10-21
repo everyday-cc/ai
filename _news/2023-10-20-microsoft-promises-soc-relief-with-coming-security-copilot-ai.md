@@ -348,6 +348,20 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
+    excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"
+    publishedDateTime: 2023-10-21T05:25:00Z
+    webUrl: "https://menafn.com/1107279443/DCT-Abu-Dhabi-And-Microsoft-Sign-Mou-On-Generative-AI-Cloud-Technologies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/21/DPN_8c5a9image_story.jpg"
+        width: 580
+        height: 380
+        isCached: true
   - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
     excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"
     publishedDateTime: 2023-10-16T15:18:00Z

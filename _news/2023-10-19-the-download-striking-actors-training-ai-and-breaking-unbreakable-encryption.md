@@ -7,7 +7,7 @@ originalUrl: "https://technologyreview.com/2023/10/19/1082022/the-download-strik
 webUrl: "https://technologyreview.com/2023/10/19/1082022/the-download-striking-actors-training-ai-and-breaking-unbreakable-encryption/"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "The Download: a new kind of IVF, and the AI consciousness debate"
-    excerpt: "Twelve is converting carbon dioxide emissions into sustainable jet fuel. It recently launched the first commercial-scale production facility for power-to-liquid sustainable aviation fuels in the US, breaking down and reforming carbon dioxide into nearly any chemical that is currently produced by fossil fuels."
-    publishedDateTime: 2023-10-16T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/16/1081736/the-download-a-new-kind-of-ivf-and-the-ai-consciousness-debate/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "u/anqgD0rPxSw6wqM3xjGlnt/8rCs2xE1CYILIXbLOB++AeJjOVd9Q5iGPw7q0ktd2Wv6hf8mVECEeYfOd+WpbobaimibX39no+DDTBtztmJaP6v0Qey5xKlhJnUaNnm0/1bgPcrwchCBrEOe9c8Kp4i7Frpp17s/3JefGB2m7xsT+B5D2sGHHF1lkZo8m9dZWnlMuGId6Qy7OmSPFemiI9aSBse2j4OUNAaKFf9G3np9Ny1AtfS62eXLxihgM41I5U9hIKSTnRSguh3t2JJN7ERIV5xwRTFOFZgL/QVngrdanzRiBD8DHVMqvcGkT/GSojsl2utipxop+ZgsDrVEY0auOpJWAXZdqG8utTG0Fh9lvqNyNGoRTuCYJx9lC3TFwfLP1wnKUOTbDBveGi/Gdz+JmuZHW1CXayYcXe+uJoffZqhnoD2j3m6BacVEMvemZPMD/UZgPNeuY/te1k2vlkRY5d9tyOo5xmc6M7/QiW+R7njMv+oqYyVTlQfQQ7nWm+OZAQgh6wpZNZzqcSbxA==;9R0mMw+T4ZSBsxXD87cZFw=="
 ---

@@ -367,15 +367,6 @@ related:
       name: Techopedia
       domain: techopedia.com
     quality: 17
-  - title: "The AI Story Is More Than Nvidia – Companies Like Amesite Are Leveraging AI To Transform E-Learning"
-    excerpt: "Currently, Nvidia (NASDAQ: NVDA) is almost becoming synonymous with artificial intelligence, and for good reason: the company is the leading maker of advanced graphics processing units (GPU) which are used in everything from chatbots to voice assistants."
-    publishedDateTime: 2023-10-16T12:50:00Z
-    webUrl: "https://www.benzinga.com/markets/penny-stocks/23/10/35266164/the-ai-story-is-more-than-nvidia-companies-like-amesite-are-leveraging-ai-to-transform-e-lea"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 5
 
 secured: "1BnbTB+/EElWt6YB4/7OxZxo+fS0RNvfVN+dnsTN8YPaxf76MgCdQ4zH/+EcCXVo/seYB0mmuOySZIUurlDnuvbyTNxSiMAUSlbeN5cbQivsU698IqciAAzhp0xqtPhjr7IK17doLizSNchccRX2m4hBxm9GN28fbxqI21XS/X9jZZwVY39k3vXV3CCWKTkagXprn4MqCKM5LDuY/33lG1/6mepI3zEn/QfDu7pTEnQCxyhwxXA5RFaXRzdtJzXfzF8sL0qzDiygxHsfCxR9WWayzWnlEed2rBIQB7UdFUHJRmk9ADMadybV5hRVbVmWQokIkmv5dJtCiEcRe2TFNrsTvhRVQvGfZLpKaCrE8Q0=;n4MaU5j2txWbj+ZCF0R8CA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-
 webUrl: "https://techbullion.com/from-healthcare-to-finance-exploring-real-world-applications-of-artificial-intelligence/"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Impacts
@@ -25,22 +25,6 @@ images:
     width: 1000
     height: 500
     isCached: true
-
-related:
-  - title: "Revolutionising Finance: The Latest Trends in Fintech Innovation"
-    excerpt: "There is a list of fintech trends to watch out for, as the rapid pace of fintech innovation is transforming finance for both businesses and consumers."
-    publishedDateTime: 2023-10-16T11:27:00Z
-    webUrl: "https://www.ibtimes.co.uk/revolutionising-finance-latest-trends-fintech-innovation"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1720247/fintech.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "GLSrEqV4nPEfX4gS3agj2UcdZfGFsiXIa33SzN3PmlYrLA2tywQnjqZqp8I5+H+UyW7gdYsjHwNwx5eHJwKshiXNl4ELi/yPj4h7qHym8Rk2cyFgVYX/jVb1WhyPzfBlqZYQzM/dJbj9V1Wno326EgPT4s5fN42bGn/4LJ3wD8m97iWP+VtfUx7vQRF9QkccfIaGKh8WBiQZ7ExDCVRm6gESFaSARNVN2vh6bwtVCqi0ukNXEMok4GN+W3aOngcQz6yB61HtjABDz4LbF680uRk4J7kgmIcZR9s55HEN0WaxSfRa0sf41gEuRfuXUVwxKOfdpLN8mp40uydJaBre78oR9f9wXXZ36dP8GiGUzEoUZT4pmiyV8opM1IFBb7PVxeYbuUSBVKLDk4Yq8GDHrXVVcARbOvIwezIxE/7u5E3UwrjsMTI6X0b74pzZMsF/YxSiQisJhEbJ7txYeMd1kEVMpvzehkWibM4pbHu0V8Jnj3o2v/4Qf9b9jNKw5GMDK4JcFH5lW4kXnxt0UL5iYA==;2gswnLRaVcHL/7XM9oL5xg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation
 webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       name: iafrikan.com
       domain: iafrikan.com
     quality: 34
-  - title: "Do corporations and networks not realize it is Italian American Heritage and Culture Month?"
-    excerpt: "Watching college football on ESPN this weekend, one of the commentators brought up something about Hispanic Heritage Month. Later, there was a commercial also mentioning the very same thing again."
-    publishedDateTime: 2023-10-16T11:31:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/do-corporations-and-networks-not-realize-it-is-italian-american-heritage-and-culture-month"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 14
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/77b965f/2147483647/strip/true/crop/4756x2497+0+248/resize/1200x630!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2Fd2%2Fc1%2Fff02ba4649ab8e19e234fd8d8bbe%2Fap22269398855543.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HgF1ZeV5ZdM86HtS54E9z2aX3GmlJST8auXCL36bYpzQyGyar8WMKJiRdPXJxnAJGgDhvpa2tzGLdYeau7cBAFR4yxqntZCkyq0Pb19k25rbVrBeWw12ThVpyk6Hb7ZgCVdYriX1fOOE8YNKlBtOk069kWgxTgW07gEw13AOC4yL4EOA+TPgEe5MoO4snLS75X3pZyvMzNUuLdXSkiiY5lfzQzXIk8yLD49zcMvQNr2Uz7lJs5wggzvDki+7NChFJbqx2FLChI5wMR7nfnXnb/SbYUDLj1Ea2mOVGuDyrQWPLcw3vVbkZFnCXjNjrYDn3k+WEUBx9XEUQSnC9SUs7eywdiWLkf6PKjwxuhxfQVI=;h/Q5ur+QDt4LG8L4jq2VxA=="
 ---

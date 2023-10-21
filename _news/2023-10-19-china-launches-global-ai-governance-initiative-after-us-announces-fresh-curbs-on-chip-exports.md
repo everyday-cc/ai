@@ -117,15 +117,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 57
-  - title: "Nvidia H800 faces potential China export ban as US strengthens rules on AI chip shipments"
-    excerpt: "The Nvidia A800 GPU The new rules will block some AI chips that fall under the current technical parameters while demanding companies report shipments of others. It's speculated that the interconnect speed limit could be reduced. An official stated that ..."
-    publishedDateTime: 2023-10-16T12:17:00Z
-    webUrl: "https://www.techspot.com/news/100499-nvidia-h800-faces-potential-china-export-ban-us.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 55
   - title: "Suppliers plan ahead amid potential US ban on more AI chips"
     excerpt: "Reports of stricter restrictions on Chinese chipmakers by the US, including Nvidia's downgraded AI H800 processors, have Taiwanese testing companies and probe card providers being more cautious."
     publishedDateTime: 2023-10-17T01:24:00Z
