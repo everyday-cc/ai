@@ -7,7 +7,7 @@ originalUrl: "https://www.indystar.com/story/news/politics/2023/10/16/jim-jordan
 webUrl: "https://www.indystar.com/story/news/politics/2023/10/16/jim-jordan-trump-far-right-speaker-of-house-wrestling-coach-political-views/71201885007/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "GOP's Jim Jordan is shoring up support and peeling off detractors ahead of a House speaker vote"
-    excerpt: "In recognition of Jordan’s growing influence ... including Republican plans to object to the election's certification, according to call logs and testimony from Cassidy Hutchinson, an aide to Trump's chief of staff Mark Meadows. Jordan also called ..."
-    publishedDateTime: 2023-10-16T23:30:00Z
-    webUrl: "https://www.krem.com/article/news/nation-world/jim-jordan-house-speaker-election/507-3d1c8f58-3359-48b3-aadd-b03e180cf490"
-    ampWebUrl: "https://www.krem.com/amp/article/news/nation-world/jim-jordan-house-speaker-election/507-3d1c8f58-3359-48b3-aadd-b03e180cf490"
-    cdnAmpWebUrl: "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/nation-world/jim-jordan-house-speaker-election/507-3d1c8f58-3359-48b3-aadd-b03e180cf490"
-    type: article
-    provider:
-      name: KREM
-      domain: krem.com
-    quality: 32
-    images:
-      - url: "https://media.krem.com/assets/WKYC/images/bfe5bb93-11b5-4c51-bf39-c18c3055fc87/bfe5bb93-11b5-4c51-bf39-c18c3055fc87_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "M9IF3E83E5yeMGIE4VNulUhYShoECxppwqfClKunEA7CVqtYmCzp8LH83G57+8UsW0dBlE2OJVsgrNGeDo66QX+EW57Xp7+VwUnPDeY4KgW5FUNfFJXiuIcXkR1iZ24aqj0TErJHrtr61ETCzKzAFKy2p6AMZc067kQYo8knzen8fZPhwHfbqEIXAP/Ufbz1l8d2kMmbbclTLdg5LfpZSrbHtZWhqBAfKi8F8ZgIJzeGG5HDAUBvE1jxXx4sw/r53VM0NWy7BDvKXM2EQkpyQ6gZ4gI/oVZTLK4rDWRdHmZCWDo9QHtVhlk5oDjEHkOA3vvVZw+V+Wx6eetvtRQ4sDw+W4LcZycoa+lYZUrinOiFWr2n9vgRL5UBg/NrO+rYMcZ+Wq6ignCFm0mXy/3u4BU+buL2qaZGV0/xt2RDeoHhwk2dye74jYyruEBySf7s/5tfOqB3CcL2Ccj/P8ogomCjVdT7TET+spR3rYZBDA9mjUJndcMUctfn15xgb1ztGSIVDSnqAdWfT2/X+NXryQ==;mhc1i2Tyw3ecvIQCe+WxEA=="
 ---

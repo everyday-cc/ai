@@ -41,6 +41,20 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "From hype to reality, the true state of AI adoption"
+    excerpt: "Productivity is the magic metric. Productivity numbers at the macro will be a key to the promises of AI being fulfilled. Growth has a way of solving problems and meaningful productivity improvements and revenue acceleration from AI will lift all boats. It hasn’t happened broadly yet."
+    publishedDateTime: 2023-10-21T15:22:00Z
+    webUrl: "https://siliconangle.com/2023/10/21/hype-reality-true-state-ai-adoption/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/AI-Image-Hype-V-Reality.jpeg"
+        width: 5164
+        height: 2905
+        isCached: true
 
 secured: "d5rSPtNVTPe+Ajp4ycWcckbeOWX02O7cbVLZVTCIy+pfNZhStZZbQl3P9nk+tNf2UCAtlInutI5U7lVadG4JLx15sF2VUGPhNSn6VTz2gnhoA6OxSjgzEn8lxvLYcLfP9Fs63jkrTr/l3uV2lQTM5xGTlg6HEAuwh040IBsN9DNK7O956kBZYpg0dOUj7tTtOfeq556ihhz6Rwe7yF2ot53oa2CCVaLaB6cObQo7UONShTjH6vRH1rqDyy3dpFGEWVHEVbJuyrYzicoNQKYdRmEwtstb9stJ0H507KUuuVHoUxRjWeaWWkZRTUezxeyPDHfknykv9Q2MktmGD4CqSB51Nw0gSKcWggmvj/rq0NI=;r1v8gA4ZAK+3Ycoua2rNJg=="
 ---

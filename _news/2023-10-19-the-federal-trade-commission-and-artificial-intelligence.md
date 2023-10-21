@@ -263,20 +263,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How to avoid falling for misinformation, AI images on social media"
-    excerpt: "The rapid spread of easily accessible AI tools is mudding the waters even ... pause and do more research. Misinformation is often accidentally spread by people who want it to be true."
-    publishedDateTime: 2023-10-16T23:20:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2023/05/22/misinformation-ai-twitter-facebook-guide/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QJXQJA64F5GINKYEBK7NPJRTCA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Using AI to Improve Nutrition for Cancer Patients"
     excerpt: "Susan Bratton leverages AI technology to build a better-eating app to support cancer patients going through treatment"
     publishedDateTime: 2023-10-19T20:12:00Z

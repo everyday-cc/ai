@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-repr
 webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-represents-a-new-era-for-the-utilities-industry-says-info-tech-research-group-in-new-resource-1032714198"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Business Insider
@@ -29,34 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
-    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
-    publishedDateTime: 2023-10-16T23:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
+  - title: "Faad Network invests in InsurStaq.ai, a GenAI InsurTech Startup"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2023-10-18T06:36:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/faad-network-invests-in-insurstaq-ai-a-genai-insurtech-startup/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
         width: 400
-        height: 225
+        height: 224
         isCached: true
-  - title: "New research project aims to find pancreatic cancer early with artificial intelligence"
-    excerpt: "Finding pancreatic cancer early with help from artificial intelligence is what a new research project is aiming to do. Stephanie Stahl reports more on the AI study"
-    publishedDateTime: 2023-10-19T21:57:00Z
-    webUrl: "https://www.cbsnews.com/philadelphia/video/new-research-project-aims-to-find-pancreatic-cancer-early-with-artificial-intelligence/"
+  - title: "Artificial intelligence predicts the future of artificial intelligence research"
+    excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
+    publishedDateTime: 2023-10-20T18:54:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63898.php"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 44
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/19/10e57340-0329-47ab-8ccb-2b0a30393375/thumbnail/1200x630/02f12d84dea054e530c63ab68c3ffaec/73e50036d5f2bb6d973039afcf44620c.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 15
+  - title: "Qlik Highlights the Importance of Data Fabric in Boosting Generative AI Outcomes"
+    excerpt: "Recent research by Qlik shows that enterprises are planning significant investments in technologies that enhance data"
+    publishedDateTime: 2023-10-17T17:14:00Z
+    webUrl: "https://www.datanami.com/this-just-in/qlik-highlights-the-importance-of-data-fabric-in-boosting-generative-ai-outcomes/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 14
 
 secured: "juyAA/hxxnNMzHSjktBotiVA/atUMaj9wGdKeeR8RdF8BRF/cH6jU7c5GpZAs1Rbw0Wt57tjc0+eEF1EJ+MlMUnI6yt08oZnQmm6DNwzTBAzEUv5zHajACDADdEHSyc+A4k0WZhSQytpkMP1VCYGfsIma9XVdV7SoRxvXWzEdXk2SM505vfvDxJNNQkO8zxckQP4sP17588P0wajgbqSVlo5JZi3fQbFh2GvZWorQSaGTbm8BhO6hjdKx8mt+R6cGcFwgIVyYlx4cuFuPC0TzD7XwcOiRuSa6BxILor2Owg2lTJe+c5ASrFvHdjdKotyVihGrfdswCC0Bh50Iv/+Lk2VrSkiBRp9BmraDmdAYkk=;ponTQ2F9IfRGYhVhR8xiqQ=="
 ---

@@ -27,226 +27,140 @@ images:
     isCached: true
 
 related:
-  - title: "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars"
-    excerpt: "Nvidia and Foxconn are working together to build so-called “AI factories,” a new class of data centers that promise to provide supercomputing powers to accelerate the development of self-driving cars, autonomous machines and industrial robots."
-    publishedDateTime: 2023-10-17T00:00:00Z
-    webUrl: "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/"
-    ampWebUrl: "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/"
+  - title: "Federal regulators open investigation into GM self-driving car subsidiary Cruise"
+    excerpt: "This preliminary investigation will determine the scope and severity of the potential problem, the agency said, noting that it may include causal factors that may relate to the automated driving system’s driving policies and performance around pedestrians."
+    publishedDateTime: 2023-10-17T15:56:00Z
+    webUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/"
+    ampWebUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-18-at-3.18.03-pm.png?resize=1200,604"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/09/20210407_BaxTowner_Cruise_CamA_DOWNTOWN_706512.jpg?resize=1200,804"
         width: 1200
-        height: 604
+        height: 804
         isCached: true
-  - title: "Nvidia and Foxconn partner to build \"AI factories\" for self-driving cars"
-    excerpt: "The Taiwanese manufacturing giant Foxconn and the GPU superpower Nvidia have collaborated to develop \"AI factories,\" innovative data centers designed to power various applications, including self-driving"
-    publishedDateTime: 2023-10-18T19:47:00Z
-    webUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html"
+  - title: "Auto-Safety Regulators Investigate Cruise’s Self-Driving Cars Over Pedestrian Risks"
+    excerpt: "GM’s driverless-car unit is confronting a new safety investigation by regulators, after reports of its autonomous vehicles exhibiting risky behavior around pedestrians."
+    publishedDateTime: 2023-10-17T12:44:00Z
+    webUrl: "https://www.wsj.com/business/autos/auto-safety-regulators-investigate-cruises-self-driving-cars-over-pedestrian-risks-e888708c"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 70
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 48
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-18-image-19.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Nvidia to Build 'AI Factories' With Foxconn"
-    excerpt: "The announcement was made during a fireside chat with Nvidia founder and CEO Jensen Huang and Foxconn Chairman and CEO Young Liu at Hon Hai Tech Day, in Taipei. These so-called \" AI Factories \" will be packed full of Nvidia's GPU computing infrastructure, including the latest Nvidia GH200 Grace Hopper Superchip."
-    publishedDateTime: 2023-10-18T14:21:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-to-build-ai-factories-with-foxconn"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04VBsXPmLVAMdyizMFUiLfW-1.fit_lim.size_1200x630.v1697638482.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Tech giants Foxconn, Nvidia announce they are building 'AI factories'"
-    excerpt: "Taiwanese tech giant Foxconn and US hardware leader Nvidia said Wednesday they would team up to create \"AI factories\", powerful data processing centers that would drive the manufacturing of next-generation products such as electric cars."
-    publishedDateTime: 2023-10-18T07:46:00Z
-    webUrl: "https://techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/chairman-of-foxconn-te.jpg"
+      - url: "https://images.wsj.net/im-869924/social"
         width: 1280
-        height: 852
+        height: 640
         isCached: true
-  - title: "Nvidia and iPhone maker Foxconn to build \"AI factories\""
-    excerpt: "The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called \"AI factories\". The firms say it is a new kind of data centre that uses Nvidia chips to power a \"wide range\" of applications. They include training autonomous vehicles, robotics platforms and large language models."
-    publishedDateTime: 2023-10-19T03:09:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-67153669"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-67153669.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67153669.amp"
+  - title: "Cruise faces federal inquiry as self-driving vehicles hit North Texas roads"
+    excerpt: "However, Cruise, a California-based self-driving technology company backed by General Motors, Honda, Microsoft, T. Rowe Price and Walmart, is under investigation by federal regulators after reports of the autonomous driving technology vehicles getting too close to pedestrians near roadways or on sidewalks."
+    publishedDateTime: 2023-10-20T21:22:00Z
+    webUrl: "https://www.dallasnews.com/business/local-companies/2023/10/20/cruise-faces-federal-inquiry-as-self-driving-vehicles-hit-north-texas-roads/"
+    ampWebUrl: "https://www.dallasnews.com/business/local-companies/2023/10/20/cruise-faces-federal-inquiry-as-self-driving-vehicles-hit-north-texas-roads/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/local-companies/2023/10/20/cruise-faces-federal-inquiry-as-self-driving-vehicles-hit-north-texas-roads/?outputType=amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 42
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/DB8F/production/_131470265_gettyimages-1258356137.jpg"
-        width: 1024
-        height: 576
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
+        width: 830
+        height: 467
         isCached: true
-  - title: "Apple supplier Foxconn to build ‘AI factories’ using Nvidia’s chips and software for a range of applications including self-driving cars"
-    excerpt: "Foxconn and Nvidia plan to build ‘AI factories’ globally, creating a new type of manufacturing anchored on artificial intelligence."
-    publishedDateTime: 2023-10-18T07:47:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3238352/apple-supplier-foxconn-build-ai-factories-using-nvidias-chips-and-software-range-applications"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 53
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/18/d2485d09-8125-4128-86f5-548aefde33b0_bdd7a2b0.jpg?itok=kPPTwgXK&v=1697615219"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Foxconn and Nvidia team up to build 'AI factories'"
-    excerpt: "\"In the future, every company, every industry, will have AI factories.\" Nvidia, the world's most valuable chip company, said in a statement that the AI factories would use its chips and software, including its cutting-edge GH200 superchip that it is barred ..."
-    publishedDateTime: 2023-10-18T07:49:00Z
-    webUrl: "https://www.aol.com/foxconn-build-ai-data-factories-023559146.html?ref=biztoc.com"
+  - title: "Cruise self-driving cars investigated after two accidents"
+    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
+    publishedDateTime: 2023-10-17T13:46:00Z
+    webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
     type: article
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 24
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/e2b7e251066f1b19b05e55e371a3bc4b"
-        width: 800
-        height: 533
+      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/e44b97f8a431f7982500767b0b3771a9"
+        width: 976
+        height: 549
         isCached: true
-  - title: "Nvidia and Foxconn partner to develop ‘AI factory data centers’"
-    excerpt: "Nvidia and Foxconn are partnering to develop data center modules for AI-powered factories based on the GPU-maker's Grace Hopper chips."
-    publishedDateTime: 2023-10-18T16:54:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/nvidia-and-foxconn-parter-to-develop-ai-factory-data-centers/"
+  - title: "Regulators probe GM’s Cruise self-driving taxis over pedestrian safety"
+    excerpt: "U.S. regulators are investigating General Motors’ Cruise self-driving taxis over concerns they could hit people."
+    publishedDateTime: 2023-10-17T15:51:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/17/regulators-probe-gms-cruise-self-driving-taxis-ove/"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 24
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Grace_Hopper_Image.2e16d0ba.fill-1200x630.jpg"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2023/10/17/US_GM_Cruise_Investigation_69141_c0-102-3556-2176_s1200x700.jpg?e94d34c2b50cb6a84c14d3a5a18de1a8fcd536df"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Agency probes pedestrian risks at GM's self-driving unit Cruise"
+    excerpt: "Auto safety regulators on Tuesday opened a probe into whether General Motors' self-driving unit Cruise is taking sufficient precautions with its autonomous robotaxis to safeguard pedestrians."
+    publishedDateTime: 2023-10-17T19:34:00Z
+    webUrl: "https://www.ksl.com/article/50755024/agency-probes-pedestrian-risks-at-gms-self-driving-unit-cruise"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 24
+    images:
+      - url: "https://img.ksl.com/slc/2952/295246/29524682.JPG?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
+  - title: "Federal regulators launch probe into Cruise self-driving cars"
+    excerpt: "Federal regulators on Tuesday opened an investigation into Cruise's autonomous vehicles following a string of injury crashes in The City."
+    publishedDateTime: 2023-10-17T22:45:00Z
+    webUrl: "https://www.sfexaminer.com/news/transit/cruise-car-accidents-in-sf-prompt-federal-investigation/article_f5672636-6d34-11ee-9d8f-1fa3c94a9f98.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/e/50/e50ca186-6d42-11ee-a10e-13f9c2d43abd/652f15494d4d5.image.jpg?crop=1500%2C788%2C0%2C81&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA, Foxconn partner to build 'AI factories' for self-driving cars"
-    excerpt: "Tech giants NVIDIA and Foxconn are teaming up to create AI factories that will offer supercomputing power for developing self-driving cars, autonomous machines, and industrial robots"
-    publishedDateTime: 2023-10-18T06:56:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/foxconn-and-nvidia-plan-to-develop-ai-factories/story"
+  - title: "Self-driving cars investigated after two accidents"
+    excerpt: "(Web Desk) - About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
+    publishedDateTime: 2023-10-17T21:49:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/763556-Self-driving-cars-investigated-after-two-accidents"
     type: article
     provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 24
     images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l75520231018115128.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://img.dunyanews.tv/news/2023/October/10-18-23/news_big_images/763556_40722728.jpg"
+        width: 752
+        height: 423
         isCached: true
-  - title: "Nvidia, Foxconn’s New AI Factories Will Develop Software For Self-Driving Cars"
-    excerpt: "Nvidia CEO Jensen Huang and Foxconn CEO Young Liu unveiled AI factories at the fourth annual Hon Hai Tech Day Tuesday. These data centres will not only build Foxconn’s newest electric vehicles but also design the software that powers the fleet of self-driving cars."
-    publishedDateTime: 2023-10-19T03:08:00Z
-    webUrl: "https://gizmodo.com.au/2023/10/nvidia-foxconns-new-ai-factories-will-develop-software-for-self-driving-cars/"
+  - title: "Regulators Launch New Investigation Into Cruise Self-Driving Cars After Pedestrians Hit By Robotaxis"
+    excerpt: "Cruise, the self-driving arm of General Motors, is being investigated by the National Highway Traffic Safety Administration after the company shared two incident reports of pedestrians being injured by its robotaxis. SAN FRANCISCO, CA, UNITED STATES - JULY ..."
+    publishedDateTime: 2023-10-17T19:31:00Z
+    webUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/regulators-launch-new-investigation-into-cruise-self-driving-cars-after-pedestrians-hit-by-robotaxis/"
     type: article
     provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 35
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/c67029b9b0c6f8129267f331c534c135.jpg?quality=75"
-        width: 771
-        height: 433
-        isCached: true
-  - title: "Nvidia and Foxconn to collaborate on AI data factories and smarter self-driving cars"
-    excerpt: "Nvidia Corp. said today it’s expanding its ongoing collaboration with Hon Hai Technology Group, better known as Foxconn, to accelerate the development of artificial intelligence-powered electric vehicles and robotics platforms."
-    publishedDateTime: 2023-10-18T03:00:00Z
-    webUrl: "https://siliconangle.com/2023/10/17/nvidia-foxconn-collaborate-ai-data-factories-smarter-self-driving-cars/"
+      name: Forbes
+      domain: forbes.com
+    quality: 19
+  - title: "US regulators probe self-driving vehicles over fears for pedestrians"
+    excerpt: "The Office of Defects Investigation said that it has received two reports involving pedestrian injuries from Cruise vehicles."
+    publishedDateTime: 2023-10-17T13:18:00Z
+    webUrl: "https://guernseypress.com/news/world-news/2023/10/17/us-regulators-probe-self-driving-vehicles-over-fears-for-pedestrians/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Foxconn-Tech-Day-NVIDIA.png"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "NVIDIA and Foxconn team up to build AI factories: will build self-driving cars, and more"
-    excerpt: "NVIDIA and Foxconn are collaborating on developing 'AI factories' with the two companies set to become leaders in the AI manufacturing revolution."
-    publishedDateTime: 2023-10-19T01:10:00Z
-    webUrl: "https://www.tweaktown.com/news/93881/nvidia-and-foxconn-team-up-to-build-ai-factories-will-self-driving-cars-more/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 32
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93881_101_nvidia-and-foxconn-team-up-to-build-ai-factories-will-self-driving-cars-more_full.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NVIDIA Partners With Foxconn To Build Factories And Systems For The AI Industrial Revolution"
-    excerpt: "Foxconn will integrate NVIDIA technology to develop a new class of data centers powering a wide range of applications - including digitalization of manufacturing and inspection workflows, development of AI-powered electric vehicle and robotics platforms, and a growing number of language-based generative AI services."
-    publishedDateTime: 2023-10-18T03:52:00Z
-    webUrl: "https://menafn.com/1107261119/NVIDIA-Partners-With-Foxconn-To-Build-Factories-And-Systems-For-The-AI-Industrial-Revolution"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134962"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "What Do You Think of Self-Driving Cars?"
-    excerpt: "What Do You Think of Self-Driving Cars? As the world of autonomous vehicles continues to evolve, we sought the insights of twenty industry leaders and professionals, including CEOs and founders, on the topic of self-driving cars."
-    publishedDateTime: 2023-10-20T18:48:00Z
-    webUrl: "https://techbullion.com/what-do-you-think-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 26
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/What-Do-You-Think-of-Self-Driving-Cars-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "NVIDIA Joins Forces With Foxconn To Build AI Factories, A New Class Of Data Centers"
-    excerpt: "NVIDIA and Hon Hai Technology Group, otherwise known as Foxconn, jointly announced plans develop a new class of data centers and systems designed to 'accelerate the AI revolution.'"
-    publishedDateTime: 2023-10-18T13:18:00Z
-    webUrl: "https://hothardware.com/news/nvidia-joins-foxconn-build-ai-factories-new-class-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 13
-  - title: "The company that makes your iPhone is expanding to EVs and it’s getting Nvidia to help make an ‘AI factory’"
-    excerpt: "\"In the future, every company, every industry, will have AI factories,\" Nvidia CEO Jensen Huang said during Foxconn's annual tech showcase."
-    publishedDateTime: 2023-10-18T13:49:00Z
-    webUrl: "https://www.aol.com/company-makes-iphone-expanding-evs-104911753.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 1
+      name: Guernsey Press
+      domain: guernseypress.com
+    quality: 4
 
 secured: "jp7pUAKHGccuCHWWNuMMW5tEsjxXu59gjR+pcztPAeAzNOvmaWXlOX9zokwzW+ywZu5uCfO09Rjg+NJnDXTXFyssDQNk1dmnuqG4LqYTp7NIQbg2BELm7SXTnWwqN8RhoSnj0vCvp+biyBLCz+RUzKvJ1A2ySn1y4Lia4sj9CeGm7uQ1rJ9aXIVKdgU9iItl+fkdmAr1CwrxkywUwCavFPjSt1RHMj562MoPfLSAfe02IDHOZpDigoA9PrGPYTwxz9CyKqY5J2/zUFd4QcpNrJyMRwl8pcoQCcg+Qj9YrR7agJ61KbeqWBTiD4pC9GV1oRjdop3l2t+Bm0J0yUHYKkHE7E6zq907Wnxj88+rJNqd9npiPoKi4T76ZjodXKix9ysGXw6Pk+ur1SM7vvBJE1hZaZFOd4fiKKfX9uRI0bl6S+HBhdAbAFQmm0Z8w2F7kDRfGdj7/W9CkuGmInfpyjUYIulI36wXtrpzVPh/4IuI1tdB4xkTeti9U5h/krhLe9yRTGY8gtUHK7reySj1fw==;QpzGZseV590HpOKf+YPcIQ=="
 ---

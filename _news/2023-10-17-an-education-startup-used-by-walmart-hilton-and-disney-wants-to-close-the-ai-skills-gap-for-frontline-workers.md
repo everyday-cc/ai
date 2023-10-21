@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/education-startup-used-walmart-hilton-13045137
 webUrl: "https://www.aol.com/education-startup-used-walmart-hilton-130451370.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Walmart pledges ethical use of artificial intelligence"
+    excerpt: "The pledge follows an AI summit in July sponsored by the Biden-Harris Administration, where leading AI companies voluntarily committed to"
+    publishedDateTime: 2023-10-18T19:47:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/technology/walmart-pledges-ethical-use-artificial-intelligence"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 54
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2023-10/background/AI_Ethics.jpg?VersionId=b7pcX71keTutxRhrw7lZEyl72Dg.sUsI"
+        width: 4512
+        height: 3000
+        isCached: true
 
 secured: "4dIOD9OewEjJ9kdMoZnwgbUs4hlAf3M5exxwu9c3rvdeYOlhCwKoff9wK2CPfyMxMb7xZv1wVb1yB9kX46cxutR35BaY1wpdCrU/nTAD/8qkMMkPtzCi7RJFGxZynpubwWzqN20yoccNZ0335i4N12RxXO21RUsFjaKhTh6IxVi/Z339SoCeG/j6r7uMC1o3JFhMYmacGEWa0LtCRRypZ0hc/F9yJ+2LwHQvRtsqLGeJ6LvMdqn1MQT6fcWEouMD4mxJcys+VJ5oVU3LS+D1D7jeFzokdx72Ob9+GNNfe6IuVGx0TJBk/F5IYhaz7d+xY/DzWD43vkWrG/h4BqioxDxxX/eKmtskEhjXX6ofs7E=;VZfgtE4F9t8ZF2AUIG6DYw=="
 ---

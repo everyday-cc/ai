@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.wsj.net/im-869924/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Cruise self-driving cars investigated after two accidents"
+    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway ..."
+    publishedDateTime: 2023-10-20T11:18:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-67133409?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-67133409.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67133409.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Cruise faces federal inquiry as self-driving vehicles hit North Texas roads"
     excerpt: "However, Cruise, a California-based self-driving technology company backed by General Motors, Honda, Microsoft, T. Rowe Price and Walmart, is under investigation by federal regulators after reports of the autonomous driving technology vehicles getting too close to pedestrians near roadways or on sidewalks."

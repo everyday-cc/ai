@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars"
-    excerpt: "Nvidia and Foxconn are working together to build so-called “AI factories,” a new class of data centers that promise to provide supercomputing powers to accelerate the development of self-driving cars, autonomous machines and industrial robots."
-    publishedDateTime: 2023-10-17T00:00:00Z
-    webUrl: "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/"
-    ampWebUrl: "https://techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-18-at-3.18.03-pm.png?resize=1200,604"
-        width: 1200
-        height: 604
-        isCached: true
   - title: "Nvidia and Foxconn partner to build \"AI factories\" for self-driving cars"
     excerpt: "The Taiwanese manufacturing giant Foxconn and the GPU superpower Nvidia have collaborated to develop \"AI factories,\" innovative data centers designed to power various applications, including self-driving"
     publishedDateTime: 2023-10-18T19:47:00Z
@@ -103,22 +87,6 @@ related:
     quality: 57
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/DB8F/production/_131470265_gettyimages-1258356137.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Cruise self-driving cars investigated after two accidents"
-    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway ..."
-    publishedDateTime: 2023-10-20T11:18:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-67133409?at_medium=RSS"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-67133409.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67133409.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 44
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg"
         width: 1024
         height: 576
         isCached: true
@@ -220,20 +188,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "What Do You Think of Self-Driving Cars?"
-    excerpt: "What Do You Think of Self-Driving Cars? As the world of autonomous vehicles continues to evolve, we sought the insights of twenty industry leaders and professionals, including CEOs and founders, on the topic of self-driving cars."
-    publishedDateTime: 2023-10-20T18:48:00Z
-    webUrl: "https://techbullion.com/what-do-you-think-of-self-driving-cars/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 26
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2023/10/What-Do-You-Think-of-Self-Driving-Cars-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "NVIDIA Joins Forces With Foxconn To Build AI Factories, A New Class Of Data Centers"
     excerpt: "NVIDIA and Hon Hai Technology Group, otherwise known as Foxconn, jointly announced plans develop a new class of data centers and systems designed to 'accelerate the AI revolution.'"
     publishedDateTime: 2023-10-18T13:18:00Z
@@ -243,15 +197,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 13
-  - title: "The company that makes your iPhone is expanding to EVs and it’s getting Nvidia to help make an ‘AI factory’"
-    excerpt: "\"In the future, every company, every industry, will have AI factories,\" Nvidia CEO Jensen Huang said during Foxconn's annual tech showcase."
-    publishedDateTime: 2023-10-18T13:49:00Z
-    webUrl: "https://www.aol.com/company-makes-iphone-expanding-evs-104911753.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 1
 
 secured: "mYKdsKc/r7VpNRlBwk+TECfwm6vQQ7ohIQXX73BVHtNRmIKKWplP+UN15SVz9ah1tODiyDsNfrhgY4YzR/T+QS4cnRK2CqDRtjTzIAGQArCN7x0S2NDQiqUbSpnzwii95Bvv82y2qY5FefrioIqxGiypK6oYM0PSKFX1VryECU1uWxRxCTCy7tg+XMNjDlsAyUBr/SGK5bCHJWQII6ZmlpKrIbs3tdvHWFI+3VByDNjp5o0UQdMP/KoX3P208eWDCi1qKCgDecv+omzLnYkH4jYWAnf4qCEALN50v/+kOp8U6IWg0w7fv5pBgDuFc5fMFyp8tBCzqzMUiriJlNQHcsmXU1LWIRRRfQz0ZWD8qvs=;vQgbPF0+OfsVrlWxqmZ4Kw=="
 ---

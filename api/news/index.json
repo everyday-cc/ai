@@ -210,6 +210,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-21-construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve.md",
+      "title": "Construction industry to embrace artificial intelligence to stay ahead of the curve",
+      "excerpt": "The industry is poised for significant growth in the coming years, with an estimated CAGR of 11% from $8.2 trillion to $17 trillion by 2029, experts say. This growth is driven by certain factors such as government initiatives,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm",
+      "originalUrl": "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/03/artificial-intelligence-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp",
+      "publishedDateTime": "2023-10-20T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-21-meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals.md",
       "title": "Meet LLEMMA, the math-focused open source AI that outperforms rivals",
       "excerpt": "According to the researchers, LLEMMA is the first open-source model that matches the performance of state-of-the-art closed-source models.",
@@ -933,7 +976,7 @@
       "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 381,
+      "heat": 371,
       "tags": null,
       "images": [
         {
@@ -1161,49 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-3-robotics-stocks-ready-to-rock-and-roll-in-2024.md",
-      "title": "3 Robotics Stocks Ready to Rock and Roll in 2024",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotic devices enable automation that help people perform tasks more",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T16:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

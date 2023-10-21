@@ -200,20 +200,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Microsoft Stock Fueled By Artificial Intelligence In Office Apps – Investor's Business Daily"
-    excerpt: "ARTIFICIAL INTELLIGENCE: Will Microsoft’s High-Stakes Bet On AI Pay Off?"
-    publishedDateTime: 2023-10-17T01:04:00Z
-    webUrl: "https://www.inferse.com/758345/microsoft-stock-fueled-by-artificial-intelligence-in-office-apps-investors-business-daily/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 58
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-10658.png"
-        width: 1000
-        height: 511
-        isCached: true
   - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
     excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, hybrid multicloud technology solutions company, has partnered with Straits Interactive, a leader in data"
     publishedDateTime: 2023-10-18T16:54:00Z
@@ -287,6 +273,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_microsoft_building_7.jpg"
         width: 500
         height: 315
+        isCached: true
+  - title: "“If someone took away my Copilot, I wouldn't know what to do” - Microsoft CEO Satya Nadella on how the AI future will affect us all"
+    excerpt: "with Microsoft Azure playing an understandably key part. “The cloud is helping to make that possible,” he added. “Data is also already in the cloud. So, therefore, the adoption of AI is just the next step, and it has compounding effects. But we ..."
+    publishedDateTime: 2023-10-21T17:32:00Z
+    webUrl: "https://www.techradar.com/pro/if-someone-took-away-my-copilot-i-wouldnt-know-what-to-do-microsoft-ceo-satya-nadella-on-how-the-ai-future-will-affect-us-all"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MUXHxJnneKGoPxEjnQjrmS-1200-80.jpg"
+        width: 1200
+        height: 674
         isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"

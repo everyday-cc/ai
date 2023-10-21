@@ -302,20 +302,6 @@ related:
         width: 1280
         height: 678
         isCached: true
-  - title: "Regulation hasn’t caught up to generative AI"
-    excerpt: "AI-based compliance review (50%), AI-based anomaly detection ... senior sales manager of housing finance at Amazon Web Services, said. “How do I start using it with other data sources we have? That is where the true value is in competitive advantage ..."
-    publishedDateTime: 2023-10-16T23:27:00Z
-    webUrl: "https://www.housingwire.com/articles/regulation-hasnt-caught-up-to-generative-ai/"
-    type: article
-    provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 37
-    images:
-      - url: "https://www.housingwire.com/wp-content/uploads/2022/10/Digi-House-e1693233806805.jpeg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
     excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
     publishedDateTime: 2023-10-17T19:36:00Z

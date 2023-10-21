@@ -58,6 +58,22 @@ related:
         height: 640
         isCached: true
   - title: "Cruise self-driving cars investigated after two accidents"
+    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway ..."
+    publishedDateTime: 2023-10-20T11:18:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-67133409?at_medium=RSS"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-67133409.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67133409.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/15775/production/_131452978_7e3d1fdb1b5333cb30725406171ba9623b469785525_528_1084_6101084x610.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Cruise self-driving cars investigated after two accidents"
     excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
     publishedDateTime: 2023-10-17T13:46:00Z
     webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"

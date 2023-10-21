@@ -2,6 +2,143 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-09-13-haltiaai-champions-ethical-ai-revolution.md",
+      "title": "Haltia.AI champions ethical AI revolution",
+      "excerpt": "Consistent with the UAE leadership’s vision for international impact and technological advancement, Haltia.AI invites companies and institutions worldwide to collaborate. \"The UAE stands as a beacon for global innovation and we aim to contribute to the UAE government’s legacy by spearheading partnerships in the ethical sphere,\" says Talal Thabet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NzgwZTg3ZWQtOGY5Ny00/0/talal-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/haltiaai-champions-ethical-ai-revolution-k7ctg65g?amp=1",
+      "publishedDateTime": "2023-09-13T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content-creator.md",
+      "title": "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator",
+      "excerpt": "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content/article_1b9d8aa2-ec0e-5e17-9a39-f4dfd3e7fa3d.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content/article_1b9d8aa2-ec0e-5e17-9a39-f4dfd3e7fa3d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg",
+          "width": 437,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential.md",
+      "title": "From Glass Ceiling To Digital Frontier: Women In Web3 And AI Are Essential",
+      "excerpt": "With Great Power, comes great responsibility for diversity in Web3 and AI. Diversity is essential in these spaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6501779b892bcc38685e700d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2023/09/13/from-glass-ceiling-to-digital-frontier-women-in-web3-and-ai-are-essential/amp/",
+      "publishedDateTime": "2023-09-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-private-equity-recruits-data-science-talent-as-industry-tackles-machine-learning.md",
       "title": "Private Equity Recruits Data-Science Talent as Industry Tackles Machine Learning",
       "excerpt": "More firms are adding chief data officers and other data-science and engineering talent as they incorporate machine learning into their operations.",
@@ -932,144 +1069,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event.md",
-      "title": "Google Provides More Details On Its Cloud Generative AI Play At Next Event",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead digs into the announcements about generative AI and other developments from the recent Google Cloud Next event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6500d13862dfb07c0e5e700f/0x0.jpg?format=jpg&width=1200",
-          "width": 902,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/09/12/google-provides-more-details-on-its-cloud-generative-ai-play-at-next-event/amp/",
-      "publishedDateTime": "2023-09-12T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-ai-technology-is-now-fixing-smiles.md",
-      "title": "AI Technology Is Now Fixing Smiles",
-      "excerpt": "So, for instance, our AI takes in your radiographs, and it points out the radiographic bone loss you have in other diseases, which helps the dentist to not miss it.\" To stay updated with top startup news & investments, sign up for Benzinga's Startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/09/34506055/ai-technology-is-now-fixing-smiles",
-      "originalUrl": "https://www.benzinga.com/news/23/09/34506055/ai-technology-is-now-fixing-smiles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Future,Digital,Technology,Cyber,Virtual,Game,Entertainment,Metaverse,,Teenager,Having_0.jpeg?width=1200&height=800&fit=crop",
-          "width": 390,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34506055",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34506055",
-      "publishedDateTime": "2023-09-12T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-aws-think-big-space-at-simpson-middle-opens-doors-for-celebration.md",
-      "title": "AWS Think Big Space at Simpson Middle Opens Doors for Celebration",
-      "excerpt": "J. Lupton Simpson Middle School opened its doors Tuesday to showcase its Amazon Web Services Think Big Space that opened last December with a community celebration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.loudounnow.com/news/aws-think-big-space-at-simpson-middle-opens-doors-for-celebration/article_5afda34c-51ad-11ee-9d79-dfe096117d6f.html",
-      "originalUrl": "https://www.loudounnow.com/news/aws-think-big-space-at-simpson-middle-opens-doors-for-celebration/article_5afda34c-51ad-11ee-9d79-dfe096117d6f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/loudounnow.com/content/tncms/assets/v3/editorial/7/13/7133fe7a-51af-11ee-836d-03ef7fdfa210/6500d1a09b31f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Loudoun Now",
-        "domain": "loudounnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

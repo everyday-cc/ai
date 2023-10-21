@@ -297,20 +297,6 @@ related:
         width: 1280
         height: 678
         isCached: true
-  - title: "Regulation hasn’t caught up to generative AI"
-    excerpt: "AI-based compliance review (50%), AI-based anomaly detection ... senior sales manager of housing finance at Amazon Web Services, said. “How do I start using it with other data sources we have? That is where the true value is in competitive advantage ..."
-    publishedDateTime: 2023-10-16T23:27:00Z
-    webUrl: "https://www.housingwire.com/articles/regulation-hasnt-caught-up-to-generative-ai/"
-    type: article
-    provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 37
-    images:
-      - url: "https://www.housingwire.com/wp-content/uploads/2022/10/Digi-House-e1693233806805.jpeg"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "How to Capitalize on Generative AI"
     excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
     publishedDateTime: 2023-10-18T17:16:00Z

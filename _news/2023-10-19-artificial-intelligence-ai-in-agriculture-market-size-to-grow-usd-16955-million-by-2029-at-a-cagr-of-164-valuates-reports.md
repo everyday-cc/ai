@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Machine Vision Market Poised for Substantial Growth, Predicted to Reach USD 17.2 Billion by 2027, at a CAGR of 7.4%"
-    excerpt: "Technological Advancements: Rapid technological advancements, especially in artificial intelligence and machine learning, are fueling market growth. These innovations enhance machine vision capabilities, allowing for more accurate and efficient operations."
-    publishedDateTime: 2023-10-17T00:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35278765/machine-vision-market-poised-for-substantial-growth-predicted-to-reach-usd-17-2-billion-by-2027-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35278765"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35278765"
+  - title: "Search And Rescue Robots Market To Grow At CAGR Of 18.5% From 2023 To 2030 Due To Growing Focus On Human Safety"
+    excerpt: "The SNS Insider report indicates that the Search and Rescue Robots Market is expected to experience substantial growth, with a projected Compound Annual Growth Rate (CAGR) of 18.5% during the forecast period from 2023 to 2030."
+    publishedDateTime: 2023-10-20T11:02:00Z
+    webUrl: "https://menafn.com/1107275797/Search-And-Rescue-Robots-Market-To-Grow-At-CAGR-Of-185-From-2023-To-2030-Due-To-Growing-Focus-On-Human-Safety"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
     images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
-  - title: "Unsupervised Learning Market to Reach $86.1 Billion, Globally, by 2032 at 35.7% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \" Unsupervised Learning Market by Technology (Natural Language Processing (NLP), Computer Vision, Speech Processing, and Others), Deployment Mode (On-premise and Cloud),"
-    publishedDateTime: 2023-10-19T10:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-unsupervised-learning-market-reach-861-billion-globally-2032-/2023/10/19/9901706.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 7
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://menafn.com/updates/pr/2023-10/20/I_03e40image_story.png"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "Sgh41CY4lW7EUptNSD9t2JD5WGKWVx0iOdgazkoFENuuVul9BnOtY1JMoyiPDRzeQbdSutkVt6fD96WaQAyQAyeSA4g0NmkcaBLoxfbr/ULsAVOk/N+ZreyrGjcv3tlOf4m5wepe0ekgNXv8fYdZKgzBTxdHwp0vttQxITdieTBVU6JXWAR1oB6KZQ2ALkKByhpj5Bk1nw46bokaMffoY7hc1A8A39J1ZIo4zGrdEpk1UXTqoKtyr85rlZj0ykqoWzH2/nd9bwrCNSybMl9nazkmy6GNuYuJYQ483Zj235r0l2pOvbKFi2fUhOmaSrdf0H5RXY0JL0Tm8v6zUL81J1cM//eVMgWv1SZTCNtX5/g=;/erY7B1nwy907SC48ISpxg=="

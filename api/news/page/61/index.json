@@ -2,6 +2,144 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2023-09-07-talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible.md",
+      "title": "Talk to your taxes? TurboTax’s new AI agent makes it possible",
+      "excerpt": "The AI assistant will reportedly help shorten the time it takes to file taxes and provide faster access to refunds, as well as offer personalized financial advice. Intuit Chief Data Officer Ashok Srivastava told Reuters that the company's AI models \"competed favorably\" against other AI systems in internal accuracy tests.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot_piggybank-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/talk-to-your-taxes-turbotaxs-new-ai-agent-makes-it-possible/amp/",
+      "publishedDateTime": "2023-09-06T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-microsoft-says-azure-breach-probably-due-to-account-being-cracked.md",
+      "title": "Microsoft says Azure breach 'probably' due to account being cracked",
+      "excerpt": "More than three months after its Azure cloud was breached, Microsoft says the \"probable\" cause was the cracking of a staff engineer's corporate account. The company released a blog post on Wednesday which made the surprising admission that its inability to offer a more definitive",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/business-it-news/security/microsoft-says-azure-breach-probably-due-to-account-being-cracked.html",
+      "originalUrl": "https://itwire.com/business-it-news/security/microsoft-says-azure-breach-probably-due-to-account-being-cracked.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/ee5f0279f75ffcb53cda826bd0cbceea_M.jpg",
+          "width": 375,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-06T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-growth-in-future.md",
+      "title": "Healthcare Natural Language Processing Market Size and Trend Analysis 2023-2030| Poised for Strong Growth in Future",
+      "excerpt": "The \"Healthcare Natural Language Processing Market\" 2023 report conducts a comprehensive analysis of the diverse array of factors that impact market drivers, industry development, and future ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34298531/healthcare-natural-language-processing-market-size-and-trend-analysis-2023-2030-poised-for-strong-g",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34298531",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34298531",
+      "publishedDateTime": "2023-09-06T14:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-ai-generated-child-sex-imagery-has-every-us-attorney-general-calling-for-action.md",
       "title": "AI-generated child sex imagery has every US attorney general calling for action",
       "excerpt": "Second, after considering the expert commission’s recommendations, Congress should act to deter and address child exploitation, such as by expanding existing restrictions on CSAM to explicitly cover AI-generated CSAM. This will ensure prosecutors have the tools they need to protect our children.",
@@ -1039,145 +1177,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-ai-in-marketing-how-to-leverage-this-powerful-new-technology-for-your-next-campaign.md",
-      "title": "AI in marketing: How to leverage this powerful new technology for your next campaign",
-      "excerpt": "Today’s most effective AI marketing solutions utilize AI and ML technologies to enhance customer experiences and deliver meaningful insights.\nThe post AI in marketing: How to leverage this powerful new technology for your next campaign appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ai-in-marketing/",
-      "originalUrl": "https://www.ibm.com/blog/ai-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T07:25:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-news-in-the-microsoft-category.md",
-      "title": "News in the Microsoft category",
-      "excerpt": "Microsoft has released Windows Subsystem for Linux (WSL) 2.0.0 with a set of new opt-in experimental features, including a new network mode and automated memory and disk size cleanup. Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/microsoft/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/microsoft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/comp/b/blink/blink-ai-copilot.gif",
-          "width": 400,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer.md",
-      "title": "Obsessed with privacy? Keep Tails on a USB drive and secure most any computer",
-      "excerpt": "If you're looking for protection against surveillance and censorship, this Tor-based operating system is worth a try. Here's how you get started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "originalUrl": "https://www.zdnet.com/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/47ea9eb0c49e09b472e905c01d49372e4e40e3e7/2023/09/06/b145424d-d84b-4e54-8563-f777abaca925/gettyimages-485333161.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obsessed-with-privacy-keep-tails-on-a-usb-drive-and-secure-most-any-computer/",
-      "publishedDateTime": "2023-09-06T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

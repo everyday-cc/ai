@@ -43,17 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Referendum on Indigenous recognition wrecked by poor Yes campaign and No camp misinformation"
-    excerpt: "The defeat of the referendum to recognise Indigenous Australians in the Constitution is a tragedy for Australia. Indigenous people voting in remote and regional areas overwhelmingly voted Yes while the nation overall voted No."
-    publishedDateTime: 2023-10-16T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 28
 
 secured: "KOV1JLX2rCC7IbO0Q3CY2WIA2lfN9CObFy2GMWMDXFVf76AG0pol45KVa8onUK/cWxaqEI10CtxeybcngXkAwJDKaC5y+8fLK9W8dO2T2ixGnxaADzTMOjuPSI7ilyMc04m4ISBHuT4CyxmMBGoBCjrn7Kr3wmQlPxXVjbiFgwqGhKGZvcXmzIR8Saq9ycWPbsv1htmAe6EyeuGUBSRPqdnV0wTTyWGb9eSCsrwEgdNiWUIz7T4QJDjfweOJk8Zb91sCeKQktxH5sKmI9YZ6CM/6usgn7XFnGC8Mq8Rw3amXy209qJn9qfGjvGDjLioOtFydInCEXRTCSVQ9FcZx4T9qZ9U/2VNgsmcRcNg0tb0=;RCAR7AKf5IYSrLgqEgXRow=="
 ---

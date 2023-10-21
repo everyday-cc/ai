@@ -291,6 +291,59 @@
       ]
     },
     {
+      "path": "_news/2023-10-19-nvidia-and-foxconn-partner-to-build-ai-factories-for-self-driving-cars.md",
+      "title": "Nvidia and Foxconn partner to build \"AI factories\" for self-driving cars",
+      "excerpt": "The Taiwanese manufacturing giant Foxconn and the GPU superpower Nvidia have collaborated to develop \"AI factories,\" innovative data centers designed to power various applications, including self-driving",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html",
+      "originalUrl": "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-18-image-19.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-10-18-amd-vs-nvidia-investing-in-the-ai-chip-showdown.md",
       "title": "AMD vs. Nvidia: Investing in the AI Chip Showdown",
       "excerpt": "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis.",
@@ -1410,49 +1463,6 @@
         "AI",
         "AI in Finance",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report.md",
-      "title": "China may have access to powerful AI chips because of partnership with Saudi Arabia, claims report",
-      "excerpt": "China may be skirting US-imposed tech sanctions through its partnership with Saudi Arabia. China has partnered up with Saudi Arabia to help them create a localised Artificial Intelligence and Machine",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/China-may-have-access-to-powerful-AI-chips-because-of-partnership-with-Saudi-Arabia-claims-report-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/china-may-have-access-to-powerful-ai-chips-because-of-partnership-with-saudi-arabia-claims-report-13232602.html/amp",
-      "publishedDateTime": "2023-10-10T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

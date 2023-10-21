@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Referendum on Indigenous recognition wrecked by poor Yes campaign and No camp misinformation"
-    excerpt: "The defeat of the referendum to recognise Indigenous Australians in the Constitution is a tragedy for Australia. Indigenous people voting in remote and regional areas overwhelmingly voted Yes while the nation overall voted No."
-    publishedDateTime: 2023-10-16T23:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff"
-    ampWebUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 28
   - title: "Peter Dutton accused of 'playing politics' after backflipping on pledge for second referendum on constitutional recognition"
     excerpt: "Deputy Prime Minister Richard Marles has accused Opposition Leader Peter Dutton of playing politics after backflipping on his pledge to hold a second referendum."
     publishedDateTime: 2023-10-17T02:22:00Z

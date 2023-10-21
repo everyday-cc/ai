@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-07-26-driverless-cars-could-get-ai-powered-heat-vision-for-nighttime-driving.md",
+      "title": "Driverless cars could get AI-powered heat vision for nighttime driving",
+      "excerpt": "Self-driving vehicles that struggle with recognising objects at night could get a boost from a heat-assisted detection and ranging system",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2384435-driverless-cars-could-get-ai-powered-heat-vision-for-nighttime-driving/",
+      "originalUrl": "https://www.newscientist.com/article/2384435-driverless-cars-could-get-ai-powered-heat-vision-for-nighttime-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2023/07/26144231/SEI_165404078.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-self-driving-car-technology-market-study-offers-both-qualitative-and-quantitative-analysis-with-an-estimated-cagr-rate-99-from-2023-2030.md",
       "title": "Self-driving Car Technology market study offers both qualitative and quantitative analysis with an estimated CAGR rate 9.9% from 2023-2030.",
       "excerpt": "Mercedes-Benz has focused on creating self-driving trucks, while companies like Google and Baidu are renowned for their extensive research into autonomous driving technology. These companies can ...",
