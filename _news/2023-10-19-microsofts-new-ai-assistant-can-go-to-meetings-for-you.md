@@ -347,20 +347,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
-    excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."
-    publishedDateTime: 2023-10-16T09:26:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98381/trade-ledger-embeds-working-capital-options-within-microsoft-azure-and-teams"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 51
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
     excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"
     publishedDateTime: 2023-10-16T15:18:00Z

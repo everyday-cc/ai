@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI-Powered Personalization Is Reshaping Online Shopping And Beyond"
-    excerpt: "AI-driven personalization paves the way for retail environments that forge even deeper brand loyalty and defy the traditional transactional nature of online commerce."
-    publishedDateTime: 2023-10-16T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/how-ai-powered-personalization-is-reshaping-online-shopping-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/16/how-ai-powered-personalization-is-reshaping-online-shopping-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/16/how-ai-powered-personalization-is-reshaping-online-shopping-and-beyond/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65297e920ba08a3dc21cdc5e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1246
-        height: 900
-        isCached: true
   - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
     excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
     publishedDateTime: 2023-10-18T07:30:00Z
@@ -305,20 +289,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using AI to craft novel crop nutrition solutions"
-    excerpt: "Global specialty minerals company invests in agri-tech startup toward creating new plant nutrition bio-stimulants using artificial intelligence."
-    publishedDateTime: 2023-10-16T09:47:00Z
-    webUrl: "https://www.israel21c.org/using-ai-to-craft-novel-crop-nutrition-solutions/"
-    type: article
-    provider:
-      name: Israel21c
-      domain: israel21c.org
-    quality: 37
-    images:
-      - url: "https://static.israel21c.org/www/uploads/2023/09/COVER_ICL_and_Agrematch_to_Develop_Novel_Crop_Nutrition_Solutions_via_AI.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The Federal Trade Commission and Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) burst into the public consciousness less than one year ago, with OpenAI’s highly successful public release of ChatGPT. Since then, AI-enabled products and services have proliferated throughout the economy. AI-enabled tools ..."
     publishedDateTime: 2023-10-19T15:56:00Z
@@ -393,15 +363,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 17
-  - title: "The Quantum Leap: How Quantum Computing Will Revolutionize Artificial Intelligence Applications"
-    excerpt: "Introduction In the ever-evolving landscape of technology, two groundbreaking fields have been making significant strides: quantum computing and artificial intelligence (AI). As these fields continue to advance,"
-    publishedDateTime: 2023-10-16T10:23:00Z
-    webUrl: "https://techbullion.com/the-quantum-leap-how-quantum-computing-will-revolutionize-artificial-intelligence-applications/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 7
   - title: "AIProfet Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
     excerpt: "The \"Everyday AI\" solution, co-developed by Profet AI, Macrovention, and Litmus, is a tailored offering for Southeast Asia. This solution will be showcased at the Industrial Transformation Asia-Pacific (ITAP 2023) in Singapore on October 18-20, providing a platform to highlight the transformative potential of AI in the region's business landscape."
     publishedDateTime: 2023-10-16T11:51:00Z

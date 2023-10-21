@@ -24,22 +24,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Fintech Surge 2023 Concludes Day One Of Global Gathering"
-    excerpt: "Concludes Day One of Global Gathering  <li /> SME Elevate highlights that 95% of all customer interactions will be powere"
-    publishedDateTime: 2023-10-16T10:50:00Z
-    webUrl: "https://menafn.com/1107246479/Fintech-Surge-2023-Concludes-Day-One-Of-Global-Gathering"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997739"
-        width: 421
-        height: 250
-        isCached: true
-
 secured: "dQ2oWIR60ZzwB0DndNORHCrwjTOUC7B9pi/c30wq9WCN41QfNy1DOkM2g75KbQso+RX7L2CBCFaALckZA9imTPojpVoVmYJfPlhyutApv1R1aywba3IlbhdTGzkkaZ6UV9VoMqr6U4X80jRdpgI10XMa8TrDhvmgVjJjismbHzkwRTSfm5g8dtdw1GdhDzp5aTo1uOYNCa+4YDaY6q8yXaUa0xi7/B4yMdCFLcLcSL/6lYBCLoagm0biQsCTZO8rj8sM2IzCaQXUJBTEp/4G5IbUPFQMrczZlcUlauBWD6WmzfLR1+UpDr28qz09ftXZW3ik7/wr8O5xhu5IHycyB2WHOv/4XfPW4StuoEf2Id0=;M+89dxzXoimubrJLF7zzrw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2023/10/17/tesla-releases-new-video-self-drivi
 webUrl: "https://electrek.co/2023/10/17/tesla-releases-new-video-self-driving-software/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 2116
         height: 1190
         isCached: true
-  - title: "Tesla Earnings: Investors Watching Margins, Deliveries, Self-Driving"
-    excerpt: "Here are the top five things to look out for in Tesla's earnings: Investors will look for details on how CEO Elon Musk plans to ensure the company will deliver a record 476,000 vehicles in the fourth quarter to meet its annual goal of 1.8 million units."
-    publishedDateTime: 2023-10-16T10:01:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/tesla-earnings-investors-watching-margins-deliveries-self-driving"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Tesla’s 2023 Self-Driving Software Shown Off In New Video"
     excerpt: "Tesla’s updated self-driving software has been shown off in a new video posted to the company’s X account. The video is a much more professional one than the similar clip shared by CEO Elon Musk previously. This latest video doesn’t specifically say which software is being used, but it does say that it’s using version 11.4.1 or later."
     publishedDateTime: 2023-10-18T18:07:00Z

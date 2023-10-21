@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/north-korea-experiments-with-ai-in-cybe
 webUrl: "https://venturebeat.com/ai/north-korea-experiments-with-ai-in-cyber-warfare-us-official/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Artificial Intelligence bolsters growth of cyber-attacks, audacity of cybercriminals"
-    excerpt: "These cyberattacks include AI-powered botnets (a network of hijacked computers) and enhanced social engineering and phishing campaigns which are increasingly easier for employees to fall for.October 16,"
-    publishedDateTime: 2023-10-16T16:00:00Z
-    webUrl: "https://rbj.net/2023/10/16/artificial-intelligence-bolsters-growth-of-cyber-attacks-audacity-of-cybercriminals/"
-    type: article
-    provider:
-      name: Rochester Business Journal
-      domain: rbj.net
-    quality: 10
 
 secured: "vIc2CsyNpK2mGFDt8nATlo9YSHXlQcP8bQXS2DcbHkS86FKD1cyOdlsvybiT8e48np78RXg9NpkXRoNdC+2BdxUh13ZzvUtd/jluvGug7C9PB5HbkeqkXP1dT66nZt26u72AODjJdhzzlj/vZoiKquXgS3VCogXD9JwYrB13FXkDrZ+8ML6/GKOVizjPqr1Vm5iC1H9W2p9H6xpu/APhpmB0DfgSe5MeDaBZuWSlUiCczm19nr2HBxskadk0CYZ+ZyQnEBK4AXtb3KJdbBgqB3Po0FCyWjLSjBwM/UPNWC05RbQ2KASTMD6uwS3yH6rj4HqqPMcLmEJW68VlSY7aZc0V/tM6IpluIC6osqHnNC7kg+o6jPDI0SdIYgPChewcamt43gWfgDBLA7t4CZ++vYFmJ26W3NtQsUupQZYDgxyZsK3eTs/u+MYBSm5L8Ghss12fvlCIYi8JEzEar35li2je+1KHGnz5njxVGrJ3bQGixOiQwciwMIH4Lhl7F/hkESqbVkV7B8tqyW4IiLVptA==;PAbpzjrTdT53XNi/r/HiSw=="
 ---

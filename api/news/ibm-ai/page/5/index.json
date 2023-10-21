@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-08-23-ibm-watsonx-to-use-generative-ai-to-translate-cobol-code-into-java.md",
+      "title": "IBM Watsonx to use generative AI to translate COBOL code into Java",
+      "excerpt": "In a bid to help enterprises running IBM Z systems modernise their applications, IBM is expanding the abilities of its generative AI based Watson Code Assistant to include COBOL code translation into Java. The Big Blue claims that the introduction of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/708452/ibm-watsonx-use-generative-ai-translate-cobol-code-into-java/",
+      "originalUrl": "https://www.reseller.co.nz/article/708452/ibm-watsonx-use-generative-ai-translate-cobol-code-into-java/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115691.jpg",
+          "width": 500,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-ibm-sells-the-weather-company-assets-to-francisco-partners.md",
+      "title": "IBM sells The Weather Company assets to Francisco Partners",
+      "excerpt": "IBM has agreed to sell The Weather Company assets to Francisco Partners, the private equity firm, for an undisclosed amount.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
+      "originalUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1055028402.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/",
+      "publishedDateTime": "2023-08-22T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-22-ibm-teases-watsonx-generative-ai-tool-that-translates-cobol-to-java.md",
       "title": "IBM Teases Watsonx Generative AI Tool That Translates COBOL To Java",
       "excerpt": "“We expect for partners of all types to have a role to play,” IBM VP Keri Olson told CRN. IBM plans to preview its upcoming Watsonx Code Assistant for Z generative artificial intelligence ...",
@@ -1267,103 +1363,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-ibm-set-to-deliver-mainframe-ai-services-support-x.md",
-      "title": "IBM set to deliver mainframe AI services, support x",
-      "excerpt": "Developer support for IBM Wazi, the cloud-native development environment. A Wazi Sandbox lets developers build and test z/OS application components in a virtualized, containerized, self-service, personal sandbox running on Red Hat OpenShift that runs on x86 hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.html",
-      "originalUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/24/09/thinkstockphotos-520137237-100610459-large-100922664-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 1031,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html",
-      "publishedDateTime": "2023-08-11T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-ibm-plans-to-make-llama-2-available-within-watsonxai-platform.md",
-      "title": "IBM Plans to Make Llama 2 Available within watsonx.ai Platform",
-      "excerpt": "IBM makes plans with Meta's Llama 2. Plus, why open source may or may not be a differentiator in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/ibm-llama-2-watsonx-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/tr71223-Hero.Watsonx.jpeg",
-          "width": 1400,
-          "height": 884,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
         "IBM AI"
       ]
     }

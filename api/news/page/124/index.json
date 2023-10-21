@@ -2,6 +2,430 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2023-07-26-google-rebounds-from-unprecedented-drop-in-ad-revenue-with-a-resurgence-that-pushes-stock-higher.md",
+      "title": "Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher",
+      "excerpt": "Google snapped out of an unprecedented advertising slump during its latest quarter, signaling a return to growth cycle needed to fuel investments in artificial intelligence technology that expected to",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/wirestory_e2be119c38a4909ba2e848dbac9a9416_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-rebounds-unprecedented-drop-ad-drop-resurgence-pushes-101648334",
+      "publishedDateTime": "2023-07-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation.md",
+      "title": "HitPaw Introduces its Online AI Video Translator: Breaking Language Barriers in Video Content Creation",
+      "excerpt": "HitPaw, a leading technology company specializing in video editing solutions, is thrilled to announce the launch of its groundbreaking Online AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.sfexaminer.com/ap/national/hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation/article_b63e80a4-9b88-56a3-8045-5c7cf44b9198.html",
+      "originalUrl": "https://www.sfexaminer.com/ap/national/hitpaw-introduces-its-online-ai-video-translator-breaking-language-barriers-in-video-content-creation/article_b63e80a4-9b88-56a3-8045-5c7cf44b9198.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/custom/image/d2e5172a-cfb6-11ec-8535-8fc7aae45ad1.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Francisco Examiner",
+        "domain": "sfexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 311,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/07/25/chatgpt-everything-you-need-to-know-about-the-open-ai-powered-chatbot/amp/",
+      "publishedDateTime": "2023-07-25T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-ge-healthcare-ceo-on-advances-in-alzheimers-treatment-a-breakthrough-moment-for-patients.md",
+      "title": "GE HealthCare CEO on advances in Alzheimer's treatment: 'A breakthrough moment for patients'",
+      "excerpt": "GE HealthCare CEO Peter Arduini discussed his company's role in Alzheimer's treatment with CNBC's Jim Cramer on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "originalUrl": "https://www.cnbc.com/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107253594-1686246162711-gettyimages-1418953592-vcg111398371069.jpeg?v=1690327099",
+          "width": 5310,
+          "height": 3540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/07/25/ge-healthcare-ceo-touts-breakthrough-moment-for-alzheimers-patients.html",
+      "publishedDateTime": "2023-07-25T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-microsoft-reports-201b-quarterly-profit-as-it-promises-to-lead-the-new-ai-platform-shift.md",
+      "title": "Microsoft reports $20.1B quarterly profit as it promises to lead 'the new AI platform shift'",
+      "excerpt": "Analysts polled by FactSet Research had been looking for revenue of $55.49 billion. CEO Satya Nadella said the company remains focused on “leading the new AI platform shift,\" though its push to ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/microsoft-reports-201b-quarterly-profit-promises-lead-new-101648137",
+      "publishedDateTime": "2023-07-25T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.md",
+      "title": "Should police use facial-recognition technology? Ann Arbor to vote on issue",
+      "excerpt": "ANN ARBOR, MI — Ann Arbor is once again considering restricting police use of a facial-recognition technology and city officials are planning to vote on the issue soon. City Council Member Linh Song, D-2nd Ward, advised her council colleagues July 17 to expect a resolution to come forward possibly in the next two months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html",
+      "originalUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/4HBWD7NCY5AI3JU3J3R3MTAIBU.jpeg",
+          "width": 3000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2023/07/should-police-use-facial-recognition-technology-ann-arbor-to-vote-on-issue.html?outputType=amp",
+      "publishedDateTime": "2023-07-25T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-ibm-report-finds-ai-and-automation-reduce-costs-of-data-breaches.md",
+      "title": "IBM Report Finds AI and Automation Reduce Costs of Data Breaches",
+      "excerpt": "A new report from IBM reveals that organizations using AI and automation are likely to suffer lower losses from data breaches.",
+      "sourceUrl": null,
+      "webUrl": "https://energycentral.com/c/iu/ibm-report-finds-ai-and-automation-reduce-costs-data-breaches",
+      "originalUrl": "https://energycentral.com/c/iu/ibm-report-finds-ai-and-automation-reduce-costs-data-breaches",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/node_main/2023/7/1dreamstime_s_cyberhackerred83886192.jpg?itok=l_MkzwB-",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-25T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Energy Central",
+        "domain": "energycentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system.md",
+      "title": "Make The Doctor’s Office Fair! AI Can Help Create A More Equitable Healthcare System",
+      "excerpt": "Bringing a level of scrutiny to AI processes in healthcare, Marzyeh Ghassemi has some solutions for harmful bias in systems that, as a society, we want to root out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c033dd228eb00488105e80/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/make-the-doctors-office-fair-ai-can-help-create-a-more-equitable-healthcare-system/amp/",
+      "publishedDateTime": "2023-07-25T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-07-26-stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer.md",
+      "title": "Stop Crashes! Using AI To Predict Car Crashes, And Make Roads Safer",
+      "excerpt": "“Imagine you put the world's safest driver and the world's best vehicle on our roads,” he said. “There's an inherent level of extrinsic risk caused by other vehicles, caused by the nature of the road geometry, and topology.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c02de5f585744f48b8ced8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/07/25/stop-crashes-using-ai-to-predict-car-crashes-and-make-roads-safer/amp/",
+      "publishedDateTime": "2023-07-25T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-spotify-ceo-teases-potential-upcoming-ai-powered-capabilities-surrounding-personalization-and-ads.md",
       "title": "Spotify CEO teases potential upcoming AI-powered capabilities surrounding personalization and ads",
       "excerpt": "Spotify CEO Daniel Ek teased a few ways the streaming service could introduce additional AI-powered functionality.",
@@ -798,420 +1222,6 @@
         "Computer Vision",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-five-reasons-why-your-next-cloud-may-be-your-own.md",
-      "title": "Five Reasons Why Your Next Cloud May Be Your Own",
-      "excerpt": "Data centers are able to provide cloud-native platform as a service (PaaS) offerings, such as managed Kubernetes, containers and object storage ... Certainly, the first step is merely your recognition that there is a cloud alternative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63bc1c45949119fcba830711/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/07/25/five-reasons-why-your-next-cloud-may-be-your-own/amp/",
-      "publishedDateTime": "2023-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-nvidia-stock-investors-should-love-what-elon-musk-said-on-teslas-earnings-call-about-ai.md",
-      "title": "Nvidia Stock Investors Should Love What Elon Musk Said on Tesla's Earnings Call About AI",
-      "excerpt": "As usual, CEO Elon Musk and the top execs who joined him on the earnings call provided some great information for Tesla investors. But Musk also made comments that were relevant to investors and potential investors in graphics chip specialist Nvidia ( NVDA 2.24%), which is the main focus of this article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
-      "originalUrl": "https://www.fool.com/investing/2023/07/25/nvda-artificial-intelligence-ai-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/740626/ai-stocks-nvda-stock.jpg",
-          "width": 2314,
-          "height": 1296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-the-us-is-headed-for-a-roaring-economic-boom-thanks-to-ai-robots-quantum-computers-market-veteran-ed-yardeni-says.md",
-      "title": "The US is headed for a roaring economic boom, thanks to AI, robots, quantum computers, market veteran Ed Yardeni says",
-      "excerpt": "\"I think that by the end of the decade we'll look back on it and say, it started out awful, but it ended up awfully good.\"",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6205514e3b86990018b2bf67?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7?amp",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/news/stocks/us-economic-outlook-roaring-2020s-artificial-intelligence-stocks-ed-yardeni-2023-7?amp",
-      "publishedDateTime": "2023-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors.md",
-      "title": "Google DeepMind, Strategy Partner, Technology, Claudia van der Salm proposed for election to Greater Than's Board of Directors",
-      "excerpt": "Van der Salm currently holds the position of Strategy Partner, Technology, at Google DeepMind, a unit of Google. Google DeepMind is committed to solving intelligence to advance science and benefit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/google-deepmind-strategy-partner-technology-claudia-van-der-salm-proposed-for-election-to-greater-thans-board-of-directors-301885059.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-optimizing-energy-production-with-the-latest-smart-grid-technologies.md",
-      "title": "Optimizing energy production with the latest smart grid technologies",
-      "excerpt": "Smart grid technology promises to modernize the traditional electrical system with an infusion of digital intelligence.\nThe post Optimizing energy production with the latest smart grid technologies appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
-      "originalUrl": "https://www.ibm.com/blog/optimizing-energy-production-with-the-latest-smart-grid-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T06:08:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus.md",
-      "title": "Microsoft earnings: What to expect as Azure, AI come into focus",
-      "excerpt": "As Microsoft gears up to report earnings in the present, it's becoming ever harder for Wall Street not to get swept up by the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
-      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-823051/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-as-azure-ai-come-into-focus-e9408cdf",
-      "publishedDateTime": "2023-07-25T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-a-thorough-examination-of-the-automatic-speech-recognition-market-size-anticipating-cagr-of-138-during-period-2023-to-2030.md",
-      "title": "A Thorough Examination of the Automatic Speech Recognition Market Size, anticipating CAGR of 13.8% during period 2023 to 2030",
-      "excerpt": "The report provides actual figures about the \"Automatic Speech Recognition Market\" and the challenges within the industry. The market size can help businesses understand in better detail the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33373365/a-thorough-examination-of-the-automatic-speech-recognition-market-size-anticipating-cagr-of-13-8-du",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33373365/a-thorough-examination-of-the-automatic-speech-recognition-market-size-anticipating-cagr-of-13-8-du",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33373365",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33373365",
-      "publishedDateTime": "2023-07-25T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023.md",
-      "title": "Cigniti's IP, ZastraTM, has been Recognized in the \"The Computer Vision Tools Landscape, Q2 2023”",
-      "excerpt": "Zastra™, Cigniti’s Computer Vision (CV) Platform offering is identified in the report as a general purpose foundation, built to be extensible, that can be used to build any type of application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wavy.com/business/press-releases/ein-presswire/646310258/cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023/",
-      "originalUrl": "https://www.wavy.com/business/press-releases/ein-presswire/646310258/cignitis-ip-zastratm-has-been-recognized-in-the-the-computer-vision-tools-landscape-q2-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wavy.com/wp-content/themes/nexstar/client/src/images/footer/nexstar-logo-white-nmg.png",
-          "width": 396,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAVY-TV",
-        "domain": "wavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-25-ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm.md",
-      "title": "IBM named a leader in ESG reporting and data management software by independent research firm",
-      "excerpt": "Independent research firm Verdantix recently identified IBM as a leader in their report, &#8220;Green Quadrant: ESG Reporting and Data Management Software&#8221; (July 17, 2023), which evaluated and provided a detailed assessment of solution providers and their product offerings. The rigorous analysis",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-named-a-leader-in-esg-reporting-and-data-management-software-by-independent-research-firm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

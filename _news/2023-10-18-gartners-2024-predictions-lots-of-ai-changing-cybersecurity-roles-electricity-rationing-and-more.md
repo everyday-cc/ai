@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Calling all AI cybersecurity startups — in Europe and, now, the U.S."
-    excerpt: "Launch of the new Google for Startups Growth Academy: AI for Cybersecurity program for companies based in Europe and the U.S."
-    publishedDateTime: 2023-10-16T10:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/google-for-startups-growth-academy-apply/amp/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 109
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GFS_Growth_Academy__Cybersecurity_image_JwTMu.width-1300.jpg"
-        width: 1300
-        height: 866
-        isCached: true
   - title: "BlackBerry Announces Generative AI Powered Cybersecurity Assistant"
     excerpt: "The solution, which will be available to BlackBerry's Cylance® AI customers, predicts customer needs to proactively provide information rather than requiring users to manually ask questions and compresses research hours into seconds. Fully integrated in ..."
     publishedDateTime: 2023-10-16T16:35:00Z
@@ -80,6 +64,24 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial intelligence bolsters growth of cyberattacks, audacity of cybercriminals"
+    excerpt: "A year out from generative AI’s widespread release to the public, cybercriminals continue to finesse AI tools to bolster the scale, speed, scope, and stealth of their activities. “AI-driven cybersecur"
+    publishedDateTime: 2023-10-17T18:15:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/cybersecurity/artificial-intelligence-bolsters-growth-of-cyberattacks-audacity-of-cybercriminals/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 11
+  - title: "Artificial Intelligence bolsters growth of cyber-attacks, audacity of cybercriminals"
+    excerpt: "These cyberattacks include AI-powered botnets (a network of hijacked computers) and enhanced social engineering and phishing campaigns which are increasingly easier for employees to fall for.October 16,"
+    publishedDateTime: 2023-10-16T16:00:00Z
+    webUrl: "https://rbj.net/2023/10/16/artificial-intelligence-bolsters-growth-of-cyber-attacks-audacity-of-cybercriminals/"
+    type: article
+    provider:
+      name: Rochester Business Journal
+      domain: rbj.net
+    quality: 10
 
 secured: "wjO4yJke2eBywV+61ptlGrvj8ojImiKr6yPHA2ls5LMx2buJJI7UGPMaMMuQJNvHBKiBvNL84+wGK1uZoBklEYrwmfNvQ0vP8pMgWGCnDzgYCEk5Cfzp3m84gei4PQev6SoxGG30y3jGnhoeeuMUIw/hQbexGIZMELmm8bOmzzpgK1npMFzp1ufWId0TdNOY7gumsXsWi/FrG7UDOUceSpp1V5t7jutj073wFhsZ8JUwnl5ocAa36X535F1jpKwzDahWZMqOBUzu1Dq71odjL/UdD25KGbTFBIW2vaC0lBLSPouw7WXDQrer/HyNnlL0dlqDd0fW5KbGMtRloK1Ek9r3mhupdEn3d1Q5jTV/KGztP9HjZ2GJqBvOKa7V9EaOdP+6OW639H0yTAxS8wznW+4Mdpe5CQjmelXhfg0BddxMiZBAB4v1mHnJYUEt8Cz8wdSLZMBMQQUIaqPJ3oE2/oowoaQtyPCL4Qas4iu+SDBYW4aqmlGIv1Xv7VKBpN8duwTVzjPIfk4CXDAmc3Rz3Q==;Phzd3qZeqJnWRxtQKo0afg=="
 ---

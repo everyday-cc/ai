@@ -27,20 +27,6 @@ images:
 related:
   - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
     excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
-    publishedDateTime: 2023-10-16T09:52:00Z
-    webUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/6FUgILCZNiq5orM-s1tsFGVgAmA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWKEI6PGCVKOZD3MCVIJ7DBHHY.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Exclusive: US tackles loopholes in curbs on AI chip exports to China"
-    excerpt: "The steps are intended to prevent American chipmakers from selling products to China that circumvent government restrictions as part of the administration's actions to block more AI chip exports."
     publishedDateTime: 2023-10-16T17:49:00Z
     webUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4&mc_eid=6811b078ef"
     type: article
@@ -78,22 +64,6 @@ related:
     quality: 77
     images:
       - url: "https://images.wsj.net/im-869788/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Nvidia Stock Drops. AI Chip Exports to China Are Under Threat: Report"
-    excerpt: "Nvidia stock was falling early Monday following a report the chip maker could face further restrictions on exports of its artificial-intelligence chips to China."
-    publishedDateTime: 2023-10-16T09:41:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-stock-ai-chip-china-b38ab3f6"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-stock-ai-chip-china-b38ab3f6"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-stock-ai-chip-china-b38ab3f6"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-436455/social"
         width: 1280
         height: 640
         isCached: true

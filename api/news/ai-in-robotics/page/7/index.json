@@ -2,6 +2,171 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-09-01-marines-overhaul-approach-to-smart-robots-eye-new-military-job.md",
+      "title": "Marines overhaul approach to smart robots, eye new military job",
+      "excerpt": "The Marine Corps has dabbled in drones for a while: It has invested in quadcopters for infantry squads, robotic mules that lug gear, even, earlier in 2023, its first MQ-9 Reaper hunter-killer unmanned aerial vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
+      "originalUrl": "https://www.defensenews.com/unmanned/2023/08/31/marines-overhaul-approach-to-smart-robots-eye-new-military-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.defensenews.com/resizer/E_g2rw1tQutwbTSIqZLQAt0VM1c=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/X6U4TSASWFHXZLRPOOW7TSPMFA.jpg",
+          "width": 1024,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense News",
+        "domain": "defensenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-new-ai-technology-gives-robot-recognition-skills-a-big-lift.md",
+      "title": "New AI technology gives robot recognition skills a big lift",
+      "excerpt": "With every push, the robot is learning to recognize the object through a new system developed by a team of UT Dallas computer scientists. The new system allows the robot to push objects multiple times until a sequence of images are collected, which in turn ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html",
+      "originalUrl": "https://techxplore.com/news/2023-08-ai-technology-robot-recognition-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-12-research-projects-in-ai-and-robotics-are-created-by-saudi-university-students-at-kacst-labs.md",
+      "title": "12 Research Projects In Ai And Robotics Are Created By Saudi University Students At Kacst Labs",
+      "excerpt": "In addition, the initiatives took on the challenge of developing the first robotic models and expanding technological solutions using advanced approaches and methodologies for the creation of AI models. They also evaluated and improved the linguistic models for the AI chatbot“ChatGPT” to make them compatible with regional content and Arabic.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1106991526/12-Research-Projects-In-Ai-And-Robotics-Are-Created-By-Saudi-University-Students-At-Kacst-Labs",
+      "originalUrl": "https://menafn.com/1106991526/12-Research-Projects-In-Ai-And-Robotics-Are-Created-By-Saudi-University-Students-At-Kacst-Labs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?511604",
+          "width": 458,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-31T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence.md",
+      "title": "The Future of Cognitive Healthcare: IoT, Telemedicine, Robots & Artificial Intelligence",
+      "excerpt": "Healthcare in the digital era is experimenting with adopting robotics to provide personal healthcare to patients in need. This technology enabled the healthcare industry to manage patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/08/Untitled-62.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/",
+      "publishedDateTime": "2023-08-31T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-women-are-more-likely-to-be-forced-to-switch-occupations-because-of-ai.md",
       "title": "Women Are More Likely To Be Forced to Switch Occupations Because of AI",
       "excerpt": "A new McKinsey study has found not all workers are equally vulnerable to generative AI, and women are more likely to be forced to change jobs.",
@@ -1160,188 +1325,6 @@
       "provider": {
         "name": "healthcarepackaging",
         "domain": "healthcarepackaging.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient.md",
-      "title": "‘Robotics is the future of food’: Artisan pizza restaurant Moto makes automation a key ingredient",
-      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
-      "originalUrl": "https://www.geekwire.com/2023/robotics-is-the-future-of-food-artisan-pizza-restaurant-moto-makes-automation-a-key-ingredient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2023/08/moto1-1.jpeg",
-          "width": 2000,
-          "height": 1583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-25T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-ai-helps-robots-manipulate-objects-with-their-whole-bodies.md",
-      "title": "AI helps robots manipulate objects with their whole bodies",
-      "excerpt": "Imagine you want to carry a large, heavy box up a flight of stairs. You might spread your fingers out and lift that box with both hands, then hold it on top of your forearms and balance it against your chest,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/ai-helps-robots-manipu.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-ai-robots-bodies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-ai-robots-bodies.amp",
-      "publishedDateTime": "2023-08-24T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-these-ai-powered-robot-arms-are-delicate-enough-to-pick-up-pringles-chips.md",
-      "title": "These AI-powered robot arms are delicate enough to pick up Pringles chips",
-      "excerpt": "Using deep reinforcement learning and 'proprioception,' the two robotic limbs can pick up extremely fragile objects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
-      "originalUrl": "https://www.popsci.com/technology/robot-arms-pringles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/08/24/2023_0627_17125000.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/robot-arms-pringles/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/robot-arms-pringles/?amp",
-      "publishedDateTime": "2023-08-24T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-building-a-running-robot-dog.md",
-      "title": "Building a running Robot Dog",
-      "excerpt": "I wanted to engineer a robot with animal characteristics, bearing in mind that animals – like humans – move in a huge variety of ways,”",
-      "sourceUrl": null,
-      "webUrl": "https://www.eenewseurope.com/en/building-a-running-robot-dog/",
-      "originalUrl": "https://www.eenewseurope.com/en/building-a-running-robot-dog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ee.cdnartwhere.eu/wp-content/uploads/2023/08/Screen-Shot-2023-08-24-at-10.23.05-1024x684.png",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeNews Europe",
-        "domain": "eenewseurope.com",
         "images": null,
         "publishers": null,
         "authors": null

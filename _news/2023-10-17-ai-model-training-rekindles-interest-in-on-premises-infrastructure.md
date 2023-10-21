@@ -36,20 +36,6 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 69
-  - title: "Federated GPU Infrastructure for AI Workflows"
-    excerpt: "[Sponsored Guest Article] With the explosion of use cases such as Generative AI and ML Ops driving tremendous demand for the most advanced GPUs and accelerated computing platforms, there’s never been a better time to explore the “as-a-service ..."
-    publishedDateTime: 2023-10-16T10:00:00Z
-    webUrl: "https://insidehpc.com/2023/10/federated-gpu-infrastructure-for-ai-workflows/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Eviden-logo-2-1-1023.png"
-        width: 623
-        height: 309
-        isCached: true
   - title: "HIVE Digital Technologies is Building Green Infrastructure for the AI Revolution"
     excerpt: "Kilic is the president and CEO of HIVE Digital Technologies Ltd., a Vancouver-based digital infrastructure firm. HIVE got its start in 2017 as HIVE Blockchain Technologies—the world’s first publicly traded cryptocurrency mining company, with listings on the Toronto Stock Exchange, Frankfurt Stock Exchange and Nasdaq."
     publishedDateTime: 2023-10-16T17:17:00Z

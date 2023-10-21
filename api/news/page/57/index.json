@@ -2,6 +2,426 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-09-08-openai-admits-that-ai-writing-detectors-dont-work.md",
+      "title": "OpenAI admits that AI writing detectors don’t work",
+      "excerpt": "In a section of the FAQ titled \"Do AI detectors work?\", OpenAI writes, \"In short, no. While some (including OpenAI) have released tools that purport to detect AI-generated content, none of these have proven to reliably distinguish between AI-generated and human-generated content.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/ai_detector_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/openai-admits-that-ai-writing-detectors-dont-work/amp/",
+      "publishedDateTime": "2023-09-08T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-nvidia-tata-group-to-work-together-on-ai-computing-infrastructure-platforms.md",
+      "title": "NVIDIA, Tata Group to work together on AI computing infrastructure, platforms",
+      "excerpt": "The companies will work together to build an AI supercomputer powered by the next-generation NVIDIA GH200 Grace Hopper Superchip to achieve high quality performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/05/nvidia-1019x573.png",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/nvidia-tata-group-work-on-ai-computing-infrastructure-platform-gh200-grace-hopper-superchip-17755921.htm/amp",
+      "publishedDateTime": "2023-09-08T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-zoom-unveils-new-ai-companion-features.md",
+      "title": "Zoom Unveils New AI Companion Features",
+      "excerpt": "Zoom AI Companion. Zoom. This week, Zoom announced its new AI Companion, a suite of generative AI (GAI) tools available at no additional cost to paid Zoom subscribers. Zoom’s fi",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb3648234c67893773b636/0x0.png?format=png&width=1200",
+          "width": 480,
+          "height": 254,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2023/09/08/zoom-unveils-new-ai-companion-features/amp/",
+      "publishedDateTime": "2023-09-08T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-what-large-models-cost-you-there-is-no-free-ai-lunch.md",
+      "title": "What Large Models Cost You – There Is No Free AI Lunch",
+      "excerpt": "Recent research reveals that a substantial portion of the computational operations in large models is wasted, with over 99% of floating-point operations resulting in zero calculations. Relying solely on massive models that consume vast amounts of resources is unsustainable in the long term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
+      "originalUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64fb30f65900cea4b773b640/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2023/09/08/what-large-models-cost-you--there-is-no-free-ai-lunch/amp/",
+      "publishedDateTime": "2023-09-08T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by-idc-innovator-report.md",
+      "title": "FarEye Recognized as Leader in AI for Order Management, Fulfillment and Last-Mile Delivery by IDC Innovator Report",
+      "excerpt": "FarEye, a leading provider of delivery management solutions, has been named a leader in artificial intelligence (AI) for order management, fulfillment and last-mile delivery by analyst firm IDC. The recognition comes as part of the “IDC Innovators: AI for Order Management,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by/article_5e2b212d-78d0-5bb8-ae35-7d1dcfd772a9.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/fareye-recognized-as-leader-in-ai-for-order-management-fulfillment-and-last-mile-delivery-by/article_5e2b212d-78d0-5bb8-ae35-7d1dcfd772a9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg",
+          "width": 437,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-ai-gpu-accelerators-will-be-in-short-supply-for-two-more-years-tsmc-warns.md",
+      "title": "AI GPU accelerators will be in short supply for two more years, TSMC warns",
+      "excerpt": "AI servers are expected to explode to an estimated market value of $150 billion by 2027, and Nvidia currently makes the most sought-after GPUs designed to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
+      "originalUrl": "https://www.techspot.com/news/100084-ai-gpu-accelerators-short-supply-two-more-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/09/2023-09-08-image-5.jpg",
+          "width": 2000,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-efficient-training-for-artificial-intelligence.md",
+      "title": "Efficient training for artificial intelligence",
+      "excerpt": "Their approach relies on physical processes instead of the digital artificial neural networks currently used. The results have been published in Physical Review X (\"Self-Learning Machines Based on Hamiltonian Echo Backpropagation\"). The amount of energy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=63602.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=63602.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-irs-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-cryptoand-to-harness-ai.md",
+      "title": "IRS Plans To Ramp Up Enforcement On Millionaires, Partnerships, And Crypto—And To Harness AI",
+      "excerpt": "The IRS has announced new enforcement initiatives targeting millionaires, partnerships, and digital assets—just as questions over funding the agency heat up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/",
+      "originalUrl": "https://www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/852407772/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kellyphillipserb/2023/09/08/irs-announces-plans-to-ramp-up-enforcement-on-millionaires-partnerships-and-crypto-users/amp/",
+      "publishedDateTime": "2023-09-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock.md",
+      "title": "AI Chip Wars: Nvidia May Be Winning, But Don’t Sleep on AMD Stock!",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the first half of 2023, Advanced Micro Devices (NASDAQ:AMD) stock, commonly",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-wars-nvidia-may-be-winning-but-dont-sleep-on-amd-stock-1032615709",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-product-management-steering-innovation-in-ai-and-web3-startups.md",
       "title": "Product Management: Steering Innovation In AI And Web3 Startups",
       "excerpt": "Product managers have become the unsung hero that shape and steer innovation strategies to guide startups through uncharted territories.",
@@ -774,417 +1194,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030.md",
-      "title": "Computer Vision in the Healthcare Market Size, Trends, and Opportunities 2023-2030",
-      "excerpt": "Computer Vision In Healthcare Market is expected to grow from USD 993.8 million in 2022 to USD 22266 million by 2030, at a CAGR of 47%. The increasing demand for computer vision systems in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34319184/computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34319184/computer-vision-in-the-healthcare-market-size-trends-and-opportunities-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34319184",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34319184",
-      "publishedDateTime": "2023-09-07T16:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d.md",
-      "title": "This Week In XR: The AI Copyright Mess, Nintendo Back In XR Game, Text to 3D Virtual Worlds By Hiber3D",
-      "excerpt": "This may be the venerated Montreal XR Studio's best work yet. Venice Film Festival ‘Seven Ravens’ Mixed Reality Masterpiece Premieres At Venice Film Festival. Award-winning im",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa348969c863d8e51a5631/0x0.jpg?format=jpg&crop=1683,946,x274,y213,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/07/this-week-in-xr-the-ai-copyright-mess-nintendo-back-in-xr-game-text-to-3d-virtual-worlds-by-hiber3d/amp/",
-      "publishedDateTime": "2023-09-07T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-politics-and-ai-google-to-require-artificial-intelligence-disclosures-on-ads.md",
-      "title": "Politics and AI: Google to require artificial intelligence disclosures on ads",
-      "excerpt": "Google is the first tech company to require an AI disclosure, Politico reported. The Federal Election Commission has yet to regulate if and when AI can be used in campaigns, but in August it agreed to seek public comment on whether to make updates to its policies to include AI advertisements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/",
-      "originalUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/7InCH-vu-cPef2OtufK0V-lZnNQ=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/74ROHO3S3JDAVCBSNLZYGZ5DME.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/politics-ai-google-require-artificial-intelligence-disclosures-ads/D33TEJ2I5NE4NNAWQMRQKJAMAA/?outputType=amp",
-      "publishedDateTime": "2023-09-07T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KIRO-TV",
-        "domain": "kiro7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-artificial-neural-networks-market-size-2023-booming-worldwide-by-2031.md",
-      "title": "Artificial Neural Networks Market Size 2023 Booming Worldwide by 2031",
-      "excerpt": "Global Artificial Neural Networks market has witnessed a growth from USD million to USD million from 2017 to 2022. With a CAGR of this market is estimated to reach USD million in 2029.Ask for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34346031/artificial-neural-networks-market-size-2023-booming-worldwide-by-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34346031/artificial-neural-networks-market-size-2023-booming-worldwide-by-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T16:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-ibm-unveils-generative-ai-foundation-models.md",
-      "title": "IBM unveils generative AI foundation models",
-      "excerpt": "IBM Granite series foundation models apply generative AI to natural language and coding tasks. Plus, Watsonx generative AI capabilities are coming to the Watsonx data lakehouse.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.html",
-      "originalUrl": "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/06/11/shutterstock_editorial_157995017-100945577-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3706449/ibm-unveils-generative-ai-foundation-models.amp.html",
-      "publishedDateTime": "2023-09-07T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-covid-19-accelerates-quantum-computing-adoption-driving-robust-growth-in-north-america-europe-and-asia-pacific.md",
-      "title": "COVID-19 Accelerates Quantum Computing Adoption, Driving Robust Growth in North America, Europe, and Asia-Pacific",
-      "excerpt": "The global quantum computing market is expected to experience substantial growth with a Compound Annual Growth Rate (CAGR) of 16.08% from 2022 to 2028, driven by various factors, including the rising demand for quantum computing services and systems, technological advancements, and applications in diverse industries.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/09/07/9877392.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/09/07/9877392.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-a-startups-ai-that-made-3d-models-from-2d-art-actually-used-human-workers.md",
-      "title": "A startup's AI that made 3D models from 2D art actually used human workers",
-      "excerpt": "A hot potato: Producing 3D artwork for video games or other projects can be grueling and tedious – a job ideal for AI automation. A young startup is attempting to fulfill that niche, but a recent report alleges that it exports the work to low-wage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html",
-      "originalUrl": "https://www.techspot.com/news/100076-startup-ai-made-3d-models-2d-art-actually.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2022/09/2022-09-13-image-20.jpg",
-          "width": 1919,
-          "height": 1885,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-underestimated-unprepared-are-we-ready-for-the-next-stage-of-ai.md",
-      "title": "Underestimated & Unprepared: Are We Ready For The Next Stage Of AI",
-      "excerpt": "Are we grossly underestimating AI's potential? In my mind, yes we are. The global community is largely unprepared for the magnitude of change AI might bring",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fa3bf75688348511f9e2c7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2023/09/07/underestimated--unprepared-are-we-ready-for-the-next-stage-of-ai/amp/",
-      "publishedDateTime": "2023-09-07T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-08-why-business-partnerships-are-vital-for-achieving-a-true-ai-renaissance.md",
-      "title": "Why business partnerships are vital for achieving a true AI renaissance",
-      "excerpt": "Explore the transformative power of generative AI and the role of collaboration in driving its adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9",
-      "originalUrl": "https://www.businessinsider.com/sc/how-business-partnerships-can-help-drive-generative-ais-adoption-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64f1fdbf5114270019af37db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

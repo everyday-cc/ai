@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-19-observing-camunda-environments-with-ibm-instana-business-monitoring.md",
+      "title": "Observing Camunda environments with IBM Instana Business Monitoring",
+      "excerpt": "Combining a process orchestration solution like Camunda with an observability solution like IBM Instana can break down silos and react faster.\nThe post Observing Camunda environments with IBM Instana Business Monitoring appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
+      "originalUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T06:02:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-19-buying-apm-was-a-good-decision-so-is-getting-rid-of-it.md",
+      "title": "Buying APM was a good decision (so is getting rid of it)",
+      "excerpt": "Today’s app environments demand an observability solution that provides real-time monitoring of containers, microservices and Kubernetes environments.\nThe post Buying APM was a good decision (so is getting rid of it) appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
+      "originalUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T05:58:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-data-science-vs-data-analytics-unpacking-the-differences.md",
       "title": "Data science vs data analytics: Unpacking the differences",
       "excerpt": "Though often used interchangeably, \"data science\" vs \"data analytics\" are two distinctly different concepts. Let's explore.\nThe post Data science vs data analytics: Unpacking the differences appeared first on IBM Blog.\n",
@@ -1231,99 +1315,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-what-is-the-vulnerability-management-process.md",
-      "title": "What is the vulnerability management process?",
-      "excerpt": "Unpack the steps that make up the vulnerability management lifecycle, and learn how to build an effective vulnerability management program for your organization.\nThe post What is the vulnerability management process? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-the-vulnerability-management-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/GettyImages-1489414966.jpg",
-          "width": 2400,
-          "height": 1266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-06-tennis-football-and-ibm-watsonx.md",
-      "title": "Tennis, football, and IBM watsonx",
-      "excerpt": "The process of introducing new features to the US Open digital experience has never been smoother than it was this year, thanks to watsonx.\nThe post Tennis, football, and IBM watsonx appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
-      "originalUrl": "https://www.ibm.com/blog/tennis-football-and-ibm-watsonx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T09:24:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

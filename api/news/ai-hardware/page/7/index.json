@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-25-ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable.md",
+      "title": "IBM’s Brain-Inspired Analog Chip Aims to Make AI More Sustainable",
+      "excerpt": "When pitted against conventional computers, the chip used less than a tenth of the energy normally required for some tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "originalUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/08/Analog-AI_testing-board.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/08/25/ibms-brain-inspired-analog-chip-aims-to-make-ai-more-sustainable/?amp=1",
+      "publishedDateTime": "2023-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-analysts-see-ai-boosting-marvell-but-warn-of-other-headwinds-for-the-chip-stock.md",
       "title": "Analysts see AI boosting Marvell, but warn of other headwinds for the chip stock",
       "excerpt": "But analysts are wondering if it can be enough to counteract challenges elsewhere. The semi stock retreated more than 4% in premarket trading despite slightly exceeding Wall Street expectations in its quarterly report delivered Thursday.",
@@ -1369,49 +1413,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-16-kneron-drives-automotive-ai-chip-market-with-new-kl730-release.md",
-      "title": "Kneron drives automotive AI chip market with new KL730 release",
-      "excerpt": "A forthcoming image-focused AI chip from Kneron looks to enable a host of improvements around edge compute, security and automotive applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html",
-      "originalUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/08/speedometer-100944749-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704615/kneron-drives-automotive-ai-chip-market-with-new-kl730-release.amp.html",
-      "publishedDateTime": "2023-08-15T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

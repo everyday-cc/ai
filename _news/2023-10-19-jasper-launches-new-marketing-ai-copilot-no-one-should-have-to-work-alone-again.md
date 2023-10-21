@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/jasper-launches-new-marketing-ai-copilo
 webUrl: "https://venturebeat.com/ai/jasper-launches-new-marketing-ai-copilot-no-one-should-have-to-work-alone-again/"
 type: article
 quality: 78
-heat: 79
+heat: 78
 published: true
 
 provider:

@@ -2,6 +2,456 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-08-18-servicenow-sees-generative-ai-monetization-opportunity.md",
+      "title": "ServiceNow Sees Generative AI Monetization Opportunity",
+      "excerpt": "ServiceNow’s generative AI capabilities—powered by the company’s enterprise-grade, domain-specific large language models (LLMs)—are being infused into all of the company’s workflow offerings. The AI advancements will help customers alleviate repetitive work, improve productivity and generally score a higher ROI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/",
+      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64de8d774a30c633290eda18/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/08/17/servicenow-sees-generative-ai-monetization-opportunity/amp/",
+      "publishedDateTime": "2023-08-17T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-the-information.md",
+      "title": "Microsoft plans AI service with Databricks that could hurt OpenAI- The Information",
+      "excerpt": "In July, Microsoft laid out an aggressive spending plan to meet demand for its AI services. The company has started integrating AI functionality across its products such as Azure, Microsoft 365 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-information-2023-08-17/",
+      "originalUrl": "https://www.reuters.com/technology/microsoft-plans-ai-service-with-databricks-that-could-hurt-openai-information-2023-08-17/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/s1YZsQ6zXX1tGjBZtobHKoxCZMQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7LLX7CPVPVIM5ECZ4XO3YKTNN4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-machine-learning-can-make-x-rays-more-valuable-to-doctors.md",
+      "title": "Machine Learning Can Make X-Rays More Valuable To Doctors",
+      "excerpt": "Polina Golland is a prominent professor at MIT in Electrical Engineering and CSAIL. Her research centers on pioneering algorithms for medical image analysis, uncovering anatomical patterns in diseases from expansive image collections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/",
+      "originalUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/i-forbesimg/media/video/2023/08/17/6333942109112_still.jpg?format=jpg&height=460&width=800&fit=bounds",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/video/6333942109112/machine-learning-can-make-xrays-more-valuable-to-doctors/amp/",
+      "publishedDateTime": "2023-08-17T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-driverless-rideshare-company-tests-cars-in-charlotte.md",
+      "title": "Driverless rideshare company tests cars in Charlotte",
+      "excerpt": "Cruise, an all-electric, driverless car company ... The sensors send that data to the artificial intelligence that runs the cars, allowing it to make “real-time predictions on what’s happening ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
+      "originalUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/fJgu43u2hruEwJutewQz0DqyqNU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/E6BUORQT6REBLLD37GP76BO7JE.jpeg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/local/driverless-vehicle-company-tests-cars-charlotte/N23TJDKCCBC5LFNN24SKDX64MI/?outputType=amp",
+      "publishedDateTime": "2023-08-17T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSOC-TV",
+        "domain": "wsoctv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-governments-including-washington-state-making-policy-for-use-of-generative-ai.md",
+      "title": "Governments, including Washington State, making policy for use of generative AI",
+      "excerpt": "() - Increasingly, government agencies are developing policies to guide employees in the use of generative artificial intelligence while considering the legal and ethical issues and potential cyber",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html",
+      "originalUrl": "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/6/74/6740079c-3d46-11ee-b172-5b3d41774e1a/64de937aac6ad.image.jpg?resize=1024%2C683",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html",
+      "cdnAmpWebUrl": "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/washington/article_c41ae200-3d43-11ee-8b0b-731bf920f90a.amp.html",
+      "publishedDateTime": "2023-08-17T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Center Square",
+        "domain": "thecentersquare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-building-llm-applications-with-vector-search-in-azure-cognitive-services.md",
+      "title": "Building LLM applications with vector search in Azure Cognitive Services",
+      "excerpt": "Tools like Semantic Kernel, TypeChat, and LangChain make it possible to build applications around generative AI technologies like Azure OpenAI. That’s because they allow you to put constraints around the underlying large language model (LLM), using it as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.html",
+      "originalUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/cw_hoyhoy_210120-100832442-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3704653/building-llm-applications-with-vector-search-in-azure-cognitive-services.amp.html",
+      "publishedDateTime": "2023-08-17T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-google-deepmind-testing-personal-life-coach-ai-tool.md",
+      "title": "Google DeepMind testing ‘personal life coach’ AI tool",
+      "excerpt": "DeepMind, the tech firm’s artificial intelligence arm, has announced it is testing a new tool that could soon become a “personal life coach”. The project will use generative AI to perform at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
+      "originalUrl": "https://www.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool?ref=futurepedia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4f5a645fc459c27cf1563fa0cb1cfd11d656d6b4/0_238_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=9435453c1931bf79d36121e3a30ec686",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2023/aug/17/google-deepmind-testing-personal-life-coach-ai-tool",
+      "publishedDateTime": "2023-08-17T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-the-30-young-leaders-who-are-forging-a-new-future-for-the-healthcare-industry-in-2023.md",
+      "title": "The 30 young leaders who are forging a new future for the healthcare industry in 2023",
+      "excerpt": "Christie also advises state and private organizations on increasing access to midwifery services and helped push for a Rhode ... dark glasses and headphones she's designing for people with mild cognitive impairment, Alzheimer's, and Parkinson's.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
+      "originalUrl": "https://www.businessinsider.com/30-leaders-under-40-changing-healthcare-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64dd439b4ef9f30019f8a662?width=1200&format=jpeg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-17T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-08-18-moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-intriguing-results.md",
+      "title": "Moemate’s AI avatar analyzes your whole screen, with spotty but intriguing results",
+      "excerpt": "Moemate is a new app that lets large language models including Anthropic's Claude and GPT-4 'read' what's on your PC's screen.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/",
+      "originalUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/maxresdefault-2-e1692142737398-transformed-1.webp?resize=1200,447",
+          "width": 1200,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/17/moemates-ai-avatar-analyzes-your-whole-screen-with-spotty-but-curious-results/amp/",
+      "publishedDateTime": "2023-08-17T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-18-phillies-fans-can-soon-enter-citizens-bank-park-using-facial-recognition-heres-how-it-works.md",
       "title": "Phillies fans can soon enter Citizens Bank Park using facial recognition. Here's how it works",
       "excerpt": "For the first time ever you will have the option to use your face as a ticket at Citizens Bank Park come Monday.",
@@ -792,430 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-an-open-source-and-python-based-platform-for-the-2d-simulation-of-robocup-soccer.md",
-      "title": "An open-source and Python-based platform for the 2D simulation of Robocup soccer",
-      "excerpt": "RoboCup is an international annual event designed to showcase advances in the fields of robotics and artificial intelligence (AI). At this event, different teams of humanoid robots play soccer against each other,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.html",
-      "originalUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/an-open-source-and-pyt.jpg",
-          "width": 1508,
-          "height": 924,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-08-open-source-python-based-platform-2d-simulation.amp",
-      "publishedDateTime": "2023-08-17T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments.md",
-      "title": "Central Bank Digital Currency (CBDC) and blockchain enable the future of payments",
-      "excerpt": "CBDC is a digital form of fiat designed to be a digital representation of the country’s physical currency.\nThe post Central Bank Digital Currency (CBDC) and blockchain enable the future of payments appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
-      "originalUrl": "https://www.ibm.com/blog/central-bank-digital-currency-cbdc-and-blockchain-enable-the-future-of-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-even-ai-hasnt-helped-microsofts-bing-chip-away-at-googles-search-dominance.md",
-      "title": "Even AI Hasn’t Helped Microsoft’s Bing Chip Away at Google’s Search Dominance",
-      "excerpt": "The new Bing with an AI chatbot is called “cute, but not a game changer.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
-      "originalUrl": "https://www.wsj.com/tech/ai/microsoft-bing-search-artificial-intelligence-google-competition-6e51ec04?mod=tech_feat1_ai_pos1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 218,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-generative-ai-for-content-creation-how-marketers-can-use-it.md",
-      "title": "Generative AI For Content Creation: How Marketers Can Use It",
-      "excerpt": "Generative AI is changing how marketers interact with their target demographic, creating new opportunities for creative campaigns and generating significant outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637e7f49c0cf9ed11c365146/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/08/17/generative-ai-for-content-creation-how-marketers-can-use-it/amp/",
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-the-power-of-ai-in-modeling-healthy-communications.md",
-      "title": "The Power Of AI In Modeling Healthy Communications",
-      "excerpt": "Artificial intelligence (AI) has emerged as a powerful tool in modeling healthy communications, which I define as interactions that promote mutual benefit and growth. Let's look at how, through AI, business leaders can enhance their teams' understanding of effective communication strategies and model them for specific applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef60896accb250006414b32/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/17/the-power-of-ai-in-modeling-healthy-communications/amp/",
-      "publishedDateTime": "2023-08-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-cape-town-welcomes-amazon-web-services-aws-skills-center.md",
-      "title": "Cape Town Welcomes Amazon Web Services (AWS) Skills Center",
-      "excerpt": "Amazon Web Services (AWS) has further extended its commitment to democratising access to cloud skills training with the inauguration of its first international AWS Skills Center in Cape Town, South Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/",
-      "originalUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2023/08/download-min-1.png",
-          "width": 2640,
-          "height": 1486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1",
-      "cdnAmpWebUrl": "https://ventureburn-com.cdn.ampproject.org/c/s/ventureburn.com/2023/08/cape-town-welcomes-amazon-web-services-aws-skills-center/?amp=1",
-      "publishedDateTime": "2023-08-17T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ventureburn",
-        "domain": "ventureburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-how-ai-marketing-makes-some-firms-dumber-others-far-smarter-6-critical-factors-for-competitive-advantage.md",
-      "title": "How AI Marketing Makes Some Firms Dumber & Others Far Smarter: 6 Critical Factors For Competitive Advantage",
-      "excerpt": "Explains how firms are experiementing and succeeding with GenAI algorithms, foundational data overlays, prompts, KPIs and talent profiles for the best business results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64ddd00702083dc4d53d5165/0x0.jpg?format=jpg&width=1200",
-          "width": 1140,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michellegreenwald/2023/08/17/how-ai-marketing-makes-some-firms-dumber--others-far-smarter-6-critical-factors-for-competitive-advantage/amp/",
-      "publishedDateTime": "2023-08-17T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-google-expanding-ai-capabilities-with-life-advice-tool-report.md",
-      "title": "Google expanding AI capabilities with life advice tool: Report",
-      "excerpt": "Google had previously showcased its first vision-language-action (VLA) model for robot control in July. This model displayed improved capabilities in terms of generalization and understanding beyond the specific robotic data it had been exposed to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2023/08/google-logo-1679051933-1692264319.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-testing-ai-powered-tool-to-give-users-life-advice-sources-2023-08-17-887241",
-      "publishedDateTime": "2023-08-17T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-17-house-democrats-launch-working-group-on-artificial-intelligence.md",
-      "title": "House Democrats launch 'working group' on artificial intelligence",
-      "excerpt": "House Democrats are launching a working group aimed at crafting artificial intelligence policy, the latest attempt by federal lawmakers to wrap their heads around legislating the rapidly-advancing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2023/06/USA-thinking-about-AI-regulation-in-the-wrong-way.gif",
-          "width": 602,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-democrats-launch-working-group-artificial-intelligence.amp",
-      "publishedDateTime": "2023-08-17T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

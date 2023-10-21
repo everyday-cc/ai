@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 486
+heat: 476
 published: true
 
 provider:
@@ -350,20 +350,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/M0xM.OEwHjN.du_sdhIgGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/0abe0903e71c91ee4122f4fb13829c49"
         width: 1199
         height: 800
-        isCached: true
-  - title: "Trade Ledger embeds working capital options within Microsoft Azure and Teams"
-    excerpt: "“Trade Ledger’s Bank solution integrates Trade Ledger’s data model and solutions with the power of Azure OpenAI Service, giving commercial banks the opportunity to embrace Generative AI in a powerful, compliant and secure manner for the benefit of th ..."
-    publishedDateTime: 2023-10-16T09:26:00Z
-    webUrl: "https://www.finextra.com/pressarticle/98381/trade-ledger-embeds-working-capital-options-within-microsoft-azure-and-teams"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 51
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
         isCached: true
   - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
     excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"

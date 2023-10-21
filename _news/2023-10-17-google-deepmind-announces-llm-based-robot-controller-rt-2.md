@@ -54,22 +54,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "co-founder of DeepMind AI"
-    excerpt: "A comprehensive report recently undertook an extensive analysis of 100 American executives to recognise and rank their intelligence, aiming to identify the brightest minds in the business world."
-    publishedDateTime: 2023-10-16T10:38:00Z
-    webUrl: "https://www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
-    ampWebUrl: "https://www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_10/story_70171/assets/17.jpeg?time=1697452527"
-        width: 732
-        height: 977
-        isCached: true
 
 secured: "F+AAvCkaZlJVnR/MiVllilQ78WN4+nZmyrPN/FgcupzdEoI4gT5nMBIfW+l5+b0xt1zVqHJcn05gFL1zOUjvwQTPNoEu0boe+QboCmF2TCpM302zOI/gDCrdwqrBiHQiDYe2/C+Xby1f2AzhnRlrtVYlTo6ypLpJe8aGUm1DEkSpK19W0deO75O3XOvsmuQ1vWbg23FL1yJkDz7CasrLDZLiSl95CZK9HJ6WMyjNwcA9bCVEndOs1B6+huhQSJOVmnEbHRhtfE93uqFxsGN7PYjpoWN3tp3wA0Ml9ezOi4aPgf7KDN2aWWKClMuJwNKyx7s6LTZ7S2V+GWPztv4c/377BfeqsWiIt6q+9sbA2AEAA8YUUwdLJMAIdSJhKAO8QI4wnjpeTfBOEKUa68aoKHH/jRflUf+GwnpM85WsdVARo+reAdEeZwZU83YAk9UmRwLAjI4xGrH8zjI0euZCTtq85mLm9xRAaEMb2fLAwOGIold2L8T0jefgmRRbuzst62nrlUTMBmhV80l5qhgUUQ==;30Gj0b/IgaZ25NyG2lYWVg=="
 ---

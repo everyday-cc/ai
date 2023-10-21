@@ -26,22 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI will change the role of developers forever, but leaders say that's good news"
-    excerpt: "Senior execs at two blue-chip organizations explain how they're embracing automation and why everyone in these businesses -- including IT pros -- are reaping the rewards."
-    publishedDateTime: 2023-10-17T14:15:00Z
-    webUrl: "https://www.zdnet.com/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/"
+  - title: "Harnessing AI To Take Competitor Analysis To The Next Level"
+    excerpt: "Recent advances in AI present transformative new capabilities for streamlining and enhancing competitor analysis."
+    publishedDateTime: 2023-10-19T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/806ca95bad0de39cad63b2ec7a70724e961266ae/2023/05/05/91cfbf27-c652-4474-908c-4a2483fa4f87/gettyimages-1437209125.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652ff4358de9dfa9761ca6a8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
+        height: 900
         isCached: true
+  - title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
+    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
+    publishedDateTime: 2023-10-20T22:01:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-wales-67171042?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-67171042.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-67171042.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 70
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
+    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
+    publishedDateTime: 2023-10-18T13:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "gTBx+h+i0QQrPWmqEDeIucUSto7Okxd481BCFUmW/Edka9vOwshY2Y7V1BPPahvJB28HH9D+/O5tjC5nxDkRpmkt+L2dcEVAK/mGesjQVQ66TdApOIPkoEjYJ3vb5WwT9m7loY0vTWz/brTqcNb7L20OCwcaz3+3BiJHTz1Ijl0QYM/PsGKRKgIMVVcdlnoReqUa1CBri2dQbZYry1tGZQBsUQiZlTqBusYioBMEXnjFjp86n3+GrZA3c9v1R2whbtcQJvyoa5w8UIF59k45K3x3A9GYyM7FOiD0HtLLqNw4yIj3lrhZuPDOiKKS5hGK8FXeSnwCL5Q19D8szSJGuUIzQZszvCTMlFR0AIyI7Uq4X9siEFkLxbGgxlKWr6kkuqfhvclYEw5geImOX4Ea1QwLVLwPuTye60SlsnNBWg6yCd86HjYWK9vf4JpkjkEdh/oaT4KIZzU3UC53l8kCQXTR+bnMo3sWcpkwD14owa/fJGkA16U8QjVaeAv8XGvD70YF7+oZ95csEzNsFLT9Og==;2VTdUMNsUM7ZIY8OzBByxw=="
 ---

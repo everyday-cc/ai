@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-excerpt: "SAN FRANCISCO — As hospitals and health care systems turn to artificial intelligence to help summarize doctors’ notes and analyze health records, a new study led by Stanford School of Medicine researchers cautions that popular chatbots are perpetuating ..."
-publishedDateTime: 2023-10-20T21:41:00Z
-originalUrl: "https://www.pressherald.com/2023/10/20/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/"
-webUrl: "https://www.pressherald.com/2023/10/20/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/"
+excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
+publishedDateTime: 2023-10-20T18:54:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+webUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Portland Press Herald
-  domain: pressherald.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-    width: 300
-    height: 300
+  - url: "https://s.abcnews.com/images/US/wirestory_6f2a330086acd0a1f8955ac995bdde4d_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -173,6 +175,6 @@ related:
       domain: thegrio.com
     quality: 7
 
-secured: "AiALbHzgXQehGJO+PrVSJWqOLwZgyY4nfYWVTCO7yDZhg3CKvgN26u45p0tq7wrPH5PhImsreBVPmJ5eTChI3GVBlliZS8VSrYYyQP7Kq0ZmTNxBi/lEDka3lXiOqePW/Sbn9559Z2Yd+pTgAaIafUAGTPZC7xSBH/b3zdixnfSYw6prZkOBqVmC4XVtYUB2NeFr4s9ZZGQTVPB5W6lxQpj4ZZoN0c8XOSUvTMqbjw1uMSdF2U4oe1CcZet9MnNJME9LY9hOMbruxxMaKFJ77ZWsEbWwCMlKlr7TNlISZaAALs6yYaLT7+5Dq9H9sMuaKLSvFVgZkyAqh4Y0cEtbT/EG+WZpKLJtJ/O6oMtM8dk=;EC0vfOoGBB5ctTrileSnVg=="
+secured: "MS8EfcbQGpOf0GsRfeV7neR9k1dylRiFSsQH73E+LpsS41kcaEA7hgyXVMC3QibeDznGeHGUUrh7Mk9LbQcRJvX7nBCor6+PTWzlqR9CEtVEZFWx6y+4PhDNFBh8+pYx4F3xdG1SfvuTTVLZQ/gjMf7+rJBocRHbaf+iA6jhzf6VCk3bb5KOVjQcNYkyeo6MeHLjhM39ViFFQ1GvcmeGdXWFFQrhYEe5NtDE5CVtN678O5hXiuArsOKuKWOYNW2C23hSNDXDydHwCpVVVQaPV/7ftrb5p/yVBRTxC2yqr/IfAlBFXxbR+wbUK1hDAqJpPluKahbhxJxhobmLjOIhg2ebpQ6u8eeExlaCiOhIy6A=;SsHpM7w+xfUD1o/SykhClA=="
 ---
 

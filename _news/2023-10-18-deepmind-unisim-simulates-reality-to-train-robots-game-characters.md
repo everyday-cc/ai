@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-tr
 webUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-train-robots-game-characters/"
 type: article
 quality: 84
-heat: 118
+heat: 104
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "co-founder of DeepMind AI"
-    excerpt: "A comprehensive report recently undertook an extensive analysis of 100 American executives to recognise and rank their intelligence, aiming to identify the brightest minds in the business world."
-    publishedDateTime: 2023-10-16T10:38:00Z
-    webUrl: "https://www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
-    ampWebUrl: "https://www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/visualstories/corporates/the-most-intelligent-ceo-is-not-elon-musk-know-more-about-demis-hassabis-co-founder-of-deepmind-ai-70171-16-10-2023"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 74
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_10/story_70171/assets/17.jpeg?time=1697452527"
-        width: 732
-        height: 977
         isCached: true
   - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
     excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."

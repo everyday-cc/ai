@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligenc
 webUrl: "https://www.fool.com/investing/2023/10/17/1-artificial-intelligence-ai-stock-to-buy-and-hold/"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Wall Street Thinks This Artificial Intelligence (AI) Stock Could Skyrocket 140% Over the Next 12 Months"
-    excerpt: "However, don't automatically jump to the conclusion that the joyride is completely over. Here's why Wall Street thinks one AI stock could skyrocket 140% over the next 12 months."
-    publishedDateTime: 2023-10-16T09:50:00Z
-    webUrl: "https://www.fool.com/investing/2023/10/16/wall-street-artificial-intelligence-ai-stock/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 64
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/750127/ai-icons-hand.jpg"
-        width: 2188
-        height: 1369
-        isCached: true
   - title: "1 \"Magnificent 7\" Artificial Intelligence (AI) Growth Stock to Buy Now Before It Soars 38%, According to Wall Street"
     excerpt: "The results for its fiscal 2024 second quarter (ended July 30) offered proof positive that the AI revolution had begun. The company generated record revenue of $13.5 billion, up 101% year over year, while its diluted earnings per share of $2.48 soared 854%."
     publishedDateTime: 2023-10-18T09:15:00Z

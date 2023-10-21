@@ -60,6 +60,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
+    publishedDateTime: 2023-10-20T18:54:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 45
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_6f2a330086acd0a1f8955ac995bdde4d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
     excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
     publishedDateTime: 2023-10-18T08:41:00Z
@@ -129,20 +145,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/7/87/787e434c-798b-58a5-9384-ed40c3aa583e/653243805240e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "SAN FRANCISCO — As hospitals and health care systems turn to artificial intelligence to help summarize doctors’ notes and analyze health records, a new study led by Stanford School of Medicine researchers cautions that popular chatbots are perpetuating ..."
-    publishedDateTime: 2023-10-20T21:41:00Z
-    webUrl: "https://www.pressherald.com/2023/10/20/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some-are-perpetuating-racism/"
-    type: article
-    provider:
-      name: Portland Press Herald
-      domain: pressherald.com
-    quality: 25
-    images:
-      - url: "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Even Google insiders are questioning Bard AI chatbot’s usefulness"
     excerpt: "Google has been criticized for providing low-quality information in a race to keep up with the competition, while brushing aside ethical concerns."

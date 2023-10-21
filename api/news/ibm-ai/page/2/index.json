@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-09-artificial-intelligence-and-a-new-era-of-human-resources.md",
+      "title": "Artificial intelligence and a new era of human resources",
+      "excerpt": "AI can help usher in a new era of HR management, where data analytics, ML and automation can work together to save people time and support better outcomes.\nThe post Artificial intelligence and a new era of human resources appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-and-a-new-era-of-human-resources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T06:16:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-the-synergy-between-uem-and-medical-device-risk-management.md",
       "title": "The synergy between UEM and medical device risk management",
       "excerpt": "Unified Endpoint Management (UEM) and medical device risk management have deep synergies. When a healthcare organization develops a risk management framework, cybersecurity is a must. \nThe post The synergy between UEM and medical device risk management appeared first on IBM Blog.\n",
@@ -50,6 +93,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-what-enterprise-software-vendors-are-doing-with-generative-ai.md",
+      "title": "What enterprise software vendors are doing with generative AI",
+      "excerpt": "SAP intends to build IBM’s Watson AI engine into much of its software portfolio, beginning with the SAP Start AP, where it’ll enable users to interact with SAP applications using natural language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html",
+      "originalUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/10/shutterstock_2102457385.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html/amp/",
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1243,90 +1329,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-observing-camunda-environments-with-ibm-instana-business-monitoring.md",
-      "title": "Observing Camunda environments with IBM Instana Business Monitoring",
-      "excerpt": "Combining a process orchestration solution like Camunda with an observability solution like IBM Instana can break down silos and react faster.\nThe post Observing Camunda environments with IBM Instana Business Monitoring appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
-      "originalUrl": "https://www.ibm.com/blog/observing-camunda-environments-with-ibm-instana-business-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T06:02:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-buying-apm-was-a-good-decision-so-is-getting-rid-of-it.md",
-      "title": "Buying APM was a good decision (so is getting rid of it)",
-      "excerpt": "Today’s app environments demand an observability solution that provides real-time monitoring of containers, microservices and Kubernetes environments.\nThe post Buying APM was a good decision (so is getting rid of it) appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
-      "originalUrl": "https://www.ibm.com/blog/buying-apm-was-a-good-decision-so-is-getting-rid-of-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T05:58:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

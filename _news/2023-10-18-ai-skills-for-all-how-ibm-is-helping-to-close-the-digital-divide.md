@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/ai-skills-for-all-how-ibm-is-helping-to-c
 webUrl: "https://www.ibm.com/blog/ai-skills-for-all-how-ibm-is-helping-to-close-the-digital-divide/"
 type: article
 quality: 99
-heat: 112
+heat: 109
 published: true
 
 provider:

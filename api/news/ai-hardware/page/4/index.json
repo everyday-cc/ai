@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-19-chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems.md",
+      "title": "Chan Zuckerberg Science To Build AI GPU Cluster To Model Cell Systems",
+      "excerpt": "\"AI is creating new opportunities in biomedicine ... especially academic research institutions. The CZI-funded GPU cluster will be one of the first to power openly available models of human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34725290/chan-zuckerberg-science-to-build-ai-gpu-cluster-to-model-cell-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34725290",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34725290",
+      "publishedDateTime": "2023-09-19T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-nvidias-next-generation-blackwell-gpus-for-hpc-and-ai-will-use-chiplet-design.md",
       "title": "NVIDIA's next-generation Blackwell GPUs for HPC and AI will use chiplet design",
       "excerpt": "NVIDIA's next generation of GPU hardware for high-performance computing will see the company adopt a chiplet design for the first time.",
@@ -1337,58 +1380,6 @@
         "name": "The Indian Express",
         "domain": "indianexpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-how-the-us-stumbled-into-using-chips-as-a-weapon-against-china.md",
-      "title": "How the U.S. Stumbled Into Using Chips as a Weapon Against China",
-      "excerpt": "Export restrictions on semiconductors and other cutting-edge tech have become an important foreign-policy tool, but the long-term consequences could be dangerous for America and the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/politics/policy/how-the-u-s-stumbled-into-using-chips-as-a-weapon-against-china-ec37e32",
-      "originalUrl": "https://www.wsj.com/politics/policy/how-the-u-s-stumbled-into-using-chips-as-a-weapon-against-china-ec37e32",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-848100/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-08T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

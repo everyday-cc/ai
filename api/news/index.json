@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2023-10-21-meet-the-millionaire-using-artificial-intelligence-to-develop-life-saving-drugs.md",
-      "title": "Meet the millionaire using Artificial Intelligence to develop life-saving drugs",
-      "excerpt": "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects.",
+      "path": "_news/2023-10-21-meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals.md",
+      "title": "Meet LLEMMA, the math-focused open source AI that outperforms rivals",
+      "excerpt": "According to the researchers, LLEMMA is the first open-source model that matches the performance of state-of-the-art closed-source models.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-67171042",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-67171042",
+      "webUrl": "https://venturebeat.com/ai/meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals/",
+      "originalUrl": "https://venturebeat.com/ai/meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_childrens_storybook_illustration_collage_full_body_shot_0e08725b-868b-4d01-84b1-ef4d604ef679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-wales-67171042.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp",
-      "publishedDateTime": "2023-10-20T15:01:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T15:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Math for AI"
       ]
     },
     {
@@ -672,7 +673,7 @@
       "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 431,
+      "heat": 401,
       "tags": null,
       "images": [
         {
@@ -770,7 +771,7 @@
       "originalUrl": "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
