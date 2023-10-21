@@ -52,20 +52,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 29
-  - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
-    excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
-    publishedDateTime: 2023-10-18T08:41:00Z
-    webUrl: "https://gulfbusiness.com/gitex-global-dubai-police-virtual-cop-patrol-cars/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 25
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Dubai-Police-unveils-virtual-cop-luxury-marine-patrol-car-Image-Dubai-Police.png"
-        width: 876
-        height: 554
-        isCached: true
 
 secured: "yCfiT3GXIM+yQ0nccr6gRDoueaqSWYxLjy8Uq1VJqayCPJG1frOFLuJ4+eL5dVamUh2IkU0C353MSI6PxmJz+CbdPOqrBtXpbt0hYPsLhVcYUdS1z/fXlCE9CD8S1I5jhngRberLZ1mGyjSuvVujNvxfGoE9GLmZhMClvsQOeqJntmOrXl/oUdIYkhPK+hn8hYziADNtc8YwlhjV2Y3FT1mcylPzyluWc1E8vmEFYcywyZB1WJ9PrC+rlh87RLVoXAi1c7sSD1a8lQQDth0CC62c7rG3EGTGtWw0QJ/nJrCRq4R0gx7zAeL5RDOl5HlATeauZJqRRPTdiMl3dkFmUCq04hqiziTvq0N23Saz3Dk=;pr5LaL9bS7oyBy51RzxOKQ=="
 ---

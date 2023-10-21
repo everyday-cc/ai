@@ -70,6 +70,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "lam3DTZY/16zz+sHGGZkSxXnrk5c1xSBNwHNW5WLFkJ87H0PMEdqb5MQc6Hu6p2pIGPbHrhSeMRY2pibaeDPwbioUC7zSXY6a8glRprDc2X1MgMTAQS+M9H7OoNGmzUtRTlWDbIbtL2t7hSit+71kRlJejkM/x+UkMQ1CiNQ3UFi227gd1XlSLyh+q1Lbwr7IQA1Ueyi+LfiMaStj/PyL17vgFzhVeJPlthbDEBmGW2DrclcJloT+22Sk8TOnjtMxsINI77+wM2oVGEPwglHGcE5Tko5e9ZsmnmB2ywa6z0m9gaju9PuCAzEbPQ1C5Ewv1R75s9cIy1msM4dxWhCEvZGYh3G6JRpge+kPzipuWA=;DljabF7fWICeQ3mj+Omkwg=="
 ---

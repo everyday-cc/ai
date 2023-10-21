@@ -211,20 +211,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "The Martec Secures $8M To Accelerate AI-powered Talent Marketing Tech Adoption"
-    excerpt: "The Martec, an AI content platform revolutionizing the talent marketing space, has today announced an $8m raise to accelerate its global expansion, led by AS1. Other participants in the round included AirTree Ventures."
-    publishedDateTime: 2023-10-17T01:54:00Z
-    webUrl: "https://www.hrdive.com/press-release/20231015-the-martec-secures-8m-to-accelerate-ai-powered-talent-marketing-tech-adopt/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 50
-    images:
-      - url: "http://res.cloudinary.com/dmgi9movl/image/upload/v1697423004/press_release/assets/header_images/The_Martec_Header_dlsuzh.jpg"
-        width: 1500
-        height: 700
-        isCached: true
   - title: "AI And The Cognitive Revolution"
     excerpt: "Artificial intelligence may be the first innovation to disrupt our way of life on the same scale as the Industrial Revolution."
     publishedDateTime: 2023-10-20T12:30:00Z
@@ -334,6 +320,15 @@ related:
         width: 517
         height: 271
         isCached: true
+  - title: "Key considerations for regulating artificial intelligence in healthcare"
+    excerpt: "The World Health Organisation (WHO) has released a new publication listing key regulatory considerations for artificial intelligence (AI) in health."
+    publishedDateTime: 2023-10-21T18:50:00Z
+    webUrl: "https://www.thedailystar.net/star-health/news/key-considerations-regulating-artificial-intelligence-healthcare-3449616"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 34
   - title: "Civilization depends on more AI, Marc Andreessen says"
     excerpt: "The case for accelerating rather than regulating tech does not mention \"unintended consequences\" — or climate change."
     publishedDateTime: 2023-10-17T09:30:00Z
@@ -352,15 +347,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 17
-  - title: "Profet AI Achieves Significant Milestone in Southeast Asian Expansion with Macrovention and AMPOS Partnerships, Sparking an AI Application Revolution"
-    excerpt: "Jonathan Yu, Global General Sales Manager of Profet AI, expressed, \"Profet AI has been committed to providing innovative AI solutions for global manufacturing customers, aimed at enhancing production efficiency and reducing costs."
-    publishedDateTime: 2023-10-17T02:42:00Z
-    webUrl: "https://www.newswit.com/en/ifixepk8qnlv5zjg3yhsclyoz5x9fl7y"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 0
 
 secured: "ylk8V7KFoi0Nj69sBafCQTOu1mYzgcKnv3Ns54zeymPM9oUYe6jw7V7leHDWQ4CL26fE/hE1sYsUM7q+y85Qf1uJdnSBj4bO5Hjl4v0QhG6f0mNvUtz3dwhiaUT1FrBtQg9j6tN6RD9XJOyxGxzt3QzRDodZ9N06CsGj0oz9LCL5pT6P3C7uH+p+SDs203OAAs92AW9oqVkDw0m65JCZGf5v98ZI8NNZDyTsCYH0JOPM8O4TKaJ9Ll6HNmxRG/It4tC1Du/AHr3BKkZLq4gVxmuFHXEOqG8pk7I6IRWdWmTPSXhYCcp+RjNzhVibhHAwlUtbaxKA2se1JlYIKt+cHQPn8Yw6InezM09qizAbutVH47gM4Z3b7G2rNttp5yy8LQvIXEH8CIiDkOA1JSuAzouCTgSuHTQ5Mvv26mzys6kxVzYXYdnR5nz/Ri8MZmxeAMrtd5lLr3UI4BfbFiT+fFcW++XQKx30khQXF5eaSi+TPMbFpPGuf8mZEIZTMbFDVRwJrWYEl708Dm/PApRWXg==;BkzA5PEdWdf53/pWaMrCgg=="
 ---

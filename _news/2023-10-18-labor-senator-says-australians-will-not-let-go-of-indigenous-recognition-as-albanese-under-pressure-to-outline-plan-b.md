@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/18/labor-senator
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/18/labor-senator-says-australians-will-not-let-go-of-indigenous-recognition-as-albanese-under-pressure-to-outline-plan-b"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Australia politics live: Albanese accuses Ley of lack of respect for Indigenous voice campaigners in fiery question time"
-    excerpt: "Follow live"
-    publishedDateTime: 2023-10-17T02:55:00Z
-    webUrl: "https://www.theguardian.com/australia-news/live/2023/oct/17/australia-politics-live-question-time-israel-palestine-hamas-anthony-albanese-peter-dutton-indigenous-treaty-truth-cost-of-living?page=with:block-652e018e8f080e3e7b6d935f"
-    ampWebUrl: "https://amp.theguardian.com/australia-news/live/2023/oct/17/australia-politics-live-question-time-israel-palestine-hamas-anthony-albanese-peter-dutton-indigenous-treaty-truth-cost-of-living"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/live/2023/oct/17/australia-politics-live-question-time-israel-palestine-hamas-anthony-albanese-peter-dutton-indigenous-treaty-truth-cost-of-living"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
-    images:
-      - url: "https://i.guim.co.uk/img/media/887cffe8461260b1df3d306e15f36ea6dc4f24dc/0_2_5472_3283/master/5472.jpg?width=620&quality=85&auto=format&fit=max&s=747d8a9ac15375538f9f8921e8f10a9e"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "OuxXzMSiOSnGAFXRwPpYpYIW0ZQaNAVp3vRx94h8DhPdxN3F+E5+8bVVqBjtkCQBn4ikA9wC6DqPsZNyRFzke8W7BEJXr3bENXX8J5XVQRaWjChi+pF+AbeHovSy3lxxpeiBchm0/Hlx9RqLJ+zYUHfuRT3CWOa4pGy9Ed8E9j5dW9jl8vrPUa2hF1qREBCQr6p8uCEmUXtjEANPp2Ngp0a6uy+eyDzfXEY0KBYEXcQzf+ODw3tYm2jdEmoa4QRnXPfdfzD+0z5QsrC3kWtYu8MY4uOnAxYdyONO8i4T3BKmnIYWRVW61i0jfNXl7pgveSxOkeezs7dlTLk4Z37bLrr4RciXEYZRVtiYB/p9/AY=;5narNO73QUlTyeYodIg/8w=="
 ---

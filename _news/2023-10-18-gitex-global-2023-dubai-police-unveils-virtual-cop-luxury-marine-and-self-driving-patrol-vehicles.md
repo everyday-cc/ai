@@ -25,47 +25,84 @@ images:
     isCached: true
 
 related:
-  - title: "Look: Farm robots plant tree saplings at Gitex Global Dubai"
-    excerpt: "The Farm Bot displayed by TDRA at Gitex has two robotic arms: one selects the tree sapling and the other holds the pot where it is planted. There are cameras that monitor precision planting of the sapling. The potted tree sapling is then distributed to visitors at the TDRA stand."
-    publishedDateTime: 2023-10-18T11:41:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai"
-    ampWebUrl: "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1"
+  - title: "Coming soon: AI-powered driverless police patrol cars in Dubai"
+    excerpt: "Dubai Police has unveiled a self-driving security patrol car that is designed for residential areas. The car is equipped with advanced cameras, artifi"
+    publishedDateTime: 2023-10-17T07:49:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/articleshow/104490987.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 74
     images:
-      - url: "https://image.khaleejtimes.com?uuid=48a07cc6-5d6b-5747-bc4c-435fdb598c42&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.71656&width=1200&height=675&x=1.0E-5&y=0.08439.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/thumb/msid-104490987,width-1280,height-720,resizemode-4/104490987.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Dubai: How Gitex staff proves robots still can't beat humans in customer service"
-    excerpt: "Ask me’ and ‘How can I help?’. They carry poles and give directions. They distribute flyers, lanyards, and help prin.."
-    publishedDateTime: 2023-10-17T08:46:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service"
-    ampWebUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
+  - title: "''Can Detect Criminal Behaviour'': Dubai Police Unveils Driverless, AI-Powered Patrol Cars"
+    excerpt: "In a move to revolutionise security and enhance safety in residential areas, Dubai Police recently revealed plans to deploy fully electric, self-driving patrol cars equipped with Artificial intelligence. A prototype of the high-tech patrol car was unveiled ..."
+    publishedDateTime: 2023-10-18T08:34:00Z
+    webUrl: "https://www.ndtv.com/world-news/can-detect-criminal-behaviour-dubai-police-unveils-driverless-ai-powered-patrol-cars-4490339"
+    ampWebUrl: "https://www.ndtv.com/world-news/can-detect-criminal-behaviour-dubai-police-unveils-driverless-ai-powered-patrol-cars-4490339/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/can-detect-criminal-behaviour-dubai-police-unveils-driverless-ai-powered-patrol-cars-4490339/amp/1"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 69
+      name: NDTV
+      domain: ndtv.com
+    quality: 64
     images:
-      - url: "https://image.khaleejtimes.com?uuid=7369784b-8957-56ea-9085-f4375311d565&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.97868&x=0&y=0&width=1200&height=675.jpg"
+      - url: "https://c.ndtvimg.com/2023-10/6nbdpl2o_dubai-police-unveils-driverless-aipowered-police-patrol-cars_625x300_17_October_23.jpg"
         width: 1200
-        height: 675
+        height: 738
         isCached: true
-  - title: "Dubai: How Gitex Staff Proves Robots Still Can't Beat Humans In Customer Service"
-    excerpt: "At an international event where robots, technology, and AI (artificial intelligence) are the highlight – the human touch reigns supreme. It's still the human staff and volunteers who understand the needs of the thousands of visitors and can instantly connect with them, be it by providing directions or answering any question in real time."
-    publishedDateTime: 2023-10-17T18:52:00Z
-    webUrl: "https://menafn.com/1107259790/Dubai-How-Gitex-Staff-Proves-Robots-Still-Cant-Beat-Humans-In-Customer-Service"
+  - title: "Dubai startup launches AI-driven SaaS solution"
+    excerpt: "Dubai, the UAE — Oasis Defender, a UAE-based startup, is advancing multi-cloud security with its AI-driven SaaS solution for cloud network security, designed for unified visualization and configuration across multiple clouds."
+    publishedDateTime: 2023-10-19T07:19:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor?amp=1"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
+      name: Zawya
+      domain: zawya.com
+    quality: 57
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjIwMDc4YzAtOTNhMS00/0/697538579.jpeg?f=3%3A2"
+        width: 724
+        height: 482
+        isCached: true
+  - title: "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026"
+    excerpt: "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026."
+    publishedDateTime: 2023-10-19T04:48:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2"
+    ampWebUrl: "https://dunyanews.tv/amp/english/763900.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 57
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg"
+        width: 752
+        height: 423
+        isCached: true
+  - title: "Dubai Police unveil self-driving vehicle to enhance security"
+    excerpt: "The Dubai Police unveiled its self-driving security patrol aimed at enhancing safety in residential areas at the Gitex Global 2023 in Dubai. Lieutenant Rashid Bin Haidar from the Dubai Police’s General Department of Administrative Affairs introduced the eco-friendly, fully electric patrol vehicle to the exhibition visitors."
+    publishedDateTime: 2023-10-17T07:04:00Z
+    webUrl: "https://www.gulftoday.ae/news/2023/10/17/dubai-police-unveil-self-driving-vehicle-to-enhance-security"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 56
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/10/17/self-driving.ashx?h=450&w=750&hash=9DA6A5243767EAD054A3133A38616D3E"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "vfofcWFOw1PFPQ4BwpbySVi/3jiDmGT6cbDMBP8g1TMGse4QzbbDYngDHd81Xx6zTarDtKBOkDEj1+m+9sCZUNvlc3lSyLdo3RcqZXzvu8CqH1sUcnQ7iDg7Jv3o8tsrP6a7Gq/pSJxo3EvMqNFA8pYWG185MwOO4lpBHnezjpK3xWkdTDFTfjX+Fjsuffrz5t2m/jfZzdJN6ks6B8JC8A1Nt7geS+XPzuQcJq+YD6bOtHeYIG3GKNexNWxABcEebVrmTRzD2xCNsuNmq23CPolVm8mAigkOfXOZTgBDnrCwHdUCI8vo0NH4ZHG4rfz9Gid4SY84fLbd3LUfnfT+Qd9RtiO5hETU+jYMcMu27kk=;o48K9K8ZeILpxhh2eBnchg=="
 ---

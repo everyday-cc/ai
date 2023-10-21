@@ -71,6 +71,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "PJ/bNpB3m2990Q6BncKF4I3YEHOVZO0AlrNClGn8ayYwH/X57bbSNpEFo55t901Tv8nvO00O1FD8SvTkaHSw1kvZ9ajRFVSZH0YwJxt6ydUZALQMmRu/5g3YabLJ75dmmyCdoyl45UwYShwxZ3PxCHZd12fR0Fj+4GYpM4lbe70LqJ+zpC8vv5tHVPQWmMt3hZyKlAmbD7OwJmtyZ3SNipRuvMv7fJIBggYxZTBgzNY9kMSV71lnJb+JVUWqXpiNmYhUsRPe+9V39X1muIvQLiCFEeaKZn9DNemLCtjiMschqRaE5GWSKWu60aXUyaIKgfAC8A2WQSTHP9SDqCOuLc8vIdpYto7jUOGE08U8gvKZUkwVjnJ1miZgCq7Xrmro5RW/s19ZPtCr4VhUyWyBfxb4nij3GrXhdWz9NXwOqF/zcjC7i9agdEETzy1RXACbVW41f5puqdKlA3V7AQOJZx75skYdmVTxUvDc07tetKVjLrYQWGUhhw1XJQVbPwsC7AqDemwKq2RSIMI5bDAzpA==;c1hqPSjuoI++Uxv4AqQpcA=="
 ---

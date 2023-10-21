@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China's Baidu Unveils Latest Version of Its Ernie AI Model"
-    excerpt: "BEIJING (Reuters) - Baidu on Tuesday unveiled the newest version of its generative artificial intelligence (AI) model, Ernie 4.0. Ernie 4.0's capabilities are on par with that of ChatGPT maker OpenAI's GPT-4 model, Baidu's CEO Robin Li said at an event in Beijing."
-    publishedDateTime: 2023-10-17T02:27:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/chinas-baidu-unveils-latest-version-of-its-ernie-ai-model"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "Baidu says its AI is in the same league as GPT-4"
     excerpt: "Baidu ( BIDU) has been a frontrunner in China in the race to capitalize on the excitement around generative AI, the technology that underpins systems such as ChatGPT or its successor, GPT-4. The Beijing-based company unveiled ERNIE Bot in March, before launching it publicly in August."
     publishedDateTime: 2023-10-17T06:22:00Z

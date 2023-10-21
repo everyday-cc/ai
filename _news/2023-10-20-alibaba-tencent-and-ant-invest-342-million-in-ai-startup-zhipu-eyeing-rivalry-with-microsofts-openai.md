@@ -133,20 +133,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft’s Healthcare AI Efforts Holds Huge Promise for Patients"
-    excerpt: "Microsoft’s ambient AI is great for physicians in that it automates the creation of the clinical note. But it’s also great for patients used to doctors turning away from them to type into the health system’s electronic health record to record the doctor-patient encounter. You have your doctor’s full attention and a screen is not in the way."
-    publishedDateTime: 2023-10-17T01:33:00Z
-    webUrl: "https://medcitynews.com/2023/10/microsofts-healthcare-ai-efforts-holds-huge-promise-for-patients/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 71
-    images:
-      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1185128095.jpg"
-        width: 788
-        height: 443
-        isCached: true
   - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
     excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
     publishedDateTime: 2023-10-19T18:54:00Z
@@ -371,15 +357,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 31
-  - title: "AI is strengthening the future of accessibility. – Microsoft News … – Microsoft"
-    excerpt: "By Chris Barry, Microsoft Canada PresidentMore than one billion people worldwide live with a disability – this includes over 6.2 million"
-    publishedDateTime: 2023-10-17T03:20:00Z
-    webUrl: "https://www.inferse.com/758516/ai-is-strengthening-the-future-of-accessibility-microsoft-news-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
   - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
     excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
     publishedDateTime: 2023-10-17T11:58:00Z

@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.livemint.com/lm-img/img/2023/10/16/1600x900/AI-keo--621x414LiveMint_1697471666627_1697471666795.jpg"

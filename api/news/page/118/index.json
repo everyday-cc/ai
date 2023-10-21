@@ -2,6 +2,48 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2023-07-28-how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur.md",
+      "title": "How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur",
+      "excerpt": "As an independent software vendor (ISV), we at Primeur embed the Open Liberty Java runtime in our flagship data integration platform, DATA ONE.\nThe post How Open Liberty and IBM Semeru Runtime proved to be the perfect pillars for Primeur appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur/",
+      "originalUrl": "https://www.ibm.com/blog/how-open-liberty-and-ibm-semeru-runtime-proved-to-be-the-perfect-pillars-for-primeur/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-28T06:07:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-28-the-download-how-ai-could-change-politics-and-lifting-the-lid-on-facebook.md",
       "title": "The Download: how AI could change politics, and lifting the lid on Facebook",
       "excerpt": "This is today's edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
@@ -1137,49 +1179,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-28-researchers-successfully-train-a-machine-learning-model-in-outer-space-for-the-first-time.md",
-      "title": "Researchers successfully train a machine learning model in outer space for the first time",
-      "excerpt": "Scientists have trained a machine learning model in outer space, on board a satellite. This achievement could revolutionize the capabilities of remote-sensing satellites by enabling real-time monitoring and decision making for a range of applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/07/230728170641.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/07/230728170641.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-27T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

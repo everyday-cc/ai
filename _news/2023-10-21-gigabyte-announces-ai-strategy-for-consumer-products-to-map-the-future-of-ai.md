@@ -83,20 +83,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "How Generative AI Will Revolutionize The Future of Your Brand"
-    excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
-    publishedDateTime: 2023-10-17T04:51:00Z
-    webUrl: "https://www.entrepreneur.com/starting-a-business/how-generative-ai-will-revolutionize-the-future-of-your/444576"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1697139869-generative-ai-brand-g-1679495811.jpg?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS"
     excerpt: "In a reply, X user Ivan Vasilev wrote, \"Funny how programming of the future requires yelling at AI in caps.\" In another response, Dr. Eli David wrote, \"At first I laughed reading this. But then I realized this is the future: machines talking to each other,"
     publishedDateTime: 2023-10-20T19:16:00Z
@@ -134,6 +120,15 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
+    excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354353&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 16
 
 secured: "SQK0FzUXY+ciu97Cn3pnjWxnaG/eSV1YFA/CT3TH9AXbxop6m+T4n3VDv0vbt4oUmNi7C1L6y4TCOemp1lkubyUABpFGxyt5uw1vEEuuTO8ix2nMLoK1aMntb5ETHDrOpQyhxFfjgv1i4ZUd3YGtLpxmxxYL0dDnf6sBShjTGg+zyjHJkHIosfR7VzMWXuIAEuG+mEp76hgOT5fu7PX2pp2/2+y55EIw9AvgsXAxcnyoKkNmf4/uLoK1js4icGJ1MZW8St6uaVBq5W3vdzmgM59GVOe47c0/FQYiisiXtPA56Ve/2qqgfJB15gBvcW3F+BtMmrAMPcoaR/OQiUmxNO8LfL7BhYM3eVmmEOMSX6yQdzfaCxyQmqsI0dKhJ5aPKsv/noaFeAkUemRB9tOZ7iKgZ0zZBA5WefPewuyZ6+XUzB7pqGDyZm67lIGOnYudMU/VdUdPCyKU2Mpw7GVTZMB6N8/mw6136TEspkV96wLgZLD0x3ERZtw5Nlj5QB/JDU8sHUhSd/qmnNP+/ynsTw==;REoptGbXNuHX/NQXJq19yA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethi
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-needs-a-strong-code-of-ethics-to-keep-its-dark-side-from-overtaking-us-3dcf370d"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Opinion: Let’s build an ethical AI culture for all"
-    excerpt: "Building inclusive, fair artificial intelligence systems requires intentional work at all phases of development and use."
-    publishedDateTime: 2023-10-17T04:26:00Z
-    webUrl: "https://www.ajc.com/opinion/opinion-lets-build-an-ethical-ai-culture-for-all/2WSUJSEJUBBNLHE7CPRHG3A4B4/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 54
-    images:
-      - url: "https://www.ajc.com/resizer/IlT2nFs-FjFwMrls5_8HOY3Vh_M=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/ORKY32J2M3N66YZY6O5OYGISYA.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ogx49kBM4taP0YI+PP9dy10ZAur6O++e6CebT170SNhn/OzFimeqlzk0sDpaR4KZRVVW7/Gn4bNkR4wt4y8ofkpSkxDVU6w41IiyPFzd03+JMoktiKVNq7y8UPBBP0xrrlpK4Sw5UV5zBXrCj/OveVO7k3agP9CoZhOJTCU5VEPaJyu1sH1zGWimCatrvs6IGj5GxTZX2RfrtLUcynMYznzORLk9SkwMzhzB02+rYRIu8bOuJ+C4bvb906FnJwYKshNERoeeVbxg33VuKC4OmRWCEUXvWJJU16OnCoMawfmEY8ZQm4XnTYSNylj5GEyX1BI3L1HOo6+mUWhL28qKIO9mmNGf/Nc+JFt2+oaZGQg=;2WntFMpbRxSlxQruI9xFqQ=="
 ---

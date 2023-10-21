@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
-    publishedDateTime: 2023-10-20T18:54:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 45
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_6f2a330086acd0a1f8955ac995bdde4d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Artificial intelligence has impact and revolutionises social development"
     excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
     publishedDateTime: 2023-10-20T02:31:00Z
@@ -133,6 +117,15 @@ related:
       name: The Grio
       domain: thegrio.com
     quality: 7
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records."
+    publishedDateTime: 2023-10-21T14:54:00Z
+    webUrl: "https://www.pressdemocrat.com/article/business/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 5
 
 secured: "guAUsmI5aphLcrlWUs0P0zx3JMEP4IJi2XhB55twLYpPamzduBMNeOuIfC1IrnMM8rwdfW6TPTqXvz28XoBnzJ6lxD3CO5Bo2KnPDBCghiJY2lr8MlG2OTfZ2WboHyJmrBwaTLHlpXoQltnDDQBy6s3GtEEWQ4BAVcIZOX3z0vP8j6NjYDHqKB79RtSv/S66Rd1hW969z6hZPMDLHTrOYno9laufS7BZ6bTEiYSjwvUPel8uAGw7FSbJe5xUSG1SFT/JCQfne7XipNEVUI+7ZnxrX19giZgT1+wrRsaFau6AGOryfbZ2WgwlsLV7tmMqOuyiLnFE3Cxkd1pt5fHLNERye4ztDP9ei1qZTUwpwiw=;3bGn4cTNjZjdN2IENKHuSw=="
 ---

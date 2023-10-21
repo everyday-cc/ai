@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai Police to deploy driverless patrol cars with AI smarts"
-    excerpt: "Dubai Police is planning to deploy fully electric, driverless patrol cars with AI smarts capable of spotting suspicious behavior."
-    publishedDateTime: 2023-10-17T01:45:00Z
-    webUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/"
-    ampWebUrl: "https://www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 104
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2023/10/dubai-police-robocop-car.jpeg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Coming soon: AI-powered driverless police patrol cars in Dubai"
     excerpt: "Dubai Police has unveiled a self-driving security patrol car that is designed for residential areas. The car is equipped with advanced cameras, artifi"
     publishedDateTime: 2023-10-17T07:49:00Z
@@ -103,6 +87,20 @@ related:
       - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/10/17/self-driving.ashx?h=450&w=750&hash=9DA6A5243767EAD054A3133A38616D3E"
         width: 750
         height: 450
+        isCached: true
+  - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
+    excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
+    publishedDateTime: 2023-10-18T08:41:00Z
+    webUrl: "https://gulfbusiness.com/gitex-global-dubai-police-virtual-cop-patrol-cars/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 25
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Dubai-Police-unveils-virtual-cop-luxury-marine-patrol-car-Image-Dubai-Police.png"
+        width: 876
+        height: 554
         isCached: true
 
 secured: "Ozy+8JbjECt23B8Mwwgyo2V86qAyCw9w5i7nSRmqoW66akiN/KSsw7Ej4DRJ/bwI/Ai03bDxa24dxloiV369ImtSk+xkL8OMPRKTtfQalOTPotWaQlT+8Qvo8q+3cuE0EpdBbqG3TZppWYw1AEcgwDyrZIQUF2cyff4RHYgN2eWJpFrCSbGP2QXGudRv2krGqJWkT9qzY20hLWzeMnE8c1V9GTBOkKWGywYYpTqWTY8txjB4z5jgYP7ryttuISR8Xb0Ae6lR7QRw/jqxHoZerISz4EYtQyq+UE2qB9q1w7zSFzCX3nvT13CFKHNd7QRWzQCf6NlAj3uYZE3/O1RC+6zrqBGtKs1zezsiiwbahEAt/R8nA99va7mc2Rx56iiezIMUHYvIwtJ3BL62k+hswABjvR6mc2uSReGrFQZogfuQMuq8algD8rmJE4ilRYQoelR0arK0GglM+C16MKJacK7WQSnjoz1kBSGfctHlHnGukZCGf/ObMQ8GZ3jLF5Uy9kXS++MgUwV9r+XOWgCeIw==;syPAjTbs3yhWkJMWuARq/g=="

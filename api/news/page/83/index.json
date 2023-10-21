@@ -2,6 +2,49 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-08-23-dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires.md",
+      "title": "Don’t Sleep on These 3 AI Chip Stocks That Will Mint Millionaires",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI stocks and chip companies have been the talk of Wall Street in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-ai-chip-stocks-that-will-mint-millionaires-1032574289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-22T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-microsoft-to-sell-off-activision-cloud-gaming-rights-to-ubisoft-in-bid-for-uk-approval.md",
       "title": "Microsoft to sell off Activision cloud gaming rights to Ubisoft in bid for UK approval",
       "excerpt": "Microsoft won’t be able to exclusively control the licensing terms of Activision Blizzard games on rival services, either. Instead, Ubisoft will control the streaming rights to Activision ...",
@@ -1109,58 +1152,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-microsoft-gives-ground-on-streaming-in-bid-to-remove-uk-block-on-activision-deal.md",
-      "title": "Microsoft gives ground on streaming in bid to remove UK block on Activision deal",
-      "excerpt": "“This will allow gamers to access Activision’s games in different ways, including through cloud-based multigame subscription services,” Cardell said. Microsoft and Activision agreed last ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/08/22/tech/microsoft-activision-new-proposal-uk-regulator/index.html",
-      "originalUrl": "https://www.cnn.com/2023/08/22/tech/microsoft-activision-new-proposal-uk-regulator/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/230822092013-microsoft-activision-new-proposal.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/08/22/tech/microsoft-activision-new-proposal-uk-regulator/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/08/22/tech/microsoft-activision-new-proposal-uk-regulator/index.html",
-      "publishedDateTime": "2023-08-22T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

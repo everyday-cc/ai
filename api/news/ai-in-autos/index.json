@@ -254,6 +254,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-17-coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai.md",
+      "title": "Coming soon: AI-powered driverless police patrol cars in Dubai",
+      "excerpt": "Dubai Police has unveiled a self-driving security patrol car that is designed for residential areas. The car is equipped with advanced cameras, artifi",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/articleshow/104490987.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/articleshow/104490987.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-104490987,width-1280,height-720,resizemode-4/104490987.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms",
+      "publishedDateTime": "2023-10-17T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-17-dubai-police-to-deploy-driverless-patrol-cars-with-ai-smarts.md",
       "title": "Dubai Police to deploy driverless patrol cars with AI smarts",
       "excerpt": "Dubai Police is planning to deploy fully electric, driverless patrol cars with AI smarts capable of spotting suspicious behavior.",
@@ -505,6 +548,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-the-latest-trends-improving-the-automotive-industry.md",
+      "title": "The Latest Trends Improving the Automotive Industry",
+      "excerpt": "Here are the latest trends improving the automotive industry. 1. AI, 2. Electric Vehicle Adoption, 3. Vehicle Purchases Shift Online, 4. Autonomous Driving",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/",
+      "originalUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2023/10/The-Latest-Trends-Improving-the-Automotive-Industry-2.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/the-latest-trends-improving-the-automotive-industry/amp/",
+      "publishedDateTime": "2023-10-12T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1283,83 +1369,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-5-ways-ai-could-influence-nursing-in-the-coming-years.md",
-      "title": "5 ways AI could influence nursing in the coming years",
-      "excerpt": "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/nation-world/world/article280205024.html",
-      "originalUrl": "https://www.miamiherald.com/news/nation-world/world/article280205024.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
-      "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
-      "excerpt": "According to the Texas Department of Transportation, multiple companies are testing and operating driverless vehicles “as passenger, freight and personal delivery devices” all over the state. The list includes Kodiak, Aurora, Waabi, Torc, Plus.AI, Gatik, Cruise, Volkswagen, Waymo, Starship, Kiwibot, Coco, Refraction.AI, Nuro, and Clevon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kvue.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f",
-      "originalUrl": "https://www.kvue.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kvue.com/assets/KVUE/images/f8780d49-b3b5-44ae-a983-32e51110b0a4/f8780d49-b3b5-44ae-a983-32e51110b0a4_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kvue.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f",
-      "cdnAmpWebUrl": "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f",
-      "publishedDateTime": "2023-10-05T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KVUE",
-        "domain": "kvue.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

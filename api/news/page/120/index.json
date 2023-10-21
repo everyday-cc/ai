@@ -2,6 +2,57 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2023-07-27-alarmed-by-ais-potential-us-senate-to-summon-experts.md",
+      "title": "Alarmed by AI's potential, U.S. Senate to summon experts",
+      "excerpt": "U.S. senators, alarmed by the malevolent potential of artificial intelligence, will summon developers, executives and experts for hearings later this year on possible legislative safeguards, Senate Majority Leader Chuck Schumer said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/alarmed-by-ais-potential-us-senate-summon-experts-2023-07-27/",
+      "originalUrl": "https://www.reuters.com/technology/alarmed-by-ais-potential-us-senate-summon-experts-2023-07-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/YgdSsnQzdxaaEVBm2_Y7zUhZc10=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWT26TEXONPTHCJPWDKPIB3CGM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-people-are-more-pessimistic-about-ai-now-than-before-the-boom-a-study-shows.md",
       "title": "People are more pessimistic about AI now than before the boom, a study shows",
       "excerpt": "Steven's Institute of Technology released its annual TechPulse report, which measures the public's attitudes toward different technologies. The findings in the 2023 report show that AI's increased popularity may have actually harmed the public's perception of AI.",
@@ -1103,57 +1154,6 @@
       "ampWebUrl": "https://www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-could-replace-politicians-ceos-if-play-darwinian-rules-evolution-expert.amp",
       "publishedDateTime": "2023-07-26T23:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-27-as-ai-goes-global-let-the-un-control-it.md",
-      "title": "As AI goes global, let the UN control it",
-      "excerpt": "In record time, Europe produced a significant body of regulation with the ambition of getting a grip on the use of data and ensuring the tech industry behind it pivots toward Europe. The U.S. and China have similar policies in place, making the race for technological supremacy increasingly important in a changing geopolitical context.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
-      "originalUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84b9ac1d-a4a4-4612-9a07-2799d6cac361/c1628bc1-adc0-42c1-92a3-b0869cf171a8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-goes-global-un-control-it.amp",
-      "publishedDateTime": "2023-07-26T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "http://island.lk/wp-content/uploads/2023/10/AI-image.jpg"

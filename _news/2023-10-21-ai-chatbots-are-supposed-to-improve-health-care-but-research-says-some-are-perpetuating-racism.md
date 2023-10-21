@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
-    publishedDateTime: 2023-10-20T18:54:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167102"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 45
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_6f2a330086acd0a1f8955ac995bdde4d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
     excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
     publishedDateTime: 2023-10-18T08:41:00Z
@@ -133,6 +117,15 @@ related:
       name: The Grio
       domain: thegrio.com
     quality: 7
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records."
+    publishedDateTime: 2023-10-21T14:54:00Z
+    webUrl: "https://www.pressdemocrat.com/article/business/health-providers-say-ai-chatbots-could-improve-care-but-research-says-some/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 5
 
 secured: "0ULhcoeHLYRDhn+qjZKlg3HlbwcbzmXtkvOREFzUQTKybcSAedv7ddj88SOmm5d4xM4XT42AgIuF94Y8tIrAXHUxYs0UHBApWm5/lm/Fys5ZymXZ02VZRdMgCTd02z6YYhT4CvFCjb3kC2z3kVV8ycLta4F8ZypYpADQj7P/94vNN+nQZpDbAsUgEqmBIPfSNAF6nZYhkb73n/9ZO8j/n3PlqV2N6JN5Hn3FPMYMerprN5yeG97644GL2dfBMNs756aAPBWAB+MI4wkIvQZnYdUz1Y6ZHjZ6S1yu99BqmpIRXqTn2n4Vd23HNB14lM1W7f0pgVMiT8VOJ4C2kphpuJB/Pma5llz4gwecf2UGj8NwWkCaU3qr7iKUADaZQSnM6muRxxERFLB0pcBarYThnPUujZdtS8XRrVIMkxFY4V/BUY/YCix8cNeAW2mrJfNvRBwbE1Dy+zGRMwQXwrIbyLgXYIQZyPSWsxfgaoBX5X0J+jIiZlJuSENegb/BQ2moLP3uM/tkLdIllHv/HH52Rw==;b8IrUOu4VMXgoeKArUzACw=="
 ---

@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2023-10-03-artificial-neural-networks-market-overview-2023-and-forecast-till-2030-report-pages-113.md",
+      "title": "Artificial Neural Networks Market Overview 2023 and Forecast till 2030 | Report Pages 113",
+      "excerpt": "Recently Updated comprehensive113-Page Reporton the Artificial Neural Networks Market, this analysis deep dives into market size, share, and industry trends. According to our latest research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/35056433/artificial-neural-networks-market-overview-2023-and-forecast-till-2030-report-pages-113",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/35056433/artificial-neural-networks-market-overview-2023-and-forecast-till-2030-report-pages-113",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-03T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-03-self-driving-truck-market-share-size-2023-industry-overview-comprehensive-research-study-competitive-landscape-2023-2030.md",
       "title": "Self-Driving Truck Market Share, Size 2023 Industry Overview, Comprehensive Research Study, Competitive Landscape 2023-2030",
       "excerpt": "[126 Pages Updated Report] Business Growth Reports has a Latest Research report on Self-Driving Truck Market into its extensive repository. This research report is a compilation of information and ...",
@@ -1132,40 +1175,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-03-visa-to-invest-100-million-in-ai-fintech-startups-focused-on-payments.md",
-      "title": "Visa to invest $100 million in AI fintech startups focused on payments",
-      "excerpt": "Visa Inc. said late Monday it was launching a $100 million generative AI ventures initiative. In a statement, the payments company said the initiative is intended to invest in \"the next generation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/marketwatch/20231002520/visa-to-invest-100-million-in-ai-fintech-startups-focused-on-payments",
-      "originalUrl": "https://www.morningstar.com/news/marketwatch/20231002520/visa-to-invest-100-million-in-ai-fintech-startups-focused-on-payments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,57 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2023-08-09-how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data.md",
+      "title": "How to block OpenAI's new AI-training web crawler from ingesting your data",
+      "excerpt": "The ChatGPT creator is training the next generation of AI systems, reportedly including GPT-5. One word can stop the crawling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/500df0b13f222e5914bb567e7986709eaba3fcb2/2023/08/08/d0960e19-3e08-4733-857c-5854016ad315/openai.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-block-openais-new-ai-training-web-crawler-from-ingesting-your-data/",
+      "publishedDateTime": "2023-08-08T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-08-better-together-ibm-and-microsoft-make-enterprise-wide-transformation-a-reality.md",
       "title": "Better together: IBM and Microsoft make enterprise-wide transformation a reality",
       "excerpt": "Providing joint solutions to companies to improve costs, productivity and resilience by accelerating their hybrid cloud and AI journeys.\nThe post Better together: IBM and Microsoft make enterprise-wide transformation a reality appeared first on IBM Blog.\n",
@@ -1146,58 +1197,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-08-chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m.md",
-      "title": "Chargeflow, which taps AI to fight chargebacks, raises $14M",
-      "excerpt": "Chargeflow, a startup using AI to fight chargeback fraud, today announced that it raised $11 million in a seed round led by the VC firm OpenView Venture Partners. The tranche builds on Chargeflow’s previously undisclosed $3 million seed round closed ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/",
-      "originalUrl": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1413376650.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/08/chargeflow-which-taps-ai-to-fight-chargebacks-raises-14m/amp/",
-      "publishedDateTime": "2023-08-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

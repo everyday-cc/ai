@@ -117,20 +117,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 57
-  - title: "Suppliers plan ahead amid potential US ban on more AI chips"
-    excerpt: "Reports of stricter restrictions on Chinese chipmakers by the US, including Nvidia's downgraded AI H800 processors, have Taiwanese testing companies and probe card providers being more cautious."
-    publishedDateTime: 2023-10-17T01:24:00Z
-    webUrl: "https://www.digitimes.com/news/a20231016PD229/ai-chips-china-osat-chinese-chipmakers-nvidia-h800-gpu-packaging-and-testing-taiwan-osat-us-chip-restrictions.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231016pd229_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "US Curbs Export of More AI Chips to China"
     excerpt: "US Curbs Export , of More AI Chips to China. On Oct. 17, the U.S. Department of Commerce said it intends to prevent China from buying more of America's advanced"
     publishedDateTime: 2023-10-17T21:02:00Z

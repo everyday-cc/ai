@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-ge
 webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 19
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "vGd/NkB0bB8/ZiYIXn/+N4mPLizKGT/JDhqR6tn+Z9wQNxMyXjRU2DN7fgpG/yzczvp+duVd9nlgCeaOF6szU3Hpg8KOtq709fSmoMYWP/pP67NT5v1jl51GEcecV70sVa1nxO5az5kaX2e+YgvJKrPNMUrB27HqfR8NcuvAgA+I7hmtJfHnfNl/Vyl5779xyS8MNWYQh/8J5wUXAU7gNMEWHP9yYbFMs8qxnvkFHQWDYoxx9v0XbyB1aDpX2j/8T1afK0+LDSGumPPUec5GV/7tmIMoh8xmgQ5TLUIrz9iK4Ej2gZa8as6EU855EQw1InAjs1zEW5ij0Wu5ibCu0ugJDsvdni6EnlPuUNRqSX8=;bkWEaldWuw92HFS3liYzpw=="

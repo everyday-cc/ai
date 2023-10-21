@@ -87,15 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "China's Baidu Unveils Latest Version of Its Ernie AI Model"
-    excerpt: "BEIJING (Reuters) - Baidu on Tuesday unveiled the newest version of its generative artificial intelligence (AI) model, Ernie 4.0. Ernie 4.0's capabilities are on par with that of ChatGPT maker OpenAI's GPT-4 model, Baidu's CEO Robin Li said at an event in Beijing."
-    publishedDateTime: 2023-10-17T02:27:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-16/chinas-baidu-unveils-latest-version-of-its-ernie-ai-model"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
   - title: "ChatGPT Creator OpenAI Partners With Abu Dhabi's G42 as UAE Scales up AI Adoption"
     excerpt: "Mubadala-backed G42 has been at the forefront of AI adoption in the UAE. The company said in July that it had developed the world's largest supercomputer for AI training in collaboration with U.S.-based AI firm Cerebras Systems."
     publishedDateTime: 2023-10-18T15:05:00Z

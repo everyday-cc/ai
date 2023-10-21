@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "ChatGPT 5 is on track to attain artificial general intelligence – The Statesman"
+    excerpt: "These Twitter discussions about ChatGPT-5 have garnered even more attention than those about ChatGPT-4. Many users are expressing high expectations for the"
+    publishedDateTime: 2023-10-21T21:24:00Z
+    webUrl: "https://www.inferse.com/766323/chatgpt-5-is-on-track-to-attain-artificial-general-intelligence-the-statesman/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 33
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-14469.png"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "DS Automobiles integrates ChatGPT with speech recognition"
     excerpt: "DS Automobiles is the first automaker to integrate ChatGPT AI software into in-vehicle speech recognition for European customers. ChatGPT is available in combination with the DS Iris system for all models of the DS 3,"
     publishedDateTime: 2023-10-19T12:44:00Z

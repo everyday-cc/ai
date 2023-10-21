@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
-    excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
-    publishedDateTime: 2023-10-18T08:41:00Z
-    webUrl: "https://gulfbusiness.com/gitex-global-dubai-police-virtual-cop-patrol-cars/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 25
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Dubai-Police-unveils-virtual-cop-luxury-marine-patrol-car-Image-Dubai-Police.png"
-        width: 876
-        height: 554
-        isCached: true
 
 secured: "XdZGjcXM9OLoDrq27ySbqntWO57ot5ALtHH35LsDnhOswVYWrYizHzIpnf0ZTttIKPs+oe1Fz/k7jY21xQHqMyLhIjSfPfTod0VxGcNaMjXAtP26befDkBO6AuwBEgJFP0PqJKo/qZ3Tpod3J5y0BzdD6jIAFqmcCE0NkqGBQZMbonXuMknnYEbFp2TYcDUKm7lWeRzl57tW9SY8jZoAfrFi0+N34ZfRwujuWb1TgvSMCAx/vv76bjxdXUbKrD4PtAuIhZMMBpzXtcVyZt1fxvjGPcz6RmSBkYnywGOnQeB/eUuQ4IKfyxEGNXCo8tBcP/D8iiS7BoQM8dCaadFPuDKDSbzN5jHfwMuk9BtsIJM=;pOxxfh7oEQdb6DyrBTlk2A=="
 ---

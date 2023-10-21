@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-09-07-guide-to-artificial-intelligence-etfs.md",
+      "title": "Guide to Artificial Intelligence ETFs",
+      "excerpt": "Robots and artificial intelligence (AI) are increasingly gaining precedence in our daily life. The pandemic-driven stay-at-home trend made these more important as we have become more dependent on ...",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "originalUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2019/01/robot_icon.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/investing/2023/09/07/guide-to-artificial-intelligence-etfs/",
+      "publishedDateTime": "2023-09-07T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-07-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications.md",
       "title": "The road ahead for self-driving vehicles is littered with complications",
       "excerpt": "Recent developments in San Francisco highlight some of the controversies over self-driving cars. The California Public Utilities Commission authorized a 24/7 test deployment of 200 self-driving taxis.",
@@ -1119,60 +1162,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs.md",
-      "title": "HubSpot announces a range of new AI sales and marketing tools geared toward SMBs",
-      "excerpt": "HubSpot AI is a new suite of new AI features available to users of HubSpot's social publishing and marketing tools.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs/",
-      "originalUrl": "https://venturebeat.com/ai/hubspot-announces-a-range-of-new-ai-sales-and-marketing-tools-geared-toward-smbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/cfr0z3n_line_art_flat_illustration_minimal_abstract_simple_stre_819b6ca2-9ddc-4afb-8758-9910be69b5f4.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-06T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Sales",
-        "Facebook AI"
       ]
     }
   ],

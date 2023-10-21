@@ -23,22 +23,6 @@ images:
     height: 460
     isCached: true
 
-related:
-  - title: "China’s social-media attacks are part of a larger ‘cognitive warfare’ campaign"
-    excerpt: "The phrase “cognitive warfare” doesn’t often appear in news stories, but it’s the crucial concept behind China’s latest efforts to use social media to target its foes. R"
-    publishedDateTime: 2023-10-17T04:01:00Z
-    webUrl: "https://www.defenseone.com/ideas/2023/10/chinas-social-media-attacks-are-part-larger-cognitive-warfare-campaign/391255/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 35
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2023/10/17/brain_GettyImages_1404228238/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
 secured: "0DNXuFaNTRX+41dA5YrxPwTcZqxmavRA/GN0j4BHfAQd4cZ2y3VUXgwphZfW74rBW3KkPq+SczYnVA/0TH+lTxFCOPCcW/bpHISbMeeJLO6S8cqMoXVOCbXJ3md4TChR+0O2yOXfTkJr4ZCFxNh8kfTuCfp1mTW5eEb4Y5sNo6wOyOpOY+tqbMDMQeQHuCcrckVywrNVw707xcETYAV08zyfgkVTAoAz6VlK0QIyeb14PkpfG63TYynjDcucbGHD6wd81ZOW+jnwiL91ICUZ5eHCDAYrbYC1m5xSrfCTYQYy2uTkP/ndlEIespaook2t+9x5wqcqZL3K7r0Q1FDiMvW4hMqt8aElc5VB9Dfsm9U=;6FFipwL63zb8SYfommCftw=="
 ---
 
