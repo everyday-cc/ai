@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-redact
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automatically-redact-pii-for-machine-learning-using-amazon-sagemaker-data-wrangler/"
 type: article
 quality: 100
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 64
-  - title: "How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints"
-    excerpt: "Veriff is an identity verification platform partner for innovative growth-driven organizations, including pioneers in financial services, FinTech, crypto, gaming, mobility, and online marketplaces. In this post, we show you how Veriff standardized their model deployment workflow using Amazon SageMaker,"
-    publishedDateTime: 2023-10-16T19:30:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 60
 
 secured: "V6QArL4sKD+wMw+PoGBYsJ6aIcmncPieHN92QU4ptgF3L7Xh+6cfroZ/3Z3kjuLWgVnWPAwCbldCrnMgUjVIXn2rc6W2IWQ3PxyudEXNHZbfCl6U3kowk5laN6g7ySQgJ9z2PmjL8xUX1YVUPDS3NQFhwPFfDyt6fBgACOJ5PxHi8jNWMpWfRgleKie/jHhcl4KwRTnt12iLM2zb0GPegcmadnW80DsiZ5IlqIw7m5SS58gTOUnoMQJv/p/0h8T/+hn5gwlsjLrkzao5m0VI58NO4QOIT38mkB/uCAA0MqO4S1bpOE8NtAtHhMsiaLmEuXOWDasGCiUX/HBp6Q23H45YAxz/HRhcGMYbsT19BUE=;EQMeiOtRFSjz9hbfzNh8tg=="
 ---

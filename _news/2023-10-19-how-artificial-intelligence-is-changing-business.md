@@ -25,53 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Is Transforming Contingent Workforce Management"
-    excerpt: "To help, workforce management platforms like Magnit are building AI-powered conversational user interfaces that guide workers through the information needed on day one. The goal, Srinivasan says, is “to minimize the friction in the workflows so that clients, suppliers and candidates don't have 10 clicks” just to start working."
-    publishedDateTime: 2023-10-16T19:44:00Z
-    webUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/"
-    ampWebUrl: "https://www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/magnit/2023/10/16/how-ai-is-transforming-contingent-workforce-management/amp/"
+  - title: "How Machine Learning Is Boosting Business Growth"
+    excerpt: "Machine learning reduces friction at every stage of a business, whether you’re coming up with new product ideas or getting the goods delivered to the client. It increases business efficiency, improves customer relationships, and boosts sales. In this ..."
+    publishedDateTime: 2023-10-18T00:00:00Z
+    webUrl: "https://www.business.com/articles/machine-learning-boosts-business-growth/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Business.com
+      domain: business.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65295159bcdf1a9bd6648caf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Using data, AI, and cloud to transform real estate"
-    excerpt: "AI can enable business transformation to deliver positive outcomes for clients and propel sustainability goals, according to Sandeep Davé, chief digital and technology officer at CBRE."
-    publishedDateTime: 2023-10-16T15:26:00Z
-    webUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/"
-    ampWebUrl: "https://www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/16/1081609/using-data-ai-and-cloud-to-transform-real-estate/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2023/10/Sandeep-Dave1200.png?w=1200"
-        width: 1200
-        height: 671
-        isCached: true
-  - title: "Unlocking the Animal Kingdom: AI's Potential for Conversations with Wildlife"
-    excerpt: "Discover how Artificial Intelligence (AI) is transforming our understanding of animal communication and paving the way for meaningful conversations with wildlife. From deciphering animal languages to advancing conservation efforts,"
-    publishedDateTime: 2023-10-17T01:23:00Z
-    webUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife"
-    ampWebUrl: "https://www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/science-environment/2624486-unlocking-the-animal-kingdom-ais-potential-for-conversations-with-wildlife?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 56
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/10_10_2023_15_32_54_4822987.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3MuY29tL2ltYWdlcy9icmFuZGluZy9sb2dvcy9ibG9ja19tb25vZ3JhbV9uYXZ5LmpwZw=="
+        width: 700
+        height: 700
         isCached: true
 
 secured: "oDPpZUU4DhniMlt6RuAqE7Oljb9O/PIHDyfBgbcHFVoH8umLAcyocTN07o9omdhd16O6LIY++E3J6GIDN20qXj2GSmK1mp5SBWZx8x7cMGpCuNSvK9YUdJn4TntfeW3YD94F6tlz8PlYedvFUw1DCCCS0qp00dNO5k8X0/QdPnKWcCnNngsm9BMCiMG9J/kTWQ/CWvfPppLIkjcRzEQNf+T+6JbQv58owxfT1w+dzRtgebPJ0rri7jJdNpond09HgsQ13Gkro9YfOqBddGiXjTdsQXxNIkLonswQP7YwaoVwKH9V2zBQZVRmGaYfZE3SK93xQ9Z+fOVHgV2cAKwXfNjDv3sBqrCtBVNrCXQH0UpqF9VJc/5kokqKk89i8AFjgrmhFeFcko84Cg/xbAMSslt9wF8lgtQ1yVp9hvmj3kIXfn2ow8t9jwX46lNObEhfPjrsI/n4tX01a1RKILp9dCOBq8l4Er+nY1JtC5yndGnbruJ7HBVkIhMJI0TO4xRPUpcNmMFPsuX0PQvjWqjKEg==;dQHw180BD+fJNBVPDrtIMQ=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-chi
 webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: CNBC
@@ -42,6 +42,15 @@ related:
         width: 410
         height: 593
         isCached: true
+  - title: "Nvidia's shares tumble after the Biden administration announced new restrictions on AI chips sales to China"
+    excerpt: "Nvidia won't be able to sell to China the chips it designed specifically to get around the White House's last set of export controls."
+    publishedDateTime: 2023-10-17T19:05:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/17/nvidia-stock-hit-by-bidens-new-export-controls.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "PSCUP5QXz8cngMla9Th9f2cgSbo3LcoSShwXO0kKeCnUnOs3YWvYA2X/g8tny7RdhLiLT66FsDkldv0ddM5Z1EjDMcK4UPWg7bANpOAIs14/dnvA1+R5ihjjgl4FJLPo4mVq7GYxf70M9iHkJ5Jw8TeYygxSVgmEWvECpSJGhx0KtMb4pcR7/OQr/Px+CbcNYIxH/wA467fH7EDRlJbbeA6De6h/HM5Uz9ZJ+ReH1fJ6bRPI0L/DU3swmcO8RUByKvIWGcD8H14sbRZQ5nLq5Yfs07BV8ob9Yb+uW/wbTW/u9wFqF8JinVgOetV99N+1rNk0Q77jqYw4kP9wz1QJKrpm1lu4v5wrtMVmwQLCsSs=;gwVEN1zexwNtwBPjy7/+Pw=="
 ---

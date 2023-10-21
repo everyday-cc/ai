@@ -25,63 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI is everything, everywhere, all at once"
-    excerpt: "Many notable tech companies are building their own large language models, whether it's Microsoft's Bing, Google's Bard, Snapchat's AI chatbot, or the new Meta AI chatbots. Generative AI is projected to balloon to a $1.32 billion market by 2032, according to a report by Bloomberg Intelligence ."
-    publishedDateTime: 2023-10-16T15:15:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-is-everything-everywhere-all-at-once/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
+  - title: "Responsible AI: The Art Of Balancing Power With Responsibility"
+    excerpt: "AI’s unprecedented reach and speed have also sparked debates about potential misuse. What's the way forward?"
+    publishedDateTime: 2023-10-19T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/19/responsible-ai-the-art-of-balancing-power-with-responsibility/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/e9154ae3027cc98693265cceda3c9a0a4d0f64ef/2023/09/28/b327e148-d2b9-491b-8fc0-b81fa0299a12/gettyimages-1343571001.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63bc1cf8f98796ecf1f26064/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "Evaluating social and ethical risks from generative AI"
-    excerpt: "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In"
-    publishedDateTime: 2023-10-19T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 86
-  - title: "Gartner: Generative AI will be everywhere, so strategize now"
-    excerpt: "To keep pace, executives must prioritize their AI ambitions and AI-ready scenarios for the next 12 to 24 months, Gartner analysts advise."
-    publishedDateTime: 2023-10-18T18:53:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-generative-ai-will-be-everywhere-so-strategize-now/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
-    excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
-    publishedDateTime: 2023-10-19T06:43:00Z
-    webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 26
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
-        width: 1920
-        height: 845
-        isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
 
 secured: "pyPcs0VNl5xOGHVWZGh3mToATMLAAuIT3BSSwYpNzD6coG4Nx1Kl4c7Gbf02G3jDpyxcz66nx5UgjUjXe9KJp6HXtr+qWCypH/4blj6zZ3yCNy37Xu+glmaWizr5vIPZu6QoInB+Quf0BvY4HGVS8MkWU7KOA6Q6vCf7DTnNQf4iaVc3mOceH24n4vd7Begu/YsbuOL47j4KLrT4Vs5i7l0ckc/+tc9RRZjvqPYcs6kxHEEeVgWPLevjEXvEndc6J4FFo2B0Q1Ifsk1qTra5B2o7Og3kEa1PZ3D9qqjqAy9z0CTiZcOwcON0ZSOOvoGSwC/yrr4tRWaY2omIg7a2Jfkzx7iA3WHx8Coo3IgZ2NA=;0ebcJ++Rl4Zn+PsS5YWLUQ=="
 ---

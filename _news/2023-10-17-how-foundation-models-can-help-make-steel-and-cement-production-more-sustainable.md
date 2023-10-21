@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/how-foundation-models-can-help-make-steel
 webUrl: "https://www.ibm.com/blog/how-foundation-models-can-help-make-steel-and-cement-production-more-sustainable/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: IBM
@@ -22,15 +22,15 @@ topics:
   - IBM AI
 
 related:
-  - title: "How to use foundation models and trusted governance to manage AI workflow risk"
-    excerpt: "An AI governance framework ensures the ethical, responsible and transparent use of AI and machine learning\nThe post How to use foundation models and trusted governance to manage AI workflow risk appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-16T20:00:59Z
-    webUrl: "https://www.ibm.com/blog/how-to-use-foundation-models-and-trusted-governance-to-manage-ai-workflow-risk/"
+  - title: "Fostering AI infrastructure advancements through standardization"
+    excerpt: "At this year’s OCP Global Summit, Microsoft will share our latest contributions to supercomputing architecture and hardware intended to support the new era through standardization and innovation.\nThe post Fostering AI infrastructure advancements through standardization appeared first on Azure Blog.\n"
+    publishedDateTime: 2023-10-17T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/fostering-ai-infrastructure-advancements-through-standardization/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 95
+      name: Microsoft
+      domain: microsoft.com
+    quality: 69
 
 secured: "4wF5m2mW0+PHnFFIWC7KkDGiviNYQfVpQQI+RXm+LcEyRTbv6H2IaGzq43o/7V/CW6xrwueG3v+9JvELDGweBwginUvvbDnU5XybuC8/TxCDTOnTMSJkTShgeInu38q+9cQzwQL1sBsUtR0cEVwSTlQxbDl2xKEGteAOm52rnB7HAymnItvx2qOdOIZbEi6i5sRkbMrIx6I9M/wj/r+oG1ww/DP9hw6yWU8bTHcV825+CHLmdvvHyqcdHlYHllzIGP3GsOxhvxvzOgNNzcO8L37E4l2OCF+ZbhqRX1wWZrlpdK+fqv7OUCQTABHHRtcnUWuy6aj44WWsT8mszteMgKS3aoX7i95yctc4T6fNYtY=;m1iE7IXoB9yChXmuf6Xjlg=="
 ---

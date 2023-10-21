@@ -90,22 +90,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Adobe previews new AI and 3D editing innovations – including an animated dress"
-    excerpt: "Photo-editing software maker Adobe unveiled a slew of new AI-powered tools and features last week at its annual Max event, including a dress that transforms into a wearable screen and streamlined ways to delete elements from photos."
-    publishedDateTime: 2023-10-16T16:49:00Z
-    webUrl: "https://www.cnn.com/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231016081744-adobe-app-file-restricted.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Keeping an eye on your cattle using AI technology"
     excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
     publishedDateTime: 2023-10-17T19:40:30Z
@@ -393,6 +377,6 @@ related:
       domain: newswit.com
     quality: 0
 
-secured: "Sgg31+QYw+DST9+l+c28539GROua9KbcltaPogMel81zDKjxqM/QapxTKaqkRk0xWYsYej71qi53slHndPDATW7V6eeH7QdkajVAvcEoIwepjx/IocBp0RFaj4jZlX7Ft0Po11vAuM195yRBxDpSxwfFjeFOlx6B3eYAVq8caR7Sfry3pTYAPOUCz7P2hOdvoGSKeN0M7vP2Ofey114SWti90r6Sfu7Pfpy0H2jI9gmjLUEMcjALTX0mGDBb6smdTtR2qdJCTgC4grZPa1PJSwX7UC7oQolACYPM23L/76fSlL00jzW67Agc/AAuHtyoHIUAhEQdiC9W8Y9OiqC4BRgsE1IurioiQTUb9D6xvZ0=;rmeLqBpXaLG9dvawLR097w=="
+secured: "fZoRXE1Nb1f9ueOUby/x+VTlwVtJIdnHQTrjZaRtEA0Ulkn3/IdiW9b5KchujmGajSrW9w45++pLEC3anm85ctcLG0LqC2k3caDXIMR7T5wzRqwPoBC2EONmzl+blNyx3kSmov+Se6XeKhoF/plJdbnWoeu6hBR8ioJ7hRar301dxfDREIV9e/SQLVDV1hq7tfi3KxFrZScAY45sXtfXxeN4tzL8jQHLvESJcjATOLVKHz7GcnMmtyqHsZ3pdOK39IwzPR7VlqrLckMALje/1U9IN1tiniEhl/WXDDOcjpVN/vZOlxsbFFOICipw9Y8nyYBFs8rthrSjPagcZSyNWY+XTXIG9T2uHNLU+L/8NYv3zPrLDQnR59lM6JuLgFKcc5ykbDc1183dJQBY3H+YtGhN5pt+AM0JH6g0xrqOvfffQDshUxXxvqyobA8JysQYuHS5TvyqxKRlCHKcr2od9XPkToLLS/mkcbOUuSIUT7loWQIFKI9+jINF/mmnATL66Qf3x7XD9R/DS+6dwX8Zyw==;KMeLpoE6rv8hWO02TGzjuw=="
 ---
 

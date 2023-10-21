@@ -28,54 +28,87 @@ images:
     isCached: true
 
 related:
-  - title: "Confluent Introduces Data Streaming for AI + New Partnerships"
-    excerpt: "Confluent announced its Data Streaming for AI initiative to aid organizations in developing real-time AI applications. The company also introduced new AI-enabled tools."
-    publishedDateTime: 2023-10-16T16:35:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/16/confluent-introduces-data-streaming-for-ai--new-partnerships/amp/"
+  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
+    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
+    publishedDateTime: 2023-10-17T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652d658ad6d40c26aab6163b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 900
         height: 900
         isCached: true
-  - title: "Neurxcore Introduces Innovative NPU Product Line for AI Inference Applications, Powered by NVIDIA Deep Learning Accelerator Technology"
-    excerpt: "Neurxcore, a leading provider of cutting-edge Artificial Intelligence (AI) solutions, today announced the launch of its groundbreaking Neural Processor Unit (NPU) product line for AI inference applications."
-    publishedDateTime: 2023-10-20T10:32:00Z
-    webUrl: "https://www.design-reuse.com/news/55057/neurxcore-npu-nvidia-deep-learning-accelerator.html"
+  - title: "Data stacks haven’t caught up with generative AI enthusiasm"
+    excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
+    publishedDateTime: 2023-10-19T20:55:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-chief-data-officers/697218/"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 22
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 39
     images:
-      - url: "https://static.designandreuse.com/news_img2/homepage55057/nb.jpg"
-        width: 1180
-        height: 648
+      - url: "https://www.ciodive.com/imgproxy/1mRDuz8WYL3tvJvUlBzTYq5UZK2hKydSlMXpnRDNulY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDEyOTIyOTcuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
-  - title: "Alluxio Unveils New Data Platform for AI: Accelerating AI Products' Time-to-Value and Maximizing Infrastructure ROI"
-    excerpt: "Alluxio, the data platform company for all data-driven workloads, today introduced Alluxio Enterprise AI, a new high-performance data platform designed to meet the"
-    publishedDateTime: 2023-10-18T11:59:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35306203/alluxio-unveils-new-data-platform-for-ai-accelerating-ai-products-time-to-value-and-maximizing-inf"
+  - title: "New tool can detect AI-generated content"
+    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
+    publishedDateTime: 2023-10-17T15:42:00Z
+    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-  - title: "Deel Introduces Deel IQ, an Artificial Intelligence Assistant for International Company Personnel Management"
-    excerpt: "The international human resources platform, Deel, has introduced an artificial intelligence assistant - Deel IQ. It is a tool that will help both small startups and large corporations planning to hire employees from other countries obtain valuable information about local legislation,"
-    publishedDateTime: 2023-10-20T13:32:00Z
-    webUrl: "https://www.baltictimes.com/deel_introduces_deel_iq__an_artificial_intelligence_assistant_for_international_company_personnel_management/"
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ivey to Co-Lead Artificial Intelligence Panel"
+    excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
+    publishedDateTime: 2023-10-19T06:11:00Z
+    webUrl: "https://www.washingtoninformer.com/congress-artificial-intelligence-panel/"
     type: article
     provider:
-      name: The Baltic Times
-      domain: baltictimes.com
-    quality: 0
+      name: The Washington Informer
+      domain: washingtoninformer.com
+    quality: 37
+    images:
+      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Language Weaver scales development of generative AI technologies"
+    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
+    publishedDateTime: 2023-10-19T09:04:00Z
+    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 19
+  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
+    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
+    publishedDateTime: 2023-10-17T15:18:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 18
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
+        width: 1358
+        height: 768
+        isCached: true
 
 secured: "G7XjGRDLBb2wO9r1GG2PwJn50JQONYrROfOT3Vd9HuPWGUC4yiICk7N22Ju2R/CKk9QBUFvWr7BIg96iZEjx9f2dq6bzFQLhqLYRoHKcp3VNLv2+RjeqF0p6g54amdQGnhNMA5oH8P04GrcMsOrTxnIzZrZDxxz9x0MjXjiqTW1GfwYrqA6B/AjF3ATGJhFSAIZqURrrzhmr7lp48yfLJVOq2MxLIJkinlo46Ab567oCE8wrb2FS35NOtag02BsLcbtT9fe7zoBnwGEEJJYDOT4uOClcH0yIPWbiHJ2D3hrtrf8rvbAoWos+M2kBWJQqknlv5OQewHRq9xSGgLQuaEbUqpqkCdVGLBFDvV2vRoM7k4k255TQGRkvDjq4y52/QT39GQv2McYSOhsWKcMKKXz10M8z0WrNa5VqQce5Zot1oDeczPYtkGUtAcWOfIlWdTE7b3zjIIWRif2NauG2GJOe5BC/tszGa518uKCGi/vyZ2ipovqrQQ4R6qTf0IScOUNa33mgABQGAcOgcrURnQ==;b5p+H8dkt42Y4y4Am354Qg=="
 ---

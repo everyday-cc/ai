@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2023-10-music-companies-sue-anthropic-ai
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-music-companies-sue-anthropic-ai.amp"
 type: article
 quality: 57
-heat: 147
+heat: 148
 published: true
 
 provider:

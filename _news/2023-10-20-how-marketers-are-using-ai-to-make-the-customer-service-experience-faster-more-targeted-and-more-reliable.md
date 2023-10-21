@@ -94,22 +94,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Adobe previews new AI and 3D editing innovations – including an animated dress"
-    excerpt: "Photo-editing software maker Adobe unveiled a slew of new AI-powered tools and features last week at its annual Max event, including a dress that transforms into a wearable screen and streamlined ways to delete elements from photos."
-    publishedDateTime: 2023-10-16T16:49:00Z
-    webUrl: "https://www.cnn.com/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/10/16/tech/adobe-max-sneaks-tools/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 83
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/231016081744-adobe-app-file-restricted.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Keeping an eye on your cattle using AI technology"
     excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
     publishedDateTime: 2023-10-17T19:40:30Z

@@ -47,22 +47,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Australia news as it happened: Voice campaign fails; Dutton walks back calls for Indigenous constitutional recognition referendum"
-    excerpt: "“Now, the Voice was with constitutional recognition was important. Makarrata is simply a Yolngu word for coming together after struggle. “I think that that is a reasonable thing to say, and in terms of where we go from here, I note that there has been ..."
-    publishedDateTime: 2023-10-16T18:43:00Z
-    webUrl: "https://www.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html?post=p55bon"
-    ampWebUrl: "https://amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/australia-news-live-voice-campaign-fails-in-australia-economist-warns-population-surge-could-keep-rates-high-20231016-p5ecgh.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 30
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "OuxXzMSiOSnGAFXRwPpYpYIW0ZQaNAVp3vRx94h8DhPdxN3F+E5+8bVVqBjtkCQBn4ikA9wC6DqPsZNyRFzke8W7BEJXr3bENXX8J5XVQRaWjChi+pF+AbeHovSy3lxxpeiBchm0/Hlx9RqLJ+zYUHfuRT3CWOa4pGy9Ed8E9j5dW9jl8vrPUa2hF1qREBCQr6p8uCEmUXtjEANPp2Ngp0a6uy+eyDzfXEY0KBYEXcQzf+ODw3tYm2jdEmoa4QRnXPfdfzD+0z5QsrC3kWtYu8MY4uOnAxYdyONO8i4T3BKmnIYWRVW61i0jfNXl7pgveSxOkeezs7dlTLk4Z37bLrr4RciXEYZRVtiYB/p9/AY=;5narNO73QUlTyeYodIg/8w=="
 ---

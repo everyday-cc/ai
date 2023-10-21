@@ -54,15 +54,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 28
-  - title: "Dutton walks back offer of a second referendum on Indigenous recognition"
-    excerpt: "Opposition Leader Peter Dutton has walked back his offer to symbolically recognise Indigenous Australians in the constitution, declaring the public is “over” referendums following the Voice’s defeat."
-    publishedDateTime: 2023-10-16T19:36:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/politics/dutton-walks-back-offer-of-a-second-referendum-on-indigenous-recognition/video/f2529455238a2a643effb82710da9ea6"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 3
 
 secured: "KOV1JLX2rCC7IbO0Q3CY2WIA2lfN9CObFy2GMWMDXFVf76AG0pol45KVa8onUK/cWxaqEI10CtxeybcngXkAwJDKaC5y+8fLK9W8dO2T2ixGnxaADzTMOjuPSI7ilyMc04m4ISBHuT4CyxmMBGoBCjrn7Kr3wmQlPxXVjbiFgwqGhKGZvcXmzIR8Saq9ycWPbsv1htmAe6EyeuGUBSRPqdnV0wTTyWGb9eSCsrwEgdNiWUIz7T4QJDjfweOJk8Zb91sCeKQktxH5sKmI9YZ6CM/6usgn7XFnGC8Mq8Rw3amXy209qJn9qfGjvGDjLioOtFydInCEXRTCSVQ9FcZx4T9qZ9U/2VNgsmcRcNg0tb0=;RCAR7AKf5IYSrLgqEgXRow=="
 ---

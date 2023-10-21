@@ -7,7 +7,7 @@ originalUrl: "https://rollingout.com/2023/10/19/google-boss-ai-important-for-tec
 webUrl: "https://rollingout.com/2023/10/19/google-boss-ai-important-for-technology/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "In PM And Sundar Pichai's Chat, AI For Good Governance To Reach Of GPay"
-    excerpt: "Prime Minister Narendra Modi virtually interacted with Google CEO Sundar Pichai today. They discussed Google's plan to participate in expanding the electronics manufacturing ecosystem in India."
-    publishedDateTime: 2023-10-16T17:26:00Z
-    webUrl: "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135"
-    ampWebUrl: "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-10/hc79nnp8_pm-modisundar-pichai_625x300_16_October_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "Narendra Modi discusses AI, UPI while interacting with Google CEO Sundar Pichai"
     excerpt: "Prime Minister Narendra Modi appreciated popular search engine and IT major Google’s plans to open its global fintech operations center at the Gujarat International Finance Tec-City (GIFT) in Gandhinagar during his interaction with the company's CEO Sundar Pichai."
     publishedDateTime: 2023-10-17T12:39:00Z

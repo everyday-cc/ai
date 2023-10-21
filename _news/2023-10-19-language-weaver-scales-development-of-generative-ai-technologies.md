@@ -19,67 +19,93 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI is everything, everywhere, all at once"
-    excerpt: "Many notable tech companies are building their own large language models, whether it's Microsoft's Bing, Google's Bard, Snapchat's AI chatbot, or the new Meta AI chatbots. Generative AI is projected to balloon to a $1.32 billion market by 2032, according to a report by Bloomberg Intelligence ."
-    publishedDateTime: 2023-10-16T15:15:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-is-everything-everywhere-all-at-once/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
+  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
+    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
+    publishedDateTime: 2023-10-17T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
+    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/e9154ae3027cc98693265cceda3c9a0a4d0f64ef/2023/09/28/b327e148-d2b9-491b-8fc0-b81fa0299a12/gettyimages-1343571001.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 900
+        height: 900
         isCached: true
-  - title: "Evaluating social and ethical risks from generative AI"
-    excerpt: "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In"
-    publishedDateTime: 2023-10-19T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai"
+  - title: "IBM to train 10,000 consultants for Amazon Web Services generative AI in new partnership"
+    excerpt: "IBM is expanding its business partnership with Amazon Web Services with an emphasis on helping clients utilize generative artificial intelligence. That means new training for a lot of people. Here are the details."
+    publishedDateTime: 2023-10-18T14:48:00Z
+    webUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 86
-  - title: "Gartner: Generative AI will be everywhere, so strategize now"
-    excerpt: "To keep pace, executives must prioritize their AI ambitions and AI-ready scenarios for the next 12 to 24 months, Gartner analysts advise."
-    publishedDateTime: 2023-10-18T18:53:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-generative-ai-will-be-everywhere-so-strategize-now/"
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/08/quantum-brain-control-artificial-intel-e1628696856200.jpg"
+        width: 945
+        height: 532
+        isCached: true
+  - title: "Data stacks haven’t caught up with generative AI enthusiasm"
+    excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
+    publishedDateTime: 2023-10-19T20:55:00Z
+    webUrl: "https://www.ciodive.com/news/generative-AI-chief-data-officers/697218/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
-    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
-    publishedDateTime: 2023-10-20T17:09:00Z
-    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
+      name: CIO Dive
+      domain: ciodive.com
     quality: 39
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://www.ciodive.com/imgproxy/1mRDuz8WYL3tvJvUlBzTYq5UZK2hKydSlMXpnRDNulY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDEyOTIyOTcuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
-  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
-    excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
-    publishedDateTime: 2023-10-19T06:43:00Z
-    webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
+  - title: "New tool can detect AI-generated content"
+    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
+    publishedDateTime: 2023-10-17T15:42:00Z
+    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 26
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
-        width: 1920
-        height: 845
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Ivey to Co-Lead Artificial Intelligence Panel"
+    excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
+    publishedDateTime: 2023-10-19T06:11:00Z
+    webUrl: "https://www.washingtoninformer.com/congress-artificial-intelligence-panel/"
+    type: article
+    provider:
+      name: The Washington Informer
+      domain: washingtoninformer.com
+    quality: 37
+    images:
+      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
+    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
+    publishedDateTime: 2023-10-17T15:18:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 18
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
+        width: 1358
+        height: 768
         isCached: true
 
 secured: "G27itjV6KuFUEry8eA3lnjADsnImrg+3Bg+6pxJ1JkcTasFP+p8ywhmOkVRkBpNU98F8vdFx903P+uGv/uk0ty6jKs8NKL9HWMivSCQKM1p5O6Z/xyd1Oc/ALD0Hefr7598ceE8DYVQo595d/6TSGjVPiQgvhnfk8LLYVm4ndmW6qWDFxopw0u6t/UqcpbF8mRPyYM8SWnmiRmTAwRju6iTmfdM3Xd0nYpkHblLMHUb+MPpr8EV9Bw+DQ7lDMb+raC5/HYe9W3wfInipyDeuXHKx5ZRGpsqTC2qMayxR5X2vFNTqjJVa1fSfASsGG4z8SQNcaWM7v/0XLDR5pdM8wZioLRzCC3oPUhHb00FmyCY=;HaUeoSwjyYyvWvrCPxChag=="

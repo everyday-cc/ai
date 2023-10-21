@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,33 +32,17 @@ images:
     isCached: true
 
 related:
-  - title: "The Case For Mastering AI Now. Why You Absolutely Can’t Wait."
-    excerpt: "The problem is that very few people have taken action to make AI an immediate new tool in their professional and career toolbox."
-    publishedDateTime: 2023-10-16T21:45:00Z
-    webUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/"
-    ampWebUrl: "https://www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/10/16/the-case-for-mastering-ai-now-why-you-absolutely-cant-wait/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652dae5de5b65e4992413753/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "China to step up efforts for AI chips"
     excerpt: "China will step up the development of artificial intelligence chips as part of its efforts to promote fundamental technological breakthroughs in AI and introduce the applications of the cutting-edge technology in more sectors, the country's top industry regulator said on Friday."
-    publishedDateTime: 2023-10-20T23:32:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202310/21/WS65330e19a31090682a5e9dce.html"
+    publishedDateTime: 2023-10-21T00:05:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202310/21/WS65330e19a31090682a5e9dce.html"
     type: article
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
     quality: 54
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202310/21/65330e19a3109068cafe8db2.jpeg"
+      - url: "https://img2.chinadaily.com.cn/images/202310/21/653316e4a3109068cafe8e1a.jpeg"
         width: 588
         height: 392
         isCached: true

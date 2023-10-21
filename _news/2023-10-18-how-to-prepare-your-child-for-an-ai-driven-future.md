@@ -34,20 +34,6 @@ related:
         width: 1201
         height: 900
         isCached: true
-  - title: "Keep Your AI Projects on Track"
-    excerpt: "AI—and especially its newest star, generative AI—is today a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity."
-    publishedDateTime: 2023-10-16T16:00:00Z
-    webUrl: "https://hbr.org/2023/11/keep-your-ai-projects-on-track"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23063_MYERS.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
 
 secured: "kXFtXsyyV8yDNUILiUFjajnTi6ku1CZijxRLrc17bIzBqZRT30BOwW5tfz578OTws1gMgVliv9PImlz8JN8Xbix3c4g3Hz+h/6C4emq0mAS3MBzKlyyzch3AvIAsUMMOvCN7xX/HeNkZ/YegvKRVJPAjz/hRuHkIXHL23eTo0lXZ4eFOiT/0fEmDjCA1f22ybqjPJ5EbDtInd9rx0mkDyaYtAcv1d1AL6/ZPfn5Y7amUYMcaBNz9ZohgU1vCPsLAfLkcS3gpjeSSdzud6xJP+RFcpSoYB3xAM31orTZuupatPvfWBaIvoJnrV4Un6ZHzqUdxD3EnNMourP5N5Tn7Aj3tph4W3gXXsAwpc98sv8A=;nkW3Y3NASpwmak3e06rZHw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 147
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM to train 10,000 consultants for Amazon Web Services generative AI in new partnership"
+    excerpt: "IBM is expanding its business partnership with Amazon Web Services with an emphasis on helping clients utilize generative artificial intelligence. That means new training for a lot of people. Here are the details."
+    publishedDateTime: 2023-10-18T14:48:00Z
+    webUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/08/quantum-brain-control-artificial-intel-e1628696856200.jpg"
+        width: 945
+        height: 532
+        isCached: true
   - title: "Data stacks haven’t caught up with generative AI enthusiasm"
     excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
     publishedDateTime: 2023-10-19T20:55:00Z
@@ -72,6 +88,15 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Language Weaver scales development of generative AI technologies"
+    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
+    publishedDateTime: 2023-10-19T09:04:00Z
+    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 19
   - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
     excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
     publishedDateTime: 2023-10-17T15:18:00Z

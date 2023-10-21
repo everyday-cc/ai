@@ -23,66 +23,59 @@ topics:
   - AI
 
 related:
-  - title: "IBM expands AWS partnership to bring generative AI to call centers, supply chains"
-    excerpt: "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities."
-    publishedDateTime: 2023-10-18T17:25:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
+  - title: "Evaluating social and ethical risks from generative AI"
+    excerpt: "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In"
+    publishedDateTime: 2023-10-19T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
+      name: DeepMind
+      domain: deepmind.com
+    quality: 86
+  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
+    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
+    publishedDateTime: 2023-10-18T02:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all"
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
+        isCached: true
+  - title: "AI generated images another potential social media hazard"
+    excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
+    publishedDateTime: 2023-10-20T21:46:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/ai-generated-images-another-potential-social-media-hazard/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/20/147cd3e2-72ef-4ca0-845a-6170612c8000/thumbnail/1200x630/914a52aee2c3be0a159717b4afc16b9a/e702b67baa6b3d29edcc7e8221251626.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
         width: 1200
-        height: 672
+        height: 630
         isCached: true
-  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
-    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
-    publishedDateTime: 2023-10-20T07:35:00Z
-    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
+  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
+    excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
+    publishedDateTime: 2023-10-19T06:43:00Z
+    webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
     type: article
     provider:
-      name: africabusinesscommunities.com
-      domain: africabusinesscommunities.com
-    quality: 51
+      name: Inferse
+      domain: inferse.com
+    quality: 26
     images:
-      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
-        width: 336
-        height: 280
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
+        width: 1920
+        height: 845
         isCached: true
-  - title: "IBM Expands Relationship with AWS"
-    excerpt: "IBM has expanded its relationship with Amazon Web Services (AWS) to help mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this relationship,, IBM Consulting plans to deepen its generative AI expertise on AWS by training 10,000 consultants by the end of 2024."
-    publishedDateTime: 2023-10-19T13:05:00Z
-    webUrl: "https://channelvisionmag.com/ibm-expands-relationship-with-aws/"
-    type: article
-    provider:
-      name: ChannelVision Magazine
-      domain: channelvisionmag.com
-    quality: 39
-    images:
-      - url: "https://channelvisionmag.com/wp-content/uploads/2023/09/cv_display_ad_jungle.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "IBM Consulting to help companies get started with generative AI on AWS cloud"
-    excerpt: "French telecommunications services provider Bouygues Telecom SA said it has been one of the earliest beneficiaries of IBM’s expanded partnership with AWS. It engaged with IBM Consulting to design and implement an evolving cloud strategy that leverages the most advanced AI technologies."
-    publishedDateTime: 2023-10-18T11:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/ibm-consulting-help-companies-get-started-generative-ai-aws-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
-    publishedDateTime: 2023-10-18T18:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "4n/RqYncDC1hFwn/luhgOdziehcbbA2ze/N6H8UrTKWwu2K9QgK4TRg1+FlNXBws1ZjoEXn07LOn16IJ++RI03ILQeBbqFvIOq0EtJziKXXfriy7pnd1ExrtXmUXoV35Ctl2w/0LMsbmwfUVSxbxvkx7JYNZ3klKjF1PMrV7fxqYaHWEbQIX5NvVrGVdSL90XZVJvQ8nLu796pg5o66FpmOrkP800TD8MfHA2ttFVgQh8ZJHND1VBnMrLDa1+sMxkkow9RmngHPUfk6JzJ5oESz5W8CzBLGaxgbubSi+6VCA4PoCQUeqE47zx7we6ScHgYUN0/lNnmwf21uM/78uTMYflQ0fTrgr8gtjTTSpLEI=;VCIpZLH5dcxYWqaFvdOXYg=="
 ---

@@ -52,20 +52,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
-  - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
-    excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
-    publishedDateTime: 2023-10-18T16:05:00Z
-    webUrl: "https://www.aol.com/nvidia-thought-found-way-around-130504385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 22
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/1R3_9tpxnJuHS3k5R4jqeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/27c0635b4b7fb62b8197ebac44b306d7"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "zUS2ZRakv9YoJpWygt41btUCOlk11fm6cLDUeXRJWZfxoMpozfs8YAJ8Iom8dkrpkNqNf0QQV0GVsazzp1btwAQ7zKOnDbPYjA2VyYh6RIErKoCjJL4lVg8tm/9Q4BDQ3jF/7LypxDGbS9UACVgzV81oJiZ3wA0na9TxNzgEPl62ToTCAYXXYrmd3PcjzQTuMIGdTpDIEie/mSzhBpIO/rEH0owZl6zLZldY/jX8Va5HuHAQg+tSmMeqMJLiaDMZ+NOumTsE38tu98q00HeF75DLQCZL5ofiYPsDnahyib5fL5EeF/RDJdUW0+VnmQXlw8eLna7QbMB8QOIuWHNdgL7X7eff/or5pB7iJ1aSB7RmhFXqui0CHJxSHvDtBUpTG8DIOnqZvuVrk51Qh6iAxPfiujDdxYV+m1RfMtWJtkDgVWXEzB5d0v+xNyebFFPthnlrbKdsc+f36qQvr/sw4u5rtYdvW+Jn8SImP5ICVd/tRknJ9Z1oyVBXFJebdBuhZHXU/gae8vjYSb1o00c+DQ==;FLq7lqltEgw4MyamLvjMiA=="
 ---

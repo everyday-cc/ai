@@ -35,22 +35,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
-    excerpt: "Rep. Jim Jordan becoming House speaker would help cement the far right’s takeover of the Republican Party and trigger conflict with Democrats over the size and scope of government"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 29
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
 
 secured: "M9IF3E83E5yeMGIE4VNulUhYShoECxppwqfClKunEA7CVqtYmCzp8LH83G57+8UsW0dBlE2OJVsgrNGeDo66QX+EW57Xp7+VwUnPDeY4KgW5FUNfFJXiuIcXkR1iZ24aqj0TErJHrtr61ETCzKzAFKy2p6AMZc067kQYo8knzen8fZPhwHfbqEIXAP/Ufbz1l8d2kMmbbclTLdg5LfpZSrbHtZWhqBAfKi8F8ZgIJzeGG5HDAUBvE1jxXx4sw/r53VM0NWy7BDvKXM2EQkpyQ6gZ4gI/oVZTLK4rDWRdHmZCWDo9QHtVhlk5oDjEHkOA3vvVZw+V+Wx6eetvtRQ4sDw+W4LcZycoa+lYZUrinOiFWr2n9vgRL5UBg/NrO+rYMcZ+Wq6ignCFm0mXy/3u4BU+buL2qaZGV0/xt2RDeoHhwk2dye74jYyruEBySf7s/5tfOqB3CcL2Ccj/P8ogomCjVdT7TET+spR3rYZBDA9mjUJndcMUctfn15xgb1ztGSIVDSnqAdWfT2/X+NXryQ==;mhc1i2Tyw3ecvIQCe+WxEA=="
 ---

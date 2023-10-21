@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 33
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
 
 secured: "1rwHcDoQ39A8GDVcfK67DEtm6eNfQ1n2xe2ITP+DL8Osr4TS5Gvx6ldWegR8iwMmFYUNFxOotARcBU60fUy/AgO7BTtapCCxYB1Yu7RFQ+49xC/e5DQF0GOhYjA51Bma6tXJzPny0qccpXqPrM44mahsY4zEFA3xigJtHJvcgPQHOq3P6ddbZuEkDdaoJWthkKCQqhcp8Hd11GMDfpSqaQcWx8GwM+OuXXM7jixwxBGeChM11tuFtEPxOzj/Zc0Mc/qmuJCBtJYxR80YP9FEysQ7+7WQ3cqlV6wqEMRu/aWeX+O7otjvlY0p+sQz7LlqPVmTAooavO6mBMaDX+++zHpoNjnms2EdBjmZlPBNlcsHlcgg5rJFSUIYoiTDEADfs1YY/ukvys82Af5iNwXIWxRL4TsK918IkBHUBp37jMEjVcZ/6hkB1vGeDxvxFN2QZaRNb2UuM1WoA6YSvO5y3ElUP8EDpcegaJ7Ofkm7ORSWVW7SycD59DgmvMSlhE+Yi7TT1ZMKs52TlAJ776bPgg==;4YI/7hpZ0Z/Y9xOKgHKJtA=="
 ---

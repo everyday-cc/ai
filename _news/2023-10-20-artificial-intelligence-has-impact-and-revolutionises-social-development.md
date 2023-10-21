@@ -86,20 +86,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "With AI On The Rise, One MSP Builds A Chatbot With A Cajun Accent"
-    excerpt: "She said customers could start adopting new AI technology within three years. “The market is going to move fast,” she said. Another panelist, Henry Timm, CEO of Rolling Prairie, Ind.-based Phantom Technology Solutions – another MSP 500 member ..."
-    publishedDateTime: 2023-10-16T23:01:00Z
-    webUrl: "https://www.crn.com/events/with-ai-on-the-rise-one-msp-builds-a-chatbot-with-a-cajun-accent"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "NYC announces artificial intelligence adoption framework, AI chatbot pilot"
     excerpt: "Artificial intelligence (AI) has made headlines in recent months for both its potential to advance humanity and for its possible pitfalls. From automation and chatbots to self-driving cars and facial recognition,"
     publishedDateTime: 2023-10-17T19:36:00Z

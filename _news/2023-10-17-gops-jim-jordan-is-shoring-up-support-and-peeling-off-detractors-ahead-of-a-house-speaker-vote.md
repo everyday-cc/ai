@@ -28,22 +28,6 @@ images:
 
 related:
   - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
-    excerpt: "Rep. Jim Jordan becoming House speaker would help cement the far right’s takeover of the Republican Party and trigger conflict with Democrats over the size and scope of government"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002789"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 29
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
     excerpt: "In recognition of Jordan’s growing influence ... including Republican plans to object to the election's certification, according to call logs and testimony from Cassidy Hutchinson, an aide to Trump's chief of staff Mark Meadows. White House call logs ..."
     publishedDateTime: 2023-10-18T03:13:00Z
     webUrl: "https://www.indystar.com/story/news/politics/2023/10/16/jim-jordan-trump-far-right-speaker-of-house-wrestling-coach-political-views/71201885007/"

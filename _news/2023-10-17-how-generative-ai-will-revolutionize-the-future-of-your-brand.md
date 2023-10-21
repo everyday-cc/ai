@@ -129,15 +129,6 @@ related:
         width: 800
         height: 449
         isCached: true
-  - title: "Researchers Measure Global Consensus over the Ethical Use of AI"
-    excerpt: "Establishing clear ethical guidelines and governance structures for the deployment of AI around the world is the first step to promoting trust and confidence, mitigating its risks, and ensuring that its benefits are fairly distributed,"
-    publishedDateTime: 2023-10-16T18:24:00Z
-    webUrl: "https://www.labmanager.com/researchers-measure-global-consensus-over-the-ethical-use-of-ai-31121"
-    type: article
-    provider:
-      name: Lab Manager
-      domain: labmanager.com
-    quality: 34
   - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
     excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
     publishedDateTime: 2023-10-20T19:37:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-g
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -27,33 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
-    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
-    publishedDateTime: 2023-10-16T23:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
+  - title: "Evaluating social and ethical risks from generative AI"
+    excerpt: "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In"
+    publishedDateTime: 2023-10-19T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
+      name: DeepMind
+      domain: deepmind.com
+    quality: 86
+  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
+    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
+    publishedDateTime: 2023-10-20T13:27:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 64
+  - title: "AI generated images another potential social media hazard"
+    excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
+    publishedDateTime: 2023-10-20T21:46:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/ai-generated-images-another-potential-social-media-hazard/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
-        width: 400
-        height: 225
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/20/147cd3e2-72ef-4ca0-845a-6170612c8000/thumbnail/1200x630/914a52aee2c3be0a159717b4afc16b9a/e702b67baa6b3d29edcc7e8221251626.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
-    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
-    publishedDateTime: 2023-10-18T16:33:00Z
-    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
+  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
+    excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
+    publishedDateTime: 2023-10-19T06:43:00Z
+    webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 46
+      name: Inferse
+      domain: inferse.com
+    quality: 26
     images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
-        width: 644
-        height: 300
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
+        width: 1920
+        height: 845
         isCached: true
 
 secured: "CbA1k7Cs2RYYisuRetbJDPZzWsyZoYT2pfJrJAzN7MmW6ErATguhcHWbuiyzbdAMfpRQ+qX71tizYKOmpYOEkdMeY3N1a40fVgDm+OE7OWdugYZefyPeU59ePf7YumsvqKyuuiDAizlCtR1oO6Lc2ZnXjl8FCydAsyRls78EfH+WTx9liRIXr8Dpa5T6RwO9FSOoU4ebvd5SWw2zYrBgEtWGYS7ixPB1P8/ckX6QPbgx4GXd3rYnQHsM6VO+x68gZEiP50520c4zw32IVmpZIWIux7qItiPWSQRBbWehDhBLQ6qZ62gv14y5as2vbcLoear7NZEBIijZHC2AKUih+ar2ryie0x72Lc8L++hmMgw=;Z/HH29s+yiJNcpF9njqrcQ=="

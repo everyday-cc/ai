@@ -87,22 +87,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "TCS bets on Microsoft AI partnership to fuel growth"
-    excerpt: "Tata Consultancy Services (TCS) is expanding its partnership with Microsoft to develop AI-based software services for clients. The collaboration with Microsoft's Azure OpenAI and the use of cloud-based AI tool GitHub Copilot will allow TCS to offer ..."
-    publishedDateTime: 2023-10-16T17:25:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/articleshow/104476578.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/tcs-bets-on-microsoft-ai-partnership-to-fuel-growth/amp_articleshow/104476578.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-104476569,width-1280,height-720,resizemode-4/104476569.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "DCT Abu Dhabi and Microsoft sign MoU on generative AI, cloud technologies"
     excerpt: "The alliance enables innovation in key areas such as generative artificial intelligence (AI) and cloud computing and brings together both organisations’ capabilities and resources to enhance the touri"
     publishedDateTime: 2023-10-20T09:27:00Z
@@ -170,20 +154,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 70
-  - title: "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software"
-    excerpt: "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ..."
-    publishedDateTime: 2023-10-16T19:33:00Z
-    webUrl: "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
-    images:
-      - url: "https://wp-assets.futurism.com/2016/10/Microsoft-makes-its-deep-learning-tools-available-to-all.jpg"
-        width: 1400
-        height: 600
-        isCached: true
   - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
     excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
     publishedDateTime: 2023-10-20T11:15:00Z
@@ -290,19 +260,19 @@ related:
         width: 1000
         height: 650
         isCached: true
-  - title: "Microsoft’s New AI Bug Bounty Program Has Rewards Up To $15K"
-    excerpt: "Microsoft's new AI bug bounty program offers rewards up to $15,000 for finding vulnerabilities in Bing's AI features,"
-    publishedDateTime: 2023-10-16T20:55:00Z
-    webUrl: "https://www.searchenginejournal.com/microsofts-new-ai-bug-bounty-program-has-rewards-up-to-15k/498579/"
+  - title: "Microsoft's Clippy is back, kind of, and now powered by AI"
+    excerpt: "A ChatGPT-style AI assistant embedded into Microsoft Office apps will become available to all from 1 November."
+    publishedDateTime: 2023-10-21T09:55:00Z
+    webUrl: "https://www.rnz.co.nz/news/world/500733/microsoft-s-clippy-is-back-kind-of-and-now-powered-by-ai"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 54
+      name: rnz
+      domain: rnz.co.nz
+    quality: 56
     images:
-      - url: "https://www.searchenginejournal.com/wp-content/uploads/2023/10/img_2023-10-16-165317-652da2f35a463-sej.jpeg"
-        width: 1600
-        height: 840
+      - url: "https://media.rnztools.nz/rnz/image/upload/s--qJY1-yKa--/t_tohu-badge-facebook/v1644404562/4ME30XD_copyright_image_257161"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft launches AI content safety service"
     excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
@@ -346,15 +316,6 @@ related:
         width: 580
         height: 380
         isCached: true
-  - title: "Announcing general availability of Azure Data Manager for Energy – Microsoft"
-    excerpt: "Microsoft partners with the energy industry in the global transition to a more secure, equitable, and sustainable future. To support this transformative"
-    publishedDateTime: 2023-10-16T15:18:00Z
-    webUrl: "https://www.inferse.com/757542/announcing-general-availability-of-azure-data-manager-for-energy-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 46
   - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
     excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"
     publishedDateTime: 2023-10-19T05:32:00Z
@@ -392,15 +353,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "AI Explained – Stories – Microsoft"
-    excerpt: "Microsoft News Center AI basics Large AI Models Researchers at Microsoft and elsewhere are making progress on developing large AI systems that"
-    publishedDateTime: 2023-10-16T21:54:00Z
-    webUrl: "https://www.inferse.com/758099/ai-explained-stories-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 34
   - title: "Microsoft wants to make AI safer, and it just unveiled a service to help"
     excerpt: "Microsoft recently shipped Azure AI Content Safety to broad availability. It's an AI-powered platform designed to create a safer online environment for users. Azure AI Content Safety allows businesses to establish more control by allowing them to tailor policies,"
     publishedDateTime: 2023-10-17T18:11:00Z
@@ -428,15 +380,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
-  - title: "Microsoft and Epic expand AI collaboration to accelerate generative … – Microsoft"
-    excerpt: "Eric Boyd, Corporate Vice President, AI Platform, Microsoft Today, the promise of technology to help us solve some of the biggest challenges we"
-    publishedDateTime: 2023-10-16T16:11:00Z
-    webUrl: "https://www.inferse.com/757622/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
   - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
     excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
     publishedDateTime: 2023-10-17T11:58:00Z

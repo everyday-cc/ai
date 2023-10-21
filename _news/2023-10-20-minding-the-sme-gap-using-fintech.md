@@ -117,6 +117,20 @@ related:
         width: 511
         height: 287
         isCached: true
+  - title: "Hong Kong Fintech Week 2023 “Fintech Redefined.”"
+    excerpt: "In addition, the cross-boundary Greater Bay Area Day will be resumed on October 31, presenting ample opportunities and synergies between Hong Kong and Shenzhen. A full day forum will be organised in Shenzhen, followed by a series of concurrent company tours to Mainland tech giants."
+    publishedDateTime: 2023-10-21T11:27:00Z
+    webUrl: "https://menafn.com/1107279654/Hong-Kong-Fintech-Week-2023-Fintech-Redefined"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849512"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Stearns Bank Partners with FinTech Automation to Revolutionize Banking Services"
     excerpt: "Fintech companies stand to gain immensely from this alliance, with the unprecedented opportunity to seamlessly integrate with Stearns Bank and leveraging FTA's IaaS Platform, reducing development cost and time to launch an array of banking services to their customers."
     publishedDateTime: 2023-10-20T15:29:00Z

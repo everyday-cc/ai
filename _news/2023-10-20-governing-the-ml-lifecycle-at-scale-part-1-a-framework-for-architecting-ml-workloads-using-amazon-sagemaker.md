@@ -67,15 +67,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 64
-  - title: "How Veriff decreased deployment time by 80% using Amazon SageMaker multi-model endpoints"
-    excerpt: "Veriff is an identity verification platform partner for innovative growth-driven organizations, including pioneers in financial services, FinTech, crypto, gaming, mobility, and online marketplaces. In this post, we show you how Veriff standardized their model deployment workflow using Amazon SageMaker,"
-    publishedDateTime: 2023-10-16T19:30:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-veriff-decreased-deployment-time-by-80-using-amazon-sagemaker-multi-model-endpoints/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 60
 
 secured: "mFbPZNUCDg4tyMC6AuT4iSgP13+k59UC0lr0bIKKwNFai9x1M8BvNqkttkHGHjR6YISiJm8QQmmc6TjndESJaEmCPAyqvG9indXtjJww+MR5GmaKAMBEm+8VPNcNcq08aB3E7Z/cc2FGvECvOHH9gMweFwnPOpRORurJRBjGGEOLyu3N/hPx7Y5+iI5K+0g/W+jhJeAtg5L2rKcVy537zedeeTlunS5MFcDW7cKsfn9U2c8+6NeSKD7DcigmmDrp5pXrjPctVR2IaFEQcyVXh5/OylRhemFZ95f/ZGr7Jm4BH8bdmbVrbTVzjA4JfdvMSahf7pD3RILwOWuCwJE0lEQCbtHAVxRxN8NrqFIkTIE=;GQHguc9f5Ane8/rgf6ohFQ=="
 ---

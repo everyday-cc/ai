@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-
 webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
 type: article
 quality: 58
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: Business Insider
@@ -29,35 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
-    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
-    publishedDateTime: 2023-10-18T02:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+  - title: "Generative AI Represents a New Era for the Utilities Industry, Says Info-Tech Research Group in New Resource"
+    excerpt: "New research from the global IT research and advisory firm aims to bridge the gap between recent technological advancements, such as artificial"
+    publishedDateTime: 2023-10-17T21:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-represents-a-new-era-for-the-utilities-industry-says-info-tech-research-group-in-new-resource-1032714198"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
+      - url: "https://mma.prnewswire.com/media/2250265/Info_Tech_Research_Group_Generative_AI_Represents_a_New_Era_for.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "From Digital Native to AI-Empowered: Learning in the Age of Artificial Intelligence"
-    excerpt: "The upcoming generation of learners will enter higher education empowered by AI. How can institutions best serve these learners and prepare them for the workplace of the future?"
-    publishedDateTime: 2023-10-18T16:33:00Z
-    webUrl: "https://campustechnology.com/articles/2023/10/18/from-digital-native-to-ai-empowered-learning-in-the-age-of-artificial-intelligence.aspx"
+  - title: "New research project aims to find pancreatic cancer early with artificial intelligence"
+    excerpt: "Finding pancreatic cancer early with help from artificial intelligence is what a new research project is aiming to do. Stephanie Stahl reports more on the AI study"
+    publishedDateTime: 2023-10-19T21:57:00Z
+    webUrl: "https://www.cbsnews.com/philadelphia/video/new-research-project-aims-to-find-pancreatic-cancer-early-with-artificial-intelligence/"
     type: article
     provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 46
+      name: CBS News
+      domain: cbsnews.com
+    quality: 44
     images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2023/10/20231018ai.jpg"
-        width: 644
-        height: 300
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/19/10e57340-0329-47ab-8ccb-2b0a30393375/thumbnail/1200x630/02f12d84dea054e530c63ab68c3ffaec/73e50036d5f2bb6d973039afcf44620c.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "d6JtXrv2Yr3WE8M9vpn/Q3aoGuB/r7d2dPa/dGzlg71WtZ4pk4zOV2HBX0tkR2DYsZvaMKg/AmW+Gu4min0yOzEhfhtR4IbjAOuxtyJ8luiFENDMavgrSzVKWGD7N76ZFKVwzBEle5jdpuXseiT3cZgvk7+L/lnKDvavbgf+hyBxmWOvaK8DAYd2c8NomLqjzPB1OzRzH46yaxJdHxY1r4riqkUKxnW+qZx9mIeubBAiSkmsPguROxKx6cXyi4/Lt1CZ8xHR3gNZQBcdv6jFQxaYYoKwnKkQaVrsSHt79OqEmnePFr4S6U0Livd1tchUaAnoYqVOPCDcX9r9vuuC9fUqKrlP5wzLkp7QSsPkgvBQ477Spmyq0B97V6tPLMlx4FiEthxPICYOqTr5Al8SnplFbXywBkYMTucHLT44EXfW9B6v8MiDaseDhTnHpyKFxUNQ782ehIsBEgVUMC5piCXjGSl/NUF8L38HkhP9IlrKOnNjfpfyYHxomYpuwPDrqm+xLK5I0ilb7cyaL49Itg==;Hw9A9pYSfEFjbxcM09LXCg=="

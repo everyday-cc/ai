@@ -38,15 +38,6 @@ related:
         width: 1920
         height: 1358
         isCached: true
-  - title: "Confronting the long-term risks of Artificial Intelligence"
-    excerpt: "The rapid pace of AI advancement, spurred by market pressures, often eclipses safety considerations, raising concerns about unchecked Artificial Intelligence development"
-    publishedDateTime: 2023-10-16T18:38:00Z
-    webUrl: "https://www.thehindu.com/opinion/op-ed/confronting-the-long-term-risks-of-artificial-intelligence/article67427712.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 17
 
 secured: "ta/G1OFW7vUgb0ZTgoy+M4o14qrYei9Bz8fgK4XFqbp1+DAzINX3icI+umuZ5O1pgbxeNjAuPsbO7ScvwW8r8XyCmFAv38UDl5VMPaPvi/NJGmA35a8op2wbgDwh3YCovYsCStMbI0qe1vWCfbpcR12984ukKkYMP3uK6NbpSFfSwSsJYAqHcmtBXzlzGaRkLhFnWezetQMZmtlkTRYNkrKKE9dDW/ePkzKs8AzPejU7JOVypTTOiBbpjJzsMqSq3q4mDWrh2AYZ+wACbr7ABZJVdJLeQsoXs5afl5r5Iujc6zwViKxYzmfqmrLMknzyqK01nTfyIOxCgsamCReSHdXLbG+JOud0MATg4c1VPYo=;iudiius6916Lv2nQIBYNaQ=="
 ---

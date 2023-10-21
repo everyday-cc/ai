@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Safety, privacy professionals caution against facial recognition in US schools"
+    excerpt: "As FRT deployments and restrictions proliferate among American schools, observers are calling for sober evaluation of claims made by biometrics vendors."
+    publishedDateTime: 2023-10-20T17:10:00Z
+    webUrl: "https://www.biometricupdate.com/202310/safety-privacy-professionals-caution-against-facial-recognition-in-us-schools"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+
 secured: "Igfx8MtTrq28sT9bIsW5Ffu1ARm9QMwJ3TFtww89I6o8+FudWUL1+1KRGaX35Vzr4kXOrRxMpm0AmKz2hPTUszatrWx3WWzbrErFe+r88N+3IneoIVdloxFl8v/Tk0z+T72CZ2TkwhfHN8FhInshmZ0w5S2ipMImdXhRpBunYKC1NyDYl/UjkMUkLu3M75HC6TmQ0iHBVpk5LP7GWxqEBYF8lycw5oOc/hjvV/N8PaXqWts8a0g8NXliZq0TN+KMYCug8cbsA6rFccAb/08scDLs/BHZ/+QGUG9rwTmjRQ+XsjARGDEDi9+UvnOQEbTZ1zRPqKcnVEGXbKYzaWZl68m0/zbJrtSNMVRrum/IkpI=;JrAbos64LBlZew5r4Va9jA=="
 ---
 

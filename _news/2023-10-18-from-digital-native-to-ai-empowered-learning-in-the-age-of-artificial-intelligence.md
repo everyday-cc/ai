@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
-    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
-    publishedDateTime: 2023-10-18T02:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+  - title: "Inside the AI-Powered Race to Decode Ancient Roman Scrolls"
+    excerpt: "A college student seeking a $1 million prize used AI to decode part of a 2,000-year-old scroll buried by the eruption of Mount Vesuvius."
+    publishedDateTime: 2023-10-21T10:00:00Z
+    webUrl: "https://time.com/6326563/vesuvius-challenge-herculaneum-papyri-ai/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "Redefining Retail With AI: Info-Tech Research Group Publishes Generative AI Use Case Library"
-    excerpt: "The firm's new use case library for the retail and wholesale industry explores generative AI use cases for the sector. Highlighting both"
-    publishedDateTime: 2023-10-16T23:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/redefining-retail-with-ai-info-tech-research-group-publishes-generative-ai-use-case-library-1032709996"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 58
-    images:
-      - url: "https://mma.prnewswire.com/media/2248762/Info_Tech_Research_Group_Redefining_Retail_With_AI__Info_Tech_Re.jpg"
-        width: 400
-        height: 225
+      - url: "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1152278704.jpg?quality=85"
+        width: 4928
+        height: 3280
         isCached: true
 
 secured: "oFNzjYrOuAJ/+05aQW2sVzKrtMn5xEjsjcmW+tK/Av5EQeS/Nn2UUMXzdVAE78qQC1B1Jc8Uy9JBBwefbIJn0mslgmxhlWtqnkfOcUu1MaOmUYUWxN7/8O1e7qJG/VvDRgVDrlyQdUQNOdFdQlnq9sFAPYlnCyA+TgvunAhxvYsIB2nsZVOt4eSLouINzgDDvPzFcqDleB8UW2XOARcVPHVjBL7RLly7hL478EpF7Rw7o4BGCJfadIrsNHfZzJX2yLmsEKO0pS2C+iIHadg1/8gL/KM2F49QLjdKwtx40CxdFswbku+ikUezYVgNJ/QTw1zF8nWPA0a6JFN8lqaLvNwo/YqwwNp7MI7nTU7s1Je5s6PM3TL87kGukrW+cH+GXOeyI7F2akma6sql7I3YlCKgyziJaqHRqLdHmQ4ZvHXOnx1ik/z8M5z61vqE6JJp1Lav+AI9InNQ0uWMqra4LxxR6EFBhRbz4/bPqioxF3Xuvd/3lH4Yl4A4lkcF1LEITmaEoi1jNhws+EqLkZWCQQ==;ICO5d3+9XHY4/bFqMRLshA=="

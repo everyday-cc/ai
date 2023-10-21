@@ -19,22 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Retail Investors Have Been Burned, Should Startups Be Using AI To Get Them Back?"
-    excerpt: "With the rapid expansion of AI investing capabilities, can startups to offer investment solutions that finally level the playing field?"
-    publishedDateTime: 2023-10-16T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2023/10/16/retail-investors-have-been-burned-should-startups-be-using-ai-to-get-them-back/amp/"
+  - title: "Tile company looks to include Artificial Intelligence in name, invites raised eyebrows"
+    excerpt: "Veteran investor Samir Arora posted the company’s exchange filing, along with what seemed like a tongue-in-cheek comment"
+    publishedDateTime: 2023-10-18T15:28:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 64
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652d6ae183af3969ebbd40f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Sensex_up_higher-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "3 AI Stocks to Invest in for Long-Term Gains"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence (AI) is an innovative field that saw significant"
+    publishedDateTime: 2023-10-18T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-to-invest-in-for-long-term-gains-1032718532"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "rY27Jj0iNDSFaY8WB3LXkGYdsttNOMip4IKDcXxnbF3FO9hssoXvdeHuo6zxVIgNDGwLX4SEoy5dwP2V1rTg4lbBqRLk7/jEWqKOeTta94rj8EduKLt2QWXKXb+MbNtpMr1hBTYNGTFAeTRkCSk8i09MZ7rIlVfS0Vgq/5fknPTfDz3YIC+9QCupXIQJzTHEDHikB6pAGMjbTf+2x9BrHuP3T8+d/27PcxLAnaVDKr9DAlocdYh8W2W9msibgLkFpNmk0zlJ2ftPjgiURcV06QjMB61XQ62aUEhp7p56SqPhvShXkL5GD/SDK1qRoL8TDskM85Q2s9iwpepgdujGaaFLZGZMeMkcU026HUH8dQLLwAQNCXfD0jBHdYIBeNlourB69pCdl9syy1EJVmP+LCVZn7cU0NmhYYxPB0A50fA9dKy/TCxHmQ3Q65KKsDS3amD7Sy8WOUSGciFl7kHjHaCN9mLc2vPy6gsxQTt/Vv0I3aSaUjHhyFKovnAEWeJ4BOgNXwZ1DyqLH6OL/6kQpA==;Y6d4nmb2amm6YJBXX6TLXQ=="
 ---

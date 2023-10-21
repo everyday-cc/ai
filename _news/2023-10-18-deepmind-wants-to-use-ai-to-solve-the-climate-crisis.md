@@ -29,33 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind UniSim simulates reality to train robots, game characters"
-    excerpt: "UniSim can also simulate rare events, a feature that is particularly useful in robotics and self-driving car applications, where data collection can be costly and risky."
-    publishedDateTime: 2023-10-17T20:48:00Z
-    webUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-train-robots-game-characters/"
+  - title: "This week in AI: Can we trust DeepMind to be ethical?"
+    excerpt: "This week in AI, DeepMind, the Google-owned AI R&D lab, released a paper proposing a framework for evaluating the societal and ethical risks of AI systems. The timing of the paper — which calls for varying levels of involvement from AI developers ..."
+    publishedDateTime: 2023-10-21T15:01:00Z
+    webUrl: "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/"
+    ampWebUrl: "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 121
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-17-16.46.59-Photo-of-a-modern-sleek-robot-with-its-hand-positioned-more-to-the-left-away-from-its-chin-intently-watching-a-computer-monitor.-The-screen-display.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
-    excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
-    publishedDateTime: 2023-10-17T13:15:00Z
-    webUrl: "https://www.infoq.com/news/2023/10/deepmind-robot-transformer/"
+  - title: "OPINION | Artificial intelligence on campus: Is it ethical?"
+    excerpt: "AI's widespread introduction to academia must be treated carefully and constantly reevaluated to ensure ethical practices and learning."
+    publishedDateTime: 2023-10-19T03:03:00Z
+    webUrl: "https://tulanehullabaloo.com/64441/views/opinion-artificial-intelligence-on-campus-is-it-ethical/"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
+      name: Tulane Hullabaloo
+      domain: tulanehullabaloo.com
     quality: 56
     images:
-      - url: "https://res.infoq.com/news/2023/10/deepmind-robot-transformer/en/headerimage/generatedHeaderImage-1696170564728.jpg"
-        width: 1200
-        height: 630
+      - url: "https://tulanehullabaloo.com/wp-content/uploads/2023/10/Note-Jul-21-2023-1.png"
+        width: 1640
+        height: 1707
         isCached: true
 
 secured: "XbYgzMMI7byWjGkHcVyVimdp9lgt92gSuUefp3wEJJkXdgeHZ1UjduL3D4auoGnU3iFOoPpwaqVvzlXtaas0m8TIM7U1pr/+3vmRjEhstulk7LzjwjCn6WbuMB1GKa8TOcLc9oj9N/aUaNVNdHqEjZT5EsXobItxqNwON0zIxNsnbKWeicfOU22BSNDeYaTlu7uS4GP5ulxZaoWCejUbiphGuI3RaO3+usLDucDs/56WTB7vL4UGn/nAsDRRtvraSVe4XfJVSL9jgbOn0Gv0+DWEqC2ZIHWBXJLP3Ug/2AUTiES7CrUDPW5xarHaCCI4vVDVOmLr3QufWdjWGlncniJKaLmn5DnomD0mYfVBBTFl8JumBmWmE2KAan3MqIBwy/O3o+n0HOyxqRETvpxf5Rqljzabp/xlv/uaN8YBAqf5UC1xbVgug9+KAJPSbh8Pk/QIYeBRyhLtlwPkKeRsFbUfSXKOFbCklrNhWx4TGhE4EuSm0Gkb/dlaeYOa33u5bIVEJ2IP+BwVZGWMSGVDgQ==;ii9XARI2wPNMcY8LTi1jKg=="

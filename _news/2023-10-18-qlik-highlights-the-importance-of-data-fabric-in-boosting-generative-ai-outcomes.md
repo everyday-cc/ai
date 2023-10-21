@@ -19,43 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Generative AI Represents a New Era for the Utilities Industry, Says Info-Tech Research Group in New Resource"
-    excerpt: "New research from the global IT research and advisory firm aims to bridge the gap between recent technological advancements, such as artificial"
-    publishedDateTime: 2023-10-17T21:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-represents-a-new-era-for-the-utilities-industry-says-info-tech-research-group-in-new-resource-1032714198"
+  - title: "Qlik's Generative AI Benchmark Report Details How Enterprises Are Investing in and Deploying Technologies to Succeed with Generative AI"
+    excerpt: "Recent research by Qlik® shows that enterprises are planning significant investments in technologies that enhance data fabrics to enable generative AI success, and"
+    publishedDateTime: 2023-10-17T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35285887/qliks-generative-ai-benchmark-report-details-how-enterprises-are-investing-in-and-deploying-techno"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35285887"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35285887"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/2250265/Info_Tech_Research_Group_Generative_AI_Represents_a_New_Era_for.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
         isCached: true
-  - title: "Faad Network invests in InsurStaq.ai, a GenAI InsurTech Startup"
-    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
-    publishedDateTime: 2023-10-18T06:36:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/faad-network-invests-in-insurstaq-ai-a-genai-insurtech-startup/"
+  - title: "Qlik’s Generative AI Benchmark Report Details How Enterprises Are Investing in and Deploying Technologies to Succeed with Generative AI"
+    excerpt: "BENGALURU  - Recent research by Qlik® shows that enterprises are planning significant investments in technologies that enhance data fabrics to enable generative AI success, and are looking to a hybrid"
+    publishedDateTime: 2023-10-18T00:51:00Z
+    webUrl: "https://indiaeducationdiary.in/qliks-generative-ai-benchmark-report-details-how-enterprises-are-investing-in-and-deploying-technologies-to-succeed-with-generative-ai/"
+    ampWebUrl: "https://indiaeducationdiary.in/qliks-generative-ai-benchmark-report-details-how-enterprises-are-investing-in-and-deploying-technologies-to-succeed-with-generative-ai/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/qliks-generative-ai-benchmark-report-details-how-enterprises-are-investing-in-and-deploying-technologies-to-succeed-with-generative-ai/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 27
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/AO_400x224_Ten-steps.jpg"
-        width: 400
-        height: 224
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
         isCached: true
-  - title: "Artificial intelligence predicts the future of artificial intelligence research"
-    excerpt: "In the field of artificial intelligence (AI) and machine learning (ML), the number ... We curated a list with the (what we think) 10 best robotics and AI podcasts - check them out! Also check out our Smartworlder section with articles on all kinds of ..."
-    publishedDateTime: 2023-10-20T18:54:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=63898.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 15
 
 secured: "v/plxC6w6NyzsCJZH/5aWpjGlr9PtP5LqSDdR9aKrxvO0UvFK5hwn0rP7OqyufJNVgdkyk+CbHtu2yt2aI7xcjbNcGLxaqtuaY87xMy+Vtavzg+8VcaJt9pKabeUdKVCcjvGilOx6RJUoEnudeAg6TXYNMy/cKE7SLy+5oYZyDBoFwRtfbzvijPQAWZmkgS3yYfknh9QgAUgNMvk6Y/Hp7XxZkiChEm5aUZREbzHXPg1vO6pMbbLTakZ5fCHVL64Y1JRY2Ty0Soc6J1m2+DTsI15o+7ZaFwfWDWGZyb1BgdxwhzR0zau8D7l0nqskt4xQZMS8MABnAbzaBO5eGALEXdK3bCaUZh4Td0onhFL36A=;5nBzPQqPNrXv73HDZs7Xwg=="
 ---

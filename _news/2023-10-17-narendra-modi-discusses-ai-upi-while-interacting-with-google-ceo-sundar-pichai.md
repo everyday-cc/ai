@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "In PM And Sundar Pichai's Chat, AI For Good Governance To Reach Of GPay"
-    excerpt: "Prime Minister Narendra Modi virtually interacted with Google CEO Sundar Pichai today. They discussed Google's plan to participate in expanding the electronics manufacturing ecosystem in India."
-    publishedDateTime: 2023-10-16T17:26:00Z
-    webUrl: "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135"
-    ampWebUrl: "https://www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/in-prime-minister-narendra-modi-and-sundar-pichais-chat-ai-for-good-governance-to-reach-of-gpay-4487135/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2023-10/hc79nnp8_pm-modisundar-pichai_625x300_16_October_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
   - title: "Google boss says AI is too important to get wrong"
     excerpt: "Google president Matt Brittin has warned that artificial intelligence technology is \"too important not to get right.\""
     publishedDateTime: 2023-10-19T15:34:00Z

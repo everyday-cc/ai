@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-yo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/"
 type: article
 quality: 89
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Keep Your AI Projects on Track"
-    excerpt: "AI—and especially its newest star, generative AI—is today a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity."
-    publishedDateTime: 2023-10-16T16:00:00Z
-    webUrl: "https://hbr.org/2023/11/keep-your-ai-projects-on-track"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23063_MYERS.jpg"
-        width: 2400
-        height: 1350
-        isCached: true
   - title: "How to Prepare Your Child for an AI-Driven Future"
     excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
     publishedDateTime: 2023-10-17T19:37:00Z

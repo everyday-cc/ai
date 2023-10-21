@@ -19,26 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Does Facial Recognition and Other Tech Make Schools Safer?"
-    excerpt: "The New York Department of Education has permanently banned the use of facial recognition technology in schools—the first state to do so. While it's too early to know if other states will follow New York's lead, the state's new policy should serve as a ..."
-    publishedDateTime: 2023-10-16T21:43:00Z
-    webUrl: "https://www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer"
-    ampWebUrl: "https://www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/education/does-facial-recognition-and-other-tech-make-schools-safer?_amp=true"
+  - title: "Live facial recognition technology has no place in a free society"
+    excerpt: "The right to privacy is a fundamental cornerstone of any free society. The darkest moments in human history reflect episodes of peoples bereft of"
+    publishedDateTime: 2023-10-18T15:27:00Z
+    webUrl: "https://www.politicshome.com/thehouse/article/live-facial-recognition-technology-no-place-free-society"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
+      name: PoliticsHome
+      domain: politicshome.com
     quality: 39
-  - title: "What Educators Should Know About Facial-Recognition Tech"
-    excerpt: "Experts in school security and student data privacy advise schools to scrutinize claims made by vendors of facial-recognition technologies and be fully aware of their drawbacks, particularly concerning data privacy."
-    publishedDateTime: 2023-10-16T18:41:00Z
-    webUrl: "https://www.govtech.com/education/k-12/what-educators-should-know-about-facial-recognition-tech"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 4
+    images:
+      - url: "https://res.cloudinary.com/dyw8mv3b0/image/upload/q_85,w_1200,h_1200,c_limit/v1/news/2023_10/W4M047_yvlkyt.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RmcdJXLZ9ubftkVDqyTiN8gCVJ9kE3s8cdEBKuDxbx49W5mnmlcwop0SQzikypP7woXAHJ2Uq3smeRyuXvY0lZWL/RsDptYUDepgeUMXDUNC2FrCb+Vtuntm9hFRWRybp2QXLNwJQEOAJ1ORVDFpkfJmdlVi30Yfkk2AKKEPVL2bXAITtKRxBaouj1tAhtDMYRiz6quUi+IwviDpBzLQjeI07eyR/mQsM75gCbXKhmMprVAKIlAKWU4c70GshlSiqEiBjufRLrAj9o6hGt2kz2qLkXYPBGQ04wK93iWIN4/3gdTQHf/Gw6F+yNIPx+PV/jQMAEVc0Dzum3OfgXQf+qLBjHIgF4u08gwz1byL5L56OFCGg00gKz9CbacvtB5nmyYAe5FyCblee2GfnjuglcPHs7HFU49IlkysT+QlNxKIhvEiNhify6QEIJwKuIi67XLHqLUeA5iIBx2Thb6chsuVX4MQ36vMCPW158rzA+haMnILkJRzo6SswKHRJ1mKPCFcbvs627t1vOnsaVRD7g==;zi2LGRIA58saX2hBqgAOvw=="
 ---

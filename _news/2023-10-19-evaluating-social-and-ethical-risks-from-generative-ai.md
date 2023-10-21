@@ -7,8 +7,8 @@ originalUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-
 webUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: DeepMind
@@ -24,44 +24,44 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Generative AI is everything, everywhere, all at once"
-    excerpt: "Many notable tech companies are building their own large language models, whether it's Microsoft's Bing, Google's Bard, Snapchat's AI chatbot, or the new Meta AI chatbots. Generative AI is projected to balloon to a $1.32 billion market by 2032, according to a report by Bloomberg Intelligence ."
-    publishedDateTime: 2023-10-16T15:15:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-is-everything-everywhere-all-at-once/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-is-everything-everywhere-all-at-once/"
+  - title: "IIT-M to offer training in generative AI, machine learning to freshers"
+    excerpt: "Chennai: Training in new-age skills such as generative AI, prompt engineering, data analytics, machine learning and drone pilot training is being offe."
+    publishedDateTime: 2023-10-18T02:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/articleshow/104511799.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/chennai/iit-m-to-offer-training-in-generative-ai-machine-learning-to-freshers/amp_articleshow/104511799.cms"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://www.zdnet.com/a/img/resize/e9154ae3027cc98693265cceda3c9a0a4d0f64ef/2023/09/28/b327e148-d2b9-491b-8fc0-b81fa0299a12/gettyimages-1343571001.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
-  - title: "Gartner: Generative AI will be everywhere, so strategize now"
-    excerpt: "To keep pace, executives must prioritize their AI ambitions and AI-ready scenarios for the next 12 to 24 months, Gartner analysts advise."
-    publishedDateTime: 2023-10-18T18:53:00Z
-    webUrl: "https://venturebeat.com/ai/gartner-generative-ai-will-be-everywhere-so-strategize-now/"
+  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
+    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
+    publishedDateTime: 2023-10-20T13:27:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "With Generative AI Advances, The Time to Tackle Responsible AI Is Now"
-    excerpt: "In 2022, companies had an average of 3.8 AI models in production. Today, seven in 10 companies are experimenting with generative AI, meaning that the number of AI models in production will skyrocket over the coming years."
-    publishedDateTime: 2023-10-20T17:09:00Z
-    webUrl: "https://www.unite.ai/with-generative-ai-advances-the-time-to-tackle-responsible-ai-is-now/"
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 64
+  - title: "AI generated images another potential social media hazard"
+    excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
+    publishedDateTime: 2023-10-20T21:46:00Z
+    webUrl: "https://www.cbsnews.com/newyork/video/ai-generated-images-another-potential-social-media-hazard/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/10/responsible-AI-1000x600.png"
-        width: 1000
-        height: 600
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/20/147cd3e2-72ef-4ca0-845a-6170612c8000/thumbnail/1200x630/914a52aee2c3be0a159717b4afc16b9a/e702b67baa6b3d29edcc7e8221251626.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
     excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
@@ -77,15 +77,6 @@ related:
         width: 1920
         height: 845
         isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
 
 secured: "AfBnE963uoQVuhdksDMyI23nz5hyYPh94yfNxjBP2L7GMIOhEfp6TI7+L+CHvFSwN+ZXsNTlofRcvBC04SH7QejzUIsoUOjSMi7b5obassVHehlwEOOuVXrI7vnaaHd5JworF3sxSseD27tkQrSyCv/HQ77xRUs0SGtQcAJEpP2/lhd2bw/EnRGJrAqY9/5MBAbVTR7Njf2nuwBgJJz8yzlIRias/9HhIMf6Aoi54aW2P420gV8AJyI8+0dK77hv/OXEYPR4SJRFXKMqSVva5tNnOdUBA83e+DgBFOTOgrXv7nXATZy5fvuwYMYt9AG70QdDA+VET64kN7kc6OhHunz3GxF6bw73UjIrWwqk41I=;6Yb9FoBKAHkWaZhM0b4Vlg=="
 ---

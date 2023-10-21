@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "AWS, IBM Consulting Expand Generative AI Service Partnership"
-    excerpt: "The purpose of the expanded relationship between IBM Consulting and AWS is “to help more mutual clients operationalize and derive value from generative artificial intelligence,” IBM Consulting stated in a press release. In addition, IBM Consulting ..."
-    publishedDateTime: 2023-10-20T13:27:00Z
-    webUrl: "https://www.techrepublic.com/article/aws-ibm-partnership-generative-ai/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 64
   - title: "IBM Expands Relationship with AWS"
     excerpt: "IBM has expanded its relationship with Amazon Web Services (AWS) to help mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this relationship,, IBM Consulting plans to deepen its generative AI expertise on AWS by training 10,000 consultants by the end of 2024."
     publishedDateTime: 2023-10-19T13:05:00Z

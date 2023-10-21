@@ -44,6 +44,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Inside the surprising AI Advertising opportunity"
+    excerpt: "As AI becomes more advanced, there is a growing need to advertise, which creates a new and robust advertising segment for media companies."
+    publishedDateTime: 2023-10-17T13:12:00Z
+    webUrl: "https://digitalcontentnext.org/blog/2023/10/16/inside-the-surprising-ai-advertising-opportunity/"
+    type: article
+    provider:
+      name: Digital Content Next
+      domain: digitalcontentnext.org
+    quality: 39
+    images:
+      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/10/AIAdOpportunity.png"
+        width: 867
+        height: 400
+        isCached: true
 
 secured: "6s/0ous/AENqpYpTBd0mrOt7co9HERWWU9P12NGK9HN/n4/INjwa/EtxwY4YUUUckLv9uxxxDD0CUcgCcTae9wyhLg5nrDfRogN7W/27/V7FgyLkGMQ0qMQteATe0UrmJNHipCB+EPRPO/09WqwrI9xRSxk+1S05P6uaNoa/Rk4wuDe4trCWPlx/ZqZ8/xoLBpRBvAwEeq4LAyCyL20EStzsWVrSnh+4KLe77j1TnxTyP72vSae1wxjOY++/nARyU8Ndph4o3Zct7azxO++oWjJ4fNhzKtLCgnPwZptHTUSrGHLZt0QMjMc5keALguEF3L4kkcNi1TFyAwb51zh+hKCiR994do5CbOKx3K2W4JbIlmiPmvP3gP0AVbeCBQQaqFHZRqItYjSV9aLWB/PvrimjaRJ1n4I8CJH5/T/2Ic4RzvLhzKBqWb9NWC3YH8f6LzT1znJPyXZ8OUijWC21sfXHUWbyARwRHcb6LiIh3OqOaaPBKzcF0v+FrSwdpZNM8vt4rX+rLZHxb4V+qANMzA==;gET9/GCfyV2Q3eLZtCqmFg=="
 ---

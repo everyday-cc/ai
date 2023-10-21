@@ -73,20 +73,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "With AI On The Rise, One MSP Builds A Chatbot With A Cajun Accent"
-    excerpt: "She said customers could start adopting new AI technology within three years. “The market is going to move fast,” she said. Another panelist, Henry Timm, CEO of Rolling Prairie, Ind.-based Phantom Technology Solutions – another MSP 500 member ..."
-    publishedDateTime: 2023-10-16T23:01:00Z
-    webUrl: "https://www.crn.com/events/with-ai-on-the-rise-one-msp-builds-a-chatbot-with-a-cajun-accent"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/0282-183d21574f33-86f622fa4250-1000/ai-artificial-intelligence-light-bulb.jpeg"
-        width: 611
-        height: 458
-        isCached: true
   - title: "Artificial intelligence has impact and revolutionises social development"
     excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
     publishedDateTime: 2023-10-20T02:31:00Z
@@ -148,6 +134,6 @@ related:
       domain: thegrio.com
     quality: 7
 
-secured: "MS8EfcbQGpOf0GsRfeV7neR9k1dylRiFSsQH73E+LpsS41kcaEA7hgyXVMC3QibeDznGeHGUUrh7Mk9LbQcRJvX7nBCor6+PTWzlqR9CEtVEZFWx6y+4PhDNFBh8+pYx4F3xdG1SfvuTTVLZQ/gjMf7+rJBocRHbaf+iA6jhzf6VCk3bb5KOVjQcNYkyeo6MeHLjhM39ViFFQ1GvcmeGdXWFFQrhYEe5NtDE5CVtN678O5hXiuArsOKuKWOYNW2C23hSNDXDydHwCpVVVQaPV/7ftrb5p/yVBRTxC2yqr/IfAlBFXxbR+wbUK1hDAqJpPluKahbhxJxhobmLjOIhg2ebpQ6u8eeExlaCiOhIy6A=;SsHpM7w+xfUD1o/SykhClA=="
+secured: "SwZdtfX5IMHowry/KYsMMzIjQSPt6YV5WI3Btw304ay2fDqm+WMyiBWE0wBMeR8RLAUOLO9F1iwUwCI4+wqFmuOptpnsUQNytzW1uzGssGlfxDWiuOMWnLD5YnSo6cPjfc5bALg+JnoeMcRv6+QoOCR2RGiXo89/ENmk/rodYydx9wb5BNjyhUOlBdUpQcrSq3/1G/1xaDpyYjxe9dYqWRtqN1JVxxJz0ZmCVmGvAbNoNK4dgma8z1iqrlF78xz+Rew61RN0Su28pHxKlPq4I9QA9rVhdySeOMCvlo0fgs2ajE7RMPVs8Z6qvJiEvjj9ve990nUK959J8MPQOiVzgCM3g3oKUz6+Hi+VKz53aiR2uHh1R+di3wBkzCuM77vGB+dx1qW52FyjrzELu8k1mdTC/kf+zgfSRqkZIDc+RNa6D3Ul0cT6VJyVNOV3OQYEFZeokkKbspJ4a25KxEATtv3PYEa2YOL3EK2T4Kntxn0pMDYG/tyd9gxxaG1i8mI1yEP1zbql2ORH4RydO7wxiQ==;qDhbpy/+061iqDBGCD4JRg=="
 ---
 

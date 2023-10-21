@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-
 webUrl: "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3"
 type: article
 quality: 84
-heat: 95
+heat: 94
 published: true
 
 provider:

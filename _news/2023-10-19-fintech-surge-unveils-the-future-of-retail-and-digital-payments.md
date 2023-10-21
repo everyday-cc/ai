@@ -24,6 +24,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "US payments infrastructure fintech Finzly seals $10m funding"
+    excerpt: "US payments infrastructure provider Finzly has sealed US$10m's worth of funding, which the fintech will put towards continued expansion"
+    publishedDateTime: 2023-10-21T12:42:00Z
+    webUrl: "https://fintechmagazine.com/articles/us-payments-infrastructure-fintech-finzly-seals-10m-funding"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
+
 secured: "dQ2oWIR60ZzwB0DndNORHCrwjTOUC7B9pi/c30wq9WCN41QfNy1DOkM2g75KbQso+RX7L2CBCFaALckZA9imTPojpVoVmYJfPlhyutApv1R1aywba3IlbhdTGzkkaZ6UV9VoMqr6U4X80jRdpgI10XMa8TrDhvmgVjJjismbHzkwRTSfm5g8dtdw1GdhDzp5aTo1uOYNCa+4YDaY6q8yXaUa0xi7/B4yMdCFLcLcSL/6lYBCLoagm0biQsCTZO8rj8sM2IzCaQXUJBTEp/4G5IbUPFQMrczZlcUlauBWD6WmzfLR1+UpDr28qz09ftXZW3ik7/wr8O5xhu5IHycyB2WHOv/4XfPW4StuoEf2Id0=;M+89dxzXoimubrJLF7zzrw=="
 ---
 

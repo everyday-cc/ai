@@ -54,15 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Dutton walks back offer of a second referendum on Indigenous recognition"
-    excerpt: "Opposition Leader Peter Dutton has walked back his offer to symbolically recognise Indigenous Australians in the constitution, declaring the public is “over” referendums following the Voice’s defeat."
-    publishedDateTime: 2023-10-16T19:36:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/politics/dutton-walks-back-offer-of-a-second-referendum-on-indigenous-recognition/video/f2529455238a2a643effb82710da9ea6"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 3
 
 secured: "1EoAOYxzHbcMJede24QD6JL4eeVNH5kSm3hxrZlAXYcuolcNB/YbbXc+3IYFLo6aAnlCHpFHDBnezVm0IAAtfArOl0M5psmQWI9DQn0G7ZlHGK4FqG1DLScs8ri64z57qA4lwANA010b7RkfOMT+JSHHvVjbaEy1XKMMPDPIowGb2XDvA+MooyEyxeNfTOFG6BA8k3a+7BnbPtqIi2573mQpmJrRsc/18DVgmPe9YKchHRJVutRcYvpM5msgy7KgJX6IaeY4RoIlIhHimy1bnJvVDDIGJaMObnleLrg2mKCbbwGfRfVO/QAbA50FK15Q/ofvHAq9HcBQ+5CXdFPWSHJm4cE1Sq4lQp4oJawHgYPEmTd3Y5vWs20tNh7VLrFkG0B/s2e9cOVejOanjJSJsnlUhc6Fiuk3K4B91fWO7Y0svD/XSUTroOAtoVnC0xsENX9DaZLIto9GeQCLLgHDcvM1V+iG2GpTezhqN5truZcK8GSE2u6f5PY/0jrQvgwBUDu85g1PV6WtPiWtOR727Q==;+SKzPWp8Omjh0dehOfHySg=="
 ---

@@ -40,6 +40,22 @@ related:
         width: 900
         height: 900
         isCached: true
+  - title: "IBM to train 10,000 consultants for Amazon Web Services generative AI in new partnership"
+    excerpt: "IBM is expanding its business partnership with Amazon Web Services with an emphasis on helping clients utilize generative artificial intelligence. That means new training for a lot of people. Here are the details."
+    publishedDateTime: 2023-10-18T14:48:00Z
+    webUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/08/quantum-brain-control-artificial-intel-e1628696856200.jpg"
+        width: 945
+        height: 532
+        isCached: true
   - title: "Data stacks haven’t caught up with generative AI enthusiasm"
     excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
     publishedDateTime: 2023-10-19T20:55:00Z
@@ -82,6 +98,15 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Language Weaver scales development of generative AI technologies"
+    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
+    publishedDateTime: 2023-10-19T09:04:00Z
+    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 19
 
 secured: "cs168/Ot803iGjt4NnD34bo/JVLl7rF12S9D1Y8OEHupCWT+PXhcErdqbBko8e4HPGpG9yzzZRjoSPKvLfJKS7y6t0yDk36IYpdRH0Dy09jaXHg1FeaHQMBubFMbtwod46u+IBB8DMweK6gpN04v0gE82DIugIgZ9A6OPItN1HDuX9gpv4BN0hKPEFAUSforTQq5gDjLuezyHyhjaWY+To488d2QdEKphcStBXqq097VqlDveulLWnGaaFVFmiwrYsbYUjljU35IfyZv52NITCYqhhOsgYqK/A5AltRjoS3RK3BA+RqQVu2Kvl12IFe/scyYjvJPId3DVnYa3OxDn/xtB+pRBo7vpUBG/JGmLHA=;Ob9nBwJqz3D2T4ymXQLy3Q=="
 ---

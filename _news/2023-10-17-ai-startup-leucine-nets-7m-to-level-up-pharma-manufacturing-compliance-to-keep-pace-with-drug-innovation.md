@@ -32,20 +32,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "AI Startup Leucine Nets $7M to Level Up Pharma Manufacturing Compliance to Keep Pace with Drug Innovation"
-    excerpt: "To help make pharmaceutical manufacturing compliant, safer and faster, tech startup Leucine<a href=\" target=\"_blank\"> is today announcing a $7M series A funding round led by Ecolab Inc., a strategic investor,"
-    publishedDateTime: 2023-10-16T16:13:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/ai-startup-leucine-nets-7m-pharma-manufacturing"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 20
-    images:
-      - url: "https://www.automation.com/getmedia/9b2a5228-108f-42e3-b980-c19287840928/Vivek-headshot-oct-16-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
     excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
     publishedDateTime: 2023-10-17T13:25:00Z

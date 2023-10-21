@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the
 webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
-  - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
-    excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
-    publishedDateTime: 2023-10-18T16:05:00Z
-    webUrl: "https://www.aol.com/nvidia-thought-found-way-around-130504385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 22
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/1R3_9tpxnJuHS3k5R4jqeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/27c0635b4b7fb62b8197ebac44b306d7"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "hmWt4Ooc11DtY+nZ1uFncTQTxMo2HpBJqzREww68H6haEXaXE5cSDWwuyTrox3yaLQojreq7mbSNhauV1g0dapcf86hOywOWCl6Vv/DynZKNki2w6ZO/Y3vMSXn+Q5gQdWcBtpPU1lP3l2gsLOzH2jq4wQ+5NEkEowqCNq6ONtsiESI6e4wlzwtr6tkYeGRVoHougiIAvfnTymlP780p0rZrg6M8lqH4X8OzMEAPwiJK/UavC+B0Xc3InUGII4JjCDgdbZrJgUp8Q9ymUf6OkHShy2N1QcYJlpManVz4L5+6rd6/6OhpXrR/jtBlsVHr2pw2NRaihtbrsW16zlGryweoSSIqjRF8GTpqy9qSFfM=;VF48AEKbv4PnCKwSavl/Bg=="
 ---

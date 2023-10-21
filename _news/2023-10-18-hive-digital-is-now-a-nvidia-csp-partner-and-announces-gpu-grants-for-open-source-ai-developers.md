@@ -39,6 +39,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia's shares tumble after the Biden administration announced new restrictions on AI chips sales to China"
+    excerpt: "Nvidia won't be able to sell to China the chips it designed specifically to get around the White House's last set of export controls."
+    publishedDateTime: 2023-10-17T19:05:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/17/nvidia-stock-hit-by-bidens-new-export-controls.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
 
 secured: "aQA5CWIScuc/e4tae4GEQyWTjxFvvwe8CtwksQZOLK0EyESgcaOYWnFyaEUKLaFNudmmqYIINOjU3rMiAvx7iMRQYibYKYklXpNzajwdFjbT7HVVT8FH7f6PPi3ZBZBxmV/7ZunWtOHiQriNYLaaFeineh92qBPsjQ7sq9TZgtZwrrBYZaecMUijvec6UWJBaawJ+ElIy0SUmcFQNqne6hehL1OyaeLxbjFZOv9cwTnZSTlQvlc7hrTmjSYjkS8cTuesE3ZOiAcSTTAIM+qYeeZ/+LwdvyadgEj1j+di5VtekR1teuLwPbqHAEhHP2yjWOOOlUTwJtX1WQTTePeA6JLKL4tO3jH6zrSFWZP67JE=;UdmGy/NwkVbp9vBBb9W2wQ=="
 ---

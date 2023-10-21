@@ -125,6 +125,20 @@ related:
         width: 511
         height: 287
         isCached: true
+  - title: "Hong Kong Fintech Week 2023 “Fintech Redefined.”"
+    excerpt: "In addition, the cross-boundary Greater Bay Area Day will be resumed on October 31, presenting ample opportunities and synergies between Hong Kong and Shenzhen. A full day forum will be organised in Shenzhen, followed by a series of concurrent company tours to Mainland tech giants."
+    publishedDateTime: 2023-10-21T11:27:00Z
+    webUrl: "https://menafn.com/1107279654/Hong-Kong-Fintech-Week-2023-Fintech-Redefined"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?849512"
+        width: 375
+        height: 249
+        isCached: true
 
 secured: "843ol/c42qRNQcR+HJKEsHFnVGHX01ytjZFKtD3HSNxhDRjE589BYvQQ6NSvCPn1XnVQNnPKiBsdA7q1GkBEUyQp0CT9/4gfyUSGx+CXb4+d7XCQL5vHgHBQU6DmWk7hiA4QYCjEh0MfLssVIj8B1zNiU/reI/MMknvQ55AUE3Z49yDoj6A0HewmAj1Lji780BgolOq4m7veuAWI5WpEwbHTt1VBbbEbdkdt4smYM7yubcEKxZPHRuci/QUpk8hjDIzh2UIkca/S81X5j4NfDjBQt/stJyquqGQScTRok/thX00mVtyf4fTBcDbY7TvP1GA/0sfdMo8Sa50iiLmhnM0I1AH9k4j2y3oZ8IWARJw=;glDgGdBhvhaScYGYWAs2yw=="
 ---
