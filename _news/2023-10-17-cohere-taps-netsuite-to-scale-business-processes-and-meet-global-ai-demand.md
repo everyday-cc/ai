@@ -27,6 +27,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Accenture Amplifies SAP Investment to Enhance AI Solutions in Core Business Processes"
+    excerpt: "Accenture is collaborating with SAP to help organizations adopt generative AI across their core business processes. Together,"
+    publishedDateTime: 2023-10-18T14:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/accenture-amplifies-sap-investment-to-enhance-ai-solutions-in-core-business-processes/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 12
 
 secured: "HTY74i/XEYJd8WRrh6CIdMsKUHsxAcpbHTkeFGROpRF1U1Gn9ya1P1ddDuJlgrPr6tGXEWcKZ3CHG29iWd41EzLmomD4eW0lGabVe6c+V+Z41azLdj/khJXM54u2Pc3Z/FoDwfqRuP5IWKVhJXyHKAquoXQ4drC+pPtQxgMVpS+UgOQC8KMm6MsVTjo7mMZs49qoYnBrUHVCQQuP6u+rn0WcyL8CWUMC6zebN1xafqoWe+VDXyovTZCCdlwZ5OQ9i7GL49rdpCsj+AbZaAOapD977hRdLKFZl7A8oASCwRUloee09nL6GMeewIz39TuzGSTWY7hZPWJYA5mzdM56bkPmx2CW07ErbrvHevilu0M=;SgzyJyPmJ9xdR2tYCX908w=="
 ---

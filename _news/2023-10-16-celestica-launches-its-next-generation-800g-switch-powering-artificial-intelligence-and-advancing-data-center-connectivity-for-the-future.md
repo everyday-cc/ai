@@ -22,22 +22,43 @@ topics:
   - AI
 
 related:
-  - title: "KT launches high-performance cloud specialized for AI service"
-    excerpt: "KT Cloud launched a powerful cloud computing service designed for AI service development, which will help boost its AI infrastructure business, the cloud subsidiary of KT said on Monday."
-    publishedDateTime: 2023-10-16T07:09:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/133_361230.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361230"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361230"
+  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
+    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
+    publishedDateTime: 2023-10-17T09:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
     type: article
     provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 59
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: "https://img.koreatimes.co.kr/upload/thumbnailV2/d1276185860f4178bf94a03c378896f9.jpg"
-        width: 750
-        height: 500
+      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
+        width: 800
+        height: 450
         isCached: true
+  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
+    excerpt: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform <br />  LOS ANGELES, CA, Oct 18,"
+    publishedDateTime: 2023-10-18T23:52:00Z
+    webUrl: "https://menafn.com/1107266135/DGPT-Announces-Launches-Its-New-Generation-Artificial-Intelligence-Computational-Power-Sharing-Platform"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/AN_c4040307-0_Image_In_Body.jpg"
+        width: 672
+        height: 378
+        isCached: true
+  - title: "LTX by Broadridge Launches BondGPT+ To Empower Enterprise Financial Services Clients with Custom Generative AI Solutions"
+    excerpt: "BondGPT+ builds on award-winning launch of BondGPT to add premium features and seamless enterprise integration NEW YORK,  /PRNewswire/ -- LTX, a subsidiary of global Fintech leader, Broadridge Financial Solutions,"
+    publishedDateTime: 2023-10-18T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ltx-broadridge-launches-bondgpt-empower-enterprise-financial-services-/2023/10/18/9900857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "QbUdALu6ySKg5Fm9wnB3Pn7lbX6DyM2MgtDxUcB3BjZCLh+Hjs7t3W+qI02WliRT9tcdifIWE9cm2Ae5LWoToWZGL/wnc6OZA1SJbXtcUt+mP/8ghTQUp647GLNpNHY40Mdzbyed7N8jUZJwCQsmVirds+lrIIGZXNIPtOAoYLuUYpnaYBvNes3Dw5+9mE1HFws7kgH/OIooP9yLFb8FiJuV5yBj5hqvxX8NHUzdaZxtDqVAiJIrUb/5lreQNeLOt8/P5F822xppSjw2CaT++Dcc3FDP+LO9U+fROnyhfKWrfvizaXR9Ltum938GU7MpbVZvYkwLGMcSbsfZGZGC6366QEPwEZhqRtQjmL028GA=;U+OB1DIrngQhJsYTvdKy1g=="
 ---

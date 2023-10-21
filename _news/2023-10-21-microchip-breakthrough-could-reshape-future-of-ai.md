@@ -43,6 +43,22 @@ related:
         width: 640
         height: 290
         isCached: true
+  - title: "How AI Is Shaping The Future Of The Luxury Watch Market"
+    excerpt: "Luxury watches are a $75 billion market, with secondhand sales making up roughly $22 billion. Demand is heating up, particularly among Gen Z and Millennials."
+    publishedDateTime: 2023-10-21T01:05:00Z
+    webUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/"
+    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/10/20/how-ai-is-shaping-the-future-of-the-luxury-watch-market/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65331f003ed6d36d5f46f53f/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 800
+        height: 800
+        isCached: true
   - title: "How Generative AI Will Revolutionize The Future of Your Brand"
     excerpt: "AI is limited — even stunted at times ... Iteration is one of the most common pitfalls that startup owners fall into — and one of the biggest black holes into which your time falls, never to be regained. For instance, getting a logo just right takes ..."
     publishedDateTime: 2023-10-17T04:51:00Z

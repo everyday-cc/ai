@@ -2,100 +2,6 @@
   "page": 108,
   "value": [
     {
-      "path": "_news/2023-08-04-cloud-data-systems-and-edge-ai-make-a-major-impact-on-todays-data-science.md",
-      "title": "Cloud Data Systems and Edge AI Make a Major Impact on Today’s Data Science",
-      "excerpt": "Gartner outlines the top trends in machine learning and data science, including the impact of generative AI. Learn more about the top trends with our article.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-machine-learning-data-science-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/08/tr-gartner-machine-learning-data-science-trends.jpg",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-04-these-cmu-robotics-research-projects-are-tackling-lanternflies-and-av-safety.md",
-      "title": "These CMU robotics research projects are tackling lanternflies and AV safety",
-      "excerpt": "Carnegie Mellon roboticists have spent the summer collecting data and fine-tuning their work. Check out three new discoveries.",
-      "sourceUrl": null,
-      "webUrl": "https://technical.ly/software-development/cmu-robotics-research-tartanpest-tartandrive/",
-      "originalUrl": "https://technical.ly/software-development/cmu-robotics-research-tartanpest-tartandrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technical.ly/wp-content/uploads/2023/08/computer-vision2000x1000.png-e1691097228918.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-03T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technical",
-        "domain": "technical.ly",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-03-enhancing-aws-intelligent-document-processing-with-generative-ai.md",
       "title": "Enhancing AWS intelligent document processing with generative AI",
       "excerpt": "Data classification, extraction, and analysis can be challenging for organizations that deal with volumes of documents. Traditional document processing solutions are manual, expensive, error prone, and difficult to scale. AWS intelligent document processing (IDP), with AI services such as Amazon Textract,",
@@ -1195,6 +1101,92 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models.md",
+      "title": "The Secret Sauce Of AI Companies: The Importance Of Human-Annotated Data In High-Performing Machine Learning Models",
+      "excerpt": "A critical component in the data annotation process is quality assurance. Despite the advances in machine learning and AI, the human touch in reviewing and verifying data remains paramount. The complex nuances, context understanding and creative interpretations that human intelligence brings to the table can't be entirely replicated by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cd9b4f42bed4cf122c801/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
+      "publishedDateTime": "2023-08-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung.md",
+      "title": "AI chip maker Tenstorrent raises $100 million from Hyundai and Samsung",
+      "excerpt": "Tenstorrent closes $100M up-round led by Hyundai Motor Group and Samsung Catalyst Fund to accelerate AI chip and ML software development. Funding will help the company design and develop AI chiplets and strengthen Hyundai Motor Group's capabilities in AI tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung/article67153601.ece/amp/",
+      "publishedDateTime": "2023-08-03T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

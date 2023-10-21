@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-rade
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp"
 type: article
 quality: 58
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Firstpost
@@ -35,7 +35,12 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 44
+    quality: 64
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-20-image-5.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "New AMD Radeon RX 7900M laptop GPU looks to compete with the RTX 4080"
     excerpt: "The latest edition to the flagship Radeon GPU line is made up of 72 AMD RDNA 3 compute units, and contains new AI and second-generation ray tracing accelerators. Along with its 16GB of high-speed GDDR6 VRAM, 256-bit bus, and 64MB of Infinity Cache ..."
     publishedDateTime: 2023-10-20T09:17:00Z

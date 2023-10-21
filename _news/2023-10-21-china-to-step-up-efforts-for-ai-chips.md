@@ -57,16 +57,7 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "US eyes AI chip curbs for Chinese units"
-    excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
-    publishedDateTime: 2023-10-16T07:52:00Z
-    webUrl: "https://www.semiconductorpackagingnews.com/news/83632.html"
-    type: article
-    provider:
-      name: Semiconductor Packaging News
-      domain: semiconductorpackagingnews.com
-    quality: 34
 
-secured: "FA4LMRSjxbgOiQxzcNzVryD9rXeMq8NIiVbg3UzY0GGH2gRH/nLIvMSyBTR9b31m3XgKEa2W/GVRItIPkNpbRTFu8LZQ7jqKV0+6h0gnfLZZOi6yQhI2Kml3Gb3FQ7ZFq6h4kL6KNOS1qjYEIT9FFuaXNDSpFGie9m441AZmpg1DHjqQFK0M9pqawcKB/JtvOkA6baCUTXbsDg2ujA+rGbiPchQ875SQk1qtE9Y+kMF4stLQuZ7fEx/USwoRS/L+4n43p8pkCoz+l/6nMnQTCScLLbaBPEGENOY34h/uivcujZPumelx56g8l4LaHK0aKjYj9RmH7DvLXcJd/THp/C7dwlqP32/wKx5pJtgQhcg=;gWXzGOlkqlN0WAbUtkUyIg=="
+secured: "LnzMbSps37x/zwv2zKhSEuFxcZtFCoaYk/dLtirxsIy/iyI6ilsKPF6fDZjibI1kKmXYmlUX+CfDsQYyuX1TRSWsLMt7DhdqLG3YrTrTLa/d2J/eCdc70HT7a2Ot8LlXI+mhd18jxAtDu9x48EF1zBDfYwc0JMsS1o05yHRV1bmqltl9ZYI7jEVqu2TgfEANBjLeOL4c790M6pZXRLXI+fMVJ/TUd76z3wX16/zJ47bcHifpilcvBeZreJmn2cZgfOBHpv4IKUNb2Brhk2zeNz7wx7BfUCk81ZgBQ4Va5yh4SfSVC401r+3fhZTVA4wnWDVmEl6Xg7wrKnAVFGUush1Enq153iES9C6bHOX4+QBzLRQ58gTahgEQLpGzn9hHG7RH0CDV4JwEsvj6E6kFavAfocWZHVcY86hSEil4rVYskyeWlWpelHFnOm2Yd0StoD2Cy1qvSsZ4l8fzOEr+LxGDRb+GQmreGQ0FAtbX028lQoWv0oPLvG0ptE5JNXvfn3HcfRiTCO6NjGC+yoIDQQ==;iYl2Ij4Saa+932rl+vgE6w=="
 ---
 

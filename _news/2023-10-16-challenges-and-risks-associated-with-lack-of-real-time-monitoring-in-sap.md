@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/challenges-and-risks-associated-with-lack
 webUrl: "https://www.ibm.com/blog/challenges-and-risks-associated-with-lack-of-real-time-monitoring-in-sap/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: IBM
@@ -22,15 +22,15 @@ topics:
   - IBM AI
 
 related:
-  - title: "Six keys to achieving advanced container monitoring"
-    excerpt: "90% of global enterprises will use containerized applications and one in five apps will run in containers by 2026.\nThe post Six keys to achieving advanced container monitoring appeared first on IBM Blog.\n"
-    publishedDateTime: 2023-10-16T09:00:00Z
-    webUrl: "https://www.ibm.com/blog/six-keys-to-achieving-advanced-container-monitoring/"
+  - title: "Unleashing real-time insights: Monitoring SAP BTP cloud-native applications with IBM Instana"
+    excerpt: "A powerful solution for incident prevention and observability in the dynamic and complex realm of cloud environments.\nThe post Unleashing real-time insights: Monitoring SAP BTP cloud-native applications with IBM Instana appeared first on IBM Blog.\n"
+    publishedDateTime: 2023-10-17T18:55:31Z
+    webUrl: "https://www.ibm.com/blog/unleashing-real-time-insights-monitoring-sap-btp-cloud-native-applications-with-ibm-instana/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 82
+    quality: 71
 
 secured: "ZS/U7JXkfqZEIeSXDHGM8mCBmDlSHVPZeKdfJRH5XHz5kQcLGiAkEI7mUjRrV7D/m7j58oZ/fWpY+7mNhkgD9JizggstiSdbMGqXGzDTAs+b/rqECPBMrux+6DWSGSG0ESienHtiGHEfZLgY3SVEziLmeeqSBuQyCmaQnMwnAVbmjuV4RWVn/wyFoUibPiBKIEdnPtvOCEREe2C1RT6JCyzAJHQ1DBDLGBGvC8nerrvFS/OGmyWqMcNkcS8LZZ2LjrWDaAfuO3Wqk/fznZfq3zur7nixsUa/tVNgGGwKdHwGNXxA+Z0a2nAd+JNgp6qKXvRG9le7rDPogNok2M3YjQnGRWLG8wYd7srPfRqhcqY=;WqO/4rLhqC/mefV8eJsJdQ=="
 ---

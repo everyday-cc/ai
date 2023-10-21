@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-expor
 webUrl: "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4"
 type: article
 quality: 84
-heat: 324
+heat: 304
 published: true
 
 provider:
@@ -285,20 +285,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Exclusive: Google Pixel 9 processor won't be the ambitious chip we … – Android Authority"
-    excerpt: "Affiliate links on Android Authority may earn us a commission. Learn more.When Google introduced its first Tensor chipset with the Pixel 6, its intentions"
-    publishedDateTime: 2023-10-16T07:26:00Z
-    webUrl: "https://www.inferse.com/756890/exclusive-google-pixel-9-processor-wont-be-the-ambitious-chip-we-android-authority/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 30
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-9980.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tech war heats up: US cuts China off from AI chips – Nvidia, Intel, AMD are affected"
     excerpt: "The Biden administration is reducing the types of semiconductors that American companies will be able to sell to China, citing the desire to close loopholes in existing regulations announced last year."
     publishedDateTime: 2023-10-18T11:53:00Z
@@ -308,15 +294,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 27
-  - title: "US China tech 'war': New rules coming to stop American companies from exporting AI chips"
-    excerpt: "The US is set to introduce new rules that will make it harder for US companies, like Nvidia, to sell products to China. These export controls are expe"
-    publishedDateTime: 2023-10-16T08:35:00Z
-    webUrl: "https://www.headlinestoday.in/technology/us-china-tech-war-new-rules-coming-to-stop-american-companies-from-exporting-ai-chips-624307790.html"
-    type: article
-    provider:
-      name: headlinestoday
-      domain: headlinestoday.in
-    quality: 25
   - title: "Chip stocks fall as U.S. moves to close loopholes in effort to curb AI chip exports to China"
     excerpt: "AMD (NASDAQ:AMD), and Intel (NASDAQ:INTC) fell in early trading Tuesday as new rules from the Biden administration will make it harder for China to buy AI and other advanced U.S. chips. The objective of the move is to address apparent weaknesses in export controls that were introduced a year ago."
     publishedDateTime: 2023-10-17T13:12:00Z

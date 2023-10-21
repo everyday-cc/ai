@@ -81,15 +81,6 @@ related:
         width: 1920
         height: 845
         isCached: true
-  - title: "AI is everywhere: Strategies to safeguard your company’s innovation"
-    excerpt: "Governance is the foundation on which companies build responsible AI practices. It not only ensures compliance with laws and regulations, but it also fosters transparency. To manage AI adoption, companies should form a stakeholder committee to create policies that align with industry requirements and organizational goals."
-    publishedDateTime: 2023-10-16T09:05:00Z
-    webUrl: "https://www.crainscleveland.com/custom-content-thought-leadership/ai-everywhere-strategies-safeguard-your-companys-innovation"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 19
 
 secured: "G27itjV6KuFUEry8eA3lnjADsnImrg+3Bg+6pxJ1JkcTasFP+p8ywhmOkVRkBpNU98F8vdFx903P+uGv/uk0ty6jKs8NKL9HWMivSCQKM1p5O6Z/xyd1Oc/ALD0Hefr7598ceE8DYVQo595d/6TSGjVPiQgvhnfk8LLYVm4ndmW6qWDFxopw0u6t/UqcpbF8mRPyYM8SWnmiRmTAwRju6iTmfdM3Xd0nYpkHblLMHUb+MPpr8EV9Bw+DQ7lDMb+raC5/HYe9W3wfInipyDeuXHKx5ZRGpsqTC2qMayxR5X2vFNTqjJVa1fSfASsGG4z8SQNcaWM7v/0XLDR5pdM8wZioLRzCC3oPUhHb00FmyCY=;HaUeoSwjyYyvWvrCPxChag=="
 ---

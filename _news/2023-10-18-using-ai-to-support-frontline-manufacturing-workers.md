@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI and smart mouthguards: the new frontline in fight against brain injuries"
-    excerpt: "Tech wizardry is helping to reduce head impacts and drive equipment innovation in rugby, boxing and the NFL"
-    publishedDateTime: 2023-10-16T07:31:00Z
-    webUrl: "https://www.theguardian.com/sport/blog/2023/oct/16/ai-and-smart-mouthguards-the-new-frontline-in-fight-against-brain-injuries?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/sport/blog/2023/oct/16/ai-and-smart-mouthguards-the-new-frontline-in-fight-against-brain-injuries"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/blog/2023/oct/16/ai-and-smart-mouthguards-the-new-frontline-in-fight-against-brain-injuries"
+  - title: "AI, machine learning discussed at Manufacturing Luncheon in Broken Arrow"
+    excerpt: "The luncheon is an annual event that brings together industry leaders and professionals to explore the future of manufacturing in the community."
+    publishedDateTime: 2023-10-17T18:30:00Z
+    webUrl: "https://www.fox23.com/news/ai-machine-learning-discussed-at-manufacturing-luncheon-in-broken-arrow/article_9bc936cc-6d1c-11ee-9d13-83f184322555.html"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 55
+      name: Fox 23
+      domain: fox23.com
+    quality: 53
     images:
-      - url: "https://i.guim.co.uk/img/media/7b2ea3816f199f5a2752da6b970e01b5a5c7c88f/0_260_4058_2435/master/4058.jpg?width=620&quality=85&auto=format&fit=max&s=36676d73cefd138defd229e04843739b"
-        width: 620
-        height: 372
+      - url: "https://bloximages.chicago2.vip.townnews.com/fox23.com/content/tncms/assets/v3/editorial/f/2c/f2c76144-6d24-11ee-b013-97ef613d9624/652ee3392932b.image.jpg?crop=1218%2C639%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "LcMG0MdHwKaoz4PG7NCiwD3ri8WIgxHqmK5XpJ2NszJ3bmTPj0KiCijm3sEbHul/Az2vUm4YfEHGpwje5Sk9vFIdbVkzP3gW8O5FocJF/TIm7VCHnN0dtoGuqY6FEvkmwVj6GDJg3+CwKMpIsZZD1giUo1mnkAzA0nrfnYHtA2MhlXzz9dZRsUEWpmPZOIrySnK8JKUuvAA4mZz/8Zikd01/PXP2vtcp5YMkV3vDaFGQAgICTa5FX2s/XBN/FgSDMMN4KnwUmEh/sgzFRFjzbkIAnT8FHBxfGNv1irfHVQzpFlPeE7/Omxz+IBnSt7xptx6LWdWFuM0pv8T1c9xKHTS+ZnCcamN91UcqfKp9GCY=;iOb8u/9oYhzLBHwT22ObRw=="

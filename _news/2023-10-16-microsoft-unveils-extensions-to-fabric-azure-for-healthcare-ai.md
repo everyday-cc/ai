@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabr
 webUrl: "https://www.zdnet.com/article/microsoft-unveils-extensions-to-fabric-azure-for-healthcare-ai/"
 type: article
 quality: 116
-heat: 496
+heat: 486
 published: true
 
 provider:
@@ -461,15 +461,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
-  - title: "DataTrue launches privacy leak detection supported by Microsoft AI … – Microsoft"
-    excerpt: "By Microsoft News Center The data auditing platform Datatrue announces today the launch of a patented data validation and personal"
-    publishedDateTime: 2023-10-16T07:26:00Z
-    webUrl: "https://www.inferse.com/756889/datatrue-launches-privacy-leak-detection-supported-by-microsoft-ai-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
   - title: "Microsoft and Epic expand AI collaboration to accelerate generative … – Microsoft"
     excerpt: "Eric Boyd, Corporate Vice President, AI Platform, Microsoft Today, the promise of technology to help us solve some of the biggest challenges we"
     publishedDateTime: 2023-10-16T16:11:00Z

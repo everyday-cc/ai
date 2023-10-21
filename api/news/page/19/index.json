@@ -2,100 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2023-10-06-the-iphone-for-ai-betting-big-on-artificial-intelligence.md",
-      "title": "The ‘iPhone For AI’: Betting Big On Artificial Intelligence",
-      "excerpt": "Despite all the hype surrounding the internet throughout the 1990s and early 2000s, the internet didn’t really take off until Steve Jobs introduced the iPhone in 2007. Until the iPhone’s release, the internet was something a few people used for work ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-tesla-engineer-defends-full-self-driving-name-at-crash-trial.md",
-      "title": "Tesla engineer defends 'Full Self-Driving' name at crash trial",
-      "excerpt": "SAN FRANCISCO, Oct 5 (Reuters) - A Tesla (TSLA.O) engineer in court on Wednesday rejected a lawyer's suggestion that the company named its driver-assistant feature \"Full Self-Driving\" because it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/tesla-engineer-defends-full-self-driving-name-crash-trial-2023-10-05/",
-      "originalUrl": "https://www.reuters.com/legal/tesla-engineer-defends-full-self-driving-name-crash-trial-2023-10-05/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/7egOyeK0G_x1QtI1rGBCvXbELBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZEG65746BZI6FC4YSD272FMKNA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T12:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-06-every-enterprise-plans-to-increase-ai-spending-next-year.md",
       "title": "Every enterprise plans to increase AI spending next year",
       "excerpt": "An MIT Tech Review survey of 600 firms found almost half said they would boost spending on data infrastructure and AI by more than 25% in the coming year.",
@@ -1179,6 +1085,108 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-successfully-integrating-ai-to-address-burnout-and-enhance-efficiency.md",
+      "title": "Successfully Integrating AI To Address Burnout And Enhance Efficiency",
+      "excerpt": "The integration of AI into the workplace is a double-edged sword that, when wielded thoughtfully, can greatly enhance productivity and promote employee well-being.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/651dcd086a3358713ea8dbc1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
+      "publishedDateTime": "2023-10-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-05-the-us-isnt-ready-for-the-new-age-of-ai-fueled-disinformationbut-china-is.md",
+      "title": "The U.S. Isn’t Ready for the New Age of AI-Fueled Disinformation—But China Is",
+      "excerpt": "Thanks to generative AI, the impact of China’s social media manipulation will be both greater in volume and more convincing",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6320638/ai-disinformation-china/",
+      "originalUrl": "https://time.com/6320638/ai-disinformation-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/10/GettyImages-1441688102.jpg?quality=85",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

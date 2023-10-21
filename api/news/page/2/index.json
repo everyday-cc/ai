@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-19-tesla-hits-the-brakes-on-evs-but-not-on-ai.md",
+      "title": "Tesla Hits the Brakes on EVs, but Not on AI",
+      "excerpt": "After years of growing at breakneck speed, the carmaker seems to be slowing down. That puts even more pressure on its big AI bets to deliver results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
+      "originalUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-869941/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-intels-new-ai-pc-acceleration-program-aims-to-rev-up-ai-software-development.md",
       "title": "Intel's New 'AI PC Acceleration Program' Aims to Rev Up AI Software Development",
       "excerpt": "Bracing for the next big step in the evolution of AI in computing, Intel plans to hold its software-developer partners’ hands the whole way there.",
@@ -164,7 +216,7 @@
       "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -559,7 +611,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -799,15 +851,59 @@
       ]
     },
     {
+      "path": "_news/2023-10-19-mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities.md",
+      "title": "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities",
+      "excerpt": "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq",
+      "originalUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NGRiNzMzNDAtMjVhMS00/0/1498385993.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1",
+      "publishedDateTime": "2023-10-18T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-met-police-to-keep-using-facial-recognition-on-prolific-shoplifters.md",
       "title": "Met Police to keep using facial recognition on prolific shoplifters",
       "excerpt": "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-london-67149222",
-      "originalUrl": "https://www.bbc.com/news/uk-england-london-67149222",
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-london-67149222?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-london-67149222?at_medium=RSS&at_campaign=KARANGA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -821,23 +917,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-67149222.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-london-67149222.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-london-67149222.amp",
       "publishedDateTime": "2023-10-18T22:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "domain": "bbc.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1149,101 +1236,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-beer-lines-and-retail-theft-spur-biometrics-computer-vision-launches.md",
-      "title": "Beer lines and retail theft spur biometrics, computer vision launches",
-      "excerpt": "Biometrics are appearing in more retail settings as businesses attempt to cut staff and fraud costs, but so are adjacent AI technologies that do not identify.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202310/beer-lines-and-retail-theft-spur-biometrics-computer-vision-launches",
-      "originalUrl": "https://www.biometricupdate.com/202310/beer-lines-and-retail-theft-spur-biometrics-computer-vision-launches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/10/18165403/shutterstock_494954623-scaled.jpg",
-          "width": 2048,
-          "height": 1367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-bluebirds-bags-5m-for-sales-ai-that-finds-the-best-leads-first.md",
-      "title": "Bluebirds bags $5M for sales AI that finds the ‘best leads first’",
-      "excerpt": "Bluebirds will use the funding to grow its tech team and add new AI-powered triggers to identify strong prospects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/bluebirds-bags-5m-for-sales-ai-that-finds-the-best-leads-first/",
-      "originalUrl": "https://venturebeat.com/ai/bluebirds-bags-5m-for-sales-ai-that-finds-the-best-leads-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/line_art_cute_blue_birds_flying_in_dollar_rainf.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

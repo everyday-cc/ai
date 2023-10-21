@@ -6,8 +6,8 @@
       "title": "Meet the millionaire using Artificial Intelligence to develop life-saving drugs",
       "excerpt": "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-67171042.amp",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-67171042.amp",
+      "webUrl": "https://www.bbc.com/news/uk-wales-67171042",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-67171042",
       "featuredContent": null,
       "highlight": null,
       "heat": 148,
@@ -612,6 +612,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-20-amds-new-flagship-radeon-rx-7900m-mobile-gpu-comes-with-4608-cores-16gb-vram.md",
+      "title": "AMD's new flagship Radeon RX 7900M mobile GPU comes with 4,608 cores & 16GB VRAM",
+      "excerpt": "AMD claims that the new card would not only enable gamers to experience 1440p gaming on their laptops, but also allow content creators to render complex",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html",
+      "originalUrl": "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-20-image-5.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-the-urgent-need-for-marketing-ai-and-automation-education.md",
       "title": "The Urgent Need For Marketing AI And Automation Education",
       "excerpt": "Businesses of all sizes are using these technologies to streamline their operations, improve their customer targeting, and boost their sales.",
@@ -620,7 +672,7 @@
       "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 441,
+      "heat": 431,
       "tags": null,
       "images": [
         {
@@ -1051,7 +1103,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1146,58 +1198,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-tesla-hits-the-brakes-on-evs-but-not-on-ai.md",
-      "title": "Tesla Hits the Brakes on EVs, but Not on AI",
-      "excerpt": "After years of growing at breakneck speed, the carmaker seems to be slowing down. That puts even more pressure on its big AI bets to deliver results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
-      "originalUrl": "https://www.wsj.com/business/autos/tesla-is-hitting-the-brakes-on-everything-but-ai-3ef7ce85?mod=hp_lead_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-869941/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

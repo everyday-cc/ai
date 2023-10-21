@@ -89,6 +89,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Azure OpenAI Service enhances AI models with fine-tuning capabilities"
+    excerpt: "The recent update on the Azure OpenAI Service has introduced fine-tuning capabilities for several models, including GPT-3.5-Turbo, Babbage-002, and"
+    publishedDateTime: 2023-10-17T15:23:00Z
+    webUrl: "https://www.onmsft.com/news/azure-openai-service-enhances-ai-models-with-fine-tuning-capabilities/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
     excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire"
     publishedDateTime: 2023-10-17T14:01:00Z

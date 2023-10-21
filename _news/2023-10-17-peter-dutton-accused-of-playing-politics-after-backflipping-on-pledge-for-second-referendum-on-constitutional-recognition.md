@@ -43,22 +43,26 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Dutton accuses Labor of trying to be 'tricky' with wording of referendum question to 'cloak' Voice in constitutional recognition"
-    excerpt: "Opposition Leader Peter Dutton has accused Labor of being \"tricky\" with the wording of the referendum question because it \"knew there was support for recognition but not for the Voice\"."
-    publishedDateTime: 2023-10-16T08:56:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e"
-    ampWebUrl: "https://www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e?amp"
-    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/dutton-accuses-labor-of-trying-to-be-tricky-with-wording-of-referendum-question-to-cloak-voice-in-constitutional-recognition/news-story/2b7f1649edbc2e06c50880714b622d7e?amp"
+  - title: "Referendum on Indigenous recognition wrecked by poor Yes campaign and No camp misinformation"
+    excerpt: "The defeat of the referendum to recognise Indigenous Australians in the Constitution is a tragedy for Australia. Indigenous people voting in remote and regional areas overwhelmingly voted Yes while the nation overall voted No."
+    publishedDateTime: 2023-10-16T23:30:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff"
+    ampWebUrl: "https://www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/commentary/referendum-on-indigenous-recognition-wrecked-by-poor-yes-campaign-and-no-camp-misinformation/news-story/ae8341a152a0618277832abf851dc9ff?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 28
+  - title: "Dutton walks back offer of a second referendum on Indigenous recognition"
+    excerpt: "Opposition Leader Peter Dutton has walked back his offer to symbolically recognise Indigenous Australians in the constitution, declaring the public is “over” referendums following the Voice’s defeat."
+    publishedDateTime: 2023-10-16T19:36:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/politics/dutton-walks-back-offer-of-a-second-referendum-on-indigenous-recognition/video/f2529455238a2a643effb82710da9ea6"
     type: article
     provider:
       name: Sky News Australia
       domain: skynews.com.au
-    quality: 15
-    images:
-      - url: "https://content.api.news/v3/images/bin/0fb85e99d5fba0e62e9c47a182f23e6a"
-        width: 1280
-        height: 720
-        isCached: true
+    quality: 3
 
 secured: "KOV1JLX2rCC7IbO0Q3CY2WIA2lfN9CObFy2GMWMDXFVf76AG0pol45KVa8onUK/cWxaqEI10CtxeybcngXkAwJDKaC5y+8fLK9W8dO2T2ixGnxaADzTMOjuPSI7ilyMc04m4ISBHuT4CyxmMBGoBCjrn7Kr3wmQlPxXVjbiFgwqGhKGZvcXmzIR8Saq9ycWPbsv1htmAe6EyeuGUBSRPqdnV0wTTyWGb9eSCsrwEgdNiWUIz7T4QJDjfweOJk8Zb91sCeKQktxH5sKmI9YZ6CM/6usgn7XFnGC8Mq8Rw3amXy209qJn9qfGjvGDjLioOtFydInCEXRTCSVQ9FcZx4T9qZ9U/2VNgsmcRcNg0tb0=;RCAR7AKf5IYSrLgqEgXRow=="
 ---

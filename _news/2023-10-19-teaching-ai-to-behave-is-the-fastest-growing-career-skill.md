@@ -30,7 +30,7 @@ related:
   - title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
     excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
     publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
+    webUrl: "https://www.bbc.com/news/uk-wales-67171042"
     ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
     type: article

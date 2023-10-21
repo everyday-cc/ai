@@ -2,83 +2,6 @@
   "page": 106,
   "value": [
     {
-      "path": "_news/2023-08-06-self-driving-shuttles-headed-to-detroit-select-residents-will-qualify-for-free-rides.md",
-      "title": "Self-driving shuttles headed to Detroit; select residents will qualify for free rides",
-      "excerpt": "A number of Detroit’s older residents and those with disabilities who don’t qualify for paratransit services could have a chance beginning next year to use self-driving shuttles to get to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
-      "originalUrl": "https://www.freep.com/story/news/local/michigan/detroit/2023/08/04/detroit-self-driving-shuttles-elderly-disabled-residents/70506876007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-05T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-05-jp-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin.md",
-      "title": "J.P Morgan To Launch AI Program To Boost AI Fintech Innovation In Partnership With TIFIN",
-      "excerpt": "In a significant move for the fintech sector, TIFIN, a leading artificial intelligence (AI) platform for wealth, and J.P. Morgan (NYSE: JPM) have announced the launch of TIFIN.AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
-      "originalUrl": "https://www.benzinga.com/fintech/23/08/33585861/j-p-morgan-to-launch-ai-program-to-boost-ai-fintech-innovation-in-partnership-with-tifin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/08/04/contributors_4_0.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33585861",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33585861",
-      "publishedDateTime": "2023-08-05T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-05-recalling-a-wild-ride-with-a-robotaxi-named-peaches-as-regulators-mull-san-francisco-expansion-plan.md",
       "title": "Recalling a wild ride with a robotaxi named Peaches as regulators mull San Francisco expansion plan",
       "excerpt": "I won’t forget the first time I took a ride in a car without anyone sitting in the driver’s seat. It happened one night last",
@@ -1176,6 +1099,84 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-ai-and-ml-the-two-biggest-trends-in-robotics-today.md",
+      "title": "AI and ML: The two biggest trends in robotics today",
+      "excerpt": "AI and ML applications for packaging robotics are growing rapidly, helping robots perform tasks more efficiently and eliminating the need for manual programming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22866396/ai-and-ml-lead-packaging-robotics-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2023/08/DLR_Packaging_Robotics.64caac0985d15.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-08-04-artificial-intelligence-is-changing-the-way-mercy-delivers-care.md",
+      "title": "Artificial intelligence is changing the way Mercy delivers care",
+      "excerpt": "Together with the Mayo Clinic and three recently announced health care organizations in Israel, Brazil, and Canada, Mercy has entered into a partnership in which it will use artificial intelligence and de-identified patient data to try to improve outcomes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
+      "originalUrl": "https://www.stlmag.com/health/ai-health-care-st-louis-mercy-mayo-clinic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-04T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Best BBQ in St. Louis",
+        "domain": "stlmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
         width: 1200
         height: 758
+        isCached: true
+  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
+    publishedDateTime: 2023-10-20T21:41:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 50
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7g6DpBz1d4lE1fcYWh902gBuZVbc88MGR58DctI720p7EEza2ovdtKd7dhcUEsa2/uOgizLvT0y8+a3QUGhMy2GHA1pPRlr15p2aUC0G/BQd3ofAYy3bIjDyDA6rtM2Mx0wZvbKFGmjg0zj0i7v/KUyByuT+AK2oapm8o0qf7wlxGYuFfO1544Mr6wY6Vc4yQ+BCj8L4SCYkEnAPqDZ9QROj/2CUNQd5efxi7JE6I/zu332tH0QAUfmskeRPP5mP08BWWx675YIdarb3z2dIZWH30sZy6RnYPiOQGuIKdxaJbNzwiN5UzNr2vIxifKaGPC+79hgpqyg1GPIJXmHR+ESo6I8TK87Z9Cr6Wal3xRQ=;d5j5ogahPofLX8IeG7H6Xw=="

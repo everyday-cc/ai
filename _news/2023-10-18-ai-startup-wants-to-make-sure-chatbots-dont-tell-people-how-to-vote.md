@@ -61,20 +61,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Meta’s New “Bizarre” AI Chatbots Will Allow You To Talk To ‘Tom Brady’ And ‘Kendall Jenner’"
-    excerpt: "Cool, you can have a little tongue-wag with AI versions of celebrities now, you might be thinking. But that's where you're wrong."
-    publishedDateTime: 2023-10-16T08:31:00Z
-    webUrl: "https://www.2oceansvibe.com/2023/10/16/metas-new-bizarre-ai-chatbots-will-allow-you-to-talk-to-tom-brady-and-kendall-jenner/"
-    type: article
-    provider:
-      name: 2oceansvibe.com
-      domain: 2oceansvibe.com
-    quality: 29
-    images:
-      - url: "https://media.2oceansvibe.com/wp-content/uploads/2023/10/hero-image.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "Ky4ol31l+46Xz25TTlvq1yAmdQ5i0aqHxSO6r77zOg4d26UNSRZ6CwyMofSMsjzKutLUfWr75Sdzo2SdJ29YuUPwJgD7fbtfGasgeWtQy8R9SkpaLOzHTlHEr6q6Mzb2SIHeHhPpOKN43f8XCm7VS7c1v22PS9+zJ2CeewPFUm9nGABzbxr5diZcsa5tjDxbk4fFC+rnqP7abIRVyXCqzUJr9Qq1EzurorAewHmN1Wt0cPcjEdJaLoBZ78c7fV1vIgq7zCwnnVj4N+m828QVARxWccef4ILd999LtI/Taq9om45aIYzgK+pRl64qm4p+awPou2TTxB57q+8CQ5AlkxUpWIPRDijBmC6n+pmARBxqXYyAdwFpDF+WO+JrQjJXrlHJl3np1NrxCh3oVyJodsvc9boqTHswrRY+pe5fvOrUKVwm3WZ6IzN2SHEErKHIMO2xi4dm7sxBEHQbBvDwNHEcOiGDW+p/Jzq8jZF/nvDH5CZ/Yd5YXICqExcwO94XGlmu1FGgwvN2HqDsMR5aew==;4gU9bXFFFfmYL3huCd7SGQ=="
 ---

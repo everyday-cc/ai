@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMD's new flagship Radeon RX 7900M mobile GPU comes with 4,608 cores & 16GB VRAM"
+    excerpt: "AMD claims that the new card would not only enable gamers to experience 1440p gaming on their laptops, but also allow content creators to render complex"
+    publishedDateTime: 2023-10-20T11:55:00Z
+    webUrl: "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 64
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-20-image-5.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Sapphire Pulse AMD Radeon RX 7700 XT GPU Review: 1440P gaming done right"
     excerpt: "Just like the RX 7800 XT, the AMD Radeon RX 7700 XT performs very well in 1440P. And thanks to AMD’s new features like FSR 3.0 and Frame Generation, NVIDIA finally sees a challenge mounting soon"
     publishedDateTime: 2023-10-17T06:47:00Z
@@ -41,15 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AMD's new flagship Radeon RX 7900M mobile GPU comes with 4,608 cores & 16GB VRAM"
-    excerpt: "AMD claims that the new card would not only enable gamers to experience 1440p gaming on their laptops, but also allow content creators to render complex"
-    publishedDateTime: 2023-10-20T11:55:00Z
-    webUrl: "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 44
   - title: "Alienware m18 gaming laptop: first with AMD's new flagship Radeon RX 7900M 16GB mobile GPU"
     excerpt: "Alienware's new m18 gaming laptop is the first to feature AMD's new Radeon RX 7900M 16GB mobile GPU, and with an AMD Ryzen 9 7945HX mobile CPU."
     publishedDateTime: 2023-10-20T02:08:00Z

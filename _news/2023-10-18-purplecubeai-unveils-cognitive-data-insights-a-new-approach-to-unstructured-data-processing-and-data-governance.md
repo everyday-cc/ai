@@ -24,6 +24,17 @@ images:
     height: 260
     isCached: true
 
+related:
+  - title: "PurpleCubeAI Introduces Cognitive Data Insights: A Game-Changer in Unstructured Data Processing and Data Governance"
+    excerpt: "PurpleCubeAI, the industry’s only cloud-native scalable, enterprise-class unified data orchestration platform, today announces its latest offering, Co"
+    publishedDateTime: 2023-10-17T14:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20231016713946/en/PurpleCubeAI-Introduces-Cognitive-Data-Insights-A-Game-Changer-in-Unstructured-Data-Processing-and-Data-Governance"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "lxjP6BOEJfy/zRuaabIu98ig3AAKgu1/br3HgjjZ9Ide5n//rPNyLJVM/+jEAb6OOXtkgKNtY2xxJby/fpIozivj3Y3xsIAQh3poygJJPaPjflWiLv8JTiuJOyBSQKuLL61PGqtqU9eoSBruuaosCvknmi+fAVHgj1DDALRBSJQLPZ3MbPZg4Gc58l9KgS1QqO4JlDJrPD+mM57oSVNDR+vVAv8lVJwEhaBEjMJgljJ5y7TiWjemN6xylaaR3ZlMSTr0VGLpN3c2YDkUvdft7NUdyVpHv48RIFzXNu5m9wKRio1bX1phh4W4JCMWt4cJCONys4fqfwyOJXjyHIcW787fyb1knlrA2A+d1lCGmLr4Iikh4jxVAsJmGEUnqsNDsB86f9CPb+BaCP4Iu3aQDqpwvHk8qLHjDTclcT7qN9HtOlQkUi/iaNic78sZli6sRs475Qk0nLCyZGwyb1Vt6mGKu3xfjGudruvIZs5PvPk8z6IYpYoIRksi51So2rwlwU0FrFfDJddjmi7jsMEsLg==;jgd03SBvPFYUVoKwcgb/rA=="
 ---
 

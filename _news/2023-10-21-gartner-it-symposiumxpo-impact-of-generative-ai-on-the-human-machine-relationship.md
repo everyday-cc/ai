@@ -6,8 +6,8 @@ publishedDateTime: 2023-10-20T17:56:00Z
 originalUrl: "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/"
 webUrl: "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/"
 type: article
-quality: 43
-heat: 43
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -21,7 +21,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
-secured: "m9x6avYT4j+rUfChywwDeoTCbVOy9bXl7zsBd5tSt+VYVvT1UyXWAEyCH/Erz27Hb4vsikLDWlPx3oEoqkS9pQP2Xy/aLNgPKm95ixVZhj9tdelpHObgwLiA687vqYbuYItJ9m7KUPxEAPdU1ar3IPeVruHBwlpgyxDOnsGooKD6oNmJ2Op1zSf8WbxmGHckWb7gyxJvcn3nK1KWglikNBc+mFGq0HanbqDNKokDiu1S9pL5PcQffEzJEY9kXa9d5QxdqrbM1avswJ2qJyOO0oPvByDVxVnuPnXv421WJSatFIO9CJYMTMtmxE08WU6ZV7NayN9RuUTdelA0fG9RX20LzDUFhJTNmUgBDbmM+5kUk8TwkcWYw6F2BG7wZcDpB0gFf8KxYxB4WAM2/t2UwMadHNMzqa+XxraVC0C34Uujn83M4LGM86Lu2PdLo/P52FNRw8NYSKsrdqnaxFRI6DxlW48xO7s+QhwlGcO+POd/0hosp4UtBAyh+lr74KcrLFGYQH/gUEFVYpjky7Rdpg==;7xG81Rn3thVWNEhU/nVLWg=="
+images:
+  - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
+    width: 1400
+    height: 933
+    isCached: true
+
+secured: "lYgwdX1ubuJ8PTosfBiR18KOVGu5g5YAONC6CN3RHpGd/3RGlS4M2SRWQPD49RTsCtLR4CQqqQ46H9FPwxztpYvesRFvE+xwv0LaKW8/WBgYuFUuKqs1ZA0kNNG/80HJD3wZs7yiq1Qbgc9AlVcJPLNI2Sw3UcH1XA+ZW26LfwfojCmf1GgFJ3IF+XaRFyaiYmKK+GPJ3EgNEJzMKxcy2DLYS3CjnZzs+6Jtey27wODizJm4PAdBFCXDlsuOyUAhAHlscU118ESBbgOClnDka6CoIlO+Gn0j8ADqr+LmRBACz0mn/6vyDwWHRfhuEcIh+i1Z74LRvXytkP33CA941Nfwk/cx60eLF+gEe1X7bws=;wGq3O0fNk+9emTG9Z82ZUg=="
 ---
 

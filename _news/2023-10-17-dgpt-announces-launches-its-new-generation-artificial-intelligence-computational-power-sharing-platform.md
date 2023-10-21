@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-lau
 webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 672
         height: 378
         isCached: true
+  - title: "Celestica Launches its Next Generation 800G Switch, Powering Artificial Intelligence and Advancing Data Center Connectivity for the Future"
+    excerpt: "Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, hardware platform and supply chain solutions for the world’s most innovative companies, today launched its DS5000 high-performance 800GbE switch,"
+    publishedDateTime: 2023-10-16T13:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/celestica-launches-its-next-generation-800g-switch-powering-artificial-intelligence-and-advancing-data-center-connectivity-for-the-future-1032708341"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
   - title: "LTX by Broadridge Launches BondGPT+ To Empower Enterprise Financial Services Clients with Custom Generative AI Solutions"
     excerpt: "BondGPT+ builds on award-winning launch of BondGPT to add premium features and seamless enterprise integration NEW YORK,  /PRNewswire/ -- LTX, a subsidiary of global Fintech leader, Broadridge Financial Solutions,"
     publishedDateTime: 2023-10-18T13:22:00Z

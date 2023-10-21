@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Democratizing AI with digital adoption platforms"
-    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
-    publishedDateTime: 2023-10-16T09:07:00Z
-    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI-Powered Personalization Is Reshaping Online Shopping And Beyond"
     excerpt: "AI-driven personalization paves the way for retail environments that forge even deeper brand loyalty and defy the traditional transactional nature of online commerce."
     publishedDateTime: 2023-10-16T10:45:00Z

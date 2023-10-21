@@ -73,15 +73,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AI is everywhere: Strategies to safeguard your company’s innovation"
-    excerpt: "Governance is the foundation on which companies build responsible AI practices. It not only ensures compliance with laws and regulations, but it also fosters transparency. To manage AI adoption, companies should form a stakeholder committee to create policies that align with industry requirements and organizational goals."
-    publishedDateTime: 2023-10-16T09:05:00Z
-    webUrl: "https://www.crainscleveland.com/custom-content-thought-leadership/ai-everywhere-strategies-safeguard-your-companys-innovation"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 19
   - title: "Language Weaver scales development of generative AI technologies"
     excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
     publishedDateTime: 2023-10-19T09:04:00Z

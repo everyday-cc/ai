@@ -6,9 +6,9 @@ publishedDateTime: 2023-10-20T11:55:00Z
 originalUrl: "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html"
 webUrl: "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 64
+heat: 94
+published: true
 
 provider:
   name: TechSpot
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-20-image-5.jpg"
+    width: 2000
+    height: 1125
+    isCached: true
 
 related:
   - title: "Sapphire Pulse AMD Radeon RX 7700 XT GPU Review: 1440P gaming done right"
@@ -68,6 +74,6 @@ related:
         height: 1124
         isCached: true
 
-secured: "xpiUciBNCDmZjV6JQG8J89IwxhBXiqrOqjxRM5v3rvnvGiPztPzYPUcfky7NK05CL24P7F3AgO4kZZu0WpDpRCfBCuyDoByLYASLWzMd7OWJ3ChmQwoFfyCy6UHOQEMeW94ZEIozW/wvLN1ovnGz+4g8pytN9z9l+batl16qa8mC9lRgRvsWpnSZOVXl3apWLsyMjCr4qTu7LQ59zbitOw2H0IT9R7TA/XZ5JKF0YgjRxZ9dM3g4KQ+vgQzbAZ1j8PQeaTt4HJHpqQ2+NtrzBearoY0rMyR+GJIZJ9kjI8igx49EkZfGPMcW/BW52H3ieAg6i+yfzeDVmnmf4zqJgnlHkRZqmDtcXkGZobgQYoM=;0cpczTDp9WuAn60CX6yXCw=="
+secured: "rJ7MyUfEXbddahV3cVgXrOHSN1AOy1tQ3rIaUfrEt0MkUu62wAhwmWiK1Qp/uGu8rDEoSsl1bY4YWyJBL0qtIIwiePe9rnjeMyvhl/gvyuzMyv4vTMVrIhhoCM0aQL10Z7z7MRk3AL+14ibf/aJSdgbsE1mAZH7OG0CsMX2vfUr+VhL7UWSLRMPqfel6mDqdhnC/9BAgurxPuWHT1vRKl7tdBZkoqiBLm0KdzeTIIgf85A5ob210qoZu+Pg8kuUmqOQR/3r6UTQXdY3HKIeuNehRv3MVFZa+13psGHAc3lgmtOH2AzuGZpQSHyDyfHp0Bs7JYBGHPt5bczVIQgbdmbP0qoFyNDAQ7e77jo6mWPk=;m4+InSalFhkYbgD9FgfWJA=="
 ---
 

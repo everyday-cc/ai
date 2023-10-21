@@ -3,22 +3,18 @@ category: news
 title: "Met Police to keep using facial recognition on prolific shoplifters"
 excerpt: "The Metropolitan Police plans to use facial recognition technology going forward to try to identify and arrest London's most prolific shoplifters. The technology maps facial features from CCTV stills against custody images in about 60 seconds. So far, 149 suspects have been identified from 302 CCTV stills with some wanted for multiple offences."
 publishedDateTime: 2023-10-19T05:20:00Z
-originalUrl: "https://www.bbc.com/news/uk-england-london-67149222"
-webUrl: "https://www.bbc.com/news/uk-england-london-67149222"
-ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
+originalUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222?at_medium=RSS&at_campaign=KARANGA"
+webUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222?at_medium=RSS&at_campaign=KARANGA"
+ampWebUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-london-67149222.amp"
 type: article
-quality: 89
-heat: 229
+quality: 59
+heat: 199
 published: true
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - Computer Vision
@@ -219,6 +215,6 @@ related:
       domain: thesun.ie
     quality: 6
 
-secured: "smV094MqL2teNT/GoHZIaKH89QgvVSq6TMgvPSktIkOUm1894hvbBLlq2DBk+mQlGSYf3bbX2y3Dws9RnJjc1k72BgRi5ZuepuFfUr78dHs51VmcxmOC8lbXnsazjmJmC56bDLpnbSul8o2zKt2xZ50+K/FyTsBBkaEOyCHSuK4Y25N4dOTY0vLAfoKe2F4lGFFPERYz3sJWSoo+hviwF1IwmjksTYAY2b5m+2nupkbXAOeG5LA0hT0+gtXn3u3JXqCoGwZfTaXV8mxnBepGHUmj2HUwYvV/1DykA+5bwzJqiao501gfzwAFlv18rbohO9dKXDto3ZtDTKNd3KeD6g8Tli1whthDPo/tmzeFhU2g5pcliWmhTQS+dK5h188xISHZf6fLagGryJpNvFKxXhO2CNc7dSrlr5lL9h/zMCowmdIslpw/WbtHFyrytcQlqjfTgzf5sNiFfIf9sWzozCi3oqsu3oWNxdflbjkXkPc5mg7hVZyS4FO4fydCkVTO4g/g5T+mktdtx8Kf+XgtTw==;XmwF/PhwBeH1sJH3wQJrRQ=="
+secured: "61zX2TSem78lNRziYE/MIac07UbJhF2ByMww95b3A83N/qPcHe+nZf/IfLKHiIthteKDDQQDWbd0liBX9PxxwxzxkwAizbutFOvP5dzrgie1CQzjaEwDSLN+33cs1H+zcvcT1hcNGDJkdKJvgyE9U24aVG3aj6PWBLr1RZddRpxKOoYLuAXfxkLsTmZ53urDtWLKVwi7dkVNVU/PeGGlaw1QmXzqrEDIfF+ghfGwTpn7dQgiJc75IQL9We14hblR648QQr6w9pTVFJh2Dcv0EYxhSYNw6V6uoW05bHoeLeO1R3tmLgQYT/vO+eQ5JCAhUmMsGFd2+BdpFNAD33nhp/KTdN06f3Yls0NLk87LqzQ=;3+iISuPWHkunJjwYnm/qZA=="
 ---
 

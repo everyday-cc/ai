@@ -2,74 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
-      "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
-      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
-      "originalUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T19:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-29-infosys-collaborates-with-microsoft-to-develop-generative-ai.md",
-      "title": "Infosys collaborates with Microsoft to develop generative AI",
-      "excerpt": "Infosys and Microsoft, two leaders in the technology industry, have announced a collaboration to develop industry-leading AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
-      "originalUrl": "https://www.theindianwire.com/software/infosys-collaborates-with-microsoft-to-develop-generative-ai-341411/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T18:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Wire",
-        "domain": "theindianwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-09-29-ai-language-models-can-exceed-png-and-flac-in-lossless-compression-says-study.md",
       "title": "AI language models can exceed PNG and FLAC in lossless compression, says study",
       "excerpt": "In an arXiv research paper titled \"Language Modeling Is Compression,\" researchers detail their discovery that the DeepMind large language model (LLM) called Chinchilla 70B can perform lossless ...",
@@ -1045,6 +977,83 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-delivery-on-time-to-99-while-significantly-reducing-turnaround-times.md",
+      "title": "Breaking language barriers: thebigword's AI workflows enhance translation delivery on time to 99% while significantly reducing turnaround times",
+      "excerpt": "With the ever-growing demand for rapid and high-quality translations, thebigword has taken numerous steps, including the ability to create and implement self-driving AI workflows, to ensure their clients are receiving the highest quality of translation and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-28-a-one-year-old-uk-startup-says-its-achieved-a-major-breakthrough-in-ai-safety-by-scoring-high-on-a-video-game.md",
+      "title": "A one-year-old U.K. startup says it’s achieved a major breakthrough in AI safety by scoring high on a video game",
+      "excerpt": "A small startup in Oxford, England says it has achieved an important breakthrough in AI safety that could make self driving cars, robots, and other AI-based products far more reliable for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/one-old-u-k-startup-050000329.html",
+      "originalUrl": "https://www.aol.com/finance/one-old-u-k-startup-050000329.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/GSTae735_pJbqF6Oy4GFIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04OTY-/https://media.zenfs.com/en/aol_fortune_385/a8ae5f95851a4e8186eb4ba5db50bfc5",
+          "width": 1200,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

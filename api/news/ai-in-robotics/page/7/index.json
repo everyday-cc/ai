@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-08-31-the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence.md",
-      "title": "The Future of Cognitive Healthcare: IoT, Telemedicine, Robots & Artificial Intelligence",
-      "excerpt": "Healthcare in the digital era is experimenting with adopting robotics to provide personal healthcare to patients in need. This technology enabled the healthcare industry to manage patients ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/",
-      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.thehealthsite.com/wp-content/uploads/2023/08/Untitled-62.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/",
-      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/the-future-of-cognitive-healthcare-iot-telemedicine-robots-artificial-intelligence-1005539/amp/",
-      "publishedDateTime": "2023-08-31T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheHealthSite",
-        "domain": "thehealthsite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-08-31-women-are-more-likely-to-be-forced-to-switch-occupations-because-of-ai.md",
       "title": "Women Are More Likely To Be Forced to Switch Occupations Because of AI",
       "excerpt": "A new McKinsey study has found not all workers are equally vulnerable to generative AI, and women are more likely to be forced to change jobs.",
@@ -1354,6 +1310,49 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-08-24-building-a-running-robot-dog.md",
+      "title": "Building a running Robot Dog",
+      "excerpt": "I wanted to engineer a robot with animal characteristics, bearing in mind that animals – like humans – move in a huge variety of ways,”",
+      "sourceUrl": null,
+      "webUrl": "https://www.eenewseurope.com/en/building-a-running-robot-dog/",
+      "originalUrl": "https://www.eenewseurope.com/en/building-a-running-robot-dog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ee.cdnartwhere.eu/wp-content/uploads/2023/08/Screen-Shot-2023-08-24-at-10.23.05-1024x684.png",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeNews Europe",
+        "domain": "eenewseurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/artificial-intelligence-new-york-cit
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-new-york-city-ai-plan-schools-housing-crime-2023-10?amp"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://www.dailymaverick.co.za/wp-content/uploads/2023/09/iStock-1493060486-copy.jpg?w=1280"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Artificial intelligence impacts on workplaces in New York"
+    excerpt: "At a public hearing New York State lawmakers listen to testimony about the benefits and concerns of artificial intelligence or ai in the workplace including impacts on hiring, surveying work"
+    publishedDateTime: 2023-10-19T21:39:00Z
+    webUrl: "https://www.erienewsnow.com/story/49864255/artificial-intelligence-impacts-on-workplaces-in-new-york"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 39
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25318857_G.jpg?lastEditedDate=1697737105000"
+        width: 1080
+        height: 810
         isCached: true
   - title: "Using artificial intelligence to make our world a better place"
     excerpt: "Can machines think? That’s what Alan Turing asked in his 1950 article, “Computing Machinery and Intelligence.” Turing, a once-in-a-lifetime British mathematician, was referred to by many as the “father of computing."

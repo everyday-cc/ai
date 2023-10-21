@@ -116,6 +116,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial intelligence impacts on workplaces in New York"
+    excerpt: "At a public hearing New York State lawmakers listen to testimony about the benefits and concerns of artificial intelligence or ai in the workplace including impacts on hiring, surveying work"
+    publishedDateTime: 2023-10-19T21:39:00Z
+    webUrl: "https://www.erienewsnow.com/story/49864255/artificial-intelligence-impacts-on-workplaces-in-new-york"
+    type: article
+    provider:
+      name: Erie News Now
+      domain: erienewsnow.com
+    quality: 39
+    images:
+      - url: "https://WICU.images.worldnow.com/images/25318857_G.jpg?lastEditedDate=1697737105000"
+        width: 1080
+        height: 810
+        isCached: true
 
 secured: "qoGobr/7Way6QrVdQY+AGDZzbv+dJYXvz1+1u/E9CqzV7Rlmvo8n1m2/ZKCtZubmfDiiu81rxprb9MNzeW6Jj4DbBzepH8Cr+lhDBiampdHHr33tYaqbR5iX9B3jvgSGyQ/iBmuwISLJRNdJL7vHvm+sU1KroUcgOHkw7I9XCEGornqRhRQMCVhogMEDfD1f30ELLb2DZJusqqA2xHed+dib4fgHEfmUfTCQqAVRo4yneMnwDBYybR2e/Pcu0w2d/WiU+GZ6Ixv5KbrlRntmqSsHjla5C2Kykjjo/6c+yY7NRf9hDX9GbBS3NoqhmOM4NNprcVEJd7ThAoHUN2jEmqT/BKcapyfRpKgLDcuDFA8=;H46VYxzG+ExUJOcwokagJQ=="
 ---

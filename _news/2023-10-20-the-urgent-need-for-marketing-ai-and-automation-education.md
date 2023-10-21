@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
 type: article
 quality: 121
-heat: 441
+heat: 431
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/27166f4fe6a0a8ed0bd0d66a1c471e52e038bd5b/2023/10/16/547003b1-a501-4dff-b489-bb957583060f/gettyimages-1314656208.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Democratizing AI with digital adoption platforms"
-    excerpt: "Digital adoption platforms learn application usage patterns and user behaviors and walk workers through business processes in real time, offering guidance and automating tasks. They can help all of us get the most from AI."
-    publishedDateTime: 2023-10-16T09:07:00Z
-    webUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.html"
-    ampWebUrl: "https://www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707797/democratizing-ai-with-digital-adoption-platforms.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/06/10/shutterstock_204774604-100931976-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "How AI-Powered Personalization Is Reshaping Online Shopping And Beyond"
     excerpt: "AI-driven personalization paves the way for retail environments that forge even deeper brand loyalty and defy the traditional transactional nature of online commerce."

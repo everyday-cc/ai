@@ -464,15 +464,6 @@ related:
       name: Inferse
       domain: inferse.com
     quality: 30
-  - title: "DataTrue launches privacy leak detection supported by Microsoft AI … – Microsoft"
-    excerpt: "By Microsoft News Center The data auditing platform Datatrue announces today the launch of a patented data validation and personal"
-    publishedDateTime: 2023-10-16T07:26:00Z
-    webUrl: "https://www.inferse.com/756889/datatrue-launches-privacy-leak-detection-supported-by-microsoft-ai-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
   - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
     excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
     publishedDateTime: 2023-10-17T11:58:00Z

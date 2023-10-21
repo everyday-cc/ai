@@ -2,83 +2,6 @@
   "page": 72,
   "value": [
     {
-      "path": "_news/2023-08-30-dawn-of-the-driverless-car.md",
-      "title": "Dawn of the Driverless Car",
-      "excerpt": "Horizon explores a world where cars can drive themselves safely and looks into the artificial intelligence required to make it possible. Peering into the implications of a future driverless world ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/programmes/b08wwnwk",
-      "originalUrl": "https://www.bbc.co.uk/programmes/b08wwnwk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-baidu-leads-public-rollout-of-ai-chatbots-in-china.md",
-      "title": "Baidu Leads Public Rollout Of AI Chatbots In China",
-      "excerpt": "When asked about Taiwan, a self-ruling island that China claims as its territory ... it has also looked to grow its cloud computing business and develop autonomous driving technology. Baidu shares were up 3.2 percent in Hong Kong at around 0430 GMT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "originalUrl": "https://www.barrons.com/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP9640123735043191226260508873486149274090---1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/china-s-baidu-rolls-out-chatgpt-rival-to-public-a296318d",
-      "publishedDateTime": "2023-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-08-30-ibm-bids-farewell-to-watson-health-assets.md",
       "title": "IBM Bids Farewell to Watson Health Assets",
       "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
@@ -1170,6 +1093,101 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem.md",
+      "title": "AI to star in the launch of Webflow’s built-in app ecosystem",
+      "excerpt": "Leinwand invites developers to bring their ideas and start developing on the platform. In a call with VentureBeat, Jasper AI President Shane Orlick discussed the company’s partnership with Webflow, emphasizing how gen AI is empowering creators.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
+      "originalUrl": "https://venturebeat.com/ai/ai-to-star-in-the-launch-of-webflows-built-in-app-ecosystem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/IMG_0455.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-29-finance-transformation-with-ai-and-open-banking.md",
+      "title": "Finance Transformation With AI And Open Banking",
+      "excerpt": "Oracle Cloud is one good choice, but Amazon Web Services (AWS), Azure, Google Cloud Platform or a combination ... Guardrails And Governance: Applying STAGE And TOTAL Security To Machine Learning If you need to read more on the banking STAGE framework ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/finance-transformation-with-ai-and-open-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-29T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 588
         height: 392
         isCached: true
-  - title: "US eyes AI chip curbs for Chinese units"
-    excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
-    publishedDateTime: 2023-10-16T07:52:00Z
-    webUrl: "https://www.semiconductorpackagingnews.com/news/83632.html"
-    type: article
-    provider:
-      name: Semiconductor Packaging News
-      domain: semiconductorpackagingnews.com
-    quality: 34
 
 secured: "3WK9Z5/VJK4uz9wwpm57UXzxSxmUSJPgkKVSurLOejT+TooHK8xfouCXVHGROwsPO6FfYiP4ROzQyUoNepSY/HoVVVx+sNkgxR9xZjVj/GgN7Yck7HuW5gYD0xwkyIDHlGpQoe5md4Jm5/77HINgV4ixIzoFxNzS2XYOO//rKOw7Id27nrFRoBpsudLw6k0FyAe68+YxOrtg7c4zpVApCFrsx8rTzBbLCRNQNBsoS2XEJhzy5mlCopDyRhWFKpiJay/C8B8uOWoLfyE2OcrPu00k+VbrYKXTeFk9UbjPm533F8jgT+CPOpRBUmw0pu1zpgurWTXrhiv6T01h75/PWL2PWUUWox8kwmvXBZFCYzzlEzR4f0S6dhDbXQoWYath3u5X5kZ40qodKXQRP8UBu/AQ0+v/Gp0vAI/8ePmcfQLz2dcmLPxnrnOqYpGVk4KWerh8vImfe4hS7IfPyTFAaoQ+4VnC4yvckelarzvOd2vxD7mKbec2o+unVVfxmaaT5DWDi/otFdeWP+D5cuMRww==;7o7hVIeiw4N8lr3yWMm+kQ=="
 ---

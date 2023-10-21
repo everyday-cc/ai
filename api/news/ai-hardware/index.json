@@ -141,6 +141,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-20-amds-new-flagship-radeon-rx-7900m-mobile-gpu-comes-with-4608-cores-16gb-vram.md",
+      "title": "AMD's new flagship Radeon RX 7900M mobile GPU comes with 4,608 cores & 16GB VRAM",
+      "excerpt": "AMD claims that the new card would not only enable gamers to experience 1440p gaming on their laptops, but also allow content creators to render complex",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html",
+      "originalUrl": "https://www.techspot.com/news/100564-amd-new-flagship-radeon-rx-7900m-mobile-gpu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-20-image-5.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-20T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-ampere-makes-a-strong-case-for-on-chip-ai.md",
       "title": "Ampere Makes A Strong Case For On-Chip AI",
       "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Ampere’s Altra and AmpereOne CPUs and their compelling value proposition for certain AI workloads.",
@@ -149,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/10/19/ampere-makes-a-strong-case-for-on-chip-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -375,49 +427,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-17-sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-1440p-gaming-done-right.md",
-      "title": "Sapphire Pulse AMD Radeon RX 7700 XT GPU Review: 1440P gaming done right",
-      "excerpt": "Just like the RX 7800 XT, the AMD Radeon RX 7700 XT performs very well in 1440P. And thanks to AMD’s new features like FSR 3.0 and Frame Generation, NVIDIA finally sees a challenge mounting soon",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html",
-      "originalUrl": "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/wp-content/uploads/2023/10/Sapphire-Pulse-AMD-Radeon-RX-7700-XT-GPU-Review-13.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp",
-      "publishedDateTime": "2023-10-16T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-17-foxconn-and-nvidia-are-building-ai-factories-to-accelerate-self-driving-cars.md",
       "title": "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars",
       "excerpt": "Nvidia and Foxconn are working together to build so-called “AI factories,” a new class of data centers that promise to provide supercomputing powers to accelerate the development of self-driving cars, autonomous machines and industrial robots.",
@@ -584,7 +593,7 @@
       "originalUrl": "https://www.reuters.com/technology/upcoming-us-rules-ai-chip-exports-aim-stop-workarounds-us-official-2023-10-15/?mc_cid=8067f7dad4",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 304,
       "tags": null,
       "images": [
         {

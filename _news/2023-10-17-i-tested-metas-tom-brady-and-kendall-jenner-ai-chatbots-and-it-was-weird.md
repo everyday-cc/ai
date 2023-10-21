@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-an
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-tom-brady-and-kendall-jenner-ai-chatbots-and-it-was-weird/"
 type: article
 quality: 88
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "Meta’s New “Bizarre” AI Chatbots Will Allow You To Talk To ‘Tom Brady’ And ‘Kendall Jenner’"
-    excerpt: "Cool, you can have a little tongue-wag with AI versions of celebrities now, you might be thinking. But that's where you're wrong."
-    publishedDateTime: 2023-10-16T08:31:00Z
-    webUrl: "https://www.2oceansvibe.com/2023/10/16/metas-new-bizarre-ai-chatbots-will-allow-you-to-talk-to-tom-brady-and-kendall-jenner/"
-    type: article
-    provider:
-      name: 2oceansvibe.com
-      domain: 2oceansvibe.com
-    quality: 29
-    images:
-      - url: "https://media.2oceansvibe.com/wp-content/uploads/2023/10/hero-image.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "1HoB+QYepKnY8GjXtpyNXPt1p6wN2nbKrf4vlswmtK+40jBJpuPanQXm8ZgCfKEYYcFWr29Y+NeyLjJBLxGhcNcBiRwVEcD/m4DH3nQiY6TUOXY8U6kmzvHuSAzq9pdev9Y1uLVZ8jgh9DJoW8bQ0JZfc/dduDAvOwIrw8dc65+S6ZPsuKjFzenlQaG00Q+FuFxjWTi4oJCgbAMOVr4luYHHKCoFQVSlhXXNxQJoXc9DV4Y3BOfKXYdBOvmKKLVph28xqqrrA2mRX0bYrfSewRwlV6pI7sTWHnbuWjiYpECGvhIfrQCA2rbfm4DH2j0Q6DFEIMkUgtYeRt6XFLtm3awaiJf9tmdd4IR4jePoaPU=;8/k3vmZXhlzzU2GfOEnZ+w=="
 ---
