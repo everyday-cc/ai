@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
+    excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
+    publishedDateTime: 2023-10-20T18:08:00Z
+    webUrl: "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Nvidia, Foxconn partner to start building AI factories"
     excerpt: "AI factories are data centers with infrastructure specially built for processing, refining, and transforming vast amounts of data into valuable AI models and tokens."
     publishedDateTime: 2023-10-18T08:37:00Z
@@ -366,6 +380,6 @@ related:
       domain: benzinga.com
     quality: 5
 
-secured: "d+9zemUcShv9S2l0PdLMPXB7q/VpXOISa3/QdiEzSRMnVTSvoI+XRVK0TVIetH7lGg7yhh7DrSYGBq6qucQY7EOARybLATQvPwjB7SASichyv0fs0UDa8SOelwYSD1K/rOI9c323av0b0vTOlKgKxa0zZnzgfOpjMVAlEmPluTBLPj4LmeiPoYiQv9zIKhUusXgg9WvQ6bOXqoqNALh83CF5ygtQ0TmKHi29ZQrTjwetOX3qIB+aI9Cyl7FfjPL4qCpVCjZ3ZvyMvDRq0IdYw7mkzQsPqiSZ3ZpoM5XVlwJoY8TcqdAPzih7OAAIfrpocXmvTq2cPhX2LTY7BLf6hC/99b3733PULwCVu8QU7QU=;trw4gAVbFTcJoYtOVEnWUQ=="
+secured: "bCPlv+WUnKgC+Z/G8RevLFdk+XLI1djXt2e0mO84vVXGTw6eF2c3d7uldaqe4aj9uU0MVAbpNBsFssMaJ5H+lo4eD8lz/hdhL4iNusA4HLXk2WMkIJLWkW7vyUMtl0qaPls4bRs2AHf3pKKs8ja92LAl5uKVPk0H2nZ9GqnX/MA3/K2qGLWtXrC+DHuRnD061WGxw79NcZkgjrCbKDwP7IBVJahFRx6efGT5VltvIaDZiBiB8YKodBadVLZ8QJsSMuY7HoNV+GErWfyY4l1hqregar2/3AEGE/c2u3lElSFRxxRm1HDuTkvE4IPR4qRL4CQ2AbZeZuBq/s1eqWY1a+ocdu6xYefC8/ssua0Wkb56zJrAGi99YTIPLfpSZQTyRbkkjXe4Mn6WxfiOrANcorFZ2VtBKFjDwpsHwdVvET/xWR22L4SjmWvqGeMnDhmS6hhSxpCTaBVeAWVRX6knhRU6UkOHSzHcMaz6kzyrgqQQW0Q7BKQrKPTR0yy03eqOSPRUh/RSrGFN/pW7c6Obrw==;PxSlEGPcz7t7kFKS8XTdNw=="
 ---
 

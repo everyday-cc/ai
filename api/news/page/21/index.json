@@ -2,6 +2,59 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-10-04-us-agency-california-gathering-details-of-accident-involving-robot-taxi-and-pedestrian.md",
+      "title": "US agency, California gathering details of accident involving robot taxi and pedestrian",
+      "excerpt": "WASHINGTON, Oct 3 (Reuters) - U.S. and California officials said on Tuesday they are in discussions with General Motors' (GM.N) self-driving unit Cruise about an accident in San Francisco ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
+      "originalUrl": "https://www.reuters.com/world/us/us-agency-california-gathering-details-self-driving-crash-2023-10-03/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/ykik3dJ9wjhMeC_4EUzKuyCb4w4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3QK7U3OJNNLLPB2AFH4YL47PXU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-ai-in-computer-vision-market-opportunities-and-demand-in-2024-growth-potentials-and-forthcoming-developments-by-2031.md",
       "title": "AI in Computer Vision Market: Opportunities and Demand in 2024 | Growth Potentials and Forthcoming Developments by 2031",
       "excerpt": "What is Market Insights and Analysis? The global AI in Computer Vision market size was valued at USD 4332.54 million in 2022 and is expected to expand at a CAGR of 22.12% during the forecast ...",
@@ -1105,40 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-lawsuit-man-claims-he-was-improperly-arrested-because-of-misuse-of-facial-recognition-technology.md",
-      "title": "Lawsuit: Man claims he was improperly arrested because of misuse of facial recognition technology",
-      "excerpt": "ACLU: False detainment from the software is more likely to affect Black people. A Black man was wrongfully arrested and held for nearly a week in jail because of the alleged misuse of facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/lawsuit-man-claims-falsely-arrested-misuse-facial-recognition/story?id=103687845",
-      "originalUrl": "https://abcnews.go.com/US/lawsuit-man-claims-falsely-arrested-misuse-facial-recognition/story?id=103687845",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-03T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

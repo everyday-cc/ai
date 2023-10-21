@@ -86,20 +86,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Explainer: Australia Has Voted Against An Indigenous Voice To Parliament. Here’s What Happened"
-    excerpt: "The Voice was proposed as a means of recognising Aboriginal and Torres Strait Islander peoples as the First Peoples of Australia in the Constitution."
-    publishedDateTime: 2023-10-16T06:36:00Z
-    webUrl: "https://www.outlookindia.com/international/explainer-australia-has-voted-against-an-indigenous-voice-to-parliament-here-s-what-happened-news-324797"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 27
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1697288745.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Malarndirri McCarthy: First Nations people ‘deeply disappointed’ in fellow Australians after Voice result"
     excerpt: "Mr Dutton has also watered down his commitment to a second referendum for constitutional recognition – without a Voice – that he pledged last month. He said it “remains” the Coalition’s policy but would not send “fatigued” Australians back to ..."
     publishedDateTime: 2023-10-16T23:23:00Z
@@ -145,20 +131,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7b9a3d6c28732401a3dc28bf0db1ecab417af0eb/633_422_4173_2504/master/4173.jpg?width=620&quality=85&auto=format&fit=max&s=d0e1a2dba2537ca0e5a53857f3e37e87"
         width: 620
         height: 372
-        isCached: true
-  - title: "Constitutional recognition for Indigenous Australians seems ‘dead’ for possibly decades"
-    excerpt: "Opposition Leader Peter Dutton’s promise of a second referendum for constitutional recognition of Aboriginal people if the first one failed seems now “off the table”, says Sky News Political Editor Andrew Clennell."
-    publishedDateTime: 2023-10-16T05:26:00Z
-    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/constitutional-recognition-for-indigenous-australians-seems-dead-for-possibly-decades/video/fcf0decd4925d874398d6a5532469112"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 16
-    images:
-      - url: "https://content.api.news/v3/images/bin/57897da0ac0f748a56379f6fc38d4aa7"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Defeat of Australian Labor’s Voice referendum highlights stark class divide, not racism"
     excerpt: "The Voice voting patterns demonstrate the intensifying hostility of working-class people to the entire political establishment."

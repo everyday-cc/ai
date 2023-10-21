@@ -46,6 +46,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "China to step up efforts for AI chips"
+    excerpt: "China will step up the development of artificial intelligence chips as part of its efforts to promote fundamental technological breakthroughs in AI and introduce the applications of the cutting-edge technology in more sectors, the country's top industry regulator said on Friday."
+    publishedDateTime: 2023-10-20T23:32:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202310/21/WS65330e19a31090682a5e9dce.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202310/21/65330e19a3109068cafe8db2.jpeg"
+        width: 588
+        height: 392
+        isCached: true
   - title: "US eyes AI chip curbs for Chinese units"
     excerpt: "This move signifies Apple's commitment to enhancing its in-house chip design capabilities. The facility will reportedly focus on advanced semiconductor research and development, aiming to create more efficient and powerful chips for Apple's array of devices."
     publishedDateTime: 2023-10-16T07:52:00Z

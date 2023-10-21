@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-17T13:15:00Z
 originalUrl: "https://www.infoq.com/news/2023/10/deepmind-robot-transformer/"
 webUrl: "https://www.infoq.com/news/2023/10/deepmind-robot-transformer/"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Google AI
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://res.infoq.com/news/2023/10/deepmind-robot-transformer/en/headerimage/generatedHeaderImage-1696170564728.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "DeepMind UniSim simulates reality to train robots, game characters"
@@ -65,6 +71,6 @@ related:
         height: 977
         isCached: true
 
-secured: "Wl0NuzAH5LtiiBZpjYRYVlUsE5eaeXE7ZdmBDyWVm2KB8X9n9xFek/HuPFyyIWh735fobWdJwGlEXXTe1uINkWjGL0+3OjZBMpmgH+uDs6bt7Fc4V1Td49K7KdCOCGeVDLIckTjtTlp5n8QZ/x4gnZJx51Tn8OpWj03eD735Nf/rGMvXfh7PGZIn1+wYNPJWQzuH1ZkNjpoNiuzBdbkcNy8zaBiIKxbeoeRHM1vwgc5niIqHkwrqo0h0TX0fkTlxlzsUwP3YIseAO9F/OpzgS02MTeLgYPvmxsXTJwxI57bf4DhTE9rsfqtF8IuTz/Z6kf/qgHxq2CH7yH0mQKxIpKadlLk+plj23sCnsGI5DVo=;NTv0dnRXRbykqxY7RJQwlg=="
+secured: "t6YNoRg+6iP+xSSKQsM+S/DhyTvavezr2ru66wzV3eiI0O2vmabGrlvqq/lllg68HKVyi/7DhT0u8dwlWV+Q2sd9MTHWDGsjnQ3FPfk82zawfwLryXcqvWjTbDnJz0lALs6GyhmCwmwO7h//Ft/MWVxX4i/DjKX3p/BAXOGBCIQh5YUZdU6ek/HmQgukp8HArq/WDL62gJYCpERGfxGDNt3RS8M4CmJWez3Q3Lo96XRTvO8PZ/UJXfCo2aQTmk1x0dIT9RfZ7Dh741jqKNHGJnIvG7e2f12UlQYdqavxQaGi5wiDnbrcT4nNn88rol57afSkisqin7d1gg1NZW0ANn9XkCNqu1ri+A4An3eUaw0=;51v/GrL7TmG92GbvrDPx3g=="
 ---
 

@@ -118,6 +118,20 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
+    excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
+    publishedDateTime: 2023-10-20T18:08:00Z
+    webUrl: "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Nvidia, Foxconn partner to start building AI factories"
     excerpt: "AI factories are data centers with infrastructure specially built for processing, refining, and transforming vast amounts of data into valuable AI models and tokens."
     publishedDateTime: 2023-10-18T08:37:00Z

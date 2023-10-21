@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-10-14-vivek-ramaswamy-outlines-real-danger-of-ai-in-conversation-with-voters.md",
+      "title": "Vivek Ramaswamy Outlines 'Real Danger of AI' in Conversation With Voters",
+      "excerpt": "\"I think AI can have a lot of good uses in this country. But there are also real risks,\" Vivek Ramaswamy said during a recent discussion with voters in Iowa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679",
+      "originalUrl": "https://www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2294499/vivek-ramaswamy.jpg",
+          "width": 3000,
+          "height": 1973,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vivek-ramaswamy-real-danger-ai-1834679?amp=1",
+      "publishedDateTime": "2023-10-13T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-ai-is-top-of-mind-for-leaders-the-pros-and-cons-according-to-execs-from-pwc-google-deepmind-slack-and-ibm.md",
       "title": "AI is top of mind for leaders. The pros and cons, according to execs from PwC, Google DeepMind, Slack, and IBM",
       "excerpt": "At Fortune‘s Most Powerful Women Summit in Laguna Niguel, Calif., executives from PwC, Google DeepMind, Slack, and IBM addressed the the risks and potential rewards of AI for leaders and companies. Slack CEO Lidiane Jones said she is optimistic about how ...",
@@ -1159,50 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-indias-ai-programme-to-achieve-1-trillion-digital-economy-chandrasekhar.md",
-      "title": "India's AI programme to achieve $1 trillion digital economy: Chandrasekhar",
-      "excerpt": "\"This is a deep, multi-year roadmap to make Indian AI work for being a kinetic enabler of the trillion dollar digital economy,\" Chandrasekhar said. The minister had earlier said the government plans to make India a USD 1-trillion digital economy by 2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html",
-      "originalUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/magazine/theweek/specials/images/2022/12/3/31-Rajeev-Chandrasekhar.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2023/10/13/india-s-ai-programme-to-achieve--1-trillion-digital-economy--cha.amp.html",
-      "publishedDateTime": "2023-10-13T04:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

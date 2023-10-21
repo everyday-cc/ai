@@ -67,7 +67,12 @@ related:
     provider:
       name: InfoQ
       domain: infoq.com
-    quality: 36
+    quality: 56
+    images:
+      - url: "https://res.infoq.com/news/2023/10/deepmind-robot-transformer/en/headerimage/generatedHeaderImage-1696170564728.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XbYgzMMI7byWjGkHcVyVimdp9lgt92gSuUefp3wEJJkXdgeHZ1UjduL3D4auoGnU3iFOoPpwaqVvzlXtaas0m8TIM7U1pr/+3vmRjEhstulk7LzjwjCn6WbuMB1GKa8TOcLc9oj9N/aUaNVNdHqEjZT5EsXobItxqNwON0zIxNsnbKWeicfOU22BSNDeYaTlu7uS4GP5ulxZaoWCejUbiphGuI3RaO3+usLDucDs/56WTB7vL4UGn/nAsDRRtvraSVe4XfJVSL9jgbOn0Gv0+DWEqC2ZIHWBXJLP3Ug/2AUTiES7CrUDPW5xarHaCCI4vVDVOmLr3QufWdjWGlncniJKaLmn5DnomD0mYfVBBTFl8JumBmWmE2KAan3MqIBwy/O3o+n0HOyxqRETvpxf5Rqljzabp/xlv/uaN8YBAqf5UC1xbVgug9+KAJPSbh8Pk/QIYeBRyhLtlwPkKeRsFbUfSXKOFbCklrNhWx4TGhE4EuSm0Gkb/dlaeYOa33u5bIVEJ2IP+BwVZGWMSGVDgQ==;ii9XARI2wPNMcY8LTi1jKg=="
 ---

@@ -2,6 +2,50 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2023-08-14-dont-expect-quick-fixes-in-red-teaming-of-ai-models-security-was-an-afterthought.md",
+      "title": "Don’t expect quick fixes in ‘red-teaming’ of AI models. Security was an afterthought",
+      "excerpt": "Current AI models are simply too unwieldy, brittle and malleable, academic and corporate research shows. Security was an afterthought in their training as data scientists amassed breathtakingly complex collections of images and text. They are prone to racial and cultural biases, and easily manipulated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
+      "originalUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/97zyX45bgwivL9P6BPDsEf0Vnig=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/5CIOSRXO6BFQVE3WVW55F4TXYU.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2023/08/13/dont-expect-quick-fixes-red-teaming-ai-models-security-was-an-afterthought/?outputType=amp",
+      "publishedDateTime": "2023-08-13T12:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT.com",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-08-14-ai-industrial-robotics-lithuania.md",
       "title": "AI Industrial Robotics - Lithuania",
       "excerpt": "Value in the AI Industrial Robotics market is projected to reach US$6m in 2023. Value is expected to show an annual growth rate (CAGR 2023-2030) of 14.75%, resulting in a market volume of US$17m ...",
@@ -1071,49 +1115,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-12-ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice.md",
-      "title": "AI's Role in Modern Healthcare: A Closer Look at Clinical Practice",
-      "excerpt": "The \"Artificial Intelligence (AI) in Clinical Practice\" report has been added to ResearchAndMarkets.com's offering. This report delves into the use of AI in clinical",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/n33765664/ais-role-in-modern-healthcare-a-closer-look-at-clinical-practice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33765664",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33765664",
-      "publishedDateTime": "2023-08-11T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -53,15 +53,6 @@ related:
       domain: floridapolitics.com
     quality: 0
   - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
-    excerpt: "Rep_ Jim Jordan has such a reputation as a political brawler that former House Speaker John Boehner once said he’d never met someone “who spent more time tearing things apart.”"
-    publishedDateTime: 2023-10-16T06:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002791"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 0
-  - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
     excerpt: "In recognition of Jordan’s growing influence ... including Republican plans to object to the election's certification, according to call logs and testimony from Cassidy Hutchinson, an aide to Trump's chief of staff Mark Meadows. White House call logs ..."
     publishedDateTime: 2023-10-18T03:13:00Z
     webUrl: "https://www.indystar.com/story/news/politics/2023/10/16/jim-jordan-trump-far-right-speaker-of-house-wrestling-coach-political-views/71201885007/"

@@ -60,15 +60,6 @@ related:
       name: Florida Politics
       domain: floridapolitics.com
     quality: 0
-  - title: "Jim Jordan's rapid rise has been cheered by Trump and the far right. Could it soon make him speaker?"
-    excerpt: "Rep_ Jim Jordan has such a reputation as a political brawler that former House Speaker John Boehner once said he’d never met someone “who spent more time tearing things apart.”"
-    publishedDateTime: 2023-10-16T06:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jim-jordans-rapid-rise-cheered-trump-make-speaker-104002791"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 0
 
 secured: "M9IF3E83E5yeMGIE4VNulUhYShoECxppwqfClKunEA7CVqtYmCzp8LH83G57+8UsW0dBlE2OJVsgrNGeDo66QX+EW57Xp7+VwUnPDeY4KgW5FUNfFJXiuIcXkR1iZ24aqj0TErJHrtr61ETCzKzAFKy2p6AMZc067kQYo8knzen8fZPhwHfbqEIXAP/Ufbz1l8d2kMmbbclTLdg5LfpZSrbHtZWhqBAfKi8F8ZgIJzeGG5HDAUBvE1jxXx4sw/r53VM0NWy7BDvKXM2EQkpyQ6gZ4gI/oVZTLK4rDWRdHmZCWDo9QHtVhlk5oDjEHkOA3vvVZw+V+Wx6eetvtRQ4sDw+W4LcZycoa+lYZUrinOiFWr2n9vgRL5UBg/NrO+rYMcZ+Wq6ignCFm0mXy/3u4BU+buL2qaZGV0/xt2RDeoHhwk2dye74jYyruEBySf7s/5tfOqB3CcL2Ccj/P8ogomCjVdT7TET+spR3rYZBDA9mjUJndcMUctfn15xgb1ztGSIVDSnqAdWfT2/X+NXryQ==;mhc1i2Tyw3ecvIQCe+WxEA=="
 ---

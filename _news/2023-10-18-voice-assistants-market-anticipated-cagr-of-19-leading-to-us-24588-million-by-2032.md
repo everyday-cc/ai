@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Fintech Market Unleashes a 16.5% CAGR Surge to US$ 54 Billion"
-    excerpt: "The size of the worldwide AI in fintech market was estimated at US$ 10.1 billion in 2021 and is predicted to increase by 16.4% year over year to US$ 11.76 billion in 2022. Demand is anticipated to increase from 2022 to 2032 at a (CAGR) of 16."
-    publishedDateTime: 2023-10-16T05:57:00Z
-    webUrl: "https://www.fmiblog.com/2023/10/16/ai-in-fintech-market-unleashes-a-16-5-cagr-surge-to-us-54-billion/"
+  - title: "AI hiring tools keeping skilled professional immigrants out of job market: report"
+    excerpt: "That’s according to a report from immigrant professional placement firm Upwardly Global, which ran the resumes of immigrant and refugee job applicants through an AI-powered resume reading tool designed to assess skills and guide applicants through the job market, comparing skills against labor market data."
+    publishedDateTime: 2023-10-20T17:34:00Z
+    webUrl: "https://www.hcamag.com/us/specialization/hr-technology/ai-hiring-tools-keeping-skilled-professional-immigrants-out-of-job-market-report/463928"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 39
+      name: hcamag.com
+      domain: hcamag.com
+    quality: 34
     images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2023/10/AI-In-Fintech-Market.jpg"
+      - url: "https://cdn-res.keymedia.com/cms/images/us/035/0321_638334200564065278.png"
         width: 1000
-        height: 663
+        height: 600
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Size to Grow USD 1695.5 Million by 2029 at a CAGR of 16.4% | Valuates Reports"
-    excerpt: "The global Artificial Intelligence (AI) in Agriculture market was valued at USD 681.7 million in 2022 and is anticipated to reach USD 1695.5 million by 2029, witnessing a CAGR of 16.4% during the forecast period 2023-2029."
-    publishedDateTime: 2023-10-19T14:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-agriculture-market-size-grow-usd-/2023/10/19/9902179.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
 
 secured: "HChRS7e1JAilxBOokMyFZHTM6jQo3tJA3hAI+KwVFJjIBdcBt3KMf89RCTZIWg/Jpci2Jkg9wSXzEQRmELokwXbg13OmkzHFp67yOij9REY+9v/bdlRwpFawnPQTrKHy2AKCAQGIHPzlOS047D1+VqBKhAjfHSNvlye+RDq4AsLfnB5vwH2oRlnMj6eoEOsRcHkEdYdWD5BUW5hY4wE3Ydt8muw8YXMvX7hvxPBbRhBKdGbAMHHI7vYOCFa11qkLdhpiE0ie8LOehyvlJ1nW36fJzH+AIEDkTRFN408A4T9Nve6Vf9PPIDq8pbV0BkhR9Yv1O2UQFbkj28YUUXJnoK0jRa9qqogg1yUzAX1zoG4=;b82bUqZocvstK4kx33zZIQ=="
 ---

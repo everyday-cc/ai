@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-will-change-the-role-of-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-change-the-role-of-developers-forever-but-leaders-say-thats-good-news/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Eight good news stories about AI"
+    excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
+    publishedDateTime: 2023-10-19T08:06:00Z
+    webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "Hw4Ron77AiWZA8iwXTwubfeK9P28r91ndcwW6WoayDbkv+KV7PzPHEh3jAD1mQ1c2ZgoVHKTfUL7lzbo6X6eqNxgyUh9NHKZeK1njwOovnY1ytRx2jRC5s8WBeAeMYzWAgN+KP3md4bjyTVPEMddu7SCy7rPURTrF5RFK5qvwwDj4Tpv51OJ4DSlcSJrTjMWqqYwwlAoKmn1Ti0t3qr0+qGajMK5cZ2b/MKrb5HQOj1lPJphsBZl/I7kxpKBhzQIu+2FmxE7FY8QSdRAPX9jLijZ1CjxJ/w1XwN6Ro7i0uWvCBa/vc8IhnuPssH7MwXavOHaGZ9lYFpvCkr+wLkc4ZQGYO9j56af0wFfavSeR0A=;1JbClzE2vcENYxrtQ3z6gQ=="
 ---

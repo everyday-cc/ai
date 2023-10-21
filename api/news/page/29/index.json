@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2023-09-27-real-time-global-language-translation-solution-that-does-not-use-ai-launched.md",
+      "title": "Real-Time Global Language Translation Solution That Does Not Use AI Launched",
+      "excerpt": "NEW YORK, NY, UNITED STATES , September 27, 2023 /EINPresswire.com/ -- 1Voice.AI has officially launched a real-time language translation solution (available here ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox59.com/business/press-releases/ein-presswire/658133907/real-time-global-language-translation-solution-that-does-not-use-ai-launched/",
+      "originalUrl": "https://fox59.com/business/press-releases/ein-presswire/658133907/real-time-global-language-translation-solution-that-does-not-use-ai-launched/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox59.com/wp-content/uploads/sites/21/2020/02/cropped-download.jpeg?strip=1&#038;w=250",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-27T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX59 News",
+        "domain": "fox59.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-artificial-intelligence-is-already-taking-over-grocery-stores.md",
       "title": "Artificial Intelligence Is Already Taking Over Grocery Stores",
       "excerpt": "past. Artificial intelligence has the potential to help retailers personalize shopping, streamline customer service and put what consumers want right in front of them. Lindsey Mazza, Global Retail ...",
@@ -1003,49 +1046,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-27-45-million-granted-to-nu-cancer-therapy-device-project.md",
-      "title": "$45 million granted to NU cancer therapy device project",
-      "excerpt": "The Advanced Research Projects Agency for Health awarded researchers at Northwestern and seven other institutions a $45 million grant to continue developing a small, implantable device that could detect and treat cancer,",
-      "sourceUrl": null,
-      "webUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "originalUrl": "https://dailynorthwestern.com/2023/09/26/campus/45-million-granted-to-nu-cancer-therapy-device-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dailynorthwestern.com/wp-content/uploads/2023/09/TECH_FILE_AvaMandoli_7.jpg",
-          "width": 2001,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Northwestern",
-        "domain": "dailynorthwestern.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

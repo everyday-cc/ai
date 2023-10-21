@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/18/meet-the-open-source-multimodal-mo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/meet-the-open-source-multimodal-models-rivaling-gpt-4v/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

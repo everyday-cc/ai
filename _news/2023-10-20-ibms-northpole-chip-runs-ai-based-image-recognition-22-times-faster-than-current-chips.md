@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-imag
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ibm-northpole-chip-ai-based-image.amp"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: techxplore
@@ -25,6 +25,22 @@ images:
     width: 1318
     height: 756
     isCached: true
+
+related:
+  - title: "IBM debuts power-efficient NorthPole machine learning processor"
+    excerpt: "IBM Corp. today detailed NorthPole, an internally designed artificial intelligence chip that it says is significantly more power-efficient than competing processors. NorthPole was developed over the course of eight years by staffers at the company’s ..."
+    publishedDateTime: 2023-10-20T21:58:00Z
+    webUrl: "https://siliconangle.com/2023/10/20/ibm-debuts-power-efficient-northpole-machine-learning-processor/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/IBM.png"
+        width: 1031
+        height: 574
+        isCached: true
 
 secured: "xUC/ucQ3nLN3fppBQKh9kdIbW6yDcS8yl3/dYj9jR9NQ3CqdZ0RdkvcG+qsyF1i0bJs13j7nzd1u+gex35GUR+Azoi+trcCNEXg1y9Ye135Jzq61rM1jWdtJ//HAMbIfdsCWYtHRGJoBEF3rUhSYmA3KSsZ5dNm6tpZxyF7e0KekwVNrWRMYzcwjSchJxfwyIVlhQAmkuR5RNDjWaAiKkHKtPgrr6Az8wax4pS9K7KH5t7MC3RmeHuRBhQ9S+BnTkocbI8z2GXr9uynXIPJ7pRWkuXs//lIUlp84dVAkRHqrqsnstCEtE2ImaZO6ORbIv6vICKUqYuW/0Xx9yf+Pcqse7V73zDPi1ianVO9KF5cV4RXE6JSKix6Z7FFI505FOlKZSyng3ICoHxzXE0TpvJb9ak/zcF/t0kd2M2jlRb9YRTEs/3ZDTJBxEiXMnnPBZcTgcxhIVaPE/MQ/HzbhP6geDfwrhSfP0Baxm0MiL+gdMk4aCSaegrzPLjdEhbwROUpEVmEblV1PTMXoGJ3lZQ==;jZGoxnZcCoXkppiYODJiSg=="
 ---

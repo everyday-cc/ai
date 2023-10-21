@@ -2,6 +2,49 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-08-28-dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires.md",
+      "title": "Don’t Sleep on These 3 Robotics Stocks That Will Mint Millionaires",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Among the long-term investment themes, robotics stocks are worth considering",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dont-sleep-on-these-3-robotics-stocks-that-will-mint-millionaires-1032585629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-28T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-us-china-at-each-others-throats-for-lions-share-of-over-100b-ai-chip-market.md",
       "title": "US, China at each other's throats for lion's share of over $100b AI chip market",
       "excerpt": "Tremendous progress in artificial intelligence is leading to significant revenue generation due to increased demands in semiconductor production, which is expected to exceed $100 billion by",
@@ -1051,49 +1094,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-self-driving-comes-to-san-francisco.md",
-      "title": "Self Driving Comes To San Francisco",
-      "excerpt": "California regulators vote on allowing self-driving taxis in major cities, presenting a huge market opportunity in the industry. Waymo and Cruise are leading the self-driving market, while Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
-      "originalUrl": "https://seekingalpha.com/article/4631345-self-driving-comes-to-san-francisco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1391088190/image_1391088190.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

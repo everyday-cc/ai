@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2023-10-07-ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature.md",
+      "title": "AI app EPIK hits No. 1 on the App Store for its viral yearbook photo feature",
+      "excerpt": "Another week, another AI app going viral. This time around, the AI app that has surged to the top of the App Store is EPIK, a photo-editing app that lets Another week, another AI app going viral. This time around,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/",
+      "originalUrl": "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-at-12.55.18 PM.jpg?w=1200",
+          "width": 1200,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/06/ai-app-epik-hits-no-1-on-the-app-store-for-its-viral-yearbook-photo-feature/amp/",
+      "publishedDateTime": "2023-10-06T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-07-researchers-turn-to-harry-potter-to-make-ai-forget-about-copyrighted-material.md",
       "title": "Researchers turn to Harry Potter to make AI forget about copyrighted material",
       "excerpt": "Their unlearning technique may also be more effective for fictional texts than non-fiction, since fictional worlds contain more",
@@ -1145,57 +1196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-google-home-will-get-a-generative-ai-boost-too.md",
-      "title": "Google Home will get a generative AI boost, too",
-      "excerpt": "A new \"Help me script\" feature is another way that generative AI is coming to Google Home. This feature joins Script Editor, which is now in its preview phase, and allows users to write and edit code to create more custom automations. Also: Google Assistant is finally getting the AI upgrades it deserves. Here's what's new",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/",
-      "originalUrl": "https://www.zdnet.com/article/google-home-will-get-a-generative-ai-boost-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/656179238ba7090ad5c22fdf489f23f6ca8e4d7c/2023/10/05/8d9920fe-0dff-4ba8-a9c2-8a9159ea5696/dsc09868.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-home-will-get-a-generative-ai-boost-too/",
-      "publishedDateTime": "2023-10-06T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

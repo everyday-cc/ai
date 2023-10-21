@@ -2,6 +2,57 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-09-01-ai-start-up-investments-bucking-venture-capital-decline-trends.md",
+      "title": "AI Start-Up Investments Bucking Venture Capital Decline Trends",
+      "excerpt": "This article briefly discusses the rate of growth of the AI Startup market in the USA, with recent stats from Crunchbase.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f10ab4e75967af225d6d54/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/08/31/ai-start-up-investments-bucking-venture-capital-decline-trends/amp/",
+      "publishedDateTime": "2023-08-31T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-no-ticket-no-phone-no-line-mlb-testing-facial-recognition-entry-to-ballparks.md",
       "title": "No ticket, no phone, no line: MLB testing facial-recognition entry to ballparks",
       "excerpt": "Major League Baseball is testing facial authentication-based entry that would allow ticketed fans to walk directly into stadiums — a convenient new",
@@ -1125,48 +1176,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-31-accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection.md",
-      "title": "Accessing your on-premises network and IBM Cloud VPC using a single VPN connection",
-      "excerpt": "How to connect to your IBM Cloud and on-premises environments using a single Client-to-Site VPN connection.\nThe post Accessing your on-premises network and IBM Cloud VPC using a single VPN connection appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection/",
-      "originalUrl": "https://www.ibm.com/blog/accessing-your-on-premises-network-and-ibm-cloud-vpc-using-a-single-vpn-connection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T06:28:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

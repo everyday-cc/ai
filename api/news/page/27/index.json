@@ -2,6 +2,40 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2023-09-29-metas-new-ai-assistant-trained-on-public-facebook-and-instagram-posts.md",
+      "title": "Meta's new AI assistant trained on public Facebook and Instagram posts",
+      "excerpt": "The public Facebook and Instagram posts that were used to train Meta AI included both text and photos ... works for purposes such as commentary, research and parody. \"We think it is, but I ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
+      "originalUrl": "https://www.channelnewsasia.com/business/metas-new-ai-assistant-trained-public-facebook-and-instagram-posts-3806761",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-28T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-infosys-collaborates-with-microsoft-to-develop-generative-ai.md",
       "title": "Infosys collaborates with Microsoft to develop generative AI",
       "excerpt": "Infosys and Microsoft, two leaders in the technology industry, have announced a collaboration to develop industry-leading AI solutions.",
@@ -1011,40 +1045,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-delivery-on-time-to-99-while-significantly-reducing-turnaround-times.md",
-      "title": "Breaking language barriers: thebigword's AI workflows enhance translation delivery on time to 99% while significantly reducing turnaround times",
-      "excerpt": "With the ever-growing demand for rapid and high-quality translations, thebigword has taken numerous steps, including the ability to create and implement self-driving AI workflows, to ensure their clients are receiving the highest quality of translation and customer service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-breaking-language-barriers-thebigwords-ai-workflows-enhance-translation-/2023/09/28/9889123.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-28T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

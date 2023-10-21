@@ -2,6 +2,57 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2023-09-13-how-to-prevent-ai-from-eroding-employees-critical-thinking-skills.md",
+      "title": "How To Prevent AI From Eroding Employees' Critical Thinking Skills",
+      "excerpt": "As AI continues to change the workplace, companies must ensure their employees are empowered to think critically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65007fae9d3d8e4c8c3e6761/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/09/13/how-to-prevent-ai-from-eroding-employees-critical-thinking-skills/amp/",
+      "publishedDateTime": "2023-09-13T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-why-your-ai-and-machine-learning-strategy-needs-a-solid-foundation.md",
       "title": "Why Your AI And Machine Learning Strategy Needs A Solid Foundation",
       "excerpt": "Organizations need a clear strategy for how and when they will incorporate AI and machine learning, and they need quality, well-governed data to serve as the bedrock for impactful automation, greater efficiencies and innovation.",
@@ -1053,49 +1104,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-ai-industrial-robotics-argentina.md",
-      "title": "AI Industrial Robotics - Argentina",
-      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach US$9.68m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 7.82%, resulting in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/argentina",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/argentina",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-12T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

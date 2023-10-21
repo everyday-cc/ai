@@ -204,6 +204,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 70
+  - title: "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software"
+    excerpt: "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ..."
+    publishedDateTime: 2023-10-16T19:33:00Z
+    webUrl: "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 69
+    images:
+      - url: "https://wp-assets.futurism.com/2016/10/Microsoft-makes-its-deep-learning-tools-available-to-all.jpg"
+        width: 1400
+        height: 600
+        isCached: true
   - title: "Microsoft’s Promising Outlook: AI Growth Potential and Azure’s Stability Justify Premium Valuation"
     excerpt: "Analyst Keith Bachman of BMO Capital maintained a Buy rating on Microsoft (MSFT – Research Report), with a price target of $400.00. Keith"
     publishedDateTime: 2023-10-20T11:15:00Z
@@ -293,20 +307,6 @@ related:
       - url: "https://rollingout.com/wp-content/uploads/2023/10/0056238001570442327-135.jpg"
         width: 1000
         height: 650
-        isCached: true
-  - title: "TCS Seeks a Boost in AI Partnership with Microsoft"
-    excerpt: "The collaboration with Azure OpenAI, formed by Microsoft and OpenAI, involves using the cloud-based AI tool GitHub Copilot."
-    publishedDateTime: 2023-10-16T07:00:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-seeks-a-boost-in-ai-partnership-with-microsoft/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Microsoft’s New AI Bug Bounty Program Has Rewards Up To $15K"
     excerpt: "Microsoft's new AI bug bounty program offers rewards up to $15,000 for finding vulnerabilities in Bing's AI features,"
@@ -506,6 +506,6 @@ related:
       domain: aol.com
     quality: 20
 
-secured: "e4EQNNOb8Dt3I0JIhfMvesZgEGIpdjRL3IxS9FcVw6a0cuWlAdRplG8MJ1XhelVYwn8WK+rnnl/zHarj0mNW6UAwgTS4otTCHzDDFnQ/oiWJ/xQB+F9HNbBnSKNkpQUT1zLIz+N5rqOrPmQOuQtdpspbqzb/uXn36EG9gDF6p5Enl8+pqZnGoBFx/gOih64zoE14qc3oRqzyWyRfQXGInK+qw1UgxbFcPleNLA2V3CNhoFeTr+Jt3m4om0w5HjkLiZLa3qO+QMfItCBo/VNXUei9ziw72/+bVFOw0v4k8Yk+uGTQ1/mzm1rUnlv+ainhC44iDi0XqFIl9XVV4F0LtzCIgLd2bAWvZ9QPejTvRf8=;qw9TgAqgdZCKIgjzDUP/rw=="
+secured: "QybA/Y+vvrwgd2ByMl46l6tGYHdWkEwjW7RUImQylUbsoSH3hPC/x9afgHs/tnCQBDd87WHIx1mXeJvef+dC7kLNG9Pld9zridOchrFncZuxSpckuZBeMbGx8ERIF0yYmoKotM1+BspqkMOjIxYnwaDYhv1VqoSpjAHl33kqr/Vf4ayHRMGVA/3+kJ/sDarjVJGYSpoahL2Kjgs7lFigUHzD3Q6UP/m21LO/Umo4S2wBD8en72vpYivLjkQ+etjOZn5CbAHuzgDUQ1MT+BzK/lfndSbHIM0nEzWtA2PdrHx2UvPdquk9kqG1WGSB2ySeVM8+1OYGL3POwqur36w8+jQ2XgDl/utEcxuHsrkBHtD/PeUDjGLzsiVBHMgDnH0jvVp0RrUYgnYAGGwinP8tHeGBTVLeqY4+w0s9AMjOillbIbL6Zwkh3R4fTr8cVX9+kXxYGtjsjGpdnAeMs8ZyFY6X4q7PgIN3znL7fBdIBMvvIYJgfRJLS/YEnumHDIOs6OMzj9MVpLmkDPVCEEFSbw==;8l1JHRx+kt1Dgl7kNbULTg=="
 ---
 

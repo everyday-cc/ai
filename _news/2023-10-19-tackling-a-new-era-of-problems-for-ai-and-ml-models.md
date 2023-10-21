@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/"
 type: article
 quality: 104
-heat: 126
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Millions of Workers Are Training AI Models for Pennies"
-    excerpt: "From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook, Google, and Microsoft."
-    publishedDateTime: 2023-10-16T06:00:00Z
-    webUrl: "https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/6525d761419624284be05211/191:100/w_1280,c_limit/OSKARINA_Col_17_CCISO.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "UK launches funding challenge for tackling AI bias"
     excerpt: "The UK government has made investment of up to £400,000 available to companies working on projects to tackle bias and discrimination in artificial intelligence (AI) systems."
     publishedDateTime: 2023-10-17T10:32:00Z

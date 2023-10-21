@@ -213,6 +213,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 70
+  - title: "How To Train Your AI: Microsoft Releases Open-Source Deep Learning Software"
+    excerpt: "Microsoft is empowering everyone with the capability to create huge, intelligent data-processing systems with the release of the Cognitive Toolkit. The Cognitive Toolkit—previously known as CNTK ..."
+    publishedDateTime: 2023-10-16T19:33:00Z
+    webUrl: "https://futurism.com/how-to-train-your-ai-microsoft-releases-open-source-deep-learning-software"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 69
+    images:
+      - url: "https://wp-assets.futurism.com/2016/10/Microsoft-makes-its-deep-learning-tools-available-to-all.jpg"
+        width: 1400
+        height: 600
+        isCached: true
   - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
     excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
     publishedDateTime: 2023-10-19T04:29:00Z
@@ -293,20 +307,6 @@ related:
       - url: "https://rollingout.com/wp-content/uploads/2023/10/0056238001570442327-135.jpg"
         width: 1000
         height: 650
-        isCached: true
-  - title: "TCS Seeks a Boost in AI Partnership with Microsoft"
-    excerpt: "The collaboration with Azure OpenAI, formed by Microsoft and OpenAI, involves using the cloud-based AI tool GitHub Copilot."
-    publishedDateTime: 2023-10-16T07:00:00Z
-    webUrl: "https://analyticsindiamag.com/tcs-seeks-a-boost-in-ai-partnership-with-microsoft/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/01/tcs-fy23-1.jpeg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Microsoft’s New AI Bug Bounty Program Has Rewards Up To $15K"
     excerpt: "Microsoft's new AI bug bounty program offers rewards up to $15,000 for finding vulnerabilities in Bing's AI features,"
