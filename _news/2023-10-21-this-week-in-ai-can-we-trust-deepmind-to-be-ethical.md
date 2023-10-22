@@ -40,7 +40,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"
         width: 1280

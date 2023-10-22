@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paologaudiano/2023/10/18/fostering-stem-diversity-and-inclusion-through-robotics-and-turkey/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 104
 published: true
 
 provider:

@@ -38,22 +38,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
-    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
-    publishedDateTime: 2023-10-20T22:01:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-67171042?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.co.uk/news/uk-wales-67171042.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-wales-67171042.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 70
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Eight good news stories about AI"
     excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
     publishedDateTime: 2023-10-19T08:06:00Z

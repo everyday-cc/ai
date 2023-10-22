@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/fact-check/video-joe-biden-calling-militar
 webUrl: "https://www.reuters.com/fact-check/video-joe-biden-calling-military-draft-was-created-with-ai-2023-10-19/"
 type: article
 quality: 63
-heat: 94
+heat: 93
 published: true
 
 provider:

@@ -58,6 +58,15 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
+  - title: "To excel at engineering design, generative AI must learn to innovate, study finds"
+    excerpt: "A new study reveals the pitfalls of deep generative models when they are tasked with solving engineering design problems. The researchers say if mechanical engineers want help from AI for novel ideas and designs,"
+    publishedDateTime: 2023-10-21T23:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
   - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
     excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
     publishedDateTime: 2023-10-19T06:43:00Z

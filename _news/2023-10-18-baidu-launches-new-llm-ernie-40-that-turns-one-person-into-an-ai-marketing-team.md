@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/baidu-launches-new-llm-ernie-4-0-that-t
 webUrl: "https://venturebeat.com/ai/baidu-launches-new-llm-ernie-4-0-that-turns-one-person-into-an-ai-marketing-team/"
 type: article
 quality: 78
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "Baidu unveils latest version of LLM, Ernie 4.0"
-    excerpt: "Visitors learn about robot products suitable for home application at Baidu World 2023 in Beijing, on Oct 17, 2023. [Photo by Zhu Xingxin/chinadaily.com.cn]"
-    publishedDateTime: 2023-10-17T06:45:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202310/17/WS652e21f0a31090682a5e8fc7_6.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202310/17/652e535da3109068cafe46a2.png"
-        width: 564
-        height: 376
-        isCached: true
 
 secured: "cRiAhxppRJoyKrdrFj3qVAHewiCFbMBFR9vzcRejn4FOfFAIBBUm/jZSZV7Cu+ual6a5IBmb+d1wO5mI0tSa41iux1T2LzYMDuKMzeXLqmgZXc7RtoZDDiDV48RA4YVDmGjVKC6QVcJLNm8Qi7e6E6R1fg9OkMdkOPqNgQfVkCPtOK6UIewXg+G21vGETfpTfsuPpcs9Ht1Mh4DMW7meL2Mxoib6mpLOUsZRdPEe+thI5qPpJbi1WBFAe4T/ymjZya8qHkyxa/5EQhvlda3l24hZqg8QCEDkAsZX5kHB0dGPWUveY/86EEYpEzhKdI18tB8BMxksy4t9a9GrxpVBfUY0aI7kGEZ4g+GoDQXkG5Y=;+TrJLjAEdL+LrG30Tvpl2Q=="
 ---

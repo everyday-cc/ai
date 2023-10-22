@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-18T11:00:00Z
 originalUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
 webUrl: "https://www.wired.com/story/wired-impact-deepmind-ai-climate-change/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/652eb3f04e4619c8054877c0/191:100/w_1280,c_limit/climatechange-ai-science-GettyImages-1454303877-(1).jpg"

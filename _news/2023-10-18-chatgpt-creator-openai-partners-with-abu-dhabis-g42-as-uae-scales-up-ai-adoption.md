@@ -85,29 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Baidu says its AI is in the same league as GPT-4"
-    excerpt: "Baidu ( BIDU) has been a frontrunner in China in the race to capitalize on the excitement around generative AI, the technology that underpins systems such as ChatGPT or its successor, GPT-4. The Beijing-based company unveiled ERNIE Bot in March, before launching it publicly in August."
-    publishedDateTime: 2023-10-17T06:22:00Z
-    webUrl: "https://keyt.com/news/money-and-business/cnn-business-consumer/2023/10/16/baidu-says-its-ai-is-in-the-same-league-as-gpt-4/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg"
-        width: 860
-        height: 484
-        isCached: true
-  - title: "Chinese Search Engine Company Baidu Unveils Ernie 4.0 AI Model, Claims That It Rivals GPT-4"
-    excerpt: "The Chinese search engine and artificial intelligence firm Baidu has launched the latest version of its artificial intelligence model Ernie 4.0"
-    publishedDateTime: 2023-10-17T05:52:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-17/chinese-search-engine-company-baidu-unveils-ernie-4-0-ai-model-claims-that-it-rivals-gpt-4"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 37
   - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
     excerpt: "ChatGPT creator OpenAI has partnered with G42, the Abu Dhabi-based tech conglomerate said on Wednesday, in a push to drive artificial intelligence adoption in the United Arab Emirates and other Middle Eastern markets."
     publishedDateTime: 2023-10-19T03:05:00Z

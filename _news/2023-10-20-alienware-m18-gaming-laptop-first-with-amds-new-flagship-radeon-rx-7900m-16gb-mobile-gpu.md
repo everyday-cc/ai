@@ -39,22 +39,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Sapphire Pulse AMD Radeon RX 7700 XT GPU Review: 1440P gaming done right"
-    excerpt: "Just like the RX 7800 XT, the AMD Radeon RX 7700 XT performs very well in 1440P. And thanks to AMD’s new features like FSR 3.0 and Frame Generation, NVIDIA finally sees a challenge mounting soon"
-    publishedDateTime: 2023-10-17T06:47:00Z
-    webUrl: "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html"
-    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/sapphire-pulse-amd-radeon-rx-7700-xt-gpu-review-13258512.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 58
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Sapphire-Pulse-AMD-Radeon-RX-7700-XT-GPU-Review-13.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "New AMD Radeon RX 7900M laptop GPU looks to compete with the RTX 4080"
     excerpt: "The latest edition to the flagship Radeon GPU line is made up of 72 AMD RDNA 3 compute units, and contains new AI and second-generation ray tracing accelerators. Along with its 16GB of high-speed GDDR6 VRAM, 256-bit bus, and 64MB of Infinity Cache ..."
     publishedDateTime: 2023-10-20T09:17:00Z

@@ -48,6 +48,15 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "To excel at engineering design, generative AI must learn to innovate, study finds"
+    excerpt: "A new study reveals the pitfalls of deep generative models when they are tasked with solving engineering design problems. The researchers say if mechanical engineers want help from AI for novel ideas and designs,"
+    publishedDateTime: 2023-10-21T23:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
   - title: "AI generated images another potential social media hazard"
     excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
     publishedDateTime: 2023-10-20T21:46:00Z

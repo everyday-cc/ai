@@ -1,30 +1,52 @@
 ---
 category: news
 title: "Millionaire uses Artificial Intelligence to develop life-saving drugs"
-excerpt: "AI has been a controversial technology with many calling for greater regulation, but he believes it can and will revolutionise healthcare ... We mistake thinking AI is a general intelligence; thinking it has human characteristics. It's not."
-publishedDateTime: 2023-10-21T09:01:00Z
-originalUrl: "https://www.aol.com/meet-millionaire-using-artificial-intelligence-220148874.html"
-webUrl: "https://www.aol.com/meet-millionaire-using-artificial-intelligence-220148874.html"
+excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
+publishedDateTime: 2023-10-20T22:01:00Z
+originalUrl: "https://www.bbc.com/news/uk-wales-67171042"
+webUrl: "https://www.bbc.com/news/uk-wales-67171042"
+ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 104
+heat: 125
+published: true
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: BBC
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/1a966eeed169632ef66240d355698698"
-    width: 976
-    height: 549
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
+  - title: "Meet the millionaire using Artificial Intelligence to develop life-saving drugs"
+    excerpt: "As a student Andrew Hopkins came up an idea that would revolutionise the way life-saving drugs are created. Now a professor 16 years later, he has founded his company which uses AI for the discovery and creation of medicine. His company Exscientia is working on a pill to prevent Covid and precision based cancer treatments, among other projects."
+    publishedDateTime: 2023-10-20T22:01:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
+    ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 98
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Aindo uses generative AI to develop synthetic data. Check out the 13-slide pitch deck used to secured $6 million."
     excerpt: "The startup generates artificial data points for AI companies, so they can train their models."
     publishedDateTime: 2023-10-18T08:01:00Z
@@ -40,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "6DW3I9mwmXkx2gXreP51b/yc9VHK4ErYWWSbOYPDn1jUF+UrHPUSi7h8v1m1uSRrr6cQZr253s9y2AergwS8w6dcmZPFX4Xpz/edoLqOFAhsK9KIZ/IUhJM8DRrf+4rF5QNdFAjkbfD8cWtK/NbjWDHf147DEM6U9rz3buZcHQTlLmrAHbOtxmD3KgZ2YT5ZIdWNj4Rh/pgz9wVnzUb/dqwBNnJALrd1sP0Waxm8rRA96io3Z0PH2jLZUEikgC75tlpRcPiejSvxb8LkYTKmds0ZBGhn4Nk5LGgMo7c1jWdCwibF1tp+H8sorFFX7aZdVCq67mowiyjQpSTrfVp6YVeY5K/RLjb21O5d16UUk/Vaq5LnngmP31eUPQ9Q2QoNVccTUZw5P81q/Cv6Olu4PpBnIhq0Uc6CeqNaAUsuT4Pmh5ERo9w7evEdw3OoDNdT7641g9fqh6U0G8sTYFK1Dxs2YQFRfX9RS3oaWap/kMHAWv2RkCKZbnbdT+SkV+k8DvBEvDs2n4BSeB+UY6Us1g==;ZFHrYaq/wzkzPa58MuJaJg=="
+secured: "dM7V6V6dptH7zIJ27PXaJwUivqCGme3C39m8XFf/wQmAFoHEfSRRdLa/O65Yw1N2Ifo1upLvvgc3VkF5iyLApDEa6jKfV+8AdrxlcQ8I4XpRdgw47po/kzf8eZrO/bhKm4OJItt67LYugqC0CrrAjKp20n+Uw7qOwDioV7Y8Nz2m22EWPUX3sazES5eBMMh2N5pc1xjywMUe00uqV8nstAQnjWbhC6QPhDoCt3KkHG+EWafZNK9VxxhxVkSRvVg/KPAwB9MZ0iaqegUXgjlhr16P8OGKpp+lFdoZ1XblB02s2+uRmtX8U2UMzPAZkhDENF/HWEPpwXVzmj2B5kVzV7jeq1nkedmWTOgIKZUfAl0=;QSPKGPeLcugQyC/pq+UJhQ=="
 ---
 

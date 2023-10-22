@@ -1,24 +1,30 @@
 ---
 category: news
 title: "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability"
-excerpt: "media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich their cloud data infrastructure by unlocking more granular insights about their customers."
-publishedDateTime: 2023-10-17T13:06:00Z
-originalUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
-webUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
+excerpt: "LiveRamp (NYSE: RAMP), a leader in data collaboration, today launched its new partner solution for AWS Entity Resolution by Amazon Web Services (AWS). LiveRamp’s leading identity resolution capabilities now support additional identifier types and are available natively within AWS Entity Resolution."
+publishedDateTime: 2023-10-17T12:30:00Z
+originalUrl: "https://www.valdostadailytimes.com/ap/business/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/article_e8966158-5107-54f0-b0af-7df5156c8dbe.html"
+webUrl: "https://www.valdostadailytimes.com/ap/business/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/article_e8966158-5107-54f0-b0af-7df5156c8dbe.html"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: CMS Wire
-  domain: cmswire.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
   - AI in Marketing
 
-secured: "rTvxgE6iy/QNQY8Y8F0/PvygZepanYDeR9TrNIu4Vx/SNddl0AZ85ssEiD7c76JkKd23uN2l+4VwQ4spRdb1fxv1JVIyOZhLyZyHC2ECe0+vpw2WVx2BsUyqjzKAP6+i29CShzJ/tswIouilFdNbA3VLlIZo7bDmeHYgr3Jen6hprs+JqY6ib0qof17/RhnL/VRjsfg0kYuCYx1xOdDC8Qmwr3XYegnaIs9edmYBAi8WSQEHVufCBuDe4i4q+9bDRuy1YOzuewH/NZigt5YDprWv3sKupPikHO2eVteGr2pThRKNg5OSeuHoCjhtFhpFr77UpUCJKidE/yStGCJyWez79vvGzFcd5OVoNKidhbc=;3cwFojGpLpY7P5Khf2boFQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "H3KF7z4NmKnZTqF1+jbzo8qo06HV2wKXXwEJgJxDtkflMTCEEojNl4ynGRIyTknR5FaxuPVrv04hQvH1tlP1edvnmFicxYizX1/9+EXwr/YRRRWAUKKbv1lyTmNw8neFEY3Z1Hz9L9q7umN/ulhkq6GZrGXyjHKEhm3WQwjZauFJ5nWTrvbmpzx874LBgM+qdn3oqSqjCyYSmO+qqQzdAMKeMWb8W4pQ1yXXsxemYf7pqLq3/T1ytmCXVlWtOTOnlQrgzi2oruRZsKdHBeaAnhlSF8mMswrtlP5NVKOwkztzL0fPL3bidRbon8qmaClZ34NAUOaiWeX2SQT12ofeo2Fk3hTU3PVxQ/fyhQftCVQ=;bqMmEuKH5HJ9GDdzqkS17A=="
 ---
 

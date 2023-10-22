@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
-excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
-publishedDateTime: 2023-10-19T06:43:00Z
-originalUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
-webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
+title: "To excel at engineering design, generative AI must learn to innovate, study finds"
+excerpt: "A new study reveals the pitfalls of deep generative models when they are tasked with solving engineering design problems. The researchers say if mechanical engineers want help from AI for novel ideas and designs,"
+publishedDateTime: 2023-10-21T23:51:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
+webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
 type: article
-quality: 26
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Inferse
-  domain: inferse.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
+  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
-    width: 1920
-    height: 845
-    isCached: true
 
 related:
   - title: "Evaluating social and ethical risks from generative AI"
@@ -59,15 +57,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 64
-  - title: "To excel at engineering design, generative AI must learn to innovate, study finds"
-    excerpt: "A new study reveals the pitfalls of deep generative models when they are tasked with solving engineering design problems. The researchers say if mechanical engineers want help from AI for novel ideas and designs,"
-    publishedDateTime: 2023-10-21T23:51:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 44
   - title: "AI generated images another potential social media hazard"
     excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
     publishedDateTime: 2023-10-20T21:46:00Z
@@ -82,7 +71,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
+    excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
+    publishedDateTime: 2023-10-19T06:43:00Z
+    webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 26
+    images:
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
+        width: 1920
+        height: 845
+        isCached: true
 
-secured: "x7YtvSPfz7/HEnY0s9K0AAlUl0eXNqKJKsR6j+OOfuXJjyicnCDV+9eYSCnKJFwQfaKcwr+/b+QxqF74QnVt87ES488ijK6Y2qLOn/GBYMa0O39JX7YQpA1d3dRQougHIyVvrdtByel5WI6LIZhWSajcv22r4E9lrdYx9K2L+eAlHpVcVnObmaADK8h5eqDYkSrHuOH0nK8U9nnigZ7CsvVf7n2USHhtlwvlHRZRykLUsV6MQYRawJ0Z9NUV9pwcVQyn9JQ7ASAem5HNVfOoDPLj7K8G/ijt0jL6OS+Q23l1O2AEYV/ao/t6GvEXpetsZQxunB+1IIP5/o7j0w1ImSkg75b1wu3g5VF3o0Y19Cc=;XajsXuuEcLtYekkFcHuMyA=="
+secured: "CGOIoSvV64+5rXIve+/JhOVWVxQCYYx7VOZsIdQ583KrGb69Balsy7d7YUIOYGi9azU7coiqn6KP2pS4hVBReilGANvq075LjojjV3MpDijOI1O3I78IQg8C8t26zPUsnKO0RdreU7ikxZcdiEGrkrKYwGe44/DOnJCVbDawIxaiKdkGPO7xjbwF0ExfFmks7A8/v2+2K8X/g7tdfhg0ty9VTa3sh+YthwywoHe1OY6eQ6mAac6meFp0P2Tnk03yzQB4WVpAhcRqUUay2IokNAR2WY2Zd8RiB90uKAR6wGMORWqy9rovQQakS+/9LRcFXRTyu3fysnLOe4iVkz57PLhIa6COLRMOYbYijjo4PUM=;tyfSC3d9X328Qp7VmlosYQ=="
 ---
 
