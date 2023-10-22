@@ -19,51 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "E& life fintech business gained momentum to take a lead in the region within the next five years"
-    excerpt: "With the theme focused on ‘Accelerating Innovation’ it is about transforming the world of technology to create a better future"
-    publishedDateTime: 2023-10-17T14:38:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/e-and-life-fintech-business-gained-momentum-to-take-a-lead-in-the-region-within-the-next-five-years-n5p21yit?amp=1"
+  - title: "FINTECH SURGE UNVEILS THE FUTURE OF RETAIL AND DIGITAL PAYMENTS"
+    excerpt: "Fintech Surge 2023, the global gathering for the entire fintech ecosystem, hosted its final day today at the iconic Dubai Harbour."
+    publishedDateTime: 2023-10-19T04:40:00Z
+    webUrl: "https://www.phoneworld.com.pk/fintech-surge-unveils-the-future-of-retail-and-digital-payments/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 46
+      name: Phone World
+      domain: phoneworld.com.pk
+    quality: 39
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MGI1NWViZjUtMmEwNi00/0/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Fintech firm, Payhippo, empowers business owners on renewable energy"
-    excerpt: "As businesses continue to struggle with lack of access to affordable and reliable energy, Payhippo, a fintech company, recently unveiled innovative"
-    publishedDateTime: 2023-10-22T03:00:00Z
-    webUrl: "https://businessday.ng/news/article/fintech-firm-payhippo-empowers-business-owners-on-renewable-energy/"
-    ampWebUrl: "https://businessday.ng/news/article/fintech-firm-payhippo-empowers-business-owners-on-renewable-energy/?amp=1"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/news/article/fintech-firm-payhippo-empowers-business-owners-on-renewable-energy/?amp=1"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2023/10/Payhippo.png?fit=700%2C400&ssl=1"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "E& Life Fintech Business Gained Momentum To Take A Lead In The Region Within The Next Five Years"
-    excerpt: "In its 43rd edition, GITEX Global is the world's largest technology event and a great opportunity to take all our visitors on a journey of the fu"
-    publishedDateTime: 2023-10-17T23:15:00Z
-    webUrl: "https://menafn.com/1107260662/E-Life-Fintech-Business-Gained-Momentum-To-Take-A-Lead-In-The-Region-Within-The-Next-Five-Years"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 26
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/17/M_781bcimage_story.jpg"
-        width: 1270
-        height: 846
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/Fintech-Surge-2023-day-4-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "rzFp+3ffHmj7M74YpJXmAax0wnvW+HCxbiLowUKhkdWl2O98sJpA/4E2I8s6FIHJQPln5xu4ausNGi+auqtmTBR+BWO9cSQMLdYABY0VSzaIBO3XHhmBwZeHB6VFColwa82o1I+Hx+nhw3b8eofpQ/LMrYn05OKRb7upgelZmTW19Y4xzlTqYbsiqPTN9LYrmKixU8MO77QrZeWopG8TNYCcCtEpJa4wmTRVsZmlv0TrkVKAxImfWEda3Whgcw/alaj0KQqVkLEUoEFQ2PYN/paYvH8IN8ukPXO6y8xEetFYAWJAeLe9R/LYnRSdMUYw3+I+5IpnD4p7sxbdfGmiH6OUR0mz9EiMN0+TXNkalpm/mjYTp1WMacpr7ssAFfzY7d+mKg5cP3HbElpqrEVWO7UzH1i4qSh3VaBvSkO+GkXE8MZG3b3T37zXlvq79OrtStANgFHBs4tJep7CpA6o1YIJ8StVKXJGQCkr6LTNQHtAjiUAuxhrL2350t8PpWa1tITe1e5NRscI0k0DqnJllQ==;n135sc4To5JewFhXgypOhg=="

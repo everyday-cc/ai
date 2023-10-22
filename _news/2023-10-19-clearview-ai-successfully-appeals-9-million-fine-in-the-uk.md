@@ -44,20 +44,6 @@ related:
         width: 1600
         height: 754
         isCached: true
-  - title: "Clearview AI and the end of privacy, with author Kashmir Hill"
-    excerpt: "Journalist Kashmir Hill’s new book, Your Face Belongs to Us, is all about Clearview AI and the threat to privacy."
-    publishedDateTime: 2023-10-17T14:00:00Z
-    webUrl: "https://www.theverge.com/23919134/kashmir-hill-your-face-belongs-to-us-clearview-ai-facial-recognition-privacy-decoder"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 69
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/xm1EO3Cgz-jmiOLG0Cz-JoXbTJI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25006282/Kashmir_Hill_Decoder.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Facial recognition firm Clearview AI overturns UK data privacy fine"
     excerpt: "A tribunal has overturned the £7.5 million fine imposed by the Information Commissioner’s Office last year. Facial recognition firm Clearview AI has won its appeal to overturn a fine from the UK’s data protection watchdog over the use of its facial ..."
     publishedDateTime: 2023-10-18T15:48:00Z

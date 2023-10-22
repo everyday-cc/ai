@@ -41,19 +41,19 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Huawei’s deep learning data lake storage solution launched at GITEX GLOBAL 2023"
-    excerpt: "Huawei’s OceanStor A310 addresses critical industry challenges and expands the horizons of AI as it provides optimal storage"
-    publishedDateTime: 2023-10-17T14:13:00Z
-    webUrl: "https://www.app.com.pk/national/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/"
+  - title: "New Era of AI Grips World’s Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
+    excerpt: "GITEX GLOBAL and Expand North Star comprise a combined 41 halls spanning 2.7 million sq. ft of exhibition space."
+    publishedDateTime: 2023-10-18T05:33:00Z
+    webUrl: "https://www.phoneworld.com.pk/new-era-of-ai-grips-worlds-imagination-as-gitex-global-2023-enters-2nd-day/"
     type: article
     provider:
-      name: Associated Press of Pakistan
-      domain: app.com.pk
-    quality: 35
+      name: Phone World
+      domain: phoneworld.com.pk
+    quality: 37
     images:
-      - url: "https://www.app.com.pk/wp-content/uploads/2023/10/huwaei-e1697551980722.jpg"
-        width: 1200
-        height: 763
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/A-high-level-discussion-on-the-future-of-smart-cities-at-GITEX-GLOBAL-2023.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "ZX6rkAPC898kxSfMO+SNOjBrhtCyu7200m54/cNGSc58NJsVNR4vRUDg7daRZnwklrGJ6LonAAOW76fKr5QRZ0Kb56MBzAPdImaVWYRPd+2qp9Z3KvMr8zINPzUPKJSx+RafWYwKl+0nVdXxpVmXx7hOyvxkDa0q/1un3SEfTFC4N4dY9dY3BtlQB3xJL5A8FG1XyL9/vf5Ah9j/9CmAa8GKYH3N7itk2EzsjPYu5WQTr6f0ofJrG+TviVYztnq+3dwuRz95/YaPZeXDv4A1NZ+PgOQGpuQTY/4xzCRpVt2X//QmzXhHSMg5qwjvNioAKsndVKOYYR70EsUrbGD2NYQYX8ijmocuppnDuUgAsVA=;qDPg7RvN8e0HDEnrCBtLKA=="

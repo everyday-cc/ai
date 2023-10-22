@@ -1,28 +1,20 @@
 ---
 category: news
 title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
-excerpt: "According to the Texas Department of Transportation, multiple companies are testing and operating driverless vehicles “as passenger, freight and personal delivery devices” all over the state. The list includes Kodiak, Aurora, Waabi, Torc, Plus.AI, Gatik, Cruise, Volkswagen, Waymo, Starship, Kiwibot, Coco, Refraction.AI, Nuro, and Clevon."
-publishedDateTime: 2023-10-06T01:16:00Z
-originalUrl: "https://www.kvue.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
-webUrl: "https://www.kvue.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
-ampWebUrl: "https://www.kvue.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
-cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+excerpt: "It’s 8 p.m. in downtown Austin, and the electric cars silently exit the parking lot one by one — but no one is behind the wheel of any of them. The Cruise depot is full of people preparing the cars for another night of road testing."
+publishedDateTime: 2023-10-05T22:10:00Z
+originalUrl: "https://www.chron.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
+webUrl: "https://www.chron.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
 type: article
 
 provider:
-  name: KVUE
-  domain: kvue.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://media.kvue.com/assets/KVUE/images/f8780d49-b3b5-44ae-a983-32e51110b0a4/f8780d49-b3b5-44ae-a983-32e51110b0a4_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
-
-secured: "TVWQNuh1v172plpcsJ2/kbl6Qipgr9tu8uOIJmph+s3BODgnfDmO6XpXXlk+H0bV4+g2vIungC504vxUFOX/7vNog5P7owi0EunG9HRN7nlbjsSwmQx1hhxhVckKPbfj8WgG2UkzRgk9Bl/G4r0tng/krAwGULK6k02fDv7e92ZR6lNz9LBmLJ0H2jo+JpxKQTkQC5B8Ix7sfEqg6K4HRxV//TyxDJVD2Ep5/QkoTY7KndsEFNZEjjPsO0xNN6Ba+Mfh4fbZsS4wK3bZN+gQigfHP1wkCitZFB3ALhxHhytVTDwao2jBJoCW0pwbnuFo67lDhyDFaxIYnda0FD+YEXzpbvQvnF4L3ysN59BEK8WynFl5za0Qc8geivoVL5a9vZhfBpqvsWvysMwUJvwlIQB3NbCm25vvcMjhHMJmRrZxrexCzmj8PIrja3Sza/TPNUNz6jqoOFkxa9ZFzEsp9jCcg1JFNEPSuDf0MFZohYUrd5I2FcRFKYt328riO4qMcGI4SPSQXOZ+7b3YwTelpA==;CYtqIf1guwub4TH54WlI4g=="
+secured: "2SuO4OQmkhWHHNKTL8F2NVG8MkRc9AaO6Puj14HqkwDJxPB9U2us0/xAZDsVppfsZ8cJHnWg/9lmc000TI2JYiWrfVf91g2tP0pYizkywga2OF40XVpXf2QsXkO+RPu/+W5E8tgBl0x/2kzDRSpr75lCaVPoXvjnWJ1BXpuiqwDQp5fGD4dc0EbpbwYXGKLMNqFWjxPudDJgZ0shigk7r1o/n4P1exKvjZYjo8kyXGtxy0Ab7PVNa+R2/qbXiN4QNuIg1lo7zU9TkF8gJI9LQyQUWeDtNdK1W0moMJww2baf7viT7Dsvy0BP21/92W+g/wCgyG0ni9fOZdHXihfHy/sya583zWXfrRNoRgSqmHPdS4oAjIzz5mV9adELs2FuWhAENfk7d0GaOLDcCkNRoMOBJHZmAE0zfA4pS0NxsImP5zZtOjdClOVIjOlnEHEL05UygJvjYsCS0Tu81LBofQB9qeKRcfO5PMAC1XYCxRGuYX+l6dk50u1qvDzVXv2wS8KcsBmWzBA+u6AuUhgAUw==;56rExJdAu21UNRI/aOC/Zg=="
 ---
 

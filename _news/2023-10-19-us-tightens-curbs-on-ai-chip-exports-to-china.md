@@ -200,15 +200,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Biden administration set to halt shipment of AI chips to China"
-    excerpt: "WASHINGTON: The Biden administration said today that it plans to halt shipments to China of more advanced artificial intelligence chips designed by Nvidia and others, part of a suite of measures aimed at stopping Beijing from getting cutting-edge US technologies to strengthen its military."
-    publishedDateTime: 2023-10-17T14:26:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/17/biden-administration-set-to-halt-shipment-of-ai-chips-to-china/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "Explained: How the US will cut off China from more AI chips"
     excerpt: "The measures are designed to prevent China from acquiring the cutting-edge chips needed to develop AI technologies such as large language models, which power applications such as ChatGPT but that US officials say also have military uses that present a national security threat."
     publishedDateTime: 2023-10-17T19:08:00Z
@@ -245,15 +236,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 27
-  - title: "Chip stocks fall as U.S. moves to close loopholes in effort to curb AI chip exports to China"
-    excerpt: "AMD (NASDAQ:AMD), and Intel (NASDAQ:INTC) fell in early trading Tuesday as new rules from the Biden administration will make it harder for China to buy AI and other advanced U.S. chips. The objective of the move is to address apparent weaknesses in export controls that were introduced a year ago."
-    publishedDateTime: 2023-10-17T13:12:00Z
-    webUrl: "https://ca.investing.com/news/stock-market-news/chip-stocks-fall-as-us-moves-to-close-loopholes-in-effort-to-curb-ai-chip-exports-to-china-432SI-3140085"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 23
   - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
     excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
     publishedDateTime: 2023-10-18T16:05:00Z
@@ -268,15 +250,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Commerce Department moves to cut key supply lines to China's AI industry"
-    excerpt: "Commerce Secretary Gina Raimondo said the rules were aimed at hobbling advances in China's military but will also have broader commercial impact."
-    publishedDateTime: 2023-10-17T15:01:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/10/17/commerce-dept-moves-to-cut-key-supply-lines-to-chinas-ai-industry/71214206007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
 
 secured: "CXWU2EQ+xmNAeKHUNJiRfHl4JIQdanMk93faYPXqJ5uzdKL3E7XqmK8mUT7hTlA74OibiSbC3it+nhg83XXj4fXNIjSxdIfkVqeTLLlaT+MqTJWP2MQQKE7zjkIHVu9JUCfBKFUNycWLlp407jGKJq98JOODU8EMI5J2IWMgcrHzHRiQWRNzABJNa3NQ3WQQbJ6bK7yuYyZZGiQ6G6Y0ok+jLXgAQmLz1KGb1H1gV5R3ywJzgcaPv4CBVFkeXJZrgsL8JCUkaKA2QhmM2FH69LHER+KoruSiS8BE4GnInPXCSczwzMuykZ4hLCevT+7F0F/zXtbnodoxMsGGyE5qDfEvHXs1Sf8aAeWPTwn0zAE=;2HvwBYP94rOlCp30Uae83g=="
 ---

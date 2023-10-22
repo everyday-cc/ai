@@ -73,20 +73,6 @@ related:
         width: 830
         height: 467
         isCached: true
-  - title: "Cruise self-driving cars investigated after two accidents"
-    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
-    publishedDateTime: 2023-10-17T13:46:00Z
-    webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/e44b97f8a431f7982500767b0b3771a9"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Regulators probe GM’s Cruise self-driving taxis over pedestrian safety"
     excerpt: "U.S. regulators are investigating General Motors’ Cruise self-driving taxis over concerns they could hit people."
     publishedDateTime: 2023-10-17T15:51:00Z
@@ -138,15 +124,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 19
-  - title: "US regulators probe self-driving vehicles over fears for pedestrians"
-    excerpt: "The Office of Defects Investigation said that it has received two reports involving pedestrian injuries from Cruise vehicles."
-    publishedDateTime: 2023-10-17T13:18:00Z
-    webUrl: "https://guernseypress.com/news/world-news/2023/10/17/us-regulators-probe-self-driving-vehicles-over-fears-for-pedestrians/"
-    type: article
-    provider:
-      name: Guernsey Press
-      domain: guernseypress.com
-    quality: 4
 
 secured: "eZFW2nt44Hj6Zv2lfsudDUxS+D9Qt4dsAXnbWuEdifHIYf5puWs7XWmLJwApsqae/lKDPYwVIs3vtyxZr9jAR0I8G2SdrZDrKidn33SbfnlV+sp/6AI13KmoRTrQyYzl5905gUgo/tO6zqKytdHMCpNTONxoqTaNIC68VwQgeJZHgdzHM63aHd+03DB1QparQwVAZRJEWJMPJkF1Aiw5AP404sUbiM9si/b2fViTkJCju7OAwGSwQBBm7lnkxww6oo+PB82tN2e9p87c7BifdLnl173TAqCcC3x/bX5SApzwk0GLUVpVpc52J5cjnTj1hkdStuErfegxU3XQyLlJUIDvdrufzuyAcvICBpbNYTA=;QScEt04HbIn66EuBkLmHMA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
 type: article
 quality: 104
-heat: 364
+heat: 354
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft launches AI content safety service"
-    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
-    publishedDateTime: 2023-10-17T13:54:00Z
-    webUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/worried-alarmed-concerned-user-100947306-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "DCT Abu Dhabi and Microsoft sign MoU on generative AI, cloud technologies"
     excerpt: "The alliance enables innovation in key areas such as generative artificial intelligence (AI) and cloud computing and brings together both organisations’ capabilities and resources to enhance the touri"

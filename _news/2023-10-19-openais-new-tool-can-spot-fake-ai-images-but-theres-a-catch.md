@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-i
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
-    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire"
-    publishedDateTime: 2023-10-17T14:01:00Z
-    webUrl: "https://www.inferse.com/759255/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-11089.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
     excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."

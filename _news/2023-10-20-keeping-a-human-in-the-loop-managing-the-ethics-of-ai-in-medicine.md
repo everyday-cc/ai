@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-human-loop-ethics-ai-medicine.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,17 +36,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
-  - title: "Bridging tech and humanity: The role of AI foundation models in reducing civilian harm"
-    excerpt: "In embracing this future, we commit to a vision where technology is not just an ally in warfare, but a guardian of humanitarian values."
-    publishedDateTime: 2023-10-17T15:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/4260162-bridging-tech-and-humanity-the-role-of-ai-foundation-models-in-reducing-civilian-harm/"
-    ampWebUrl: "https://thehill.com/opinion/technology/4260162-bridging-tech-and-humanity-the-role-of-ai-foundation-models-in-reducing-civilian-harm/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4260162-bridging-tech-and-humanity-the-role-of-ai-foundation-models-in-reducing-civilian-harm/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 33
 
 secured: "1rwHcDoQ39A8GDVcfK67DEtm6eNfQ1n2xe2ITP+DL8Osr4TS5Gvx6ldWegR8iwMmFYUNFxOotARcBU60fUy/AgO7BTtapCCxYB1Yu7RFQ+49xC/e5DQF0GOhYjA51Bma6tXJzPny0qccpXqPrM44mahsY4zEFA3xigJtHJvcgPQHOq3P6ddbZuEkDdaoJWthkKCQqhcp8Hd11GMDfpSqaQcWx8GwM+OuXXM7jixwxBGeChM11tuFtEPxOzj/Zc0Mc/qmuJCBtJYxR80YP9FEysQ7+7WQ3cqlV6wqEMRu/aWeX+O7otjvlY0p+sQz7LlqPVmTAooavO6mBMaDX+++zHpoNjnms2EdBjmZlPBNlcsHlcgg5rJFSUIYoiTDEADfs1YY/ukvys82Af5iNwXIWxRL4TsK918IkBHUBp37jMEjVcZ/6hkB1vGeDxvxFN2QZaRNb2UuM1WoA6YSvO5y3ElUP8EDpcegaJ7Ofkm7ORSWVW7SycD59DgmvMSlhE+Yi7TT1ZMKs52TlAJ776bPgg==;4YI/7hpZ0Z/Y9xOKgHKJtA=="
 ---

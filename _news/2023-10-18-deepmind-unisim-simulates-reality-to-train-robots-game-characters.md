@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-tr
 webUrl: "https://venturebeat.com/ai/deepmind-unisim-simulates-reality-to-train-robots-game-characters/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1199
     height: 685
     isCached: true
-
-related:
-  - title: "Google DeepMind Announces LLM-Based Robot Controller RT-2"
-    excerpt: "Google DeepMind recently announced Robotics Transformer 2 (RT-2), a vision-language-action (VLA) AI model for controlling robots. RT-2 uses a fine-tuned LLM to output motion control commands. It can perform tasks not explicitly included in its training data and improves on baseline models by up to 3x on emergent skill evaluations."
-    publishedDateTime: 2023-10-17T13:15:00Z
-    webUrl: "https://www.infoq.com/news/2023/10/deepmind-robot-transformer/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2023/10/deepmind-robot-transformer/en/headerimage/generatedHeaderImage-1696170564728.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "GN7tktl5Vg1KJWH5WAghaYZ2036J2TfD/cnJwsSJrcDY1F0LJqh/6rSow6jEz5DC4wGZiDxpk4UxVkd+F0xQpKWJR6CCE+CLc2qdbuTNV7+z0fep6dFTYrlCgZyGQfrugv1dSF8tFuf9ShsmUV6S9sEujMiMcOTtd09OjfaGFuoEYh4fd20N2UWfyxkJX2U668qSo8u0Umhhl0Cscjfu9iovBLKwX7K7NnzQqDxZlXebHuQlsLNqBIcDMbGdbKhx3cS5LgM9Zit7gMioPVSoFY8kw5DOkMEUvMP6r2K7hn9k8Bt+JK8hSjv9lThTEY2U7DgOgxQsQpSXgIv0Fx60EBoFWQZIAkU6KoxmVMCxoDk=;lwNuHMFaCaTqcSJFolAXRw=="
 ---

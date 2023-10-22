@@ -206,15 +206,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Biden administration set to halt shipment of AI chips to China"
-    excerpt: "WASHINGTON: The Biden administration said today that it plans to halt shipments to China of more advanced artificial intelligence chips designed by Nvidia and others, part of a suite of measures aimed at stopping Beijing from getting cutting-edge US technologies to strengthen its military."
-    publishedDateTime: 2023-10-17T14:26:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2023/10/17/biden-administration-set-to-halt-shipment-of-ai-chips-to-china/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
   - title: "Explained: How the US will cut off China from more AI chips"
     excerpt: "The measures are designed to prevent China from acquiring the cutting-edge chips needed to develop AI technologies such as large language models, which power applications such as ChatGPT but that US officials say also have military uses that present a national security threat."
     publishedDateTime: 2023-10-17T19:08:00Z
@@ -260,24 +251,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 27
-  - title: "Chip stocks fall as U.S. moves to close loopholes in effort to curb AI chip exports to China"
-    excerpt: "AMD (NASDAQ:AMD), and Intel (NASDAQ:INTC) fell in early trading Tuesday as new rules from the Biden administration will make it harder for China to buy AI and other advanced U.S. chips. The objective of the move is to address apparent weaknesses in export controls that were introduced a year ago."
-    publishedDateTime: 2023-10-17T13:12:00Z
-    webUrl: "https://ca.investing.com/news/stock-market-news/chip-stocks-fall-as-us-moves-to-close-loopholes-in-effort-to-curb-ai-chip-exports-to-china-432SI-3140085"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 23
-  - title: "Commerce Department moves to cut key supply lines to China's AI industry"
-    excerpt: "Commerce Secretary Gina Raimondo said the rules were aimed at hobbling advances in China's military but will also have broader commercial impact."
-    publishedDateTime: 2023-10-17T15:01:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2023/10/17/commerce-dept-moves-to-cut-key-supply-lines-to-chinas-ai-industry/71214206007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 18
 
 secured: "ioUUr8qO9d+bwYlZoTf7YKHLdEcMSdBShz8NCLNpvu7wm2pSVj7QDt8tP/MiVMxmUJ86INoWQlFdtFia7nBqwqlknT5JP1BDk3TjNdJHUNfeB7C2Ky80kY2DlibEhR7J6AVH/sLYsaH0K8EkoPnN5GHzztGJiWprBz5pafrVlimp2T/P3isi1JFR7j9e4zAQlCAVpMe7JRTC+ZeYjtHdUZc7QzTOGriexSRvXZW6tzs6T/M2xJe7gmsrzGbt58GRLk6smib05dFbSv9AjbHen9XFJ6hiYrSomXmGjEyrenwRLaDOpIx8ClJwpZAjwpWYJoHS1lsK84dc3K7/nLizaFQJfnY1SXY0fDmPGmJRH44=;id2BWycdKQFx6Ivx0aFZPQ=="
 ---

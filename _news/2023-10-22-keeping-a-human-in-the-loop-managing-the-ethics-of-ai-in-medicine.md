@@ -39,17 +39,6 @@ related:
         width: 1920
         height: 1358
         isCached: true
-  - title: "Bridging tech and humanity: The role of AI foundation models in reducing civilian harm"
-    excerpt: "In embracing this future, we commit to a vision where technology is not just an ally in warfare, but a guardian of humanitarian values."
-    publishedDateTime: 2023-10-17T15:00:00Z
-    webUrl: "https://thehill.com/opinion/technology/4260162-bridging-tech-and-humanity-the-role-of-ai-foundation-models-in-reducing-civilian-harm/"
-    ampWebUrl: "https://thehill.com/opinion/technology/4260162-bridging-tech-and-humanity-the-role-of-ai-foundation-models-in-reducing-civilian-harm/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4260162-bridging-tech-and-humanity-the-role-of-ai-foundation-models-in-reducing-civilian-harm/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 33
 
 secured: "Newo8QTuSD2kGkbMkOGVyJWA7I2Mwyw5jGnTLSLjzQKDXPledk+8OKgROHHKgwJUki2/tnKdhExqfuOK0KHn7MfqqpwMzogL5ctCu7/CKcaj3wwCHx24/rDbonc+jI9xFhWQGSBwNvsFvgmLbXd5aQu9IMCNsgznT9Bix4zTkdz4P+q8WLLvhhX6xh+Tl3ZtEze8IgzPD8woGuz1Vj0I381aVUwl3zydOc7vs5iCBUDG00V6SsmtoT0puFuQTXoNJsGya2h1yg4cQHKYgeGD7Bkerr4iTKrn/a/x13jFeNwtP/5OL+F29RZdcuFBBkz7Y1PdZ/qeTravCHg+oaZAXz2nJFGgbjL8V8VRzYpRsdU=;RNxmxVQonLZdSJBMRzbovw=="
 ---

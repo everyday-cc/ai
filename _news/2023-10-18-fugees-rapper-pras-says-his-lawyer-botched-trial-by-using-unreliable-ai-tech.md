@@ -34,20 +34,6 @@ related:
         width: 1199
         height: 630
         isCached: true
-  - title: "Convicted Fugees rapper says ex-lawyer bungled defense with AI closing argument"
-    excerpt: "The lead defense lawyer for convicted Fugees hip hop star Prakazrel “Pras” Michel improperly relied on an experimental generative AI program to draft his closing argument in Michel’s high-profile criminal trial last spring,"
-    publishedDateTime: 2023-10-17T15:03:00Z
-    webUrl: "https://www.reuters.com/legal/transactional/convicted-fugees-rapper-says-ex-lawyer-bungled-defense-with-ai-closing-argument-2023-10-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 63
-    images:
-      - url: "https://www.reuters.com/resizer/SGnV9djahv-Y7FKl2Whvg8TNUJs=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HSCNWFN4BZOTRJUZQYLNS2HVAE.jpg"
-        width: 728
-        height: 381
-        isCached: true
   - title: "Fugees rapper Pras Michel's ex-lawyer botched his fraud trial by using AI for closing arguments, his new legal team says"
     excerpt: "Michel's ex-attorney, David Kenner, was quoted in a May product release saying he used a new AI program to craft legal defense, per Michel's new team."
     publishedDateTime: 2023-10-19T07:19:00Z

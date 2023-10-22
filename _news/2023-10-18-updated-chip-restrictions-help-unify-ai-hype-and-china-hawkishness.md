@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-res
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://www.reuters.com/resizer/paW-w8d7ely0cv3aYqwuml_RHQ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5R35K5J7YFJ3DDUQRVT67HNQO4.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "US restricts sale of more advanced AI chips to China"
-    excerpt: "the us on tuesday unveiled plans to restrict the sale of more advanced ai chips to china to close loopholes in the measures announced last october nvidias a800 and h800 chips which were specifically d"
-    publishedDateTime: 2023-10-17T14:56:00Z
-    webUrl: "https://inshorts.com/en/news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 74
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/17_tue/img_1697551554960_636.jpg?"
-        width: 1080
-        height: 720
         isCached: true
   - title: "AI Demand for Nvidia Chips Keeps Rising. New China Restrictions Are Likely Just Noise."
     excerpt: "Taiwan Semiconductor Manufacturing’s earnings commentary shows that demand for AI applications and Nvidia chips are improving. Nvidia stock should benefit."

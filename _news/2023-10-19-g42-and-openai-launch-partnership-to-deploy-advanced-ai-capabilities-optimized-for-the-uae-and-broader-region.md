@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
-    excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire"
-    publishedDateTime: 2023-10-17T14:01:00Z
-    webUrl: "https://www.inferse.com/759255/fintech-startup-stripe-integrating-openais-new-gpt-4-ai-reuters/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-11089.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "GITEX GLOBAL 2023: G42, OpenAI partner to advance AI in the Middle East"
     excerpt: "G42 said partnership will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare."
     publishedDateTime: 2023-10-18T13:22:00Z

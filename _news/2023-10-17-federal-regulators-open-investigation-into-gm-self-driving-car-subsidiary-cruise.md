@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
 type: article
 quality: 69
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/xahx3h403lIg1Jd-iz3n2Mi5jkI=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LQ34RSW3KKK24OH7KW2YYF5OVM.jpg"
         width: 830
         height: 467
-        isCached: true
-  - title: "Cruise self-driving cars investigated after two accidents"
-    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
-    publishedDateTime: 2023-10-17T13:46:00Z
-    webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/e44b97f8a431f7982500767b0b3771a9"
-        width: 976
-        height: 549
         isCached: true
   - title: "Regulators probe GM’s Cruise self-driving taxis over pedestrian safety"
     excerpt: "U.S. regulators are investigating General Motors’ Cruise self-driving taxis over concerns they could hit people."
@@ -142,15 +128,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 19
-  - title: "US regulators probe self-driving vehicles over fears for pedestrians"
-    excerpt: "The Office of Defects Investigation said that it has received two reports involving pedestrian injuries from Cruise vehicles."
-    publishedDateTime: 2023-10-17T13:18:00Z
-    webUrl: "https://guernseypress.com/news/world-news/2023/10/17/us-regulators-probe-self-driving-vehicles-over-fears-for-pedestrians/"
-    type: article
-    provider:
-      name: Guernsey Press
-      domain: guernseypress.com
-    quality: 4
 
 secured: "VuIsUSH3+BIVXDLUxj/0gniOO9QkJLcaTu3e0gpw0ymZPz0Zjlm9c7hcXOG3bkUL53MFrgv7h/dItFeRyRWH1ea8spld4k5NVpPBNYb3NeMjotYoz82ll44f3Pt5w+mtXtayI84SNh2Wm429307Bw471Bxz9EOUJAFeeO58D8D30LJK4NWMyImYd6+T0KkunWRBgFWJ498Cx00R5Sgmz14mTE8e74OrR8JsDTM1IZ1pcgAfaZxqEyk97qfHdP/Isd7bWdN/OX4Xz6iFDPrSb/E4jXT297TJJxWrKjQziaDdDMNfOJgT91BdB+z240XEFVApTB1RftIJxLOWu3FHUPLY/ACURpT9DDyzZ5NDfowM=;RF1NyRH3ImsMKX6kVcee7w=="
 ---

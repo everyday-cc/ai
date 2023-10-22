@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sandervantnoordende/2023/10/20/how-to-bridge-the-ai-anxiety-gap-at-workand-seize-the-job-opportunities/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
         width: 834
         height: 636
-        isCached: true
-  - title: "Inside the surprising AI Advertising opportunity"
-    excerpt: "As AI becomes more advanced, there is a growing need to advertise, which creates a new and robust advertising segment for media companies."
-    publishedDateTime: 2023-10-17T13:12:00Z
-    webUrl: "https://digitalcontentnext.org/blog/2023/10/16/inside-the-surprising-ai-advertising-opportunity/"
-    type: article
-    provider:
-      name: Digital Content Next
-      domain: digitalcontentnext.org
-    quality: 39
-    images:
-      - url: "https://digitalcontentnext.org/wp-content/uploads/2023/10/AIAdOpportunity.png"
-        width: 867
-        height: 400
         isCached: true
 
 secured: "0moShQrBtEfzDow5ZdfLH9PfYMF8cxwjncFQxUmvtYZzwoEfv9ASNEr85/Bml3kA5OhlX0ON8khj7Rh0g6KshgDWl4Ed3ZxiE3voIaNV1z1anpVPjzvTNDL/cZXl7gHOjfMf8jlyRQSYpB0k5j6cdd2OaZonprNkHMhM9Abqjovvl48DjkeAvCo4SUGypz6d3oEY1SxvOUA4qJIQKsk/+fXhmTS+Z1yQof2jrC0gKpWYF1sNNU7XIygOZcJXoA0vhjhQ3PIFlE7v9cMh5nW4hh7JpTWWoyXpcJ63ielWl5wTy99WB0hgdgOHbYFJRnS5ENL4KVYe3fQVFgZSsz5c3Eg75efdOsd69VwQj64/Zmo=;Dmv87gvAhP+E+a0JruHatQ=="

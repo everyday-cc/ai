@@ -59,20 +59,6 @@ related:
         width: 830
         height: 467
         isCached: true
-  - title: "Cruise self-driving cars investigated after two accidents"
-    excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
-    publishedDateTime: 2023-10-17T13:46:00Z
-    webUrl: "https://www.aol.com/news/cruise-self-driving-cars-investigated-104725602.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://media.zenfs.com/en/aol_bbc_articles_618/e44b97f8a431f7982500767b0b3771a9"
-        width: 976
-        height: 549
-        isCached: true
   - title: "Regulators probe GM’s Cruise self-driving taxis over pedestrian safety"
     excerpt: "U.S. regulators are investigating General Motors’ Cruise self-driving taxis over concerns they could hit people."
     publishedDateTime: 2023-10-17T15:51:00Z
@@ -138,15 +124,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 19
-  - title: "US regulators probe self-driving vehicles over fears for pedestrians"
-    excerpt: "The Office of Defects Investigation said that it has received two reports involving pedestrian injuries from Cruise vehicles."
-    publishedDateTime: 2023-10-17T13:18:00Z
-    webUrl: "https://guernseypress.com/news/world-news/2023/10/17/us-regulators-probe-self-driving-vehicles-over-fears-for-pedestrians/"
-    type: article
-    provider:
-      name: Guernsey Press
-      domain: guernseypress.com
-    quality: 4
 
 secured: "jp7pUAKHGccuCHWWNuMMW5tEsjxXu59gjR+pcztPAeAzNOvmaWXlOX9zokwzW+ywZu5uCfO09Rjg+NJnDXTXFyssDQNk1dmnuqG4LqYTp7NIQbg2BELm7SXTnWwqN8RhoSnj0vCvp+biyBLCz+RUzKvJ1A2ySn1y4Lia4sj9CeGm7uQ1rJ9aXIVKdgU9iItl+fkdmAr1CwrxkywUwCavFPjSt1RHMj562MoPfLSAfe02IDHOZpDigoA9PrGPYTwxz9CyKqY5J2/zUFd4QcpNrJyMRwl8pcoQCcg+Qj9YrR7agJ61KbeqWBTiD4pC9GV1oRjdop3l2t+Bm0J0yUHYKkHE7E6zq907Wnxj88+rJNqd9npiPoKi4T76ZjodXKix9ysGXw6Pk+ur1SM7vvBJE1hZaZFOd4fiKKfX9uRI0bl6S+HBhdAbAFQmm0Z8w2F7kDRfGdj7/W9CkuGmInfpyjUYIulI36wXtrpzVPh/4IuI1tdB4xkTeti9U5h/krhLe9yRTGY8gtUHK7reySj1fw==;QpzGZseV590HpOKf+YPcIQ=="
 ---

@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "US restricts sale of more advanced AI chips to China"
-    excerpt: "the us on tuesday unveiled plans to restrict the sale of more advanced ai chips to china to close loopholes in the measures announced last october nvidias a800 and h800 chips which were specifically d"
-    publishedDateTime: 2023-10-17T14:56:00Z
-    webUrl: "https://inshorts.com/en/news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/us-restricts-sale-of-more-advanced-ai-chips-to-china-1697554570303"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 74
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/10_oct/17_tue/img_1697551554960_636.jpg?"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "How Taiwan's server and chip suppliers perceive the new round of AI GPU restrictions"
     excerpt: "The US has once again escalated its trade restrictions, and the AI chip industry is heavily affected. In addition to blacklisting China's fastest-growing GPU manufacturers, Moore Threads and Biren, the most significant impact is the anticipated restrictions..."
     publishedDateTime: 2023-10-18T07:22:00Z

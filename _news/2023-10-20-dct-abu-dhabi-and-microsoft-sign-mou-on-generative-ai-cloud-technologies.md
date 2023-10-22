@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft launches AI content safety service"
-    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
-    publishedDateTime: 2023-10-17T13:54:00Z
-    webUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.html"
-    ampWebUrl: "https://www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708637/microsoft-launches-ai-content-safety-service.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/worried-alarmed-concerned-user-100947306-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Microsoft Promises SOC Relief with Coming Security Copilot AI"
     excerpt: "The Security Copilot integration in Microsoft 365 Defender will translate what the attack code does ... which gets generated in the form of the Kusto Query Language. It's also possible for analysts to use Security Copilot to analyze a PowerShell script ..."
     publishedDateTime: 2023-10-20T00:18:00Z

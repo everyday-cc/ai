@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 133
 published: true
 
 provider:
@@ -61,6 +61,38 @@ related:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI Startup Wants to Make Sure Chatbots Don’t Tell People How to Vote"
+    excerpt: "The co-founder of Inflection AI is talking with other large startups about defining the role artificial intelligence will play in elections."
+    publishedDateTime: 2023-10-17T20:46:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-17/ai-startup-wants-to-make-sure-chatbots-don-t-tell-people-how-to-vote"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Meta Product Chief Sees AI Chatbots as Tool to Lure Advertisers"
+    excerpt: "Meta Platforms Inc. Chief Product Officer Chris Cox said that AI chatbots will become an increasingly attractive tool for advertisers, rather than just a way to lure users, in a sign the company is pivoting the technology toward business customers."
+    publishedDateTime: 2023-10-18T05:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-18/meta-product-chief-sees-ai-chatbots-as-tool-to-lure-advertisers"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
+  - title: "Inside the Underground World of Black Market AI Chatbots"
+    excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
+    publishedDateTime: 2023-10-22T02:48:00Z
+    webUrl: "https://www.thedailybeast.com/inside-the-underground-world-of-black-market-ai-chatbots"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697736987/231011-dark-web-ai-chatbot-hero_qofzpt"
+        width: 1480
+        height: 832
         isCached: true
 
 secured: "7g6DpBz1d4lE1fcYWh902gBuZVbc88MGR58DctI720p7EEza2ovdtKd7dhcUEsa2/uOgizLvT0y8+a3QUGhMy2GHA1pPRlr15p2aUC0G/BQd3ofAYy3bIjDyDA6rtM2Mx0wZvbKFGmjg0zj0i7v/KUyByuT+AK2oapm8o0qf7wlxGYuFfO1544Mr6wY6Vc4yQ+BCj8L4SCYkEnAPqDZ9QROj/2CUNQd5efxi7JE6I/zu332tH0QAUfmskeRPP5mP08BWWx675YIdarb3z2dIZWH30sZy6RnYPiOQGuIKdxaJbNzwiN5UzNr2vIxifKaGPC+79hgpqyg1GPIJXmHR+ESo6I8TK87Z9Cr6Wal3xRQ=;d5j5ogahPofLX8IeG7H6Xw=="

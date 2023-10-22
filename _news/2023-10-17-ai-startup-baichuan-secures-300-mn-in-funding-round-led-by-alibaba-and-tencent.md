@@ -118,20 +118,6 @@ related:
         height: 853
         isCached: true
   - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
-    excerpt: "HONG KONG/BEIJING (Reuters) -Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. China's craze over generative AI has triggered a flurry of product and fundraising announcements from startups and tech giants,"
-    publishedDateTime: 2023-10-17T13:44:00Z
-    webUrl: "https://www.aol.com/chinese-ai-upstart-baichuan-raises-085601942.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
     excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early $50 million angel round."
     publishedDateTime: 2023-10-17T20:56:00Z
     webUrl: "https://www.channelnewsasia.com/business/chinese-ai-startup-baichuan-raises-300-million-alibaba-tencent-others-3852046"
