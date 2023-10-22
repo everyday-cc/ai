@@ -59,22 +59,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Preparing for the Future of AI in Healthcare"
-    excerpt: "It’s crucial that healthcare organizations stay level-headed when it comes to questions around AI. It’s easy to get distracted by the latest, greatest new tool, but if it doesn’t align with an organization’s overall mission,"
-    publishedDateTime: 2023-10-17T16:19:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1321590983.jpg?itok=obw9Q3RC"
-        width: 1440
-        height: 500
-        isCached: true
   - title: "Thanks to AI, the future of programming may involve YELLING IN ALL CAPS"
     excerpt: "In a reply, X user Ivan Vasilev wrote, \"Funny how programming of the future requires yelling at AI in caps.\" In another response, Dr. Eli David wrote, \"At first I laughed reading this. But then I realized this is the future: machines talking to each other,"
     publishedDateTime: 2023-10-20T19:16:00Z

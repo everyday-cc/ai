@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-19-how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances.md",
+      "title": "How VirtuSwap accelerates their pandas-based trading simulations with an Amazon SageMaker Studio custom container and AWS GPU instances",
+      "excerpt": "This post is written in collaboration with Dima Zadorozhny and&nbsp;Fuad Babaev from VirtuSwap. VirtuSwap is a startup company developing innovative technology for decentralized exchange of assets on blockchains. VirtuSwap’s technology provides more efficient trading for assets that don’t have a direct",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-virtuswap-accelerates-their-pandas-based-trading-simulations-with-an-amazon-sagemaker-studio-custom-container-and-aws-gpu-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/19/virtuswap-sagemaker-studio.jpg",
+          "width": 892,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T09:16:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-19-intels-meteor-lake-on-chip-gpu-unveiled-arc-hits-integrated-graphics.md",
       "title": "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics",
       "excerpt": "Meteor Lake processors' Arc-based silicon leverages new process technology to rival a low-end discrete GPU. (It even supports ray tracing.)",
@@ -1363,59 +1416,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology.md",
-      "title": "Move over AI, quantum computing will be the most powerful and worrying technology",
-      "excerpt": "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/",
-      "originalUrl": "https://venturebeat.com/programming-development/move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/annevb_quantum_sensors_and_robotics._Colorful_futuristic_tech_81265ed8-1888-44a7-b3de-91845c435505.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

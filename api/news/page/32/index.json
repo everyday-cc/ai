@@ -2,6 +2,160 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-09-27-artificial-intelligence-promises-to-change-the-way-health-care-works.md",
+      "title": "Artificial intelligence promises to change the way health care works",
+      "excerpt": "From detecting serious illnesses early, to reducing the administrative burden on doctors, health experts say artificial intelligence promises to change the way medicine is practised.",
+      "sourceUrl": null,
+      "webUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471",
+      "originalUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/ottawasun/wp-content/uploads/2023/09/20220712010_em.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471/amp/",
+      "cdnAmpWebUrl": "https://ottawasun-com.cdn.ampproject.org/c/s/ottawasun.com/news/local-news/artificial-intelligence-promises-to-change-the-way-health-care-works/wcm/0cf5d904-d674-4ecc-b44f-143b1dc41471/amp/",
+      "publishedDateTime": "2023-09-26T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ottawasun",
+        "domain": "ottawasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-springboard-launches-new-100-online-machine-learning-engineering-and-ai-bootcamp-for-university-partners.md",
+      "title": "Springboard Launches New, 100% Online Machine Learning Engineering and AI Bootcamp for University Partners",
+      "excerpt": "Springboard today announced the launch of a new course offering for university partners: a machine learning engineering and AI bootcamp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230926096667/en/Springboard-Launches-New-100-Online-Machine-Learning-Engineering-and-AI-Bootcamp-for-University-Partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-vultr-launches-gpu-stack-and-container-registry-for-ai-model-acceleration-worldwide.md",
+      "title": "Vultr Launches GPU Stack and Container Registry for AI Model Acceleration Worldwide",
+      "excerpt": "Vultr, the world’s largest privately-held cloud computing platform, announced the launch of the Vultr GPU Stack and Container Registry to enabl",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230926776516/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-will-google-deepmind-ai-help-or-hinder-humans.md",
+      "title": "Will Google Deepmind AI help or hinder humans?",
+      "excerpt": "Torricke, Head of Global Communications & Marketing, Google Deepmind, explored how AI can help solve humanity's biggest challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibc.org/video/will-google-deepmind-ai-help-or-hinder-humans/9964.article",
+      "originalUrl": "https://www.ibc.org/video/will-google-deepmind-ai-help-or-hinder-humans/9964.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/5/2/4/25524_willgoogledeepmindaihelporhinderhumans_684313.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBC",
+        "domain": "ibc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-chemists-used-machine-learning-and-molecular-modeling-to-identify-potential-anticancer-drugs.md",
       "title": "Chemists used machine learning and molecular modeling to identify potential anticancer drugs",
       "excerpt": "RUDN University chemists and colleagues from China built several machine learning models and discovered a group of potential drugs that inhibit the enzyme responsible for uncontrolled cell division. The results were published in Biomedicines.",
@@ -856,178 +1010,6 @@
       "provider": {
         "name": "Fortune India",
         "domain": "fortuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased.md",
-      "title": "The Download: Europe vs Chinese EVs, and making AI vision less biased",
-      "excerpt": "Two new papers by researchers at Sony and Meta propose new ways to measure biases in computer vision systems so as to more fully capture the rich diversity of humanity. Developers could use these tools to check the diversity of their data sets, helping lead to better, more diverse training data for AI. Read the full story.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
-      "originalUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/VEDE0Q5PNefmgBvZ1rolKzsC2tATAsJRne3m8fJSGfCvztlFQPNYRPBaEypIv2Uz3iL12csg1QcthQTZL3tjPgwlUlZ3REOGuc3VOe9QDv5g_Xpk_-BSr1_Hfq1hBMlwd6Cm_I6e6tPkIODHwK1wiws",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/09/26/1080306/the-download-europe-vs-chinese-evs-and-making-ai-vision-less-biased/amp/",
-      "publishedDateTime": "2023-09-26T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-joins-hands-with-microsoft-to-boost-democratise-adoption-of-generative-ai.md",
-      "title": "Infosys joins hands with Microsoft to boost, democratise adoption of generative AI",
-      "excerpt": "IT major Infosys, on Tuesday, announced that it is partnering with Microsoft to bring together the artificial intelligence (AI) capabilities of both companies to enhance enterprise functions with AI-enabled solutions across multiple industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/biz-tech/2023/09/26/infosys-joins-hands-with-microsoft-to-boost-democratise-adoption-of-generative-ai.html",
-      "originalUrl": "https://www.theweek.in/news/biz-tech/2023/09/26/infosys-joins-hands-with-microsoft-to-boost-democratise-adoption-of-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/biz-tech/images/2019/10/23/infosys-reuters.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/biz-tech/2023/09/26/infosys-joins-hands-with-microsoft-to-boost-democratise-adoption-of-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2023/09/26/infosys-joins-hands-with-microsoft-to-boost-democratise-adoption-of-generative-ai.amp.html",
-      "publishedDateTime": "2023-09-26T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues.md",
-      "title": "Spotify AI-Powered Translation Tool Has Podcasters Speaking in Global Tongues",
-      "excerpt": "The Spotify pilot program called Voice Translation for podcasts not only translates a podcast from one language to another but will retain the podcaster's voice as it does it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues-178649.html",
-      "originalUrl": "https://www.technewsworld.com/story/spotify-ai-powered-translation-tool-has-podcasters-speaking-in-global-tongues-178649.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2023/09/on-air.jpg",
-          "width": 1000,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions.md",
-      "title": "Infosys and Microsoft join forces to drive AI-enabled solutions",
-      "excerpt": "With this collaboration, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities. Shares of Infosys Ltd ended at Rs 1,461.65, down by Rs 13.10, or 0.89 percent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/04/Infosys-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/infosys-and-microsoft-join-forces-to-drive-ai-enabled-solutions-17883741.htm/amp",
-      "publishedDateTime": "2023-09-26T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
         "images": null,
         "publishers": null,
         "authors": null

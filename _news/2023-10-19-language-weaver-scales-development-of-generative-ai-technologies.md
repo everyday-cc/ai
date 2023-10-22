@@ -65,20 +65,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "New tool can detect AI-generated content"
-    excerpt: "As the advancement of artificial intelligence grows, so does technology to detect what is real and what isn't. CBS''s Danya Bacchus introduces us to a new AI-detecting tool, and why experts believe it may be hard to keep up with the technology."
-    publishedDateTime: 2023-10-17T15:42:00Z
-    webUrl: "https://www.cbsnews.com/chicago/video/new-tool-can-detect-ai-generated-content/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2023/10/17/35d25017-1edd-4591-a4e2-171c769647c8/thumbnail/1200x630/9bafcc6b2b9e1c0b77d3342c512ba811/80881d12b4d364d4b93d62b1dfb246d1.jpg?v=a6a127b4a243923dd1e2140b75f2a43c"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ivey to Co-Lead Artificial Intelligence Panel"
     excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
     publishedDateTime: 2023-10-19T06:11:00Z
@@ -92,20 +78,6 @@ related:
       - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
         width: 800
         height: 534
-        isCached: true
-  - title: "Warner’s Spinnin’ Records partners with generative AI startup Endel to create 50 AI-generated wellness albums"
-    excerpt: "The partnership is the largest and most ambitious project yet for Berlin-headquartered AI company Endel Sound."
-    publishedDateTime: 2023-10-17T15:18:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/warners-spinnin-records-partners-with-generative-ai-startup-endel-to-create-50-ai-generated-wellness-albums/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 18
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2023/10/Faces-template-X-Spinnin.jpg"
-        width: 1358
-        height: 768
         isCached: true
 
 secured: "G27itjV6KuFUEry8eA3lnjADsnImrg+3Bg+6pxJ1JkcTasFP+p8ywhmOkVRkBpNU98F8vdFx903P+uGv/uk0ty6jKs8NKL9HWMivSCQKM1p5O6Z/xyd1Oc/ALD0Hefr7598ceE8DYVQo595d/6TSGjVPiQgvhnfk8LLYVm4ndmW6qWDFxopw0u6t/UqcpbF8mRPyYM8SWnmiRmTAwRju6iTmfdM3Xd0nYpkHblLMHUb+MPpr8EV9Bw+DQ7lDMb+raC5/HYe9W3wfInipyDeuXHKx5ZRGpsqTC2qMayxR5X2vFNTqjJVa1fSfASsGG4z8SQNcaWM7v/0XLDR5pdM8wZioLRzCC3oPUhHb00FmyCY=;HaUeoSwjyYyvWvrCPxChag=="

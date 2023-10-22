@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "US Moves to Close Loopholes China Is Exploiting to Secure AI Chips"
-    excerpt: "The stricter rules are intended to prevent Chinese companies from obtaining large numbers of smaller chips and combining them to form a powerful data center."
-    publishedDateTime: 2023-10-17T15:55:00Z
-    webUrl: "https://www.pcmag.com/news/us-moves-to-close-loopholes-china-is-exploiting-to-secure-ai-chips"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05wqDEjdDEkzyQnBECxr9tG-1.fit_lim.size_1200x630.v1697554685.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "How AI can help close IoT’s growing security gaps to contain ransomware"
-    excerpt: "Nation-state attackers are increasingly hitting unprotected IoT sensors essential to infrastructure and manufacturing."
-    publishedDateTime: 2023-10-18T21:55:00Z
-    webUrl: "https://venturebeat.com/security/how-ai-can-help-close-iots-growing-security-gaps-to-contain-ransomware/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/nuneybits_e-commerce_fraud_as_vector_art_8e23d5cb-4a8d-4a87-a483-299c9fa1a316.png?w=1200&strip=all"
-        width: 1170
-        height: 936
-        isCached: true
   - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel"
     excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
     publishedDateTime: 2023-10-18T05:33:00Z
@@ -93,28 +65,37 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel"
-    excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
-    publishedDateTime: 2023-10-17T16:31:00Z
-    webUrl: "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df?mod=tech_trendingnow_article_pos3"
+  - title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
+    excerpt: "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis."
+    publishedDateTime: 2023-10-18T12:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
+  - title: "Biden further chokes off China’s AI chip supply with Nvidia bans"
+    excerpt: "In August last year, a ban on Nvidia's chip export to China sent the country's budding artificial intelligence startups scrambling for alternatives. A"
+    publishedDateTime: 2023-10-18T12:15:00Z
+    webUrl: "https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 64
+  - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
+    excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
+    publishedDateTime: 2023-10-19T17:42:00Z
+    webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
     quality: 57
-  - title: "Factbox-How the US will cut off China from more AI chips"
-    excerpt: "The Biden administration on Tuesday issued a sweeping update to restrictions on exporting advanced artificial intelligence to China and other countries. The measures are designed to prevent China from acquiring the cutting-edge chips needed to develop AI technologies such as large language models,"
-    publishedDateTime: 2023-10-17T21:56:00Z
-    webUrl: "https://www.aol.com/factbox-us-cut-off-china-185630836.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/2da87f0cc6e89fc2957c715bceb6d799"
-        width: 800
-        height: 533
+      - url: "https://image.cnbcfm.com/api/v1/image/107247052-1685079013413-gettyimages-1257866797-Nvidia_Stock_Soar.jpeg?v=1697742655&w=1920&h=1080"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "US Curbs Export of More AI Chips to China"
     excerpt: "US Curbs Export , of More AI Chips to China. On Oct. 17, the U.S. Department of Commerce said it intends to prevent China from buying more of America's advanced"
@@ -186,29 +167,24 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Artificial Intelligence Will Bring Social Changes in China"
-    excerpt: "The recent release of ChatGPT and, even more recently, GPT-4 has demonstrated the power and productivity of generative artificial intelligence (AI). Now generative AI engines can write articles ..."
-    publishedDateTime: 2023-10-20T00:00:00Z
-    webUrl: "https://thediplomat.com/2023/03/artificial-intelligence-will-bring-social-changes-in-china/"
+  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
+    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
+    publishedDateTime: 2023-10-20T17:03:00Z
+    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
     type: article
     provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 39
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2023/03/sizes/td-story-s-2/thediplomat_2023-03-17-130341.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Explained: How the US will cut off China from more AI chips"
-    excerpt: "The measures are designed to prevent China from acquiring the cutting-edge chips needed to develop AI technologies such as large language models, which power applications such as ChatGPT but that US officials say also have military uses that present a national security threat."
-    publishedDateTime: 2023-10-17T19:08:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/how-the-us-will-cut-off-china-from-more-ai-chips/articleshow/104507233.cms"
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
+  - title: "Nvidia comes under US governments radar with its GPU sales in China"
+    excerpt: "Nvidia: In an effort to stymie the growth of artificial intelligence (AI) technology in China, the US government slapped new limits on AI and HPC GPU exports"
+    publishedDateTime: 2023-10-21T12:58:00Z
+    webUrl: "https://technosports.co.in/nvidia-comes-under-us-governments-radar/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 34
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 36
   - title: "US further limits AI chip exports to China"
     excerpt: "Welcome to The Hill’s Technology newsletter{beacon}  Technology Technology   The Big Story Biden administration further curbs chip sales to China The Commerce Department"
     publishedDateTime: 2023-10-17T22:20:00Z
@@ -217,15 +193,6 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 34
-  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
-    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
-    publishedDateTime: 2023-10-19T16:13:00Z
-    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
     quality: 34
   - title: "U.S. tightens curbs on AI chip exports to China"
     excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
@@ -236,6 +203,15 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
+  - title: "Nvidia's shares tumble after the Biden administration announced new restrictions on AI chips sales to China"
+    excerpt: "Nvidia won't be able to sell to China the chips it designed specifically to get around the White House's last set of export controls."
+    publishedDateTime: 2023-10-17T19:05:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2023/10/17/nvidia-stock-hit-by-bidens-new-export-controls.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
   - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
     excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
     publishedDateTime: 2023-10-18T16:05:00Z
@@ -250,6 +226,15 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "Why Nvidia, Intel, Broadcom, and Other Artificial Intelligence (AI) Semiconductor Stocks Crumbled Tuesday Morning"
+    excerpt: "Danny Vena has positions in Nvidia. The Motley Fool has positions in and recommends ASML, Nvidia, and Taiwan Semiconductor Manufacturing. The Motley Fool recommends Broadcom. The Motley Fool has a disclosure policy."
+    publishedDateTime: 2023-10-17T19:47:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/21184338/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 11
 
 secured: "AEthPvPCbmXvHQ56v1xpgOqHuPjv9srFrqYSxDq+ee0hEXcomzWVvlhOYyBjLy9piyWxKgrv1TFdPJkmu9IgI4RcRbks39QIOmO+kNXIeZztebAjUnjbrS7dczcruZ2SrsfNwt1rbRfcUAVYsBvMvtNtTstuGlSMWZdF903Rc5dxzhSejc0CLGqY7BrA/KRkiF5W2fEBDPsdRSxSoLGgBDyObb/MEGXS19b64f+mH4LETwx8N1f9na73/eWH+F4YAKTg75619msCIVo5LiZkn/Tld1KV9LHPgA4IFrXBriEcXBHp0V84XH/jx+RuUnXarwdUEdnfbq2TIOe18yUbS1ecMhNL2wYOmR6HyM6PeGg=;csVjoRQ8hTJ9Rvp+nqPR8A=="
 ---

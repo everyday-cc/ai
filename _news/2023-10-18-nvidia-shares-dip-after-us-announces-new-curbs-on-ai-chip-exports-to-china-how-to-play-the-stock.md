@@ -61,22 +61,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Biden Administration Limits China’s Access To AI Chips Like Nvidia’s To Curb Military Development"
-    excerpt: "The Biden administration is limiting the shipment of advanced AI chips to China to slow the country’s technological developments."
-    publishedDateTime: 2023-10-17T15:44:00Z
-    webUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/"
-    ampWebUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/britneynguyen/2023/10/17/biden-administration-limits-chinas-access-to-ai-chips-like-nvidias-to-curb-military-development/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652ea9d899bb17c095f8c369/0x0.jpg?format=jpg&crop=2913,1639,x0,y151,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Nvidia teams with Foxconn to boost electric vehicle AI"
     excerpt: "Foxconn, the world's biggest electronics manufacturer, announced a strategic partnership with Nvidia to accelerate the development of EVs."
     publishedDateTime: 2023-10-18T03:00:00Z

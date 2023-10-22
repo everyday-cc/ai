@@ -48,15 +48,6 @@ related:
       name: Nanowerk
       domain: nanowerk.com
     quality: 15
-  - title: "Qlik Highlights the Importance of Data Fabric in Boosting Generative AI Outcomes"
-    excerpt: "Recent research by Qlik shows that enterprises are planning significant investments in technologies that enhance data"
-    publishedDateTime: 2023-10-17T17:14:00Z
-    webUrl: "https://www.datanami.com/this-just-in/qlik-highlights-the-importance-of-data-fabric-in-boosting-generative-ai-outcomes/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 14
 
 secured: "NqIfKqnssoHWeR87R83ZwqFwBW61hE7lf6zoXAb7Xukj8+8ZD+Ce1vhRnCcpRG+r4NuSNaMQc8PGgg8hfEI1IbKKy2/N1AGv3H6VwaD2hSk7Q9B41A9mD9iEsyft3cY+x4A5HeJF6nCAUqNQLnf5Opxec64psCJEM9oh6PrTuUOViqQrefw6HmQKFicgx+B+SxvF5j9/5/ppoig/+j0OKAYZqJW2HfOHxh5kOlPsDvBRj0oXHvEQ4DavSdnAlhCttUSVi82SK1IlyE5hu4+PSSre8TEAphh/ZZK5TjWhvlGTWdJSW7Gztfr4ksQHr+L3aXR38/OT9Hemay8+P/HU797P899rK1LVZMAI8pkV4as=;4PnjScV/hB20Xq2hFhTSVg=="
 ---

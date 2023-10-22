@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Your AI experiments will fail if you don't focus on this special ingredient"
-    excerpt: "Recognizing the game-changing impact of AI is just the start. Your data innovations will flop if you take success for granted."
-    publishedDateTime: 2023-10-17T17:12:00Z
-    webUrl: "https://www.zdnet.com/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/your-ai-experiments-will-fail-if-you-dont-focus-on-this-special-ingredient/"
+  - title: "Transforming The B2B Customer Experience: AI's Role In Streamlining Document Processing"
+    excerpt: "In today's data-driven world, AI-driven intelligent document processing (IDP) is improving B2B customer experiences across sectors."
+    publishedDateTime: 2023-10-18T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5153e71a477d8cd905328851cc84de49447d2cc1/2023/10/17/e1cfb7c8-a08f-4ace-a170-8c248e166243/datas-gettyimages-1300497464.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6048e165345b4ab79c3f331a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1140
+        height: 760
         isCached: true
+  - title: "Employees Are The “New” Customers: Can AI Help Us Give Them Amazing Experiences?"
+    excerpt: "If you want to hold onto your best employees, attract high-quality talent and improve workplace satisfaction, it’s no longer enough to offer a job."
+    publishedDateTime: 2023-10-18T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/18/employees-are-the-new-customers-can-ai-help-us-give-them-amazing-experiences/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
 
 secured: "k+3O+CQR1WTzEFjTkijPoavNfe603iUHhQA91GrvRQ1s51/QFVBbUXXiQGEre9jOkiZP2l1hurR/CI2ihd7UwetMjgcQ9E26I1bTuhtE9LtRe9NdaPJloJ3FJOhhE4BV+s8hi786gMtGFvYfnZ0zWS1+i/w7N4UoUEIouYR0DiyeFGME0pmXpNrWNyIu3YR7hzI3W8VNBLcGaMhtTfSFMM7JXbh3KyEYVt2awoN1YkG/dnm7DvTQ/ZKZwr2GucF9EyvM9ObBZ6jnyhb3wVQY7WFoJiOXsWKTLTSWRabyjgjz0h98C7xh0yj2q8BQlqEi2QsXUxj2PdSZG5aTKq4W0dkI81wHxXRPlI3+FpfTRz4YIFJTFWo/DEkDDVWH1JAFyfaKgcCI9tqvGExfYkqqMOjpVFq6uT/jb1lPj+s0zt1ZLgolJTS2+ukmeuyX4XYw7iPrViCvzZAYdAsrot+B96Tm6YlBLAOfdVHnuNFYAJcww5DovyF6JTzAJQA+uiUBnIGW0VyQCgLSQ1E/UZ4lFw==;gQKqXEf0GBlmlznDDmIzaA=="
 ---

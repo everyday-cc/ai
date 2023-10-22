@@ -109,20 +109,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Chinese AI startup Baichuan raises $300M from Alibaba, Tencent and Xiaomi"
-    excerpt: "The Beijing-based artificial intelligence startup Baichuan Intelligent Technology announced ... Baichuan stands out as one of the foremost AI developers in China working on generative AI and large language models and competing with Microsoft Corp. and ..."
-    publishedDateTime: 2023-10-17T16:22:00Z
-    webUrl: "https://siliconangle.com/2023/10/17/chinese-ai-startup-baichuan-raises-300m-alibaba-tencent-xiaomi/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
     excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early $50 million angel round."
     publishedDateTime: 2023-10-17T20:56:00Z
@@ -137,15 +123,15 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AI Startup Baichuan Secures $300 mn in Funding Round Led by Alibaba and Tencent"
-    excerpt: "Chinese artificial intelligence (AI) startup Baichuan announced it successfully raised an impressive $300 million in funding. The VC funding round saw participation from major Chinese tech giants, Alibaba and Tencent, affirming the industry’s growing ..."
-    publishedDateTime: 2023-10-17T16:45:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ai-startup-baichuan-secures-300-mn-in-funding-round-led-by-alibaba-and-tencent-81180"
+  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
+    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
+    publishedDateTime: 2023-10-19T16:13:00Z
+    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
     type: article
     provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 13
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 34
 
 secured: "HErXzFZMrogPyzFbLuCbNttwc3qn2iZ8fY95g4GL4ocnStaQ+a5ge8w/6jfpzWCXdnf4DQXmJXJIEzpqeA0aNyuLfvwk2pw7qUY1JddJOdI68lGHf3hToN7BON/HgcjJ7l2t1hgWL8+k4o6eKY01D8dsxQ0sG4jYcfQzMAPhXIMiMn+3HtM1EoUGCeYuHvstpx3nNFctndmb+qbdP2s5h67hd4itTjClSNA24TswJ3BW31R9qT6bLq6wiNmtMOrVYv94xlo8fewBQSWMIO++QJnxRAU2xDTo/brERMa3lfVr+Xw1UNRIXM0qBxNesNkiOIhCqN2T3wkIPMzSxXp+CaBs0gS0ZCYjs5IMaUGGIKS/Rq6GL19559COVpvcaodl7FJK1gw/w4sxiqA073pYJbr4ad8HdjbgVwKwU5S8rcKCVm0PHScG0xkwVVj4W+VKZahNosVyp+AZCw/rlZGatJUyRuLVBSznyD8WTr73D5uQstimy5gSdCQw7njNT1bsGX1/Ux8joN7qiH3frNqNoA==;rArjI+1Ztmr0MAntPGU1Vw=="
 ---

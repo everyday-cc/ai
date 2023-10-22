@@ -88,20 +88,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Morgan Stanley On Microsoft Ahead Of Q1: Optimistic on AI Future Despite Early Innovation Cycle"
-    excerpt: "Morgan Stanley analyst Keith Weiss remained Overweight on Microsoft Corp (NASDAQ:MSFT) with a price target of $415. The analyst holds firm conviction in the significant opportunity ahead of Microsoft within Generative AI and the company's strong positioning to execute that opportunity."
-    publishedDateTime: 2023-10-17T16:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/morgan-stanley-on-microsoft-ahead-of-q1-optimistic-on-ai-future-despite-early-innovation-cycle-1032713516"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2023/10/17/azure-rainer_stropek_via_flickr.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why"
     excerpt: "He said that Y/Y growth of ~26% for Azure seems realistic, given the uptick in demand for AI services, including access to the enterprise API for OpenAI. While the Street is hoping for Azure growth to level off in 2Q (and potentially accelerate), Materne ..."
     publishedDateTime: 2023-10-19T18:54:00Z

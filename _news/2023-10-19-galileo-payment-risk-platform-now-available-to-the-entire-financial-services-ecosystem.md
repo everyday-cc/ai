@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem"
-excerpt: "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc. (NASDAQ: SOFI)"
-publishedDateTime: 2023-10-19T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
-webUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
+excerpt: "Companies outside Galileo’s ecosystem can now leverage proactive risk-scoring fraud engine"
+publishedDateTime: 2023-10-19T12:26:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
+webUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
@@ -34,6 +34,6 @@ related:
         height: 768
         isCached: true
 
-secured: "g8PUVGFN2LqGRf25wzDZKrAsfPN8Gzc6uhTP+rR4n2V8i+1ZXs9PTmEnzTdU5iHfMVwFV8E3AxA2lZWPLl7fjZz8QRh6oYBODapfXC6IXbbOvgYP8PFQoFd+rtVwLgbAap3HS0o+oJ1hk4RgNBF+waAFXqwYa6OoaTVE/LPZ73+VNemeDvLE0oRnangOFPF/c1j/RZ5cv/X6dQDItCPN5Sc1pjtdZG19f87QEyUejV3M+opSkNgh20yQ4Ldnhm9GO2OEqOuiGGbswc6hiFdIE7/iI0v0zuj8vxuhALunyv1MJwqHl/nAsgIA+iwUPj/h/gKN8Py21CDVhjeUmnsev+Gq4Snl/izN9EUcoRqSsx4=;1jt3N1Kw5xXupamGPXqlSQ=="
+secured: "spcsYRXtqKNcxEh6UC5+ubK+F88+RC4h2repVC7YEakbONjksRtRLC7APk44t3ha4hixKBxdWrARHokX+zePen8XxoNQg/0nN7tTnU6ZmH4Q/t7cokJN3oPALoQKtxl5afnkQaQHpFA60zikWofqLGs25H1epJLQoHaHAN4R2UMKCAC9cLKxc9/8Ne63DOxdzvp56Rx3WsL2jLiwl/5drTs7ZWv5SDGrVhrVLZSNXQZpocFbx7PrCeeRLNqr8M/K9dCbvZA73PMAyn0IQPiVZDjVwrHayuVFCpVMwoPE2eF+64DKIIDU38DYaO7zkeSdPgx9cCapaxXkRy7F74QED3OpTBfb/mx+M9fRJYtYAOTO9N7DzJIfRnfainX/KF4rHeDuFt6g3pgvpTvOeMqshxonN0anrWZhasQNvbiOUwApqgmiWbtZwxCdFXjQc5xsbMIIWGqeQZFKswqmh/x7FRkRvyRhbt31BXpqLef5MoB/IEPW55DVj/ju/mY0wR/SVg20VYmQIANdDIcDylasyA==;sYy/+hDuAXfNid4wPf1pLw=="
 ---
 

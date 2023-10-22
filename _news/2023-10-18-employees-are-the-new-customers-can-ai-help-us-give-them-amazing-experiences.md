@@ -38,6 +38,20 @@ related:
         width: 1140
         height: 760
         isCached: true
+  - title: "Patients Split on Trust in Artificial Intelligence in Healthcare Experience"
+    excerpt: "A new survey showed that only half of patients trust artificial intelligence (AI) use in the healthcare experience, with many patients admitting they have more to learn that could change their minds."
+    publishedDateTime: 2023-10-19T17:00:00Z
+    webUrl: "https://patientengagementhit.com/news/patients-split-on-trust-in-artificial-intelligence-in-healthcare-experience"
+    type: article
+    provider:
+      name: patientengagementhit
+      domain: patientengagementhit.com
+    quality: 52
+    images:
+      - url: "https://patientengagementhit.com/images/site/article_headers/_normal/Getty_correct_size_streamline.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "A5SOb+iaoMiUKsttKPOK6JbsOm1ramAAl2BPegRUjFLrad4AMSLnAArTJbpVtrbzg7PC9FqFWKOtUcP1JLvdfUMPIqqYup4JVE3pWqYkB31z4mxJXCN62rj3rOjce4t9J86d0F7YP2b0ncTWfg+KUisckLaVkiuLtU02AAbMg1AW3ZfK10dzBg+r9QXpw2fov6yOOq0DT0pJxpEsNnfXLD7ma3+i9Fe398HJbzGXe8hbMNbfA5Iw6eHhIMj9TCRJ9ImWlQ0UQiBYkq7qR4A/u4Zy70qqfqz18WSOOEIpmitNLJb+p9bInOa2sLUy3gswAKJmf7a59Nc/ZHA7/CM1a3BWrGltFLHBmOhYrm7D3y8=;hnF3G5p8JqQ6pWoD/vfbmA=="
 ---

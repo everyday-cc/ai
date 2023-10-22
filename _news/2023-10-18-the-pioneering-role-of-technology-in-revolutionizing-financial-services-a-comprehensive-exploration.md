@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
-    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
-    publishedDateTime: 2023-10-18T17:17:00Z
-    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
-        width: 1270
-        height: 847
-        isCached: true
 
 secured: "XoAYLB8Z5F2M7hSPCBqPWNkxShXzNGiIrVrBwD5j8L2IyQOMZwLQf3KSfIL7WmXt5Ar0rkIO71tF2DrGGhwV9wW6B7F1hPZz5PizCkv0p04JTB7EV9lXsroNwuQoTWSZnCDUy1zPdt2fEtr9OmibDCYzUmP+ApgapmiRR5JwVbIsL09hF9ui27Gk3pAIh66gdUtVzQlNECroz7T8GsCWf/N04ZJk2cI28qQ9VBhAsk80/+EDJYppJ8MCJfQxCekaIq9LWOkqOT+x60QvDIHNSAJRAc2rl8kOxNVhbEc05TUYXjisX0KcOk12MV459YDH+XwhQIot287kxsIfqBH1Dam4urIPqlWibuM0Sn7MKhs=;ZclwWrNUn56qoJJlZO923w=="
 ---

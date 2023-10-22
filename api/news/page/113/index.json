@@ -2,6 +2,205 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2023-08-02-amd-revenues-fall-18-to-536b-as-pc-market-recovers-and-ai-rises.md",
+      "title": "AMD revenues fall 18% to $5.36B as PC market recovers and AI rises",
+      "excerpt": "Advanced Micro Devices reported that revenue in its second quarter was $5.36 billion, down 18% from a year earlier as the client PC market continues to climb back during the economic downturn. But investors took the report as good news,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/amd-earnings/",
+      "originalUrl": "https://venturebeat.com/games/amd-earnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/11/lisa-su-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care.md",
+      "title": "Artificial Intelligence In Women’s Health: The Pros, The Cons, And The Guardrails Needed To Improve Care",
+      "excerpt": "At that point, artificial intelligence (AI) was still a relatively young development in society: one that wouldn’t enter healthcare for another 20 years. Now, artificial intelligence - or the combination of computer science and datasets to stimulate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
+      "originalUrl": "https://www.forbes.com/sites/evaepker/2023/08/01/artificial-intelligence-in-womens-health-the-pros-the-cons-and-the-guardrails-needed-to-improve-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b77d90b34fc46d155b79a2/0x0.jpg?format=jpg&crop=1208,679,x0,y55,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-how-artificial-intelligence-and-robotics-are-transforming-the-beauty-industry.md",
+      "title": "How artificial intelligence and robotics are transforming the beauty industry",
+      "excerpt": "The market for A.I. in beauty and cosmetics will hit more than $13 billion dollars by 2030, according to one study. Companies are already rolling out A.I. robots that aim to make services like manicures quicker and cheaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/how-artificial-intelligence-and-robotics-are-transforming-the-beauty-industry/",
+      "originalUrl": "https://www.cbsnews.com/video/how-artificial-intelligence-and-robotics-are-transforming-the-beauty-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/01/dae7db23-7c8b-4cfb-b17b-5dba554132ca/thumbnail/1200x630/a667538a0d90238f0961db55d0960efb/0801-cmo-ainailsalons-werner-2171155-640x360.jpg?v=4c3eff96812a3b6c2e014b1daed33369",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-02-vast-data-launches-unified-data-platform-for-the-age-of-ai.md",
+      "title": "VAST Data launches unified data platform for the age of AI",
+      "excerpt": "VAST Data launches novel unfied data platform to help organizations better manage data and accelerate AI initiatives of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/vast-data-launches-unified-data-platform-for-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/08/VAST-Data-Platform-e1690911973261.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-01T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-new-sci-fi-shorts-prompted-into-existence-with-ai.md",
       "title": "New Sci-Fi Shorts Prompted Into Existence With AI",
       "excerpt": "1000 Miles and the other emerging cinematic AI shorts demonstrate the disruptive potential of AI-enabled content production. Anyone can now make the greatest game or movie or comic book universe of all time, with no art or coding skills, no actors, nor studio or distrubutor.",
@@ -1031,178 +1230,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices.md",
-      "title": "Edge Impulse Joins AWS ISV Accelerate Program to Bring Real-World AI for Edge Devices",
-      "excerpt": "Edge Impulse, a leading provider of edge machine learning development tools, today announced it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices/article_fcd12ff5-44be-591d-a436-b0a07fca90e0.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/edge-impulse-joins-aws-isv-accelerate-program-to-bring-real-world-ai-for-edge-devices/article_fcd12ff5-44be-591d-a436-b0a07fca90e0.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-on-ai-foibles-and-need-to-study-its-ethics.md",
-      "title": "On AI foibles and need to study its ethics",
-      "excerpt": "Do you think there is still room for an AI ethics discussion when there is an explosive AI arms race in this industry? I think there must be. How do you convince them to sit down and discuss AI ethics? There’s two things that I say. One is, you say hey ...",
-      "sourceUrl": null,
-      "webUrl": "https://wbj.pl/on-ai-foibles-and-need-to-study-its-ethics/post/139086",
-      "originalUrl": "https://wbj.pl/on-ai-foibles-and-need-to-study-its-ethics/post/139086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wbj.pl/uploads/images/6m/64c8d51a5401a.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Warsaw Business Journal",
-        "domain": "wbj.pl",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai.md",
-      "title": "How foundation models and data stores unlock the business potential of generative AI",
-      "excerpt": "Together with data stores, foundation models make it possible to create and customize generative AI tools for organizations across industries\nThe post How foundation models and data stores unlock the business potential of generative AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/",
-      "originalUrl": "https://www.ibm.com/blog/how-foundation-models-and-data-stores-unlock-the-business-potential-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-01-flapmax-partners-intel-driving-ai-innovation-in-africa.md",
-      "title": "Flapmax Partners Intel: Driving AI Innovation in Africa",
-      "excerpt": "Flapmax, a leading artificial intelligence (AI) company, has recently announced a strategic partnership with Intel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
-      "originalUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2023/08/resizedgg.jpg",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2023/08/flapmax-partners-intel-driving-ai-innovation-in-africa/",
-      "publishedDateTime": "2023-08-01T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

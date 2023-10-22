@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-sea
 webUrl: "https://aws.amazon.com/blogs/machine-learning/personalize-your-search-results-with-amazon-personalize-and-amazon-opensearch-service-integration/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
   - AWS AI
+
+related:
+  - title: "Stearns Bank Partners with FinTech Automation to Revolutionize Banking Services"
+    excerpt: "Fintech companies stand to gain immensely from this alliance, with the unprecedented opportunity to seamlessly integrate with Stearns Bank and leveraging FTA's IaaS Platform, reducing development cost and time to launch an array of banking services to their customers."
+    publishedDateTime: 2023-10-20T15:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902685.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "2aBbzXM+eGETmvQIzIpcTuyYBnEHbJQ70ZJ6ZMSSxnCc+Ge2evyjrJdTnmyZlI2AezPBxDWGmHhw8dMbJCwwOfftwZzC8XFKycReU8payIqNdhZNBq14EeIpWEvv6PBLMc3IvLOIwvws/HMrU2Aio88tCFd3f18rwN98Y4sf7TtKicSh8llwIwCzLcTMkaVOBkiLRlFpzWqONF1falXK31TEFJ93hpZsQXV7bazF+YeENPgWrheHRdXi8Git5YwPl3yWZBCkEnER9WIsqhTGclK51incAJGvEiJ2irhO0WIBKPqXTrobIYPn2RPnBi+lSibOIBPPMxSfQ0KtkdqK3WSqcj3fHI3gCQ2ciOYeG98=;1h1l0x9ROpywNBn4eedAfw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/"
 type: article
 quality: 96
-heat: 176
+heat: 166
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65331f003ed6d36d5f46f53f/0x0.png?format=png&height=900&width=1600&fit=bounds"
         width: 800
         height: 800
-        isCached: true
-  - title: "Preparing for the Future of AI in Healthcare"
-    excerpt: "It’s crucial that healthcare organizations stay level-headed when it comes to questions around AI. It’s easy to get distracted by the latest, greatest new tool, but if it doesn’t align with an organization’s overall mission,"
-    publishedDateTime: 2023-10-17T16:19:00Z
-    webUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare"
-    ampWebUrl: "https://healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
-    cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/10/preparing-future-ai-healthcare?amp"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 74
-    images:
-      - url: "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202310/GettyImages-1321590983.jpg?itok=obw9Q3RC"
-        width: 1440
-        height: 500
         isCached: true
   - title: "Microchip Breakthrough Could Reshape Future of AI"
     excerpt: "A prototype microchip design that was revealed today by IBM could pave the way for a world of much smarter devices that don't rely on the cloud or even the Internet for their intelligence."

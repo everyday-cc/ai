@@ -20,15 +20,6 @@ topics:
 
 related:
   - title: "Airbyte Announces Additional Vector Database Connectors, Making Hundreds of Data Sources Available for Artificial Intelligence Applications"
-    excerpt: "\"We were the first general-purpose data movement platform to add support for vector databases - the first to build a bridge between data movement platforms and AI,\" said Michel Tricot, CEO, Airbyte. \"Now,"
-    publishedDateTime: 2023-10-17T16:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900373.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Airbyte Announces Additional Vector Database Connectors, Making Hundreds of Data Sources Available for Artificial Intelligence Applications"
     excerpt: "Airbyte, creators of the fastest-growing open-source data movement platform, today made available additional connectors for the Milvus, Qdrant and Weaviate vector databases as the destination for moving data from hundreds of data sources,"
     publishedDateTime: 2023-10-17T20:00:00Z
     webUrl: "https://www.businesswire.com/news/home/20231017608302/en/"

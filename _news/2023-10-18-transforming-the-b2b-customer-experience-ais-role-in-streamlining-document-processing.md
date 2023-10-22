@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/transformi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/transforming-the-b2b-customer-experience-ais-role-in-streamlining-document-processing/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Patients Split on Trust in Artificial Intelligence in Healthcare Experience"
+    excerpt: "A new survey showed that only half of patients trust artificial intelligence (AI) use in the healthcare experience, with many patients admitting they have more to learn that could change their minds."
+    publishedDateTime: 2023-10-19T17:00:00Z
+    webUrl: "https://patientengagementhit.com/news/patients-split-on-trust-in-artificial-intelligence-in-healthcare-experience"
+    type: article
+    provider:
+      name: patientengagementhit
+      domain: patientengagementhit.com
+    quality: 52
+    images:
+      - url: "https://patientengagementhit.com/images/site/article_headers/_normal/Getty_correct_size_streamline.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Employees Are The “New” Customers: Can AI Help Us Give Them Amazing Experiences?"
     excerpt: "If you want to hold onto your best employees, attract high-quality talent and improve workplace satisfaction, it’s no longer enough to offer a job."
     publishedDateTime: 2023-10-18T13:15:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Federal regulators open investigation into GM self-driving car subsidiary Cruise"
-    excerpt: "This preliminary investigation will determine the scope and severity of the potential problem, the agency said, noting that it may include causal factors that may relate to the automated driving system’s driving policies and performance around pedestrians."
-    publishedDateTime: 2023-10-17T15:56:00Z
-    webUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/"
-    ampWebUrl: "https://techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/federal-regulators-open-investigation-into-gm-self-driving-car-subsidiary-cruise/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 69
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/09/20210407_BaxTowner_Cruise_CamA_DOWNTOWN_706512.jpg?resize=1200,804"
-        width: 1200
-        height: 804
-        isCached: true
   - title: "Cruise self-driving cars investigated after two accidents"
     excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway ..."
     publishedDateTime: 2023-10-20T11:18:00Z
@@ -73,19 +57,19 @@ related:
         width: 830
         height: 467
         isCached: true
-  - title: "Regulators probe GM’s Cruise self-driving taxis over pedestrian safety"
-    excerpt: "U.S. regulators are investigating General Motors’ Cruise self-driving taxis over concerns they could hit people."
-    publishedDateTime: 2023-10-17T15:51:00Z
-    webUrl: "https://www.washingtontimes.com/news/2023/oct/17/regulators-probe-gms-cruise-self-driving-taxis-ove/"
+  - title: "What Do You Think of Self-Driving Cars?"
+    excerpt: "What Do You Think of Self-Driving Cars? As the world of autonomous vehicles continues to evolve, we sought the insights of twenty industry leaders and professionals, including CEOs and founders, on the topic of self-driving cars."
+    publishedDateTime: 2023-10-20T18:48:00Z
+    webUrl: "https://techbullion.com/what-do-you-think-of-self-driving-cars/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 24
+      name: Impacts
+      domain: techbullion.com
+    quality: 26
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/10/17/US_GM_Cruise_Investigation_69141_c0-102-3556-2176_s1200x700.jpg?e94d34c2b50cb6a84c14d3a5a18de1a8fcd536df"
-        width: 1200
-        height: 700
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/What-Do-You-Think-of-Self-Driving-Cars-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Agency probes pedestrian risks at GM's self-driving unit Cruise"
     excerpt: "Auto safety regulators on Tuesday opened a probe into whether General Motors' self-driving unit Cruise is taking sufficient precautions with its autonomous robotaxis to safeguard pedestrians."
@@ -124,6 +108,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 19
+  - title: "After pedestrian crashes, the feds want to take a closer look at Cruise's self-driving cars"
+    excerpt: "The autonomous vehicles have been operating in Austin since the spring. The GM-backed company says it's cooperating with investigators."
+    publishedDateTime: 2023-10-19T17:05:00Z
+    webUrl: "https://www.kut.org/transportation/2023-10-19/cruise-autonomous-vehicles-hit-pedestrians-federal-investigation"
+    type: article
+    provider:
+      name: KUT
+      domain: kut.org
+    quality: 14
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/fb317df/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2F57%2Fff2cd1d14f509aa0dc8d9347e8f0%2Fcruise-self-driving-mm-081023.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RUtXHQJ63VROLJohKTgLxISdyZiRelJ4MyM39msfHqv87pG+qWkxe8NzV7albqPgv2wLDrkGdvDH3geZMQJcGc1nNUJ6XnSDc2Q6MVMl/arwo8RRHn13lV8b8QmMM49XCYx7hUn/Q/apRuPJxud9ppBuQqxLqC39dfgjiUvvLwmKLssYE8Q7PENWK5q0WzK4TaGCAul/6naDq43EKi6ekw8BunA4FG2z6PQREl22TeDWAQFAK7HizrZwqZcPf3Eqg5icxRp7QLmrE/wroNlHdJSZPrb5mOfSJqi5xnvwB3Q0dY/3mdExrb16TprKFaxc1DNP2VspGXz/Ak/Oebo/HcZwzgQKol7H29QAjursuyk=;3d5RuiUUL2ZYscngySMItQ=="
 ---

@@ -67,20 +67,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Azure OpenAI Service enhances AI models with fine-tuning capabilities"
-    excerpt: "The recent update on the Azure OpenAI Service has introduced fine-tuning capabilities for several models, including GPT-3.5-Turbo, Babbage-002, and"
-    publishedDateTime: 2023-10-17T15:23:00Z
-    webUrl: "https://www.onmsft.com/news/azure-openai-service-enhances-ai-models-with-fine-tuning-capabilities/"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 54
-    images:
-      - url: "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2021/04/Cybersecurity-Microsoft-Azure-Domain-Fronting.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
     excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
     publishedDateTime: 2023-10-18T23:21:00Z

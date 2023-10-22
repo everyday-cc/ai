@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/news/components-peripherals/analysis-nvidia-am
 webUrl: "https://www.crn.com/news/components-peripherals/analysis-nvidia-amd-give-partners-new-ai-selling-points-for-gpus-in-pcs"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: CRN
@@ -25,33 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
-    excerpt: "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis."
-    publishedDateTime: 2023-10-18T12:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
+  - title: "HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers"
+    excerpt: "Detailed price information for Hive Blockchain Technologies Inc (HIVE-X) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2023-10-18T05:52:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HIVE-X/pressreleases/21202981/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Biden further chokes off China’s AI chip supply with Nvidia bans"
-    excerpt: "In August last year, a ban on Nvidia's chip export to China sent the country's budding artificial intelligence startups scrambling for alternatives. A"
-    publishedDateTime: 2023-10-18T12:15:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/"
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 42
+    images:
+      - url: "https://images.newsfilecorp.com/files/5335/184371_hivedigital_410.jpg"
+        width: 410
+        height: 593
+        isCached: true
+  - title: "RETRANSMISSION: HIVE Digital is Now a NVIDIA CSP Partner and Announces GPU Grants for Open-Source AI Developers"
+    excerpt: "Detailed price information for Hive Digital Technologies Ltd (HIVE-Q) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2023-10-18T05:06:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/HIVE/pressreleases/21206975/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
-  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
-    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
-    publishedDateTime: 2023-10-20T17:03:00Z
-    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 14
 
 secured: "zUS2ZRakv9YoJpWygt41btUCOlk11fm6cLDUeXRJWZfxoMpozfs8YAJ8Iom8dkrpkNqNf0QQV0GVsazzp1btwAQ7zKOnDbPYjA2VyYh6RIErKoCjJL4lVg8tm/9Q4BDQ3jF/7LypxDGbS9UACVgzV81oJiZ3wA0na9TxNzgEPl62ToTCAYXXYrmd3PcjzQTuMIGdTpDIEie/mSzhBpIO/rEH0owZl6zLZldY/jX8Va5HuHAQg+tSmMeqMJLiaDMZ+NOumTsE38tu98q00HeF75DLQCZL5ofiYPsDnahyib5fL5EeF/RDJdUW0+VnmQXlw8eLna7QbMB8QOIuWHNdgL7X7eff/or5pB7iJ1aSB7RmhFXqui0CHJxSHvDtBUpTG8DIOnqZvuVrk51Qh6iAxPfiujDdxYV+m1RfMtWJtkDgVWXEzB5d0v+xNyebFFPthnlrbKdsc+f36qQvr/sw4u5rtYdvW+Jn8SImP5ICVd/tRknJ9Z1oyVBXFJebdBuhZHXU/gae8vjYSb1o00c+DQ==;FLq7lqltEgw4MyamLvjMiA=="
 ---

@@ -28,7 +28,7 @@ related:
   - title: "KT to export Mi:dm AI to Thailand"
     excerpt: "KT will export Mi:dm, its large language AI model, to Thailand and the Southeast Asian market as the Korean telecommunications company agreed on AI expansion in the region with the Thai telecom giant,"
     publishedDateTime: 2023-10-22T07:29:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/133_361643.html"
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2023/10/129_361643.html"
     ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361643"
     cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=361643"
     type: article

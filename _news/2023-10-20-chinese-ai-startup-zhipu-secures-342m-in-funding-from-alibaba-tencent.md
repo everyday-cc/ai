@@ -9,7 +9,7 @@ ampWebUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
 type: article
 quality: 57
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Chinese AI startup Baichuan raises $300M from Alibaba, Tencent and Xiaomi"
-    excerpt: "The Beijing-based artificial intelligence startup Baichuan Intelligent Technology announced ... Baichuan stands out as one of the foremost AI developers in China working on generative AI and large language models and competing with Microsoft Corp. and ..."
-    publishedDateTime: 2023-10-17T16:22:00Z
-    webUrl: "https://siliconangle.com/2023/10/17/chinese-ai-startup-baichuan-raises-300m-alibaba-tencent-xiaomi/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
     excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early $50 million angel round."
     publishedDateTime: 2023-10-17T20:56:00Z
@@ -123,6 +109,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
+    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
+    publishedDateTime: 2023-10-19T16:13:00Z
+    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
+    type: article
+    provider:
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 34
   - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
     excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
     publishedDateTime: 2023-10-20T08:15:00Z
@@ -137,15 +132,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "AI Startup Baichuan Secures $300 mn in Funding Round Led by Alibaba and Tencent"
-    excerpt: "Chinese artificial intelligence (AI) startup Baichuan announced it successfully raised an impressive $300 million in funding. The VC funding round saw participation from major Chinese tech giants, Alibaba and Tencent, affirming the industry’s growing ..."
-    publishedDateTime: 2023-10-17T16:45:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ai-startup-baichuan-secures-300-mn-in-funding-round-led-by-alibaba-and-tencent-81180"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 13
 
 secured: "pKRjli8vn2JsW3WBAhpnl5Viat7NGV571df3GecWmGAfJ8b1p6LDBrAUGl13xmRyykgo2DChgXFg42uXq8L5HMmcI4ceqM18D3roLXbOdPqNQizBKal1u8zFB+w7ElmBgp+7f7XUCAUpi5dg8JxLnEOQWVR1ZkzrFV4a9uN7r9D8bVD3jUz0BjGvu0aP5ImjIpE/LiA/eNchSycbUx8zg+JDhrLF6bz5DGNwIAkJm7AHByei14OBzKGlmVZSkMd03/J1vD3YCvtpX5najRJjeRbjfpdwk50boy44/4EZKJ6K7b4feUh5e6ycw4qZ1pCgOB7VSIAH184+mmXtGMX7xUVqpg85Z84yGvsAEueUoZk=;QsiX80nOV0+7r4eJ03WaZQ=="
 ---

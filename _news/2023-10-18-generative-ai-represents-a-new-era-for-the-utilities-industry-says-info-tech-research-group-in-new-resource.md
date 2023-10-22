@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-repr
 webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-represents-a-new-era-for-the-utilities-industry-says-info-tech-research-group-in-new-resource-1032714198"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Nanowerk
       domain: nanowerk.com
     quality: 15
-  - title: "Qlik Highlights the Importance of Data Fabric in Boosting Generative AI Outcomes"
-    excerpt: "Recent research by Qlik shows that enterprises are planning significant investments in technologies that enhance data"
-    publishedDateTime: 2023-10-17T17:14:00Z
-    webUrl: "https://www.datanami.com/this-just-in/qlik-highlights-the-importance-of-data-fabric-in-boosting-generative-ai-outcomes/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 14
 
 secured: "juyAA/hxxnNMzHSjktBotiVA/atUMaj9wGdKeeR8RdF8BRF/cH6jU7c5GpZAs1Rbw0Wt57tjc0+eEF1EJ+MlMUnI6yt08oZnQmm6DNwzTBAzEUv5zHajACDADdEHSyc+A4k0WZhSQytpkMP1VCYGfsIma9XVdV7SoRxvXWzEdXk2SM505vfvDxJNNQkO8zxckQP4sP17588P0wajgbqSVlo5JZi3fQbFh2GvZWorQSaGTbm8BhO6hjdKx8mt+R6cGcFwgIVyYlx4cuFuPC0TzD7XwcOiRuSa6BxILor2Owg2lTJe+c5ASrFvHdjdKotyVihGrfdswCC0Bh50Iv/+Lk2VrSkiBRp9BmraDmdAYkk=;ponTQ2F9IfRGYhVhR8xiqQ=="
 ---

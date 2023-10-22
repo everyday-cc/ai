@@ -142,6 +142,22 @@ related:
         width: 500
         height: 313
         isCached: true
+  - title: "Role of CX automation and generative AI"
+    excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
+    publishedDateTime: 2023-10-22T09:48:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-role-of-cx-automation-and-generative-ai-3283107/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/08/My-project-2.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Seeing the magic of artificial intelligence applications in ophthalmology"
     excerpt: "We all know, by now, that Artificial Intelligence (AI ... In fact, we are among the early adopters of AI for health care, and some of the key uses are: Retinal disease diagnosis: AI algorithms can analyse retinal images, such as fundus photographs and ..."
     publishedDateTime: 2023-10-19T16:55:00Z
@@ -329,15 +345,6 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
-  - title: "AI Is Taking Customer Relationships to the Next Level"
-    excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
-    publishedDateTime: 2023-10-17T17:15:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/ai-is-taking-customer-relationships-to-the-next-level/71216721007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "/ZK3p6KXSr25wWkPJXyRVd+N4558fNQw+iSUa3PUq6WEt2qGm8srs6jlnU2ZiT7x7uwNOyu7Cwt2Ep+0suSAz2a+tubwb+5ibQcaanKJKFPff9FNLeS1mIhWv9ifuMWr6ZAwskz2MH8YliIz/1HkHSDi2YeRWppceXgJcbi27a0yqVlI9mCXNpFQ5Ni7liaRvIHxjP4ZERUopjZFoOkZbNRo1yauF1bFL0LhePHsPu+TygJqyMAqaQyhsrqVlHUhtFfgaIRQ3o9Ho/xhGhw+1qfuPBtmu18t5YWi6SDfywaz69Y8YM2V9rP1GNS80gywPHMdHRaUlFdV9dUlbtMD5qmc+mlZ3etdBNEgluA43PyS22zLQjssUhlQblSL6xZuHyh3hMu83gP1POhHYRQ7XIkCGgQ0f0WtMpRCnOD8Sp6Cf5oHSqYX0CcnysdRkQ0lx2JIWSL5PwY+OXPdxIPga/fT6CcWE5kveImruin1f3KrzlRXDOVXiYKrX9UGv5KkHkdVsCWZdE44Z9/hgaCO5A==;6YjA+rc2hJ4Ya3m1z9DCGA=="
 ---
