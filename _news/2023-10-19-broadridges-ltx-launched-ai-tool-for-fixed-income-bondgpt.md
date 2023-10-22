@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "LTX by Broadridge Launches BondGPT+ To Empower Enterprise Financial Services Clients with Custom Generative AI Solutions"
+    excerpt: "BondGPT+ builds on award-winning launch of BondGPT to add premium features and seamless enterprise integration NEW YORK,  /PRNewswire/ -- LTX, a subsidiary of global Fintech leader, Broadridge Financial Solutions,"
+    publishedDateTime: 2023-10-18T13:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ltx-broadridge-launches-bondgpt-empower-enterprise-financial-services-/2023/10/18/9900857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "8zmdA/2uNSC68v8Bij2wQ1Y2Pm+2hg+JH1iV/2f3m4kB9ELovYCml/d2BEaXlwyScrCYXIAZhoLnwAWbKBlOmBIoW1fWqBCZ7qP81JBJDD7g24ZFrrBx4CMhPDFbiL4A0DaBFk5bI9B8Jxu4UkshOQsi6YsdbbQlXXtUe381aw7WKmAT9SNtMBkbFCXTU+Ab+TnM3s/z/tYd6i75h+SkcDNcUGoM8zZRwFBzdLpEJFQ1jSKiiHHmOunveGwlnoQg+j5SPok3v7dBaHgbsB13K97eGQu1ALZATFF3ixNK/Bz4+6/WN9Q6MWmdY+r66S2SfTKeh9W0eJL01rPfO4tkixW0tiDo+jBGP6NJa2gNVZrWvbFpV0ifsfOCU8VOmiDyGdxGKsddpDv6Z7SITRt1FHYzrzMQYwREvsS3fBDB1Kd9RXvNxyBLYA7/BCzpA8+koCURzZMOOijPxk5wWmvluXXtcfkerqpa5nlo4v/e21vL2aJrWorsmL2OYkz18gx7h3UwVr7qMWeCq5TvMrpZzg==;nYdxawySOWFWF6BYA1PInw=="
 ---
 

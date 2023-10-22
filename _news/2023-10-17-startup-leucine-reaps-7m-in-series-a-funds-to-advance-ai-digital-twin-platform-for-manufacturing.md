@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercepharma.com/manufacturing/leucine-reaps-7m-series
 webUrl: "https://www.fiercepharma.com/manufacturing/leucine-reaps-7m-series-money-fund-ai-digital-twin-platform-manufacturing"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI startup Leucine raises $7m for drug manufacturing digital twin platform"
-    excerpt: "As AI applications in drug manufacturing widen, Leucine’s digital twin of the shop floor helps automate compliance and improve safety."
-    publishedDateTime: 2023-10-17T10:18:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/news/ai-startup-leucine-raises-7m-for-drug-manufacturing-digital-twin-platform/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 35
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/10/shutterstock_384031390.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "AI startup Leucine nets $7M to level up Pharma manufacturing compliance to keep pace with drug innovation"
     excerpt: "Helping to make pharmaceutical manufacturing compliant, safer, and faster, tech startup Leucine is today announcing a $7M series A funding round led by Ecolab Inc., a strategic investor, to scale its Compliance Cloud platform globally."
     publishedDateTime: 2023-10-17T13:11:00Z

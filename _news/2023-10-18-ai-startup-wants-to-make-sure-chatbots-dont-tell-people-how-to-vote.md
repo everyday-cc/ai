@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Chatbots Can Guess Your Personal Information From What You Type"
-    excerpt: "The AI models behind chatbots like ChatGPT can accurately guess a user's personal information from innocuous chats. Researchers say the troubling ability could be used by scammers or to target ads."
-    publishedDateTime: 2023-10-17T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-chatbots-can-guess-your-personal-information/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/6529f6866ad33062ca7713a1/191:100/w_1280,c_limit/AI-Chatbots-Infer-Private-Info-Business-1465764755.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Meta Product Chief Sees AI Chatbots as Tool to Lure Advertisers"
     excerpt: "Meta Platforms Inc. Chief Product Officer Chris Cox said that AI chatbots will become an increasingly attractive tool for advertisers, rather than just a way to lure users, in a sign the company is pivoting the technology toward business customers."
     publishedDateTime: 2023-10-18T05:23:00Z
@@ -61,6 +47,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Inside the Underground World of Black Market AI Chatbots"
+    excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
+    publishedDateTime: 2023-10-22T02:48:00Z
+    webUrl: "https://www.thedailybeast.com/inside-the-underground-world-of-black-market-ai-chatbots"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697736987/231011-dark-web-ai-chatbot-hero_qofzpt"
+        width: 1480
+        height: 832
+        isCached: true
 
 secured: "Ky4ol31l+46Xz25TTlvq1yAmdQ5i0aqHxSO6r77zOg4d26UNSRZ6CwyMofSMsjzKutLUfWr75Sdzo2SdJ29YuUPwJgD7fbtfGasgeWtQy8R9SkpaLOzHTlHEr6q6Mzb2SIHeHhPpOKN43f8XCm7VS7c1v22PS9+zJ2CeewPFUm9nGABzbxr5diZcsa5tjDxbk4fFC+rnqP7abIRVyXCqzUJr9Qq1EzurorAewHmN1Wt0cPcjEdJaLoBZ78c7fV1vIgq7zCwnnVj4N+m828QVARxWccef4ILd999LtI/Taq9om45aIYzgK+pRl64qm4p+awPou2TTxB57q+8CQ5AlkxUpWIPRDijBmC6n+pmARBxqXYyAdwFpDF+WO+JrQjJXrlHJl3np1NrxCh3oVyJodsvc9boqTHswrRY+pe5fvOrUKVwm3WZ6IzN2SHEErKHIMO2xi4dm7sxBEHQbBvDwNHEcOiGDW+p/Jzq8jZF/nvDH5CZ/Yd5YXICqExcwO94XGlmu1FGgwvN2HqDsMR5aew==;4gU9bXFFFfmYL3huCd7SGQ=="
 ---

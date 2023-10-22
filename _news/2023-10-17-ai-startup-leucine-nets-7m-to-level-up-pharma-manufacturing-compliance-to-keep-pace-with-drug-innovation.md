@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI startup Leucine raises $7m for drug manufacturing digital twin platform"
-    excerpt: "As AI applications in drug manufacturing widen, Leucine’s digital twin of the shop floor helps automate compliance and improve safety."
-    publishedDateTime: 2023-10-17T10:18:00Z
-    webUrl: "https://www.pharmaceutical-technology.com/news/ai-startup-leucine-raises-7m-for-drug-manufacturing-digital-twin-platform/"
-    type: article
-    provider:
-      name: Pharmaceutical Technology
-      domain: pharmaceutical-technology.com
-    quality: 35
-    images:
-      - url: "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2023/10/shutterstock_384031390.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Startup Leucine reaps $7M in series A funds to advance AI digital twin platform for manufacturing"
     excerpt: "Startup Leucine reeled in $7 million in series A funding that will be used scale up its AI-generated digital twin platform designed to help drug manufacturers more easily navigate the complex landscape of regulatory compliance."
     publishedDateTime: 2023-10-17T13:25:00Z

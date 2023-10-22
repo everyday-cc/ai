@@ -7,7 +7,7 @@ originalUrl: "https://www.fleetnews.co.uk/news/nissan-hyper-tourer-is-a-self-dri
 webUrl: "https://www.fleetnews.co.uk/news/nissan-hyper-tourer-is-a-self-driving-electric-people-carrier-concept"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nissan’s Hyper Tourer is a self-driving people-mover for the future"
-    excerpt: "Nissan’s vision of EV minivan ► Solid-state-powered ► Hyper Tourer follows two other ‘Hyper’ concepts. Nissan has revealed another concept ahead of the Tokyo mobilit"
-    publishedDateTime: 2023-10-17T09:48:00Z
-    webUrl: "https://www.carmagazine.co.uk/car-news/first-official-pictures/nissan/hyper-tourer/"
-    type: article
-    provider:
-      name: CAR Magazine
-      domain: carmagazine.co.uk
-    quality: 24
-    images:
-      - url: "https://car-images.bauersecure.com/wp-images/172718/hyper-tourer_1.jpg"
-        width: 2049
-        height: 1153
-        isCached: true
   - title: "Nissan Hyper Tourer self-driving electric people carrier concept unveiled"
     excerpt: "Nissan has unveiled the Hyper Tourer concept as one of three new models that will be showcased at the Japan Mobility Show."
     publishedDateTime: 2023-10-21T06:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://dunyanews.tv/amp/english/763900.php"
 cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2023/10/20/2344798.jpg"
         width: 1240
         height: 827
+        isCached: true
+  - title: "Honda to start self-driving taxi service in Tokyo, CEO says"
+    excerpt: "Honda Motor will start a self-driving taxi service in Tokyo in early 2026, in a move that may help alleviate a shortage of cab drivers in one of the world’s most-populous cities."
+    publishedDateTime: 2023-10-22T01:59:00Z
+    webUrl: "https://www.moneyweb.co.za/news/tech/honda-to-start-self-driving-taxi-service-in-tokyo-ceo-says/"
+    type: article
+    provider:
+      name: Moneyweb
+      domain: moneyweb.co.za
+    quality: 24
+    images:
+      - url: "https://www.moneyweb.co.za/wp-content/uploads/2023/10/403229630-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "GM, Cruise, Honda joint-venture to launch self-driving ride-hail service in Japan in 2026"
     excerpt: "The service will launch with the Cruise Origin AV shuttle built at GM's Factory Zero Detroit-Hamtramck Assembly Center."

@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "DGPT Announces Launches Its New-Generation Artificial Intelligence Computational Power Sharing Platform"
-    excerpt: "LOS ANGELES, CA, Oct. 17, 2023 (GLOBE NEWSWIRE) -- DGPT, announces its new generation Artificial Intelligence computational power sharing Platform, which will bring AI benefits to everyone."
-    publishedDateTime: 2023-10-17T09:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dgpt-announces-launches-its-new-generation-artificial-intelligence-computational-power-sharing-platform-1032711652"
+  - title: "Broadridge’s LTX launched AI tool for fixed income, BondGPT+"
+    excerpt: "The application is designed to fit seamlessly into clients' existing workflows, including trading systems, through a robust API suite."
+    publishedDateTime: 2023-10-19T08:14:00Z
+    webUrl: "https://financefeeds.com/broadridges-ltx-launched-ai-tool-for-fixed-income-bondgpt/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://ml.globenewswire.com/Resource/Download/76873728-c528-4bdf-867c-6d3cc339b641"
-        width: 800
-        height: 450
-        isCached: true
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 19
 
 secured: "aoRMtghGMrziOjrN/ovejrPmzEcmq5Y3NkXgTi0wWiYa/YyDgauIOwcpME+4ghtkrWHL7+gLuZrmbujxFOuO4Ti2tdVilCIyhVTKaJaI4foRfkruOB3ZasNyFlxL3b7ldzkwBNJ5YBVpu4fD/HeROHPA3GCOwnul9hyP6ww1AJCLwk9FcSyLfENEuDH6Q3tHQz8sYcAum6opGPVWbtd6TzaFiMjpdJ+wSYoRCw5uQR96LulE/gEdhMve+fmEztcAv9co1GZQYGFi5RXhEp8e21aP5FHC23Bcq9djVZe5s5LfT/52/wxR6O3CMwdhSgxp3mSgCmQSA4TuvFBsPutiQAbn4W3WXNfrUicIOescamA=;g9A5SCmDXU67wD9zvHkXXA=="
 ---

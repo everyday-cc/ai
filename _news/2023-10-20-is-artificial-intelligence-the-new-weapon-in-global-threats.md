@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Is artificial intelligence the new weapon in global threats?"
-excerpt: "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,"
-publishedDateTime: 2023-10-19T21:02:00Z
-originalUrl: "https://katu.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-webUrl: "https://katu.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+excerpt: "On full display, at protests worldwide there is a deep anger some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in, and there are growing fears they may use artificial intelligence to achieve their goals."
+publishedDateTime: 2023-10-19T17:01:00Z
+originalUrl: "https://wjla.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+webUrl: "https://wjla.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+ampWebUrl: "https://wjla.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+cdnAmpWebUrl: "https://wjla-com.cdn.ampproject.org/c/s/wjla.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
 type: article
-quality: 17
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: katu
-  domain: katu.com
+  name: wjla
+  domain: wjla.com
 
 topics:
   - AI
+
+images:
+  - url: "https://wjla.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg"
+    width: 648
+    height: 364
+    isCached: true
 
 related:
   - title: "AI vs. Human in the Workplace: “A Collaborator, Not a Threat”"
@@ -28,6 +36,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "nPV0P0ggjhw17dIa3vGhDrEVodf/BocRO9yvKwYgyFk6lxAdyvxzVEegp32aKelclNnXZefi452NlUTFnIyV89gK2bjf3ZQsdrG1ktFEbN5Y27/CQBTm0rDwKQFjhjpEjD0apGY4mNKBT3vhQTZ+j793NYJmfH6GuVwz5GrRxvlRo/0nqoonen/zzzXzIRLcUwT+hwHL4rHyqMx9Q3qdczw1DgUo33KFRQa2ZRNK4unTNTUDl6uxY/CGoUG5mDZC3nma3ZBqo3NU+UoFMLiGPTjO0qgEInjDmlqu39z6BFti6nwZYK1qC1LhTrOEOwNbhEr+vwC52Mh2TXDvRiA7TlTRZjKDZLxkWZjmlIudW3i8l30zy57iZJMG13c9mLR2jv+vu6bGhhaYS9aDvJm2qgYgqMCHmQiqFpMRE/5q6iqr0SgoM1gBbiScPdLL2UHL1Pbt5iUUvsF2Fr6RsXG2RVp8WbLl0xdtUyj06caTyedfxGel8C800KFdGUQRnpgNGIpINwDMUR7ZYXtXt/UKsg==;m4c4Vtv1gsUEUnaPQpCcKw=="
+secured: "QpCyvC7dU6gV2D4IT+2imHhkg3Nb7loCGgUs/6EshFxyp+fRCTbapyZ8H2jJcIQYbxO7564gPBLAPpLEHN7B5UaYeS0V+3kYsmYmhyn+VxqoWmesesDq9rSyudN4JTXm0ZpY67W4+9miDph4mrNPCZyRloKVNjgNVoICBA/nVwdoBNkwwxiqVrxc1ZzV7EQeP/23tRhoz93lZm7ox3EI7meyn8Talf5Nk8ysUlHdgWXOGjgttDnKpDVQq+6vT6/TNaRXHMVPt4JW3WRMotPlNAIdUwyat6X0BGHxf+962GLYkro910/ZjMH/e8FNrP98FQNWrZQrQmF4rKdJvaEmlFJuCdvDUDEBZaWGEnhamGk=;UQ8/obd3yrz3f5UwNW2L0Q=="
 ---
 

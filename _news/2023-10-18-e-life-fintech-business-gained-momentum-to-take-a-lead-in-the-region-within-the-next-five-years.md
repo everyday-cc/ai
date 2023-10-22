@@ -41,6 +41,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Fintech firm, Payhippo, empowers business owners on renewable energy"
+    excerpt: "As businesses continue to struggle with lack of access to affordable and reliable energy, Payhippo, a fintech company, recently unveiled innovative"
+    publishedDateTime: 2023-10-22T03:00:00Z
+    webUrl: "https://businessday.ng/news/article/fintech-firm-payhippo-empowers-business-owners-on-renewable-energy/"
+    ampWebUrl: "https://businessday.ng/news/article/fintech-firm-payhippo-empowers-business-owners-on-renewable-energy/?amp=1"
+    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/news/article/fintech-firm-payhippo-empowers-business-owners-on-renewable-energy/?amp=1"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/businessday.ng/wp-content/uploads/2023/10/Payhippo.png?fit=700%2C400&ssl=1"
+        width: 700
+        height: 400
+        isCached: true
   - title: "5 Companies With Israel Ties Make List Of Top 100 Fintech Firms"
     excerpt: "Global business analytics company CB Insights has named five firms with an Israeli presence in its 2023 list of the most promising private fintech companies in the world. CB Insights says this year’s Fintech 100 includes companies from 24 nations at varying stages of development, who together have raised almost $22 billion since 2019."
     publishedDateTime: 2023-10-17T11:10:00Z

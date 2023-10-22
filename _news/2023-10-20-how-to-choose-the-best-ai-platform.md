@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 type: article
 quality: 99
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-10-21T22:47:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
 secured: "/QxEAuyfpx4cLCXjywke+jzAsIq4FmLTtVHJ6GgFsHG+YjRXtZ4eQXMBqgDpp7senS6JH1mGmPX859fLfu/HPiMFsweS5GvHGqw3rQzPXbm3vvWzNC1ppWkI/IxmAlCtLTtpJeZX/hVy0Lliy9C/Z927oZox40MBq6sG4LVtVZA1daJ7RUIhAHM8wtyG2MltwczJLfa9tK+HNgmdrNrWuDU2IJMnGhEjxB3g5LmeaDLegZ7txNukYZ95GePdxfHvEPw5edXm5InM2ZLLc8eYxqtLjZ0SeVV77txjxXXstGejIPH8HMyOL9D0O7fgWghOchR3Nj8hdxmZ5eoDO4ZhdbY+9ZMsr9Y7uLFb6w8K2lo=;Qn5xLBRZZZh6GpvTR2mlqg=="

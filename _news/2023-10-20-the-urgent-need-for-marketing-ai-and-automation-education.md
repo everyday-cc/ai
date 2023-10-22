@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
 type: article
 quality: 121
-heat: 361
+heat: 351
 published: true
 
 provider:
@@ -334,15 +334,6 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
-  - title: "Civilization depends on more AI, Marc Andreessen says"
-    excerpt: "The case for accelerating rather than regulating tech does not mention \"unintended consequences\" — or climate change."
-    publishedDateTime: 2023-10-17T09:30:00Z
-    webUrl: "https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-techno-optimist"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 21
   - title: "AI Is Taking Customer Relationships to the Next Level"
     excerpt: "As the world turns, we will continue to see top-line sales and bottom-line profits be the standard drivers of new services that can help improve performance. AI will soon bring the fastest and most dramatic changes to how companies operate and do business."
     publishedDateTime: 2023-10-17T17:15:00Z

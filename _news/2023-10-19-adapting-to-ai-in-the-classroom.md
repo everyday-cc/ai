@@ -106,6 +106,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-10-21T22:47:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "sFf0ijb16Di5gszZHql3mk+ESEnGLgZyuUIb3YMnMgqf+2TONk1/DUBrf7ZlHVZGQid2yBcbfdSzxUFRnLpygVgRXCBo3UliBkT8p/pYwE4B+6Qbp955r7cqLrE3/SJ5rNyGHU8zFhiHk+ZyEQ3yZ4GxSF3JTguHAmZ4TLcSmqO1xyjX/uZF5QfOIWT8i3mzZxrlPq6BdKq28xAddfkoXNlQdOYPB05gGeHahDJaJi3Kz4+2SuRZHBAF6GLHWtD4Ifg8zQNVbT1gdC8wGsOeelKSjAa4UODGv6U1a5e8+gqebff89fmMI4F+2I8aKxSrm1WejbCnWRwnM4s7yq3M5NVO6z7H16ulr6gE2a95Ysw=;FgL43aHcaxj2oHnwB8URHA=="
 ---

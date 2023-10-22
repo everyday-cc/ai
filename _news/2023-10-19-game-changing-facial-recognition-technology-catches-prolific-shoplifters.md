@@ -159,6 +159,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Essex Police reassure public on facial recognition in Southend"
+    excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
+    publishedDateTime: 2023-10-22T03:19:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 39
+    images:
+      - url: "https://www.echo-news.co.uk/resources/images/17356874/?type=og-image"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Met Police use facial recognition to tackle London’s rising shoplifting problem"
     excerpt: "UK's Metropolitan Police uses facial recognition to identify 149 shoplifting suspects from CCTV, sparking both success and privacy concerns."
     publishedDateTime: 2023-10-19T01:07:00Z

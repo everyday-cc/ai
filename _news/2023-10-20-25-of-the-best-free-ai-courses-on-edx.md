@@ -105,6 +105,20 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "The Artificial Intelligence Glossary"
+    excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
+    publishedDateTime: 2023-10-21T22:47:00Z
+    webUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "jkTpqXFjtoZMyHL2Ags0lYd9qannQGexH8GIvvw50g/p6IQe/ncBNeth0U10dx8X+yl3OY7v1eVCrqDrT1Mcgd2Vj7CcR65zHnyZZsOPCc4UK8TaFszddiChRFtRx0Gs1XjEuCklv0PkzRz39FoNeb89l0E7mA7bQcyOu9NHjbCVJtdSSiw6Jo6bJlLL5QtlBtKnNhVCBWDa5n2uKqMptUsHiSkHBQxNo5JmO/zcROhY5IXRpb0Z2G3L/6rlvVg+jZoWcov3eBOF/Aa44cBHII+0BIu7pIFraxHr3wHjHDtf6ly9SuAFAOZrQPNi/jEF1CUfde23r26pMj+E2q5WlyMMop76/KSbFpUR3dvw2nJZw66y12/7IY3pxkdgxwtSs7V7Y++fIq1r+3dPqmRZ8DE7X7UGcGqRDc03Z+pju+RHFqicu44jQfa2iRYOjEZszIw2OsPEXSczT0KAnXa06kadyBEe0KgFnUVEbpDii4H4+/8ouXBcehjOgAVdaHoDISJ3/McwjTEOoCuj76BGKg==;LR3xzkz/axLOTh5sqeZBqg=="
 ---

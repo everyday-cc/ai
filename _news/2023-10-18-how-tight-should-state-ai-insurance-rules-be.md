@@ -60,20 +60,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "AI Industry Chiefs Raise Regulatory Fears in Parliament"
-    excerpt: "Leaders from the artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
-    publishedDateTime: 2023-10-17T11:00:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14391"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14391_1697540354539609.jpg"
-        width: 752
-        height: 366
-        isCached: true
 
 secured: "OYkGnALMlnmS0gq5a9BY5MUjfEvGHx7cJS2lJvZynwMLFE/WHc37rTVWEhQyNmdNHNDgYfBAev/NcUUrqwGTNVPYAt7lZ4re5ZqpyPrpCBrAwppWjJLXvkXI/t/fruTSxsX5JoBVPKyc/SLuvVLcCm3W0pmMmrTVQackYsJpURaqNfE1HuioLMpRn6D1ahE69dtQNQ9j7w2gTYNb7E3QEIJUEVZxY/0NNX6YomwWiL0IXPZOP/lIGeScH/Gqilo3q6DsaKEQmBcd0/6kI1PH1DXpTetPAM6vfMai7kIm4uQ1vpQ/lQhRfkleGVw3fLtG0xXRwAlZpBXujFUhxNOYpF0Wn5icE5Rd0YGHneUheoQ=;CMhFEFviiU1WghzY3M0Hbg=="
 ---

@@ -52,20 +52,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "AI Industry Chiefs Raise Regulatory Fears in Parliament"
-    excerpt: "Leaders from the artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
-    publishedDateTime: 2023-10-17T11:00:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=14391"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 39
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14391_1697540354539609.jpg"
-        width: 752
-        height: 366
-        isCached: true
   - title: "How Tight Should State AI Insurance Rules Be?"
     excerpt: "Scott Kosnoff, an insurance law specialist at Faegre Drinker, said in an email interview that the NAIC’s AI regulatory effort covers much of the same ground as Colorado’s new regulation banning uses of “external consumer data and information sources” that lead to race-based discrimination."
     publishedDateTime: 2023-10-17T19:51:00Z

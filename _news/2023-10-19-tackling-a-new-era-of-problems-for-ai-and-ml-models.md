@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/19/tackling-a-new-era-of-problems-for-ai-and-ml-models/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "UK launches funding challenge for tackling AI bias"
-    excerpt: "The UK government has made investment of up to £400,000 available to companies working on projects to tackle bias and discrimination in artificial intelligence (AI) systems."
-    publishedDateTime: 2023-10-17T10:32:00Z
-    webUrl: "https://www.research-live.com/article/news/uk-launches-funding-challenge-for-tackling-ai-bias/id/5118283"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5118283&name=uk-launches-funding-challenge-for-tackling-ai-bias"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
 
 secured: "1eVDrRpyvt2KRZ7uj1Ls3UzkmE0qCkPGI9t99z7QeT/dPastGeIUAl2At19PYv/5vCnLtmOSar6D2+yZbNpAcKxo7HspJZ8rNU17v4zpIjiGS5lf1585Qj4ulzCctMzqFGaJKua5NUDAZFm+p989HA3qDKLRi+xuEnsnBJIs7Qx3ObnmMqOmArHJl4T7bxebykrJHumkUbpVCy2SrbBNwZMZKCCpPiMaCUjnKX/UEpPc3G8SzRpNXro5ISqNDbnh83B6suarDRAlVoYSFcnLw/3piNYGqrFldFedJJyJChh8TMbxEf+ECAvBBtv89jV2qSHb5ld7BlGSqXrGqUKh4En1lZYIfuINPtvh4oCyRVo=;mzCkyJbZV4nJJIfR1ZpttQ=="
 ---

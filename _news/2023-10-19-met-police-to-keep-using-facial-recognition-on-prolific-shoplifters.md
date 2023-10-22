@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/uk-england-london-67149222.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-london-67149222.amp"
 type: article
 quality: 59
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://cdn.govexec.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog-1/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Essex Police reassure public on facial recognition in Southend"
+    excerpt: "For the first time in Essex, police will be using high-tech cameras in a bid to try to find and arrest wanted crooks."
+    publishedDateTime: 2023-10-22T03:19:00Z
+    webUrl: "https://www.echo-news.co.uk/news/23867438.essex-police-reassure-public-facial-recognition-southend/"
+    type: article
+    provider:
+      name: Echo news
+      domain: echo-news.co.uk
+    quality: 39
+    images:
+      - url: "https://www.echo-news.co.uk/resources/images/17356874/?type=og-image"
+        width: 945
+        height: 630
         isCached: true
   - title: "‘Game-changing’ facial recognition technology catches prolific shoplifters"
     excerpt: "The Metropolitan Police asked 12 retailers to send in images of their 30 worst shoplifters in a pilot of the new software."

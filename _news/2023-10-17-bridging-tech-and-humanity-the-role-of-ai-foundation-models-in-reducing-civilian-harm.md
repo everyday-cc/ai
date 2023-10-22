@@ -38,6 +38,15 @@ related:
         width: 1920
         height: 1358
         isCached: true
+  - title: "Keeping a human in the loop: Managing the ethics of AI in medicine"
+    excerpt: "Increasingly used in medicine, AI raises both hopes and concerns. An international task force has laid out recommendations to ensure AI medical devices help patients and avoid worsening health inequity."
+    publishedDateTime: 2023-10-21T23:51:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105631.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
 
 secured: "ta/G1OFW7vUgb0ZTgoy+M4o14qrYei9Bz8fgK4XFqbp1+DAzINX3icI+umuZ5O1pgbxeNjAuPsbO7ScvwW8r8XyCmFAv38UDl5VMPaPvi/NJGmA35a8op2wbgDwh3YCovYsCStMbI0qe1vWCfbpcR12984ukKkYMP3uK6NbpSFfSwSsJYAqHcmtBXzlzGaRkLhFnWezetQMZmtlkTRYNkrKKE9dDW/ePkzKs8AzPejU7JOVypTTOiBbpjJzsMqSq3q4mDWrh2AYZ+wACbr7ABZJVdJLeQsoXs5afl5r5Iujc6zwViKxYzmfqmrLMknzyqK01nTfyIOxCgsamCReSHdXLbG+JOud0MATg4c1VPYo=;iudiius6916Lv2nQIBYNaQ=="
 ---

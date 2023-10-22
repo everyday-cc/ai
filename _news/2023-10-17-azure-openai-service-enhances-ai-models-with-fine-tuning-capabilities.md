@@ -73,22 +73,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "PwC Partners with OpenAI to Offer AI-Generated Advice to Clients"
-    excerpt: "One of the Big Four auditing firms, PwC has partnered with OpenAI to integrate AI generated advisory service for clients"
-    publishedDateTime: 2023-10-17T09:22:00Z
-    webUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/"
-    ampWebUrl: "https://www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/pwc-openai-ai-generated-advice/amp/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
-    images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/pwc-openai-ai-generated-advice.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Fintech startup Stripe integrating OpenAI's new GPT-4 AI – Reuters"
     excerpt: "Small toy figures are seen in front of Stripe logo in this illustration picture taken March 15, 2021. REUTERS/Dado Ruvic/Illustration/File Photo Acquire"
     publishedDateTime: 2023-10-17T14:01:00Z

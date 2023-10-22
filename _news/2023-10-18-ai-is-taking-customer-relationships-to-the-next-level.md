@@ -336,15 +336,6 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
-  - title: "Civilization depends on more AI, Marc Andreessen says"
-    excerpt: "The case for accelerating rather than regulating tech does not mention \"unintended consequences\" — or climate change."
-    publishedDateTime: 2023-10-17T09:30:00Z
-    webUrl: "https://www.axios.com/2023/10/17/marc-andreessen-ai-manifesto-techno-optimist"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 21
 
 secured: "nhOTnvqXtWveggl4I79q6MELmVsh8P63PSkMYv2GjtdfwGQhp5kiG5cVAMFfH/NfFDWChDONlOmMMcjkIjLYf29H4I6lG3rRB7NiXA6eBQF6sdZFutF/MWh1BAOkJd94qFlws6a/G+qp5jYVxrjXY4LSQDHPA/bpA6TBQgxR2xFq/a0GCdCGB+S/fVXfMYxxeZP2yjjmqp7GF7ULlA/K6e+vwdzDWb987ATHu1xf+mYXo6+xx62xzIcQUnKdWNuJXhEEGeOvDfwfGJpeqxISIdDJZNUyscjh5dACBT+F6o7BVuHiPQX02OodfRKItJ95w3bAego84WY+z4nHMxL6luFKbVz/NZ+R71cPBRIeo44=;2Mp6KTiCpKDEAbRyZWK81g=="
 ---
