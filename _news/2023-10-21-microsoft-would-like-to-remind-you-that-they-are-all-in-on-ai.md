@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
 type: article
 quality: 104
-heat: 374
+heat: 364
 published: true
 
 provider:
@@ -352,15 +352,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
-    excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
-    publishedDateTime: 2023-10-17T11:58:00Z
-    webUrl: "https://www.inferse.com/759103/introducing-roybot-roy-hills-innovative-ai-tool-boosting-employee-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
   - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
     excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
     publishedDateTime: 2023-10-19T19:18:00Z

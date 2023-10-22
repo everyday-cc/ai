@@ -75,20 +75,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Nvidia enables AI processing on Windows PCs with RTX GPUs"
-    excerpt: "In a milestone for personal computing, Nvidia will enable generative AI processing on Windows PCs using RTX-based GPUs."
-    publishedDateTime: 2023-10-17T13:00:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-enables-ai-processing-on-windows-pcs-with-rtx-gpus/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/VSR_1.5.jpg?w=1200&strip=all"
-        width: 1200
-        height: 631
-        isCached: true
   - title: "Nvidia shares dip after U.S. announces new curbs on AI chip exports to China. How to play the stock"
     excerpt: "Pros on CNBC discussed Nvidia. Shares slumped Tuesday following an announcement that the U.S. plans to curb the export of AI chips to China."
     publishedDateTime: 2023-10-17T19:19:00Z
@@ -215,15 +201,6 @@ related:
         width: 718
         height: 377
         isCached: true
-  - title: "US tightens rules on AI chip sales to China in blow to Nvidia"
-    excerpt: "One US official said the new rule would bar Nvidia from selling A800 and H800 GPUs chips in China. The updated rules will also impact Gaudi2, an Intel AI chip. A second official said the administration had taken into account how groups were “trying to work around our parameters” in drafting the update."
-    publishedDateTime: 2023-10-17T12:45:00Z
-    webUrl: "https://www.ft.com/content/be680102-5543-4867-9996-6fc071cb9212"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 51
   - title: "NVIDIA Teams With Foxconn To Boost AI Industrial Revolution"
     excerpt: "Tech major NVIDIA Corp. is collaborating with Taiwanese electronics contract manufacturer Foxconn, also known as Hon Hai Technology"
     publishedDateTime: 2023-10-18T13:32:00Z

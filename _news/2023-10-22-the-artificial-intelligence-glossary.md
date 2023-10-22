@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-21T22:47:00Z
 originalUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
 webUrl: "https://www.law.com/legaltechnews/2023/10/21/the-artificial-intelligence-glossary/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"

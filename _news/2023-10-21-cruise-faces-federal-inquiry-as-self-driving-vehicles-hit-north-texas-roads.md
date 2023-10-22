@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 804
         isCached: true
-  - title: "Auto-Safety Regulators Investigate Cruise’s Self-Driving Cars Over Pedestrian Risks"
-    excerpt: "GM’s driverless-car unit is confronting a new safety investigation by regulators, after reports of its autonomous vehicles exhibiting risky behavior around pedestrians."
-    publishedDateTime: 2023-10-17T12:44:00Z
-    webUrl: "https://www.wsj.com/business/autos/auto-safety-regulators-investigate-cruises-self-driving-cars-over-pedestrian-risks-e888708c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 48
-    images:
-      - url: "https://images.wsj.net/im-869924/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Cruise self-driving cars investigated after two accidents"
     excerpt: "About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway ..."
     publishedDateTime: 2023-10-20T11:18:00Z

@@ -356,15 +356,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
-    excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
-    publishedDateTime: 2023-10-17T11:58:00Z
-    webUrl: "https://www.inferse.com/759103/introducing-roybot-roy-hills-innovative-ai-tool-boosting-employee-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 29
   - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
     excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
     publishedDateTime: 2023-10-20T13:14:00Z

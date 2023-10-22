@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900373.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2023/10/17/9900373.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "GIGABYTE announces plans for future AI consumer products"
+    excerpt: "GIGABYTE has recently unveiled a fresh strategic framework for Artificial Intelligence (AI), which is set to steer the company's trajectory in the"
+    publishedDateTime: 2023-10-19T11:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-consumer-products/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
   - title: "Airbyte Announces Additional Vector Database Connectors, Making Hundreds of Data Sources Available for Artificial Intelligence Applications"
     excerpt: "Airbyte, creators of the fastest-growing open-source data movement platform, today made available additional connectors for the Milvus, Qdrant and Weaviate vector databases as the destination for moving data from hundreds of data sources,"
     publishedDateTime: 2023-10-17T20:00:00Z

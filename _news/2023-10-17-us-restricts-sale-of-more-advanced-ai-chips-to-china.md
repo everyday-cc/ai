@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "U.S. Tightens China’s Access to Advanced Chips for Artificial Intelligence"
-    excerpt: "The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said."
-    publishedDateTime: 2023-10-17T12:54:00Z
-    webUrl: "https://www.nytimes.com/2023/10/17/business/economy/ai-chips-china-restrictions.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/16/multimedia/00dc-chipcontrols-cjpf/00dc-chipcontrols-cjpf-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "AI Demand for Nvidia Chips Keeps Rising. New China Restrictions Are Likely Just Noise."
     excerpt: "Taiwan Semiconductor Manufacturing’s earnings commentary shows that demand for AI applications and Nvidia chips are improving. Nvidia stock should benefit."
     publishedDateTime: 2023-10-19T17:38:00Z

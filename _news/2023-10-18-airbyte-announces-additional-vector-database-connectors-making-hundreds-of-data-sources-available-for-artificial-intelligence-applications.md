@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "GIGABYTE announces plans for future AI consumer products"
+    excerpt: "GIGABYTE has recently unveiled a fresh strategic framework for Artificial Intelligence (AI), which is set to steer the company's trajectory in the"
+    publishedDateTime: 2023-10-19T11:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-consumer-products/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
   - title: "Airbyte Announces Additional Vector Database Connectors, Making Hundreds of Data Sources Available for Artificial Intelligence Applications"
     excerpt: "\"We were the first general-purpose data movement platform to add support for vector databases - the first to build a bridge between data movement platforms and AI,\" said Michel Tricot, CEO, Airbyte. \"Now,"
     publishedDateTime: 2023-10-17T16:24:00Z

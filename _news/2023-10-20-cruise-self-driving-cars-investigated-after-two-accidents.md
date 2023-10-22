@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 804
         isCached: true
-  - title: "Auto-Safety Regulators Investigate Cruise’s Self-Driving Cars Over Pedestrian Risks"
-    excerpt: "GM’s driverless-car unit is confronting a new safety investigation by regulators, after reports of its autonomous vehicles exhibiting risky behavior around pedestrians."
-    publishedDateTime: 2023-10-17T12:44:00Z
-    webUrl: "https://www.wsj.com/business/autos/auto-safety-regulators-investigate-cruises-self-driving-cars-over-pedestrian-risks-e888708c"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 48
-    images:
-      - url: "https://images.wsj.net/im-869924/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Cruise faces federal inquiry as self-driving vehicles hit North Texas roads"
     excerpt: "However, Cruise, a California-based self-driving technology company backed by General Motors, Honda, Microsoft, T. Rowe Price and Walmart, is under investigation by federal regulators after reports of the autonomous driving technology vehicles getting too close to pedestrians near roadways or on sidewalks."
     publishedDateTime: 2023-10-20T21:22:00Z

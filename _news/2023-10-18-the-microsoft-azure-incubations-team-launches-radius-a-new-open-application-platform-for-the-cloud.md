@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubat
 webUrl: "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/"
 type: article
 quality: 90
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 672
         height: 378
         isCached: true
-  - title: "On Northern Kosovo, Escalation or Normalization of Relations?"
-    excerpt: "There are fears that recent clashes in northern Kosovo could destabilize the region and introduce the possibility of another war in Europe. However, some of the most influential Western actors are pressuring Serbia to normalize relations rather than escalate tensions,"
-    publishedDateTime: 2023-10-17T12:36:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/on-northern-kosovo-escalation-or-normalization-of-relations"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 4
 
 secured: "j2ZIbReH76boDkxflSLX9zJ4fzlXG6cfj+yc4+cQ9uQ3SE4NgsE3Y4FOZfIAWBa7i5wycwK+PVCbTPjjx9ZfzzXyfCLwcVndsBHKoAG6UOIcjukBFWTQmD/E9fPYYWjVdg8NXs1YMUJMRLrsBTW53e3WPx9uz5t6EcmiiK1fw8718ko7HUKjwwknB71GOADbvGQOhJW2uaOIZLna1vebAriLLOJJU0XyUTHXPgJirgVIAxs+8Tgqc3Fp45k/yFLIbBhkDWkVg04fUKgUnz2+z/dvYyYr9TUSyAp+kaCpujil5+GQDtaj0r8sLE6ZZ0UQw2Id09FhktxLnRrLJDXXH7seLhLzg9rrcE3+Sl+a2Ck=;fez9M6giSmlYuAVM16YNfQ=="
 ---

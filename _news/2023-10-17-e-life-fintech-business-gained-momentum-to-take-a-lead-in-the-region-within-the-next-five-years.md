@@ -57,15 +57,6 @@ related:
         width: 1270
         height: 846
         isCached: true
-  - title: "5 Companies With Israel Ties Make List Of Top 100 Fintech Firms"
-    excerpt: "Global business analytics company CB Insights has named five firms with an Israeli presence in its 2023 list of the most promising private fintech companies in the world. CB Insights says this year’s Fintech 100 includes companies from 24 nations at varying stages of development, who together have raised almost $22 billion since 2019."
-    publishedDateTime: 2023-10-17T11:10:00Z
-    webUrl: "https://nocamels.com/2023/10/5-companies-with-israel-ties-make-list-of-top-100-fintech-firms/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 4
   - title: "US payments infrastructure fintech Finzly seals $10m funding"
     excerpt: "US payments infrastructure provider Finzly has sealed US$10m's worth of funding, which the fintech will put towards continued expansion"
     publishedDateTime: 2023-10-21T12:42:00Z

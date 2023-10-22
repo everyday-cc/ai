@@ -83,15 +83,6 @@ related:
         width: 672
         height: 378
         isCached: true
-  - title: "On Northern Kosovo, Escalation or Normalization of Relations?"
-    excerpt: "There are fears that recent clashes in northern Kosovo could destabilize the region and introduce the possibility of another war in Europe. However, some of the most influential Western actors are pressuring Serbia to normalize relations rather than escalate tensions,"
-    publishedDateTime: 2023-10-17T12:36:00Z
-    webUrl: "https://www.diplomaticourier.com/posts/on-northern-kosovo-escalation-or-normalization-of-relations"
-    type: article
-    provider:
-      name: Diplomatic Courier
-      domain: diplomaticourier.com
-    quality: 4
 
 secured: "ermG2P2+CY1FyzHjMS2ByDy8RpXulsA2BMu4rl3+Fa7b0E4Pu67i6N8gDCTFnBnncsYJc8xzEI6qhK4cyo2qGNuLR/M4TszO8xpBnqzmu6aRJnYPrdiRVu+oFBJlS51r3wzxYB0tp7FhJf18rdQANrVXnLZVhEusI3s1bPb5M6gfKB0u2LFKDwG+22MKW50x1bI7beznIcy2LiB+l5SDWD90DxjJpNonZbUEyNEtqO9QGmApmNY/jNNv43np19tvlmzgQ8jmBKEmvtm63Ufs3z0AmacgRvHWNKOeOsGniwBX2+uTZqY+hznndEMB8qSRfUHlB476NF7HyVJXPiOZzHVzOfVSwmXX6VUcA6vbr7I=;CoLxalkh/ajqDcP2wDvtng=="
 ---

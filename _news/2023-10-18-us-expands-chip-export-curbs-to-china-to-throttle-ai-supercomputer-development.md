@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With U.S. Businesses"
-    excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
-    publishedDateTime: 2023-10-17T11:44:00Z
-    webUrl: "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 58
   - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel"
     excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
     publishedDateTime: 2023-10-17T16:31:00Z

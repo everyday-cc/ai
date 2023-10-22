@@ -26,17 +26,6 @@ images:
     height: 576
     isCached: true
 
-related:
-  - title: "Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
-    excerpt: "NYSE:ACN) Accenture Collaborates with SAP to Help Organizations Adopt Generative AI and Accelerate ERP Transformation in the Cloud"
-    publishedDateTime: 2023-10-17T12:37:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2023/10/17/accenture-collaborates-with-sap-to-help-organizations-adopt-generative-ai-and"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 0
-
 secured: "Zz9zo6/WoNwIdeH1ksKuuKk/SoSHucsMe3t/fi52GSdhN77C2Ami4MItuvP2r3ub+ejZvO1QAboh3hZfqI6AJ1IJmLXUE0uBSz29Zwd4w3739D+ZDO4lNyeZQReL+0Xgs+CqtqULIJ1yEwOn2kPTvCDAx8IRTMUR6WG5beEK4lwHoZlXnPaIEVAijLJdQhBp4X4gyjIVASChKJ8Y2EZ91tXvvpMp81dkYJ1JWdufKH3AWzUfP9uX3qNKbmJnWZbrXo7zbdFQo75riYJeIPpkS3Nhq1XfYZuX5aLS+sj9ZUGKsbsvyZDLQGQa2cPMooceDdyPQfG2886iAR3cHBebi3mQkyB1lUxFvVhbZDleCJc/22KyGn4P3pwo5k4kuRnCfzb82OHvMBMKZTMf6aHUXk6o7LEpd1JHZO2arHgYYkRODi0JOgcI75UR9T+9yA7DTg1esY8rGSRiamFXVcg8jb/ENjRdyM/NNSPTwV7hcMPxFekqZ5fipU2IBVCAJBT5r4Y7M0HQC5PtaeMw4z4mrA==;NDic9Phgln6KJCnPhdySgA=="
 ---
 

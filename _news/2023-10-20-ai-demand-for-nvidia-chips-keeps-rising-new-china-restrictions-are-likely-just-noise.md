@@ -89,20 +89,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "U.S. Tightens China’s Access to Advanced Chips for Artificial Intelligence"
-    excerpt: "The further limits on shipments could cripple Beijing’s A.I. ambitions and dampen revenues for U.S. chip makers, analysts said."
-    publishedDateTime: 2023-10-17T12:54:00Z
-    webUrl: "https://www.nytimes.com/2023/10/17/business/economy/ai-chips-china-restrictions.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/16/multimedia/00dc-chipcontrols-cjpf/00dc-chipcontrols-cjpf-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "How Taiwan's server and chip suppliers perceive the new round of AI GPU restrictions"
     excerpt: "The US has once again escalated its trade restrictions, and the AI chip industry is heavily affected. In addition to blacklisting China's fastest-growing GPU manufacturers, Moore Threads and Biren, the most significant impact is the anticipated restrictions..."
     publishedDateTime: 2023-10-18T07:22:00Z

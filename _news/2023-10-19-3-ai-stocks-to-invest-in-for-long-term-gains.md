@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Intento Raises USD 8m in Series A as Investors Back Generative AI"
-    excerpt: "Intento, a machine translation and AI start-up, has announced that it has raised USD 8m in Series A funding. The company has now raised a total of USD 12.3m to date, with the latest funding representing its first major investment since its seed funding in 2020."
-    publishedDateTime: 2023-10-17T12:05:00Z
-    webUrl: "https://slator.com/intento-raises-usd-8m-in-series-a-as-investors-back-generative-ai/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "KlIqLM/D9O5cUrVnLk1KkeUh2lapWKwpu9//KqrHr8qahtOAZt6CRCBCAAbUddRyVjjLExUmreiq1op9LUFMweo/BiRKEwXsIn94cAQ5aMnpA8xTgKjDy9bGJ3LqOFkS4cCEdCZJG1jXjVkXDJ7VcfwDhdQq68yt2HhemFSc4EinqFLNAZmECWgMQ6yTyyXFiibfKAnR8qudm4IgYTWVYyW2ELfGvOmAbzCjAGFcMCaONs7o/gazjiZpVYkihlw/cS+KswhTMxssi9zsL/IyE/KyrpZHnK+YwPYANG2Hz/PuhRVlpM8nh3G2nnqh/3HXkJUzpQmA2TRvRiiOSQNwC65LGFshrFSIrJTTmTk6mLo=;QzO5f+eKfQDkzyNuGQJWkw=="
 ---
