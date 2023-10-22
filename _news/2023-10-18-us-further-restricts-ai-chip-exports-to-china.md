@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "US tightens curbs on AI chip exports to China"
-    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on"
-    publishedDateTime: 2023-10-18T02:22:00Z
-    webUrl: "https://www.sfexaminer.com/news/national/us-tightens-curbs-on-ai-chip-exports-to-china/article_ebb95630-5bbd-511f-b5f9-feb7d2d37993.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/4/e6/4e63ebd1-0d03-5c9d-a221-cf3f5eb34b4c/652f4e00487ae.image.jpg?resize=400%2C266"
-        width: 400
-        height: 266
-        isCached: true
   - title: "US tightens export restrictions on AI chips to China"
     excerpt: "The chip controls aim to address loopholes identified after the US imposed export limitations on chips to China last October."
     publishedDateTime: 2023-10-18T06:53:00Z
@@ -115,15 +101,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 27
-  - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
-    excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
-    publishedDateTime: 2023-10-18T04:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/u-s-tightens-chinas-access-to-advanced-chips-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "7LAVBGmEIitmL94HErWdpgaOvZG2jqiecifGZflRsF76V38c8Cbx+w8qSF3ssLoj7z3N9IhH2Q5kWU30Ig9ir7bKE6bZRIBNB1gGpt8PDwD/IJAejGQpudAKeXJNdSL6UNytSXV48roPikS6pTVQ2GyOyZCbzxuHk+wcuCvo/qXtaVsccZ93ks8EK/xgrYTbOxVztbqFHzaExslRbBQptUijdlcG8rEWcLjHtlrAyxf5FlGqBS3Z5DH7IRT4kz3RiHgfwtJ877EoNXRepPX2zJEg5XDyKTNv+WcsVZHC4dR6SM97UwmVaQC9fXhwzROWQ7oU5Q51MO2b94IlME0DAEfXRqXdhcOPAgFWWWSN2p8=;rEqmR4Q+1v0BVT2K8QsJ2g=="
 ---

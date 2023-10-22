@@ -146,20 +146,6 @@ related:
         width: 771
         height: 433
         isCached: true
-  - title: "Nvidia and Foxconn to collaborate on AI data factories and smarter self-driving cars"
-    excerpt: "Nvidia Corp. said today it’s expanding its ongoing collaboration with Hon Hai Technology Group, better known as Foxconn, to accelerate the development of artificial intelligence-powered electric vehicles and robotics platforms."
-    publishedDateTime: 2023-10-18T03:00:00Z
-    webUrl: "https://siliconangle.com/2023/10/17/nvidia-foxconn-collaborate-ai-data-factories-smarter-self-driving-cars/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 32
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/Foxconn-Tech-Day-NVIDIA.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "NVIDIA and Foxconn team up to build AI factories: will build self-driving cars, and more"
     excerpt: "NVIDIA and Foxconn are collaborating on developing 'AI factories' with the two companies set to become leaders in the AI manufacturing revolution."
     publishedDateTime: 2023-10-19T01:10:00Z
@@ -173,20 +159,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/3/93881_101_nvidia-and-foxconn-team-up-to-build-ai-factories-will-self-driving-cars-more_full.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "NVIDIA Partners With Foxconn To Build Factories And Systems For The AI Industrial Revolution"
-    excerpt: "Foxconn will integrate NVIDIA technology to develop a new class of data centers powering a wide range of applications - including digitalization of manufacturing and inspection workflows, development of AI-powered electric vehicle and robotics platforms, and a growing number of language-based generative AI services."
-    publishedDateTime: 2023-10-18T03:52:00Z
-    webUrl: "https://menafn.com/1107261119/NVIDIA-Partners-With-Foxconn-To-Build-Factories-And-Systems-For-The-AI-Industrial-Revolution"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?134962"
-        width: 444
-        height: 250
         isCached: true
   - title: "NVIDIA Joins Forces With Foxconn To Build AI Factories, A New Class Of Data Centers"
     excerpt: "NVIDIA and Hon Hai Technology Group, otherwise known as Foxconn, jointly announced plans develop a new class of data centers and systems designed to 'accelerate the AI revolution.'"

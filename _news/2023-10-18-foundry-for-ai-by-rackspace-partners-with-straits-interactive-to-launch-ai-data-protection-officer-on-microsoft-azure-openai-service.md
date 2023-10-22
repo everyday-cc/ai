@@ -188,20 +188,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft launches AI content safety service"
-    excerpt: "Microsoft’s Azure AI Content Safety service includes image and text detection to identify and grade content based on the likelihood that it will cause harm."
-    publishedDateTime: 2023-10-18T04:07:00Z
-    webUrl: "https://www.arnnet.com.au/article/709165/microsoft-launches-ai-content-safety-service/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_microsoft_building_7.jpg"
-        width: 500
-        height: 315
-        isCached: true
   - title: "Sick of meetings? Microsoft’s new AI assistant will go in your place"
     excerpt: "From November, those willing to pay $30 a month can have Microsoft’s Copilot integrated into programs like Teams and Outlook."
     publishedDateTime: 2023-10-19T14:47:00Z
@@ -243,6 +229,20 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/21/DPN_8c5a9image_story.jpg"
         width: 580
         height: 380
+        isCached: true
+  - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
+    excerpt: "The combination of the Microsoft Azure Intelligent Data Platform and Azure OpenAI Service will significantly improve operational insights, and the use of AI-powered Microsoft 365 tools will streamline workflows, enhance productivity, and elevate the ..."
+    publishedDateTime: 2023-10-22T19:41:00Z
+    webUrl: "https://menafn.com/1107283879/DCT-Abu-Dhabi-And-Microsoft-Sign-Mou-On-Generative-AI-Cloud-Technologies"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 53
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/22/M_c6004image_story.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
     excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"

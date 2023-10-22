@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/amp/"
 type: article
 quality: 119
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65314c2819c4e506a67ca4d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1280
         height: 680
-        isCached: true
-  - title: "Nvidia teams with Foxconn to boost electric vehicle AI"
-    excerpt: "Foxconn, the world's biggest electronics manufacturer, announced a strategic partnership with Nvidia to accelerate the development of EVs."
-    publishedDateTime: 2023-10-18T03:00:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-teams-with-foxconn-to-boost-electric-vehicle-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-DRIVE-Thor.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
         isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."

@@ -84,20 +84,6 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 54
-  - title: "US tightens curbs on AI chip exports to China"
-    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on"
-    publishedDateTime: 2023-10-18T02:22:00Z
-    webUrl: "https://www.sfexaminer.com/news/national/us-tightens-curbs-on-ai-chip-exports-to-china/article_ebb95630-5bbd-511f-b5f9-feb7d2d37993.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/4/e6/4e63ebd1-0d03-5c9d-a221-cf3f5eb34b4c/652f4e00487ae.image.jpg?resize=400%2C266"
-        width: 400
-        height: 266
-        isCached: true
   - title: "U.S. tightens curbs on AI chip exports to China"
     excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
     publishedDateTime: 2023-10-18T21:43:00Z
@@ -116,15 +102,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 27
-  - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
-    excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
-    publishedDateTime: 2023-10-18T04:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/u-s-tightens-chinas-access-to-advanced-chips-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "tTu1nR7h1gOaBd4UIbN/a+/b9F5RwDs9/R4cZd2LeXfsDs2g0uF5/wZ9e1vX77lr1XfXM6DrD1rheERDp2Qpyyor3BNTiF/oHXIzbFNZlhoAQrwo7gCX1lb4FOhu+CGzLoNovgResB7RVy056OhiIokYMjlzyLIMZlxD7VHBsHKHSafzyfLFpscdnKi++72ObkkPPyT5AeuKfR9S0xFnFpRNyTxWh3EAzNmCO4vvl/JNVUzcQP1rxG3p5hxHP/DiBxawinrwVHXGoWDr9JP6zsbeNXHPdX3e9/08skuLseu88L5ddlNwJMkM0RMZWGBUomXPwIn5gPfbBtOMwd8CZGGBmm4VLyvl1anBFD0zV6o=;AhDS4nOj3J8dQN8NObTdaw=="
 ---

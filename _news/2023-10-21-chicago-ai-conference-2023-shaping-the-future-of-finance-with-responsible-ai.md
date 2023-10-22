@@ -34,15 +34,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Healthcare Insider Podcast: Fusing AI and human touch in revenue cycle management"
-    excerpt: "Wells, director of product management at HealthStream, joins this episode of Healthcare Insider to discuss the urgent n"
-    publishedDateTime: 2023-10-18T04:00:00Z
-    webUrl: "https://www.modernhealthcare.com/clinical/podcast-fusing-ai-and-human-touch-revenue-cycle-management"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 29
 
 secured: "lPwBqKS3hV1aPhLcitCSR2bFncmMQBNqV4Es2ZhbeUjygsJUMKGcCzdch6Fkzjv+8hh7oWPhpKehlBSMu1v7i5T/sdJIRNNONk5EGxhlVpTjLnUr07bYqLEmDupADHgN6CoNKbPec/iM+RXnWJyxdhKJczLHlz2jN3gJ6BJgzWcKxDzr3qn6EKUdroMLflq+AG5VLogq78RSuK/uwLEM9yd3EBHew9OtZPekRBno8IztpMSrgqaTaB8c8oE2VufXywzq5eLRXsZLs5HXcc0t6s+ACf08PZ7+Z9T0YNBSOneZcwhYutCH4rFMMcUK9B7ukfljPkCqECZ395CA18RGpcwYLOibt0V96ZliRW4m0rc=;L6PG6kHzUYIWIpIIDjsNYA=="
 ---

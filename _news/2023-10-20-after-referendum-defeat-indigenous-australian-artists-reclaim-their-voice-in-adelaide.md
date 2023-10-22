@@ -85,20 +85,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Defeat of Australian Labor’s Voice referendum highlights stark class divide, not racism"
-    excerpt: "The Voice voting patterns demonstrate the intensifying hostility of working-class people to the entire political establishment."
-    publishedDateTime: 2023-10-18T03:46:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/10/18/fypz-o18.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 16
-    images:
-      - url: "https://www.wsws.org/asset/ea9dc941-3e0a-4ca4-8d44-d339601aef10?rendition=1600x900"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "As Indigenous leaders declared a week of silence, Australian politics was reduced to what the Voice was supposed to address"
     excerpt: "The Voice campaign and its politics have confirmed we're in new political territory, where there seems little restraint or even regard for the truth — not just by fringe players but players central to our politics,"
     publishedDateTime: 2023-10-20T18:00:00Z

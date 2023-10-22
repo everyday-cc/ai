@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/google-search-generative-ai-u
 webUrl: "https://www.techrepublic.com/article/google-search-generative-ai-update/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechRepublic
@@ -26,6 +26,24 @@ images:
     width: 1400
     height: 583
     isCached: true
+
+related:
+  - title: "Research: AI models lack transparency"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the"
+    publishedDateTime: 2023-10-20T00:55:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/20/156351.jpeg?v=1697767380"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "pHHUEHjrn8UZbrN++M2QGC9SmeacMFC9s0H4eKSWcummVLaZInBUCZ+CeD87EwxQr4xFUPwO/bJPM1/ah1pMXirsvytK32nGiel0zkezla4gBqUWP45/d0WpYa3OGWCWez4uYBIAAFhceszxZ2u/+f+1Q/SlHdQey7ck+DGCiYvC5kOOgDeMyRDnBmCy/E92naMXsCbp1O5nZWzz5Dq6x66wzxrJHtChbTFVSJTksVA40gnNKFT/ZJFBQHAzbahHO6HaXl/Tjg+q7KfikCq2KZdXkdvJFbH1EQ3sjb5dB30x9P5tFH0I9JN0bfJfC7YDDmgLkqvw+OIzF1dF3Cs5V4njfLBs+b0PyIr330XG+fvQwGzh6twQOUE171ll3KdAWeCSwKOU8cUaIShxTl/jAuXSFHxgoGyJ18W5jxEefv6/RxsYy/m8c4NgQtoKOrjvfjxpFseSsdb8lvRQDNCBkdlAvQMzEtu1PgwPOZyeEyruazMkqRcajQLO6k7P2bcUrheqWy/p6+SWF0hf8dQbXw==;X+ce4QIQ/l2wLON7qSsc3g=="
 ---

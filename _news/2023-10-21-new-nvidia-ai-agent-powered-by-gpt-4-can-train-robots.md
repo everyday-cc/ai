@@ -60,20 +60,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia teams with Foxconn to boost electric vehicle AI"
-    excerpt: "Foxconn, the world's biggest electronics manufacturer, announced a strategic partnership with Nvidia to accelerate the development of EVs."
-    publishedDateTime: 2023-10-18T03:00:00Z
-    webUrl: "https://venturebeat.com/games/nvidia-teams-with-foxconn-to-boost-electric-vehicle-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/NVIDIA-DRIVE-Thor.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
     excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
     publishedDateTime: 2023-10-20T18:08:00Z

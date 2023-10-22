@@ -18,6 +18,17 @@ topics:
   - Google AI
   - AI
 
+related:
+  - title: "When Building an AI Strategy, Start With the Guardrails"
+    excerpt: "States are starting to hire experts to navigate both the opportunities and the trickier aspects of AI. Maryland's Nishant Shah says job No. 1 is establishing a set of principles that set the foundation for everything else."
+    publishedDateTime: 2023-10-20T21:54:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/when-building-an-ai-strategy-start-with-the-guardrails"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 17
+
 secured: "dJ/EqQRmAwDz/q4LkTHRTczcm0PbJrlzYWf3AGlVYpoG1WcnB5MVAG58TfscS9pO6yhSWaauSZfWrGSKCExAg6YQBUbF3qUGXsN7cVkqieQCmH9LOfoWg+TaQAB+a/xfSLXDTOXbTMbyLdmoHnFSkFnViSWb3ovF7cV/S9Y2/bC7Au0cuGby+SETUtOJjPjloynQ2FDXUY9cjPum2oq9cCz9tcqFES3vxWxGvHPv6j7BJpyNak6v/tQftayUgT37YH5olR3r3n9xYbL/iJs6EqOBOvkA7lNLNVUeMmRlfTM8sNth+3kpf9QnVw04iA+fKgAMbF4LRvbupoFygdB5c14InGRq2O024bMFD1/qxBI=;iV4dx3oyv2EW2cpT0/bj4w=="
 ---
 

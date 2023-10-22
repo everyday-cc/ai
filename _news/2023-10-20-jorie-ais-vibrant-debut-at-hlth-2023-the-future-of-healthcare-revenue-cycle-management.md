@@ -34,15 +34,6 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 33
-  - title: "Healthcare Insider Podcast: Fusing AI and human touch in revenue cycle management"
-    excerpt: "Wells, director of product management at HealthStream, joins this episode of Healthcare Insider to discuss the urgent n"
-    publishedDateTime: 2023-10-18T04:00:00Z
-    webUrl: "https://www.modernhealthcare.com/clinical/podcast-fusing-ai-and-human-touch-revenue-cycle-management"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 29
 
 secured: "nS6RYx4bn3M3dfOk9LfeF7BnE8qJCwRaXAO10/4EB59QlHN4+Hw3v5ygCjzqT9u9N9zL4+hMSa9w+V4fxXfQEvcMTGtLQD7TGoMGpAbgswR1FXmz7LHJ4wwNqHjvE8YR+cZidFnv64kEiVB05mv2m2FkH7z5oaFsOJWZKmqDwyp2khJDb7X7n6WyP+OLuncA+rDxUDpyWr4biqMOgymxmQry+ZSKEuw/rQ3gRqgQqGIoA8eXciGtQtKkmG/6H+oEij3j2Az+Tsrc7nIBcfGhUARzBVakXYUPeI2Dynqhf0Uak5SNcw6Gi0+fBnZP0zNpJTqYIi+vRQTxW0wlGaoNpZrKt9RDgv7Layx9mJSGNHax8nsrwSZ8VzVEdJDh1LopfYI8hRQSn5WxQLthpVyEuZesNlQ3IstvHycwsWpq1l1+Huc/ei8DO2kr4d0SU5VRQZSToSbIEeAYjCWkFfbfKpRhdFs+tTXjvOFJ+3fK5J6JhNpqB3N6TLLdPK+bHAdsTBodWUaSkychzKUwkV9e8A==;hlT1Sdrx0Y7eUpMNbaOecw=="
 ---

@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Northwestern researchers create robot-designing AI"
-    excerpt: "The Northwestern team gave the AI a prompt to design a robot that can walk across a flat surface, and used the AI's design as blueprints."
-    publishedDateTime: 2023-10-18T05:09:00Z
-    webUrl: "https://www.therobotreport.com/northwestern-researchers-create-robot-designing-ai/"
+  - title: "Google Brings Generative AI to Search: Here’s What SGE Can Do"
+    excerpt: "Google is rolling out its new Search Generative Experience, which allows users to generate images with AI – and more."
+    publishedDateTime: 2023-10-18T21:16:00Z
+    webUrl: "https://www.techrepublic.com/article/google-search-generative-ai-update/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2023/10/northwestern-AI-designed-robot-featured.jpg"
-        width: 770
-        height: 500
+      - url: "https://www.techrepublic.com/wp-content/uploads/2023/10/tr-2023-10-18-HERO-google-sge-hero-blog-post-credit-Google.jpeg"
+        width: 1400
+        height: 583
         isCached: true
 
 secured: "AhmXPGYuIMD7B2jDjZvihBrySYEs/nHdcyVUZ07FIpdb+14CzU7ZZ81zO7KnrzKx91/jIzCuLQfG2wqxoJpQtaNT8Sh+m7hIRjUKhvurGNMjHqH9HYfyHJu6O/yFzMCpQ7wh2u+KMA0tMjGBh5TSw1wXBKyN0eR0I5yKQ2RaTGlk8mTqcWst9Qjy1WrB/RY3uJ9ivsx9RlGAJXsi5P5Zq+0iBnWDIfRA64+mswI8gqcf6hgKySAerex3NnArpdUsbMq8G2V7k+P762xLQ2Ts77UJ3OixKMy/TqmBsIC1NBSUnJEhnf8D75o2tLsAOqrRf5csV3IvongVjXfM6n/vwqKuGOe/azLrh5beY9icelJQkw/Hancnvo9I5NQE9iN+8aSp2BiqoNGuvfnSnYfxf1DaNoGE1RmuZeyEzzRyjGzvekfW1PqBM11faDnE3uhV6evfGToGlfh0h2ovSp4gCHyPElS0etJqj6wpvNav5QW3nG2V1qnVtntmi6cR/ZPVXbuc/y78/tKk2H3brOVcgw==;yVF7JItufIqRvYePk+Rd0A=="

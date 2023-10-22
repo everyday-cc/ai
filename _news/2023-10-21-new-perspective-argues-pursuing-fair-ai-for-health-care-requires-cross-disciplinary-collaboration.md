@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-perspective-pursuing-fair-ai-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-perspective-pursuing-fair-ai-health.amp"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Ensuring fairness of AI in healthcare requires cross-disciplinary collaboration"
+    excerpt: "New perspective argues pursuing fair AI for healthcare requires cross-disciplinary collaboration to translate methods into real-world benefits."
+    publishedDateTime: 2023-10-22T21:28:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105613.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 62
 
 secured: "BURt5GYQY1v8inyszoVXu3Hfo23u73hmll1KIRc+SloiG6u71wmK5zlEysWsONfZaiZ+2ukktpurwHVta1iz4vOrGOzWcovqMYmexYdcwc4W/3NgOt74hmS6k5SHfn8IihgjdyuvyZ8bQ4wkahHzYJR40P+FeKbXMz4SeB2KaQTLTBFV6q8VyT/0WhOGTrv9Hf70Ak9J4Re75Jf/iGJK2qPFYNqLKSwZitPbY/0qdLsGn5RDYxyJSdMMN9QOXYEugE91atZJpBnN4bEsOsSwYRvCbdzjdJEyG7WXURPQ1x5+tbEPMI/Nw2PHVWZmgLXtCDVvEu6qUCiHE3/q9yPEOmgA1qaNiUr3g1tHhlPKGJG8NM52yh3LCbfzLNEsOcPbDjWvAx/17ltG/AYI5mbr4NptbojMOr0W3RmfRKIiinLQTJYREndvpIvycyZFMiVy5ObBIRZJXPdC55s9xU+rfRSB5qubfEjnXOXhA+I06aWFW0Os+ON/B6WCem9gtCqJ0od9BHnS85ALuCzipCfC8Q==;ULxih/6D6elY84NsAnwg8A=="
 ---

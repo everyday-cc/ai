@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -118,6 +118,15 @@ related:
     provider:
       name: Santa Rosa Press Democrat
       domain: pressdemocrat.com
+    quality: 5
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Powered by AI models trained on troves of text pulled from the internet, chatbots such as ChatGPT and Google’s Bard responded to the researchers’ questions with a range of mis"
+    publishedDateTime: 2023-10-22T17:12:00Z
+    webUrl: "https://thegrio.com/2023/10/22/ai-chatbots-risk-spreading-racist-ideas-about-health/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
     quality: 5
 
 secured: "0i3gZKU6YN8dV4XU5gZybAUR1lP1+CDTLMouA7OdYO3ikmwjmEbB638pqEWhsMiuhZa9D7IQxtPmi4mWLdagCGaif18mufYw90lvMAw9nmT2pPnktLjyLF9ORknZFjTefJikoa/fKAZJhb9TTkmEG2KHW/ePnAhkm/JeSrg7lQ73uFKoN0vg/btvWC/65VLrkwOcy7CpKGH1gDdsmb2adUG95Ppgapa19GvbxF2vm+YRwM2a9OU+mRyW3sYMin2zKrfBrYbOXxNC6woW3QUzHyAopX7cjOTkKyy7VfYKJeOyrKQNDR/CBIilvp9Il7g41bbwJfFjqPHvuNq+m1F6s8VZXa7tuX3Kii4SrHFlDY1wv/Xh+2SXGqPUnLu6bYX2gdw6cJLxLngqMYRaF/ftgaE4sJ60XDVlqpVT3ZjYS53ZdFDlCQcOMlfRe8gSzaLNYY4tbPYBS2rzFaI4WvfpA44yjwghIJylbbcr5m8Xj3NS6kjmXuNMawcfIcybjZ+difXw10WCPfJ6lcn/9/Kp+Q==;u6ooLoO68vs9WQFNr63xfw=="

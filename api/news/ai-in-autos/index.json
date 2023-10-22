@@ -105,7 +105,7 @@
       "originalUrl": "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1252,10 +1252,10 @@
     {
       "path": "_news/2023-10-09-5-ways-ai-could-influence-nursing-in-the-coming-years.md",
       "title": "5 ways AI could influence nursing in the coming years",
-      "excerpt": "Using various news articles and research studies, Incredible Health compiled five ways AI is poised to change nursing careers in the future.",
+      "excerpt": "Artificial intelligence comprises various technologies in almost ... health care AI companies have attracted more investments and equity deals than any other sector except driverless vehicles and other transportation-related work, according to the OECD.AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.idahostatesman.com/news/nation-world/world/article280205024.html",
-      "originalUrl": "https://www.idahostatesman.com/news/nation-world/world/article280205024.html",
+      "webUrl": "https://www.newsobserver.com/news/nation-world/world/article280205024.html",
+      "originalUrl": "https://www.newsobserver.com/news/nation-world/world/article280205024.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1265,11 +1265,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-08T20:51:00-07:00",
+      "publishedDateTime": "2023-10-08T17:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Idaho Statesman",
-        "domain": "idahostatesman.com",
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
         "images": null,
         "publishers": null,
         "authors": null

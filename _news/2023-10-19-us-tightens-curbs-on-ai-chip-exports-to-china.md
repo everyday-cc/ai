@@ -78,20 +78,6 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 54
-  - title: "US tightens curbs on AI chip exports to China"
-    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on"
-    publishedDateTime: 2023-10-18T02:22:00Z
-    webUrl: "https://www.sfexaminer.com/news/national/us-tightens-curbs-on-ai-chip-exports-to-china/article_ebb95630-5bbd-511f-b5f9-feb7d2d37993.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/4/e6/4e63ebd1-0d03-5c9d-a221-cf3f5eb34b4c/652f4e00487ae.image.jpg?resize=400%2C266"
-        width: 400
-        height: 266
-        isCached: true
   - title: "US tightens export restrictions on AI chips to China"
     excerpt: "The chip controls aim to address loopholes identified after the US imposed export limitations on chips to China last October."
     publishedDateTime: 2023-10-18T06:53:00Z
@@ -115,15 +101,6 @@ related:
       name: WRAL TechWire
       domain: wraltechwire.com
     quality: 27
-  - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
-    excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
-    publishedDateTime: 2023-10-18T04:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/u-s-tightens-chinas-access-to-advanced-chips-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "CXWU2EQ+xmNAeKHUNJiRfHl4JIQdanMk93faYPXqJ5uzdKL3E7XqmK8mUT7hTlA74OibiSbC3it+nhg83XXj4fXNIjSxdIfkVqeTLLlaT+MqTJWP2MQQKE7zjkIHVu9JUCfBKFUNycWLlp407jGKJq98JOODU8EMI5J2IWMgcrHzHRiQWRNzABJNa3NQ3WQQbJ6bK7yuYyZZGiQ6G6Y0ok+jLXgAQmLz1KGb1H1gV5R3ywJzgcaPv4CBVFkeXJZrgsL8JCUkaKA2QhmM2FH69LHER+KoruSiS8BE4GnInPXCSczwzMuykZ4hLCevT+7F0F/zXtbnodoxMsGGyE5qDfEvHXs1Sf8aAeWPTwn0zAE=;2HvwBYP94rOlCp30Uae83g=="
 ---

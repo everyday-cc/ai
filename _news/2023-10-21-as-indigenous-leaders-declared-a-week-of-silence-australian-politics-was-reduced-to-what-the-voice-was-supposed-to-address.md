@@ -93,20 +93,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Defeat of Australian Labor’s Voice referendum highlights stark class divide, not racism"
-    excerpt: "The Voice voting patterns demonstrate the intensifying hostility of working-class people to the entire political establishment."
-    publishedDateTime: 2023-10-18T03:46:00Z
-    webUrl: "https://www.wsws.org/en/articles/2023/10/18/fypz-o18.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 16
-    images:
-      - url: "https://www.wsws.org/asset/ea9dc941-3e0a-4ca4-8d44-d339601aef10?rendition=1600x900"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "FxiG0GcL2Up4xoMG51FLXQdup1s0Fubs7Vwg8/62sqNCRXggluInzf6e0FkpD3VpJpVqYaaI8BxY6Pgysh8GfXEpU8SeFKxjHY/lc80saqjEhzf6CUpuoaicAkeRYl08XNypx+omgXh9f5pFvdj44OcRS0v4O065Tm7c8+reTPAcStc5y8jwjABte/QTCv61ArOKkNLWVQ8ISStpIQGTkM2XXBYgjoPCgYZeia7Z4gRW9f3+2LIWSFjkSqaBn3LhTnF1YonYhr04MxD2ca3UY6zSdHg4euhk5fwZ/fXrbNf1V1miU5tFcLzNzINMaBSFQUJjwKZtffUtkCbCWcncHXYJQQTJAre3c5GsZxY3Sg9aTUAynUEiNa92yQJ6sKEDiYYCzb7IHK18PoSu5jN01wKRZNCfwoQIpcOOinmZQhKeSmUnk6+VP4MNBDKFnF3Q7/kmhQutEUSWvv3Dmy2qA5EaSK9xgxbtGJ6bMyzGsodhUkk5/7lSg4i0so1aSAMx7tL4ppGBVihX7Mh2NDBEWA==;oJxRKP4KJjbCI2uixhg2uw=="
 ---
