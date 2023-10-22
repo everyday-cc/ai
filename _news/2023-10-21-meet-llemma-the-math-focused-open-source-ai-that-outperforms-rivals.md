@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/meet-llemma-the-math-focused-open-sourc
 webUrl: "https://venturebeat.com/ai/meet-llemma-the-math-focused-open-source-ai-that-outperforms-rivals/"
 type: article
 quality: 84
-heat: 85
+heat: 86
 published: true
 
 provider:

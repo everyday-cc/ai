@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-04-theres-a-new-squishy-robot-in-town-and-was-created-by-ai.md",
+      "title": "There's a new squishy robot in town, and was created by AI",
+      "excerpt": "A team of scientists has developed the first artificial intelligence to date that can intelligently design robots from scratch.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
+      "originalUrl": "https://interestingengineering.com/innovation/squishy-robot-created-by-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/10/04/image/jpeg/lpjqpQ4hbD10M0P5HFUPjV3GSoeRlligUwK3eE85.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-04T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-04-kochi-based-tech-startups-robots-are-gaining-ground-in-west.md",
       "title": "Kochi-based tech startup’s robots are gaining ground in west",
       "excerpt": "THIRUVANANTHAPURAM: India may still be playing catch-up in terms of advancement in robotics and artificial intelligence (AI), but a Kochi-based startup is looking to turn the tables. Sastra Robotics, registered with the Kerala Startup Mission (KSUM), has ...",
@@ -1319,49 +1362,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-09-24-artificial-intelligence-ai-robots-market-demand-and-top-player-analysis-from-2023-to-2031.md",
-      "title": "Artificial Intelligence (AI) Robots Market: Demand and Top Player Analysis from 2023 to 2031",
-      "excerpt": "The Artificial Intelligence (AI) Robots Market experienced ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors.Market Reports Worldis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34840176/artificial-intelligence-ai-robots-market-demand-and-top-player-analysis-from-2023-to-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34840176/artificial-intelligence-ai-robots-market-demand-and-top-player-analysis-from-2023-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-23T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

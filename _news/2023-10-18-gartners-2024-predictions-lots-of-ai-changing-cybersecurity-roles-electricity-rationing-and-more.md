@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
+    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
+    publishedDateTime: 2023-10-18T17:17:00Z
+    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
+        width: 1270
+        height: 847
+        isCached: true
   - title: "The Pioneering Role of Technology in Revolutionizing Financial Services: A Comprehensive Exploration"
     excerpt: "Introduction Technology has emerged as a pivotal force reshaping various industries, and the financial sector is no exception. The integration of technology in financial services has ushered in an era of unprecedented innovation,"
     publishedDateTime: 2023-10-18T10:06:00Z

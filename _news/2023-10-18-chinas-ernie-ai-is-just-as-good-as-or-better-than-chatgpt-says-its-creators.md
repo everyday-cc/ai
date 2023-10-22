@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/"
 type: article
 quality: 82
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
-    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
-    publishedDateTime: 2023-10-17T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "e8rM0nZxaAG4z3eRJ3Ywa9Hl3NEq9tuxnchpKtVMsceeWMeGBbWnfycxc0ajFL9laKpuOtowN7OtgGWfwKffyNHzV3k0kMc5QRvx/z+g2IHBz75n6uV6BSZ38y215dCyrWAU6OTmAi8M39OfBIdzV5clLt2UdK2tapvzhdqElTwRVvXTWr2xOwiEz2qazQpyQqjXm2nGAi4e5iFyU+w7Gh5L4rHOHHP+DYOgMcekvKqTGhN3YuQdDCjMuoMhLKHLo99UVLyfQE81AJbHFZ7mHe6Q/sQLXdNn9Mqi8qRlm1V2hucAgKm4JCh2TI/E4aYOEteBZmcCj/7rkf1yp9f93SVIDyrtl4/Auk9j4wMcC2M=;Pr2eUpThSadCdYCEQsy9nw=="
 ---

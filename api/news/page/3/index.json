@@ -301,6 +301,50 @@
       ]
     },
     {
+      "path": "_news/2023-10-19-mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities.md",
+      "title": "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities",
+      "excerpt": "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq",
+      "originalUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NGRiNzMzNDAtMjVhMS00/0/1498385993.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1",
+      "publishedDateTime": "2023-10-18T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-honda-gm-cruise-plan-to-begin-japan-driverless-ride-service-in-early-2026.md",
       "title": "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026",
       "excerpt": "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026.",
@@ -1198,48 +1242,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows.md",
-      "title": "Tile company looks to include Artificial Intelligence in name, invites raised eyebrows",
-      "excerpt": "Veteran investor Samir Arora posted the company’s exchange filing, along with what seemed like a tongue-in-cheek comment",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/10/Sensex_up_higher-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp",
-      "publishedDateTime": "2023-10-18T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,102 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2023-09-12-james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.md",
+      "title": "James Douma Explains the Challenge and Benefits of Tesla’s End to End Neural Network Self Driving",
+      "excerpt": "This is what OpenAI was able to do with ChatGPT and large language models. This is what Tesla has been able to achieve with version 12 of FSD (Full self driving). The Tesla FSD v12 was demonstrated for nearly one hour in a live video stream by Elon Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/09/james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/09/james-douma-explains-the-challenge-and-benefits-of-teslas-end-to-end-neural-network-self-driving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/dataflywheelAI.jpg",
+          "width": 1212,
+          "height": 910,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-09-12-the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries.md",
+      "title": "The Amazing Ways Snowflake Uses Generative AI For Synthetic Data And Natural Language Queries",
+      "excerpt": "Discover how cloud data giant Snowflake is revolutionizing the use of synthetic data created through generative AI to overcome the challenges of realworld data collection",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/650002763f0c19e47373b638/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/12/the-amazing-ways-snowflake-uses-generative-ai-for-synthetic-data-and-natural-language-queries/amp/",
+      "publishedDateTime": "2023-09-11T23:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-12-this-patrolling-security-robot-wants-to-guard-your-premises.md",
       "title": "This patrolling security robot wants to guard your premises",
       "excerpt": "Meet the Ascento Guard, a new security robot. The autonomous two-wheeler is designed to tackle the shortage of human security guards",
@@ -1074,101 +1170,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art.md",
-      "title": "US rejects AI copyright for famous state fair-winning Midjourney art",
-      "excerpt": "On Tuesday, the US Copyright Office Review Board rejected copyright protection for an AI-generated artwork that won a Colorado State Fair art contest last year because it lacks human authorship required for registration,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/art_contest_winner-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/us-rejects-ai-copyright-for-famous-state-fair-winning-midjourney-art/amp/",
-      "publishedDateTime": "2023-09-11T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-ai-leaders-focus-on-impact-on-education-at-derry-conference.md",
-      "title": "AI leaders focus on impact on education at Derry conference",
-      "excerpt": "AI is the \"greatest threat but also potentially the greatest benefit to our students, staff and schools\", the group of teachers, led by Sir Anthony Seldon, headteacher of Epsom College in England, said in the letter. Prime Minister Rishi Sunak said regulation had to evolve at the same time as rapid changes are made in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
-      "originalUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ED53/production/_131055706_gettyimages-1498385993.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-northern-ireland-66774275.amp",
-      "publishedDateTime": "2023-09-11T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

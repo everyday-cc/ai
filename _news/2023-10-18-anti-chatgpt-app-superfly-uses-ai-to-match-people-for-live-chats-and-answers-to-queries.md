@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Baidu unveils Ernie 4.0 AI system, says overall performance ‘on par with ChatGPT’"
-    excerpt: "Under the category of “understanding,” Baidu claims overall improvement in human-computer interaction. “ERNIE Bot can now accurately interpret 'out-of-order statements, vague expressions, and implied meanings' in text,” reads one post in the announcement thread."
-    publishedDateTime: 2023-10-17T18:00:00Z
-    webUrl: "https://cointelegraph.com/news/baidu-unveils-ernie-4-0-ai-system-overall-performance-par-chat-gpt"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 14
 
 secured: "2jMYh+ayMPYHQbfyshCOp7F4B5MdTrojs9JxASbKBK3A+EQl8NzJwLz+be1IVJxJSm6LdwfHuvWTTmeSPgjNQlnAymvKsfODO5AbkUnYSx4eAP1acbFDTinUZcWm7XDGoDCbKf8NfC+UD1gLIh05yWCjrfs9foasCxajEGD9e7oUNmI9nBAhVg78jAR3552ESA/Jq3KsEUxrw9GtRq3zVZ4f9B1lS4dw6un8ZaJeUhlz/JlnkgM1+gfgum03pSslZ/o+qcWEZzbQp9EMSpSWUcHH6laIxNKJ9tVpOArxt+p2YeskZISFbp6H2sXfenbsl5Uw4RA0oYQwP92iAUrATcFqJqcoqPki2pzWcosTQ7k=;ei1fKwa+g66qMICe5MTTXg=="
 ---

@@ -97,15 +97,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Platform Alliance will drive AI to be more open, efficient and sustainable"
-    excerpt: "By fostering community-driven development, the consortium aims to expedite AI innovation by creating more transparent and accessible AI platforms. This collaborative approach seeks to enhance the efficiency of AI in solving real-world problems and establish sustainable, environmentally friendly, and socially responsible infrastructure at scale."
-    publishedDateTime: 2023-10-17T19:00:00Z
-    webUrl: "https://venturebeat.com/ai/ai-platform-alliance-will-drive-ai-to-be-more-open-efficient-and-sustainable/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "The Artificial Intelligence Glossary"
     excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
     publishedDateTime: 2023-10-21T22:47:00Z

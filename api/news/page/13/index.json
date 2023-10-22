@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-10-11-noke-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience.md",
+      "title": "Nokē Migrates to AWS to Enhance Cloud-Based, Digital Customer Experience",
+      "excerpt": "Janus International's Nokē is Now Powered by Amazon Web Services Janus International Group, Inc (NYSE:JBI) (\"Janus\"), a leading provider of cutting-edge access control technologies and building produc",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/b35195176/nok-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/b35195176/nok-migrates-to-aws-to-enhance-cloud-based-digital-customer-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35195176",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35195176",
+      "publishedDateTime": "2023-10-11T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-11-people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce.md",
+      "title": "People And AI: ADP Is Hot In Automations For Payroll And Workforce",
+      "excerpt": "We've talked a lot about this and related topics, and looked at AI's effect on the business world from any number of angles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/10/11/people-and-ai-adp-is-hot-in-automations-for-payroll-and-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65033b85fb3035d47a2250b8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
       "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
       "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
@@ -1115,92 +1210,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-razorpay-launches-ai-powered-payments-routing-system-optimizer.md",
-      "title": "Razorpay launches AI-powered payments routing system 'Optimizer'",
-      "excerpt": "Full-stack fintech platform Razorpay on Tuesday launched a payment infrastructure -- ‘Optimizer’, an AI-powered payments routing",
-      "sourceUrl": null,
-      "webUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
-      "originalUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://glamsham.com/wp-content/uploads/2023/10/202310103067125-1020x675.png",
-          "width": 1020,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
-      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-launches-ai-powered-payments-routing-system-optimizer?amp=1",
-      "publishedDateTime": "2023-10-10T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-ai-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms-the-laws-already-exist.md",
-      "title": "AI: we may not need a new human right to protect us from decisions by algorithms – the laws already exist",
-      "excerpt": "There are risks and harms that come with relying on algorithms to make decisions. People are already feeling the impact of doing so. Whether reinforcing racial biases or spreading misinformation, many technologies that",
-      "sourceUrl": null,
-      "webUrl": "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091",
-      "originalUrl": "https://www.econotimes.com/AI-we-may-not-need-a-new-human-right-to-protect-us-from-decisions-by-algorithms--the-laws-already-exist-1664091",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f1.econotimes.com/2023/10/mjtzouo7eq_th_1024x0.jpg",
-          "width": 496,
-          "height": 331,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-10T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EconoTimes",
-        "domain": "econotimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

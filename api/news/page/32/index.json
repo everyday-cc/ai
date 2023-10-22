@@ -2,6 +2,92 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-09-27-lightbits-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Lightbits Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Lightbits today announced the availability of the Lightbits Cloud Data Platform in the Microsoft Azure Marketplace, an",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.datanami.com/this-just-in/lightbits-now-available-in-the-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-confluents-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.md",
+      "title": "Confluent’s Data Streaming for AI initiative aims to boost AI app development",
+      "excerpt": "The initiative is a result of the managed Apache Kafka service provider partnering with the likes of MongoDB, Pinecone, Rockset, Zilliz, Google Cloud, and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-applications-development-programming-100946463-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3707389/confluent-s-data-streaming-for-ai-initiative-aims-to-boost-ai-app-development.amp.html",
+      "publishedDateTime": "2023-09-26T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-artificial-intelligence-promises-to-change-the-way-health-care-works.md",
       "title": "Artificial intelligence promises to change the way health care works",
       "excerpt": "From detecting serious illnesses early, to reducing the administrative burden on doctors, health experts say artificial intelligence promises to change the way medicine is practised.",
@@ -934,92 +1020,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-google-deepmind-alum-raises-14-million-for-new-ai-venture-firm.md",
-      "title": "Google DeepMind alum raises $14 million for new AI venture firm",
-      "excerpt": "Vishal Maini, a former DeepMind researcher, founded Mythos earlier this year and has raised $14 million from more than four dozen investors, according to a filing this month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/09/Google-generic-unsplash-770x435.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/google-deepmind-alum-raises-14-million-for-new-ai-venture-firm-11432211.html/amp",
-      "publishedDateTime": "2023-09-26T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-teams-up-microsoft-to-develop-enterprise-adoption-of-generative-ai.md",
-      "title": "Infosys teams up Microsoft to develop enterprise adoption of generative AI",
-      "excerpt": "Both companies will help enterprises take an AI-first approach to improve operational efficiencies, drive revenue growth, and enable business transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortuneindia.com/enterprise/infosys-teams-up-microsoft-to-develop-enterprise-adoption-of-generative-ai/114246",
-      "originalUrl": "https://www.fortuneindia.com/enterprise/infosys-teams-up-microsoft-to-develop-enterprise-adoption-of-generative-ai/114246",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/fortuneindia/2023-09/23f49c90-166d-44e4-909c-eb673e9d1d42/infosys__8_.jpg?w=700",
-          "width": 700,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune India",
-        "domain": "fortuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

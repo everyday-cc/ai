@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How the US will cut off China from more AI chips"
-    excerpt: "The Biden administration on Tuesday issued a sweeping update to restrictions on exporting advanced artificial intelligence to China and other countries."
-    publishedDateTime: 2023-10-17T18:05:00Z
-    webUrl: "https://www.reuters.com/technology/how-us-will-cut-off-china-more-ai-chips-2023-10-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-    images:
-      - url: "https://www.reuters.com/resizer/paW-w8d7ely0cv3aYqwuml_RHQ8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5R35K5J7YFJ3DDUQRVT67HNQO4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "AI Demand for Nvidia Chips Keeps Rising. New China Restrictions Are Likely Just Noise."
     excerpt: "Taiwan Semiconductor Manufacturing’s earnings commentary shows that demand for AI applications and Nvidia chips are improving. Nvidia stock should benefit."
     publishedDateTime: 2023-10-19T17:38:00Z
@@ -139,15 +125,6 @@ related:
         width: 992
         height: 675
         isCached: true
-  - title: "US places new restrictions on AI chip exports to China"
-    excerpt: "The rules expand upon an existing set of chip-focused export controls that were implemented last year. Under the expanded regulation, more types of AI chips are subject to export restrictions. As part of the move, the Commerce Department is also tightening the rules that regulate the sale of chipmaking equipment."
-    publishedDateTime: 2023-10-17T17:58:00Z
-    webUrl: "https://siliconangle.com/2023/10/17/us-places-new-restrictions-ai-chip-exports-china/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
     excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
     publishedDateTime: 2023-10-18T04:00:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Indigenous groups say voice referendum ‘unleashed a tsunami of racism’"
-excerpt: "The rejection of constitutional recognition was a bitter lesson that made clear reforming ... for bringing the request for a voice to a vote. Albanese has so far resisted revealing the government’s next steps. The prime minister said he stood by his ..."
-publishedDateTime: 2023-10-22T08:53:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2023/oct/22/indigenous-groups-say-voice-referendum-unleashed-a-tsunami-of-racism"
-webUrl: "https://www.theguardian.com/australia-news/2023/oct/22/indigenous-groups-say-voice-referendum-unleashed-a-tsunami-of-racism"
+excerpt: "Yes supporters break week of silence by stating 14 October result was so mean-spirited it would remain ‘unbelievable and appalling’ for decades"
+publishedDateTime: 2023-10-22T09:33:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2023/oct/22/indigenous-groups-say-voice-referendum-unleashed-a-tsunami-of-racism?ref=upstract.com"
+webUrl: "https://www.theguardian.com/australia-news/2023/oct/22/indigenous-groups-say-voice-referendum-unleashed-a-tsunami-of-racism?ref=upstract.com"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/22/indigenous-groups-say-voice-referendum-unleashed-a-tsunami-of-racism"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/22/indigenous-groups-say-voice-referendum-unleashed-a-tsunami-of-racism"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "P2I6RDYQkoDmi/uiHYyv4/2IAAe7bmKLVOSEqg/D/h4netz5knmmG2UwLcGkPST4ekYoFRrI7bHYKe7d4nxmo+JnlHcn6kiMX5sOYTCguaUmdjGQLE1SMhnfF10zlXRLLp+mnFRBykrMFjlyNP1maE2gTKjINPGJ8SVUSgSGnbFTQM6bUbrbON5mngUIbBf0csd6eZH6VJaeZXGnS752dyBCrDSsn233wfn18EzesIZPUI+Az8JmlvV+ZBqkdULa+HRuj03zciHNkRmuvgU4VasLnRvGqz33JgSLXNjN5KzYHDGoc1l9KNCpYx//qgcw0l6orWi2/NU3PAT2e1RYf4VVs1WbhLDz22kUb/HVkFY=;cUZda25axdll+k5Zws3K0w=="
+secured: "IexmOWLjydgsGbgxUyCOmKbg88Yo56phNVEAkHbFIP7izDSSHQ5Fk8vGKismq32Xc3lfa43RMmssegx8EGe+As3pP7AD7Uk7mUsxuPBl15amocFJLNdIIGRZDhUAA5NyM1FqdlYg4bDnru+gNP4KfsHxIF5c7CaUhtBtWXD7NnpNpFYRQ10T5xV2WUa7qyMMyl0fN9wt8KH1NiWpsIG+omMAc+lOc/itcArWTH9ofOdXRA1I47MvyoIZNqRD3CguOwqbNOxuNmxlH6GuZsO49TCbwf8UKI+9i2QdPidBEOO5DT587BkYnKoiUs48ZmSFR/4XuOCqKplhaAvMHVijInf26iW/DbRDtDHdY3EhAK8=;CI4EUNF4R8dv/B8TZ8uY4g=="
 ---
 

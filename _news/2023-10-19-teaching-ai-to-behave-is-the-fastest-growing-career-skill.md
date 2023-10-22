@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3709048/teaching-ai-to-behave-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709048/teaching-ai-to-behave-is-the-fastest-growing-career-skill.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "A cancer survival calculator is being developed using artificial intelligence"
-    excerpt: "Researchers have developed an artificial intelligence (AI)–based tool for estimating a newly diagnosed cancer patient's chances for surviving long term, according to a study presented at the American College of Surgeons (ACS) Clinical Congress 2023."
-    publishedDateTime: 2023-10-20T16:59:00Z
-    webUrl: "https://medicalxpress.com/news/2023-10-cancer-survival-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2023-10-cancer-survival-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-cancer-survival-artificial-intelligence.amp"
+  - title: "Future of psychometric tests: How AI and machine learning are changing career management"
+    excerpt: "Embracing AI and ML in career management is not just a trend; it’s a strategic advantage in today’s fast-paced world of work. However, the synergy between psychometric tests and AI and Machine Learning can lead to more informed and well-rounded decisions in an increasingly data-driven world."
+    publishedDateTime: 2023-10-22T11:01:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-future-of-psychometric-tests-how-ai-and-machine-learning-are-changing-career-management-3283119/lite/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 65
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/a-cancer-survival-calc.jpg"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Untitled-design299.jpg"
         width: 1200
-        height: 1860
+        height: 675
+        isCached: true
+  - title: "How Artificial Intelligence Is Changing Business"
+    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
+    publishedDateTime: 2023-10-19T15:09:00Z
+    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 39
+    images:
+      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
+        width: 840
+        height: 449
         isCached: true
 
 secured: "8Kc76fhImMZLEyiziZ84cddi0X1myoGl/sapYCGHlV7PSS07tjNu3G1zY3p6wPiy1ti9gxdanqpcvsuU8YRFUlf5SqvPx5wKlKoab4MJRhOkQblul3d+aV2hAcl710qvhIz9kCYyZZA9nUhVBVI13tnmRuxlgWIUmEShGU7VvBHZVj5ULMdpKkNxBrfAXJARvki9vlkHa2PwziSfyqCw4QQt+VeKG81/78Fle7P83JWdvpGBiW0tj2ATwhOCQrHl3VqmvDLhka9larBtNi+BbCqsBuuWSlDCfnarbh1bnFsfpeJ6anhOMOFyKDNcE6i+v9+2/XJisS5LzyCen50HeYV7hxnwdWf5yG6DFxptYIA=;KaL5XneTrrlAq5128cmA+Q=="

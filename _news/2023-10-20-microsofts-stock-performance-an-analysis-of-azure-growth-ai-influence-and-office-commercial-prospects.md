@@ -132,20 +132,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Henson Group Achieves Microsoft Solutions Partner Designation For Azure Data & AI"
-    excerpt: "Designation allows Henson Group to offer best-in-class support for data-driven decisions and recommendations for clients MIAMI, FLO"
-    publishedDateTime: 2023-10-17T17:48:00Z
-    webUrl: "https://menafn.com/1107258983/Henson-Group-Achieves-Microsoft-Solutions-Partner-Designation-For-Azure-Data-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 64
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
     excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, hybrid multicloud technology solutions company, has partnered with Straits Interactive, a leader in data"
     publishedDateTime: 2023-10-18T16:54:00Z
@@ -313,15 +299,6 @@ related:
         width: 446
         height: 250
         isCached: true
-  - title: "Microsoft wants to make AI safer, and it just unveiled a service to help"
-    excerpt: "Microsoft recently shipped Azure AI Content Safety to broad availability. It's an AI-powered platform designed to create a safer online environment for users. Azure AI Content Safety allows businesses to establish more control by allowing them to tailor policies,"
-    publishedDateTime: 2023-10-17T18:11:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-wants-to-make-ai-safer-and-it-just-unveiled-a-service-to-help"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 33
   - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
     excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
     publishedDateTime: 2023-10-19T19:18:00Z

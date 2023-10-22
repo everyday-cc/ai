@@ -1,15 +1,15 @@
 ---
 category: news
-title: "Mozn and UAE-based Astra Tech partner to fortify Fintech security via AI-capabilities"
-excerpt: "The AI powerhouse forges strategic alliance with the tech pioneer to unleash innovation and security in fintech"
-publishedDateTime: 2023-10-19T14:41:00Z
-originalUrl: "https://www.zawya.com/en/press-release/companies-news/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-dvl6fkrm"
-webUrl: "https://www.zawya.com/en/press-release/companies-news/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-dvl6fkrm"
-ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-dvl6fkrm?amp=1"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-dvl6fkrm?amp=1"
+title: "Mozn and UAE-based Astra Tech partner to fortify fintech security via AI-capabilities"
+excerpt: "UAE - AI powerhouse Mozn, a leader in enterprise AI technologies, has inked a partnership with Astra Tech, a UAE-based tech company. This alliance aims to strengthen their joint ability to tackle unique compliance challenges in local and global markets while setting a course for international expansion."
+publishedDateTime: 2023-10-19T05:44:00Z
+originalUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq"
+webUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq"
+ampWebUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
 type: article
 quality: 69
-heat: 89
+heat: 119
 published: true
 
 provider:
@@ -22,12 +22,28 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://static.zawya.com/view/acePublic/alias/contentid/ODQwNmQ0Y2UtYTAxZi00/0/1-jpg.jpeg?f=3%3A2"
-    width: 759
-    height: 506
+  - url: "https://static.zawya.com/view/acePublic/alias/contentid/NGRiNzMzNDAtMjVhMS00/0/1498385993.jpeg?f=3%3A2"
+    width: 900
+    height: 600
     isCached: true
 
 related:
+  - title: "UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
+    excerpt: "This initiative encompasses comprehensive training programmes designed to strengthen collaboration structures within technical fields and promote the development of national talent in emerging fields,"
+    publishedDateTime: 2023-10-18T07:53:00Z
+    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i"
+    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-ux5wq89i?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 50
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/M2M5YWFiM2QtMjIxNS00/21/180516221659emso-jpg.jpeg?f=3%3A2"
+        width: 724
+        height: 482
+        isCached: true
   - title: "Mozn and UAE-based Astra Tech Partner To Fortify Fintech Security Via AI-Capabilities"
     excerpt: "Regional AI powerhouse Mozn, a leader in enterprise AI technologies, inked a landmark partnership with Astra Tech, a pione"
     publishedDateTime: 2023-10-18T07:41:00Z
@@ -41,6 +57,22 @@ related:
       - url: "https://menafn.com/updates/pr/2023-10/18/pr_3125_82a6d5e7_image_story.jpg"
         width: 1672
         height: 940
+        isCached: true
+  - title: "The UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
+    excerpt: "This initiative encompasses comprehensive training programs designed to strengthen collaboration structures within technical fields"
+    publishedDateTime: 2023-10-18T07:08:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 48
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OTg4MDRiMzEtNjdkMS00/0/webversion-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
   - title: "Navigating AI hallucinations and biases towards a safer fintech future"
     excerpt: "Fintech players are expected to move quickly to harness the power of generative artificial intelligence (GAI) to improve their service offerings and remain competitive. But is the fintech sector fully aware of the risks that need to be managed at this turning point?"
@@ -56,7 +88,16 @@ related:
         width: 511
         height: 287
         isCached: true
+  - title: "Stearns Bank Partners with FinTech Automation to Revolutionize Banking Services"
+    excerpt: "Fintech companies stand to gain immensely from this alliance, with the unprecedented opportunity to seamlessly integrate with Stearns Bank and leveraging FTA's IaaS Platform, reducing development cost and time to launch an array of banking services to their customers."
+    publishedDateTime: 2023-10-20T15:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/20/9902685.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
-secured: "HunCZPl+A0z9y4OSIvenDzmqnglB8bAxCX8AwSnR9cz9aVMylXIEgu98Qro8SvPsn/UWJsTwop4uY/H9tx2VY4qPC1/wdAak4gGElMEI+kj2riXhoycVpnDC7P6MvdjtllbuBDtGXhXzObDYzmSIPzTQKBvNv9Leg8KCM1TsyDvngbqHbAt7D6PI3f9HrY3A7fcD/MjihzbtGm4p7W693APFdsJ2z/G3JXlv8c+alZqjJ/IMR3hNmXqCm2lpdfOXpZd4RmaM8Lrb1vNByj3wI8/9ejL8VWTeVzxC9ZfpQQSOyvys9mxXZu5jZ4wT5lq3i+/p/6HrnqfvCg94iI0oPpGdcoBqpBriPp5Irl3MAno=;OvWmUiUgQAPoP/R6BfSvKQ=="
+secured: "Bus54klaVK0sA+dBHhOB9oEEayY5eb3KiRaZmgtFbReEO0I8M+N+XxgyyPWYmo7xpYOYr0KskINLImwJhUP7g1zxlnONBdXt7aQ+9OwthPK3NBfEKW057Ca09sbbe/t7EUR2TRX5PB8c9JccreWEfVpq0K1gmm3EvTvpWRpO5TDcc5/0GaQwpJP4TO1zoznxhzsSepmP+XbmvuItqayA2/r0OXhrYjDlpHQfMUajwpTGmuxzxuIAW3CCNxfgJVkz/CASwALv+02FW8Ppc+IyEcEjotqnIspoR4WjBJXIniY3p0TSJgOnossExIqlJvirTXh8LjtM5KitDe4cUaImWVuRhGfy7bP0CGCKGzEbFfU=;8dvIm1VOG/TLByJCzH6g2A=="
 ---
 

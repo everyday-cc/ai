@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem"
-excerpt: "Companies outside Galileo’s ecosystem can now leverage proactive risk-scoring fraud engine"
-publishedDateTime: 2023-10-19T12:26:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
-webUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
+excerpt: "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc. (NASDAQ: SOFI)"
+publishedDateTime: 2023-10-19T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
+webUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
@@ -34,6 +34,6 @@ related:
         height: 768
         isCached: true
 
-secured: "spcsYRXtqKNcxEh6UC5+ubK+F88+RC4h2repVC7YEakbONjksRtRLC7APk44t3ha4hixKBxdWrARHokX+zePen8XxoNQg/0nN7tTnU6ZmH4Q/t7cokJN3oPALoQKtxl5afnkQaQHpFA60zikWofqLGs25H1epJLQoHaHAN4R2UMKCAC9cLKxc9/8Ne63DOxdzvp56Rx3WsL2jLiwl/5drTs7ZWv5SDGrVhrVLZSNXQZpocFbx7PrCeeRLNqr8M/K9dCbvZA73PMAyn0IQPiVZDjVwrHayuVFCpVMwoPE2eF+64DKIIDU38DYaO7zkeSdPgx9cCapaxXkRy7F74QED3OpTBfb/mx+M9fRJYtYAOTO9N7DzJIfRnfainX/KF4rHeDuFt6g3pgvpTvOeMqshxonN0anrWZhasQNvbiOUwApqgmiWbtZwxCdFXjQc5xsbMIIWGqeQZFKswqmh/x7FRkRvyRhbt31BXpqLef5MoB/IEPW55DVj/ju/mY0wR/SVg20VYmQIANdDIcDylasyA==;sYy/+hDuAXfNid4wPf1pLw=="
+secured: "I0wTRM4/X2JrvnrQDrX+MrAuJwzBeFOEfKKF0zpwUOLLKh7Nmn7t17ki0EgBDXlKNAoz3b7O8TLWOye7+4Bwr8uci7zIyvhBABE+dMEBhjZxTQLx2ohGcwsfndlNRlNB3ppUdi+rxA0QNRYGZHcqYGM+GR+Tym71YqNPav6dSQ+Dbkr60VZTbNdvySmvIwW1Y3yeDDPq+TMTeR7s/1G5+20uxaftCO2AhD7ECB6OW72EwbrNkqnSNYA2Db0gaE6XXAxSGkNgGerfKrL9u+sGr7DDwg2VuutVQHxw5gve3OMFr6AGUCjOldWaEPZRo4ABFLbFCdP9vPFD5sdyx3WTP32jmuub0+Z0jImDj6lhyfE=;BZbubtXhaxITYMGcMVYhHw=="
 ---
 

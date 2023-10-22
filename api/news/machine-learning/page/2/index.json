@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-05-new-technique-based-on-18th-century-mathematics-shows-simpler-ai-models-dont-need-deep-learning.md",
+      "title": "New technique based on 18th-century mathematics shows simpler AI models don't need deep learning",
+      "excerpt": "Researchers from the University of Jyväskylä were able to simplify the most popular technique of artificial intelligence, deep learning, using 18th-century mathematics. They also found that classical training algorithms that date back 50 years work better than the more recently popular techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/simpler-ai-models-dont.jpg",
+          "width": 1654,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-technique-based-18th-century-mathematics-simpler.amp",
+      "publishedDateTime": "2023-10-05T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-05-data-science-and-machine-learning-service-market-is-set-to-fly-high-in-years-to-come-att-google-zs-microsoft.md",
       "title": "Data Science and Machine Learning Service Market is Set To Fly High in Years to Come | At&T, Google, ZS, Microsoft",
       "excerpt": "The Data Science and Machine Learning Service Market report provides a basic ... company profiles covering the product offerings, key financial information, recent developments, SWOT analysis ...",
@@ -1199,50 +1243,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-25-everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times.md",
-      "title": "Everything to Know About Artificial Intelligence, or AI – The New York Times",
-      "excerpt": "A.I. NewsletterPart 1 of our weeklong series.By Kevin Roose and Cade MetzKevin and Cade have covered A.I. for many years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inferse.com/728128/everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times/",
-      "originalUrl": "https://www.inferse.com/728128/everything-to-know-about-artificial-intelligence-or-ai-the-new-york-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.inferse.com/wp-content/uploads/2023/09/wp-header-logo-10656.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-25T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inferse",
-        "domain": "inferse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

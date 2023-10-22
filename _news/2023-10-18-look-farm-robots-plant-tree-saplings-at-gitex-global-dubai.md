@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tr
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai: How Gitex Staff Proves Robots Still Can't Beat Humans In Customer Service"
-    excerpt: "At an international event where robots, technology, and AI (artificial intelligence) are the highlight – the human touch reigns supreme. It's still the human staff and volunteers who understand the needs of the thousands of visitors and can instantly connect with them, be it by providing directions or answering any question in real time."
-    publishedDateTime: 2023-10-17T18:52:00Z
-    webUrl: "https://menafn.com/1107259790/Dubai-How-Gitex-Staff-Proves-Robots-Still-Cant-Beat-Humans-In-Customer-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
   - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
     excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
     publishedDateTime: 2023-10-18T08:41:00Z

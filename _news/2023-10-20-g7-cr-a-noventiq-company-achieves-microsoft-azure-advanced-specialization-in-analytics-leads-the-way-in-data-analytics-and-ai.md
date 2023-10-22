@@ -127,20 +127,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Henson Group Achieves Microsoft Solutions Partner Designation For Azure Data & AI"
-    excerpt: "Designation allows Henson Group to offer best-in-class support for data-driven decisions and recommendations for clients MIAMI, FLO"
-    publishedDateTime: 2023-10-17T17:48:00Z
-    webUrl: "https://menafn.com/1107258983/Henson-Group-Achieves-Microsoft-Solutions-Partner-Designation-For-Azure-Data-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 64
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?418047"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Microsoft’s Stock Performance: An Analysis of Azure Growth, AI Influence, and Office Commercial Prospects"
     excerpt: "Microsoft (MSFT – Research Report), the Technology sector company, was revisited by a Wall Street analyst today. Analyst Derrick Wood"
     publishedDateTime: 2023-10-20T04:15:00Z
@@ -317,15 +303,6 @@ related:
         width: 446
         height: 250
         isCached: true
-  - title: "Microsoft wants to make AI safer, and it just unveiled a service to help"
-    excerpt: "Microsoft recently shipped Azure AI Content Safety to broad availability. It's an AI-powered platform designed to create a safer online environment for users. Azure AI Content Safety allows businesses to establish more control by allowing them to tailor policies,"
-    publishedDateTime: 2023-10-17T18:11:00Z
-    webUrl: "https://www.windowscentral.com/software-apps/microsoft-wants-to-make-ai-safer-and-it-just-unveiled-a-service-to-help"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 33
   - title: "Why boomers are catching up with AI faster than Gen Zers, according to Microsoft’s modern work lead"
     excerpt: "stop thinking of AI as a search engine–and start thinking of it as your newest direct report. For the most tenured leaders, with years of people management experience under their belts, this shift has elements that are almost second nature. But for early ..."
     publishedDateTime: 2023-10-20T13:14:00Z

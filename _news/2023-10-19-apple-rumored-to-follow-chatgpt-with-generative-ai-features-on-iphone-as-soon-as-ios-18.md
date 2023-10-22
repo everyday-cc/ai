@@ -71,6 +71,20 @@ related:
         width: 1600
         height: 885
         isCached: true
+  - title: "iPhone 15 Series: A Glimpse into the Future of Smartphones"
+    excerpt: "Introduction The iPhone has long been a symbol of innovation and excellence in the world of smartphones, and Apple’s commitment to pushing the boundaries of technology is evident with each new release."
+    publishedDateTime: 2023-10-22T03:22:00Z
+    webUrl: "https://techbullion.com/iphone-15-series-a-glimpse-into-the-future-of-smartphones/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 24
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2023/10/Minister-event-450x270.png"
+        width: 450
+        height: 270
+        isCached: true
 
 secured: "yyNCiiZ9GcsuciZ7OlwvTwAFMLepO648HeKzmYm84OfGX8AiEZUigYuypd+8SUcqYbZ/00k7+kla9rRBXl7sIl6TgsRgl9oyajBsmCyA0oqno1Tvr4DTWKKvYRT0DDBQ6qU0zbkxFURKiF+GEL2WfNnYRzzJnxGDZkbSOk53QWZCW9DacOu6ka9WLuFNJG9KJNUoZ4+NTSaJ0C6GoDIPczU9Nz+leGiZ70VNvEh47zKvbGuSK7PeLSD4T27KIDwHdJkwKCOHrz5gw/Ad1IsyZ8uNmXvYK89BUmXOlQxuSur/8TgDrDCFsnOOEcV0Jh+CDXMwbFKuRU8PgupE4dhw07kDvf7+Jggl7Oe4QWf8KvA=;iUKmobtLg/7aEI9nnmKSbg=="
 ---

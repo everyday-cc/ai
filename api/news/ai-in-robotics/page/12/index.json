@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-07-26-marc-raibert-on-the-future-of-robotics.md",
+      "title": "Marc Raibert on the future of robotics",
+      "excerpt": "In this episode, we replay the keynote fireside chat between Steve Crowe and Marc Raibert from the 2023 Robotics Summit & Expo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
+      "originalUrl": "https://www.therobotreport.com/marc-raibert-on-the-future-of-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/07/marc-raibert-SC-RS23-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-this-bluetooth-controlled-robotic-arm-kit-helps-ease-you-into-the-world-of-robotics-and-is-now-over-90-off.md",
       "title": "This Bluetooth-controlled robotic arm kit helps ease you into the world of robotics and is now over $90 off",
       "excerpt": "Dive into emerging robotic technologies with a variety of hands-on tools. By Stack Commerce | Published Jul 26, 2023 9:00 AM EDT We may earn revenue from the products available on this page and ...",
