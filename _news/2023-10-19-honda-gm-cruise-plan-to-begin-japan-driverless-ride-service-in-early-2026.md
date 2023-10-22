@@ -9,8 +9,8 @@ ampWebUrl: "https://dunyanews.tv/amp/english/763900.php"
 cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Dunya News
@@ -27,82 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "Coming soon: AI-powered driverless police patrol cars in Dubai"
-    excerpt: "Dubai Police has unveiled a self-driving security patrol car that is designed for residential areas. The car is equipped with advanced cameras, artifi"
-    publishedDateTime: 2023-10-17T07:49:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/articleshow/104490987.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/coming-soon-ai-powered-driverless-police-patrol-cars-in-dubai/amp_articleshow/104490987.cms"
+  - title: "Honda all set to launch their own self-driving cab service in Japan by 2026, announces CEO"
+    excerpt: "Honda will be partnering up with GM and Cruise to develop self driving cars called Origin, and launch a driverless cab service in Japan. Honda's CEO Toshihiro Mibe said the company will use Chevrolet"
+    publishedDateTime: 2023-10-19T09:03:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/honda-all-set-to-launch-their-own-self-driving-cab-service-in-japan-by-2026-announces-ceo-13270902.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/honda-all-set-to-launch-their-own-self-driving-cab-service-in-japan-by-2026-announces-ceo-13270902.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/honda-all-set-to-launch-their-own-self-driving-cab-service-in-japan-by-2026-announces-ceo-13270902.html/amp"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: Firstpost
+      domain: firstpost.com
+    quality: 34
     images:
-      - url: "https://static.toiimg.com/thumb/msid-104490987,width-1280,height-720,resizemode-4/104490987.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Honda-all-set-to-launch-their-own-self-driving-cab-service-in-Japan-by-2026-announces-CEO-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "''Can Detect Criminal Behaviour'': Dubai Police Unveils Driverless, AI-Powered Patrol Cars"
-    excerpt: "In a move to revolutionise security and enhance safety in residential areas, Dubai Police recently revealed plans to deploy fully electric, self-driving patrol cars equipped with Artificial intelligence. A prototype of the high-tech patrol car was unveiled ..."
-    publishedDateTime: 2023-10-18T08:34:00Z
-    webUrl: "https://www.ndtv.com/world-news/can-detect-criminal-behaviour-dubai-police-unveils-driverless-ai-powered-patrol-cars-4490339"
-    ampWebUrl: "https://www.ndtv.com/world-news/can-detect-criminal-behaviour-dubai-police-unveils-driverless-ai-powered-patrol-cars-4490339/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/can-detect-criminal-behaviour-dubai-police-unveils-driverless-ai-powered-patrol-cars-4490339/amp/1"
+  - title: "Honda to Start Self-Driving Taxi Service in Japan, CEO Says"
+    excerpt: "Honda Motor Co. will start a self-driving taxi service in Japan in early 2026, Chief Executive Officer Toshihiro Mibe said Thursday."
+    publishedDateTime: 2023-10-19T01:23:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2023-10-19/honda-to-start-self-driving-taxi-service-in-japan-ceo-says"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 64
-    images:
-      - url: "https://c.ndtvimg.com/2023-10/6nbdpl2o_dubai-police-unveils-driverless-aipowered-police-patrol-cars_625x300_17_October_23.jpg"
-        width: 1200
-        height: 738
-        isCached: true
-  - title: "Dubai startup launches AI-driven SaaS solution"
-    excerpt: "Dubai, the UAE — Oasis Defender, a UAE-based startup, is advancing multi-cloud security with its AI-driven SaaS solution for cloud network security, designed for unified visualization and configuration across multiple clouds."
-    publishedDateTime: 2023-10-19T07:19:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/dubai-startup-launches-ai-driven-saas-solution-jfscmvor?amp=1"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 34
+  - title: "Honda to start self-driving taxi service in Tokyo"
+    excerpt: "TOKYO: Honda Motor Co will start a self-driving taxi service in Tokyo in early 2026, in a move that may help alleviate a shortage of cab drivers in one of the world’s most-populous cities. The Japanese automaker has been developing the driverless vehicle ..."
+    publishedDateTime: 2023-10-19T23:02:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2023/10/20/honda-to-start-self-driving-taxi-service-in-tokyo"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NjIwMDc4YzAtOTNhMS00/0/697538579.jpeg?f=3%3A2"
-        width: 724
-        height: 482
+      - url: "https://apicms.thestar.com.my/uploads/images/2023/10/20/2344798.jpg"
+        width: 1240
+        height: 827
         isCached: true
-  - title: "Dubai Police unveil self-driving vehicle to enhance security"
-    excerpt: "The Dubai Police unveiled its self-driving security patrol aimed at enhancing safety in residential areas at the Gitex Global 2023 in Dubai. Lieutenant Rashid Bin Haidar from the Dubai Police’s General Department of Administrative Affairs introduced the eco-friendly, fully electric patrol vehicle to the exhibition visitors."
-    publishedDateTime: 2023-10-17T07:04:00Z
-    webUrl: "https://www.gulftoday.ae/news/2023/10/17/dubai-police-unveil-self-driving-vehicle-to-enhance-security"
+  - title: "GM, Cruise, Honda joint-venture to launch self-driving ride-hail service in Japan in 2026"
+    excerpt: "The service will launch with the Cruise Origin AV shuttle built at GM's Factory Zero Detroit-Hamtramck Assembly Center."
+    publishedDateTime: 2023-10-19T17:01:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/general-motors/2023/10/19/gm-cruise-honda-to-launch-av-ride-hail-service-in-japan-in-2026/71240199007/"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 56
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2023/10/17/self-driving.ashx?h=450&w=750&hash=9DA6A5243767EAD054A3133A38616D3E"
-        width: 750
-        height: 450
-        isCached: true
-  - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
-    excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
-    publishedDateTime: 2023-10-18T08:41:00Z
-    webUrl: "https://gulfbusiness.com/gitex-global-dubai-police-virtual-cop-patrol-cars/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 25
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Dubai-Police-unveils-virtual-cop-luxury-marine-patrol-car-Image-Dubai-Police.png"
-        width: 876
-        height: 554
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 10
 
 secured: "Hua/eJ0dyqLutsmAF/Ocj7SNOUMfkSSUi/W9vgjUn+9pBBf6GM11ahRyWqZo3VfyhlQw0slgR5DPW8K4akFGi9jGaCKdjOTFS6QeAg05r/uGo3K18cOfAPM6++SerhXQKIZIuNRT25n4movw4eCFWO3mTwukCOJzL8r2W/lkDWzTCZ0EsJsRoVQnjZaaTrrpT1+VvD8iI0WA49WZ7PN/qd9CZWbxXKfUEG4JpjKJ3gkI4iOYmrB84seHXjVzPZpK2anuXmZ8YkgXQTy8ZmT4DbbQEuXuvdZ1gkoax6Tkj7L9n0IkjsknYyU+1mDxvxjIDlqQKCs90UjW39JVQ3rm+7KBEJusYWSSTEIroqkiwV6f147AsnBOKpt8OWYI2tq6DsrUCUf3OryQ6nAzfk3cltMqoUvitGb1KSDUnKgh/6xvpCeR4BC11Dra40c7B4N1O5mENW8C+Kc6Vn/z6wP2MgmFbwJNI0qTzAst4JhNVUnK8CsM3nMimINo9W3gAikkYzocx4pkmvJ+Pn8P1prk9A==;btdf0UY13i3bEWhLcUCbhg=="
 ---

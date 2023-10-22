@@ -88,20 +88,6 @@ related:
         width: 859
         height: 573
         isCached: true
-  - title: "Fintech chiefs raise AI regulatory fears in Parliament"
-    excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
-    publishedDateTime: 2023-10-17T08:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43132/fintech-chiefs-raise-ai-regulatory-fears-in-parliament"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/parliament.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Navigating AI hallucinations and biases towards a safer fintech future"
     excerpt: "Fintech players are expected to move quickly to harness the power of generative artificial intelligence (GAI) to improve their service offerings and remain competitive. But is the fintech sector fully aware of the risks that need to be managed at this turning point?"
     publishedDateTime: 2023-10-18T08:22:00Z

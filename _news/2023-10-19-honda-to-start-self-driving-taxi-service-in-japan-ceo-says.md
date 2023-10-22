@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026"
+    excerpt: "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026."
+    publishedDateTime: 2023-10-19T04:48:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2"
+    ampWebUrl: "https://dunyanews.tv/amp/english/763900.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 57
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Honda all set to launch their own self-driving cab service in Japan by 2026, announces CEO"
     excerpt: "Honda will be partnering up with GM and Cruise to develop self driving cars called Origin, and launch a driverless cab service in Japan. Honda's CEO Toshihiro Mibe said the company will use Chevrolet"
     publishedDateTime: 2023-10-19T09:03:00Z

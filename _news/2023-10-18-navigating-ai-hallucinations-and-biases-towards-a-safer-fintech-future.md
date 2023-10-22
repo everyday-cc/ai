@@ -103,20 +103,6 @@ related:
         width: 859
         height: 573
         isCached: true
-  - title: "Fintech chiefs raise AI regulatory fears in Parliament"
-    excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
-    publishedDateTime: 2023-10-17T08:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43132/fintech-chiefs-raise-ai-regulatory-fears-in-parliament"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/parliament.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Hong Kong Fintech Week 2023 “Fintech Redefined.”"
     excerpt: "In addition, the cross-boundary Greater Bay Area Day will be resumed on October 31, presenting ample opportunities and synergies between Hong Kong and Shenzhen. A full day forum will be organised in Shenzhen, followed by a series of concurrent company tours to Mainland tech giants."
     publishedDateTime: 2023-10-21T11:27:00Z

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-19-security-startup-airgap-networks-brings-telco-technologies-to-the-lan.md",
+      "title": "Security startup Airgap Networks brings telco technologies to the LAN",
+      "excerpt": "Airgap Networks has developed a ransomware kill switch that blocks all lateral device-to-device communications and disables network-level communications among workstations and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.html",
+      "originalUrl": "https://www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/micro-segmentation_security_lock_2400x1600-100838720-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3709049/startup-airgap-networks-brings-telco-technologies-to-the-lan.amp.html",
+      "publishedDateTime": "2023-10-19T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-levrai-powers-over-1000-small-businesses-with-its-finance-ecosystem.md",
       "title": "Levr.ai powers over 1,000 small businesses with its finance ecosystem",
       "excerpt": "Levr.ai, a trailblazing financial technology (fintech) company, is proud to continue its mission-driven commitment to revolutionize small",
@@ -113,7 +156,7 @@
       "originalUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -192,6 +235,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-19-honda-gm-cruise-plan-to-begin-japan-driverless-ride-service-in-early-2026.md",
+      "title": "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026",
+      "excerpt": "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
+      "originalUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/763900.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php",
+      "publishedDateTime": "2023-10-18T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-evaluating-social-and-ethical-risks-from-generative-ai.md",
       "title": "Evaluating social and ethical risks from generative AI",
       "excerpt": "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In",
@@ -244,7 +330,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 369,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -1139,102 +1225,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-aitx-provides-update-on-deployed-rad-security-robots.md",
-      "title": "AITX Provides Update on Deployed RAD Security Robots",
-      "excerpt": "This announcement serves as an affirmation of the Company's commitment to enhancing shareholder value by tracking deployment statistics and revenue milestones. It underscores a strategic pivot towards operational efficiency, cost management, and revenue optimization through accelerated device deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-provides-update-on-deployed-rad-security-robots-1032717018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-10-18-meta-recreates-mental-imagery-from-brain-scans-using-ai.md",
-      "title": "Meta recreates mental imagery from brain scans using AI",
-      "excerpt": "Being able to look inside a person's mind is a new level of invasiveness that technology has not yet attained on a large scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/",
-      "originalUrl": "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_holographic_wireframe_surrounding_a_womans_head_93b4b12a-b535-48f1-a011-94a15f28f8f7.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-18T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

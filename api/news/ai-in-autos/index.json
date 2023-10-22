@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-19-honda-gm-cruise-plan-to-begin-japan-driverless-ride-service-in-early-2026.md",
+      "title": "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026",
+      "excerpt": "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
+      "originalUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/763900.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php",
+      "publishedDateTime": "2023-10-18T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-nvidia-and-foxconn-partner-to-build-ai-factories-for-self-driving-cars.md",
       "title": "Nvidia and Foxconn partner to build \"AI factories\" for self-driving cars",
       "excerpt": "The Taiwanese manufacturing giant Foxconn and the GPU superpower Nvidia have collaborated to develop \"AI factories,\" innovative data centers designed to power various applications, including self-driving",
@@ -283,6 +326,40 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-17-tech-layoffs-predictions-2024-market-analysis-and-future-trends.md",
+      "title": "Tech Layoffs Predictions 2024: Market Analysis and Future Trends",
+      "excerpt": "In just one year, tech layoffs have surged past 240,000 globally — a staggering 50% increase from 2022. Here are our predictions for 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techopedia.com/tech-layoffs-predictions",
+      "originalUrl": "https://www.techopedia.com/tech-layoffs-predictions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-17T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techopedia",
+        "domain": "techopedia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -548,6 +625,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-10-13-waymos-santa-monica-launch-spurs-excitement-apprehension.md",
+      "title": "Waymo’s Santa Monica Launch Spurs Excitement, Apprehension",
+      "excerpt": "(TNS) — Waymo's self-driving cars are taking a tour around Los Angeles. Its first stop? Santa Monica's Third Street Promenade. After months of testing, the Silicon Valley-based driverless car ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension",
+      "originalUrl": "https://www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/39a2efd/2147483647/strip/true/crop/1163x606+0+22/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F97%2F3a%2F2b9b99b8a8d8f43ceba10ea2d103%2Fwaymo-lexus.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/waymos-santa-monica-launch-spurs-excitement-apprehension?_amp=true",
+      "publishedDateTime": "2023-10-12T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1257,118 +1377,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-may-mobility-is-trying-to-solve-self-driving-one-shuttle-at-a-time.md",
-      "title": "May Mobility is trying to solve self-driving — one shuttle at a time",
-      "excerpt": "Mobility, an Ann Arbor, Mich.-based autonomous ridesharing transit company, operates self-driving shuttles in locations including Ann Arbor and Grand Rapids, Mich., and even in Hiroshima, Japan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/finance/may-mobility-trying-solve-self-140818157.html",
-      "originalUrl": "https://www.aol.com/finance/may-mobility-trying-solve-self-140818157.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/oBJdFIePt39cfF8R__ah4g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_yahoo_finance_433/a84917408118898bdcef7611adb42b4a",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-07T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear-market-dip.md",
-      "title": "4 Second-to-None Growth Stocks You'll Regret Not Buying in the Wake of the Nasdaq Bear Market Dip",
-      "excerpt": "But in spite of this sizable outperformance through the first nine months and change of 2023, the Nasdaq Composite still sits nearly 18% below its all-time high, set in November 2021. Though this drop might be disappointing for short-term traders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear",
-      "originalUrl": "https://www.nasdaq.com/articles/4-second-to-none-growth-stocks-youll-regret-not-buying-in-the-wake-of-the-nasdaq-bear",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-07T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-this-artificial-intelligence-ai-stock-is-too-cheap-to-ignore-right-now.md",
-      "title": "This Artificial Intelligence (AI) Stock Is Too Cheap to Ignore Right Now",
-      "excerpt": "Artificial intelligence (AI) has turned out to be a key growth driver for semiconductor stocks in 2023 thanks to the critical role that chips are going to play in the proliferation of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-artificial-intelligence-ai-stock-is-too-cheap-to-ignore-right-now",
-      "originalUrl": "https://www.nasdaq.com/articles/this-artificial-intelligence-ai-stock-is-too-cheap-to-ignore-right-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

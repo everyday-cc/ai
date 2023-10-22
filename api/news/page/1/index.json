@@ -459,7 +459,7 @@
       "originalUrl": "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 384,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -1073,6 +1073,48 @@
       ]
     },
     {
+      "path": "_news/2023-10-20-chinese-ai-startup-zhipu-secures-342m-in-funding-from-alibaba-tencent.md",
+      "title": "Chinese AI Startup Zhipu Secures $342M in Funding from Alibaba, Tencent",
+      "excerpt": "Amid the buzzing AI market, Chinese AI startup Zhipu announced that it has secured $342 million (or 2.5 billion yuan) in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/ai-zhipu-342m-funding/",
+      "originalUrl": "https://www.coinspeaker.com/ai-zhipu-342m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-zhipu-342m-funding.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/",
+      "publishedDateTime": "2023-10-20T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-how-to-bridge-the-ai-anxiety-gap-at-work-and-seize-the-job-opportunities.md",
       "title": "How To Bridge The AI Anxiety Gap At Work - And Seize The Job Opportunities",
       "excerpt": "Workers are willing to embrace AI technology and believe it will improve their careers and promotions. AI can increase flexibility and job opportunities.",
@@ -1163,49 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-philippine-military-ordered-to-stop-using-artificial-intelligence-apps-due-to-security-risks.md",
-      "title": "Philippine military ordered to stop using artificial intelligence apps due to security risks",
-      "excerpt": "The Philippine defense chief has ordered all defense personnel and the 163,000-member military to refrain from using digital applications that harness artificial intelligence to generate personal portraits,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_b682e926a5247621befc208b3584f887_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505",
-      "publishedDateTime": "2023-10-20T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

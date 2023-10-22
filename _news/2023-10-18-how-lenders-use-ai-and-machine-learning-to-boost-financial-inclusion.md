@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/first-person/how-lenders-use-ai-and
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/first-person/how-lenders-use-ai-and-machine-learning-to-boost-financial-inclusion/amp-11697610512531.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202310/20/65321534a3109068cafe8533.jpeg"
         width: 718
         height: 478
+        isCached: true
+  - title: "Understanding Artificial Intelligence in schools to help students with learning disabilities"
+    excerpt: "University at Buffalo’s Institute for Artificial Intelligence and Data Science showed up at Grand Island High School to explain how AI would benefit students with learning disabilities."
+    publishedDateTime: 2023-10-20T03:39:00Z
+    webUrl: "https://www.wkbw.com/news/local-news/understanding-artificial-intelligence-in-schools-to-help-students-with-learning-disabilities"
+    type: article
+    provider:
+      name: WKBW
+      domain: wkbw.com
+    quality: 28
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c35cc7e/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F6c%2F86%2Ff0b885114127b10e44cb092ae369%2Fweb-ai.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "B0pZ8uz7Ks7w2lUNm/elYt35xy75BC4X8XMZ+VjMtKiKoMDr9C3PELF+y/BQscNGdCTxcwoww+K6FPV2xw+CS/gbX83Kbl4OTOWm7nGOS/o4I2ysqjaL29KX9oFOZpnk6UOmB+xsEZqLOup23KkjaI+y558wl4wSblF/+Gv9UL7jCJmaTFnqAxvQ5xucIp9jDmh1ShWp2Qw3xJQIHSLgiF/r3GZoFCRuuzeusVHwABu4fvJoioA9Lvnx5CKBDfGC7DEFn29BiKU3cu+N3lTvMT8qyoL8W+wqDw4069SlKS/V15AxcF5MRGnlVzEhk13/VAFzaPKw+IjocZeGLLMXLGNbjc8HQjoPSEDQVw5P3JU=;HiKY/d5jt1LSs8nopscgHA=="

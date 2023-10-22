@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/honda-all-set-to-launch
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/honda-all-set-to-launch-their-own-self-driving-cab-service-in-japan-by-2026-announces-ceo-13270902.html/amp"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026"
+    excerpt: "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026."
+    publishedDateTime: 2023-10-19T04:48:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2"
+    ampWebUrl: "https://dunyanews.tv/amp/english/763900.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 57
+    images:
+      - url: "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Honda to Start Self-Driving Taxi Service in Japan, CEO Says"
     excerpt: "Honda Motor Co. will start a self-driving taxi service in Japan in early 2026, Chief Executive Officer Toshihiro Mibe said Thursday."
     publishedDateTime: 2023-10-19T01:23:00Z

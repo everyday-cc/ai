@@ -356,15 +356,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
-    excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
-    publishedDateTime: 2023-10-17T08:43:00Z
-    webUrl: "https://www.inferse.com/758898/how-ai-is-helping-to-shrink-waiting-times-for-nhs-cancer-patients-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
     excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
     publishedDateTime: 2023-10-19T19:18:00Z

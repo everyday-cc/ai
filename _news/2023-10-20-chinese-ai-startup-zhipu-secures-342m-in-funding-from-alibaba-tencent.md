@@ -9,8 +9,8 @@ ampWebUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 167
+published: true
 
 provider:
   name: coinspeaker
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI upstart Baichuan raises $300 mln from Alibaba, Tencent, others"
-    excerpt: "Chinese artificial intelligence (AI) startup Baichuan said on Tuesday it has raised $300 million from investors including Chinese tech giants Alibaba and Tencent ."
-    publishedDateTime: 2023-10-17T07:56:00Z
-    webUrl: "https://www.reuters.com/technology/chinese-ai-upstart-baichuan-raises-300-mln-alibaba-tencent-others-2023-10-17/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 66
-    images:
-      - url: "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RNMJJS6S7FKQHHTKPGZ6TYZL6Q.jpg"
-        width: 7642
-        height: 5097
-        isCached: true
   - title: "Alibaba, Tencent and other major Chinese backers invest US$342 million in start-up Zhipu AI as this tech sector sees increased funding"
     excerpt: "Zhipu AI was built on the back of research from the Knowledge Engineering Group of Beijing’s prestigious Tsinghua University. The start-up’s chief executive, Zhang Peng, graduated with a PhD from Tsinghua’s computer science department. Beijing is ..."
     publishedDateTime: 2023-10-20T11:54:00Z
@@ -69,22 +55,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
         width: 619
         height: 377
-        isCached: true
-  - title: "AI Start-Up Baichuan Secures USD$300m; Amazon Announces Expansion to South Africa"
-    excerpt: "AI start-up Baichuan has raised USD$300m (~£246m) from investors including Alibaba, Tencent, and Xiaomi. The company was one of the first to receive China’s approval to release a chatbot to the public and, on Tuesday (17th October), launched the newest version of its generative AI model, Ernie 4.0."
-    publishedDateTime: 2023-10-19T06:14:00Z
-    webUrl: "https://www.exchangewire.com/blog/2023/10/19/ai-start-up-baichuan-secures-300m-amazon-announces-expansion-to-south-africa/"
-    ampWebUrl: "https://www.exchangewire.com/blog/2023/10/19/ai-start-up-baichuan-secures-300m-amazon-announces-expansion-to-south-africa/?amp"
-    cdnAmpWebUrl: "https://www-exchangewire-com.cdn.ampproject.org/c/s/www.exchangewire.com/blog/2023/10/19/ai-start-up-baichuan-secures-300m-amazon-announces-expansion-to-south-africa/?amp"
-    type: article
-    provider:
-      name: exchangewire.com
-      domain: exchangewire.com
-    quality: 52
-    images:
-      - url: "https://www.exchangewire.com/wp-content/uploads/2023/05/Money-funding-jar-1024x539.jpg"
-        width: 1024
-        height: 539
         isCached: true
   - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
     excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
@@ -143,20 +113,6 @@ related:
     excerpt: "HONG KONG/BEIJING (Reuters) -Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. China's craze over generative AI has triggered a flurry of product and fundraising announcements from startups and tech giants,"
     publishedDateTime: 2023-10-17T13:44:00Z
     webUrl: "https://www.aol.com/chinese-ai-upstart-baichuan-raises-085601942.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chinese AI upstart Baichuan raises $300 million from Alibaba, Tencent, others"
-    excerpt: "Chinese artificial intelligence (AI) startup Baichuan said on Tuesday it has raised $300 million from investors including Chinese tech giants Alibaba and Tencent. The investors include smartphone maker Xiaomi and other investment firms,"
-    publishedDateTime: 2023-10-17T08:56:00Z
-    webUrl: "https://www.aol.com/news/chinese-ai-upstart-baichuan-raises-085601942.html"
     type: article
     provider:
       name: AOL

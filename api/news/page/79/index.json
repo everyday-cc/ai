@@ -2,6 +2,194 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-08-25-are-self-driving-cars-kosher-san-francisco-rabbis-weigh-in.md",
+      "title": "Are self-driving cars kosher? San Francisco rabbis weigh in",
+      "excerpt": "Ask a rabbi about self-driving cars and you’d better be ready for a long answer. Self-driving cars — also known as robotaxis, autonomous vehicles or driverless cars — with their whirring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/judaism/article-756167",
+      "originalUrl": "https://www.jpost.com/judaism/article-756167",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549728",
+          "width": 690,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-24T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-ai-to-binge-lapd-bodycam-footage-to-weed-out-rude-tone-aggressive-language.md",
+      "title": "AI to binge LAPD bodycam footage to weed out rude tone, aggressive language",
+      "excerpt": "The LAPD’s Inspector General’s office will be carrying out its own study on officer language during interactions with the public, the Times reported. The use of AI at police departments is not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language",
+      "originalUrl": "https://www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d27d1e0-83c0-481c-8900-e90e8481b6e8/4591172e-ef7d-4d29-b9d2-2277b56a6497/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-binge-lapd-bodycam-footage-weed-rude-tone-aggressive-language.amp",
+      "publishedDateTime": "2023-08-24T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-ai-startup-modular-raises-100-million-in-general-catalyst-led-funding.md",
+      "title": "AI startup Modular raises $100 million in General Catalyst-led funding",
+      "excerpt": "AI startup Modular said on Thursday it had raised $100 million in a new funding round, led by venture capital firm General Catalyst, with participation from existing investors Google Ventures, SV Angel,",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103038882,imgsize-22970,width-1200,height=765,overlay-ettelecom/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-startup-modular-raises-100-million-in-general-catalyst-led-funding/103038882",
+      "publishedDateTime": "2023-08-24T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-can-ai-mitigate-the-inequitable-aspects-of-meritocracy.md",
+      "title": "Can AI Mitigate The Inequitable Aspects Of Meritocracy?",
+      "excerpt": "The introduction of AI in the workplace has the potential to address some of the inequitable aspects of meritocracy by mitigating the impact of systemic barriers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/",
+      "originalUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7ed31eba7df1a0ed8ae21/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/amp/",
+      "publishedDateTime": "2023-08-24T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-california-deploys-ai-powered-wildfire-detection-systems.md",
       "title": "California deploys AI-powered wildfire detection systems",
       "excerpt": "The AI system processes \"billions of megapixels\" of images every minute from cameras that cover approximately 90 percent of California's fire-prone areas. The AI program started in June and was initially deployed in six of Cal Fire's command centers but will expand to all of Cal Fire's 21 command centers in September.",
@@ -958,204 +1146,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-08-24T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting.md",
-      "title": "Contextual Is Here: Does That Mean Goodbye To Interest-Based Targeting?",
-      "excerpt": "Contextual and interest-based solutions take entirely different approaches to increasing advertising’s relevance to target audiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63dd0df806501fd6503fe0f3/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/24/contextual-is-here-does-that-mean-goodbye-to-interest-based-targeting/amp/",
-      "publishedDateTime": "2023-08-24T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-creating-ethical-guardrails-for-ai-in-e-commerce.md",
-      "title": "Creating Ethical Guardrails For AI In E-Commerce",
-      "excerpt": "In order for AI to make sense and successfully scale, we must go into it with our eyes wide open to its risks to consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e6082831949b445a23ba77/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/08/24/creating-ethical-guardrails-for-ai-in-e-commerce/amp/",
-      "publishedDateTime": "2023-08-24T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts.md",
-      "title": "How To Overcome Bad AI In Your Programmatic Marketing Efforts",
-      "excerpt": "As marketers navigate an AI-informed marketplace, we may actually be contending with a familiar foe: ad fraud. For the uninitiated, ad fraud in programmatic typically means fraudsters falsify impressions and clicks on programmatic campaigns by deploying bad practices like malware, bots or human fraud farms. As a result, advertisers lose money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/08/24/how-to-overcome-bad-ai-in-your-programmatic-marketing-efforts/amp/",
-      "publishedDateTime": "2023-08-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-24-mdm-vs-mam-top-5-differences.md",
-      "title": "MDM vs. MAM: Top 5 differences",
-      "excerpt": "When using MAM software, the IT admins use containerization features and security policies. So, what sets MDM and MAM apart?\nThe post MDM vs. MAM: Top 5 differences appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mdm-vs-mam-top-5-differences/",
-      "originalUrl": "https://www.ibm.com/blog/mdm-vs-mam-top-5-differences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-24T03:40:08-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

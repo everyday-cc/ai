@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-t
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq?amp=1"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
         width: 859
         height: 573
-        isCached: true
-  - title: "Fintech chiefs raise AI regulatory fears in Parliament"
-    excerpt: "Leaders from the fintech and artificial intelligence (AI) industry gathered in Parliament last night for a special debate on the ethical and regulatory challenges posed by the technology to the UK."
-    publishedDateTime: 2023-10-17T08:27:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43132/fintech-chiefs-raise-ai-regulatory-fears-in-parliament"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/parliament.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Navigating AI hallucinations and biases towards a safer fintech future"
     excerpt: "Fintech players are expected to move quickly to harness the power of generative artificial intelligence (GAI) to improve their service offerings and remain competitive. But is the fintech sector fully aware of the risks that need to be managed at this turning point?"

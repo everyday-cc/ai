@@ -35,21 +35,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Dubai: How Gitex staff proves robots still can't beat humans in customer service"
-    excerpt: "Ask me’ and ‘How can I help?’. They carry poles and give directions. They distribute flyers, lanyards, and help prin.."
-    publishedDateTime: 2023-10-17T08:46:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service"
-    ampWebUrl: "https://www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/dubai-how-gitex-staff-proves-robots-still-cant-beat-humans-in-customer-service?amp=1"
+  - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
+    excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
+    publishedDateTime: 2023-10-18T08:41:00Z
+    webUrl: "https://gulfbusiness.com/gitex-global-dubai-police-virtual-cop-patrol-cars/"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 69
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 25
     images:
-      - url: "https://image.khaleejtimes.com?uuid=7369784b-8957-56ea-9085-f4375311d565&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.97868&x=0&y=0&width=1200&height=675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Dubai-Police-unveils-virtual-cop-luxury-marine-patrol-car-Image-Dubai-Police.png"
+        width: 876
+        height: 554
         isCached: true
 
 secured: "XdZGjcXM9OLoDrq27ySbqntWO57ot5ALtHH35LsDnhOswVYWrYizHzIpnf0ZTttIKPs+oe1Fz/k7jY21xQHqMyLhIjSfPfTod0VxGcNaMjXAtP26befDkBO6AuwBEgJFP0PqJKo/qZ3Tpod3J5y0BzdD6jIAFqmcCE0NkqGBQZMbonXuMknnYEbFp2TYcDUKm7lWeRzl57tW9SY8jZoAfrFi0+N34ZfRwujuWb1TgvSMCAx/vv76bjxdXUbKrD4PtAuIhZMMBpzXtcVyZt1fxvjGPcz6RmSBkYnywGOnQeB/eUuQ4IKfyxEGNXCo8tBcP/D8iiS7BoQM8dCaadFPuDKDSbzN5jHfwMuk9BtsIJM=;pOxxfh7oEQdb6DyrBTlk2A=="

@@ -302,6 +302,20 @@ related:
         width: 1280
         height: 678
         isCached: true
+  - title: "Nvidia research creates Eureka to teach robots complex skills"
+    excerpt: "Nvidia Research has created Eureka, an AI agent that uses a large language model to teach robots complex skills like rapid pen-spinning tricks, or tossing and catching balls at a human level, for the first time."
+    publishedDateTime: 2023-10-21T22:58:00Z
+    webUrl: "https://itwire.com/science-news/automotive/nvidia-research-creates-eureka-to-teach-robots-complex-skills.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/c3fe953590046dd0f1b3f8760e09ca6a_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
     excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
     publishedDateTime: 2023-10-17T19:36:00Z

@@ -292,6 +292,20 @@ related:
         width: 1280
         height: 678
         isCached: true
+  - title: "Nvidia research creates Eureka to teach robots complex skills"
+    excerpt: "Nvidia Research has created Eureka, an AI agent that uses a large language model to teach robots complex skills like rapid pen-spinning tricks, or tossing and catching balls at a human level, for the first time."
+    publishedDateTime: 2023-10-21T22:58:00Z
+    webUrl: "https://itwire.com/science-news/automotive/nvidia-research-creates-eureka-to-teach-robots-complex-skills.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/c3fe953590046dd0f1b3f8760e09ca6a_M.jpg"
+        width: 375
+        height: 211
+        isCached: true
   - title: "How to Capitalize on Generative AI"
     excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
     publishedDateTime: 2023-10-18T17:16:00Z

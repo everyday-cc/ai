@@ -350,15 +350,6 @@ related:
       name: Windows Central
       domain: windowscentral.com
     quality: 33
-  - title: "How AI is helping to shrink waiting times for NHS cancer patients – Microsoft"
-    excerpt: "The National Health Service at Addenbrooke’s Hospital in Cambridge is now able to plan radiotherapy treatments faster than in the past, thanks to AI advances that are cutting wait times. As the NHS approaches its 75 th birthday,"
-    publishedDateTime: 2023-10-17T08:43:00Z
-    webUrl: "https://www.inferse.com/758898/how-ai-is-helping-to-shrink-waiting-times-for-nhs-cancer-patients-microsoft/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 31
   - title: "Introducing RoyBot: Roy Hill's innovative AI tool boosting employee … – Microsoft"
     excerpt: "By Microsoft News Center 14 August, 2023 In late 2022, Roy Hill Executive Chairman Gina Rinehart encouraged her leaders at the West Australian iron ore mining"
     publishedDateTime: 2023-10-17T11:58:00Z

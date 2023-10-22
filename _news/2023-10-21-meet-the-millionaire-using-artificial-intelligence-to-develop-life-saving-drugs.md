@@ -8,7 +8,7 @@ webUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
 ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
-quality: 98
+quality: 100
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
@@ -61,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "tbG8AWrhg3a3AgUDGGgMjQwpAf6RLZDgRHxfRwOP8S4OjHbgiqmz0QRRedQKIMo2KdqcFtxsStkqvLRLDrgsZTOn/fXruB2Lo4Bjl46EXudeS/eHzJvaIlhu1YOeeKsNqvzeqmv71r3iCa771VOyyEa382rh7WV305nUEkCEF8JFVYdCxEyDAJVeNbISZunLx6UD3HAIKft+mKH+/d7Bh9e7Le5ZouOU5VU1Bh8EnREPVFBI+FA+baaZ9Hq3NgluFuR5WERYvjboKioDTJnvaueI13P5eyYF0MkaQHbsfyhqU5a/dEv3Kn1YG9VPnkLDvvOW8duvRavrhQRleojLS8grt6jLyoVZlotDSLFomUE=;qinF3RzaRpkyhhF8SF/0Fg=="
+secured: "RM65WaWS9ZlX5xmgNin4lhmo1JoE8xt61CqWzWxZYqApTkyEbLdiqAovi3ABmR1sUnO1SAyMCTlptOSg4n8VWT835FShYLI9NmC2Ed58oQQSO/Z2k7wC6YfMQQ3GkT4y8ELNneuS1ftEosWu+liRkj+wviOrCbnvbepnh9Rl3MA2ntQ0a9S/QYlTcXKa0EVIXetkror0o7BCSuH8A0z9Xqw7foEI4AaspE5u34rmEOhl/zHmZmtJA4fkey6NrSSdrKouaaBFyZXFpdZZefoH5AuK7UaCLlFz3k2jSbLPpzxSyY7aWnGMD+CI7BbklN4rdCVnwPXXkJCDTQoIpbbi22r2F1LKJqLlKEAt1/qHB8IgdEUpvEh1O1BV2baYPuuwkb+2888HHWvA/kigA1Y+Iq6yL5lsyIiENw3MuauItcIjtnFmXVfm9IGOnleNoYQMXPR0lRrTQyA9igtSZKoVUdbgmiOVV70pULPcJfJ+yREH4v+saUcxuOGBC6Htg3Tn3JTUvvTKkfy/ARkELH8FzQ==;xh/FoUbX2z3ibTk2zq/TMw=="
 ---
 
