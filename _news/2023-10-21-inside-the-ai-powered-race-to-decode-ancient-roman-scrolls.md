@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6326563/vesuvius-challenge-herculaneum-papyri-ai/
 webUrl: "https://time.com/6326563/vesuvius-challenge-herculaneum-papyri-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

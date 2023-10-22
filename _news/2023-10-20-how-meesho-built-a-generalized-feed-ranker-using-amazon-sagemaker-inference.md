@@ -57,15 +57,6 @@ related:
         width: 1146
         height: 630
         isCached: true
-  - title: "Learn how Amazon Pharmacy created their LLM-based chat-bot using Amazon SageMaker"
-    excerpt: "Amazon Pharmacy is a full-service pharmacy on Amazon.com that offers transparent pricing, clinical and customer support, and free delivery right to your door. Customer care agents play a crucial role in quickly and accurately retrieving information related to pharmacy information, including prescription"
-    publishedDateTime: 2023-10-17T19:43:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-pharmacy-created-their-llm-based-chat-bot-using-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 64
 
 secured: "djdkX/CZBR+T8SpFo9ddgtYwBZPFu/EjNC6jdaUjE0ztVInmnXp0gUMQR8gp+50JbqkE7vdk8slgmhHe1E5/K9WZlnkMYUgPmMr2VLxVvDXN9dKAyz4rVghQbIJGy77p2HAiuRK0PdswIEb+SWuihfSLbPRJRVUOR8VuJgIf2CScFNuWL0zClkIfJNyvRYIl0XprfvDVv1EBKsj9nPSrYv9u1tydfp0MUq2/MAn1oMB1arG1sr6ZqhFDy449FnQzakhul5CDbyOOq6b1fdifMjVI1zWP7+6B8zWXGOcZgXYzJOxi2zHpm8hnp7nduislUdeW63EyVhLxBP91i2fjYQigmNIf1k/3dLNZ0YdeUOQ=;hlVmbakyzzvQbksl+THb6Q=="
 ---

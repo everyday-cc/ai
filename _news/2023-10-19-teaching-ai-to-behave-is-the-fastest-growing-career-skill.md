@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence Is Changing Business"
-    excerpt: "Artificial intelligence (AI) has become a transformative force in the business world, revolutionizing the way companies operate and interact with their customers"
-    publishedDateTime: 2023-10-19T15:09:00Z
-    webUrl: "https://thesiliconreview.com/2023/10/how-artificial-intelligence-is-changing-business"
-    type: article
-    provider:
-      name: thesiliconreview
-      domain: thesiliconreview.com
-    quality: 39
-    images:
-      - url: "https://thesiliconreview.com/story_image_upload/article/thesiliconreview-how-artificial-intelligence-is-changing-business.jpg"
-        width: 840
-        height: 449
-        isCached: true
 
 secured: "8Kc76fhImMZLEyiziZ84cddi0X1myoGl/sapYCGHlV7PSS07tjNu3G1zY3p6wPiy1ti9gxdanqpcvsuU8YRFUlf5SqvPx5wKlKoab4MJRhOkQblul3d+aV2hAcl710qvhIz9kCYyZZA9nUhVBVI13tnmRuxlgWIUmEShGU7VvBHZVj5ULMdpKkNxBrfAXJARvki9vlkHa2PwziSfyqCw4QQt+VeKG81/78Fle7P83JWdvpGBiW0tj2ATwhOCQrHl3VqmvDLhka9larBtNi+BbCqsBuuWSlDCfnarbh1bnFsfpeJ6anhOMOFyKDNcE6i+v9+2/XJisS5LzyCen50HeYV7hxnwdWf5yG6DFxptYIA=;KaL5XneTrrlAq5128cmA+Q=="
 ---

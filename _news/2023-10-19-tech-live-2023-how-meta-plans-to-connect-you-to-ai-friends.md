@@ -45,20 +45,6 @@ related:
         width: 760
         height: 437
         isCached: true
-  - title: "WSJ Tech Live 2023: Tech Leaders Warn Of Risks, Weaknesses Of AI"
-    excerpt: "AI’s impact on tech and entertainment to be a key focus for industry leaders."
-    publishedDateTime: 2023-10-17T21:25:00Z
-    webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa?mod=hp_lista_pos4"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-868527/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Frankfurt Book Fair 2023: Artificial Intelligence and the Law"
     excerpt: "The law is usually reactive at best to questions of new technology. That’s still true with AI, but an extensive amount of work is underway to chart an applicable regulatory landscape, explains lawyer Duncan Calow."
     publishedDateTime: 2023-10-19T17:42:00Z

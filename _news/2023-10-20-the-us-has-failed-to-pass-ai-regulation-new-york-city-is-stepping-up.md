@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-yo
 webUrl: "https://www.wired.com/story/us-failed-to-pass-ai-regulation-new-york-city-stepping-up/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Wired
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York City’s AI Plan: What Other Municipalities Can Learn"
-    excerpt: "Mayor Eric Adams has a plan for New York City to roll out usage of AI. Despite some reason for skepticism, it offers important concepts for other cities to consider."
-    publishedDateTime: 2023-10-17T21:05:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/"
-    ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652ef59f07cf2db7aaa70b3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 898
-        isCached: true
   - title: "Artificial intelligence impacts on workplaces in New York"
     excerpt: "At a public hearing New York State lawmakers listen to testimony about the benefits and concerns of artificial intelligence or ai in the workplace including impacts on hiring, surveying work"
     publishedDateTime: 2023-10-19T21:39:00Z

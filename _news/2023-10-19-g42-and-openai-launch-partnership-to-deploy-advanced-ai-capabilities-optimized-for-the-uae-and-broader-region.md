@@ -82,15 +82,6 @@ related:
       name: Gulf Business
       domain: gulfbusiness.com
     quality: 19
-  - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
-    excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"
-    publishedDateTime: 2023-10-17T19:16:00Z
-    webUrl: "https://www.theinformation.com/articles/openai-dropped-work-on-new-arrakis-ai-model-in-rare-setback"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
 
 secured: "AVVYPn0VEObO3UnC8XSX/H7bZwsvUZh6WcKMPgWXuUd4ESboAuNMufmmslOpLfvm/ukY08qWkLMRDwKdJl7O5mVb3JPRAvWiQEFd7ofDTlSiEJGBJ4uM2wkERTaP+Z7OhC2sxxzI1UldWnKUcnoV472Dsuve56bPxb021ZmzNls76HnKFO23z5Iqyll0CjQX+wiExcGWR/Biat/Q/L4kwNoNJ5YbWxLYpSSfgKsYqOZ2paVGN8VZ64RKXObtrhoHEP6Ju4NDfBQerNA+7ccYtHXRDzmF5XOv469mzoPz4j66gzWPp/UZS6CP1Mjs4nMIh/+qcGXKJpyiDY+ZvMNM6LojYp5tSj5HbwfnUJDYLP4=;pd1r5HIXxVAFmXmFX8GyaQ=="
 ---

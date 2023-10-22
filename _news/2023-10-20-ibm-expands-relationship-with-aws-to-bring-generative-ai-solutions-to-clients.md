@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "IBM to train 10,000 consultants for Amazon Web Services generative AI in new partnership"
+    excerpt: "IBM is expanding its business partnership with Amazon Web Services with an emphasis on helping clients utilize generative artificial intelligence. That means new training for a lot of people. Here are the details."
+    publishedDateTime: 2023-10-18T14:48:00Z
+    webUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/"
+    ampWebUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 67
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/08/quantum-brain-control-artificial-intel-e1628696856200.jpg"
+        width: 945
+        height: 532
+        isCached: true
   - title: "IBM Expands Relationship with AWS"
     excerpt: "IBM has expanded its relationship with Amazon Web Services (AWS) to help mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this relationship,, IBM Consulting plans to deepen its generative AI expertise on AWS by training 10,000 consultants by the end of 2024."
     publishedDateTime: 2023-10-19T13:05:00Z

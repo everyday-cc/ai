@@ -54,15 +54,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "How Tight Should State AI Insurance Rules Be?"
-    excerpt: "Scott Kosnoff, an insurance law specialist at Faegre Drinker, said in an email interview that the NAIC’s AI regulatory effort covers much of the same ground as Colorado’s new regulation banning uses of “external consumer data and information sources” that lead to race-based discrimination."
-    publishedDateTime: 2023-10-17T19:51:00Z
-    webUrl: "https://www.thinkadvisor.com/2023/10/17/how-tight-should-state-ai-insurance-rules-be/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 19
 
 secured: "5ApNgachEGIhaR6mt6uNlhrejP3s7eE7GB7wZ25RWpDqfsHq0sqDP30d0UGh+rzcBP0fUAneLZ0F5aDF+cE3I17f+sYSv7uMDMSn+ZQ9nRHq1AWEpSjodTwX//UDAcaz/ES/aW+QgpwnLW/kSXBC+JcoQraxAlIQ53tRGoV/UMZSNzlU/IufNJupVwaIq5ht9AGnmYJC9h9Sw7PEyDcov26SaBNRveX/vEVhQOTRx33drWOnUiBNsKEEBgRQv43P5AFzkUhJZsj64QprQ3o7Dnr+ftsHGFDMvj2zqdTP5adRyE8hOPI7/aLGupf4IUBYmj7n3NIN+VNQWQF985vrSKNUhuO/ZxoNw+aQAYRhXTcsGhdDa52lG8iP9beD+rf7S7FeRhIZ5u8CDI0RXa3SAZ1yJ36azTgoBqnCmq9ZLUHD9vGKfHd0avAna/chovMhxVX57D8QwCQLEyVcSEAF9W0EgP8wx0FmJ4TmanXjg1zQigLrHvAXax4R3bR0WG9Xxa0IyBXwkhFGlzbnWgNofw==;DkrkumdCfxf35kOAUf+CoA=="
 ---

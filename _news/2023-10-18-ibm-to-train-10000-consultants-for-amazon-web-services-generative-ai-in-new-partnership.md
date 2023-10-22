@@ -28,58 +28,74 @@ images:
     isCached: true
 
 related:
-  - title: "A New Survey Of Generative AI Shows Lots Of Work To Do"
-    excerpt: "Chief Data Officers believe that generative AI is transformational for their companies in a new survey, but they're not doing enough to prepare for it."
-    publishedDateTime: 2023-10-17T22:13:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/"
-    ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2023/10/17/a-new-survey-of-generative-ai-shows-lots-of-work-to-do/amp/"
+  - title: "IBM expands AWS partnership to bring generative AI to call centers, supply chains"
+    excerpt: "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities."
+    publishedDateTime: 2023-10-18T17:25:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f04d6eb7b0db96957430d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 900
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "Data stacks haven’t caught up with generative AI enthusiasm"
-    excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
-    publishedDateTime: 2023-10-19T20:55:00Z
-    webUrl: "https://www.ciodive.com/news/generative-AI-chief-data-officers/697218/"
+  - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
+    excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
+    publishedDateTime: 2023-10-20T07:35:00Z
+    webUrl: "https://africabusinesscommunities.com/tech/tech-news/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-to-clients/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 51
+    images:
+      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+        width: 336
+        height: 280
+        isCached: true
+  - title: "IBM Expands Relationship with AWS"
+    excerpt: "IBM has expanded its relationship with Amazon Web Services (AWS) to help mutual clients operationalize and derive value from generative artificial intelligence (AI). As part of this relationship,, IBM Consulting plans to deepen its generative AI expertise on AWS by training 10,000 consultants by the end of 2024."
+    publishedDateTime: 2023-10-19T13:05:00Z
+    webUrl: "https://channelvisionmag.com/ibm-expands-relationship-with-aws/"
+    type: article
+    provider:
+      name: ChannelVision Magazine
+      domain: channelvisionmag.com
     quality: 39
     images:
-      - url: "https://www.ciodive.com/imgproxy/1mRDuz8WYL3tvJvUlBzTYq5UZK2hKydSlMXpnRDNulY/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MDEyOTIyOTcuanBn.jpg"
-        width: 770
-        height: 435
+      - url: "https://channelvisionmag.com/wp-content/uploads/2023/09/cv_display_ad_jungle.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Ivey to Co-Lead Artificial Intelligence Panel"
-    excerpt: "Join U.S. Reps. Glenn Ivey and Pete Sessions for a panel discussion on Congress' role in regulating AI. RSVP by Oct. 20."
-    publishedDateTime: 2023-10-19T06:11:00Z
-    webUrl: "https://www.washingtoninformer.com/congress-artificial-intelligence-panel/"
+  - title: "IBM Consulting to help companies get started with generative AI on AWS cloud"
+    excerpt: "French telecommunications services provider Bouygues Telecom SA said it has been one of the earliest beneficiaries of IBM’s expanded partnership with AWS. It engaged with IBM Consulting to design and implement an evolving cloud strategy that leverages the most advanced AI technologies."
+    publishedDateTime: 2023-10-18T11:59:00Z
+    webUrl: "https://siliconangle.com/2023/10/18/ibm-consulting-help-companies-get-started-generative-ai-aws-cloud/"
     type: article
     provider:
-      name: The Washington Informer
-      domain: washingtoninformer.com
-    quality: 37
-    images:
-      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/11/image-48.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
+    publishedDateTime: 2023-10-18T18:48:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients/"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
+    excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
+    publishedDateTime: 2023-10-21T18:42:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354349&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "G7XjGRDLBb2wO9r1GG2PwJn50JQONYrROfOT3Vd9HuPWGUC4yiICk7N22Ju2R/CKk9QBUFvWr7BIg96iZEjx9f2dq6bzFQLhqLYRoHKcp3VNLv2+RjeqF0p6g54amdQGnhNMA5oH8P04GrcMsOrTxnIzZrZDxxz9x0MjXjiqTW1GfwYrqA6B/AjF3ATGJhFSAIZqURrrzhmr7lp48yfLJVOq2MxLIJkinlo46Ab567oCE8wrb2FS35NOtag02BsLcbtT9fe7zoBnwGEEJJYDOT4uOClcH0yIPWbiHJ2D3hrtrf8rvbAoWos+M2kBWJQqknlv5OQewHRq9xSGgLQuaEbUqpqkCdVGLBFDvV2vRoM7k4k255TQGRkvDjq4y52/QT39GQv2McYSOhsWKcMKKXz10M8z0WrNa5VqQce5Zot1oDeczPYtkGUtAcWOfIlWdTE7b3zjIIWRif2NauG2GJOe5BC/tszGa518uKCGi/vyZ2ipovqrQQ4R6qTf0IScOUNa33mgABQGAcOgcrURnQ==;b5p+H8dkt42Y4y4Am354Qg=="

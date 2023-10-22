@@ -26,6 +26,17 @@ images:
     height: 462
     isCached: true
 
+related:
+  - title: "Language Weaver scales development of generative AI technologies"
+    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
+    publishedDateTime: 2023-10-19T09:04:00Z
+    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 19
+
 secured: "Z0cFgTU0fggqqU2K403CG5LBtF1cgRUcOd2n1nwvixJHsuk5GsNEmnozLyqfBgEtULaMHvfD6pcU/B62fVAKebcOeVLCEC6T0WZVPGrmabvvxwKWP/vdmmtITtNkJHNwO/tXIds47ZZ2BoLHplnjE87N0gcRiiU3xA9eF4bKTBb15k+714NYMn57E8pFP1TcctvFBD+jGlkY3MhmYBLULTOrsZP6ax5qR2z47z65esuOCApCmXNwYjevUGZSCujUmsoEi9GN8Ed0AxrmxC3cudUM1GnM+x0NiQ43DnxOUC0YsOpovIh72WWg6IvvIUo0vc2oCxm5xhbMWgPz1v9coPZFXLJkIctceRcpQ5ooRJY=;e9VSNkvFzAMmZJN2zT3m4Q=="
 ---
 

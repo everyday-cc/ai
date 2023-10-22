@@ -41,6 +41,22 @@ related:
         width: 1598
         height: 900
         isCached: true
+  - title: "Apple Insiders Expose iPhone 16 Pro’s Chaotic AI Plans"
+    excerpt: "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing."
+    publishedDateTime: 2023-10-22T13:43:00Z
+    webUrl: "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds"
+        width: 1598
+        height: 900
+        isCached: true
   - title: "MacRumors: Apple may follow ChatGPT with generative AI features on iPhone as soon as iOS 18"
     excerpt: "Apple plans to start implementing generative AI technology on the iPhone and iPad in late 2024 at the earliest, according to Jeff Pu, an analyst who covers Apple’s supply chain for Hong Kong-based investment firm Haitong International Securities."
     publishedDateTime: 2023-10-20T10:30:00Z
@@ -85,6 +101,15 @@ related:
         width: 450
         height: 270
         isCached: true
+  - title: "I wish the iPhone had the Pixel 8’s generative AI wallpapers"
+    excerpt: "The Google Pixel 8 offers generative AI wallpapers, letting you create unique wallpapers with a prompt and I really wish iPhone had it, too."
+    publishedDateTime: 2023-10-22T13:02:00Z
+    webUrl: "https://bgr.com/tech/i-wish-the-iphone-had-the-pixel-8s-generative-ai-wallpapers/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
 
 secured: "yyNCiiZ9GcsuciZ7OlwvTwAFMLepO648HeKzmYm84OfGX8AiEZUigYuypd+8SUcqYbZ/00k7+kla9rRBXl7sIl6TgsRgl9oyajBsmCyA0oqno1Tvr4DTWKKvYRT0DDBQ6qU0zbkxFURKiF+GEL2WfNnYRzzJnxGDZkbSOk53QWZCW9DacOu6ka9WLuFNJG9KJNUoZ4+NTSaJ0C6GoDIPczU9Nz+leGiZ70VNvEh47zKvbGuSK7PeLSD4T27KIDwHdJkwKCOHrz5gw/Ad1IsyZ8uNmXvYK89BUmXOlQxuSur/8TgDrDCFsnOOEcV0Jh+CDXMwbFKuRU8PgupE4dhw07kDvf7+Jggl7Oe4QWf8KvA=;iUKmobtLg/7aEI9nnmKSbg=="
 ---

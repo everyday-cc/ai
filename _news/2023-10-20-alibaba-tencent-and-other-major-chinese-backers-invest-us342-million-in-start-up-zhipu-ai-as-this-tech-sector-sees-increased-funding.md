@@ -99,20 +99,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "Chinese AI startup Baichuan raises $300 million from Alibaba, Tencent, others"
-    excerpt: "Chinese artificial intelligence (AI) startup Baichuan has raised $300 million from investors including Chinese tech giants Alibaba and Tencent, it said on Tuesday. The company said on its WeChat account that the round followed an early $50 million angel round."
-    publishedDateTime: 2023-10-17T20:56:00Z
-    webUrl: "https://www.channelnewsasia.com/business/chinese-ai-startup-baichuan-raises-300-million-alibaba-tencent-others-3852046"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 34
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
     excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
     publishedDateTime: 2023-10-19T16:13:00Z

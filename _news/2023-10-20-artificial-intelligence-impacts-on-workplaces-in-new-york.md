@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York City’s AI Plan: What Other Municipalities Can Learn"
-    excerpt: "Mayor Eric Adams has a plan for New York City to roll out usage of AI. Despite some reason for skepticism, it offers important concepts for other cities to consider."
-    publishedDateTime: 2023-10-17T21:05:00Z
-    webUrl: "https://www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/"
-    ampWebUrl: "https://www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2023/10/17/new-york-citys-ai-plan-what-other-municipalities-can-learn/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652ef59f07cf2db7aaa70b3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 898
-        isCached: true
   - title: "The US Has Failed to Pass AI Regulation. New York City Is Stepping Up"
     excerpt: "Amit Katwala Millions of Workers Are Training AI Models for Pennies From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook ... Bengio’s pioneering research helped bring about ChatGPT ..."
     publishedDateTime: 2023-10-19T18:23:00Z

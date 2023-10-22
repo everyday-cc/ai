@@ -2,6 +2,213 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2023-09-02-the-problem-with-intuits-ai-strategy.md",
+      "title": "The Problem With Intuit's AI Strategy",
+      "excerpt": "Intuit's AI strategy is fine for Intuit. But QuickBooks customers need to know how AI will solve their problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f1c75d5647e288b55d6d56/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2023/09/01/the-problem-with-intuits-ai-strategy/amp/",
+      "publishedDateTime": "2023-09-01T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-fmopsllmops-operationalize-generative-ai-and-differences-with-mlops.md",
+      "title": "FMOps/LLMOps: Operationalize generative AI and differences with MLOps",
+      "excerpt": "Nowadays, the majority of our customers is excited about large language models (LLMs) and thinking how generative AI could transform their business. However, bringing such solutions and models to the business-as-usual operations is not an easy task. In this post, we discuss how to operationalize generative",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fmops-llmops-operationalize-generative-ai-and-differences-with-mlops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/09/01/featured-images-ML-14962-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T08:33:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023.md",
+      "title": "Kyle Vogt to discuss self-driving cars, AI, investing and more at TC Disrupt 2023",
+      "excerpt": "Cruise, the self-driving subsidiary of General Motors, has raised over $15 billion, employs more than 3,000 people and expanded its footprint across multiple cities within the U.S. It even has a presence in Dubai. What does it take to build and scale such ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/",
+      "originalUrl": "https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/vogt-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/01/kyle-vogt-to-discuss-self-driving-cars-ai-investing-and-more-at-tc-disrupt-2023/amp/",
+      "publishedDateTime": "2023-09-01T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-01-microsoft-wants-us-to-wear-ai-powered-backpacks.md",
+      "title": "Microsoft Wants Us to Wear AI-Powered Backpacks",
+      "excerpt": "Microsoft's latest idea for a wearable takes the form of an AI-powered backpack full of sensors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks",
+      "originalUrl": "https://www.pcmag.com/news/microsoft-wants-us-to-wear-ai-powered-backpacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04m1q6ExleLlFkZ9ZkSKumS-1.fit_lim.size_1200x630.v1693581639.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-01T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-01-pharma-ceo-dont-halt-ai-research-our-work-is-too-important.md",
       "title": "Pharma CEO: Don't halt AI research, our work is too important",
       "excerpt": "Recursion Pharmaceuticals uses machine learning to develop drugs with Bayer and Genentech. CEO Chris Gibson thinks proceeding with that work outweighs any risks a moratorium might prevent.",
@@ -993,194 +1200,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-googles-ai-powered-search-summary-now-points-you-to-its-online-sources.md",
-      "title": "Google's AI-powered search summary now points you to its online sources",
-      "excerpt": "The experimental AI-based search tool will lead you directly to the website sources it used to generate the summary.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "originalUrl": "https://www.zdnet.com/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ee4cdf1aeacfba197204895b43393fc35c119d9e/2023/08/31/b154fec8-34c8-4326-9de9-ad59b7c47478/gettyimages-1609716922.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-ai-powered-search-summary-now-points-you-to-its-online-sources/",
-      "publishedDateTime": "2023-09-01T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-how-can-we-use-ai-to-address-global-challenges-like-climate-change.md",
-      "title": "How Can We Use AI To Address Global Challenges Like Climate Change?",
-      "excerpt": "Climate change is an existential threat, but AI might be our secret weapon against its most destructive impacts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64f18ad1b6615f63691e813e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/09/01/how-can-we-use-ai-to-address-global-challenges-like-climate-change/amp/",
-      "publishedDateTime": "2023-08-31T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-best-ai-etfs-in-september-2023.md",
-      "title": "Best AI ETFs in September 2023",
-      "excerpt": "This ETF debuted in September 2016, tracking the Indxx Global Robotics & Artificial Intelligence Thematic Index. It holds companies that are poised to benefit from increased adoption of not only ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/",
-      "originalUrl": "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.usatoday.com/money/blueprint/images/uploads/2023/08/09032927/GettyImages-1495043596.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-31T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-01-nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity.md",
-      "title": "NC State researchers show that ‘introspective’ AI chooses, thrives on diversity",
-      "excerpt": "Researchers from North Carolina State University created a test system with AI and gave it the capability to modify the composition of its own neural network. When choosing between identical artificial neurons and more diverse neurons,",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/",
-      "originalUrl": "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/09/steve-johnson-_0iV9LmPDn0-unsplash-scaled-e1693549118325.jpg",
-          "width": 2470,
-          "height": 1390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/09/01/nc-state-researchers-show-that-introspective-ai-chooses-thrives-on-diversity/?amp=1",
-      "publishedDateTime": "2023-08-31T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

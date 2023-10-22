@@ -2,6 +2,204 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2023-09-13-tech-ceos-descend-on-capitol-hill-for-closed-door-artificial-intelligence-meeting.md",
+      "title": "Tech CEOs Descend On Capitol Hill For Closed-Door Artificial Intelligence Meeting",
+      "excerpt": "The closed-door forum on Capitol Hill included almost two dozen tech executives, tech advocates, civil rights groups and labor leaders. The guest list featured some of the industry’s biggest names: Meta’s Mark Zuckerberg and X and Tesla’s Elon Musk as well as former Microsoft CEO Bill Gates. All 100 senators were invited; the public was not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e",
+      "originalUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/6501db272400005e00477695.jpeg?cache=zgKAa7n3oH&ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/tech-ceos-descend-on-senate-for-closed-door-ai-meeting_n_6501dad6e4b04bad69ec286e/amp",
+      "publishedDateTime": "2023-09-13T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-cypher-learning-modern-learning-platform-immediately-available-in-aws-marketplace.md",
+      "title": "CYPHER Learning Modern Learning Platform Immediately Available in AWS Marketplace",
+      "excerpt": "Organizations can directly procure CYPHER Learning Modern Platform, including AI-powered CYPHER Copilot, in AWS Marketplace",
+      "sourceUrl": null,
+      "webUrl": "https://www.galvnews.com/news_ap/business/cypher-learning-modern-learning-platform-immediately-available-in-aws-marketplace/article_3a3010cd-d5e6-56b6-b796-755b4e637243.html",
+      "originalUrl": "https://www.galvnews.com/news_ap/business/cypher-learning-modern-learning-platform-immediately-available-in-aws-marketplace/article_3a3010cd-d5e6-56b6-b796-755b4e637243.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News",
+        "domain": "galvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-data-commons-is-using-ai-to-make-the-worlds-public-data-more-accessible-and-helpful.md",
+      "title": "Data Commons is using AI to make the world’s public data more accessible and helpful",
+      "excerpt": "A look at Data Commons, Google’s initiative to make publicly available data more useful for people working on solutions to societal challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
+      "originalUrl": "https://blog.google/technology/ai/google-data-commons-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DataCommons_Hero_Image_02_TC_03_49.width-1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-data-commons-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-data-commons-ai/amp/",
+      "publishedDateTime": "2023-09-13T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-13-adobes-firefly-ai-art-tools-go-live-but-with-a-credit-plan.md",
+      "title": "Adobe’s Firefly AI art tools go live, but with a credit plan",
+      "excerpt": "Adobe has brought its Firefly generative AI tool out of beta, but with a complicate credit plan that will charge you free \"credits\" that will top up every month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go-live-but-with-a-credit-plan.html",
+      "originalUrl": "https://www.pcworld.com/article/2067182/adobe-fireflys-ai-tools-go-live-but-with-a-credit-plan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/09/Adobe-Firefly-home-page.png?w=1024",
+          "width": 1024,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-the-twisted-eye-in-the-sky-over-buenos-aires-wired.md",
       "title": "The Twisted Eye in the Sky Over Buenos Aires | WIRED",
       "excerpt": "The Twisted Eye in the Sky Over Buenos Aires | WIRED",
@@ -993,169 +1191,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-automatic-speech-recognition-market-with-latest-industry-trend-2031.md",
-      "title": "Automatic Speech Recognition Market with Latest Industry Trend | 2031",
-      "excerpt": "Automatic Speech Recognition Market Research Report with 107 pages (Analysis and Scope): In this report analysis, we thoroughly examine the Automatic Speech Recognition Market by exploring it into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34523610/automatic-speech-recognition-market-with-latest-industry-trend-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34523610/automatic-speech-recognition-market-with-latest-industry-trend-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34523610",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34523610",
-      "publishedDateTime": "2023-09-13T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-build-intelligent-ai-bots-that-speak-your-language-maqsams-ai-conversational-chatbot-unveiled.md",
-      "title": "Build Intelligent AI Bots That Speak Your Language: Maqsam's AI Conversational Chatbot Unveiled",
-      "excerpt": "One of the standout features of Maqsam's AI conversational chatbot is its hyper-local advantage, especially in Arabia. For businesses operating in this diverse and dynamic market, where dialects and cultural nuances vary significantly, Maqsam's AI chatbot provides a localized solution that ensures meaningful interactions with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/09/13/9879923.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/09/13/9879923.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2208602/Maqsam.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-artificial-intelligence-in-automotive-market-to-reach-us-74439-billion-by-2033-with-a-55-cagr.md",
-      "title": "Artificial Intelligence in Automotive Market to Reach US$ 744.39 Billion by 2033 with a 55% CAGR",
-      "excerpt": "The Artificial Intelligence (AI) in automotive market is anticipated to record a robust CAGR of 55% between 2023 and 2033. The market is anticipated to cross a market share of US$ 9.3 billion in 2023,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/09/13/artificial-intelligence-in-automotive-market-to-reach-us-744-39-billion-by-2033-with-a-55-cagr/",
-      "originalUrl": "https://www.fmiblog.com/2023/09/13/artificial-intelligence-in-automotive-market-to-reach-us-744-39-billion-by-2033-with-a-55-cagr/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-wizai-unveils-southeast-asias-first-foundation-large-language-model-llm-for-bahasa-indonesian-amplifying-regional-representation-in-mainstream.md",
-      "title": "WIZ.AI Unveils Southeast Asia's First Foundation Large Language Model (LLM) for Bahasa Indonesian, Amplifying Regional Representation in Mainstream AI",
-      "excerpt": "ON September 13th, WIZ.AI, a Singapore-based Generative-AI leader in omnichannel customer engagement, proudly unveils its 13 billion-parameter Large Language Model (LLM) tailored specifically for Bahasa Indonesia.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/09/13/9879913.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/09/13/9879913.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2208319/Pic2_Response_Comparison.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T00:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

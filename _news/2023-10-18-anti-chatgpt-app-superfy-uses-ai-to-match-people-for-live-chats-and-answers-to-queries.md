@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Startup Wants to Make Sure Chatbots Don’t Tell People How to Vote"
-    excerpt: "The co-founder of Inflection AI is talking with other large startups about defining the role artificial intelligence will play in elections."
-    publishedDateTime: 2023-10-17T20:46:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-17/ai-startup-wants-to-make-sure-chatbots-don-t-tell-people-how-to-vote"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Meta Product Chief Sees AI Chatbots as Tool to Lure Advertisers"
     excerpt: "Meta Platforms Inc. Chief Product Officer Chris Cox said that AI chatbots will become an increasingly attractive tool for advertisers, rather than just a way to lure users, in a sign the company is pivoting the technology toward business customers."
     publishedDateTime: 2023-10-18T05:23:00Z

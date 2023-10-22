@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-07-27-3-emerging-practices-for-responsible-generative-ai.md",
+      "title": "3 emerging practices for responsible generative AI",
+      "excerpt": "For our midyear update, we’d like to share three of our best practices based on this guidance and what we’ve done in our pre-launch design, reviews and development of ge…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/",
+      "originalUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Evergreen_hero_social.width-1300.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-responsible-generative-ai-best-practices/amp/",
+      "publishedDateTime": "2023-07-27T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-a-new-partnership-to-promote-responsible-ai.md",
       "title": "A new partnership to promote responsible AI",
       "excerpt": "Today, Google, Microsoft, OpenAI and Anthropic published a joint announcement establishing the Frontier Model Forum.",

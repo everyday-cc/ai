@@ -2,6 +2,187 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-09-11-tesla-stock-rallies-as-morgan-stanley-boosts-rating-citing-ai-prowess-via-dojo.md",
+      "title": "Tesla stock rallies as Morgan Stanley boosts rating, citing AI prowess via ‘Dojo’",
+      "excerpt": "Morgan Stanley upgraded Tesla to buy from hold in a note to clients, saying the company's Dojo supercomputer holds \"proprietary technology.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
+      "originalUrl": "https://www.marketwatch.com/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd?ref=biztoc.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-849720/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-shares-climb-5-8-after-morgan-stanley-upgrades-to-buy-citing-ai-prowess-via-dojo-10b3e7dd",
+      "publishedDateTime": "2023-09-11T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-meta-is-developing-a-new-more-powerful-ai-system.md",
+      "title": "Meta is developing a new, more powerful AI system",
+      "excerpt": "Meta: The Facebook parent is aiming for its new AI model to be ready next year, the Journal said, adding it will be several times more powerful than its commercial version dubbed Llama 2.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-103569344,imgsize-7254,width-1200,height=765,overlay-etbrandequity/digital/meta-is-developing-a-new-more-powerful-ai-system.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/meta-is-developing-a-new-more-powerful-ai-system/103569344",
+      "publishedDateTime": "2023-09-11T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-now-robots-cook-fried-chicken-to-improve-south-koreas-favourite-food.md",
+      "title": "Now, Robots Cook Fried Chicken To Improve South Korea's Favourite Food",
+      "excerpt": "Korean fried chicken is brined and double-fried, which gives it its signature crispy exterior, but the process -- more elaborate than what is typically used by US fast food chains -- creates additional labour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "originalUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-09/tveo15fo_south-korean-chicken_625x300_11_September_23.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/now-robots-to-cook-fried-chicken-to-improve-south-koreas-favourite-food-4378915/amp/1",
+      "publishedDateTime": "2023-09-11T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-upskilling-with-ai-why-managers-cant-ignore-ethics.md",
+      "title": "Upskilling with AI: Why managers can’t ignore ethics",
+      "excerpt": "Ugh. Another AI article. If you’re anything like me, you might be getting a little AI [1] fatigued - and I’m one of those people you’ll see regularly",
+      "sourceUrl": null,
+      "webUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
+      "originalUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hrzone.com/sites/default/files/istock-1448569430.jpg",
+          "width": 1448,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
+      "cdnAmpWebUrl": "https://www-hrzone-com.cdn.ampproject.org/c/s/www.hrzone.com/lead/future/upskilling-with-ai-why-managers-cant-ignore-ethics?amp",
+      "publishedDateTime": "2023-09-11T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HRZone",
+        "domain": "hrzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-the-time-is-now-why-enterprises-should-invest-in-systems-of-intelligence.md",
       "title": "The Time Is Now: Why Enterprises Should Invest In Systems Of Intelligence",
       "excerpt": "Though artificial intelligence has been making inroads into the enterprise, the rise of generative AI is accelerating the pace of adoption. It’s time for enterprise CXOs to consider building systems of intelligence that complement systems of record and ...",
@@ -943,178 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-computer-vision-development-market-size-report-2023-2030-106-pages-report.md",
-      "title": "Computer Vision Development Market Size Report 2023-2030 | 106 Pages Report",
-      "excerpt": "The Global Computer Vision Development market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady rate and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34404011/computer-vision-development-market-size-report-2023-2030-106-pages-report",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34404011/computer-vision-development-market-size-report-2023-2030-106-pages-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34404011",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34404011",
-      "publishedDateTime": "2023-09-10T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-unesco-trains-indonesian-teachers-on-ai-ethics.md",
-      "title": "UNESCO trains Indonesian Teachers on AI Ethics",
-      "excerpt": "UNESCO held an Ethics Teachers Training Course (ETTC) focused on AI ethics in Yogyakarta, in collaboration with the University Gadjah Mada.The interactive event brought together 30 participants from v",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "originalUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-trains-indonesian-teachers-on-ai-ethics/",
-      "publishedDateTime": "2023-09-09T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-machine-learning-can-level-the-playing-field-against-match-fixing-helping-regulators-spot-cheating.md",
-      "title": "Machine learning can level the playing field against match fixing – helping regulators spot cheating",
-      "excerpt": "Read more about Machine learning can level the playing field against match fixing – helping regulators spot cheating on Devdiscourse",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating",
-      "originalUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/15_10_2019_12_39_45_6163034.jpg?width=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/sports-games/2587869-machine-learning-can-level-the-playing-field-against-match-fixing---helping-regulators-spot-cheating?amp",
-      "publishedDateTime": "2023-09-09T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-10-gizmodo-replaces-staff-of-its-spanish-language-site-with-ai.md",
-      "title": "Gizmodo Replaces Staff Of Its Spanish-Language Site With AI",
-      "excerpt": "Subscribe to your choice of industry specific newsletters, save $100 on conferences, search member directories, comment on stories and more. Free to qualified media, marketing and advertising professionals. If you're already a paid subscriber, please sign-in. Keep up-to-date with media, marketing and advertising news",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/388960/gizmodo-replaces-staff-of-its-spanish-language-sit.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/388960/gizmodo-replaces-staff-of-its-spanish-language-sit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2023/09/11/gizmodoenespanol_DJtzDeM.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-09T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -41,20 +41,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "GITEX GLOBAL 2023: Huawei Launches Deep Learning Data Lake Storage"
-    excerpt: "As Huawei’s OceanStor A310 provides optimal storage capability for basic model training, industry model training, and inference in segmented scenario models, Huawei’s OceanStor A310 offers a unique solution to global industry challenges and extends the horizons of artificial intelligence."
-    publishedDateTime: 2023-10-17T19:31:00Z
-    webUrl: "https://www.chiangraitimes.com/tech/gitex-global-2023-huawei-launches-deep/"
-    type: article
-    provider:
-      name: Chiangrai Times
-      domain: chiangraitimes.com
-    quality: 39
-    images:
-      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "V6QdQy7KFmq9eryWY14/v1n0PLnp3pqtvSBGgDbH95ZXFABolPTzXQQGqayY3ffmJYRj/V9klWkzncfSR3RWHR5e0YLRcN/dgp7uJxgqK7NnIH+sUptcRKImP1xgbSv4Uy9YkhzpSLOUQ1UbhUR9cKP93Wad9fXzi0K03FidwxLCSx0nHmne1qwCe+mklowUHt4XDJfzqtXKZNsT3GZVrhmTLsaTkNv2cWLnRGTcYg0uGNbh29o4iQ2yvZ/JKuz0wZ5MoOBjH/LgaH8vyEdHpMVn9JF3o1hix2fBXiMF/oSPvLKhOz7aVnCtfb8mV0jr45sz1AFECXfYznpYb6YyOvhDiKpa/y5rSagCd/EgTTE=;kC5otbw6xRfBEQjd3LMOQQ=="
 ---

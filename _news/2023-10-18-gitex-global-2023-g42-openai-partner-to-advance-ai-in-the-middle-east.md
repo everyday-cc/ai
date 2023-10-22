@@ -81,15 +81,6 @@ related:
         width: 1092
         height: 678
         isCached: true
-  - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
-    excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"
-    publishedDateTime: 2023-10-17T19:16:00Z
-    webUrl: "https://www.theinformation.com/articles/openai-dropped-work-on-new-arrakis-ai-model-in-rare-setback"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 19
 
 secured: "P7H034b2LigPMOL1WN4pkyfNvjLDEbjf45yM9qLsTMW66DOans+R+2BViXIVY8Hv9reI4v+gj7ngPxWC22/rrKK8E34lCCLVmMaWAdXrFNEvBfIa7boBdUl8aFKgAzaDtZJDxUUz+Lt2inQLxWbpuQFg5qhGbj5DS0OiV6PpL3RQxvzaGVhOqut/qzcrxdBsI0AHIul6Rpnh5jN/zr048uU/9ZlAQpQV/QCdhdnNEVvaQ7qQmnAFNsugeGM3I7sw6KW3aMFMxsJa8yUImunRn+cZ9xnBSdhabiWmlQOVXq0O/of1AAgpQlX/61lxtn0slR6rE/BZEJklcT4CLGxO7f36BEnZGTJWLES2zZW6CL4=;w3b0VokPXLQMgj1TCWlmdQ=="
 ---

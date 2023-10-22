@@ -57,57 +57,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Agency probes pedestrian risks at GM's self-driving unit Cruise"
-    excerpt: "Auto safety regulators on Tuesday opened a probe into whether General Motors' self-driving unit Cruise is taking sufficient precautions with its autonomous robotaxis to safeguard pedestrians."
-    publishedDateTime: 2023-10-17T19:34:00Z
-    webUrl: "https://www.ksl.com/article/50755024/agency-probes-pedestrian-risks-at-gms-self-driving-unit-cruise"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 24
-    images:
-      - url: "https://img.ksl.com/slc/2952/295246/29524682.JPG?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
-  - title: "Federal regulators launch probe into Cruise self-driving cars"
-    excerpt: "Federal regulators on Tuesday opened an investigation into Cruise's autonomous vehicles following a string of injury crashes in The City."
-    publishedDateTime: 2023-10-17T22:45:00Z
-    webUrl: "https://www.sfexaminer.com/news/transit/cruise-car-accidents-in-sf-prompt-federal-investigation/article_f5672636-6d34-11ee-9d8f-1fa3c94a9f98.html"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/e/50/e50ca186-6d42-11ee-a10e-13f9c2d43abd/652f15494d4d5.image.jpg?crop=1500%2C788%2C0%2C81&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving cars investigated after two accidents"
-    excerpt: "(Web Desk) - About 600 self-driving cars made by a unit of General Motors are being investigated by regulators after reports of injuries to pedestrians. Self-driving cars made by Cruise may have been \"encroaching on pedestrians\", according to the National Highway Traffic Safety Administration (NHTSA)."
-    publishedDateTime: 2023-10-17T21:49:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/763556-Self-driving-cars-investigated-after-two-accidents"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 24
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/October/10-18-23/news_big_images/763556_40722728.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "Regulators Launch New Investigation Into Cruise Self-Driving Cars After Pedestrians Hit By Robotaxis"
-    excerpt: "Cruise, the self-driving arm of General Motors, is being investigated by the National Highway Traffic Safety Administration after the company shared two incident reports of pedestrians being injured by its robotaxis. SAN FRANCISCO, CA, UNITED STATES - JULY ..."
-    publishedDateTime: 2023-10-17T19:31:00Z
-    webUrl: "https://www.forbes.com/sites/britneynguyen/2023/10/17/regulators-launch-new-investigation-into-cruise-self-driving-cars-after-pedestrians-hit-by-robotaxis/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 19
   - title: "After pedestrian crashes, the feds want to take a closer look at Cruise's self-driving cars"
     excerpt: "The autonomous vehicles have been operating in Austin since the spring. The GM-backed company says it's cooperating with investigators."
     publishedDateTime: 2023-10-19T17:05:00Z

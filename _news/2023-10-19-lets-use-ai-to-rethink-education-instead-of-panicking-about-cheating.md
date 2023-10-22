@@ -89,15 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Keeping an eye on your cattle using AI technology"
-    excerpt: "At Amazon Web Services (AWS), not only are we passionate about providing customers with a variety of comprehensive technical solutions, but we’re also keen on deeply understanding our customers’ business processes. We adopt a third-party perspective and objective judgment to help customers sort out their"
-    publishedDateTime: 2023-10-17T19:40:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/keeping-an-eye-on-your-cattle-using-ai-technology/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "This AI and automation developer bundle is just $50"
     excerpt: "If that sounds fascinating to you, this bundle can start you off on the right ... Another more advanced course in the bundle is called Robotics & Artificial Intelligence + Tools + Templates. It's taught by Chris Mall. Here, you'll learn about the ..."
     publishedDateTime: 2023-10-19T09:00:00Z
@@ -221,6 +212,15 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
+    quality: 47
+  - title: "AI Takes on Expiration Dates"
+    excerpt: "Food can go rancid when it’s exposed to the air for a while—a process called oxidation. In fact, many common ingredients, but especially lipids, which are fats and oils, react with oxygen. The presence of heat or UV light can accelerate the process."
+    publishedDateTime: 2023-10-22T12:00:00Z
+    webUrl: "https://www.theatlantic.com/technology/archive/2023/10/ai-food-preservation-chemistry-rancidity-detection/675723/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
     quality: 47
   - title: "Eye On AI: Regulation For Artificial Intelligence Is Coming, Perhaps One Industry At A Time"
     excerpt: "Perhaps the only thing rising faster than the valuations of certain generative AI companies is the talk of regulation around the technology. We look at what SEC Chair Gary Gensler has to say about it."

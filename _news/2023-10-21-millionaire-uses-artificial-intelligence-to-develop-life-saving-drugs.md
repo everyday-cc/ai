@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
 quality: 104
-heat: 125
+heat: 126
 published: true
 
 provider:

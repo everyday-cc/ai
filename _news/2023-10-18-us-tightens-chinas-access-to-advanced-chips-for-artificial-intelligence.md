@@ -81,20 +81,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Biden administration restricts more AI chip exports to China"
-    excerpt: "The Biden administration announced new restrictions on the sale of artificial intelligence (AI) chips to China on Tuesday in an effort to crack down on attempts to circumvent earlier export controls."
-    publishedDateTime: 2023-10-17T21:39:00Z
-    webUrl: "https://www.aol.com/biden-administration-restricts-more-ai-183936601.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/6ffd607eb7dcd05d953ac474a8f27d0f"
-        width: 900
-        height: 505
-        isCached: true
   - title: "US further restricts AI chip exports to China"
     excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
     publishedDateTime: 2023-10-18T15:06:00Z
@@ -119,20 +105,6 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
-        isCached: true
-  - title: "US cracks down on China’s access to advanced chips for AI fearing use in military applications"
-    excerpt: "The US government has cracked down on China's access to advanced chips for use in Artificial Intelligence (AI) with its new additional limits over an October order to restrict the communist country's progress on supercomputing and AI which is the global frontline research in all countries."
-    publishedDateTime: 2023-10-17T22:48:00Z
-    webUrl: "https://indiatribune.com/us-cracks-down-on-chinas-access-to-advanced-chips-for-ai-fearing-use-in-military-applications/"
-    type: article
-    provider:
-      name: India Tribune
-      domain: indiatribune.com
-    quality: 42
-    images:
-      - url: "https://dwnjscqilqpcr.cloudfront.net/uploads/2023/10/Biden-on-AI.jpg"
-        width: 992
-        height: 675
         isCached: true
 
 secured: "yWH9FkVlPvif9Fk4TIdjsnwy/VVqA+Pj1speVD+/ghmroQdz20gZKe6wj0S6+SIJHdMz3IdqM4IFJfeezZ90J+e1qzXfnAzvyh9skaSVVvDC2l7EJf8g0ZgaPnSbAnq7ho4LQx6yTRcpNdie7IYYbP2YDtquSNeetVE6kXMl4uTfN6potZmH1oef6jupEV+27jffebuuOQ9+15UCB/jX/KoWlr6WlpWEKEjboRfAzpD8ToPh7Y4RekzcYO2ENDQKm0kumHGfL2oxhgSJhyUgIkpCLAICfitgUaO6ZL1F5CUIKva0LAQAlzdn0DVNO/TKpHT9tojTEL1UiCQ7AWw70ViIJBIunbvtUQzE7KypWnk=;avnA8yEU+rCCHgWrlNiWHA=="

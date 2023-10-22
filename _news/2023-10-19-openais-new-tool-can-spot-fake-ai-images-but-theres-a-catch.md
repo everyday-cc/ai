@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-i
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
     provider:
       name: Gulf Business
       domain: gulfbusiness.com
-    quality: 19
-  - title: "OpenAI Dropped Work on New ‘Arrakis’ AI Model in Rare Setback"
-    excerpt: "Late last year, around the time ChatGPT became a global sensation, the engineers at OpenAI began working on a new artificial intelligence model, codenamed Arrakis. Although OpenAI was preparing to boost ChatGPT with a different model,"
-    publishedDateTime: 2023-10-17T19:16:00Z
-    webUrl: "https://www.theinformation.com/articles/openai-dropped-work-on-new-arrakis-ai-model-in-rare-setback"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
     quality: 19
 
 secured: "FuVDFeIrczforzaCyu0uubi5XjiSchRFvBripuzWPMNUbrz8F2OPfD0MzEKOp0AgurHPD6bO1kLSt+MqPyF8UeoJpvb9oCP3kQdnoIu7nbASv/Gav+ammAAeX/K2yK9JB0GdoJ4q6kKBLSUkSM00lrDlUR10q+64zQaye51wBcSsbxEmllgjRcHoEP+jDF9HcOcBDrOfBqzpyUVVHfXcHg8XU8H9SenKNbVmGkq/+1Efs69ZVb7g/aOdOcDNIw19CdZ9FNLztrxmw4dvfH4UJLbuHmqlQvlgJ89+5InIkeNnUq8Zu5usZRTulZM4RFHLG3XqyYwdVW3xA3sKIEfjs7fuJlv9zJoCrttAmkKJ4kg=;rYJvePARC6K5edClRkl7LA=="

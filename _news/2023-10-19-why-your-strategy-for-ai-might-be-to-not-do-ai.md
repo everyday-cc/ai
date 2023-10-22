@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-yo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/why-your-strategy-for-ai-might-be-to-not-do-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1201
     height: 900
     isCached: true
-
-related:
-  - title: "How to Prepare Your Child for an AI-Driven Future"
-    excerpt: "The youth of today aren't merely going to interface with AI; they will be enveloped in a world that is infused with it."
-    publishedDateTime: 2023-10-17T19:37:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2023/10/17/how-to-prepare-your-child-for-an-ai-driven-future/71218833007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 17
 
 secured: "XGTpPMA8T1Np/Z+nwHWtBxCi3qKObrJnUYl7IPkNMrxZJQd7JbF8Bn69vV9zOUWgCXMd8ZWIuWN3giPEp9V4PYYUUXG+HWpGbTemsMZv9FTfaylyJmz0cEBJ2JY1Uo6nW4TvwRD37lrD448cGHIRoZPioVxadRMuPMwWGw4+YskvsjkzH0bNS6NX7gfES1aj/wFmzpKqhmaCgMua2Vscfp7OxvXr9hsrDo2C4CWBYczIpo+4wGbmvNKcw4ySo6f9CEFsTEGl29+e1g+iSjzRgOkyXRk5P1I1iLtXsH57zPiGsfCVG3zlc8nxMq0tEUDgCAGemNCYiBCjHySg0JBsd66TbYeUa23XQsnjEpuwIfNBdnTEGI+sWmrzBZSeb2Ra/tQl9CGfhcHgaWmNZxdh8+gWhDV5JULdUwLt0LZCWHJ9HwhApIBme0C4FlMj40yq6OaPsdzKAl+A7GJ4UFYWtHETh8LKQJB7rAoG20g7Rf4fLkkAZSbOzViCpaRgF/WdP9NvJRy7XV7Vd3j+x0rUPQ==;XiFs5uenFSC+G7CDwJz1fg=="
 ---

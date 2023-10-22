@@ -19,43 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Google denies Bard was trained with ChatGPT data – The Verge"
-    excerpt: "By Sean Hollister, a senior editor and founding member of The Verge who covers gadgets, games, and toys. He spent 15 years editing the likes of CNET, Gizmodo,"
-    publishedDateTime: 2023-10-19T15:59:00Z
-    webUrl: "https://www.inferse.com/762926/google-denies-bard-was-trained-with-chatgpt-data-the-verge/"
+  - title: "Anti-ChatGPT app Superfly uses AI to match people for live chats and answers to queries"
+    excerpt: "The new LLM-based Matchpont AI also considers topic-related understanding and users’ shared interests, as well as “personal chemistry” when matching. The startup claims that only 10% of posts are niche questions that don’t get answered fast enough ..."
+    publishedDateTime: 2023-10-18T15:31:00Z
+    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
+    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12838.png"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
         width: 1200
-        height: 628
+        height: 758
         isCached: true
-  - title: "ChatGPT 5 is on track to attain artificial general intelligence – The Statesman"
-    excerpt: "These Twitter discussions about ChatGPT-5 have garnered even more attention than those about ChatGPT-4. Many users are expressing high expectations for the"
-    publishedDateTime: 2023-10-21T21:24:00Z
-    webUrl: "https://www.inferse.com/766323/chatgpt-5-is-on-track-to-attain-artificial-general-intelligence-the-statesman/"
+  - title: "How two friends used ChatGPT to launch an AI startup worth $150,000"
+    excerpt: "In just four days, using only ChatGPT and a modest US$185 (about BDT 20k) investment, Sal Aiello and Monica Powers transformed a side hustle into a highly profitable AI startup. Fast forward to last month,"
+    publishedDateTime: 2023-10-21T09:45:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 33
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
     images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-14469.png"
-        width: 1200
-        height: 800
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/10/21/dimeadozen_founders.png?itok=yZv34IGL"
+        width: 750
+        height: 393
         isCached: true
-  - title: "ChatGPT, DALL-E 2 and the collapse of the creative process – The Conversation"
-    excerpt: "Professor of Philosophy and Director, Applied Ethics Center, UMass Boston Postdoctoral Fellow in Philosophy, UMass Boston The authors do not work for,"
-    publishedDateTime: 2023-10-20T19:08:00Z
-    webUrl: "https://www.inferse.com/764746/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-the-conversation/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 1
 
 secured: "GKgHbaHWYFNhF5EUf6OFyBW1dmiKIkFHXSbSothpnBrj4GFVcKtw6TDVLaAHBSpDyceDbMdCRishsAkheOaaMRYlD707MoJn/0mHHEoQSXfLMgB3cbTsWtg+WIJgM/lYN+SJ+03baThu5D6l7mhiigThJcnoEaHSVmwUp7OYNPDxccYAcBpDQFXazzEEa9G/KORmKTijkJKcRmNpM4L4WGGJ/HcPiWWcvwS7vmK3BDth3Kqj+aYVnAYutgzQEjn23i6lQhblMNDnBwDP+hon69UQqm8mcnYQP2ObC1Kcvq/Qd7EQX4KSyX6B8N7MlUAK1WiK47rtQKjnwdUKAY1ugq9AFT1RJIWJUoMqAp+mBN45ZycGAiJp904j55RRUZubMu0QXnND8w5bJhLQna3pr2S5uW/9xvXwtwT1CP00TQv18mRC3aCbSOYnWyfR/NYBXz4etSnnR32Ycwo3B/Dqb0zUTRKoJCG0NNCyNC1skoabZb6IhHHFzkeEE8PT2wK4HTDKMeMecWIAppxsrJ9AJQ==;Ss3+eneSMRt3tTYUOd1rmg=="
 ---

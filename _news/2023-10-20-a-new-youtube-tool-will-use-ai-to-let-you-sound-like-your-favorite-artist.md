@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i.insider.com/65313f9f96908fd7cdb272c9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Best AI Tools to Launch and Run a YouTube Channel"
+    excerpt: "Looking to start a YouTube channel? Check out our list of the best AI tools to help you get started and grow your channel! From video editing to audience research, these tools will help you launch and run a successful YouTube channel."
+    publishedDateTime: 2023-10-22T14:31:00Z
+    webUrl: "https://techpp.com/2023/10/22/best-ai-tools-to-launch-and-run-a-youtube-channel/"
+    type: article
+    provider:
+      name: Techno-Science.net
+      domain: techpp.com
+    quality: 37
+    images:
+      - url: "https://techpp.com/wp-content/uploads/2023/10/Best-AI-Tools-to-Launch-and-Run-a-YouTube-Channel.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "YouTube Is Developing an AI Tool to Help Creators Sound Like Famous Musicians"
     excerpt: "Y YouTube is planning to roll out a new artificial intelligence tool that will allow creators to make videos using the voices of popular recording artists — but inking deals with record companies to launch the beta version is taking longer than expected, sources tell Billboard."

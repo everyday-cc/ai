@@ -42,6 +42,22 @@ related:
         width: 1598
         height: 900
         isCached: true
+  - title: "Apple Insiders Expose iPhone 16 Pro’s Chaotic AI Plans"
+    excerpt: "The details come from noted supply chain analyst Jeff Pu, who reports that Apple is looking to build a significant number of AI servers in 2023 before scaling up to “significantly more” during 2024. These will offer two broad forms of AI support: cloud-based AI and “edge AI” which supports on-device AI data processing."
+    publishedDateTime: 2023-10-22T13:43:00Z
+    webUrl: "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/22/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6533d758c1840d79ef74453f/0x0.jpg?format=jpg&crop=2147,1209,x239,y41,safe&height=900&width=1600&fit=bounds"
+        width: 1598
+        height: 900
+        isCached: true
   - title: "Apple’s ChatGPT AI rival rumored to hit iPhone next year in iOS 18"
     excerpt: "After tidbits of the iPhone 16 series, analyst Jeff Pu says iOS 18 could finally add generative AI features for the iPhone in late 2024."
     publishedDateTime: 2023-10-19T14:47:00Z
@@ -84,6 +100,15 @@ related:
         width: 450
         height: 270
         isCached: true
+  - title: "I wish the iPhone had the Pixel 8’s generative AI wallpapers"
+    excerpt: "The Google Pixel 8 offers generative AI wallpapers, letting you create unique wallpapers with a prompt and I really wish iPhone had it, too."
+    publishedDateTime: 2023-10-22T13:02:00Z
+    webUrl: "https://bgr.com/tech/i-wish-the-iphone-had-the-pixel-8s-generative-ai-wallpapers/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 17
 
 secured: "hCOKGx/khXU+e846uMvDftwHSK+yc56oXgjQb/G0hXW2aX+WL3StStIjeIwRMM+Mk/E5X1KVsWzDiLx1Pzn7uOWd+Mfs+sxjoniG+nhYDYZ+rG+ngjp/277De14+s+Smjt184cWNNCNj4YiK9N8KmKJpQ7mA071PIETuF6N/5pQWmJs/hoeuEoCZos3GFt3qFcRYU5VRi1zTzC8E6mdl6PPGo7RWNVSxWqyH5nyyhNJrpsMsVhB1rEslAQsFYir59bPZY7Tia/aQN0P/FTh2BsmBZ0ZEFeQ3bCeN7qRf8QSl3YDRt48DI+xUpKXPosMSUwlFHqdIrWTYYz1v8pzLcK66YgIDgAOtN2cQ/mIqimo=;edzPvAWZ7l7It00hsTXKUA=="
 ---

@@ -2,6 +2,188 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2023-09-27-data-ai-how-financial-institutions-are-powering-true-hyper-personalization-at-scale.md",
+      "title": "Data & AI: How financial institutions are powering true hyper-personalization at scale",
+      "excerpt": "AI and analytics are powering innovative use cases for financial services with the potential for real ROI – if they’re executed right.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/data-ai-how-financial-institutions-are-powering-true-hyper-personalization-at-scale/",
+      "originalUrl": "https://venturebeat.com/ai/data-ai-how-financial-institutions-are-powering-true-hyper-personalization-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/09/AdobeStock_591928495.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-the-future-of-artificial-intelligence-in-the-travel-industry.md",
+      "title": "The Future of Artificial Intelligence in the Travel Industry",
+      "excerpt": "Artificial intelligence (AI) is disrupting the travel industry by promoting speed, efficiency, safety and accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
+      "originalUrl": "https://www.bbntimes.com/technology/the-future-of-artificial-intelligence-in-the-travel-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/The_Future_of_Artificial_Intelligence_in_the_Travel_Industry.jpg",
+          "width": 1280,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-ai-chip-startup-kneron-secures-49m-investment.md",
+      "title": "AI chip startup Kneron secures $49M investment",
+      "excerpt": "Startup Kneron Inc., which develops artificial intelligence ... San Diego-based Kneron develops chips that can be used to equip smart cars, robots and other connected devices with AI features. Its chips are specifically optimized for inference, or the ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
+      "originalUrl": "https://siliconangle.com/2023/09/26/ai-chip-startup-kneron-secures-49m-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/Kneron.png",
+          "width": 718,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-09-27-spotify-using-ai-to-translate-podcasters-original-voices-to-additional-languages.md",
+      "title": "Spotify Using AI to Translate Podcasters' Original Voices to Additional Languages",
+      "excerpt": "Spotify this week announced an AI translation feature for podcasters that could give it an edge over Apple's podcasting platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
+      "originalUrl": "https://www.macrumors.com/2023/09/26/spotify-ai-voice-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/7-nfr3K2_BPQYeb0zBLJE8hdAb0=/2500x/article-new/2021/08/General-Spotify-Feature.jpg",
+          "width": 2500,
+          "height": 1407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-26T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-27-lightbits-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Lightbits Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Lightbits today announced the availability of the Lightbits Cloud Data Platform in the Microsoft Azure Marketplace, an",
@@ -857,169 +1039,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-passur-completes-migration-to-aws.md",
-      "title": "PASSUR Completes Migration to AWS",
-      "excerpt": "Leveraging the power of AWS supports operational and global market expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-passur-completes-migration-aws-/2023/09/26/9887484.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-passur-completes-migration-aws-/2023/09/26/9887484.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-infosys-partners-with-microsoft-to-accelerate-industry-wide-adoption-of-generative-ai.md",
-      "title": "Infosys partners with Microsoft to accelerate industry-wide adoption of generative AI",
-      "excerpt": "Through the partnership, Infosys Topaz is using Azure OpenAI Service and Azure Cognitive Services to augment its capabilities, to help enterprise customers transition from digital to AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/infosys-partners-with-microsoft-for-industry-wide-adoption-of-generative-ai/articleshow/103965112.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/infosys-partners-with-microsoft-for-industry-wide-adoption-of-generative-ai/articleshow/103965112.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-66594,msid-103965062/infosys.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/infosys-partners-with-microsoft-for-industry-wide-adoption-of-generative-ai/amp_articleshow/103965112.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/infosys-partners-with-microsoft-for-industry-wide-adoption-of-generative-ai/amp_articleshow/103965112.cms",
-      "publishedDateTime": "2023-09-26T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-a-reinforcement-learning-based-method-to-plan-the-coverage-path-and-recharging-of-unmanned-aerial-vehicles.md",
-      "title": "A reinforcement learning-based method to plan the coverage path and recharging of unmanned aerial vehicles",
-      "excerpt": "Unmanned aerial vehicles (UAVs), commonly known as drones, have already proved invaluable for tackling a wide range of real-world problems. For instance, they can assist humans with deliveries, environmental monitoring,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.html",
-      "originalUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/a-reinforcement-learni.jpg",
-          "width": 1280,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-09-learning-based-method-coverage-path-recharging.amp",
-      "publishedDateTime": "2023-09-26T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-26-fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners.md",
-      "title": "FIs of All Sizes Can Harness the Transformative Power of AI with the Help of FinTech Partners",
-      "excerpt": "For too long, smaller banks and credit unions have been challenged by unequal access to AI technology. From conference agendas to marketing materials, community financial institutions with less than $500 million of assets have been segregated and treated  differently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
-      "originalUrl": "https://www.finextra.com/blogposting/24938/fis-of-all-sizes-can-harness-the-transformative-power-of-ai-with-the-help-of-fintech-partners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/visible_pictures/2f40bf95-205d-4aa9-bb2d-f19476075c53.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-26T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

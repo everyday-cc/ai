@@ -61,15 +61,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 34
-  - title: "Fugees Rapper Pras Says His Lawyer Botched Trial By Using Unreliable AI Tech"
-    excerpt: "Demanding a new trial after conviction, the rapper claims his ex-lawyer used untested AI tools because he has an “undisclosed financial stake” in the company that sells them."
-    publishedDateTime: 2023-10-17T19:38:00Z
-    webUrl: "https://www.billboard.com/business/legal/fugees-rapper-pras-lawyer-botched-case-ai-tech-1235445269/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 14
 
 secured: "fcyipXtrUjTWhCfQl1KT5PO7fm4teRwLLjOHGDOPu4OaCDO4RPassOy/E4kpjBYZIDV0hVXleOTOarllJC4Ask19b0ZMa90u9sA6J7WJG9UadU0HbHKGpQqfex30Ux6hZMlG3eHy0juul+e2SYmQlJprZkqbttzvWbbJfzbISS/KyJZOaiwmNszgVr4KRNXC8sDypzAZ2ywbcKQhgW6/lDbUup4RKab/uqJS1kEATAN60lqEmbyPo4FnWa7tnKBQ+poK8jHHYZydxX0qdgATo1Hjdl0WyUeGdyqOOpgIeYKkRwZGtgcnx7yC/DOrIKs8Hyo47rlCmh2NHLq34CpdL0UEGN0ZYl6dm7OiUsEH4RPOPn0PPhrEzQ9JPTUxVmNy1B7LpzJoq3Zjt+71xPtMemxSF7bfhIPOrBQIbNndQ661F1rSoK35gN9ssq9SRsdbFR5oKKJgPTHdwBVpWGEqW6Cab0gImRjCO2p+Bay3hbYch/SwJDHzhvnZI9D621yJ0oy92MfSQkEjoPrNxkFIPA==;7YeRMkNvHayZmzXjdv+2Mw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "How Tight Should State AI Insurance Rules Be?"
-    excerpt: "Scott Kosnoff, an insurance law specialist at Faegre Drinker, said in an email interview that the NAIC’s AI regulatory effort covers much of the same ground as Colorado’s new regulation banning uses of “external consumer data and information sources” that lead to race-based discrimination."
-    publishedDateTime: 2023-10-17T19:51:00Z
-    webUrl: "https://www.thinkadvisor.com/2023/10/17/how-tight-should-state-ai-insurance-rules-be/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 19
 
 secured: "0NpRod4ctL7WaQZ6W/b1WzGxGEBEsxGXXXuClSRoUB5mBrDugdOZ1v8Iul/QXlQHHUS5yLphbHEcXVkw1sktG+onnhyM2fw3JaZexyukyC1Bocx1eszX9xLfrxfkSLMQLTqDQ2iVirYCavg9n1/p9/FQlEO5DAU+ymdNlsk3P3ERrVUs6XT/+wu2Ja3i3nZyuRf58QdQvNh8mTUCPLPBti4ezoByKhtXFxMjz5EkKln27vxpSERqPnrwW1XDcf1BEGq7+4sy3T7njFaUU3y4K4k+NpckvaLreXlEXDGimzUGBKKduj/IbXI+vuLKlNrgh5xPZQ15XQIut73+olBkanekjYpGRtq6Tg/ELps7HiM=;h6rEgBvZSVcPil3h6JH2vg=="
 ---

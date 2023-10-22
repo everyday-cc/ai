@@ -9,8 +9,8 @@ ampWebUrl: "https://dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-st
 cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1140632/huaweis-deep-learning-data-lake-storage-solution-launched-at-gitex-global-2023/amp/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Daily Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GITEX GLOBAL 2023: Huawei Launches Deep Learning Data Lake Storage"
-    excerpt: "As Huawei’s OceanStor A310 provides optimal storage capability for basic model training, industry model training, and inference in segmented scenario models, Huawei’s OceanStor A310 offers a unique solution to global industry challenges and extends the horizons of artificial intelligence."
-    publishedDateTime: 2023-10-17T19:31:00Z
-    webUrl: "https://www.chiangraitimes.com/tech/gitex-global-2023-huawei-launches-deep/"
-    type: article
-    provider:
-      name: Chiangrai Times
-      domain: chiangraitimes.com
-    quality: 39
-    images:
-      - url: "https://www.chiangraitimes.com/wp-content/uploads/2023/08/Mobile-app-download-banner-ad-Made-with-PosterMyWall-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "New Era of AI Grips World’s Imagination as GITEX GLOBAL 2023 Enters 2nd Day"
     excerpt: "GITEX GLOBAL and Expand North Star comprise a combined 41 halls spanning 2.7 million sq. ft of exhibition space."
     publishedDateTime: 2023-10-18T05:33:00Z

@@ -2,6 +2,185 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2023-09-16-how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions.md",
+      "title": "How AI Is Helping Big Fleet Operators Cut Greenhouse Gas Emissions",
+      "excerpt": "The trend is accelerating as artificial intelligence and machine learning help fleet management services deliver new efficiencies that weren’t previously possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/",
+      "originalUrl": "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6504e2b2ce4f66f9f328ff09/0x0.jpg?format=jpg&crop=780,439,x0,y193,safe&width=1200",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2023/09/15/how-ai-is-helping-big-fleet-operators-cut-greenhouse-gas-emissions/amp/",
+      "publishedDateTime": "2023-09-15T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users.md",
+      "title": "Dreamy AI-generated geometric scenes mesmerize social media users",
+      "excerpt": "Using ControlNet and similar prompts, it's easy to replicate Ugleh's work, and others have done so to amusing effect, including checkerboard anime characters, an animation, medieval village \"goatse \" (surprisingly safe for work), and a medieval village version of \" Girl with a Pearl Earring .\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/spiral_hero_2-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/09/dreamy-ai-generated-geometric-scenes-mesmerize-social-media-users/amp/",
+      "publishedDateTime": "2023-09-15T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-synergy-of-traditional-techniques-and-deep-learning-enables-single-frame-high-precision-fringe-pattern-analysis.md",
+      "title": "Synergy of traditional techniques and deep learning enables single-frame high-precision fringe pattern analysis",
+      "excerpt": "Recently, with the explosive growth of available data and computing resources, deep learning, as a \"data-driven\" machine learning technique, has achieved impressive success in numerous fields ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.html",
+      "originalUrl": "https://phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/the-synergy-of-traditi.jpg",
+          "width": 1280,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-synergy-traditional-techniques-deep-enables.amp",
+      "publishedDateTime": "2023-09-15T12:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-16-cloud-natural-language-processing-market-size-regional-status-and-outlook-2023-2030.md",
+      "title": "Cloud Natural Language Processing Market Size, Regional Status and Outlook 2023-2030",
+      "excerpt": "The Cloud Natural Language Processing Market Insights of 2023 is an extensive and comprehensive report that provides a complete analysis of the market's size, shares, revenues, various segments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34628404/cloud-natural-language-processing-market-size-regional-status-and-outlook-2023-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34628404/cloud-natural-language-processing-market-size-regional-status-and-outlook-2023-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-15T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-this-canadian-robotics-start-up-is-using-ai-to-help-artists-make-nearly-identical-copies-of-original-paintings.md",
       "title": "This Canadian robotics start-up is using AI to help artists make nearly-identical copies of original paintings",
       "excerpt": "A Canadian art-tech start-up based in Montreal is using robotics and artificial intelligence for visual artists to reproduce their artwork at scale, using robotic paint brush attachments to precisely mimic the brush strokes of original pieces.",
@@ -989,188 +1168,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-the-artificial-confusion-climate-navigating-the-flood-of-ai-products.md",
-      "title": "The 'Artificial Confusion' Climate: Navigating The Flood Of AI Products",
-      "excerpt": "We live in a time of unprecedented technological advancement, particularly in the field of artificial intelligence (AI). The digital marketplaces are flooded with AI products, and every day, dozens of new software tools come out. But with this abundance comes confusion; how can anyone possibly keep up with the rapidly evolving landscape?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/the-artificial-confusion-climate-navigating-the-flood-of-ai-products/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/the-artificial-confusion-climate-navigating-the-flood-of-ai-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643e9aac317855a30c1e5609/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/the-artificial-confusion-climate-navigating-the-flood-of-ai-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/09/15/the-artificial-confusion-climate-navigating-the-flood-of-ai-products/amp/",
-      "publishedDateTime": "2023-09-15T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks.md",
-      "title": "Machine Learning and AI in Algo trading: Predictive analytics for stocks",
-      "excerpt": "Gain market edge: AI and ML in an algo trading system can be leveraged to automate some of the laborious repetitive processes that were previously done manually. Additionally, AI systems have the ability to continuously watch the stock market around the clock. As a result of their wider reach, traders gain an added advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/09/Untitled-design-2023-09-15T162227.384.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-machine-learning-and-ai-in-algo-trading-predictive-analytics-for-stocks-3244943/lite/",
-      "publishedDateTime": "2023-09-15T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut.md",
-      "title": "SoftBank's Chip Designer Arm Extends Gains After $65 Billion Nasdaq Debut",
-      "excerpt": "(Reuters) - Shares of SoftBank's Arm Holdings rose before the bell on Friday, extending gains from a stellar Nasdaq debut that valued the British chip designer at $65 billion, in a relief to the U.S. IPO market facing a drought in listings.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2023-09-15/softbanks-chip-designer-arm-extends-gains-after-65-billion-nasdaq-debut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-training-an-arduino-uno-r4-powered-robot-using-machine-learning.md",
-      "title": "Training an Arduino UNO R4 powered robot using machine learning",
-      "excerpt": "If you are interested in learning more about training robots using machine learning techniques and technologies you might be interested in a new Arduino project to ascertain whether a basic robot could navigate using only LiDAR, as opposed to more resource ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/machine-learning-robot/",
-      "originalUrl": "https://www.geeky-gadgets.com/machine-learning-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/09/Training-an-Arduino-UNO-R4-powered-robot.jpg",
-          "width": 700,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-15T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

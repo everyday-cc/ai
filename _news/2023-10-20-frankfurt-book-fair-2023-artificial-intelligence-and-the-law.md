@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 1280
         isCached: true
-  - title: "WSJ Tech Live 2023: Tech Leaders Warn Of Risks, Weaknesses Of AI"
-    excerpt: "AI’s impact on tech and entertainment to be a key focus for industry leaders."
-    publishedDateTime: 2023-10-17T21:25:00Z
-    webUrl: "https://www.wsj.com/tech/ai/wsj-tech-live-2023-full-coverage-c2cb70fa?mod=hp_lista_pos4"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-868527/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "UoU6XcKXP9H6Kkuy1ktVmoQtpXHMBWtWR/rlfEaz/efRVILL9Yxx3dRa3CRFfHWI3f/+3kFBIkRODLSxwHb9Q9QB5m0byehCAURw9oyxDXysrdjK4g/DqeBm3Y2RUvxSwYuMyPPNnZ0sWdT574ii5VxFobIgKqsl26WApNW1S686EH0yYVoV+jkxjRd2yKT0+rCQbQPGQRO2rXliwG0nnYQWUafiEJVrKgF9LEq4mjl18mm2/o27IIp8EWUZzWkhAfxvUSUNtd7HGJFChqoidrBDnThFl4lVU9zj913KH/uwGlhxhp7cX9ZCBQRPzCa3O+Hqjn/yz1gpeN9P+45067jm+HQOY6g3RUByKfdrJSlNYmJCcHG0pTvgwzS2davgFR019V93Wm7DXlzTcRJoKvhFucCoTLg7xiIoUsFEsr++2738U7gYMzufrTVKS6xjwscfMzHUCkQLSjqnRDDdXPRfKRWJ7Jb8eEpXCh7grnanduYrU/+oLKmRRxl6jH/z0URKEyyxGpMc7qlzH7LMWQ==;MhKML78M08ZuTnCkmsZoBw=="
 ---

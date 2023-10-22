@@ -52,15 +52,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "How Tight Should State AI Insurance Rules Be?"
-    excerpt: "Scott Kosnoff, an insurance law specialist at Faegre Drinker, said in an email interview that the NAIC’s AI regulatory effort covers much of the same ground as Colorado’s new regulation banning uses of “external consumer data and information sources” that lead to race-based discrimination."
-    publishedDateTime: 2023-10-17T19:51:00Z
-    webUrl: "https://www.thinkadvisor.com/2023/10/17/how-tight-should-state-ai-insurance-rules-be/"
-    type: article
-    provider:
-      name: Think Advisor
-      domain: thinkadvisor.com
-    quality: 19
 
 secured: "eG706Ml7ytZ4dIcFsNm/QI9BgwaM+pSJhYzqUOYhwTgWbue2ROOF41Caa4JLVcrgMJqKOSE7OrqCu6BwzD3jqCiCicNNRTskivJRi3IK4uHTkkSVwz0KeXreLLR+WtkAvoxj/qZA6vBHzVwBIYZjScsJH/elFeJLyVikyesAIL9qGRgi1Wgs997abRiO8A7E7YDOExUGR3iayCdfCtLGBBSENgdzGIwnLwQojFQXIBSCKSbewm2E7GFitPVddTUbGFrw7p7F7tlqJHG3l7OwXvi39c8FjPmw1hDE7XMLAQM7eCtjY2QHtG7rIfgnhIh5R4OTTU56fLmVU7Z+gDUIgFV6ltKBJJJzi/JA3VaJ6AI=;KREm0Pj45sEqtpI81JxrKQ=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "ChatGPT: Everything you need to know about the AI-powered chatbot"
-    excerpt: "“AI presents a whole set of opportunities ... ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners ..."
-    publishedDateTime: 2023-10-17T20:05:00Z
-    webUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/"
-    ampWebUrl: "https://techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/17/chatgpt-everything-to-know-about-the-ai-chatbot/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
     excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
     publishedDateTime: 2023-10-18T08:41:00Z
@@ -85,15 +69,6 @@ related:
         width: 360
         height: 203
         isCached: true
-  - title: "NYC announces artificial intelligence adoption framework, AI chatbot pilot"
-    excerpt: "Artificial intelligence (AI) has made headlines in recent months for both its potential to advance humanity and for its possible pitfalls. From automation and chatbots to self-driving cars and facial recognition,"
-    publishedDateTime: 2023-10-17T19:36:00Z
-    webUrl: "https://www.americancityandcounty.com/2023/10/17/nyc-announces-artificial-intelligence-adoption-framework-ai-chatbot-pilot/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 32
   - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
     excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records. But a new study led by Stanford School of Medicine"
     publishedDateTime: 2023-10-20T15:13:00Z

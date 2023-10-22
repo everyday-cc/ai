@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia shares dip after U.S. announces new curbs on AI chip exports to China. How to play the stock"
-    excerpt: "Pros on CNBC discussed Nvidia. Shares slumped Tuesday following an announcement that the U.S. plans to curb the export of AI chips to China."
-    publishedDateTime: 2023-10-17T19:19:00Z
-    webUrl: "https://www.cnbc.com/2023/10/17/nvidia-shares-dip-after-us-announces-new-curbs-on-ai-chip-exports-to-china-how-to-play-the-stock.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 70
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107318724-NVIDIA_THUMB.png?v=1697577296&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Nvidia teams with Foxconn to boost electric vehicle AI"
     excerpt: "Foxconn, the world's biggest electronics manufacturer, announced a strategic partnership with Nvidia to accelerate the development of EVs."
     publishedDateTime: 2023-10-18T03:00:00Z
@@ -279,15 +265,6 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Nvidia RTX GPUs can now use AI processing for crisper video streaming"
-    excerpt: "Nvidia is finally enabling AI GPU processing on RTX cards, which the company claims will deliver even crisper upscaling."
-    publishedDateTime: 2023-10-17T19:36:00Z
-    webUrl: "https://bgr.com/tech/nvidia-rtx-gpus-can-now-use-ai-processing-for-crisper-video-streaming/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 34
   - title: "Gcore Launches Generative AI Cluster Powered by NVIDIA GPUs"
     excerpt: "The new Generative AI Cluster is equipped with servers based on NVIDIA A100 GPUs, the leading data centre AI accelerator. Later this year, Gcore plans to expand with an additional 128 servers powered by the latest NVIDIA H100 GPU to further enhance its infrastructure."
     publishedDateTime: 2023-10-19T10:53:00Z

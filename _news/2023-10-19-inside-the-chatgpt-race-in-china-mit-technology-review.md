@@ -25,91 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "China's Ernie AI is just as good as - or better than - ChatGPT, says its creators"
-    excerpt: "Speaking at an event in Beijing, Baidu founder Robin Li, whose company is often called the Chinese equivalent of Google, said that the latest version of his company's AI chatbot matches ChatGPT in overall capability."
-    publishedDateTime: 2023-10-17T20:43:00Z
-    webUrl: "https://www.zdnet.com/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-ernie-ai-is-just-as-good-as-or-better-than-chatgpt-says-its-creators/"
+  - title: "Google denies Bard was trained with ChatGPT data – The Verge"
+    excerpt: "By Sean Hollister, a senior editor and founding member of The Verge who covers gadgets, games, and toys. He spent 15 years editing the likes of CNET, Gizmodo,"
+    publishedDateTime: 2023-10-19T15:59:00Z
+    webUrl: "https://www.inferse.com/762926/google-denies-bard-was-trained-with-chatgpt-data-the-verge/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 82
+      name: Inferse
+      domain: inferse.com
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/img/resize/bc26528e88a169b29aa255ccb87822d3d217fab2/2023/10/17/82878a45-8574-41f4-bc55-1e34eefd80c0/gettyimages-1490253727.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12838.png"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Anti-ChatGPT app Superfly uses AI to match people for live chats and answers to queries"
-    excerpt: "The new LLM-based Matchpont AI also considers topic-related understanding and users’ shared interests, as well as “personal chemistry” when matching. The startup claims that only 10% of posts are niche questions that don’t get answered fast enough ..."
-    publishedDateTime: 2023-10-18T15:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
-    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
+  - title: "ChatGPT 5 is on track to attain artificial general intelligence – The Statesman"
+    excerpt: "These Twitter discussions about ChatGPT-5 have garnered even more attention than those about ChatGPT-4. Many users are expressing high expectations for the"
+    publishedDateTime: 2023-10-21T21:24:00Z
+    webUrl: "https://www.inferse.com/766323/chatgpt-5-is-on-track-to-attain-artificial-general-intelligence-the-statesman/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: Inferse
+      domain: inferse.com
+    quality: 33
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
-        width: 1200
-        height: 758
-        isCached: true
-  - title: "ChatGPT Creator Partners With Abu Dhabi’s G42 in Middle East AI Push"
-    excerpt: "The partnership with G42, which is chaired by the UAE’s influential national security adviser Sheikh Tahnoon bin Zayed Al Nahyan, will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare."
-    publishedDateTime: 2023-10-18T13:48:00Z
-    webUrl: "https://time.com/6325389/chatgpt-openai-g42/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/10/AP23157511535295.jpg?quality=85"
-        width: 7082
-        height: 4722
-        isCached: true
-  - title: "ChatGPT Vs. Ernie Bot: Baidu Launches Upgraded AI Chatbot, Showcases Advanced Capabilities"
-    excerpt: "Baidu (NASDAQ: BIDU) has launched the upgraded version of its Ernie bot with V4.0. Although, the model is not yet accessible to the public."
-    publishedDateTime: 2023-10-17T20:20:00Z
-    webUrl: "https://www.benzinga.com/fintech/23/10/35295627/chatgpt-vs-ernie-bot-baidu-launches-upgraded-ai-chatbot-showcases-advanced-capabilities"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35295627"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35295627"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 49
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2023/10/17/artificial_intelligence_shutter2.jpg?width=1200&height=800&fit=crop"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-14469.png"
         width: 1200
         height: 800
         isCached: true
-  - title: "ChatGPT Creator OpenAI Partners With Abu Dhabi's G42 as UAE Scales up AI Adoption"
-    excerpt: "Mubadala-backed G42 has been at the forefront of AI adoption in the UAE. The company said in July that it had developed the world's largest supercomputer for AI training in collaboration with U.S.-based AI firm Cerebras Systems."
-    publishedDateTime: 2023-10-18T15:05:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-18/chatgpt-creator-openai-partners-with-abu-dhabis-g42-as-uae-scales-up-ai-adoption"
+  - title: "ChatGPT, DALL-E 2 and the collapse of the creative process – The Conversation"
+    excerpt: "Professor of Philosophy and Director, Applied Ethics Center, UMass Boston Postdoctoral Fellow in Philosophy, UMass Boston The authors do not work for,"
+    publishedDateTime: 2023-10-20T19:08:00Z
+    webUrl: "https://www.inferse.com/764746/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-the-conversation/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
-  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
-    excerpt: "ChatGPT creator OpenAI has partnered with G42, the Abu Dhabi-based tech conglomerate said on Wednesday, in a push to drive artificial intelligence adoption in the United Arab Emirates and other Middle Eastern markets."
-    publishedDateTime: 2023-10-19T03:05:00Z
-    webUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-partners-abu-dhabis-g42-uae-scales-ai-adoption-3856056"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 34
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--74pqjHjo--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-18t150510z_1_lynxmpej9h0sc_rtroptp_3_open-ai-emirates-g42.jpg?itok=Tz8vFAEY"
-        width: 1200
-        height: 676
-        isCached: true
+      name: Inferse
+      domain: inferse.com
+    quality: 1
 
 secured: "li4EQ9WnjshF5QI4mHZFqBJ/DWUZuVB9ndq0/EiJ9aGQiZbVjcpcNjrcF3EPr1tI/u2g/RPO+mEQsMccLLu4m6BJrZ/tjzrCyT67rUMtzWW6WeaodEkIcELkyu/jRWAe9sWtja2zNjdMVjYzAh1Twnu4Z6FejnnSC4sK8idj8f8pTl40tru/D1MsJBYgDKrYE79FwIzW7Fz+n3ovIU7pb3DMNXy86CU21FjRrYFc/Er8pf2RTXHXHtvSdxk9w5l3yJgMf9Y+zyQ0Qxe4bQmrnTfoKW7XkDBKiavNin2dMJItV5pG5QK756LfIu4eeLW5QN0ghwjBam31tZ+0kARZCBxlVsC2ZY1KLU+0S9nBG0diFGa0jggS/tRJLJqQLLer9E9AE8Id8ERCOkxEYKAdBZH4q8JKkx3poi0PI+VCzGluiD0QonNycVIVgMV+B7P5WBGdwgiJEKNNWpic6eoXnX3+nWv2OVliElGbMZlYtSNXG1nbAt/y3Qc9lRB/KKRflgd0RdEB+ipZV+AHXXKCBg==;5B82mKxKjQHS5+xbq8RTqA=="
 ---

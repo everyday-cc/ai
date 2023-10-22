@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fugees Rapper Pras Says His Lawyer Botched Trial By Using Unreliable AI Tech"
-    excerpt: "Demanding a new trial after conviction, the rapper claims his ex-lawyer used untested AI tools because he has an “undisclosed financial stake” in the company that sells them."
-    publishedDateTime: 2023-10-17T19:38:00Z
-    webUrl: "https://www.billboard.com/business/legal/fugees-rapper-pras-lawyer-botched-case-ai-tech-1235445269/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 14
   - title: "Fugees rapper claims lawyer's use of AI wrecked his case, requests new trial"
     excerpt: "Fugees rapper Pras, convicted of conspiracy in April, has filed a motion for a new trial and claims his former lawyer's use of AI wrecked his case."
     publishedDateTime: 2023-10-19T14:26:00Z
