@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+    excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
+    publishedDateTime: 2023-10-22T16:55:00Z
+    webUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 25
+    images:
+      - url: "https://media.zenfs.com/en/aol_thegrio_365/6fd4e3e1e11218c91e257242938cc3fb"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
     excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
     publishedDateTime: 2023-10-20T16:11:00Z

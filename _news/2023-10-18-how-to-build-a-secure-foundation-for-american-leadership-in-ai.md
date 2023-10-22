@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation
 webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - Google AI
 
 related:
-  - title: "Five takeaways from American Banker's AI Summit"
-    excerpt: "At American Banker's AI Summit on Monday, bankers, consultants and vendors shared how their institutions are moving forward with generative AI, fintech partnerships and security. AI is the technology that banks are most excited about to create competitive advantage, according to recent research from American Banker's parent company, Arizent."
-    publishedDateTime: 2023-10-18T01:00:00Z
-    webUrl: "https://www.americanbanker.com/list/five-takeaways-from-american-bankers-ai-summit"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 54
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/85c4b4a/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fa4%2Fd4%2F8d3275fd410b839db3403cc1fb4b%2F322456035-1-4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Indaba: A Pan-African Pilgrimage in AI"
     excerpt: "Insights, podcasts, and stories on startups, society & culture, and digital technology in Africa. We tell Africa's stories."
     publishedDateTime: 2023-10-19T13:56:00Z

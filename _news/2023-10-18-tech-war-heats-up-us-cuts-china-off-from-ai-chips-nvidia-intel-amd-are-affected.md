@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel"
-    excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
-    publishedDateTime: 2023-10-18T05:33:00Z
-    webUrl: "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df"
+  - title: "US further restricts China from AI chips to hinder military development"
+    excerpt: "The measures aim to hamper China’s military development by closing loopholes in regulations released last October and will probably be updated “at least annually,” according to Commerce Department Secretary Gina Raimondo."
+    publishedDateTime: 2023-10-18T05:48:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 77
+      name: scmp.com
+      domain: scmp.com
+    quality: 104
     images:
-      - url: "https://images.wsj.net/im-869788/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/17/81863397-08d8-4eae-a222-2691db10781d_56af46d8.jpg?itok=GiKh8r5w&v=1697552319"
+        width: 1200
+        height: 630
         isCached: true
   - title: "U.S. to curb exports of more AI chips to China"
     excerpt: "The U.S. Department of Commerce announced Tuesday that it plans to prevent the sale of more advanced artificial intelligence chips to China in the coming weeks."
@@ -65,38 +67,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
-    excerpt: "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis."
-    publishedDateTime: 2023-10-18T12:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
+  - title: "US further restricts AI chip exports to China"
+    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
+    publishedDateTime: 2023-10-18T15:06:00Z
+    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
+    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Biden further chokes off China’s AI chip supply with Nvidia bans"
-    excerpt: "In August last year, a ban on Nvidia's chip export to China sent the country's budding artificial intelligence startups scrambling for alternatives. A"
-    publishedDateTime: 2023-10-18T12:15:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
-  - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
-    excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
-    publishedDateTime: 2023-10-19T17:42:00Z
-    webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107247052-1685079013413-gettyimages-1257866797-Nvidia_Stock_Soar.jpeg?v=1697742655&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 54
   - title: "US tightens curbs on AI chip exports to China"
     excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on"
     publishedDateTime: 2023-10-18T02:22:00Z
@@ -111,52 +92,20 @@ related:
         width: 400
         height: 266
         isCached: true
-  - title: "What to Know About the U.S. Curbs on AI Chip Exports to China"
-    excerpt: "The new rules aim to close loopholes that emerged from 2022 export control curbs, and to account for technological developments."
-    publishedDateTime: 2023-10-18T00:40:00Z
-    webUrl: "https://www.aol.com/news/know-u-curbs-ai-chip-214010915.html"
+  - title: "US tightens export restrictions on AI chips to China"
+    excerpt: "The chip controls aim to address loopholes identified after the US imposed export limitations on chips to China last October."
+    publishedDateTime: 2023-10-18T06:53:00Z
+    webUrl: "https://technode.com/2023/10/18/us-tightens-export-restrictions-on-ai-chips-to-china/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
+      name: TechNode
+      domain: technode.com
     quality: 54
     images:
-      - url: "https://media.zenfs.com/en/aol_time_773/8e51342dd6645c486b76a51ee152300b"
-        width: 1024
-        height: 683
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
-  - title: "China's AI industry grapples with mixed prospects amid escalated US chip controls"
-    excerpt: "With the Biden Administration's heightened export controls on semiconductor chips to China, the Chinese AI industry finds itself in a mixed picture of some rejoicing and others facing challenges. This impact is rippling through various sectors,"
-    publishedDateTime: 2023-10-19T07:44:00Z
-    webUrl: "https://www.digitimes.com/news/a20231019PD203/ai-chips-ic-design-distribution-us-china-chip-war-server-ipc-cloud-computing-iot.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 49
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231019pd203_files/3_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
-    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
-    publishedDateTime: 2023-10-20T17:03:00Z
-    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
-  - title: "Nvidia comes under US governments radar with its GPU sales in China"
-    excerpt: "Nvidia: In an effort to stymie the growth of artificial intelligence (AI) technology in China, the US government slapped new limits on AI and HPC GPU exports"
-    publishedDateTime: 2023-10-21T12:58:00Z
-    webUrl: "https://technosports.co.in/nvidia-comes-under-us-governments-radar/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 36
   - title: "U.S. tightens curbs on AI chip exports to China"
     excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
     publishedDateTime: 2023-10-18T21:43:00Z
@@ -166,20 +115,15 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
-    excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
-    publishedDateTime: 2023-10-18T16:05:00Z
-    webUrl: "https://www.aol.com/nvidia-thought-found-way-around-130504385.html"
+  - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
+    excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
+    publishedDateTime: 2023-10-18T04:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/u-s-tightens-chinas-access-to-advanced-chips-for-artificial-intelligence/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 22
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/1R3_9tpxnJuHS3k5R4jqeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/27c0635b4b7fb62b8197ebac44b306d7"
-        width: 1199
-        height: 800
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "AEthPvPCbmXvHQ56v1xpgOqHuPjv9srFrqYSxDq+ee0hEXcomzWVvlhOYyBjLy9piyWxKgrv1TFdPJkmu9IgI4RcRbks39QIOmO+kNXIeZztebAjUnjbrS7dczcruZ2SrsfNwt1rbRfcUAVYsBvMvtNtTstuGlSMWZdF903Rc5dxzhSejc0CLGqY7BrA/KRkiF5W2fEBDPsdRSxSoLGgBDyObb/MEGXS19b64f+mH4LETwx8N1f9na73/eWH+F4YAKTg75619msCIVo5LiZkn/Tld1KV9LHPgA4IFrXBriEcXBHp0V84XH/jx+RuUnXarwdUEdnfbq2TIOe18yUbS1ecMhNL2wYOmR6HyM6PeGg=;csVjoRQ8hTJ9Rvp+nqPR8A=="
 ---

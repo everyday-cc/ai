@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence improves cybersecurity with pattern recognition"
+    excerpt: "In the ever-evolving digital realm, businesses invest significant time and resources to protect themselves from an array of digital threats, such as"
+    publishedDateTime: 2023-10-22T17:30:00Z
+    webUrl: "https://menafn.com/1107283039/Artificial-Intelligence-improves-cybersecurity-with-pattern-recognition"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_145.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
   - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
     excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
     publishedDateTime: 2023-10-18T17:17:00Z

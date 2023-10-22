@@ -1,36 +1,46 @@
 ---
 category: news
-title: "The Chatbot Revolution: Transforming Healthcare With AI Language Models"
-excerpt: "ChatGPT and similar chatbot-style artificial intelligence software may soon serve a critical frontline role in the healthcare industry."
-publishedDateTime: 2023-10-18T14:43:00Z
-originalUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/"
-webUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/"
-ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
+title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
+excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
+publishedDateTime: 2023-10-22T16:55:00Z
+originalUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
+webUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
 type: article
-quality: 104
-heat: 174
-published: true
+quality: 25
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/6526d2865dfb956a3deee505/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-    width: 1600
-    height: 900
+  - url: "https://media.zenfs.com/en/aol_thegrio_365/6fd4e3e1e11218c91e257242938cc3fb"
+    width: 900
+    height: 600
     isCached: true
 
 related:
+  - title: "The Chatbot Revolution: Transforming Healthcare With AI Language Models"
+    excerpt: "ChatGPT and similar chatbot-style artificial intelligence software may soon serve a critical frontline role in the healthcare industry."
+    publishedDateTime: 2023-10-18T14:43:00Z
+    webUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/"
+    ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6526d2865dfb956a3deee505/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
     excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
     publishedDateTime: 2023-10-18T08:41:00Z
@@ -87,20 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Health providers say AI chatbots could improve care. But research says some are perpetuating racism"
-    excerpt: "Stanford researchers warn chatbots used in health-care settings could spread misconceptions and falsehoods about Black patients SAN FRANCISCO (AP) — […] The post Health providers say AI chatbots could improve care."
-    publishedDateTime: 2023-10-22T16:55:00Z
-    webUrl: "https://www.aol.com/health-providers-ai-chatbots-could-165532828.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 25
-    images:
-      - url: "https://media.zenfs.com/en/aol_thegrio_365/6fd4e3e1e11218c91e257242938cc3fb"
-        width: 900
-        height: 600
-        isCached: true
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
     excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
     publishedDateTime: 2023-10-20T16:11:00Z
@@ -120,6 +116,6 @@ related:
       domain: pressdemocrat.com
     quality: 5
 
-secured: "0i3gZKU6YN8dV4XU5gZybAUR1lP1+CDTLMouA7OdYO3ikmwjmEbB638pqEWhsMiuhZa9D7IQxtPmi4mWLdagCGaif18mufYw90lvMAw9nmT2pPnktLjyLF9ORknZFjTefJikoa/fKAZJhb9TTkmEG2KHW/ePnAhkm/JeSrg7lQ73uFKoN0vg/btvWC/65VLrkwOcy7CpKGH1gDdsmb2adUG95Ppgapa19GvbxF2vm+YRwM2a9OU+mRyW3sYMin2zKrfBrYbOXxNC6woW3QUzHyAopX7cjOTkKyy7VfYKJeOyrKQNDR/CBIilvp9Il7g41bbwJfFjqPHvuNq+m1F6s8VZXa7tuX3Kii4SrHFlDY1wv/Xh+2SXGqPUnLu6bYX2gdw6cJLxLngqMYRaF/ftgaE4sJ60XDVlqpVT3ZjYS53ZdFDlCQcOMlfRe8gSzaLNYY4tbPYBS2rzFaI4WvfpA44yjwghIJylbbcr5m8Xj3NS6kjmXuNMawcfIcybjZ+difXw10WCPfJ6lcn/9/Kp+Q==;u6ooLoO68vs9WQFNr63xfw=="
+secured: "aNqfemILZsOg+ETwYJdvX5t6VienCajaV/7yVtmcU8B35VbLoD6HW0nMxq5hgHxSbMaL/RNLuyjrYnL6B27tt3SiNrhxt7MX0xOBGuePVY5xasWjCdxa7lDvy+PBybTkEua71nQE4e6m+xRtDYHGsGt+kHttlUdP4yhTORCkKwRCUL297KKw/YFXGNP9nirFaHNW6+IIWb7XMYR3ZCsc+D2Kb/Q4k6stxshc4t6hERNs7T0WOC3Ap1UXZi/aqZGGMOc+BCPH4kAkyQMV5gjQ+jkvbsoW026/mPHJRt8sPJ8mTiBXz603Tg/n3GgRLmxlWSu/WEXMv8aASYO3aRG+GK5o8rAb3oeHZjNXCHkaUEA=;okNhM67hCkC4jLpNjGQDrg=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/commentisfree/2023/oct/22/australias-consti
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2023/oct/22/australias-constitutional-history-told-us-the-voice-referendum-was-unwinnable-sadly-that-was-right-malcolm-turnbull"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2023/oct/22/australias-constitutional-history-told-us-the-voice-referendum-was-unwinnable-sadly-that-was-right-malcolm-turnbull"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.guim.co.uk/img/media/9aff112dba8e0dba82c2e8aaceb4058b1ee95354/0_221_5070_3042/master/5070.jpg?width=620&quality=85&auto=format&fit=max&s=e1ed5a2fb0af52e83b217974d7205d11"
@@ -113,6 +114,6 @@ related:
       domain: abc.net.au
     quality: 0
 
-secured: "J2iAtsnZlflbm92bIlMQMlXvS5YZdeFRzu03hurYSE9o1TNOz+MM3633ivznmwUyhWjlXcLzrN8jLi6hiDY0wSyKO63Y7DYSnAkNdog++j0UcZuKVuNi6QCT0BxN46PdhTZZN2cJ+jiZAYgayucjiRduneaJHF9UZjymkPuGDa5sr/20O6QuO/JgXoULAe8jqukLIvtTTExGWoEIFde+vqKYekINMcA4dsDeH5gA/+fhDel1IKe4FR7YDI0Tfce89qdNYpJTrXGA+TKr4UpKwE1ht1T+IkNub5wVnUMOoMjvhQxYOZGsOTXeYoo7Ccd4xcVxC5sdYU7zqTnWrau0A9F5rrNJ0YN40HoJa6xx4Ac=;UTMEWNrKnvgrDpVuIz455g=="
+secured: "GXzVdRAouLUyjo7j+dBtwK8vyDEPtqz5n+4XTTxYzig6RZU7y0ynB+YXj4RUhC6IUpQiAll8bt2webJl620CJPbtBUXPvUrcnr+dFpqspbQ+fBK+RHMxtXezS9MdZ4rKjBajivApI5VwUY64iFqeQ1WDhIbHbcSKj1P66GgWhniih6pifWr+Ogr5FkjSn0OLRZG0OWYmyraeDH+xjWFIPQYcNnEnIvvVAsmRRt7KUzFe0eV91pm5kN9U4nIIR6758KDKMZpjxk5OIPcTPoai4olgDlJy887M6atVJiUI4FtNuPmeWn3G6+eTmbDLaWWB40PC6LIluxp7R/0S4r1OWM1n7x17aFE8sKo9WEJATDG6sl6VaJOrRVcl2b+izsmFKaDrxTxXGzQegt00omz/Wm5q0I5SE4pseqPYc1hBdRtFIYuOH5wbcFDIIl+uNVO01Tuce65l7TirzmAfWrRROnihWefHQRu3sET3LYLsTkQ107gMzw5y54/Im+UbGB4HtNPTRdQeMYAgf/eaFBpdjw==;H4iyUA4j7PT1xPy347z8Xw=="
 ---
 

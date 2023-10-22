@@ -1,12 +1,12 @@
 ---
 category: news
-title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
-excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
-publishedDateTime: 2023-10-18T17:17:00Z
-originalUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
-webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
+title: "Artificial Intelligence improves cybersecurity with pattern recognition"
+excerpt: "In the ever-evolving digital realm, businesses invest significant time and resources to protect themselves from an array of digital threats, such as"
+publishedDateTime: 2023-10-22T17:30:00Z
+originalUrl: "https://menafn.com/1107283039/Artificial-Intelligence-improves-cybersecurity-with-pattern-recognition"
+webUrl: "https://menafn.com/1107283039/Artificial-Intelligence-improves-cybersecurity-with-pattern-recognition"
 type: article
-quality: 28
+quality: 37
 heat: -1
 published: false
 
@@ -18,9 +18,9 @@ topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
-    width: 1270
-    height: 847
+  - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_145.jpg"
+    width: 1920
+    height: 1285
     isCached: true
 
 related:
@@ -40,19 +40,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence improves cybersecurity with pattern recognition"
-    excerpt: "In the ever-evolving digital realm, businesses invest significant time and resources to protect themselves from an array of digital threats, such as"
-    publishedDateTime: 2023-10-22T17:30:00Z
-    webUrl: "https://menafn.com/1107283039/Artificial-Intelligence-improves-cybersecurity-with-pattern-recognition"
+  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
+    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
+    publishedDateTime: 2023-10-18T17:17:00Z
+    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 37
+    quality: 28
     images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_145.jpg"
-        width: 1920
-        height: 1285
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
+        width: 1270
+        height: 847
         isCached: true
   - title: "The Pioneering Role of Technology in Revolutionizing Financial Services: A Comprehensive Exploration"
     excerpt: "Introduction Technology has emerged as a pivotal force reshaping various industries, and the financial sector is no exception. The integration of technology in financial services has ushered in an era of unprecedented innovation,"
@@ -69,6 +69,6 @@ related:
         height: 400
         isCached: true
 
-secured: "SW8Kvud+xRLJsRGvqzlOZo8cT2icUXyhraXpcOQ+OnDJe6r4G8JRp5+hK+HlNCjhhPgWfCo/eooErawWXrI2o2bEA40syclND1v6q4hBZNwC8tfqi4XSvaPWZMCvr2aHONZ+4mpdsJVXZToBZdG+aKYs563/VkmvuuueY+EHbkox0Yc2dFj47F+YvMq5JfzYIdPlaQlXkoeN/lhBTFS4itrMAguCWHTjMJ9CwbR7c/qqyXLiQCVSRLqmjZbFyDyCScXly0l+Qp1Z0nSLwVlRuTI30kF+9EmsP4fHJzHaIiAPJShhhvh6P2AEwapi0obbj+ypmyzDdPo2bR19lYLw2RoZ+HpcBrncuk9rv5cah/Y=;6g5QF3NNGIcnB85xrg6HRg=="
+secured: "blG/r8ur1uCNUG/QTBySxepwxPkWVTnw45fqsnmMK+Av+FvBl6oTnEsPajkHo5Set25YowL6IfcOt/aUWy/eE1a7+zbJ95X07NUlNFKAAB5JaJNhqY0R2PpgYEZKB5Ktss0I3F8F/dlUqnu5HjCEHpl9c5VlXMzfSLFRmt3dFT4u5zpbDwIA6htk9fhaL9wX3ZGqGH/RMqNGQgZPgTAH0objnyLJw1iyTYGHowuo413MQ0MY7VAvPUBl4Xf1U4xArQXNcWi5SBJrwLUKUVXVv9RV9Mpe2Ssfba03N20duGUi126ZPIUVOUoJyN5ThJPGpViYNcVns1P9CwqiYihap+Uz+pIZl52u8fr/S5TuLDg=;TTMDlgIp6ePGj8YdQdaUkQ=="
 ---
 

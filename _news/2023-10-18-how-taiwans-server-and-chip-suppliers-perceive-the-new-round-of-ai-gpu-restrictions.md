@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20231018PD215/china-nvidia-quanta-
 webUrl: "https://www.digitimes.com/news/a20231018PD215/china-nvidia-quanta-server-ipc-cloud-computing-iot.html"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -23,90 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "Updated Chip Restrictions Help Unify AI Hype And China Hawkishness"
-    excerpt: "Earlier today, the Commerce Department’s Bureau of Industry and Security (BIS) released rules updating last year’s chip controls targeting China."
-    publishedDateTime: 2023-10-17T23:09:00Z
-    webUrl: "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/"
-    ampWebUrl: "https://www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2023/10/17/new-chip-restrictions-help-unify-ai-hype-and-china-hawkishness/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f1401acdb374749a42d38/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "US further restricts China from AI chips to hinder military development"
-    excerpt: "The measures aim to hamper China’s military development by closing loopholes in regulations released last October and will probably be updated “at least annually,” according to Commerce Department Secretary Gina Raimondo."
-    publishedDateTime: 2023-10-18T05:48:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
-    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3238289/us-restricts-china-nvidias-ai-chips-hinder-beijings-military-development-expands-curbs-russia-iran"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 104
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/17/81863397-08d8-4eae-a222-2691db10781d_56af46d8.jpg?itok=GiKh8r5w&v=1697552319"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Demand for Nvidia Chips Keeps Rising. New China Restrictions Are Likely Just Noise."
-    excerpt: "Taiwan Semiconductor Manufacturing’s earnings commentary shows that demand for AI applications and Nvidia chips are improving. Nvidia stock should benefit."
-    publishedDateTime: 2023-10-19T17:38:00Z
-    webUrl: "https://www.barrons.com/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
-    ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 66
-    images:
-      - url: "https://images.barrons.com/im-61078969/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "US further restricts AI chip exports to China"
-    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
-    publishedDateTime: 2023-10-18T15:06:00Z
-    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
-    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 54
-  - title: "US tightens export restrictions on AI chips to China"
-    excerpt: "The chip controls aim to address loopholes identified after the US imposed export limitations on chips to China last October."
-    publishedDateTime: 2023-10-18T06:53:00Z
-    webUrl: "https://technode.com/2023/10/18/us-tightens-export-restrictions-on-ai-chips-to-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 54
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
-  - title: "U.S. tightens China’s access to advanced chips for artificial intelligence"
-    excerpt: "The additional limits on shipments of advanced semiconductors could cripple Beijing’s AI ambitions and dampen revenues for U.S. chip makers, analysts say."
-    publishedDateTime: 2023-10-18T04:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/u-s-tightens-chinas-access-to-advanced-chips-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "UeLYdctHtRKFh/cE5eYdDvkuyLeE1I+8tw6iTpSCv0ND9wdAVIQA+dOIBe1aRpog6mka7dXebcCg8FAOpH5Tyevm6BjrxQyMPJwIS3ThzGeM7zUC98zQaZIkTbKhYs/v+jHOGmzL9uBO75Xoj/xiP3S0xKSL10p+F/FOP60b5QA2FdUBnB7GkgDxWJtMUK38Qeb+tUxI7HaVQUwrLedF7XiO3r/WSctd43IqS4yjy0gZBxrbs+5pwNT0Re+2AOKJBkcKwm4h+dBhdZxnwV/LruzUZKfmALAIKLTGiy8H0yAf0NusAoMiE0tV/I38pwTfE5mRbDp4rgdoX/GaT0Ef+rBVO8Ym3tyIZdksfm3xUBo=;8qGcE8+WcPx8GhGxiwA9KQ=="
 ---
