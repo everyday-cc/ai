@@ -47,20 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Aindo uses generative AI to develop synthetic data. Check out the 13-slide pitch deck used to secured $6 million."
-    excerpt: "The startup generates artificial data points for AI companies, so they can train their models."
-    publishedDateTime: 2023-10-18T08:01:00Z
-    webUrl: "https://www.businessinsider.com/aindo-pitch-deck-generative-ai-startup-secures-6-million-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://i.insider.com/652e5bef6561dd877e7c2859?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "RM65WaWS9ZlX5xmgNin4lhmo1JoE8xt61CqWzWxZYqApTkyEbLdiqAovi3ABmR1sUnO1SAyMCTlptOSg4n8VWT835FShYLI9NmC2Ed58oQQSO/Z2k7wC6YfMQQ3GkT4y8ELNneuS1ftEosWu+liRkj+wviOrCbnvbepnh9Rl3MA2ntQ0a9S/QYlTcXKa0EVIXetkror0o7BCSuH8A0z9Xqw7foEI4AaspE5u34rmEOhl/zHmZmtJA4fkey6NrSSdrKouaaBFyZXFpdZZefoH5AuK7UaCLlFz3k2jSbLPpzxSyY7aWnGMD+CI7BbklN4rdCVnwPXXkJCDTQoIpbbi22r2F1LKJqLlKEAt1/qHB8IgdEUpvEh1O1BV2baYPuuwkb+2888HHWvA/kigA1Y+Iq6yL5lsyIiENw3MuauItcIjtnFmXVfm9IGOnleNoYQMXPR0lRrTQyA9igtSZKoVUdbgmiOVV70pULPcJfJ+yREH4v+saUcxuOGBC6Htg3Tn3JTUvvTKkfy/ARkELH8FzQ==;xh/FoUbX2z3ibTk2zq/TMw=="
 ---

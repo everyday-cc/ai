@@ -3,22 +3,22 @@ category: news
 title: "Music Publishers Sue AI Startup Over 'Widespread' Copyright Infringement"
 excerpt: "Universal Music filed a lawsuit against AI startup Anthropic over \"systemic and widespread infringement of their copyrighted song lyrics.\""
 publishedDateTime: 2023-10-20T20:15:00Z
-originalUrl: "https://www.stltoday.com/life-entertainment/nation-world/music/video_895a2147-4724-55ee-918b-004520cf4415.html"
-webUrl: "https://www.stltoday.com/life-entertainment/nation-world/music/video_895a2147-4724-55ee-918b-004520cf4415.html"
+originalUrl: "https://omaha.com/life-entertainment/nation-world/video_9edebfb2-91cf-5418-9602-12939a471745.html"
+webUrl: "https://omaha.com/life-entertainment/nation-world/video_9edebfb2-91cf-5418-9602-12939a471745.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/95/895a2147-4724-55ee-918b-004520cf4415/6532a67461c20.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/ed/9edebfb2-91cf-5418-9602-12939a471745/6532a7ae0d29a.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -135,6 +135,6 @@ related:
       domain: siliconangle.com
     quality: 9
 
-secured: "QprnZgmk65uJMrrjBMJXFFiXjeL+paat1Np/wUPIq6nJNQPFPFVlsuQMTu4tIJEVOXa2ied7n4cla5m0VbusQf7yp7TNhEb9DeqnhXnYGKifGzI191IR4aWThrgD2ZE+p52rQURH6P5z04/J4pzjK8pxEv1/OwND343OcFo1oEksoOC/KmYM6thYjT+ZyJJPWZ2CTnnnzOtz4HI1g5BRzQcpx4lfH5a3w1dPl9T8AE7ZTLsCDjs397wItG60hHrS1ueVqb4/NIBIdCjbkxoLFbxabP3TZgS0JIRiQTM/Pyd7mDkJzZ9lHSrLvntkHL7XEJgivsCoaf4mP+sHQtiUD6UnGNhPUxZFMHXfPZ0J4C/4QYMI+/ZcGP8a3tpq8DP7K8hVqLG2a7L5ILksrUfjAF2znEXW/Fm8oiHnZlQzNp7x1yuRownINDmlS1EuMy6JSv+1ajSbf99888A1m6jquzfwsOui85u9t5ZbIm8svEEbSyaNq9qahw41EhcmxS5Ult52ysCIfExVwuEf6jp0Og==;ldKDXqyMnyHZMhUPeqZvoQ=="
+secured: "UmU5QejLWLYuY0vILd8y2/kH1H9uWo3dc18akTTCH+ALyfoo+Wp37jXDDwl3bNxtypRgmwLz5w99ZbtZMqroHC9JYnYIXeSjmSyugKz9nCsXW5PWF+V9BUy4E5/++NMtzH716eJs7U8KfQ9r4sD+TY4vlGQ7SmiF6RwHk+qkA2EHWwXHuPvnE+2H1nhvSu6QuYLQVeVcnpCUFDGcWbP/RJWi8ZuLCCWsSv+hyEDMKMfLMn9Aq1oxOi83wDIdgQFT/GnnZbU1yZPLA6CTwNmvUbL1XDyQIFKPE+Oflsk53z9pul5Rc91gLCtWPScuwdqcvEUMJ15LntlvUVwoeZM5K1tqIPBVd9htNenxeDR8PxM=;SSyo7szXygZTMfDqrxVEzw=="
 ---
 

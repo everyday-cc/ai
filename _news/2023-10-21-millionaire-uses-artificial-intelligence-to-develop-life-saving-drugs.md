@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
 quality: 104
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Aindo uses generative AI to develop synthetic data. Check out the 13-slide pitch deck used to secured $6 million."
-    excerpt: "The startup generates artificial data points for AI companies, so they can train their models."
-    publishedDateTime: 2023-10-18T08:01:00Z
-    webUrl: "https://www.businessinsider.com/aindo-pitch-deck-generative-ai-startup-secures-6-million-2023-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
-    images:
-      - url: "https://i.insider.com/652e5bef6561dd877e7c2859?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "/TT3cjGlu/RAgyW3lNtWoMdUdQEXY7aGvGKLvn7FFDmwkuT/rl1wGb4ERLiyv+8bXOpDPIIr4I3ZcUC4b265A+nKqTXcbjnJsU7BjOOR6hsq5UsE9wFhrS8jwsSl3QPhgHn2eMqgFVkb/EhRMFAABfaMqIrMSQam5vKoXMMaLLbEkugfeOj/ibyEBWn2I8pDvwvbpqAbgRyCKdX90SIR+lp2NGV0yajqm7Tt69CZbXcozauvpwakycqohQpj+Ik73OxxRoosuA5ctV+EiJF4TNmuAjPDtPeNdlE1dcvsm29H1R4G+2Nwz1xTzkXnluVGIs0XSWMkf5EsdbeSXH5dxMCZrXpqllh7SxIasRNu91+Z7fANopzKwXJx1dJULMOsHqfVSb3S8pFDG3YwDDvXiKlyx9PxeBV7zagojwPMFeJDkyTQK3WMRBdndCyyJnfNl5OaTjXPr6UdPF2idDuYeWmRvVMYTrfq3dZCkfAQit7jUfMidEN1db0vwaHTybKWIX+2GzXavq+/4HSoEITEtw==;lqEPQFLbYGHBVYfEG8IjFg=="

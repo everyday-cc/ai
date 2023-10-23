@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/business/tech/look-farm-robots-plant-tr
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/look-farm-robots-plant-tree-saplings-at-gitex-global-dubai?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "GITEX GLOBAL 2023: Dubai Police unveils virtual cop, luxury marine and self-driving patrol vehicles"
-    excerpt: "Dubai Police is presenting several innovations, modern technologies, and services at the exhibition, aiming to enhance its role in enabling community security"
-    publishedDateTime: 2023-10-18T08:41:00Z
-    webUrl: "https://gulfbusiness.com/gitex-global-dubai-police-virtual-cop-patrol-cars/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 25
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2023/10/Dubai-Police-unveils-virtual-cop-luxury-marine-patrol-car-Image-Dubai-Police.png"
-        width: 876
-        height: 554
-        isCached: true
 
 secured: "ZPXbUWzy9WVVuRqa14U1/kazQn6qgYj8ug3cmRGGyfjF5MFSjRK96ODrXDU4v4W3OSGGdqBWC2q75DjmrJ4JOjaE2At9241sNaF/A3kJltwt0QjTFeDQlhleuuCxxWc7JvEW3GbSM1NeZYPNcCm6avU8qXJYm918NKiP4iv6Z+U+jS/1PDKhkJiHlkugZkNot64l8TEG5FCE81G01Xph2BdLkHXh7/DKXBSkrTiKZCCgvuJTODRnqerU07cGHUMA8pf6qM1Z6cQ6dfUofvLMSNBREN2QeDCIHEXozPEXYmYX0d9mHL0OyfUB7QZAu/zDLUXSjAEVThlSzjhIDdrME0UJ+JSVxm6k78VttlBsk0s=;rEFcDNCOXNXZFYHszIiPJQ=="
 ---

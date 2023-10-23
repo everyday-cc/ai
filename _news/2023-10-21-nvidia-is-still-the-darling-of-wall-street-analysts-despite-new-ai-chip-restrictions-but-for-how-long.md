@@ -57,6 +57,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
+  - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
+    excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."
+    publishedDateTime: 2023-10-23T00:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/analysis-us-chip-curbs-give-huawei-a-chance-to-fill-the-nvidia-void-in-china-0"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 46
 
 secured: "iywtDBudj3ybOoMrNljIBe9Asx/hO6WWPXEC7/lKhaGyZZkwMb3O1KKvGSA9Bc0B9F68wfZCaTnDIE23fNtd2KSVl7AuaKB/vXFa0KpfQM1XtW5f1wNYdHAZTNDhpAewLMp+EhwMypKs10O+w5iI42iJYpQdCLr80029EAudww6lrnSVJDxpUyZJZm1vQCGRNBDt+2nshxbq3IACFVDQvqGYF7JJfSjYYuH/WDVm2o+6p+4tVbc4+G4eHoIE4Icr47PQD3/s7HKHIWGJo8vrCALq5HmFohoWt2DhjDydyB7lIANIaBlg0xa1b8Z8fVmMMOF2LfmOTYmp1GjJ8UbIXIdrr5nfDvGTfut/AoFgNDUQXeOcDs+YTX0QWXd5iAemS6lwSrcpWqZt3yi8zsZCckl0GtNLhioqLXQOgK1QFMzsxjXFfBppMNXidf0f1yKRAlksSK+J+yC0v6K/wrYvOC5PrHM1kRlR08uTrDuHmcfoMR1Ggqk9Oy5G4ba5lmWsj20Y6P5GpjLJNIVPrnAb8w==;D6Iu800QRG5jC6Y7ZXc3eg=="
 ---

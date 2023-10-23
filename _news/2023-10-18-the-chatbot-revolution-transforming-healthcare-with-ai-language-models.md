@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the AI revolution: A journey through 3 phases of understanding"
-    excerpt: "It’s been a confusing few months for everyone involved with digital technology. Whether provider or consumer, we are all struggling to make sense of the latest wave of AI-driven digital advances."
-    publishedDateTime: 2023-10-18T08:41:00Z
-    webUrl: "https://digileaders.com/navigating-the-ai-revolution-a-journey-through-3-phases-of-understanding/"
-    type: article
-    provider:
-      name: Digital Leaders
-      domain: digileaders.com
-    quality: 38
-    images:
-      - url: "https://digileaders.com/wp-content/uploads/2023/10/shutterstock_2235931143-scaled-e1697618370511.jpg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "Artificial intelligence has impact and revolutionises social development"
     excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
     publishedDateTime: 2023-10-20T02:31:00Z

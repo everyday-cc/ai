@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Driverless cars are multiplying on Texas roads. Here’s what you should know."
-excerpt: "It’s 8 p.m. in downtown Austin, and the electric cars silently exit the parking lot one by one — but no one is behind the wheel of any of them. The Cruise depot is full of people preparing the cars for another night of road testing."
-publishedDateTime: 2023-10-05T22:10:00Z
-originalUrl: "https://www.chron.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
-webUrl: "https://www.chron.com/news/local/article/driverless-cars-multiplying-texas-roads-18408925.php"
+excerpt: "According to the Texas Department of Transportation, multiple companies are testing and operating driverless vehicles “as passenger, freight and personal delivery devices” all over the state. The list includes Kodiak, Aurora, Waabi, Torc, Plus.AI, Gatik, Cruise, Volkswagen, Waymo, Starship, Kiwibot, Coco, Refraction.AI, Nuro, and Clevon."
+publishedDateTime: 2023-10-06T01:16:00Z
+originalUrl: "https://www.kvue.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+webUrl: "https://www.kvue.com/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+ampWebUrl: "https://www.kvue.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
+cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/news/local/driverless-cars-in-austin-texas/269-02b10bed-3fcd-46de-bde7-0c76ab01e08f"
 type: article
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: KVUE
+  domain: kvue.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "HjUnlDBASmIyhfy3LkLIs0Ym4AdsYBzduiOkasmT5euwmgvEoHcKeAIzuWPaM5MLy4d3XZb7uGj1rRVhh6BFEglmI96hXnOHcD0LYfKbGvSziT+mkI15jwygJiLR/SvJDdjSOp2jf9GtSrMvDZDKUBPGb8bi+FaLozihU1Np7YhxFPumw2Oh2atRff9ycmbK2HP/fUtY1uLiltvs+it17aq/ysrnCPZNhsyQAWKJuj5qzXw11/E2vPdpWOUIlDP9w2gYLDus4KKLrWWXP6s0FV4DEMctzwwlHoaimvI3XEP4SYjicBGf9771K0uYgietsQNR030xanvPweCPbfSSJ1nPFthuI8QqugTPM2Gzd6hCXZTPw0zF2YKDVZkzGH8cY52BD0w7QXuL+btX0hlb9eWgcemwk/+QtwhlK9De0GH1Udl9pvTHpBM+/rJGCBDgmDSCFjEB7Tj0bRGLEoxPK/v+Qs9BSqbQQfps+JikyZ7zA2dVeGyuH0KFG1oeKJDfZPl2+l2vsvoZmO3b0LwCPQ==;ah6fOkCy6tMFS7vona04eA=="
+images:
+  - url: "https://media.kvue.com/assets/KVUE/images/f8780d49-b3b5-44ae-a983-32e51110b0a4/f8780d49-b3b5-44ae-a983-32e51110b0a4_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
+
+secured: "LyQqOXwUsri6dPjwwWmwei4ouPMEDneZcSrWwwcoq5WYNBWNbKseBFxIMdIjF1/MynCwBURZkYAfQkurIzUNLs7wVN8kqwnGZwt5DUXJgep8RQQ2ArnKMkEMYF6vLglfiZs4eN7zXMEmChGX4ChG127wuSIKb5z6RadOsBae9G17Amq1z7NGp3/h9H3nEtpaT4CF61t9pdfivVTKvpQlbjUJHVEUEQ4yO+ECYpt0SrFM0cYjqmpM+I7yR0ZdD7epUXb+Smt12ZXFgpHCmcV8s8NW1igmgGfHvNLhTOenKVhKgrr+3Y2JUoQ7XyFGUEiAPBpeuFjU4ErHMj5IP1gitfdLZb/ijSO3jcQFlhV7Sfo=;6MDHe/RzE5cefYDKSIDlJQ=="
 ---
 

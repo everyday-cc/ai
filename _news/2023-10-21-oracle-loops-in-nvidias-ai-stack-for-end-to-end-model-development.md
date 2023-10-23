@@ -74,22 +74,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Nvidia, Foxconn partner to start building AI factories"
-    excerpt: "AI factories are data centers with infrastructure specially built for processing, refining, and transforming vast amounts of data into valuable AI models and tokens."
-    publishedDateTime: 2023-10-18T08:37:00Z
-    webUrl: "https://www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI chip start-ups: Nvidia is proving a difficult stone to dislodge"
     excerpt: "Non-chip AI start-ups are still popular with investors, but less so semiconductor start-ups. Excluding China, VC deals dropped 25 per cent last year, according to PitchBook data. Nvidia ’s domination, estimated at 90 per cent of the market, appears to have dented confidence elsewhere."
     publishedDateTime: 2023-10-18T10:39:00Z
@@ -285,15 +269,6 @@ related:
         width: 696
         height: 393
         isCached: true
-  - title: "6 Generative AI Startups to Watch in 2024"
-    excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."
-    publishedDateTime: 2023-10-18T08:17:00Z
-    webUrl: "https://www.techopedia.com/6-generative-ai-startups-to-watch-in-2024"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 17
 
 secured: "CzetInm4RdG/S39wAmvnu0EedCx5YekfDiXALcahepfMcPNa1LnatSSm1ka8I14TwKRhDvd/SZ09S0m6YvSUlPGGu1lKO6wUxprWfRbwc+Z+tx6nPL+ffT0mYDiru2Xlix3WOkaQ72G4rHeOQVvOUn1+a/pRn2LO8rdavPTR4M6nObXzMVbqW7YjzvCUNufyQBJSQPwAZRZnExfhoaurrvhadoqRqrJFBSCdCmDj4p3YIX/gEqbxNKM/FDyXngBZuym7v9pfnqrpD9vdqPshuy/JjtnulTxUDB0DsJ7Fs4+tVkc7RDJgLnxVU0sEq3FzefjOmvNRyKP/whRKP5k8zR00pf10Ot2HyVqLsv7dgB1AD3T2ieWhpNDo05pSFgd+bXafl8m6t6VU+OKJkiVyGlGnwZffDl8GPV/6G71ANu9TSXn4sJ9KBIqBSZ+ePpvdOKvVLaBADugGu/rQ8sqZgpHc4QnViwdS4sIhFjnM3jIF5bSYXPioyYe6V7GBNIBC1EJcKlUiwQRt/Rk6UAOM6w==;oQMTY9NNSLXk9gPBD0OPGg=="
 ---

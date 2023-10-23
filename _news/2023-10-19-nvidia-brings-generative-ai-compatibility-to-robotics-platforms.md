@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/nvidia-brings-generative-ai-compatibility-to-robotics-platforms/amp/"
 type: article
 quality: 119
-heat: 319
+heat: 299
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all"
         width: 1199
         height: 685
-        isCached: true
-  - title: "Nvidia, Foxconn partner to start building AI factories"
-    excerpt: "AI factories are data centers with infrastructure specially built for processing, refining, and transforming vast amounts of data into valuable AI models and tokens."
-    publishedDateTime: 2023-10-18T08:37:00Z
-    webUrl: "https://www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "AI chip start-ups: Nvidia is proving a difficult stone to dislodge"
     excerpt: "Non-chip AI start-ups are still popular with investors, but less so semiconductor start-ups. Excluding China, VC deals dropped 25 per cent last year, according to PitchBook data. Nvidia ’s domination, estimated at 90 per cent of the market, appears to have dented confidence elsewhere."
@@ -286,15 +270,6 @@ related:
         width: 696
         height: 393
         isCached: true
-  - title: "6 Generative AI Startups to Watch in 2024"
-    excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."
-    publishedDateTime: 2023-10-18T08:17:00Z
-    webUrl: "https://www.techopedia.com/6-generative-ai-startups-to-watch-in-2024"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 17
 
 secured: "4JWZNULMWpHqjKS6phTseYmo7zBJ829BEt2QFFJ9tuonAAOahXPZ9PkScwNmEp7COR5aiMQOYineovOw+EflgtR7uvYFQE0tLn4SdVdwAzUWhua7RLgzVTI1RP2bVWVTOiICYekxysioOW4U4FTQra5v8w3KlI7z2mVV4FI79+Z0bW59c6vY/PKO+N+Inz/HxxSoopdUnvhRY0cnewmDMMh55L3WYP3O99aFCetq8+swshop6dw3w4KQeuIuLC0QwIRrO++6+qR8u5WLNgIPYp0sf9Fr0v0altzexZmXufYgHY7Tf5Lx6+30OEg4StpCl6mB2AvT95+iP1oqWnlW2Kw3hqscltez4xpf/OGSDL0=;fAnuia2T+iMFeilI20h5yg=="
 ---

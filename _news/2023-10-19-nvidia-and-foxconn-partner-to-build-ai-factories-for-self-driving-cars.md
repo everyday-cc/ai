@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-
 webUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html"
 type: article
 quality: 70
-heat: 160
+heat: 130
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Tech giants Foxconn, Nvidia announce they are building 'AI factories'"
-    excerpt: "Taiwanese tech giant Foxconn and US hardware leader Nvidia said Wednesday they would team up to create \"AI factories\", powerful data processing centers that would drive the manufacturing of next-generation products such as electric cars."
-    publishedDateTime: 2023-10-18T07:46:00Z
-    webUrl: "https://techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-tech-giants-foxconn-nvidia-ai.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2023/chairman-of-foxconn-te.jpg"
-        width: 1280
-        height: 852
-        isCached: true
   - title: "Nvidia and iPhone maker Foxconn to build \"AI factories\""
     excerpt: "The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called \"AI factories\". The firms say it is a new kind of data centre that uses Nvidia chips to power a \"wide range\" of applications. They include training autonomous vehicles, robotics platforms and large language models."
     publishedDateTime: 2023-10-19T03:09:00Z
@@ -75,34 +59,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/DB8F/production/_131470265_gettyimages-1258356137.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Apple supplier Foxconn to build ‘AI factories’ using Nvidia’s chips and software for a range of applications including self-driving cars"
-    excerpt: "Foxconn and Nvidia plan to build ‘AI factories’ globally, creating a new type of manufacturing anchored on artificial intelligence."
-    publishedDateTime: 2023-10-18T07:47:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3238352/apple-supplier-foxconn-build-ai-factories-using-nvidias-chips-and-software-range-applications"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 53
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/18/d2485d09-8125-4128-86f5-548aefde33b0_bdd7a2b0.jpg?itok=kPPTwgXK&v=1697615219"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Foxconn and Nvidia team up to build 'AI factories'"
-    excerpt: "\"In the future, every company, every industry, will have AI factories.\" Nvidia, the world's most valuable chip company, said in a statement that the AI factories would use its chips and software, including its cutting-edge GH200 superchip that it is barred ..."
-    publishedDateTime: 2023-10-18T07:49:00Z
-    webUrl: "https://www.aol.com/foxconn-build-ai-data-factories-023559146.html?ref=biztoc.com"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/e2b7e251066f1b19b05e55e371a3bc4b"
-        width: 800
-        height: 533
         isCached: true
   - title: "Nvidia and Foxconn partner to develop ‘AI factory data centers’"
     excerpt: "Nvidia and Foxconn are partnering to develop data center modules for AI-powered factories based on the GPU-maker's Grace Hopper chips."

@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "AI Could Be Apple’s Next Chapter"

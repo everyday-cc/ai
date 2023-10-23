@@ -43,15 +43,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Ex-Apple Engineer's Startup Sells AI-Powered Surveillance Towers"
-    excerpt: "Lambda Automata, a Greek startup from a former Apple Inc. roboticist, is the latest defense newcomer to raise money from venture capitalists betting on the expanding demand from governments for military technologies."
-    publishedDateTime: 2023-10-18T08:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-18/ex-apple-engineer-s-startup-sells-ai-powered-surveillance-towers"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "eG706Ml7ytZ4dIcFsNm/QI9BgwaM+pSJhYzqUOYhwTgWbue2ROOF41Caa4JLVcrgMJqKOSE7OrqCu6BwzD3jqCiCicNNRTskivJRi3IK4uHTkkSVwz0KeXreLLR+WtkAvoxj/qZA6vBHzVwBIYZjScsJH/elFeJLyVikyesAIL9qGRgi1Wgs997abRiO8A7E7YDOExUGR3iayCdfCtLGBBSENgdzGIwnLwQojFQXIBSCKSbewm2E7GFitPVddTUbGFrw7p7F7tlqJHG3l7OwXvi39c8FjPmw1hDE7XMLAQM7eCtjY2QHtG7rIfgnhIh5R4OTTU56fLmVU7Z+gDUIgFV6ltKBJJJzi/JA3VaJ6AI=;KREm0Pj45sEqtpI81JxrKQ=="
 ---

@@ -85,22 +85,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Nvidia, Foxconn partner to start building AI factories"
-    excerpt: "AI factories are data centers with infrastructure specially built for processing, refining, and transforming vast amounts of data into valuable AI models and tokens."
-    publishedDateTime: 2023-10-18T08:37:00Z
-    webUrl: "https://www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708670/nvidia-foxconn-partner-to-start-building-ai-factories.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Foxconn to build AI data factories using Nvidia chips and software"
     excerpt: "Taiwan's Foxconn, the world's largest contract manufacturer, will build artificial intelligence data factories using Nvidia chips and software to make products including self-driving cars, the companies said on Wednesday."
     publishedDateTime: 2023-10-18T09:35:00Z
@@ -282,15 +266,6 @@ related:
         width: 696
         height: 393
         isCached: true
-  - title: "6 Generative AI Startups to Watch in 2024"
-    excerpt: "With generative AI rapidly developing, Techopedia looks at 6 of the top generative AI startups to keep on your radar in 2024."
-    publishedDateTime: 2023-10-18T08:17:00Z
-    webUrl: "https://www.techopedia.com/6-generative-ai-startups-to-watch-in-2024"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 17
 
 secured: "l9qhXg19VEea5fCH97YPCYIeJK2yCAKIOblVtqEBzUM9ZfFbXytorvpEGyaIpRDoo0rFKTLeDnZvkTl9TIZhX5XGCiEItdcnjciZTPMvUVOrpeBeeO/lxsyDbs6DyPbSPck7VG9ktDoD1EXPe2rXfbL7Kvi1HAe5TdJ7e6mwBA2reYroWVvc7qvyLchn+k+JR/oylf7+RHppLPdtrWEdb5/QrCqKFggJUMNzp1tdRAmNKTECVnxczx4OIDr/voZMuoC2wm/jwtBp3Al+s95N8Ss0jUkwUxEyqh2FtkzaJf+s2wOKrErBFX77utPa7z6xOPGDSygMP073J4oCLicby7tVvy6uIP9HhBga9KRwNms=;3N8am2I5UeHME8EXJak1yQ=="
 ---

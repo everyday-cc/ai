@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Generative AI Will Upend The Doctor-Patient Relationship"
-    excerpt: "After decades of \"doctor knows best,\" the traditional physician-patient relationship is on the verge of a monumental shift."
-    publishedDateTime: 2023-10-18T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/"
-    ampWebUrl: "https://www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2023/10/18/how-generative-ai-will-upend-the-doctor-patient-relationship/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/652f16896608c6f73564bc22/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
     excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
     publishedDateTime: 2023-10-20T13:37:00Z

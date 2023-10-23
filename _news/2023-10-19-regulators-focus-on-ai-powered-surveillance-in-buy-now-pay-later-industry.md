@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Ex-Apple Engineer's Startup Sells AI-Powered Surveillance Towers"
-    excerpt: "Lambda Automata, a Greek startup from a former Apple Inc. roboticist, is the latest defense newcomer to raise money from venture capitalists betting on the expanding demand from governments for military technologies."
-    publishedDateTime: 2023-10-18T08:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-18/ex-apple-engineer-s-startup-sells-ai-powered-surveillance-towers"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "0NpRod4ctL7WaQZ6W/b1WzGxGEBEsxGXXXuClSRoUB5mBrDugdOZ1v8Iul/QXlQHHUS5yLphbHEcXVkw1sktG+onnhyM2fw3JaZexyukyC1Bocx1eszX9xLfrxfkSLMQLTqDQ2iVirYCavg9n1/p9/FQlEO5DAU+ymdNlsk3P3ERrVUs6XT/+wu2Ja3i3nZyuRf58QdQvNh8mTUCPLPBti4ezoByKhtXFxMjz5EkKln27vxpSERqPnrwW1XDcf1BEGq7+4sy3T7njFaUU3y4K4k+NpckvaLreXlEXDGimzUGBKKduj/IbXI+vuLKlNrgh5xPZQ15XQIut73+olBkanekjYpGRtq6Tg/ELps7HiM=;h6rEgBvZSVcPil3h6JH2vg=="
 ---
