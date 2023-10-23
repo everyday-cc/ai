@@ -65,22 +65,6 @@ related:
         width: 1672
         height: 940
         isCached: true
-  - title: "The UAE’s Artificial Intelligence Office partners with Core42 to enhance national talents"
-    excerpt: "This initiative encompasses comprehensive training programs designed to strengthen collaboration structures within technical fields"
-    publishedDateTime: 2023-10-18T07:08:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/the-uaes-artificial-intelligence-office-partners-with-core42-to-enhance-national-talents-urxc7qc5?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 48
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/OTg4MDRiMzEtNjdkMS00/0/webversion-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Navigating AI hallucinations and biases towards a safer fintech future"
     excerpt: "Fintech players are expected to move quickly to harness the power of generative artificial intelligence (GAI) to improve their service offerings and remain competitive. But is the fintech sector fully aware of the risks that need to be managed at this turning point?"
     publishedDateTime: 2023-10-18T08:22:00Z

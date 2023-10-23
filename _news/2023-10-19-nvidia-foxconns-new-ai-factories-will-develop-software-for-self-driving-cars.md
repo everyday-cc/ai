@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA, Foxconn partner to build 'AI factories' for self-driving cars"
-    excerpt: "Tech giants NVIDIA and Foxconn are teaming up to create AI factories that will offer supercomputing power for developing self-driving cars, autonomous machines, and industrial robots"
-    publishedDateTime: 2023-10-18T06:56:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/foxconn-and-nvidia-plan-to-develop-ai-factories/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l75520231018115128.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NVIDIA and Foxconn team up to build AI factories: will build self-driving cars, and more"
     excerpt: "NVIDIA and Foxconn are collaborating on developing 'AI factories' with the two companies set to become leaders in the AI manufacturing revolution."
     publishedDateTime: 2023-10-19T01:10:00Z

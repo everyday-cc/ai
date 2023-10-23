@@ -2,6 +2,189 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2023-09-08-mobileye-finds-successful-route-to-autonomous-driving-tech.md",
+      "title": "Mobileye finds successful route to autonomous driving tech",
+      "excerpt": "Consulting firm Guidehouse Insights ranks Mobileye atop its 2023 list of automated driving technology developers above Cruise, Waymo and Chinese developer Baidu ... to get self-driving cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/suppliers/mobileye-ceo-amnon-sashuas-successful-route-automated-driving",
+      "originalUrl": "https://europe.autonews.com/suppliers/mobileye-ceo-amnon-sashuas-successful-route-automated-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/MOBILEYE_CEO-MAIN_i.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-machine-learning-contributes-to-better-quantum-error-correction.md",
+      "title": "Machine learning contributes to better quantum error correction",
+      "excerpt": "Researchers from the RIKEN Center for Quantum Computing have used machine learning to perform error correction for quantum computers—a crucial step for making these ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.html",
+      "originalUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/machine-learning-contr-1.jpg",
+          "width": 1280,
+          "height": 1113,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-09-machine-contributes-quantum-error.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-09-machine-contributes-quantum-error.amp",
+      "publishedDateTime": "2023-09-07T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-08-startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003.md",
+      "title": "Startup Battlefield 200: Fintech and Hardware edition at TC Disrupt 2003",
+      "excerpt": "That’s where you’ll find the Startup Battlefield 200 ... without some cool hardware gadgets and robots. Early-stage startups are using their genius to create firefighting hardware, testing devices, a special AI-enabled machine that tells you exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/",
+      "originalUrl": "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/SUB200-General-Article-Image-Header-1920x1080-1.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/09/07/startup-battlefield-200-fintech-and-hardware-edition-at-tc-disrupt-2003/amp/",
+      "publishedDateTime": "2023-09-07T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-09-07-enable-pod-based-gpu-metrics-in-amazon-cloudwatch.md",
+      "title": "Enable pod-based GPU metrics in Amazon CloudWatch",
+      "excerpt": "This post details how to set up container-based GPU metrics and provides an example of collecting these metrics from EKS pods.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-pod-based-gpu-metrics-in-amazon-cloudwatch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-07T11:14:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-09-08-can-empathy-boost-customer-service-levels-in-banking.md",
       "title": "Can Empathy Boost Customer Service Levels In Banking?",
       "excerpt": "While empathy in banking isn’t new and it has been benefitting financial ... engagement and better service levels in banking. In fact, new tech – cloud platforms and new data tools like Artificial Intelligence and Machine Learning are empowering ...",
@@ -999,186 +1182,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications.md",
-      "title": "The road ahead for self-driving vehicles is littered with complications",
-      "excerpt": "Recent developments in San Francisco highlight some of the controversies over self-driving cars. The California Public Utilities Commission authorized a 24/7 test deployment of 200 self-driving taxis.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/",
-      "originalUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/4187802-the-road-ahead-for-self-driving-vehicles-is-littered-with-complications/amp/",
-      "publishedDateTime": "2023-09-07T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-building-ai-for-business-ibms-granite-foundation-models.md",
-      "title": "Building AI for business: IBM’s Granite foundation models",
-      "excerpt": "Explore IBM's Granite foundation models, from how we built them to how they can help you further apply generative AI in your business.\nThe post Building AI for business: IBM&#8217;s Granite foundation models appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
-      "originalUrl": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-facebook-trains-its-ai-on-your-data-opting-out-may-be-futile.md",
-      "title": "Facebook Trains Its AI on Your Data. Opting Out May Be Futile",
-      "excerpt": "Here's how to request that your personal information not be used to train Meta's AI model. \"Request\" is the operative word here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
-      "originalUrl": "https://www.wired.com/story/facebook-trains-ai-your-data-opt-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64f8e6ac3e1a7b4810e35758/191:100/w_1280,c_limit/Facebook-Trains-Its-AI-on-Your-Data.-Opting-Out-May-Be-Futile-Security-GettyImages-1408270724.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-07-meet-generative-ais-super-users-70-of-gen-z-use-genai.md",
-      "title": "Meet generative AI's 'super users': 70% of Gen Z use GenAI",
-      "excerpt": "Gen Z and Millenials are generative AI's \"super users,\" or users who use the technology frequently and believe that they are close to mastering it. Almost half (48%) of Gen Z believe they are on their way to mastering the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "originalUrl": "https://www.zdnet.com/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/474efc9bfad8c3d8a9d90f6d09c8677405713299/2023/09/07/71f4bcfe-1d17-4eb6-a88c-3b0c8c028e32/gettyimages-1359131910.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-generative-ais-super-users-70-of-gen-z-use-genai/",
-      "publishedDateTime": "2023-09-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -40,7 +40,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 44
+    quality: 46
   - title: "AI generated images another potential social media hazard"
     excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
     publishedDateTime: 2023-10-20T21:46:00Z

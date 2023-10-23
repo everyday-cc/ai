@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-21T23:51:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
 webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 related:
   - title: "Evaluating social and ethical risks from generative AI"

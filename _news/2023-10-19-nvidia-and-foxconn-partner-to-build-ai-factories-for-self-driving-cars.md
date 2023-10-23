@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-
 webUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html"
 type: article
 quality: 70
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -117,20 +117,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Grace_Hopper_Image.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "NVIDIA, Foxconn partner to build 'AI factories' for self-driving cars"
-    excerpt: "Tech giants NVIDIA and Foxconn are teaming up to create AI factories that will offer supercomputing power for developing self-driving cars, autonomous machines, and industrial robots"
-    publishedDateTime: 2023-10-18T06:56:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/foxconn-and-nvidia-plan-to-develop-ai-factories/story"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 39
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l75520231018115128.jpeg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Nvidia, Foxconn’s New AI Factories Will Develop Software For Self-Driving Cars"
     excerpt: "Nvidia CEO Jensen Huang and Foxconn CEO Young Liu unveiled AI factories at the fourth annual Hon Hai Tech Day Tuesday. These data centres will not only build Foxconn’s newest electric vehicles but also design the software that powers the fleet of self-driving cars."

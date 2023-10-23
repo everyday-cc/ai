@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-18-amazon-unveils-new-cloud-storage-offerings-at-aws-storage-day.md",
+      "title": "Amazon Unveils New Cloud Storage Offerings at AWS Storage Day",
+      "excerpt": "Amazon Web Services AWS announced new features at AWS Storage Day, updating FSx for Lustre, air-gap backups for AWS Backup, and expanded AWS DataSync targets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65077956e2206c3c22fdab65/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/09/17/amazon-unveils-new-cloud-storage-offerings-unveiled-at-aws-storage-day/amp/",
+      "publishedDateTime": "2023-09-17T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-17-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "excerpt": "Artificial intelligence (AI) is already beginning to ... on its online marketplace and to enhance its Amazon Cloud Services (AWS) business. Not only is Amazon continuing down the AI path, but ...",
@@ -1391,49 +1444,6 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-migrate-and-modernize-ibm-maximo-with-aws-and-red-hat.md",
-      "title": "Migrate and modernize IBM Maximo with AWS and Red Hat",
-      "excerpt": "The recommended options for running IBM MAS on AWS, the architecture and how components come together and provide a solid foundation for running IBM MAS.\nThe post Migrate and modernize IBM Maximo with AWS and Red Hat appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/migrate-and-modernize-ibm-maximo-with-aws-and-red-hat/",
-      "originalUrl": "https://www.ibm.com/blog/migrate-and-modernize-ibm-maximo-with-aws-and-red-hat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-30T07:53:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AWS AI"
       ]
     }

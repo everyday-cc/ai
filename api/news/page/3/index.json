@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-10-19-make-music-count-embeds-watsonx-to-make-perfect-music-with-math.md",
+      "title": "Make Music Count embeds watsonx to make perfect music with math  ",
+      "excerpt": "Make Music Count is a new, multidisciplinary approach to learning math that centers play—and the piano—in the student's experience.\nThe post Make Music Count embeds watsonx to make perfect music with math   appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/make-music-count-embeds-watsonx-to-make-perfect-music-with-math/",
+      "originalUrl": "https://www.ibm.com/blog/make-music-count-embeds-watsonx-to-make-perfect-music-with-math/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-responsible-ai-the-art-of-balancing-power-with-responsibility.md",
       "title": "Responsible AI: The Art Of Balancing Power With Responsibility",
       "excerpt": "AI’s unprecedented reach and speed have also sparked debates about potential misuse. What's the way forward?",
@@ -506,7 +549,7 @@
       "originalUrl": "https://www.zawya.com/en/business/fintech/mozn-and-uae-based-astra-tech-partner-to-fortify-fintech-security-via-ai-capabilities-bjzi3hwq",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1093,7 +1136,7 @@
       "originalUrl": "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -1188,57 +1231,6 @@
         "IBM AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai.md",
-      "title": "What LinkedIn Is Getting Wrong, And Why They Need To Be Google For Business. (hint It’s AI)",
-      "excerpt": "LinkedIn should be a Camera Obscura for the professional realm. LinkedIn's primary revenue focus is unsustainable. Relying heavily on revenue from recruiting firms",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/",
-      "originalUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/653010b23ac572e4831d3103/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelgale/2023/10/18/what-linkedin-is-getting-wrong-and-why-they-need-to-be-google-for-business-hint-its-ai/amp/",
-      "publishedDateTime": "2023-10-18T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

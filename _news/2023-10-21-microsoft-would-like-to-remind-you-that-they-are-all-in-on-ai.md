@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/20/microsoft-would-like-to-remind-you-that-they-are-all-in-on-ai/amp/"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft's new AI assistant can go to meetings for you"
+    excerpt: "Carissa Veliz, associate professor at Oxford University's Institute for Ethics in AI, said she was also concerned about people becoming overly dependent on such tools. \"What happens if the tech fails, or it might be hacked? There might be a glitch ..."
+    publishedDateTime: 2023-10-22T22:59:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-67103536.amp?trk=public_post_comment-text"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-67103536.amp?trk=public_post_comment-text"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-67103536.amp?trk=public_post_comment-text"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 76
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/41F6/production/_131468861_gettyimages-607477465.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "DCT Abu Dhabi and Microsoft sign MoU on generative AI, cloud technologies"
     excerpt: "The alliance enables innovation in key areas such as generative artificial intelligence (AI) and cloud computing and brings together both organisations’ capabilities and resources to enhance the touri"

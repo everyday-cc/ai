@@ -1,8 +1,8 @@
 ---
 category: news
 title: "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability"
-excerpt: "It supports and enhances cross-channel media measurement workflows in AWS data lakes, media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich ..."
-publishedDateTime: 2023-10-17T13:06:00Z
+excerpt: "media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich their cloud data infrastructure by unlocking more granular insights about their customers."
+publishedDateTime: 2023-10-17T00:00:00Z
 originalUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
 webUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
 type: article
@@ -16,6 +16,6 @@ topics:
   - AI
   - AI in Marketing
 
-secured: "pZ2xXyHG1lfcInwHqKzWbNH5IGGjhHIHw0/pMVe9lYvDG6Y1JlzVnmaUQXk1LpEJtbzqAJH2ex1U/KqAzZx4Dw4iiNatnaj6f8DPgJ+c2lMJ6RZO6CQc8O1SjrCVWOgagjW5s/33KKgUISDwVyXpcPpGaeFArwnh7HRloCJQsbqnnraaUSih4cRm/f8fECfxLtBAYUskhEGyFPmxRBoL+Vb2mrDsbpLK85UOAP/rV+GdxhC64bje5yHavQIFS1hNVBTw8YHABrn73m6EfByYuBUbCLQRGq0Z3m+Kd4YREm0zs8mKf7/pqJaiyXCSPcmJly9mr5EuAuA+J4B6bzLywoEVw8Jdr7C5WYNURPlnWP8=;+pAYInWrP/b3GzcPVMxOCw=="
+secured: "VyJHfOZGZcg1dAC/+UvOCYXwsWR/Zp8I1FGikM/GD6k2qpKumIrWzEzLmZLvpp7aRRi61c2qVy8lL6IXdv2BDCzAi4eqiYGsNweHJUv6bAMdMucvjsxb3cIB05axvtbqR4ZkeHsGuYXt+JPDUiJUJLsDvEK5351anRSs17goSHWgSHRMkawg7zy49PXnKdyLXdNN6fKClM06mBuqoj7a3jwv4olMunqUbk/xwntqzxdXJYFh6alzWOrIBwT6r+1QDT4CvUIH2D8m2hoeE0vMu4jaGS+OIpy8WmkmZlab3CJJnu6MmbYRp4eLjyleuVzIjxKPOedwiignIwjOUKxiRmfXO/hQu0pBi/3ONVIozUc=;CvJs+zJeRTcJJi7WtpbpyQ=="
 ---
 

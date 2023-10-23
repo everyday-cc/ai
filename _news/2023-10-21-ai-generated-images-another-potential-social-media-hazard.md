@@ -50,7 +50,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 44
+    quality: 46
   - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
     excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
     publishedDateTime: 2023-10-19T06:43:00Z

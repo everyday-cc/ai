@@ -95,15 +95,6 @@ related:
         width: 1032
         height: 580
         isCached: true
-  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
-    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
-    publishedDateTime: 2023-10-19T16:13:00Z
-    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 34
   - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
     excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
     publishedDateTime: 2023-10-20T08:15:00Z

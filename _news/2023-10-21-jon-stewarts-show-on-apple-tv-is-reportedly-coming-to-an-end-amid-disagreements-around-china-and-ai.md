@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/jon-stewart-show-apple-tv-ended-repo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jon-stewart-show-apple-tv-ended-report-china-ai-2023-10?amp"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Jon Stewart's show on Apple TV+ was reportedly canceled after a disagreement over coverage of AI and China"
+    excerpt: "As initially reported by The New York Times and confirmed by The Hollywood Reporter, Jon Stewart's Apple TV+ series The Problem with Jon Stewart was canceled just weeks before filming of the third season was scheduled to start."
+    publishedDateTime: 2023-10-22T23:43:00Z
+    webUrl: "https://www.pcgamer.com/jon-stewarts-show-on-apple-tv-was-reportedly-canceled-after-a-disagreement-over-coverage-of-ai-and-china/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 19
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/aGs2QMMeCATHcQNhEPyfE6-1200-80.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "TZpRYQ1nIsKZhdmZ8x9MemwVllniqgEJUfOBH25WRIXl8R/eH6DZABRd8mS87kZDDRW+U/wHmBee7FQMOWxNx575sZyzwcWPdu4Cb1/wRsytrQXyda3cPSQx5w2yLLp6gNFwGzIDUj/MRJ6lryQtdG5hM0wU9m6ZIa0QGVghwS3O25i0aIidXrWBWnjPNfF2XtbWQwsCzYvkNGs1zt/8PmS8rYXfzvmSNowZKTCmXx7wyB7efEsK/Ze4k0Fweh/v0iZ5XTGbntmFyUeb8gOQXdo4/xcBAighSAixSt81cy2oPbBkSox18ermIxkbFHEmqyA6aZFwTZwFIwubJWtfM5+k0VbZrl6joNDj0QJUdUfK4NEzst/KZs6BGc1VN5EbhgtFmfgol6e49O1hLWOrYbZtdkZoYHVo03ZOtKbW594lgl1JB/Q0Fwo0YeZxsKWeuPsci/b1TE4C6I5Rb3H4L79gQgv9nbYnTVwEdFEEenM4FSt7IG6UXX87YtI2LC6NJ+4qR7geL0ahSa7S5KknRA==;qAo9pA4IqN/AREP9GMRpjw=="
 ---

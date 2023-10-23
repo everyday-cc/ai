@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Product Chief Sees AI Chatbots as Tool to Lure Advertisers"
-    excerpt: "Meta Platforms Inc. Chief Product Officer Chris Cox said that AI chatbots will become an increasingly attractive tool for advertisers, rather than just a way to lure users, in a sign the company is pivoting the technology toward business customers."
-    publishedDateTime: 2023-10-18T05:23:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-18/meta-product-chief-sees-ai-chatbots-as-tool-to-lure-advertisers"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "O8fMCUdSKLxV/1c+VLWHVvh064uwKnxJmd2T8M/qt0gZyGWKgrq7cxli80kKC49wQbXzjoMVa8Dm1XuOVCr6t9qPpZXZMFPEDL74Bc8OSaObhREPjYyIORHQ3+4pw+Md2zz4U00iPsrDfU27sUu7cYbiW3ZcIvAJkXdwInIv9JVn7ta2VDRAcnd+hsMo+QfICLGUY17vh91R8pA1EsERP1SpvDe9IoQ/V0XiU49ZNPBCofOu5/WoMrWEN9aomIdnxE2F+5sdofuOtv2dke+FnPI6pTSyf9B4b9Q+zNu9dfmZ44QL8201zS+j3cRUsF1TcCxEK3kKT8DoI0Wn3wwDySO2kCRWE23ziB0R+TQkQnDUoYjtGONvyYxaH8G5ddfu0EFDKuEhTd3dWvcsEVjrOgEjZPFQKci/6iezqPKLTass7P4ZLeGis++vxF8umoT2PHF++a+O13QZmkKPak3/8VaZ0QEc4u2LE6BK8b9SGWEGlGAV7O5iWlJCM43S92N0IQSQDS8bjIEtnh/kt2Iq2w==;KLPPQSC4odFo2Fe533sj2g=="
 ---

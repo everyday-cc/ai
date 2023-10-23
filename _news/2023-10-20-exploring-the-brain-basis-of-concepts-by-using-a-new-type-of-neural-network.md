@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2023-10-exploring-brain-basis-concept
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-10-exploring-brain-basis-concepts-neural.amp"
 type: article
 quality: 72
-heat: 85
+heat: 86
 published: true
 
 provider:

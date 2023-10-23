@@ -2,6 +2,205 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2023-10-09-open-source-is-actually-the-cradle-of-artificial-intelligence-heres-why.md",
+      "title": "Open source is actually the cradle of artificial intelligence. Here's why",
+      "excerpt": "In a way, open source and artificial intelligence were born together. Back in 1971, if you'd mentioned AI to most people, they might have thought of Isaac Asimov's Three Laws of Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-text-to-video-retrieval-with-s3d-mil-nce.md",
+      "title": "Text-to-Video retrieval with S3D MIL-NCE",
+      "excerpt": "This tutorial demonstrates how to use the S3D MIL-NCE model from TensorFlow Hub to do text-to-video retrieval to find the most similar videos for a given text query. The model has 2 signatures, one for generating video embeddings and one for generating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/hub/tutorials/text_to_video_retrieval_with_s3d_milnce",
+      "originalUrl": "https://www.tensorflow.org/hub/tutorials/text_to_video_retrieval_with_s3d_milnce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-what-enterprise-software-vendors-are-doing-with-generative-ai.md",
+      "title": "What enterprise software vendors are doing with generative AI",
+      "excerpt": "SAP intends to build IBM’s Watson AI engine into much of its software portfolio, beginning with the SAP Start AP, where it’ll enable users to interact with SAP applications using natural language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html",
+      "originalUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2023/10/shutterstock_2102457385.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/649334/what-enterprise-software-vendors-are-doing-with-generative-ai.html/amp/",
+      "publishedDateTime": "2023-10-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-09-6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month.md",
+      "title": "6 AI Wellbeing Tools For Work You Should Try This Mental Health Month",
+      "excerpt": "In honor of Mental Health Awareness Month and World Mental Health Day, here is a round-up of six AI-powered work wellbeing tools you should try this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "originalUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/652309011529a35491ac37a1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2023/10/08/6-ai-wellbeing-tools-for-work-you-should-try-this-mental-health-month/amp/",
+      "publishedDateTime": "2023-10-08T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-09-generative-ai-throwdown-open-source-vs-proprietary-models.md",
       "title": "Generative AI Throwdown: Open Source Vs. Proprietary Models",
       "excerpt": "Generative AI, dominated by proprietary models locked inside big tech companies, is being disrupted by a new wave of open-source models.",
@@ -1005,197 +1204,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-datastax-tools-up-vector-database-for-generative-ai-application-development.md",
-      "title": "DataStax Tools-Up Vector Database For Generative AI Application Development",
-      "excerpt": "As the hurly-burly surrounding development of generative AI (gen-AI) with its use of open Large Language Model (LLM) technologies designed to create ever more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6520216ce19ce79d5fac2df5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/10/06/datastax-tools-up-vector-database-for-generative-ai-application-development/amp/",
-      "publishedDateTime": "2023-10-06T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-survey-challenges-and-solutions-in-generative-ai-adoption.md",
-      "title": "Survey: Challenges and Solutions in Generative AI Adoption",
-      "excerpt": "Most surveyed companies prefer a mix of public and private generative AI models. Security risks and technical complexity slows adoption down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "originalUrl": "https://www.techrepublic.com/article/it-survey-challenges-solutions-generative-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/wp-content/uploads/2023/07/trp-header-270x203.jpeg",
-          "width": 270,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.md",
-      "title": "The Valuation Reckoning: When AI Startup Darlings Hit Stratospheric Levels",
-      "excerpt": "It's been a wild year for AI companies – in the public market, where stocks like Nvidia have skyrocketed, but even more so in the private markets, where one in every four dollars invested in a startup is going to an AI-related company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
-      "originalUrl": "https://www.cnbc.com/video/2023/10/06/the-valuation-reckoning-when-ai-startup-darlings-hit-stratospheric-levels.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107313066-16966232146ED2-TC-Weekly-100623.jpg?v=1696626139&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-07-robotics-companies-raise-851m-in-august-2023.md",
-      "title": "Robotics companies raise $851M in August 2023",
-      "excerpt": "Robotics funding reached $851 million in August 2023, the result of 62 investments (See Table 1 below or download Table 1 HERE ). The total amount of funding for 2023 to date is about $8.85 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/robotics-companies-raise-851m-in-august-2023/",
-      "originalUrl": "https://www.therobotreport.com/robotics-companies-raise-851m-in-august-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-06T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

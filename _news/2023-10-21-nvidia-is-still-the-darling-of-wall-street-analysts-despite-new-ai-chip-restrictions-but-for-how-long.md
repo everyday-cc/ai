@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. Tightens Curbs on AI Chip Exports to China, Widening Rift With Nvidia and Intel"
-    excerpt: "The new rules, which significantly constrict sales of advanced semiconductors to the Chinese market, came despite intense lobbying by chip companies."
-    publishedDateTime: 2023-10-18T05:33:00Z
-    webUrl: "https://www.wsj.com/tech/u-s-tightens-curbs-on-ai-chip-exports-to-china-widening-rift-with-u-s-businesses-3b9983df"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 77
-    images:
-      - url: "https://images.wsj.net/im-869788/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI Demand for Nvidia Chips Keeps Rising. New China Restrictions Are Likely Just Noise."
     excerpt: "Taiwan Semiconductor Manufacturing’s earnings commentary shows that demand for AI applications and Nvidia chips are improving. Nvidia stock should benefit."
     publishedDateTime: 2023-10-19T17:38:00Z
@@ -71,57 +57,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 64
-  - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
-    excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
-    publishedDateTime: 2023-10-19T17:42:00Z
-    webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107247052-1685079013413-gettyimages-1257866797-Nvidia_Stock_Soar.jpeg?v=1697742655&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "China's AI industry grapples with mixed prospects amid escalated US chip controls"
-    excerpt: "With the Biden Administration's heightened export controls on semiconductor chips to China, the Chinese AI industry finds itself in a mixed picture of some rejoicing and others facing challenges. This impact is rippling through various sectors,"
-    publishedDateTime: 2023-10-19T07:44:00Z
-    webUrl: "https://www.digitimes.com/news/a20231019PD203/ai-chips-ic-design-distribution-us-china-chip-war-server-ipc-cloud-computing-iot.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 49
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231019pd203_files/3_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Nvidia comes under US governments radar with its GPU sales in China"
-    excerpt: "Nvidia: In an effort to stymie the growth of artificial intelligence (AI) technology in China, the US government slapped new limits on AI and HPC GPU exports"
-    publishedDateTime: 2023-10-21T12:58:00Z
-    webUrl: "https://technosports.co.in/nvidia-comes-under-us-governments-radar/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 36
-  - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
-    excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
-    publishedDateTime: 2023-10-18T16:05:00Z
-    webUrl: "https://www.aol.com/nvidia-thought-found-way-around-130504385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 22
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/1R3_9tpxnJuHS3k5R4jqeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/27c0635b4b7fb62b8197ebac44b306d7"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "iywtDBudj3ybOoMrNljIBe9Asx/hO6WWPXEC7/lKhaGyZZkwMb3O1KKvGSA9Bc0B9F68wfZCaTnDIE23fNtd2KSVl7AuaKB/vXFa0KpfQM1XtW5f1wNYdHAZTNDhpAewLMp+EhwMypKs10O+w5iI42iJYpQdCLr80029EAudww6lrnSVJDxpUyZJZm1vQCGRNBDt+2nshxbq3IACFVDQvqGYF7JJfSjYYuH/WDVm2o+6p+4tVbc4+G4eHoIE4Icr47PQD3/s7HKHIWGJo8vrCALq5HmFohoWt2DhjDydyB7lIANIaBlg0xa1b8Z8fVmMMOF2LfmOTYmp1GjJ8UbIXIdrr5nfDvGTfut/AoFgNDUQXeOcDs+YTX0QWXd5iAemS6lwSrcpWqZt3yi8zsZCckl0GtNLhioqLXQOgK1QFMzsxjXFfBppMNXidf0f1yKRAlksSK+J+yC0v6K/wrYvOC5PrHM1kRlR08uTrDuHmcfoMR1Ggqk9Oy5G4ba5lmWsj20Y6P5GpjLJNIVPrnAb8w==;D6Iu800QRG5jC6Y7ZXc3eg=="
 ---

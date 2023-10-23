@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-10-ey-and-ibm-launch-artificial-intelligence-solution-designed-to-help-increase-productivity-and-drive-efficiencies-within-hr.md",
+      "title": "EY and IBM launch artificial intelligence solution designed to help increase productivity and drive efficiencies within HR",
+      "excerpt": "The EY organization and IBM (NYSE: IBM) today announced the launch of EY.ai Workforce, an innovative HR solution that helps enable organizations to integrate artificial intelligence (AI) into their key HR business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2023/10/10/9895764.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2023/10/10/9895764.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1721690/EY_Logo.jpg",
+          "width": 341,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-09T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-a-prompt-by-any-other-name-ibms-watsonx-gets-a-generative-ai-enhancement.md",
       "title": "A Prompt by Any Other Name: IBM's Watsonx Gets a Generative AI Enhancement",
       "excerpt": "IBM is set to integrate a prompt tuner into a component of its watsonx enterprise AI and data platform. Our editor in chief wonders if prompt engineering really is a 'game-changing skill,' and why some companies paying those who have it so much money?",
@@ -1264,57 +1307,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-20T08:55:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-spear-phishing-vs-phishing-whats-the-difference.md",
-      "title": "Spear phishing vs. phishing: what’s the difference?",
-      "excerpt": "Learn what sets apart a spear phishing attack from a bulk phishing attack—and how you can better protect your organization against these threats.\nThe post Spear phishing vs. phishing: what’s the difference? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/spear-phishing-vs-standard-phishing-attacks/",
-      "originalUrl": "https://www.ibm.com/blog/spear-phishing-vs-standard-phishing-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/181015_Bohler_WorkingWorld_1122.jpg",
-          "width": 2389,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
