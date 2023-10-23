@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/u-s-chip-expor
 cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/u-s-chip-export-ban-is-great-news-says-partner-at-chinese-tech-investment-fund/4791932/?amp=1"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,115 @@ images:
     height: 675
     isCached: true
 
-secured: "0rRf/JVD//AtizEUfhTJzfiEBXWySqB9wRYAPCAd73Xfs/YSRtkTdQcr0YJsizrQjH1VfYuB48MMlp/YWttbXcTESqJFtI0MpOUpl/C3reiV8We9KECTMYUVvSeTfV7jid9RppJToeoKll0RL6tOFOH+hub0QGIVNcdxavUNqZhB8KugGvmGrpaF6cREy2VHXc0VK6YGzsAQrth7/Oy59p5ZclQexxLQ5nXuxc+i0i+qzrhOW0OJ2oMywK0mVDmdDb651VbswHxAEHXl9U9RFjQVFA1PDZZKe13ZF20ZP42egeeDiMPTt7pGAecWYe7RvRc61T122T1rg7mQRZRQbxo2G0cPsRh1bZ4mPFTY2n0=;I8r0KA7GbCH3X8EAy5kYqQ=="
+related:
+  - title: "New US AI chip restrictions on China is creating massive issues for Baidu, Alibaba’s AI development"
+    excerpt: "Several Chinese companies have been trying to create domestic alternatives for NVIDIA's AI chips. However, given the latest series of restrictions by the US on chips and chip making equipment, China's"
+    publishedDateTime: 2023-10-23T06:23:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 60
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/New-US-AI-chip-restrictions-on-China-is-creating-massive-issues-for-Baidu-Alibabas-AI-development.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Chinese AI Startup Zhipu Secures $342M in Funding from Alibaba, Tencent"
+    excerpt: "Amid the buzzing AI market, Chinese AI startup Zhipu announced that it has secured $342 million (or 2.5 billion yuan) in funding."
+    publishedDateTime: 2023-10-20T10:03:00Z
+    webUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/"
+    ampWebUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
+    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 57
+    images:
+      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-zhipu-342m-funding.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Alibaba, Tencent and other major Chinese backers invest US$342 million in start-up Zhipu AI as this tech sector sees increased funding"
+    excerpt: "Zhipu AI was built on the back of research from the Knowledge Engineering Group of Beijing’s prestigious Tsinghua University. The start-up’s chief executive, Zhang Peng, graduated with a PhD from Tsinghua’s computer science department. Beijing is ..."
+    publishedDateTime: 2023-10-20T11:54:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 55
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/20/e2086e00-778f-4434-9d55-aaad50d7f5da_762ea11f.jpg?itok=ke8UV4JE&v=1697802747"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US further restricts AI chip exports to China"
+    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
+    publishedDateTime: 2023-10-18T15:06:00Z
+    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
+    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 54
+  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
+    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
+    publishedDateTime: 2023-10-20T05:57:00Z
+    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "Cambricon and Huawei forge divergent paths in AI chip development amid prolonged US blacklisting"
+    excerpt: "The recent update to the US government's chip ban has raised concerns about its potential impact on Chinese chipmakers, particularly in the realm of high-performance computing (HPC) chips, including GPUs and AI chips."
+    publishedDateTime: 2023-10-20T02:30:00Z
+    webUrl: "https://www.digitimes.com/news/a20231019PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 41
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231019pd202_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
+    excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
+    publishedDateTime: 2023-10-20T05:37:00Z
+    webUrl: "https://www.theedgesingapore.com/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
+    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
+    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 37
+  - title: "U.S. tightens curbs on AI chip exports to China"
+    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
+    publishedDateTime: 2023-10-18T21:43:00Z
+    webUrl: "https://japantoday.com/category/tech/us-tightens-curbs-on-ai-chip-exports-to-china"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
+
+secured: "kilYqKhwQ11u23klncQBxE2LFHzL0ANqxRHO8E7GUZXA/DPgsYIKqrSqSHS3ufDP9tdnyFrauLTy0w1v3RgyGmqd7tW0hL8msYdQLHhbsmKT7kYoiMcR1d9je93x54Xyp8TH0R9IKM4Z306b+vNVIyzi7snoFdu/0NYvNYkfrNnCg0BV4JZ24nNc+a3/FoB0vUcSQyGbbsrvReOwj6CrNmRADxGQStjyQ9gjPPxk7yMZwc5nMJvTO46QF6Xn1vabwtOfU6Y0GMBvKi0HuO6f2Ia8kAzWY4SHNcVdfL1ihmoe/+ZJECIQnk0m3zghX3xCVuQyCTcxZXIDngHwKAnMHUsq7+y54UFkgj9twMUbgbXMx6/S/OO+L2Z2VRW8RrRP7TtEZQd0K+hHocptQo0MVFXKLv9sQeakBbnuxAZBHm18uGGWpViqJ3GPafo7UUSPoa8E9lY2OfhHi6SK5WiUbz1S6M0Q2CxlK9F5QhbOlRsZFeZvOq9XcjUSFiD4wRNpuYS5AFPDIkJyGnEiflkvWA==;6lUc37X+rtyf7kcHEy4wgw=="
 ---
 

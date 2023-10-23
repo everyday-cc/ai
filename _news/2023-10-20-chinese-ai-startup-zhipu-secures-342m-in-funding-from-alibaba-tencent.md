@@ -9,8 +9,8 @@ ampWebUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
 cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
 type: article
 quality: 57
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: coinspeaker
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "New US AI chip restrictions on China is creating massive issues for Baidu, Alibaba’s AI development"
+    excerpt: "Several Chinese companies have been trying to create domestic alternatives for NVIDIA's AI chips. However, given the latest series of restrictions by the US on chips and chip making equipment, China's"
+    publishedDateTime: 2023-10-23T06:23:00Z
+    webUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html"
+    ampWebUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 60
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/New-US-AI-chip-restrictions-on-China-is-creating-massive-issues-for-Baidu-Alibabas-AI-development.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Alibaba, Tencent and other major Chinese backers invest US$342 million in start-up Zhipu AI as this tech sector sees increased funding"
     excerpt: "Zhipu AI was built on the back of research from the Knowledge Engineering Group of Beijing’s prestigious Tsinghua University. The start-up’s chief executive, Zhang Peng, graduated with a PhD from Tsinghua’s computer science department. Beijing is ..."
     publishedDateTime: 2023-10-20T11:54:00Z
@@ -42,6 +58,61 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US further restricts AI chip exports to China"
+    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
+    publishedDateTime: 2023-10-18T15:06:00Z
+    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
+    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 54
+  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
+    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
+    publishedDateTime: 2023-10-20T05:57:00Z
+    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
+  - title: "U.S. chip export ban is ‘great news,' says partner at Chinese tech investment fund"
+    excerpt: "The U.S. Department of Commerce will prevent the sale of some advanced AI chips to China, a move welcomed by a partner at a Chinese investment fund."
+    publishedDateTime: 2023-10-23T05:08:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/u-s-chip-export-ban-is-great-news-says-partner-at-chinese-tech-investment-fund/4791932/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/u-s-chip-export-ban-is-great-news-says-partner-at-chinese-tech-investment-fund/4791932/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/u-s-chip-export-ban-is-great-news-says-partner-at-chinese-tech-investment-fund/4791932/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 53
+    images:
+      - url: "https://media.nbcnewyork.com/2023/10/107319805-1697705417593-gettyimages-1359683935-dsc00086.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Cambricon and Huawei forge divergent paths in AI chip development amid prolonged US blacklisting"
+    excerpt: "The recent update to the US government's chip ban has raised concerns about its potential impact on Chinese chipmakers, particularly in the realm of high-performance computing (HPC) chips, including GPUs and AI chips."
+    publishedDateTime: 2023-10-20T02:30:00Z
+    webUrl: "https://www.digitimes.com/news/a20231019PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 41
+    images:
+      - url: "https://img.digitimes.com/newsshow/20231019pd202_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
     excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
     publishedDateTime: 2023-10-20T05:37:00Z
@@ -53,57 +124,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 37
-  - title: "Alibaba and Tencent Join $340 Million Funding for AI Startup Zhipu"
-    excerpt: "(Bloomberg) — Alibaba Group Holding Ltd. and Tencent Holdings Ltd. were among influential Chinese investors that invested 2.5 billion yuan ($342 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T21:21:00Z
-    webUrl: "https://www.caixinglobal.com/2023-10-21/alibaba-and-tencent-join-340-million-funding-for-ai-startup-zhipu-102119022.html"
+  - title: "U.S. tightens curbs on AI chip exports to China"
+    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
+    publishedDateTime: 2023-10-18T21:43:00Z
+    webUrl: "https://japantoday.com/category/tech/us-tightens-curbs-on-ai-chip-exports-to-china"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 37
-    images:
-      - url: "https://img.caixin.com/2023-10-20/169781403464011_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
-  - title: "Chinese AI startup Zhipu raises $300M in funding"
-    excerpt: "The company’s funding announcement comes a few days after Baichuan, another Chinese AI startup, disclosed that it has secured a $300 million investment. The raise included contributions from many of the same companies that backed Zhipu, including Alibaba ..."
-    publishedDateTime: 2023-10-20T19:58:00Z
-    webUrl: "https://siliconangle.com/2023/10/20/chinese-ai-startup-zhipu-raises-300m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/unsplash-2-2.png"
-        width: 1032
-        height: 580
-        isCached: true
-  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
-    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
-    publishedDateTime: 2023-10-19T16:13:00Z
-    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
+      name: Japan Today
+      domain: japantoday.com
     quality: 34
-  - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
-    excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
-    publishedDateTime: 2023-10-20T08:15:00Z
-    webUrl: "https://www.cryptopolitan.com/alibaba-and-tencent-invest-342-million-in-ai/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 33
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5877739083780963915_x.jpg"
-        width: 800
-        height: 800
-        isCached: true
 
 secured: "pKRjli8vn2JsW3WBAhpnl5Viat7NGV571df3GecWmGAfJ8b1p6LDBrAUGl13xmRyykgo2DChgXFg42uXq8L5HMmcI4ceqM18D3roLXbOdPqNQizBKal1u8zFB+w7ElmBgp+7f7XUCAUpi5dg8JxLnEOQWVR1ZkzrFV4a9uN7r9D8bVD3jUz0BjGvu0aP5ImjIpE/LiA/eNchSycbUx8zg+JDhrLF6bz5DGNwIAkJm7AHByei14OBzKGlmVZSkMd03/J1vD3YCvtpX5najRJjeRbjfpdwk50boy44/4EZKJ6K7b4feUh5e6ycw4qZ1pCgOB7VSIAH184+mmXtGMX7xUVqpg85Z84yGvsAEueUoZk=;QsiX80nOV0+7r4eJ03WaZQ=="
 ---

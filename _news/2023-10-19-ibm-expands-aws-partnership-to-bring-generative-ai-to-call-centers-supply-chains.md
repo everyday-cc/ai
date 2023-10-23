@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-ge
 webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
 type: article
 quality: 81
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM to train 10,000 consultants for Amazon Web Services generative AI in new partnership"
-    excerpt: "IBM is expanding its business partnership with Amazon Web Services with an emphasis on helping clients utilize generative artificial intelligence. That means new training for a lot of people. Here are the details."
-    publishedDateTime: 2023-10-18T14:48:00Z
-    webUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/"
-    ampWebUrl: "https://wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/10/18/ibm-to-train-10000-consultants-for-amazon-web-services-generative-ai-in-new-partnership/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 67
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/08/quantum-brain-control-artificial-intel-e1628696856200.jpg"
-        width: 945
-        height: 532
-        isCached: true
   - title: "IBM expands relationship with AWS to bring generative AI solutions to clients"
     excerpt: "As part of this, IBM Consulting aims to deepen and expand its generative AI expertise on AWS by training 10,000 consultants by the end of 2024; the two organizations also plan to deliver joint solutions and services upgraded with generative AI capabilities designed to help clients across critical use cases."
     publishedDateTime: 2023-10-20T07:35:00Z

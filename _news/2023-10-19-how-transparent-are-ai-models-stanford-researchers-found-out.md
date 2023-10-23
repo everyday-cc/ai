@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-
 webUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
       - url: "https://i.ndtvimg.com/i/2016-09/artificial-intelligence_650x400_61475215891.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
+    publishedDateTime: 2023-10-20T21:41:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 50
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bd0t3E/JJgBweSfBZMGJqp8OZwPKem9DSufD/vznxy42PUc+MkyNBDzbDf7jU6mXhtT/W7y2CXdThjAle1YBLZvWItnxdBsHqhblT7cSJemluPATv3YBhuFF38ceMFkuoAEk4pziacD+n3nvqaUgkZ8MzgaVtEK+/72hVb75DvWrZiXWIv/ZGtFbfVeuimnV468HdT+Nd9ZnZl2ohVvuhNbicxmq/vib9g6F41mfdqxofBET2KMbgrHE2q1b5h4wvyYQaYpeWdYts8G5O/EaxghAbw1jdknCJGWFbGS8HEKrF8T6TsdKwQ+IfD63uX6cPS/QyeOVvAoJZPebrYFy5I/ECj4y5sbeeFyGgYuBWLI=;/KRAwGKPiwbnzrut38X60A=="

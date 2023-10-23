@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
-    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
-    publishedDateTime: 2023-10-18T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Eight good news stories about AI"
     excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
     publishedDateTime: 2023-10-19T08:06:00Z

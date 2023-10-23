@@ -2,6 +2,161 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-08-23-how-chatgpt-turned-generative-ai-into-an-anything-tool.md",
+      "title": "How ChatGPT turned generative AI into an “anything tool”",
+      "excerpt": "I’ve heard similar things from technologists working on everything from health insurance to semiconductor design. To create ChatGPT, a chatbot that lets humans use generative AI by simply having a conversation, OpenAI needed to change large language models (LLMs) like GPT3 to become more responsive to human interaction.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
+      "originalUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/chatgpt-anything-tool-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/amp/",
+      "publishedDateTime": "2023-08-23T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-is-it-time-we-stop-saying-ai.md",
+      "title": "Is It Time We Stop Saying AI?",
+      "excerpt": "AI has become a buzzword across almost every industry. But the widespread and often indiscriminate use of the term is raising a question: Is it time we stop saying \"AI\"?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64e4b7b7cfd888ad16d8ae21/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/23/is-it-time-we-stop-saying-ai/amp/",
+      "publishedDateTime": "2023-08-23T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-generative-ai-predicting-the-tax-departments-next-best-move.md",
+      "title": "Generative AI: Predicting The Tax Department’s Next Best Move",
+      "excerpt": "C-suite leaders clearly recognize the power of data. However, the age-old view that tax only serves one purpose—compliance—lingers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/08/23/generative-ai-predicting-the-tax-departments-next-best-move/amp/",
+      "publishedDateTime": "2023-08-23T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-unleash-the-full-potential-of-ai-and-robotics-with-automa-health-2023.md",
       "title": "Unleash the full potential of AI and robotics with Automa+ Health 2023",
       "excerpt": "Machines are getting smarter every day, and companies across the world are discovering new ways in which they can use AI to significantly enhance engagement and customer experience. That is why decision-makers from pharmaceutical companies,",
@@ -1032,117 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-meta-releases-ai-model-for-translating-speech-between-dozens-of-languages.md",
-      "title": "Meta releases AI model for translating speech between dozens of languages",
-      "excerpt": "Facebook parent company Meta Platforms on Tuesday released an AI model capable of translating and transcribing speech in dozens of languages, a potential building-block for tools enabling real-time communication across language divides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/meta-platforms-artificial-intelligence/meta-releases-ai-model-for-translating-speech-between-dozens-of-languages-idUSL1N3A22F4",
-      "originalUrl": "https://www.reuters.com/article/meta-platforms-artificial-intelligence/meta-releases-ai-model-for-translating-speech-between-dozens-of-languages-idUSL1N3A22F4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-microsoft-revamps-activision-blizzard-deal-over-uk-demands.md",
-      "title": "Microsoft revamps Activision Blizzard deal over UK demands",
-      "excerpt": "Microsoft restructured its $69 billion deal ... control the licensing terms of Activision Blizzard games for rival services,” Smith wrote. The CMA said it opened a new investigation into the ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/",
-      "originalUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4164126-microsoft-revamps-activision-blizzard-deal-over-uk-demands/amp/",
-      "publishedDateTime": "2023-08-22T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-microsoft-seeks-to-save-activision-deal.md",
-      "title": "Microsoft seeks to save Activision deal",
-      "excerpt": "Ubisoft will “compensate Microsoft” for the cloud streaming ... the licensing terms of Activision Blizzard games for rival services,” Smith wrote. The CMA said it opened a new investigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/",
-      "originalUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/4165362-microsoft-seeks-to-save-activision-deal/amp/",
-      "publishedDateTime": "2023-08-22T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

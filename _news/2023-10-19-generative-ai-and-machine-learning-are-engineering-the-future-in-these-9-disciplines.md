@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Marketers' Increasing Tolerance for AI Lowers Website Translation Costs"
+    excerpt: "Digital Marketers are developing a growing trust in AI’s ability to translate websites. For a long time, Artificial Intelligence (AI) has been a mystery. People weren’t sure what it meant or what it did."
+    publishedDateTime: 2023-10-23T06:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/ab35367308/marketers-increasing-tolerance-for-ai-lowers-website-translation-costs"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35367308"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35367308"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
+        width: 1043
+        height: 1043
+        isCached: true
   - title: "Seeing the magic of artificial intelligence applications in ophthalmology"
     excerpt: "We all know, by now, that Artificial Intelligence (AI ... In fact, we are among the early adopters of AI for health care, and some of the key uses are: Retinal disease diagnosis: AI algorithms can analyse retinal images, such as fundus photographs and ..."
     publishedDateTime: 2023-10-19T16:55:00Z
@@ -214,22 +230,6 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
         width: 900
         height: 506
-        isCached: true
-  - title: "Generative AI pervades Gartner’s 2024 predictions for cybersecurity roles, application modernization and more"
-    excerpt: "Gartner’s top predictions for enterprise IT organizations are dominated by AI, which is influencing trends including employee unionization, electricity rationing, and smart robots."
-    publishedDateTime: 2023-10-18T13:52:00Z
-    webUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708755/generative-ai-pervades-gartners-2024-predictions-for-cybersecurity-roles-application-modernization.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 40
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/27/10/tall-blue-buildings_skyscrapers_enterprise_cityscape-100751598-large-100929510-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
         isCached: true
   - title: "The Federal Trade Commission and Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) burst into the public consciousness less than one year ago, with OpenAI’s highly successful public release of ChatGPT. Since then, AI-enabled products and services have proliferated throughout the economy. AI-enabled tools ..."

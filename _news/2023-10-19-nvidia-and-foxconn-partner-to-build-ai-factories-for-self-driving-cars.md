@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-
 webUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html"
 type: article
 quality: 70
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia to Build 'AI Factories' With Foxconn"
-    excerpt: "The announcement was made during a fireside chat with Nvidia founder and CEO Jensen Huang and Foxconn Chairman and CEO Young Liu at Hon Hai Tech Day, in Taipei. These so-called \" AI Factories \" will be packed full of Nvidia's GPU computing infrastructure, including the latest Nvidia GH200 Grace Hopper Superchip."
-    publishedDateTime: 2023-10-18T14:21:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-to-build-ai-factories-with-foxconn"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04VBsXPmLVAMdyizMFUiLfW-1.fit_lim.size_1200x630.v1697638482.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Nvidia and iPhone maker Foxconn to build \"AI factories\""
     excerpt: "The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called \"AI factories\". The firms say it is a new kind of data centre that uses Nvidia chips to power a \"wide range\" of applications. They include training autonomous vehicles, robotics platforms and large language models."
     publishedDateTime: 2023-10-19T03:09:00Z
@@ -102,15 +88,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NVIDIA Joins Forces With Foxconn To Build AI Factories, A New Class Of Data Centers"
-    excerpt: "NVIDIA and Hon Hai Technology Group, otherwise known as Foxconn, jointly announced plans develop a new class of data centers and systems designed to 'accelerate the AI revolution.'"
-    publishedDateTime: 2023-10-18T13:18:00Z
-    webUrl: "https://hothardware.com/news/nvidia-joins-foxconn-build-ai-factories-new-class-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 13
 
 secured: "tS02kN+BvhDb/PdEsK+mq6zxRcEleIrRH4+r9TiWLJn+P+a+L0c7UMGAYS6c0dWhQCARnIvxXnkeg/t20L6BWEQmUsLwpJ66Mf7hpXkMIii47jMgRvalQ7Pzz2szzytqBL3XgI2LX9BB+XNbFgUT79JTlwT2Wiw/Q5nUwIsA0uUkdBowqnTgrGO5djgLZ19nRZuWx8zDIF/0jsieCLqjXGiAO+o2GZogyUxNnpu5QqDaiduDvftTixOfy0Od+nUaVNvwhGci41kmkVKzI3F/eBcAHt6N/HKOTkuU0j4E9j/tkShohGYEtISBUjUt8j0KVy9II4WAgpR+cjUIEkFoaTm7fFT4XwT2bs3VNaA/wZU=;MATtIIJRvBw8scQrEgoxzA=="
 ---

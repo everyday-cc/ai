@@ -118,20 +118,6 @@ related:
         height: 1367
         isCached: true
   - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
-    publishedDateTime: 2023-10-18T15:00:00Z
-    webUrl: "https://www.nextgov.com/digital-government/2023/10/logingov-add-facial-recognition-tech/391300/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is changing its digital identity service to allow users to authenticate themselves by matching against a previously submitted government ID."
     publishedDateTime: 2023-10-19T10:00:00Z
     webUrl: "https://www.govexec.com/technology/2023/10/logingov-add-facial-recognition-tech/391307/"

@@ -24,53 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbots can infer an alarming amount of info about you from your responses"
-    excerpt: "The way you talk can reveal a lot about you—especially if you're talking to a chatbot. New research reveals that chatbots like ChatGPT can infer a lot of sensitive information about the people they chat with, even if the conversation is utterly mundane."
-    publishedDateTime: 2023-10-18T13:35:00Z
-    webUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
+  - title: "People are grieving the 'death' of their AI companions after a chatbot app abruptly shut down"
+    excerpt: "Smartphone app Soulmate AI let users create AI-powered friends and lovers. Then it closed down, and its thousands of users are heartbroken."
+    publishedDateTime: 2023-10-20T09:00:00Z
+    webUrl: "https://www.businessinsider.com/soulmate-users-mourn-death-ai-chatbots-2023-10"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 56
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-eyes-800x560.jpg"
-        width: 800
-        height: 560
-        isCached: true
-  - title: "Anti-ChatGPT app Superfy uses AI to match people for live chats and answers to queries"
-    excerpt: "There are some things an AI chatbot can't reliably answer, like how to solve a problem in your relationship, which outfit looks best, advice on a problem"
-    publishedDateTime: 2023-10-18T15:55:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
-    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
-        width: 1200
-        height: 758
-        isCached: true
-  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
-    publishedDateTime: 2023-10-20T21:41:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 50
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
-        width: 1200
-        height: 630
+      - url: "https://i.insider.com/65319f8396f7540cd0610696?width=1200&format=jpeg"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "O8fMCUdSKLxV/1c+VLWHVvh064uwKnxJmd2T8M/qt0gZyGWKgrq7cxli80kKC49wQbXzjoMVa8Dm1XuOVCr6t9qPpZXZMFPEDL74Bc8OSaObhREPjYyIORHQ3+4pw+Md2zz4U00iPsrDfU27sUu7cYbiW3ZcIvAJkXdwInIv9JVn7ta2VDRAcnd+hsMo+QfICLGUY17vh91R8pA1EsERP1SpvDe9IoQ/V0XiU49ZNPBCofOu5/WoMrWEN9aomIdnxE2F+5sdofuOtv2dke+FnPI6pTSyf9B4b9Q+zNu9dfmZ44QL8201zS+j3cRUsF1TcCxEK3kKT8DoI0Wn3wwDySO2kCRWE23ziB0R+TQkQnDUoYjtGONvyYxaH8G5ddfu0EFDKuEhTd3dWvcsEVjrOgEjZPFQKci/6iezqPKLTass7P4ZLeGis++vxF8umoT2PHF++a+O13QZmkKPak3/8VaZ0QEc4u2LE6BK8b9SGWEGlGAV7O5iWlJCM43S92N0IQSQDS8bjIEtnh/kt2Iq2w==;KLPPQSC4odFo2Fe533sj2g=="

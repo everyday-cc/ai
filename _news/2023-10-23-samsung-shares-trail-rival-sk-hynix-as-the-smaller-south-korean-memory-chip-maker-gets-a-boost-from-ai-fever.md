@@ -3,8 +3,8 @@ category: news
 title: "Samsung shares trail rival SK Hynix as the smaller South Korean memory chip maker gets a boost from AI fever"
 excerpt: "SK Hynix has surged 67 per cent compared with 24 per cent for Samsung owing to the smaller firm’s Nvidia deal and lead in AI-optimised high-bandwidth memory."
 publishedDateTime: 2023-10-23T05:46:00Z
-originalUrl: "https://www.scmp.com/tech/big-tech/article/3238857/samsung-shares-trail-rival-sk-hynix-smaller-south-korean-memory-chip-maker-gets-boost-ai-fever"
-webUrl: "https://www.scmp.com/tech/big-tech/article/3238857/samsung-shares-trail-rival-sk-hynix-smaller-south-korean-memory-chip-maker-gets-boost-ai-fever"
+originalUrl: "https://www.scmp.com/tech/big-tech/article/3238857/samsung-shares-trail-rival-sk-hynix-smaller-south-korean-memory-chip-maker-gets-boost-ai-fever?module=live&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/big-tech/article/3238857/samsung-shares-trail-rival-sk-hynix-smaller-south-korean-memory-chip-maker-gets-boost-ai-fever?module=live&pgtype=homepage"
 type: article
 quality: 65
 heat: 65
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "eY5EtVsUe+f2R/C6ramjBDQs9JYoD1VtlqojouuLD9K1LZF8TtBp1Joj7GZ2g00c8YVS7mzazmeIecPxm2DUAvr1qxHb3xblrrrYvhgSBO+50jCKqoVt/7m42ISvMDDkHoR1hnSIa3PPFnYlxXgX8067CfoV4V1PonS8bXtjFsn0SxEvV2YmKJbrkc7Bdd6HnuqT0pvlDLYmstZDoxyQq8YDXB/WvJMR889uGYtZDQWKk4A+aZ/+4VFNF16v1rcBR4ZsS0JqAv+K7SYPwsccFSBLcG7wIQ/Ed11ZcgLz7t6SUupjtqs1hBCBG+yJf2ALrI2tXMdc3Q45VEbygZ0hXjcgYjYw82Inz9790yPPHdk=;1QlUf+W558nodjeJmTG52g=="
+secured: "y5XVcZhJ6S79ZmaY5anpN/HYSbplrqvdy8B+o8Hw0FKs/XowYYjqzzydmeyJ7LfYeWjjnDmcPzOBrbNaTMEpRAPWqdpl6QZG20/WJkOm/EBm6ee61+/9vNYnhhxjqIUBYy8++DpueOzg7TXN0LPCnf1T3IYwuvHID/2a82qb104MXYkyaCy0WocEDM/ZlnUl4QuXoSgGbqHPO4osDbyesKsj02dMVOoFUs0OX1wNz2OjEd+1L7y45sE3tFePXTfdkYDC/GQL6YeQaV3KV9lQjUnJ4IrRsv+V2kSXurEeJhVwz07/OKk7QiFzW6DrUj7brNdEJFm4DB1xUwV0mhjw9YUrvPUnXZ4hbZcwSR7QtVM=;cCzwc9yJM+cXxTwmtkbUeA=="
 ---
 

@@ -6,9 +6,9 @@ publishedDateTime: 2023-10-22T20:40:00Z
 originalUrl: "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-mind-paradox/"
 webUrl: "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-mind-paradox/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2023/10/Arrival_Mind_Paradox9_Paris-transformed.png?fit=750%2C420&#038;strip=all"

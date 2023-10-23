@@ -2,6 +2,134 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2023-09-11-aitxs-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers.md",
+      "title": "AITX's Subsidiary, Robotic Assistance Devices Group (RAD-G), Announces Solutions for Emergency Phone Tower Manufacturers",
+      "excerpt": "Blue Light Tower Manufacturers Now Have Access to RAD’s Award-Winning AI Analytics and Software SolutionsDetroit, Michigan, Sept. 11, 2023",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aitx-s-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers-1032620092",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aitx-s-subsidiary-robotic-assistance-devices-group-rad-g-announces-solutions-for-emergency-phone-tower-manufacturers-1032620092",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-boundaries.md",
+      "title": "DEEPX Charts Path to a Limitless Open Edge AI Ecosystem with New AI Dev Kits that Break GPU Boundaries",
+      "excerpt": "DEEPX is poised to unveil five cutting-edge technologies, encompassing support for the latest AI algorithms, GPU-level AI precision, unmatched power-to-performance efficiency, comprehensive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/n34439742/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-bounda",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/n34439742/deepx-charts-path-to-a-limitless-open-edge-ai-ecosystem-with-new-ai-dev-kits-that-break-gpu-bounda",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34439742",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34439742",
+      "publishedDateTime": "2023-09-11T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-managing-your-cloud-ecosystems-keeping-your-setup-consistent.md",
+      "title": "Managing your cloud ecosystems: Keeping your setup consistent",
+      "excerpt": "Keeping components consistent across IBM Cloud Kubernetes Service clusters and environments.\nThe post Managing your cloud ecosystems: Keeping your setup consistent appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
+      "originalUrl": "https://www.ibm.com/blog/managing-your-cloud-ecosystems-keeping-your-setup-consistent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-11T05:44:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-celebrating-40-years-of-db2-running-the-worlds-mission-critical-workloads.md",
       "title": "Celebrating 40 years of Db2: Running the world’s mission critical workloads",
       "excerpt": "IBM Db2 keeps business applications and analytics protected, highly performant, and resilient, anywhere.\nThe post Celebrating 40 years of Db2: Running the world’s mission critical workloads appeared first on IBM Blog.\n",
@@ -1005,143 +1133,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-ecology-and-artificial-intelligence-stronger-together.md",
-      "title": "Ecology and artificial intelligence: Stronger together",
-      "excerpt": "Many of today's artificial intelligence systems loosely mimic the human brain. In a new paper, researchers suggest that another branch of biology -- ecology -- could inspire a whole new generation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/09/230911191010.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/09/230911191010.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
-      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
-      "excerpt": "Anki, the company behind Cozmo, says its mission is to “create robots that move you,” combining robotics and artificial intelligence to create technologies with which people can build emotional bonds. Cozmo isn't an industrial robot by any stretch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
-          "width": 6504,
-          "height": 3659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-11-meta-is-building-an-ai-model-as-powerful-as-gpt-4-report-says.md",
-      "title": "Meta is building an AI model as powerful as GPT-4, report says",
-      "excerpt": "with internal memos from last year obtained by Reuters admitting that the company had a \"significant gap\" in AI research and investment. Since then, the Facebook owner has been rapidly purchasing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meta-ai-model-powerful-gpt-4-openai-2023-9",
-      "originalUrl": "https://www.businessinsider.com/meta-ai-model-powerful-gpt-4-openai-2023-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64fedd7ba39a1b00190cec36?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/meta-ai-model-powerful-gpt-4-openai-2023-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-ai-model-powerful-gpt-4-openai-2023-9?amp",
-      "publishedDateTime": "2023-09-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

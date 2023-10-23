@@ -508,6 +508,58 @@
       ]
     },
     {
+      "path": "_news/2023-10-16-baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple.md",
+      "title": "Baidu Announces Breakthrough In Speech Recognition, Claiming To Top Google And Apple",
+      "excerpt": "But he couldn't help revealing better speech recognition as a key area of interest in the age of the smartphone. Today, Baidu, often called China's Google, unveiled the first results of what the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
+      "originalUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/blogs-images/roberthof/files/2014/12/andrewngbaidu.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 664,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
+      "publishedDateTime": "2023-10-15T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-14-ai-startup-aims-to-give-voice-actors-a-digital-twin.md",
       "title": "AI Startup Aims to Give Voice Actors a Digital Twin",
       "excerpt": "Morpheme is entering an increasingly crowded market. In 2022, investors poured $378.6 million into voice-related AI startups across 47 deals, according to data from PitchBook. Some are using AI to clone voices, alter voices and generate audio from text.",
@@ -1424,49 +1476,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-10-06-researchers-develop-ai-solutions-for-inclusion-of-arabic-and-its-dialects-in-natural-language-processing.md",
-      "title": "Researchers develop AI solutions for inclusion of Arabic and its dialects in Natural Language Processing",
-      "excerpt": "A group of researchers and engineers from the University of Sharjah have developed a deep learning system to utilize the Arabic language and its varieties in applications related to Natural Language Processing (NLP),",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
-      "originalUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/arabic-text.jpg",
-          "width": 2880,
-          "height": 1617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
-      "publishedDateTime": "2023-10-05T10:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

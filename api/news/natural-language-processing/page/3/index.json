@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-26-chatgpt-can-now-talk-to-youand-look-into-your-life.md",
+      "title": "ChatGPT Can Now Talk to You—and Look Into Your Life",
+      "excerpt": "using image or speech recognition, so the chatbot can generate a response. The app then responds via either voice or text, depending on what mode the user is in. When a WIRED writer asked the new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
+      "originalUrl": "https://www.wired.com/story/chatgpt-can-now-talk-to-you-and-look-into-your-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/650e03b8051fc1c1176d09dc/191:100/w_1280,c_limit/ChatGPT-Can-Now-Speak-And-See-Business-530901253.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-26-chatgpt-has-gone-full-virtual-assistant-with-voice-and-image-recognition.md",
       "title": "ChatGPT has gone full virtual assistant with voice and image recognition",
       "excerpt": "ChatGPT is uprooting that with a new update that brings an audible voice to the advanced language model. With that, it can read aloud its responses in a wildly natural voice that rivals every other virtual assistant currently available. On your end, you can use your human voice to ask questions and make conversation like you did before with text.",
@@ -1339,49 +1391,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-09-13-smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content-creator.md",
-      "title": "Smartcat, the Essential Language AI Platform for the Global Enterprise, Launches Multilingual Generative AI Content Creator",
-      "excerpt": "Smartcat, the essential language AI platform for the enterprise, today announced the release of its multilingual generative AI content creator, which allows each company to use its own proprietary content as the basis for new content development in all languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content/article_1b9d8aa2-ec0e-5e17-9a39-f4dfd3e7fa3d.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/smartcat-the-essential-language-ai-platform-for-the-global-enterprise-launches-multilingual-generative-ai-content/article_1b9d8aa2-ec0e-5e17-9a39-f4dfd3e7fa3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jmag-cover-july-2023.jpg",
-          "width": 437,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-13T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -73,6 +73,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
+    publishedDateTime: 2023-10-20T21:41:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 50
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "w7YS/nfJCKAmc7nwrScnKJUdg+Yo9FRs+lJwQ9Eo6Ecc0xwTXuSdUEX26RoCxmi+J4HytTQOo1IzoSFkeDGYCvlsz4mxlpu12qYvutxJ/k0htsfuu2+SKOfJ2BoY8R2rFzTZTGxKG6XZXO6Ov4IiWPmblRlerRDCMxh4ylzR5Q7uAn+QfScQHHKmsIilT6AZTQj3eadiZGtqEQKNCobE4uB9d9wV3GZcPB72YhQGjDWIppbdeurLfPGUNQRKOmop1go1vC6a7z6PHYW4co647kPxyvh7Ga/XmZwiseQwSlBeX8GyZXEoZxgHB+cmdmHpaLiwPDJxsh1SL6dQRdDOUpyRMwdZQNuTzWpgUeg3OEavS8/GmjdxZFPZ813616PgRH/4mSWW/4321WrBTqEfj82QBdyp1IWN0kXUM/Bu0kM3W7BsTIOCeFe1deukI8613E0muLgn4n2RfTFxyPbNCyPgoNrKdvwtn80wVoySqaPKMT8cEhK7HHhVbrI7GshJ7WNBEJMUDRnMXyV64aT0Gw==;QOd2MlGfBu3Tf3uLWcnTUQ=="
 ---

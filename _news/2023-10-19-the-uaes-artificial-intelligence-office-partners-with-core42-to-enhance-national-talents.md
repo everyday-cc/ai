@@ -24,35 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "Gartner’s 2024 predictions: Lots of AI, changing cybersecurity roles, electricity rationing, and more"
-    excerpt: "Gartner’s top predictions for enterprise IT organizations are dominated by AI, which is influencing trends including employee unionization, application modernization, and smart robots."
-    publishedDateTime: 2023-10-18T13:52:00Z
-    webUrl: "https://www.networkworld.com/article/3708755/gartners-2024-predictions-lots-of-ai-changing-cybersecurity-roles-electricity-rationing-and-more.html"
-    ampWebUrl: "https://www.networkworld.com/article/3708755/gartners-2024-predictions-lots-of-ai-changing-cybersecurity-roles-electricity-rationing-and-more.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3708755/gartners-2024-predictions-lots-of-ai-changing-cybersecurity-roles-electricity-rationing-and-more.amp.html"
+  - title: "ChatGPT Creator OpenAI Partners With Abu Dhabi's G42 as UAE Scales up AI Adoption"
+    excerpt: "Mubadala-backed G42 has been at the forefront of AI adoption in the UAE. The company said in July that it had developed the world's largest supercomputer for AI training in collaboration with U.S.-based AI firm Cerebras Systems."
+    publishedDateTime: 2023-10-18T15:05:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-18/chatgpt-creator-openai-partners-with-abu-dhabis-g42-as-uae-scales-up-ai-adoption"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 44
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/27/10/tall-blue-buildings_skyscrapers_enterprise_cityscape-100751598-large-100929510-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial Intelligence improves cybersecurity with pattern recognition"
-    excerpt: "In the ever-evolving digital realm, businesses invest significant time and resources to protect themselves from an array of digital threats, such as"
-    publishedDateTime: 2023-10-22T17:30:00Z
-    webUrl: "https://menafn.com/1107283039/Artificial-Intelligence-improves-cybersecurity-with-pattern-recognition"
+  - title: "ChatGPT creator OpenAI partners with Abu Dhabi's G42 as UAE scales up AI adoption"
+    excerpt: "ChatGPT creator OpenAI has partnered with G42, the Abu Dhabi-based tech conglomerate said on Wednesday, in a push to drive artificial intelligence adoption in the United Arab Emirates and other Middle Eastern markets."
+    publishedDateTime: 2023-10-19T03:05:00Z
+    webUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-partners-abu-dhabis-g42-uae-scales-ai-adoption-3856056"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 34
     images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_145.jpg"
-        width: 1920
-        height: 1285
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--74pqjHjo--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2023-10-18t150510z_1_lynxmpej9h0sc_rtroptp_3_open-ai-emirates-g42.jpg?itok=Tz8vFAEY"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "SW8Kvud+xRLJsRGvqzlOZo8cT2icUXyhraXpcOQ+OnDJe6r4G8JRp5+hK+HlNCjhhPgWfCo/eooErawWXrI2o2bEA40syclND1v6q4hBZNwC8tfqi4XSvaPWZMCvr2aHONZ+4mpdsJVXZToBZdG+aKYs563/VkmvuuueY+EHbkox0Yc2dFj47F+YvMq5JfzYIdPlaQlXkoeN/lhBTFS4itrMAguCWHTjMJ9CwbR7c/qqyXLiQCVSRLqmjZbFyDyCScXly0l+Qp1Z0nSLwVlRuTI30kF+9EmsP4fHJzHaIiAPJShhhvh6P2AEwapi0obbj+ypmyzDdPo2bR19lYLw2RoZ+HpcBrncuk9rv5cah/Y=;6g5QF3NNGIcnB85xrg6HRg=="

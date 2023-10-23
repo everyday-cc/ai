@@ -2,6 +2,145 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2023-09-23-which-top-artificial-intelligence-ai-stock-could-make-investors-the-most-money-this-decade-heres-why-it-just-might-be-google.md",
+      "title": "Which Top Artificial Intelligence (AI) Stock Could Make Investors the Most Money This Decade? Here's Why It Just Might Be Google.",
+      "excerpt": "The company is reportedly close to releasing its Gemini generative AI tool. Semiconductor research company SemiAnalysis ... development and spokeswoman for Facebook and sister to Meta Platforms ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
+      "originalUrl": "https://www.fool.com/investing/2023/09/23/which-top-artificial-intelligence-ai-stock-could-m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/747869/ai-artificial-intelligence-in-circle-on-keyboard.jpg",
+          "width": 2359,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-23T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-global-automated-machine-learning-automl-market-trends-2023-2030-industry-booming-globally.md",
+      "title": "Global Automated Machine Learning (AutoML) Market Trends [2023-2030] | Industry Booming Globally",
+      "excerpt": "The Global Automated Machine Learning (AutoML) Market is Forecasted to Reach a Multimillion-Dollar Valuation by 2030, Exhibiting an Unexpected CAGR During the Forecast Period of 2023-2030 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34838279/global-automated-machine-learning-automl-market-trends-2023-2030-industry-booming-globally",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34838279/global-automated-machine-learning-automl-market-trends-2023-2030-industry-booming-globally",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-23T02:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-23-look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-over-at-asian-games.md",
+      "title": "Look: From blushing plastic-and-metal receptionist to driverless ice-cream trucks, machines take over at Asian Games",
+      "excerpt": "Driverless minibuses are set to shuttle ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove",
+      "originalUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=f16b9880-69ee-52b1-b3f3-90b5c8d10652&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.1573.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/sports/look-from-blushing-plastic-and-metal-receptionist-to-driverless-ice-cream-trucks-machines-take-ove?amp=1",
+      "publishedDateTime": "2023-09-23T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-23-hi-robot-machines-take-over-at-chinas-asian-games.md",
       "title": "Hi, Robot: Machines Take Over At China's Asian Games",
       "excerpt": "Driverless minibuses are set to shuttle visitors through ... A global race to push the limits of artificial intelligence brought AI-enabled humanoid robots to a UN summit in July, where they claimed they could eventually run society better than humans.",
@@ -1008,152 +1147,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-how-ai-can-help-boost-inclusion-across-the-fintech-industry.md",
-      "title": "How AI Can Help Boost Inclusion Across The Fintech Industry?",
-      "excerpt": "It gave them, “a significant opportunity to influence how lawmakers design the rules that could govern AI” and they advocated for policy, regulation, and stricter oversight. Fintech has long employed automation, machine learning, and AI. I interviewed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
-      "originalUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65075b0b97c64f7db601661d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nadiaedwards-dashti/2023/09/22/how-ai-can-help-boost-inclusion-across-the-fintech-industry/amp/",
-      "publishedDateTime": "2023-09-22T00:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-ozzy-osbournes-son-jack-has-concerns-about-ai-its-a-bit-of-a-pandoras-box.md",
-      "title": "Ozzy Osbourne's son Jack has concerns about AI: 'It's a bit of a Pandora's box'",
-      "excerpt": "\"The Osbournes\" alum Jack Osbourne, Ozzy Osbourne's son, shares what he likes and dislikes about the proliferation of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i",
-      "originalUrl": "https://www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1200/675/JackOsbourne.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/ozzy-osbournes-son-jack-concerns-a-i.amp",
-      "publishedDateTime": "2023-09-22T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-computer-vision-market-forecast-2023key-factors-considered-2031.md",
-      "title": "Computer Vision Market Forecast 2023|Key Factors Considered 2031",
-      "excerpt": "Global |107 Pages| Report on \"Computer Vision Market\" offers a detailed Research In-Depth Analysis (2023-2031)which is expected to witness remarkable growth in the coming years. The implementation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34813029/computer-vision-market-forecast-2023-key-factors-considered-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34813029/computer-vision-market-forecast-2023-key-factors-considered-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34813029",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34813029",
-      "publishedDateTime": "2023-09-21T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -85,20 +85,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "US further limits NVIDIA AI chip exports to China"
-    excerpt: "Consequently, NVIDIA will no longer be able to sell its A800 and H800 AI and HPC GPUs in the Chinese market. Other countries like Iran and Russia will also be caught in the crossfire. This will further reaffirm the US government's measures, designed to prevent the procurement of advanced semiconductors via subsidiaries in these countries."
-    publishedDateTime: 2023-10-18T14:28:00Z
-    webUrl: "https://www.windowscentral.com/hardware/cpu-gpu-components/us-further-limits-nvidia-ai-chip-exports-to-china"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 54
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/95NCHgo7aooqjbeJ425npZ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Gcore launches generative AI cluster with Nvidia GPUs"
     excerpt: "Users will have direct access to the AI clusters and deployments using the managed Kubernetes with Nvidia GPU nodes and will be able to set up workspaces in MLOps and large-scale models. \"We at Gcore are immensely proud to be a part of the transformation ..."
     publishedDateTime: 2023-10-20T11:29:00Z
@@ -113,15 +99,6 @@ related:
         width: 718
         height: 377
         isCached: true
-  - title: "NVIDIA Teams With Foxconn To Boost AI Industrial Revolution"
-    excerpt: "Tech major NVIDIA Corp. is collaborating with Taiwanese electronics contract manufacturer Foxconn, also known as Hon Hai Technology"
-    publishedDateTime: 2023-10-18T13:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-teams-with-foxconn-to-boost-ai-industrial-revolution-1032717102"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Nvidia generative AI-focused DGX Cloud launches on Oracle Cloud"
     excerpt: "Nvidia's DGX Cloud supercomputer is now available in the Oracle Cloud Marketplace. Oracle customers will now be able to access the Nvidia DGX Cloud AI supercomputing service for training generative AI and other workloads,"
     publishedDateTime: 2023-10-20T16:55:00Z

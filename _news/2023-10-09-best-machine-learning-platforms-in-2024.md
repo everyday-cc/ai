@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://www.octalsoftware.com/wp-content/uploads/2023/10/Best-Machine-Learning-Platforms.png"

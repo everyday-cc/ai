@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-i
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 1092
         height: 678
         isCached: true
-  - title: "GITEX GLOBAL 2023: G42, OpenAI partner to advance AI in the Middle East"
-    excerpt: "G42 said partnership will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare."
-    publishedDateTime: 2023-10-18T13:22:00Z
-    webUrl: "https://gulfbusiness.com/g42-group-openai-partner-middle-east-ai-push/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 19
 
 secured: "FuVDFeIrczforzaCyu0uubi5XjiSchRFvBripuzWPMNUbrz8F2OPfD0MzEKOp0AgurHPD6bO1kLSt+MqPyF8UeoJpvb9oCP3kQdnoIu7nbASv/Gav+ammAAeX/K2yK9JB0GdoJ4q6kKBLSUkSM00lrDlUR10q+64zQaye51wBcSsbxEmllgjRcHoEP+jDF9HcOcBDrOfBqzpyUVVHfXcHg8XU8H9SenKNbVmGkq/+1Efs69ZVb7g/aOdOcDNIw19CdZ9FNLztrxmw4dvfH4UJLbuHmqlQvlgJ89+5InIkeNnUq8Zu5usZRTulZM4RFHLG3XqyYwdVW3xA3sKIEfjs7fuJlv9zJoCrttAmkKJ4kg=;rYJvePARC6K5edClRkl7LA=="
 ---

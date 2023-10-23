@@ -30,52 +30,63 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbots can infer an alarming amount of info about you from your responses"
-    excerpt: "The way you talk can reveal a lot about you—especially if you're talking to a chatbot. New research reveals that chatbots like ChatGPT can infer a lot of sensitive information about the people they chat with, even if the conversation is utterly mundane."
-    publishedDateTime: 2023-10-18T13:35:00Z
-    webUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
+  - title: "Anti-ChatGPT app Superfly uses AI to match people for live chats and answers to queries"
+    excerpt: "The new LLM-based Matchpont AI also considers topic-related understanding and users’ shared interests, as well as “personal chemistry” when matching. The startup claims that only 10% of posts are niche questions that don’t get answered fast enough ..."
+    publishedDateTime: 2023-10-18T15:31:00Z
+    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
+    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-eyes-800x560.jpg"
-        width: 800
-        height: 560
-        isCached: true
-  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
-    publishedDateTime: 2023-10-20T21:41:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 50
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
         width: 1200
-        height: 630
+        height: 758
         isCached: true
-  - title: "Inside the Underground World of Black Market AI Chatbots"
-    excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
-    publishedDateTime: 2023-10-22T02:48:00Z
-    webUrl: "https://www.thedailybeast.com/inside-the-underground-world-of-black-market-ai-chatbots"
+  - title: "How two friends used ChatGPT to launch an AI startup worth $150,000"
+    excerpt: "In just four days, using only ChatGPT and a modest US$185 (about BDT 20k) investment, Sal Aiello and Monica Powers transformed a side hustle into a highly profitable AI startup. Fast forward to last month,"
+    publishedDateTime: 2023-10-21T09:45:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021"
+    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 57
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697736987/231011-dark-web-ai-chatbot-hero_qofzpt"
-        width: 1480
-        height: 832
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/10/21/dimeadozen_founders.png?itok=yZv34IGL"
+        width: 750
+        height: 393
         isCached: true
+  - title: "Duo Builds AI Startup For Rs 15,000 Using ChatGPT, Sell It For Rs 1.2 Crore"
+    excerpt: "The startup was then bought for $150,000 (over ₹1.2 Crore ... covering areas like education, AI, and finance. She played a pivotal role as the first designer at ClassDojo, where she contributed to its significant growth from 5,000 to 50 million users."
+    publishedDateTime: 2023-10-23T07:07:00Z
+    webUrl: "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128"
+    ampWebUrl: "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 55
+    images:
+      - url: "https://c.ndtvimg.com/2023-10/ofuvd51_monica-powers-salvatore-aiello_625x300_23_October_23.jpg"
+        width: 1200
+        height: 738
+        isCached: true
+  - title: "DS Automobiles integrates ChatGPT with speech recognition"
+    excerpt: "DS Automobiles is the first automaker to integrate ChatGPT AI software into in-vehicle speech recognition for European customers. ChatGPT is available in combination with the DS Iris system for all models of the DS 3,"
+    publishedDateTime: 2023-10-19T12:44:00Z
+    webUrl: "https://www.elektroniknet.de/international/ds-automobiles-integrates-chatgpt-with-speech-recognition.210577.html"
+    type: article
+    provider:
+      name: Elektronik Net
+      domain: elektroniknet.de
+    quality: 19
 
 secured: "IpZiKMqiaDcH8DFli5rhto7gJ7S0djFqrgm9jGJa4d9/iBE8z9wK7QwCL3sefFa1Cc8Bq0XoyPCoOHKQAY1aqqVnLfjzZgy9/yLLuOR7RCeQZdu15+4Kz+tDk/8s3YmVTUg0Tr0KcvMeIWaoE0L4EfpOt/sXUUe//EZ5qtZ3SKROUSx1889mxaUzc+nnoLnnvF29rniULZpSuKFLM2+E37TugOkrbJvJKDYoMacHsmDAFQR0XGCGdgoMB6jVnvn/JjPPICqOTHtcIPf7j3x44Y74kcba9oFC91xOEFW5Z7mty7Jkl0+aNkx52dYwbtpguOuaFRn9APA7ScK6mWcaaLvYYlbfTENOfFkcW0udBWk=;24ptRCs1yjzJHBTU89XdRQ=="
 ---

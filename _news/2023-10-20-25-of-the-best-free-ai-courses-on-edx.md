@@ -88,7 +88,7 @@ related:
     provider:
       name: Law
       domain: law.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg"
         width: 767

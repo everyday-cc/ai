@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-08-02-amd-to-develop-slower-ai-gpus-for-chinese-market-to-comply-with-us-restrictions.md",
+      "title": "AMD to develop slower AI GPUs for Chinese market to comply with US restrictions",
+      "excerpt": "In September last year, the US further tightened export sanctions against China by introducing rules that prohibited Nvidia and AMD from selling their high-performance AI-focused GPUs/accelerators",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/99637-amd-develop-slower-ai-gpus-chinese-market-comply.html",
+      "originalUrl": "https://www.techspot.com/news/99637-amd-develop-slower-ai-gpus-chinese-market-comply.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/06/2023-06-14-image-29.jpg",
+          "width": 2098,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-02T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-02-gamers-brace-yourselves-ai-development-could-lead-to-another-gpu-shortage.md",
       "title": "Gamers, brace yourselves: AI development could lead to another GPU shortage",
       "excerpt": "The rise in AI tools and chatbots may be exciting for many, but gamers and enthusiasts could soon be getting cryptomining flashbacks. A few years ago the crypto-mining craze gobbled up gaming GPUs, and it looks like history could be (sort of) repeating as businesses begin buying up consumer GPUs to manufacture their artificial intelligence tools.",
@@ -1410,58 +1462,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities.md",
-      "title": "70% Of Generative AI Startups Rely On Google Cloud, AI Capabilities",
-      "excerpt": "Alphabet's Q2 2023 earnings call highlighted the growing adoption of generative AI across the company's cloud and product offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61cfba2e1bbd3c961b90a843/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/07/25/70-of-generative-ai-startups-rely-on-google-cloud-ai-capabilities-says-alphabet-ceo-sundar-pichai/amp/",
-      "publishedDateTime": "2023-07-25T19:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

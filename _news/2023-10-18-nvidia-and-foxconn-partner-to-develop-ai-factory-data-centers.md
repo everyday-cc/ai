@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Nvidia to Build 'AI Factories' With Foxconn"
-    excerpt: "The announcement was made during a fireside chat with Nvidia founder and CEO Jensen Huang and Foxconn Chairman and CEO Young Liu at Hon Hai Tech Day, in Taipei. These so-called \" AI Factories \" will be packed full of Nvidia's GPU computing infrastructure, including the latest Nvidia GH200 Grace Hopper Superchip."
-    publishedDateTime: 2023-10-18T14:21:00Z
-    webUrl: "https://www.pcmag.com/news/nvidia-to-build-ai-factories-with-foxconn"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04VBsXPmLVAMdyizMFUiLfW-1.fit_lim.size_1200x630.v1697638482.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Nvidia and iPhone maker Foxconn to build \"AI factories\""
     excerpt: "The world's most valuable chip company Nvidia and iPhone maker Foxconn are joining forces to build so-called \"AI factories\". The firms say it is a new kind of data centre that uses Nvidia chips to power a \"wide range\" of applications. They include training autonomous vehicles, robotics platforms and large language models."
     publishedDateTime: 2023-10-19T03:09:00Z
@@ -97,15 +83,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NVIDIA Joins Forces With Foxconn To Build AI Factories, A New Class Of Data Centers"
-    excerpt: "NVIDIA and Hon Hai Technology Group, otherwise known as Foxconn, jointly announced plans develop a new class of data centers and systems designed to 'accelerate the AI revolution.'"
-    publishedDateTime: 2023-10-18T13:18:00Z
-    webUrl: "https://hothardware.com/news/nvidia-joins-foxconn-build-ai-factories-new-class-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 13
 
 secured: "D5JWBER55uUN411e5b4ZDSykWzQPP4qAy0fNaTeFRZVkN8LaKlzOJjRAHqGm+WeWh6noVhbxdXAJQnW8OrF76fovARhwVf1BCukVLhhbk3mNzt1TlTBafazwe4j8kDIOgbQEA5BogspW+x0SDd9yB2dG4yNApcGsi8g48i7popFWnmRNrZ+UNjYNsIFRn/3VGj+hAmrJrfJfPR6oPzokMEJUUfoEtcTo8WR7ujhB8t0N/y0zOQKbaHStFV0sJihw1RuOKDgrP2nriK6H8reNDZ1eYqSytTfqndBFpFTHQGGkLkuMHa9QzAOmjZDRMZWCz3+sGl5vJ7T/VhAf/3Agl9eUqaMKaOipGIk8H5Q1W08=;N6AXScOFgVTu1FB1Ca1XQw=="
 ---

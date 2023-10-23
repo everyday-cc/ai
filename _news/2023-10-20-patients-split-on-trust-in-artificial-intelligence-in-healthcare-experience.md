@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Employees Are The “New” Customers: Can AI Help Us Give Them Amazing Experiences?"
-    excerpt: "If you want to hold onto your best employees, attract high-quality talent and improve workplace satisfaction, it’s no longer enough to offer a job."
-    publishedDateTime: 2023-10-18T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/18/employees-are-the-new-customers-can-ai-help-us-give-them-amazing-experiences/"
+  - title: "Most U.S. patients don't trust AI in healthcare settings, feel transparency would help, Carta survey finds"
+    excerpt: "Three out of four Americans don’t trust artificial intelligence in a healthcare setting, and most have no idea whether their provider is already using the technology, a new survey has found. | Many respondents admitted their understanding of AI is limited,"
+    publishedDateTime: 2023-10-20T19:20:00Z
+    webUrl: "https://www.fiercehealthcare.com/health-tech/most-americans-dont-trust-ai-healthcare-setting-carta-survey-finds"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 42
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 36
+    images:
+      - url: "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1300745916.jpg?VersionId=aRHtL7bdrHI1zRuRxO5M6K9eoyNFUAVl"
+        width: 788
+        height: 443
+        isCached: true
   - title: "WHO says AI can transform healthcare if understood properly"
     excerpt: "Artificial Intelligence has the potential to transform health treatment but rapid roll-out without fully understanding how AI performs could end up harming patients, the World Health Organization said on Thursday."
     publishedDateTime: 2023-10-19T13:20:00Z

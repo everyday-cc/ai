@@ -73,15 +73,6 @@ related:
         width: 1092
         height: 678
         isCached: true
-  - title: "GITEX GLOBAL 2023: G42, OpenAI partner to advance AI in the Middle East"
-    excerpt: "G42 said partnership will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare."
-    publishedDateTime: 2023-10-18T13:22:00Z
-    webUrl: "https://gulfbusiness.com/g42-group-openai-partner-middle-east-ai-push/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 19
 
 secured: "iwAcdzLinpdFndd1Pq7ucJf0y/Mf76sU3yHS/+Y9d3Luf3vev6w0OZbXCKRXJwJUDYL94rHjt3o7TcJ8BDYUK6Un01VvWVRTsfbbMVz9n6Xh/K4AYQuNcMekFKqTEtvYKrl8iBJ9zHJ/ZVfSZKk1aoOAkhPoutP3vsz1EZfxOK85vT792yGeWx49mf4PoiywQCsvjg0Zip8Df759SxSguMwVSC292diGZHvu2MKywtmwdidCkvaP/8nkCjVVwwZPJV0OzIqYXLnVUyWlVX69K3q8WX1jVOgvAOLdz5Jbv3robIGgoJ6wlU8no2K8rYBR9tA7SdNcsPgntUmO6gpwByhOym07y/9chLecrUHovB0=;jJhro7uD4ic8IvnFWglunw=="
 ---

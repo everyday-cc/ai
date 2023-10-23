@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Creator Partners With Abu Dhabi’s G42 in Middle East AI Push"
-    excerpt: "The partnership with G42, which is chaired by the UAE’s influential national security adviser Sheikh Tahnoon bin Zayed Al Nahyan, will focus on delivering OpenAI’s generative AI models across sectors spanning financial services to energy and healthcare."
-    publishedDateTime: 2023-10-18T13:48:00Z
-    webUrl: "https://time.com/6325389/chatgpt-openai-g42/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 67
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2023/10/AP23157511535295.jpg?quality=85"
-        width: 7082
-        height: 4722
-        isCached: true
   - title: "ChatGPT Creator OpenAI Partners With Abu Dhabi's G42 as UAE Scales up AI Adoption"
     excerpt: "Mubadala-backed G42 has been at the forefront of AI adoption in the UAE. The company said in July that it had developed the world's largest supercomputer for AI training in collaboration with U.S.-based AI firm Cerebras Systems."
     publishedDateTime: 2023-10-18T15:05:00Z
@@ -48,6 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
+    excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
+    publishedDateTime: 2023-10-18T17:17:00Z
+    webUrl: "https://menafn.com/1107265144/The-UAEs-Artificial-Intelligence-Office-Partners-With-Core42-To-Enhance-National-Talents"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/18/M_9c43eimage_story.jpg"
+        width: 1270
+        height: 847
+        isCached: true
 
 secured: "l/ks/UEGthOrgRL/eH6PCIdCIgvtYItAsP0159msJAAwrQh9YR23/8Xmf+/7RHTjC4rHTctkV7x0R5IylFjCUrChSAqH2W0DZH4R1p/QBJOzxtPeZ+7T8rbeJ/nzc9GfKgE7ERxQdXQUUqtVxWsHXSHwz8ZSBpScknLWAGBBHjzZeUXJhnB/lZ00rgi+8ICgvx5x3PoBLDuH7k2x0JBZy/5PZeRVNvbDbNOan0HhmOVzVAQr5sTeFzQm7LB5g5sLfqOEoy7CRsQw+F/Dsz9GeSCcmseMXi5rIaGjy6fEHCeiXOPfZSVES5PV/1oT82S9g1J6z4dDkP9QuCbaLtjM6Br2m84t11aUGpQncbi1OmI=;BWnQkyootMFD4eAlxV4V3w=="
 ---

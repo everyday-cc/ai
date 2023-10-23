@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
 type: article
 quality: 89
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/11173308/shoplifting-scaled.jpg"
         width: 2048
         height: 1367
-        isCached: true
-  - title: "Login.gov to add facial recognition tech"
-    excerpt: "The General Services Administration is also adding the option for people to verify themselves via a live chat."
-    publishedDateTime: 2023-10-18T15:00:00Z
-    webUrl: "https://www.nextgov.com/digital-government/2023/10/logingov-add-facial-recognition-tech/391300/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 39
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "GSA to add facial recognition option to Login.gov in 2024"
     excerpt: "After determining early last year that it would hold off on using facial recognition as part of its governmentwide single sign-on and identity verification platform Login.gov, the General Services Administration in 2024 will add an option for system users to verify their identity with “facial matching technology,” the agency announced Wednesday."

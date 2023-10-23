@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2023/10/22/diving-deeper-with-kajiai-a-mental-health-and-wellness-app/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1350
     height: 900
     isCached: true
-
-related:
-  - title: "Leveraging artificial intelligence to make care safer for mental health patients"
-    excerpt: "By Kristi Lalonde Avoiding patient harm is a fundamental element of quality patient care. Timely intervention is crucial in managing and treating mental health conditions effectively. In recent years,"
-    publishedDateTime: 2023-10-18T13:44:00Z
-    webUrl: "https://hospitalnews.com/leveraging-artificial-intelligence-to-make-care-safer-for-mental-health-patients/"
-    type: article
-    provider:
-      name: hospitalnews
-      domain: hospitalnews.com
-    quality: 34
-    images:
-      - url: "https://hospitalnews.com/wp-content/uploads/2023/10/Waypoint.jpg"
-        width: 665
-        height: 475
-        isCached: true
 
 secured: "7+YJHWkjxJ7TwJ8Zj7eDq1QCXxn9onzyCW+bJPxNKwYA1JfHSNZG9f6Udjj8SBfT+DBLVxvexwA+iOCv0+IBbuOqARhs+fMM3ImmMRweG5gGTElSTRDwBwof8D4jkHeb1eGY4+jrrSvvK1ILAi2rOfd4exdhwKi8+FN+PjUmI2F09oG4qFqHU+By6oAefVMTmnC9lPlpkHf2b0tFLL4gxBZGJK9J/DvvW5p8osM0UlmomTqbbhntyDYbH+sK4FrKn7v7AM/gL0e2XnTTKtr6xAKamQgZ24claWxtyJ4jdkAPLtnA1f2Jl4lJie104096INEo6YyF+89b9REPBxb+tvxY0QCeqCuwNBlvvabe5A46KNPVbo+U8cwa7DYotdn7cCpwr96zSNxTJGc6tWR94KJBshrMxXhd8qaDjMh+mDBHCtzDLl434D7J3mYc+0XXm0lk/oIDmWp4OqnQVl3XWranG8kMFIoU5AAD7mLJi50006n27UuXfJNMBo8mY06qn3YwR00XpYKULxIAkIvWUA==;6JCH34iXe5NSgBC6mjgYGg=="
 ---

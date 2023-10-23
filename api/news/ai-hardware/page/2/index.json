@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-11-energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge.md",
+      "title": "Energy Dept. funded JetCool nets $17M to disrupt chip cooling as AI workloads surge",
+      "excerpt": "JetCool's technology is enabling 30% faster processing while reducing energy consumption by 50% and water usage by 90% over air cooling.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/energy-dept-funded-jetcool-nets-17m-to-disrupt-chip-cooling-as-ai-workloads-surge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/ideogram-6-e1697035989840.jpeg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-11T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-11-ai-industry-set-to-use-as-much-energy-as-countries-like-sweden-or-the-netherlands-study-finds.md",
       "title": "AI industry set to use as much energy as countries like Sweden or the Netherlands, study finds",
       "excerpt": "AI comes with a huge carbon footprint and its development could see the industry's energy consumption match levels of an entire country by 2027, a study has found.",
@@ -1387,50 +1440,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-02-microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight.md",
-      "title": "Microsoft’s ‘top choice’: supply of Nvidia AI GPUs improved but still tight",
-      "excerpt": "He mentioned that the situation regarding GPU supply has improved compared to a few months back, although it is still tight. Previously, the demand for Nvidia’s GPUs for AI and HPC applications exceeded the supply capacity of the entire ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
-      "originalUrl": "https://www.onmsft.com/news/microsofts-top-choice-supply-of-nvidia-ai-gpus-improved-but-still-tight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e24joaz2t6m.exactdn.com/wp-content/uploads/2022/01/ARM-Nvidia.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-02T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "On MSFT",
-        "domain": "onmsft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

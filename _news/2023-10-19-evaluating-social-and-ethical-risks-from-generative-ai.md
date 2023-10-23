@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-
 webUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 46
+  - title: "TCS’ Obsession With Generative AI"
+    excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
+    publishedDateTime: 2023-10-23T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/tcs-obsession-with-generative-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2023/10/TCS-Obsession-With-Generative-AI-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "AI generated images another potential social media hazard"
     excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
     publishedDateTime: 2023-10-20T21:46:00Z

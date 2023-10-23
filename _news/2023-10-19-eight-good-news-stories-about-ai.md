@@ -42,15 +42,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Six Steps To Harnessing The Influence Of AI In Advertising And Beyond"
-    excerpt: "As marketers, we must build an understanding of AI's capabilities, enabling us to integrate these use cases, while maintaining ethical guidelines and human values."
-    publishedDateTime: 2023-10-18T13:31:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2023/10/18/six-steps-to-harnessing-the-influence-of-ai-in-advertising-and-beyond/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "gTBx+h+i0QQrPWmqEDeIucUSto7Okxd481BCFUmW/Edka9vOwshY2Y7V1BPPahvJB28HH9D+/O5tjC5nxDkRpmkt+L2dcEVAK/mGesjQVQ66TdApOIPkoEjYJ3vb5WwT9m7loY0vTWz/brTqcNb7L20OCwcaz3+3BiJHTz1Ijl0QYM/PsGKRKgIMVVcdlnoReqUa1CBri2dQbZYry1tGZQBsUQiZlTqBusYioBMEXnjFjp86n3+GrZA3c9v1R2whbtcQJvyoa5w8UIF59k45K3x3A9GYyM7FOiD0HtLLqNw4yIj3lrhZuPDOiKKS5hGK8FXeSnwCL5Q19D8szSJGuUIzQZszvCTMlFR0AIyI7Uq4X9siEFkLxbGgxlKWr6kkuqfhvclYEw5geImOX4Ea1QwLVLwPuTye60SlsnNBWg6yCd86HjYWK9vf4JpkjkEdh/oaT4KIZzU3UC53l8kCQXTR+bnMo3sWcpkwD14owa/fJGkA16U8QjVaeAv8XGvD70YF7+oZ95csEzNsFLT9Og==;2VTdUMNsUM7ZIY8OzBByxw=="
 ---

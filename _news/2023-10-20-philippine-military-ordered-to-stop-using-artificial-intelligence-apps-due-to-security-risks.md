@@ -2,29 +2,21 @@
 category: news
 title: "Philippine military ordered to stop using artificial intelligence apps due to security risks"
 excerpt: "The Philippine defense chief has ordered all defense personnel and the 163,000-member military to refrain from using digital applications that harness artificial intelligence to generate personal portraits,"
-publishedDateTime: 2023-10-20T07:57:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
-webUrl: "https://abcnews.go.com/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
+publishedDateTime: 2023-10-20T12:49:00Z
+originalUrl: "https://www.houstonchronicle.com/news/world/article/philippine-military-ordered-to-stop-using-18437304.php"
+webUrl: "https://www.houstonchronicle.com/news/world/article/philippine-military-ordered-to-stop-using-18437304.php"
 type: article
-quality: 63
-heat: 83
-published: true
+quality: 23
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
 
 topics:
   - AI
   - AI in Security
-
-images:
-  - url: "https://s.abcnews.com/images/International/wirestory_b682e926a5247621befc208b3584f887_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Philippine military ordered to stop using AI apps"
@@ -51,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "sKLaEKjvNk62kUL/pwsEx6545GjFUBf79F0BPpq9rhhBwM0mzK6WUBLwlbTqR4t2qxTT8rdX2XTm2V3hBQlCqZkC5Uy6LPr040b1hvtNPvNqszCeedB0rlqqMFv0dq7c0rcwU3i/X/oZLlziCpCzJVyyJuAnzkAZ8/3nnSN6qNA9trgZx5Y4G9k+cGlkfdnD5MInr7/lZgILO4YGUK5lhoDpGBZR/kzYD5cg+CJOA5J4ZOY4U7xWPTAcXi3eAXj4KOWHQ4Dvk6BDwtvwLvyZLd5xdyx5igxdwBj3SsmFE/WQK/Vb7TZ8A7iJDVDvemvsToQro9PirmUux3puXf+a2XRGP2r6SDFTS1kJ4RUpkAor7ovIlgaxYWzeoiTVyaZrjvKakcf68pL/++MXDflodSYXR++S4IpmK2YfAPhM2aOPoH7Qo+pMrOqfXZGgACPRIRxYXXEcSJ3fMigeM/dLrpFbSgcxy1i4wdcRGR9tW0tWI8rtfKsQZPHFO0bmwdKdMfmPJiXWytqTypvtdcTBrA==;8G5g2/8GjSsXm217jCBQRw=="
+secured: "XWDudNpGEWEECX+5pPZOj8QBNmL9ILxocZnBTfDvHSZDkiBroCAMbuyunXWbRFotiiVgbofDGlPNG5UlTGhUN6fiEIdlCZ1lptbjJ3NORGob1JfHEIuUIJYVonWnpIL5wCuF7SwVOjW3oxcwEebncRLnJP+cMVtelB/ZH6Svj9gqducRtRsPbmv3k7/TFZA9yqpTFbWkiXTBm8aTRFT0L2XUKnAhCbG7s6pfjHTUT7O/UmoORmdlgohMPvA29ujGFpWpJ4hWNYoMqgwJPbpjc5fIi8eSadUFvknSYTaq2LrYBOWgD19UIhXBNjeTiUdu8qN9KH9NG6sgk5edJ2hz1n+RBLt3Cq2ShmQq8uMCyV8T7lzqhORClCUq9+M7/WDC2Il6HCNAP+4ybr1iL2DRnx1RwV0mEwpJUH3Q6ZxiVm2U0t2P39/jolTeyAT/6aqrizcx0GAVURUX9HpMTRnCovVp1GEDVLlEqhVQWB0mtqKSKdf+FUGeBL+QV/hCV+vd/sIeb1TUN5cp0XPNMSQ21A==;UB3g8s7cW1A6YSbLM5NNYQ=="
 ---
 

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Philippine military ordered to stop using artificial intelligence apps due to security risks"
-    excerpt: "The Philippine defense chief has ordered all defense personnel and the 163,000-member military to refrain from using digital applications that harness artificial intelligence to generate personal portraits,"
-    publishedDateTime: 2023-10-20T07:57:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/philippine-military-ordered-stop-artificial-intelligence-apps-due-104166505"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 63
-    images:
-      - url: "https://s.abcnews.com/images/International/wirestory_b682e926a5247621befc208b3584f887_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Philippine military ordered to stop using AI apps"
     excerpt: "All defense personal and military in the Philippines have been ordered to refrain from using apps that utilize artificial intelligence due to potential security risks."
     publishedDateTime: 2023-10-20T11:33:00Z
@@ -49,6 +33,15 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 47
+  - title: "Philippine military ordered to stop using artificial intelligence apps due to security risks"
+    excerpt: "The Philippine defense chief has ordered all defense personnel and the 163,000-member military to refrain from using digital applications that harness artificial intelligence to generate personal portraits,"
+    publishedDateTime: 2023-10-20T12:49:00Z
+    webUrl: "https://www.houstonchronicle.com/news/world/article/philippine-military-ordered-to-stop-using-18437304.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 23
 
 secured: "KyL7HOFkMpk+YBjFAjO0x6DD4Za7UZT8j/8uL112yu8D6rmiEjWLSCi4hBz2wAlDd3zQ9OSFMDhjLJfi/DYDxsWShblqbvCGEjlO/J488Lf8ZI3HuCDZ9DVSA7BVbNcf9p8y2R4x9SVfAxxAP0VlSs4YsZX2fe61IAFgsiyZvt02l13qVzA47uEEQ7L9VALiaxFL9Rf99Wr85uh5k5efrIpbW0h1vy3HcQS9Sj7zvCiAbiriXdiQyCovZqq+mz0mcdS4Yev7JBLe7qw/NLq4D9RWB1qrAxtMNld2/LVw1RH2YCnYelIad5eY5n5baxZZntBQDxaQmgSVI07ANCmNMNkWraKuJODYsynapIYyK3FwgkKeNubAR6aEo3iW7fdQMyoUqxO9Ivy9Nl+QZ0hrA8EVQ49LP4B93NDOPsayyc5+FIkCGPh/ut+uLNI0usvKv5+b46A2QfiUX37SbA5KaycCnG5cK5BCaZsHJRDwi/JJ+XLM4lsbt09iNZKGt6gL0Te7Cri5/7i24XnVXmh0Ew==;Klt2fyMdBDBxgY/Tf9oEzg=="
 ---

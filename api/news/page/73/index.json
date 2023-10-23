@@ -2,6 +2,155 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2023-08-30-deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models.md",
+      "title": "Deploy self-service question answering with the QnABot on AWS solution powered by Amazon Lex with Amazon Kendra and large language models",
+      "excerpt": "Powered by Amazon Lex, the QnABot on AWS solution is an open-source, multi-channel, multi-language conversational chatbot. QnABot allows you to quickly deploy self-service conversational AI into your contact center, websites, and social media channels, reducing costs, shortening hold times, and improving",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deploy-self-service-question-answering-with-the-qnabot-on-aws-solution-powered-by-amazon-lex-with-amazon-kendra-and-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/30/featured-images-ML-14990-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T13:07:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list.md",
+      "title": "3 Up-and-Coming AI Chip Stocks to Put on Your Must-Buy List",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you searching for a list of top AI chip companies? AI chip companies are",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-up-and-coming-ai-chip-stocks-to-put-on-your-must-buy-list-1032594136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-30T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-08-31-a-new-role-emerges-for-software-leaders-overseeing-generative-ai.md",
+      "title": "A new role emerges for software leaders: Overseeing generative AI",
+      "excerpt": "Most software leaders will manage generative AI efforts by 2025, Gartner predicts. This has implications for their roles well beyond application development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
+      "originalUrl": "https://www.zdnet.com/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ae8ee1007cd4508dc9e65f6cab3479980a6c23c1/2023/08/30/9c93be2f-7e9b-4997-bcea-4a067819ec5e/double-gettyimages-621856560.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-role-emerges-for-software-leaders-overseeing-generative-ai/",
+      "publishedDateTime": "2023-08-30T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-31-home-office-eyeing-expansion-of-orwellian-facial-recognition.md",
       "title": "Home Office eyeing expansion of 'Orwellian' facial recognition",
       "excerpt": "The Home Office insists it wants to \"strike the right balance between public safety and individual privacy rights\" and has issued a call to companies to suggest ways of using it.",
@@ -1025,161 +1174,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-tech-war-china-exploring-ways-to-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say.md",
-      "title": "Tech war: China exploring ways to make its own AI memory chips despite US sanctions, sources say",
-      "excerpt": "China is exploring ways to produce its own high-bandwidth memory (HBM), the next-generation of memory chips tailored for artificial intelligence (AI) processors, as it pushes ahead with a semiconductor self-sufficiency drive amid US sanctions, industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3232572/tech-war-china-exploring-ways-make-its-own-ai-memory-chips-despite-us-sanctions-sources-say",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/08/28/89c22c98-89dc-4375-961d-4890592a1140_dbf13453.jpg?itok=q1LwE16L&v=1693216774",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-loom-launches-ai-upgrades-to-maintain-lead-async-communication-space.md",
-      "title": "Loom Launches AI Upgrades To Maintain Lead Async Communication Space",
-      "excerpt": "Video messaging platform Loom unveiled several generative-AI focused upgrades this week, as it aims to stay ahead of the competition in the red-hot asynchronous",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
-      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64eed1d70a6722fa073b0616/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2023/08/30/loom-launches-ai-upgrades-to-maintain-lead-async-communication-space/amp/",
-      "publishedDateTime": "2023-08-29T22:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-30-gpunet-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch.md",
-      "title": "GPU.Net Raises 500K from Momentum 6 & Alphablockz. Nvidia Backs Testnet Launch",
-      "excerpt": "Backed by a substantial $500,000 investment from Momentum 6 & Alphablockz, GPU.Net is empowered to take its ambitions to new heights. This infusion of capital not only validates the platform's potential but also enables the team to enhance their efforts in creating a robust infrastructure that meets the global GPU resource challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gpu-net-raises-500k-from-momentum-6-alphablockz-nvidia-backs-testnet-launch-1032590957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsroom.submitmypressrelease.com/system/media_files/images/000/042/685/original_jpeg/image.jpg",
-          "width": 936,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-29T22:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

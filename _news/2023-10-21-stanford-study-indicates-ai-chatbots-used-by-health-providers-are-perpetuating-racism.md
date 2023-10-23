@@ -26,51 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "AI chatbots can infer an alarming amount of info about you from your responses"
-    excerpt: "The way you talk can reveal a lot about you—especially if you're talking to a chatbot. New research reveals that chatbots like ChatGPT can infer a lot of sensitive information about the people they chat with, even if the conversation is utterly mundane."
-    publishedDateTime: 2023-10-18T13:35:00Z
-    webUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/"
-    ampWebUrl: "https://arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/ai/2023/10/ai-chatbots-can-infer-an-alarming-amount-of-info-about-you-from-your-responses/amp/"
+  - title: "How transparent are AI models? Stanford researchers found out."
+    excerpt: "Join us for key insights and networking with leaders in the Data and AI spaces at VB's exclusive after hours event this November! VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More"
+    publishedDateTime: 2023-10-18T22:37:00Z
+    webUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai-eyes-800x560.jpg"
-        width: 800
-        height: 560
-        isCached: true
-  - title: "Anti-ChatGPT app Superfy uses AI to match people for live chats and answers to queries"
-    excerpt: "There are some things an AI chatbot can't reliably answer, like how to solve a problem in your relationship, which outfit looks best, advice on a problem"
-    publishedDateTime: 2023-10-18T15:55:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
-    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T093154.335.png?w=1200&strip=all"
         width: 1200
-        height: 758
+        height: 750
         isCached: true
-  - title: "Inside the Underground World of Black Market AI Chatbots"
-    excerpt: "These models are powerful, hard to police, and growing in number. They also mark the emergence of a new battleground in the fight against cybercrime—one that extends even beyond text generators like ChatGPT, and bleeds into the realm of images, audio, and video as well."
-    publishedDateTime: 2023-10-22T02:48:00Z
-    webUrl: "https://www.thedailybeast.com/inside-the-underground-world-of-black-market-ai-chatbots"
+  - title: "AI Models Lack Transparency: Research"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
+    publishedDateTime: 2023-10-19T15:16:00Z
+    webUrl: "https://www.barrons.com/news/ai-models-lack-transparency-research-13234812?refsec=topics_afp-news"
+    ampWebUrl: "https://www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/ai-models-lack-transparency-research-13234812"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
+      name: Barron's
+      domain: barrons.com
+    quality: 59
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697736987/231011-dark-web-ai-chatbot-hero_qofzpt"
-        width: 1480
-        height: 832
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP5078617444604516448381783324554086861462---1.jpg"
+        width: 768
+        height: 511
+        isCached: true
+  - title: "Stanford researchers find biggest AI models rank low on transparency"
+    excerpt: "In a time when ethics are openness have become a want in AI, Rishi Bommasani, the society lead at CRFM noted that transparency has become a valuable trait. Music publishers sue AI company Anthropic over song lyrics “A lack of transparency has long been ..."
+    publishedDateTime: 2023-10-19T09:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/stanford-researchers-find-biggest-ai-models-rank-low-on-transparency/article67437802.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/stanford-researchers-find-biggest-ai-models-rank-low-on-transparency/article67437802.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/stanford-researchers-find-biggest-ai-models-rank-low-on-transparency/article67437802.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/p8b9ua/article67437797.ece/alternates/FREE_1200/2023-10-18T050040Z_198153068_RC2SU3AUSS01_RTRMADP_3_AI-BRITAIN-SUMMIT.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Top Artificial Intelligence Models Lack Transparency: Study"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
+    publishedDateTime: 2023-10-19T12:48:00Z
+    webUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928"
+    ampWebUrl: "https://www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/top-artificial-intelligence-models-lack-transparency-study-4496928/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 59
+    images:
+      - url: "https://i.ndtvimg.com/i/2016-09/artificial-intelligence_650x400_61475215891.jpg"
+        width: 650
+        height: 400
         isCached: true
 
 secured: "pWtRetvH2n6wUUblggqaTiUshbbGbQiWNfusxydLu63cBiWCEpbS/XDp7UKpR11eWmH4jBA/b1I3B1TrV/0TCcm3yvuEfRcHCcc6mbRH0Wy61JSwBC9Uw6+05++xur1mzVLRZWKgg9uyyzCSLT4V4CLo4hyKtXyCJ3YLrznPYeDWBf1Y/lD5AlBJcOOL0EEdnnNzaRYfkMPXjoHJJ90HhASmpu2ti5SwsLFMMgeFPw86CJS5vMF5pFFJGF152zVpLX+ePzKT3VOov+o0ubi2gYa9RzyWTsftnKkHKYtgBXcIhF269gBZYIZQOOpMWoFwYEnq2PGhzcHVzAIVb6b3VroQjoW4P8rgA8hv78s1AaE6FPtGM/BVWiPKzsBwbAh8P1c8a5RBpfndo1y3r6jDxOSiPEEjBQ+1hIMG1y6FaZrGjM4a84FTA5R1/EbHCJVorh1mXoU7lHgmvBw7a4CWNCHAuMnWp+askWx3joyTfBB4cJaEY9Mpiz7013uOD/nX/N8L5ZYdacIJzyqJ3pqetw==;u58NVZMOzc7vbvqEM+f/oA=="

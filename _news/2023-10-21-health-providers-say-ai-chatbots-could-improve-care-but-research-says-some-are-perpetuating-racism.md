@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Chatbot Revolution: Transforming Healthcare With AI Language Models"
-    excerpt: "ChatGPT and similar chatbot-style artificial intelligence software may soon serve a critical frontline role in the healthcare industry."
-    publishedDateTime: 2023-10-18T14:43:00Z
-    webUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/"
-    ampWebUrl: "https://www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhaseltine/2023/10/18/the-chatbot-revolution-transforming-healthcare-with-ai-language-models/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6526d2865dfb956a3deee505/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Artificial intelligence has impact and revolutionises social development"
-    excerpt: "Artificial Intelligence (AI) as an enabler of futures poses crucial challenges in the ambit of research and the formation of professionals. In an"
-    publishedDateTime: 2023-10-20T02:31:00Z
-    webUrl: "https://www.pressenza.com/2023/10/artificial-intelligence-has-impact-and-revolutionises-social-development/"
-    type: article
-    provider:
-      name: Pressenza
-      domain: pressenza.com
-    quality: 36
-    images:
-      - url: "https://cdn77.pressenza.com/wp-content/uploads/2023/06/book-catalogue.jpg"
-        width: 360
-        height: 203
-        isCached: true
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
     excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
     publishedDateTime: 2023-10-20T19:39:00Z
@@ -91,6 +61,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AI is supposed to improve health care. But research says some are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors’ notes and analyze health records"
+    publishedDateTime: 2023-10-20T17:58:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ai-chatbots-supposed-improve-health-care-research-perpetuating-104167104"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 12
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
     excerpt: "Stanford School of Medicine researchers have discovered that popular chatbots are responding to questions using race-based, debunked medical ideas."
     publishedDateTime: 2023-10-20T16:11:00Z

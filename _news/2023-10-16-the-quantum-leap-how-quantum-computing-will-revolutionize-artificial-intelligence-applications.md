@@ -17,6 +17,13 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
+
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2023/10/The-Quantum-Leap-How-Quantum-Computing-Will-Revolutionize-Artificial-Intelligence-Applications-3.jpg"
+    width: 600
+    height: 400
+    isCached: true
 
 related:
   - title: "The Urgent Need For Marketing AI And Automation Education"
@@ -429,6 +436,6 @@ related:
       domain: newswit.com
     quality: 0
 
-secured: "4hTGHJ7orLSaj3/pwH7y40BLccLic0JYm4xzmJ3WkgqbmD5TYsNv4HxGNpWhKiJa0ZLrl6FbKRc/UOt+8ncHemAbxIzjd1z2Sbeg751wekETHY5gfwRMx9LJj3pASC/u+SFVuvXT7zvoKN7LRHLmy4hRKeCrYOkiN4St4MaQpdTgxvJLSu7njATyufz/jaMx2YYSssY8mGUu2KYE/aj+vyh5xD6pYGE5cHg8Q9lo6yayw2cIqoML/fQGZZC3JWm/vJo7sccoY78PSxPSeJ/fZsNpgonqQwdmaPbeULklgqZAt+myMdC1/fcmMuWLFOBMcxIvatjgIBRuuFYizlMurhYSI54cehgtS47gKWYz21haWzyun7LMxeyiCqSrOO5jz1QAvfy2IKF8LYNCHoS14LQIwc2tsIVS8Nzuq65BDAvDCpuDY9pQlAkwrVOqmObs+SqzW0BVs3DH/a8N/p1IYf6SZ3yTQhD/isgsIN6Q3cSjTSmUrxmffWOzCu4FsPCN8FApoNegmhalBrcZtjPEAA==;O7Abi31iXKkVCI1lS6s4nQ=="
+secured: "Eyjs8SNr7uParu+SiLzJ0TL2zxu1eFccCFja/mYRXF9AwR8hnZKa9NyN/vGmUwFs9aYGbvcW14HWjUI+Rlpc4WmJ2XHExVJfkxpIe8PzNy+qLQfJ6AosJ5K33oKmoMovFOI0qVm2Yj3f8IM8NajQnetl4Cqd9WyNUQ0zCDg04wpXlnJCyy5DdYAf1JBUFHegm2uoL4MICnKqR7TvIzUBKVW9Ps1NR9YDAeGwXASUq+VneIXVGqbzZjTtHBwMa8ulOSqox2XoD7uxFczA8U4FPL0SLvTALnaVPpQy9aEGjn2Lz4xeayMPktD4+IyB6IeTXjOgnniQN4Z8TWQRc1AUyxTMUe3sNpIuZrFuWDPJa4Y=;Rx7DX5v2G3gyxJjvCbtGaw=="
 ---
 

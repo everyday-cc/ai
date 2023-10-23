@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-23-snoop-dogg-sentient-ai-and-the-arrival-mind-paradox.md",
+      "title": "Snoop Dogg, sentient AI and the ‘Arrival Mind Paradox’",
+      "excerpt": "Personified AI agents seem fun and helpful, but their widespread deployment is a real threat and we are unprepared.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-mind-paradox/",
+      "originalUrl": "https://venturebeat.com/ai/snoop-dogg-sentient-ai-and-the-arrival-mind-paradox/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/Arrival_Mind_Paradox9_Paris-transformed.png?fit=750%2C420&#038;strip=all",
+          "width": 749,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-22T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-the-us-has-failed-to-pass-ai-regulation-new-york-city-is-stepping-up.md",
       "title": "The US Has Failed to Pass AI Regulation. New York City Is Stepping Up",
       "excerpt": "Amit Katwala Millions of Workers Are Training AI Models for Pennies From the Philippines to Colombia, low-paid workers label training data for AI models used by the likes of Amazon, Facebook ... Bengio’s pioneering research helped bring about ChatGPT ...",
@@ -1434,49 +1487,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-28-meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses.md",
-      "title": "Meta Connect 2023: Mark Zuckerberg unveils AI assistant, Facebook-streaming glasses",
-      "excerpt": "The device will incorporate a new Meta AI assistant and be capable of livestreaming broadcasts of what a user is seeing directly to Facebook and ... at TECHnalysis Research. Zuckerberg also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hindustantimes.com/ht-img/img/2023/09/28/1600x900/Mark_Zuckerberg_1695874891506_1695874891796.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/meta-connect-2023-mark-zuckerberg-unveils-ai-assistant-facebook-streaming-glasses-101695874807034-amp.html",
-      "publishedDateTime": "2023-09-28T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null

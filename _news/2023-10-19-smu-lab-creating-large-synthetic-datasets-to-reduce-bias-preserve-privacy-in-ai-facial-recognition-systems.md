@@ -7,7 +7,7 @@ originalUrl: "https://www.smu.edu/News/Research/AI-facial-recognition-systems"
 webUrl: "https://www.smu.edu/News/Research/AI-facial-recognition-systems"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Bias in AI Computer Vision Systems Dramatically Reduced with Synthetic Data ‘Digital Humans’"
+    excerpt: "Mindtech, the developer of the world's leading end-to-end synthetic data creation platform for training AI vision systems, has announced the launch of its Digital Humans 2.0 within its Data Ops Platform."
+    publishedDateTime: 2023-10-23T06:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/bias-in-ai-computer-vision-systems-dramatically-reduced-with-synthetic-data-digital-humans/article_85a834da-dc11-5dd8-978d-28c33924f145.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 43
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/5879-RTJ-Summer-Packages-300x250.gif"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "hhXNZHMLZLOpzU+Mf2Tn6K8jw4p0fEmWXHMjEg7RzqGle73kFbtV6bQ506OZxPiDnAdl0MrA6UxmbICKt7bGFYXWYzROO7ITscQ2shjGpgohbOuvApyZ0xbwxOJRAPp9PTq6UZmlS1qH5W5Pum0da5sYhDyeXz1W3U3MVsrEHiNRcIviw7JS1JeqVpBSIvLmD2cDK9/fkJaj4t96uMrXnDC3RqPK+FjdooMaD0DJwZfrDC8ZrdXaTkJif8n51fW/Pg/msq7FjIUFVqRldK7Mk/pXVU6+pFeiTpwCTfFqhepaeP/KIvSfyGYTKs1ouayCl7ecLY3/AUuNSnu9jqv7TJhNF59xrAzjOVYa4dkn3s18Up/Zeni7c7y7vzH36NDlCGwhL/ONFw/zPCJMeheYdhh54F/yCwVqg/xlwGSyKWJ9xjCGIAnPGgBcfcJ0IRDEnFJiG0zTojpJjW54+EUZEBDn29RYb87szCBRt916Nvle0r7j6gNDEkvtrM7su6ksmJG+2ok/sE1ugPVxafRZTg==;M0J3H02MU5zgt/Je0CsdYg=="
 ---

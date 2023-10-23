@@ -24,85 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Startup Zhipu Secures $342M in Funding from Alibaba, Tencent"
-    excerpt: "Amid the buzzing AI market, Chinese AI startup Zhipu announced that it has secured $342 million (or 2.5 billion yuan) in funding."
-    publishedDateTime: 2023-10-20T10:03:00Z
-    webUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/"
-    ampWebUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
+  - title: "AI startup Giga ML raises $3.6 million in seed funding from Nexus Venture Partners, Y Combinator, others"
+    excerpt: "According to GigaML, it helps enterprises with the deployment of AI and LLMs backed solutions for their operations by overcoming challenges around data security associated with the open source."
+    publishedDateTime: 2023-10-23T06:30:00Z
+    webUrl: "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/"
+    ampWebUrl: "https://www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/sme-ai-startup-giga-ml-raises-3-6-million-in-seed-funding-from-nexus-venture-partners-y-combinator-others-3284241/lite/"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
+      name: The Financial Express
+      domain: financialexpress.com
     quality: 57
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-zhipu-342m-funding.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Alibaba, Tencent and other major Chinese backers invest US$342 million in start-up Zhipu AI as this tech sector sees increased funding"
-    excerpt: "Zhipu AI was built on the back of research from the Knowledge Engineering Group of Beijing’s prestigious Tsinghua University. The start-up’s chief executive, Zhang Peng, graduated with a PhD from Tsinghua’s computer science department. Beijing is ..."
-    publishedDateTime: 2023-10-20T11:54:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 55
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/20/e2086e00-778f-4434-9d55-aaad50d7f5da_762ea11f.jpg?itok=ke8UV4JE&v=1697802747"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/pexels-tara-winstead-8386440-2.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
-    excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T05:37:00Z
-    webUrl: "https://www.theedgesingapore.com/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 37
-  - title: "Alibaba and Tencent Join $340 Million Funding for AI Startup Zhipu"
-    excerpt: "(Bloomberg) — Alibaba Group Holding Ltd. and Tencent Holdings Ltd. were among influential Chinese investors that invested 2.5 billion yuan ($342 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T21:21:00Z
-    webUrl: "https://www.caixinglobal.com/2023-10-21/alibaba-and-tencent-join-340-million-funding-for-ai-startup-zhipu-102119022.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 37
-    images:
-      - url: "https://img.caixin.com/2023-10-20/169781403464011_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
-  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
-    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
-    publishedDateTime: 2023-10-19T16:13:00Z
-    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 34
-  - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
-    excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
-    publishedDateTime: 2023-10-20T08:15:00Z
-    webUrl: "https://www.cryptopolitan.com/alibaba-and-tencent-invest-342-million-in-ai/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 33
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5877739083780963915_x.jpg"
-        width: 800
-        height: 800
+        height: 675
         isCached: true
 
 secured: "5BzrgmVBHxva2gKacpYnytNZOXuBHmXRTmgSUYFdNJaRRhu43Xa1mXSJV41xM5bciGTCbBssNc3cBFRXhQREC8oq4JrF4p13P9ndpxLGB0nbE/GqVbUyBjQM0JMW1Ox3qNIIAiygmo231Nks+hoCu/1SqxwQoHMZcx0PGQhA6MMeigduJF9f8N5g58lk3slF1olPte5psll6z4e5fIuDFmrcUagu9Nzj8MIe6lRcHJfldW7cVePHl0YT4d2JHFt69iUWahr9AM3CnkdT+SpozEHG1++sOixzLJTbA/DNXnbLj+uyAnyBES4nM30vK9oHVGA2yIR0Jca7ztHBEXx941y8N+udnu1bksaiw9sRZfS5CgGg2Q/Sn6tcxhhvVdS23cvDjmYxUNoYBQZih3acO5E+juCLaCM3mRCRPvbPADbAXKzxOSbgNAvUU22hs9lJVAJlbuc7yjl0t1Oppoj+QVQWB1zCO+nBHDNOBSWWocnV8eO6W+c+hCp91ANE2gVFuYPFFzda5kzU5uBzl9Uq7g==;6jFUtEHeyQzA+EhwXpgU1Q=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/19/1081974/meta-realeyes-ar
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/19/1081974/meta-realeyes-artificial-intelligence-hollywood-actors-strike/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,20 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "Meta recreates mental imagery from brain scans using AI"
-    excerpt: "Being able to look inside a person's mind is a new level of invasiveness that technology has not yet attained on a large scale."
-    publishedDateTime: 2023-10-18T14:19:00Z
-    webUrl: "https://venturebeat.com/ai/meta-recreates-mental-imagery-from-brain-scans-using-ai/"
+  - title: "Music Companies Take Legal Action Against Amazon-Backed AI Startup"
+    excerpt: "A recent legal battle is brewing in the music world. Three top music companies are suing Anthropic, an AI firm. They claim the company's AI, Claude, is using their song lyrics without permission. This"
+    publishedDateTime: 2023-10-20T13:15:00Z
+    webUrl: "https://techround.co.uk/news/music-companies-take-legal-action-against-amazon-backed-ai-startup/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/cfr0z3n_holographic_wireframe_surrounding_a_womans_head_93b4b12a-b535-48f1-a011-94a15f28f8f7.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
+      name: TechRound
+      domain: techround.co.uk
+    quality: 17
+  - title: "The Download: striking actors training AI, and breaking ‘unbreakable’ encryption"
+    excerpt: "Many actors across the industry worry that AI could be used to replace them, whether or not their exact faces are copied. And in this case, by providing the facial expressions that will teach AI to appear more human, study participants may in fact have been the ones inadvertently training their own potential replacements. Read the full story."
+    publishedDateTime: 2023-10-19T12:10:00Z
+    webUrl: "https://technologyreview.com/2023/10/19/1082022/the-download-striking-actors-training-ai-and-breaking-unbreakable-encryption/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 12
 
 secured: "c3AVWQzokWHEwwI6jokInZbxp2EwX1zPlUv75hNqVGQaRdD6EdVkwIacvCZX5oDpCONerUGGeaalHZZ99E4CAxG+3fw9FNlH1eyVnlF1fcpE/Hr718kymkaioVck6NuhTFplmPgiZhMZxvsOgLlknkJOomxKf3IE9TtjQPwnXggzdbRFaxJjgmLTRcptqmo46fMc08WmjjLB7vqh+IHScnKO3/1YVkY0W0Za4J6S9No/RWUhpu9ttqRsilc1wIRzDLfWXAlatgqsE1jWiBlHGzmhXFP+dEgOQ2exSPaB1iEr8qGI2p+mBt2Qbwter5hjZv6UqqrmqE8QrhWvpu/rssowSauxVDPnW+El+8EtfAdhZHiHjn0BqTRUMHZVu6wlT/h3GKFqJLg8KbF5VDx+dNv3Xs05b7XRIoJ9YjHT6Dbmi81Q2TU6jPtvRrPnaD2qvsY4nZmmhzbiEGVF8n3sBnYqVdH1LFQLKL1MyfQv4yBKrGa1fGYoiaHM56ThqXqFF9BTr8oymW/UGYvOCjg18Q==;6w0TgzxDSeTOlR4Wyxl36A=="
 ---

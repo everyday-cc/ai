@@ -2,6 +2,150 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-09-04-artificial-intelligence-top-three-roles-under-threat-in-small-australian-businesses.md",
+      "title": "Artificial intelligence: Top three roles under threat in small Australian businesses",
+      "excerpt": "The top three roles most at risk of being replaced by artificial intelligence in small businesses have been revealed. Sobering results of a new survey of 79,000 companies found that one third of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-12477067/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-12477067/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2023/09/04/03/75025821-0-image-a-28_1693794436858.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-12477067/amp/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-12477067/amp/Artificial-intelligence-three-roles-threat-small-Australian-businesses.html",
+      "publishedDateTime": "2023-09-03T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-schumer-pledges-supercharged-path-to-ai-regulation-when-senate-returns-from-recess.md",
+      "title": "Schumer pledges ‘supercharged’ path to AI regulation when Senate returns from recess",
+      "excerpt": "Senate Majority Leader Schumer signaled AI regulation will be a main focus for his chamber when Congress returns from August recess.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess",
+      "originalUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a465d63-285b-4571-9a28-2e72ee0f2d89/c41ba4c2-a3d5-4705-8858-f818626dece8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-pledges-supercharged-path-ai-regulation-senate-returns-recess.amp",
+      "publishedDateTime": "2023-09-03T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-04-venice-film-festival-2023-is-cinematic-ais-coming-out-party.md",
+      "title": "Venice Film Festival 2023 Is Cinematic AI’s Coming Out Party",
+      "excerpt": "While promoting his AI-powered movie Here by Robert Zemeckis, Hanks said he could see an AI version of himself acting after his death. Joe Russo, director of Avengers Endgame envisions a future where people can come home after a long day to ask their AI TV for a new movie starring themselves and Marilyn Monroe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64f52968cad6167132b0157e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 791,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2023/09/03/venice-film-festival-2023-is-ais-coming-out-party-for-hollywood/amp/",
+      "publishedDateTime": "2023-09-03T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-04-3-appealing-ai-stocks-to-snatch-up-at-current-levels.md",
       "title": "3 Appealing AI Stocks to Snatch Up at Current Levels",
       "excerpt": "Microsoft is a stable AI stock with vast reach. Its early OpenAI investment provides a unique advantage. Azure is growing relatively quickly in the cloud computing sector. Key Azure Arc’s ...",
@@ -1019,161 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-how-the-medical-industry-could-produce-the-biggest-ai-stock-winners.md",
-      "title": "How the Medical Industry Could Produce the Biggest AI Stock Winners",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence could change our society significantly over the next",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/how-the-medical-industry-could-produce-the-biggest-ai-stock-winners-1032600921",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-the-medical-industry-could-produce-the-biggest-ai-stock-winners-1032600921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2023/05/chromosome-dna-gcats.png",
-          "width": 1165,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-02T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-gizmodos-owner-shuts-down-spanish-language-site-in-favor-of-ai-translations.md",
-      "title": "Gizmodo’s owner shuts down Spanish language site in favor of AI translations",
-      "excerpt": "Gizmodo owner G/O Media shut down and laid off editors of its Spanish-language site Gizmodo en Español and is now using AI to translate articles. New articles posted on Gizmodo en Español now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations",
-      "originalUrl": "https://www.theverge.com/2023/9/1/23856029/gizmodo-shuts-down-spanish-language-site-ai-translations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/0A70dIpx0ffXluy89xDd827pB3w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/10551085/acastro_180329_1777__brains_science_0002.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-02T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-02-i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it.md",
-      "title": "‘I hope I’m wrong’: the co-founder of DeepMind on how AI threatens to reshape life as we know it",
-      "excerpt": "From synthetic organisms to killer drones, Mustafa Suleyman talks about the mind-blowing potential of artificial intelligence, and how we can still avoid catastrophe",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind",
-      "originalUrl": "https://www.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it?ref=emergentmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5bf98bcdb9cd152563a3ccbbe53336548380df1c/1_0_6331_3800/master/6331.jpg?width=620&quality=85&auto=format&fit=max&s=7ac26dbd3b6604c3e8927a0efd6779e6",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2023/sep/02/i-hope-im-wrong-the-co-founder-of-deepmind-on-how-ai-threatens-to-reshape-life-as-we-know-it",
-      "publishedDateTime": "2023-09-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

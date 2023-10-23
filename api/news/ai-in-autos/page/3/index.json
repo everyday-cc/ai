@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-30-frances-take-on-artificial-intelligence-and-on-the-eu-artificial-intelligence-act-under-discussion.md",
+      "title": "France’s Take on Artificial Intelligence and on the EU Artificial Intelligence Act Under Discussion",
+      "excerpt": "“I would like France to be one of the leaders in artificial intelligence; I would like Europe to be one of the leaders in artificial intelligence.” This statement by President Emmanuel Macron ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/france-s-take-on-artificial-8061746/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/france-s-take-on-artificial-8061746/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T11:00:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-30-artificial-intelligence-for-teaching-and-learning-at-ud.md",
       "title": "ARTIFICIAL INTELLIGENCE FOR TEACHING AND LEARNING AT UD",
       "excerpt": "Artificial intelligence presents both exciting opportunities and complex challenges for the world, profoundly affecting the ways we live, work, learn and relate to one another. At the University of Delaware, our faculty, researchers and students are at the ...",
@@ -1312,49 +1355,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-grand-theft-auto-holds-the-key-to-self-driving-revolution-in-five-years.md",
-      "title": "Grand Theft Auto holds the key to self-driving revolution in five years",
-      "excerpt": "A Scots scientist behind the project says cars, taxis and buses could be ditched for self-driving machines using artificial intelligence by 2023. While US companies such as Tesla are developing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
-      "originalUrl": "https://www.heraldscotland.com/news/15901630.grand-theft-auto-holds-key-self-driving-revolution-five-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.heraldscotland.com/resources/images/7329226/?type=og-image",
-          "width": 752,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-22T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
