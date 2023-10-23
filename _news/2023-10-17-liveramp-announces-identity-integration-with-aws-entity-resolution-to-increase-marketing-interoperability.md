@@ -1,27 +1,21 @@
 ---
 category: news
 title: "LiveRamp Announces Identity Integration with AWS Entity Resolution to Increase Marketing Interoperability"
-excerpt: "LiveRamp (NYSE: RAMP), a leader in data collaboration, today launched its new partner solution for AWS Entity Resolution by Amazon Web Services (AWS). LiveRamp’s leading identity resolution capabilities now support additional identifier types and are available natively within AWS Entity Resolution."
-publishedDateTime: 2023-10-17T12:30:00Z
-originalUrl: "https://www.valdostadailytimes.com/ap/business/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/article_e8966158-5107-54f0-b0af-7df5156c8dbe.html"
-webUrl: "https://www.valdostadailytimes.com/ap/business/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/article_e8966158-5107-54f0-b0af-7df5156c8dbe.html"
+excerpt: "media collaboration in AWS Clean Room collaborations, and artificial intelligence (AI) model development with Amazon SageMaker. RampID also helps brand marketers enrich their cloud data infrastructure by unlocking more granular insights about their customers."
+publishedDateTime: 2023-10-17T13:06:00Z
+originalUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
+webUrl: "https://www.cmswire.com/the-wire/liveramp-announces-identity-integration-with-aws-entity-resolution-to-increase-marketing-interoperability/"
 type: article
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: CMS Wire
+  domain: cmswire.com
 
 topics:
   - AWS AI
   - AI
   - AI in Marketing
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "bIa3SSH4M7nyV3Zuk8IfTYXpKlCE9qaiqfBy5O1EDX2VXEdJ0hEOpEcuhQO0JRwAxEA6munerM99zyZujp7ouAGtSMcax1Ftt4hbW3+xmJz38LlJIcbmOy9Cw4tI4mQxaEfptj8AdrsXXgAHX/g1Dv0kepaCTt7YpOfUUEjXlm21h3XLaIiYuRnNvIsj6ZEyxVUKdWgLHTCS6QOhLl9HFQA1XDqyL+wvJuezyYiWTYlYIhT36yC1Ohx7mq3NWEUG+/ArK6ej10g68jBqz1C6i692KTe40ZpnEOr3oRgqP1gLynYwfsFtOweEUNCdbQx05xfws1KboTb2J10l8e66wC9Dc3woxtHwhpNd/1xk2R4=;eh1TvpPthtzgpjsD5wwexg=="
+secured: "OVX1X9Qpon/1nv+uJiy+6nhl3gs6hfjtk/w63nU/F39RfhbsxMjCT3jVs9SLoal9gI/GmgDNhgYSx3CgaGPGbmlzYUoYyJHNexgy3Jb5BRGsIbWCUlS2nlX0K0hwNvIbSKkZhUhgKxBjDTRjY0yweYJldX1lYRj0K1mXX3d4qh8Nd0rdEZfagioBxhfAARj6oDx+BDJtxLYDVSNcYUmnPf9cjhVXQ5Ufqvt1FCD6KChllHbuBL+5OCc7WgCsYpfNP9V/3+YVImfDojH6z0Ct5eTxlyU/q1wCSKfGjsbSTRPZrqvu/b12j0+qL8duFlN6rATGIc8ZinOR0+TKzikERQelqq23ab55u9l9FvMcy5A=;74U/41v1z4G/HJy2Plqa0g=="
 ---
 

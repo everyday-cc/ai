@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-pa
 webUrl: "https://www.channelnewsasia.com/business/chatgpt-creator-openai-partners-abu-dhabis-g42-uae-scales-ai-adoption-3856056"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT Creator OpenAI Partners With Abu Dhabi's G42 as UAE Scales up AI Adoption"
-    excerpt: "Mubadala-backed G42 has been at the forefront of AI adoption in the UAE. The company said in July that it had developed the world's largest supercomputer for AI training in collaboration with U.S.-based AI firm Cerebras Systems."
-    publishedDateTime: 2023-10-18T15:05:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2023-10-18/chatgpt-creator-openai-partners-with-abu-dhabis-g42-as-uae-scales-up-ai-adoption"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
   - title: "The UAE's Artificial Intelligence Office Partners With Core42 To Enhance National Talents"
     excerpt: "The Artificial Intelligence, Digital Economy, and Remote Work Applications organization signed a memorandum of understanding with Core42, a G42 c"
     publishedDateTime: 2023-10-18T17:17:00Z

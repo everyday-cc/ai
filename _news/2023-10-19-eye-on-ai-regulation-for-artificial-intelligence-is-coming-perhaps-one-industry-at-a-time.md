@@ -42,22 +42,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Organizations are fighting for the ethical adoption of AI. Here's how you can help"
-    excerpt: "If used correctly -- and ethically -- AI could level up society as a whole and positively advance future technology. That's why these organizations are striving to even out the negative impacts and steer us in the right direction. Also: The ethics of ..."
-    publishedDateTime: 2023-10-18T15:18:00Z
-    webUrl: "https://www.zdnet.com/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/organizations-are-fighting-for-the-ethical-adoption-of-ai-heres-how-you-can-help/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 98
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/89930608e67eae17d6e816fd9520aa08db3cdfe3/2023/09/21/514c8dde-a75a-4068-9d86-c0f057c3ca81/gettyimages-885075194.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Generative AI and machine learning are engineering the future in these 9 disciplines"
     excerpt: "All vertical industries continue to adopt emerging tools and methodologies, but the impact of generative AI in engineering disciplines stands out from the rest."
     publishedDateTime: 2023-10-19T14:15:00Z
@@ -179,20 +163,6 @@ related:
       - url: "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/f7931d22-8980-4b91-b725-9e639aa15576.jpg"
         width: 1200
         height: 799
-        isCached: true
-  - title: "Let's use AI to rethink education, instead of panicking about cheating"
-    excerpt: "If we build and use AI effectively, we can create an education system where students are assessed on the quality and depth of their knowledge, rather than the content of an exam, says Okezue Bell"
-    publishedDateTime: 2023-10-18T17:00:00Z
-    webUrl: "https://www.newscientist.com/article/mg26034613-400-lets-use-ai-to-rethink-education-instead-of-panicking-about-cheating/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2023/10/17104734/SEI_175845653.jpg"
-        width: 1350
-        height: 900
         isCached: true
   - title: "Your Personal Information Is Probably Being Used to Train Generative AI Models"
     excerpt: "Companies are training their generative AI models on vast swathes of the Internet—and there’s no real way to stop them"

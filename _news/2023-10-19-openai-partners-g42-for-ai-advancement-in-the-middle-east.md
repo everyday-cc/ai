@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "G42 and OpenAI partner to deploy advanced AI in UAE"
-    excerpt: "G42 will prioritise its substantial AI infrastructure capacity to support OpenAI’s local and regional inferencing on Microsoft Azure data centers"
-    publishedDateTime: 2023-10-18T15:05:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YmM4Mzk4YzMtNTE2ZC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 837
-        height: 558
-        isCached: true
   - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
     excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
     publishedDateTime: 2023-10-18T23:21:00Z

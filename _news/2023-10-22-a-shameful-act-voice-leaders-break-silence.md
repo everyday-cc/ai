@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Indigenous groups break silence in wake of Voice, condemn ‘shameful act’ and vow to move forward"
+    excerpt: "Indigenous leaders have broken their silence in the wake of the failed Voice referendum expressing their shock and disbelief over the “vitriol and hatred” run through the campaign."
+    publishedDateTime: 2023-10-23T09:53:00Z
+    webUrl: "https://www.theaustralian.com.au/breaking-news/indigenous-groups-break-silence-in-wake-of-voice-condemn-no-vitriol-and-vow-to-move-forward/news-story/2419db03f2394293c10c2ed3c44696e9"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 0
 
 secured: "pUHfZirkaGAioSKMjtxbGNWttuffFuB+FxrER0eXu/iNE8BDRtEBbhL2OGc29NnRQMVLlSEs+NjrLkVbz+7rC0OOaOEraA+3nVvwJdQMI3y23EfIdlkZB1YB3cTciBQ6u4efPHbXdjalNjLUnDyr4wOi4Rp79J1gvqQ216RDlffN4FAa8Qy3b85yFUIIe5jZORqXID5dPfGknmMQ8wNbUnXa+k86ZEuYwagUyT5J8JH3lHQLYe+rhnc68h34WqheAPWvgwX0rF3XU+CoiYSrpOkE7q9m5+a5UGleZJUfqcn+zlYX4EJqLJ9asH6s22qX+aemBwViEaXfs6ZqK7khAeW3o1oPRUrAJO3xMTCxiznpCdznF2pKqwQDwI8+ueBGPcOXYTfYYBlZMmupfKZrdmCSzEnfQpYJrqo6ZEC+Y7A9B889n9Mr8OV4JyvQ6hhS2gS9ghPrvST8uhkKnm2//KtE/G0Mx4t5Vgn8cwyIGhpMTiQEHnvCxuf8yz9P7au9BGZoydARgZkH9NDcWHo8pg==;stVT7iyQSxc3deia1dY9CA=="
 ---

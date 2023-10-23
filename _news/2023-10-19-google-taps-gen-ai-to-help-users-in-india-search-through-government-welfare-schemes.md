@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI"
+    excerpt: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
+    publishedDateTime: 2023-10-19T03:16:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-an-agreement-with-the-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 7
+
 secured: "m1KTzlHMtqi882tUcEQGZ20rkLSz46M2K/5u3ziaWQvM2LNR6bMFK3X6YALjz/s3Q+vT/JcXDlZayxthmUeCCIOSF5zguH/TQ19w2S0CGW7pp1FehbVT+vgDrpe/n+jXcYSkv+0E6ajG968uwcWiWTK9wnld5EV4DLZtU1HR9finISRBkUyPhn+ahbH+YJ5sOitsljXQviR2UAOnPsSO3FfY6q5Ha7pLvrVP4vTg8qoVL43Z8lSATlbCsC94Isg/q8bYoSe43TnAHKKJOBOrfOSN6jfaMUV9j4zuhySB1FsnAuyCc7rh7PwC6UTwWNbBcz0Yd2J9MQpSJ0faM2l+s7Ix9r/gk4KKYPnG6V4//0yijcN8ugHolj48ce2S4uxRjaUl/lT/AyGxWPjnCZWuc+tXrCKDybZNi9YdaKySCwANrO3+HqD/F9x6yl+XJDiquySjPxAk8Vd5spZAHhd/uFtZEyIxI4ytIj7TebP4IZw+P9N69gAbiNxJHjo9x07MjZ4kL8xn7zqnBczcXCYJ7w==;DRttTicWHrR7laHF+/epdA=="
 ---
 

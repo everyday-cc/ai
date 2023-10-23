@@ -73,17 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US further restricts AI chip exports to China"
-    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
-    publishedDateTime: 2023-10-18T15:06:00Z
-    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
-    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 54
   - title: "U.S. chip export ban is ‘great news,' says partner at Chinese tech investment fund"
     excerpt: "The U.S. Department of Commerce will prevent the sale of some advanced AI chips to China, a move welcomed by a partner at a Chinese investment fund."
     publishedDateTime: 2023-10-23T05:08:00Z

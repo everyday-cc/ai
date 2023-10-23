@@ -117,20 +117,6 @@ related:
         width: 2048
         height: 1367
         isCached: true
-  - title: "GSA to add facial recognition option to Login.gov in 2024"
-    excerpt: "After determining early last year that it would hold off on using facial recognition as part of its governmentwide single sign-on and identity verification platform Login.gov, the General Services Administration in 2024 will add an option for system users to verify their identity with “facial matching technology,” the agency announced Wednesday."
-    publishedDateTime: 2023-10-18T21:45:00Z
-    webUrl: "https://fedscoop.com/gsa-to-add-facial-recognition-option-to-login-gov-in-2024/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/03/GettyImages-624863836.jpg"
-        width: 2100
-        height: 1104
-        isCached: true
   - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is changing its digital identity service to allow users to authenticate themselves by matching against a previously submitted government ID."
     publishedDateTime: 2023-10-19T10:00:00Z

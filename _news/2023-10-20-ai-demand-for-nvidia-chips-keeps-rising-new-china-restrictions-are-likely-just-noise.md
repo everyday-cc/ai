@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-chin
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
-  - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
-    excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
-    publishedDateTime: 2023-10-18T16:05:00Z
-    webUrl: "https://www.aol.com/nvidia-thought-found-way-around-130504385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 22
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/1R3_9tpxnJuHS3k5R4jqeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/27c0635b4b7fb62b8197ebac44b306d7"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "JAIN6uOGT+2ERz1IO8QqHSVGQwHqOWFVUSFt/m4s2GYCKVuwjVtdVqhqQ4n7pFOihBxJMVqEdATkY3QUflmdqjBkx2n0Jink5MqV4IhmEeRZiPk/xv1lKA1PO6rDVkT7no5uSnP0j5PUrutdbQJJaFbIbmR27SJcHo3f2MdG1k5OBWmIEHIA72bAcYGjWwegCUjgwl75uwjWHCLfAQ5JuMqalLrPJ9gy0LbP6zzrKKyG2IqH9YI2Ejsuycd+TZkJbf9SUWO5oy1uGMRxEQfEiQqD+BP4ARABE3ihxx+9IhjgTPpbaTpwpDpdSTqnKiOHUJTvAnOnAmt1dMm57a3S/Obp3V+dDUGmJPqudokJk5KZDppctWvvJtI/z3nQacs3haufcELVzCnSiqD4ZI4FTRGNe76M2oXN2oC8oVdKiMm44mcz4o0P9FDDf6LvGa26ZVCoQPAptlIQpZNsGDNhGVxStMDJUacdOazknchcRCZd8n2m6Y9gJDzGZADg6egz2jDx16mvM315f17GWy3DXg==;ILxFCbUTvS29trjqNcKe1g=="
 ---

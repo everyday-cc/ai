@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrict
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/news-analysis/new-us-ai-chip-restrictions-on-china-is-creating-massive-issues-for-baidu-alibabas-ai-development-13284982.html/amp"
 type: article
 quality: 60
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -59,17 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US further restricts AI chip exports to China"
-    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
-    publishedDateTime: 2023-10-18T15:06:00Z
-    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
-    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 54
   - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
     excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
     publishedDateTime: 2023-10-20T05:57:00Z
@@ -135,6 +124,6 @@ related:
       domain: japantoday.com
     quality: 34
 
-secured: "+l7752/IHiKSQ7VJivwwxdhLRU5fgjgg7H3yplBGkfmWgOrSWdZE+OrplbSgD51c701sDZFRcyt/569iMK4ID8p0eD0NPMi9kLky5x/JAbkBenj3vVRWAnhzryxZdEkUiadog2OG/Kk77orAqOtYTwGXJY6KyRUtjnw8l/qPITQ9CK5gXdwcpoWfMpF8UQT56WjBpoLCGoKB0ZI76K5PASbM0UWGqqbPWVnDVwqJSx7VwWNrktAxpAlFghscODKYOUbQkBLvJ7LRdtFGacqFu3mZa4HFtf1zS85bsi6plxJHtVw/fd6oYyx/EfAMD+ZzxMEi61mksl9C15iKGMgLbLvVV2zFN3CblkyHrJwaCV4=;dTSX1me0KxbZLOTHHvV7Dg=="
+secured: "oe7/n+FSFrHv9aJTmqT8/3UoUXvVnOLgBGbMABfYy6qztz7fFMaWKrJz5DaiUFl/leSfMECFtt3rSsNZD3DYHx5s+SeQnalbzikuBU/um2rILupMDddXh05HdMJXklwRIRdGIPOzTk0J/NqUsAC211wA915luhITi4/ZJXTHGMcvgsXAqU/nRcQVXz1lGb/YpNPeVQC0nAzb2a/ZeDDmx0HCrKgzURBBrb4NV5KjteZCYhhB16veRlVMuGci/icsYwgN+bFqWkVo2RNZoSLYgTKm+wSV8XimLNpRyRHm/bvWbWzJfOWF6NPM1aGRE+oGtHTfriqvzw38wWxgSYBQPJNlYta7WfrUkLbMHpYrXzMb4khAQ27uQTxl+TQFU/JJibGWNGiNZU06jGmF8mtWryt1BROLF4/YjUK5E+eMIdIddlfDpgk4qHhxd7H01hlYvZ9mJI5GT9b+kkFbOYCA9wQOaApgHqXORhTuNCCEFtD+pE6PBCnNqnTu0eLE2iQOe9XIqyWAjYKZqfebsqIuAw==;Q1nGBELVDs9YX2PS7ufYUg=="
 ---
 

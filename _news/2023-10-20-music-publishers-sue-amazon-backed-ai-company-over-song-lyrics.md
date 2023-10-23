@@ -119,6 +119,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Anthropic tests AI rules for the people, by the people"
+    excerpt: "Amazon-backed Anthropic, the startup behind the Claude generative AI chatbot, is promoting a new form of responsible AI: A constitution for its large language models based on public input. Why it matters: Who controls and influences AI is controversial given its potential to amplify existing biases and inequalities and to create new ones."
+    publishedDateTime: 2023-10-23T09:30:00Z
+    webUrl: "https://www.axios.com/2023/10/23/anthropic-ai-guardrails-constitution"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
   - title: "Universal Music Group sues AI startup Anthropic over song lyric copyright infringement"
     excerpt: "Universal Music Group filed a copyright infringement lawsuit against artificial intelligence startup Anthropic on Wednesday citing widespread scraping of its client’s song lyrics being used to train its ChatGPT rival chatbot Claude."
     publishedDateTime: 2023-10-19T18:15:00Z

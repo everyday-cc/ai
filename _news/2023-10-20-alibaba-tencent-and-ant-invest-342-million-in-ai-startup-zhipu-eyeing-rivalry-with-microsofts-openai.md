@@ -160,22 +160,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Foundry for AI by Rackspace Partners with Straits Interactive to Launch AI Data Protection Officer on Microsoft Azure OpenAI Service"
-    excerpt: "Rackspace Technology® (NASDAQ:RXT)— a leading end-to-end, hybrid multicloud technology solutions company, has partnered with Straits Interactive, a leader in data"
-    publishedDateTime: 2023-10-18T16:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/23/10/g35314167/foundry-for-ai-by-rackspace-partners-with-straits-interactive-to-launch-ai-data-protection-officer"
-    ampWebUrl: "https://www.benzinga.com/amp/content/35314167"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35314167"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://www.benzinga.com/next-assets/images/schema-image-default.png"
-        width: 1043
-        height: 1043
-        isCached: true
   - title: "How Microsoft’s new AI will save you time and energy"
     excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."
     publishedDateTime: 2023-10-19T16:43:00Z

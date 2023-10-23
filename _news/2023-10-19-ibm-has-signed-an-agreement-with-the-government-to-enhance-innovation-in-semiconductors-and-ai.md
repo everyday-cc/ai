@@ -19,59 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "IBM inks pact with govt to boost innovation in semiconductors, AI"
-    excerpt: "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform"
-    publishedDateTime: 2023-10-18T16:06:00Z
-    webUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
+  - title: "Google taps gen-AI to help users in India search through government welfare schemes"
+    excerpt: "Google announced a bunch of generative AI-focused tools in India at its Google for India event. The features include visual results like images and videos"
+    publishedDateTime: 2023-10-19T06:38:00Z
+    webUrl: "https://techcrunch.com/2023/10/18/google-taps-gen-ai-to-help-users-in-india-search-through-government-welfare-schemes/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "IBM to help India advance in AI, semiconductors, and quantum technology"
-    excerpt: "IBM announced three MoUs with three Indian entities to help India in semiconductors, AI, and quantum technology, three areas vital to India's ambition as the South Asian country is eager to stay in the game in the global technological competition."
-    publishedDateTime: 2023-10-19T02:05:00Z
-    webUrl: "https://www.digitimes.com/news/a20231019VL200/ai-chips+components-ibm-ic-design-distribution-ic-manufacturing-india-it+ce-memory-chips-passive-pcb-other-ic-components-quantum-semiconductors-server-ipc-cloud-computing-iot-south-asia-technology.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20231019vl200_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "East China's Anhui to boost artificial intelligence innovations"
-    excerpt: "HEFEI -- East China's Anhui province has released a three-year action plan, aiming to build itself into an innovation \"highland\" of the general artificial intelligence (AI) technology industry, said local authorities on Thursday."
-    publishedDateTime: 2023-10-20T05:50:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202310/20/WS65321534a31090682a5e9c60.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202310/20/65321534a3109068cafe8533.jpeg"
-        width: 718
-        height: 478
-        isCached: true
-  - title: "IBM has signed with government to enhance innovation in semiconductors and AI"
-    excerpt: "IBM has signed with government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
-    publishedDateTime: 2023-10-19T03:16:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-with-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 16
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 41
 
 secured: "Ghh7KfQq4SlkfbF4GcpTJsIWKzHPcHW2M1j/HyB8bvamANutUDL1W7o5Pj9boJjkA01i4gYYSqJ5B7qmA6a2tXxZIovTdrvrO092qdwo7bH7m7Wl7kG8RTEDKoudKXNWo9oP3YH6lRQzTTt65Azzhvm/dZsbU88gh0vR8zmLyBBvFtAqsaodPTM9ozFyuZgBsgTPuzwswyPbJtQuL/1r5Tno82sCVcI8GUqlFRuFexuj1ki0JPqyxI7tq3sTFoQR3HuXozrIYes9kmoxkb5GYtsaStO+7nEiIBIBT7xEg31Sk9pQgaR14/LMwcszQmYxSGEEV96jJJqYQaiqUwsVuqDWaxRxoBFrz+2K8yo4m1c=;nzGviWMCDqZoFGu46ZU7gg=="
 ---

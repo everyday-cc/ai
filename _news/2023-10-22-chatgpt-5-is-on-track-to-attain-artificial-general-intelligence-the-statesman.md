@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "DS Automobiles integrates ChatGPT with speech recognition"
+    excerpt: "DS Automobiles is the first automaker to integrate ChatGPT AI software into in-vehicle speech recognition for European customers. ChatGPT is available in combination with the DS Iris system for all models of the DS 3,"
+    publishedDateTime: 2023-10-19T12:44:00Z
+    webUrl: "https://www.elektroniknet.de/international/ds-automobiles-integrates-chatgpt-with-speech-recognition.210577.html"
+    type: article
+    provider:
+      name: Elektronik Net
+      domain: elektroniknet.de
+    quality: 19
   - title: "ChatGPT, DALL-E 2 and the collapse of the creative process – The Conversation"
     excerpt: "Professor of Philosophy and Director, Applied Ethics Center, UMass Boston Postdoctoral Fellow in Philosophy, UMass Boston The authors do not work for,"
     publishedDateTime: 2023-10-20T19:08:00Z

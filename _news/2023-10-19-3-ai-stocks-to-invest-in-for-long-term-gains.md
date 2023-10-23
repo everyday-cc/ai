@@ -23,21 +23,28 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Tile company looks to include Artificial Intelligence in name, invites raised eyebrows"
-    excerpt: "Veteran investor Samir Arora posted the company’s exchange filing, along with what seemed like a tongue-in-cheek comment"
-    publishedDateTime: 2023-10-18T15:28:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/markets/tile-company-looks-to-include-artificial-intelligence-in-name-invites-raised-eyebrows-11558011.html/amp"
+  - title: "3 Robotics Stocks Ready to Rock and Roll in 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotic devices enable automation that help people perform tasks more"
+    publishedDateTime: 2023-10-19T23:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 64
+  - title: "Google Bard picks top 5 stocks to buy in 2024"
+    excerpt: "The remarkable success of ChatGPT has sparked a fresh wave of enthusiasm in the artificial intelligence (AI) domain, setting off … Continued"
+    publishedDateTime: 2023-10-21T11:05:00Z
+    webUrl: "https://finbold.com/google-bard-picks-top-5-stocks-to-buy-in-2024/"
+    type: article
+    provider:
+      name: Finbold | Finance in Bold
+      domain: finbold.com
+    quality: 24
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/10/Sensex_up_higher-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://finbold.com/app/uploads/2023/10/Bard-5-stocks.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "KlIqLM/D9O5cUrVnLk1KkeUh2lapWKwpu9//KqrHr8qahtOAZt6CRCBCAAbUddRyVjjLExUmreiq1op9LUFMweo/BiRKEwXsIn94cAQ5aMnpA8xTgKjDy9bGJ3LqOFkS4cCEdCZJG1jXjVkXDJ7VcfwDhdQq68yt2HhemFSc4EinqFLNAZmECWgMQ6yTyyXFiibfKAnR8qudm4IgYTWVYyW2ELfGvOmAbzCjAGFcMCaONs7o/gazjiZpVYkihlw/cS+KswhTMxssi9zsL/IyE/KyrpZHnK+YwPYANG2Hz/PuhRVlpM8nh3G2nnqh/3HXkJUzpQmA2TRvRiiOSQNwC65LGFshrFSIrJTTmTk6mLo=;QzO5f+eKfQDkzyNuGQJWkw=="

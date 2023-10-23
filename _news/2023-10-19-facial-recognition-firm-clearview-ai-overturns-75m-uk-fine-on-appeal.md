@@ -55,20 +55,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Facial recognition firm Clearview AI overturns UK data privacy fine"
-    excerpt: "A tribunal has overturned the £7.5 million fine imposed by the Information Commissioner’s Office last year. Facial recognition firm Clearview AI has won its appeal to overturn a fine from the UK’s data protection watchdog over the use of its facial ..."
-    publishedDateTime: 2023-10-18T15:48:00Z
-    webUrl: "https://www.standard.co.uk/news/tech/facial-recognition-firm-clearview-ai-overturns-uk-data-privacy-fine-b1114447.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 54
-    images:
-      - url: "https://static.standard.co.uk/2023/10/18/16/18164434-93b486a4-5d0e-4cdc-86bf-ef5d12172e8b.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "US surveillance and facial recognition firm Clearview AI wins GDPR appeal in UK court"
     excerpt: "U.S. surveillance and facial recognition firm Clearview AI has won a court appeal in the United Kingdom after being accused of alleged infractions related to the U.K’s general data protection regulation (GDPR). Originally, the company was fined nearly ..."
     publishedDateTime: 2023-10-19T17:42:00Z

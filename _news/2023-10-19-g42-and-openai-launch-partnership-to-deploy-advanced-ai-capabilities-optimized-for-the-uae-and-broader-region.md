@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "G42 and OpenAI partner to deploy advanced AI in UAE"
-    excerpt: "G42 will prioritise its substantial AI infrastructure capacity to support OpenAI’s local and regional inferencing on Microsoft Azure data centers"
-    publishedDateTime: 2023-10-18T15:05:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5"
-    ampWebUrl: "https://www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/g42-and-openai-partner-to-deploy-advanced-ai-in-uae-mxoeiyv5?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/YmM4Mzk4YzMtNTE2ZC00/1/1-jpg.jpeg?f=3%3A2"
-        width: 837
-        height: 558
-        isCached: true
   - title: "OpenAI Partners G42 for AI Advancement in the Middle East"
     excerpt: "G42’s recent partnership with OpenAI shows the company’s dedication to fostering AI adoption in the UAE. In a significant move this July, the company collaborated with Cerebras Systems, a US-based firm, to create the world’s largest AI training supercomputer."
     publishedDateTime: 2023-10-19T10:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/10/19/new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence/amp/"
 type: article
 quality: 96
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       name: Ars Technica
       domain: arstechnica.com
     quality: 47
-  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-    excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
-    publishedDateTime: 2023-10-18T16:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2023/10/18/9901068.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/2249479/Picture1.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
     excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
     publishedDateTime: 2023-10-19T01:43:00Z

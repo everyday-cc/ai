@@ -25,54 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "IBM inks pact with govt to boost innovation in semiconductors, AI"
-    excerpt: "IBM and the government will set up a national AI innovation platform, which will have access to the company's recently announced Watson X platform"
-    publishedDateTime: 2023-10-18T16:06:00Z
-    webUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai-11697644499263.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-inks-pact-with-govt-to-boost-innovation-in-semiconductors-ai/amp-11697644499263.html"
+  - title: "India roundup: IBM to help India develop AI, chip, and quantum capabilities"
+    excerpt: "US-based technology giant signed agreements with India to help the latter develop AI, semiconductors, and quantum technology, three promising technologies for the decades to come. India is reportedly considering providing incentives for companies making electric vehicles (EVs) in india,"
+    publishedDateTime: 2023-10-23T01:43:00Z
+    webUrl: "https://www.digitimes.com/news/a20231023VL200/ai-chips+components-ev-ibm-ic-design-distribution-ic-manufacturing-india-roundup-india-memory-chips-passive-pcb-other-ic-components-quantum-south-asia-vehicle.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Digi Times
+      domain: digitimes.com
+    quality: 52
     images:
-      - url: "https://www.livemint.com/lm-img/img/2023/10/18/1600x900/APPTIO-M-A-IBM-0_1687582422475_1697644944670.JPG"
-        width: 1599
-        height: 900
+      - url: "https://img.digitimes.com/newsshow/20231023vl200_files/2_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "East China's Anhui to boost artificial intelligence innovations"
-    excerpt: "HEFEI -- East China's Anhui province has released a three-year action plan, aiming to build itself into an innovation \"highland\" of the general artificial intelligence (AI) technology industry, said local authorities on Thursday."
-    publishedDateTime: 2023-10-20T05:50:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202310/20/WS65321534a31090682a5e9c60.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202310/20/65321534a3109068cafe8533.jpeg"
-        width: 718
-        height: 478
-        isCached: true
-  - title: "IBM has signed with government to enhance innovation in semiconductors and AI"
-    excerpt: "IBM has signed with government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
-    publishedDateTime: 2023-10-19T03:16:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-with-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 16
-  - title: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI"
-    excerpt: "IBM has signed an agreement with the government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
-    publishedDateTime: 2023-10-19T03:16:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ibm-has-signed-an-agreement-with-the-government-to-enhance-innovation-in-semiconductors-and-ai-nid-225977-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 7
 
 secured: "ko4GvPPHYurelA9g2K5WptEaTyMWI1h8NlmHIiq9SgxgTwpAcrCluLCDuMR75Gwwt1DuvGek6445aa/RqA1gNnCiDZu5XExQ++ATTNqc2zSn5YgYxuNWn5AxIL9tphBTwsEZsnGsR79jdRnYW4KFdH3jZhdVORQIrrJ0r9yJz6twt/jPTtLL7SRzLv46BD0NGEWPmblaZB5lfuE7ODy9AFBVw8fASADIkCIBF2hQka99cdPRGFqBK139GZiNq7nq1JEseIC8HfDxnLlS2P7ARcj5ZBKszM3eEV/Kok+3K0UCJvDbL4JOaAl4hshw3YFtkzOqz7bFP3SsbnQLZ7H67Oj00eWaq0Qln+/0RpueWihQcqGkryAPlxyH0ympbgDIK7Zb2i5C4XipRSCI6k8fzTtkilKcPhfIBxL+ly77xnL1QnYqw9r+wbmGRwF1LDuchC1Jgjlr6QewiHpFCdSKGzKKI4i4LPYYs4vF6+XLALPKJJvw5w4Kn4G0SgBuHxwumRkdUqvZhwzDjvF/RCRj0A==;ZzPTCTv9yJfQkjXWUWX6/Q=="
 ---

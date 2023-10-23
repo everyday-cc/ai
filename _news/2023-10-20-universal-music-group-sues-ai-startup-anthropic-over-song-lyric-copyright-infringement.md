@@ -124,6 +124,15 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 17
+  - title: "Anthropic tests AI rules for the people, by the people"
+    excerpt: "Amazon-backed Anthropic, the startup behind the Claude generative AI chatbot, is promoting a new form of responsible AI: A constitution for its large language models based on public input. Why it matters: Who controls and influences AI is controversial given its potential to amplify existing biases and inequalities and to create new ones."
+    publishedDateTime: 2023-10-23T09:30:00Z
+    webUrl: "https://www.axios.com/2023/10/23/anthropic-ai-guardrails-constitution"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
 
 secured: "FXa52MP2rpNdio2ilcwdG/UkVfzF1GbvJ2DvksOWkQY4GL2OoGsvgOZTRiL6cb/pEZk00ZjFRzFJyQm8tNZcZLakagAY4E/7h8iNCg0XgofKP+fMdZ0he7JL4KN2uZ/efwpeMX1J/bExhBu3FfgTc+aASwa6ZLEfwLeLBzQLjD71DbAQDJpsMfoKA3DoYT7tSIsX8G5Fm51YqMG7IontFKqAR7RcphawvCuNqN5llvnPK1Ca1NrxXKV/9K0nDcfM93hGm6BdXDdJUoKdXs3Iwixe7Cc64CfcT0k95zVJS2VSkJ4hANjv8s6sBvXMPtKKOS9fVPJMfMKnEBhWi8I3gEAHj/zxCTJMZ7kB41USonZ1ulnknmACJP0Zbs2IamGX8NykFFXlMeSnB6gRXm6GOeUu0AeOxMc67nmTMyf0mVlfTL5dx7E3IgAy6EwBXHAuwNwHy2AWhlaaSoFQ6jQLDrrT8SNAN4VSYdF402QWCHI6N9aQMvkki81Fl41FHUUCBTSvyMAhV1dS6O/J0/+yKg==;wGI4MpZKyBbwxvYqK8xckQ=="
 ---

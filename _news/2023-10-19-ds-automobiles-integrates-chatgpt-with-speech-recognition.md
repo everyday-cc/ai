@@ -19,70 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Anti-ChatGPT app Superfly uses AI to match people for live chats and answers to queries"
-    excerpt: "The new LLM-based Matchpont AI also considers topic-related understanding and users’ shared interests, as well as “personal chemistry” when matching. The startup claims that only 10% of posts are niche questions that don’t get answered fast enough ..."
-    publishedDateTime: 2023-10-18T15:31:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
-    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfly-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
+  - title: "Google denies Bard was trained with ChatGPT data – The Verge"
+    excerpt: "By Sean Hollister, a senior editor and founding member of The Verge who covers gadgets, games, and toys. He spent 15 years editing the likes of CNET, Gizmodo,"
+    publishedDateTime: 2023-10-19T15:59:00Z
+    webUrl: "https://www.inferse.com/762926/google-denies-bard-was-trained-with-chatgpt-data-the-verge/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: Inferse
+      domain: inferse.com
+    quality: 39
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12838.png"
         width: 1200
-        height: 758
+        height: 628
         isCached: true
-  - title: "Anti-ChatGPT app Superfy uses AI to match people for live chats and answers to queries"
-    excerpt: "There are some things an AI chatbot can't reliably answer, like how to solve a problem in your relationship, which outfit looks best, advice on a problem"
-    publishedDateTime: 2023-10-18T15:55:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/"
-    ampWebUrl: "https://techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/18/anti-chatgpt-app-superfy-uses-ai-to-match-people-for-live-chats-and-answers-to-queries/amp/"
+  - title: "ChatGPT 5 is on track to attain artificial general intelligence – The Statesman"
+    excerpt: "These Twitter discussions about ChatGPT-5 have garnered even more attention than those about ChatGPT-4. Many users are expressing high expectations for the"
+    publishedDateTime: 2023-10-21T21:24:00Z
+    webUrl: "https://www.inferse.com/766323/chatgpt-5-is-on-track-to-attain-artificial-general-intelligence-the-statesman/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
+      name: Inferse
+      domain: inferse.com
+    quality: 33
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/superfly-banner.jpg?resize=1200,758"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-14469.png"
         width: 1200
-        height: 758
+        height: 800
         isCached: true
-  - title: "How two friends used ChatGPT to launch an AI startup worth $150,000"
-    excerpt: "In just four days, using only ChatGPT and a modest US$185 (about BDT 20k) investment, Sal Aiello and Monica Powers transformed a side hustle into a highly profitable AI startup. Fast forward to last month,"
-    publishedDateTime: 2023-10-21T09:45:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
+  - title: "Inside the ChatGPT race in China – MIT Technology Review"
+    excerpt: "A Chinese ChatGPT alternative won’t pop up overnight—even though many companies may want you to think so.Every once in a while, there’s one thing that gets"
+    publishedDateTime: 2023-10-19T11:16:00Z
+    webUrl: "https://www.inferse.com/762583/inside-the-chatgpt-race-in-china-mit-technology-review/"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 57
+      name: Inferse
+      domain: inferse.com
+    quality: 24
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/10/21/dimeadozen_founders.png?itok=yZv34IGL"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Duo Builds AI Startup For Rs 15,000 Using ChatGPT, Sell It For Rs 1.2 Crore"
-    excerpt: "The startup was then bought for $150,000 (over ₹1.2 Crore ... covering areas like education, AI, and finance. She played a pivotal role as the first designer at ClassDojo, where she contributed to its significant growth from 5,000 to 50 million users."
-    publishedDateTime: 2023-10-23T07:07:00Z
-    webUrl: "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128"
-    ampWebUrl: "https://www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/dimeadozen-salvatore-aiello-and-monica-powers-builds-ai-startup-for-rs-15-000-using-chatgpt-sell-it-for-rs-1-2-crore-4506128/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
-    images:
-      - url: "https://c.ndtvimg.com/2023-10/ofuvd51_monica-powers-salvatore-aiello_625x300_23_October_23.jpg"
+      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12672.png"
         width: 1200
-        height: 738
+        height: 600
         isCached: true
+  - title: "ChatGPT, DALL-E 2 and the collapse of the creative process – The Conversation"
+    excerpt: "Professor of Philosophy and Director, Applied Ethics Center, UMass Boston Postdoctoral Fellow in Philosophy, UMass Boston The authors do not work for,"
+    publishedDateTime: 2023-10-20T19:08:00Z
+    webUrl: "https://www.inferse.com/764746/chatgpt-dall-e-2-and-the-collapse-of-the-creative-process-the-conversation/"
+    type: article
+    provider:
+      name: Inferse
+      domain: inferse.com
+    quality: 1
 
 secured: "GKgHbaHWYFNhF5EUf6OFyBW1dmiKIkFHXSbSothpnBrj4GFVcKtw6TDVLaAHBSpDyceDbMdCRishsAkheOaaMRYlD707MoJn/0mHHEoQSXfLMgB3cbTsWtg+WIJgM/lYN+SJ+03baThu5D6l7mhiigThJcnoEaHSVmwUp7OYNPDxccYAcBpDQFXazzEEa9G/KORmKTijkJKcRmNpM4L4WGGJ/HcPiWWcvwS7vmK3BDth3Kqj+aYVnAYutgzQEjn23i6lQhblMNDnBwDP+hon69UQqm8mcnYQP2ObC1Kcvq/Qd7EQX4KSyX6B8N7MlUAK1WiK47rtQKjnwdUKAY1ugq9AFT1RJIWJUoMqAp+mBN45ZycGAiJp904j55RRUZubMu0QXnND8w5bJhLQna3pr2S5uW/9xvXwtwT1CP00TQv18mRC3aCbSOYnWyfR/NYBXz4etSnnR32Ycwo3B/Dqb0zUTRKoJCG0NNCyNC1skoabZb6IhHHFzkeEE8PT2wK4HTDKMeMecWIAppxsrJ9AJQ==;Ss3+eneSMRt3tTYUOd1rmg=="
 ---
