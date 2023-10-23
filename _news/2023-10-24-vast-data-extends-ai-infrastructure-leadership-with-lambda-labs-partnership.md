@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-exte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lambda and VAST Data in Cloud AI Training Partnership with NVIDIA Technology"
+    excerpt: "AI data platform company VAST Data and Lambda, an infrastructure-as-a-service and compute provider for public and private NVIDIA GPU infrastructure, today announced a partnership intended to enable a hybrid cloud experience dedicated to AI and deep learning workloads."
+    publishedDateTime: 2023-10-23T19:50:00Z
+    webUrl: "https://insidehpc.com/2023/10/lambda-and-vast-data-in-cloud-ai-training-partnership-with-nvidia-technology/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/10/AI-artificial-intelligence-machine-learning-deep-learning-shutterstock-701349271.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "VAST Data Elevates GPU Cloud Capabilities in Strategic Partnership with Lambda"
     excerpt: "Oct. 23, 2023 — VAST Data and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private NVIDIA GPU infrastructure, today announced a strategic partnership that will enable a hybrid cloud experience dedicated to AI and deep ..."
     publishedDateTime: 2023-10-23T17:43:00Z
@@ -46,6 +60,6 @@ related:
         height: 300
         isCached: true
 
-secured: "c4BjUwXJSWcC/kqLgduNklXO8VLqtX7KISwu/hABtsyKm4O9tMY61ZeyoCfkFaUUAISCXBNtAxtGix2BVWiWloFMmVdtvtmY9kBU/bBh7sbeQ42H/jxh/gFkrTFTqPLSH4+BVjde5Qpa1u/aec0HOsouHUiURO8kxRx3Z9yvstrOCpbO51Grnk6qgPC8NhwVFISK47TkpXG0Sc3/+zxrrXvL6oW6xxMgZJqos4krFMJ+DzxWL4/ukwpil95lP//Uy7Z2L/00lXwQKhTGa/jG9NFEgGZGUYbUFB+2Cp8aqS3QsrlJzUYGyGOKOpA9SJ+RMVdmfmRGGgDbLnlNOcdPaWQF3MxJl69BO+YHpvTne20=;0mt6uRgCbP5fYhi8tdlgEA=="
+secured: "SJ1HZ5wBzlt5bhJQ4QW3WBX8sCr9qE+H3E2LuJGgNYXj8pYBO5U5zbS7Y7uW3zcCPppmOZj5chxOCmlEUDim2fXKkdEoraAx6LauDUkTfxSbatA2eUp4WyxDnT+41OYHmA2AMAWxs9OW5ataVFNSuzML4WmXGLXWF6lJBAiC2Xl95DHfaU/iFHUC+j3oFqnmhoKKfzwZpTYawvGORmHOUlH6TUbnbYpgHCwva10NMAQ2mOkfxV7+VCdnJ45QDFjP8MrOVGJDfREJWyAMe1ZPlKFwWTOdVubhTal1ARzgCtrRwg2n/PGkqKWhhLbvLuADpzvqD54ElwJ+ystfcCqQWddpijAD0CojG8qU7qIknTHn1vw2CyIOCQ3MGxe3A48HPedKDjIqTBAJPIdZ0th2psJxQP9gl4pwuJXvyrJ+xW4WHnkWPr1Okl97DPIdQVGpPbVmI5Cyf2SlCsiVAsKaOvdA5d6+ZJFz6S9Esl6alh3x3bAwbBSswn8/XdJVxoc45rn+tUwq467FbTaH0zo93w==;267VZ8RzmagFQuFFOdpVFQ=="
 ---
 

@@ -2,26 +2,20 @@
 category: news
 title: "NFL implements artificial intelligence for player health and safety"
 excerpt: "The Digital Athlete is an AI tool that helps teams analyze thousands of data points from every play and hit, in a matter of minutes instead of days."
-publishedDateTime: 2023-10-23T17:29:00Z
-originalUrl: "https://www.nbc26.com/nfl-implements-artificial-intelligence-for-player-health-and-safety"
-webUrl: "https://www.nbc26.com/nfl-implements-artificial-intelligence-for-player-health-and-safety"
+publishedDateTime: 2023-10-23T18:29:00Z
+originalUrl: "https://www.aol.com/nfl-implements-artificial-intelligence-player-152831250.html"
+webUrl: "https://www.aol.com/nfl-implements-artificial-intelligence-player-152831250.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: NBC26
-  domain: nbc26.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI
-
-images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/c5b763e/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1698074570_WjAnj5.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Diving Deeper With KAJI.ai, A Mental Health And Wellness App"
@@ -41,6 +35,6 @@ related:
         height: 900
         isCached: true
 
-secured: "3Yh9qM2o/UXLVgspFgBCKwrebLxTDWJEMoMTRmUWUNIyp/FDUvzggHfmm99IFGcGF0RJkwr58Z2bAHjnCWeCt2S16blUbYp4hiLkDWtEPFIaRiYmF1JcuC532J4ao53+5nF5IrYaiqVWfZWcRbqg7/DALhiPBO7DYcyqnkKBdx6ABDVTZTWpF9dvJdKCfOjZGw880JndWsiwtcJEG+E7z7W22rYe3A1XSe6jt074e1gaQn+w46fhgiM7w9G5BtrUUE10fgRDnXx+0XCEVimfT1WKrQAmPMtsP4GAVi58YZSiNEMIblGbLHs8aDbbmHYd1CPRSfVkIAhGgz366dAVaXP2oKWorA4as9k/OtJdYnY=;p2+38bRa6GBIj3YpHzJLvQ=="
+secured: "bNH7ZGThOROPgKKnP8CId71lgVyUnFYdx1D/FFBKsxueFXp5Wdqlv6BeIJ1QpPD/8kG+mrWOrW1Y/Cbbgq2eevZK2MTtJ1XqBtc0ENNwE7rLANpwX+uVL+j43vnVOjjY2ZdxDNV8wJ8WWtYZCXg71iRW0C0rgzTC6b/vhz/Beml+Q51XA1PpzHa+nL6KirZNQ8sDI0SmWsbiOlvr/9P1vJGDre63K7rcV5A6G/tth+k7uvouvXYjGwJ0TIBnqE7l032X/oKrXtiM3njy5FQiQd6J8uNjDfUo8+W6tlVjCA1bkILCt4Usx99C3k9bJTzgA1Nn2m1smDvAmPhxE/4kOc43qPuYOD73YYKm3cf62PbctA7mTI1MArY3Q9gRIvSlHnurdGsWupl5gCqLsdUbyKrl9vqO9Q1vqOi4sd/DYxeZsLs3T9wTj7efaDodqas4Kke6mOMOM5uRBH84/pYGCaHxDF/UCrEo+ved5/se/5ni1LgB9BEHolssibHH5oBJNpW3YBno0KoNvBQvXL/asg==;olSAHGfqfIyCAnXXvGUDTg=="
 ---
 

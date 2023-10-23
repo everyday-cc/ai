@@ -2,9 +2,9 @@
 category: news
 title: "UK officials use AI to decide on issues from benefits to marriage licences"
 excerpt: "Exclusive: findings show uncontrolled and potentially discriminatory way technology used in Whitehall and some police forces"
-publishedDateTime: 2023-10-23T12:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
-webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences"
+publishedDateTime: 2023-10-23T12:48:00Z
+originalUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?ref=emergentmind"
+webUrl: "https://www.theguardian.com/technology/2023/oct/23/uk-officials-use-ai-to-decide-on-issues-from-benefits-to-marriage-licences?ref=emergentmind"
 type: article
 quality: 15
 heat: 15
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "khNdUg0vUl7844Bg+zPmPRmdPVUlZVDRe7cYMuEb3KG7JAT3JmiWHAVZctPJpOFNEOUl4ywrk0+/iIp8wy1tdgtlPSKxuTYKF04zUb0/MxR+GzgYh3mVJqakjvhN6rgqY+K/GMCOK1RYkGstBxpJr3r8+OnsgPHvsNJN+kNzHbdMbxApYTAdsFhG61RnI62KUR5ky0soABI3leHqn6wU/mcHpJ/6YbDHMzhW8tP3ztnnA/ZDpkQeUEHhfueTSz540+HzgjYLj3sZ8R2ypsENRauENm4FcyvrmGgmwrqWhMoityxwacaBVza23pja+AytBwmGxDRMJMga5DJq2SIOQpLtjtdv9Smh8evF5JgF2oc/xlDEkN6LZg6++CG/TVfSBDjBlqxm4J502xBKimXphfsv2pq8jyyBeJpN1BVLGkhj+hcCNO33jPkTO5h1ny6QQEP/z1uAPWZGFDG3Tj1pakwMWm4VVESwsUdON97DL1GoeazJfh9Y7nn3sY/qqW4oLzRJxZCAB58Myra68LhbAQ==;7IEVvDEIva9nh/5nyBUYdw=="
+secured: "SHosCRFvFcJM81NujEI7QcLsxSq/F7UjvgZnTrVIbPmaFjXdP7niNF40gbVjJixlxEuL0J8Ngny9cLtz52vYekxoya37T9DO06xQPPC3HRqV9/fpAYbXCN1rn7mJWHDP0+Exr02Ir1A0H6NJgpKpH+4kZDDj2OWZzDDvJeWoP7buCKa/p9RuuLsOnQvdAKe5uwQs7R/WJkHTyzgrV8Yc66YdxbZ6HJDyjrXM2nRFxj7sIS03OQ2ITCelslqtTXKqglmEnHaxrXDfEKY42ZgtP8L8xSHDEejfma47wQtS0jUeQ2SZD6kbF9XFW589QQcWpRZPceTodLGlUtZ2PQfKkxzPrTsXH05o3hl+iXf9vjiTMDMUYoOYkrkRqp/JaTOA6avAxxaDvxMNQGStqPZBM3Yy59g8MljAMKy1tomc1bBVLSGjKV6WSrHhZfKnvDenvU2XxqGGljQIopGyeq18vp/27JIp+YNE+9q4r0wvsQX6JKPpSI7lVbJAZJXW8wVGciqFWI+TYZCzxNgb2f+6wQ==;TNWEgQB7j1CZVY208TiRdA=="
 ---
 

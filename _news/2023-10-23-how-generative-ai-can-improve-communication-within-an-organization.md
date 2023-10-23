@@ -338,6 +338,29 @@ related:
         width: 487
         height: 250
         isCached: true
+  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
+    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
+    publishedDateTime: 2023-10-23T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
+    excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
+    publishedDateTime: 2023-10-23T19:20:00Z
+    webUrl: "https://www.suasnews.com/2023/10/shield-ai-announces-multi-year-agreement-with-sentient-vision-to-offer-ai-enabled-real-time-situational-awareness/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 18
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/shield-AI-sentient.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why actors are fighting for AI protections"
     excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
     publishedDateTime: 2023-10-23T13:00:00Z

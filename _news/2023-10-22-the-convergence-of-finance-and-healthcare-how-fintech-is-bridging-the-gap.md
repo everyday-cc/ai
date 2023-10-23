@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-the-convergence-o
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZDk3MjA3NGQtMWE2Yy00/11/1345011011.jpeg?f=3%3A2"
         width: 859
         height: 573
-        isCached: true
-  - title: "FINTECH SURGE UNVEILS THE FUTURE OF RETAIL AND DIGITAL PAYMENTS"
-    excerpt: "Fintech Surge 2023, the global gathering for the entire fintech ecosystem, hosted its final day today at the iconic Dubai Harbour."
-    publishedDateTime: 2023-10-19T04:40:00Z
-    webUrl: "https://www.phoneworld.com.pk/fintech-surge-unveils-the-future-of-retail-and-digital-payments/"
-    type: article
-    provider:
-      name: Phone World
-      domain: phoneworld.com.pk
-    quality: 39
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/Fintech-Surge-2023-day-4-2.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Hong Kong Fintech Week 2023 “Fintech Redefined.”"
     excerpt: "In addition, the cross-boundary Greater Bay Area Day will be resumed on October 31, presenting ample opportunities and synergies between Hong Kong and Shenzhen. A full day forum will be organised in Shenzhen, followed by a series of concurrent company tours to Mainland tech giants."

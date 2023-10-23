@@ -73,6 +73,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
+    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
+    publishedDateTime: 2023-10-23T21:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "ZUkcFoyqBgX4p5kyxLP+zal1LdtIOleSzdEHAD/jV+2DWkKoJxYV8ZnGeWHihjPLnNqWBiievuVoy8JRs+riK5pHD0qdu3rGitVs0Bc9XtrxHjUxfTGDuQVr0AOMxzrpk7TK+HHR0vapHTb3KKjPjzGLJFRBEsH62g+yc3PcHjt4XwWtxMrfpLZ8NtZcNbIv3rNzlOk9bzwQx1GqBtrSUH3m7hZayNopxm219/Xq/yeAlC4mtI9Oo4M9cVju66a6OreAzkylfz7aOAhEc0MSzMJ46UMotPyX8L1xiW0J6DFYXIBXgKAWt56rXTUzw9s24aGvROkeW1zBjC5R0ZUX/OjnW0G4gkrQ+yvZQ7bbL/jUNhnCiF6gJ1MVuoAeTgnoX9SB05tRJrelZrbA1LoQX7eIoDGZib4VlIUKJn7sfDls/L7VzRZlL87qlR4eAdHfee9mLTd/0ZYi2qX2dj8m0snxxqAs77bWyfWDdkNZdu8t+Q0Fju9jgGnSe5JxoVi+pv2frvsNfjbx39UyFo/Vlg==;71mBbRxTrpprHTo3KD5q4w=="
 ---

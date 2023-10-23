@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "YouTube Is Developing an AI Tool to Help Creators Sound Like Famous Musicians"
-    excerpt: "Y YouTube is planning to roll out a new artificial intelligence tool that will allow creators to make videos using the voices of popular recording artists — but inking deals with record companies to launch the beta version is taking longer than expected, sources tell Billboard."
-    publishedDateTime: 2023-10-19T01:45:00Z
-    webUrl: "https://www.billboard.com/pro/youtube-developing-ai-tool-creators-sound-like-musicians/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 34
-    images:
-      - url: "https://www.billboard.com/wp-content/uploads/2022/09/YouTube-billboard-pro-1260.jpg?w=1024"
-        width: 1024
-        height: 575
-        isCached: true
 
 secured: "4koXkG4jtvPf8rdJVOqM6Ob2MT68dG+CyR+QpDfKb9CKU00YcONFtOs+h+A713aQMhXIG0ieFLe5jAB7fMxfHG3NX8KbbiIYL7KUjMG8vogUqAxtFovXXnN19PDLh/a5J5VLNPlkWSo16wgiqcuviuAJQ3flg0YxsXs2FKLP5izwnV78G75D+fAfPBwuBu7RAahCsjE3IYWZ+p2b5Nc6aXGRq2ZzHXLlxSlyhN8lpWpPzqMmGDKOY5yTUWrtptGSC3PgASuXNJ6Ez15bRXFMy8FBf85Hy00YJLeCqOYtkcCxvsYI1yESXFAdPCVPYT2lhvmtgp6CrQHkwR/bXAMOJPFEGQypcur5GJrkyvqMf+2osILVHFCIPBfSMCM1e/LngiT7Od4rrSFPL29yIzV8jaExoFFjodJXXbD9qYVnzLsIKBji2+eaNY4GIT4Wl/Q32/kqIq7I4BNvlVMGdop0rzIJz+s6V2Mn6DcZ0eHeN0UQVwY5jrLIAygUnx2UFpKKdUKmFWFmvUSSA4CZfXHdFg==;iQKBxykXdRoEklPvugEXaw=="
 ---

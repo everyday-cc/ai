@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "DOJ subpoenas Tesla in probes of AutoPilot and driving range estimates"
+    excerpt: "According to Reuters, demand for Tesla vehicles could drop if interest rates keep rising, and Tesla could incur further losses if pressure remains to decrease prices to remain competitive. That's partly why Tesla shareholders have pushed Musk to consider investing more in advertising efforts that could spike demand."
+    publishedDateTime: 2023-10-23T20:25:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/"
+    ampWebUrl: "https://arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/"
+    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/tech-policy/2023/10/doj-subpoenas-tesla-in-probes-of-autopilot-and-driving-range-estimates/amp/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 89
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1250863346-800x534.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "U.S. DOJ seeks documents from Tesla on driving range"
     excerpt: "The automaker also said in a regulatory filing that the Justice Department was looking into its self-driving feature, personal benefits and personnel decisions, in a move that marked intensifying regulatory scrutiny of the Elon Musk-led company."
     publishedDateTime: 2023-10-23T14:18:00Z

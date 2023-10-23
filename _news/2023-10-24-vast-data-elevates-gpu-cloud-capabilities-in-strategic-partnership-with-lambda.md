@@ -41,7 +41,21 @@ related:
         width: 932
         height: 622
         isCached: true
+  - title: "Lambda and VAST Data in Cloud AI Training Partnership with NVIDIA Technology"
+    excerpt: "AI data platform company VAST Data and Lambda, an infrastructure-as-a-service and compute provider for public and private NVIDIA GPU infrastructure, today announced a partnership intended to enable a hybrid cloud experience dedicated to AI and deep learning workloads."
+    publishedDateTime: 2023-10-23T19:50:00Z
+    webUrl: "https://insidehpc.com/2023/10/lambda-and-vast-data-in-cloud-ai-training-partnership-with-nvidia-technology/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/10/AI-artificial-intelligence-machine-learning-deep-learning-shutterstock-701349271.jpg"
+        width: 650
+        height: 433
+        isCached: true
 
-secured: "0aTLP/FbeMytYwX9Bn6p0HAm7+1dHCUdPLEURU1JhwoEnyALuyCdBFZf00hryujPhN2i3C1tprV/+xWiu7sovYgPggXH9LZ3ldh9DqiuS1iSV0DFWgWHqZT0dyEjGuMTB4kmktmXfGHBnSgPhECLdsrqcJvqL1qybqqHF5fAhvmybBUFZp/6Qbn3dPz6p1YJP8k34dKhn74kxg7PHZNpCJ3qaJt4O2yqr0lcuHmAIUym0Z3FOmgziYNSphkLuqz2j3W4L3XVRuma3FRNMbINh5S8nHWsh7GN50oL6RBhNKjkFH5cqIqus800180AZBYKyr5R7xzCPpKHrjc4p3GGbL3jggWNFP7c2CjV6G9UpZo=;L7sXxHXMZ9Csya0ClkdDcw=="
+secured: "JMefexT0mJDbNPwVrpav6SMSAd35BhwI8Tbs0x5lqh/U59scZBxUnivKKu+uydYLkQX92OcbHzP66qLzVTuxZJm+I2vvITW+VsfRG2xCTOSqXPdKN/QkMs80m6GnbWNTOnR42wmWbjLR2/71MvLXwwtmagsTW+Jgc62bpbPlbjJwq28Jpu7TeS/ZmRlnd76LYcHvY92Kz2YZXWxw53zvNIz8Djq7y+lXnxoIe744XrXWYu/szkGbcv1sF1F1MZ/1acEgtt+vxpXA+Pp0X3XnLWfR6yjCqBPgntEWRqBBkOGsPSrimt7eeqWabbjVu6JkbKqgIBiQv5Tlbo/3nngea3VZNEWkgnMyFzlhx6GITvGvirKDqelaO7LOD+mF0Qi2byewHFEi2NxplezX2zJIWgaCALTMcyA/kw84zWNkWPDj+IbrI+qjahxQbOqVRxnMSoLZ8lEcJux1l7vFiY11XgUQKV0lY3l6NHbJ/EeUN0+g1T8O91kFPFcwRLXPhA1xhYqXBwBPAoExPS4nQ8m94w==;c4kVYBOugin/j/eGjpYnUg=="
 ---
 

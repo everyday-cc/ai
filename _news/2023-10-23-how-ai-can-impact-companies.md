@@ -38,6 +38,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Why Generative AI Needs Design"
+    excerpt: "With generative AI, computers gain a new set of capabilities: the ability to understand and generate language, code ... With simple prompts, anyone can translate an idea into a visual prototype that a group can riff on. While imperfect, these AI mockups ..."
+    publishedDateTime: 2023-10-23T21:00:00Z
+    webUrl: "https://www.forbes.com/sites/stevevassallo/2023/10/23/why-generative-ai-needs-design/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6536db33f0c0d8b1f46f464e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1176
+        height: 900
+        isCached: true
   - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
     excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
     publishedDateTime: 2023-10-23T16:53:00Z

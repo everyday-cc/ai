@@ -334,6 +334,29 @@ related:
         width: 487
         height: 250
         isCached: true
+  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
+    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
+    publishedDateTime: 2023-10-23T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
+    excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
+    publishedDateTime: 2023-10-23T19:20:00Z
+    webUrl: "https://www.suasnews.com/2023/10/shield-ai-announces-multi-year-agreement-with-sentient-vision-to-offer-ai-enabled-real-time-situational-awareness/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 18
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/shield-AI-sentient.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Why actors are fighting for AI protections"
     excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
     publishedDateTime: 2023-10-23T13:00:00Z
@@ -344,6 +367,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "4Vf9pzo8yvUtQ9d+gyQH84nD8sO34oqtUdQ3EtyOycvBlkzkhq4mDjLnLDYYlWi0kkmOkIaSZ2FEFfuRRSdil37O7b+2PrPHthzLPb5ZNFjMMqXglBaYEmcBmDJFDCMnZ5Q7Q1c5BUZyqnlyqwsVxlJBDRLFZC57oZOOMr4OG5HxARVpEHKn2XiKSZueIghlujH7rcp7TmZWNbjUgXuDPy4a98SLS1XzEX5Zfe3mIZW3tn4OKqhJrLrrRHywlNS6NZoe+Q9mxpMDb4aPM/aHcddto33MTpMQ02m6V8/G+wA/l50NhQSJyTIHek9+OmHNfgB073JlTq43ywa/euqoeBy5Wjxu854cN4EW/QhX7YQ=;Vpl9eAhmFZCyW5DLSkuoSA=="
+secured: "NG32kru2ULt0s7MSl3855FWduWlflhAM0pD4ldQtEMa3OQFpZdf74QljDRYSgOiFznZFmowopFDCHuO5g25jYvhjM+pEcQ1+mgr+YoRkdAzgP12nLFDg11wEq7m9v5SLgyZHX+owvDNCBdZAaXpXJpqOAXKGbdM8kPrdFKVRUhwRrEZ5hLewWfEq8H/wGqUhYTJYPVHG7AysU0BBkDYjUHCkbW1Kc62xfeC32jd/wNIAazMrSC45warUCI/Z+WfgthcV7m5Dmxw3+GUHLHDqZhQSZTl3IDc+lBM+WKOfC/4SnfeG9QIcFDc4r2nS/EXIUHBY0C7tSJlqWeOjKXlRpnXc+2i0FQizj1wqWvykhyXl/yEgTK7HhLPtxuXrfVDL88xe67V4Qd8xpZvZFWfe9taD19Of87hEBOinsWZhvEBXrD0ysuiZ071jZo0aF1f2PThvii6DSkMF/6caYFq3OpUmvdiR2QWVrZBDOQcZVMrini0RID9U9T9FisZ2C7EJBVnwASVAs5AJbltSHnInOQ==;ut73Xq0kwC9Xr45UzgFhmQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
 type: article
 quality: 57
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -58,6 +58,29 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Two Friends Built Dh600 AI Start-Up Using Chatgpt, Sell It For Dh550,000"
+    excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The"
+    publishedDateTime: 2023-10-23T20:32:00Z
+    webUrl: "https://menafn.com/1107289700/Two-Friends-Built-Dh600-AI-Start-Up-Using-Chatgpt-Sell-It-For-Dh550000"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/updates/pr/2023-10/23/KT_fa60eimage_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "A ChatGPT rival just published a new constitution to level up its AI guardrails, and prevent toxic and racist responses"
+    excerpt: "An envelope. It indicates the ability to send an email. An curved arrow pointing right. Anthropic AI, an Amazon-backed AI startup and rival to OpenAI, has taken a democratic approach to governing its artificial intelligence. The firm, which is behind the ..."
+    publishedDateTime: 2023-10-23T19:33:00Z
+    webUrl: "https://www.businessinsider.com/anthropic-new-crowd-sourced-ai-constitution-accuracy-safety-toxic-racist-2023-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
   - title: "Two friends built Dh600 AI start-up using ChatGPT, sell it for Dh550,000"
     excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The two mad.."
     publishedDateTime: 2023-10-23T13:38:00Z

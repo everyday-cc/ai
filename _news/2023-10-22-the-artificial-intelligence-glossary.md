@@ -95,6 +95,38 @@ related:
         width: 620
         height: 496
         isCached: true
+  - title: "How To Fill The Looming AI Talent Gap"
+    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
+    publishedDateTime: 2023-10-23T19:36:00Z
+    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How to Use Artificial Intelligence in Your Portfolio"
+    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
+    publishedDateTime: 2023-10-23T00:00:00Z
+    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 39
+    images:
+      - url: "https://www.investopedia.com/thmb/gBkD8UB_17yTFTJ7TQxoIxRWTQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1170744055-5c9eb1a4a716473699af8e0aa9b9fa32.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "How to Use Artificial Intelligence in Your Portfolio"
+    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
+    publishedDateTime: 2023-10-23T19:33:00Z
+    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "dAw22+neRSLDidCmHtgcgnDKZb4HDJQiVkUeozDqLkQ5FNKr/EH9H5VUyxED3BNpNyp1KW7po6rglXttFpUPJlHdVC088AtKQagTg9bftzBmD7bCTovVibOaqs2S9We8pV9CYfcA8sLly3bLWI5f06aPvPyOAKtA6lyzJLZ+xaCBaLRKwZma5GBD2YHKfCH40dhQfb8MpKYVAtNGlbS6/EaprZdol+4O7OIMveDPvT585oyvV5Sf3EJFDN2kDp1/tUA4KZH/eJkbaHprBHCeUkNm4hvrVViDEKl1U1kvwNQRgcw0YIN0RRO5KLRZdd6pvtQOn4ajCcn8FZl+7Czeqcf+TxuBiuu8rcfisCAsfZE=;3JfAMuwMt3o8hdNqcIPQfA=="
 ---

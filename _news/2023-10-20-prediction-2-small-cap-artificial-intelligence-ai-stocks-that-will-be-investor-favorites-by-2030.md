@@ -34,6 +34,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 62
+  - title: "Here’s how I use Artificial Intelligence (AI) as a force multiplier to help my small business"
+    excerpt: "Yes, I use Artificial Intelligence (AI) to help manage my small business and I think it’s something you should consider as well. During my time in the Army, we used the"
+    publishedDateTime: 2023-10-23T21:10:00Z
+    webUrl: "https://thecitizen.com/2023/10/23/how-i-use-artificial-intelligence-ai-for-my-small-business/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: thecitizen.com
+    quality: 43
+    images:
+      - url: "https://d3ebobe8l15pwo.cloudfront.net/wp-content/uploads/2023/10/CFC-ChatGPT-iPad-2023-e1698077479791-768x1024.jpg"
+        width: 768
+        height: 1024
+        isCached: true
 
 secured: "R/cGaUjG3VdWR5+wdELyswS1kUIKm58oo74aIeTuQA51lqo3VsjhiywfwUNSQgwkVwWjKd/Scjq+yOjgGD51Q7WrUgPcELHsx/G2hAWgEHV9bVWgr4gc6bkGwnDiBWy2YF8aFRXlFZiYJ6KPygVxnwFH4Ct0CrxAQzOKtUrfWBUQqR0Qd6ns/YpHegwfR+TEUzIEAfXlg67bSEbyfja89QJxCaERuxUgh4Jc2/uUXm5FsVmq8iiFiY3qJpG92o4cTfSIdqHAKWymOUID/bfu5fOUw+d7Y2BjRDNEgcQ0XiTv8j7a2IOCTmdLU35ukD79ZipdF9/BpQPY8FvbFZfVNDGugyhOVR4JaE0NDj26wf4=;zmIfiFGI8pGQulSLPtSleQ=="
 ---

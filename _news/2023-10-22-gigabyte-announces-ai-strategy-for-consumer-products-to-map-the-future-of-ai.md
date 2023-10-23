@@ -77,20 +77,6 @@ related:
       domain: arstechnica.com
     quality: 47
   - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
-    excerpt: "Providing a comprehensive AI operating platform to meet all-end computing applications GIGABYTE's AI operating platform caters to all-end computing applications, spanning from the cloud to the edge. In the cloud,"
-    publishedDateTime: 2023-10-19T01:43:00Z
-    webUrl: "https://www.newswit.com/en/ifiv9fegq0wt7vggkxe6kq8nzha8t2th"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 36
-    images:
-      - url: "https://www.newswit.com/storage/images/iqli/0pr/8nbl7sr1ogpfi9plc7988c128/0-GIGABYTE.jpg.webp"
-        width: 800
-        height: 449
-        isCached: true
-  - title: "GIGABYTE Announces AI Strategy for Consumer Products to Map the Future of AI"
     excerpt: "GIGABYTE spearheads the launch of Azure AI laptops in partnership with Microsoft and extends this collaboration to hybrid AI application functions, like Microsoft Copilot, integrating related AI services and technologies into existing platforms for a truly ..."
     publishedDateTime: 2023-10-20T19:37:00Z
     webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1354131&cat=PR News Wire"

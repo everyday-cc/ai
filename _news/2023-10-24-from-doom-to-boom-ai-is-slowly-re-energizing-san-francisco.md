@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-23T17:54:00Z
 originalUrl: "https://www.detroitnews.com/story/business/2023/10/23/from-doom-to-boom-ai-is-slowly-re-energizing-san-francisco/71291481007/"
 webUrl: "https://www.detroitnews.com/story/business/2023/10/23/from-doom-to-boom-ai-is-slowly-re-energizing-san-francisco/71291481007/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Accelerate SF: Meet the former tech employees who want to use AI for social good in San Francisco"

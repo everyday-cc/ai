@@ -71,20 +71,6 @@ related:
         width: 859
         height: 573
         isCached: true
-  - title: "FINTECH SURGE UNVEILS THE FUTURE OF RETAIL AND DIGITAL PAYMENTS"
-    excerpt: "Fintech Surge 2023, the global gathering for the entire fintech ecosystem, hosted its final day today at the iconic Dubai Harbour."
-    publishedDateTime: 2023-10-19T04:40:00Z
-    webUrl: "https://www.phoneworld.com.pk/fintech-surge-unveils-the-future-of-retail-and-digital-payments/"
-    type: article
-    provider:
-      name: Phone World
-      domain: phoneworld.com.pk
-    quality: 39
-    images:
-      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2023/10/Fintech-Surge-2023-day-4-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "US payments infrastructure fintech Finzly seals $10m funding"
     excerpt: "US payments infrastructure provider Finzly has sealed US$10m's worth of funding, which the fintech will put towards continued expansion"
     publishedDateTime: 2023-10-21T12:42:00Z

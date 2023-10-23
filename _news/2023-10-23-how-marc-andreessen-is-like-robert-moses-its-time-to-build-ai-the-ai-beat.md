@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-marc-andreessen-is-like-robert-mose
 webUrl: "https://venturebeat.com/ai/how-marc-andreessen-is-like-robert-moses-its-time-to-build-ai-the-ai-beat/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: VentureBeat
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 672
     isCached: true
+
+related:
+  - title: "VCs Marc Andreessen, John Doerr among among attendees at Schumer's next AI forum"
+    excerpt: "Academics and civil society leaders will also join the discussion about innovation and balancing a leading position in AI while ensuring its safety."
+    publishedDateTime: 2023-10-23T16:13:00Z
+    webUrl: "https://www.cnbc.com/2023/10/23/vcs-andreessen-doerr-among-among-attendees-at-schumers-next-ai-forum.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 42
 
 secured: "PRj7a1a+z1pzH1FzpRZuyPbpF2Jsd7KYJdig4nVh7yPi03MZ+l1j8Uc8W6I3ZUyJ+WpqbPx4+/gu7ea14KQkXjL4Q4zI/Ld4lURceSKfmYLHWgz71WuiFmTJfCCQB7IDXSnXv2ZCqUCpVWukCPXCG8wCcpP1t4xDWae0U+sekA0P2Q1JlklgDpcCW4+sMEpoGBnwYOkL5laAW1XKY4BSuR65NY24Rm452Z2j/OmArSQw4WdFC3WTXeW//CGDPMB+0MheYk5XqjnEVYEW6R5x6mwhfxNrlKmNbr3QPD+EuUyiTrWWO5JbB52mPa3BRzZSEi0M/8+fNLpq82/IiyKd5b/sybxSfqvcxjfYnrSV7fM=;mdd2lDhVyf+IRJJZE1bAeg=="
 ---

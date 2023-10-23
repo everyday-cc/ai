@@ -44,6 +44,20 @@ related:
         width: 811
         height: 422
         isCached: true
+  - title: "From text to dream job: Building an NLP-based job recommender at Talent.com with Amazon SageMaker"
+    excerpt: "This post is co-authored by Anatoly Khomenko, Machine Learning Engineer, and Abdenour Bezzouh, Chief Technology Officer at Talent.com. Founded in 2011, Talent.com is one of the world’s largest sources of employment. The company combines paid job listings from their clients with public job listings into"
+    publishedDateTime: 2023-10-23T21:33:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/from-text-to-dream-job-building-an-nlp-based-job-recommender-at-talent-com-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 93
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/10/16/ml-14927-image001-1260x422.png"
+        width: 1260
+        height: 422
+        isCached: true
   - title: "How Meesho built a generalized feed ranker using Amazon SageMaker inference"
     excerpt: "This is a guest post co-written by Rama Badrinath, Divay Jindal and Utkarsh Agrawal at Meesho. Meesho is India’s fastest growing ecommerce company with a mission to democratize internet commerce for everyone and make it accessible to the next billion users of India. Meesho was founded in 2015 and today"
     publishedDateTime: 2023-10-20T17:18:26Z

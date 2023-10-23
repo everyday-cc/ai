@@ -341,6 +341,29 @@ related:
         width: 487
         height: 250
         isCached: true
+  - title: "Moody's and Google Cloud Partner on Generative AI Applications Tailored for Financial Services Professionals"
+    excerpt: "\"Through this partnership, research teams at Moody's and Google Cloud will collaborate on fine-tuned LLMs and AI applications that will enable financial service professionals to produce new, proprietary insights faster than ever before.\" \"Our collaboration ..."
+    publishedDateTime: 2023-10-23T19:35:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/moody-s-and-google-cloud-partner-on-generative-ai-applications-tailored-for-financial-services-professionals-1032730108"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "Shield AI announces multi-year agreement with Sentient Vision to offer AI-enabled real-time situational awareness"
+    excerpt: "A groundbreaking AI technology collaboration between Shield AI, an American defence technology company building the world’s best AI pilot, and Sentient Vision Systems (Sentient), an"
+    publishedDateTime: 2023-10-23T19:20:00Z
+    webUrl: "https://www.suasnews.com/2023/10/shield-ai-announces-multi-year-agreement-with-sentient-vision-to-offer-ai-enabled-real-time-situational-awareness/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 18
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2023/10/shield-AI-sentient.jpg?fit=1200%2C800&ssl=1"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "dR+fzhzrl3d7HFT1fPzeEEmKaWkwMBXUuUR5PydnfpOSkRTGRowU8/f0TE8Uh+yW3x/KPhdw5MiTFxw0ByUfJvESq+CIUlzDz1LKhaZqQhNgeemXWzlQpYunbUpmoWwAs71XV1Tziwbl4/1Vz7NlYOXjYcpwL7MK65NAvP8uJOybIg5wDfxg24bWYVF1o8m5TYo4jO4F5cTGRwkvWTo0Ah0Q2yNLa7gvbOhYZzzXacU/XMmUFpvT2tYUTP+QjKTCQt8C6BzWQM+HDs5fxvxWjn94QAcU1RYDcuZiPQPAC+VvIevcFRmktgy3UEhYlC1+RiVDlJv2wpZcbFY/8dgCA+T8xSRPbQsKDoNayXa5+qGle3Rzap7HUN+0QtlrBz+EnPuJcj+9gxvxtOK+5HhkZan+yLY3Xc4Ecg9mJHhlFAo6y3zsvdPaXYnw966nX70a/ZLMrjRhG3RqE5W848mfoZKsKtKRpwvNbD06OVWT1SB16TWIwBd8ZhamDVyCGF75Ulhl+2gAjKkLaCXoP3SFnw==;v/l8pTO+ufM+DPHlW9nRrA=="
 ---

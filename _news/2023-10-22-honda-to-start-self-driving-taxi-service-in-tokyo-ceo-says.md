@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda, GM, Cruise plan to begin Japan driverless ride service in early 2026"
-    excerpt: "TOKYO (Reuters) - Honda Motor said on Thursday that it aims to set up a joint venture with General Motors and Cruise to begin a driverless ride service in Japan in early 2026."
-    publishedDateTime: 2023-10-19T04:48:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2"
-    ampWebUrl: "https://dunyanews.tv/amp/english/763900.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/763900.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 57
-    images:
-      - url: "https://img.dunyanews.tv/news/2023/October/10-19-23/news_big_images/763900_28879140.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "UH-Maui hits the gas on driverless tech"
-    excerpt: "UNIVERSITY OF HAWAII photo The University of Hawaii Maui College is making history as it helps develop driverless vehicle ... Passon said. Like artificial intelligence, the software requires ..."
-    publishedDateTime: 2023-10-23T01:07:00Z
-    webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
-    type: article
-    provider:
-      name: The Maui News
-      domain: mauinews.com
-    quality: 39
-    images:
-      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Honda all set to launch their own self-driving cab service in Japan by 2026, announces CEO"
     excerpt: "Honda will be partnering up with GM and Cruise to develop self driving cars called Origin, and launch a driverless cab service in Japan. Honda's CEO Toshihiro Mibe said the company will use Chevrolet"
     publishedDateTime: 2023-10-19T09:03:00Z
@@ -71,15 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Honda to Start Self-Driving Taxi Service in Japan, CEO Says"
-    excerpt: "Honda Motor Co. will start a self-driving taxi service in Japan in early 2026, Chief Executive Officer Toshihiro Mibe said Thursday."
-    publishedDateTime: 2023-10-19T01:23:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2023-10-19/honda-to-start-self-driving-taxi-service-in-japan-ceo-says"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 34
   - title: "Honda to start self-driving taxi service in Tokyo"
     excerpt: "TOKYO: Honda Motor Co will start a self-driving taxi service in Tokyo in early 2026, in a move that may help alleviate a shortage of cab drivers in one of the world’s most-populous cities. The Japanese automaker has been developing the driverless vehicle ..."
     publishedDateTime: 2023-10-19T23:02:00Z

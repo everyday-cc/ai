@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
 quality: 104
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 625
         height: 350
         isCached: true
+  - title: "Basis Secures $3.6 Million to Bring AI to Accounting Firms"
+    excerpt: "Basis is an AI platform for accounting firms. Basis sits alongside existing software and gives accountants a team of AI assistants to streamline workflows, helping firms improve the quality and efficiency of their work. The company was founded in 2023 by Mitchell Troyanovsky and Matthew Harpe."
+    publishedDateTime: 2023-10-23T21:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2023/10/23/9903664.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "/TT3cjGlu/RAgyW3lNtWoMdUdQEXY7aGvGKLvn7FFDmwkuT/rl1wGb4ERLiyv+8bXOpDPIIr4I3ZcUC4b265A+nKqTXcbjnJsU7BjOOR6hsq5UsE9wFhrS8jwsSl3QPhgHn2eMqgFVkb/EhRMFAABfaMqIrMSQam5vKoXMMaLLbEkugfeOj/ibyEBWn2I8pDvwvbpqAbgRyCKdX90SIR+lp2NGV0yajqm7Tt69CZbXcozauvpwakycqohQpj+Ik73OxxRoosuA5ctV+EiJF4TNmuAjPDtPeNdlE1dcvsm29H1R4G+2Nwz1xTzkXnluVGIs0XSWMkf5EsdbeSXH5dxMCZrXpqllh7SxIasRNu91+Z7fANopzKwXJx1dJULMOsHqfVSb3S8pFDG3YwDDvXiKlyx9PxeBV7zagojwPMFeJDkyTQK3WMRBdndCyyJnfNl5OaTjXPr6UdPF2idDuYeWmRvVMYTrfq3dZCkfAQit7jUfMidEN1db0vwaHTybKWIX+2GzXavq+/4HSoEITEtw==;lqEPQFLbYGHBVYfEG8IjFg=="
 ---

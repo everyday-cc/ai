@@ -69,6 +69,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
+    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
+    publishedDateTime: 2023-10-23T19:24:00Z
+    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
   - title: "Foxconn and Nvidia collaborate to supercharge the AI industry"
     excerpt: "Ten months after announcing their partnership, Nvidia and Foxconn aim to supercharge the AI industrial revolution."
     publishedDateTime: 2023-10-19T16:31:00Z
@@ -82,20 +91,6 @@ related:
       - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jensen-Huang-and-Young-Liu_2.jpg"
         width: 1229
         height: 819
-        isCached: true
-  - title: "Nvidia, Foxconn’s New AI Factories Will Develop Software For Self-Driving Cars"
-    excerpt: "Nvidia CEO Jensen Huang and Foxconn CEO Young Liu unveiled AI factories at the fourth annual Hon Hai Tech Day Tuesday. These data centres will not only build Foxconn’s newest electric vehicles but also design the software that powers the fleet of self-driving cars."
-    publishedDateTime: 2023-10-19T03:08:00Z
-    webUrl: "https://gizmodo.com.au/2023/10/nvidia-foxconns-new-ai-factories-will-develop-software-for-self-driving-cars/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 35
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/c67029b9b0c6f8129267f331c534c135.jpg?quality=75"
-        width: 771
-        height: 433
         isCached: true
 
 secured: "JAIN6uOGT+2ERz1IO8QqHSVGQwHqOWFVUSFt/m4s2GYCKVuwjVtdVqhqQ4n7pFOihBxJMVqEdATkY3QUflmdqjBkx2n0Jink5MqV4IhmEeRZiPk/xv1lKA1PO6rDVkT7no5uSnP0j5PUrutdbQJJaFbIbmR27SJcHo3f2MdG1k5OBWmIEHIA72bAcYGjWwegCUjgwl75uwjWHCLfAQ5JuMqalLrPJ9gy0LbP6zzrKKyG2IqH9YI2Ejsuycd+TZkJbf9SUWO5oy1uGMRxEQfEiQqD+BP4ARABE3ihxx+9IhjgTPpbaTpwpDpdSTqnKiOHUJTvAnOnAmt1dMm57a3S/Obp3V+dDUGmJPqudokJk5KZDppctWvvJtI/z3nQacs3haufcELVzCnSiqD4ZI4FTRGNe76M2oXN2oC8oVdKiMm44mcz4o0P9FDDf6LvGa26ZVCoQPAptlIQpZNsGDNhGVxStMDJUacdOazknchcRCZd8n2m6Y9gJDzGZADg6egz2jDx16mvM315f17GWy3DXg==;ILxFCbUTvS29trjqNcKe1g=="

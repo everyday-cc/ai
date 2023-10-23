@@ -110,6 +110,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "Apple reportedly spending $1 billion a year on AI — here’s what it could bring your iPhone and more"
+    excerpt: "We've heard about Apple researching generative AI for some time, and now the company is reportedly on track to invest up to $1 billion a year in the tech in an effort to compete with the likes of Google and Microsoft."
+    publishedDateTime: 2023-10-23T19:13:00Z
+    webUrl: "https://www.tomsguide.com/news/apple-reportedly-spending-dollar1-billion-a-year-on-ai-heres-what-it-could-bring-your-iphone-and-more"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 3
 
 secured: "yyNCiiZ9GcsuciZ7OlwvTwAFMLepO648HeKzmYm84OfGX8AiEZUigYuypd+8SUcqYbZ/00k7+kla9rRBXl7sIl6TgsRgl9oyajBsmCyA0oqno1Tvr4DTWKKvYRT0DDBQ6qU0zbkxFURKiF+GEL2WfNnYRzzJnxGDZkbSOk53QWZCW9DacOu6ka9WLuFNJG9KJNUoZ4+NTSaJ0C6GoDIPczU9Nz+leGiZ70VNvEh47zKvbGuSK7PeLSD4T27KIDwHdJkwKCOHrz5gw/Ad1IsyZ8uNmXvYK89BUmXOlQxuSur/8TgDrDCFsnOOEcV0Jh+CDXMwbFKuRU8PgupE4dhw07kDvf7+Jggl7Oe4QWf8KvA=;iUKmobtLg/7aEI9nnmKSbg=="
 ---

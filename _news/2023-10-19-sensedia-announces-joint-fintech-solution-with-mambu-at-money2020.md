@@ -33,6 +33,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Money20/20 unveils fintech intelligence platform for investors"
+    excerpt: "Money20/20, the world’s leading fintech show and the place where money does business, is launching Twentyfold at Money20/20 USA in Las Vegas held on October 22-26."
+    publishedDateTime: 2023-10-23T20:40:00Z
+    webUrl: "https://www.finextra.com/pressarticle/98506/money2020-unveils-fintech-intelligence-platform-for-investors"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Sensedia Announces Joint Fintech Solution with Mambu at Money20/20"
     excerpt: "Sensedia, a global leader in delivering API solutions for companies adopting a more digital, connected, and open strategy, today announced it will present during Money20/20 at the Venetian, Las Vegas,"
     publishedDateTime: 2023-10-19T19:27:00Z

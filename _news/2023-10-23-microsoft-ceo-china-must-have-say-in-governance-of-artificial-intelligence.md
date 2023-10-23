@@ -133,20 +133,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 67
-  - title: "Microsoft Azure OpenAI Service Generally Available, ChatGPT API … – Voicebot.ai"
-    excerpt: "Microsoft has made its Azure OpenAI Service generally available, bringing the enterprise generative AI tools out of its invite-only program. Now any customers"
-    publishedDateTime: 2023-10-19T04:29:00Z
-    webUrl: "https://www.inferse.com/762100/microsoft-azure-openai-service-generally-available-chatgpt-api-voicebot-ai/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 65
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12441.png"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Microsoft’s Stock Performance: An Analysis of Azure Growth, AI Influence, and Office Commercial Prospects"
     excerpt: "Microsoft (MSFT – Research Report), the Technology sector company, was revisited by a Wall Street analyst today. Analyst Derrick Wood"
     publishedDateTime: 2023-10-20T04:15:00Z
@@ -165,6 +151,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Reddit may block search if it can’t reach an AI deal with Google, Microsoft"
+    excerpt: "On Friday, The Washington Post, as spotted by The Verge, said Reddit \"has met with top generative AI companies about being paid for its data,\" citing an anonymous source. Going further, The Washington Post reported that Reddit is ready to play hard ball:"
+    publishedDateTime: 2023-10-23T19:48:00Z
+    webUrl: "https://arstechnica.com/gadgets/2023/10/reddit-may-block-search-if-it-cant-reach-an-ai-deal-with-google-microsoft/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 62
   - title: "Alibaba, Tencent And Ant Invest $342 Million in AI Startup Zhipu, Eyeing Rivalry with Microsoft's OpenAI"
     excerpt: "Alibaba Group Holding Ltd BABA and Tencent Holdings Ltd TCEHY featured amongst major Chinese investors doling out 2.5 billion yuan ($342 million) in artificial technology startup Beijing Zhipu Huazhang Technology Co. Many Zhipu investors joined a recent $300 million round of financing for Zhipu-rival Baichuan, Bloomberg reports."
     publishedDateTime: 2023-10-20T14:55:00Z
@@ -333,20 +328,6 @@ related:
     quality: 44
   - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
     excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
-    publishedDateTime: 2023-10-19T03:44:00Z
-    webUrl: "https://www.aninews.in/news/business/business/g7-cr-a-noventiq-company-achieves-microsoft-azure-advanced-specialization-in-analytics-leads-the-way-in-data-analytics-and-ai20231019111443"
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 40
-    images:
-      - url: "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20231019054305.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
-    excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
     publishedDateTime: 2023-10-19T19:18:00Z
     webUrl: "https://news.webindia123.com/news/Articles/Business/20231019/4130700.html"
     type: article
@@ -373,6 +354,6 @@ related:
       domain: microsoft.com
     quality: 12
 
-secured: "ep9WEp4P827gBsNwli+lw0q9eqbakszb+LwgYEn/HPoO594q+FxmXRAi1DCfyO+UcKpxmw9w9pQB1RIDePiXG0Qkm397h/Y1jN4itbDT4PQ4UPpZlSjDkohLhXQ4rvPNUBvQbE1puBgXSeotP8Rp9umUtHvCRnDH4sLJYBgon+2JtJhGOw5jwvqdD5Ceg+NbxahiUu0Sn3cp64We2TqPxkNVHvKqY4GjEQo/Ef5h+1mEIJD4m8IV8qWxVIiMVX3ZmvC3BoLHZFLCjcstwRfKNdkb9STjhxNebrpG4wKgEqMgScC1o+4M/FUzLAdlqCycxw8O1+kEMR/sqJAerwiKQAYeszVq8VpJ6Cpm5VE3ghU=;Zox6AruW+6BB1yTA4FI8Cg=="
+secured: "7pZnqQXC2KoMGDstVLUGnFDpf98p99XVXKrVy7ksKJ8wL6cxL72jv5IiifBKvubVR9rfYzGVLyS6A2m7vnR8ZF6KD61CEjeyY1WCPeD8Ma8HeFpVhAe+I6IWPZJKK7TU7NnqskO8lPq25oE361/XHyCQvMw2GKpZx0hoYijYkOfLx43l3Z9Hm2BjR0dRpfaW45tki3XDVSsV0ELfcCeY5+nSnYRAcWrojpVYjtOtj4/WRiME6spbBxSYUa2PQCSOYSiueuLoX+txmR+1NOuTbI/ZjLuQo41zb8tbBE7oC+g7o3/KI3K/DvcQFUu3iiHkMiA0HZ295WKhZVa8u1TT//J+CTr5LOZ6a8ExQ6J1rr8IKWRPFRpFQgRnm5b8RrXFEHPIUJOISdyLVkKTgBfdwognFUelYDP42QT0BUTKtwNlCyEnre9J0PC7wXEdpEjIXotoARIW1oYU2E66axuNcHlv2EzMqkD42g4VjEepX+1RYRkKT+n3CgVh7EspcVljTkXM8P/jfad0wlj/SUqePg==;K+05dX6MEfb/IS4mTLrsig=="
 ---
 

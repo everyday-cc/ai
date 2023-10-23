@@ -19,34 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "‘A shameful act’: Voice leaders break silence"
-    excerpt: "In a bruising statement, Indigenous leaders have blamed “appalling and mean-spirited” decision-making for the defeat of this month’s referendum."
-    publishedDateTime: 2023-10-22T08:01:00Z
-    webUrl: "https://www.afr.com/politics/federal/a-shameful-act-voice-leaders-break-silence-20231022-p5ee5z"
+  - title: "Hurt ripples in wake of Indigenous Voice vote"
+    excerpt: "the Voice. It was a result of years of advocacy by prominent Indigenous Australians and built on a more-than-century-long struggle for self-determination and recognition. \"We came together in good faith with an invitation to the country to help Aboriginal ..."
+    publishedDateTime: 2023-10-23T19:43:00Z
+    webUrl: "https://www.bbc.com/news/world-asia-67114612"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.25%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_87%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/64056cf67aff77337de9bcc5ed08633e829390db"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Indigenous Leaders Have Broken Their Silence On The Voice Referendum Result In Open Letter"
-    excerpt: "Indigenous leaders have spoken on the devastating defeat of The Voice referendum following a week of silence in an open letter to Prime Minister Anthony Albanese ."
-    publishedDateTime: 2023-10-23T02:22:00Z
-    webUrl: "https://www.pedestrian.tv/news/indigenous-leaders-broken-silence-in-open-letter/"
+      name: BBC
+      domain: bbc.com
+    quality: 34
+  - title: "Australians' rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
+    excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a “shameful act.” Many proponents of the Indigenous Voice to Parliament maintained a week of silence and flew Aboriginal flags at half-staff across Australia after the Oct."
+    publishedDateTime: 2023-10-23T11:30:00Z
+    webUrl: "https://www.aol.com/news/australians-rejection-indigenous-voice-constitutional-043003244.html"
     type: article
     provider:
-      name: PEDESTRIAN.TV
-      domain: pedestrian.tv
-    quality: 14
+      name: AOL
+      domain: aol.com
+    quality: 11
     images:
-      - url: "https://www.pedestrian.tv/wp-content/uploads/2023/10/GettyImages-1734909414.jpg?quality=75&w=1200&h=675&crop=1"
+      - url: "https://s.yimg.com/ny/api/res/1.2/9i0SRZkuve9P8cSwaHOjnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/b9e40a28841b580d197d4ba1dc2eab05"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
+  - title: "Indigenous Yes supporters unleash on No voters in open letter ending week of silence to mourn Voice result"
+    excerpt: "A group of Indigenous Yes supporters have attacked No voters, the media, Coalition MPs and conservative think tanks, accusing them of fuelling a “racist” campaign against the Voice."
+    publishedDateTime: 2023-10-22T20:18:00Z
+    webUrl: "https://www.thechronicle.com.au/news/national/indigenous-yes-supporters-unleash-on-no-voters-in-anonymous-open-letter-ending-week-of-silence-to-mourn-voice-result/news-story/523ccf1867413b8d7faae95ddd11ef46"
+    type: article
+    provider:
+      name: The Toowoomba Chronicle
+      domain: thechronicle.com.au
+    quality: 0
+  - title: "Australians’ rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
+    excerpt: "said he accepted the public’s verdict on the Voice. “The Australian people always get the answer right and the government absolutely accepts the result of the referendum, so we will not be moving forward with constitutional recognition,” Marles told ..."
+    publishedDateTime: 2023-10-23T18:01:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/23/australians-rejection-of-indigenous-voice-in-const/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 0
 
 secured: "9Mut97V+O97ynpAg6cSFrojzU2JT31zyOKfon6c9J9Y+zjWRvRI2CabxJuTJV1MoEOyvIDpdEtFWYPAvHVf3HOB4GJheNhsUtFe4Nkgs3piFTK8H9SAbN9JITPLux2XmLLqi43b2vR3dfn5grpft8j3N+0bDprpd4I0ecK40PTItKWF2rpFH23Sj23njmlHYRH+tFrpnjVJO4DEaISfDTzhXTGYOvvId5W1/s+w9ajkCTKuILv8hlXf7BnOUsP+xdelikXRCYHhs6eGXlbZDOOEi9liyl4P8wLroWno8XQ2oiIbc4i9wE0A9iValf17Nv2Lw+p2tKqGU1J/M1zuA64/ks9wzyoEAxjMYQFWb4tlCrN0wSv0O2dEW8dFbbHgt39O9c8UBQ+3tywzXLh1IFLkCig/f8wrdLADl4QN1PcWcKUS/TdVe3HqovEO3e7NCXNI9UuNC9WgW0mDhGSxGAVw31l5V/l0Q7EIVxcjvtoTWYTChjRRUIyFlkf5zTay+1/cX5JKz6WizpgYf8XpS/Q==;5LP0XPWzXlGr1m2CgxoEVw=="
 ---

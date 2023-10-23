@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/21/apple-iphone-16-iphone-16-pro-ios-18-chatgpt-generative-ai-llm-ai/amp/"
 type: article
 quality: 89
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 17
+  - title: "Apple reportedly spending $1 billion a year on AI — here’s what it could bring your iPhone and more"
+    excerpt: "We've heard about Apple researching generative AI for some time, and now the company is reportedly on track to invest up to $1 billion a year in the tech in an effort to compete with the likes of Google and Microsoft."
+    publishedDateTime: 2023-10-23T19:13:00Z
+    webUrl: "https://www.tomsguide.com/news/apple-reportedly-spending-dollar1-billion-a-year-on-ai-heres-what-it-could-bring-your-iphone-and-more"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 3
 
 secured: "+K3vxlirpH0Se59ErsYvqQQG292l8eBnasjfsIDcOM145GpH4T+gBzLM4/XfsJNIHK3f8fd0Lmt5ZiIigieDQnujoSsis5rN7y3uUpCF4nxjZ3hTQXUBgEkY04xNgIG3QVpHwAPVR5SHdWn1vYttp6dvRNPLXAEPUrgfKudT7HrCjmb+5Khzw57DnTWrY8wnyD6P8LqXctoL5QL7T3WyG6WRxWfOOvr/cknKpfc667Fv0j8LsN0csrow/e6R7BF32Nw0ZAF9nwHRyZBq03AKKRkgbCYbOscz03pjPhjdVJqp5Xb+gAP+b2vsmT5AgyzTolWHHGA2x+UyAB86fk5HAqYP6OD01sWQ4b4y0lHvR/0jM+NWPTOejKqL2iL3Ac8wz8R+fGJwGBZpIw6lGg7aA7xu0+jkwMDbpBKVTDa1XA5fF3STgj46iJG/FSIrWwQNuaGMVTVsVhkIC9TYzud8GdblZqQ/84EXpLUFlaqMuBRSKSFysEuIpwvtU9q9SzwOdYD/6qVoiu8RBtRqDUPZOQ==;cDZt0dWIiOBCAFhAm5fx7w=="
 ---

@@ -83,20 +83,15 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Nvidia, Foxconn’s New AI Factories Will Develop Software For Self-Driving Cars"
-    excerpt: "Nvidia CEO Jensen Huang and Foxconn CEO Young Liu unveiled AI factories at the fourth annual Hon Hai Tech Day Tuesday. These data centres will not only build Foxconn’s newest electric vehicles but also design the software that powers the fleet of self-driving cars."
-    publishedDateTime: 2023-10-19T03:08:00Z
-    webUrl: "https://gizmodo.com.au/2023/10/nvidia-foxconns-new-ai-factories-will-develop-software-for-self-driving-cars/"
+  - title: "Yahoo Finance's NEXT: How rivals are taking on Nvidia in the AI chip race"
+    excerpt: "Nvidia (NVDA) is dominating the AI chip market, but it may not hold onto that lead for long. Traditional semiconductor rivals like AMD (AMD) and Intel (INTC) are entering the AI space, but so are Big Tech names like Microsoft (MSFT) and Alphabet (GOOGL)."
+    publishedDateTime: 2023-10-23T19:24:00Z
+    webUrl: "https://www.aol.com/yahoo-finances-next-rivals-taking-192451983.html?ref=biztoc.com"
     type: article
     provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 35
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/c67029b9b0c6f8129267f331c534c135.jpg?quality=75"
-        width: 771
-        height: 433
-        isCached: true
+      name: AOL
+      domain: aol.com
+    quality: 50
 
 secured: "1BnbTB+/EElWt6YB4/7OxZxo+fS0RNvfVN+dnsTN8YPaxf76MgCdQ4zH/+EcCXVo/seYB0mmuOySZIUurlDnuvbyTNxSiMAUSlbeN5cbQivsU698IqciAAzhp0xqtPhjr7IK17doLizSNchccRX2m4hBxm9GN28fbxqI21XS/X9jZZwVY39k3vXV3CCWKTkagXprn4MqCKM5LDuY/33lG1/6mepI3zEn/QfDu7pTEnQCxyhwxXA5RFaXRzdtJzXfzF8sL0qzDiygxHsfCxR9WWayzWnlEed2rBIQB7UdFUHJRmk9ADMadybV5hRVbVmWQokIkmv5dJtCiEcRe2TFNrsTvhRVQvGfZLpKaCrE8Q0=;n4MaU5j2txWbj+ZCF0R8CA=="
 ---

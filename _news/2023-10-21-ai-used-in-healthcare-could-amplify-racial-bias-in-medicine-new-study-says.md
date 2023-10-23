@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial
 cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A.I. Could Make Healthcare Even More Racist, New Study Finds"
+    excerpt: "Researchers looked into several Large Language Learning Models, a form of artificial intelligence that’s been touted ... the rush to use A.I. across the healthcare, media, and tech world doesn’t appear to be slowing down. However, hopefully, studies ..."
+    publishedDateTime: 2023-10-23T18:02:00Z
+    webUrl: "https://www.theroot.com/a-i-could-make-healthcare-even-more-racist-new-study-1850945525"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 19
 
 secured: "GUf6HwDAuKXXWr8paMb1p8Q2ftq3LPWWjTJZN3w4K2ILUQWJMomjwBD1C9B+w4FGTmPrj276FO4+YxWH9sgB+qbNyecQXKMwBk/TCGSc0TQ2WFXu5Cil9uFs5oDpwScVAo5OoVcalbUyM31IWwwqcD0sR9k7imP4uHHrxs1zpwB/k3uQF1mXp5OLmZ4rAYZ4cMkEqkIGxUvOEOE/l5JAE9e+uNOjX+5chhe+lBJhTtgq+hTyjxq4A5wiEbVcmGucrHQl8gyGjLOzg8THrmQDHvGusa6+z7s2hVHGiTENaQ3UpdFfdN3QViQ4UBJXEJHtWMHt2SMyVA1TlQQFy52G9A4sQjV18VFmjXDPz4HW97SmRCCbRnB4eSpfmGawUB7LPrJlFa7vTYMDix9wCxm0DNUUXKb7SXvIzKtl8VxHcyj7ueskxah4+TEHYLMJScaF5RxSLpxR/zwWAZX4ukjatvNJl9/+rSeqrfsRM/Uh7FEOH45q6RuWL90FkE2P3kTQkOtqhlJrXmhdUkRNhYyjaw==;egPSkS06eKl3/wMruDxfIg=="
 ---

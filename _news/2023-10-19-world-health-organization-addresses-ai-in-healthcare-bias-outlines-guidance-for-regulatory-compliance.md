@@ -43,6 +43,15 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "A.I. Could Make Healthcare Even More Racist, New Study Finds"
+    excerpt: "Researchers looked into several Large Language Learning Models, a form of artificial intelligence that’s been touted ... the rush to use A.I. across the healthcare, media, and tech world doesn’t appear to be slowing down. However, hopefully, studies ..."
+    publishedDateTime: 2023-10-23T18:02:00Z
+    webUrl: "https://www.theroot.com/a-i-could-make-healthcare-even-more-racist-new-study-1850945525"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 19
 
 secured: "gtQZdhGOJQEEfRZ9KFFczxJ7IkGthD6qhYLqiiznL+x0crTH8kAaEuxr7vw5flS475H9jhCqMqmSOnK5rFG27LgrF2PvQM0so5HNEKUMA+CesgvH1eGKxcrRXoMcvQVy0zX7cWXSY86vAiFmlAvTZBburZizR8BXwCeVVM0ERNbVJY4ufQUbrtvYRnB9Jrde1UeqxVta/lPX0boHjRL6qgwdIVmxqLpv1IISLBbMn+4fHOSsCQ34f9ixDRmm8/lBTF0bxZjTlnXzR1yzOCrPFCdLECNj34+bStk/MxAvxtIB/peuWB8xOJFOZQRahnys62ozZnI7cMzOnsrn8UMJLxeIzI0NBa5Cg2hQzzKlLVM=;O8b180FYEm1ttTBWZM3RrA=="
 ---

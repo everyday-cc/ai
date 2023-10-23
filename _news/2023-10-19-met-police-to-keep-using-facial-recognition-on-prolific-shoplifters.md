@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
 type: article
 quality: 89
-heat: 199
+heat: 179
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Met Police using 'game-changing' facial recognition to help catch prolific shoplifters"
-    excerpt: "It uses the same algorithm as the Met’s live facial recognition technology, about which there have been well-publicised concerns over potential bias. Lindsey Chiswick, director of intelligence for the Met and national policing lead on facial recognition, said the algorithm has been independently tested by the National Physical Laboratory."
-    publishedDateTime: 2023-10-19T01:28:00Z
-    webUrl: "https://www.express.co.uk/news/uk/1825499/Game-changing-facial-recognition-to-help-catch-shoplifters"
-    ampWebUrl: "https://www.express.co.uk/news/uk/1825499/Game-changing-facial-recognition-to-help-catch-shoplifters/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/uk/1825499/Game-changing-facial-recognition-to-help-catch-shoplifters/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 53
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/5020628.jpg?r=1697678820929"
-        width: 590
-        height: 386
-        isCached: true
   - title: "Met Police roll out facial recognition technology to tackle London's worst shoplifters"
     excerpt: "She added: \"This technology threatens our privacy and stifles free speech - and we should all be worried about moves to expand its reach. \"We're also concerned about the creep of facial recognition technology into other areas of policing. \"Let's be clear ..."
     publishedDateTime: 2023-10-20T08:29:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/11173308/shoplifting-scaled.jpg"
         width: 2048
         height: 1367
-        isCached: true
-  - title: "‘Game-changing’ facial recognition technology catches prolific shoplifters"
-    excerpt: "The Metropolitan Police asked 12 retailers to send in images of their 30 worst shoplifters in a pilot of the new software."
-    publishedDateTime: 2023-10-19T02:01:00Z
-    webUrl: "https://www.aol.com/game-changing-facial-recognition-technology-230100901.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/RKfjEJzFdHIFNK3hlA567Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/6429df5834bcfc23dc3e0ffb493c7837"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is changing its digital identity service to allow users to authenticate themselves by matching against a previously submitted government ID."

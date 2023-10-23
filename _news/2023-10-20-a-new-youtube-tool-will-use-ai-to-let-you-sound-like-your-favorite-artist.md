@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-new-youtube-tool-will-use-ai-to-let-you-sound-like-your-favorite-artist/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://techpp.com/wp-content/uploads/2023/10/Best-AI-Tools-to-Launch-and-Run-a-YouTube-Channel.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "YouTube Is Developing an AI Tool to Help Creators Sound Like Famous Musicians"
-    excerpt: "Y YouTube is planning to roll out a new artificial intelligence tool that will allow creators to make videos using the voices of popular recording artists — but inking deals with record companies to launch the beta version is taking longer than expected, sources tell Billboard."
-    publishedDateTime: 2023-10-19T01:45:00Z
-    webUrl: "https://www.billboard.com/pro/youtube-developing-ai-tool-creators-sound-like-musicians/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 34
-    images:
-      - url: "https://www.billboard.com/wp-content/uploads/2022/09/YouTube-billboard-pro-1260.jpg?w=1024"
-        width: 1024
-        height: 575
         isCached: true
 
 secured: "ZL1COxQBygw82a5z+XVytVsOTEiJdAtrKR7Tz5UQR6zdgfeJufwsiwttlxowT/6ojKxXtFi1jEA+e2A/t9bXJqZYEjpJkYaT2vWjgD0iCayfRe+UFH0/t0FagF/89zTM4DJSWn61GdmDxGfUkrydZwHorYbpsue08/PLdc6gYCYgH4WYpAH8Hz1Gn+Saff39DJVcxMvzhRrG1W/u6INjBKRNywsze/obzNlS4seqWUYnZzM5IYw6E/VnBk6eKqaJBSQ9r21NK541GatmsdN7jYhi4/7Jt5HdeVozMW2m0vFO7v1DC+pMcSCu43s8rxPJ+8fGvXjwmqzbuVA9EsmYZzcKYWE2jSXvzmhrPDvn+Ug4mlSeKXLFP5t0VD8CCQ4/cpU1NbFdHOQadx/7DbYl2od8AWt3OFrg9sexs6jOcULZdGxvdTkY66a9QYTZszm+/AwOsnVUgydI19xAqnSB0g9Qp6bYgmOUGbMnILIuIHhUrvV3mE+KX/gKWVnsj9duKZT9SrIiVdRF3kHtGa3joQ==;s6C/kU6PzS7sYiFZj4+U9A=="

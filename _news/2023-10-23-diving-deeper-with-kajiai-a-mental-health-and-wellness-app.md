@@ -32,18 +32,13 @@ images:
 related:
   - title: "NFL implements artificial intelligence for player health and safety"
     excerpt: "The Digital Athlete is an AI tool that helps teams analyze thousands of data points from every play and hit, in a matter of minutes instead of days."
-    publishedDateTime: 2023-10-23T17:29:00Z
-    webUrl: "https://www.nbc26.com/nfl-implements-artificial-intelligence-for-player-health-and-safety"
+    publishedDateTime: 2023-10-23T18:29:00Z
+    webUrl: "https://www.aol.com/nfl-implements-artificial-intelligence-player-152831250.html"
     type: article
     provider:
-      name: NBC26
-      domain: nbc26.com
-    quality: 37
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c5b763e/2147483647/strip/true/crop/960x504+0+108/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcdn.scrippsnews.com%2Fimages%2Fvideos%2Fz%2F1698074570_WjAnj5.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "7+YJHWkjxJ7TwJ8Zj7eDq1QCXxn9onzyCW+bJPxNKwYA1JfHSNZG9f6Udjj8SBfT+DBLVxvexwA+iOCv0+IBbuOqARhs+fMM3ImmMRweG5gGTElSTRDwBwof8D4jkHeb1eGY4+jrrSvvK1ILAi2rOfd4exdhwKi8+FN+PjUmI2F09oG4qFqHU+By6oAefVMTmnC9lPlpkHf2b0tFLL4gxBZGJK9J/DvvW5p8osM0UlmomTqbbhntyDYbH+sK4FrKn7v7AM/gL0e2XnTTKtr6xAKamQgZ24claWxtyJ4jdkAPLtnA1f2Jl4lJie104096INEo6YyF+89b9REPBxb+tvxY0QCeqCuwNBlvvabe5A46KNPVbo+U8cwa7DYotdn7cCpwr96zSNxTJGc6tWR94KJBshrMxXhd8qaDjMh+mDBHCtzDLl434D7J3mYc+0XXm0lk/oIDmWp4OqnQVl3XWranG8kMFIoU5AAD7mLJi50006n27UuXfJNMBo8mY06qn3YwR00XpYKULxIAkIvWUA==;6JCH34iXe5NSgBC6mjgYGg=="
 ---

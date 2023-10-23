@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 type: article
 quality: 99
-heat: 149
+heat: 179
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 620
         height: 496
         isCached: true
+  - title: "How To Fill The Looming AI Talent Gap"
+    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
+    publishedDateTime: 2023-10-23T19:36:00Z
+    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The Artificial Intelligence Glossary"
     excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
     publishedDateTime: 2023-10-21T22:47:00Z
@@ -97,6 +106,29 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "How to Use Artificial Intelligence in Your Portfolio"
+    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
+    publishedDateTime: 2023-10-23T00:00:00Z
+    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 39
+    images:
+      - url: "https://www.investopedia.com/thmb/gBkD8UB_17yTFTJ7TQxoIxRWTQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1170744055-5c9eb1a4a716473699af8e0aa9b9fa32.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "How to Use Artificial Intelligence in Your Portfolio"
+    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
+    publishedDateTime: 2023-10-23T19:33:00Z
+    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "/QxEAuyfpx4cLCXjywke+jzAsIq4FmLTtVHJ6GgFsHG+YjRXtZ4eQXMBqgDpp7senS6JH1mGmPX859fLfu/HPiMFsweS5GvHGqw3rQzPXbm3vvWzNC1ppWkI/IxmAlCtLTtpJeZX/hVy0Lliy9C/Z927oZox40MBq6sG4LVtVZA1daJ7RUIhAHM8wtyG2MltwczJLfa9tK+HNgmdrNrWuDU2IJMnGhEjxB3g5LmeaDLegZ7txNukYZ95GePdxfHvEPw5edXm5InM2ZLLc8eYxqtLjZ0SeVV77txjxXXstGejIPH8HMyOL9D0O7fgWghOchR3Nj8hdxmZ5eoDO4ZhdbY+9ZMsr9Y7uLFb6w8K2lo=;Qn5xLBRZZZh6GpvTR2mlqg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepm
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/10/21/this-week-in-ai-can-we-trust-deepmind-to-be-ethical/amp/"
 type: article
 quality: 121
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "OPINION | Artificial intelligence on campus: Is it ethical?"
-    excerpt: "AI's widespread introduction to academia must be treated carefully and constantly reevaluated to ensure ethical practices and learning."
-    publishedDateTime: 2023-10-19T03:03:00Z
-    webUrl: "https://tulanehullabaloo.com/64441/views/opinion-artificial-intelligence-on-campus-is-it-ethical/"
-    type: article
-    provider:
-      name: Tulane Hullabaloo
-      domain: tulanehullabaloo.com
-    quality: 56
-    images:
-      - url: "https://tulanehullabaloo.com/wp-content/uploads/2023/10/Note-Jul-21-2023-1.png"
-        width: 1640
-        height: 1707
-        isCached: true
 
 secured: "Dx0nhZ6O8KoE9V83TRD6gBrbvTxuQcy5kvFdlfxa3bYAA5GNzOvdsIDo5XCaK6e/6tS9jhN07j82duxjEy4UDZldj02BjNzdDi932L4ByzKmB5FlCVRL3H4G61U7cB+mk0n6k6b0ZJdZFDWXdi4ielm3D20x494FEzAHQH46VOW2eWmyYGp92TclADRLQhGVoQSbGtZVkLOKmkA4avgQRXClMiCH5bH2Zkq+nf1WLAtKRCqHzDa4yyPOUNGySb3ynEBt4/CbhG5dEq/dyExNZkWWZxmurnhibsUMYzyUWbGm4IQHBdDkeNqlwR49XDpLwpnSQwUEoFrlnr/EvGR/TOv6afKhOySFkPm3Qo1BjWY=;tdy4LBRTDTOQ26+hoYWIgw=="
 ---

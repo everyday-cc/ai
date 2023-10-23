@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Galileo Payment Risk Platform Now Available to the Entire Financial Services Ecosystem"
-excerpt: "Galileo Financial Technologies, LLC, a leading financial technology company independently owned and operated by SoFi Technologies, Inc. (NASDAQ: SOFI)"
-publishedDateTime: 2023-10-19T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
-webUrl: "https://www.businesswire.com/news/home/20231019333126/en/"
+excerpt: "Galileo Financial Technologies, LLC ... based on client risk appetite Utilize advanced data elements embedded into enhanced rules and machine learning-based models, taking into account entities such as merchants, channels, geo-locations, etc."
+publishedDateTime: 2023-10-19T12:22:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
+webUrl: "https://stockhouse.com/news/press-releases/2023/10/19/galileo-payment-risk-platform-now-available-to-the-entire-financial-services"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
@@ -34,6 +34,6 @@ related:
         height: 768
         isCached: true
 
-secured: "bJkIx3OKu6klt8gAU4IWZor4FSOrs2klbJbP/o/hKu4vUmTrivEa23MFXDvINakjVr9Sw1hdVlFba8QX0fT8XN5DhBmZmyOnYlZ/MTOXM/JpP+s/aEQAiztz8c9nLhCAlNZwCyFhE7G/4fbWwaqPRj2Ssvc1u/8akOnaYnaPlQi+uwkQapxNQdCT2QB/YiFr+O2Rbw03RZe0+5lLfqQReW1P9eVs71oxqQn+NdM4KuV0fSrLSKiZSS6wzxXY1r5YBrObW2LbO7eJkERvGaa0eobQADDs7ouJV0Oa2vzLoOjD6G5nlA/i/PKH8GQrShncNzqDKwY0Wdf9nuCJcsBC57GyfwcZJy5ByBWilq3iWhI=;EHF+DH5equKIZu5YBVN4VA=="
+secured: "icp9W4rXmrR4ySAmsnN9uBFPxi/hqIuubB9oDGTKETP2X8mLIuezgBwSPs9DNhtUBwEQCe/1zehhmY5Uez87FTGgAqCebHWBY7Dvp00eaITeDslYxGahNF7Ia/rHpW+Az7vDc8OEVT/6D2r+F/eT3I0Ww+ABrNoR08LDT6cPxVzxKQozAyGHdkyO/kNX2tbadxAhRcM2a0JzVexx/gYl1lYT+1V2Rm4lkOXavIpfIlfMYmwJNeBfyyFa4lhUq7MQHQKsdS7FnaTVq3jhKdDt9GRD7FuJ8U63B8ReFUEEC5Awl1NYAxrlR2Y4BmO9ysqu8ICRgxLF6BjuloUm62ZBt9vZTEdXgmUrG29BnhIpkYlOkQ28QD4OTnTXX1fjr4T4Nbvt7vcUzPX65qz1a60+x2/1x30+kOu5OKnd4CV/fbbBXHLqTZHj2nnHLWoxDgz4OB0/C6zhJfkapaJNOGyzIAtb34SvCjjGFNaNWZ6GusubiWSs57W5x5OkWqqEiCvzwDVqUodEPR5PtF1BLJwPfQ==;MDvpZOkTbEgOgVnPlMA8MQ=="
 ---
 

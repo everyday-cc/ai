@@ -84,6 +84,15 @@ related:
         width: 620
         height: 496
         isCached: true
+  - title: "How To Fill The Looming AI Talent Gap"
+    excerpt: "For even a casual reader of the news, it would be impossible to miss the fact that generative AI is a big part of this transformation."
+    publishedDateTime: 2023-10-23T19:36:00Z
+    webUrl: "https://www.forbes.com/sites/allisondulinsalisbury/2023/10/23/how-to-fill-the-looming-ai-talent-gap/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The Artificial Intelligence Glossary"
     excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
     publishedDateTime: 2023-10-21T22:47:00Z
@@ -98,6 +107,29 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "How to Use Artificial Intelligence in Your Portfolio"
+    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
+    publishedDateTime: 2023-10-23T00:00:00Z
+    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 39
+    images:
+      - url: "https://www.investopedia.com/thmb/gBkD8UB_17yTFTJ7TQxoIxRWTQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1170744055-5c9eb1a4a716473699af8e0aa9b9fa32.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "How to Use Artificial Intelligence in Your Portfolio"
+    excerpt: "Artificial intelligence (AI) is the simulation of human intelligence by machines. This is accomplished by software that attempts to replicate a human process. While artificial intelligence can entail very sophisticated applications, such as OpenAI’s ..."
+    publishedDateTime: 2023-10-23T19:33:00Z
+    webUrl: "https://www.investopedia.com/how-to-use-artificial-intelligence-in-your-investing-7973810"
+    type: article
+    provider:
+      name: Investopedia
+      domain: investopedia.com
+    quality: 19
 
 secured: "HXxjs82qFifVMXuDJspDsrJQYqpFZbIv4XIOLODtl6rZUPoycIstrBpe1Hu0JVoNCDVwXnsNhggfYEDkaYtSjgXfHXnFfFExEC4P2TNgxws3v2jrkzFNBw+IXgKlNpRFNIUmHQewp+1SCxHG4PVkujcn5JN23V6xJycFfNpKfI3m/4nPX4GEWlwr/0NQr4uESyZnY6G7ZoJoNiugL3liih3ZW8wkpe2vwT0VoqSHxjn7ejAs7uCM2HJGTDxlKLKvvh9/mb0hJzlVUrfE9vscCxjE6KbDSGeTtPzqSEMnY9g0WJKQhG8wnjg3dyBh3kaFO5XssczVrAB0tkUSoP2Ym84IzCW4NjgBPxtg/8M4kfiZySVHvUKxgFJXtqnwodqE/al/o3P2xRja+70/ayc6JhSRHZ6LPr47C0OzGy1vhTorO5sLgL0OtPtgeElF/f2hUcNbgsS2DxC49hTKcgaq6K0RTroMC/CWO3FsxVLAAjp4UWI2m9zrZhaFdGU/2iDNDiXwpgjnSwhJBLdNT1EkfA==;DAI9Z3L3v+17X1rkh7pb3Q=="
 ---
