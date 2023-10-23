@@ -2,6 +2,92 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2023-09-11-stop-facebook-from-using-your-data-to-train-ai.md",
+      "title": "Stop Facebook from using your data to train AI",
+      "excerpt": "Meta, the organization behind Facebook, is one of many companies relying on user data to beef up its artificial intelligence (AI) tools. Obviously, this leaves me pretty uneasy. Meta’s solution?",
+      "sourceUrl": null,
+      "webUrl": "https://www.komando.com/social-media/facebook-ai-training/893599/",
+      "originalUrl": "https://www.komando.com/social-media/facebook-ai-training/893599/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2023/09/kk-article-20230912-stop-facebook-using-your-data-ai-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.komando.com/social-media/facebook-ai-training/893599/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/social-media/facebook-ai-training/893599/?amp",
+      "publishedDateTime": "2023-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-upping-the-game-on-mind-controlled-robotics.md",
+      "title": "Upping the Game on Mind-Controlled Robotics",
+      "excerpt": "Get rid of the need for implantable electrodes--a focus of University of Minnesota researcher--and medical device assembly workers might mind-control robots performing multiple tasks at the same time. Think the precision of robotics coupled with human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/upping-game-mind-controlled-robotics",
+      "originalUrl": "https://www.mddionline.com/rd/upping-game-mind-controlled-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-11-move-over-ai-quantum-computing-will-be-the-most-powerful-and-worrying-technology.md",
       "title": "Move over AI, quantum computing will be the most powerful and worrying technology",
       "excerpt": "While short-term projections about quantum computing might be overhyped, the long-term outcomes are likely to be game-changing.",
@@ -1030,100 +1116,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-europe-in-the-lead-in-ai-regulation.md",
-      "title": "Europe In The Lead In AI Regulation",
-      "excerpt": "Europe leads in AI regulation and the UK wants to be the locus of AI standards - if so it should locate its efforts in Northern Ireland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64fc13766cd5e984ea1a562f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2023/09/09/europe-in-the-lead-in-ai-regulation/amp/",
-      "publishedDateTime": "2023-09-08T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-09-as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai.md",
-      "title": "As distance from China grows, India & US work on tech projects – chips to AI",
-      "excerpt": "The leaders continue to look forward to the participation of Indian companies in the US Rip and Replace programme, a joint statement issued by India and the US said.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/",
-      "originalUrl": "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/09/modibiden-3col.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/india/as-distance-from-china-grows-india-us-work-on-tech-projects-chips-to-ai-8931140/lite/",
-      "publishedDateTime": "2023-09-08T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

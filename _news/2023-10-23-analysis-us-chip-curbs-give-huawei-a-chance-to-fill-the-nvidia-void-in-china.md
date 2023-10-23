@@ -35,24 +35,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
-    excerpt: "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis."
-    publishedDateTime: 2023-10-18T12:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Biden further chokes off China’s AI chip supply with Nvidia bans"
-    excerpt: "In August last year, a ban on Nvidia's chip export to China sent the country's budding artificial intelligence startups scrambling for alternatives. A"
-    publishedDateTime: 2023-10-18T12:15:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
     excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
     publishedDateTime: 2023-10-19T17:42:00Z
@@ -76,15 +58,6 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 47
-  - title: "Tech war heats up: US cuts China off from AI chips – Nvidia, Intel, AMD are affected"
-    excerpt: "The Biden administration is reducing the types of semiconductors that American companies will be able to sell to China, citing the desire to close loopholes in existing regulations announced last year."
-    publishedDateTime: 2023-10-18T11:53:00Z
-    webUrl: "https://wraltechwire.com/2023/10/18/tech-war-heats-up-us-cuts-china-off-from-ai-chips-nvidia-intel-amd-are-affected/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 27
   - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
     excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
     publishedDateTime: 2023-10-18T16:05:00Z

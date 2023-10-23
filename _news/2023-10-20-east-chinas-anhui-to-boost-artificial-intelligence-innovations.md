@@ -55,15 +55,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Pocketnest announces AI project with Google, IBM"
-    excerpt: "Pocketnest, the female-founded financial wellness platform, announces the official kickoff to its biggest product release yet, focusing on artificial"
-    publishedDateTime: 2023-10-18T12:30:00Z
-    webUrl: "https://www.cuinsight.com/press-release/pocketnest-announces-ai-project-with-google-ibm/"
-    type: article
-    provider:
-      name: CUInsight
-      domain: cuinsight.com
-    quality: 19
   - title: "IBM has signed with government to enhance innovation in semiconductors and AI"
     excerpt: "IBM has signed with government to enhance innovation in semiconductors and AI - IBM has collaborated with the Indian government to boost advancements in artificial"
     publishedDateTime: 2023-10-19T03:16:00Z

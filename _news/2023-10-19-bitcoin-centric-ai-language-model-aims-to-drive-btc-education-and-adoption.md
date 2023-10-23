@@ -150,15 +150,6 @@ related:
         width: 1200
         height: 1594
         isCached: true
-  - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
-    excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
-    publishedDateTime: 2023-10-18T13:10:00Z
-    webUrl: "https://www.techradar.com/pro/microsoft-why-ai-is-going-to-push-forward-the-next-generation-of-digital-transformation"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 55
   - title: "Let's use AI to rethink education, instead of panicking about cheating"
     excerpt: "If we build and use AI effectively, we can create an education system where students are assessed on the quality and depth of their knowledge, rather than the content of an exam, says Okezue Bell"
     publishedDateTime: 2023-10-18T17:00:00Z

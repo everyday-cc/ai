@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-20-mat-collishaw-review-ai-plants-put-the-shock-and-sensation-back-into-british-art.md",
+      "title": "Mat Collishaw review – AI plants put the shock and sensation back into British art",
+      "excerpt": "Gorgeous blooms and stunning curiosities evoke botanical wonders, but the artist’s creations are revealed as fragile digital illusions – and nature will have its revenge",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/artanddesign/2023/oct/20/mat-collishaw-review-fabricated-plants-put-the-shock-and-sensation-back-into-british-art",
+      "originalUrl": "https://www.theguardian.com/artanddesign/2023/oct/20/mat-collishaw-review-fabricated-plants-put-the-shock-and-sensation-back-into-british-art",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e0834886e84c580bfd0d2351a91593c0cb1469bc/0_368_7910_4747/master/7910.jpg?width=620&quality=85&auto=format&fit=max&s=da9a18f73d4545161c2bb658382bf54a",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/artanddesign/2023/oct/20/mat-collishaw-review-fabricated-plants-put-the-shock-and-sensation-back-into-british-art",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/artanddesign/2023/oct/20/mat-collishaw-review-fabricated-plants-put-the-shock-and-sensation-back-into-british-art",
+      "publishedDateTime": "2023-10-20T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-20-generative-ai-could-be-the-next-frontier-for-smartphone-chip-design.md",
       "title": "Generative AI could be the next frontier for smartphone chip design",
       "excerpt": "Generative AI is the hot trend in the smartphone space at the moment, and this tech is shaping 2024's mobile hardware.",
@@ -157,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 341,
       "tags": null,
       "images": [
         {
@@ -680,7 +731,7 @@
       "originalUrl": "https://www.barrons.com/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -712,51 +763,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-20-alluxio-enterprise-ai-simplifies-and-enhances-ai-and-ml-workload-enablement.md",
-      "title": "Alluxio Enterprise AI Simplifies and Enhances AI and ML Workload Enablement",
-      "excerpt": "Alluxio, the data platform company for data-driven workloads, is unveiling Alluxio Enterprise AI, a high-performance data platform designed to unify performance, data accessibility, scalability, and cost efficiency in powering AI and machine learning (ML) workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Enterprise-AI-Simplifies-and-Enhances-AI-and-ML-Workload-Enablement-161070.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Enterprise-AI-Simplifies-and-Enhances-AI-and-ML-Workload-Enablement-161070.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     },
     {

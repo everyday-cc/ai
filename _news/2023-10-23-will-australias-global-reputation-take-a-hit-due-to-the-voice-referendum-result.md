@@ -1,0 +1,29 @@
+---
+category: news
+title: "Will Australia's global reputation 'take a hit' due to the Voice referendum result?"
+excerpt: "The resounding defeat of the Voice to Parliament proposal made headlines across the globe, though the result may have implications for how Australia is viewed, experts say."
+publishedDateTime: 2023-10-23T04:34:00Z
+originalUrl: "https://www.sbs.com.au/language/english/en/article/rights-have-been-permanently-denied-no-votes-victory-felt-around-the-world/tako2ws9f"
+webUrl: "https://www.sbs.com.au/language/english/en/article/rights-have-been-permanently-denied-no-votes-victory-felt-around-the-world/tako2ws9f"
+type: article
+quality: 18
+heat: 18
+published: false
+
+provider:
+  name: SBS
+  domain: sbs.com.au
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://images.sbs.com.au/dims4/default/a444bf1/2147483647/strip/true/crop/8256x4644+0+430/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fb9%2Fa8%2Fd16ab4034d9cbfcd58f5db990c3a%2Fflagsflags.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "9MlyEsG6sbQolGIamL1oU4YLONTKNG03yT/NWZbSWVAXzzBe+B0tv1xDjXw2uySH7NRgWDLqn8B9/l44/qcWvcviu8tIBTeNnOXPSAWJRfAY50xXEbZITiCOWp5HbFsP39Yx3vvtDJDSCI867ixKIQk9EzdhQHMcaWk3Vh7zkEUWOFfc+yDdXnwsefsU8RYzFWJm6PJF9TMoIayEnOSHZqhA3G3M+Mj9jK4IYEUvj9ODp3v0lPQYhQvE5TTK71KbXGmTElOWFO1oQ58nTxyLceoHN99XYdl5lDhw8ZQsdsyp1qGsCp13/AurYuAvpjNoXv9RcBLu45MHa2Deu1ocvIoCIU6HEUE1rKwf2pdMaO0=;mr6AU34T4MX0ODxa4hfRMg=="
+---
+

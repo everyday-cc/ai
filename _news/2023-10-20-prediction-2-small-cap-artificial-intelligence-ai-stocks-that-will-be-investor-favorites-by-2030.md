@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/DOCN/pres
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/DOCN/pressreleases/21251950/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,26 @@ images:
     width: 5120
     height: 2880
     isCached: true
+
+related:
+  - title: "2 Top Artificial Intelligence (AI) Stocks Ready for A Bull Run"
+    excerpt: "Many artificial intelligence (AI) stocks are soaring this year. The introduction of powerful and user-friendly chatbots such as Google Bard and OpenAI's ChatGPT took the world by storm, and now everybody wants a finger in that tasty pie."
+    publishedDateTime: 2023-10-22T15:37:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-top-artificial-intelligence-ai-stocks-ready-for-a-bull-run"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 62
+  - title: "Top 3 AI Stock worldwide for 2023"
+    excerpt: "Artec Technologies 35.45% (A6T) The AI sector has performed exceptionally well in the past. Some stocks even saw increases of over 2000%. However, not all stocks sustainably rise and have software solutions that can establish themselves in the market."
+    publishedDateTime: 2023-10-18T19:10:00Z
+    webUrl: "https://techbullion.com/top-3-ai-stock-worldwide-for-2023/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "R/cGaUjG3VdWR5+wdELyswS1kUIKm58oo74aIeTuQA51lqo3VsjhiywfwUNSQgwkVwWjKd/Scjq+yOjgGD51Q7WrUgPcELHsx/G2hAWgEHV9bVWgr4gc6bkGwnDiBWy2YF8aFRXlFZiYJ6KPygVxnwFH4Ct0CrxAQzOKtUrfWBUQqR0Qd6ns/YpHegwfR+TEUzIEAfXlg67bSEbyfja89QJxCaERuxUgh4Jc2/uUXm5FsVmq8iiFiY3qJpG92o4cTfSIdqHAKWymOUID/bfu5fOUw+d7Y2BjRDNEgcQ0XiTv8j7a2IOCTmdLU35ukD79ZipdF9/BpQPY8FvbFZfVNDGugyhOVR4JaE0NDj26wf4=;zmIfiFGI8pGQulSLPtSleQ=="
 ---

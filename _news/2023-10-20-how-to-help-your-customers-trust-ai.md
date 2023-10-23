@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How To Control For AI Bias In Lending"
-    excerpt: "Bias in AI is an important concern for businesses to address, but it is not inevitable. The key is for lenders to build technical and operational controls into their approach to AI throughout the customer lifecycle, from application to repayment. The goal should be to drive both accuracy and consistent, fair application of models and rules."
-    publishedDateTime: 2023-10-18T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/18/how-to-control-for-ai-bias-in-lending/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f109b4ff19f0f0006d9f9e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "25 of the best free AI courses on edX"
     excerpt: "TL;DR: A wide range of online AI courses are available to take for free on edX. You can find online courses on just about everything at edX. Whether you want to learn about coding, video game development, or economics, edX is worth checking out."
     publishedDateTime: 2023-10-20T04:01:00Z

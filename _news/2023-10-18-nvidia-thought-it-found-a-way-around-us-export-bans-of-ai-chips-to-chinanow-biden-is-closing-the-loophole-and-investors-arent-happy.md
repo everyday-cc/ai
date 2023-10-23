@@ -41,24 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AMD vs. Nvidia: Investing in the AI Chip Showdown"
-    excerpt: "Lisa Su, AMD’s CEO, is determined to establish AMD as a leader in the AI processor market, challenging Nvidia’s 85% market share. The MI300 line is pivotal in AMD’s quest to excel in inference solutions, which involve using pre-trained AI models for data analysis."
-    publishedDateTime: 2023-10-18T12:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/amd-vs.-nvidia%3A-investing-in-the-ai-chip-showdown"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
-  - title: "Biden further chokes off China’s AI chip supply with Nvidia bans"
-    excerpt: "In August last year, a ban on Nvidia's chip export to China sent the country's budding artificial intelligence startups scrambling for alternatives. A"
-    publishedDateTime: 2023-10-18T12:15:00Z
-    webUrl: "https://techcrunch.com/2023/10/18/biden-china-nvidia-a800-h800-chips/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 64
   - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
     excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
     publishedDateTime: 2023-10-19T17:42:00Z
@@ -91,15 +73,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
-  - title: "Tech war heats up: US cuts China off from AI chips – Nvidia, Intel, AMD are affected"
-    excerpt: "The Biden administration is reducing the types of semiconductors that American companies will be able to sell to China, citing the desire to close loopholes in existing regulations announced last year."
-    publishedDateTime: 2023-10-18T11:53:00Z
-    webUrl: "https://wraltechwire.com/2023/10/18/tech-war-heats-up-us-cuts-china-off-from-ai-chips-nvidia-intel-amd-are-affected/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 27
 
 secured: "ioUUr8qO9d+bwYlZoTf7YKHLdEcMSdBShz8NCLNpvu7wm2pSVj7QDt8tP/MiVMxmUJ86INoWQlFdtFia7nBqwqlknT5JP1BDk3TjNdJHUNfeB7C2Ky80kY2DlibEhR7J6AVH/sLYsaH0K8EkoPnN5GHzztGJiWprBz5pafrVlimp2T/P3isi1JFR7j9e4zAQlCAVpMe7JRTC+ZeYjtHdUZc7QzTOGriexSRvXZW6tzs6T/M2xJe7gmsrzGbt58GRLk6smib05dFbSv9AjbHen9XFJ6hiYrSomXmGjEyrenwRLaDOpIx8ClJwpZAjwpWYJoHS1lsK84dc3K7/nLizaFQJfnY1SXY0fDmPGmJRH44=;id2BWycdKQFx6Ivx0aFZPQ=="
 ---

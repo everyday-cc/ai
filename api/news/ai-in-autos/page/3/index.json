@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-30-artificial-intelligence-for-teaching-and-learning-at-ud.md",
+      "title": "ARTIFICIAL INTELLIGENCE FOR TEACHING AND LEARNING AT UD",
+      "excerpt": "Artificial intelligence presents both exciting opportunities and complex challenges for the world, profoundly affecting the ways we live, work, learn and relate to one another. At the University of Delaware, our faculty, researchers and students are at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.udel.edu/home/artificial-intelligence/",
+      "originalUrl": "https://www.udel.edu/home/artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.udel.edu/content/dam/udelImages/main/graphics/udelLogoImages/ud-thumbnail.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-29T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "University of Delaware",
+        "domain": "udel.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-09-29-the-self-driving-trucks-that-are-deliberately-crashed.md",
       "title": "The self-driving trucks that are deliberately crashed",
       "excerpt": "The developers of self-driving trucks don't usually like to see them crash in testing - there would be a lot of mangled metal and the risk of causing serious injury or worse. Instead the hope is ...",
@@ -1311,61 +1355,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-22-why-open-source-is-the-cradle-of-artificial-intelligence.md",
-      "title": "Why open source is the cradle of artificial intelligence",
-      "excerpt": "In the wildly competitive business of AI, is open source doomed to be always a bridesmaid, never a bride? Think again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/3dd166699052b2cfc4b30930ced69da1bb2d36dc/2023/05/25/1ff6a155-2b9e-49c7-9dfb-8c4ea6c8ba04/keep-ai-open-source-smaller-may-2023.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-open-source-is-the-cradle-of-artificial-intelligence/",
-      "publishedDateTime": "2023-09-21T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

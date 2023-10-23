@@ -2,6 +2,99 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2023-10-06-people-are-posting-ai-generated-yearbook-pictures-with-this-viral-app.md",
+      "title": "People are posting AI-generated yearbook pictures with this viral app",
+      "excerpt": "Epik, a free-to-download photo editing app, offers a '90s-style yearbook photo edit that has gone viral on Instagram and TikTok.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "originalUrl": "https://www.cnbc.com/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107312361-1696538000665-yearbook-2.PNG?v=1696538980",
+          "width": 653,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/10/05/how-to-create-ai-yearbook-pictures-with-viral-epik-app.html",
+      "publishedDateTime": "2023-10-05T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-the-iphone-for-ai-betting-big-on-artificial-intelligence.md",
+      "title": "The ‘iPhone For AI’: Betting Big On Artificial Intelligence",
+      "excerpt": "Despite all the hype surrounding the internet throughout the 1990s and early 2000s, the internet didn’t really take off until Steve Jobs introduced the iPhone in 2007. Until the iPhone’s release, the internet was something a few people used for work ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-iphone-for-ai-betting-big-on-artificial-intelligence-1032682738",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-05T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-tesla-engineer-defends-full-self-driving-name-at-crash-trial.md",
       "title": "Tesla engineer defends 'Full Self-Driving' name at crash trial",
       "excerpt": "SAN FRANCISCO, Oct 5 (Reuters) - A Tesla (TSLA.O) engineer in court on Wednesday rejected a lawyer's suggestion that the company named its driver-assistant feature \"Full Self-Driving\" because it ...",
@@ -1094,100 +1187,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-successfully-integrating-ai-to-address-burnout-and-enhance-efficiency.md",
-      "title": "Successfully Integrating AI To Address Burnout And Enhance Efficiency",
-      "excerpt": "The integration of AI into the workplace is a double-edged sword that, when wielded thoughtfully, can greatly enhance productivity and promote employee well-being.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651dcd086a3358713ea8dbc1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/10/05/successfully-integrating-ai-to-address-burnout-and-enhance-efficiency/amp/",
-      "publishedDateTime": "2023-10-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-05-driverless-cars-are-multiplying-on-texas-roads-heres-what-you-should-know.md",
-      "title": "Driverless cars are multiplying on Texas roads. Here’s what you should know.",
-      "excerpt": "Here’s what you need to know about driverless vehicles in Texas ... The data from these sensors feed the car’s artificial intelligence brain in real time, enabling it to make decisions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
-      "originalUrl": "https://www.texastribune.org/2023/10/05/texas-driverless-cars-autonomous-vehicles-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbnails.texastribune.org/3_yawwd97JZ2d2F_jbDy8Tc3cw4=/1200x630/filters:quality(95)/static.texastribune.org/media/files/e351a86d0a0f9d690b1f766810f9f8c3/0926%20Driverless%20Cars%20TT%20JS%2006.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-05T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Texas Tribune",
-        "domain": "texastribune.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

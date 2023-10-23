@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-10-15-the-company-powering-the-ai-revolution-is-quite-happy-to-let-staff-keep-wfh.md",
+      "title": "The company powering the AI revolution is quite happy to let staff keep WFH",
+      "excerpt": "Nvidia, which makes chips used for AI software like ChatGPT, says flexible work helps attract and retain staff and lets them balance their \"personal and work obligations.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10",
+      "originalUrl": "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/64d4e13b48a88f001968b063?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-chips-happy-staff-keep-wfh-remote-work-chatgpt-2023-10?amp",
+      "publishedDateTime": "2023-10-15T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-15-does-amazons-artificial-intelligence-ai-investment-make-it-a-buy.md",
+      "title": "Does Amazon's Artificial Intelligence (AI) Investment Make It a Buy?",
+      "excerpt": "Anthropic specializes in generative AI, which can be deployed, for instance, for customer service, as an AI assistant, or for help with coding. Essentially, Anthropic has a tool kit that helps its clients develop AI models that suit their needs. Anthropic rolled out AI assistant Claude in March.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/10/15/does-amazons-4-billion-artificial-intelligence-ai/",
+      "originalUrl": "https://www.fool.com/investing/2023/10/15/does-amazons-4-billion-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/749766/person-working-on-data-servers.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-15T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-15-braid-shuts-down-stash-marches-toward-an-ipo-and-what-happens-when-a-fintech-relationship-fizzles-out.md",
       "title": "Braid shuts down, Stash marches toward an IPO and what happens when a fintech relationship fizzles out",
       "excerpt": "As reported by Aisha Malik: Last week, Klarna introduced a suite of new features, including an AI-powered image-search tool called Shopping lens. The Swedish fintech giant is also launching shoppable videos in Europe, in-store product scanning, a new ...",
@@ -1056,101 +1160,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-googles-ai-can-now-create-images-from-search-google-images.md",
-      "title": "Google's AI Can Now Create Images From Search, Google Images",
-      "excerpt": "Google will now let you generate images and written drafts related to your search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/googles-ai-can-now-create-images-from-search-google-images",
-      "originalUrl": "https://www.pcmag.com/news/googles-ai-can-now-create-images-from-search-google-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06PyVcjR8KlE9qbxcj8TiyB-1.fit_lim.size_1200x630.v1697208916.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-13T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres.md",
-      "title": "AI panel recommends govt to create 24,500-GPU computing infra at 17 centres",
-      "excerpt": "Union Minister Rajeev Chandrasekhar said that based on the suggestion made by the panel, the government was considering making AI chips and GPU infrastructure in the country through a public-private p",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/03/RTX-3090Ti.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/ai-panel-recommends-govt-to-create-24500-gpu-computing-infra-at-17-centres-11529801.html/amp",
-      "publishedDateTime": "2023-10-13T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

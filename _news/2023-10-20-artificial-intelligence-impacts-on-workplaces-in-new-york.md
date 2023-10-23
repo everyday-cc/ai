@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Artificial intelligence impacts on workplaces in New York"
-excerpt: "At a public hearing New York State lawmakers listen to testimony about the benefits and concerns of artificial intelligence or ai in the workplace including impacts on hiring, surveying work"
-publishedDateTime: 2023-10-19T21:39:00Z
-originalUrl: "https://www.erienewsnow.com/story/49864255/artificial-intelligence-impacts-on-workplaces-in-new-york"
-webUrl: "https://www.erienewsnow.com/story/49864255/artificial-intelligence-impacts-on-workplaces-in-new-york"
+excerpt: "At a public hearing Thursday, New York State lawmakers listen to testimony about the benefits and concerns of artificial intelligence or ai in the workplace including impacts on hiring, surveying work"
+publishedDateTime: 2023-10-19T22:26:00Z
+originalUrl: "https://www.weny.com/story/49864254/artificial-intelligence-impacts-on-workplaces-in-new-york"
+webUrl: "https://www.weny.com/story/49864254/artificial-intelligence-impacts-on-workplaces-in-new-york"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Erie News Now
-  domain: erienewsnow.com
+  name: WENY News
+  domain: weny.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://WICU.images.worldnow.com/images/25318857_G.jpg?lastEditedDate=1697737105000"
+  - url: "https://WENY.images.worldnow.com/images/25318843_G.jpg"
     width: 1080
     height: 810
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 670
         isCached: true
 
-secured: "itjxAPsIkUAioUKHTH1rsiO3La7cJZCWRngall/nBVT8+JOUVnt2gp9aWFhfVGb4cPs1r1KMVPBoirLUI2/qe6R6HGrvub7x+l67wK9ax2Cnz9siPu+gsyakzr8LYmqxcP5aBGs5D/cNP1T1/oax0A9XwyvNGw3Ui3wh3/X3/UZTTCSbKOmKk0JTp6jfTzUbV7ofEaPfeQ4NtGE7p9l/yFkBSTR8CoMbSJLiaNCf3Gukw4GXCo4nFU/k64Q66I90ySuT8Oy5KM19mqNqyHsnd8IkQuDRjITGFdmNCO0E/1bjT5UxzfRdrps7xMxrZpzdRwV0j+WZ+b7ml8kyBUAn6MSXEr7pG2fa3n56+B1lqac=;PRCZtFmKun1oH8R4FCwkhQ=="
+secured: "m/yFJ/K5pTWYQZxkCnW0q4QQNwuWWuvJV5Xmr5qZ7Nw12boRhIj9bDjsOgcHw0mlvrX0JHeryUmC7mBl3KpDszDZDku8IgNe5+uYf27YCYGB+RE3AvpzA1lD8QjAd+SI9DQUs80l7cYyL3kal2aowyHcst+/fsv5RGMrzQTVHLzJtB0U1NurvSMRoX7rogAERgihIz0bViC6mgaMcKdlt2G+lulZRP4+TjGnW79ETPM57W8rDswocIyXKugY1B6kQRcpBGD1m0Lb5PAeOms25QBOlpuhLEYzrzoPDc4xaU5ojqwAOMggrXnB0+q1ZeTJJhMijQiaEVK1VVcMFl44Bf477Sfrz7ROzYFS+BulWRI=;ari0jvXJHOskrniBaOd20A=="
 ---
 

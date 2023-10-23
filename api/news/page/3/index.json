@@ -697,7 +697,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -729,6 +729,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-ethics-of-artificial-intelligence-ai-in-brazil.md",
+      "title": "Ethics of Artificial Intelligence (AI) in Brazil",
+      "excerpt": "In November 2021, UNESCO’s General Conference adopted the Recommendation on the Ethics of Artificial Intelligence, the first global standard-setting instrument on AI. In 2022, UNESCO Brasilia published this Recommendation in Portuguese to discuss and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "originalUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-11/brz_brasilia_Itamarati_palace_UNESCO-EdsonFogaca.jpg?h=3d3477a3&itok=vyJlWReC",
+          "width": 400,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1177,57 +1221,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-19-ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai.md",
-      "title": "TED AI 2023: A historic symposium on benefits, risks, and applications of AI",
-      "excerpt": "Hosted by Anderson and entrepreneur Sam De Brouwer, the first day of TED AI 2023 featured a marathon of speakers split into four blocks by general subject: Intelligence & Scale, Synthetics & Realities,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tedai_2023-hero-800x450.jpg",
-          "width": 760,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/",
-      "publishedDateTime": "2023-10-18T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

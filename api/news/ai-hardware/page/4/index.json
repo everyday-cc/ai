@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2023-09-20-ai-bubble-or-revolution-goldman-sachs-research-takes-a-look.md",
-      "title": "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look",
-      "excerpt": "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
-      "originalUrl": "https://www.benzinga.com/fintech/23/09/34742974/ai-bubble-or-revolution-goldman-sachs-research-takes-a-look",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/09/19/ai.shutterstock_1065245777.jpg?width=1200&height=800&fit=crop",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34742974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34742974",
-      "publishedDateTime": "2023-09-19T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-09-20-sambanova-unveils-new-ai-chip-the-sn40l-powering-its-full-stack-ai-platform.md",
       "title": "SambaNova Unveils New AI Chip, the SN40L, Powering its Full Stack AI Platform",
       "excerpt": "SambaNova Systems, makers of the purpose-built, full stack AI platform, announced a revolutionary new chip, the SN40L. The SN40L will power SambaNova’s full stack large language model (LLM) platform,",
@@ -1416,6 +1372,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-11-enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.md",
+      "title": "Enterprise DPU advances are spurred by AI, security, networking apps",
+      "excerpt": "Nvidia is capitalizing in a monster way on AI and its use of its GPU technology, largely in hyperscaler networks at this point. The company’s second-quarter revenue came in at $13.51 billion, a 101% jump year-over-year that it credited largely to AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
+      "originalUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_virtual_data_center_storage_by_henrik5000_gettyimages-175015817_1200x800-100768153-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3706089/enterprise-dpu-advances-are-spurred-by-ai-security-networking-apps.amp.html",
+      "publishedDateTime": "2023-09-11T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

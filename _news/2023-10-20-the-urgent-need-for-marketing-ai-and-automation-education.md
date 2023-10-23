@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
 type: article
 quality: 121
-heat: 351
+heat: 341
 published: true
 
 provider:
@@ -140,15 +140,6 @@ related:
         width: 1200
         height: 1594
         isCached: true
-  - title: "Microsoft - why AI is going to push forward the next generation of digital transformation"
-    excerpt: "“AI transformation must be about pragmatic innovation and applied use of AI to move your business forward - it's critical for us that the work that we're doing, the innovation that we're putting forward, the research and development we're applying to our capabilities actually creates the business yield for each and every one of you.”"
-    publishedDateTime: 2023-10-18T13:10:00Z
-    webUrl: "https://www.techradar.com/pro/microsoft-why-ai-is-going-to-push-forward-the-next-generation-of-digital-transformation"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 55
   - title: "Bitcoin-centric AI language model aims to drive BTC education and adoption"
     excerpt: "Novel AI language model Spirit of Satoshi trained on Bitcoin-related resources aims to drive education and BTC adoption."
     publishedDateTime: 2023-10-19T13:31:00Z

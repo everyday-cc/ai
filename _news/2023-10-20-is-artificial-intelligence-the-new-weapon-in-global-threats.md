@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Is artificial intelligence the new weapon in global threats?"
-excerpt: "On full display, at protests worldwide there is a deep anger some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in, and there are growing fears they may use artificial intelligence to achieve their goals."
+excerpt: "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,"
 publishedDateTime: 2023-10-19T17:01:00Z
-originalUrl: "https://wjla.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-webUrl: "https://wjla.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-ampWebUrl: "https://wjla.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-cdnAmpWebUrl: "https://wjla-com.cdn.ampproject.org/c/s/wjla.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+originalUrl: "https://wjactv.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+webUrl: "https://wjactv.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
 type: article
-quality: 57
-heat: 67
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: wjla
-  domain: wjla.com
+  name: wjactv
+  domain: wjactv.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://wjla.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg"
-    width: 648
-    height: 364
+  - url: "https://wjactv.com/resources/media/947524d8-1f88-4e91-9880-84956aabcea7-large16x9_thumb_21427.png"
+    width: 986
+    height: 555
     isCached: true
 
 related:
@@ -36,6 +35,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "5rNpQMCcdZzgwYZT4qD+kgp8ybRDjST46O+jf+vL1gb9aGY0TSNYBH0tnRZoOF1086xqTCGQ5g3L1i1H0LBTnwoXQzEE/Ovu2kqSNp3X9Sl7SsPEUczhiQppNH70sJf4kbFzEAxNW7YZoDH64tZmUB18zwU3FHsGkkFu8SegW8UOzKvh0Jdv4KbMwuFOTQclNtEx1ovJDb1eVajARnI+voYpARjyzdtyccQ3vZJPQkOseYczLk9wOr3YvlvMJtCSdtcHLmzfoOLKnKMOWsKJW/V8L6dwav/RC+y5GeYmqJCjojhQrbPAoxqqtameGNSI7TZccfEUtQ8xtjmqFdRyFwwmiOqEcBHh2Tz7mjW1YXo=;jpBJySBZIXvs7rTn+3PbsA=="
+secured: "IIAnismq3LIiuW/EYJ410U+B2+/9fzxZQil5XnpR6RKQPEgV/VKKSM7dTWOdQSs7O90toXmY2zTUDWGUDFgFZ1lNaUNjgB0SuMG+UDoXRF0KyBXlraxERpjEMMvYieW5bo3boVxqwetdiMb08TEHkC+PobsDeF5UlgcgwBCNIl6LJ4+BaAPdouxuIJ5sRkhzeoBA9eum/ZpQVO/AiEdwuRUjxGsqUTYV7fpikdq9dIwMv68RyVCKvtq1+RqvWWrzONCsKqhLcjCxzWF14Pu4hemoZaY6TRlTX2DAeYndr9PcAqU48TTrWX+mGZASF9o9CObW/ZrJfdgJAeUWKF9hV3mfXBH2J6iLBwWsfvAwTKc=;FA+UsdzcR8BnUnK2iNXYPQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214644-cleo-joins-american-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214644-cleo-joins-american-fintech-council/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,26 +26,6 @@ images:
     height: 1050
     isCached: true
 
-related:
-  - title: "How to build a secure foundation for American leadership in AI"
-    excerpt: "Google shares the report: Building a Secure Foundation for American Leadership in AI."
-    publishedDateTime: 2023-10-18T13:00:00Z
-    webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Deep Learning Indaba: A Pan-African Pilgrimage in AI"
-    excerpt: "Insights, podcasts, and stories on startups, society & culture, and digital technology in Africa. We tell Africa's stories."
-    publishedDateTime: 2023-10-19T13:56:00Z
-    webUrl: "https://iafrikan.com/tag/ai/"
-    type: article
-    provider:
-      name: iafrikan.com
-      domain: iafrikan.com
-    quality: 34
-
-secured: "rhgJc0sAmbdyi6m9INy0ofeciK0UnEY7UUl7gDMHGhl52Wqme0BtZoG2tWWbJ1lxTJGeKGrTJE8M3sydeiWy72u8JKN7g0D2GEOX8dGcoD/jmZe7IqNPFr/CwM8AIA/Vvo6gn29/GXk7HDq8x2PWqRg8AhBaqUMecGueP/O/NMtemD+4qOf7QYmVmccrxOjfJnLX5gQS30DCAocAn/xlSjfvqdkW0BlRGEaaN3a1jaRVrJG1gQ+BLE5mdycOJ5llGnBQW56NMn+AGEwsZZzzJ0vWNk9i9HEfi/gBTBTPk3VET46Kn/LbuSl7Aqt/4Hjb+vesREKVAsqkRUK3+C+O7E8j5R+59gTHnItChKwNbos=;Nle0X7R6Y/rhl7bzyIJrIA=="
+secured: "TCuKSpG0401VSTcvkrnn+64K6FhKvWTEm/tiQ5y9e/79tBLCr7aaKqBpCI9MZ2o6ULtpW3lcjhq450fWHCXBx5UOrrLYntz9BAJm1yUQnn0Rl0qAVyH1I+mlu3kTgocKw2cpfe119Wb1lTarxnzBQTqYtsfjSo8r3XQ0NbkkTvUnYlxai/i1flLB6gWh3oHKTbEx8vdETgBsQIpIAdfsYZ2slE44+V8ar3m65eLhyzcvkcOcr+DTr03tMJhYvlA/Clz0G8X5O1uIIuXU2YvxLavYhnUXDWsAagK/FqwFZQKscJ73yGxcQYG1TRxC1hQr7X/IQ89S4L59BIgeOd4m/q+bA+hDaI1Ati9yiuS2+T73MUuPlVtHhlKvRU2A9FYlfuPw7ZOosHXE0YcShvaxjDNt08sNjOR9DWiw5xI5RjsTYTbaXXQupzSOpjHWieql1UpgcBSRAgQp+9zOxwmKUorgMxjlPjXqx0vYSIEqQq35CEMzjSZ/JSwvCWwSbz5SGRCVz5NGRMJ38KmFGfwq6A==;v96pPKX4mpC8QvqqCH5Cgg=="
 ---
 

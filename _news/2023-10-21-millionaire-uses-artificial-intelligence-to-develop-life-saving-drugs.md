@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
 quality: 104
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Achieving Data Diversity Through AI in Drug Development"
+    excerpt: "AI and machine learning could transform drug discovery, but first, practitioners must overcome ethical challenges en route to medicines for all."
+    publishedDateTime: 2023-10-23T04:03:00Z
+    webUrl: "https://www.biospace.com/article/achieving-data-diversity-through-ai-in-drug-development/"
+    type: article
+    provider:
+      name: BioSpace
+      domain: biospace.com
+    quality: 39
+    images:
+      - url: "https://www.biospace.com/getasset/60893fe7-d5d2-4941-886d-bcfb553cd38d/;w=625;h=350"
+        width: 625
+        height: 350
         isCached: true
 
 secured: "/TT3cjGlu/RAgyW3lNtWoMdUdQEXY7aGvGKLvn7FFDmwkuT/rl1wGb4ERLiyv+8bXOpDPIIr4I3ZcUC4b265A+nKqTXcbjnJsU7BjOOR6hsq5UsE9wFhrS8jwsSl3QPhgHn2eMqgFVkb/EhRMFAABfaMqIrMSQam5vKoXMMaLLbEkugfeOj/ibyEBWn2I8pDvwvbpqAbgRyCKdX90SIR+lp2NGV0yajqm7Tt69CZbXcozauvpwakycqohQpj+Ik73OxxRoosuA5ctV+EiJF4TNmuAjPDtPeNdlE1dcvsm29H1R4G+2Nwz1xTzkXnluVGIs0XSWMkf5EsdbeSXH5dxMCZrXpqllh7SxIasRNu91+Z7fANopzKwXJx1dJULMOsHqfVSb3S8pFDG3YwDDvXiKlyx9PxeBV7zagojwPMFeJDkyTQK3WMRBdndCyyJnfNl5OaTjXPr6UdPF2idDuYeWmRvVMYTrfq3dZCkfAQit7jUfMidEN1db0vwaHTybKWIX+2GzXavq+/4HSoEITEtw==;lqEPQFLbYGHBVYfEG8IjFg=="

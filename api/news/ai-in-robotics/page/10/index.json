@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-08-09-unmasking-the-social-impact-of-robotics-implications-for-society-and-humanity.md",
+      "title": "Unmasking the Social Impact of Robotics: Implications for Society and Humanity",
+      "excerpt": "Robots have always fascinated us, sparking visions of futuristic worlds where they effortlessly interact with humans and revolutionize industries. As robotics advances, it’s time to uncover their social impact.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/unmasking-the-social-impact-of-robotics-implications-for-society-and-humanity/",
+      "originalUrl": "https://techbullion.com/unmasking-the-social-impact-of-robotics-implications-for-society-and-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/08/Untitled-design-2023-08-09T141030.513.png",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-09T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-09-including-ai-ml-coding-robotics-in-school-curriculum-is-imperative-now-says-cisce-head-gerry-arathoon.md",
       "title": "Including AI, ML, Coding & Robotics in school curriculum is imperative now, says CISCE head Gerry Arathoon",
       "excerpt": "The inclusion of AI and robotics in education is imperative for preparing students for future job opportunities and fostering holistic development.",
@@ -1243,58 +1286,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-02-inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters.md",
-      "title": "Inworld AI raises new round at $500M valuation for AI game characters",
-      "excerpt": "Hollywood’s portrayals of AI-controlled Terminator robots once seemed like pure science fiction ... You take engines and you start replicating, taking humans that are working on a factory line, and you replicate them with conveyor belts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
-      "originalUrl": "https://venturebeat.com/games/inworld-ai-raises-new-round-at-500m-valuation-for-ai-game-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/08/inworld.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

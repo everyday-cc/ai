@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-08-29-exploring-the-ethical-implications-of-ai-for-lead-generation.md",
+      "title": "Exploring The Ethical Implications Of AI For Lead Generation",
+      "excerpt": "Adopting responsible AI practices can help businesses benefit from AI-driven lead generation while minimizing risks and keeping marketing efforts human-centric.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/",
+      "publishedDateTime": "2023-08-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-08-28-this-is-how-ai-will-shape-early-career-tech-jobs.md",
       "title": "This is how AI will shape early-career tech jobs",
       "excerpt": "According to the World Economic Forum (WEF), 50% of all employees will need reskilling by 2025 as the adoption of technology increases.",
@@ -1390,49 +1442,6 @@
         "AI",
         "AI in Marketing",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts.md",
-      "title": "Ethical boundaries for usage of generative AI is key to brand success: Experts",
-      "excerpt": "Experts from Google, Marico, Nasscom AI, Khaitan and Co. and ASCI highlighted that while the usage of AI in marketing is not new, one should be mindful of what goes out in the public and that it is no",
-      "sourceUrl": null,
-      "webUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "originalUrl": "https://bestmediainfo.com/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestmediainfo.com/uploads/2023/08/1691642505.asci-webinar.jpg",
-          "width": 620,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "cdnAmpWebUrl": "https://bestmediainfo-com.cdn.ampproject.org/c/s/bestmediainfo.com/amp/2023/08/ethical-boundaries-for-usage-of-generative-ai-is-key-to-brand-success-experts",
-      "publishedDateTime": "2023-08-09T21:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Best Media",
-        "domain": "bestmediainfo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

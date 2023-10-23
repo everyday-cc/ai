@@ -7,7 +7,7 @@ originalUrl: "https://www.musicconnection.com/umg-and-bandlab-form-strategic-rel
 webUrl: "https://www.musicconnection.com/umg-and-bandlab-form-strategic-relationship-on-artificial-intelligence-ai/"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 600
     height: 315
     isCached: true
-
-related:
-  - title: "BandLab Technologies and UMG Strike ‘Strategic’ AI Partnership"
-    excerpt: "This collaboration is designed to be a beacon of innovation and ethical practice in the industry,” reads a statement."
-    publishedDateTime: 2023-10-18T13:01:00Z
-    webUrl: "https://www.billboard.com/pro/bandlab-technologies-universal-music-ai-partnership/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 17
 
 secured: "hOJpbPFM1ZH+v6nmt/TeDYlUaFS+RMchPuhXFjEzVp/kn01dWPwS2e1Fz0BvcSmyOZCAWxrF48UoYNPbSEC6N2oJ15Da9m63h84aKdsJWaIPWUrj2baYQde2XLf8PKJwuvd9gim8vnagkErPYvdIUSInVBfxEgF+WlJavQ/g0/G0AuwVCP+wkW9PGinBdGAghUfHzxlYINzpYb7WlNTS2yK5vmXZONkXvlwNx97BNhvtJ0Sazi6re+b9XDwhVHhEuDSXbKhhzWeoxkXUT8n6w8YiYBGtAzgOQNAoPBHrBINgp9jENzgsE0fRNQaskAtrnipeYjaLQci6Vv9CUJMe1wXFm/cjP7AyMlYfMP4dBQI=;8Dzf6HaFrUo6qemceu3WPw=="
 ---

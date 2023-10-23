@@ -2,6 +2,92 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2023-08-23-unleash-the-full-potential-of-ai-and-robotics-with-automa-health-2023.md",
+      "title": "Unleash the full potential of AI and robotics with Automa+ Health 2023",
+      "excerpt": "Machines are getting smarter every day, and companies across the world are discovering new ways in which they can use AI to significantly enhance engagement and customer experience. That is why decision-makers from pharmaceutical companies,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/unleash-full-potential-ai-robotics-automa-health-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/28594/rect-01-automa-rect.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-23-gartner-forecasts-ai-chip-revenue-to-top-53b.md",
+      "title": "Gartner forecasts AI chip revenue to top $53B",
+      "excerpt": "Gartner predicted revenue from AI-equipped chips to top $119 billion by 2027, fuelled by demand for generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/gartner-forecasts-ai-chip-revenue-to-top-53b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.mobileworldlive.com/wp-content/uploads/2020/03/16120403/money-dollars-shutterstock-650.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-23T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-23-the-evolving-role-of-cios-and-ctos-in-the-ai-economy.md",
       "title": "The Evolving Role Of CIOs And CTOs In The AI Economy",
       "excerpt": "By guiding the C-suite on AI's business risks and opportunities and leading responsible AI adoption, CIOs and CTOs can benefit from generative AI in the coming decade.",
@@ -1058,110 +1144,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-23-ibm-sells-the-weather-company-assets-to-francisco-partners.md",
-      "title": "IBM sells The Weather Company assets to Francisco Partners",
-      "excerpt": "IBM has agreed to sell The Weather Company assets to Francisco Partners, the private equity firm, for an undisclosed amount.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
-      "originalUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1055028402.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/08/22/ibm-sells-the-weather-company-assets-to-francisco-partners/amp/",
-      "publishedDateTime": "2023-08-22T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-22-announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler.md",
-      "title": "Announcing Amazon S3 access point support for Amazon SageMaker Data Wrangler",
-      "excerpt": "In this post, we walk you through importing data from, and exporting data to, an S3 access point in SageMaker Data Wrangler.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-s3-access-point-support-for-amazon-sagemaker-data-wrangler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/21/featured-images-ML-14476-1120x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-22T13:33:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

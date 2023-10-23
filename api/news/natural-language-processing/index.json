@@ -106,51 +106,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-20-alluxio-enterprise-ai-simplifies-and-enhances-ai-and-ml-workload-enablement.md",
-      "title": "Alluxio Enterprise AI Simplifies and Enhances AI and ML Workload Enablement",
-      "excerpt": "Alluxio, the data platform company for data-driven workloads, is unveiling Alluxio Enterprise AI, a high-performance data platform designed to unify performance, data accessibility, scalability, and cost efficiency in powering AI and machine learning (ML) workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Enterprise-AI-Simplifies-and-Enhances-AI-and-ML-Workload-Enablement-161070.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Enterprise-AI-Simplifies-and-Enhances-AI-and-ML-Workload-Enablement-161070.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-19T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-10-19-responsible-ai-the-art-of-balancing-power-with-responsibility.md",
       "title": "Responsible AI: The Art Of Balancing Power With Responsibility",
       "excerpt": "AI’s unprecedented reach and speed have also sparked debates about potential misuse. What's the way forward?",
@@ -1469,6 +1424,49 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-10-06-researchers-develop-ai-solutions-for-inclusion-of-arabic-and-its-dialects-in-natural-language-processing.md",
+      "title": "Researchers develop AI solutions for inclusion of Arabic and its dialects in Natural Language Processing",
+      "excerpt": "A group of researchers and engineers from the University of Sharjah have developed a deep learning system to utilize the Arabic language and its varieties in applications related to Natural Language Processing (NLP),",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
+      "originalUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/arabic-text.jpg",
+          "width": 2880,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-ai-solutions-inclusion-arabic-dialects.amp",
+      "publishedDateTime": "2023-10-05T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

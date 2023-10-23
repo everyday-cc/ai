@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-09-25-funding-wrap-tens-of-millions-raised-for-cybersecurity-ai-robots-in-hospitals.md",
+      "title": "Funding wrap: Tens of millions raised for cybersecurity AI, robots in hospitals",
+      "excerpt": "Check out who has fresh cash in Austin — these kinds of deals often precede hiring and other kinds of expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/austin/news/2023/09/25/funding-wrap-hiddenlayer-diligen-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-25T05:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-25-pudu-robotics-debuts-at-cms-berlin-showcasing-latest-autonomous-cleaning-solution.md",
       "title": "Pudu Robotics Debuts at CMS Berlin, Showcasing Latest Autonomous Cleaning Solution",
       "excerpt": "CMS Berlin brings together professionals from all sectors of the cleaning and hygiene industry, providing a platform for extensive discussions on various aspects of the industry. During the exhibition, PUDU showcased the new black model of PUDU CC1 and its latest autonomous cleaning solution.",
@@ -1284,49 +1318,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-15T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-15-artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-development.md",
-      "title": "Artificial Intelligence Robotics Market [2023-2030] | Latest Report Reveals Worldwide Industry Growth & Development",
-      "excerpt": "Global Artificial Intelligence Robotics Market (2023-2030) research report provides precise information related to business development, advanced growth plans, and trends predictions. It discusses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34612071/artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-d",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34612071/artificial-intelligence-robotics-market-2023-2030-latest-report-reveals-worldwide-industry-growth-d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34612071",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34612071",
-      "publishedDateTime": "2023-09-15T08:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",

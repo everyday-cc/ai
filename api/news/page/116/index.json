@@ -2,6 +2,82 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2023-08-01-how-you-can-future-proof-your-career-in-the-era-of-ai.md",
+      "title": "How you can future-proof your career in the era of AI",
+      "excerpt": "Ever since the industrial revolution, people have feared that technology would take away their jobs. While some jobs and tasks have indeed been replaced by machines, others have emerged. The success of ChatGPT and other generative artificial intelligence (AI) now has many people wondering about the future of work—and whether their jobs are safe.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-07-future-proof-career-era-ai.html",
+      "originalUrl": "https://phys.org/news/2023-07-future-proof-career-era-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-you-can-future-pro.jpg",
+          "width": 1280,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2023-07-future-proof-career-era-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-07-future-proof-career-era-ai.amp",
+      "publishedDateTime": "2023-07-31T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-01-sumitomo-corporation-selects-aws-to-drive-its-digital-transformation.md",
+      "title": "Sumitomo Corporation Selects AWS to Drive Its Digital Transformation",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced that Sumitomo Corporation, a leading trading and investme",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20230731812816/en/Sumitomo-Corporation-Selects-AWS-to-Drive-Its-Digital-Transformation/",
+      "originalUrl": "https://www.businesswire.com/news/home/20230731812816/en/Sumitomo-Corporation-Selects-AWS-to-Drive-Its-Digital-Transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-31T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-31-ebay-turns-to-ai-on-its-attempt-of-tech-led-business-reimagination.md",
       "title": "eBay Turns To AI On Its Attempt Of Tech-Led Business Reimagination",
       "excerpt": "Despite its earnings beat, eBay Inc (NASDAQ: EBAY) shares tanked 10.5% upon the release of second quarter results last week while its main competitor and e-commerce giant, Amazon.com Inc (NASDAQ: AMZN",
@@ -1109,102 +1185,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-how-is-machine-learning-different-from-deep-learning.md",
-      "title": "How is machine learning different from deep learning?",
-      "excerpt": "The confusion between machine learning and deep learning is an obvious one. Oftentimes, many people use the two interchangeably. However, these are",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2023/July/3172023/AnalyticsVidhya-1_11zon.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "cdnAmpWebUrl": "https://www-jagranjosh-com.cdn.ampproject.org/c/s/www.jagranjosh.com/general-knowledge/amp/how-is-machine-learning-different-from-artificial-learning-1690741548-1",
-      "publishedDateTime": "2023-07-30T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jagranjosh.com",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-31-the-first-self-driving-car-fatality-case-put-to-rest-who-was-responsible-for-killing-a-pedestrian-in-this-case-it-was-not-the-robot.md",
-      "title": "The first self-driving car fatality case put to rest who was responsible for killing a pedestrian. In this case, it was not the robot.",
-      "excerpt": "Rafaela Vasquez, who was behind the wheel of a self-driving Uber that killed a pedestrian in 2018, pleaded guilty to endangerment on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
-      "originalUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64c6e413048ff200190dc4ee?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-lawsuit-rafaela-vasquez-responsible-self-driving-car-kill-pedestrian-2023-7?amp",
-      "publishedDateTime": "2023-07-30T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

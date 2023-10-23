@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-09-18-2030-data-and-ai-ethics-market-size-industry-report-2023.md",
+      "title": "2030, Data and AI Ethics Market Size | Industry Report 2023",
+      "excerpt": "The \"Data and AI Ethics Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector. The Data and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/34687889",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34687889",
+      "publishedDateTime": "2023-09-18T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-16-answering-ais-biggest-questions-requires-an-interdisciplinary-approach.md",
       "title": "Answering AI’s biggest questions requires an interdisciplinary approach",
       "excerpt": "building a holistic lineup is a good place to start. We have to build a more responsible future where companies are trusted stewards of people’s data and where AI-driven innovation is synonymous with good. In the past, legal teams carried the water on ...",
@@ -1397,58 +1440,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-29-exploring-the-ethical-implications-of-ai-for-lead-generation.md",
-      "title": "Exploring The Ethical Implications Of AI For Lead Generation",
-      "excerpt": "Adopting responsible AI practices can help businesses benefit from AI-driven lead generation while minimizing risks and keeping marketing efforts human-centric.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6438211dffe260fd7c13615b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/29/exploring-the-ethical-implications-of-ai-for-lead-generation/amp/",
-      "publishedDateTime": "2023-08-29T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

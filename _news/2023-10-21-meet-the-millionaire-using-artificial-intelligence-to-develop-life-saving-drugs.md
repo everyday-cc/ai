@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Achieving Data Diversity Through AI in Drug Development"
+    excerpt: "AI and machine learning could transform drug discovery, but first, practitioners must overcome ethical challenges en route to medicines for all."
+    publishedDateTime: 2023-10-23T04:03:00Z
+    webUrl: "https://www.biospace.com/article/achieving-data-diversity-through-ai-in-drug-development/"
+    type: article
+    provider:
+      name: BioSpace
+      domain: biospace.com
+    quality: 39
+    images:
+      - url: "https://www.biospace.com/getasset/60893fe7-d5d2-4941-886d-bcfb553cd38d/;w=625;h=350"
+        width: 625
+        height: 350
+        isCached: true
 
 secured: "RM65WaWS9ZlX5xmgNin4lhmo1JoE8xt61CqWzWxZYqApTkyEbLdiqAovi3ABmR1sUnO1SAyMCTlptOSg4n8VWT835FShYLI9NmC2Ed58oQQSO/Z2k7wC6YfMQQ3GkT4y8ELNneuS1ftEosWu+liRkj+wviOrCbnvbepnh9Rl3MA2ntQ0a9S/QYlTcXKa0EVIXetkror0o7BCSuH8A0z9Xqw7foEI4AaspE5u34rmEOhl/zHmZmtJA4fkey6NrSSdrKouaaBFyZXFpdZZefoH5AuK7UaCLlFz3k2jSbLPpzxSyY7aWnGMD+CI7BbklN4rdCVnwPXXkJCDTQoIpbbi22r2F1LKJqLlKEAt1/qHB8IgdEUpvEh1O1BV2baYPuuwkb+2888HHWvA/kigA1Y+Iq6yL5lsyIiENw3MuauItcIjtnFmXVfm9IGOnleNoYQMXPR0lRrTQyA9igtSZKoVUdbgmiOVV70pULPcJfJ+yREH4v+saUcxuOGBC6Htg3Tn3JTUvvTKkfy/ARkELH8FzQ==;xh/FoUbX2z3ibTk2zq/TMw=="
 ---

@@ -30,16 +30,16 @@ images:
 
 related:
   - title: "Artificial intelligence impacts on workplaces in New York"
-    excerpt: "At a public hearing New York State lawmakers listen to testimony about the benefits and concerns of artificial intelligence or ai in the workplace including impacts on hiring, surveying work"
-    publishedDateTime: 2023-10-19T21:39:00Z
-    webUrl: "https://www.erienewsnow.com/story/49864255/artificial-intelligence-impacts-on-workplaces-in-new-york"
+    excerpt: "At a public hearing Thursday, New York State lawmakers listen to testimony about the benefits and concerns of artificial intelligence or ai in the workplace including impacts on hiring, surveying work"
+    publishedDateTime: 2023-10-19T22:26:00Z
+    webUrl: "https://www.weny.com/story/49864254/artificial-intelligence-impacts-on-workplaces-in-new-york"
     type: article
     provider:
-      name: Erie News Now
-      domain: erienewsnow.com
+      name: WENY News
+      domain: weny.com
     quality: 39
     images:
-      - url: "https://WICU.images.worldnow.com/images/25318857_G.jpg?lastEditedDate=1697737105000"
+      - url: "https://WENY.images.worldnow.com/images/25318843_G.jpg"
         width: 1080
         height: 810
         isCached: true

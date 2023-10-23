@@ -77,15 +77,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "IBM Consulting to help companies get started with generative AI on AWS cloud"
-    excerpt: "French telecommunications services provider Bouygues Telecom SA said it has been one of the earliest beneficiaries of IBM’s expanded partnership with AWS. It engaged with IBM Consulting to design and implement an evolving cloud strategy that leverages the most advanced AI technologies."
-    publishedDateTime: 2023-10-18T11:59:00Z
-    webUrl: "https://siliconangle.com/2023/10/18/ibm-consulting-help-companies-get-started-generative-ai-aws-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
     publishedDateTime: 2023-10-21T18:42:00Z

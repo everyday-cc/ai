@@ -2,6 +2,109 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-08-03-eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence.md",
+      "title": "Eight MarTech Services To Prepare Your Company For Competition In The Age Of Artificial Intelligence",
+      "excerpt": "To be truly effective, MarTech must create memorable customer experiences that drive engagement and loyalty. MarTech experts can work closely with your in-house or agency experience designers to help, with assistance from AI, define your user personas, understand their needs and preferences and then deliver experiences of value—and even delight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64ca9c18a28ed4c8c9a5d57e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/03/eight-martech-services-to-prepare-your-company-for-competition-in-the-age-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-08-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-03-the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models.md",
+      "title": "The Secret Sauce Of AI Companies: The Importance Of Human-Annotated Data In High-Performing Machine Learning Models",
+      "excerpt": "A critical component in the data annotation process is quality assurance. Despite the advances in machine learning and AI, the human touch in reviewing and verifying data remains paramount. The complex nuances, context understanding and creative interpretations that human intelligence brings to the table can't be entirely replicated by machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/612cd9b4f42bed4cf122c801/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/03/the-secret-sauce-of-ai-companies-the-importance-of-human-annotated-data-in-high-performing-machine-learning-models/amp/",
+      "publishedDateTime": "2023-08-03T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-08-03-ai-chip-maker-tenstorrent-raises-100-million-from-hyundai-and-samsung.md",
       "title": "AI chip maker Tenstorrent raises $100 million from Hyundai and Samsung",
       "excerpt": "Tenstorrent closes $100M up-round led by Hyundai Motor Group and Samsung Catalyst Fund to accelerate AI chip and ML software development. Funding will help the company design and develop AI chiplets and strengthen Hyundai Motor Group's capabilities in AI tech.",
@@ -989,91 +1092,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-study-shows-ai-could-help-detect-more-cancers-from-mammograms.md",
-      "title": "Study shows AI could help detect more cancers from mammograms",
-      "excerpt": "Previous studies have looked at using AI to diagnose breast cancer in mammograms, but they were retrospective, meaning the screenings had already been examined by radiologists. The study’s co-author said it’s too early to start implementing AI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/",
-      "originalUrl": "https://thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2019/10/ca_mammograms_102919getty.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/healthcare/4134372-study-shows-ai-could-help-detect-more-cancers-from-mammograms/amp/",
-      "publishedDateTime": "2023-08-02T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-amd-mulls-making-ai-chip-for-china.md",
-      "title": "AMD mulls making AI chip for China",
-      "excerpt": "AMD has an opportunity to build AI solutions for customers in China and is working in that direction, company president and CEO Lisa Su said in a company earnings call on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china",
-      "originalUrl": "https://www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0000.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/fox-news-tech/amd-mulls-making-ai-chip-china.amp",
-      "publishedDateTime": "2023-08-02T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

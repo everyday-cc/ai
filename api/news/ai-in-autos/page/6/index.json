@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-09-03-tesla-drops-the-price-of-its-full-self-driving-beta-software.md",
+      "title": "Tesla Drops the Price of Its Full Self-Driving Beta Software",
+      "excerpt": "Tesla has dropped the price of its full self-driving beta software. Now instead of $15,000, Tesla owners who want the vehicle’s advanced driver assistance system (ADAS) will pay $12,000, TechCrunch reports. Tesla previously charged $12,000 for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-drop/tesla-drops-the-price-of-its-full-self-driving-beta-software_8gh1.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-03T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-03-this-startup-wants-to-use-ai-to-improve-your-morning-commute.md",
       "title": "This Startup Wants to Use AI to Improve Your Morning Commute",
       "excerpt": "Single-occupancy self-driving cars? \"I don't think it's going to be better for society overall,\" says Oxa's chief technology officer.",
@@ -1281,51 +1333,6 @@
       "sourceUrl": null,
       "webUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
       "originalUrl": "https://drexel.edu/cci/academics/certificate-programs/graduate-certificate-in-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://drexel.edu/~/media/Images/now/ui/og-drexel-logo.ashx",
-          "width": 315,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drexel University",
-        "domain": "drexel.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-08-27-masters-ms-in-machine-learning-and-artificial-intelligence.md",
-      "title": "Master’s (MS) in Machine Learning and Artificial Intelligence",
-      "excerpt": "Who is the Master's in Artificial Intelligence and Machine Learning program for? Drexel’s College of Computing & Informatics' Master of Science in Artificial Intelligence and Machine Learning (MSAIML) is designed for students who hold a four-year ...",
-      "sourceUrl": null,
-      "webUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://drexel.edu/cci/academics/masters-programs/ms-in-artificial-intelligence-machine-learning/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

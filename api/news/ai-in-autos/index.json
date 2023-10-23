@@ -62,7 +62,7 @@
       "originalUrl": "https://dunyanews.tv/en/Technology/763900-Honda,-GM,-Cruise-plan-to-begin-Japan-driverless-ride-service-in-early-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -94,6 +94,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-19-ethics-of-artificial-intelligence-ai-in-brazil.md",
+      "title": "Ethics of Artificial Intelligence (AI) in Brazil",
+      "excerpt": "In November 2021, UNESCO’s General Conference adopted the Recommendation on the Ethics of Artificial Intelligence, the first global standard-setting instrument on AI. In 2022, UNESCO Brasilia published this Recommendation in Portuguese to discuss and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "originalUrl": "https://www.unesco.org/en/fieldoffice/brasilia/expertise/artificial-intelligence-brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/banner_mobile/public/2022-11/brz_brasilia_Itamarati_palace_UNESCO-EdsonFogaca.jpg?h=3d3477a3&itok=vyJlWReC",
+          "width": 400,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1334,49 +1378,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-10-08-important-warning-about-artificial-intelligence-stocks.md",
-      "title": "Important Warning About Artificial Intelligence Stocks",
-      "excerpt": "Artificial intelligence stocks are surging. Some investors have made little fortunes already. But we are staying away from them, and here is why. High Yield Investor members get exclusive access ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4639388-important-warning-artificial-intelligence-stocks",
-      "originalUrl": "https://seekingalpha.com/article/4639388-important-warning-artificial-intelligence-stocks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1286232657/image_1286232657.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-08T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

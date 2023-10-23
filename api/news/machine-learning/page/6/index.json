@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-08-24-autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning.md",
-      "title": "Autism Therapy: Cannformatics Targets Metabolic Imbalances Using Machine Learning",
-      "excerpt": "Cannformatics, an early-stage biotechnology company, has unveiled a groundbreaking advancement in the field of medical cannabis treatment for Autism Spectrum Disorder (ASD).",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/general/biotech/23/08/34014714/autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning",
-      "originalUrl": "https://www.benzinga.com/general/biotech/23/08/34014714/autism-therapy-cannformatics-targets-metabolic-imbalances-using-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/08/23/artificial-intelligence-7328583_1920.jpg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34014714",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34014714",
-      "publishedDateTime": "2023-08-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2023-08-24-the-ai-financial-crisis-theory-demystified-how-to-create-resilient-global-ecosystems.md",
       "title": "The AI Financial Crisis Theory Demystified: How To Create Resilient Global Ecosystems",
       "excerpt": "Once upon a time, the fictional idea of robots and humanoids propelling global crises would have been a far reaching fascination among science fiction aficionados.",
@@ -1338,6 +1294,49 @@
       "provider": {
         "name": "Indiatimes",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-artificial-neural-networks-market-growth-report-2023-2030-121-pages-report.md",
+      "title": "Artificial Neural Networks Market Growth Report 2023-2030 | 121 Pages Report",
+      "excerpt": "The Global Artificial Neural Networks market is anticipated to rise at a considerable rate during the forecast period, between 2023 and 2030. In 2022, the market is growing at a steady rate and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33774465/artificial-neural-networks-market-growth-report-2023-2030-121-pages-report",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33774465/artificial-neural-networks-market-growth-report-2023-2030-121-pages-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/33774465",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33774465",
+      "publishedDateTime": "2023-08-11T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

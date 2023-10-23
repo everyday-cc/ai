@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-07-global-ai-ethics-framework-needed-to-enshrine-rules-of-a-good-corporate-citizen.md",
+      "title": "Global AI ethics framework needed to enshrine rules of a ‘good corporate citizen’",
+      "excerpt": "It followed hot on the heels of another regulation leader, the European Union, which was the first to roll out laws on ethics in AI, including the proper use of data, the removal of biases ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/week-asia/opinion/article/3236127/global-ai-ethics-framework-needed-enshrine-rules-good-corporate-citizen",
+      "originalUrl": "https://www.scmp.com/week-asia/opinion/article/3236127/global-ai-ethics-framework-needed-enshrine-rules-good-corporate-citizen",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/canvas/2023/09/28/0659beb2-74c3-4f27-bd75-7fb07fefbfe6_dbf05a85.jpg?itok=gngSnv3l&v=1695891447",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-06T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-06-ai-firms-working-on-constitutions-to-keep-ai-from-spewing-toxic-content.md",
       "title": "AI firms working on “constitutions” to keep AI from spewing toxic content",
       "excerpt": "Anthropic has published its own AI constitution, rules compiled by company leadership that draw from DeepMind’s published principles, as well as external sources like the UN Declaration of Human Rights, Apple’s terms of service, and so-called “non-Western perspectives.”",
@@ -1409,49 +1461,6 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-09-18-2030-data-and-ai-ethics-market-size-industry-report-2023.md",
-      "title": "2030, Data and AI Ethics Market Size | Industry Report 2023",
-      "excerpt": "The \"Data and AI Ethics Market\" is one of the sectors that is expanding the fastest, thus it is crucial for players in the market to first do an exhaustive analysis of the sector. The Data and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/09/34687889/2030-data-and-ai-ethics-market-size-industry-report-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/34687889",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/34687889",
-      "publishedDateTime": "2023-09-18T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

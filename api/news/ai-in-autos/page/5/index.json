@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-09-13-the-new-world-of-transportation-understanding-level-5-automation.md",
+      "title": "The New World of Transportation: Understanding Level 5 Automation",
+      "excerpt": "The road ahead is exciting as the automotive world races towards a new era of electric and self-driving vehicles. Leading car manufacturers worldwide are competing to keep pace with this transformation,",
+      "sourceUrl": null,
+      "webUrl": "https://english.mathrubhumi.com/features/specials/the-new-world-of-transportation-understanding-level-5-automation-1.8900253",
+      "originalUrl": "https://english.mathrubhumi.com/features/specials/the-new-world-of-transportation-understanding-level-5-automation-1.8900253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-13T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "english.mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-13-the-global-race-to-set-the-rules-for-ai.md",
       "title": "The global race to set the rules for AI",
       "excerpt": "The industry and policymakers agree that the emerging technology needs regulating. But no one is quite sure how",
@@ -1300,58 +1334,6 @@
         "name": "NBC Bay Area",
         "domain": "nbcbayarea.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-03-tesla-drops-the-price-of-its-full-self-driving-beta-software.md",
-      "title": "Tesla Drops the Price of Its Full Self-Driving Beta Software",
-      "excerpt": "Tesla has dropped the price of its full self-driving beta software. Now instead of $15,000, Tesla owners who want the vehicle’s advanced driver assistance system (ADAS) will pay $12,000, TechCrunch reports. Tesla previously charged $12,000 for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/148492/tesla-drops-the-price-of-its-full-self-driving-beta-software",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/t/tesla-drop/tesla-drops-the-price-of-its-full-self-driving-beta-software_8gh1.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-03T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

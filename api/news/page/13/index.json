@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2023-10-12-pixel-8-pro-review-when-ai-just-works-everyone-wins.md",
+      "title": "Pixel 8 Pro Review: When AI Just Works, Everyone Wins",
+      "excerpt": "The software value comes from the aforementioned AI apps. Some are picking up significant updates from the 7 Pro to the 8 Pro, others are debuting with the Pixel 8 Pro, and others will be “available later” (in other words, they’re not ready yet so you all have to wait).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6526db9ba8afc579c64e54c8/0x0.jpg?format=jpg&crop=896,504,x43,y33,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2023/10/11/google-pixel-8-pro-android-14-review-ai-specs-upgrade/amp/",
+      "publishedDateTime": "2023-10-11T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-12-alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit.md",
+      "title": "Alphabet's AI lab, DeepMind, cut employee costs by nearly 40% in 2022, alongside a drop in profit",
+      "excerpt": "Alphabet's AI lab, DeepMind, cut employee costs by 39% last year, alongside a drop in profit of more than 40% for the same period, according to a recent filing with a UK government agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/",
+      "originalUrl": "https://www.nbcconnecticut.com/news/national-international/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcconnecticut.com/2023/10/105099255-DeepMind_Hassabis_WechatIMG253.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcconnecticut.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcconnecticut-com.cdn.ampproject.org/c/s/www.nbcconnecticut.com/news/business/money-report/alphabets-ai-lab-deepmind-cut-employee-costs-by-nearly-40-in-2022-alongside-a-drop-in-profit/3121745/?amp=1",
+      "publishedDateTime": "2023-10-11T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Connecticut",
+        "domain": "nbcconnecticut.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-12-ai-bias-poses-danger-to-the-financial-sector-bank-of-england-warns.md",
       "title": "AI bias poses danger to the financial sector, Bank of England warns",
       "excerpt": "A new report from a financial technology expert at the Bank of England says that inherent biases in AI systems makes it dangerous to entrust them with too much decision-making at present.",
@@ -1118,109 +1213,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-edge-ai-the-ai-no-one-is-talking-about.md",
-      "title": "Edge AI: The AI No One Is Talking About",
-      "excerpt": "Edge AI isn’t a type of algorithm in and of itself, but it's about where AI happens, regardless of the algorithm in question.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65256cb2042d759820a046dc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/11/edge-ai-the-ai-no-one-is-talking-about/amp/",
-      "publishedDateTime": "2023-10-11T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-11-charlie-munger-thinks-that-artificial-intelligence-ai-is-overhyped-is-he-right.md",
-      "title": "Charlie Munger Thinks That Artificial Intelligence (AI) Is Overhyped. Is He Right?",
-      "excerpt": "Last week, Munger spoke at Zoom Video Communications ' Zoomtopia conference in San Jose, California. He stated at the conference that he thinks artificial intelligence (AI) is overhyped. Is Munger right?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/10/11/charlie-munger-artificial-intelligence-ai-overhype/",
-      "originalUrl": "https://www.fool.com/investing/2023/10/11/charlie-munger-artificial-intelligence-ai-overhype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/750359/ai-robot-business-people.jpg",
-          "width": 2119,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-11T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
