@@ -46,17 +46,6 @@ related:
         width: 1199
         height: 630
         isCached: true
-  - title: "Fugees rapper says lawyer’s use of AI helped tank his case, pushes for new trial"
-    excerpt: "“We think AI technology is gong to completely revolutionize the legal field by making it faster and cheaper to get complex answers to legal questions and research,” Katz said. He denied an allegation from Michel’s new lawyers that Kenner appeared to ..."
-    publishedDateTime: 2023-10-18T19:29:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 34
   - title: "Fugees rapper claims lawyer's use of AI wrecked his case, requests new trial"
     excerpt: "Fugees rapper Pras, convicted of conspiracy in April, has filed a motion for a new trial and claims his former lawyer's use of AI wrecked his case."
     publishedDateTime: 2023-10-19T14:26:00Z

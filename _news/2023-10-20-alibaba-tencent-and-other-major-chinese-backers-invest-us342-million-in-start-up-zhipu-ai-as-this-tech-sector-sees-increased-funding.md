@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
+    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
+    publishedDateTime: 2023-10-20T17:03:00Z
+    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
   - title: "Cambricon and Huawei forge divergent paths in AI chip development amid prolonged US blacklisting"
     excerpt: "The recent update to the US government's chip ban has raised concerns about its potential impact on Chinese chipmakers, particularly in the realm of high-performance computing (HPC) chips, including GPUs and AI chips."
     publishedDateTime: 2023-10-20T02:30:00Z
@@ -117,15 +126,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 37
-  - title: "U.S. tightens curbs on AI chip exports to China"
-    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
-    publishedDateTime: 2023-10-18T21:43:00Z
-    webUrl: "https://japantoday.com/category/tech/us-tightens-curbs-on-ai-chip-exports-to-china"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
 
 secured: "A+wx9NuUn2kPu8iOxoyVAxzeDTv3bWmU/4+QFbz5FqkE9Ks6oqDtBz2nFnDOg0lDCtpTXHrXFxGa4c2JVhD20uMCH/NbKBI0HpajHEhubkKpRwq0hUY2fD7l/OgkKDdL8ARlPkwtHM5zclyGEKZLYpu16hr3AROgRdar04gPP4d8gpgb0oJrluggHTgyesIf/xQC8KkI/yYyHX3PCJQ7DywaMztgT+hNIguR9/OWX1dTyEE/9vy4RQ0eRNdbJDXT2ErsayYFL1Rg1uAMXzXKTlHFhCKa9DomsICOZDLWd9q5oHxSI2OChg/7zbTJfyiMhM8Yepe1RTRjUSIjoK2GybktmL2ctReSmHEi/9MRVgo=;6dCT4tlXpuSTsueBBohZRg=="
 ---

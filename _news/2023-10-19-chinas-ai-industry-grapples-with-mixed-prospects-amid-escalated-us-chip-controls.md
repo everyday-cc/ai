@@ -27,17 +27,17 @@ images:
 related:
   - title: "Did A Computer Write This? Book Industry Grapples With AI"
     excerpt: "From low-quality computer-written books flooding the market to potential copyright violations, publishing is the latest industry to feel the threat from rapid developments in artificial intelligence."
-    publishedDateTime: 2023-10-23T02:28:00Z
-    webUrl: "https://www.barrons.com/news/did-a-computer-write-this-book-industry-grapples-with-ai-8abef12b"
-    ampWebUrl: "https://www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-8abef12b"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-8abef12b"
+    publishedDateTime: 2023-10-23T06:28:00Z
+    webUrl: "https://www.barrons.com/news/did-a-computer-write-this-book-industry-grapples-with-ai-b5ea4a60"
+    ampWebUrl: "https://www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-b5ea4a60"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-b5ea4a60"
     type: article
     provider:
       name: Barron's
       domain: barrons.com
     quality: 59
     images:
-      - url: "https://www.barrons.com/asset/external-media/afp/AFP1138977436208894960412747013813698983923---1.jpg"
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP5244271803205128873997331063382330334214---1.jpg"
         width: 768
         height: 512
         isCached: true

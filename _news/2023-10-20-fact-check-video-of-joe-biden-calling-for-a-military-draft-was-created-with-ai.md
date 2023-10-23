@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/fact-check/video-joe-biden-calling-militar
 webUrl: "https://www.reuters.com/fact-check/video-joe-biden-calling-military-draft-was-created-with-ai-2023-10-19/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "FACT CHECK: Biden’s Speech to LGBTQ Group Was Fraught With Falsehoods, Fables"
-    excerpt: "But out of all of Biden’s confusing moments, this one takes the cake: Biden delivered a message to LGBTQ-identifying youth across America, “We see who you are, made in the image of God, deserving dignity, respect, and support. That’s why my administration is combating the dangerous, cruel practice of conversion therapy.”"
-    publishedDateTime: 2023-10-18T22:38:00Z
-    webUrl: "https://www.dailysignal.com/2023/10/18/fact-check-bidens-false-testimony-misremembering-and-ideological-confusion-in-lgbtq-speech/"
-    ampWebUrl: "https://www.dailysignal.com/2023/10/18/fact-check-bidens-false-testimony-misremembering-and-ideological-confusion-in-lgbtq-speech/amp/"
-    cdnAmpWebUrl: "https://www-dailysignal-com.cdn.ampproject.org/c/s/www.dailysignal.com/2023/10/18/fact-check-bidens-false-testimony-misremembering-and-ideological-confusion-in-lgbtq-speech/amp/"
-    type: article
-    provider:
-      name: The Daily Signal
-      domain: dailysignal.com
-    quality: 41
-    images:
-      - url: "https://first-heritage-foundation.s3.amazonaws.com/live_files/2023/10/biden-hrc.jpg"
-        width: 1250
-        height: 650
-        isCached: true
   - title: "Video of Biden calling for a military draft is AI-generated, not real | Fact check"
     excerpt: "The video purportedly of Biden is a months-old fabrication. The Selective Service System says there has been no discussion of bringing back the draft."
     publishedDateTime: 2023-10-19T21:46:00Z

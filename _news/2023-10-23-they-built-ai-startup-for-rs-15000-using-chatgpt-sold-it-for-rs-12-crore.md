@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Two friends built Dh600 AI start-up using ChatGPT, sell it for Dh550,000"
+    excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The two mad.."
+    publishedDateTime: 2023-10-23T13:38:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/two-friends-built-dh600-ai-start-up-using-chatgpt-sell-it-for-dh550000"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 16
 
 secured: "aAhl55IEiH55X+drCbxYnU+Lf+6fAfy5EjhEPzpFx33cAuXwebEWF0ETkhlBMIVT4Z50P6OlSVyqy5DZukQFuAqzvKwMasEWPypDDub4Prh1qo3HvP3g7W1Bx5zXzDHWwqv8bH3/CTvdEhwbWfMj1qVYphFKzqScyqr5EKfVhNsOAINSMI6hbxrHwBdIlypbzjnjkHYneS7nwz/jm5z6+R/rkkvzZ1jtWveVxz5zIWy3nbi1zI+jTUvg4bsODwsVu7xXG6eYrKLgV/4DwD5r7TtSqnkyKNgL6LAY5tbKuxD3Fp5ZvKD1CFLtnO0bQEfQMZ7hnTYG68pK/RFBAa9F1bXG8SDK5YQcBsUsEI0yosY=;F7msnywpkh73R7mtO79riQ=="
 ---

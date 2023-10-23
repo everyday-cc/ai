@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-20T16:48:00Z
 originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
 webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
 type: article
-quality: 60
+quality: 58
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -214,6 +213,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "How governments are approaching the regulation and use of AI"
+    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
+    publishedDateTime: 2023-10-23T14:13:00Z
+    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
+    type: article
+    provider:
+      name: City & State New York
+      domain: cityandstateny.com
+    quality: 39
+    images:
+      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "The Federal Trade Commission and Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) burst into the public consciousness less than one year ago, with OpenAI’s highly successful public release of ChatGPT. Since then, AI-enabled products and services have proliferated throughout the economy. AI-enabled tools ..."
     publishedDateTime: 2023-10-19T15:56:00Z
@@ -321,7 +334,16 @@ related:
         width: 487
         height: 250
         isCached: true
+  - title: "Why actors are fighting for AI protections"
+    excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://www.aol.com/news/why-actors-fighting-ai-protections-100000324.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
-secured: "fZoRXE1Nb1f9ueOUby/x+VTlwVtJIdnHQTrjZaRtEA0Ulkn3/IdiW9b5KchujmGajSrW9w45++pLEC3anm85ctcLG0LqC2k3caDXIMR7T5wzRqwPoBC2EONmzl+blNyx3kSmov+Se6XeKhoF/plJdbnWoeu6hBR8ioJ7hRar301dxfDREIV9e/SQLVDV1hq7tfi3KxFrZScAY45sXtfXxeN4tzL8jQHLvESJcjATOLVKHz7GcnMmtyqHsZ3pdOK39IwzPR7VlqrLckMALje/1U9IN1tiniEhl/WXDDOcjpVN/vZOlxsbFFOICipw9Y8nyYBFs8rthrSjPagcZSyNWY+XTXIG9T2uHNLU+L/8NYv3zPrLDQnR59lM6JuLgFKcc5ykbDc1183dJQBY3H+YtGhN5pt+AM0JH6g0xrqOvfffQDshUxXxvqyobA8JysQYuHS5TvyqxKRlCHKcr2od9XPkToLLS/mkcbOUuSIUT7loWQIFKI9+jINF/mmnATL66Qf3x7XD9R/DS+6dwX8Zyw==;KMeLpoE6rv8hWO02TGzjuw=="
+secured: "WeSJGLLZcuwfdkHfmRDB3t3Uh1fs7iw1sPPCNCJFaFF59q7mnWdO9PuS/x98uh+Y0kKNmA8o16RvaPKQEkev+03BilmYQZb0U5pakMx3bnuzmnbQj5SFnqeyILNHY2yjyVpB68Zc4f05dNCutAxaC0msJIKRBsArmY0ySj1IRvTEJnkTT1SBOjFNRAlPP1W6ErADy01mQ7OTrbNtDkWN4QmFdhDhY4tY/0/lGAzNJhw3rvblLBEqOWBH4ngS7glA5p1UXiEfEHQRF+bTVIvBuOZ51EABwT8i/Us/Y7knJGC4ptIZjUis8eCcgF6eHznoh80s8OirJ+R2qQkvD+EITK3Bg/Xq6AkeupeO027CMqw=;k4sxO85V5BvosAiNhY75Mw=="
 ---
 

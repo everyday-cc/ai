@@ -2,11 +2,11 @@
 category: news
 title: "Did A Computer Write This? Book Industry Grapples With AI"
 excerpt: "From low-quality computer-written books flooding the market to potential copyright violations, publishing is the latest industry to feel the threat from rapid developments in artificial intelligence."
-publishedDateTime: 2023-10-23T02:28:00Z
-originalUrl: "https://www.barrons.com/news/did-a-computer-write-this-book-industry-grapples-with-ai-8abef12b"
-webUrl: "https://www.barrons.com/news/did-a-computer-write-this-book-industry-grapples-with-ai-8abef12b"
-ampWebUrl: "https://www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-8abef12b"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-8abef12b"
+publishedDateTime: 2023-10-23T06:28:00Z
+originalUrl: "https://www.barrons.com/news/did-a-computer-write-this-book-industry-grapples-with-ai-b5ea4a60"
+webUrl: "https://www.barrons.com/news/did-a-computer-write-this-book-industry-grapples-with-ai-b5ea4a60"
+ampWebUrl: "https://www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-b5ea4a60"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/did-a-computer-write-this-book-industry-grapples-with-ai-b5ea4a60"
 type: article
 quality: 59
 heat: 69
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP1138977436208894960412747013813698983923---1.jpg"
+  - url: "https://www.barrons.com/asset/external-media/afp/AFP5244271803205128873997331063382330334214---1.jpg"
     width: 768
     height: 512
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 427
         isCached: true
 
-secured: "kEhflzowNqAjHzq28QAhhsMZcxyX3hh2rPy/f2GpbIiS+LLJ6eEUrR+X1vPsWaL1B6RZT7I4wE9Z7RJXpcZUsfnShjJYsG5VqNIv2dAM/AmjJdY05jIi0U9dRdiNcnIGgKrHXSRNvX/Ye7G7pzSW0I4F8tdThOZ4wpm5anUjIUhSn0Q0YIFEFLtxtN736Lp4Mz4o0IGdpDggTlMvZ+ZLh6L1N8rQW4GFMHuRVXdAHWVevu0WD6c0M3IxGIiXErqj0la2I0w/OiHItITgcjbywTrHGNkx2ziEBa0o4ICFvmoB0foYVK+btu5+AQOBRx0d2SqnxEvRXhoopARSGpBP27GIi666Fj0Ef83mziYHR1AdpzJ+86nTAovKb1s+XrFPuDIHtwD5uRSEO2r++0VtLq8mwB+tI0tzbHjeSX0y4NTNsxy0xk9aHE0KtoXKXjsR2mqgxO3huSCV9aw1TmAWRSCKr/7ReG0mWLOwHWbYigWi9vtH+ikcqL3dyIjqPS3aClkbfLJNG2Zt0SJiKw/YKw==;qle7znMNeyElfR3+YX3uog=="
+secured: "RI5w2aNo+kNlY/p8SUyiEG6P82uzkYYrV0LPDQnzXj5VPOqyFuebcVY1FO62FEZoURka4eMTOQOh/alD8D5hITSYLIHccCuvyOvoIurRA67Nqu6C1duyVXu9JP5gdz3GBM2mpBBTWy9gHh2PdoiTVCK9FSo7TmP6eI6jV2upyJN35H19PnI1W0AmP4XYQmb5MnJoxC/LSMZQL3uHpeKGJRlOLP7gjdE7WuuK73WwaQV4gzWZ38IcFOpq6k7yFlz+DNo4Ur0fKTOdZcAn5yvvh3esVJgOwC5EVtXz3gBIXsBg0uIK274oeecoUlppMC1dOHSaWlG1I0/kTgIHuGXl9S/prnBfRz7BkNBhe13K5tE=;sUQWwMWP8x8YZxGox0cXTQ=="
 ---
 

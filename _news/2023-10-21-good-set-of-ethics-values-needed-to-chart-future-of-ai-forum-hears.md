@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/news/nation/2023/10/21/good-set-of-ethi
 webUrl: "https://www.thestar.com.my/news/nation/2023/10/21/good-set-of-ethics-values-needed-to-chart-future-of-ai-forum-hears"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1240
     height: 826
     isCached: true
-
-related:
-  - title: "The Future of Applied Artificial Intelligence"
-    excerpt: "Software and consulting expert Andreas Erben pulls back the curtain to imagine a world where generative AI technologies reach further than today's capabilities."
-    publishedDateTime: 2023-10-19T16:52:00Z
-    webUrl: "https://redmondmag.com/articles/2023/10/19/the-future-of-applied-artificial-intelligence.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 39
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/introimages/futurecity.jfif"
-        width: 647
-        height: 450
-        isCached: true
 
 secured: "5oljAGdzlOpJpZnfiLpLskVUOiL32uadMSWG2hqaaeTj7rIfeZjhOf8BhJfFXvx3JCZFOG44ojuOIvsf0s9TElOq2/8ISUQ7cuBalPIgKfezYyi5iajfTH30jyZu/Mf1wrAbUuRerVydJcfo3nRlUspYkVxIfK0OFT7XRdtduoG+avQXWXKgzcrZ48NsoPf/IF+BMB3aD98VHsEUHMVFu+vsPngzY9KgTQHYB0MW0h2WNRX3sdVmy2zkxE50OucBzxTO9GedXs15QOEh43wjMRhMTmICooZREdnDuRMEhmDCdfme2La500NTk1V86LfZXxM+7Pa0w34K4TX5YbwseqzVvmYT9wK/HNWugT/mKz8wL33fWHqICLMMr4FVE0QpILHTLzygt3Kz6V2dOzwLn/wW+P/eRmanT+mKilqzZspCsfKZyum/9ZTRm127MnqtRq5ehh93BoehbaUvlczTujOQnbtT+amgCS1B1Q4nudCGl8xGPxkcZojk9TMZx1rxtFVW6HM+rWJoPcKugHfkKA==;lO8aijciitMy0q6QR46raw=="
 ---

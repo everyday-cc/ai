@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-08-10-investing-in-artificial-intelligence-stocks-things-you-have-to-know.md",
+      "title": "Investing in Artificial Intelligence Stocks: Things You Have to Know",
+      "excerpt": "Artificial Intelligence (AI) has become intertwined with our lives. It’s not just a narrative anymore. We use AI daily in so many ways. Siri, Google assistant, and Alexa come to mind. ChatGPT and Bard have.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
+      "originalUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know-11691643881461.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/08/10/600x338/TECH-AI-EUROPE-0_1688375295260_1691644413828.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/market/stock-market-news/investing-in-artificial-intelligence-stocks-things-you-have-to-know/amp-11691643881461.html",
+      "publishedDateTime": "2023-08-09T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2023-08-10-if-it-can-be-designed-on-a-computer-it-can-be-built-by-robots.md",
       "title": "If it can be designed on a computer, it can be built by robots",
       "excerpt": "Making things this way resembles a model used by the semiconductor industry, where chips are designed using software that directly links to the automated hardware which fabricates them. For the Fort Mill plant,",
@@ -1249,49 +1293,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-03-fruit-picking-robots-take-flight-just-when-youve-seen-it-all.md",
-      "title": "Fruit-picking robots take flight, just when you’ve seen it all",
-      "excerpt": "With labor shortages leaving a wealth of fruit to rot on trees, farmers around the globe are seeing a glimmer of hope on the horizon as AI-driven robots fly to their rescue. These tech marvels are combating an escalating labor shortage that's leaving vast quantities of fruit to decay on trees.",
-      "sourceUrl": null,
-      "webUrl": "https://wfin.com/fox-technology-news/fruit-picking-robots-take-flight-just-when-youve-seen-it-all/",
-      "originalUrl": "https://wfin.com/fox-technology-news/fruit-picking-robots-take-flight-just-when-youve-seen-it-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.tegna-media.com/wtol/weather/PlanAhead.jpg",
-          "width": 864,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-02T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFIN",
-        "domain": "wfin.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

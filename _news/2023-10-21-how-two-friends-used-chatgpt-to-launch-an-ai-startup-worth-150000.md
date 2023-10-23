@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/tech-startup/news/how-two-friends-used-
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/how-two-friends-used-chatgpt-launch-ai-startup-worth-150000-3449021?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Two friends built Dh600 AI start-up using ChatGPT, sell it for Dh550,000"
+    excerpt: "Two budding entrepreneurs and friends took help from ChatGPT and built a start-up with just a modest investment of $185 (Dh600), reported CNBC. The two mad.."
+    publishedDateTime: 2023-10-23T13:38:00Z
+    webUrl: "https://www.khaleejtimes.com/business/tech/two-friends-built-dh600-ai-start-up-using-chatgpt-sell-it-for-dh550000"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 16
 
 secured: "9ks6o0qBfvSZLx9Y4ebVU2UtB8DFLPETgxWIx++grycruP0SWXYLclx7qEDhunZvquwyE48HgZKRBvM5hq+8BrDX+ndq0epMleLiH+qEobDX7y7Z7lCs9qJPrBSc5lRL/nsIcx0moyx76RfI53ZGf5DnDc41YmtPgQ/NatmhL8au+vWFokUbZlgsVPEPe9H/xDm1CUzN2ba0hBXsct83/6xSlI+vjLjNeYDoSNG+y8hiXWkbTyodG4b/jRynMqUUsrE1tVcxKt3IxoLmn+XA1dop5c9T7x6eR6T47Ym4C1Z+Flt/3SjAf8jvjUoAis635YRJNaSTahDslxwpm0gjcLZucdMKNK4KQtnGfCwXWPJnBvwrqhv493PZCKKJ93UVCpLqoYLABZIj2sdT3/B1j1XtQhERvAWEbVv+gFUXl6AALPqnD0B/ps9dqxWPJU0PbuIRnum+zXCsQ+tOibWP8Pqla7xr+NMgG+p1i6F9Grg7W8Iir7sa6KsSL6o547+OPjx/t5ex7a+IXJPZKSCi2Q==;mtL2lnUmm92Fm1yCarmStg=="
 ---

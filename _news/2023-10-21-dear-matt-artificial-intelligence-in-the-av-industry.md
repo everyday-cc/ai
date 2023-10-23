@@ -28,6 +28,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Dear Matt: Artificial Intelligence in the AV Industry"
+    excerpt: "Vistacom’s Matt Boyer answers a question on artificial intelligence in the AV industry in the latest installment of “Dear Matt,” presented by Vistacom."
+    publishedDateTime: 2023-10-23T14:20:00Z
+    webUrl: "https://marketscale.com/industries/pro-av/ai-in-av/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 17
 
 secured: "nGuSl5nV3Lkq83cr/lTOUJaZlMnEd9PnAn0FHWbMNysQZCUQ+qSTIWixn/NLmnuhfhTTL3mEAlFRjvPm007tyoqh4vvz29QIfLDIz/FYNby8RT32fS8QBuXhaERtuBpabK5EHpSrL8sJUMYXBvSwuLV/3YDjgeTgMDf8qqofE8/VCCNpLzg+NGCGMwomNdNLK7Siz9PMFe42IO/rTDa7PW9AUWVO5GNJ+BISCj5AbCVpOrPpKSXyfpaLQ/bPoV/VDtixBNtz0w9JPZz6AZyebskEwr8tRbuKgIbGzpmc94l1eLKPdiD+oqTHQtBIt6SDGLMX21pM86qlmyxN3v+J/m0M23RpMve02OdmGTsfFfk=;BNTbQTCxBO4mgPf7IC5BYQ=="
 ---

@@ -1,0 +1,36 @@
+---
+category: news
+title: "U.S. DOJ seeks documents from Tesla on driving range"
+excerpt: "The automaker also said in a regulatory filing that the Justice Department was looking into its self-driving feature, personal benefits and personnel decisions, in a move that marked intensifying regulatory scrutiny of the Elon Musk-led company."
+publishedDateTime: 2023-10-23T14:18:00Z
+originalUrl: "https://www.autoblog.com/2023/10/23/tesla-doj-driving-range-estimates/"
+webUrl: "https://www.autoblog.com/2023/10/23/tesla-doj-driving-range-estimates/"
+ampWebUrl: "https://www.autoblog.com/amp/2023/10/23/tesla-doj-driving-range-estimates/"
+cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/10/23/tesla-doj-driving-range-estimates/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Autoblog
+  domain: autoblog.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "Tesla driving range documents subpoenaed by U.S. Justice Department"
+    excerpt: "The automaker also said in a regulatory filing that the Justice Department was looking into its self-driving feature, personal benefits and personnel decisions, in a move that marked intensifying regulatory scrutiny of the Elon Musk-led company."
+    publishedDateTime: 2023-10-23T14:16:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/tesla-subpoenaed-driving-range-documents"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
+
+secured: "ZARPdFLAb1SUf6DuZd9OoxgQKKjy3YQkVl/4Fa9lJNC8Wab/qdRv/EvEj6LMW//vds5P5yMf73uNlD9X/ncynzd5NYx8MK+pWxJMitoMIXGzG4hViD8H4K06YbxcDJw+AHSqyeZv4wi6G4kfdpUuT/MOCu4Pf1NlWQnBiV4/OUzPs0rgqDS2jvFgBz50JuW5uuBYVaEPh7aOQZJUyU+mymJlEKBJqkhKzzPL1fyBWfpjuUTXgVR+rc476XEDH4gneDhYY+ORiQqCqrkrfCOldcgXUBLXWBFZiIm3uKw0ugsAb7BwJTpdtep2qWS6EOejjycpJ5S2l1KbmCfHu/WbCS+IY9m1oF8QUrDxIMm1vmpp1zvVDbCOGS3/XFfeQNQeUclLzmDAQjqxBMXq39UJ9CByJtJdxb99atF9x+O+6kIuQAk3oMp92DQMnyNySrvJOWDJnilRbZX/AybbYOf8T+nPdufu3eD5lTbReaYmv8C4TWubP/OkW/ZJf+eJhd9ABLj2ZMXdrTlGtVzpWc+nAA==;YH2jmlS9aJ2aPxYsGMYifw=="
+---
+

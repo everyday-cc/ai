@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/d41586-023-02894-x"
 webUrl: "https://www.nature.com/articles/d41586-023-02894-x"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta wants to supercharge Wikipedia with an AI upgrade – Digital Trends"
-    excerpt: "Digital Trends may earn a commission when you buy through links on our site. Why trust us?Wikipedia has a problem. And Meta, the not-too-long-ago rebranded"
-    publishedDateTime: 2023-10-18T21:25:00Z
-    webUrl: "https://www.inferse.com/761561/meta-wants-to-supercharge-wikipedia-with-an-ai-upgrade-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12184.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "A More Reliable Wikipedia Could Come from AI Research Assistants"
     excerpt: "A neural network can identify Wikipedia references that are unlikely to support an article’s claims—and scour the web for better sources"
     publishedDateTime: 2023-10-23T11:56:00Z

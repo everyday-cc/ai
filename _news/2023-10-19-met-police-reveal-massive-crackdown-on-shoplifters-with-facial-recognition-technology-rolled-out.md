@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Met uses facial recognition to crack down on prolific retail criminals"
-    excerpt: "The Metropolitan Police has announced plans to use innovative facial recognition technology to identify London’s most prolific retail offenders."
-    publishedDateTime: 2023-10-18T23:13:00Z
-    webUrl: "https://news.met.police.uk/news/met-uses-facial-recognition-to-crack-down-on-prolific-retail-criminals-473935"
-    type: article
-    provider:
-      name: Metropolitan Police Service
-      domain: police.uk
-    quality: 54
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/f9glgjsmleepz8g9pxwi"
-        width: 1782
-        height: 1002
-        isCached: true
   - title: "Met police using facial recognition to catch 'most frequent' shoplifters in London"
     excerpt: "This initiative comes as a response to the increasing issue of shoplifting, driven by organized crime and rising living costs. Met Commissioner Mark Rowley referred to the results as 'game-changing"
     publishedDateTime: 2023-10-19T08:10:00Z
@@ -153,33 +139,19 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Met Police use facial recognition to tackle London’s rising shoplifting problem"
-    excerpt: "UK's Metropolitan Police uses facial recognition to identify 149 shoplifting suspects from CCTV, sparking both success and privacy concerns."
-    publishedDateTime: 2023-10-19T01:07:00Z
-    webUrl: "https://thethaiger.com/world/news/561840/"
+  - title: "Police pledge shoplifting crackdown with facial recognition to make ‘hostile environment’ for thieves"
+    excerpt: "Police have pledged to attend more shoplifting incidents and use facial recognition technology to catch thieves in a crackdown on Britain’s shoplifting epidemic. The Home Office has announced a new action plan with retailers and police chiefs which they ..."
+    publishedDateTime: 2023-10-23T17:42:00Z
+    webUrl: "https://www.aol.com/police-pledge-shoplifting-crackdown-facial-143930382.html"
     type: article
     provider:
-      name: The Thaiger
-      domain: thethaiger.com
-    quality: 37
+      name: AOL
+      domain: aol.com
+    quality: 24
     images:
-      - url: "https://thethaiger.com/world/wp-content/uploads/2023/08/photo-1513635269975-59663e0ac1ad.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "‘Game-changing’ facial recognition tech to be used in crackdown on London shoplifting"
-    excerpt: "Facial recognition technology is going to be used to investigate and identify prolific criminals who target retail businesses in London, after an increase in attacks and shoplifting."
-    publishedDateTime: 2023-10-18T23:01:00Z
-    webUrl: "https://www.lbc.co.uk/news/facial-recognition-london-shoplifting-crackdown/"
-    type: article
-    provider:
-      name: LBC
-      domain: lbc.co.uk
-    quality: 32
-    images:
-      - url: "https://images.lbc.co.uk/images/610559?width=1200&crop=16_9&signature=TkmCvSv_d5me6QOkO_n-cmTkE_0="
+      - url: "https://media.zenfs.com/en/aol_the_independent_uk_548/fe44b02953058aeafb531a1435d29cea"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
   - title: "Scotland Yard to use facial recognition tech to nab shoplifters in UK"
     excerpt: "Scotland Yard on Thursday announced plans to use innovative facial recognition technology to identify Londons most prolific retail offenders and shoplifters.The citys Metropolitan Police force said retail crime is responsible for the loss of an estimated 1."

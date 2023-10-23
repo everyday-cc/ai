@@ -59,22 +59,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft's new AI assistant can go to meetings for you"
-    excerpt: "A ChatGPT-style AI assistant, developed by Microsoft and embedded into its office apps, will become available to all from 1 November, following trials. Microsoft 365 Copilot can summarise meetings held in Teams for anyone who chooses not to attend."
-    publishedDateTime: 2023-10-18T23:13:00Z
-    webUrl: "https://www.aol.com/microsofts-ai-assistant-meetings-173508564.html"
-    ampWebUrl: "https://www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/microsofts-ai-assistant-meetings-173508564.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 76
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/JxAFmPjSLcq.iFP3oPacyA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bbc_articles_618/2821e1c51ec60cce86e8345a6f95db06"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Here's what we hope to see from AI powerhouse Microsoft's quarterly earnings this week"
     excerpt: "When the software giant reports on Tuesday, investors will be looking to see whether its big bet on artificial intelligence is paying off."
     publishedDateTime: 2023-10-23T08:01:00Z
@@ -176,6 +160,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Microsoft to Spend $3.2b in Australia as AI Regulation Looms"
+    excerpt: "SYDNEY (Reuters) - Microsoft said it will spend A$5 billion ($3.2 billion) expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years as part of a wide-ranging effort that includes skills training and cyber security."
+    publishedDateTime: 2023-10-23T13:05:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2023-10-23/microsoft-to-spend-3-2b-in-australia-as-ai-regulation-looms"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Alibaba, Tencent And Ant Invest $342 Million in AI Startup Zhipu, Eyeing Rivalry with Microsoft's OpenAI"
     excerpt: "Alibaba Group Holding Ltd BABA and Tencent Holdings Ltd TCEHY featured amongst major Chinese investors doling out 2.5 billion yuan ($342 million) in artificial technology startup Beijing Zhipu Huazhang Technology Co. Many Zhipu investors joined a recent $300 million round of financing for Zhipu-rival Baichuan, Bloomberg reports."
     publishedDateTime: 2023-10-20T14:55:00Z
@@ -191,6 +184,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2023/10/20/artificial_intelligence_ai.jpg?width=1200&height=800&fit=crop"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft Q1 Earnings Preview: Analyst Estimates, Video Game Update, Artificial Intelligence Opportunity"
+    excerpt: "Microsoft reports first-quarter financial results after market close Tuesday. Artificial intelligence is likely to be one of the biggest topics covered by the company ..."
+    publishedDateTime: 2023-10-23T16:22:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/23/10/35375850/microsoft-q1-earnings-preview-analyst-estimates-video-game-update-artificial-intell"
+    ampWebUrl: "https://www.benzinga.com/amp/content/35375850"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35375850"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2023/10/23/microsoft..image_by_efes_from_pixabay.building-1011876_1920.jpg?width=1200&height=800&fit=crop"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Microsoft’s new AI will save you time and energy"
     excerpt: "Microsoft ’s new AI will make virtual meetings much easier for you. The ChatGPT-style AI assistant, the Microsoft 365 Copilot, will be able to attend and summarize Teams meetings for the user, which will eliminate the “drudgery” and optimize workflow."
@@ -262,6 +271,61 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Microsoft CEO: China must have say in governance of artificial intelligence"
+    excerpt: "Microsoft’s chief executive is pushing for China to have a seat at the table of leaders deciding global rules for artificial intelligence, as business titans and government bosses jockey to shape the technology’s development. Microsoft CEO Satya ..."
+    publishedDateTime: 2023-10-23T16:31:00Z
+    webUrl: "https://www.washingtontimes.com/news/2023/oct/23/satya-nadella-microsoft-ceo-china-must-have-say-go/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 52
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/09/diversity_initiatives-scrutiny_33992_c0-0-5400-3150_s1200x700.jpg?21d13cb2bc6acb968d08b145891571c1670c0358"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Rapid Finance announces from Money20/20 USA That its AI- and ML-Ready Lynx platform is now available on Microsoft’s Azure marketplace"
+    excerpt: "Rapid Enterprise, a division of Rapid Finance, an industry leader in delivering automated and scalable Lending-as-a-Service (LaaS) solutions to support"
+    publishedDateTime: 2023-10-23T13:41:00Z
+    webUrl: "https://www.cuinsight.com/press-release/rapid-finance-announces-from-money20-20-usa-that-its-ai-and-ml-ready-lynx-platform-is-now-available-on-microsofts-azure-marketplace/"
+    type: article
+    provider:
+      name: CUInsight
+      domain: cuinsight.com
+    quality: 52
+  - title: "Microsoft Q1 earnings preview: Wall Street looks for signs of AI-powered growth"
+    excerpt: "Microsoft will report its Q1 earnings after the bell on Thursday, as investors look for signs that its AI investments are paying off."
+    publishedDateTime: 2023-10-23T17:25:00Z
+    webUrl: "https://www.aol.com/microsoft-q1-earnings-preview-wall-142544621.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/_kE2Rk62ZPR_h8gCPPpHFg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/f4268d76d6e33ea8599bd8f7fc1290f5"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft Reimagines Modern Application Deployment With Radius Platform"
+    excerpt: "Radius has the potential to become a powerful platform for deploying modern applications that harness the power of Kubernetes and managed cloud services."
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2023/10/23/microsoft-reimagines-modern-application-deployment-with-radius-platform/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Microsoft releases Azure AI Content Safety to create safer online environments"
+    excerpt: "Microsoft has launched Azure AI Content Safety, which uses text and image detection to identify and filter harmful content in applications and services."
+    publishedDateTime: 2023-10-23T13:31:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-releases-azure-ai-content-safety-to-create-safer-online-environments/"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 45
   - title: "Opus 5K's latest solution is harnessing Azure Open AI to transform … – Microsoft"
     excerpt: "By Microsoft News Center Healthcare organisations like hospitals, aged care providers and community care organisations are constantly collecting"
     publishedDateTime: 2023-10-19T05:32:00Z
@@ -285,20 +349,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "11 Remote Job Vacancies at Microsoft That Pay $100K+"
-    excerpt: "From contract negotiator to content manager, these roles will have you working from the comfort of your own home."
-    publishedDateTime: 2023-10-18T20:36:00Z
-    webUrl: "https://tech.co/news/11-100k-remote-jobs-microsoft"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2023/10/18162126/microsoft-remote-roles.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
     excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."
     publishedDateTime: 2023-10-19T19:18:00Z
@@ -317,6 +367,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 20
+  - title: "Innovating with responsibility: How customers and partners are bridging data, AI and trust with the Microsoft Cloud"
+    excerpt: "For the past decade, we have been on a journey with our customers to help them achieve digital transformation, which is business transformation empowered by cloud technology. With increasing excitement around generative AI — both for its potential and the impact it is already having — organizational leaders are eager to prioritize adoption that"
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2023/10/23/innovating-with-responsibility-how-customers-and-partners-are-bridging-data-ai-and-trust-with-the-microsoft-cloud/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 12
 
 secured: "0OP8myLwgn8eBktzfm4G/ixT/hZkL+lAD1EmOZRuBVUJWGOm4h0QF0SaHKVU5cujuHwgUFJnGkGT6QTlr3mokN5jCVwGi5v0hzQ3QrVtLFzfhnuint1Iclx8ViZQ3j7a9PX1th/P4wQNt5zyEji5HhuPc8Ue61oxZ2H52AWW7DZacKReF8u6QPvOHLKsUXez3gmukBN+bBFU6x2vUOXjtEq+TdoMHsupgaxCLyqhHIqKDxt5vghSiCXAvjT4tloAMW0+nKCJqTJ+5aMsvTVi64Xz8gNOYLerHFUScFyS5V11lW+/UQNNZeK9IUg5W2pBL0z31CTZzL7Yy1sLWtQdORZy9DmO24uLJne43o/auEc=;YjepRPJvBT10p5uzLXTmrg=="
 ---

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-10-23-ai-your-job-3-ways-to-win-at-career-musical-chairs.md",
+      "title": "AI & Your Job: 3 Ways To Win At Career Musical Chairs",
+      "excerpt": "Generative AI will create havoc on careers. Stay ahead of the curve with these three steps Together they will ensure that you are not the last one standing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lrossetti/2023/10/23/ai--your-job-3-ways-to-win-at-career-musical-chairs/",
+      "originalUrl": "https://www.forbes.com/sites/lrossetti/2023/10/23/ai--your-job-3-ways-to-win-at-career-musical-chairs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65270b6eb279975d75f2b58e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1337,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lrossetti/2023/10/23/ai--your-job-3-ways-to-win-at-career-musical-chairs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lrossetti/2023/10/23/ai--your-job-3-ways-to-win-at-career-musical-chairs/amp/",
+      "publishedDateTime": "2023-10-23T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-10-23-ai-robotics-startup-electric-sheep-wins-2023-ai-techaward.md",
+      "title": "AI Robotics Startup Electric Sheep Wins 2023 AI TechAward",
+      "excerpt": "Electric Sheep, who is creating the first large-scale outdoor maintenance company powered by artificial intelligence and robotics, announced today it has won a 2023 AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/10/g35376196/ai-robotics-startup-electric-sheep-wins-2023-ai-techaward",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/10/g35376196/ai-robotics-startup-electric-sheep-wins-2023-ai-techaward",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35376196",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35376196",
+      "publishedDateTime": "2023-10-23T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-23-meet-the-defiant-ai-sex-robot-starring-in-a-new-action-thriller-comic.md",
       "title": "Meet The Defiant AI Sex Robot Starring In A New Action Thriller Comic",
       "excerpt": "In Red Light, a four-part series from AWA Studios, a self-aware android may end up outsmarting her human creators. Forbes talks with Sarah Cho, the comic's writer.",
@@ -159,49 +254,6 @@
       ]
     },
     {
-      "path": "_news/2023-10-21-construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve.md",
-      "title": "Construction industry to embrace artificial intelligence to stay ahead of the curve",
-      "excerpt": "The industry is poised for significant growth in the coming years, with an estimated CAGR of 11% from $8.2 trillion to $17 trillion by 2029, experts say. This growth is driven by certain factors such as government initiatives,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm",
-      "originalUrl": "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/03/artificial-intelligence-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp",
-      "publishedDateTime": "2023-10-20T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-10-20-robotics-manufacturing-institute-helps-build-defense-submarines.md",
       "title": "Robotics Manufacturing Institute Helps Build Defense Submarines",
       "excerpt": "Pittsburgh's Advanced Robotics for Manufacturing Institute is supporting efforts to build submarines and tactical alloys for the U.S. military through a relatively new Department of Defense community initiative.",
@@ -253,7 +305,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-robotics-stocks-ready-to-rock-and-roll-in-2024-1032722476",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -288,21 +340,21 @@
       ]
     },
     {
-      "path": "_news/2023-10-20-media-psychology-and-the-physics-of-artificial-intelligence.md",
-      "title": "Media Psychology and the Physics of Artificial Intelligence",
-      "excerpt": "Artificial intelligence isn’t new ... Use of AI is now growing in social media, commerce, public policy and politics, healthcare and medicine, and all areas of science, entertainment, the military, space, among others. New research opportunities abound ...",
+      "path": "_news/2023-10-19-nvidia-gives-robotics-a-major-upgrade.md",
+      "title": "Nvidia Gives Robotics A Major Upgrade",
+      "excerpt": "According to Nvidia, these releases include more value than all the other releases over the past 10 years combined.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence",
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/AI%20Image%20%234.jpg?itok=w2pyy43p",
-          "width": 1528,
-          "height": 800,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65314c2819c4e506a67ca4d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 680,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -310,14 +362,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence?amp",
-      "publishedDateTime": "2023-10-19T15:16:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/10/19/nvidia-gives-robotics-a-major-upgrade/amp/",
+      "publishedDateTime": "2023-10-19T08:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -326,9 +387,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1324,49 +1384,6 @@
       "provider": {
         "name": "The Week",
         "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-10-13-ai-design-for-a-walking-robot-is-a-squishy-purple-glob.md",
-      "title": "AI design for a ‘walking’ robot is a squishy purple glob",
-      "excerpt": "Previous AI-generated evolutionary bot designs could take weeks of trial and error using high-powered computing systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/ai-robot-blob/",
-      "originalUrl": "https://www.popsci.com/technology/ai-robot-blob/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2023/10/13/IMG_6064.jpg?auto=webp",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/ai-robot-blob/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-robot-blob/?amp",
-      "publishedDateTime": "2023-10-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-media-psychology-effec
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence?amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Psychology Today
@@ -26,24 +26,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "Media Psychology and the Physics of Artificial Intelligence"
-    excerpt: "including robotics. The three networks converge and operate on the premise that both synapses and nodes that are wired together fire together. This synergy is not widely understood, yet it is the basis of diverse forms of artificial intelligence."
-    publishedDateTime: 2023-10-19T00:00:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-media-psychology-effect/202310/media-psychology-and-the-physics-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-10/AI%20Image%20%234.jpg?itok=w2pyy43p"
-        width: 1528
-        height: 800
-        isCached: true
 
 secured: "gwPFvxtAkacC6QaV8Kxy71+ouqAj8DTQdgEM1aLInVhGAdxQ67NnxJwoe05N0R2aXmh+2dRXsDJXcK3no2OOSP5WNC+CNFArNsOWazuIql7e+jwb85o+P5906okVWfR+B9jLTPpmJjJayeyZIJJQzXSeagHWL3YwwiDezJfAeayu9JdqodiBlVEQ/aoAsVH6QokhECO7aoxNuHUjE+cLN/8ZnsXBE4mADc56/cBD/+nBz7oxWpIRyVvPxTFAFBGaquCW0n8UInI2vSa5xIsh683LwAqVjd46IGgkHDG5uhlQa30mmfgnBkP3bUUH7wYE+WJvgBD4SRCXMYSq6M/wKqPphvf6brnGBu7ogPsUjT4=;YzkuapkLlQ2NLeAwAJJvIQ=="
 ---

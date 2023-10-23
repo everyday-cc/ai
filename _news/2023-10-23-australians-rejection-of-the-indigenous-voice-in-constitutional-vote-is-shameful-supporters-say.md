@@ -3,8 +3,8 @@ category: news
 title: "Australians' rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
 excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a “shameful act.” Many proponents of the Indigenous Voice to Parliament maintained a week of silence and flew Aboriginal flags at half-staff across Australia after the Oct."
 publishedDateTime: 2023-10-23T11:30:00Z
-originalUrl: "https://www.aol.com/australians-rejection-indigenous-voice-constitutional-043003244.html"
-webUrl: "https://www.aol.com/australians-rejection-indigenous-voice-constitutional-043003244.html"
+originalUrl: "https://www.aol.com/news/australians-rejection-indigenous-voice-constitutional-043003244.html"
+webUrl: "https://www.aol.com/news/australians-rejection-indigenous-voice-constitutional-043003244.html"
 type: article
 quality: 11
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LNNzbMJZQqYwZbvMjPkvEdpl/9+cxKjFKWa64YjYmjq7DWN7iF7PlGYy7QXXf/CF5I5Kcsz/c62s32fe35SvJYXVqKTnPF1FZ6zL8pAYYks5vhkinY2MAjQiTgkNyq3ZASIt7DDJ8l0kg48Psmw478DSo+kgfSD+KoQQjtu6Oz1yJza2dnCWyhxFdLe8rGzjDQhU98X4VjLNvhRnFsT+hrN0pt8neFpone92ExEC5cQxERlKy146UOqp5fsGFNhe0ir45w6H149mdXZQ5pYpu5lcAGUn1daFUH5THr8tJBx5jOT+WJKQfHIPMvcANYAE3HcqgjrH8GJYI6PUrI5brNXOrEd2GzROAlAR5PkuvVQ=;Fj5CxCeGk2Ui+a/Es3jIJg=="
+secured: "MqUQKoQYurEOc05B17jor6uV+RgHSx15m+h6ZSdnNftDNi6nw37EWdskXU2Ypojo/ypDmb7W5XhMbiwU+2Xj0c0jcvg5js5TIyXXXRqwJTTGU1UmFLRN2ekR/JZX92rdSimgPMM1zqwRHtQWD7876L+PXzU0Zx6L8EKmW2PZWGgwUEEOOjj9vn1l1p2bByjI3Aw499Jyvket+d8jkLEo3/l/pyIkhsAgG9B6IGPCdVCBx0JxUcMjpbd46aY3Lt1zvMS+B6+aeABHu4AIMX2i+524f+SoOBesjyJ/ojlV/qUpYZqP+dAdNgQxNWKBtsqoa/S1D8lPYJpEPPxeS5srFzrMv8pL9qSc6E/h/loXS0E=;B4M14zmIp8Qxx2XbZKGk8g=="
 ---
 

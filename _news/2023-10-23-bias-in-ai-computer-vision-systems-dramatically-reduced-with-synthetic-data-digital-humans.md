@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20231022631671/en/"
 webUrl: "https://www.businesswire.com/news/home/20231022631671/en/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Bias in AI Computer Vision Systems Dramatically Reduced with Synthetic Data ‘Digital Humans’"
+    excerpt: "Mindtech, the developer of  an end-to-end synthetic data creation platform for training AI vision systems, has announced the"
+    publishedDateTime: 2023-10-23T17:21:00Z
+    webUrl: "https://www.datanami.com/this-just-in/bias-in-ai-computer-vision-systems-dramatically-reduced-with-synthetic-data-digital-humans/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 43
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/10/mindtech-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "SMU lab creating large synthetic datasets to reduce bias, preserve privacy in AI facial recognition systems"
     excerpt: "The quality of any artificial intelligence (AI) model relies on the data it is given. That is why researchers at SMU are creating large datasets to address bias and fairness issues found in facial recognition (FR) technology."
     publishedDateTime: 2023-10-19T12:52:00Z

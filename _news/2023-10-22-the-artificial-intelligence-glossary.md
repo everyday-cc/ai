@@ -89,25 +89,11 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/103470178e8a8c3106f52079f8bf69c0_L.jpg"
         width: 620
         height: 496
-        isCached: true
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
         isCached: true
 
 secured: "dAw22+neRSLDidCmHtgcgnDKZb4HDJQiVkUeozDqLkQ5FNKr/EH9H5VUyxED3BNpNyp1KW7po6rglXttFpUPJlHdVC088AtKQagTg9bftzBmD7bCTovVibOaqs2S9We8pV9CYfcA8sLly3bLWI5f06aPvPyOAKtA6lyzJLZ+xaCBaLRKwZma5GBD2YHKfCH40dhQfb8MpKYVAtNGlbS6/EaprZdol+4O7OIMveDPvT585oyvV5Sf3EJFDN2kDp1/tUA4KZH/eJkbaHprBHCeUkNm4hvrVViDEKl1U1kvwNQRgcw0YIN0RRO5KLRZdd6pvtQOn4ajCcn8FZl+7Czeqcf+TxuBiuu8rcfisCAsfZE=;3JfAMuwMt3o8hdNqcIPQfA=="

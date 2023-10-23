@@ -89,6 +89,15 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
+    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
+    publishedDateTime: 2023-10-20T17:03:00Z
+    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 47
   - title: "Cambricon and Huawei forge divergent paths in AI chip development amid prolonged US blacklisting"
     excerpt: "The recent update to the US government's chip ban has raised concerns about its potential impact on Chinese chipmakers, particularly in the realm of high-performance computing (HPC) chips, including GPUs and AI chips."
     publishedDateTime: 2023-10-20T02:30:00Z
@@ -114,15 +123,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 37
-  - title: "U.S. tightens curbs on AI chip exports to China"
-    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
-    publishedDateTime: 2023-10-18T21:43:00Z
-    webUrl: "https://japantoday.com/category/tech/us-tightens-curbs-on-ai-chip-exports-to-china"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 34
 
 secured: "kilYqKhwQ11u23klncQBxE2LFHzL0ANqxRHO8E7GUZXA/DPgsYIKqrSqSHS3ufDP9tdnyFrauLTy0w1v3RgyGmqd7tW0hL8msYdQLHhbsmKT7kYoiMcR1d9je93x54Xyp8TH0R9IKM4Z306b+vNVIyzi7snoFdu/0NYvNYkfrNnCg0BV4JZ24nNc+a3/FoB0vUcSQyGbbsrvReOwj6CrNmRADxGQStjyQ9gjPPxk7yMZwc5nMJvTO46QF6Xn1vabwtOfU6Y0GMBvKi0HuO6f2Ia8kAzWY4SHNcVdfL1ihmoe/+ZJECIQnk0m3zghX3xCVuQyCTcxZXIDngHwKAnMHUsq7+y54UFkgj9twMUbgbXMx6/S/OO+L2Z2VRW8RrRP7TtEZQd0K+hHocptQo0MVFXKLv9sQeakBbnuxAZBHm18uGGWpViqJ3GPafo7UUSPoa8E9lY2OfhHi6SK5WiUbz1S6M0Q2CxlK9F5QhbOlRsZFeZvOq9XcjUSFiD4wRNpuYS5AFPDIkJyGnEiflkvWA==;6lUc37X+rtyf7kcHEy4wgw=="
 ---

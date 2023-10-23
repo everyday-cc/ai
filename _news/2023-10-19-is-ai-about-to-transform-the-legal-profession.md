@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aol.com/amphtml/ai-transform-legal-profession-230711078.
 cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/ai-transform-legal-profession-230711078.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 976
     height: 549
     isCached: true
-
-related:
-  - title: "Now AI could help healthcare professionals manage depression"
-    excerpt: "New findings suggest ChatGPT ‘may be better than a doctor at following recognised treatment standards’ for this mental health disorder."
-    publishedDateTime: 2023-10-18T23:30:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2023/10/19/now-ai-could-help-healthcare-professionals-manage-depression/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
 
 secured: "DFzSmVSebfCBG4V2HhdoralYKCYYREohMew8xXrqVmb9hWIURKIIdsMaKMc0BaJ4anrCBKIMpOxcxICB/Xzd7vWC4WwETozH4aEJlreyFWcMIKl1BnGGwe8XZNx9eLo0XoZPtixiWPhvEQdPf7PkvcZP1kmbUZS/CxVU1ULvSZIKvKzWgWoIRR2AG+r2EUsc7ItuvPeVgtgAm9bXZ8Hh2l6EG20V/2biOjuuEymZt+i4J9ko16YvUlZwDw7L29ALUzw2u4dPCq4NLFErwZ85YjU/BTFAKoSQDCVqz0DrQFIu1wto6rwhszFc8ALGpfkC7FTgtnw44ebLMXko0hPCEbDpWy2vGWITd3LSBrARsMM=;iFoAjRAotqLbWDYbf+1ATg=="
 ---

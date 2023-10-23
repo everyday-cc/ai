@@ -27,6 +27,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "AI for detecting schizophrenia"
+    excerpt: "A team of researchers at the University College London have leveraged artificial intelligence and related language models to design a tool that can help wi | Technology"
+    publishedDateTime: 2023-10-23T16:59:00Z
+    webUrl: "https://www.labroots.com/trending/technology/26056/ai-detecting-schizophrenia"
+    ampWebUrl: "https://www.labroots.com/trending/technology/26056/ai-detecting-schizophrenia/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26056/ai-detecting-schizophrenia/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 37
+
 secured: "ZDf7ypIMLBJnj9BrTl5CeD70qaaahKDxJmPC37K6pm7IY8PnsEJ7J18VJ7HGDgzj4lSIvPDHGGlJh9d41FmS3f0ghramxFQwMFwVjs79U0v4v1X6D/ehbRnaDvsVQ7iqT3nvflipXI9OCcUHsYcUjahwcdgAOMiXyASWtOQnP9hTYkLmHzK9dChPmIPSYWl5L6o7J+a7E24H+/k2Jg10wBk5BUxejnKWpcYafyDafliobZXSqvypsg+RU1pNp9AHMCZQ+4+WRs4gYTvHknJfaMx1veR2AusSvfdIaEK4CL17CAQ0FMcJXPrNwr4QJwFJtQKUj4VcATNX9MIKyuEeZy367rgya9AKJ5K1iSDwsiqHn9AvMWBzpb+sm05GxP10w0qIM9Kb3Lw3PZTPw/rFAkRF7jobjVbXRMpTxcpbckr7qkgCcruaK0Nu2GM2pnzXDx7MDTh3rd4Hp1i/KqHuALY9bWaPSg6pXA2qwG5S+Kj4WIB3qEXz/mkO12AZrprZUnIZUHBQORrCtqFPFUP3kA==;FvTCy+3vGDHrnqKjdG+CSA=="
 ---
 

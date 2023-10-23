@@ -2,25 +2,28 @@
 category: news
 title: "Is artificial intelligence the new weapon in global threats?"
 excerpt: "Violence in the Middle East is prompting new threats in the U.S. On full display, at protests worldwide there is a deep anger, some experts say soon may be used to harness new ways to try to launch attacks or exploit intelligence in parts of the world bad actors could never set foot in,"
-publishedDateTime: 2023-10-19T21:02:00Z
-originalUrl: "https://katu.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
-webUrl: "https://katu.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+publishedDateTime: 2023-10-19T17:01:00Z
+originalUrl: "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+webUrl: "https://newschannel20.com/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+ampWebUrl: "https://newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
+cdnAmpWebUrl: "https://newschannel20-com.cdn.ampproject.org/c/s/newschannel20.com/amp/news/nation-world/is-artificial-intelligence-the-new-weapon-in-global-threats-ai-terrorism-emerging-threats-innovation-security-stanford-university"
 type: article
-quality: 37
-heat: 37
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: katu
-  domain: katu.com
+  name: NewsChannel20
+  domain: newschannel20.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://katu.com/resources/media/947524d8-1f88-4e91-9880-84956aabcea7-large16x9_thumb_21427.png"
-    width: 986
-    height: 555
+  - url: "https://newschannel20.com/resources/media/32d12674-0eb4-43b9-8838-1dcea66a20c0-medium16x9_AP23291793462047.jpg"
+    width: 648
+    height: 364
     isCached: true
 
 related:
@@ -34,6 +37,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "wyUU2DYc3S6l4skm56Prk+5z67bBSNTwJcFqC+RAmTGFWKPwrH/u54dkWdhjQ558KSYQw+ITPHGkE4qDHFYhjOq/Bk8i/Uhc+O4RudxQjSbj7T2e1II1/D9IGZhP7KW1qnN8wJsfCs7modZgvJuw5r3xdIZMiIitCjlrWhJDWsGBeXDaOvhkM6YWDmeW9okWPs564Hdfkjpyio633VA/dFTP5ugzdvk8L0UfWPpjVouk7Dtrcgn3rNPVzyPu9/7LettaCtZ++qoiZvO3lzw2H35FvIV7FRXXgjNd7pTGnV5Qh0ZmL3/TOwAvGAfOSkjGEt1GN05/rmHOo8f98mHfSI3K5BmjgaNGVXWajM+wJ0RDAlokvrpUG1Cf0YFm+/bKX/so+8NdD1PvU3EqJG4rMW701vDOtNcrLfkUOtUTHUZaei7aNwVwe5nbQGG6aXWhg7weetTuE+TEWiGYKsZU1zrz9gkv2Gy7bNddsMPcclW8dGYfkk0LUeTJlIhpc/nH7Pmk6lH09QGHxcKVmLjOGQ==;EMXjsvt1xJvOjVn1sdb4Ag=="
+secured: "g8Rg7N5E5gPZOyixNwIym+axXXNGKZ5kw9tRkccFpwkxNhogB4/27laQJIKRGbRsYyMZs5i3PCQ5FpcSYse1ovO922Zd3jLWhlSpqUGaoFVGxRlI63UEj/CfIwj2DJ7ZDrf1Muh/GyVf3uTux3ZaCQeC8mvQolMzgK5nNd0dlqltZEP4U5A82C94vjRYN5oISzgRt58BBanwJR/BgHOMv4vFCrPPzOpBDMFee1XX3F17A6H32kqVLNWdrMSiLAuO1NCF6dYDjoZ9j/XyEU6fj2f1dnQk5TqKNVPE6cdtyT9GwYqKsICVtJxaSkF8iNyDM/vMnlv7F/jZ0+T2xyydeSQwgxJlNErNwg8JWYZdyji3gQfzhIMOfvIs6+7WKdbkF53oVCk/Dd25wwxg3W6/smk3wdby/y2A6KdRVGsi76CMXejGs+TelUwVLU57HkWYw9kmn8aqGhH7HnRuZFZ5GeIaPY9FfNnpFVevKKHGJkPklKCTMZMazavVcHJOVy/3VT+10fJYFjoXWDaWnvrUPw==;BSs0XF8rRrO/ddfHuqKPGA=="
 ---
 

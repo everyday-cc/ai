@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/business-67153669.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-67153669.amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,50 +24,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Nvidia and Foxconn partner to build \"AI factories\" for self-driving cars"
-    excerpt: "The Taiwanese manufacturing giant Foxconn and the GPU superpower Nvidia have collaborated to develop \"AI factories,\" innovative data centers designed to power various applications, including self-driving"
-    publishedDateTime: 2023-10-18T19:47:00Z
-    webUrl: "https://www.techspot.com/news/100540-nvidia-foxconn-partner-build-ai-factories-self-driving.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 70
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-18-image-19.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "Nvidia, Foxconn’s New AI Factories Will Develop Software For Self-Driving Cars"
-    excerpt: "Nvidia CEO Jensen Huang and Foxconn CEO Young Liu unveiled AI factories at the fourth annual Hon Hai Tech Day Tuesday. These data centres will not only build Foxconn’s newest electric vehicles but also design the software that powers the fleet of self-driving cars."
-    publishedDateTime: 2023-10-19T03:08:00Z
-    webUrl: "https://gizmodo.com.au/2023/10/nvidia-foxconns-new-ai-factories-will-develop-software-for-self-driving-cars/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 35
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/c67029b9b0c6f8129267f331c534c135.jpg?quality=75"
-        width: 771
-        height: 433
-        isCached: true
-  - title: "NVIDIA and Foxconn team up to build AI factories: will build self-driving cars, and more"
-    excerpt: "NVIDIA and Foxconn are collaborating on developing 'AI factories' with the two companies set to become leaders in the AI manufacturing revolution."
-    publishedDateTime: 2023-10-19T01:10:00Z
-    webUrl: "https://www.tweaktown.com/news/93881/nvidia-and-foxconn-team-up-to-build-ai-factories-will-self-driving-cars-more/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 32
-    images:
-      - url: "https://static.tweaktown.com/news/9/3/93881_101_nvidia-and-foxconn-team-up-to-build-ai-factories-will-self-driving-cars-more_full.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "3ylxvJPVXvipk6fJeTYFMnhM5BEqp6Z5S+/w/4+3wzPdzDDti6KkPlrCiyN5n1iakw7NvQqP3bdkEzkSutQPTZsX/rUPXJq6QCiZpm/Naf/bw4sXIrqQ4mTLkBRkL+PbUqZgLuntrnsM0md3pDlIkbElzQp0S4QQACRwAxqsWtN6S/bP/H73CLmPEHoexiYiOc4zALqisGo89AgROaI+sGHKdI1zoSstOmL9VbiG9xJiyCWK/lKXdKmBiXFpBkGskUBYgrxmpmf+Rn4Q85ebrSxlPZsZDFqhs0PF1qnRFqgUdYq34+QII6Nmrowl7ZUQkHa8fc5++lGmUUE6C9L5rw2bo8sGMAmxdeo4WnMC2CG2a4CCnE/uxlWqCKtuqWu6fKt6aPSXc9gzwuj/qN/eRPi8CoICgxyPhe/NMO+0nuOa9bv04abSWRa1OVf+pkaIv11bO/mGzV4Hu3E90AKa52TAVV396w3lrowX+66y3dhCKEW9BtQU9W/J+J53Gh4OGlVr9iw0uauosQ1u4Lryiw==;XDUEqEFYoE9aE4ovUzXggw=="
 ---

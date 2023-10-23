@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-23T10:22:00Z
 originalUrl: "https://www.fudzilla.com/news/57810-ibm-works-out-how-to-boost-ai-chips"
 webUrl: "https://www.fudzilla.com/news/57810-ibm-works-out-how-to-boost-ai-chips"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - IBM AI
   - AI
   - AI Hardware
+  - Computer Vision
 
 images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/103470178e8a8c3106f52079f8bf69c0_L.jpg"
@@ -81,20 +82,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "The Artificial Intelligence Glossary"
     excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."
     publishedDateTime: 2023-10-21T22:47:00Z
@@ -110,6 +97,6 @@ related:
         height: 633
         isCached: true
 
-secured: "aU4WMiUlk2gDk40hGm1oyofebXdu3fY7GK8Q9nueE1ulGGTCzL4okN5fC2m9KGRvFarB16ukmmgkvMzA3MNFDx3exl3rW45xnTYxd9teaxKJaarcrt682agPywDjXFK5uhcmAU2uWdE29916naiYYk/uG0TjCZaUsHkgSzbSycV8l1wGuVoy+Ky25R/0P6VyyoQxiL8MOTypn9obCLAQ6iJnozM5ebeReyzTErJp/7AxzBcjE93iwkTWp8fAuhefEfPy7TXhXtjSa9SkXcGw7O59RssHMmvmTqAJAT4w3H2OvipUiG49f9Bj5Uy0pzdXux4w7oeTvOZSsYbkQaLaui41zk3/RyDkitrN3lQCQq0=;c2Jg+vcydBhsfRmuC6YmSA=="
+secured: "Kici2sXx5BpvPRBE3tIm5OJxOQ7sEWbADqWhDy/efeSo52g2TuXjnikJGP6w7i/cZWhNjQicCmvQv6pss18JYqjzCDUNbIdGCKMddWbkFkO3bzB4+PWha7dlZcuKjeCBB5Htzd/+uwxXRZZAwtysgo2HazRvZBgk+ioD7w+AHvlurP6b8joHNwyWU6/LkJU3jRX1bIVylE2lhHMCbSU0J1p/lzwn8i/QQF4P3ErfDYa/07t4JPZFmCEdGkqS2XQBPpOT3Xikdcl2/n7X2dWozScie9X4HQdEVuI0DV5jcnSH+VXqJjEbbl6qsA7Ldz/kS64/cXz29/oxzOiYLuRAUMU+oZLhATs/tp3QgKmSAqa+tS4h/dSTmdGs/9mRICmB9gVCsP9gEqSelXoy1lGPZTS1tsMfaKblOhyJoPNExbdmufOFvjfsT0q40dpNjyWkenLPqUCTRYLKNZV8EBV2IYDa3pUiNQQEpeM4iurDTPeJMJlv6OBgBWpMtZH8oAXhDOaHfp5YiengpZKO+LYIqw==;9zjA6Y2QQj/K+9Rq9uMZSA=="
 ---
 

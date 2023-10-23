@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Adaptive optical neural network connects thousands of artificial neurons"
-excerpt: "What is needed for a neural network in machine learning are artificial neurons which are activated by external excitatory signals, and which have connections to other neurons. The connections between these artificial neurons are called synapses – just ..."
-publishedDateTime: 2023-10-23T10:15:00Z
-originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php"
-webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=63910.php"
+excerpt: "Modern computer models—for example for complex, potent AI applications—push traditional digital computer processes to their limits. New types of computing architecture, which emulate the working principles of biological neural networks,"
+publishedDateTime: 2023-10-23T14:32:00Z
+originalUrl: "https://techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.html"
+webUrl: "https://techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.html"
+ampWebUrl: "https://techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-10-optical-neural-network-thousands-artificial.amp"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/nanotechnology-news2/id63910_1.jpg"
-    width: 800
-    height: 534
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/adaptive-optical-neura.jpg"
+    width: 2126
+    height: 1418
     isCached: true
 
-secured: "xFFCVxwu1Da1FIyuk06g4EbHVfoT0b+FQ3sz3kWhcfdzdAotYfoWEitwwE9zR5NNgDjLP78UK7cTyGvQae3vwSBP4X+o7tVwQ73Rq5zhslnVewZqzzp7aPLw1ehNm4MK1laaSfTU6umdH8uP/8onaerY0m7jqu/dDPdCTd7OWqxFtOaD577jUjSHLRQKsx/j1O9c9bxQUIbcWeTFJti/30usFwxJU7yZh5pg/9UCQtmEIZZBIQ04K3TVDrqXdsJFnjU1KIoNRj/nNw5/G2CiDlGQuPw9Cauo5FjemfYDZXUkSZaNiYHGICK3psW2sWWEKDNN7NevafkK1eUNV4M6Lz8PyxagDbQZ6AADnHK3JqE=;HORy66MidwW7R03xEWfnhQ=="
+secured: "Dwxjo1tAmIMLLd7/ZRbB5z05qMA4kVVPnZoXaFriOEfyDSb21+GyHAgRXj96xdMKIudR5101Lm7yg6wEsBTL/5BFuzVkcxH0T9T8qPY3ISlHOAm8Q9VOBgit8gRatrIgeXuh8b3xyMLIv/+jR+K/LAtsqxRJRLKwzFdXuEJK0oVzcoYqUCdjODHd8V7sSCXc4O2W+XLusKUywtUNQOk8UJYtCqFrPS4IUyWG4CJOiksJqYo142FbVfqCBneTfN6d9y2jH19E//24Ogk0Nrrtfjoibebhg0kPrZgktaZfTeDExzjdzWSlQYROU7cnrsjOpWes1VzdN3BbUzwRvehUPa0F2uIkvcQRH63tPD4M2ZF27BeyY61N/8n1bSnP7hn2CVwcJ7nFYcdRqKgm3hBhoNzLvxm4j6zRoJbpnMD1kpF4TWX7XqPD/QZ3DJrCZHET6szjXTbwjlVPSy7CYnooBRtzCyLeUwRX31991n2RrNZrE9ZUdMhaLMWUG1nBYJH+SM9ezXnEeuKQJ3OrmOk16g==;7I3eUL4eNNmtYxchwNc8KA=="
 ---
 

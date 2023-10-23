@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 754
         isCached: true
-  - title: "Clearview AI Successfully Appeals $9 Million Fine in the U.K."
-    excerpt: "A court ruled that a British agency does not have jurisdiction over how foreign law enforcement agencies use citizens’ data."
-    publishedDateTime: 2023-10-18T21:14:00Z
-    webUrl: "https://www.nytimes.com/2023/10/18/technology/clearview-ai-privacy-fine-britain.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/images/2023/10/18/multimedia/18clearviewai-ico-fvmb/18clearviewai-ico-fvmb-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "US surveillance and facial recognition firm Clearview AI wins GDPR appeal in UK court"
     excerpt: "U.S. surveillance and facial recognition firm Clearview AI has won a court appeal in the United Kingdom after being accused of alleged infractions related to the U.K’s general data protection regulation (GDPR). Originally, the company was fined nearly ..."
     publishedDateTime: 2023-10-19T17:42:00Z

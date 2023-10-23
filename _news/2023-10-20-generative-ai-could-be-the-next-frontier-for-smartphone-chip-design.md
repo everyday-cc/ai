@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/smartphone-hardware-adapt-power-g
 webUrl: "https://www.androidauthority.com/smartphone-hardware-adapt-power-generative-ai-2024-3373668/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Apple Generative AI Features and Smarter Siri Could Launch Next Year"
-    excerpt: "Apple is developing a large array of features that use generative AI, according to Bloomberg's Mark Gurman. In his latest \"Power"
-    publishedDateTime: 2023-10-22T12:52:00Z
-    webUrl: "https://www.macrumors.com/2023/10/22/apple-generative-ai-features-and-smarter-siri/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 19
 
 secured: "hoqm1L1cU51NYNjwe3Au3QSgXMSGgkOsjJBTvGBTP5n/uQftTCgRKuL2K4XBEmrurvy7YXRdDETDguUHxA7tM2sHzRX43TbdyUl0J2Q1A5dgwGq5zUns8dwHvNHybWBbvMOz+r+1V7pIa+lKc5KPhvo70QU8b5bpwE29mfouJz/RtsQ0dmIqSCPwswbJ5sKNR0PilG9paIoGe6277Gnv5m7OvMODtkAI4NmKwXfy7BCnj9wOD2wrt+ZdBW5Cs//xBcyYVd4A3Vu+RV+BAA5GxxhgodB70O5RDJtURZcyJJ1I1ZtwzeOjy6OTNVry0a3PTONkDZkaCZPsdexYXGgQXUSzVpXRuwit6hRyfszM1Vuj0cHUXkRPr9M3vlLS5D9LTxI0GNVtvjUHnT0N5dv+RLsjB+aw3r4FRHrgrVcTNASHvi7pq8DgQQ1LA1vzre8Sb8FiJhIbg5tG7D53JP4wJZhaQgoP4Aq8L+jAV1x3BI1k9zoGIu3I1SL9naI/gsbpqui5q9zmujPwkLZF92FhGQ==;z2aNaM2TYC33ZsWLIX1eqw=="
 ---

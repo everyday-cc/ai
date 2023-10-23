@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial
 cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/ai-used-in-healthcare-could-amplify-racial-bias-in-medicine-new-study-says.amp"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence has new use in emergency medicine"
-    excerpt: "Artificial intelligence now has a new use in medicine. It’s helping to diagnose blood clots suspected in the lungs."
-    publishedDateTime: 2023-10-18T20:29:00Z
-    webUrl: "https://local12.com/health/health-talks-by-trihealth/artificial-intelligence-has-new-use-in-emergency-medicine-ct-scan-trihealth-tri-health-pulmonary-embolism-embolus-ai-tech-future-healthcare-cincinnati-ohio"
-    ampWebUrl: "https://local12.com/amp/health/health-talks-by-trihealth/artificial-intelligence-has-new-use-in-emergency-medicine-ct-scan-trihealth-tri-health-pulmonary-embolism-embolus-ai-tech-future-healthcare-cincinnati-ohio"
-    cdnAmpWebUrl: "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/health/health-talks-by-trihealth/artificial-intelligence-has-new-use-in-emergency-medicine-ct-scan-trihealth-tri-health-pulmonary-embolism-embolus-ai-tech-future-healthcare-cincinnati-ohio"
-    type: article
-    provider:
-      name: Local 12 WKRC Cincinnati
-      domain: local12.com
-    quality: 59
-    images:
-      - url: "https://local12.com/resources/media/52319a7f-6dd3-4c22-8d92-4dff6fcb03cf-large16x9_thumb_14167.png"
-        width: 986
-        height: 555
-        isCached: true
   - title: "World Health Organization Addresses AI In Healthcare Bias, Outlines Guidance For Regulatory Compliance"
     excerpt: "World Health Organization (WHO) has unveiled a comprehensive publication highlighting critical regulatory considerations for harnessing the potential of"
     publishedDateTime: 2023-10-19T15:08:00Z

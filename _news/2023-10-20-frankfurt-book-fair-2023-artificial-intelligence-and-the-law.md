@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "TED AI 2023: A historic symposium on benefits, risks, and applications of AI"
-    excerpt: "Hosted by Anderson and entrepreneur Sam De Brouwer, the first day of TED AI 2023 featured a marathon of speakers split into four blocks by general subject: Intelligence & Scale, Synthetics & Realities,"
-    publishedDateTime: 2023-10-18T20:13:00Z
-    webUrl: "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/"
-    ampWebUrl: "https://arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/"
-    cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/10/ted-ai-2023-a-historic-symposium-on-benefits-risks-and-applications-of-ai/amp/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 84
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tedai_2023-hero-800x450.jpg"
-        width: 760
-        height: 437
-        isCached: true
   - title: "Tech Live 2023: How Meta Plans to Connect You to AI Friends"
     excerpt: "Meta runs Facebook, Instagram ... Joanna Stern: But they're AI personas. Chris Cox: Exactly. So the other thing we built is, in doing the research for how do you make these chatbots engaging, what is it that works for people with these chatbots?"
     publishedDateTime: 2023-10-19T16:13:00Z
@@ -54,6 +38,33 @@ related:
         width: 1280
         height: 1280
         isCached: true
+  - title: "Prompts are key in 2023: Twenty-five tips to help you unlock the potential of generative AI"
+    excerpt: "The goal is to use generative AI as a tool in your broader decision-making and brainstorming process. Combining AI's suggestions with your expertise and knowledge of your business and market will yield the best results. By integrating these AI insights, we're not merely keeping up with the times; we're"
+    publishedDateTime: 2023-10-23T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/prompts-are-key-in-2023-twenty-five-tips-to-help-you-unlock-the-potential-of-generative-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 59
+  - title: "Chicago AI Conference 2023: Shaping The Future Of Finance With Responsible AI"
+    excerpt: "Chicago AI Conference Speakers The Chicago AI Conference, organized by the AI 2030 Initiative, FinTech4Good and co-host"
+    publishedDateTime: 2023-10-20T18:43:00Z
+    webUrl: "https://menafn.com/1107278575/Chicago-AI-Conference-2023-Shaping-The-Future-Of-Finance-With-Responsible-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 33
+  - title: "IT Arena 2023: The Future of AI, Startups, and Tech Cities"
+    excerpt: "Daniel Prieto, former Director of Cybersecurity Strategy at the White House, agrees: \"Generative AI can be used for disinformation and creating deepfakes, which poses a risk.\" IT Arena hosted the battle of the most ambitious startups - Startup Competition."
+    publishedDateTime: 2023-10-23T13:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/23/10/35374068/it-arena-2023-the-future-of-ai-startups-and-tech-cities"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "UoU6XcKXP9H6Kkuy1ktVmoQtpXHMBWtWR/rlfEaz/efRVILL9Yxx3dRa3CRFfHWI3f/+3kFBIkRODLSxwHb9Q9QB5m0byehCAURw9oyxDXysrdjK4g/DqeBm3Y2RUvxSwYuMyPPNnZ0sWdT574ii5VxFobIgKqsl26WApNW1S686EH0yYVoV+jkxjRd2yKT0+rCQbQPGQRO2rXliwG0nnYQWUafiEJVrKgF9LEq4mjl18mm2/o27IIp8EWUZzWkhAfxvUSUNtd7HGJFChqoidrBDnThFl4lVU9zj913KH/uwGlhxhp7cX9ZCBQRPzCa3O+Hqjn/yz1gpeN9P+45067jm+HQOY6g3RUByKfdrJSlNYmJCcHG0pTvgwzS2davgFR019V93Wm7DXlzTcRJoKvhFucCoTLg7xiIoUsFEsr++2738U7gYMzufrTVKS6xjwscfMzHUCkQLSjqnRDDdXPRfKRWJ7Jb8eEpXCh7grnanduYrU/+oLKmRRxl6jH/z0URKEyyxGpMc7qlzH7LMWQ==;MhKML78M08ZuTnCkmsZoBw=="
 ---

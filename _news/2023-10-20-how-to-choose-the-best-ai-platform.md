@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 webUrl: "https://www.ibm.com/blog/how-to-choose-the-best-ai-platform/"
 type: article
 quality: 99
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -77,25 +77,11 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/103470178e8a8c3106f52079f8bf69c0_L.jpg"
         width: 620
         height: 496
-        isCached: true
-  - title: "Adapting to AI in the Classroom"
-    excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
-    publishedDateTime: 2023-10-18T21:01:00Z
-    webUrl: "https://pratt.duke.edu/news/adapting-to-ai-in-the-classroom/"
-    type: article
-    provider:
-      name: pratt.duke
-      domain: duke.edu
-    quality: 41
-    images:
-      - url: "https://pratt.duke.edu/wp-content/uploads/2023/10/AdobeStock_563033194-scaled.jpeg"
-        width: 2560
-        height: 1706
         isCached: true
   - title: "The Artificial Intelligence Glossary"
     excerpt: "A guide to the key terms you need to know and understand when discussing AI. Artificial intelligence is dominating conversations across all industries, including legal. To help legal professionals navigate this fast-evolving space, below, we define many of ..."

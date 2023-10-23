@@ -53,19 +53,19 @@ related:
         width: 977
         height: 535
         isCached: true
-  - title: "GSA to add facial recognition option to Login.gov in 2024"
-    excerpt: "After determining early last year that it would hold off on using facial recognition as part of its governmentwide single sign-on and identity verification platform Login.gov, the General Services Administration in 2024 will add an option for system users to verify their identity with “facial matching technology,” the agency announced Wednesday."
-    publishedDateTime: 2023-10-18T21:45:00Z
-    webUrl: "https://fedscoop.com/gsa-to-add-facial-recognition-option-to-login-gov-in-2024/"
+  - title: "Israel is using Amazon Rekognition to locate missing and dead"
+    excerpt: "Amazon Rekognition is being used in Israel to locate missing and dead after a deadly attack by Palestinian Hamas two weeks ago."
+    publishedDateTime: 2023-10-23T14:31:00Z
+    webUrl: "https://www.biometricupdate.com/202310/israel-is-using-amazon-rekognition-to-locate-missing-and-dead"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2021/03/GettyImages-624863836.jpg"
-        width: 2100
-        height: 1104
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/04/13181356/face-recognition-scaled.jpg"
+        width: 2048
+        height: 1812
         isCached: true
   - title: "Safety, privacy professionals caution against facial recognition in US schools"
     excerpt: "As FRT deployments and restrictions proliferate among American schools, observers are calling for sober evaluation of claims made by biometrics vendors."

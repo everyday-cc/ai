@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta wants to supercharge Wikipedia with an AI upgrade – Digital Trends"
-    excerpt: "Digital Trends may earn a commission when you buy through links on our site. Why trust us?Wikipedia has a problem. And Meta, the not-too-long-ago rebranded"
-    publishedDateTime: 2023-10-18T21:25:00Z
-    webUrl: "https://www.inferse.com/761561/meta-wants-to-supercharge-wikipedia-with-an-ai-upgrade-digital-trends/"
-    type: article
-    provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 39
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12184.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI tidies up Wikipedia’s references — and boosts reliability"
     excerpt: "A neural network can identify references that are unlikely to support an article’s claims, and scour the web for better sources."
     publishedDateTime: 2023-10-19T16:53:00Z
@@ -53,6 +39,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Ag428tbuF9EbjHiyBE3+c9tyiOMqccxvxFdSg9Xio68U5TgBuZaBSaNT+U9SEJ7QspUkgo/yJNj8W+RkTNDOTnKbDLeM5x5Gh0157sMvRM0zznnVw48i99b4aQrchUvNMP4Fs9X8neMOGB2Ye0SQuMs+P7KV4f0kEoAJUReEcM86NyFLOxGYpDYmeP78LHq3EYIfhH/lAgKkt0C18LwhseD5/W3vOKjlsmJ2jrOlzPNCyIxe/bU4rzZln/aCUuRijvrr3nUXt02p4Cmvcp1To3RKjP2ay3E5aBd4j0u+t7bH4GXyDMAytfRG54WtUMjPTYsWn8OGM1GQDBRjjzVAzSwbt9Q81u4gR32Im4xpyBE=;fAFDZWSLWUu5KVik5uHACQ=="
+secured: "YB+oGpBh3IRlvMRix+XaKjYMgJSvFQV7kPPyk2cepGxK1luph7M7n1LT9tc3l60ZFigts36abIKBZ32d3dTlKiIfQ8x2e7SWxcvqoY3pABTYqCMMiB0X42+F7HTC1ZupLFpChmTlcfRxPvtTsERZlhDAAg0DpkYJQ291VjUFiuVREIaMPghmqe+DrxPoe5q42WFtgPBA1cap2V5JfTY8bq/SMrVm1pw3/CtzKQAhne5jP+ExgdA5odcekNogsLZuTcv9Sm/JdLLOieZJQ245mDTtIxk1vXJXAK2H/p+PwPwlRct4plFnefwn6NEYScSfy6o3mddsl49CkRw7micmc5l56OKpUdvxTyV7ji3/9j7/z8cg/7Nyts0Mkr99QIMQ5JXpcHY9nVcyYhQjwWe3LNDh3Tlszkn4xzWB2cy5PVsyCSlpc51MaQkGU1LkG/GaKtHNkDeIS03GR0ZceZCh1FsKD5HKOGKSZci4jk1cCXfzt1hmWSC67BSyBSE0qWreO5AR21upxvcsDFMWGDDq1g==;V5q/KIOvysKhsOindedB+Q=="
 ---
 

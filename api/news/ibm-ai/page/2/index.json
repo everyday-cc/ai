@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2023-10-10-deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops.md",
+      "title": "Deploying applications built in external CI through IBM Cloud DevSecOps",
+      "excerpt": "What is IBM Cloud DevSecOps and how can it be used to guarantee secure and compliant applications?\nThe post Deploying applications built in external CI through IBM Cloud DevSecOps appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops/",
+      "originalUrl": "https://www.ibm.com/blog/deploying-applications-built-in-external-ci-through-ibm-cloud-devsecops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-10T05:44:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-10-ey-and-ibm-launch-artificial-intelligence-solution-designed-to-help-increase-productivity-and-drive-efficiencies-within-hr.md",
       "title": "EY and IBM launch artificial intelligence solution designed to help increase productivity and drive efficiencies within HR",
       "excerpt": "The EY organization and IBM (NYSE: IBM) today announced the launch of EY.ai Workforce, an innovative HR solution that helps enable organizations to integrate artificial intelligence (AI) into their key HR business processes.",
@@ -1256,57 +1298,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-09-20T13:58:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-20-foundational-models-at-the-edge.md",
-      "title": "Foundational models at the edge",
-      "excerpt": "Foundational models (FM), which are trained on a broad set of unlabeled data at scale, are driving state-of-the-art artificial intelligence (AI) applications.\nThe post Foundational models at the edge appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/foundational-models-at-the-edge/",
-      "originalUrl": "https://www.ibm.com/blog/foundational-models-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/09/dji_0051-0060.blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-20T08:55:52-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

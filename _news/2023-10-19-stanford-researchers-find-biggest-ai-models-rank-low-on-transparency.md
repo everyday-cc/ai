@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How transparent are AI models? Stanford researchers found out."
-    excerpt: "Join us for key insights and networking with leaders in the Data and AI spaces at VB's exclusive after hours event this November! VentureBeat presents: AI Unleashed - An exclusive executive event for enterprise data leaders. Network and learn with industry peers. Learn More"
-    publishedDateTime: 2023-10-18T22:37:00Z
-    webUrl: "https://venturebeat.com/ai/how-transparent-are-ai-models-stanford-researchers-found-out/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/Untitled-design-2023-10-18T093154.335.png?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "AI Models Lack Transparency: Research"
     excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the rapidly-growing technology."
     publishedDateTime: 2023-10-19T15:16:00Z
@@ -73,21 +59,35 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
-    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
-    publishedDateTime: 2023-10-20T21:41:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+  - title: "Research: AI models lack transparency"
+    excerpt: "Artificial intelligence models lack transparency, according to a study published Wednesday that aims to guide policymakers in regulating the"
+    publishedDateTime: 2023-10-20T00:55:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2023/10/20/research-ai-models-lack-transparency/97330"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 50
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
-        width: 1200
-        height: 630
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2023/10/20/156351.jpeg?v=1697767380"
+        width: 1000
+        height: 500
+        isCached: true
+  - title: "Transparency Seems to Die a Death at the Government’s AI Summit"
+    excerpt: "The Government is hosting a high-profile, much advertised AI Safety Summit in November. Among those rumoured to be attending are King Charles, alongside Justin Trudeau, Ursula von der Leyen, Emmanuel Macron,"
+    publishedDateTime: 2023-10-23T10:47:00Z
+    webUrl: "https://bylinetimes.com/2023/10/23/transparency-seems-to-die-a-death-at-the-governments-ai-summit/"
+    type: article
+    provider:
+      name: bylinetimes
+      domain: bylinetimes.com
+    quality: 39
+    images:
+      - url: "https://bylinetimes.com/wp-content/uploads/2023/10/2R7ATT4-600x314.jpg"
+        width: 600
+        height: 314
         isCached: true
 
 secured: "It9mpfUNQk4+/OYtRsnEwhxjUO5yHSuhQHI0ShWsjyJYlkGxvSDrjJy5lDBiDhvD+4Nhje8v9ZRRGT3skrsDbSNqkwWIb6nOmeMaVcMk7IKdioa1rg9VjlgZnCYmSeAlYUz3cyosHIyplwgSHbVIf3+taBShLSwsOS4YLt6XfuO0IYG7N1011OgQWHmFH/0poMiuHhYfw9YiAA0HGApaFdYVNO3cDHck/9bwrobOHIGq83trwsE2vmqjPZ9mrb57+UHmML/lRgj21K5Vl1P812yHMO6ZL5zxP1bb35wvx1CyGZwjTvRH66Wj8/RDR/VtZm+ivZVtaaxqat/oxylO3MEY+u4MyiMSEZy3B5krAuU=;Nl4bZn2B95ZPEaMnUTG6BA=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-chin
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/nvidia-tsmc-stock-ai-chips-china-earnings-e6fc5dc9"
 type: article
 quality: 66
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle loops in Nvidia’s AI stack for end-to-end model development"
+    excerpt: "Nvidia's DGX Cloud and AI Enterprise software both are now available as dedicated apps on the Oracle Cloud Marketplace"
+    publishedDateTime: 2023-10-20T18:08:00Z
+    webUrl: "https://venturebeat.com/ai/oracle-loops-in-nvidias-ai-stack-for-end-to-end-model-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-20-14.04.11-Illustration-of-the-circuit-board-rollercoaster-with-ethereal-clouds-of-data-enveloping-it-while-lines-of-computer-code-represented-as-luminous-gree.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
     excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
     publishedDateTime: 2023-10-19T17:42:00Z
@@ -41,24 +55,48 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia is still the darling of Wall Street analysts, despite new AI chip restrictions. But for how long?"
-    excerpt: "Investors have dumped Nvidia (NVDA) stock aggressively in response to tougher U.S. restrictions on the export of artificial intelligence chips to China."
-    publishedDateTime: 2023-10-20T17:03:00Z
-    webUrl: "https://www.cnbc.com/2023/10/20/nvidia-is-still-the-darling-of-wall-street-despite-new-ai-chip-rules.html"
+  - title: "US administration to further curb China's access to Nvidia AI chips"
+    excerpt: "The Biden administration will restrict shipments to China of more advanced artificial intelligence AI chips designed by Nvidia and other US firms"
+    publishedDateTime: 2023-10-19T16:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/274004689/us-administration-to-further-curb-china-access-to-nvidia-ai-chips"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
-  - title: "ANALYSIS-US chip curbs give Huawei a chance to fill the Nvidia void in China"
-    excerpt: "While Nvidia NVDA.O has historically been the leading provider of AI chips in China with a market share exceeding 90%, Chinese firms including Huawei have been developing their own versions of Nvidia’s best-selling chips, including the A100 and the H100 graphics processing units (GPU)."
-    publishedDateTime: 2023-10-23T00:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/analysis-us-chip-curbs-give-huawei-a-chance-to-fill-the-nvidia-void-in-china-0"
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1697685003957.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Foxconn and Nvidia collaborate to supercharge the AI industry"
+    excerpt: "Ten months after announcing their partnership, Nvidia and Foxconn aim to supercharge the AI industrial revolution."
+    publishedDateTime: 2023-10-19T16:31:00Z
+    webUrl: "https://techwireasia.com/2023/10/why-are-foxconn-and-nvidia-building-ai-factories-and-together/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 46
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2023/10/Jensen-Huang-and-Young-Liu_2.jpg"
+        width: 1229
+        height: 819
+        isCached: true
+  - title: "Nvidia, Foxconn’s New AI Factories Will Develop Software For Self-Driving Cars"
+    excerpt: "Nvidia CEO Jensen Huang and Foxconn CEO Young Liu unveiled AI factories at the fourth annual Hon Hai Tech Day Tuesday. These data centres will not only build Foxconn’s newest electric vehicles but also design the software that powers the fleet of self-driving cars."
+    publishedDateTime: 2023-10-19T03:08:00Z
+    webUrl: "https://gizmodo.com.au/2023/10/nvidia-foxconns-new-ai-factories-will-develop-software-for-self-driving-cars/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 35
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2023/10/c67029b9b0c6f8129267f331c534c135.jpg?quality=75"
+        width: 771
+        height: 433
+        isCached: true
 
 secured: "JAIN6uOGT+2ERz1IO8QqHSVGQwHqOWFVUSFt/m4s2GYCKVuwjVtdVqhqQ4n7pFOihBxJMVqEdATkY3QUflmdqjBkx2n0Jink5MqV4IhmEeRZiPk/xv1lKA1PO6rDVkT7no5uSnP0j5PUrutdbQJJaFbIbmR27SJcHo3f2MdG1k5OBWmIEHIA72bAcYGjWwegCUjgwl75uwjWHCLfAQ5JuMqalLrPJ9gy0LbP6zzrKKyG2IqH9YI2Ejsuycd+TZkJbf9SUWO5oy1uGMRxEQfEiQqD+BP4ARABE3ihxx+9IhjgTPpbaTpwpDpdSTqnKiOHUJTvAnOnAmt1dMm57a3S/Obp3V+dDUGmJPqudokJk5KZDppctWvvJtI/z3nQacs3haufcELVzCnSiqD4ZI4FTRGNe76M2oXN2oC8oVdKiMm44mcz4o0P9FDDf6LvGa26ZVCoQPAptlIQpZNsGDNhGVxStMDJUacdOazknchcRCZd8n2m6Y9gJDzGZADg6egz2jDx16mvM315f17GWy3DXg==;ILxFCbUTvS29trjqNcKe1g=="
 ---

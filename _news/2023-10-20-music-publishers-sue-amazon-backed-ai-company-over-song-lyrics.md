@@ -38,22 +38,6 @@ related:
         width: 1920
         height: 1633
         isCached: true
-  - title: "Universal, Concord, ABKCO Sue AI Company Anthropic for Copyright Violation"
-    excerpt: "Three major music publishers, Universal, Concord and ABKCO, filed a complaint against the AI company Anthropic for copyright violations."
-    publishedDateTime: 2023-10-18T21:45:00Z
-    webUrl: "https://variety.com/2023/music/news/universal-concord-abkco-sue-ai-company-anthropic-copyright-violation-1235761250/"
-    ampWebUrl: "https://variety.com/2023/music/news/universal-concord-abkco-sue-ai-company-anthropic-copyright-violation-1235761250/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2023/music/news/universal-concord-abkco-sue-ai-company-anthropic-copyright-violation-1235761250/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 55
-    images:
-      - url: "https://variety.com/wp-content/uploads/2023/07/featured_demo_divide_ai_r2.jpg?w=1000&h=563&crop=1"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Universal Music sues AI start-up Anthropic for scraping song lyrics"
     excerpt: "Universal Music has filed a copyright infringement lawsuit against artificial intelligence start-up Anthropic, as the world’s largest music group battles against chatbots that churn out its artists’ lyrics."
     publishedDateTime: 2023-10-19T13:38:00Z

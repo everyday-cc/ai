@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 60
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
     publishedDateTime: 2023-10-22T09:48:00Z
@@ -158,6 +144,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/fuy8sm/article67439978.ece/alternates/FREE_1200/PTI12_6_2014_000132A.JPEG-01abc.jpg"
         width: 1200
         height: 1594
+        isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 58
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Bitcoin-centric AI language model aims to drive BTC education and adoption"
     excerpt: "Novel AI language model Spirit of Satoshi trained on Bitcoin-related resources aims to drive education and BTC adoption."
@@ -220,6 +220,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "How governments are approaching the regulation and use of AI"
+    excerpt: "“AI is not just about the technology; it’s going to impact aspects of our daily lives that we can’t even imagine right now,” Dillon said. “We need to really concentrate on and address the ethics and the regulations and the workforce concerns and ..."
+    publishedDateTime: 2023-10-23T14:13:00Z
+    webUrl: "https://www.cityandstateny.com/policy/2023/10/how-governments-are-approaching-regulation-and-use-ai/391389/"
+    type: article
+    provider:
+      name: City & State New York
+      domain: cityandstateny.com
+    quality: 39
+    images:
+      - url: "https://cdn.cityandstateny.com/media/img/cd/2023/10/20/GettyImages_967906100/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "The Federal Trade Commission and Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) burst into the public consciousness less than one year ago, with OpenAI’s highly successful public release of ChatGPT. Since then, AI-enabled products and services have proliferated throughout the economy. AI-enabled tools ..."
@@ -319,6 +333,15 @@ related:
         width: 487
         height: 250
         isCached: true
+  - title: "Why actors are fighting for AI protections"
+    excerpt: "Actors on strike amid contract negotiations with production studios are fighting for protections from artificial intelligence (AI), but the concerns they’re highlighting raise risks beyond the scope of movies and television."
+    publishedDateTime: 2023-10-23T13:00:00Z
+    webUrl: "https://www.aol.com/news/why-actors-fighting-ai-protections-100000324.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 17
 
 secured: "ASK/+i4eWi10QQ7s8dH21kx86K1aSx7AEwZwjtIxcJG0drG4qOD9Vpxr00uO+8jjmMAfIrbY9Jv3gFbs1g0dsCguqe1KBfJb6zZNWift8gbIGzq2pxPe1A8AytxahrkV8vQqkkuVVkCOtFXeWaTIog5jcAkZkwjjujWl9p6wJpPsnXMA/qixrT/CkTezQPGLi7beJm2K5u3K5YWTjCu8xdhByLkCP04JiuTbz7UpVJ5uGvmN928DwotMUWlwLe3AbmkXi/mOxvFp00cXf+O3trE9nb5Q97YbK4ZaJso6SX7GeplvpN1+/pnPfY7zvYCP/x85w+122APMdWaAio2OXQNmoe8lfOBJTJE6VzymeMNYlVOynsrCc42+ruaemnb4I08Iqe3/SpR3qm1ULjWkO7GFG2SbMn+TnclmnF0kAHEtsw6P2ichLo3PDUYlXk+zmANXBHoSa/CNwBXn071F3T516lb+8IYF/MJ1aHGZRXGtuQFppdRiUgyWEpgIYxeqjv9iji6RLfqLoinGjPnLsQ==;xSYlJEz5/shjbxH9B/+cyQ=="
 ---

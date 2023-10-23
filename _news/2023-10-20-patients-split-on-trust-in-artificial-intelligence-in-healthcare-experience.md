@@ -7,8 +7,8 @@ originalUrl: "https://patientengagementhit.com/news/patients-split-on-trust-in-a
 webUrl: "https://patientengagementhit.com/news/patients-split-on-trust-in-artificial-intelligence-in-healthcare-experience"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: patientengagementhit
@@ -25,38 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Most U.S. patients don't trust AI in healthcare settings, feel transparency would help, Carta survey finds"
-    excerpt: "Three out of four Americans don’t trust artificial intelligence in a healthcare setting, and most have no idea whether their provider is already using the technology, a new survey has found. | Many respondents admitted their understanding of AI is limited,"
-    publishedDateTime: 2023-10-20T19:20:00Z
-    webUrl: "https://www.fiercehealthcare.com/health-tech/most-americans-dont-trust-ai-healthcare-setting-carta-survey-finds"
+  - title: "6 retail leaders innovating the customer experience with AI"
+    excerpt: "Here's Insider's list of innovative retail leaders who are revolutionizing the customer experience with AI, from GE, Instacart, and more."
+    publishedDateTime: 2023-10-23T16:29:00Z
+    webUrl: "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10"
+    ampWebUrl: "https://www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/people-revolutionizing-customer-experience-ai-2023-10?amp"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 36
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
     images:
-      - url: "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1300745916.jpg?VersionId=aRHtL7bdrHI1zRuRxO5M6K9eoyNFUAVl"
-        width: 788
-        height: 443
+      - url: "https://i.insider.com/6532961996f7540cd0618e44?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "WHO says AI can transform healthcare if understood properly"
-    excerpt: "Artificial Intelligence has the potential to transform health treatment but rapid roll-out without fully understanding how AI performs could end up harming patients, the World Health Organization said on Thursday."
-    publishedDateTime: 2023-10-19T13:20:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/technology/885712/who-says-ai-can-transform-healthcare-if-understood-properly/story/"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 34
-  - title: "Most Americans don't trust AI in healthcare settings, feel transparency would help, Carta survey finds"
-    excerpt: "Three out of four Americans don’t trust artificial intelligence in a healthcare setting, and most have no idea whether their provider is already using the technology, a new survey has found. | Many respondents admitted their understanding of AI is limited,"
-    publishedDateTime: 2023-10-20T19:20:00Z
-    webUrl: "https://www.fiercehealthcare.com/health-tech/most-americans-dont-trust-ai-healthcare-setting-carta-survey-finds"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 18
 
 secured: "k+3O+CQR1WTzEFjTkijPoavNfe603iUHhQA91GrvRQ1s51/QFVBbUXXiQGEre9jOkiZP2l1hurR/CI2ihd7UwetMjgcQ9E26I1bTuhtE9LtRe9NdaPJloJ3FJOhhE4BV+s8hi786gMtGFvYfnZ0zWS1+i/w7N4UoUEIouYR0DiyeFGME0pmXpNrWNyIu3YR7hzI3W8VNBLcGaMhtTfSFMM7JXbh3KyEYVt2awoN1YkG/dnm7DvTQ/ZKZwr2GucF9EyvM9ObBZ6jnyhb3wVQY7WFoJiOXsWKTLTSWRabyjgjz0h98C7xh0yj2q8BQlqEi2QsXUxj2PdSZG5aTKq4W0dkI81wHxXRPlI3+FpfTRz4YIFJTFWo/DEkDDVWH1JAFyfaKgcCI9tqvGExfYkqqMOjpVFq6uT/jb1lPj+s0zt1ZLgolJTS2+ukmeuyX4XYw7iPrViCvzZAYdAsrot+B96Tm6YlBLAOfdVHnuNFYAJcww5DovyF6JTzAJQA+uiUBnIGW0VyQCgLSQ1E/UZ4lFw==;gQKqXEf0GBlmlznDDmIzaA=="
 ---

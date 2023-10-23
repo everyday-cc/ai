@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
+    excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
+    publishedDateTime: 2023-10-23T15:16:00Z
+    webUrl: "https://www.androidauthority.com/snapdragon-8-gen-3-leaked-specs-3378618/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 49
 
 secured: "m6+bX/pfIiMufCa3cLnFyEFNxn4r566xHBWlM9tjlCHJzeKEGnVyk5IXctj8kk/63p3Iqu1taSgjxkDPaWvFiPI44dPH/qnYoVPPM0pZDZa4qkRuoGnQyfGgWGFZDKQYA756WAOWdQqAqfHCS6xo16qau7Baw7DHm6vSi7W6qN+rnO+CxUgTFDpKKwVrd80OeuMF3F7VkQ791gunciVYJ+JTbkV7JTOREDAwYz3OgARFVnbtnfhquEefuh5blTD4gNvwcr7u0VThaXcqQvBCAzNZ5H+oBt8uk6MXp4gh1pic1xPwSqo1MYUX7Gzwu8KK4mnBjmNG1mnqEhbt2rY2hB4GhNvslhUBFktFFZ7gfoVwSPLiAfPJZWxp7PN3ECDHf3pnXEZkCYNlBUhg5Zd3UP2Y0gFAhouIrcSc5YLbjCo3Tg6KjVZT6CWGtV9cTDxQ8YANjkzwWM53Ef87OuggYaGciAFxmLxY/8q9RjtUNkOooNbjgcyrZxLZvjz9i6jSwf21ilvTS41iCTL+gQp8Lw==;+6eC5UDvHRKlvwxoM/LWlg=="
 ---

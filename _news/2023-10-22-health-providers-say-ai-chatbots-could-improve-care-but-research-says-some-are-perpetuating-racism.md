@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Stanford study indicates AI chatbots used by health providers are perpetuating racism"
+    excerpt: "Hospitals and health care systems are increasingly turning to artificial intelligence to help summarize doctors' notes and analyze health records."
+    publishedDateTime: 2023-10-20T21:41:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/ai-chatbots-are-supposed-to-improve-health-care-but-research-says-some-are-perpetuating-racism-2/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 50
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/21/4e6a50d0-75dc-414b-9810-f1e98dd12cce/thumbnail/1200x630/bd6fc97710b8b2b2bb4072321ee60167/ap23290859783861.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI chatbots are supposed to improve health care. But research says some are perpetuating racism"
     excerpt: "\"There are very real-world consequences to getting this wrong that can impact health disparities,\" said Stanford University's Dr. Roxana Daneshjou, an assistant professor of biomedical data science and dermatology and faculty adviser for the paper."
     publishedDateTime: 2023-10-20T19:39:00Z

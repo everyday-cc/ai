@@ -41,20 +41,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Experts want nurses to embrace AI in the workplace"
-    excerpt: "Artificial intelligence (AI) is slowly making its way into many professions, from personal training to marketing. It shows special promise in health care, but experts say buy-in from nurses and other clinical professionals is key."
-    publishedDateTime: 2023-10-18T20:21:00Z
-    webUrl: "https://www.ajc.com/pulse/experts-want-nurses-to-embrace-ai-in-the-workplace/VGMVZFMMWRBVHLI3KVHN7CHBGY/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 39
-    images:
-      - url: "https://www.ajc.com/resizer/-X7c1MZU7RsgHwvTqKEaiJBg4sM=/1200x630/d1fegwn2wjh0cs.cloudfront.net/10-18-2023/t_449e558a60fa4d839b1b5c29b3f7f134_name_646904ed83ff4a95b097e8c1848d81b8.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oFSFqNv3n24HcThMItNn+BkDuT4msbL/GzuszhOT6R1tNNf1jKjisKDLKEd8IS1sSrmZR0YenbPZt7qk3RntxZBu9P+jAyhmI1v6a3VLJa5OXFiTfRI17qVrQVJ9DU2+Esv6oXwj+dV/HpOwIFhEQ8x9RsWdO9bc513wxazzEx203nOasTt8YgSVXrkXF2y5WgtesDXozh3a4ptlCmoU15kT9ffJ8/+qFre1656x12if1l56U6lhFT6gopswPe49ZiMXNA+h8E6tFZFqgeywKdx7KcG5JMna648rR4MGDaqilMGp7HxwjHB2lnO9bLztgL+tmyIAd3lPUr7VcwbEmwDCoOV8CNpOAS4sQBGD1YW/IulLpDmNp3yYjCLx3QRUZ71lCt8noeXAj9oDNn+ouWcWWqSBuuePDYaDFjBg1sRX1b1jkgOY3cb5+ezCKjdunZHKcS9w7wnbq75gFw6L+3MSdkbOWmOy35zzKk4QZ4RfHSfvKZYT0EL81IZEQ9JYbjLHYt+GdFyafNaAowA6nQ==;wg3zat9/s9ceKLe7iMct6g=="
 ---

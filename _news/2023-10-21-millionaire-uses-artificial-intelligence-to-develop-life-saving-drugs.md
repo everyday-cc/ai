@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-wales-67171042.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-wales-67171042.amp"
 type: article
 quality: 104
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2362/production/_131485090_a55e3eb2-ed62-4f08-af1c-a21d2aae3924.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "UK officials are using AI to make decisions on benefits"
+    excerpt: "‘There is a lack of consistency and transparency in the way that AI is being used in the public sector,’ said Marion Oswald, a professor in law at Northumbria University and a former member of the government’s advisory board on data ethics."
+    publishedDateTime: 2023-10-23T17:19:00Z
+    webUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/?ico=trending-post-strip_item_4"
+    ampWebUrl: "https://metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2023/10/23/artificial-intelligence-benefits-uk-ai-summit-19708043/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2023/10/GettyImages-1199003735.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
         isCached: true
   - title: "Achieving Data Diversity Through AI in Drug Development"
     excerpt: "AI and machine learning could transform drug discovery, but first, practitioners must overcome ethical challenges en route to medicines for all."

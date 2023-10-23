@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-i
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/openai-chatgpt-dall-e-fake-image-detector/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/openai-partners-g42-for-ai-advancement-in-the-middle-east.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "G42 And Openai Launch Partnership To Deploy Advanced AI Capabilities Optimized For The UAE And Broader Region"
-    excerpt: "G42 will prioritize its substantial AI infrastructure capacity to support OpenAI's local and regional inferencing on Microsoft Azure data centers. Commenting on the partnership, Peng Xiao, Group CEO, said:“At the core of our mission lies the pursuit of ..."
-    publishedDateTime: 2023-10-18T23:21:00Z
-    webUrl: "https://menafn.com/1107266905/G42-And-Openai-Launch-Partnership-To-Deploy-Advanced-AI-Capabilities-Optimized-For-The-UAE-And-Broader-Region"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2023-10/18/M_891a8image_story.jpg"
-        width: 1092
-        height: 678
         isCached: true
 
 secured: "FuVDFeIrczforzaCyu0uubi5XjiSchRFvBripuzWPMNUbrz8F2OPfD0MzEKOp0AgurHPD6bO1kLSt+MqPyF8UeoJpvb9oCP3kQdnoIu7nbASv/Gav+ammAAeX/K2yK9JB0GdoJ4q6kKBLSUkSM00lrDlUR10q+64zQaye51wBcSsbxEmllgjRcHoEP+jDF9HcOcBDrOfBqzpyUVVHfXcHg8XU8H9SenKNbVmGkq/+1Efs69ZVb7g/aOdOcDNIw19CdZ9FNLztrxmw4dvfH4UJLbuHmqlQvlgJ89+5InIkeNnUq8Zu5usZRTulZM4RFHLG3XqyYwdVW3xA3sKIEfjs7fuJlv9zJoCrttAmkKJ4kg=;rYJvePARC6K5edClRkl7LA=="

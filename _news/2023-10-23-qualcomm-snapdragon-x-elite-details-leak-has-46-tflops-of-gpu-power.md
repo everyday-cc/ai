@@ -7,8 +7,8 @@ originalUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
 webUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Lowyat.net
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm's Snapdragon 8 Gen 3 leans heavy into AI new leak reveals"
+    excerpt: "A new leak may have revealed the full specs of Qualcomm's next-gen flagship processor, the Snapdragon 8 Gen 3."
+    publishedDateTime: 2023-10-23T15:16:00Z
+    webUrl: "https://www.androidauthority.com/snapdragon-8-gen-3-leaked-specs-3378618/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 49
   - title: "Qualcomm Snapdragon X Elite: 4.6 TFLOPs = more GPU power than Xbox Series S"
     excerpt: "Meanwhile, the updated Adreno GPU now packs 4.6 TFLOPs of FP32 compute performance ... It also wouldn't be a new chip without AI something, with Qualcomm supporting generative AI through its Hexgon NPU (Neural Processing Unit), which has up to 45 TOPS ..."
     publishedDateTime: 2023-10-22T23:13:00Z
@@ -40,6 +49,6 @@ related:
         height: 800
         isCached: true
 
-secured: "6lonP6+3yH9/bhOTP9HY/xBjOwYW1B16IFV6F6XCAMe8lGL9munxZMQk502vPqP7eeVe9FUflKFc+CzHdmMhmWsPJD9eR0ENlDfS/kGx+odzWzPIgeB6dwoyPseaw9xd0KZMkUzyWlfqto4JirVifvYRKmWqHuv2sAG7B3Xqo6yTfnhkYC4t6iybCtDFXlYY1cVyR2akQxsNE6RLrqw+B3Rjwz8xudPOO/+lelYcJ2y7h62oq0k1SJfweBw/SQNRziPxGJ2UB/Mgd2t1AbxdK1oS0reJwFq/dT5FiQPnSu+p6rOmDEn5uWcQ1wfaEoPWjETt7tANGe7bOCrLH9unADKd8b7iTiUKuvGWlLZIPfc=;3EMt+hQkvaioToPK6OYE4w=="
+secured: "7+JlGhwsb9OdUr1qC7N/AIpMVgskcRUM8Wc9oDaR9HskZySzaWbPhVIpPFmzJPkPcRWSLuJRMwG9xp+SJkocp6m9xP7KhscJIFjjM6f12h3Vr9VhxySoZln+XoaRjbCcppDRTSVAAB8KGNQIaET84vMmiA5F+R27rjgalLc2hF252pTnOZE5lFsvjKEsAssJB4B9f5kwlH+2etkrDD1ecyT/OL1xLAShWcn/Kxd3w2T59QJIOoE9EuK0DX+U6VVieZ/4ByxKfye18KvKpkgBDjseUl4exeaU35P1nWnM+Dx1DZiTZteuGK6Fhscu/CT6HOZIHakryLwfqTQzK83y57is1hbG0OkJbpl6YI7ixHyr1uv2BQikAMOEOsnA4kDAK56clKCU3Ah9m2hYlED5Xa886Sibk8Rx1BeZLhGqZ4LZZr5b4uV0rSAYd8NKC9EsE2lgG4osd6WRcXo0WjSAJiWbdXOBrsO0LNG6XSWydQsY6UvYgG3oMOZAd8rizGH1QMNOn0dk91JJAFCl0Q+fVg==;vLeGdYA33ruMVPIGs1zxhw=="
 ---
 

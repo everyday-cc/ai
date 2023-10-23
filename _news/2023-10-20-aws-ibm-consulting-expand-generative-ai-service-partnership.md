@@ -23,24 +23,61 @@ topics:
   - AI
 
 related:
-  - title: "Evaluating social and ethical risks from generative AI"
-    excerpt: "Generative AI systems are already being used to write books, create graphic designs, assist medical practitioners, and are becoming increasingly capable. To ensure these systems are developed and deployed responsibly requires carefully evaluating the potential ethical and social risks they may pose.In"
-    publishedDateTime: 2023-10-19T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/evaluating-social-and-ethical-risks-from-generative-ai"
+  - title: "How Companies Can Embrace Generative AI’s Superpowers"
+    excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 86
-  - title: "To excel at engineering design, generative AI must learn to innovate, study finds"
-    excerpt: "A new study reveals the pitfalls of deep generative models when they are tasked with solving engineering design problems. The researchers say if mechanical engineers want help from AI for novel ideas and designs,"
-    publishedDateTime: 2023-10-21T23:51:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2023/10/231020105644.htm"
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Companies Look to Human Moderators to Keep AI Apps in Line"
+    excerpt: "Borrowing from social-media platforms, software maker Intuit is hiring content moderators to help keep toxic language and other bad behavior off its AI systems."
+    publishedDateTime: 2023-10-23T16:53:00Z
+    webUrl: "https://www.wsj.com/articles/companies-look-to-human-moderators-to-keep-ai-apps-in-line-9507fa35"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 46
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-873723/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "How AI Can Impact Companies"
+    excerpt: "Embracing responsible AI deployment, fostering a culture of innovation and prioritizing continuous learning are essential for businesses to thrive in an AI-driven era."
+    publishedDateTime: 2023-10-23T12:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/23/how-ai-can-impact-companies/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
+    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
+    publishedDateTime: 2023-10-19T09:08:00Z
+    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
+    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 45
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
+        width: 834
+        height: 636
+        isCached: true
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z
@@ -55,34 +92,29 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "AI generated images another potential social media hazard"
-    excerpt: "Celebrities like Heidi Klum and Arnold Schwarzenegger have shared the 90s-style images. The filters can look realistic, but doctors say trends like this can impact your mental health. Dr. Samantha DeCaro,"
-    publishedDateTime: 2023-10-20T21:46:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/ai-generated-images-another-potential-social-media-hazard/"
+  - title: "How companies can assess artificial intelligence through an ESG lens"
+    excerpt: "Use ESG as a lens, suggests Yannick Ouaknine, Head of Sustainability Research at Societe Generale: “The rate of adoption of AI and hence the rate of change will be, and already is, very rapid. But the process can be manageable for corporates if they think about it in a structured and analytical way.”"
+    publishedDateTime: 2023-10-19T10:22:00Z
+    webUrl: "https://www.ft.com/partnercontent/societe-generale/how-companies-can-assess-artificial-intelligence-through-an-esg-lens.html"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: The Financial Times
+      domain: ft.com
     quality: 37
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2023/10/20/147cd3e2-72ef-4ca0-845a-6170612c8000/thumbnail/1200x630/914a52aee2c3be0a159717b4afc16b9a/e702b67baa6b3d29edcc7e8221251626.jpg?v=18a5d3569ab1a3ca759fe14d213f7845"
-        width: 1200
-        height: 630
+      - url: "https://www.ft.com/partnercontent/societe-generale/img/2023/8/hero.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Generative AI ChatGPT Is Going To Be Everywhere Once The API Portal Gets Soon Opened, Stupefying AI Ethics And AI Law – Forbes"
-    excerpt: "Making available the generative AI ChatGPT via an API portal is gonna be big, here's why.Release the Kraken!You are undoubtedly familiar with that famous"
-    publishedDateTime: 2023-10-19T06:43:00Z
-    webUrl: "https://www.inferse.com/762281/generative-ai-chatgpt-is-going-to-be-everywhere-once-the-api-portal-gets-soon-opened-stupefying-ai-ethics-and-ai-law-forbes/"
+  - title: "Language Weaver scales development of generative AI technologies"
+    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
+    publishedDateTime: 2023-10-19T09:04:00Z
+    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
     type: article
     provider:
-      name: Inferse
-      domain: inferse.com
-    quality: 26
-    images:
-      - url: "https://www.inferse.com/wp-content/uploads/2023/10/wp-header-logo-12526-1920x845.png"
-        width: 1920
-        height: 845
-        isCached: true
+      name: 01Net
+      domain: 01net.it
+    quality: 19
 
 secured: "4n/RqYncDC1hFwn/luhgOdziehcbbA2ze/N6H8UrTKWwu2K9QgK4TRg1+FlNXBws1ZjoEXn07LOn16IJ++RI03ILQeBbqFvIOq0EtJziKXXfriy7pnd1ExrtXmUXoV35Ctl2w/0LMsbmwfUVSxbxvkx7JYNZ3klKjF1PMrV7fxqYaHWEbQIX5NvVrGVdSL90XZVJvQ8nLu796pg5o66FpmOrkP800TD8MfHA2ttFVgQh8ZJHND1VBnMrLDa1+sMxkkow9RmngHPUfk6JzJ5oESz5W8CzBLGaxgbubSi+6VCA4PoCQUeqE47zx7we6ScHgYUN0/lNnmwf21uM/78uTMYflQ0fTrgr8gtjTTSpLEI=;VCIpZLH5dcxYWqaFvdOXYg=="
 ---

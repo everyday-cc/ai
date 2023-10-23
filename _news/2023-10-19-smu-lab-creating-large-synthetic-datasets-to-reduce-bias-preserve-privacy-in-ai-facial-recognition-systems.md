@@ -20,6 +20,20 @@ topics:
 
 related:
   - title: "Bias in AI Computer Vision Systems Dramatically Reduced with Synthetic Data ‘Digital Humans’"
+    excerpt: "Mindtech, the developer of  an end-to-end synthetic data creation platform for training AI vision systems, has announced the"
+    publishedDateTime: 2023-10-23T17:21:00Z
+    webUrl: "https://www.datanami.com/this-just-in/bias-in-ai-computer-vision-systems-dramatically-reduced-with-synthetic-data-digital-humans/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 43
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/10/mindtech-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Bias in AI Computer Vision Systems Dramatically Reduced with Synthetic Data ‘Digital Humans’"
     excerpt: "LONDON--(BUSINESS WIRE)--Mindtech, the developer of the world's leading end-to-end synthetic data creation platform for training AI vision systems, has announced the launch of its Digital Humans 2.0 within its Data Ops Platform. To improve accuracy in ..."
     publishedDateTime: 2023-10-23T06:34:00Z
     webUrl: "https://www.businesswire.com/news/home/20231022631671/en/"

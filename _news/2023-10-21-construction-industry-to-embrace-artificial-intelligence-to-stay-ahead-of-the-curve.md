@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnbctv18.com/economy/construction-industry-to-embrace-ar
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/construction-industry-to-embrace-artificial-intelligence-to-stay-ahead-of-the-curve-18120691.htm/amp"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: cnbctv18
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Experts want nurses to embrace AI in the workplace"
-    excerpt: "Artificial intelligence (AI) is slowly making its way into many professions, from personal training to marketing. It shows special promise in health care, but experts say buy-in from nurses and other clinical professionals is key."
-    publishedDateTime: 2023-10-18T20:21:00Z
-    webUrl: "https://www.ajc.com/pulse/experts-want-nurses-to-embrace-ai-in-the-workplace/VGMVZFMMWRBVHLI3KVHN7CHBGY/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 39
-    images:
-      - url: "https://www.ajc.com/resizer/-X7c1MZU7RsgHwvTqKEaiJBg4sM=/1200x630/d1fegwn2wjh0cs.cloudfront.net/10-18-2023/t_449e558a60fa4d839b1b5c29b3f7f134_name_646904ed83ff4a95b097e8c1848d81b8.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "From hype to reality, the true state of AI adoption"
     excerpt: "Productivity is the magic metric. Productivity numbers at the macro will be a key to the promises of AI being fulfilled. Growth has a way of solving problems and meaningful productivity improvements and revenue acceleration from AI will lift all boats. It hasn’t happened broadly yet."
     publishedDateTime: 2023-10-21T15:22:00Z

@@ -43,22 +43,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Artificial intelligence has new use in emergency medicine"
-    excerpt: "Artificial intelligence now has a new use in medicine. It’s helping to diagnose blood clots suspected in the lungs."
-    publishedDateTime: 2023-10-18T20:29:00Z
-    webUrl: "https://local12.com/health/health-talks-by-trihealth/artificial-intelligence-has-new-use-in-emergency-medicine-ct-scan-trihealth-tri-health-pulmonary-embolism-embolus-ai-tech-future-healthcare-cincinnati-ohio"
-    ampWebUrl: "https://local12.com/amp/health/health-talks-by-trihealth/artificial-intelligence-has-new-use-in-emergency-medicine-ct-scan-trihealth-tri-health-pulmonary-embolism-embolus-ai-tech-future-healthcare-cincinnati-ohio"
-    cdnAmpWebUrl: "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/health/health-talks-by-trihealth/artificial-intelligence-has-new-use-in-emergency-medicine-ct-scan-trihealth-tri-health-pulmonary-embolism-embolus-ai-tech-future-healthcare-cincinnati-ohio"
-    type: article
-    provider:
-      name: Local 12 WKRC Cincinnati
-      domain: local12.com
-    quality: 59
-    images:
-      - url: "https://local12.com/resources/media/52319a7f-6dd3-4c22-8d92-4dff6fcb03cf-large16x9_thumb_14167.png"
-        width: 986
-        height: 555
-        isCached: true
 
 secured: "gtQZdhGOJQEEfRZ9KFFczxJ7IkGthD6qhYLqiiznL+x0crTH8kAaEuxr7vw5flS475H9jhCqMqmSOnK5rFG27LgrF2PvQM0so5HNEKUMA+CesgvH1eGKxcrRXoMcvQVy0zX7cWXSY86vAiFmlAvTZBburZizR8BXwCeVVM0ERNbVJY4ufQUbrtvYRnB9Jrde1UeqxVta/lPX0boHjRL6qgwdIVmxqLpv1IISLBbMn+4fHOSsCQ34f9ixDRmm8/lBTF0bxZjTlnXzR1yzOCrPFCdLECNj34+bStk/MxAvxtIB/peuWB8xOJFOZQRahnys62ozZnI7cMzOnsrn8UMJLxeIzI0NBa5Cg2hQzzKlLVM=;O8b180FYEm1ttTBWZM3RrA=="
 ---

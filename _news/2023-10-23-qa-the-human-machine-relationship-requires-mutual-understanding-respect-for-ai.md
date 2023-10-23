@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3709249/qa-the-human-machine-r
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3709249/qa-the-human-machine-relationship-requires-mutual-understanding-respect-for-ai.amp.html"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 738
     isCached: true
 
-related:
-  - title: "Gartner IT Symposium/Xpo: Impact of Generative AI on the Human-Machine Relationship"
-    excerpt: "Gartner AI experts and Distinguished VP Analysts address the human-machine relationship and best practices for business leaders in the new AI era."
-    publishedDateTime: 2023-10-20T17:56:00Z
-    webUrl: "https://www.techrepublic.com/article/gartner-it-symposium-generative-ai-impact/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 65
-    images:
-      - url: "https://www.techrepublic.com/wp-content/uploads/2023/08/tr8123-future-ai.jpeg"
-        width: 1400
-        height: 933
-        isCached: true
-
-secured: "CRvR/2LNNAIBuw1u4cI4ZzAXl583fJR9+Pwz5cnxPo8ckXy5hUyDb4E0dXap0KA8QGFKMpDQNuhmWtGTHtB6BAxXuAtawGbxL8/UoMucyHbPRV9Z+rNFDB8vW+sr7Dq4yZ/UXGFFMTdmg7MGPU7bCrtk1ipx3uaAVS+H1FJZ8hy54CkX1CYA+ISFgnmJ1/FRJyZ5AIUI2/PtKfpgpyxgzhd+pYHMqFkWnOs6GKZhu0oczlr+/ialcotvxQbQaBA/KHpzAT4Rzl/N+P/ssfHLDQ5HWBxNSnZoA5gnqTUhO0pnTuUWnWbP5TB/Mb8B/PjbId/hEoBH2V2mjpNsccKK5BrFTBbUI+aCDt41cfxrKYY=;YM5+g2+E9d7YSZe6coIi0Q=="
+secured: "UGeFDVsYuGiSvBG5SNNL4Nb/Rspm+y/eN2GqWtvC6kSNbRfwANAZxcxdGPH64e4RmmJa+zmtkJ1daKK6UpxBVz1rprOBOVyZ1/MWxHx5PGI8s7NUjtVCMZ+mgOuu6mDTgRwrxwuufcASp4WFKK5B/AY2BLzbyZoQraCEAqEdj84HFOycvOGd7yuI+TFMapbfrFOOSIkcYUFx3JReUUxwmHe+soh7f1xR/vDnry088FXvAXAWfRoRKO6jyFMeXcRX/gO8LhSOQAC18XxmkM4HpmMw5xeP0URMf+MoJKCEYte6ghgDdzBeNLwT6NHq/zm1bZAfi1UEIdaYjTe2fsTiiA8w6j1jL6jhbXRpd/I+5cNRUJOe2nnm8swUN4eH27v+7EW1rUWJsdj1k7zfCfHuXoFKF91GJMxucF7H/iQB6GK5S4xyouVHReceEcu61NeTva6bUfazYeaQWYPu+MYpkTXOoJLLj1ufDq5yWyJb3wbcsd9LY1w62PgWzhpwVFk2R/VCeFMhTkAKOT19elwV3Q==;HdXZA23GF+R1xvAmgR8GEg=="
 ---
 

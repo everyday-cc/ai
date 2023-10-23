@@ -2,6 +2,83 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-07-27-l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-2029.md",
+      "title": "L2 Self-driving Vehicle Market 2023 Industry Outlook, Business Strategies, Trends and Forecast to 2029",
+      "excerpt": "The Global \"L2 Self-driving Vehicle Market\" Research report give detailed information with reference to market size, share, trends, growth, cost revenue, capacity, and forecast till 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33417777/l2-self-driving-vehicle-market-2023-industry-outlook-business-strategies-trends-and-forecast-to-202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-07-27-3-autonomous-driving-stocks-to-buy-before-elon-musk-goes-all-in.md",
+      "title": "3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In",
+      "excerpt": "The article \" 3 Autonomous Driving Stocks to Buy Before Elon Musk Goes All In \" first appeared on MarketBeat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BIDU/pressreleases/18885712/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/MKTBEAT/0de7c95e271a6f97263f6afd10ea33aa/med_20230727073922_3-autonomous-driving-stocks-to-buy-before-elon-mus.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-27T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-07-27-musk-optimistic-on-progress-for-self-driving-robots.md",
       "title": "Musk optimistic on progress for self-driving, robots",
       "excerpt": "(AP pic) SAN FRANCISCO: Tesla chief executive Elon Musk on Wednesday set new targets for artificial intelligence products including self-driving software and using humanoid robots in factories ...",

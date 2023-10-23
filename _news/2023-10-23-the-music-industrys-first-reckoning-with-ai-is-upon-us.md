@@ -31,6 +31,15 @@ related:
       name: marketscale
       domain: marketscale.com
     quality: 19
+  - title: "Dear Matt: Artificial Intelligence in the AV Industry"
+    excerpt: "Vistacom’s Matt Boyer answers a question on artificial intelligence in the AV industry in the latest installment of “Dear Matt,” presented by Vistacom."
+    publishedDateTime: 2023-10-23T14:20:00Z
+    webUrl: "https://marketscale.com/industries/pro-av/ai-in-av/"
+    type: article
+    provider:
+      name: marketscale
+      domain: marketscale.com
+    quality: 17
 
 secured: "UcV/Klme9YFzaUxF7n91+9mTQ6foFWYnlntna8SEH5CBjRW/67uaCtKviZUJbLKbBu4+Ljdek6faIlS0A3m3+WvjnTwVgjj4w2o65odHcBBX62SwBEVRmHWUo7gii967P8uzNqLWEZYPUynFU8ZMpX7HyO9MYCehyjn/3h2vqQIyhHXS9StzlGhi5/h5kE8j5LRaOASUx0NSO0JbaEdD7HJJtoXoHCTiTvkBvHrq+I0z1TpXDvQvgTcp8ZisjPOV2mJ4YDGnkunmghJNUOs0hKoMbNOW11LGybnbyaXuq/mvyrTjRaOvo/4TUWbvrihoXr7PITx12ckUiRguXR4ZvUXD9h8sPVZuDlx9ZdYOgsyXKI4gSm6YIPMtc/uMUU1//XPSFWN3rSSNqK+uiE7Gi7tJJ2IzjDyqvg6A+lWTMq06UmvgZqbRm8BuHG1G+GlGFFXRuQJ+8lzhhJQZ/bFBcP/Ts6VbMYp6Kqr1T9l3SDg34lMO/qWoqEBj7u6+uecX+iWikmuA5b820O2/CZzPLA==;ZovWuicmnu3MByUVnMG4IQ=="
 ---

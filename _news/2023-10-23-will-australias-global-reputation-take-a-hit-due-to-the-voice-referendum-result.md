@@ -28,7 +28,7 @@ related:
   - title: "Australians' rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
     excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a “shameful act.” Many proponents of the Indigenous Voice to Parliament maintained a week of silence and flew Aboriginal flags at half-staff across Australia after the Oct."
     publishedDateTime: 2023-10-23T11:30:00Z
-    webUrl: "https://www.aol.com/australians-rejection-indigenous-voice-constitutional-043003244.html"
+    webUrl: "https://www.aol.com/news/australians-rejection-indigenous-voice-constitutional-043003244.html"
     type: article
     provider:
       name: AOL

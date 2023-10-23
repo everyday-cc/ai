@@ -50,17 +50,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fugees rapper says lawyer’s use of AI helped tank his case, pushes for new trial"
-    excerpt: "“We think AI technology is gong to completely revolutionize the legal field by making it faster and cheaper to get complex answers to legal questions and research,” Katz said. He denied an allegation from Michel’s new lawyers that Kenner appeared to ..."
-    publishedDateTime: 2023-10-18T19:29:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-entertainment/ap-fugees-rapper-says-lawyers-use-of-ai-helped-tank-his-case-pushes-for-new-trial/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 34
 
 secured: "fcyipXtrUjTWhCfQl1KT5PO7fm4teRwLLjOHGDOPu4OaCDO4RPassOy/E4kpjBYZIDV0hVXleOTOarllJC4Ask19b0ZMa90u9sA6J7WJG9UadU0HbHKGpQqfex30Ux6hZMlG3eHy0juul+e2SYmQlJprZkqbttzvWbbJfzbISS/KyJZOaiwmNszgVr4KRNXC8sDypzAZ2ywbcKQhgW6/lDbUup4RKab/uqJS1kEATAN60lqEmbyPo4FnWa7tnKBQ+poK8jHHYZydxX0qdgATo1Hjdl0WyUeGdyqOOpgIeYKkRwZGtgcnx7yC/DOrIKs8Hyo47rlCmh2NHLq34CpdL0UEGN0ZYl6dm7OiUsEH4RPOPn0PPhrEzQ9JPTUxVmNy1B7LpzJoq3Zjt+71xPtMemxSF7bfhIPOrBQIbNndQ661F1rSoK35gN9ssq9SRsdbFR5oKKJgPTHdwBVpWGEqW6Cab0gImRjCO2p+Bay3hbYch/SwJDHzhvnZI9D621yJ0oy92MfSQkEjoPrNxkFIPA==;7YeRMkNvHayZmzXjdv+2Mw=="
 ---
