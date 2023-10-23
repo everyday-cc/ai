@@ -2,6 +2,92 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2023-09-20-bears-qb-justin-fields-clarifies-robotic-comments-im-not-blaming-anything-on-the-coaches.md",
+      "title": "Bears QB Justin Fields clarifies 'robotic' comments: 'I'm not blaming anything on the coaches'",
+      "excerpt": "The Bears quarterback didn't wait long to attempt to control whatever minor damage his quotes might have caused. After saying his coaching staff might be feeding him too much information in attempting to explain his \"robotic\" feeling on the field through ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
+      "originalUrl": "https://www.nfl.com/news/bears-qb-justin-fields-clarifies-robotic-comments-i-m-not-blaming-anything-on-th",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/szkaquehqxkntny1wotd",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T21:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NFL",
+        "domain": "nfl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-09-20-california-truck-drivers-ask-newsom-to-sign-bill-saving-jobs-as-self-driving-big-rigs-are-tested.md",
+      "title": "California truck drivers ask Newsom to sign bill saving jobs as self-driving big rigs are tested",
+      "excerpt": "California lawmakers and union leaders are asking Gov. Gavin Newsom to sign a bill that would save jobs as large self-driving trucks are tested on public roads. The legislation would",
+      "sourceUrl": null,
+      "webUrl": "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html",
+      "originalUrl": "https://tulsaworld.com/article_7234418c-d033-55ee-8c36-d5eb3d31c530.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/b/cf/bcfd2091-7cae-563f-a309-4bff1a64797e/650a2fbd433c1.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-09-19T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tulsa World",
+        "domain": "tulsaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-09-20-ai-bubble-or-revolution-goldman-sachs-research-takes-a-look.md",
       "title": "AI Bubble Or Revolution? Goldman Sachs Research Takes A Look",
       "excerpt": "The world currently seems to have entered the artificial intelligence (AI) era which future generations may one day refer to as before AI and after AI.",
@@ -1108,101 +1194,6 @@
         "name": "The Financial Times",
         "domain": "ft.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-deepminds-new-ai-can-predict-genetic-diseases.md",
-      "title": "DeepMind’s New AI Can Predict Genetic Diseases",
-      "excerpt": "AlphaMissense, a new model from Google’s artificial intelligence team, analyzes the effects of DNA mutations and will accelerate research into rare diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
-      "originalUrl": "https://www.wired.co.uk/article/deepmind-ai-alphamissense-genetics-rare-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/6508b2210178e37fb4a68568/16:9/w_1280,c_limit/digitized-dna-helix-science-GettyImages-85757934.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-09-19T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-09-19-google-deepmind-ai-speeds-up-search-for-disease-genes.md",
-      "title": "Google DeepMind AI speeds up search for disease genes",
-      "excerpt": "Google's AI firm DeepMind has used artificial intelligence to identify changes in human DNA that might cause diseases. The researchers believe they have pinpointed 89% of all the key mutations. The development is expected to speed up diagnosis and help in the search for better treatments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/science-environment-66847977",
-      "originalUrl": "https://www.bbc.com/news/science-environment-66847977",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/8D38/production/_131125163_f0342069-dna_illustration.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/science-environment-66847977.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/science-environment-66847977.amp",
-      "publishedDateTime": "2023-09-19T07:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

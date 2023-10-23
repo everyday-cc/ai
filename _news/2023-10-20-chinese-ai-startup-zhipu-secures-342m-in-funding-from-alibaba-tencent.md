@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
-    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
-    publishedDateTime: 2023-10-20T05:57:00Z
-    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
     excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
     publishedDateTime: 2023-10-20T05:37:00Z
@@ -95,6 +81,15 @@ related:
         width: 1032
         height: 580
         isCached: true
+  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
+    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
+    publishedDateTime: 2023-10-19T16:13:00Z
+    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
+    type: article
+    provider:
+      name: Pensions&Investments
+      domain: pionline.com
+    quality: 34
   - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
     excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
     publishedDateTime: 2023-10-20T08:15:00Z

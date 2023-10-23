@@ -328,6 +328,20 @@ related:
         width: 517
         height: 271
         isCached: true
+  - title: "USD 88.2 Billion Artificial Intelligence In Education Market Expected Reach By 2032 | Growth Drivers & Future Scenarios"
+    excerpt: "Artificial Intelligence in Education Market Type Booming smartphone penetration to complement APAC industry. PORTLAND, PORTLAND, O"
+    publishedDateTime: 2023-10-23T02:40:00Z
+    webUrl: "https://menafn.com/1107284165/USD-882-Billion-Artificial-Intelligence-In-Education-Market-Expected-Reach-By-2032-Growth-Drivers-Future-Scenarios"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917387"
+        width: 487
+        height: 250
+        isCached: true
 
 secured: "ASK/+i4eWi10QQ7s8dH21kx86K1aSx7AEwZwjtIxcJG0drG4qOD9Vpxr00uO+8jjmMAfIrbY9Jv3gFbs1g0dsCguqe1KBfJb6zZNWift8gbIGzq2pxPe1A8AytxahrkV8vQqkkuVVkCOtFXeWaTIog5jcAkZkwjjujWl9p6wJpPsnXMA/qixrT/CkTezQPGLi7beJm2K5u3K5YWTjCu8xdhByLkCP04JiuTbz7UpVJ5uGvmN928DwotMUWlwLe3AbmkXi/mOxvFp00cXf+O3trE9nb5Q97YbK4ZaJso6SX7GeplvpN1+/pnPfY7zvYCP/x85w+122APMdWaAio2OXQNmoe8lfOBJTJE6VzymeMNYlVOynsrCc42+ruaemnb4I08Iqe3/SpR3qm1ULjWkO7GFG2SbMn+TnclmnF0kAHEtsw6P2ichLo3PDUYlXk+zmANXBHoSa/CNwBXn071F3T516lb+8IYF/MJ1aHGZRXGtuQFppdRiUgyWEpgIYxeqjv9iji6RLfqLoinGjPnLsQ==;xSYlJEz5/shjbxH9B/+cyQ=="
 ---

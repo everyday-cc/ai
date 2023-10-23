@@ -2,6 +2,92 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-08-25-ais-multi-view-wave-is-coming-and-it-will-be-powerful.md",
+      "title": "AI's multi-view wave is coming, and it will be powerful",
+      "excerpt": "The rise of multiple modalities of data will be united in a multi-sided view of the world, which could be an important step toward programs that perform \"reasoning\" and \"planning\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "originalUrl": "https://www.zdnet.com/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5e0206a07c9a8a723474727558d61d22115c8837/2023/08/25/a50b2e30-e435-45ed-8201-a7efea26b46d/and-the-sky-etc-cropped.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ais-multi-view-wave-is-coming-and-it-will-be-powerful/",
+      "publishedDateTime": "2023-08-25T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-25-the-i-have-a-dream-speech-would-not-have-happened-without-these-women.md",
+      "title": "The \"I Have a Dream\" speech would not have happened without these women",
+      "excerpt": "During Dr. King’s speech, Ms. Jackson, who stood to his left ... I like to think that they were influenced by these women who did not get the type of recognition and acknowledgment that they deserved.” Mr. Jones said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "originalUrl": "https://www.seattlepi.com/news/article/the-i-have-a-dream-speech-would-not-have-18331469.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-25T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seattlepi.com",
+        "domain": "seattlepi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-25-the-ai-tech-in-the-new-tempo-move-really-does-enhance-your-home-workout.md",
       "title": "The AI tech in the new Tempo Move really does enhance your home workout",
       "excerpt": "Unlike a lot of Americans, I’ve been a home gym enthusiast since before the pandemic. After moving to a small mountain town with few gyms and even fewer childcare options, I knew I needed to come up with something that worked for me at home.",
@@ -1081,108 +1167,6 @@
         "name": "telecom.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-can-ai-mitigate-the-inequitable-aspects-of-meritocracy.md",
-      "title": "Can AI Mitigate The Inequitable Aspects Of Meritocracy?",
-      "excerpt": "The introduction of AI in the workplace has the potential to address some of the inequitable aspects of meritocracy by mitigating the impact of systemic barriers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/",
-      "originalUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64e7ed31eba7df1a0ed8ae21/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2023/08/24/can-ai-mitigate-the-inequitable-aspects-of-meritocracy/amp/",
-      "publishedDateTime": "2023-08-24T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-25-california-deploys-ai-powered-wildfire-detection-systems.md",
-      "title": "California deploys AI-powered wildfire detection systems",
-      "excerpt": "The AI system processes \"billions of megapixels\" of images every minute from cameras that cover approximately 90 percent of California's fire-prone areas. The AI program started in June and was initially deployed in six of Cal Fire's command centers but will expand to all of Cal Fire's 21 command centers in September.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/wildfiles_getty-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2023/08/firefighters-use-ai-to-spot-wildfires-in-california/amp/",
-      "publishedDateTime": "2023-08-24T14:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -185,6 +185,49 @@
       ]
     },
     {
+      "path": "_news/2023-10-20-patients-split-on-trust-in-artificial-intelligence-in-healthcare-experience.md",
+      "title": "Patients Split on Trust in Artificial Intelligence in Healthcare Experience",
+      "excerpt": "A new survey showed that only half of patients trust artificial intelligence (AI) use in the healthcare experience, with many patients admitting they have more to learn that could change their minds.",
+      "sourceUrl": null,
+      "webUrl": "https://patientengagementhit.com/news/patients-split-on-trust-in-artificial-intelligence-in-healthcare-experience",
+      "originalUrl": "https://patientengagementhit.com/news/patients-split-on-trust-in-artificial-intelligence-in-healthcare-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patientengagementhit.com/images/site/article_headers/_normal/Getty_correct_size_streamline.png",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-10-19T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "patientengagementhit",
+        "domain": "patientengagementhit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-10-19-new-global-ai-council-pioneers-insights-to-shape-the-future-of-artificial-intelligence.md",
       "title": "New Global AI Council Pioneers Insights To Shape The Future Of Artificial Intelligence",
       "excerpt": "AI is all the buzz lately — and for good reason. With AI technology changing the way we think, work, and play, it is no wonder everyone is talking about it.",
@@ -1366,41 +1409,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-10-04-nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt.md",
-      "title": "NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT)",
-      "excerpt": "The provider has not supplied information on the NHS psychological therapies services (IAPT), including cognitive behavioural therapy (CBT) treatment and services at this clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nhs.uk/services/clinic/sheffield-iapt/X127782/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "originalUrl": "https://www.nhs.uk/services/clinic/sheffield-iapt/X127782/departments/SRV0339/nhs-psychological-therapies-services-iapt-including-cognitive-behavioural-therapy-cbt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-10-04T07:49:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHS Choices",
-        "domain": "www.nhs.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

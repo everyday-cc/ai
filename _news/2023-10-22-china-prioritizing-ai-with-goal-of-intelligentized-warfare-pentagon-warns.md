@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/politics/china-prioritizing-ai-goal-inte
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/china-prioritizing-ai-goal-intelligentized-warfare-pentagon.amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Five Eyes intelligence chiefs warn on China's 'theft' of intellectual property"
-    excerpt: "The Five Eyes countries' intelligence chiefs came together on Tuesday to accuse China of intellectual property theft and using artificial intelligence for hacking and spying against the nations, in a rare joint statement by the allies."
-    publishedDateTime: 2023-10-18T09:43:00Z
-    webUrl: "https://www.aol.com/news/five-eyes-intelligence-chiefs-warn-024351114.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 20
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/e500b5bd2f8dd09299b12ed0f9df3a10"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "XWtDN9Q5gTi0SIsfWXYagoBhTpyDyC35tpbOGGt/tdIQYayBqiMb7PGVkGBjKqjGcI/mkgPWFPXP/2HzrnuYqd4YDi6CamvkKA1aniVWmxGq55FszUbZpMV1eWTyG7l2yokEija6PiKG+WNO+p/T8og+pF7FvSnR6GqpJQTY7DB7cD5XCAzfe9saZ7vbDcdAzCw0S2eQNYO0722cfqu6HGOalD3e+jA3aQaWJQxmpysFkhKuJkufOf/yPWeahzkDqscYdtFxrglSkJWgyWBQoemCbK8naqSwBFLX5GSRH1jmuXE+wDtJBPyqndwlrPioigXDDFYvpxmCix1WJ2yQnvOj4XzibPs2d3xwf74ghKdmWSq83JnP8+y64rTzhX2P1aTXTEFU4itaDVcpxaMb83ohRL4i2pXwKB0bfaPnvyvjHPkk6+Zd8ILgO1Qv5wMAlqbjZigvodn8haOvN86XO7rmwqyzuUybEDMsMlDQTgAp19xZtYupb2+PEYM/Cg9sqdZyLYQwf1I+8RM0EvhnYQ==;+7DYImy6VqAtNvSL2Hz2/A=="
 ---

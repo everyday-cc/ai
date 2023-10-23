@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation
 webUrl: "https://blog.google/technology/ai/how-to-build-a-secure-foundation-for-american-leadership-in-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - Google AI
 
 related:
+  - title: "Cleo Joins American Fintech Council"
+    excerpt: "The American Fintech Council this week announced that Cleo has become its newest member. Cleo is the latest in a growing number of fintechs who have joined"
+    publishedDateTime: 2023-10-22T23:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214644-cleo-joins-american-fintech-council/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214644-cleo-joins-american-fintech-council/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214644-cleo-joins-american-fintech-council/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Fintech-USA-Dollars.jpeg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Deep Learning Indaba: A Pan-African Pilgrimage in AI"
     excerpt: "Insights, podcasts, and stories on startups, society & culture, and digital technology in Africa. We tell Africa's stories."
     publishedDateTime: 2023-10-19T13:56:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
 type: article
 quality: 121
-heat: 341
+heat: 351
 published: true
 
 provider:
@@ -334,6 +334,20 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
+  - title: "USD 88.2 Billion Artificial Intelligence In Education Market Expected Reach By 2032 | Growth Drivers & Future Scenarios"
+    excerpt: "Artificial Intelligence in Education Market Type Booming smartphone penetration to complement APAC industry. PORTLAND, PORTLAND, O"
+    publishedDateTime: 2023-10-23T02:40:00Z
+    webUrl: "https://menafn.com/1107284165/USD-882-Billion-Artificial-Intelligence-In-Education-Market-Expected-Reach-By-2032-Growth-Drivers-Future-Scenarios"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917387"
+        width: 487
+        height: 250
+        isCached: true
 
 secured: "l9hcwDoCvb7TkkBrqJos7EYztsYIe3JMKhTZUAcrSdb8Quh0oFlTyjRaAzQKTIbIkgxTOEOsy4qS9zV7f1PsCZAeR0A4q4HaKWO7zmMHRZDYSZqcKGoTMFPV6EDmrbwRKEASKx/bDf95ADWqZRe4KIdwBY3yNsvOPnPUlxhnSS9rBWmfm5ZJ51cfufZFbHViwa2BlHgGFq4Rje5h69oLMKuD0rWriyqrvxDtSr9rWVlyLTa1Z9jhjHfzwjIxQwGBY+Wij+2yT+ly/ifbiL0rl3UYYPhCLmepf+t6QLudwr2C/jq7sNu7VsUW8p4KQbnrRpKM1rAuYlXMdgwpU4XMf0iFx5deRqOfXrjsXFj+MciAX306+9odCljX+X9Soz8jdYUHvlZDN/KZEgv4Hs2lpw5+W5UvRO+A5juWzAxYmHE7YfD+2codfdMRFG9tqdL6r9rrGoQnFyDf9s6hKUEcYD6x49UafibNR90t5Z3GMRvOGDldT0tz3WEQkBiomjSh9h2d7xRM+TZ9uDf4qBwrmQ==;luLNIxDYZh4DSnry+13wrg=="
 ---

@@ -329,6 +329,20 @@ related:
       name: The Daily Star
       domain: thedailystar.net
     quality: 34
+  - title: "USD 88.2 Billion Artificial Intelligence In Education Market Expected Reach By 2032 | Growth Drivers & Future Scenarios"
+    excerpt: "Artificial Intelligence in Education Market Type Booming smartphone penetration to complement APAC industry. PORTLAND, PORTLAND, O"
+    publishedDateTime: 2023-10-23T02:40:00Z
+    webUrl: "https://menafn.com/1107284165/USD-882-Billion-Artificial-Intelligence-In-Education-Market-Expected-Reach-By-2032-Growth-Drivers-Future-Scenarios"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?917387"
+        width: 487
+        height: 250
+        isCached: true
 
 secured: "dASaLEPbbJ/rrWCpGrlttyrdhvNwIypBBJFPgLfJzS6HoWeamdgv4slRwQwQh5qR01qDAwIVBauCkPHxZAteIn4wrAtt4OkFkq5N3L3nUcGAuuKMLcqbtebWlEW6zErzLjivFFgZXxtqaxcGMBrjPX0X5gUvza3uNmAhLeogwKdYbavoTl3i+DNlB3MK5z3gqXKGtoAQK2/Us6OVQLQGyk8aEQTDVIlOoeeQMm5vEvYQgycy5X9wWjt8LNxE26jTx3BLkYpVkcLlqMS9AqstfuZi+MgS58mK7gY2yDqZ3B4UWq2q9NmkAO5bASU4LEdoLa5jZRlQaaUURLsk7umS1TKCOLqVp44vOi5x58BkzYQ=;P8Z1F6Y1ePTP8UHEz11M5A=="
 ---

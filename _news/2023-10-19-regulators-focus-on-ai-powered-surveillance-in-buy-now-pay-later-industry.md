@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nandansheth/2023/10/19/regulators-focus-on-ai-powered-surveillance-in-buy-now-pay-later-industry/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1600
     height: 899
     isCached: true
-
-related:
-  - title: "Growing AI industry seen posing challenge for regulators"
-    excerpt: "The rapidly evolving Artificial intelligence (AI) industry poses a challenge for regulators as they seek to foster public trust and confidence in AI while"
-    publishedDateTime: 2023-10-18T09:42:00Z
-    webUrl: "https://businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/"
-    ampWebUrl: "https://businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/?amp=1"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/growing-ai-industry-seen-posing-challenge-for-regulators/?amp=1"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 59
-    images:
-      - url: "https://businessday.ng/wp-content/uploads/2023/10/AI.png"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "0NpRod4ctL7WaQZ6W/b1WzGxGEBEsxGXXXuClSRoUB5mBrDugdOZ1v8Iul/QXlQHHUS5yLphbHEcXVkw1sktG+onnhyM2fw3JaZexyukyC1Bocx1eszX9xLfrxfkSLMQLTqDQ2iVirYCavg9n1/p9/FQlEO5DAU+ymdNlsk3P3ERrVUs6XT/+wu2Ja3i3nZyuRf58QdQvNh8mTUCPLPBti4ezoByKhtXFxMjz5EkKln27vxpSERqPnrwW1XDcf1BEGq7+4sy3T7njFaUU3y4K4k+NpckvaLreXlEXDGimzUGBKKduj/IbXI+vuLKlNrgh5xPZQ15XQIut73+olBkanekjYpGRtq6Tg/ELps7HiM=;h6rEgBvZSVcPil3h6JH2vg=="
 ---

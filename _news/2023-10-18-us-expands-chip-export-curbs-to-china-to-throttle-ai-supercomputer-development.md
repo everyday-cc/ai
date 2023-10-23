@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3708812/us-expands-chip-export
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 110
+published: true
 
 provider:
   name: Computerworld
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. to curb exports of more AI chips to China"
-    excerpt: "The U.S. Department of Commerce announced Tuesday that it plans to prevent the sale of more advanced artificial intelligence chips to China in the coming weeks."
-    publishedDateTime: 2023-10-18T09:38:00Z
-    webUrl: "https://www.aol.com/u-curb-exports-more-ai-063856265.html"
-    ampWebUrl: "https://www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/u-curb-exports-more-ai-063856265.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/fl94zZXVqZWToLq03Dw91w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/113d16a12ad85d6b12bf8075097f1616"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "What new U.S. export controls on China mean for Nvidia and other key parts of AI ecosystem"
-    excerpt: "Heightened restrictions on artificial intelligence chip sales to China could have major implications for 2023's AI darling."
-    publishedDateTime: 2023-10-19T17:42:00Z
-    webUrl: "https://www.cnbc.com/2023/10/19/what-new-us-export-controls-on-china-mean-for-nvidia.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 57
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107247052-1685079013413-gettyimages-1257866797-Nvidia_Stock_Soar.jpeg?v=1697742655&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "US further restricts AI chip exports to China"
     excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
     publishedDateTime: 2023-10-18T15:06:00Z
@@ -68,6 +38,20 @@ related:
       name: RCR Wireless News
       domain: rcrwireless.com
     quality: 54
+  - title: "Tightened US rules throttle Alibaba and Baidu’s AI chip development"
+    excerpt: "Chinese tech groups restricted to using outdated processors as Washington aims to curtail Beijing’s artificial intelligence ambitions"
+    publishedDateTime: 2023-10-20T05:57:00Z
+    webUrl: "https://www.ft.com/content/ef157204-a204-4512-8c50-fe60e166b41e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "China Launches Global AI Governance Initiative After US Announces Fresh Curbs On Chip Exports"
     excerpt: "China launched a global initiative for AI governance as countries such as the U.S. and the U.K. race for dominance in the fast-evolving technology."
     publishedDateTime: 2023-10-19T08:49:00Z
@@ -82,15 +66,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "House committee probes Sequoia Capital's Chinese AI, chip investments"
-    excerpt: "A congressional committee is asking Sequoia Capital about its investments in Chinese artificial intelligence, semiconductor and quantum computing companies."
-    publishedDateTime: 2023-10-19T16:13:00Z
-    webUrl: "https://www.pionline.com/venture-capital/chinese-ai-semiconductor-investments-sequoia-concern-us-lawmakers"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 34
   - title: "U.S. tightens curbs on AI chip exports to China"
     excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
     publishedDateTime: 2023-10-18T21:43:00Z
@@ -100,29 +75,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 34
-  - title: "Tech war heats up: US cuts China off from AI chips – Nvidia, Intel, AMD are affected"
-    excerpt: "The Biden administration is reducing the types of semiconductors that American companies will be able to sell to China, citing the desire to close loopholes in existing regulations announced last year."
-    publishedDateTime: 2023-10-18T11:53:00Z
-    webUrl: "https://wraltechwire.com/2023/10/18/tech-war-heats-up-us-cuts-china-off-from-ai-chips-nvidia-intel-amd-are-affected/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 27
-  - title: "Nvidia thought it found a way around U.S. export bans of AI chips to China—now Biden is closing the loophole and investors aren’t happy"
-    excerpt: "Billionaire founder Jensen Huang can no longer sell two lucrative chips specially designed for the Chinese market, because they might help boost its military capabilities."
-    publishedDateTime: 2023-10-18T16:05:00Z
-    webUrl: "https://www.aol.com/nvidia-thought-found-way-around-130504385.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 22
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/1R3_9tpxnJuHS3k5R4jqeg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/27c0635b4b7fb62b8197ebac44b306d7"
-        width: 1199
-        height: 800
-        isCached: true
 
 secured: "6glklcf88R16OQAuiN33pBilXL8r2Kmm5BGoTWLHgNoITv9hNjizi95aH6vacG/evzZstF296eKd0shFqbJyNqhqKFVDTrg077cfnfs+g5OFrsi/S9Xv86PJej9XSBSceW7iyYHliV5DQ+dWaiccxFpEAMHM9a1Q1s7FgpSlgk5b8bpXSAFAi3N5wVU1JoLL7I5w4xU0eniDdxp+brjx0ahdy7cqeGXpaX7UHJDm0d8A9rF03RoOoNqnhht3QrX1HxdxFdukob8318cMrfWDDWPBZKySZUQ1BjUThOO1t7hW0fZXGbgfhvWytzhf3kAf7R/AldC+gkCbpOZ7yENn/vPn0DF1FlR9LTxXlv7epUvsYzz7Dua1ow1+jEXtdIly4LqXrgq2NbIcKrb2VmZfzE4aUwgiAQa3Yn2VdL9YEV/wTvtXxMCyDHoynCVmo3OfUdJsKwqglv13vk6zub0RMHiaWHqLHKFvdq1ReiBeJlWjv+NweS0iKzDa8E3RUMlc4qODFZOp6XZtPxp3HI0kMA==;g1dbyr0Lxx92RBevGsBxqg=="
 ---

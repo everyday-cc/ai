@@ -2,6 +2,101 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-08-12-china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law.md",
+      "title": "China closes record number of personal data breaches, moots facial recognition law",
+      "excerpt": "China has closed a record number of personal data breaches and is seeking public feedback on draft laws to regulate the use of facial recognition data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
+      "originalUrl": "https://www.zdnet.com/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/e62c52c5ce87590f1066d076e19db9058ee87c0e/2023/08/11/893c158b-a331-42d7-a1ac-95c95a6f9fb1/gettyimages-1443495508.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-closes-record-number-of-personal-data-breaches-moots-facial-recognition-law/",
+      "publishedDateTime": "2023-08-11T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-08-12-advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms.md",
+      "title": "Advocacy group raises privacy concerns as facial recognition technology booms",
+      "excerpt": "Safety, efficiency and profitability are touted as the key drivers behind the growing popularity of digital ID technologies like facial recognition, but they present important privacy risks, Calgary-based legal advocacy organization Justice Centre for Constitutional Freedoms (JCCF) reveals in a new report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542",
+      "originalUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2023/08/GettyImages-1311613664.jpg",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/advocacy-group-raises-privacy-concerns-as-facial-recognition-technology-booms/544542?amp=1",
+      "publishedDateTime": "2023-08-11T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-12-black-hat-usa-2023-panel-used-correctly-generative-ai-is-a-boon-for-cybersecurity.md",
       "title": "Black Hat USA 2023 Panel: Used Correctly, Generative AI is a Boon for Cybersecurity",
       "excerpt": "A Black Hat 2023 panel discussed the ramifications of generative AI, and included the former Cyber Czar for the Obama administration.",
@@ -1123,101 +1218,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-generative-ai-friend-or-foe-for-the-translation-industry.md",
-      "title": "Generative AI: Friend Or Foe For The Translation Industry?",
-      "excerpt": "Understanding the specific dynamics of how GenAI will affect different industries and functions is a complex and nuanced undertaking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/",
-      "publishedDateTime": "2023-08-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-aws-launches-programme-to-help-early-stage-start-up-founders.md",
-      "title": "AWS Launches Programme To Help Early-Stage Start-Up Founders",
-      "excerpt": "Amazon Web Services has launched AWS Build, a new global programme designed to support entrepreneurs early in their cloud journey to build, refine and launch their innovative applications.",
-      "sourceUrl": null,
-      "webUrl": "https://startup.outlookindia.com/sector/ed-tech/aws-launches-programme-to-help-early-stage-start-up-founders-news-9109",
-      "originalUrl": "https://startup.outlookindia.com/sector/ed-tech/aws-launches-programme-to-help-early-stage-start-up-founders-news-9109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1678183910.jpg?utm_source=fb",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "startup.outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

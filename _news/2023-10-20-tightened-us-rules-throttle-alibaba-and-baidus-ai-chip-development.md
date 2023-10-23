@@ -25,91 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Startup Zhipu Secures $342M in Funding from Alibaba, Tencent"
-    excerpt: "Amid the buzzing AI market, Chinese AI startup Zhipu announced that it has secured $342 million (or 2.5 billion yuan) in funding."
-    publishedDateTime: 2023-10-20T10:03:00Z
-    webUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/"
-    ampWebUrl: "https://www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
-    cdnAmpWebUrl: "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/ai-zhipu-342m-funding/amp/"
+  - title: "US expands chip export curbs to China to throttle AI, supercomputer development"
+    excerpt: "Chinese officials said that the new US chip restrictions contradict fair trade principles, while immediate response from vendors is muted."
+    publishedDateTime: 2023-10-18T14:08:00Z
+    webUrl: "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.html"
+    ampWebUrl: "https://www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3708812/us-expands-chip-export-curbs-to-china-to-throttle-ai-supercomputer-development.amp.html"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 57
+      name: Computerworld
+      domain: computerworld.com
+    quality: 70
     images:
-      - url: "https://www.coinspeaker.com/wp-content/uploads/2023/10/ai-zhipu-342m-funding.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Alibaba, Tencent and other major Chinese backers invest US$342 million in start-up Zhipu AI as this tech sector sees increased funding"
-    excerpt: "Zhipu AI was built on the back of research from the Knowledge Engineering Group of Beijing’s prestigious Tsinghua University. The start-up’s chief executive, Zhang Peng, graduated with a PhD from Tsinghua’s computer science department. Beijing is ..."
-    publishedDateTime: 2023-10-20T11:54:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3238698/alibaba-tencent-and-other-major-chinese-backers-invest-us342-million-start-zhipu-ai-tech-sector-sees"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 55
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/10/20/e2086e00-778f-4434-9d55-aaad50d7f5da_762ea11f.jpg?itok=ke8UV4JE&v=1697802747"
+      - url: "https://images.idgesg.net/images/article/2023/08/chip_trade-war_us_china-100944812-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Alibaba, Tencent join big backers for Chinese AI startup Zhipu"
-    excerpt: "Alibaba Group Holding Ltd. and Tencent Holdings Ltd. are among the influential Chinese investors that invested 2.5 billion yuan ($468.9 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T05:37:00Z
-    webUrl: "https://www.theedgesingapore.com/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    ampWebUrl: "https://www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    cdnAmpWebUrl: "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/tech/alibaba-tencent-join-big-backers-chinese-ai-startup-zhipu"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 37
-  - title: "Alibaba and Tencent Join $340 Million Funding for AI Startup Zhipu"
-    excerpt: "(Bloomberg) — Alibaba Group Holding Ltd. and Tencent Holdings Ltd. were among influential Chinese investors that invested 2.5 billion yuan ($342 million) in AI startup Zhipu this year, part of a wave of capital flowing into a red-hot arena."
-    publishedDateTime: 2023-10-20T21:21:00Z
-    webUrl: "https://www.caixinglobal.com/2023-10-21/alibaba-and-tencent-join-340-million-funding-for-ai-startup-zhipu-102119022.html"
-    type: article
-    provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 37
-    images:
-      - url: "https://img.caixin.com/2023-10-20/169781403464011_560_373.jpg"
-        width: 560
-        height: 373
-        isCached: true
-  - title: "Chinese AI startup Zhipu raises $300M in funding"
-    excerpt: "The company’s funding announcement comes a few days after Baichuan, another Chinese AI startup, disclosed that it has secured a $300 million investment. The raise included contributions from many of the same companies that backed Zhipu, including Alibaba ..."
-    publishedDateTime: 2023-10-20T19:58:00Z
-    webUrl: "https://siliconangle.com/2023/10/20/chinese-ai-startup-zhipu-raises-300m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/unsplash-2-2.png"
-        width: 1032
-        height: 580
-        isCached: true
-  - title: "Chinese Tech Giants Alibaba and Tencent Invest $342 Million in AI Startup Zhipu"
-    excerpt: "\"Alibaba and Tencent's $342M investment in Zhipu underscores China's AI ambitions, intensifying global competition with US tech giants.\""
-    publishedDateTime: 2023-10-20T08:15:00Z
-    webUrl: "https://www.cryptopolitan.com/alibaba-and-tencent-invest-342-million-in-ai/"
-    type: article
-    provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 33
-    images:
-      - url: "https://img.cryptopolitan.com/wp-content/uploads/2023/10/photo_5877739083780963915_x.jpg"
-        width: 800
         height: 800
         isCached: true
+  - title: "US further restricts AI chip exports to China"
+    excerpt: "The new set of chip restrictions hitting China are designed to close loopholes in existing regulations. The U.S. Department of Commerce has escalated its efforts to resist the sal"
+    publishedDateTime: 2023-10-18T15:06:00Z
+    webUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china"
+    ampWebUrl: "https://www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20231018/chips/us-further-restricts-ai-chip-exports-to-china/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 54
+  - title: "China Launches Global AI Governance Initiative After US Announces Fresh Curbs On Chip Exports"
+    excerpt: "China launched a global initiative for AI governance as countries such as the U.S. and the U.K. race for dominance in the fast-evolving technology."
+    publishedDateTime: 2023-10-19T08:49:00Z
+    webUrl: "https://www.ibtimes.com/china-launches-global-ai-governance-initiative-after-us-announces-fresh-curbs-chip-exports-3715769"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 43
+    images:
+      - url: "https://d.ibtimes.com/en/full/4452318/security-surveillance-camera-overlooking-street-pictured-next-nearby-fluttering-flag-china.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "U.S. tightens curbs on AI chip exports to China"
+    excerpt: "The United States on Tuesday said it was tightening curbs on exports of state-of-the-art AI chips to China, sending the share price of Nvidia and other semiconductor companies plummeting on Wall Street. The measures are the latest chapter in the policy ..."
+    publishedDateTime: 2023-10-18T21:43:00Z
+    webUrl: "https://japantoday.com/category/tech/us-tightens-curbs-on-ai-chip-exports-to-china"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 34
 
 secured: "LxKPzO4mGwHrdfB4bakRyjn4EVsd3REqLV1QHSZaFEkr7uaB8VXREuRQvJcVsqks6pEKbaVYP7BIowR54Li52CllVusNy85++qMJipoRR1BSfBjiRAwFQXD+rlZ0DkSgcs7UFn8iHYMsM7XTD5g3JkYMDb4CZZoAQTv683bbeTa9tdwZS05ZT76lb4Le65cRwtW2ZQ8qIMpTNimHnYJ6iq3mPdq16R3x50HEFp/GZWiYOUQuESvPxF6cq6LVkxmqfWLHrTJl6U3bg0vWG5YeqqnJBuABK2RhXjtiUV3fouFgJsThotz4n/uQDEd18XRMvxhmkxYtnqzqtK4Mc9lcfBSMx/0K0rWVUOPT7JSwEhc=;/adMGGvU0FdzjsqRLMcBCQ=="
 ---

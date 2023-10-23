@@ -74,34 +74,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "AI chip start-ups: Nvidia is proving a difficult stone to dislodge"
-    excerpt: "Non-chip AI start-ups are still popular with investors, but less so semiconductor start-ups. Excluding China, VC deals dropped 25 per cent last year, according to PitchBook data. Nvidia ’s domination, estimated at 90 per cent of the market, appears to have dented confidence elsewhere."
-    publishedDateTime: 2023-10-18T10:39:00Z
-    webUrl: "https://ft.com/content/9a06ddb4-b5c0-406c-b397-5684ba999c4d"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
-  - title: "Foxconn to build AI data factories using Nvidia chips and software"
-    excerpt: "Taiwan's Foxconn, the world's largest contract manufacturer, will build artificial intelligence data factories using Nvidia chips and software to make products including self-driving cars, the companies said on Wednesday."
-    publishedDateTime: 2023-10-18T09:35:00Z
-    webUrl: "https://www.aol.com/news/foxconn-build-ai-data-factories-023559146.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/e2b7e251066f1b19b05e55e371a3bc4b"
-        width: 800
-        height: 533
-        isCached: true
   - title: "US further limits NVIDIA AI chip exports to China"
     excerpt: "Consequently, NVIDIA will no longer be able to sell its A800 and H800 AI and HPC GPUs in the Chinese market. Other countries like Iran and Russia will also be caught in the crossfire. This will further reaffirm the US government's measures, designed to prevent the procurement of advanced semiconductors via subsidiaries in these countries."
     publishedDateTime: 2023-10-18T14:28:00Z
