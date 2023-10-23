@@ -117,6 +117,20 @@ related:
         width: 2048
         height: 1367
         isCached: true
+  - title: "‘Game-changing’ facial recognition technology catches prolific shoplifters"
+    excerpt: "The Metropolitan Police asked 12 retailers to send in images of their 30 worst shoplifters in a pilot of the new software."
+    publishedDateTime: 2023-10-19T02:01:00Z
+    webUrl: "https://www.aol.com/game-changing-facial-recognition-technology-230100901.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/RKfjEJzFdHIFNK3hlA567Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/6429df5834bcfc23dc3e0ffb493c7837"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Login.gov to add facial recognition tech"
     excerpt: "The General Services Administration is changing its digital identity service to allow users to authenticate themselves by matching against a previously submitted government ID."
     publishedDateTime: 2023-10-19T10:00:00Z
@@ -130,20 +144,6 @@ related:
       - url: "https://cdn.govexec.com/media/img/cd/2023/10/18/101823_getty_ng_facial_recog-1/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "‘Game-changing’ facial recognition technology catches prolific shoplifters"
-    excerpt: "The Metropolitan Police asked 12 retailers to send in images of their 30 worst shoplifters in a pilot of the new software."
-    publishedDateTime: 2023-10-19T02:01:00Z
-    webUrl: "https://www.aol.com/game-changing-facial-recognition-technology-230100901.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/RKfjEJzFdHIFNK3hlA567Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/6429df5834bcfc23dc3e0ffb493c7837"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Met Police use facial recognition to tackle London’s rising shoplifting problem"
     excerpt: "UK's Metropolitan Police uses facial recognition to identify 149 shoplifting suspects from CCTV, sparking both success and privacy concerns."

@@ -6,7 +6,7 @@ publishedDateTime: 2023-10-19T02:01:00Z
 originalUrl: "https://www.aol.com/game-changing-facial-recognition-technology-230100901.html"
 webUrl: "https://www.aol.com/game-changing-facial-recognition-technology-230100901.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/RKfjEJzFdHIFNK3hlA567Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/6429df5834bcfc23dc3e0ffb493c7837"

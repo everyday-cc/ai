@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Robots and AI May Cause Humans to Become Dangerously Lazy"
-    excerpt: "New research shows that if you want to get something done, it might be better (and safer) if you just did it yourself."
-    publishedDateTime: 2023-10-18T18:24:00Z
-    webUrl: "https://www.thedailybeast.com/robots-and-ai-may-cause-humans-to-become-dangerously-lazy"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3159,w_5616,x_0,y_585/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1697642618/GettyImages-156899969_opqwu8"
-        width: 1480
-        height: 833
-        isCached: true
-
 secured: "50F1RlfA9q2MfN/ENH4GNQYxr2FOGFisEuf9ejG5KVndgtOrNOmdtVT9VY1UC2k5uUL8fFeuQPbXUKexF319FEUcjuX9coTTmJnTFHDoVc+xzkTYryamg5Q+2Hpu0bIE9SZFJbpMa2Hm1kCIeI1PHoAKWRcTPsotW58/VKC1hNlI5HKrtBKDFpccS7UwAUZikkftGIcbxSf2CQF7OtMy9RVgk0aMLhOmqRAWZK/0Ef0B3DNVHWN6Zymv/XRKG18hBG4tH+AWhmB1rk2qr2Ehjqr4KgSJSnRE6hIuj0Bna73k4QwQsFKy/YxAAGD+t59EsIDsNC12Mcn+Kx50N0roqqYDpwTSUwdbIxblLHwZyqC4sQMsS8YI4zHD+POAvUEdGOlFWpcPFoVXt+DHJn04N1wisn0d0KT048cDymj0BPXzVMON556Ic0T2oYSFxCizZcobqIN6f1INCOVGNHtOfjoPJnrWSXfu2+oMRseW5Nb31bWmYatoaxkf+7o4Fqx2mv1MpzvY/jH1OfkwOK3wiw==;fDNSvK6Z6fq8WaeLzGIVRw=="
 ---
 

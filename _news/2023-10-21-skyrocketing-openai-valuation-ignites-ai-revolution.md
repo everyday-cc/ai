@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Generative AI Can Improve Communication Within An Organization"
+    excerpt: "The natural language interface enables interaction between stakeholders, project owners, QA engineers, designers and developers with the project’s vector knowledge base."
+    publishedDateTime: 2023-10-23T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/10/23/how-generative-ai-can-improve-communication-within-an-organization/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "This AI and automation developer bundle is just $50"
     excerpt: "If that sounds fascinating to you, this bundle can start you off on the right ... Another more advanced course in the bundle is called Robotics & Artificial Intelligence + Tools + Templates. It's taught by Chris Mall. Here, you'll learn about the ..."
     publishedDateTime: 2023-10-19T09:00:00Z

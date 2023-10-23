@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/93943/qualcomm-snapdragon-elite-4-6
 webUrl: "https://www.tweaktown.com/news/93943/qualcomm-snapdragon-elite-4-6-tflops-more-gpu-power-than-xbox-series/index.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1500
     height: 800
     isCached: true
+
+related:
+  - title: "Qualcomm Snapdragon X Elite Details Leak; Has 4.6 TFLOPs Of GPU Power"
+    excerpt: "Details of Qualcomm's upcoming and next-generation mobile chipset have leaked and we now have a name: the Snapdragon X Elite."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.lowyat.net/2023/309593/qualcomm-snapdragon-x-elite/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 54
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2023/10/Qualcomm-Snapdragon-X-Elite-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "m6+bX/pfIiMufCa3cLnFyEFNxn4r566xHBWlM9tjlCHJzeKEGnVyk5IXctj8kk/63p3Iqu1taSgjxkDPaWvFiPI44dPH/qnYoVPPM0pZDZa4qkRuoGnQyfGgWGFZDKQYA756WAOWdQqAqfHCS6xo16qau7Baw7DHm6vSi7W6qN+rnO+CxUgTFDpKKwVrd80OeuMF3F7VkQ791gunciVYJ+JTbkV7JTOREDAwYz3OgARFVnbtnfhquEefuh5blTD4gNvwcr7u0VThaXcqQvBCAzNZ5H+oBt8uk6MXp4gh1pic1xPwSqo1MYUX7Gzwu8KK4mnBjmNG1mnqEhbt2rY2hB4GhNvslhUBFktFFZ7gfoVwSPLiAfPJZWxp7PN3ECDHf3pnXEZkCYNlBUhg5Zd3UP2Y0gFAhouIrcSc5YLbjCo3Tg6KjVZT6CWGtV9cTDxQ8YANjkzwWM53Ef87OuggYaGciAFxmLxY/8q9RjtUNkOooNbjgcyrZxLZvjz9i6jSwf21ilvTS41iCTL+gQp8Lw==;+6eC5UDvHRKlvwxoM/LWlg=="
 ---

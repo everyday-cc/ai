@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM expands AWS partnership to bring generative AI to call centers, supply chains"
-    excerpt: "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities."
-    publishedDateTime: 2023-10-18T17:25:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "IBM and AWS leap deeper into bed for AI love affair"
     excerpt: "AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief."
     publishedDateTime: 2023-10-23T09:31:00Z
@@ -69,15 +55,6 @@ related:
         width: 336
         height: 280
         isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
-    publishedDateTime: 2023-10-18T18:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
   - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
     excerpt: "Commitment to deepening expertise and expanding AWS on watsonx integration IBM has already built extensive expertise with AWS's generative AI services including Amazon SageMaker and Amazon CodeWhisperer, and is one of first AWS Partners to use Amazon ..."
     publishedDateTime: 2023-10-21T18:42:00Z

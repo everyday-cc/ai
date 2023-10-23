@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 680
         isCached: true
+  - title: "How Companies Can Embrace Generative AI’s Superpowers"
+    excerpt: "Today, generative AI is no longer the elusive domain of tech giants. Even small businesses can afford to use its superpowers."
+    publishedDateTime: 2023-10-23T11:01:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/647f38c95ad531f8e9178353/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "New Nvidia AI agent, powered by GPT-4, can train robots"
     excerpt: "Nvidia Research announced today that it has developed a new AI agent powered by OpenAI's GPT-4 that can teach robots complex skills."
     publishedDateTime: 2023-10-20T20:00:00Z
@@ -168,20 +184,6 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/c3fe953590046dd0f1b3f8760e09ca6a_M.jpg"
         width: 375
         height: 211
-        isCached: true
-  - title: "How to Capitalize on Generative AI"
-    excerpt: "Business leaders are struggling to understand how seriously they should take generative AI. It has already displayed breathtaking powers to create new content and is used to do things such as write software,"
-    publishedDateTime: 2023-10-18T17:16:00Z
-    webUrl: "https://hbr.org/2023/11/how-to-capitalize-on-generative-ai?ab=seriesnav-spotlight"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2023/09/S23061_MYERS.jpg"
-        width: 2400
-        height: 1350
         isCached: true
   - title: "Gcore Launches Generative AI Cluster Powered by NVIDIA GPUs"
     excerpt: "The new Generative AI Cluster is equipped with servers based on NVIDIA A100 GPUs, the leading data centre AI accelerator. Later this year, Gcore plans to expand with an additional 128 servers powered by the latest NVIDIA H100 GPU to further enhance its infrastructure."

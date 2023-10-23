@@ -24,17 +24,6 @@ images:
     height: 1024
     isCached: true
 
-related:
-  - title: "“AI is changing the way we work, making our lives simpler, more productive and secure”"
-    excerpt: "Glaucia Rosalen, the CFO of Microsoft Brasil, tells Leaders League about the strategic role the finance department, the challenge of increasing female representation at the executive level in Brazil,"
-    publishedDateTime: 2023-10-18T19:09:00Z
-    webUrl: "https://www.leadersleague.com/en/news/ai-is-changing-the-way-we-work-making-our-lives-simpler-more-productive-and-secure"
-    type: article
-    provider:
-      name: Leaders League
-      domain: leadersleague.com
-    quality: 13
-
 secured: "octBySttVnS3WhZ+5uUuAevzBJ5mBt7BQTkPPvycOhoJ6l82SJxYsfVgCXEcZyrYE9x4rG2lVcyGkIYH1tS+Ud6Uc7YUADSu5tFCuEw7QbqblSmUQzGixD0KymzcMP10L6aT0iLyZ/8nigYu2TjvCWGi94OANkeYjd3Nczud78a3IA0DavYADP87AenaJ85TpkwqXLlgU7QalmI6ZjWqoLjCBAR/JgPcEFtX2nlhgwj4FZQF0MQ8qmQFq4axanmAsjLx+OxWOaSzuXezZVRiqLpK8WBP3jJGVBQW6yw8gMCxbFGEFamPR1hfYnDrckdpk6NEl6mlxNNztR61bV61KugeoTXh4nqsvB0QcWTLCUYDzVJGN8RJiV+fdomFDfhiIkuBpNBLvvd56YZAoo3EPbJ7Jz3cnWpkvVcuR+phAikIQzdblvdRma/oAJ5ZD7Uju0M/nbHS5phQeVnCl1XlKzNq6JXghG70piaXzOiHV+1pO4/LYTMBDaVJVzP6vhwOz/276koKjCkahVrRYzqdzg==;i/qiAOZxNZBupJDosCplHg=="
 ---
 

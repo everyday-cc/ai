@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM expands AWS partnership to bring generative AI to call centers, supply chains"
-    excerpt: "IBM today expanded its partnership with AWS to re-engineer key enterprise solutions with generative AI capabilities."
-    publishedDateTime: 2023-10-18T17:25:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-expands-aws-partnership-to-bring-generative-ai-to-call-centers-supply-chains/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/10/AdobeStock_608783292.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "IBM and AWS leap deeper into bed for AI love affair"
     excerpt: "AWS is the latest partner for veteran tech giant IBM. But where does that leave the latter on AI? We ask IBM Consulting’s AI chief."
     publishedDateTime: 2023-10-23T09:31:00Z
@@ -77,15 +63,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients"
-    excerpt: "IBM today announced an expansion of its relationship with Amazon Web Services (AWS) to help more mutual clients"
-    publishedDateTime: 2023-10-18T18:48:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-relationship-with-aws-to-bring-generative-ai-solutions-and-dedicated-expertise-to-clients/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "ohs0lNT6fl/AlYxhuv+gGGfQDn4KIUnLJz2v3335M5+Mbin4s6G3rblcfej4tnvoJyxLG5JbqtLyF8CZb5BcmVm0e1zZWqK9A2apUhQpFCwifmNv4fFK1B2nloemS7ekXs/47r/6s0Q1mWFHnY/H1lHg2sxNg3HT9oK6SLIsGDDjQ2sTHlAeUOelnEneDOsTWhVn2J7tM2QRVMJhVrXdwNmQSdq51EvtxK7inXwbg07u2KKxaVJ4S+fvOWKIcJz5tx390lI8Otac/rJICXoe68lXDJ+DJJE2w0vZsWNcnlc4wtFl/CBMA5LvCAapHRYZO5S98RUWT/HdQPK+p+4sJVjmDmYCUFzbDJO/3g/FCOE=;1ZeTXHMOrQNqBMK0SOID1A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/fact-check/video-joe-biden-calling-militar
 webUrl: "https://www.reuters.com/fact-check/video-joe-biden-calling-military-draft-was-created-with-ai-2023-10-19/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 11
-  - title: "FACT CHECK: Biden’s False Testimony, Misremembering and Ideological Confusion in LGBTQ Speech"
-    excerpt: "But out of all of Biden’s confusing moments, this one takes the cake: Biden delivered a message to LGBTQ-identifying youth across America, “We see who you are, made in the image of God, deserving dignity, respect, and support. That’s why my administration is combating the dangerous, cruel practice of conversion therapy.”"
-    publishedDateTime: 2023-10-18T17:25:00Z
-    webUrl: "https://www.dailysignal.com/2023/10/18/fact-check-bidens-false-testimony-misremembering-and-ideological-confusion-in-lgbtq-speech/"
-    type: article
-    provider:
-      name: The Daily Signal
-      domain: dailysignal.com
-    quality: 0
 
 secured: "j8YeVHoe1yg2MBpo6i7pejv5iTZ3CG1L9PfKYUmryarA/Y7qOPAeG2K+l8ueVzTr1AKi0ZWUdPa59yI4SfTGEdSL2g1G4n68xC8PLfk3sJR+E4xZGSfvCznE1QRZQ8WAhNIMSSCzPVjQgtMop8d35g488+zVYH8IBpoIDlPqnu4qfomTPUK48C8v0pjU3izl0oWfOZf7E81DDp1d3wlcfTw6QQLESsItgQQisCklbQH8FMPJJlNv1Hm+r8zPWAFH1y/IB4PDMGStIkSoowRZWbmlR0LS3Cx8CxqaqrmA2sCx7Tpnl6dP2Ut2NOvFBa/S9GNILpPxkUCmmxBskCA9or7PTI2u5aFz2m57nz9KvN0o8TOvMjhpBwnqku1X5yKltMNlw5MhqS7lMW/kZ7fBp2sb7ZpNp99D3e4CbZpOU23GPRbw1G8sAEtG+C1+sjA+UIl010+c8wN99CK0URDh61OFx6bCHatEdoGvmm0VF/EIZn/JWjVY5lvltNbBCF7bb7E9ittl2rPvQwdZf9pMHw==;l1FNVedtT9Kvt8qbQoB6Bw=="
 ---

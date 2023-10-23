@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM works out how to boost AI chips"
+    excerpt: "NorthPole inspired by the brain  A brain-inspired computer chip that could supercharge artificial intelligence by working faster with much less power has been developed by researchers at IBM. Biggish's Blue's huge NorthPole processor chip eliminates the need to frequently access"
+    publishedDateTime: 2023-10-23T10:22:00Z
+    webUrl: "https://www.fudzilla.com/news/57810-ibm-works-out-how-to-boost-ai-chips"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/103470178e8a8c3106f52079f8bf69c0_L.jpg"
+        width: 620
+        height: 496
+        isCached: true
   - title: "Adapting to AI in the Classroom"
     excerpt: "USING AN AI CHATBOT is deceptively simple: users submit a question or a prompt, like “Explain how metamaterials work,” and the platform uses a combination of deep learning techniques and language models to scrape the internet for relevant information and compose it into a (relatively) coherent answer."
     publishedDateTime: 2023-10-18T21:01:00Z

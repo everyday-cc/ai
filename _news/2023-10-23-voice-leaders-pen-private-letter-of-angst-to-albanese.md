@@ -24,17 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "No sign of a Plan B after the failed Voice, as Albanese treads lightly on the Israel-Gaza conflict"
-    excerpt: "Despite criticising Labor for being obsessed with the Voice when it should have been more focused on the cost of living, the opposition is now very interested in prolonging the conversation, writes David Speers."
-    publishedDateTime: 2023-10-18T18:59:00Z
-    webUrl: "https://www.abc.net.au/news/2023-10-19/albaneses-uneasy-week-voice-uncertainty-crisis-gaza-israel/102993868"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 5
-
 secured: "0vc5It8B8gFYwGouOWTB4KflhLrBE8kZYyboWYf2Y4emUTc6MkmtWrxjRqps/JBo1qKVNjiNM4BU+F8LxPMfHb9ZUr38FJLCK+Eu0zhfExRFON+WD55HMXfJaIq1Hqa5fj11x3pN3LLlU5B5TEV+wzniYAPihi4St5R/wzaCky9mN9SH6zbEvhKsyCCwJSL0u+mU0+c4uO9kfWLxtYzH6EpPT2NYx8iJMAggOC7mahwqmJRG3KzElHZqUOg2OSr/rdbew4CcmKPQnYT3KqltT3wKnyImWNU0tPzz49/5XlzJmzO77UbzA8e6DgUK/zDNw961uDxjcmv1F3tvhKCqF3AmgmQYIjfevhOihRY7Lv4=;/XZT7HB/I6vYHi/1JZmmug=="
 ---
 

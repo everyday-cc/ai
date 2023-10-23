@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here's what we hope to see from AI powerhouse Microsoft's quarterly earnings this week"
+    excerpt: "When the software giant reports on Tuesday, investors will be looking to see whether its big bet on artificial intelligence is paying off."
+    publishedDateTime: 2023-10-23T08:01:00Z
+    webUrl: "https://www.cnbc.com/2023/10/23/what-we-are-looking-for-in-microsoft-quarterly-earnings-this-week.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107303118-1695140793195-gettyimages-1676978506-Omarques_19092023_TECHKRK_5_of_14.jpeg?v=1698055261&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Microsoft's new AI assistant can go to meetings for you"
     excerpt: "Carissa Veliz, associate professor at Oxford University's Institute for Ethics in AI, said she was also concerned about people becoming overly dependent on such tools. \"What happens if the tech fails, or it might be hacked? There might be a glitch ..."
     publishedDateTime: 2023-10-22T22:59:00Z
@@ -288,20 +302,6 @@ related:
       - url: "https://images.tech.co/wp-content/uploads/2023/10/18162126/microsoft-remote-roles.jpg"
         width: 1920
         height: 960
-        isCached: true
-  - title: "Foundry For AI By Rackspace Partners With Straits Interactive To Launch AI Data Protection Officer On Microsoft Azure Openai Service"
-    excerpt: "The AI DPO Assistant chatbot guides organizations, especially SMEs, in data governance and navigating data protection requirements. Built on the Microsoft Azure Open AI Service, the chatbot securely stores data in a multicloud environment by Rackspace Technology. The AI DPO Assistant will:"
-    publishedDateTime: 2023-10-18T17:24:00Z
-    webUrl: "https://menafn.com/1107265676/Foundry-For-AI-By-Rackspace-Partners-With-Straits-Interactive-To-Launch-AI-Data-Protection-Officer-On-Microsoft-Azure-Openai-Service"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 38
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?865047"
-        width: 446
-        height: 250
         isCached: true
   - title: "G7 CR - A Noventiq Company achieves Microsoft Azure Advanced Specialization in Analytics; leads the way in Data Analytics and AI"
     excerpt: "G7 CR - a trusted cloud managed services provider, announces its achievement of earning Azure - Advanced Specialization in Analytics, setting industry benchmarks as leading data analytics and artificial intelligence service provider."

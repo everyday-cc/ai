@@ -3,8 +3,8 @@ category: news
 title: "Bias in AI Computer Vision Systems Dramatically Reduced with Synthetic Data ‘Digital Humans’"
 excerpt: "LONDON--(BUSINESS WIRE)--Mindtech, the developer of the world's leading end-to-end synthetic data creation platform for training AI vision systems, has announced the launch of its Digital Humans 2.0 within its Data Ops Platform. To improve accuracy in ..."
 publishedDateTime: 2023-10-23T06:34:00Z
-originalUrl: "https://www.businesswire.com/news/home/20231022631671/en/Bias-in-AI-Computer-Vision-Systems-Dramatically-Reduced-with-Synthetic-Data-‘Digital-Humans’/"
-webUrl: "https://www.businesswire.com/news/home/20231022631671/en/Bias-in-AI-Computer-Vision-Systems-Dramatically-Reduced-with-Synthetic-Data-‘Digital-Humans’/"
+originalUrl: "https://www.businesswire.com/news/home/20231022631671/en/"
+webUrl: "https://www.businesswire.com/news/home/20231022631671/en/"
 type: article
 quality: 23
 heat: 23
@@ -29,6 +29,6 @@ related:
       domain: smu.edu
     quality: 16
 
-secured: "ofBEwKfU6aIbqOotZvxlXMd+91Gi5khCIfExRMe7g/95yCEiqXXEWG7FWpF7Y2OAyUNWvW3qGMpwTBZbWk/43hy1cHMKgcf6v/HsnxP+kA5IsASrf29FUqOxlfvyf7ksBzBGKKNXjoJpWo9VTEEFOfGtGxZLAaRxI8fYHZBd+IZVOJE/qjX70BO/3YgPaLdCG90SKwwCXhxmfi/FwJuvtfCgyQcBDXmM9U6Ah8CwfjmMVVWo30cnU6Hu+gLcvF8lYu0vZM1Hc3d/63ejpls112BJv34kJ4ByuIm6p6YeqPa3OPdFzXipN556MLwhb33AmORcq+uIAIzYtvTNuMj/W7E/eC3/D0TeczsB9NHbFvs=;u68GX5psLiiv8Ts/SjnX/Q=="
+secured: "QeocjTSMDU7GN2wZZMbHmardyLrN1EdqoWgSjAGj5oIkQhj6sqwhrPBZh83/WMIwJGrQi8IhHDyT+kSKOlsLQV7WcF/8q+k6Q2UuaPfONov4Cx4Km7zxY/wjr08rI9TNFRpLZozjaJpSDZS0suIe2yUZ9cINrdaQZazOWbNlbOS/MsFvPz2ImxIjVGepgdHPxodcVg9FULvsjArZiKNGxeeCH0oAtHlib+s0TGETFee5+NjxafzPduA+ASUBwXLWLVvoa+VdpATdXQ6/SzSmZhTv065gKqSIu7PNp7+PrNNjc9QhJkKeNxp/pDIcdRJWNnCy2b8R/fPneqZX5d3N0sLvkXkBSP1eznvtGEFWkDA=;uBhhnpeDR/rJ8x5nxCx3cw=="
 ---
 

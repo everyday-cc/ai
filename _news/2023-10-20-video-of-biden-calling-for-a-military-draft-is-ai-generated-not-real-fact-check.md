@@ -48,15 +48,6 @@ related:
         width: 1250
         height: 650
         isCached: true
-  - title: "FACT CHECK: Biden’s False Testimony, Misremembering and Ideological Confusion in LGBTQ Speech"
-    excerpt: "But out of all of Biden’s confusing moments, this one takes the cake: Biden delivered a message to LGBTQ-identifying youth across America, “We see who you are, made in the image of God, deserving dignity, respect, and support. That’s why my administration is combating the dangerous, cruel practice of conversion therapy.”"
-    publishedDateTime: 2023-10-18T17:25:00Z
-    webUrl: "https://www.dailysignal.com/2023/10/18/fact-check-bidens-false-testimony-misremembering-and-ideological-confusion-in-lgbtq-speech/"
-    type: article
-    provider:
-      name: The Daily Signal
-      domain: dailysignal.com
-    quality: 0
 
 secured: "VEzJH4w+EFclUUzRMofG/7EDY9EKN79iG5GIJEjH/qL3XJ71qY5MzWN1IKOkTyELvD0yMIGcx1g08KgNPGfldUnW027OpbXdTv08DCp4tWIV4Q3u+DTTlN01qbkRNNxqsG9kVZsnCohgB9T8Y0kS36nGYyAkQYhsKSWyIcrKkRlwepI4rjK1sFnvJgodH4iV1dpnHYF3Pghvxl9Y/LslFU+LuFTKJ/SqLBNajfpYfQAcFp1fK9+qHRZdhDeoURssVMAPyntmwtK1xL44h3PhbJPUA7vgD9psjqDl89dhmLefJDa+wxPcSB9AL9MTiR25wFTbVvYkzbvw0Z48hQQuRg8ynN1HpWIs6oE589HUyDxS525A7uAFupZz+xK70slxuNqYEpzeAmjeSg1iENmF9P2i7Y7R/EvDBe7CHUtR7ry96fGMoJEQcRthefgzN69BH2HwklvbYB5vTfg35/5fUg9L3tgkmr1mRhjEJvO2J7ro40GxQ1dbk23ssvxA6illzZBodM1g0Y7rurOxXDTTcQ==;Vr4wK5NXnxTtHn2ZpQA93A=="
 ---

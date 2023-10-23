@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "PayU's Manish Deo on fintech's vulnerabilities and solutions"
-    excerpt: "Manish Deo: c, delves into the tech-centric methodologies powering PayU's formidable risk management. He highlights the sophisticated AI and ML models pinpointing anomalies, the collaborative endeavors with entities like FIU-Ind to thwart money laundering,"
-    publishedDateTime: 2023-10-21T05:22:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/payus-manish-deo-on-fintechs-vulnerabilities-and-solutions/104599662"
+  - title: "PIONEER IN FINTECH DEMONSTRATES IMPACT OF AI IN PAYMENTS AT MASTERCARD EVENT DURING MONEY20/20"
+    excerpt: "Serial fintech founder to address looming industry regulation and how AI can deliver more value to consumers and businesses  LAS"
+    publishedDateTime: 2023-10-23T11:45:00Z
+    webUrl: "https://menafn.com/1107286496/PIONEER-IN-FINTECH-DEMONSTRATES-IMPACT-OF-AI-IN-PAYMENTS-AT-MASTERCARD-EVENT-DURING-MONEY2020"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 24
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-104599662,imgsize-81602,width-1200,height=765,overlay-etcio/next-gen-technologies/payus-manish-deo-on-fintechs-vulnerabilities-and-solutions.jpg"
-        width: 1200
-        height: 765
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?288618"
+        width: 375
+        height: 249
         isCached: true
   - title: "Sensedia Announces Joint Fintech Solution with Mambu at Money20/20"
     excerpt: "Sensedia, a global leader in delivering API solutions for companies adopting a more digital, connected, and open strategy, today announced it will present during Money20/20 at the Venetian, Las Vegas,"

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "A More Reliable Wikipedia Could Come from AI Research Assistants"
+    excerpt: "A neural network can identify Wikipedia references that are unlikely to support an article’s claims—and scour the web for better sources"
+    publishedDateTime: 2023-10-23T11:56:00Z
+    webUrl: "https://www.scientificamerican.com/article/a-more-reliable-wikipedia-could-come-from-ai-research-assistants/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 37
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/A8115FAD-664E-4DEB-A062403BCA9D30A7.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "3+b/dgecwQQ0Lx9y+D+0cPJXRdHqSx2yLU0iA3VPX4zHRWKELY56TefOZImcXzYkhyZSUl8GszIlVvYNEBfCFplD7ZjlcGhR/Ynyqi+XHu4fyGt0zlFFT8aVKwwylMnVRkukJJ4qQ0tt0uoseilbq3wnH1fkJvT+OoEQlMGEukQbPbNDhSmfwNvSvU9x0P9SnIet0vUt1SfZp1WTM8Q9PrLmlgalUpRxvvqw6+TiNBHOJC1jzW/m9sNTjqT4+HU81cgZaEBjp1TNni4001Gmi3EPTeFLfj2kkogRcXZOOGnA5iZ6PrzmZH0t1bgjT/FUhBMwUavn+I2ynQWYrOIsLKEv66mg2bu8s+ZJx2xOHWo=;0O0cNQU4Ohe+XD+PrA5x5g=="
 ---
