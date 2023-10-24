@@ -92,22 +92,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
-    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
-    publishedDateTime: 2023-10-19T09:08:00Z
-    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
-    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
-        width: 834
-        height: 636
-        isCached: true
   - title: "How companies can assess artificial intelligence through an ESG lens"
     excerpt: "Use ESG as a lens, suggests Yannick Ouaknine, Head of Sustainability Research at Societe Generale: “The rate of adoption of AI and hence the rate of change will be, and already is, very rapid. But the process can be manageable for corporates if they think about it in a structured and analytical way.”"
     publishedDateTime: 2023-10-19T10:22:00Z
@@ -122,15 +106,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
 
 secured: "NPEGv4W4rNoKf56QFYrWIwckPZ+62iBQis0Rq9xFJdgCaVkuSUJ/mywWdmnpWVT/ySqUMqaC7SE2+sSc3cIwuZcXPQiQGClYioy4zsafDZk/ITTEsmOvIMSIGNGVI6ffoz4EFdU2a1yoYhDDGzzM2ZrODVuyQ7JTwB6Of8ya9xStBJY6kiIZ8+cLat21h6jFJcYvQMeHB9BeHARE6fQHWlO0GwhsilaPN10Cl/30hOdWEBiErGZw2TbssOqwzQ+o51U287PzC+oUH50mkxYvQ4un32ukn8nncl1btwwNE1p/WOqdctoFr+zpcf/utsnHVcpEVJeG3b2VYyOh9zkT5Bquoz7OP9BzqrqKuRQqX1qTEIxPaeKJ4oGSV1D53fBR3WTKK0Ds3UsfECjjP/8u7mmUfhHK4rFsROn3ZjErEaQXl8LO+BNtbVTj7I5e7Ev/mstib4cwp4n6BqOIx81JtIt9rutPMX3qsT6it9OR2/UB6wSB74El0xY1Ddu3RCNkKfPWGPsrAIyx3Abi7DuvwA==;W/m5Z1Fu8KdQp2qzTHVe5g=="
 ---

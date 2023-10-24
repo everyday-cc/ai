@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Australians' rejection of the Indigenous Voice in constitutional vote is shameful, supporters say"
-excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority have said its rejection in a constitutional referendum was a “shameful act.” Many proponents of the Indigenous Voice to Parliament maintained a week of silence and flew Aboriginal flags at half-staff across Australia after the Oct."
-publishedDateTime: 2023-10-23T11:30:00Z
-originalUrl: "https://www.aol.com/news/australians-rejection-indigenous-voice-constitutional-043003244.html"
-webUrl: "https://www.aol.com/news/australians-rejection-indigenous-voice-constitutional-043003244.html"
+excerpt: "Indigenous campaigners who wanted Australia to create an advisory body representing its most disadvantaged ethnic minority say its rejection in a constitutional referendum was a “shameful act.”"
+publishedDateTime: 2023-10-23T04:39:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/australians-rejection-indigenous-voice-constitutional-vote-shameful-supporters-104215038"
+webUrl: "https://abcnews.go.com/International/wireStory/australians-rejection-indigenous-voice-constitutional-vote-shameful-supporters-104215038"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/australians-rejection-indigenous-voice-constitutional-vote-shameful-supporters-104215038"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/australians-rejection-indigenous-voice-constitutional-vote-shameful-supporters-104215038"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/9i0SRZkuve9P8cSwaHOjnw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_associated_press_484/b9e40a28841b580d197d4ba1dc2eab05"
-    width: 1200
-    height: 800
+  - url: "https://s.abcnews.com/images/International/wirestory_f08e92769a8a052c791b711116fa1a7c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -62,6 +64,6 @@ related:
       domain: washingtontimes.com
     quality: 0
 
-secured: "MqUQKoQYurEOc05B17jor6uV+RgHSx15m+h6ZSdnNftDNi6nw37EWdskXU2Ypojo/ypDmb7W5XhMbiwU+2Xj0c0jcvg5js5TIyXXXRqwJTTGU1UmFLRN2ekR/JZX92rdSimgPMM1zqwRHtQWD7876L+PXzU0Zx6L8EKmW2PZWGgwUEEOOjj9vn1l1p2bByjI3Aw499Jyvket+d8jkLEo3/l/pyIkhsAgG9B6IGPCdVCBx0JxUcMjpbd46aY3Lt1zvMS+B6+aeABHu4AIMX2i+524f+SoOBesjyJ/ojlV/qUpYZqP+dAdNgQxNWKBtsqoa/S1D8lPYJpEPPxeS5srFzrMv8pL9qSc6E/h/loXS0E=;B4M14zmIp8Qxx2XbZKGk8g=="
+secured: "TSokbAVqJDhwLClDBfzLJZo0IMIppNgThHflem/RE4Wdjl/i9RLLliBZ5Qt6lZHRhMdFy3UbJ0N6FGqhXjaGAf5E802U5AlZRGasyN3UnWuWy6k8bysQru8pVeZSOmKI4e5w5A4hpPyWUoBxqlucSBClY+tfCOD0Ozkgj8AS5HazmdpbdwptF/5rkrShssPKg3ojYncPMuSxqul7fXE0CHXJ+XuuXRhWQ3rexkofK6bztHpKWJi/tVDWfWMCNf8DNVosLA+zWdAmhYOwDSKyQM7+7PW8imT/6als06yMVjWp2hdzgTP+LMzowrazrjXKWWyT2lZWA8N2L10EwEwPPr3mv67xHxZixfAj7TNuHWQ=;RsZGsHx97DxEDhI3YZDbFg=="
 ---
 

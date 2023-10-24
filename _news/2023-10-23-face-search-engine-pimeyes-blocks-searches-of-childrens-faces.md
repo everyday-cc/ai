@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
+    excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
+    publishedDateTime: 2023-10-24T00:56:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/f591462e6065a76b1337826ff063af5b2b490c82/0_0_3186_1912/master/3186.jpg?width=620&quality=85&auto=format&fit=max&s=43d6ac665c02d55854e5ff650b15dac8"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "/l08uLSHE8XOuRYSKdwHTvwed/XSrHXw8KogplELGa4O7YCStkgfqH8t4K1f4Jx4EccS0+/oGoqo/KU4TELOB+MBY/htGl+VV0hQmi9cIHoxvx2X0Rn/Ecji4rBf9VDGco7PTXOJVwAN4wP66YHY1hGI3riC3sTeFo3yi9Hnm/2a6ubWTWM5LFTPATelbyEk9czleu9aSPjhnvfm679PUPltDuVyjI5tdQWfTEMGK9PbetJwjhHGFhyqes3nWxftzPXDmythFlHKtil2GlrFjoCVOITLGrH+yUFKorQYOYCdhNIajm7QcNLqXCUW5Z5P/arBH4sNQfL+g1kVhlQ7YPo7HyWziH4MliSX1XrCRnTHXhXrxQU2sRRqBjC4YvfDLubMg5yy2VjXDhpmuocjXvSewQ2g+DYEP2kJZkj5nDCPRBFOaNtSsM6+6tuGTqMUz+ymV1z8DwkfaMOBMJ64gDmJBDRT8t8JQGSpssOT2bIedFmBtf5goBgseypHf9MnGJjsHatQlAGyV4EcxjXqQQ==;Ekck9QSnotbOCmxMhGdrsw=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
 excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
 publishedDateTime: 2023-10-20T16:48:00Z
-originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
-webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
+originalUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
 type: article
-quality: 60
+quality: 58
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: automation.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
 images:
   - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
@@ -73,20 +72,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/601850d37aa9c1404df144b1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "This AI and automation developer bundle is just $50"
-    excerpt: "If that sounds fascinating to you, this bundle can start you off on the right ... Another more advanced course in the bundle is called Robotics & Artificial Intelligence + Tools + Templates. It's taught by Chris Mall. Here, you'll learn about the ..."
-    publishedDateTime: 2023-10-19T09:00:00Z
-    webUrl: "https://mashable.com/deals/oct-19-artificial-intelligence-developer-bundle"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/04kxBU1cV9szsRTdqWpvFYV/hero-image.fill.size_1200x675.v1697636436.jpg"
-        width: 1199
-        height: 675
         isCached: true
   - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
     excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
@@ -270,20 +255,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "WHO outlines considerations for regulation of artificial intelligence for health"
-    excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"
-    publishedDateTime: 2023-10-19T08:46:00Z
-    webUrl: "https://www.kbc.co.ke/who-outlines-considerations-for-regulation-of-ai-for-health/"
-    type: article
-    provider:
-      name: Kenya Broadcasting Corporation
-      domain: kbc.co.ke
-    quality: 34
-    images:
-      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/WHO-AI-HEALTH-.jpeg"
-        width: 280
-        height: 283
-        isCached: true
   - title: "How AI and digital transformation are influencing the food and beverage industry"
     excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."
     publishedDateTime: 2023-10-20T15:03:00Z
@@ -354,6 +325,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "DXYDw1rsg/RRW3q9NbXQxyKY/ZKpJ495gFc/yufDk2dWDXweuNSmwV8ed8iSC7WKs2xsZge6My93nIWXfm0qnmtFIhHz9BPTQGpQum7FfOtzBx//irw8rADYPv3qBAkCKLJjppH00MbATdyGQ5n8qqPq6eDJ225hzihMvj5faEwHWHcU46dELNjwGfI/KMqw+AagSA6q81D6V63r5JwaVuMyp8QQSyZ1T2WPe0Q7zyahoNaK6APhVkZqLeUVDYtwU51wADPr3wHFqra0uQUBinINrc6bkLRvhnJD8kRStmYQ2vrc8s+NbWd+GgL2cd8U3BuUgfKXE8M+JIOn94/WAym69QZmqLJwu/jVJxmLCdE=;8OYBkIFCRxHkJAlIul86cQ=="
+secured: "oMfQaVzjcMDpU7bt6H5tmbf//i1yzb79Uj3lxgxRwEixmI7BV4qlCJJvDhZLMRfF2GltcKP/cMZV/PX4/qpuovgOu1ewzp+Av6pmTtUFXnGxlT++vLp9HbkgVlh2T2vAMpvkr8wsIKmH94wYXZIvjAIVKIXiZtWdmB9HzwhZpi8kkW4Xh6HsOFwpDUfA5NbLIcXMK8p+snn1hiGrHfNpPoJVkao5O8ZId92SfAEIK8ECN9qRL0U6zVkMF7dxUtQAFCzMmAw2eRqBkGAgPG8H8lmPiOam5Otr5fi93wYaf8xGBWibdQNeqNa45TgRBX+gJpRJcnoq2N3V7HXOgBBd8Q6/vZBJedP3jXb8V+KLMo4=;FBwhsCAK0ip8Eiaq+sCuKQ=="
 ---
 

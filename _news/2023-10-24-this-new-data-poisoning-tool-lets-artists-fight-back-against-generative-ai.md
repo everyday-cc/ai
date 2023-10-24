@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-a
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/amp/"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meet Nightshade, the new tool allowing artists to ‘poison’ AI models with corrupted training data"
+    excerpt: "Nightshade was developed by University of Chicago researchers under computer science professor Ben Zhao and will be added as an option"
+    publishedDateTime: 2023-10-23T23:35:00Z
+    webUrl: "https://venturebeat.com/ai/meet-nightshade-the-new-tool-allowing-artists-to-poison-ai-models-with-corrupted-training-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 54
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-23-19.33.25-Illustration-in-a-comic-book-style-depicting-a-humanoid-robot-in-distress.-The-robots-left-hand-is-firmly-placed-on-its-neck-indicating-discomfort.-.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
   - title: "Data stacks haven’t caught up with generative AI enthusiasm"
     excerpt: "Data quality, use case fit and a lack of guardrails top the list of key obstacles standing between companies and widespread adoption of generative AI, according to the survey of 334 CDOs, conducted in partnership with the International MIT Chief Data Officer and Information Quality Symposium."
     publishedDateTime: 2023-10-19T20:55:00Z

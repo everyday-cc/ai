@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-exte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/10/23/vast-data-extends-ai-infrastructure-leadership-with-lambda-labs-partnership/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Vast Data and Lambda partner to offer optimal cloud-based AI training infrastructure"
+    excerpt: "Universal data storage platform provider Vast Data Inc. said today it’s partnering with Lambda Inc. on a new hybrid cloud experience that’s focused on accelerating artificial intelligence training."
+    publishedDateTime: 2023-10-24T00:46:00Z
+    webUrl: "https://siliconangle.com/2023/10/23/vast-data-lambda-partner-offer-optimal-cloud-based-ai-training-infrastructure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/25964.jpg"
+        width: 1500
+        height: 857
         isCached: true
   - title: "Lambda and VAST Data Partner to Accelerate AI Training Across Public and Private Cloud, Leveraging NVIDIA Technology"
     excerpt: "VAST Data, the AI data platform company and Lambda, a leading Infrastructure-as-a-Service and compute provider for public and private GPU infrastructure, today announced a strategic partnership that will enable the world’s first hybrid cloud experience dedicated to AI and deep learning workloads."

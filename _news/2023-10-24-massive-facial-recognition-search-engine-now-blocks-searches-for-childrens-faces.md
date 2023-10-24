@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recogn
 webUrl: "https://www.theverge.com/2023/10/23/23929271/pimeyes-facial-recognition-ai-children-privacy"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -43,7 +43,23 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Australian federal police tested controversial facial recognition search engine, FOI documents reveal"
+    excerpt: "Exclusive: The AFP told Senate estimates it is now aware the PimEyes and FaceCheck.ID platforms may have been tested for operational purposes on around 10 occasions The Australian federal police have tested a controversial facial recognition search engine ..."
+    publishedDateTime: 2023-10-24T00:56:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2023/oct/24/australian-federal-police-afp-pimeyes-facial-recognition-facecheck-id-search-engine-platform"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 44
+    images:
+      - url: "https://i.guim.co.uk/img/media/f591462e6065a76b1337826ff063af5b2b490c82/0_0_3186_1912/master/3186.jpg?width=620&quality=85&auto=format&fit=max&s=43d6ac665c02d55854e5ff650b15dac8"
+        width: 620
+        height: 372
+        isCached: true
 
-secured: "sfotPfQ1RSJh5MQXqYWtEAkOuZ2LmHxXjpreyHYVd8BFpiH+INeEzHNepijEbujxFHIHAAhD28QYTjqHxiaHjsro7oo6/QfDjTvTuDzYqwxtPeBlw51rc7Bzc/VB8f3wmE4YKnPb1is0a7gMG4JAy+NYESQp+R9GtQ8oUgN8ANsWNFrejcHgSci2C8giDUc4MaAPUa500KwAuo7LAnOsPOG6YvLbxPt1PAPWGwzHmR0Fl9NDW7CuRrJYHN89SPgrnOiFSKr+33EQA4zaj+ffOthqV1FVRatw5P36c+G9/HvMFOVp/NF5qNNd2khKGIgw/ebP1desHuytOGzQQSW+w+JTQws/0A+g5hw8bJhCiyw=;CvpORcTUTgoqEenbulox7A=="
+secured: "t8rksav3Ku4FBvMqGxX+JsiDb7TQ0hzo4VhYrz7I4kCmfJQZiLEJUhT9TsMr13ZGx27L3bzxYDC0gqpFFX656a5hHV2k0irbgcqCyIRv3yddXqZFwWOOFxlPexaDSj4EnOVLb0boKCi4mGHXHJ+y7GRHybkpqHd0VyBxGiw4Y1X/n0LsV/awZaP7MU/EkntbiyGC8uWTfCgxLwS2UZaJviyedkwsOgZHGfeF6yL5l3a9vt9zkXsgEtiCwoNv2fGKn20ho2NSd8Z4yNG1bveMWT+IYs4KBwOoRIktsqfQ6afGIiEZGTkcoVy61MuAnbmwOpLpEZFITMjB7S0zY36t1xihasWeSCRv5oyNlNoe+jktEtwbuQyif4rR7j4plKw6F9HEVpoFMDm9mz572Pftb2EV4ric0YJh1JRPJW1z19Wcm3OjvMm5lrvEeUALS3kkMqZ+yX/2mUIYQMsUPQpWoY24x9nUe/PYNzTQg25I6lFN46KguktNiAU/shsHUyPO9z5t84BdlJw0fJ6Xeobr6A==;fOkAMsHkWxzCF+SIjYh81A=="
 ---
 

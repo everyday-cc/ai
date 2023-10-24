@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/10/20/the-urgent-need-for-marketing-ai-and-automation-education/amp/"
 type: article
 quality: 121
-heat: 361
+heat: 341
 published: true
 
 provider:
@@ -64,20 +64,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "This AI and automation developer bundle is just $50"
-    excerpt: "If that sounds fascinating to you, this bundle can start you off on the right ... Another more advanced course in the bundle is called Robotics & Artificial Intelligence + Tools + Templates. It's taught by Chris Mall. Here, you'll learn about the ..."
-    publishedDateTime: 2023-10-19T09:00:00Z
-    webUrl: "https://mashable.com/deals/oct-19-artificial-intelligence-developer-bundle"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/04kxBU1cV9szsRTdqWpvFYV/hero-image.fill.size_1200x675.v1697636436.jpg"
-        width: 1199
-        height: 675
-        isCached: true
   - title: "How marketers are using AI to make the customer-service experience faster, more targeted, and more reliable"
     excerpt: "Conversational AI is at the forefront of innovation for a growing number of quick service restaurant and grocery store food brands."
     publishedDateTime: 2023-10-20T13:37:00Z
@@ -93,20 +79,6 @@ related:
       - url: "https://i.insider.com/65314decbe9edfa8eda4cb71?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
-    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
-    publishedDateTime: 2023-10-20T16:48:00Z
-    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online? Control News & Articles"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 60
-    images:
-      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
         isCached: true
   - title: "Role of CX automation and generative AI"
     excerpt: "Customers expect personalised and efficient service, and the emergence of generative AI has led to a significant shift in the way businesses approach customer service and customer delight. Like human interactions,"
@@ -155,6 +127,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/fuy8sm/article67439978.ece/alternates/FREE_1200/PTI12_6_2014_000132A.JPEG-01abc.jpg"
         width: 1200
         height: 1594
+        isCached: true
+  - title: "How Robotics, Automation and Artificial Intelligence are Enriching the Online Print Industry"
+    excerpt: "Everything at the Initiative Online Print (IOP) autumn conference revolved around the topics of robotics, automation and artificial intelligence."
+    publishedDateTime: 2023-10-20T16:48:00Z
+    webUrl: "https://www.automation.com/en-us/articles/october-2023/robotics-automation-artificial-intelligence-online"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 58
+    images:
+      - url: "https://www.automation.com/getmedia/785f4697-164f-42a7-9354-716f01545844/Robotics-publication-news-Oct-20-2023-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Bitcoin-centric AI language model aims to drive BTC education and adoption"
     excerpt: "Novel AI language model Spirit of Satoshi trained on Bitcoin-related resources aims to drive education and BTC adoption."
@@ -273,20 +259,6 @@ related:
       - url: "https://images.dmnews.com/wp-content/uploads/2023/10/Open-AI.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "WHO outlines considerations for regulation of artificial intelligence for health"
-    excerpt: "The World Health Organization (WHO) has released a new publication listing key regulatory considerations on artificial intelligence (AI) for health. The publication emphasizes the importance of establishing AI systems’ safety and effectiveness,"
-    publishedDateTime: 2023-10-19T08:46:00Z
-    webUrl: "https://www.kbc.co.ke/who-outlines-considerations-for-regulation-of-ai-for-health/"
-    type: article
-    provider:
-      name: Kenya Broadcasting Corporation
-      domain: kbc.co.ke
-    quality: 34
-    images:
-      - url: "https://www.kbc.co.ke/wp-content/uploads/2023/10/WHO-AI-HEALTH-.jpeg"
-        width: 280
-        height: 283
         isCached: true
   - title: "How AI and digital transformation are influencing the food and beverage industry"
     excerpt: "Manufacturers and retailers are improving their technology stack through digital transformation strategies and AI to improve operations and address historical food and beverage challenges from ingredient shortages and reformulations to predicting current and future market opportunities."

@@ -69,6 +69,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Vast Data and Lambda partner to offer optimal cloud-based AI training infrastructure"
+    excerpt: "Universal data storage platform provider Vast Data Inc. said today it’s partnering with Lambda Inc. on a new hybrid cloud experience that’s focused on accelerating artificial intelligence training."
+    publishedDateTime: 2023-10-24T00:46:00Z
+    webUrl: "https://siliconangle.com/2023/10/23/vast-data-lambda-partner-offer-optimal-cloud-based-ai-training-infrastructure/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 32
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/25964.jpg"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "MmX1mPP/Z4icrCHO+f7ij4ucylyUMnKKhzLtO7Byn8Yuy2GLp+zjHbmj7fteK/Z4Rzt6K/JMBi60mzxnJE6t4IQs4tZKQL/6+zbLOTnRyZGg1PBSrlfy2xdYc9sYdNSt39v7Lx6cUv6MwA03LqK80QxZsznqbYnn6ipqjpmJ9MBhBfmPw/1LLmPdtD3Rh9qevCZ261YZXvhgj7tVy7Pf6gGlU0NLEDz7DGtVFEhMNoC95icKGxXfZH2jLkYZuUerB4N3WEaTXHZSjR/Otsg/veyttGNY6q+w/2KiVJXlOeaSWRk64GWGmgk7DB+ISXrRJCPzan9WXY6woANAhq6IWvTayYjC4n43ZWtcn6NAxiU=;8u0056GuQXJBcGxa0jLr0w=="
 ---

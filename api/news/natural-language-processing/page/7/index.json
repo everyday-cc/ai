@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-08-22-natural-language-processing-to-extract-social-risk-factors-influencing-health.md",
+      "title": "Natural language processing to extract social risk factors influencing health",
+      "excerpt": "A new study has found that a natural language processing (NLP) system developed with leadership from Regenstrief Institute and Indiana University Richard M. Fairbanks School of Public Health ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/998987",
+      "originalUrl": "https://www.eurekalert.org/news-releases/998987",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-08-21T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-08-21-the-voice-actor-behind-nintendos-mario-is-retiring.md",
       "title": "The voice actor behind Nintendo’s Mario is retiring",
       "excerpt": "Charles Martinet, who has been the voice of Mario in every Nintendo game since 1991 ... ‘Yippee!,’ ‘Whee!’ and I get recognition for that. Subscribe to Well Adjusted, our newsletter full of simple strategies to work smarter and live better ...",
@@ -1365,49 +1399,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-10-the-rise-of-artificial-intelligence-ai-in-grc-trends-and-use-cases.md",
-      "title": "The Rise of Artificial Intelligence (AI) in GRC: Trends and Use Cases",
-      "excerpt": "Emerging developments in AI, Machine Learning, Natural Language Processing, Automation, and More – Where Does it All Fit Inside the World of GRC? AI-driven technology has been making headlines for breakthroughs as well as breakdowns lately (like ChatGPT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/the-rise-of-artificial-intelligence-ai-2506101/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/the-rise-of-artificial-intelligence-ai-2506101/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15913_1741.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-09T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
         "images": null,
         "publishers": null,
         "authors": null

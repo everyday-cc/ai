@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/industry-the-convergence-o
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/industry-the-convergence-of-finance-and-healthcare-how-fintech-is-bridging-the-gap-3283633/lite/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion"
+    excerpt: "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),"
+    publishedDateTime: 2023-10-23T16:02:00Z
+    webUrl: "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+    ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 65
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1698076869_untitled-design.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "From Healthcare to Finance: Exploring Real-World Applications of Artificial Intelligence"
     excerpt: "Artificial Intelligence (AI) has swiftly transformed numerous industries, from healthcare to finance, revolutionizing the way we live and work. With its unrivaled ability to process vast amounts of data and identify patterns that elude human perception,"
     publishedDateTime: 2023-10-20T10:35:00Z

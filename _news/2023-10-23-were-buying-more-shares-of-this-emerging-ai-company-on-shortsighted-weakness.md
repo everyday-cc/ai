@@ -7,8 +7,8 @@ originalUrl: "https://www.cnbc.com/2023/10/23/were-buying-more-shares-of-this-em
 webUrl: "https://www.cnbc.com/2023/10/23/were-buying-more-shares-of-this-emerging-ai-company-on-shortsighted-weakness.html"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CNBC
@@ -26,6 +26,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Healthcare Cognitive Computing Market Is Projected To Gain $103.74 Billion By 2032, Growing At A CAGR Of 35%: The Brainy Insights"
+    excerpt: "Some elements contributing to such a large market share are high-tech technology businesses, continuous expenditures in research and development, stricter reimbursement rules, and widespread use of information technology to improve patient care and reduce healthcare costs."
+    publishedDateTime: 2023-10-23T23:59:00Z
+    webUrl: "https://menafn.com/1107290181/Healthcare-Cognitive-Computing-Market-Is-Projected-To-Gain-10374-Billion-By-2032-Growing-At-A-CAGR-Of-35-The-Brainy-Insights"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?165590"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "xYbOAoSozf82bRMcHlJDBgTNSLf3UheFjQWn5kNZhPwJGrDGU66Hur0zDajjm/8GXFeYzqPUvZA1zEl97Dfv9jrmsByH6CHWOivEomdXNw/O/iZuztcMOTgzW6BITJncg9TuJFWLoWQ+9MD990hcMhB/QfhBZ8Jyd8SIua0D3MlI9VR2qDDAtGlJsQxQRItFV4riwwfOvdEQbpWum0m98zDyQoJ6ydICF/Qxix0sh8s0HTUy4eBhYxKbNl8wAG+sIbQWHxElZl7cAKFDDFoTcLvynR0+T5GdqOMVwHy262hS3R4P315W9jWhhtOGTmwpfUOZ5SxisWzyulKeq4y4WeBahCEKv/dIh3gR61v+eLXhNb6kxeivXWzxLhC4FvzuRhMI1unaalG6ig/gkPe8xlbB7TMjUte7iESGQUrpiuW8Gm0xd6x3sgBSU78q7qvRI7XJTrYigqJOsb7TtBeCG+5Fd8rPJbwl0kZd2SVFiK+hjB3onmyejX9LTMq4qmHcEsQkrqQwBDB7VXYcX4bTsA==;vOYCmfvMgUUCq1KvTGMUGg=="
 ---

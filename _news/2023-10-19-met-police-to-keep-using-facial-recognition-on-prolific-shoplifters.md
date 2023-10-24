@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-london-67149222.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-67149222.amp"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Met police using facial recognition to catch 'most frequent' shoplifters in London"
-    excerpt: "This initiative comes as a response to the increasing issue of shoplifting, driven by organized crime and rising living costs. Met Commissioner Mark Rowley referred to the results as 'game-changing"
-    publishedDateTime: 2023-10-19T08:10:00Z
-    webUrl: "https://www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html"
-    ampWebUrl: "https://www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 53
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Untitled-design-2023-10-19T133956.511.png"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Met Police roll out facial recognition technology to tackle London's worst shoplifters"
     excerpt: "She added: \"This technology threatens our privacy and stifles free speech - and we should all be worried about moves to expand its reach. \"We're also concerned about the creep of facial recognition technology into other areas of policing. \"Let's be clear ..."
     publishedDateTime: 2023-10-20T08:29:00Z
@@ -137,15 +121,6 @@ related:
       name: Business Matters
       domain: bmmagazine.co.uk
     quality: 16
-  - title: "Met Police reveal massive crackdown on shoplifters with facial recognition technology rolled out"
-    excerpt: "HUNDREDS of Britain’s most prolific shoplifters are being identified by cutting-edge facial recognition technology, it can be revealed today. A pilot project using CCTV supplied by 12 leading"
-    publishedDateTime: 2023-10-19T09:02:00Z
-    webUrl: "https://www.thesun.ie/news/11511789/met-police-crackdown-on-shoplifters-with-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 6
 
 secured: "2y3WHf5I5k6vjCw1U4JBM0lWE2NH4AeHWNJQDtDyKjWArUkI6bCI4nbJXQdYyYhShkgRiGjjmlCmHe56RqHQdU4czFaCKG+bquEB5xFHaQcRI6U8qy114Iuf8G9+I1RX3Jb4oE6M49iPZV3XyTHFcnL97wOq4CL5U++uzFzJ23YNr/F5EqPsKT84yvwlCtTP4hgzEqq6bR+ynvEK5SgURatBE3mK5FZN4JuuChDFcEK7YXVqSOWaq6pml1GAzqvFI2/tKl/v2gp1ta2FmGUE9nHgy9Nut5zLwzovC201IXZBvgMqDsyZXSeTI/dqid3mMSiJ+fr8QCFO/sbpjHv+KABZPRR2AqdnHrFd6IIcbyci8Pl3mQ3MvOyn6Ihtz5Ix0jUBtRJqgE5IE4UEcTdLdstiWqx1GAvan9HARDZYAMze0bHmP8DTOc2gJ3GQ5iNM//5snwty6lslNSwc/LXG45CbfVRUUGVtUcuzfWcAz7AwCREFzkg7K5ayZi3k0f5SIK8rGGN+aLgODFTx/O4nHw==;VR9TElCdIfejBPrM6wf4aA=="
 ---

@@ -34,22 +34,6 @@ related:
         width: 1199
         height: 630
         isCached: true
-  - title: "Fugees rapper Pras Michel's ex-lawyer botched his fraud trial by using AI for closing arguments, his new legal team says"
-    excerpt: "Michel's ex-attorney, David Kenner, was quoted in a May product release saying he used a new AI program to craft legal defense, per Michel's new team."
-    publishedDateTime: 2023-10-19T07:19:00Z
-    webUrl: "https://www.businessinsider.com/pras-michel-lawyer-artificial-intelligence-closing-argument-david-kenner-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/pras-michel-lawyer-artificial-intelligence-closing-argument-david-kenner-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pras-michel-lawyer-artificial-intelligence-closing-argument-david-kenner-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/6530bdb1211def8ed838d9de?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "fcyipXtrUjTWhCfQl1KT5PO7fm4teRwLLjOHGDOPu4OaCDO4RPassOy/E4kpjBYZIDV0hVXleOTOarllJC4Ask19b0ZMa90u9sA6J7WJG9UadU0HbHKGpQqfex30Ux6hZMlG3eHy0juul+e2SYmQlJprZkqbttzvWbbJfzbISS/KyJZOaiwmNszgVr4KRNXC8sDypzAZ2ywbcKQhgW6/lDbUup4RKab/uqJS1kEATAN60lqEmbyPo4FnWa7tnKBQ+poK8jHHYZydxX0qdgATo1Hjdl0WyUeGdyqOOpgIeYKkRwZGtgcnx7yC/DOrIKs8Hyo47rlCmh2NHLq34CpdL0UEGN0ZYl6dm7OiUsEH4RPOPn0PPhrEzQ9JPTUxVmNy1B7LpzJoq3Zjt+71xPtMemxSF7bfhIPOrBQIbNndQ661F1rSoK35gN9ssq9SRsdbFR5oKKJgPTHdwBVpWGEqW6Cab0gImRjCO2p+Bay3hbYch/SwJDHzhvnZI9D621yJ0oy92MfSQkEjoPrNxkFIPA==;7YeRMkNvHayZmzXjdv+2Mw=="
 ---

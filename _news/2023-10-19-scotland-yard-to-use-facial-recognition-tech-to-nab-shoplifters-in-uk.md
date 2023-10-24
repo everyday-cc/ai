@@ -35,22 +35,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Met police using facial recognition to catch 'most frequent' shoplifters in London"
-    excerpt: "This initiative comes as a response to the increasing issue of shoplifting, driven by organized crime and rising living costs. Met Commissioner Mark Rowley referred to the results as 'game-changing"
-    publishedDateTime: 2023-10-19T08:10:00Z
-    webUrl: "https://www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html"
-    ampWebUrl: "https://www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/met-police-using-facial-recognition-to-catch-most-frequent-shoplifters-in-london-13270192.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 53
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2023/10/Untitled-design-2023-10-19T133956.511.png"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Met Police roll out facial recognition technology to tackle London's worst shoplifters"
     excerpt: "She added: \"This technology threatens our privacy and stifles free speech - and we should all be worried about moves to expand its reach. \"We're also concerned about the creep of facial recognition technology into other areas of policing. \"Let's be clear ..."
     publishedDateTime: 2023-10-20T08:29:00Z
@@ -132,15 +116,6 @@ related:
       name: Business Matters
       domain: bmmagazine.co.uk
     quality: 16
-  - title: "Met Police reveal massive crackdown on shoplifters with facial recognition technology rolled out"
-    excerpt: "HUNDREDS of Britain’s most prolific shoplifters are being identified by cutting-edge facial recognition technology, it can be revealed today. A pilot project using CCTV supplied by 12 leading"
-    publishedDateTime: 2023-10-19T09:02:00Z
-    webUrl: "https://www.thesun.ie/news/11511789/met-police-crackdown-on-shoplifters-with-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 6
 
 secured: "0q4Sv/MRZotY0ijAF/9qrJGrE+gWid9AK6xMPGyFZmMnN0jOGLUJwnVAavRY00UQRzzEXf8/NtVmtLhlAgH9oFC6Hib+b+CrLW7XJnQA1/l9ksMKO8oPsa8jbuXd1c7l+njoNWhdV5CvyRTUc28c7zaSA0YL5iEWAju85D7VNMDiQFGW0jVyQ46FRpmrNFWG0TvymNrHaVqHjvbRHZdirJpKKrVmgSHf6LLvJ89Ql/gWJWr2obx2hRVYd01q5dQPNdas26hDsCnooa9jjXWipfCdS/nO6jpYG0e03w97ptLEng3Z5Uy8AQ3BpStmKrgrbz2l7FGZYEdzm1pKnMhAZTn+2cPnOFOGLwjLehSZt6w=;k1txmgUB2d3T1h86Vg9Y6A=="
 ---

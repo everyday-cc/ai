@@ -35,6 +35,22 @@ related:
         width: 1043
         height: 1043
         isCached: true
+  - title: "Fintech as a Service Provider Wearonize Integrates Onfido’s ID Verification Solution"
+    excerpt: "A Fintech as a Service provider selects Onfido for its AI-powered digital identity solution to streamline and secure customer onboarding."
+    publishedDateTime: 2023-10-24T00:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/10/214758-fintech-as-a-service-provider-wearonize-integrates-onfidos-id-verification-solution/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 37
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/ID-Identification.png"
+        width: 1200
+        height: 1607
+        isCached: true
   - title: "Applications open for Fintech Innovation Lab NY 2024"
     excerpt: "Applications are now open for the FinTech Innovation Lab New York, a 12-week program co-founded by Accenture and the Partnership Fund for New York City that helps early- and growth-stage fintech companies accelerate product and business development through in-depth collaboration with top financial services and venture capital firms."
     publishedDateTime: 2023-10-19T15:19:00Z

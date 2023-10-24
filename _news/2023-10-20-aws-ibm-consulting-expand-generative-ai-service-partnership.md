@@ -82,22 +82,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
-    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
-    publishedDateTime: 2023-10-19T09:08:00Z
-    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
-    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
-        width: 834
-        height: 636
-        isCached: true
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z
@@ -126,16 +110,7 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
 
-secured: "2/alsYaL7h9UYpa04ifoNqa+CAiI2FL+AjTIPOJFMLaG2Fd6hRxh5ph26NeZC7Wpuagiw+vZ4F+UQzndwg/vkKC0Ultu7Z68aD1QN9ZIJVVBAl5eKD7D6kUE8pLWKhaQh932d9AYlV4Dj0YmSHkPuQ9q2flBevuGmF4jHUq5pw4qgi+hH0vnwy7gKyhV6a0iS3mrzEH9MnRYgfPag/9wLiYnDltuK9z84Fn3k8zRePeXwBsLyxFKTEN1G1YCnNUGtLPZtteKR2nQAWsnYcj6spT/R67P2ZvArvw3KbI/9fnIz3KsEKgmXxkmQH13cJjX3KWIOFWkEPK2H6mKE3Ez/brwxV+FzoG3WofS/xEDCU0=;Wi6/0Wu7dUFXVUi0iIcR2w=="
+secured: "gJKnXjj9bNWl1z7DUyuL4aerYdRrKNLSfz2gZkmLZCpeyCeFOHRGpRHsBa5dsQdBMlUo5ql8oWocmk6RS3ZQeP60MuFO+xf0tNhHcy09R5IXIVeahNPbQN/AcgYyd6/aPb89uvnp3+WvsqSGFfaBsArAPdBP3LRTFSzIVbV2uSJFTt+9llBMKXdtlG0w9HaXiY8ScHneQ0+9eZp5CDP1yXubhVkPavk07qylAptCxfn0c7RhWxvUtrVcBgMqN2Phqn4qyenlKL454AlR1kpVM6cndXeJ42PKa0H5RiXyOAc+Vo8mm+Bp0aOdLtUzwz/Op3/A6WZzhF9m1xmIevmrN6wBkwlWImnIZcGZvQgU+9n/x7K2ycDCyQpnZ5T9XD2eH3KYji+Is0tBzoR3LromKILHWV8v8tOtc6OYawuMI+edt8yF0VHbvmfrqBFZa5cXi18kdR/Ih9PWIfJLLOOXtdGd2dHhBrFYB9lut+YbyLU7z/eJrOzrMuG8DbGz24XuSoLu+igupmk1UBb7ItKRkQ==;fgACZGuZbIKaGamb+hdbSA=="
 ---
 

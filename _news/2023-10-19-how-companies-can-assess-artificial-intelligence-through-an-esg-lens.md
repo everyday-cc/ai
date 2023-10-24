@@ -91,22 +91,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
-    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
-    publishedDateTime: 2023-10-19T09:08:00Z
-    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
-    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
-        width: 834
-        height: 636
-        isCached: true
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z
@@ -121,15 +105,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
 
 secured: "WyWvQ3U91F8Cg052vHXm+0Qu+Cd8MKsdswArf7TRmoPsx6DVQBQI+Pd5yL0ruI+nlVuvEvJCDpguUtGsR0OydK8Av7w8JHnbuGLywvcYDrpNdx3pJZ8iC8zo+i+3BWfoiU1sU7EHimr+mGr6NXro4wjnD42Z5X/iSGdwI3RGRXkzeJE576y1Iq5xRofSzSK9xBTVF7I+/eNIRFH07rTMpIYVG2BUo+FhIRwmjlE8AZNEmIWU4nusDZZFFSy0nPBNnPBG3xWDuUMv2zUqu88ylZHlbFS4gfm4W6nOTlNm1iI8Q2sdRlQ4LioXHSa1xrRozazYokEIxeMHUiSxC+wbtFUd5JXgSGV7CpKcldPAGMN0QidjT18Bz6Q8JnY0zDG7iPS7sYlDrimqUL6MUO2si08aQp3Bzxez0X0QCy+t42dyrbFrWNbbzuk4LiLYfyDM86J03H1VKPNVG0j7MxtIQNAShAZs9I/597lU9www2tKckpSIiT4tS42P6cR+42d9MeUanPQuuj1a0CQx/wyamw==;k8/TQd8TdkDEBUaRsh/13A=="
 ---

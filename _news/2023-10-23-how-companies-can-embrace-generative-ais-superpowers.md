@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2023/10/23/how-companies-can-embrace-generative-ais-superpowers/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -81,22 +81,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
-    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
-    publishedDateTime: 2023-10-19T09:08:00Z
-    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
-    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
-        width: 834
-        height: 636
-        isCached: true
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z
@@ -125,15 +109,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
 
 secured: "QaJtbOhZUkz89v4/4FlyZvl4XaI4Uvx5Tv1ag2YTWVIMEOJ1FKXhUM7JAsVfEQl9yx+VfF90z4VFouabTwelSGcifzinghHhuyzBKgZoQppRi1lWjY57hDRzWALCVckI1nAKhKby1VI40hjzbmLfwDLv7x1FdB9QS7b/6I1Zx3dUeLxFM4uP/Z3ypPWsnDNIYKG/yKI6Sbmqy5mXRnVujFLlIHl15zKz7ZKNbAFPr2W+6vzzxTN3+WnAmb08EGkWWVHTdnZtexn+/EVD8/X67+E1s6Bk2BO2xsY0E/WHyeFcwcCVksWM+GlnJ4eO2mTkzrX/pCRH7rEPmITT1cX+uc7H95XObD3to3qCy5PsNLHRzkrISlAcQAHi1AYFWEnLNlo75IAmtcWlhDO1FmdWSnEx3/i+dAC2lomgeudv+SM3MpOL5IGSoi4tmxoxgxPC5pZD2S7doa93elAJlXCZDFSI1B5N5zxp1xoKKOwxP5FUEVN0OiD+mo6KTxPLDBZ1rPg0uhGKHoSc0HFuE0DwfA==;c0jBSyq5D2OWDurbUSyv+Q=="
 ---

@@ -2,6 +2,41 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-07-26-rigetti-and-adia-lab-sign-collaboration-agreement-to-develop-quantum-machine-learning-solution-for-probability-distribution-classification.md",
+      "title": "Rigetti and ADIA Lab Sign Collaboration Agreement to Develop Quantum Machine Learning Solution for Probability Distribution Classification",
+      "excerpt": "Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced that it has signed a collaboration agreement with ADIA Lab, an independent Abu-Dhabi-based institute dedicated to basic and applied research in data and computational sciences.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2023/07/26/9854389.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2023/07/26/9854389.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-07-26T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-07-26-how-ai-is-revolutionising-banking-services-in-rural-areas.md",
       "title": "How AI is revolutionising banking services in rural areas",
       "excerpt": "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across",

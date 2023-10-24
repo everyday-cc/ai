@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3709230/what-ai-wont-replace-in-yo
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3709230/what-ai-wont-replace-in-your-programming.amp.html"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

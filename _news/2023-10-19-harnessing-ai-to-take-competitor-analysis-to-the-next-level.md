@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnes
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/10/19/harnessing-ai-to-take-competitor-analysis-to-the-next-level/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1349
     height: 900
     isCached: true
-
-related:
-  - title: "Eight good news stories about AI"
-    excerpt: "According to Forbes, AI teaching offers numerous advantages, including the ability to act like an \"infinitely patient grandmother, never rushing or giving up and going on to the next thing\". It could also improve retention, by personalising learning to make sure information is going in."
-    publishedDateTime: 2023-10-19T08:06:00Z
-    webUrl: "https://theweek.com/news/technology/960836/good-news-stories-about-ai"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/YET9ERknQjJxaPQwfjv9iM-1200-80.jpg"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "i+bC+igDFUCgoFSpFVv2hga7QP/6TTZD/qXTVFghlsGu3L+LMtGmTzohQQTQhlOfdaYd5got58I3CxoawLEHVH3PLJ7RoizUs97ybA5hRAGSGfA+EGwvz3DxIpagnCe08UrnrF5Tny2+OXPMfKnBNhf8Jn4l1qLdqBgHOZnM3B+22Wwcz1wMmblqIw0Q9S1GkLkOPnMmjizXuMbAjQCf8jZ0z52Pxu8cKKw+jvQ7hZif94qBnOBATftq3O9O6VJqWy5ZSsdQ9Q6gGxbPMGiapA5VwfgoH5J2DF+b0RAzLO4UnKXdANpz22/nWJG5cAK3bX/He76izFH5AkIqibVaCjYWcH+N4gc/ZHAuuw2ILteE0qdoq3TdGhQ997AnJujwxJOutq/Bjh96UluzcUVD6NUQVp4reO72TJse4tu9760f2ocC5zfAPHzRjzZdJMIuAthIafI+ss99c7Ftm6ML2Zztsip1AQ7jP3LPi6ta1g21m/MZcIyqB1wW/2BsodF++Q9KYop5OkO374kPPsstLw==;5aL+Galnk30XWr3K021fmQ=="
 ---

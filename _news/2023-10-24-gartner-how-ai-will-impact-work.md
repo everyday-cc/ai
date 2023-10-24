@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work"
 webUrl: "https://www.pcmag.com/articles/gartner-how-ai-will-impact-work"
 type: article
 quality: 67
-heat: 78
+heat: 79
 published: true
 
 provider:

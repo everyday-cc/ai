@@ -80,22 +80,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Generative AI and the passage from India - how TCS, Infosys and HCLTech perceive gen AI's opportunities"
-    excerpt: "Meanwhile at HCLTech, CEO C. Vijayakumar cites “hundreds of opportunities in emerging areas like gen AI”, some of which have already converted to wins and are in the implementation phase. The firm is also ‘eating its own dog food’ with internal generative AI adoption, he says:"
-    publishedDateTime: 2023-10-19T09:08:00Z
-    webUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities"
-    ampWebUrl: "https://diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/generative-ai-and-passage-india-how-tcs-infosys-and-hcltech-perceive-gen-ais-opportunities?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 45
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-05/india.jpg"
-        width: 834
-        height: 636
-        isCached: true
   - title: "TCS’ Obsession With Generative AI"
     excerpt: "TCS, the IT giant was catching up with generative AI, but now it has gone all in on AI in the last couple of months."
     publishedDateTime: 2023-10-23T06:30:00Z
@@ -124,15 +108,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Language Weaver scales development of generative AI technologies"
-    excerpt: "Language Weaver extends neural machine translation capabilities with large language modelsCHALFONT ST PETER, England--(BUSINESS WIRE)--Language Weaver, a"
-    publishedDateTime: 2023-10-19T09:04:00Z
-    webUrl: "https://www.01net.it/language-weaver-scales-development-of-generative-ai-technologies/"
-    type: article
-    provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 19
 
 secured: "NlGnACVptJCxFcqCX3k9qx1Ir3suzSKX0MXqJN9vvN8y3LM0BVMQwlS7l+UGrsUE7MGwnWi+2t+9pzvcVqdBNJk2UDkvlf+29OB2LGvaJ4m1TFFP9+5AO11KODMOTkQzy+L0HHIlLCNOoUa6r3Md1e7NY/S7Tr0o9+hiXPwMwroewgSvQLjZ4tt8zHlm9GcwDwMrT0mhIx+1qyjp2p8wd4nxUXIbp/V046SuE665eBUmRZ1yBFRGfSLDyUbTE9zFQQQA6QwEz8FhigkSVrv6NVdweSWqw6NgwBHcBT5CkOzbxGAXRRjhS6GmUGxGUB0l/yHB5UAhd2K5gtUxI1xdL9TAuXA7ejTE5B2iwIPyq1WGw5Tlu+Qaacllgpm7Itc+b78WINbfelcVJ7meouRbfTYhV900/3uFct6+OU6ZTq8+t9QKHBmd2u7H83O8Pj1hROGg164CiiaZSisK+oQ7r3MLdvw5ueHDK0rQV34gPVTfYbM27pTNxFM0ePVeJ1VK90bDXhPGbPnmLXSkHt5q5w==;NEHHYTZJYkPr5Nb6kuWQKQ=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Fincover (Fintech Company) is using AI and Machine Learning to boost financial Inclusion"
+    excerpt: "Fincover, a fintech startup based in Chennai, has quickly emerged as one of the DSAs in the Personal Loan space with their extensive use of technologies like Artificial Intelligence (AI) and Machine Learning (ML),"
+    publishedDateTime: 2023-10-23T16:02:00Z
+    webUrl: "https://www.telegraphindia.com/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+    ampWebUrl: "https://www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/brand-studio/how-fincover-fintech-company-is-using-ai-and-machine-learning-to-boost-financial-inclusion/cid/1975036"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 65
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2023/Oct/1698076869_untitled-design.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Minding the SME gap using fintech"
     excerpt: "While regulated in each of the markets they operate, financing platforms do not face the same capital constraints as banks do. However, to succeed in the SME lending space, these fintechs must have three critical capabilities: auto verification of data, nuanced credit underwriting, and sufficient access to private credit."
     publishedDateTime: 2023-10-20T02:52:00Z

@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft to spend $3.2bln on AI in Australia"
+    excerpt: "Microsoft said it will spend A$5 billion, or $3.2 billion, expanding its artificial intelligence (AI) and cloud computing abilities in Australia over two years to improve capacity by 250%. Fiona Jones reports."
+    publishedDateTime: 2023-10-24T00:41:00Z
+    webUrl: "https://www.reuters.com/video/watch/idsc7P?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/65368bb1e4b020a9bcf00815?location=LANDSCAPE"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Microsoft Analyst Bullish On AI Leadership, Retains Caution Given High Interest Rates"
     excerpt: "Also Read: Analysts Are Bullish on Microsoft's Azure and AI Growth Ahead Of Q1 Earnings - Here's Why On this basis, Turits expects an overall in-line Q1. However, he retained some caution given the ongoing high-rate environment, macro concerns expressed in ..."
     publishedDateTime: 2023-10-20T17:24:00Z
@@ -237,6 +251,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/MUXHxJnneKGoPxEjnQjrmS-1200-80.jpg"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Microsoft makes record $5B investment for Aussie AI infrastructure"
+    excerpt: "“They will not only enable a safer and more secure digital economy, but also provide a platform to foster growth and innovation in the era of AI,” he added. Last week, Microsoft announced the general availability of its Azure AI Content Safety ..."
+    publishedDateTime: 2023-10-24T00:45:00Z
+    webUrl: "https://www.arnnet.com.au/article/709226/microsoft-makes-record-5b-investment-for-aussie-ai-infrastructure/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/public_sector_skills_steven_worrall_2.jpg"
+        width: 473
+        height: 315
         isCached: true
   - title: "DCT Abu Dhabi And Microsoft Sign Mou On Generative AI, Cloud Technologies"
     excerpt: "( MENAFN - Dubai PR Network) DCT Abu Dhabi and Microsoft Sign MoU on Generative AI, Cloud Technologies"

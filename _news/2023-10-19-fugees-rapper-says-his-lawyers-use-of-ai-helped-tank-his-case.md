@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/fugees-rapper-case-ai_n_653105c6e4b00565b623000d/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fugees rapper Pras Michel's ex-lawyer botched his fraud trial by using AI for closing arguments, his new legal team says"
-    excerpt: "Michel's ex-attorney, David Kenner, was quoted in a May product release saying he used a new AI program to craft legal defense, per Michel's new team."
-    publishedDateTime: 2023-10-19T07:19:00Z
-    webUrl: "https://www.businessinsider.com/pras-michel-lawyer-artificial-intelligence-closing-argument-david-kenner-2023-10"
-    ampWebUrl: "https://www.businessinsider.com/pras-michel-lawyer-artificial-intelligence-closing-argument-david-kenner-2023-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pras-michel-lawyer-artificial-intelligence-closing-argument-david-kenner-2023-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://i.insider.com/6530bdb1211def8ed838d9de?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Fugees rapper claims lawyer's use of AI wrecked his case, requests new trial"
     excerpt: "Fugees rapper Pras, convicted of conspiracy in April, has filed a motion for a new trial and claims his former lawyer's use of AI wrecked his case."
     publishedDateTime: 2023-10-19T14:26:00Z
